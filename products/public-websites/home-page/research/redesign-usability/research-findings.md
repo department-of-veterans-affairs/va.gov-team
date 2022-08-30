@@ -258,7 +258,7 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 
 1. There were **two accessibility issues** identified during the usability testing:
      1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-     2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *TRY TO REPRODUCE!*
+     2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
 
 ### Content
 8. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
