@@ -70,7 +70,8 @@ If needed/if time:
 
 ### On-site notifications
 
-On hold for My VA redirect launch
+- Internal prod testing
+- Otherwise, on hold for My VA redirect launch
 
 ### Payments V2
 
