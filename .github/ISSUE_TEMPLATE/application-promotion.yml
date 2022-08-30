@@ -8,13 +8,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Please read before continuing**: This issue form is to request promotion of an application to EKS in higher environments.
-
+        :warning: **Please read before continuing** :warning:
+        This issue form is to request promotion of an application to EKS in higher environments.
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
           - GitHub teams to match the read-only and read/write permission sets for the application
-          - Environment-specific directory in the [application-manifests repository](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) under the specified application
-            - **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/<env>`)**
+        
+        :rotating_light: **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/<env>`)**
   - type: checkboxes
     id: acknowledge
     attributes:
