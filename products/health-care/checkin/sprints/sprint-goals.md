@@ -18,6 +18,7 @@ Nira - 5
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Synthesize research (5 Ya-Ching/Nira)
     - Create research report (5 Ya-Ching/Nira)
+    - Close Epic
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - ??? (? Kristen)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
@@ -33,6 +34,7 @@ Zach = 7
 Ya-Ching = ?
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
     - Finish last 2 tickets & pass off to CHIP team (6 Nira)
+    - Close Epic
 - [Change Prototypes from Custom to Sketch Extra Small](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46326)
     - Complete (3 Zach)
 - [Update VA Sketch Cloud and Generate Presentation Links for the Happy Path](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46279)
@@ -43,22 +45,25 @@ Ya-Ching = ?
 #### Engineering Sprint Goals (TENTATIVE) 
 FE = ?
 BE = ?
-- [Kanchana ticket????]()
-    - ???? (x BE)
-- [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
-    - Implement (x FE)
-- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
-    - Make QA change & release (x FE)
 - [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
     - Complete & release when ready (x FE)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
     - Complete & release when ready (x FE)
+- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
+    - Make QA change & release (x FE)
+- [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
+    - Implement (x FE)
+- [Kanchana ticket????]()
+    - ???? (x BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - ??
+    - ?? API ???
 - [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
-    - ??
+    - Break out Metrics by Modality
+    - Measure Repeat Customers
+    - Determine % of Patient Appointments that are within a Half Hour of One Another
+    - Look at higher bounce rates for screen resolutions
 - [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
-    - ??
+    - As many as needed to fill out the Sprint
 
 
 ## 8/24/2022 
