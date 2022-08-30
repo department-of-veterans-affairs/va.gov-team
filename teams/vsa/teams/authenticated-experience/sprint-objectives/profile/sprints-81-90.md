@@ -74,12 +74,11 @@
 **PM**
 
 - Staging review
-- Privacy review
 
 **Design - Christina**
 
 - Updates from QA, if needed
-- UAT (only if there are no outstanding QA/staging review/privacy review updates)
+- Internal UAT (only if there are no outstanding QA/staging review/privacy review updates)
 
 **FE - Adam**
 
@@ -101,10 +100,16 @@
 
 ### Accessibility audit
 
+**PM/Design**
+
+- Go through each item as a team, rate severity and complexity, get tickets created
+- Prioritize tickets
+- Talk about potential solutions
+- Collab kickoff
+
 **Design**
 
-- Complete audit
-- Review with team
+- Begin design
 
 ### Error matrix
 
