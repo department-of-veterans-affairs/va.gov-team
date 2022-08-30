@@ -55,7 +55,7 @@ Before we start, a few things I want to mention:
 
 Awesome, before we begin I want to let you know how the session will go. This session will consist of three tasks that I will ask you to complete. For the first task I will share my screen and grab your feedback throughout the task. Then for the last tasks I will provide you with links to access different prototypes that I will ask you to engage with. I will also ask that you share your screen and narrate your thoughts as you go through the prototypes. 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -84,7 +84,7 @@ We are in the process of designing more personalized features for the chatbot ar
 Are there any other topics not shown for these topics that you would like the chatbot to address? 
 
 
-## Task: [Sign-in Assistance Flow] - 10 minutes
+## Task: [Sign-in Assistance Flow] - 15 minutes
 
 For the next portion of our session, I’m going to share a link with you where you will engage with a proposed flow for the chatbot presenting you with sign-in content. As you navigate through the demo, I will periodically ask you questions to gain your feedback. Again, I ask that you narrate your thoughts as you engage with the demo. Please open a web browser of your choice and follow the link provided. I am also going to ask you to share your screen for this portion of the session.
 
@@ -250,7 +250,7 @@ https://xd.adobe.com/view/6835babf-7f16-409d-9f14-84732ac88721-3d66/?fullscreen
 - Do you have any questions for me?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 3 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
