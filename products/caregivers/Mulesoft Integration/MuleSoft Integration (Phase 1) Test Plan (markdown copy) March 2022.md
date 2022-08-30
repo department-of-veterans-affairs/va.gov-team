@@ -12,7 +12,7 @@ VA.gov team will integrate and smoke test in the Pre-prod environment and valida
 The final credentials for all environments will be available when the implementation is ready for Pre-prod (staging) and provided to the VA.gov team via encrypted email. 
 
 ### API Test Team:
-- Lihan Li – VA.gov 
+- Kevin Musiorski – VA.gov 
 - Dillo Raju – VA.gov 
 - Igor Khurgin – MuleSoft
 - Jubilee Miremba – MuleSoft 
@@ -20,13 +20,14 @@ The final credentials for all environments will be available when the implementa
 - Ramesh Dugar – Acumen
 - David Wald – OIT 
 
+
 ### Testing and Deployment Dates:
 |Test & Deploy Events|Start Date|Finish Date|Comment|
 |-------------|-------------------|------------------|----------------|
-|Techy Testing by VA.gov and CARMA|8/29/2022|9/16/2022| |
-|Pre-prod Testing by the business and VA.gov|9/19/2022|9/21/2022| |
-|Business Go/No-Go decision|9/21/2022|9/21/2022| |
-|Production Deployment|10/01/2022|10/01/2022| |
+|Techy Testing by VA.gov and CARMA|2/17/2022|2/22/2022| |
+|Pre-prod Testing by the business and VA.gov|2/23/2022|2/28/2022| |
+|Business Go/No-Go decision|2/28/2022|2/28/2022| |
+|Production Deployment|3/01/2022|3/01/2022| |
 
 ### API Test Type Validation:
 Service level integration covers the validation of functional, basic sanity, performance, security, and error handling testing. Postman has been chosen as the API testing tool to be used to simulate the client to test transport functions and performance.  
