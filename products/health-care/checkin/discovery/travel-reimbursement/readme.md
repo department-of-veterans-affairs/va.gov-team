@@ -1,6 +1,7 @@
 # Travel Reimbursement Discovery Findings 
 
 ### Quick Links 
+[Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/meeting-notes.md)
 
 [Running List of Answers to Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/answers-to-questions.md)
 
