@@ -33,20 +33,19 @@ In most cases, it is simply a form for one's records. However, some states still
 The following release is the closest to completion: 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 
-### We've done significant planning + conversations around opt-in: 
-* [Paperless delivery opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
-    * Collaborative Teams
+### Next Steps for 1095-B 
+* [Next steps for new team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf)
+    * Launch MVP - [staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
+    * Collaborative build of opt-in to digital delivery
         * MyVA	Samara Strauss & Liz Lanz
         * HEC 	Joshua Faulkner
         * VA Profile	Micheal Richard 
         * VA Notify	Beverly Nelson
-
-### Future product iterations to consider:
-* [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
-    * POC - Randi Hecht (Sitewide)
-* Digitalized correction of document
-* Multi-year retrieval
-* [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
+    * [Requisition wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
+        * Sitewide   Randi Hecht
+    * Digitalized correction of document
+    * Multi-year retrieval
+    * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
 ## Legal 
 * [Request for legal review (Opt-in) Draft v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Legal%20Review%20request%201095-B%20Opt%20-in%20to%20paperless%20delivery.pdf)
