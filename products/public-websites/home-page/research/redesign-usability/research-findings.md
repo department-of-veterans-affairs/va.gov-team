@@ -183,9 +183,11 @@ Below is some specific feedback on using search:
      2. Only the search box
      3. A combination of some of the above but usually not all
 
-**Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who used each area of the page. 
-- [INSERT IMAGE](TBD) 
-- [INSERT IMAGE](TBD) 
+**Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the new "sign in or create account" button. No one clicked on the Vantage blog promo. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who used each area of the page. 
+
+![home-pg-areas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/home-pg-areas.png)
+    
+![home-pg-clicks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/home-pg-clicks.png)
    
 **4 participants didn't notice *Common tasks*, but many others used these links.** Participants suggested adding more items to the list, including mental health, change address, message doctor, burial info, and the most frequent searches.
 
@@ -209,7 +211,9 @@ Below is some specific feedback on using search:
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. **4 tasks were completed successfully by only half (50-60%)** of those who tried them. 
 
-A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE). Participant success rates were *not* correlated by participant age, mobile *vs.* desktop, or experience with VA.gov.
+A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE). Participant success rates were *not* correlated by participant age, mobile *vs.* desktop, experience with VA.gov, or whether the task was about learning/applying vs. managing benefits.
+
+![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/task-success%26ratings.png)
 
 For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
