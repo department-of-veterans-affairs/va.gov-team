@@ -9,10 +9,9 @@
 6. [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#6---usability-research)
 7. [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#appendix)
 
-## 1 - Business Research (Public Contact staff and web editors)
+## 1 - Business Research (Office of Strategic Engagement)
 
 - [Research Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5872)
-- Research folder
 
 ### Team
 - Dave Conlon (lead)
