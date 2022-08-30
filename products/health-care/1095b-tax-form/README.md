@@ -33,7 +33,7 @@ In most cases, it is simply a form for one's records. However, some states still
 The following release is the closest to completion: 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 
-### Next Steps for 1095-B 
+## Next Steps for 1095-B 
 * [Next steps for new team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf)
     * Launch MVP - [staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
     * Collaborative build of opt-in to digital delivery
