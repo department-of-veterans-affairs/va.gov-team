@@ -87,5 +87,6 @@ The CMS Facility research team will use MS Outlook to book time with the partici
 * Research guide writing and task development: Denise Eisner
 * Participant recruiting & screening: Dave Conlon (david.conlon@va.gov) and MVP facility business contact
 * Project point of contact: Dave Conlon
+* Observers: TBD
 * Note-takers: Dave Pickett (dave.pickett@va.gov, Aslan French (aslan.french@va.gov) 
 
