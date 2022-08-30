@@ -4,25 +4,21 @@
 ### 2-3 days before the session:
 - [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - [ ] Complete any project-specific setup tasks for this study
-### Session checklist:
-- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
+
+### Day of the session:
+- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+### Starting the session:
 - [ ] In the Attendees section, make sure everyone except the participant is on mute.
 - [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
 - [ ] Check your [screensharing setup] and share permissions for participants.
-- [ ] Ensure participant has the link to the Figma prototype
-- [ ] Ensure participant has Zoom downloaded on their mobile device
-- [ ] When the participant is ready, begin the session with the following intro*
-
-### Project-Specific Setup
-* Participants should have the Zoom application downloaded on their phone
+- [ ] Ensure participant has Zoom downloaded on their mobile device:
   * [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
   * [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
-* Figma Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
+- [ ] When the participant is ready, begin the session with the following intro*
 
-### When the participant joins:
+## Introduction (5 minutes)
 - Thanks so much for joining today! My name is Holly, and [notetaker name] is here taking notes—it's very nice to meet you. 
 - Today we're going to talk about the VA mobile app. Our discussion will help the team understand how to improve the app for Veterans in the future.
 - I have a couple other colleagues who would like to observe and take notes during our session today. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
@@ -32,21 +28,19 @@ Slack for real-time feedback from observers.
   * Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
   * Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-## Introduction (5 minutes)
 * Before we get started, there are a few things I'd like to mention:
-  * There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the mobile app and make it work better for everyone.
-  * There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
-  * This entire session should take about 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-  * We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a prototype on your mobile phone and share your phone screen with us. The prototype is a simulation of how we think the mobile app will work in the future. Since it's a simulation and we didn't build it yet, you'll notice that some of the parts work, and some don't. When we get to this part, you can interact with it the same way you'd interact with any other app, and I'll direct us if we run into any areas that don't work. Since it's a simulation, none of the information is real and none of it will affect your actual VA information or benefits.
-  * Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
-  * **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
-  * Does that all make sense, and sound okay to you?
-  * Great! Any questions before we continue?
-  * Ok, I'm going to hit the record button now. 
+  * **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+  * **There are no right or wrong answers**, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the mobile app and make it work better for everyone.
+  * **There’s no expectation to provide any personal information.** Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+  * **We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a prototype on your mobile phone and share your phone screen with us.** The prototype is a simulation of how we think the mobile app will work in the future. Some areas of the prototype will be tappable, and some will not. When we get to this part, you can interact with it the same way you'd interact with any other app, and I'll direct us if we run into any areas that don't work. Since it's a simulation, none of your actions will affect your actual VA information or benefits.
+  * **If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
+   * **Finally, is it ok if I record the audio of our session today?** Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after. 
+  * Does that all make sense, and sound okay to you? Any questions before we continue?
+     * If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 *Start recording.*
 
-  * Is it ok if we record this session?
+  **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Section 1: Warm-Up Questions (5 minutes)
 * Before we look at the app, let’s start with a few warm-up questions.
