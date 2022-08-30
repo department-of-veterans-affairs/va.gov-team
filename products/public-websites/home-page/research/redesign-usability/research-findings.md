@@ -64,7 +64,7 @@ In this research, we were primarily interested in the following areas of the hom
 - VAntage Point blog promo
 
 # Methodology 
-We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then will be given some **Veteran top tasks** (per [Veteran Top Tasks Unmoderated Survey findings from June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md) **as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Common tasks" section of the redesigned home page, while others were not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign with the baseline (current design on Production). 
+We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then will be given some **Veteran top tasks** (per [Veteran Top Tasks Unmoderated Survey findings from June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)) **as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Common tasks" section of the redesigned home page, while others were not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign with the baseline (current design on Production). 
 
 Participants were asked to complete some tasks based on which VA benefits they had experience with, per their responses to questions at the beginning of the session. **Each participant did a subset of the full list of 20 tasks in the conversation guide**, and for each, we recorded whether they were successful and also their ease rating on a scale from 1-5. Over the course of the sessions, we tracked how many participants completed each task and prioritized tasks that hadn't been completed by as many participants yet in order to get feedback on each task from at least 4 participants (we surpassed this goal by ending up with each task completed by at least 6 people).
 
@@ -211,9 +211,11 @@ Below is some specific feedback on using search:
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. **4 tasks were completed successfully by only half (50-60%)** of those who tried them. 
 
-A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE). Participant success rates were *not* correlated by participant age, mobile *vs.* desktop, experience with VA.gov, or whether the task was about learning/applying vs. managing benefits.
+A summary of the task completion and success rates for each task is shown below. Participant success rates were *not* correlated by participant age, mobile *vs.* desktop, experience with VA.gov, or whether the task was about learning/applying vs. managing benefits.
 
 ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/task-success%26ratings.png)
+
+In comparing task success rates with last year's baseline wayfinding study, we see that 3 tasks improved with the home page redesign, but the success of 2 tasks descreased: Message your doctor, and Add a spouse.
 
 For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
