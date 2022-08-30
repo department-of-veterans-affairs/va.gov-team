@@ -64,28 +64,19 @@ If needed/if time:
 
 ### My VA redirect
 
-### My VA redirect
-
 - **Monday, 9/12**: Launch to 100%
 - Monitor analytics through launch
 - Update documentation
 
 ### On-site notifications
 
-Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
-
-- Launch go/no-go
-- Launch to 25%
-- Launch to 50%
-- Monitor analytics through launch
+On hold for My VA redirect launch
 
 ### Payments V2
 
 **PM**
 
-- QA go/no-go
-- Analytics request
-- Release plan
+- QA request (QA slated for sprint 84, which starts 10/5)
 
 **Design**
 
@@ -113,6 +104,18 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 - Launch to 25%
 - Launch to 50%
 - Monitor analytics through launch
+
+### Payments V2
+
+**PM**
+
+- QA go/no-go
+- Analytics request
+- Release plan
+
+**FE**
+
+- Finish FE build
 
 ## Sprint 84 (10/5 - 10/18)
 
