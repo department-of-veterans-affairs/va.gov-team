@@ -60,12 +60,6 @@ Add links to platform's research plan and conversation guide
 - [ ] Additional edits to artifacts
 - [ ] PO has approved finalized artifacts for sending to Platform Research Review cycle
 
-## Acceptance Criteria
-- [ ] Testable_Outcome_X
-- [ ] Testable_Outcome_Y
-- [ ] Testable_Outcome_Z
-- [ ] Requires design review
-
 ### CMS Team
 Please check the team(s) that will do this work.
 
@@ -76,8 +70,6 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Public Websites`
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
-
-**Labels:** 
 
 # Template name: Research Recruitment
 **About:** Use this template when blank
