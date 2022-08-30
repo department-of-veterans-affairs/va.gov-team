@@ -2,7 +2,7 @@
 
 ### Quick Links 
 [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/meeting-notes.md)
-
+[Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/decision-register.md)
 [Running List of Answers to Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/answers-to-questions.md)
 
 [Travel Reimbursement Findings from Interview with VA Bay Pines Healthcare System ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/bay-pines-interview-notes.md)<br>
