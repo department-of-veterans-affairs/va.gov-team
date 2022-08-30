@@ -32,7 +32,7 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 # Research Questions
-*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
+*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants did NOT sign in during the sessions).*
 1. Are ALL participants able to easily complete tasks from the home page? *("easily" = being able to figure out where to go and not get stuck)*
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
 3. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
@@ -57,16 +57,16 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 
 ## Areas of focus
 In this research, we were primarily interested in the following areas of the home page as used in task completion:
-- Login/signup CTA
-- Common task list
-- Search
+- The new "Sign in or create an account" CTA
+- Common tasks list
+- The new Search box
 - Benefit hubs
 - VAntage Point blog promo
 
 # Methodology 
-We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then will be given some **Veteran top tasks** (per [Veteran Top Tasks Unmoderated Survey findings from June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)) **as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Common tasks" section of the redesigned home page, while others were not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign with the baseline (current design on Production). 
+We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given some **Veteran top tasks** (per [Veteran Top Tasks Unmoderated Survey findings from June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)) **as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Common tasks" section of the redesigned home page, while others were not. For the 5 tasks that were also used in last year's baseline wayfinding research, task completion rates were compared to assess the home page redesign with the baseline (which is the current home page on Production). 
 
-Participants were asked to complete some tasks based on which VA benefits they had experience with, per their responses to questions at the beginning of the session. **Each participant did a subset of the full list of 20 tasks in the conversation guide**, and for each, we recorded whether they were successful and also their ease rating on a scale from 1-5. Over the course of the sessions, we tracked how many participants completed each task and prioritized tasks that hadn't been completed by as many participants yet in order to get feedback on each task from at least 4 participants (we surpassed this goal by ending up with each task completed by at least 6 people).
+Participants were asked to complete some tasks based on which VA benefits they had experience with, per their responses to questions at the beginning of the session. **Each participant did a subset of the full list of 20 tasks in the conversation guide**, and for each, we recorded whether they were successful and also their ease rating on a scale from 1-5. Over the course of the sessions, we tracked how many participants completed each task and prioritized tasks that hadn't been completed by enough participants yet in order to get feedback on each task from at least 4 participants (we surpassed this goal by having each task completed by at least 6 people).
 
 <details>
   <summary>Click to see the list of ALL 20 TOP TASKS and when they were asked</summary>
@@ -137,7 +137,6 @@ FOR EVERYONE
 
 
 # Key Findings
-## Navigation
 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. 
 
 1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** 
@@ -149,14 +148,13 @@ FOR EVERYONE
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
 1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
 
-## Content
 1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
 
 
 # Details of Findings 
 
-## Navigation
-1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. We observed 4 distinct **browse *vs.* search usage patterns** among the participants:
+## 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**
+We observed 4 distinct **browse *vs.* search usage patterns** among the participants:
      1. More than a third of participants (37%, or 7 of 19) **browsed exclusively** and never used search to complete tasks.
      1. More than a third of participants (37%, or 7 of 19) **started off browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
      1. Only our youngest participant **searched exclusively** to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.) The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on page he went to, rather than browsing on the home page.
@@ -176,7 +174,8 @@ Below is some specific feedback on using search:
 
 > "Getting used to using search...working pretty good...autofill function...seems intuitive" (p4). 
    
-1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
+## 1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it** 
+Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
      1. Only the *VA Benefits and Health Care* megamenu in the header
      1. Only *Common tasks* and *Other search tools*
      1. Only the benefit hubs
@@ -206,6 +205,7 @@ Below is some specific feedback on using search:
 
 **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
+## Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone*, and 4 were completed by *only half* of those who tried them
 1. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. **Each of the top 20 tasks tested in this research was attempted by 6-10 participants** with varying degrees of success:
      1. **9 tasks (almost half) were completed successfully by *everyone*** who tried them, some more quickly than others.
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
@@ -238,11 +238,13 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - Message your doctor (83% completed successfully)
 - Check/update education benefits (71% completed successfully)
 
-1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
-     1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
-     2. One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
+## 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** 
+1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
+ 2. One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-3. Several participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened. **Participants expect to see all dropdown options and select one before corresponding content is opened.** One participant wanted to see the dropdown options but skipped health care because it was already open. A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. In addition, this interaction was confusing for our pilot participant who uses a screen reader.
+## 3. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
+When the dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. 
+**Participants expect to see all dropdown options and select one before corresponding content is opened.** One participant wanted to see the dropdown options but skipped health care because it was already open. A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. In addition, this interaction was confusing for our pilot participant who uses a screen reader.
 
 1. We heard some additional usability feedback on the home page and other VA.gov pages:
      1. One participant suggested removing the 3 photos of Veterans because they "don't do anything" (p14)--i.e, you can't interact with them.
@@ -260,17 +262,18 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
      1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
      2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
 
-### Content
-8. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
-     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said it should be featured more prominently on the page, and some wanted to see how VA is helping. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts.
+
+## 8. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
+During the post-task interview, participants were asked about it, and it was interpreted in various ways:
+1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said it should be featured more prominently on the page, and some wanted to see how VA is helping. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts.
      
-     2. **Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there at all because it had nothing to do with the homelessness benefit information.**
-     4. Two participants recognized the Vantage box as news, which they didn't care to look at on the home page. Two different participants suggested showing news articles in a rotating carrousel so they might be enticed to click on one.
-     5. **One participant said they thought it was a banner ad and so ignored it.**
-     1. Two participants said they didn't know what "PIT Count" means (it's "Point In Time" count). 
-     1. One participant thought the picture looked staged and also misleading because it appears to be about food, not housing.
-     1. One participant said that the homeless information isn't not that useful to anyone in the Philippines because they have no access to these programs overseas.
-     3. **When asked what other types of content should be shown in this section, several participants said they wanted information about recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, or specific VA benefits (e.g., education, disability/claims, housing loans, local Veterans homeless shelters or mobile assistance units).** 
+2. **Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there at all because it had nothing to do with the homelessness benefit information.**
+4. Two participants recognized the Vantage box as news, which they didn't care to look at on the home page. Two different participants suggested showing news articles in a rotating carrousel so they might be enticed to click on one.
+5. **One participant said they thought it was a banner ad and so ignored it.**
+1. Two participants said they didn't know what "PIT Count" means (it's "Point In Time" count). 
+1. One participant thought the picture looked staged and also misleading because it appears to be about food, not housing.
+1. One participant said that the homeless information isn't not that useful to anyone in the Philippines because they have no access to these programs overseas.
+3. **When asked what other types of content should be shown in this section, several participants said they wanted information about recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, or specific VA benefits (e.g., education, disability/claims, housing loans, local Veterans homeless shelters or mobile assistance units).** 
 
 > "Why would I scroll all the way down to homelessness to get to the news?" (p4).
 
@@ -283,10 +286,6 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 > "I hate the photograph--What's in the bag? Getting free food? Not housing assistance but food assistance" (p14). 
 
 
-
-3. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
-
-
 ## Other Findings
 1. One ex-pat Veteran would like the "Use my location" link in the "Find a VA Facility" tool to work in the Philippines (which has the only VA offices outside the US) by directing people to the Manila clinic and regional offices. "Use my location" appears to work only in the US.
 1. A few participants looked at the footer, and their individual feedback included the following:
@@ -297,7 +296,7 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 > "I'm not going to read through that list" (p19).
 
 
-### Feedback for VA
+## Feedback for VA
 
 We heard some feedback specifically for VA, which is listed below but not analyzed because it's outside the scope of this study:
 1. When you're signed into VA.gov and need to go to MHV, it's "frustrating and aggravating" that you have to log out of VA.gov and then sign into MHV.
@@ -346,10 +345,12 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/conversation-guide.md)
+- Home page that was tested
 
 ## Tools used for Synthesis
 
 [Synthesis spreadsheet]()
+[Visualization slides]()
 
 
 ## Who we heard from 
