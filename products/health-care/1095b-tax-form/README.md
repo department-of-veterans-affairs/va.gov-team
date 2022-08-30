@@ -33,7 +33,7 @@ In most cases, it is simply a form for one's records. However, some states still
 The following release is the closest to completion: 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 
-We've done significant planning + conversations around opt-in: 
+### We've done significant planning + conversations around opt-in: 
 * [Paperless delivery opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
     * Collaborative Teams
         * MyVA	Samara Strauss & Liz Lanz
@@ -41,7 +41,7 @@ We've done significant planning + conversations around opt-in:
         * VA Profile	Micheal Richard 
         * VA Notify	Beverly Nelson
 
-Need to be done after (or with) opt-in:
+### Need to be done after (or with) opt-in:
 * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
     * POC - Randi Hecht (Sitewide)
 * Digitalized correction of document
