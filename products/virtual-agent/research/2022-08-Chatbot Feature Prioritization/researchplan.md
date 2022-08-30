@@ -56,7 +56,7 @@ This usability study will be conducted remotely via Zoom with participants and w
 
 ### Research materials
 Moderated usability study materials:
-  -   Link to conversation guide [here](https://docs.google.com/document/d/1vdcnOlphOmF7gVGmndES-qG0_X7rBuq76Y1NWbwob0w/edit#heading=h.dsmb8jhc4ctr)
+  -   Link to conversation guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2022-08-Chatbot%20Feature%20Prioritization/conversation-guide.md)
   -   Link to MURAL [here](https://app.mural.co/t/thoughtworksclientprojects1205/m/thoughtworksclientprojects1205/1658238219245/d4609587a8e868602493339020264416ce596ae9?sender=ua6e7981a7dc75a15fce02300)
   -   Link to Sign-in Assistance prototype [here](https://xd.adobe.com/view/97fc85e1-1c8e-4b91-beae-a5fdfef5838a-c2af/?fullscreen)
   -   Link to Problem Escalation prototype [here](https://xd.adobe.com/view/18d9aad7-ffa5-412a-a221-95818509886e-4d8a/?fullscreen)
