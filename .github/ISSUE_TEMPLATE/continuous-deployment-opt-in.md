@@ -1,3 +1,12 @@
+---
+name: Continuous Deployment Opt In
+about: Continuous deployment opt in per app.
+title: Continuous Deployment Opt In for <App>
+labels: team-platform-release-tools
+assignees: laineymajor, theodur
+
+---
+
 ## General Information
 - This is only eligible for apps on the allowlist ([apps without cross-app imports](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/cross-app-import-report)).
 - Detailed developer [documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment) can be found here.
