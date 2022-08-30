@@ -340,7 +340,7 @@ We heard some pain points about VA in general, which is included below but not a
      3. Remove the "Yellow Ribbon" link because a lot of people don't know what it is, and it's confusing to have a second education link.
 6. **Consider removing the "Sign in or create account" button** because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link for doing VA health care tasks.
 7. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, Other search tools, and Common tasks.
-8. Consider changing the megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+8. Consider changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
 9. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
 10. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
