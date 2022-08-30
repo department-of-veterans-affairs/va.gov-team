@@ -19,14 +19,14 @@ body:
         - User Surveys
     validations:
       required: true
- - type: input
+  - type: input
     id: start-date
     attributes:
       label: Date Range Start
       placeholder: MM-DD-YYYY
     validations:
       required: true
- - type: input
+  - type: input
     id: end-date
     attributes:
       label: Date Range End
