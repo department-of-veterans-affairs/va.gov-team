@@ -215,7 +215,7 @@ A summary of the task completion and success rates for each task is shown below.
 
 ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/task-success%26ratings.png)
 
-In comparing task success rates with last year's baseline wayfinding study, we see that 3 tasks improved with the home page redesign, but the success of 2 tasks descreased: Message your doctor, and Add a spouse.
+In comparing task success rates with last year's baseline wayfinding study, we see that 3 tasks improved with the home page redesign, but the success of 2 tasks unfortunately decreased: *Message your doctor*, and *Add a spouse*.
 
 For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
