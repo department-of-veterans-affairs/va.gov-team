@@ -35,11 +35,10 @@ The following release is the closest to completion:
 
 We've done significant planning + conversations around opt-in: 
 * [Paperless delivery opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
-* Collaborative Teams
-    * POCs:	
+    * Collaborative Teams
         * MyVA	Samara Strauss & Liz Lanz
         * HEC 	Joshua Faulkner
-        * VA Profile	Micheal Richard
+        * VA Profile	Micheal Richard 
         * VA Notify	Beverly Nelson
 
 Need to be done after (or with) opt-in:
