@@ -69,7 +69,7 @@ This work especially maps to the *taking care of myself* part of the Veteran jou
 * When users review the summary of their entries, do they understand how to edit/change it?
 * What do users expect to happen next, when they select continue?
 
-### 3. Validate that the details displayed are helpful to completing the form. 
+### 3a. Validate that Veterans understand opting into the Appeals Modernization Act
 * Do veterans understand the AMA language presented to them?
     * If yes, what is their understanding?
     * If not, what do they not understand?
@@ -77,6 +77,14 @@ This work especially maps to the *taking care of myself* part of the Veteran jou
     * If they don’t?
     * Is there any important information missing?
     * What do they expect to happen when they continue?
+
+### 3b. Validate that Veterans understand their duty to assist by providing evidence
+* Do users understand the step of the form they are in?
+* Do users understand the language of evidence needed?
+   * If yes, what is their understanding?
+   * If not, what do they not understand?
+* What do they think will happen if they check I certify?
+   * If they choose not to check it?
 
 ### 4. Validate that the pieces of new and relevant evidence presented are what users need to get a favorable decision.
 * Do users understand the step of the form they are in?
@@ -125,8 +133,7 @@ We believe Veterans will be able to achieve a more favorable outcome by submitti
 We'll conduct remote usability testing over Zoom using a prototype. This method will enable us to observe participants attempting to file a claim with clear objectives given to them. We will plan to test in production with a screen reader user before launch since that is a limitation of testing with a prototype.
 
 ## Research materials 
-Link to conversation guide
-
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/conversationguide.md)
 
 ## Links to prototype
 [Supplemental Claims mobile experience](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=70%3A5676&scaling=scale-down&page-id=10%3A1697&starting-point-node-id=70%3A5676)
