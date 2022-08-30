@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **:warning:Please read before continuing**   
+        :warning: **Please read before continuing** :warning:
         This issue form is to request to onboard a new application to EKS in `dev`.
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
