@@ -18,12 +18,20 @@ Thanks for joining us today! My name is Ciera I will be walking you through this
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **This entire session should take about 1 hour.** 
+    -  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** 
+    - We are not testing your ability. 
+    - We just want to improve these tools to better meet Veteran's needs. 
+    - I will not be offended by any opinions you express, and I welcome your feedback.
+- **You'll be interacting with a prototypes and a demo tool.** 
+    - This is a demo tool that may not function exactly the way you expect. 
+    - Some areas of the prototype will be clickable, and some will not. 
+    - Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- **Are you comfortable if I record my screen and audio as we talk today?** 
+    - We use the recordings to confirm that we have captured your opinions accurately. 
+    - The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
 
 *Start recording.*
 
@@ -91,8 +99,9 @@ You want to print your list of appointments to help your caregiver keep track of
 - _Does the participant select print option on page_
 
 ## Scenario 4: - 5 minutes
-You remember requesting a phone appointment with your primary care provider, and want to check that you’ll still be available for the times that you had requested. How would you do that from here?
+You want to check the status of an appointment you requested. How would you do that from here?
 
+You want to check the status of an appointment you requested. 
 **Follow up:** What are your thoughts on this page.
 
 #### Things to watch for:
@@ -142,9 +151,6 @@ While youre on this page, I wanted to talk a bit about what you see here.
 ## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usability research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
