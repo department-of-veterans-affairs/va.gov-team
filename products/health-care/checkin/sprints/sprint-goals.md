@@ -15,6 +15,7 @@ Nira - 5
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish report (2 Ben)    
     - Get Questions Answered (2 Ben)
+    - Update workflow?
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Synthesize research (5 Ya-Ching/Nira)
     - Create research report (5 Ya-Ching/Nira)
@@ -87,6 +88,8 @@ BE = ?
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Create the Optimal Workshop Survey (5 Kristen)
     - Create Recruitment Email (5 Kristen)
+- Participate in CERNER Interviews (added after Planning)
+    - Kristen
 
 #### Design & Content Sprint Goals 
 Zach - 7
