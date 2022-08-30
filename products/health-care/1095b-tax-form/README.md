@@ -33,6 +33,24 @@ In most cases, it is simply a form for one's records. However, some states still
 The following release is the closest to completion: 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 
+## Operations
+
+### Incident response
+
+[Incident response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/incident-response-plan.md)
+
+### Annual updates
+
+The 1095-B is a yearly form, and may require annual updates. These are outlined in our [product playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/product-playbook.md)
+
+## Engineering information
+
+* [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
+* [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
+* [Sequencing diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
+* API endpoint document
+
+
 ## Next Steps for 1095-B 
 * [Next steps for new team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf)
     * Launch MVP - [staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
@@ -54,23 +72,6 @@ The following release is the closest to completion:
     * [Presidential executive order on customer experience](https://www.performance.gov/cx/executive-order/)
     * [2021 IRS guidance on 1095-B](https://www.irs.gov/pub/irs-pdf/i109495b.pdf), p.5
     * [C.F.R. Title 26, Ch 14 S 1.6055-2](https://www.govregs.com/regulations/26/1.6055-2)
-
-## Operations
-
-### Incident response
-
-[Incident response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/incident-response-plan.md)
-
-### Annual updates
-
-The 1095-B is a yearly form, and may require annual updates. These are outlined in our [product playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/product-playbook.md)
-
-## Engineering information
-
-* [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
-* [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
-* [Sequencing diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
-* API endpoint document
 
 ## Communications
 
