@@ -10,15 +10,16 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/public-websites/home-page/research/redesign-usability#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/public-websites/home-page/research/redesign-usability#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/public-websites/home-page/research/redesign-usability#recommendations)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#key-findings)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/public-websites/home-page/research/redesign-usability#appendix)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#recommendations)
 
-[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/public-websites/home-page/research/redesign-usability#who-we-heard-from)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#appendix)
+
+[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#who-we-heard-from)
 
 <br>
 
