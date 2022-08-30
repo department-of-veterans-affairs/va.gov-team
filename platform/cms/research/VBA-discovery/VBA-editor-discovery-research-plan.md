@@ -28,7 +28,7 @@ Secondary goals include collecting supplemental feedback for how web editors for
 * Understand the website as a service delivery channel
 * Want to learn how to use Drupal CMS
 
-This research will follow a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services
+This research will follow a [related effort](link to Veteran research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md) to understand the needs of Veterans when visiting a VBA facility and getting services.
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE to inform a future direction for:
