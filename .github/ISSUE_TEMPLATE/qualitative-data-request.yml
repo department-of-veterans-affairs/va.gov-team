@@ -1,0 +1,59 @@
+name: Qualitative Data Request
+description: Please use this form to request qualitative (textual) data for tier 2/3 support as well as Medallia User Surveys
+title: "Qualitative Data Request"
+labels: [ "VSP-contact-center" ]
+assignees:
+  - jwoodman5, ianMcCullough-ob
+body:
+  - type: markdown
+    attributes:
+      value: |
+          ## What this form is for
+          The Contact Center Team is responsible for tier 2/3 support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns.
+  - type: dropdown
+    id: data-request-type
+    attributes:
+      label: Survey Type Requested
+      options:
+        - Support
+        - User Surveys
+    validations:
+      required: true
+ - type: input
+    id: start-date
+    attributes:
+      label: Date Range Start
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+ - type: input
+    id: end-date
+    attributes:
+      label: Date Range End
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+  - type: input
+    id: product-name
+    attributes:
+      label: Product Name(s)
+      description: Please provide the name(s) of your product(s).
+      placeholder: Facilities Locator
+    validations:
+      required: true
+  - type: textarea
+    id: product-description
+    attributes:
+      label: Product Description
+      description: Please provide a high level description (one or two sentences) of your product(s).
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: product-urls
+    attributes:
+      label: Product URL(s)
+      description: Please provide the root directory(ies) for your product(s)
+      placeholder: va.gov/find-locations, va.gov/./locations
+    validations:
+      required: true
