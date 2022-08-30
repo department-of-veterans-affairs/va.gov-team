@@ -8,8 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Please read before continuing**: This issue form is to request to onboard a new application to EKS in `dev`.
-
+        **Please read before continuing**   
+        This issue form is to request to onboard a new application to EKS in `dev`.
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
           - Application definition in ArgoCD
