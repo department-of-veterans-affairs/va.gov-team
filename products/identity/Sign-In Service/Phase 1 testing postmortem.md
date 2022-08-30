@@ -3,11 +3,13 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Test Start:** 1200EST  
 **Test End:**  1800EST  
 **Total Users Impacted:**  4,560 (50% of expected)   
-**Success Rate (% of users returned from a CSP successfully logged in):**  65.58%   (SSOe: 74%)  
-**Return Rate (% of users that VA.gov sent to a CSP to sign-in, this is the theoretical maximum success rate):**  76.35%  (SSOe: 72.75%)   
+**Success Rate:**  65.58%   (SSOe: 74%)  
+**Return Rate:**  76.35%  (SSOe: 72.75%)   
 **Notes:**  
 - Success rate was negatively impacted by DSLogon issues during the first 2 hours of our test.  We have identified several bugs and issues that should allow us to bring our Success Rate within 2-4% of our Return Rate, in-line with SSOe.  
 - Past user studies indicate that ~15% of users abandon the sign-in process after leaving VA.gov, meaning the maximum theoretical Return Rate is about 85%.
+- Return Rate is defined as the % of users that were sent to a CSP to sign in, for whcih we received a response from the CSP (either successful sign-in or failed)
+- Success Rate is the percentage of users that were sent to a CSP to sign in and returned to VA.gov successfully signed in.  The theoretical maximum success rate is 100% of the Return Rate.
 
 
 # Test Summary
