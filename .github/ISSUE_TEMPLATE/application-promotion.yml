@@ -10,6 +10,7 @@ body:
       value: |
         :warning: **Please read before continuing** :warning:
         This issue form is to request promotion of an application to EKS in higher environments.
+        
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
           - Application definition in ArgoCD
