@@ -64,7 +64,10 @@ Resolve two issues identified during testing (listed above)
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
 
-While testing our sign-in service, we saw an average reduction in user login time of one second (6%), with some CSP's seeing as much as a 33% reduction in time taken to sign-in.  For Login.gov, average time to sign in was reduced from 11.35 seconds to 8.11 seconds, which was the most dramatic reduction.  The most significant reduction in the sign-in process was from CSP selection to CSP sign-in screen, which was cut in half (4.33 seconds to 2.13 seconds).  
+**Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a significant reduction in sign-on time.**
+
+While testing our sign-in service, we saw an average reduction in user login time of one second (6%), with some CSP's seeing as much as a 33% reduction in time taken to sign-in.  For Login.gov, average time to sign in was reduced from 11.35 seconds to 8.11 seconds, which was the most dramatic reduction.  The most significant reduction in the sign-in process was from CSP selection to CSP sign-in screen, which was cut in half (4.33 seconds to 2.13 seconds). 
+
 
 ### Time to log in (SSOe)
 
