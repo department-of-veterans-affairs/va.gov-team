@@ -8,9 +8,12 @@ Table of Contents
 - Research Readout & Documentation
 
 # Template name: Runbook - UX Research
-**About:** Use this template when starting a new UX research process
+- **About:** Use this template when starting a new UX research process
+- **Issue default title:** [PRODUCT/INITIATIVE] Research Runbook
+- **Assignees** n/a
+- **Labels:** Research, Design
+- **Template content:** 
 
-**Template content:** 
 ## Description
 
 Here are the steps to follow when setting up a new UX research process:
@@ -39,15 +42,23 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
 
-**Issue default title:** [PRODUCT/INITIATIVE] Research Runbook
-**Assignees** n/a
-**Labels:** Research, Design
-
 # Template name: Research Plan & Conversation Guide
-**About:** Use this template when...
-**Template content:** 
+
+- **About:** Use this template when starting a new UX research process
+- **Issue default title:** Draft [PRODUCT/INITIATIVE] Research Plan & Conversation Guide
+- **Assignees** n/a
+- **Labels:** Research, Design
+- **Template content:** 
+
 ## Description
 
+Add links to platform's research plan and conversation guide
+
+## Acceptance Criteria
+- [ ] Artifacts sent to PO 24 hours in advance of meeting
+- [ ] PO has reviewed draft plans (in 1-hour working meeting)
+- [ ] Additional edits to artifacts
+- [ ] PO has approved finalized artifacts for sending to Platform Research Review cycle
 
 ## Acceptance Criteria
 - [ ] Testable_Outcome_X
@@ -66,35 +77,6 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
 
-**Issue default title:** Draft [PRODUCT/INITIATIVE] Research Plan & Conversation Guide
-**Assignees** 
-**Labels:** 
-
-# Template name: Blank 2
-**About:** Use this template when blank
-**Template content:** 
-## Description
-Add links to platform's research plan and conversation guide
-
-## Acceptance Criteria
-- [ ] Artifacts sent to PO 24 hours in advance of meeting
-- [ ] PO has reviewed draft plans (in 1-hour working meeting)
-- [ ] Additional edits to artifacts
-- [ ] PO has approved finalized artifacts for sending to Platform Research Review cycle
-
-### CMS Team
-Please check the team(s) that will do this work.
-
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
-**Issue default title:** 
-**Assignees** 
 **Labels:** 
 
 # Template name: Research Recruitment
