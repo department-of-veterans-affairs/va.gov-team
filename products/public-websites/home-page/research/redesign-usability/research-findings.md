@@ -174,7 +174,7 @@ Below is some specific feedback on using search:
 
 > "Getting used to using search...working pretty good...autofill function...seems intuitive" (p4). 
    
-## 1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it** 
+## 2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it** 
 Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
      1. Only the *VA Benefits and Health Care* megamenu in the header
      1. Only *Common tasks* and *Other search tools*
@@ -205,7 +205,7 @@ Some participants found **one way to navigate that worked for them, which they u
 
 **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
-## Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone*, and 4 were completed by *only half* of those who tried them
+## 3. Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone*, and 4 were completed by *only half* of those who tried them
 1. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. **Each of the top 20 tasks tested in this research was attempted by 6-10 participants** with varying degrees of success:
      1. **9 tasks (almost half) were completed successfully by *everyone*** who tried them, some more quickly than others.
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
@@ -238,11 +238,11 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - Message your doctor (83% completed successfully)
 - Check/update education benefits (71% completed successfully)
 
-## 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** 
+## 4. Several participants said that it was **redundant or confusing to have two different sign-in buttons** 
 1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
  2. One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-## 3. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
+## 5. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
 When the dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. 
 **Participants expect to see all dropdown options and select one before corresponding content is opened.** One participant wanted to see the dropdown options but skipped health care because it was already open. A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. In addition, this interaction was confusing for our pilot participant who uses a screen reader.
 
@@ -263,7 +263,7 @@ When the dropdown is opened, one dropdown option is already expanded--either the
      2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
 
 
-## 8. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
+## 6. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
 During the post-task interview, participants were asked about it, and it was interpreted in various ways:
 1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said it should be featured more prominently on the page, and some wanted to see how VA is helping. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts.
      
