@@ -10,6 +10,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 - Past user studies indicate that ~15% of users abandon the sign-in process after leaving VA.gov, meaning the maximum theoretical Return Rate is about 85%.
 - Return Rate is defined as the % of users that were sent to a CSP to sign in, for whcih we received a response from the CSP (either successful sign-in or failed)
 - Success Rate is the percentage of users that were sent to a CSP to sign in and returned to VA.gov successfully signed in.  The theoretical maximum success rate is 100% of the Return Rate.
+- Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a significant reduction in sign-on time.
 
 
 # Test Summary
