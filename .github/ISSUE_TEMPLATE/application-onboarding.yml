@@ -10,6 +10,7 @@ body:
       value: |
         :warning: **Please read before continuing** :warning:
         This issue form is to request to onboard a new application to EKS in `dev`.
+        
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
           - Application definition in ArgoCD
