@@ -23,6 +23,7 @@ The primary goals of this research are to understand from the perspectives of th
 * Context for: 
   * Event- and staff-related information
   * Situational updates related to a facility
+
 This research will follow or run partially in parallel to a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services. 
 
 ## Outcomes
