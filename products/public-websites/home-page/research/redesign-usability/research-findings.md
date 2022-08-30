@@ -309,19 +309,27 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 
 # Recommendations
 1. Keep the new search box because many more participants found it and used it as compared to search in the header.
-2. Make sure that all top tasks can be accomplished via both searching and browsing in order to support people who only search or only browse. **COPY ITEMS FROM 2 TASKS TABLES**
-3. Consider the following revisions to the *Common tasks* section:
+2. Make sure that all top tasks can be accomplished via both searching and browsing in order to support people who only search or only browse. Consider making the following changes to help, some of which may require discussion and collaboration with other teams:
+     1. Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
+     2. Add "Get your VA medical records" to home page, to megamenu under Health care.
+     3. Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy".
+     4. Add "Update contact info" to Common tasks, and in the Records benefit hub.
+     5. Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
+     6. Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation".
+     7. Make clear on disability application page that this form can be used to increase your existing disability rating (i.e., add to heading "or increase your current rating").
+     8. Change link to comparison tool look like a hyperlink instead of an ad.
+4. Consider the following revisions to the *Common tasks* section:
      1. Make the section (at least the header) stand out more visually so it's noticed by more people.
      2. Add more top tasks to the list, including Get mental health help, Update your address, and Mssage your doctor.
-3. Consider the following revisions to the *Other search tools* section:
+5. Consider the following revisions to the *Other search tools* section:
      1. Make the section (at least the header) stand out more visually so it's noticed by more people.
      2. Consider removing "Education benefits" because it's not a search tool like "Find a form" and "Find a VA facility". 
      3. Remove the "Yellow Ribbon" link because a lot of people don't know what it is, and so it's confusing.
-4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link or verbiage to do VA health care tasks.
-6. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
-7. Consider changing the megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until after the user selects one.*
-8. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
-9. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
+6. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link or verbiage to do VA health care tasks.
+7. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
+8. Consider changing the megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until after the user selects one.*
+9. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
+10. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
 
