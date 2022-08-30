@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 8/30/2022
-- Change to add Google Analytics event tracking for the language toggle
+- Updated Google Analytics event tracking for the language toggle
     - [Ticket 45230](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230)
 - Change to append a parameter to error URLs to provide information about the type of error and aid in capturing more detailed error metrics
     - [Ticket 45777](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45777)
