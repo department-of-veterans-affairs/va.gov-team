@@ -116,20 +116,25 @@ FOR EVERYONE
 
 # Hypotheses and Conclusions
 
-1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
-1. More participants will use the prominent sign in/sign up CTA than the button in the header.
-1. The streamlined design enables participants to complete tasks efficiently. 
-    1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
-1. Participants will know to search for tasks not listed as "common tasks". 
-1. Participants understand where "other search tools" links will take them and what they will find there.
-1. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
-1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
-2. Most participants start with a search engine, not VA.gov.
+1. The prominent sign in location and CTA makes it easier for participants to easily sign in/sign up (as compared to the "sign in" link in the header, a standard place to log in on many websites).
+     1. PROBABLY FALSE: Most participants didn't click *either* "sign in" button, and of those who did, 3 used the new prominent button and 2 used the old button in the header. 3 other participants were confused or annoyed at seeing two separate "sign in" buttons, so perhaps the old button in the familiar location in the header is sufficient. 
+3. More participants will use the prominent sign in CTA than the button in the header.
+     1. TRUE: Three participants used the new "sign in" button, whereas only two used the original "sign in" button in the header. All other participants (74%) instead used "sign in" buttons on content pages.
+5. The streamlined design enables participants to complete tasks efficiently. 
+     1. FALSE: Some participants struggled to complete tasks, and some tasks were unable to be completed by some participants.  
+1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
+     1. FALSE: Three tasks had improved task completion rates, but two tasks had lower task completion rates (*Message your doctor, Add spouse*).
+6. Participants will know to search for tasks not listed as "common tasks". 
+     1. FALSE: Some participants didn't use "Common tasks", and of those who did, most participants didn't use search and instead tried browsing elsewhere on the home page. Only 4 of 19 participants searched when they couldn't find what they were looking for in "common tasks".
+8. Participants understand where "other search tools" links will take them and what they will find there.
+     1. PARTLY TRUE: Most participants understood and/or used at least one of the links (most often "Education benefits"). However, "Yellow Ribbon" was problematic because half of the participants didn't know what it was, and some who did questioned why the link was separate from "Education benefits".
+10. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
+     1. FALSE: No participants said anything about the Vantage blog promo, nor clicked on it while doing tasks. The only engagement was when the moderator asked specifically about it at the end of the research session.
+12. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
+     1. MOSTLY TRUE: Most participants (79%) scrolled all the way down the home page to the footer. 
+14. Most participants start with a search engine, not VA.gov.
+     1. FALSE: **Only 5 of 19 participants said they use google to get VA information**. 9 said they go to VA.gov. Others said they call VA or visit in person, use MHV or eBenefits, use the VA mobile app, ask other people, ask on Facebook, or use emails from VA or other organizations (e.g., American Legion, VFW, MOAA).
 
-    2. PARTLY TRUE: 
-
-    2. PARTLY TRUE: 
-   
 
 # Key Findings
 ## Navigation
@@ -145,7 +150,7 @@ FOR EVERYONE
 1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
 
 ## Content
-1. **No one said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" or clicked on it while doing tasks**
+1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
 
 
 # Details of Findings 
@@ -157,14 +162,19 @@ FOR EVERYONE
      1. Only our youngest participant **searched exclusively** to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.) The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on page he went to, rather than browsing on the home page.
      1. One participant **tried search first, had success a couple times, and then got irrelevant results, so stopped using search**. This participant only browsed after that.
 
-Some participants said that they browse first and avoid searching because they
+One participant said they were giving a lower task rating because they "had to do a search for it" (p4). Some participants said that they browse first and avoid searching because they
 - Don't like to type into the search box
 - It's easier to click on something 
 - Figure they can find what they need by browsing the topics shown
+ 
+Below is some specific feedback on using search:
+- At least 4 participants clicked on one of the auto-complete suggestions.
+- 2 participants were annoyed that the VA.gov search isn't as forgiving with spelling mistakes as Google is (e.g., spelling "benefits" as "benifits").
 
-One participant said they were giving a lower task rating because they "had to do a search for it" (p4).
     
 >  Regarding browsing and then trying searching: "I gave up [on browsing] and used the search...search is better to use *vs.* so much to read [on the home page]--a whole page that I have to read, when I should be depending on search" (p14).
+
+> "Getting used to using search...working pretty good...autofill function...seems intuitive" (p4). 
    
 1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
      1. Only the *VA Benefits and Health Care* megamenu in the header
@@ -177,6 +187,21 @@ One participant said they were giving a lower task rating because they "had to d
 - [INSERT IMAGE](TBD) 
 - [INSERT IMAGE](TBD) 
    
+**4 participants didn't notice *Common tasks*, but many others used these links.** Participants suggested adding more items to the list, including mental health, change address, message doctor, burial info, and the most frequent searches.
+
+**2 participants didn't notice *Other search tools*, but many others used these links.** 
+- Many participants said that the links in this section are useful quick links to other pages, but not what they expected as "search tools", such as filters to narrow a search. 
+- Some participants thought that "search tools" makes sense to describe search for specific things, such as a form or a facility. But "education benefits" isn't a search tool in the same way.
+- The inclusion of "Yellow Ribbon" was problematic because half of the participants didn't know what it was, and some who did questioned why the link was separate from "Education benefits".
+- Two participants wondered why "Find a VA facility" and "Education benefits" were in "Other search tools" because they're also in the header.
+
+**A lot of participants used the benefit hubs, and some focused most of their attention on that section** of the home page. Some feedback from individual participants:
+- Like the benefit hubs along with their different colored icons
+- Looks like everything in the megamenu
+- Wants a miscellaneous category for other stuff they couldn't find elsewhere (e.g., travel reimbursement).
+- "Housing assistance" doesn't make sense for home loans, so perhaps split it up into 2 different topics: "VA home loan" and "Housing assistance".
+
+
 **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
 1. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. **Each of the top 20 tasks tested in this research was attempted by 6-10 participants** with varying degrees of success:
@@ -184,7 +209,7 @@ One participant said they were giving a lower task rating because they "had to d
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. **4 tasks were completed successfully by only half (50-60%)** of those who tried them. 
 
-A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE).
+A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE). Participant success rates were *not* correlated by participant age, mobile *vs.* desktop, or experience with VA.gov.
 
 For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
@@ -202,6 +227,10 @@ Message your doctor | **Couldn't find by browsing** | Add "Manage your VA health
 Get VA medical history/records | **Couldn't find by browsing** (megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
 Find mental health counselor/therapist | **Couldn't find by searching** ("therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
 Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
+
+From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderated Survey Findings research report from July 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#key-findings), only two of those 5 tasks were included in this usability test. They're listed below with their not-so-great success rates: 
+- Message your doctor (83% completed successfully)
+- Check/update education benefits (71% completed successfully)
 
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
      1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
@@ -223,10 +252,10 @@ Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add
 
 1. There were **two accessibility issues** identified during the usability testing:
      1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-     2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened.
+     2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *TRY TO REPRODUCE!*
 
 ### Content
-8. **No one said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
+8. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
      1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said it should be featured more prominently on the page, and some wanted to see how VA is helping. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts.
      
      2. **Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there at all because it had nothing to do with the homelessness benefit information.**
@@ -253,22 +282,46 @@ Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add
 
 
 ## Other Findings
+1. One ex-pat Veteran would like the "Use my location" link in the "Find a VA Facility" tool to work in the Philippines (which has the only VA offices outside the US) by directing people to the Manila clinic and regional offices. "Use my location" appears to work only in the US.
+1. A few participants looked at the footer, and their individual feedback included the following:
+     1. Liked the links for Women Veterans, Minority Veterans, LGBTQ+ Veterans, and PTSD--especially LGBTQ+ and PTSD because it applied to them.
+     2. Went to the footer to look for a VA facility because that's where "contact us" information is located on web pages.
+     3. There are too many links to look through 
+
+> "I'm not going to read through that list" (p19).
 
 
 ### Feedback for VA
 
 We heard some feedback specifically for VA, which is listed below but not analyzed because it's outside the scope of this study:
-1.   
+1. When you're signed into VA.gov and need to go to MHV, it's "frustrating and aggravating" that you have to log out of VA.gov and then sign into MHV.
+1. It's frustrating to have to submit new evidence to the VA from information they already have when applying for a disability increase.
+
+> "VA has all my stuff but they want me to resubmit it as new evidence. Have to download the info from VA, highlight what the doctor said on what day, and then submit it as new evidence...then another appt" (p9).
+
+1. Didn't hear anything back from primary care provider after sending multiple messages inquiring about chest x-ray results.
+
+> "Huge problem: primary doctor not available most of the time. See every 6 months. Then they change the doctor on you--no consistency" (p14).
+
+1. You can't been seen at a VA clinic while traveling until you register with the local site. Seems like I should already be in the VA computer system.
+2. I can't figure out how to do travel reimbursement since the process moved online recently. It's convoluted and fails. They used to have an ID scanner at the VA site and got payment automatically.
+1. Travel expenses to medical appointments are no longer covered in Philippines, which often involves a flight to a different island and a hotel stay.
 
 # Recommendations
-1. Keep the search box because many more participants found it and used it as compared to search in the header.
-2. Make sure that all top tasks can be accomplish via both searching and browsing in order to support people who only search or only browse.
-3. Consider the following revisions to the Common tasks and Other search tools sections:
-     1. ...
+1. Keep the new search box because many more participants found it and used it as compared to search in the header.
+2. Make sure that all top tasks can be accomplished via both searching and browsing in order to support people who only search or only browse. **COPY ITEMS FROM 2 TASKS TABLES**
+3. Consider the following revisions to the *Common tasks* section:
+     1. Make the section (at least the header) stand out more visually so it's noticed by more people.
+     2. Add more top tasks to the list, including Get mental health help, Update your address, and Mssage your doctor.
+3. Consider the following revisions to the *Other search tools* section:
+     1. Make the section (at least the header) stand out more visually so it's noticed by more people.
+     2. Consider removing "Education benefits" because it's not a search tool like "Find a form" and "Find a VA facility". 
+     3. Remove the "Yellow Ribbon" link because a lot of people don't know what it is, and so it's confusing.
 4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link or verbiage to do VA health care tasks.
 6. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
 7. Consider changing the megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until after the user selects one.*
 8. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
+9. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
 
