@@ -16,7 +16,7 @@ body:
           - Application definition in ArgoCD
           - GitHub teams to match the read-only and read/write permission sets for the application
         
-        :rotating_light: **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/<env>`)**
+        :rotating_light: **Please note:** If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/<env>`)
   - type: checkboxes
     id: acknowledge
     attributes:
