@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/31/2022
+- Removed obsolete feature flags for translation work
+    - [Ticket 45787](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45787)
+
 ### 8/30/2022
 - Updated Google Analytics event tracking for the language toggle
     - [Ticket 45230](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230)
