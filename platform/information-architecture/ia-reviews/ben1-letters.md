@@ -1,5 +1,5 @@
 # IA Design for [Product/Feature]
-**STATUS:**
+**STATUS: DRAFT**
 
 **Team:** Benefits 1
 
@@ -18,21 +18,19 @@
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
 
-
+![image](https://user-images.githubusercontent.com/20994159/187747289-c689cc12-c2fc-4858-9144-368e352e22e5.png)
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 
-
-![image](https://user-images.githubusercontent.com/20994159/187746463-f02fae55-5b00-4515-9d7d-337917b2044f.png)
-
+![image](https://user-images.githubusercontent.com/20994159/187747179-6e099ffa-b413-47be-bfc3-fc43d05a4c67.png)
 
 
 
-**Page** | **URL** | **Breadcrumb** | **Notes**
---- | --- | --- | ---
-   |   |   |  | 
+**Page** | **Pg Status** | **URL** | **Breadcrumb** | **Notes**
+--- | --- | --- | --- | ---
+Download VA letters   | Existing page  | www.va.gov/records/download-va-letters  |  | 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
