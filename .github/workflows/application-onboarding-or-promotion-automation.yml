@@ -106,6 +106,7 @@ jobs:
           path: vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           add-paths: chart/values.yaml
+          branch: "chore/${{ inputs.task }}-${{ inputs.application_name }}-${{ inputs.application_environment }}"
           commit-message: |
             {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "task": "${{ inputs.task }}"}
           title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
