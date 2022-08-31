@@ -387,12 +387,6 @@ Audience segments:
 * Service members: 2
 
 
-Gender:
-* Male:   11 
-* Female:  5 
-* Unknown: 1
-
-
 LGBTQ+:
 * Transgender: 1 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
@@ -421,12 +415,12 @@ Age:
 
 
 Education: 
-* High school degree or equivalent: TBD
-* Some college (no degree): TBD
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
-* Doctoral degree:
+* High school degree or equivalent: 4
+* Some college (no degree): 5
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 4
+* Master's degree: 3
+* Doctoral degree: 0
 
 
 Geographic location:
@@ -447,12 +441,11 @@ Race:
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-TBD--REDO
-* Mobile users
-* Identify as gay, lesbian, bisexual, transgender, or non-binary
+
+* Asian 
+* Identify as gay, lesbian, bisexual, or non-binary
 * Other than honorable discharge
 * Immigrant origin
-* Expat (living abroad)
 * Use assistive technology
 
-![VA-recruitment-checker]()
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/VA-recruitment-checker.png)
