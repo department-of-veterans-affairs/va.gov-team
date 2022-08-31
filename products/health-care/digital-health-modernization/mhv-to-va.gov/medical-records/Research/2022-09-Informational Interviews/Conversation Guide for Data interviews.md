@@ -34,7 +34,7 @@ Today we’re going to talk about Medical Records, specifically the Medical Reco
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
