@@ -130,7 +130,7 @@ FOR EVERYONE
 8. Participants understand where "other search tools" links will take them and what they will find there.
      1. PARTLY TRUE: Most participants understood and/or used at least one of the links (most often "Education benefits"). However, "Yellow Ribbon" was problematic because half of the participants didn't know what it was, and some who did questioned why the link was separate from "Education benefits".
 10. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
-     1. FALSE: No participants said anything about the Vantage blog promo, nor clicked on it while doing tasks. The only engagement was when the moderator asked specifically about it at the end of the research session.
+     1. FALSE: No participants said anything about the Vantage blog promo, nor clicked on it while doing tasks (no tasks were related to it). The only engagement was when the moderator asked specifically about it at the end of the research session.
 12. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
      1. MOSTLY TRUE: Most participants (79%) scrolled all the way down the home page to the footer. 
 14. Most participants start with a search engine, not VA.gov.
@@ -149,7 +149,7 @@ FOR EVERYONE
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
 1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
 
-1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
+1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks** (no tasks were related to it).
 
 
 # Details of Findings 
@@ -270,7 +270,7 @@ We heard some additional usability feedback on the home page and other VA.gov pa
 
 
 ## 6. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
-During the post-task interview, participants were asked about the Vantage blog promo box, and they explained their impressions in various ways:
+There were no tasks related to the Vantage blog promo box, and no one mentioned it until the moderator asked about it during the post-task interview. Participants expressed their impressions in various ways:
 1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said that this information should be featured more prominently on the page, and some wanted to see how VA is helping now. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while sharing her thoughts.
      
 2. **Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there at all because it had nothing to do with the homelessness benefit information.**
@@ -338,7 +338,7 @@ We heard some pain points about VA in general, which is included below but not a
      3. Add "mental health" to Common tasks.
      4. Add "Update contact info" to Common tasks.
      5. Add "View or change dependent" to Common tasks.
-9. Check the font size of the text of the the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
+9. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 
