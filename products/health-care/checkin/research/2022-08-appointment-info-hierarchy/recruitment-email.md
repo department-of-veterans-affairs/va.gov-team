@@ -2,11 +2,11 @@
 
 Subject: Participate in research with VA
 
-Hello,
+Hello {name},
 
-The VA.gov team at the Department of Veterans Affairs is conducting research to learn what appointment information, such as provider name or clinic address, is most important to you when checking in for a medical appointment or completing pre-check-in prior to your appointment.
+The VA.gov team at the Department of Veterans Affairs is conducting research to learn what appointment information, such as provider name or clinic address, is most important to you when checking in for a medical appointment or completing pre-check-in on your desktop or smartphone prior to your appointment.
 
-We are looking for Veterans and caregivers who have been to a VA health care facility for a medical appointment for yourself or a Veteran that you care for in the last 12 months. You must also be interested in participating in an online survey to help us understand your preferences.
+We are looking for Veterans and caregivers who have been to a VA health care facility for a medical appointment for yourself or a Veteran that you care for in the last 12 months. You must also be willing to participate in an online survey to help us understand your preferences.
 
 **What will I be doing in this survey?**
 
