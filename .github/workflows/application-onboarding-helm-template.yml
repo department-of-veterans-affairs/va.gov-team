@@ -101,6 +101,9 @@ jobs:
             echo "::set-output name=directory_exists::$(echo false)"
           fi
 
+      - name: ls
+        run: ls
+
       - name: Create application directory
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: mkdir vsp-infra-application-manifests/apps/om-test/dev
