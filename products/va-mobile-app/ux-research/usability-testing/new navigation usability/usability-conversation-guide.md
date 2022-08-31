@@ -76,7 +76,7 @@
 
 
 
-## Section 3: Usability tasks (25 min)
+## Section 3: Usability tasks (30 min)
 ### Task 0: First impressions (5 minutes)
 * I want you to imagine that your name is Kimberly Washington, and you are a United States Navy Veteran. 
 * I want to direct your attention to the app now. 
