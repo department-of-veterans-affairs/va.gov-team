@@ -110,20 +110,7 @@ Recruiting 10-14 Veterans who have:
 
 ## Timeline
 
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
-
-### Prepare
-
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
-
-*   Pilot participant email:
-*   Date and time of pilot session:
-
-### Research sessions
-
-*   Planned dates of research:
+[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#timeline--dependencies-2)
 
 ### Length of sessions
 
@@ -139,7 +126,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Aslan French, aslan.french@civicactions.com, +1 510-408-7510 #1001
+*   Moderator: Aslan French, aslan.french@civicactions.com
 *   Research guide writing and task development: Aslan French
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
