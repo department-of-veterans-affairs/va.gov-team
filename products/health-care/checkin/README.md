@@ -1,13 +1,13 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 
 ## Product 
-- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-brief.md)
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
 
 ## Backlog & Roadmap
-- [Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/Priorities.md)
+- [Priorities](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661259690010/d8a74b136b1ed8727b2d08fdf55298aa1ffeafab?sender=ud3aa760e30b39bcf436d4473)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
 - [CHIP/VSE/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
