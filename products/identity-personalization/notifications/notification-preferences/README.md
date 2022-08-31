@@ -1,6 +1,6 @@
 # Notification settings: Product outline
 
-Last Updated August 26, 2022
+Last Updated August 31, 2022
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -113,6 +113,7 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
+- Coming soon!
 
 ## Frontend
 
