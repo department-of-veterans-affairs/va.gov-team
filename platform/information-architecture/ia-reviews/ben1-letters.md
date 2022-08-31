@@ -30,7 +30,8 @@
 
 **Page** | **Pg Status** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | --- | ---
-Download VA letters   | Existing page  | www.va.gov/records/download-va-letters  |  | 
+Download VA letters   | Existing page  | www.va.gov/records/download-va-letters  | Home > Records > [Update breadcrumb current page segment to match revised H1] | Additional content added with sign in widget for the new claim letters tool. 
+Claim letters download tool | New page | TBD | TBD | 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
@@ -38,7 +39,12 @@ Download VA letters   | Existing page  | www.va.gov/records/download-va-letters 
 
 **A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
 --- | --- | --- | ---
-   |   |   |  | 
+Add  | Claim or appeal status tool   |    |  Content and link to new tool
+Add | Download VA letters static page  |    | Sign in widget plus content and link to new tool
+Modify | Home page | |  Update label of static page
+Top nav > Records fly-out | Modify | | Update label of static page
+Records hub page | Modify | | Update label of static page
+Records hub left nav | Modify | | Update label of static page
 
 
 
