@@ -62,11 +62,10 @@ Before we start, a few things I want to mention:
 
 ## Second Task: MHV Data - X minutes (Change wording here)
 
-- Is there any data that isn’t currently part of Medical Records that you think should be?
-- Today, Appointments and Pharmacy are separate sections in MHV. Why aren’t they part of Medical Records? 
-- Where do you think that the vaccine records should reside in the tool. Should they be in a separate section, or included in the medical records?
-- Can you give us some information about After-Visit Summaries? Why haven’t they been included in MHV up to this point?
-- What do you think about including the After-Visit Summary (AVS) in the VA Health Summary? Where should After-Visit Summaries be housed in MHV?
+- Is there any data that isn’t currently part of Medical Records that you think should be added?
+- Where do you think that the vaccine records should reside in the tool?
+- Can you tell us about After-Visit Summaries? Are they currently part of My HealtheVet?
+- What do you think about including the After-Visit Summary (AVS) in the VA Health Summary? 
 
 ### Things to watch for:
 
@@ -108,20 +107,18 @@ Before we start, a few things I want to mention:
 ## Fifth Task: Product vision / Competitive analysis - X minutes
 
 - Vision 1: Download first --> View first
-    - Some patient portals divide records into a health records/summary section and a medical records download section. Health records/summary refer to things like allows users to quickly view lab results, vaccines, medications, imaging reports, vitals, documents, and other information. which can be viewed instantly and don’t have download capability and doesn’t need to go through filters. More or less it’s a way to keep tabs on your health information. On the other hand, the Medical records download section is typically a way to download the information included in your health summary, plus additional clinical information.  Some don’t need to filter and download by clicking on one button, but some do. More or less, it’s a way to download your records for offline viewing, your personal records, or to give to a doctor when going to a new practice. 
+    - Some patient portals divide records into a health summary section and a medical records download section. Health summary allows users to quickly view lab results, vaccines, medications, imaging reports, vitals, documents, and other information. More or less it’s a way to keep tabs on your health information. On the other hand, the Medical records download section is typically a way to download the information included in your health summary, plus additional clinical information.  Some don’t need to filter and download by clicking on one button, but some do. More or less, it’s a way to download your records for offline viewing, your personal records, or to give to a doctor when going to a new practice. 
 
-Vision 2: Breaking the Medical Records monolith
-Information like upcoming appointments, reminders for prescription refills, these are on pages separate from medical records. and new lab results and so on...this information is important to call out.  Alternatively, users must click into Medical Records to see new lab results, their diagnoses, etc. 
+- Vision 2: Breaking the Medical Records monolith
+    - Information like upcoming appointments, reminders for prescription refills, these are on pages separate from medical records and new lab results. Alternatively, users must click into Medical Records to see new lab results, their diagnoses, etc. Instead of having Veterans navigating to different pages to get their health information, what do you think about surfacing more of the information contained in Medical Records on the first page they see when logging in? For example, a user could log in, and instead of seeing four big tiles, they’d see Appointments, Medications, Labs & Tests, Imaging Reports, and more all at once.
 
-Instead of having Veterans navigating to different pages to get their health information, what do you think about surfacing more of the information contained in Medical Records on the first page they see when logging in? For example, a user could log in, and instead of seeing four big tiles, they’d see Appointments, Medications, Labs & Tests, Imaging Reports, and more all at once.
-
-Vision 3: Patient generated data
-We’ve heard that in My HealtheVet today Veterans can share their self-entered data. But this information is stored in the vault,. There is not a clear user flow for sharing this health data with their provider. 
-Can you tell us more about this process?
-Can you tell us more about the relationship between patient generated data and the comprehensive health record?
-What do you think about adding the ability to sync fitness apps/devices to the platform? One reason is to provide Veterans a place to manage their wellness, and another reason is to provider doctors information about Veterans’ overall health.
-How should patient generated data be included in the Medical Records section?
-We are especially interested defining a vision for Track your health information and Patient-generated health data. Is there anything else related to these topics that you think we should know about? should be included in our vision?
+- Vision 3: Patient generated data
+    - We’ve heard that in My HealtheVet today Veterans can share their self-entered data. But this information is stored in the vault. There is not a clear user flow for sharing this health data with their provider. 
+    - Can you tell us more about this process?
+    - Can you tell us more about the relationship between patient generated data and the comprehensive health record?
+    - What do you think about adding the ability to sync fitness apps/devices to the platform? 
+    - How should patient generated data be included in the Medical Records section?
+    - Is there anything else related to these topics that you think we should know about?
 
 ### Things to watch for:
 
