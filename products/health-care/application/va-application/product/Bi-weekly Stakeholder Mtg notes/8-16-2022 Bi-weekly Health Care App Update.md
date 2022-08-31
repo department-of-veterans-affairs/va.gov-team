@@ -21,7 +21,12 @@
      - Related to initiatives on the 10-10EZ, a copy of each page of the Online form was requested
      - [x] **Heather** to send a PDF copy of the Online 10-10EZ
 - American Indian question
-     - [ ] Heather pending discussion with Tribal Affairs office, ETA next week (8/22-26)
+     - [X] Heather pending discussion with Tribal Affairs office, ETA next week (8/22-26)
+          - UPDATE and added these notes: 
+               - I met with Tribal Affairs and they had no issues with question language. 
+               - Shared this with HEC.  Stacey Echols stated that we must update our language to match the paper form ("Are you an Indian?"). 
+               - Patrick & Kay will address with HEC leadership
+
 - Medicare Claim number field
      - No further issues reported
      - Opened feature up to 50% visibility on Tuesday morning, 8/15/2022 
