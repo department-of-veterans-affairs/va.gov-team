@@ -358,6 +358,7 @@ We heard some pain points about VA in general, which is included below but not a
 
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - For tasks that were difficult to do, discuss possible design changes to the redesigned home page to make them easier, and then do another round of usability testing.
+- Look at home page analytics to see the usage of the current task links on Production.
 
 # Appendix
 
