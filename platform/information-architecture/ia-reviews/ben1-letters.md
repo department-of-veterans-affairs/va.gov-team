@@ -1,11 +1,11 @@
 # IA Design for [Product/Feature]
 **STATUS:**
 
-**Team:** 
+**Team:** Benefits 1
 
-**Product/Featue:** 
+**Product/Featue:** Claim letters
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/45908
 
 **On this page:**
 - [User flows](#flows)
@@ -19,8 +19,15 @@
 *Description of how users will flow through the experience*
 
 
+
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
+
+
+
+![image](https://user-images.githubusercontent.com/20994159/187746463-f02fae55-5b00-4515-9d7d-337917b2044f.png)
+
+
 
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
