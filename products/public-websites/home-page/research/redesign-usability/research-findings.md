@@ -120,11 +120,11 @@ FOR EVERYONE
 1. The prominent sign in location and CTA makes it easier for participants to easily sign in/sign up (as compared to the "sign in" link in the header, a standard place to log in on many websites).
      1. PROBABLY FALSE: Most participants didn't click *either* "sign in" button, and of those who did, 3 used the new prominent button and 2 used the old button in the header. 3 other participants were confused or annoyed at seeing two separate "sign in" buttons, so perhaps the old button in the familiar location in the header is sufficient. 
 3. More participants will use the prominent sign in CTA than the button in the header.
-     1. TRUE: Three participants used the new "sign in" button, whereas only two used the original "sign in" button in the header. All other participants (74%) instead used "sign in" buttons on content pages.
+     1. TRUE: Of those who chose to sign in from the home page, three participants used the new "sign in" button, whereas only two used the original "sign in" button in the header. All other participants (74%) instead used "sign in" buttons on content pages.
 5. The streamlined design enables participants to complete tasks efficiently. 
-     1. FALSE: Some participants struggled to complete tasks, and some tasks were unable to be completed by some participants.  
+     1. PARTLY TRUE: 16 of the 20 tasks were successfully completed by at least 70% of the participants who tried them. However, some participants struggled to complete some of the tasks, and 4 tasks were unable to be completed by 40-50% of those who tried them.  
 1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
-     1. FALSE: Three tasks had improved task completion rates, but two tasks had lower task completion rates (*Message your doctor, Add spouse*).
+     1. PARTLY TRUE: Three tasks had improved task completion rates, but two tasks had lower task completion rates (*Message your doctor, Add spouse*).
 6. Participants will know to search for tasks not listed as "common tasks". 
      1. FALSE: Some participants didn't use "Common tasks", and of those who did, most participants didn't use search and instead tried browsing elsewhere on the home page. Only 4 of 19 participants searched when they couldn't find what they were looking for in "common tasks".
 8. Participants understand where "other search tools" links will take them and what they will find there.
@@ -191,8 +191,7 @@ Some participants found **one way to navigate that worked for them, which they u
 **4 participants didn't notice *Common tasks*, but many others used these links.** Participants suggested adding more items to the list, including mental health, change address, message doctor, burial info, and the most frequent searches.
 
 **2 participants didn't notice *Other search tools*, but many others used these links.** 
-- Many participants said that the links in this section are useful quick links to other pages, but not what they expected as "search tools", such as filters to narrow a search. 
-- Some participants thought that "search tools" makes sense to describe search for specific things, such as a form or a facility. But "education benefits" isn't a search tool in the same way.
+- Many participants said that the links in *Other search tools* are useful quick links to other pages but not necessarily what they expected as "search tools", such as filters to narrow a search. Other participants thought that the phrase "search tools" makes sense to describe search for specific things, such as a form or a facility, but "education benefits" isn't a search tool in the same way.
 - The inclusion of "Yellow Ribbon" was problematic because half of the participants didn't know what it was, and some who did questioned why the link was separate from "Education benefits".
 - Two participants wondered why "Find a VA facility" and "Education benefits" were in "Other search tools" because they're also in the header.
 
@@ -221,19 +220,19 @@ For the 4 most problematic tasks, below are the primary reasons why they were di
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
 File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
-Add a spouse (review/update dependents) | **Couldn't find by browsing** (megamenu, benefit hubs > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
-Compare education benefits by school | **Didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link to comparison tool to make it look more like a hyperlink instead of an ad
-Check current disability compensation rates | **Couldn't find by searching** ("disability pay") **OR browsing** (megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
+Add a spouse (review/update dependents) | **Couldn't find by browsing** (tried megamenu, benefit hubs > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+Compare education benefits by school | **Didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad
+Check current disability compensation rates | **Couldn't find by searching** (tried "disability pay") **OR browsing** (tried megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
 
 Participants struggled with some of the other tasks, too, as shown in the table below:
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
 Message your doctor | **Couldn't find by browsing** | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
-Get VA medical history/records | **Couldn't find by browsing** (megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
-Find mental health counselor/therapist | **Couldn't find by searching** ("therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
-Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
+Get VA medical history/records | **Couldn't find by browsing** (tried megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
+Find mental health counselor/therapist | **Couldn't find by searching** (tried "therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
+Update your address with VA | **Couldn't find by browsing** (tried benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
 
-From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderated Survey Findings research report from July 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md), only two of those 5 tasks were included in this usability test. They're listed below with their not stellar success rates: 
+From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderated Survey Findings research report from July 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md), only two of those 5 tasks were included in this usability test. They're listed below with their success rates: 
 - *Message your doctor* (83% completed successfully)
 - *Check/update education benefits* (71% completed successfully)
 
@@ -251,7 +250,7 @@ When the megamenu dropdown is opened, one dropdown option is already expanded--e
 - One participant wanted to browse the dropdown options but skipped health care because it was already open. 
 - A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. 
 - A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. 
-- In addition, this interaction was confusing for our pilot participant who uses a screen reader.
+- In addition, opening the dropdown and having the health care option already expanded was confusing for our pilot participant who uses a screen reader.
 
 We heard some additional usability feedback on the home page and other VA.gov pages:
 1. One participant suggested removing the 3 photos of Veterans because they *"don't do anything" (p14)*--i.e, you can't interact with them.
@@ -322,27 +321,37 @@ We heard some pain points about VA in general, which is included below but not a
 1. Travel expenses to medical appointments are no longer covered in the Philippines, which often involves a flight to a different island and a hotel stay.
 
 # Recommendations
+## For the home page redesign effort
 1. **Keep the new search box** because many more participants found it and used it as compared to search in the header.
-2. **Make sure that all top tasks can be accomplished via both searching and browsing** in order to support people who only search or only browse. Consider making the following changes to help, some of which may require discussion and collaboration with other teams:
-     1. Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
-     2. Add "Get your VA medical records" to home page, and to the megamenu under Health care.
-     3. Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist", "counselor", and "therapy".
-     4. Add "Update contact info" to Common tasks, and in the Records benefit hub.
-     5. Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
-     6. Add "View disability rates" to megamenu under Disability, as an search autocomplete suggestion, and a search "top recommendation".
-     7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
-     8. Change link to comparison tool to make it look more like a hyperlink instead of an ad.
-4. Consider the following **revisions to the *Common tasks*** section:
+2. Consider the following **revisions to the *Common tasks*** section:
      1. Make the section (at least the header) stand out more visually so it's noticed by more people.
      2. Add more top tasks to the list, including Get mental health help, Update your address, and Message your doctor.
-5. Consider the following **revisions to the *Other search tools*** section:
+3. Consider the following **revisions to the *Other search tools*** section:
      1. Make the section (at least the header) stand out more visually so it's noticed by more people.
      2. Consider removing "Education benefits" because it's not a search tool like "Find a form" and "Find a VA facility". 
      3. Remove the "Yellow Ribbon" link because a lot of people don't know what it is, and it's confusing to have a second education link.
-6. **Consider removing the "Sign in or create account" button** because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link for doing VA health care tasks.
-7. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, Other search tools, and Common tasks.
+     4. Possibly rename *Other search tools* since this name wasn't clear to some people.
+1. **Consider removing the "Sign in or create account" button** because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used to support other top tasks.
+1. **Try to ensure that all top tasks can be accomplished via both searching and browsing** in order to support people who only search or only browse. Consider adding the following to the home page, which may help:
+     1. Add "Manage your VA health care" link, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
+     2. Add "Get your VA medical records" to Common tasks.
+     3. Add "mental health" to Common tasks.
+     4. Add "Update contact info" to Common tasks.
+     5. Add "View or change dependent" to Common tasks.
+9. Check the font size of the text of the the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
+
+## Beyond the home page (out of scope but can discuss with other teams)  
+
+7. **Try to ensure that all top tasks can be accomplished via both searching and browsing** in order to support people who only search or only browse. Consider making the following changes that may help:
+     1. Add "Get your VA medical records" to the megamenu under Health care.
+     3. Add "mental health" to the megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist", "counselor", and "therapy".
+     4. Add "Update contact info" to the Records benefit hub.
+     5. Add "View or change dependent" to Family Member Benefits page, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
+     6. Add "View disability rates" to megamenu under Disability, as an search autocomplete suggestion, and a search "top recommendation".
+     7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
+     8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
+
 8. Consider changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
-9. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
 10. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
