@@ -152,7 +152,7 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Screener
 
-[Recruitment email]()
+[Recruitment email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-08-appointment-info-hierarchy/recruitment-email.md)
 
 ## Timeline
 The survey will open on ? and should remain open for two weeks (Date?) or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
