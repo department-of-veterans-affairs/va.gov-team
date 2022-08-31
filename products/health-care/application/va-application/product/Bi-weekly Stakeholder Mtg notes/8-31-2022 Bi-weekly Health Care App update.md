@@ -2,10 +2,10 @@
 
 ### 8/31/22 Agenda Items
 - American Indian question
-     - ...
-     - [ ] .... 
-Short Form - ES team development update
-- Joshua is out of the office this week, will obtain update next week
+     - update
+     - [ ] **(8/31/22)** 
+- Short Form - ES team development update
+     - Joshua is out of the office this week, will obtain update next week
 
 
 ### Future Endeavors (Backlog)
