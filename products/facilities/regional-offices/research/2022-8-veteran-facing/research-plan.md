@@ -126,7 +126,7 @@ Recruiting 10-14 Veterans who have:
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Aslan French, aslan.french@civicactions.com
+*   Moderator: Aslan French, aslan.french@civicactions.com, +1 510-408-7510 #1001
 *   Research guide writing and task development: Aslan French
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
