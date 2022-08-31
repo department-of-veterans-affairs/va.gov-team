@@ -1,9 +1,9 @@
 # August 31, 2022 HEC Bi-weekly Health Care application update
 
 ### 8/31/22 Agenda Items
+
 - American Indian question
-     - update
-     - [ ] **(8/31/22)** 
+     - Update on language
 - Short Form - ES team development update
      - Joshua is out of the office this week, will obtain update next week
 
