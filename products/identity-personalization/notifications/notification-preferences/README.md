@@ -48,9 +48,9 @@ This section of profile allows users to:
 The following data will come through VA Profile's API
 
 - Notification types (appointment reminder, claim update, etc)
-- Channels (text*/email), groups (e.g. health care)
+- Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
-* Note: only text is supported today.
+
 
 - Currently we support the following notifications:
 
