@@ -51,14 +51,14 @@ jobs:
   #       run: mkdir vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}
 
   #     - name: Copy Chart.yaml from template
-  #       if: steps.directory_check.outputs.directory_exists == 'false
+  #       if: steps.directory_check.outputs.directory_exists == 'false'
   #       run: cp vsp-infra-helm/hello-world/Chart.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/Chart.yaml
 
   #     - name: Copy values.yaml from template
   #       run: cp vsp-infra-helm/hello-world/values.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
   #     - name: Modify image to pull from ECR
-  #       if: steps.directory_check.outputs.directory_exists == 'false
+  #       if: steps.directory_check.outputs.directory_exists == 'false'
   #       run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY}}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
   #     - name: Create pull request
@@ -106,18 +106,18 @@ jobs:
         run: mkdir vsp-infra-application-manifests/apps/om-test/dev
 
       - name: Copy Chart.yaml from template
-        if: steps.directory_check.outputs.directory_exists == 'false
+        if: steps.directory_check.outputs.directory_exists == 'false'
         run: cp vsp-infra-helm/hello-world/Chart.yaml vsp-infra-application-manifests/apps/om-test/dev/Chart.yaml
 
       - name: Copy values.yaml from template
         run: cp vsp-infra-helm/hello-world/values.yaml vsp-infra-application-manifests/apps/om-test/dev/values.yaml
 
       - name: Modify image to pull from ECR
-        if: steps.directory_check.outputs.directory_exists == 'false
+        if: steps.directory_check.outputs.directory_exists == 'false'
         run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY }}"' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
 
       - name: Create pull request
-        if: steps.directory_check.outputs.directory_exists == 'false
+        if: steps.directory_check.outputs.directory_exists == 'false'
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
