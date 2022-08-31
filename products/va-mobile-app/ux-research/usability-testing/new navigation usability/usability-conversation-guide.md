@@ -82,6 +82,9 @@
 * I want to direct your attention to the app now. 
   * Without touching your device, please describe what you see on your screen.
   * What stood out to you **first** when looking at this screen?
+* Directing your attention to the bar at the bottom of the screens with the icons that says "Home, Benefits, Health, Payments" 
+  * What sorts of things would you expect to see when you tap "Benefits"?
+  * What sorts of things would you expect to see when you tap "Payments"?
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 ### Task 1: Update email address (5 minutes)
@@ -105,7 +108,7 @@
 * Go ahead and use the app to find out how much was deposited. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Payments screen before starting the next task. Note where they have trouble.*
 * What did you expect to find when you tapped on “Benefit payments”?
-* What do you expect to find if you tapped on “Outstanding debts”?
+* What would you expect to find if you tapped on “Outstanding debts”?
 
 ### Task 5: Check the status of your disability claim (5 minutes)
 * **PROMPT:** You have an active disability claim, and you are curious about its status. Without touching anything, where would you expect to go to do that?
