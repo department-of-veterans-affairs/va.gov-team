@@ -75,7 +75,7 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 
 What do you intend to learn and measure from this study? 
 
-*   We believe that Veterans will have similar goals as Veterans using the facility search tool, VAMC, and Vet Center pages, and will be operating with familiarity with industry standard design patterns for location search and details. 
+*   We believe that Veterans will have similar goals as Veterans using the facility search tool, VAMC, and Vet Center pages, and will be operating with familiarity with industry standard design patterns for location search and details.
 
 What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 
@@ -139,7 +139,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Aslan French, aslan.french@civicactions.com
+*   Moderator: Aslan French, aslan.french@civicactions.com, +1 510-408-7510 #1001
 *   Research guide writing and task development: Aslan French
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
