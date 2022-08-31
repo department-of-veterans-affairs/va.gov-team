@@ -387,22 +387,37 @@ Audience segments:
 * Service members: 2
 
 
-![participant-roles]()
+Gender:
+* Male:   11 
+* Female:  5 
+* Unknown: 1
+
+
+LGBTQ+:
+* Transgender: 1 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
+* Gay, lesbian, or bisexual: Unknown
+
+
+Devices used during study: 
+* Desktop: 12 
+* Tablet: 4
+* Smart phone: 3 
+* Assistive Technology: 0
 
 Gender:
-* Male:      11
-* Female:     5
-* Non-binary: 1
+* Male:      12
+* Female:     6
+* Non-binary: 0
 * Trans:      1
-* Unknown:    1
 
 
 Age: 
-* 25-34: TBD
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65+:   
+* 25-34: 2
+* 35-44: 4
+* 45-54: 5
+* 55-64: 5
+* 65+:   3
 
 
 Education: 
@@ -420,7 +435,7 @@ Geographic location:
 
 
 Race:
-* White: TBD
+* White: 8
 * Black: 10
 * Hispanic: 2 
 * Biracial: 3
