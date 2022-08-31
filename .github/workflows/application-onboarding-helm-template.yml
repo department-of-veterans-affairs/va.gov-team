@@ -106,7 +106,7 @@ jobs:
 
       - name: Create application directory
         if: steps.directory_check.outputs.directory_exists == 'false'
-        run: mkdir vsp-infra-application-manifests/apps/om-test/dev
+        run: mkdir -p vsp-infra-application-manifests/apps/om-test/dev
 
       - name: Copy Chart.yaml from template
         if: steps.directory_check.outputs.directory_exists == 'false'
