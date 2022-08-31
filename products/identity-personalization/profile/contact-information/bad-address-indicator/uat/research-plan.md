@@ -23,8 +23,6 @@ The primary goal of our UAT is to confirm that the BAI functionality works as ex
 - We would like to validate that the FAQ dropdown functions as intended.
 - We would like to validate that the bad address flag is removed from the user's account as expected when an address is updated AND confirmed.
 - We would like to validate that the alerts disappear as expected when an address is updated or confirmed.
-- We would like to validate that no major usability hurdles have been introduced during the iterations that have occurred, especially with the changes we made to the alert design.
-- _(not confirmed) We would like to test the alerts with a screen reader user to validate that the information is presented in line with their mental model and they are able to act on it as intended._
 
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
@@ -38,7 +36,6 @@ Based on the outcome of this research study, we will either release this work to
 - Veterans will be able to easily take action to update or confirm their address and clear the alerts.
 - Veterans will be able to easily use the FAQ to learn more about confirming their address.
 - Veterans will not encounter any bugs in the Contact information section while updating or confirming their address.
-- _(not confirmed) Screen reader users will feel that the information is presented in line with their mental model, and is easily understood and acted upon._
 
 ## Method	
 We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on our usability-related questions. We will test this feature in production internally and work with VA Profile to trigger a bad address flag for participants' accounts.
@@ -47,12 +44,10 @@ We'll have participants go through a list of specific tasks for UAT and ask foll
 Remote, via Zoom
 
 ### Research materials
-Conversation guide
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/conversation-guide.md)
 
 ## Recruitment	
 We will be conducting this research study internally without recruitment from Perigean. We will use production accounts for 6 members of the Profile team, onto which VA Profile will have placed the Bad address indicator flag.
-
-_Note: considering including screen reader user as well_
 
 ### Recruitment criteria
 
@@ -88,4 +83,5 @@ Please list the people who will be serving in each role.
 	-   <liz.lantz@adhocteam.us>
 	-   <sharon.kasimow@gcio.com>
 	-   <adam.whitlock@adhocteam.us>
-	-   <tom.harrison@adhocteam.us>
+	-   <tom.harrison@adhocteam.us> - Tom will correct/manage BAI flags if not displaying correctly on production accounts
+	-   **Note:** If Tom is not permitted to manage BAI flag on his own, we’ll need someone from VA Profile standing by in case assistance is needed
