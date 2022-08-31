@@ -113,7 +113,7 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
-- Coming soon!
+- _Coming soon!_
 
 ## Frontend
 
