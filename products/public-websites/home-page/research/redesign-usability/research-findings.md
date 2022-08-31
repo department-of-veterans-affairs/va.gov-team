@@ -331,7 +331,7 @@ We heard some pain points about VA in general, which is included below but not a
      2. Consider removing "Education benefits" because it's not a search tool like "Find a form" and "Find a VA facility". 
      3. Remove the "Yellow Ribbon" link because a lot of people don't know what it is, and it's confusing to have a second education link.
      4. Possibly rename *Other search tools* since this name wasn't clear to some people.
-1. **Consider renaming the "Sign in or create account" button to "Create an account"** so that it specifically addresses people who don't yet have an account. Most participants in this were accustomed to using the "Sign in" button in the header to access the account they already have, and some were confused by seeing a second button. 
+1. **Consider renaming the "Sign in or create account" button to "Create an account"** so that it specifically addresses people who don't yet have an account. Most participants in this research were accustomed to using the "Sign in" button in the header to access the account they already have, and some were confused by seeing a second button. 
 1. **Try to ensure that all top tasks can be accomplished via both searching and browsing** in order to support people who only search or only browse. Consider adding the following to the home page, which may help:
      1. Add "Manage your VA health care" link, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
      2. Add "Get your VA medical records" to Common tasks.
