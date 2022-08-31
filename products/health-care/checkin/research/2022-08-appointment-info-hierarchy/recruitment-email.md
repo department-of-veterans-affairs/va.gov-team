@@ -2,7 +2,7 @@
 
 Subject: Participate in research with VA
 
-Hello {name},
+Hello,
 
 The VA.gov team at the Department of Veterans Affairs is conducting research to learn what appointment information, such as provider name or clinic address, is most important to you when checking in for a medical appointment or completing pre-check-in on your desktop or smartphone prior to your appointment.
 
