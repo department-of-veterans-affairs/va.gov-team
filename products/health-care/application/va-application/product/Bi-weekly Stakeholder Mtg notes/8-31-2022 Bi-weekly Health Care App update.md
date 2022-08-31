@@ -3,7 +3,10 @@
 ### 8/31/22 Agenda Items
 
 - American Indian question
-     - Update on language
+     - The paper version language had already gone through OMB review and extreme vetting
+     - Patrick explained that the digital format allows us to provide additional context right there on the page, whereas the paper form understandably has limited real estate and references another part of the form for definitions
+     - Patrick also explained that OMB approves the paper form, the digital form does need to align with the paper form in that the digital form does not ask for additional information not on the paper form or cause any additional burden to the Veteran.  The digital form has the opportunity to use plain language and provide clarity right there on the same page of the questions.
+     - [ ] **(8/31/22) Online Health Apps team** to provide a draft of the online question and explanation for Tarsha to share with Mr. Echols
 - Short Form - ES team development update
      - Joshua is out of the office this week, will obtain update next week
 
