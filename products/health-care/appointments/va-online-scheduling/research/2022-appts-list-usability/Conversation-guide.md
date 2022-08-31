@@ -135,7 +135,8 @@ While youre on this page, I wanted to talk a bit about what you see here.
 
 #### Things to watch for:
 
-- _Does participant click the start scheduling action button
+- _Can participant differentiate between appointment modalities?_
+- _Can participant identify the status of the canceled appointment?_
 
 ## Post-Task Interview - 5 minutes
 
