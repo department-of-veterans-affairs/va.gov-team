@@ -98,7 +98,7 @@ jobs:
       - name: Check if application directory exists
         id: directory_check
         run: |
-          if [ -d vsp-infra-application-manifests/apps/om-test/dev ]
+          if [ -d vsp-infra-application-manifests/apps/datadog-agent/dev ]
           then 
             echo "::set-output name=directory_exists::$(echo true)"
           else
