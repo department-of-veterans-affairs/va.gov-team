@@ -1,0 +1,129 @@
+name: Automation for application onboarding helm template
+
+on:
+  push:
+  # workflow_call:
+  #   inputs:
+  #     application_name:
+  #       description: Application name
+  #       required: true
+  #       type: string
+  #     application_environment:
+  #       description: Application environment
+  #       required: true
+  #       type: string
+  #     task:
+  #       description: Onboarding or promoting
+  #       required: true
+  #       type: string
+
+jobs:
+  # application-directory:
+  #   runs-on: ubuntu-latest
+  #   if: inputs.application_environment == 'dev'
+  #   steps:
+  #     - name: Check out Application Manifest infra repo
+  #       uses: actions/checkout@v2
+  #       with:
+  #         repository: department-of-veterans-affairs/vsp-infra-application-manifests
+  #         token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+  #         path: vsp-infra-application-manifests
+
+  #     - name: Check out Helm template infra repo
+  #       uses: actions/checkout@v2
+  #       with:
+  #         repository: department-of-veterans-affairs/vsp-infra-helm
+  #         token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+  #         path: vsp-infra-helm
+
+  #     - name: Check if application directory exists
+  #       id: directory_check
+  #       run: |
+  #         if [ -d vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }} ]
+  #         then 
+  #           echo "::set-output name=directory_exists::$(echo true)"
+  #         else
+  #           echo "::set-output name=directory_exists::$(echo false)"
+  #         fi
+
+  #     - name: Create application directory
+  #       if: steps.directory_check.outputs.directory_exists == 'false'
+  #       run: mkdir vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}
+
+  #     - name: Copy Chart.yaml from template
+  #       if: steps.directory_check.outputs.directory_exists == 'false
+  #       run: cp vsp-infra-helm/hello-world/Chart.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/Chart.yaml
+
+  #     - name: Copy values.yaml from template
+  #       run: cp vsp-infra-helm/hello-world/values.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+  #     - name: Modify image to pull from ECR
+  #       if: steps.directory_check.outputs.directory_exists == 'false
+  #       run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY}}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+  #     - name: Create pull request
+  #       if: steps.directory_check.outputs.directory_exists == 'false
+  #       id: cpr
+  #       uses: peter-evans/create-pull-request@v4
+  #       with:
+  #         path: vsp-infra-application-manifests
+  #         token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+  #         branch: "chore/${{ inputs.task }}-${{ inputs.application_name }}-${{ inputs.application_environment }}"
+  #         commit-message: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+  #         title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+  #         body: Automated PR triggered by issue ${{ github.event.issue.html_url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
+
+  application-directory:
+    runs-on: ubuntu-latest
+    # if: inputs.application_environment == 'dev'
+    steps:
+      - name: Check out Application Manifest infra repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-application-manifests
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          path: vsp-infra-application-manifests
+
+      - name: Check out Helm template infra repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-helm
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          path: vsp-infra-helm
+
+      - name: Check if application directory exists
+        id: directory_check
+        run: |
+          if [ -d vsp-infra-application-manifests/apps/om-test/dev ]
+          then 
+            echo "::set-output name=directory_exists::$(echo true)"
+          else
+            echo "::set-output name=directory_exists::$(echo false)"
+          fi
+
+      - name: Create application directory
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: mkdir vsp-infra-application-manifests/apps/om-test/dev
+
+      - name: Copy Chart.yaml from template
+        if: steps.directory_check.outputs.directory_exists == 'false
+        run: cp vsp-infra-helm/hello-world/Chart.yaml vsp-infra-application-manifests/apps/om-test/dev/Chart.yaml
+
+      - name: Copy values.yaml from template
+        run: cp vsp-infra-helm/hello-world/values.yaml vsp-infra-application-manifests/apps/om-test/dev/values.yaml
+
+      - name: Modify image to pull from ECR
+        if: steps.directory_check.outputs.directory_exists == 'false
+        run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY }}"' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
+
+      - name: Create pull request
+        if: steps.directory_check.outputs.directory_exists == 'false
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          path: vsp-infra-application-manifests
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          branch: test/helm-template
+          commit-message: onboard om-test to the dev environment
+          title: onboard om-test to the dev environment
+          body: Automated PR triggered by issue for onboard om-test to dev
