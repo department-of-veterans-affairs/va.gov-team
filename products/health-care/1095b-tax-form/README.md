@@ -103,3 +103,4 @@ In addition to the team above:
 ## Miscellaneous notes:
 
 - All sprint review/demo decks for 1095-B were combined with Health Hub starting April 19, 2022 and are found in this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/PMO/Sprint%20Demo%20and%20Acceptance)
+- Product turned over to OCTO 7-SEP-22 (Kay Lawyer, Stephen Barrs, Mark Dewey)
