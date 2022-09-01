@@ -17,10 +17,10 @@ on:
       task:
         description: Onboarding or promoting
         required: true
+        default: onboarding
         type: choice
         options:
           - onboarding
-          - promoting
   workflow_call:
     inputs:
       application_name:
