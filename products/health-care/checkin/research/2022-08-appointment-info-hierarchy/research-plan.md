@@ -109,9 +109,9 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Recruitment criteria
 
-|Total requested|Completed sessions|Veterans and Caregivers| Family Member|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|
-|      63         |         35         |    63    |     0        |      0    |
+|Total requested|Completed sessions|Veterans | Family Member| Caregivers | Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:--------:|
+|      63         |         35         |    54    |     0        |      9    |      0    |
 
 * ALL have a computer or mobile device and are willing to use it to complete the activity.
 * **ALL must have been to a VA health care facility for a medical appointment for themself or a Veteran that they care for in the last 12 months.**
