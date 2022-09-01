@@ -12,7 +12,7 @@ Regional offices and their children, benefits offices, provide Veterans with acc
 
 The regional/benefit office pages seek to give important information about physical locations where Veterans can seek help and receive benefits. The regional/benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with the facility locator, VAMCs, and vet centers. 
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
 ### OCTO Objectives
 
