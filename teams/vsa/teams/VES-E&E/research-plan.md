@@ -162,11 +162,11 @@ Friday, September 9: 8 AM - 12 PM EST, 1 PM - 4 PM EST
 
 Monday, September 12: 8 AM - 1 PM EST, 2 PM - 4 PM EST
 
-Tuesday, September 13: 10 AM - 3 PM EST
+Tuesday, September 13: 10 AM - 4 PM EST
 
-Wednesday, September 14: 8 AM - 1 PM EST
+Wednesday, September 14: 8 AM - 3 PM EST
 
-Thursday, September 15: 8 - 10:30 AM EST, 11 AM - 1 PM EST
+Thursday, September 15: 8 - 10:30 AM EST, 11 AM - 1 PM EST, 1:30 AM - 4 PM EST,
 
 ## Team Roles
 
