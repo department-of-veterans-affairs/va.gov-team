@@ -11,6 +11,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 - Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate for migrating **and** maintaining high-quality content over the long term
   - 2 pilot migration/Resources and Support programs are underway in which we're testing and learning from a collaborative auditing, strategy, and writing approach
   - Content intake process work is in progress with OPIA, OIT, VEO, VBA, VHA, and NCA
+  - Content design and plain language program development is in progress (1 recorded content training is going into Drupal KB article soon and another will follow next quarter)
 - An understanding of all the content that remains to be migrated so that we can apply our criteria for prioritization
   - We are a significant way through a [broad content audit of VA, VBA, VHA, and NCA sites](https://dvagov-my.sharepoint.com/:x:/g/personal/danielle_thierry_va_gov/EfbZkH1Kr8BFsXEhb09_Rx4Bhbr9ugKdUxhyh0hyZxBFVg?e=jjgReF)
 
