@@ -24,23 +24,41 @@ In most cases, it is simply a form for one's records. However, some states still
     - [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md) 
     - [Raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round-2-synthesis%20spreadsheet.xlsx)
 
-## Designs
+## Product roadmap overview
+
+### Minimal Viable Product
+
+The MVP release is the closest to completion. This release makes the 1095-B form available online, but does not link to the page from anywhere (so it's not easily findable). 
+
+#### Release plan
+* [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md)
+
+#### Designs
+
 - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
 - [MVP webpage designs, unauth PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20MVP%20Product%20Designs.pdf)
+- [MVP Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
+
+### Opt-in to paperless delivery
+
+#### Designs
+
 - [Opt-in webpage designs PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20Post-MVP%20Paperless%20Designs.pdf)
 - [Opt-in profile design component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/design/Opt-in%20Profile%20Component%20designs%208.16.22) 
-- [MVP Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
 - [VA Notify templates - emails](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/VA%20Notify) -content under revision by sitewide, standing by for new design
+
+#### Building the opt-in capability requires co-ordination across multiple teams: 
+- MyVA: Samara Strauss & Liz Lanz
+- HEC: Joshua Faulkner
+- VA Profile: Micheal Richard 
+- VA Notify: Beverly Nelson
+
 
 ## Call center documents
 
 - [HEC Call Center documents - English](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20English%20Opt-in)
 - [HEC Call Center documents - Spanish](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in)
 
-## Release information 
-
-The following release is the closest to completion: 
-* [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 
 ## Operations
 
@@ -62,11 +80,6 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 ## Next Steps for 1095-B 
 * [Next steps for new team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf)
     * Launch MVP - [staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
-    * Collaborative build of opt-in to digital delivery
-        * MyVA	Samara Strauss & Liz Lanz
-        * HEC 	Joshua Faulkner
-        * VA Profile	Micheal Richard 
-        * VA Notify	Beverly Nelson
     * [Requisition wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
         * Sitewide   Randi Hecht
     * Digitalized correction of document
