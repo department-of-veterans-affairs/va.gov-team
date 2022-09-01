@@ -20,9 +20,9 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 
 
 ## Issues During Testing
-**Issue Description:** 
+**Issue Description:** ID.me users are presented with a consent request on sign-in, even though they previously consented to share their information with VA.gov.  This is due to the fact that ID.me sees them as new users because we are sending them via Sign-in Service instead of SSOe.  This leads to some users rejecting consent, which prevents login.  In our initial testing, we saw about 3% of users reject consent.  While an immediate solution is not possible from the VA.gov side, we should work with ID.me to implement a solution as this negatively impacts our success rate. 
 **Link to ticket:** 
-**Status:**
+**Status:**  
 
 **Issue Description:** 
 **Link to ticket:** 
