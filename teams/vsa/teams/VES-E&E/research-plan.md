@@ -93,12 +93,12 @@ Please recruit a total of 25 participants for a total of 14 completed interviews
 **Primary criteria (must-haves)**
 
 -   Experience determining eligibility and enrolling in VA health benefits
-
-**Secondary criteria (nice-to-haves)**
-
 -   At most 7 participants who determined their eligibility for VA benefits and did not enroll
 -   At most 7 family members or caretakers of Veterans who have determined their eligibility and did or did not enroll
 -   At least 3 caretakers
+
+**Secondary criteria (nice-to-haves)**
+
 -   At least 7 participants age 55-64+
 -   At least 7 participants with a cognitive disability
 -   At least 4 participants living in a rural area
