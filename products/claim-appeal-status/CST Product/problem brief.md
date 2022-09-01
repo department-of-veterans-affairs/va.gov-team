@@ -78,7 +78,7 @@ The mapping from EVSS/Lighthouse statues to the 5 phases shown in the timeline a
 Phases 3, 4, 5, and 6 from EVSS/Lighthouse get consolidated to the phase 3 that is displayed on the timeline on VA.gov. The claim MUST be in ‘GATHERING OF EVIDENCE’ for the waiver page to be accessible; if it is in any of the other states, it will not be accessible.
 
 ### Vets API call stack
-- Route:[config/routes.rb[(https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/config/routes.rb#L127)
+- Route:[config/routes.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/config/routes.rb#L127)
 - Controller:[app/controllers/v0/evss_claims_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/controllers/v0/evss_claims_controller.rb#L29-L39)
 - Service: [app/services/evss_claim_service.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/services/evss_claim_service.rb#L41-L43)
 - Worker: [app/workers/evss/request_decision.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/workers/evss/request_decision.rb#L3-L10)
