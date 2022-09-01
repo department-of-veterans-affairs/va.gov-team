@@ -86,7 +86,7 @@ jobs:
         run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
 
       - name: Create pull request
-        if: steps.directory_check.outputs.directory_exists == 'false
+        if: steps.directory_check.outputs.directory_exists == 'false'
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
