@@ -58,12 +58,22 @@ jobs:
           if [ "${{ steps.get_app_environment.outputs.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
           echo "::set-output name=task::$(echo ${task})"
 
-  call-automation-workflow:
+  call-automation-onboard-or-promote-workflow:
     needs: onboard-or-promote
     uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
     with:
       application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
       application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
       maintainer_github_user: ${{ needs.onboard-or-promote.outputs.maintainer_github_user }}
+      task: ${{ needs.onboard-or-promote.outputs.task }}
+    secrets: inherit
+
+  call-automation-onboard-using-helm-template-workflow:
+    needs: onboard-or-promote
+    if: needs.onboard-or-promote.outputs.application_environment == 'dev'
+    uses: ./.github/workflows/application-onboarding-helm-template.yml
+    with:
+      application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
+      application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
       task: ${{ needs.onboard-or-promote.outputs.task }}
     secrets: inherit
