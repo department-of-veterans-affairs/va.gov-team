@@ -16,7 +16,7 @@ Last Updated September 1, 2022
 
 ## POCs
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- [THe frontend for this feature is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+- [The frontend for this feature is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 - The backend for this feature is maintained by the Lighthouse team, including Dave Mazik, VA Lighthouse (@davem-va), Andrew Fichter (@afichter-va), and Ryan Link (@ryanlink). **We need to validate that these people are still here and responsible for connected apps**.
 
 ## Overview
