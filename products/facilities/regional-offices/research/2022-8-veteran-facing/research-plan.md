@@ -110,10 +110,10 @@ Recruiting 10-14 Veterans who have:
 
 ## Timeline
 
-Early September - Research Review & Approval
-Mid September - Paticipant Recruitment
-Late Sept/ Early Oct - Research Sessions
-Mid/Late Oct - Research Synthesis and Readouts
+*   Early September - Research Review & Approval
+*   Mid September - Paticipant Recruitment
+*   Late Sept/ Early Oct - Research Sessions
+*   Mid/Late Oct - Research Synthesis and Readouts
 
 ### Length of sessions
 
