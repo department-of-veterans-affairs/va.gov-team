@@ -27,7 +27,7 @@ Last Updated: August 19, 2022
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@gcio.com|
+|Sharon Kasimow |Product Manager| sharon.kasimow@govcio.com|
 |Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
