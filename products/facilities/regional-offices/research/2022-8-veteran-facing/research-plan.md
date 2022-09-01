@@ -103,7 +103,8 @@ Recruit through Perigean.
 
 Recruiting 10-14 Veterans who have:
 
-*   Visited a regional of benefits office in the last six months. 
+*   Visited a regional benefits office in the last six months. 
+*   Question - Can we prescreen based on the purpose of their visit (i.e. home loan vs disabilities)? If not, how do we ensure a spread across different benefit services?
 *   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
 *   A range of ages from recently in service to older Veterans. 
 *   Veterans who live both in urban and rural locations.
