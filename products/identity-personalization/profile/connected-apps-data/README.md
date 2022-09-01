@@ -1,27 +1,57 @@
-## App Directory
+# Connected Apps Product Outline
 
-**VA Product Owners:** Dave Mazik, VA Lighthouse (@davem-va), Andrew Fichter (@afichter-va) | **Maintained by:** Ryan Link (@ryanlink)
+Last Updated September 1, 2022
+     
+## Table of Contents
 
-**Overview:** A complete list of third-party applications consuming VA Lighthouse OAuth APIs, that a Veteran can connect their VA data to. On VA.gov, this is referenced on Connected Apps (Auth. Exp. page) and App Directory (Public Websites page).
+- [POCs](#)
+- [Overview](#overview)
+- [User Problem Statement](#user-problem-statement)
+- [Projects](#projects)
+- [Analytics](#analytics)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design and UX](#design)
 
 
-## Lighthouse Consumer Onboarding Asks
+## POCs
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- [THe frontend for this feature is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+- The backend for this feature is maintained by the Lighthouse team, including Dave Mazik, VA Lighthouse (@davem-va), Andrew Fichter (@afichter-va), and Ryan Link (@ryanlink). **We need to validate that these people are still here and responsible for connected apps**.
 
-- Official name of app
-- 45x45 pixel image of app icon on a transparent background (PNG, JPG, or GIF)
-- 1024x1024 pixel image of app icon on a transparent background (PNG, JPG, or GIF)
-- Link to privacy policy
-- Link to terms of service
-- Link to their webpage where users can learn more about the app and where to get it
-- Brief overview description of the app and how it is useful to Veterans. App description can be up to 415 characters and must be reviewed by Lighthouse UX.
-- A list of devices/platforms this app is available on (eg. iOS, iPhone, iPad, Android tablet, Android phone, web browser, etc.)
+## Overview
 
-## List of Third-Party Apps in Production
+The Connected apps section of the VA.gov profile allows users to view which third-party applications they have granted access to their VA, and it allows them to remove access to their data for any of the third-party apps they've previously connected.
 
-**Current as of:** May 20, 2020
+[This is the list of apps that people can currently connect to their VA.gov data and manage from Connected apps](https://staging.va.gov/resources/find-apps-you-can-use/).
 
-[App Directory List (CSV)](App%20Directory%20-%20Production%20List.csv)
+## User Problem Statement
 
-[Logo image files](../connected-apps-data/)
+As a user I need to:
 
-_NOTE:_ As of May 20, 2020: GirlsComputingLeague is not ready to list their ClinicalTrialSelector app in the Directory._
+- View which third-party apps have access to my VA data.
+- Remove access to my VA data for third-party apps.
+
+## Projects
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Combine profile and account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme)| September 2020|
+
+## Analytics
+- [GA dashboard for connected apps](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
+
+## Backend
+
+### Services
+
+### How to Access and Test
+
+## Frontend
+
+## Design and UX
+- Add Sketch files
+- Add use cases
+
+### Flow diagrams
+- Add a flow diagram
