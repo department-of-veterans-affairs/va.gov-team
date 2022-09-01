@@ -18,7 +18,7 @@
   - These potentials still need to be verified
 - [Documentation](https://github.com/department-of-veterans-affairs/connect_vbms/blob/master/docs/requests.rst)
 
-##Stakeholder Interview w/ Paul Schute
+## Stakeholder Interview w/ Paul Schute
 ### eFolder
 - VFS will push to VBMS
 - Centralized mail portal will associate them with eFolder
