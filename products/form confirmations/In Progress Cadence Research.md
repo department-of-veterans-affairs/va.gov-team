@@ -15,7 +15,6 @@ Results from July 20th to August 20th, 2022  were analyzed.
 ## Key Findings
 
 1. Vast majority of utilization appears to be coming from the 7-day reminders
-2. It's a relatively similar submission rate when a user does click into resume the application
 
 ### Recommendations Based on Findings
 
