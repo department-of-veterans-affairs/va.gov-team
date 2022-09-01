@@ -133,6 +133,6 @@ Please list the people who will be serving in each role. **Include the primary p
 *   Research guide writing and task development: Aslan French
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
-*   Participant(s) for pilot test:
+*   Participant(s) for pilot test: Max, John, or Christian?
 *   Note-takers: Perigean
-*   Observers:
+*   Observers: Dave Pickett & Denise Eisner
