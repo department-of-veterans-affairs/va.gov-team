@@ -112,7 +112,7 @@ Notification settings come from [VA Profile](https://depo-platform-documentation
 Additional details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/backend_documentation.md)
 
 ### Error Handling
-- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
+
 - _Coming soon!_
 
 ## Frontend
