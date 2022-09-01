@@ -54,13 +54,13 @@ The following data will come through VA Profile's API
 - User settings (null, true, false) will come through
 
 
-- Currently we support the following notifications:
+Currently we support the following notifications:
 
 |Notification Group|Item|
 |--------|-----------|
 |Health Care|- Appointment Reminders <br />- Prescription Shipping|
 |Health Care| - Applications, claims, decision reviews, and appeals|
-| Financial | Payments (future)|
+| Financial | - Payments (future)|
 
      
 ## User Outcomes
