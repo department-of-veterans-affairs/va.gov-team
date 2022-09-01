@@ -1,4 +1,4 @@
-# Initiative Outline - Improve Facility Selection on the 10-10CG (DRAFT)
+# Initiative Outline - Improve Facility Selection on the 10-10CG
 
 #### [Epic for 10-10CG Improve Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
 #### [Transition document for Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md)
@@ -72,6 +72,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: Make it easier for Veterans with representatives to fill out the online form
   - Key result: number of applications that are not misrouted or delayed **Where can we get this information??**
   - Key result: Facilities list is complete, accurate and up to date
+       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/dist/caregiverProgramFacilities.json) contained 142 facilities
   - 
   
 
