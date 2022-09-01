@@ -78,7 +78,7 @@ Interviews will take place remotely on Zoom.
 
 ### Research materials
 
-- [Link to conversation guide](Link pending) 
+- [[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/VES-E%26E/conversation-guide.md)](Link to conversation guide) 
 
 ## Recruitment
 
