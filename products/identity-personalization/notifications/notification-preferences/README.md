@@ -71,7 +71,6 @@ Currently we support the following notifications:
 - As a veteran, I want to be able to select where and how I receive those communication (eg. receive emails for claim updates; receive texts for appointment reminders).
 - As a veteran, I only want to have to keep this information updated in one place.
 
-### Undesired user outcomes
 
 ## Business Outcomes
 
@@ -80,8 +79,6 @@ Currently we support the following notifications:
 - Allow veterans to set and manage communication preferences from their VA.gov profile.
 - Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
-
-### Undesired business outcomes
 
 
 ## Measuring success
