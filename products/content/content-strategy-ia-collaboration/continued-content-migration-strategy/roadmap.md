@@ -2,10 +2,11 @@
 
 ## Criteria for prioritization
 
-- **Audience and content topic:** We have a "home" for benefit and service content for Veterans and other beneficiaries. We will prioritize migrating content that fits this definition to the Drupal environment. While auditing sites/sections, we'll also identify content for other audiences that may either be suited to migrate to the new WordPress VIP space or may need another solution (such as content for health care providers).
-- **Engagement:** We will prioritize pages and sites with 
+- **Audience and content topic:** We have a "home" for benefit and service content for Veterans and other beneficiaries. We will prioritize migrating content that fits this definition to the Drupal environment, using our content placement criteria for the Veteran benefit experience content. While auditing sites/sections, we'll also identify content for other audiences that may either be suited to migrate to the new WordPress VIP space or may need another solution (such as content for health care providers).
+- **Engagement:** We will prioritize pages and sites with a high level of engagement, based on pageviews. As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list.
+- **Accessibility issues:** We will prioritize pages and sites with known accessibility issues.
+- **Level of effort:** We will work to balance between quickly moving forward with pages that require a low level of effort to migrate and continuing to invest time in the full sections, subdomains, and tools that will require a much more significant level of effort.
   
-
 ## Currently in progress
 
 - **Education rates content:** Aiming for completion in September 2022
@@ -42,7 +43,12 @@ These are single pages that require a relatively low level of effort to migrate 
 
 ### Full sections and subdomains
 
-These full sections and subdomains will take significantly more time and effort to migrate. Each presents a unique situation in terms of content (i.e. mixed audiences, content types) and VA program partner needs and perspectives. For each, we'll need to determine the following:
+These full sections and subdomains are high priority because they have:
+- Benefit and service content for Veterans and other beneficiaries
+- Have high engagement
+- Have at least some accessibility issues
+
+But these full sections and subdomains will take significantly more time and effort to migrate. Each presents a unique situation in terms of content (i.e. mixed audiences, content types) and VA program partner needs and perspectives. For each, we'll need to determine the following:
 - If we have an existing modernized "home" for most/all of the content. And, if not, how do we help program offices ensure that content remaining in the legacy environment for now still works from a UX perspective?
 - If we can effectively flow the content into the existing navigation structure (i.e. benefits hubs + R&S)
 - How we might need to iterate on R&S taxonomy or UX to accomodate new content
@@ -50,20 +56,35 @@ These full sections and subdomains will take significantly more time and effort 
 
 As we migrate this content, we also need to bring each program office into the Drupal environment, provide training on both Drupal and plain language, and get shared alignment around our content strategy, content placement criteria, VA.gov content style guide, and editorial processes. This work is slow, but building a partnership and shared alignment is critical to long-term success.
 
-High-priority full sections include the following:
+High-priority full sections of va.gov include the following:
 
 - va.gov/geriatrics
-- 
+- va.gov/healthbenefits
+- va.gov/womenvet
+- va.gov/opa/persona/
+- va.gov/wholehealth
 
+High-priority full sections of benefits.va.gov including the following (with an eventual need to migrate the full subdomain):
 
-High-priority subdomains include the following:
+- benefits.va.gov/benefits/
+- benefits.va.gov/gibill/
+- benefits.va.gov/homeloans/
+- benefits.va.gov/compensation/
+- benefits.va.gov/insurance/
+- benefits.va.gov/vocrehab/
+- benefits.va.gov/persona/
+- benefits.va.gov/transition/
+- benefits.va.gov/atoz
 
+Other high-priority subdomains include the following:
+
+- publichealth.va.gov/exposures/ (eventually, will need to address the full publichealth.va.gov but exposures is top priority)
 - caregiver.va.gov
 - womenshealth.va.gov
+- mentalhealth.va.gov
+- ptsd.va.gov
+- prosthetics.va.gov
+- telehealth.va.gov
+- vetcenter.va.gov
 
-- 
-
-
-www.womenshealth.va.gov/
-
-- 
+In addition, the Sitewide Content and IA team is handling the content portion of the My HealtheVet migration.
