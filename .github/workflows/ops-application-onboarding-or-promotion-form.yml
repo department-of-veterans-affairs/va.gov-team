@@ -58,7 +58,7 @@ jobs:
           if [ "${{ steps.get_app_environment.outputs.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
           echo "::set-output name=task::$(echo ${task})"
 
-  call-automation-argocd-workflow:
+  call-automation-onboard-or-promote-workflow:
     needs: onboard-or-promote
     uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
     with:
@@ -68,7 +68,7 @@ jobs:
       task: ${{ needs.onboard-or-promote.outputs.task }}
     secrets: inherit
 
-  call-automation-helm-template-workflow:
+  call-automation-onboard-helm-template-workflow:
     needs: onboard-or-promote
     if: needs.onboard-or-promote.outputs.application_environment == 'dev'
     uses: ./.github/workflows/application-onboarding-helm-template.yml
