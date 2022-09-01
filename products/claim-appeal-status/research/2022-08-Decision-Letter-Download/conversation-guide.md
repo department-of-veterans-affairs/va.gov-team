@@ -86,7 +86,6 @@ Post-task questions:
 - Let’s say you have received your notification letter in the mail, but you've misplaced it. You want to get a new copy from VA.gov.
 - [VA.gov home page] Where would you go to find the decision letter?
     - Why would you expect to find it there?
-- [Prompt them to open the megamenu from home page] From this list, is there a page where you would expect to find your decision letter?
 
 ### Things to watch for:
 
@@ -95,7 +94,7 @@ Post-task questions:
 
 ## Third Task: VA Benefit Letters Page - 15 minutes
 
-- [Open megamenu on VA.gov home page] What would you expect to find in the "VA Benefit Letters Page"? 
+- What would you expect to find in the "VA Benefit Letters Page"? 
 - [Navigate to the Letters page] Explain to me what you see here. 
 - What do you think is the purpose of this page? How would you use it?
 - What type of content would you expect to be on this page?
