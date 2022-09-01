@@ -227,7 +227,7 @@ Check current disability compensation rates | **Couldn't find by searching** (tr
 Participants struggled with some of the other tasks, too, as shown in the table below:
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
-Message your doctor | **Couldn't find by browsing** | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
+Message your doctor | **Couldn't find by browsing**, used to doing from MHV and not VA.gov | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
 Get VA medical history/records | **Couldn't find by browsing** (tried megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
 Find mental health counselor/therapist | **Couldn't find by searching** (tried "therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
 Update your address with VA | **Couldn't find by browsing** (tried benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
@@ -252,21 +252,7 @@ When the megamenu dropdown is opened, one dropdown option is already expanded--e
 - A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. 
 - In addition, opening the dropdown and having the health care option already expanded was confusing for our pilot participant who uses a screen reader.
 
-We heard some additional usability feedback on the home page and other VA.gov pages:
-1. One participant suggested removing the 3 photos of Veterans because they *"don't do anything" (p14)*--i.e, you can't interact with them.
-1. One participant said that there are too many clicks to get to information from the home page.
-2. Two participants said that there's too much text on some of the VA.gov pages, for example, in the light blue box on the [Burial Eligibility page](https://staging.va.gov/burials-memorials/eligibility/).
-3. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
-
-> *"Don't bury so many things so deep...[check education benefits] buried under too many clicks...want two clicks max...After two clicks I would stop because I don’t want to have to click five times to get to what I am looking for...search until I get tired, and then use the VA 800 number" (p9).*
-
-> *"Makes you read a lot of stuff you shouldn't have to read" (p14).*
-
-> *"I would scan it. I would eventually have to read it once I was frustrated" (p16).*
-
-**Two accessibility issues** were identified during the usability testing:
-1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
+> *"I thought it would clear out; you wouldn’t think a drop-down would save that [the last option opened]" (p23).*
 
 
 ## 6. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
@@ -292,6 +278,26 @@ Below are a few quotes.
 > *"If it looks like a banner ad, I'd be more likely to ignore it...we're trained to ignore banner ads" (p22).*
 
 > *"I hate the photograph--What's in the bag? Getting free food? Not housing assistance but food assistance" (p14).*
+
+> *"Putting it on a platform that homeless Veterans may not have access to would be pointless. Being out there handing the information out instead of placing it on the website and hope they would come across it would be best" (p22).*
+
+## 7. **Additional usability feedback on the home page**
+
+We heard some additional usability feedback on the home page and other VA.gov pages:
+1. One participant suggested removing the 3 photos of Veterans because they *"don't do anything" (p14)*--i.e, you can't interact with them.
+1. One participant said that there are too many clicks to get to information from the home page.
+2. Two participants said that there's too much text on some of the VA.gov pages, for example, in the light blue box on the [Burial Eligibility page](https://staging.va.gov/burials-memorials/eligibility/).
+3. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+
+> *"Don't bury so many things so deep...[check education benefits] buried under too many clicks...want two clicks max...After two clicks I would stop because I don’t want to have to click five times to get to what I am looking for...search until I get tired, and then use the VA 800 number" (p9).*
+
+> *"Makes you read a lot of stuff you shouldn't have to read" (p14).*
+
+> *"I would scan it. I would eventually have to read it once I was frustrated" (p16).*
+
+**Two accessibility issues** were identified during the usability testing:
+1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
+2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
 
 
 ## Other Findings
@@ -338,7 +344,7 @@ We heard some pain points about VA in general, which is included below but not a
      3. Add "mental health" to Common tasks.
      4. Add "Update contact info" to Common tasks.
      5. Add "View or change dependent" to Common tasks.
-9. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
+9. **Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it**. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 
@@ -351,8 +357,8 @@ We heard some pain points about VA in general, which is included below but not a
      7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
-8. Consider changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
-10. Consider whether some common misspellings could be handled more gracefully by search, such as a search for "benifits" being able to return the results as if "benefits" were typed.
+8. Consider **changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+10. Consider whether **some common misspellings could be handled more gracefully by search**, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
 
@@ -364,20 +370,21 @@ We heard some pain points about VA in general, which is included below but not a
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/conversation-guide.md)
-- Screenshot of the [Home page that was tested](https://staging.va.gov/homepage-test/):
-
-![homepg-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-top.png)
-![homepg-middle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-middle.png)
-![homepg-footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-footer.png)
-
+- [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research/redesign-usability/notes)
 
 ## Tools used for Synthesis
 
 [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20pg%20redesign%20usab%20notes%20%26%20data%20analysis%20(9).xlsx)
 [Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20Page%20Redesign%20Usability%20Test%20pictures%20for%20report.pptx)
 
+## Pages and applications used
+Screenshot of the [Home page that was tested](https://staging.va.gov/homepage-test/):
 
-## Who we heard from 
+![homepg-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-top.png)
+![homepg-middle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-middle.png)
+![homepg-footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-footer.png)
+
+## Who we talked to 
 
 **Recruitment criteria**
 
