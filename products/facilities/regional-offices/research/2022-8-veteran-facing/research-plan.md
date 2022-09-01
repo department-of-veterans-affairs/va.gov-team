@@ -69,6 +69,7 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 *   What are the top tasks that Veterans seek out a regional/benefit office for? 
 *   How important is the child location relationship to the regional office for Veterans?
 *   What are the questions Veterans want answered by calling the phone number(s)?
+*   What else do Veterans need in order to be prepared for a visit?
 *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 ### Hypothesis
