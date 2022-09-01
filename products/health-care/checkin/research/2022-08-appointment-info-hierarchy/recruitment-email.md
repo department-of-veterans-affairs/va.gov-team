@@ -1,6 +1,6 @@
 # Outreach emails for Recruitment for Check-in’s Unmoderated Appointment Information Survey
 
-Subject: Participate in research with VA
+Subject: Participate in research with VA and earn [$XX]
 
 Hello,
 
