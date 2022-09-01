@@ -36,7 +36,7 @@ Overview of product roadmap (with details below):
 - Making the 1095-B form findable
 - Ability to retrieve previous years' 1095-B forms
 
-### 1 Minimal Viable Product
+### 1. Minimal Viable Product
 
 The MVP release is the closest to completion. This release makes the 1095-B form available online, but does not link to the page from anywhere (so it's not easily findable). 
 
@@ -50,7 +50,7 @@ The MVP release is the closest to completion. This release makes the 1095-B form
 - [MVP webpage designs, unauth PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20MVP%20Product%20Designs.pdf)
 - [MVP Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
 
-### 2 Opt-in to paperless delivery
+### 2. Opt-in to paperless delivery
 
 This would allow Veterans and dependents to opt-in to receiving the 1095-B form digitally only, reducing the cost to the VA of having to mail it out. 
 
@@ -66,17 +66,17 @@ This would allow Veterans and dependents to opt-in to receiving the 1095-B form 
 - VA Profile: Micheal Richard 
 - VA Notify: Beverly Nelson
 
-### 3 Spanish translation
+### 3. Spanish translation
 
 - The [Spanish translation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx) of the website is available, but has not been implemented. 
 
-### 4 Making the 1095-B form findable 
+### 4. Making the 1095-B form findable 
 
 - [Requisition wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
 - Making the form findable will be implemented by the sitewide team
     - Sitewide: Randi Hecht
 
-### 5 Ability to retrieve preivous-year 1095-B forms
+### 5. Ability to retrieve previous-year 1095-B forms
 
 
 
