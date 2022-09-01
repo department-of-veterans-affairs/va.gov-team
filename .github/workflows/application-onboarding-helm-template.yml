@@ -1,6 +1,26 @@
-name: Automation for application onboarding helm template
+name: Automation for application onboarding using helm template
 
 on:
+  workflow_dispatch:
+    inputs:
+      application_name:
+        description: Application name
+        required: true
+        type: string
+      application_environment:
+        description: Application environment
+        required: true
+        default: dev
+        type: choice
+        options:
+          - dev
+      task:
+        description: Onboarding or promoting
+        required: true
+        type: choice
+        options:
+          - onboarding
+          - promoting
   workflow_call:
     inputs:
       application_name:
