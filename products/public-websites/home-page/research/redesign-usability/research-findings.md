@@ -374,8 +374,8 @@ We heard some pain points about VA in general, which is included below but not a
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20pg%20redesign%20usab%20notes%20%26%20data%20analysis%20(9).xlsx)
-[Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20Page%20Redesign%20Usability%20Test%20pictures%20for%20report.pptx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20pg%20redesign%20usab%20notes%20%26%20data%20analysis%20(9).xlsx)
+- [Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20Page%20Redesign%20Usability%20Test%20pictures%20for%20report.pptx)
 
 ## Pages and applications used
 Screenshot of the [Home page that was tested](https://staging.va.gov/homepage-test/):
