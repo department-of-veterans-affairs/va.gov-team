@@ -59,6 +59,9 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
+
+  - Key result: Facilities list is complete, accurate and up to date
+       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
 ---
 
 ## Discovery
