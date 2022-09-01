@@ -5,10 +5,14 @@
 The remaining content that must migrate to the modernized VA.gov is highly nuanced, aimed at a mix of audiences, and owned by a wide range of offices across VA. To successfully migrate this content, we need to first establish the following:
 
 - Clear content placement criteria based on audiences and content types
-  - We have established a working process for content placement criteria within benefit hubs vs. R&S
+  - We have established a [working process for content placement criteria within benefit hubs vs. R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/resources-and-support-author-pilot/process.md)
+  - We are working on broader content placement criteria as part of the 6102 work
+  - We are working on solidifying content categories for placement
 - Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate for migrating **and** maintaining high-quality content over the long term
   - 2 pilot migration/Resources and Support programs are underway in which we're testing and learning from a collaborative auditing, strategy, and writing approach
   - Content intake process work is in progress with OPIA, OIT, VEO, VBA, VHA, and NCA
+- An understanding of all the content that remains to be migrated so that we can apply our criteria for prioritization
+  - We are a significant way through a [broad content audit of VA, VBA, VHA, and NCA sites](https://dvagov-my.sharepoint.com/:x:/g/personal/danielle_thierry_va_gov/EfbZkH1Kr8BFsXEhb09_Rx4Bhbr9ugKdUxhyh0hyZxBFVg?e=jjgReF)
 
 ### Criteria for prioritization
 
@@ -59,8 +63,8 @@ We need to confirm with our VA partners, but I would anticipate that we could co
 
 These full sections and subdomains are high priority because they have:
 - Benefit and service content for Veterans and other beneficiaries
-- Have high engagement
-- Have at least some accessibility issues
+- High engagement
+- At least some accessibility issues
 
 But these full sections and subdomains will take significantly more time and effort to migrate. Each presents a unique situation in terms of content (i.e. mixed audiences, content types) and VA program partner needs and perspectives. For each, we'll need to determine the following:
 - If we have an existing modernized "home" for most/all of the content. And, if not, how do we help program offices ensure that content remaining in the legacy environment for now still works from a UX perspective?
@@ -101,3 +105,4 @@ Other high-priority subdomains include the following:
 - vetcenter.va.gov
 
 In addition, the Sitewide Content and IA team is handling the content portion of the My HealtheVet migration.
+
