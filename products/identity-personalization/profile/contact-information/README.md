@@ -1,5 +1,5 @@
 # Contact Information Product Outline
-Last Updated August 18, 2022
+Last Updated September 1, 2022
      
 ## Table of Contents
 
@@ -39,9 +39,10 @@ The backend for this is powered by VA Profile (formerly Vet360), which is integr
 		- mobile phone number
 		- work phone number
 		- contact email address
-* To access this feature in the profile, users need to login to  VA.gov  with an identity-verified (LOA3)  account.
+* To access this feature in the profile, users need to login to VA.gov  with an identity-verified (LOA3)  account.
 * Contact information is pulled from and written to the VA Profile API.
 * Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
+* Email confirmations are sent if a Veteran updates their contact information.
 * The only piece of contact information that can’t be deleted once added is a mailing address
 * This feature doesn’t support international phone numbers 
 
