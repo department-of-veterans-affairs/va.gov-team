@@ -110,7 +110,10 @@ Recruiting 10-14 Veterans who have:
 
 ## Timeline
 
-[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#timeline--dependencies-2)
+Early September - Research Review & Approval
+Mid September - Paticipant Recruitment
+Late Sept/ Early Oct - Research Sessions
+Mid/Late Oct - Research Synthesis and Readouts
 
 ### Length of sessions
 
