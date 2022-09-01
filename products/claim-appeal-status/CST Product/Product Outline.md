@@ -1,8 +1,8 @@
-Claim and Appeal Status Tool Product Outline
+# Claim and Appeal Status Tool Product Outline
 
-Communications
-GitHub Label:  claim-status-tool
-Slack channel: #benefits-team-1 
+## Communications
+- GitHub Label:  claim-status-tool
+- Slack channel: #benefits-team-1 
 Product POCs: Matt Self 
 va.gov link: https://www.va.gov/claim-or-appeal-status/
 Stakeholders:
