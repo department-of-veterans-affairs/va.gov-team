@@ -13,8 +13,16 @@ In most cases, it is simply a form for one's records. However, some states still
     
 ## Product research
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/design/VA_1095-B%20Initial%20Research%20Discovery_2-4-22.pptx)
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/research-plan.md) and [conversation guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round%201%20Research%20Findings%20Report.md) - [raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/Round1-Sprint2-Research-SCRUBBED.xlsx)
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/researchplan.md) and [conversation guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md) - [raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round-2-synthesis%20spreadsheet.xlsx)
+- Research with a clickable prototype (Round 1)
+    - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/research-plan.md)
+    - [Conversation guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/conversation-guide.md)
+    - [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round%201%20Research%20Findings%20Report.md) 
+    - [Raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/Round1-Sprint2-Research-SCRUBBED.xlsx)
+- Research with a clickable prototype (Round 2) 
+    - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/researchplan.md)
+    - [Conversation guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md)
+    - [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md) 
+    - [Raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round-2-synthesis%20spreadsheet.xlsx)
 
 ## Designs
 - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
