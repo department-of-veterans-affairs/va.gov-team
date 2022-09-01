@@ -71,6 +71,7 @@ jobs:
   call-automation-helm-template-workflow:
     needs: onboard-or-promote
     if: needs.onboard-or-promote.outputs.application_environment == 'dev'
+    uses: ./.github/workflows/application-onboarding-helm-template.yml
     with:
       application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
       application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
