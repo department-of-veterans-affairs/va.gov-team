@@ -1,2 +1,1 @@
-# Links to Sept 2022 Interview Notes
-- [2022-09-01 Dr. Neil Evans interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Research/2022-09-Informational%20Interviews/pdf-notes/2022-09-01-dr-evans-interview.pdf) ([Additional notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Research/2022-09-Informational%20Interviews/pdf-notes/Dr.%20Evans%20Interview%20-%20Additional%20Notes.pdf))
+
