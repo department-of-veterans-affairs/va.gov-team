@@ -57,3 +57,11 @@ body:
       placeholder: va.gov/find-locations, va.gov/./locations
     validations:
       required: true
+  - type: input
+    id: va-email
+    attributes:
+      label: VA Email Address(es)
+      description: Please provide the VA email address(es) you wish to have the data shared with.
+      placeholder: ianmccullough1@va.gov
+    validations:
+      required: true
