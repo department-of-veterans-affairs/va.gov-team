@@ -378,7 +378,7 @@ We heard some pain points about VA in general, which is included below but not a
 - [Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20Page%20Redesign%20Usability%20Test%20pictures%20for%20report.pptx)
 
 ## Pages and applications used
-Screenshot of the [Home page that was tested](https://staging.va.gov/homepage-test/):
+Screenshot of the [Home page that was tested on Staging](https://staging.va.gov/homepage-test/):
 
 ![homepg-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-top.png)
 ![homepg-middle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/images/homepg-middle.png)
