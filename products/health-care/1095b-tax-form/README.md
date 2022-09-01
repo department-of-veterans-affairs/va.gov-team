@@ -26,12 +26,16 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Product roadmap overview
 
+This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf) for the new team. 
+
+
 ### Minimal Viable Product
 
 The MVP release is the closest to completion. This release makes the 1095-B form available online, but does not link to the page from anywhere (so it's not easily findable). 
 
 #### Release plan
-* [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md)
+- [Staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
 
 #### Designs
 
@@ -40,6 +44,8 @@ The MVP release is the closest to completion. This release makes the 1095-B form
 - [MVP Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
 
 ### Opt-in to paperless delivery
+
+This would allow Veterans and dependents to opt-in to receiving the 1095-B form digitally only, reducing the cost to the VA of having to mail it out. 
 
 #### Designs
 
@@ -52,6 +58,19 @@ The MVP release is the closest to completion. This release makes the 1095-B form
 - HEC: Joshua Faulkner
 - VA Profile: Micheal Richard 
 - VA Notify: Beverly Nelson
+
+### Spanish translation
+
+- The [Spanish translation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx) of the website is available, but has not been implemented. 
+
+### Making the 1095-B form findable 
+
+- [Requisition wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
+- Making the form findable will be implemented by the sitewide team
+    - Sitewide: Randi Hecht
+
+### Ability to retrieve preivous-year 1095-B forms
+
 
 
 ## Call center documents
@@ -75,16 +94,6 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 * [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 * [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
 * [Sequencing diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
-
-
-## Next Steps for 1095-B 
-* [Next steps for new team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf)
-    * Launch MVP - [staging ticket](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/issues/department-of-veterans-affairs/va.gov-team/44401) 
-    * [Requisition wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
-        * Sitewide   Randi Hecht
-    * Digitalized correction of document
-    * Multi-year retrieval
-    * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
 ## Legal 
 * [Request for legal review (Opt-in) Draft v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Legal%20Review%20request%201095-B%20Opt%20-in%20to%20paperless%20delivery.pdf)
