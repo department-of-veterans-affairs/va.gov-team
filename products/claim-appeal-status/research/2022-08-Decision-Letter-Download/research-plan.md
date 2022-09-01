@@ -46,7 +46,7 @@ Remote via Zoom
 For moderated usability tests: 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 - [Desktop prototype](https://sketch.com/s/8b025901-295d-4929-95cc-8dbeb28454b3/a/xrJyeYl/play)
-- Mobile prototype (WIP)
+- [Mobile prototype](https://sketch.com/s/8b025901-295d-4929-95cc-8dbeb28454b3/a/QbE4YZY/play)
 	
 ## Recruitment	
 
