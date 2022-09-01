@@ -67,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · Have you recieved a resolution for your issue and did you feel you ended up with a satisfactory answer? Yes, No? Please explain.
 
-· Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
+· Please describe your overall experience when communicating with a VA call center of your issue?
 
 
 
