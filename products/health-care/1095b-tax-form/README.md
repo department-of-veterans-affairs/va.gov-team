@@ -28,6 +28,13 @@ In most cases, it is simply a form for one's records. However, some states still
 
 This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf) for the new team. 
 
+Overview of product roadmap (with details below): 
+
+- Minimal Viable Product
+- Opt-in to paperless delivery
+- Spanish translation
+- Making the 1095-B form findable
+- Ability to retrieve previous years' 1095-B forms
 
 ### Minimal Viable Product
 
