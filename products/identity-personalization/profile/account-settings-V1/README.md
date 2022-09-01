@@ -1,4 +1,6 @@
-# Account Product Outline
+# Account settings outline
+
+### This is for the old account settings section that used to be separate from the profile. This section has been combined into the profile since 2020. Please refer to the new [account security outline]() for details on the new section.
 
 ## Points of Contact
 
