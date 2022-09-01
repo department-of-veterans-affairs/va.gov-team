@@ -8,40 +8,34 @@
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
 
 #### Discovery Sprint Goals (TENTATIVE) 
-Kristen - 3 + ?
+Kristen - ? + 3
 Ben - 7
 Ya-Ching - 5
 Nira - 5
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish report (2 Ben)    
     - Get Questions Answered (2 Ben)
-    - Update workflow?
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Synthesize research (5 Ya-Ching/Nira)
-    - Create research report (5 Ya-Ching/Nira)
-    - Close Epic
+    - Create research report & do readout (5 Ya-Ching/Nira)
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - ??? (? Kristen)
+    - Hand off survey? (? Kristen)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - Make case & present to Stephen/Patrick/Team (3 Ben)
 - [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
-    - Create user flows & present to Stephen/Patrick/Team (3 Kristen)
-- [[UX][Design] Research and Recommend Ways Forward for this Issue](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45956)
-    - ????? (? Kristen)
+    - Create user flows & make case & present to Stephen/Patrick/Team (3 Kristen)
     
 #### Design & Content Sprint Goals (TENTATIVE) 
 Nira = 6
-Zach = 7
-Ya-Ching = ?
+Zach = ? + 4
+Ben = ?
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
     - Finish last 2 tickets & pass off to CHIP team (6 Nira)
-    - Close Epic
-- [Change Prototypes from Custom to Sketch Extra Small](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46326)
-    - Complete (3 Zach)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Update User Flow to Inform Finalized Wireframes (? Ben/Zach)
+    - Create final wireframes (? Zach)
 - [Update VA Sketch Cloud and Generate Presentation Links for the Happy Path](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46279)
     - Complete (4 Zach)
-- [Simplify or Remove Header & Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
-    - Make suggestions to move forward (? Ya-Ching)
 
 #### Engineering Sprint Goals (TENTATIVE) 
 FE = ?
@@ -49,8 +43,6 @@ BE = ?
 - [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
     - Complete & release when ready (x FE)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-    - Complete & release when ready (x FE)
-- [Add Clinic IEN to Clinic label in CIE staging tool](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46186)
     - Complete & release when ready (x FE)
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
     - Implement (? FE)
