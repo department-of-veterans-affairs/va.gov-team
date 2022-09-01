@@ -5,12 +5,10 @@
 The remaining content that must migrate to the modernized VA.gov is highly nuanced, aimed at a mix of audiences, and owned by a wide range of offices across VA. To successfully migrate this content, we need to first establish the following:
 
 - Clear content placement criteria based on audiences and content types
+  - We have established a working process for content placement criteria within benefit hubs vs. R&S
 - Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate for migrating **and** maintaining high-quality content over the long term
-
-### Content placement criteria and content categories
-
-- We have created a process for
-- Migration (resources and support) pilot programs: 
+  - 2 pilot migration/Resources and Support programs are underway in which we're testing and learning from a collaborative auditing, strategy, and writing approach
+  - Content intake process work is in progress with OPIA, OIT, VEO, VBA, VHA, and NCA
 
 ### Criteria for prioritization
 
@@ -18,6 +16,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 - **Engagement:** We will prioritize pages and sites with a high level of engagement, based on pageviews. As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list.
 - **Accessibility issues:** We will prioritize pages and sites with known accessibility issues.
 - **Level of effort:** We will work to balance between quickly moving forward with pages that require a low level of effort to migrate and continuing to invest time in the full sections, subdomains, and tools that will require a much more significant level of effort.
+- **Capacity and commitment of program offices:** We will prioritize based on current capacity of program offices to commit to partner with us on the initial migration of their content and the ongoing collaboration of maintaining that content.
   
 ## Currently in progress
 
