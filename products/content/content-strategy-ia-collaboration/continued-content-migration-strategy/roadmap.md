@@ -1,6 +1,18 @@
 # Content strategy roadmap to completion
 
-## Criteria for prioritization
+## Supporting work
+
+The remaining content that must migrate to the modernized VA.gov is highly nuanced, aimed at a mix of audiences, and owned by a wide range of offices across VA. To successfully migrate this content, we need to first establish the following:
+
+- Clear content placement criteria based on audiences and content types
+- Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate for migrating **and** maintaining high-quality content over the long term
+
+### Content placement criteria and content categories
+
+- We have created a process for
+- Migration (resources and support) pilot programs: 
+
+### Criteria for prioritization
 
 - **Audience and content topic:** We have a "home" for benefit and service content for Veterans and other beneficiaries. We will prioritize migrating content that fits this definition to the Drupal environment, using our content placement criteria for the Veteran benefit experience content. While auditing sites/sections, we'll also identify content for other audiences that may either be suited to migrate to the new WordPress VIP space or may need another solution (such as content for health care providers).
 - **Engagement:** We will prioritize pages and sites with a high level of engagement, based on pageviews. As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list.
@@ -10,14 +22,17 @@
 ## Currently in progress
 
 - **Education rates content:** Aiming for completion in September 2022
-- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Aiming for completion in October 2022
+- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Starting to migrate pages (3 pages migrated this week). Aiming for completion in October 2022
 - **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in December 2022
+- **Regional offices:** Aiming for estimated completed by FY2023-Q2 for Pilot office, FY2023-Q4 for complete roll-out
 
 ## Next up
 
 ### Single pages among top 1,000 urls by pageviews
 
 These are single pages that require a relatively low level of effort to migrate and are on the "top 1,000 urls" by pageviews list that is a focus of current accessibility efforts. Some have serious accessibility issues so prioritizing migration is a win for both migration and accessibility.
+
+We need to confirm with our VA partners, but I would anticipate that we could complete migration of these pages by December 2022.
 
 - benefits.va.gov/gibill/isaksonroe/verification_of_enrollment.asp
 - benefits.va.gov/benefits/applying.asp
@@ -50,7 +65,7 @@ These full sections and subdomains are high priority because they have:
 
 But these full sections and subdomains will take significantly more time and effort to migrate. Each presents a unique situation in terms of content (i.e. mixed audiences, content types) and VA program partner needs and perspectives. For each, we'll need to determine the following:
 - If we have an existing modernized "home" for most/all of the content. And, if not, how do we help program offices ensure that content remaining in the legacy environment for now still works from a UX perspective?
-- If we can effectively flow the content into the existing navigation structure (i.e. benefits hubs + R&S)
+- If and how we can effectively flow the content into the existing navigation structure (i.e. benefits hubs + R&S)
 - How we might need to iterate on R&S taxonomy or UX to accomodate new content
 - Whether a subdomain or new site section may make sense in any cases
 
@@ -60,7 +75,6 @@ High-priority full sections of va.gov include the following:
 
 - va.gov/geriatrics
 - va.gov/healthbenefits
-- va.gov/womenvet
 - va.gov/opa/persona/
 - va.gov/wholehealth
 
