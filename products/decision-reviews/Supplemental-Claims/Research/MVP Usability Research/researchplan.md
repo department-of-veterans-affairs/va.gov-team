@@ -79,7 +79,7 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |8        |             |          |               | 
+|      12       |          8       |8        |             |          |               | 
 
 
 ### Criteria Table 
@@ -288,10 +288,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator: Pamela Hastings
-- Research guide writing and task development: Pamela Hastings	
+- Moderator: Pamela Hastings, pamela.hastings@adhocteam.us
+- Research guide writing and task development: Pamela Hastings, pamela.hastings@adhocteam.us	
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Pamela Hastings
+- Project point of contact:	Pamela Hastings, pamela.hastings@adhocteam.us
 - Participant(s) for pilot test: Eva Floyd	
 - Note-takers:	TBD
 - Observers: Sade Ragsdale, Robin Garrison
