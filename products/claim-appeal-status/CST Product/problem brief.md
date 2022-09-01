@@ -33,12 +33,12 @@ Login Required: true
 
 On the claim details page, select the Files tab
 
-![Select files tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/submit%20files.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/claim%20received.png)
+![Select files tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/claim%20received.png)
 
 This will navigate you to: ***/track-claims/your-claims/{claimId}/files***
 Above the **Documents filed** section, there should be a blue box, like the one below
 
-!Ask for your claim decision(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/submit%20files.png)
+![Ask for your claim decision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/submit%20files.png)
 
 Click the ‘View Details’ button
 
@@ -56,31 +56,30 @@ Checking the checkbox and clicking the ‘Submit' button will make a call to: **
   - phase: 3
   - waiverSubmitted: false
 Phase 3 refers to the status we get from EVSS (Lighthouse someday soon). These are the statuses:
-1: ‘CLAIM RECEIVED’
-2: ‘UNDER REVIEW’
-3: ‘GATHERING OF EVIDENCE’
-4: ‘REVIEW OF EVIDENCE’
-5: ‘PREPARATION FOR DECISION’
-6: ‘PENDING DECISION APPROVAL’
-7: ‘PREPARATION FOR NOTIFICATION’
-8: ‘COMPLETE’
+1. 'CLAIM RECEIVED’
+2. ‘UNDER REVIEW’
+3. ‘GATHERING OF EVIDENCE’
+4. ‘REVIEW OF EVIDENCE’
+5. ‘PREPARATION FOR DECISION’
+6. ‘PENDING DECISION APPROVAL’
+7. ‘PREPARATION FOR NOTIFICATION’
+8. ‘COMPLETE’
 
 On VA.gov, these statuses are mapped to the timeline (shown below):
 ![timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/timeline.png)
 
 The mapping from EVSS/Lighthouse statues to the 5 phases shown in the timeline are as such:
-1: ‘CLAIM RECEIVED’
-2: ‘UNDER REVIEW’
-3: ‘GATHERING OF EVIDENCE’, ‘REVIEW OF EVIDENCE’, ‘PREPARATION FOR DECISION’, ‘PENDING DECISION APPROVAL’
-4: ‘PREPARATION FOR NOTIFICATION’
-5: ‘COMPLETE’
+1. ‘CLAIM RECEIVED’
+2. ‘UNDER REVIEW’
+3. ‘GATHERING OF EVIDENCE’, ‘REVIEW OF EVIDENCE’, ‘PREPARATION FOR DECISION’, ‘PENDING DECISION APPROVAL’
+4. ‘PREPARATION FOR NOTIFICATION’
+5. ‘COMPLETE’
 
 Phases 3, 4, 5, and 6 from EVSS/Lighthouse get consolidated to the phase 3 that is displayed on the timeline on VA.gov. The claim MUST be in ‘GATHERING OF EVIDENCE’ for the waiver page to be accessible; if it is in any of the other states, it will not be accessible.
 
-
 ### Vets API call stack
-Route: config/routes.rb
-Controller: app/controllers/v0/evss_claims_controller.rb
-Service: app/services/evss_claim_service.rb
-Worker: app/workers/evss/request_decision.rb
-Library Service: lib/evss/claims_service.rb
+- Route:[config/routes.rb[(https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/config/routes.rb#L127)
+- Controller:[app/controllers/v0/evss_claims_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/controllers/v0/evss_claims_controller.rb#L29-L39)
+- Service: [app/services/evss_claim_service.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/services/evss_claim_service.rb#L41-L43)
+- Worker: [app/workers/evss/request_decision.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/app/workers/evss/request_decision.rb#L3-L10)
+- Library Service:[lib/evss/claims_service.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/4481ee70/lib/evss/claims_service.rb#L36-L41)
