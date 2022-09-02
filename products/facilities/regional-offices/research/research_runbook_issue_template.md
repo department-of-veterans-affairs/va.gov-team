@@ -5,7 +5,7 @@
 - [Research Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_recruitment_issue_template.md)
 - [Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_sessions_issue_template.md)
 - [Research Synthesis & Topline Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_synthesis_issue_template.md)
-- Research Readout & Documentation
+- [Research Readout & Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_readout_issue_template.md)
 
 # Template name: Runbook - UX Research
 - **About:** Use this template when starting a new UX research process
