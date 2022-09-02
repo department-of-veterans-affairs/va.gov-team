@@ -87,11 +87,11 @@ jobs:
 
       - name: Modify ingress environment to use dev
         if: steps.directory_check.outputs.directory_exists == 'false'
-        run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
+        run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
       - name: Enable ingress
         if: steps.directory_check.outputs.directory_exists == 'false'
-        run: cat <<< $(yq -e '(.ingress.enabled)=true' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
+        run: cat <<< $(yq -e '(.ingress.enabled)=true' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
       - name: Create pull request
         if: steps.directory_check.outputs.directory_exists == 'false'
