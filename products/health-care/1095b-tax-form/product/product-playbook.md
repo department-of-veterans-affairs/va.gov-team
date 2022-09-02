@@ -13,13 +13,13 @@ Eventually, the 1095-B page will want to allow users to be able to view their fo
 
 New form templates will have to be added to vets-api for each tax year, for both the PDF and text versions of the form.
 
-- [PDF form](https://www.irs.gov/forms-pubs/about-form-1095-b)
-  - Download the blank 1095B PDF from IRS
+- PDF form
+  - Download the[blank PDF 1095-B](https://www.irs.gov/forms-pubs/about-form-1095-b) PDF from IRS
   - Using Adobe Acrobat, add the Veteran's Affairs data (look at past year's templates to see what data goes in and where)
   - Add the new PDF template to: [lib/form1095_b/templates/pdfs/](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/form1095_b/templates/pdfs/)1095b-{tax year}.pdf
   
-- [Text form](https://www.irs.gov/forms-pubs/irs-tax-forms-in-braille-and-text-formats)
-  - Download text version of 1095B from IRS
+- Text form
+  - Download [text version of 1095-B](https://www.irs.gov/forms-pubs/irs-tax-forms-in-braille-and-text-formats) from IRS
   - Using preferred editor, add data fields to the text form (see past years text forms to see how/where the data fields go)
   - Add the new txt template to: [lib/form1095_b/templates/txts/](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/form1095_b/templates/txts)1095b-{tax year}.txt
 
