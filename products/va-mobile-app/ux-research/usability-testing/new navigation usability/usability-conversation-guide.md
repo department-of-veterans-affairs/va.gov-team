@@ -83,9 +83,9 @@
 * I want to direct your attention to the app now. 
   * Without touching your device, please describe what you see on your screen.
   * What stood out to you **first** when looking at this screen?
-  * Directing your attention to the bar at the bottom of the screens with the icons that says "Home, Benefits, Health, Money" 
+  * Directing your attention to the bar at the bottom of the screens with the icons that says "Home, Benefits, Health, Payments" 
     * What sorts of things would you expect to see when you tap "Benefits"?
-    * What sorts of things would you expect to see when you tap "Money"?
+    * What sorts of things would you expect to see when you tap "Payments"?
      * *Probe further depending on their reaction to the labels.*
 * *Check #feedback-backchannel before moving on.*
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
@@ -117,8 +117,8 @@
 * **PROMPT:** You want to make sure that you're receiving the correct amount each month from VA for your disability. Without touching anything, where would you expect to go to check how much was deposited in your account last month?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to find out how much was deposited. Once you’re there, stop and wait for the next instruction.
-  * *If not successful: Help them navigate to the Money screen before starting the next task. Note where they have trouble.*
-* What did you expect to find when you tapped on “Benefit payments”?
+  * *If not successful: Help them navigate to the Payments screen before starting the next task. Note where they have trouble.*
+* What did you expect to find when you tapped on “VA payment history”?
 * What would you expect to find if you tapped on “Outstanding debts”?
 
 ### Task 5: Check the status of your disability claim (5 minutes)
