@@ -6,8 +6,11 @@
 |       0.1      | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette |    3/17/22    | Initial creation                                                                           |
 |       0.2      |                      Joe Niquette                      |    3/25/22    | Added new introspection response example, moved some sections around for better formatting |
 |       0.3      |                      John Bramley                      |    7/05/22    | Updates for mobile vs. web authentication |
-## Description
-This document describes how our Mobile/API-based OAuth partners can integrate with the Sign in Service.
+|0.4| John Brmaley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
+## Description & Prerequisites
+This document describes how our mobile/API-based OAuth partners can integrate with the Sign in Service. Before starting local development the following prerequisites should be completed:
+1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
+2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Postman Routes
 A Postman collection featuring the routes and variables required for PKCE interaction with the Sign in Service [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json).
