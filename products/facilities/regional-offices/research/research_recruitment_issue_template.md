@@ -16,9 +16,9 @@
 
 ## Description
 
-Veteran Recruitment - Perigean
-Editor Recruitment - CMS
-Field Research - Customized support
+- Veteran Recruitment - Perigean
+- Editor Recruitment - CMS
+- Field Research - Customized support
 
 ## Acceptance Criteria
 
