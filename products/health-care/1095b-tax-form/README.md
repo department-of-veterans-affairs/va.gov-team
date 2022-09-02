@@ -93,6 +93,8 @@ This would allow Veterans and dependents to opt-in to receiving the 1095-B form 
 
 [Incident response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/incident-response-plan.md)
 
+Our incident response guide also contains a lot of information about the code. 
+
 ### Annual updates
 
 The 1095-B is a yearly form, and may require annual updates. These are outlined in our [product playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/product-playbook.md)
