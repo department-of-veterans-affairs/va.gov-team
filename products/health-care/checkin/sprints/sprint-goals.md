@@ -56,7 +56,7 @@ BE = ?
     - Determine % of Patient Appointments that are within a Half Hour of One Another
     - Look at higher bounce rates for screen resolutions
 - [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
-    - As many as needed to fill out the Sprint
+    - Day-of Check-in - Display Retry Message for CHIP 503 Timeout
 
 
 ## 8/24/2022 
