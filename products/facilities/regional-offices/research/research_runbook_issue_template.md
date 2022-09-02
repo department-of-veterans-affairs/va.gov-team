@@ -3,7 +3,7 @@
 - [Research Plan & Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_plan_issue_template.md)
 - [Research Review Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_review_cycle_issue_template.md)
 - [Research Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_recruitment_issue_template.md)
-- Research Sessions
+- [Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_sessions_issue_template.md)
 - Research & Topline Synthesis
 - Research Readout & Documentation
 
@@ -41,38 +41,6 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Public Websites`
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
-
-# Template name: Research Sessions
-**About:** Use this template when blank
-**Template content:** 
-## Description
-- Schedule 30 minute debrief sessions at end of each day of interviews/testing
-- Observers notes - best practices
-- Observer roles (audience vs contributor)
-- Veteran note takers Perigean
-- Editor note taker - design team
-- Notetaker needs to be identified during scheduling and recruitment
-
-## Acceptance Criteria
-- [ ] Testable_Outcome_X
-- [ ] Testable_Outcome_Y
-- [ ] Testable_Outcome_Z
-- [ ] Satisfied our intended demographics from research plan or PO has signed off that we've hit enough to move forward
-
-### CMS Team
-Please check the team(s) that will do this work.
-
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
-**Issue default title:** 
-**Assignees** 
-**Labels:** 
 
 # Template name: Research & Topline Synthesis
 **About:** Use this template when blank
