@@ -96,10 +96,6 @@ jobs:
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
-      - name: Enable ingress
-        if: steps.directory_check.outputs.directory_exists == 'false'
-        run: cat <<< $(yq -e '(.ingress.enabled)=true' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
-
       - name: Modify values.yaml to have correct format
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: |
