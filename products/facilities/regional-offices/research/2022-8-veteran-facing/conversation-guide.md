@@ -46,6 +46,20 @@ Before we look at the website, let’s start with a little warm up introduction.
 
 (the following questions are sort of a scattershot that may diverge some from the script depending on the answers given by the participant)
 
+*   Do Veterans understand the different types of facilities?
+*   What are the top tasks that Veterans seek out a regional/benefit office for? 
+*   How important is the child location relationship to the regional office for Veterans?
+*   What are the questions Veterans want answered by calling the phone number(s)?
+*   What was the benefit-related task they were trying to accomplish?
+*   Veterans were able to accomplish the task at the facility?
+    *   Did going physically to the facility allow them to accomplish their task?
+    *   Was going to the facility required for the task?
+*   Do they have a preference for doing this task in person or not?
+*   What else do Veterans need in order to be prepared for a visit?
+*   How did they travel to the facility?
+*   What was the experience like getting to the appointment?
+    *   Wayfinding within a building
+*   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 *   Do you know what kinds of facilities that the VA runs?
 *   What do they do?
 *   Which kinds have you used the most?
