@@ -66,13 +66,9 @@ Ultimately, we would like to determine what appointment data is important to Vet
 
 ### Research questions
 - What appointment information is important to review when determining what appointment Veterans need to check-in for? 
-  - In this scenario, how do Veterans rank the importance of each appointment data item?
 - What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
-  - In this scenario, how do Veterans rank the importance of each appointment data item?
 - What appointment information is important to review when trying to understand what appointment Veterans are completing pre-check-in for?
-  - In this scenario, how do Veterans rank the importance of each appointment data item?
 - What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
-  - In this scenario, how do Veterans rank the importance of each appointment data item?
 
 ### Hypothesis
 1. Veterans and caregivers will generally agree on which data is most important when determining what appointment they need to check-in for.
