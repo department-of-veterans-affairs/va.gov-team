@@ -1,6 +1,6 @@
-Table of Contents
-- [Runbook - UX Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_template.md#template-name-runbook---ux-research)
-- [Research Plan & Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_template.md#template-name-research-plan--conversation-guide)
+**All Research Runbook Issue Templates:** 
+- Runbook - UX Research - You are here
+- [Research Plan & Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_plan_issue_template.md)
 - Research Review Cycle
 - Research Recruitment
 - Research Sessions
