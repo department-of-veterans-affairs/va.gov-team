@@ -1,4 +1,4 @@
-# Research Plan for Check-in, Unmoderated Appointment Information Survey, August 2022]
+# Research Plan for Check-in, Unmoderated Appointment Information Survey, August 2022
 
 ## Background
 The Modernized Check-In Team is reimaging the experience between a Veteran scheduling a medical appointment and having their appointment. In particular, the Modernized Check-In Team has created the portion of the ecosystem that enables Veterans to utilize their smartphone to “check in” to their appointments through VA.gov, which lets the VA know the patient has arrived for their appointment. 
