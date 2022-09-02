@@ -259,15 +259,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
   -   1 hr sessions with 15 minutes allotted for any possible tech issues
 
 ### Availability
--  Pilot: Sep 6, 2022
+-  Pilot: September 9,2022
 -  Planned dates of research: (*all times listed are in CST)
-    - September 6 - 12 PM - 1 PM CST
-    - September 8 - 11:30 AM - 12:30 PM CST, 1:00 PM - 2:00 PM CST 
-    - September 9 - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST 
-    - September 12 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST, 3:00 PM - 4:00 PM CST 
+    - Pilot: September 9 - 2 PM CST - 3 PM CST
+    - September 12 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST 
     - September 13 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST
     - September 14 - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST 
-    - September 15 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST, 3:00 PM - 4:00 PM 
+    - September 15 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST
+    - September 16 - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST
 
 	
 ## Team Roles	
@@ -278,5 +277,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact:	Kiera Tate
 - Participant(s) for pilot test:	TBD
 - Note-takers:	Perigean
-- Observers:	 Alina.Murphy@va.gov , ian.santarinala@thoughtworks.com, Aditya.Sharma@thoughtworks.com,  shane.strassberg@va.gov,  luciana.morais@va.gov,  Joe.hall@thoughtworks.com, Kha.Huynh@thoughtworks.com, Justin.trieu@thoughtworks.com, krkrishn@thoughtworks.com, helene.mccarron@thoughtworks.com, aaron.young@thoughtworks.com 
+- Observers:	 Alina.Murphy@va.gov , ian.santarinala@thoughtworks.com, Aditya.Sharma@thoughtworks.com,  shane.strassberg@va.gov,  luciana.morais@va.gov,  Joe.hall@thoughtworks.com, Kha.Huynh@thoughtworks.com, Justin.trieu@thoughtworks.com, krkrishn@thoughtworks.com, helene.mccarron@thoughtworks.com, aaron.young@thoughtworks.com, Nina.Anusavice@va.gov, Ian.McCullough@oddball.io
 
