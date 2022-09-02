@@ -42,36 +42,6 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
 
-# Template name: Research Recruitment
-**About:** Use this template when blank
-**Template content:** 
-## Description
-
-Veteran Recruitment - Perigean
-Editor Recruitment - CMS
-Field Research - Customized support
-
-## Acceptance Criteria
-- [ ] Testable_Outcome_X
-- [ ] Testable_Outcome_Y
-- [ ] Testable_Outcome_Z
-- [ ] Requires design review
-
-### CMS Team
-Please check the team(s) that will do this work.
-
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
-**Issue default title:** 
-**Assignees** 
-**Labels:** 
-
 # Template name: Research Sessions
 **About:** Use this template when blank
 **Template content:** 
