@@ -10,7 +10,7 @@
 # Template name: Runbook - UX Research
 - **About:** Use this template when starting a new UX research process
 - **Issue default title:** [PRODUCT/INITIATIVE] Research Runbook
-- **Assignees** n/a
+- **Assignees**: n/a
 - **Labels:** Research, Design
 - **Template content:** 
 
