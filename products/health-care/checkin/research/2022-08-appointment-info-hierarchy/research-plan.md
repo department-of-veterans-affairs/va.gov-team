@@ -87,14 +87,14 @@ Remote unmoderated via Optimal Workshop
 ### Research materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group 1](url goes here)
-- [Link to prototype or OptimalSort session for group 2](url goes here)
-- [Link to prototype or OptimalSort session for group 3](url goes here)
-- [Link to prototype or OptimalSort session for group 4](url goes here)
-- [Link to prototype or OptimalSort session for group 5](url goes here)
-- [Link to prototype or OptimalSort session for group 6](url goes here)
-- [Link to prototype or OptimalSort session for group 7](url goes here)
+- [Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-08-appointment-info-hierarchy/recruitment-email.md)
+- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=1)
+- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=2)
+- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=3)
+- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=4)
+- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=5)
+- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=6)
+- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=7)
 	
 ## Recruitment	
 
