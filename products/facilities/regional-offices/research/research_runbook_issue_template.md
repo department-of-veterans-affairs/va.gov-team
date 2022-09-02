@@ -1,7 +1,7 @@
 **All Research Runbook Issue Templates:** 
 - Runbook - UX Research - You are here
 - [Research Plan & Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_plan_issue_template.md)
-- Research Review Cycle
+- [Research Review Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_review_cycle_issue_template.md)
 - Research Recruitment
 - Research Sessions
 - Research & Topline Synthesis
