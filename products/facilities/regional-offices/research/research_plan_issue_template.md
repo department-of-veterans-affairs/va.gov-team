@@ -17,6 +17,8 @@
 
 ## Description
 
+- [Editor-facing Research Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/sitewide-cms-editor-research-plan-template.md)
+- [Editor-facing Conversation Guide Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/editor-moderation-guide.md)
 I need to Add links to platform's research plan and conversation guide
 
 ## Acceptance Criteria
