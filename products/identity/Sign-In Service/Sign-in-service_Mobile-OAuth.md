@@ -6,7 +6,7 @@
 |       0.1      | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette |    3/17/22    | Initial creation                                                                           |
 |       0.2      |                      Joe Niquette                      |    3/25/22    | Added new introspection response example, moved some sections around for better formatting |
 |       0.3      |                      John Bramley                      |    7/05/22    | Updates for mobile vs. web authentication |
-|0.4| John Brmaley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
+|0.4| John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
 ## Description & Prerequisites
 This document describes how our mobile/API-based OAuth partners can integrate with the Sign in Service. Before starting local development the following prerequisites should be completed:
 1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
