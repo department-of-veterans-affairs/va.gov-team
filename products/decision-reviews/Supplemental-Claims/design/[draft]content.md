@@ -5,21 +5,19 @@
 
 ## CHOOSE BENEFIT TYPE
 
-### File a Supplemental Claim
-(VA Form 20-0995)
-
-#### Is this the form I need?
-Use this form if you disagree with our decision on your claim and have new and relevant evidence to submit. 
+### Is this the form I need?
+Use this Supplemental Claim VA form 20-0995 if you disagree with our decision on your claim and have new and relevant eidence to submit. 
 
 Answer a question to get started.
 
-**For what type of claim are you filing a Supplemental Claim?** (*Required)
+**What type of claim are you filing a Supplemental Claim?** (*Required)
 
-- [ ] Disability compensation claim
+- [ ] Disability compensation
 - [ ] Claim other than disability compensation
 
-Back
 Continue
+
+If you don't think this is the right for for you, go back and review types of decision reviews
 
 ### Non-Disability Claims
 We don’t support claims other than disability online at this time. You'll need to fill out and submit VA Form 20-0995 by mail or in person.
@@ -27,22 +25,28 @@ Send the completed form to the benefit office that matches the benefit type you 
 
 [Download VA Form 20-0995 PDF](https://www.va.gov/find-forms/about-form-20-0995/)
 
+### error
+Please provide a response.
 
 ## File a Supplemental Claim
 VA Form 20-0995 (Supplemental Claim)
 
-When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
+When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
 
 *Save time—and save your work in progress—by signing in before starting your application
-When you’re signed in to your VA.gov account:
-•   We can prefill part of your application based on your account details
-•   You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the application and you’ll need to start over. 
+
+When you’re signed in to your VA.gov account: 
+
+We’ll prefill part of your application based on your account details.
+You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start your application to submit it. After 60 days, we’ll delete the application and you’ll need to start over. 
+
 Note: If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.*
 
-**Sign in to file your claim**
+**Sign in to start your claim**
 
-Follow these steps to get started
-### 1. Prepare
+### Follow these steps to get started
+
+#### 1. Prepare
 Check your eligibility
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before.
 
@@ -55,7 +59,7 @@ Note: You can’t file a Supplemental Claim if you have a fiduciary claim or a c
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
 
-### 2. Gather your information
+#### 2. Gather your information
 Here’s what you’ll need to apply: 
 
 Issue(s) you want VA to review: You can include all or just some of the issues VA decided. You must list the issue(s) you disagree with and the VA decision date.
