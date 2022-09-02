@@ -49,6 +49,7 @@ The MVP release is the closest to completion. This release makes the 1095-B form
 - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
 - [MVP Designs (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Final%20documents/Designs/MVP%20designs)
 - [MVP Design file in Sketch](https://www.sketch.com/s/2f061f33-42de-4d8f-83ad-40286632ba36/p/D703716B-FAF8-478D-9CC4-7B9FB0FE4BE5) 
+- [MVP demonstration video - Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Accessible%201095-B%20demo%20radio-downloads-video.mov)
 
 ### 2. Opt-in to paperless delivery
 
