@@ -19,7 +19,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#appendix)
 
-[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#who-we-heard-from)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#who-we-talked-to)
 
 <br>
 
