@@ -36,6 +36,9 @@ on:
         required: true
         type: string
 
+env:
+  IMAGE_TAG: go-httpbin-v2.3.0
+
 jobs:
   application-directory:
     runs-on: ubuntu-latest
@@ -87,7 +90,7 @@ jobs:
 
       - name: Modify image tag to pull from ECR 
         if: steps.directory_check.outputs.directory_exists == 'false'
-        run: cat <<< $(yq -e '(.image.tag)="go-httpbin-v2.3.0"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+        run: cat <<< $(yq -e '(.image.tag)="${{ env.IMAGE_TAG }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
       - name: Modify ingress environment to use dev
         if: steps.directory_check.outputs.directory_exists == 'false'
