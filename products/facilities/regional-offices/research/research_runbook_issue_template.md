@@ -4,7 +4,7 @@
 - [Research Review Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_review_cycle_issue_template.md)
 - [Research Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_recruitment_issue_template.md)
 - [Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_sessions_issue_template.md)
-- Research & Topline Synthesis
+- [Research Synthesis & Topline Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_synthesis_issue_template.md)
 - Research Readout & Documentation
 
 # Template name: Runbook - UX Research
@@ -24,7 +24,7 @@ Here are the steps to follow when setting up a new UX research process:
 - [ ] Create a _Research Review Cycle_ issue
 - [ ] Create a _Research Recruitment_ issue
 - [ ] Create a _Research Sessions_ issue
-- [ ] Create a _Research & Topline Synthesis_ issue
+- [ ] Create a _Research Synthesis & Topline Report_ issue
 - [ ] Create a _Research Readout & Documentation_ issues
 - [ ] Add all the issues to the Research Epic and add dependencies
 
@@ -42,34 +42,6 @@ Please check the team(s) that will do this work.
 - [ ] `⭐️ Facilities`
 - [ ] `⭐️ User support`
 
-# Template name: Research & Topline Synthesis
-**About:** Use this template when blank
-**Template content:** 
-## Description
-Always an artifact, sometimes a readout
-- GitHub bulleted list 
-- bulleted list response to hypothesis
-- no recommendations
-
-## Acceptance Criteria
-- [ ] Determine topline artifact 
-- [ ] if readout, who needs to be invited / involved
-- [ ] Topline artifact shared with PO 
-
-### CMS Team
-Please check the team(s) that will do this work.
-
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
-**Issue default title:** 
-**Assignees** 
-**Labels:** 
 
 # Template name: Research Readout & Documentation
 **About:** Use this template when blank
