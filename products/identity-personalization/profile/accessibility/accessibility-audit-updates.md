@@ -1,6 +1,6 @@
 # Accessibility audit & updates
 
-**Last updated: August 25, 2022**
+**Last updated: September 2, 2022**
 
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
 
@@ -96,6 +96,25 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   Can one-per-page editing help with any of the above concerns?
 -   Some research has been done by other teams
 -   **Next steps:** TBD
+
+
+## Shared Support Accessibility Audit Summary - September 2022
+
+An additional accessibility audit was completed August 31, 2022 by the PTEMS Shared Support team. Testing of keyboard navigation, color contrast, magnification, Axe browser scan and screen reader testing with JAWS, NVDA and VoiceOver were completed and focused on the following higher traffic content areas:
+-   Personal Information
+-   Contact Information
+-   Direct Deposit Information
+-   Notification Settings
+
+### Audit Notes
+
+Overall, all of the accessibility issues identified aligned with the earlier screen reader findings mentioned in this document. Two additional issues were found and are included below along with other feedback.
+
+-   [NEW 508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) - related to focus management and screen reader announcement on the Direct Deposit Information content area. After clicking the **EDIT** button to edit direct deposit information for disability compensation and pension bank information, the focus is set to the routing number field. This causes screen reader users to miss the informative content that appears above it that includes an image and descriptive text noting to users where to find their bank's routing and account numbers. 
+   -   There are also instances where after clicking the **EDIT** button, and then clicking on the expandable-collapsible area for "Where can I find these numbers?", the caption that should appear following the image is missing.
+-   [NEW 508-defect-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) - related to missing descriptive text within the Notification Settings content area. Near the top of the content, the Veteran’s mobile number is listed, followed by a link to update their mobile phone number. The text content listed beforehand does not truly indicate what type of phone number is being read aloud by screen readers. Users may be able to guess that this is their mobile number, but the lack of specific callout text may create confusion.
+-   Color Contrast - not a defect, but more of something spotted regarding consistency with some areas having a combination of black and light gray text versus similar content where all black text is used.
+-   Error handling -  [a broader discussion happened with the Forms Library team](https://github.com/department-of-veterans-affairs/va-forms-system-core/issues/557), but essentially this is regarding when error messaging is triggered as a user navigates
 
 
 ## Resolved items & updates
