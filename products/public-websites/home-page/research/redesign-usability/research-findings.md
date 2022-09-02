@@ -59,10 +59,11 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 ## Areas of focus
 In this research, we were primarily interested in the following areas of the home page as used in task completion:
 - The new "Sign in or create an account" CTA
-- Common tasks list
 - The new Search box
-- Benefit hubs
+- Other search tools
+- Common tasks list
 - VAntage Point blog promo
+- Benefit hubs
 
 # Methodology 
 We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given some **Veteran top tasks** (per [Veteran Top Tasks Unmoderated Survey findings from June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)) **as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Common tasks" section of the redesigned home page, while others were not. For the 5 tasks that were also used in last year's baseline wayfinding research, task completion rates were compared to assess the home page redesign with the baseline (which is the current home page on Production). 
