@@ -18,7 +18,7 @@ New form templates will have to be added to vets-api for each tax year, for both
   - Using Adobe Acrobat, add the Veteran's Affairs data (look at past year's templates to see what data goes in and where)
   - Add the new PDF template to: [lib/form1095_b/templates/pdfs/](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/form1095_b/templates/pdfs/)1095b-{tax year}.pdf
   
-- Text form, find here: link-to-1095B-txt-forms
+- [Text form](https://www.irs.gov/forms-pubs/irs-tax-forms-in-braille-and-text-formats)
   - Download text version of 1095B from IRS
   - Using preferred editor, add data fields to the text form (see past years text forms to see how/where the data fields go)
   - Add the new txt template to: [lib/form1095_b/templates/txts/](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/form1095_b/templates/txts)1095b-{tax year}.txt
