@@ -93,6 +93,12 @@ jobs:
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: cat <<< $(yq -e '(.ingress.enabled)=true' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
+      - name: Modify values.yaml to have correct dependecy format
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: |
+          export VALUES=$(cat vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml)
+          cat <<< $(myenv=$VALUES yq --null-input '.hello-world = env(myenv)') > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
       - name: Create pull request
         if: steps.directory_check.outputs.directory_exists == 'false'
         id: cpr
