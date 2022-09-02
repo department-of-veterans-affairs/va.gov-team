@@ -17,7 +17,7 @@
 ## Description
 
 Here are the steps to follow when setting up a new UX research process:
-- [ ] Create a Research Epic 
+- [ ] Create a Research [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Create a Research Folder following [Platform's Research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-1.Planningforresearch)
 - [ ] Review Research repo for previous relevant research
 - [ ] Create a _Research Plan & Conversation Guide_ issue
