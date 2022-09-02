@@ -154,6 +154,10 @@ Wednesday, September 14: 12 PM - 2:30 PM EST, 4 PM - 6 PM EST
 
 Thursday, September 15: Not available
 
+Friday, September 16: 12 PM - 6 PM EST
+
+Monday, September 19: 2 - 6 PM EST
+
 ## Megan's availability
 
 Thursday, September 8: 8 AM - 10:30 AM EST, 11 AM - 1 PM EST, 1:30 - 4 PM EST
@@ -166,7 +170,11 @@ Tuesday, September 13: 10 AM - 4 PM EST
 
 Wednesday, September 14: 8 AM - 3 PM EST
 
-Thursday, September 15: 8 - 10:30 AM EST, 11 AM - 1 PM EST, 1:30 AM - 4 PM EST,
+Thursday, September 15: 8 - 10:30 AM EST, 11 AM - 1 PM EST, 1:30 AM - 4 PM EST
+
+Friday, September 16: 8 AM - 4 PM EST
+
+Monday, September 19: 8 AM - 1 PM, 2 - 4 PM EST
 
 ## Team Roles
 
