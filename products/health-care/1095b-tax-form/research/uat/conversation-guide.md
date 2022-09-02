@@ -75,7 +75,7 @@ Please think aloud.
 
 What do you make of the options available? 
 
-Which format are you going to pick? 
+Which format are you going to pick? Why?
 
 [Screen: personalized version of 1095-B form]
 
@@ -89,7 +89,7 @@ Is the information on the form correct? Please verify your name, address, and co
 
 [Pause]
 
-Let's go ahead and click through, but of course we won't actually change anything. 
+Is this information straightforward? Is there anything confusing or anything that you would add?
 
 Thank you for helping us test this new feature. 
 
