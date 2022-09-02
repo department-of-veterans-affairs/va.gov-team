@@ -85,26 +85,31 @@
   * Directing your attention to the bar at the bottom of the screens with the icons that says "Home, Benefits, Health, Money" 
     * What sorts of things would you expect to see when you tap "Benefits"?
     * What sorts of things would you expect to see when you tap "Money"?
+     * *Probe further depending on their reaction to the labels.*
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 ### Task 1: Update email address (5 minutes)
 * **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to contact you. Without touching anything, where would you expect to go to do that?
-* Go ahead and use the app to go to where you think you’d update your email address. Once you’re there, stop and wait for the next instruction.
+*  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
+*  Go ahead and use the app to go to where you think you’d update your email address. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Email Address screen before starting the next task. Note where they have trouble.*
 
 ### Task 2: Check disability rating (5 minutes)
 * **PROMPT:**  Your disability rating changed recently and you want to make sure it's correct. Without touching anything, where would you expect to find your disability rating?
+*  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to see what your rating is, and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Benefits category screen before starting the next task. Note where they have trouble.*
  * What things did you expect to see when you tapped on “Benefits”?
 
 ### Task 3: Check the date of your upcoming doctor appointment (5 minutes)
 * **PROMPT:** You have a doctor appointment coming up, but you can't remember what the exact date of the appointment is. Without touching anything, where would you expect to go to find out?
+*  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to look up the date of your doctor’s appointment. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Appointments landing screen before starting the next task. Note where they have trouble.*
 
 ### Task 4: Check disability payment (5 minutes)
 * **PROMPT:** You want to make sure that you're receiving the correct amount each month from VA for your disability. Without touching anything, where would you expect to go to check how much was deposited in your account last month?
+*  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to find out how much was deposited. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Money screen before starting the next task. Note where they have trouble.*
 * What did you expect to find when you tapped on “Benefit payments”?
@@ -112,6 +117,7 @@
 
 ### Task 5: Check the status of your disability claim (5 minutes)
 * **PROMPT:** You have an active disability claim, and you are curious about its status. Without touching anything, where would you expect to go to do that?
+*  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to check the status of your claim, and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Claims landing screen before starting the next task. Note where they have trouble.*
 
