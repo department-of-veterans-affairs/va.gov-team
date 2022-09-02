@@ -1,1 +1,0 @@
-# Profile research studies
