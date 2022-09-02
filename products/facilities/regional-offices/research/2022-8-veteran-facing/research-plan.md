@@ -69,14 +69,23 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 *   What are the top tasks that Veterans seek out a regional/benefit office for? 
 *   How important is the child location relationship to the regional office for Veterans?
 *   What are the questions Veterans want answered by calling the phone number(s)?
+*   What was the benefit-related task they were trying to accomplish?
+*   Veterans were able to accomplish the task at the facility?
+    *   Did going physically to the facility allow them to accomplish their task?
+    *   Was going to the facility required for the task?
+*   Do they have a preference for doing this task in person or not?
 *   What else do Veterans need in order to be prepared for a visit?
+*   How did they travel to the facility?
+*   What was the experience like getting to the appointment?
+    *   Wayfinding within a building
 *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 ### Hypothesis
 
-What do you intend to learn and measure from this study? 
 
-*   We believe that Veterans will have similar goals as Veterans using the facility search tool, VAMC, and Vet Center pages, and will be operating with familiarity with industry standard design patterns for location search and details.
+*   Do Veterans find it easy and useful to get information about Regional Offices? 
+
+Hypothesis: yes
 
 What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 
@@ -98,7 +107,62 @@ Remote, via Zoom. 
 
 ### Recruitment approach
 
-Recruit through Perigean.
+Recruit 15 Veterans through Perigean.
+
+#### Primary criteria / Must have - 
+
+- Veterans & active duty service members 
+
+- Answers "Yes" to screener question
+
+  **Screener Question:**
+  
+    **Have you visited a VA Regional Office or one of it's child benefits offices in the last 6 months?** 
+    **(Answer must be yes)**
+
+      [following checkboxes] 
+
+      [ ] Yes
+
+      [ ] No
+
+#### Secondary criteria / Would like to have -
+
+Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy):
+
+Age 55-64+ : 8
+Cognitive Disability: 8
+Mobile user: 8
+Rural: 4
+No degree: 4
+Other than honorable: 4
+Immigrant origin: 3
+Women: 2
+Expat (living abroad): 1
+
+Black: 3
+Hispanic: 2
+Biracial: 1
+Asian: 1
+Native: 1
+
+Gay, lesbian, or bisexual: 1
+Transgender: 1
+Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+
+Beginner AT User: 3
+Experienced AT User: 3
+Desktop Screen Reader (SR): 2
+Mobile Screen Reader (SR): 2
+Magnification/Zoom: 2
+Speech Input Tech (Siri, Dragon): 2
+Hearing Aids: 2
+Sighted Keyboard: 1
+Captions: 1
+Switch Device: 1
+Braille Reader: 1
+
+
 
 ### Recruitment criteria
 
