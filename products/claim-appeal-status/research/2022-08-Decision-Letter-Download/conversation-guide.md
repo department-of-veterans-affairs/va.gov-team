@@ -72,7 +72,7 @@ Imagine you have a disability claim that you've been waiting to hear back about.
 
 Post-task questions:
 - What do you think of this page overall, on a scale of 1 (least helpful) to 5 (most helpful)?
-- Do you think this is a feature you would use as opposed to receiving the letter in the mail?
+- Do you typically go online to review documents like this (bank statements, receipts, insurance claims?) If this feature were available, do you think you would use it? Why?
 - What else would you expect to see on this Notification Letters page? What other types of content in the future? 
 
 ### Things to watch for:
