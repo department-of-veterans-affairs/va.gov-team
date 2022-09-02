@@ -54,6 +54,7 @@
     * What do you like best? What do you wish you could change?
   * *If no:* Move to next question
 * Ok, thank you for that.
+* *Check #feedback-backchannel before moving on.*
 
 ## Section 2: Prototype setup & screenshare (5 minutes)
 * Now we’re going to move on to the prototype part of our conversation. During our session today, I am going to have you imagine a series of situations and I’d like you to use the app to work through them.
@@ -86,15 +87,18 @@
     * What sorts of things would you expect to see when you tap "Benefits"?
     * What sorts of things would you expect to see when you tap "Money"?
      * *Probe further depending on their reaction to the labels.*
+* *Check #feedback-backchannel before moving on.*
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 ### Task 1: Update email address (5 minutes)
+*Check #feedback-backchannel before reading prompt.*
 * **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to contact you. Without touching anything, where would you expect to go to do that?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 *  Go ahead and use the app to go to where you think you’d update your email address. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Email Address screen before starting the next task. Note where they have trouble.*
 
 ### Task 2: Check disability rating (5 minutes)
+*Check #feedback-backchannel before reading prompt.*
 * **PROMPT:**  Your disability rating changed recently and you want to make sure it's correct. Without touching anything, where would you expect to find your disability rating?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to see what your rating is, and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
@@ -102,12 +106,14 @@
  * What things did you expect to see when you tapped on “Benefits”?
 
 ### Task 3: Check the date of your upcoming doctor appointment (5 minutes)
+*Check #feedback-backchannel before reading prompt.*
 * **PROMPT:** You have a doctor appointment coming up, but you can't remember what the exact date of the appointment is. Without touching anything, where would you expect to go to find out?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to look up the date of your doctor’s appointment. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Appointments landing screen before starting the next task. Note where they have trouble.*
 
 ### Task 4: Check disability payment (5 minutes)
+*Check #feedback-backchannel before reading prompt.*
 * **PROMPT:** You want to make sure that you're receiving the correct amount each month from VA for your disability. Without touching anything, where would you expect to go to check how much was deposited in your account last month?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to find out how much was deposited. Once you’re there, stop and wait for the next instruction.
@@ -116,13 +122,15 @@
 * What would you expect to find if you tapped on “Outstanding debts”?
 
 ### Task 5: Check the status of your disability claim (5 minutes)
+*Check #feedback-backchannel before reading prompt.*
 * **PROMPT:** You have an active disability claim, and you are curious about its status. Without touching anything, where would you expect to go to do that?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 * Go ahead and use the app to check the status of your claim, and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Claims landing screen before starting the next task. Note where they have trouble.*
 
 
-## Thank-You and Closing (5 minutes)
+## Thank-You and Closing (5 minutes)* 
+*Check #feedback-backchannel before moving on.*
 ### Prototype exit
 * Ok, we are finished with the prototype today. Now I’m going to help you unhide your toolbar and close the prototype:
   * *If iOS:*
@@ -138,6 +146,7 @@
 * What did you like or dislike about the app we used today?
 * *If current app user:* Thinking about your experience using the current VA mobile app, how does the app we used today compare to that? 
 Easier to use, The same to use, Harder to use?
+*Check #feedback-backchannel before moving on.*
 * Anything else you wanted to share?
 * Well we really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the app and improve it for Veterans.
 * Thank you so much again, and enjoy the rest of your day!
