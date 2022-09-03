@@ -88,24 +88,24 @@ During our testing phase, we will monitor our public channel (#vsp-identity) for
 - [x] Notify VSP Identity Channel
 - [x] Team of Teams 
 - [x] Monitors Created
-- [ ] Test Date Established and Communicated
+- [x] Test Date Established and Communicated
 
 # Test Day Checklist
 - [x] Notification in VFS-All-Teams
-- [ ] Notification in VSP-Identity
+- [x] Notification in VSP-Identity
 - [x] Flippers Flipped (sign_in_service_enabled)
 - [x] [Monitors Monitored](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard?from_ts=1659719278244&to_ts=1660324078244&live=true)
-- [ ] Post-Mortem Meeting scheduled for team
-- [ ] Test ended and Flippers Unflipped
+- [x] Post-Mortem Meeting scheduled for team
+- [x] Test ended and Flippers Unflipped
 
 # Abort Checklist
 - [ ] Login success rate falls below 50%
 - [ ] Abnormally high error rate
 
 # Post-Test Tasks
-- [ ] Writeup of results
-- [ ] Details on any further testing discussed
-- [ ] Tickets created for any follow-on work
+- [x] Writeup of results
+- [x] Details on any further testing discussed
+- [x] Tickets created for any follow-on work
 
 
 
