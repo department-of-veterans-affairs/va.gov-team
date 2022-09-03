@@ -7,7 +7,7 @@ Welcome to the Identity folder. This directory contains information about user i
 ## Current Team Objectives
 
 
-# Sign-in Service Pilot  
+### Sign-in Service Pilot  
 _Current Status:_ Actively working on this.  Currently performing testing.
 We are working to stand up a new sign-in service for VA.gov, and ultimately other VA and .gov properties.  The goal is to replace the existing SSOe solution with a newer, faster, and more cost-effective solution built on modern, scalable technologies.  We are currently performing initial tests of our web-based Sign-in Service, as well as working with the VA.go mobile team to implement the service within their app.  Our target for the mobile app is to begin limited user testing in September.
 
@@ -17,7 +17,7 @@ We are working to stand up a new sign-in service for VA.gov, and ultimately othe
 - Limiting factor is that our sign-in service does not work with outbound SSO.  Users coming _to_ VA.gov from elsewhere will be automatically signed in, but users going from VA.gov to other properties such as MHV will have to sign in again.
 - Our service offers improvements in both sign-in time and issue resolution time over the existing service.
 
-# Inherited Proofing  
+### Inherited Proofing  
 _Current Status:_ Researching and waiting for partners.
 We are working to support inherited proofing for users of legacy CSP's such as DSLogon and MyHealtheVet, so that they are able to transition to a newer, more secure CSP such as Login.gov or ID.me.  Presently, we have finished several rounds of user research covering accessibility as well as general user sentiment and understanding.  We have created our initial back-end work and are waiting for our Login.gov partners to implement their work so that we can plan user pilots.
 
