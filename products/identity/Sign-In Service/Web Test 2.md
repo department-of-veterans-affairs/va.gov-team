@@ -17,8 +17,8 @@ At each hour if the success (login) % is under 50%, we should pause/terminate th
 Our primary goal with testing is to look for improvements in success rate and a reduction in login time.  Success rate is monitored via Datadog, while login time is tested by checking the time for each step of the login process and tallying these up.  
 
 
-**Test Start:**  
-**Test End:**
+**Test Start:** 0900EST 9/1/2022  
+**Test End:** 1700 EST 9/2/2022
 
 # Alerting and Monitoring
 **[Sentry URL](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity&statsPeriod=14d)** : Used for error logging.    
@@ -31,19 +31,19 @@ Our intention is to communicate our testing at least 14 days in advance via Team
 During our testing phase, we will monitor our public channel (#vsp-identity) for any issues, and encourage any VA teams to report them there.  We will have a dedicated engineering resource monitoring this channel during the test, and responding and prioritizing any issues to determine if we need to stop the test.
 
 # Pre-Launch Checklist
-- [ ] Notify VSP Engineering Channel
-- [ ] Notify VSP Identity Channel
+- [x] Notify VSP Engineering Channel
+- [x] Notify VSP Identity Channel
 - [x] Team of Teams 
-- [ ] Monitors Created
-- [ ] Test Date Established and Communicated
+- [x] Monitors Created
+- [X] Test Date Established and Communicated
 
 # Test Day Checklist
-- [ ] Notification in VFS-All-Teams
-- [ ] Notification in VSP-Identity
-- [ ] Flippers Flipped (sign_in_service_enabled)
-- [ ] [Monitors Monitored](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard?from_ts=1659719278244&to_ts=1660324078244&live=true)
+- [X] Notification in VFS-All-Teams
+- [x] Notification in VSP-Identity
+- [x] Flippers Flipped (sign_in_service_enabled)
+- [x] [Monitors Monitored](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard?from_ts=1659719278244&to_ts=1660324078244&live=true)
 - [ ] Post-Mortem Meeting scheduled for team
-- [ ] Test ended and Flippers Unflipped
+- [x] Test ended and Flippers Unflipped
 
 # Abort Checklist
 - [ ] Login success rate falls below 50%
