@@ -119,9 +119,9 @@ FOR EVERYONE
 # Hypotheses and Conclusions
 
 1. The prominent sign in location and CTA makes it easier for participants to easily sign in/sign up (as compared to the "sign in" link in the header, a standard place to log in on many websites).
-     1. PROBABLY FALSE: Most participants didn't click *either* "sign in" button, and of those who did, 3 used the new prominent button and 2 used the old button in the header. 3 other participants were confused or annoyed at seeing two separate "sign in" buttons, so perhaps the old button in the familiar location in the header is sufficient. 
+     1. PROBABLY FALSE: Most participants didn't click *either* "sign in" button, and of those who did, 2 used the new prominent button and 4 used the old button in the header. 3 other participants were confused or annoyed at seeing two separate "sign in" buttons, so perhaps the old button in the familiar location in the header is sufficient. 
 3. More participants will use the prominent sign in CTA than the button in the header.
-     1. TRUE: Of those who chose to sign in from the home page, three participants used the new "sign in" button, whereas only two used the original "sign in" button in the header. All other participants (74%) instead used "sign in" buttons on content pages.
+     1. FALSE: Of those who chose to sign in from the home page, only 2 participants used the new "sign in" button, whereas four used the original "sign in" button in the header. All other participants (13) instead used "sign in" buttons on content pages.
 5. The streamlined design enables participants to complete tasks efficiently. 
      1. PARTLY TRUE: 16 of the 20 tasks were successfully completed by at least 70% of the participants who tried them. However, some participants struggled to complete some of the tasks, and 4 tasks were unable to be completed by 40-50% of those who tried them.  
 1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
@@ -240,9 +240,12 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 ## 4. Several participants said that it was redundant or confusing to have two different sign-in buttons 
 3 participants pointed out that there were 2 different sign-in buttons and didn't need more than the one in the header. One of these participants said it was confusing to have two buttons in two different places that do the same thing.
 
-Neither sign-in button got much use during the research sessions.
-- Most people didn't use either sign-in button because they instead signed in after landing on specific content pages.
-- A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
+Neither sign-in button got much use during the research sessions:
+- 2 participants used the new "Sign in or create account" button.
+- 4 participants used the old "Sign in" button in the header.
+- Everyone else (13 participants) didn't use either sign-in button because they instead used the "sign in" button on specific content pages they found later.
+
+A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 - One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
 ## 5. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
