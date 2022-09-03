@@ -17,6 +17,12 @@ We are working to stand up a new sign-in service for VA.gov, and ultimately othe
 - Limiting factor is that our sign-in service does not work with outbound SSO.  Users coming _to_ VA.gov from elsewhere will be automatically signed in, but users going from VA.gov to other properties such as MHV will have to sign in again.
 - Our service offers improvements in both sign-in time and issue resolution time over the existing service.
 
+**What's next**
+- Flagship mobile rollout: We will need to support this team as they roll our Sign-in Service out.
+- VA.gov rollout: We would like to permanently shift 30% of user traffic on VA.gov to our service.  This will help us identify and resolve any issues, and provide us with valuable data.
+- Partner rollout: Bringing other VA properties such as MHV onto our sign-in service will add SSO functionality 
+- Terms and Conditions: The VA is working to roll out unified terms and conditions, we want to implement this in our sign-in service.  See the Terms and Conditions item below for more details.
+
 ### Inherited Proofing  
 _Current Status:_ Researching and waiting for partners.
 We are working to support inherited proofing for users of legacy CSP's such as DSLogon and MyHealtheVet, so that they are able to transition to a newer, more secure CSP such as Login.gov or ID.me.  Presently, we have finished several rounds of user research covering accessibility as well as general user sentiment and understanding.  We have created our initial back-end work and are waiting for our Login.gov partners to implement their work so that we can plan user pilots.
@@ -24,6 +30,9 @@ We are working to support inherited proofing for users of legacy CSP's such as D
 **Key Information**
 - Our current line of thought is to only offer users the ability to transition to Login.gov.
 - Users, by and large, understand the process and reasoning for this transition.
+
+### Terms and Conditions
+_Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.
 
 
 
