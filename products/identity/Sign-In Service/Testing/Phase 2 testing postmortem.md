@@ -2,18 +2,22 @@
 This document exists to capture feedback from our initial test of our Sign-in Service on VA.gov. Relevant test details as follows:  
 **Test Start:** 0900EST 9/1/2022  
 **Test End:**  1700EST 9/2/2022  
-**Total Users Impacted:**   
-**Success Rate:**  )  
-**Return Rate:**    
+**Total Users Impacted:** 41,200   
+**Success Rate:** 74.25%    
+**Return Rate:** ???  
 **Notes:**  
-
+- Our success rate was negatively impacted by ID.me viewing our traffic as new users and requesting they consent to sharing information with VA.gov
+- Our latency with certain CSP's continues to be negatively impacted by the lack of Single Round-Trip for our Sign-in Service
+- During our test, we saw a dramatic improvement in success rate for users on Chrome and Safari, with a 15-20% higher rate than the existing SSOe system
 
 
 # Test Summary
-
+We began our test at 0900 EST on Thursday, September 1 2022.  During the 36 hours the test ran, ending at 1700 EST on Friday, September 3 2022, 41,200 users were sent through our Sign-in Service from VA.gov.  Of these users we saw 30,590 successfully sign in.  We continue to see a lower than desired success rate with ID.me as they view traffic from our sign-in service as new users and request that the users consent to share information with VA.gov again.  The only other issue of note was that the 1010EZ team notified us of an issue related to the changes we have made to refresh tokens.  The time to resolution for this issue was less than 2 hours from it being brought to our attention, and a fix was implemented before the end of the day we were notified that will prevent other teams from being impacted by this in the future.
 
 ## Key Takeaways
-
+- No major issues were identified (defined as issues requiring us to stop our test ahead of our planned end time)
+- Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
+- 
 
 
 ## Related Tickets:  
@@ -30,7 +34,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 
 
 ## Next Steps
-
+We would like to roll out our sign-in service for an open-ended test with 30% of VA.gov traffic to help identify any other issues, as well as gauge user sentiment about the lack of SSO functionality for outbound traffic.
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
 
