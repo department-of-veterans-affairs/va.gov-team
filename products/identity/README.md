@@ -4,9 +4,7 @@ Welcome to the Identity folder. This directory contains information about user i
 **New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 
 
-## What we're doing:
-
-### Current Team Objectives
+## Current Team Objectives
 
 
 # Sign-in Service Pilot  
