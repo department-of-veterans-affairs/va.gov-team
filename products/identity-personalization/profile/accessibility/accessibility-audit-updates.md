@@ -129,7 +129,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   Also does not tell screenreader about all the errors shown, just one.
 -   **Recommendations:**
 	-   Angela suggested that the best thing to do is to have a list of errors together
--   **Next steps:** TBD
+-   **Next steps:** Determine if this is something specific to our form, or global form system problem. 
 
 #### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
