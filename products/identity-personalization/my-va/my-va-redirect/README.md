@@ -39,7 +39,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 ||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Exits from VA.gov from My VA|6.1%|TBD|TBD|TBD|TBD|TBD|
+|Exits from VA.gov from My VA|6.1%|5.7%|TBD|TBD|TBD|TBD|
 
 #### [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
@@ -49,12 +49,12 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim|18,474|TBD|TBD|TBD|TBD|TBD|
-|Manage all your claims and appeals|17,059|TBD|TBD|TBD|TBD|TBD|
-|View all appointments|1,677|TBD|TBD|TBD|TBD|TBD|
-|View all messages|5,543|TBD|TBD|TBD|TBD|TBD|
-|View all prescriptions|3,096|TBD|TBD|TBD|TBD|TBD|
-|View all payments|15,353|TBD|TBD|TBD|TBD|TBD|
+|View claim|18,474|18,791|TBD|TBD|TBD|TBD|
+|Manage all your claims and appeals|17,059|17,409|TBD|TBD|TBD|TBD|
+|View all appointments|1,677|1,639|TBD|TBD|TBD|TBD|
+|View all messages|5,543|5,385|TBD|TBD|TBD|TBD|
+|View all prescriptions|3,096|3,035|TBD|TBD|TBD|TBD|
+|View all payments|15,353|19,227|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
@@ -64,12 +64,12 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|24|TBD|TBD|TBD|TBD|TBD|
-|Rating|42|TBD|TBD|TBD|TBD|TBD|
-|Disability|47|TBD|TBD|TBD|TBD|TBD|
-|Claim(s)| 45, 26|TBD|TBD|TBD|TBD|TBD|
-|Payment|57|TBD|TBD|TBD|TBD|TBD|
-|Payment history|6|TBD|TBD|TBD|TBD|TBD|
+|Disability rating|24|32|TBD|TBD|TBD|TBD|
+|Rating|42|40|TBD|TBD|TBD|TBD|
+|Disability|47|49|TBD|TBD|TBD|TBD|
+|Claim(s)| 45, 26| 74, 16 |TBD|TBD|TBD|TBD|
+|Payment|57|32|TBD|TBD|TBD|TBD|
+|Payment history|6|14|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -77,10 +77,10 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|4|TBD|TBD|TBD|TBD|TBD|
-|Letter|5|TBD|TBD|TBD|TBD|TBD|
-|Benefit letter|29|TBD|TBD|TBD|TBD|TBD|
-|GI bill|16|TBD|TBD|TBD|TBD|TBD|
+|DD214|4|5|TBD|TBD|TBD|TBD|
+|Letter|5|3|TBD|TBD|TBD|TBD|
+|Benefit letter|29|15|TBD|TBD|TBD|TBD|
+|GI bill|16|13|TBD|TBD|TBD|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -90,12 +90,12 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|5|TBD|TBD|TBD|TBD|TBD|
-|Rating|14|TBD|TBD|TBD|TBD|TBD|
-|Disability|36|TBD|TBD|TBD|TBD|TBD|
-|Claim(s)|53, 25|TBD|TBD|TBD|TBD|TBD|
-|Payment|50|TBD|TBD|TBD|TBD|TBD|
-|Payment history|7|TBD|TBD|TBD|TBD|TBD|
+|Disability rating|5|8|TBD|TBD|TBD|TBD|
+|Rating|14|13|TBD|TBD|TBD|TBD|
+|Disability|36|42|TBD|TBD|TBD|TBD|
+|Claim(s)|53, 25|62, 26|TBD|TBD|TBD|TBD|
+|Payment|50|38|TBD|TBD|TBD|TBD|
+|Payment history|7|11|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -103,10 +103,10 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|15|TBD|TBD|TBD|TBD|TBD|
-|Letter|18|TBD|TBD|TBD|TBD|TBD|
-|Benefit letter|58|TBD|TBD|TBD|TBD|TBD|
-|GI bill|24|TBD|TBD|TBD|TBD|TBD|
+|DD214|15|12|TBD|TBD|TBD|TBD|
+|Letter|18|17|TBD|TBD|TBD|TBD|
+|Benefit letter|58|46|TBD|TBD|TBD|TBD|
+|GI bill|24|25|TBD|TBD|TBD|TBD|
 
 #### Medallia feedback
 
