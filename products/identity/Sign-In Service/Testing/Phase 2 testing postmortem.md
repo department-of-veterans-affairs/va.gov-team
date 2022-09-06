@@ -68,9 +68,9 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 **Average total sign-in time:** 13.3s  
 
 ## ID.me  
-**Average time from CSP selection to sign-in screen:** 0s _(as with Login.gov, faster than tester could click stopwatch)_
-**Average time from sign-in to MFA screen:**  2.13s
+**Average time from CSP selection to sign-in screen:** 0s _(as with Login.gov, faster than tester could click stopwatch)_  
+**Average time from sign-in to MFA screen:**  2.13s  
 **Average time from MFA completion to return to VA.gov:** 13.18s _(due to an issue with ID.me, we experience two round-trips to verify LOA.  Once this is resolved, time should be halved)_  
-**Average total sign-in time:** 15.31s
+**Average total sign-in time:** 15.31s  
 
 
