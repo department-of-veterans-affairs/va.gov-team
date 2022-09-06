@@ -51,7 +51,7 @@ Now I'm going to have you share your screen, and then I'll send you a link to a 
 
 * Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1334%3A68885&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1334%3A68885&hotspot-hints=0&hide-ui=1)
 
-* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1334%3A70134&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1334%3A70134&hotspot-hints=0&hide-ui=1)
+* Use chat to send user [link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1334%3A70134&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1334%3A70134&hotspot-hints=0&hide-ui=1)
 
 * Talk participant through screen sharing so they can share their screen.
 
@@ -68,14 +68,14 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## Scenario 1: - 5 minutes
-You scheduled a new primary care appointment and want to double check your appointment details. How would you do that from here?
+You scheduled a new primary care appointment and want to double-check your appointment details. How would you do that from here?
 
 **Follow up:** Tell me about this page. 
 
 #### Things to watch for:
 
-- _Can participant find primary care appointment in list_
-- _Does the participant Understands what time appointment takes place_
+- _Can the participant find a primary care appointment in list?_
+- _Does the participant understand what time the appointment takes place?_
 
 ## Scenario 2: - 5 minutes
 You remember scheduling a video appointment, and want to check how to join it. How would you do that from here?
@@ -84,9 +84,9 @@ You remember scheduling a video appointment, and want to check how to join it. H
 
 #### Things to watch for:
 
-- _Can the participant find video appointment_
-- _Can participant find joining instructions_
-- _Can participant find the back button to navigate back_ 
+- _Can the participant find a video appointment?_
+- _Can participant find joining instructions?_
+- _Can participant find the back button to navigate back?_ 
 
 ## Scenario 3: - 5 minutes
 You want to print your list of appointments to help your caregiver keep track of it. How would you do that from here?
@@ -95,48 +95,47 @@ You want to print your list of appointments to help your caregiver keep track of
 
 **Follow up:** Is printing a page like this something you would do typically?
 
-- _Does the participant choose the print option from their browser._
-- _Does the participant select print option on page_
+- _Does the participant choose the print option from their browser?_
+- _Does the participant select print option on page?_
 
 ## Scenario 4: - 5 minutes
 You want to check the status of an appointment you requested. How would you do that from here?
 
-You want to check the status of an appointment you requested. 
-**Follow up:** What are your thoughts on this page.
+**Follow up:** What are your thoughts on this page?
 
 #### Things to watch for:
 
-- _Does the participant click “pending” link._
-- _Can participant find pending appointment_
-- _Can participant find time requested_
-- _Does participant understand pending appointments_
+- _Does the participant click the “pending” link?_
+- _Can the participant find a pending appointment?_
+- _Can the participant find the time requested?_
+- _Does participant understand pending appointments?_
 
 ## Scenario 5: - 5 minutes
 You want to check the last time you had a primary care appointment. How would you do that from here?
 
 #### Things to watch for:
 
-- _Can participant find “past” link_
-- _Can participant find previous Primary care appointment_
-- _Does participant understand past appointments_
+- _Can participant find the “past” link?_
+- _Can participant find a previous primary care appointment?_
+- _Does participant understand past appointments?_
 
 ## Scenario 6: - 5 minutes
 Finally, You need to set up a new eye care appointment. How would you do that from here?
 
 #### Things to watch for:
 
-- _Does participant click the start scheduling action button
+- _Does the participant click the start scheduling action button?_
 
 ## Scenario 7: - 5 minutes
-While youre on this page, I wanted to talk a bit about what you see here. 
+While you're on this page, I wanted to talk a bit about what you see here. 
 
 - Can you tell the difference between the appointment on Monday, July 1 at 8 am?
 - Can you tell the status of the appointment on Friday, September 6th?
 
 #### Things to watch for:
 
-- _Can participant differentiate between appointment modalities?_
-- _Can participant identify the status of the canceled appointment?_
+- _Can the participant differentiate between appointment modalities?_
+- _Can the  participant identify the status of the canceled appointment?_
 
 ## Post-Task Interview - 5 minutes
 
@@ -148,7 +147,6 @@ While youre on this page, I wanted to talk a bit about what you see here.
 
 - What could we do better?
 
-
 ## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
@@ -158,7 +156,3 @@ Great, well thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
