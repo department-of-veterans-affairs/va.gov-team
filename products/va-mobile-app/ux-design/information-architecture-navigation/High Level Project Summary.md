@@ -144,7 +144,7 @@ For detailed protocol on each part of the study, see:
    
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [* Research Plan for VA Mobile App IA Research: Usability Study - September 2022]
+    *  [* Research Plan for VA Mobile App IA Research: Usability Study - (August-September 2022]
 
 
 
