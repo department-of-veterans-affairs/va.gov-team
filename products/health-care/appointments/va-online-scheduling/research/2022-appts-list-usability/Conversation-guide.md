@@ -96,7 +96,7 @@ You want to print your list of appointments to help your caregiver keep track of
 **Follow up:** Is printing a page like this something you would do typically?
 
 - _Does the participant choose the print option from their browser?_
-- _Does the participant select print option on page?_
+- _Does the participant use the keyboard shortcut to print?_
 
 ## Scenario 4: - 5 minutes
 You want to check the status of an appointment you requested. How would you do that from here?
