@@ -4,7 +4,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Test End:**  1700EST 9/2/2022  
 **Total Users Impacted:** 41,200   
 **Success Rate:** 74.25%    
-**Return Rate:** ???  
+**Return Rate:** 78%  
 **Notes:**  
 - Our success rate was negatively impacted by ID.me viewing our traffic as new users and requesting they consent to sharing information with VA.gov
 - Our latency with certain CSP's continues to be negatively impacted by the lack of Single Round-Trip for our Sign-in Service
