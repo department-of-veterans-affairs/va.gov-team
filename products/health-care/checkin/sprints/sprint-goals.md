@@ -3,9 +3,10 @@
 ## 9/7/2022 (FUTURE)
 
 #### Planned Releases (TENTATIVE)
+- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
+- [Delete LoROTA Entries]()
 - [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
 
 #### Discovery Sprint Goals (TENTATIVE) 
 Kristen - 9; Ben - 7; Ya-Ching - 8; Nira - 8; Lori - 2
@@ -36,28 +37,28 @@ Zach - 9
     - Complete (4 Zach)
 
 #### Engineering Sprint Goals (TENTATIVE) 
-FE = ?
-BE = ?
+FE - 12 + 4 optional; BE - 17 + 5 optional
+- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
+    - Complete & release (6 BE)
 - [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
-    - Complete & release when ready (x FE)
+    - Complete & release when ready (2 FE)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-    - Complete & release when ready (x FE)
+    - Complete & release when ready (3 FE, 5 BE)
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
-    - Implement (? FE)
+    - Implement (3 FE)
 - [Distributed logging and traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46180)
-    - Complete & release (? BE)
+    - Complete & release (3 BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - ?? API ???
+    - Continue to identify how we can make a call (3 BE)
 - [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
-    - Day-of Check-in - Display Retry Message for CHIP 503 Timeout
-    - [[SPIKE] Explore How We Might Isolate Check-in and Pre-Check-in from VA.gov Outages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45832)
-    - [[SPIKE] [FE] Look into refactoring Error pages to make them less opaque](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45795)
+    - [[SPIKE] Explore How We Might Isolate Check-in and Pre-Check-in from VA.gov Outages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45832) (2 FE)
+    - [[SPIKE] [FE] Look into refactoring Error pages to make them less opaque](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45795) (2 FE)
 - [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
-    - Break out Metrics by Modality
-    - Measure Repeat Customers
-    - Determine % of Patient Appointments that are within a Half Hour of One Another
-    - Look at higher bounce rates for screen resolutions    
-
+    - Pull in as many of the following as needed
+        - Look at higher bounce rates for screen resolutions (2 FE)
+        - Break out Metrics by Modality (2 FE)        
+        - Determine % of Patient Appointments that are within a Half Hour of One Another (5 BE)
+        
 
 ## 8/24/2022 
 
