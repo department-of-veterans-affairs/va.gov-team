@@ -18,8 +18,11 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | Notes | Reference | Last updated |
 | -------------- | --------------- | --------------- | --------------- |
-|  | | |
-| |  |  |
+| VA debt | | |
+| benefit overpayments / benefit debt|  |  |
+| copays |  |  |
+| copay bills |  |  |
+
 ## Research findings
 
 Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
