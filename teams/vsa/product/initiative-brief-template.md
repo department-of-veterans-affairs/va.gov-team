@@ -79,11 +79,13 @@
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+### What're you building
+> *What's in scope for you to build with this initiative? Describe key features/flows. 
+> *What have you explicitly decided to **not** include and why?*
+> *How does this solution address your Assumptions & Risks?
 
-### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+#### Go-to-market 
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 --- 
 
@@ -92,9 +94,6 @@
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
