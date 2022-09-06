@@ -50,7 +50,7 @@ There has been research conducted around veteran mental models for the content o
 
 ## Project Purpose & Goals
 
-The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
+The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
 
 
 * **Phase I** of this work is **Information Architecture & Navigation research**. It will give insight on the usability and comprehension of the proposed information architecture direction.
