@@ -1,4 +1,4 @@
-#Testing the API (without a front-end)
+# Testing the API (without a front-end)
 
 You can use the browser console to test the API. 
 
