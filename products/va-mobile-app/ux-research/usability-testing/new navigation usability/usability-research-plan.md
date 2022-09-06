@@ -185,7 +185,7 @@ To assess potential participants' experiences with VA benefits or services, plea
 * Research guide writing and task development: [Holly Collier](mailto:holly.collier@adhocteam.us)
 * Participant recruiting & screening: Perigean
 * Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
-* Participant(s) for pilot test: TBD
+* Participant(s) for pilot test: Robin Garrison
 * [Observers and Notetakers](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit?usp=sharing)
     * Jen Ecker - Managing Senior Designer, VA Mobile App, jen.ecker@adhocteam.us
     * Lauren Russell - Senior UX Designer, VA Mobile App, lauren.russell@adhocteam.us
