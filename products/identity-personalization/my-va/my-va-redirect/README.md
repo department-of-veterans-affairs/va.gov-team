@@ -41,7 +41,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Exits from VA.gov from My VA|6.1%|5.7%|TBD|TBD|TBD|TBD|
 
-#### [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
+#### [Top interactions from My VA (via My VA analytics dashboard)](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220822&_u.date01=20220828/)
 
 **Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
@@ -49,12 +49,12 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim|18,474|18,791|TBD|TBD|TBD|TBD|
-|Manage all your claims and appeals|17,059|17,409|TBD|TBD|TBD|TBD|
-|View all appointments|1,677|1,639|TBD|TBD|TBD|TBD|
-|View all messages|5,543|5,385|TBD|TBD|TBD|TBD|
-|View all prescriptions|3,096|3,035|TBD|TBD|TBD|TBD|
-|View all payments|15,353|19,227|TBD|TBD|TBD|TBD|
+|View claim ("view details")|21,041|29,622|TBD|TBD|TBD|TBD|
+|Manage all claims and appeals|20,359|32,265|TBD|TBD|TBD|TBD|
+|Schedule and view your appointments|1,677|1,639|TBD|TBD|TBD|TBD|
+|View your messages|5,543|10,432|TBD|TBD|TBD|TBD|
+|Refill and track prescriptions|3,096|3,035|TBD|TBD|TBD|TBD|
+|View your payment history|17,107|28,115|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
