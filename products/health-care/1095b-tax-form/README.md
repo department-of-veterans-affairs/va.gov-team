@@ -105,6 +105,7 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 * [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
 * [Sequencing diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
 * [Staging environment link](https://www.staging.va.gov/download-your-irs-1095-b-tax-form)
+* [How to test the API in production](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/testing-the-API.md)
 
 ## Legal 
 * [Request for legal review (Opt-in) Draft v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Legal%20Review%20request%201095-B%20Opt%20-in%20to%20paperless%20delivery.pdf)
