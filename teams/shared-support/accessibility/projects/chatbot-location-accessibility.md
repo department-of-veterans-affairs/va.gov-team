@@ -31,7 +31,7 @@ Here are a few possible implementation tips to keep in mind.
 ### Use landmarks and headings
 
 Consider putting the chatbot button below a heading so that Veterans who rely on screen readers can jump to the chatbot button to initiate it more quickly.
-It could also be helpful to place the whatever initiates the chatbot inside of a landmark region. This Is another way that screen readers can navigate around a page more quickly. Like: <div role="region" aria-label="Chat with the VA">
+It could also be helpful to place the whatever initiates the chatbot inside of a landmark region. This Is another way that screen readers can navigate around a page more quickly. Like: `<div role="region" aria-label="Chat with the VA">`
 
 ### Consider a skip link
 
