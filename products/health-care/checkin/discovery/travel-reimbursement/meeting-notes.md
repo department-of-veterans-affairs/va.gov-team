@@ -1,5 +1,12 @@
 # MEETING NOTES - TRAVEL REIMBURSEMENT
 
+## 9/6/2022
+- Questions
+  - Ben will advance these this coming sprint
+- API
+  - We can authenticate!
+  - Having conversations around test data
+
 ## 8/30/2022
 - API: Do have access but access is not working
   - Leslie has Word doc for everything they have
