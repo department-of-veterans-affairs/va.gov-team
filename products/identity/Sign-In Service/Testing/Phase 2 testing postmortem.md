@@ -47,7 +47,7 @@ We would like to utilize or Sign-in Service for 100% of users in staging and bel
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
 
-**Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a significant reduction in sign-on time of 1-2 seconds.**
+**Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a reduction in sign-on time of 1-2 seconds.**
 
 
 
@@ -68,7 +68,7 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 ## DSLogon
 **Average time from CSP selection to sign-in screen:** 2.7s  
 **Average time from sign-in to MFA screen:**  4.9s  
-**Average time from MFA completion to return to VA.gov:** 5.6s 
+**Average time from MFA completion to return to VA.gov:** 5.6s  
 **Average total sign-in time:** 13.3s  
 
 ## ID.me  
