@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-Last Updated September 1, 2022
+Last Updated September 6, 2022
      
 ## Table of Contents
 
@@ -42,6 +42,8 @@ As a user I need to:
 - [GA dashboard for connected apps](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
 
 ## Backend
+
+The Lighthouse team keeps their documentation for this feature in Confluence. If you have questions about the backend, please reach out to Dave Mazik or Carey Otto in Slack via [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps).
 
 ### Services
 
