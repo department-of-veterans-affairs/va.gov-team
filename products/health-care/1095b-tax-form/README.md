@@ -23,6 +23,9 @@ In most cases, it is simply a form for one's records. However, some states still
     - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md)
     - [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md) 
     - [Raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round-2-synthesis%20spreadsheet.xlsx)
+    - Research UAT of MVP
+    - Research plan
+    - Research conversation guide
 
 ## Product roadmap overview
 
