@@ -53,6 +53,8 @@ FE - 12 + 4 optional; BE - 17 + 5 optional
     - [[SPIKE] Explore How We Might Isolate Check-in and Pre-Check-in from VA.gov Outages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45832) (2 FE)
     - [[SPIKE] [FE] Look into refactoring Error pages to make them less opaque](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45795) (2 FE)
 - [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
+    - [RESEARCH] Gather analytics for "check-in attempted too early" #46697
+        - Part of production support
     - Pull in as many of the following as needed
         - Look at higher bounce rates for screen resolutions (2 FE)
         - Break out Metrics by Modality (2 FE)        
