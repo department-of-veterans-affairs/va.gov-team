@@ -47,4 +47,28 @@ We would like to roll out our sign-in service for an open-ended test with 30% of
 
 
 
-### Time to log in (SSOe)
+### Time to log in (Sign-in Service)
+All tests performed on live VA.gov, with times measured at 3 points. All tests were performed 3 times with the average being displayed below.
+## Login.gov  
+**Average time from CSP selection to sign-in screen:** 0 seconds _(the time this takes is faster than the tester was able to click start/stop on a stopwatch)_  
+**Average time from sign-in to MFA screen:** 1.2 seconds  
+**Average time from MFA completion to return to VA.gov:** 4.9 seconds
+**Average total sign-in time:** 6.1 seconds
+
+## MyHealtheVet  
+**Average time from CSP selection to sign-in screen:** 
+**Average time from sign-in to MFA screen:**  
+**Average time from MFA completion to return to VA.gov:** 
+**Average total sign-in time:** 
+
+## DSLogon
+**Average time from CSP selection to sign-in screen:** 2.7s  
+**Average time from sign-in to MFA screen:**  4.9s  
+**Average time from MFA completion to return to VA.gov:** 5.6s 
+**Average total sign-in time:** 13.3s  
+
+## ID.me  
+**Average time from CSP selection to sign-in screen:** 
+**Average time from sign-in to MFA screen:**  
+**Average time from MFA completion to return to VA.gov:** 
+**Average total sign-in time:** 
