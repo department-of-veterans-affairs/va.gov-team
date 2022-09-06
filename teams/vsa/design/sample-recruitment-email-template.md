@@ -1,3 +1,14 @@
+----
+
+**This document is deprecared - researchers do not need to draft emails for recruitment, the recruiting team does this work**
+
+**Find [the latest info about unmoderated studies at]([https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)) on the Platform website.**
+
+ **Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.**
+
+----
+
+
 **Subject:** VA.gov invites you to participate in card sorting exercise and earn [$XX]
 
 Hello, 
