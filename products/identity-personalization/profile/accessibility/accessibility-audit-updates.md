@@ -36,6 +36,12 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 -   **Next steps:**  Needs team grooming
 
+
+#### Direct deposit, routing and account number information is unclear to screen reader users
+
+-   [NEW 508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) 
+-    related to focus management and screen reader announcement on the Direct Deposit Information content area. After clicking the **EDIT** button to edit direct deposit information for disability compensation and pension bank information, the focus is set to the routing number field. This causes screen reader users to miss the informative content that appears above it that includes an image and descriptive text noting to users where to find their bank's routing and account numbers. 
+   -   There are also instances where after clicking the **EDIT** button, and then clicking on the expandable-collapsible area for "Where can I find these numbers?", the caption that should appear following the image is missing.
 ---
 
 ### 508-defect-3
@@ -50,6 +56,9 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 ### 508-defect-4
 - ✔️ Trivial. Consider fixing or exploring in 2-4 sprints post-launch.
+
+#### Notification Settings: No announcement of the type of telephone number (mobile) being read aloud
+-   [NEW 508-defect-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) - related to missing descriptive text within the Notification Settings content area. Near the top of the content, the Veteran’s mobile number is listed, followed by a link to update their mobile phone number. The text content listed beforehand does not truly indicate what type of phone number is being read aloud by screen readers. Users may be able to guess that this is their mobile number, but the lack of specific callout text may create confusion.
 
 #### Field "headings" / lists (i.e. Mailing address and Home address)
 `508-defect-4`
@@ -138,17 +147,8 @@ An additional accessibility audit was completed August 31, 2022 by the PTEMS Sha
 
 ### Audit Notes
 
-Overall, all of the accessibility issues identified aligned with the earlier screen reader findings mentioned in this document. Two additional issues were found and are included below along with other feedback.
+Overall, all of the accessibility issues identified aligned with the earlier screen reader findings mentioned in this document. Two additional issues were found and have been added to the appropriate defect level secvtion above.  Additional notes:
 
-#### Direct deposit, routing and account number information is unclear to screen reader users
-
--   [NEW 508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) 
--    related to focus management and screen reader announcement on the Direct Deposit Information content area. After clicking the **EDIT** button to edit direct deposit information for disability compensation and pension bank information, the focus is set to the routing number field. This causes screen reader users to miss the informative content that appears above it that includes an image and descriptive text noting to users where to find their bank's routing and account numbers. 
-   -   There are also instances where after clicking the **EDIT** button, and then clicking on the expandable-collapsible area for "Where can I find these numbers?", the caption that should appear following the image is missing.
-
-
-#### Notification Settings: No announcement of the type of telephone number (mobile) being read aloud
--   [NEW 508-defect-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) - related to missing descriptive text within the Notification Settings content area. Near the top of the content, the Veteran’s mobile number is listed, followed by a link to update their mobile phone number. The text content listed beforehand does not truly indicate what type of phone number is being read aloud by screen readers. Users may be able to guess that this is their mobile number, but the lack of specific callout text may create confusion.
 -   Color Contrast - not a defect, but more of something spotted regarding consistency with some areas having a combination of black and light gray text versus similar content where all black text is used.
 -   Error handling -  [a broader discussion happened with the Forms Library team](https://github.com/department-of-veterans-affairs/va-forms-system-core/issues/557), but essentially this is regarding when error messaging is triggered as a user navigates
 
