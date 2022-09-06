@@ -116,7 +116,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 || 3 months pre-launch (8/22 - 8/28) |3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|
-|My VA rating|TBD|TBD|
+|My VA rating|3.3|TBD|
 
 
 ---
