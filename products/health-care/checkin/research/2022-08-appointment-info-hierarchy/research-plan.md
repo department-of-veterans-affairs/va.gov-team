@@ -87,7 +87,6 @@ Remote unmoderated via Optimal Workshop
 ### Research materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-08-appointment-info-hierarchy/recruitment-email.md)
 - [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=1)
 - [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=2)
 - [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=3)
@@ -115,21 +114,6 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Criteria Table 
 
-- Cohort 1
-  - All are age 18 - 34
-- Cohort 2
-  - All are age 35 - 54
-- Cohort 3
-  - All are age 55+
-- Cohort 4
-  - All are caregivers
-- Cohort 5
-  - All are female
-- Cohort 6
-  - All are male
-- Cohort 7
-  - All have a cognitive disabilities
-
 |                |Single Study|Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |***SEX***       |            |        |        |        |        |        |        |        |
@@ -144,11 +128,6 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 |***CAREGIVERS***  |            |        |        |        |        |        |    9    |        |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***  |            |        |        |        |        |        |        |    9    |
-
-
-### Screener
-
-[Recruitment email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-08-appointment-info-hierarchy/recruitment-email.md)
 
 ## Timeline
 The survey will open on ? and should remain open for two weeks (Date?) or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
