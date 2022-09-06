@@ -3,7 +3,11 @@
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) to your observers. 
+
+Note to observers in thread: 
+- You do not need to change your name to "observer"
+- I might ask you to unmute your mic briefly just to say hello. 
 
 ### Starting the session
 
@@ -24,25 +28,25 @@ Before we start, a few things I want to mention:
     - We are not testing your ability. 
     - We just want to improve these tools to better meet Veteran's needs. 
     - I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** 
-    - This is a demo tool that may not function exactly the way you expect. 
+- **You'll be interacting with a prototype, not a live tool.** 
+    - The prototype may not function exactly the way you expect. 
     - Some areas of the prototype will be clickable, and some will not. 
-    - Since it's a demo, none of your actions will affect your actual VA information or benefits.
+    - Some of the data may be inaccurate.
+    - Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** 
-    - We use the recordings to confirm that we have captured your opinions accurately. 
+- We like to use recordings to confirm that we have captured your opinions accurately: 
     - The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - **Would you be comfortable if I record my screen and audio as we talk today?** 
 
 START RECORDING - AND **ENABLE CC**
 
-
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen, audio, and a transcript as we talk today? 
 
 Thank you! 
 
 As I said, today you will be interacting with a prototype of the design. In order to do that, I’ll need you to share your screen.
 
-I’ll walk you through the process of sharing your screen, then I'll send you a link to the demo tool.
+I’ll walk you through the process of sharing your screen, then I'll send you a link to the prototype.
 
 * First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
 
