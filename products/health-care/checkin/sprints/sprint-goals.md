@@ -8,32 +8,30 @@
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
 
 #### Discovery Sprint Goals (TENTATIVE) 
-Kristen - ? + 3
-Ben - 7
-Ya-Ching - 5
-Nira - 5
+Kristen - 9; Ben - 7; Ya-Ching - 8; Nira - 8; Lori - 2
+- [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
+    - Synthesize research (5 Ya-Ching/Nira)
+    - Start research report (2 Ya-Ching/Nira)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish report (2 Ben)    
     - Get Questions Answered (2 Ben)
-- [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Synthesize research (5 Ya-Ching/Nira)
-    - Create research report & do readout (5 Ya-Ching/Nira)
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Hand off survey? (? Kristen)
+    - Finish & hand off survey (2 Kristen)
+    - Monitor Optimal Workshop Study (1 Kristen)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - Make case & present to Stephen/Patrick/Team (3 Ben)
-- [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
-    - Create user flows & make case & present to Stephen/Patrick/Team (3 Kristen)
+- [Document all check-in end state scenarios and determine success](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45951)
+    - Document & present to team (2 Lori)
+- [Research and Recommend Ways Forward for this Issue](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45956)
+    - Recommend ways to solve this problem (3 Kristen)
+- [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+    - Brainstorm Ways to Get Started (3 Kristen)
+    - Create tickets to get us started
     
 #### Design & Content Sprint Goals (TENTATIVE) 
-Nira = 6
-Zach = ? + 4
-Ben = ?
-- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
-    - Finish last 2 tickets & pass off to CHIP team (6 Nira)
-- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Update User Flow to Inform Finalized Wireframes (? Ben/Zach)
-    - Create final wireframes (? Zach)
+Zach - 9
+- [Pass Users to Check-in when Access Pre-Check-in Link on Day of Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
+    -  Do research to make recommendations about how to solve (5 Zach)
 - [Update VA Sketch Cloud and Generate Presentation Links for the Happy Path](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46279)
     - Complete (4 Zach)
 
@@ -50,13 +48,15 @@ BE = ?
     - Complete & release (? BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - ?? API ???
+- [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
+    - Day-of Check-in - Display Retry Message for CHIP 503 Timeout
+    - [[SPIKE] Explore How We Might Isolate Check-in and Pre-Check-in from VA.gov Outages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45832)
+    - [[SPIKE] [FE] Look into refactoring Error pages to make them less opaque](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45795)
 - [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
     - Break out Metrics by Modality
     - Measure Repeat Customers
     - Determine % of Patient Appointments that are within a Half Hour of One Another
-    - Look at higher bounce rates for screen resolutions
-- [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
-    - Day-of Check-in - Display Retry Message for CHIP 503 Timeout
+    - Look at higher bounce rates for screen resolutions    
 
 
 ## 8/24/2022 
