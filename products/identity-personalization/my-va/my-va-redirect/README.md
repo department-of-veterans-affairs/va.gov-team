@@ -114,9 +114,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: There isn't a drop in satisfaction as a result of the redirect.
 
-|| 3 months pre-launch (8/22 - 8/28) |3 months post-launch to 100% (12/12)|
+|| 3 months pre-launch (6/1 - 8/31) |3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|
-|My VA rating|TBD|TBD|
+|My VA rating|3.3|TBD|
 
 
 ---
