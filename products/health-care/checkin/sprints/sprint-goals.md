@@ -43,6 +43,8 @@ FE - 12 + 4 optional; BE - 17 + 5 optional
     - Complete & release when ready (2 FE)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
     - Complete & release when ready (3 FE, 5 BE)
+- [Gather analytics for "check-in attempted too early"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46697)
+    - Implement DD metrics (2 FE)
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
     - Implement (3 FE)
 - [Distributed logging and traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46180)
