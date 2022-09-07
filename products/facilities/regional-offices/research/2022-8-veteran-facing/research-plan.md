@@ -140,38 +140,25 @@ Recruit 15 Veterans through Perigean.
 
 Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy):
 
-Age 55-64+ : 8
-Cognitive Disability: 8
-Mobile user: 8
-Rural: 4
-No degree: 4
-Other than honorable: 4
-Immigrant origin: 3
-Women: 2
-Expat (living abroad): 1
+* Age 55-64+ : 8
+* Cognitive Disability: 8
+* Mobile user: 8
+* Rural: 4
+* No degree: 4
+* Other than honorable: 4
+* Immigrant origin: 3
+* Women: 2
+* Expat (living abroad): 1
 
-Black: 3
-Hispanic: 2
-Biracial: 1
-Asian: 1
-Native: 1
+* Black: 3
+* Hispanic: 2
+* Biracial: 1
+* Asian: 1
+* Native: 1
 
-Gay, lesbian, or bisexual: 1
-Transgender: 1
-Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-
-Beginner AT User: 3
-Experienced AT User: 3
-Desktop Screen Reader (SR): 2
-Mobile Screen Reader (SR): 2
-Magnification/Zoom: 2
-Speech Input Tech (Siri, Dragon): 2
-Hearing Aids: 2
-Sighted Keyboard: 1
-Captions: 1
-Switch Device: 1
-Braille Reader: 1
-
+* Gay, lesbian, or bisexual: 1
+* Transgender: 1
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
 
 
 ### Recruitment criteria
@@ -188,7 +175,7 @@ Recruiting 10-14 Veterans who have:
 
 *   Early September - Research Review & Approval
 *   Mid September - Paticipant Recruitment
-*   Late Sept/ Early Oct - Research Sessions
+*   Late Sept / Early Oct - Research Sessions
 *   Mid/Late Oct - Research Synthesis and Readouts
 
 ### Length of sessions
@@ -205,10 +192,10 @@ Recruiting 10-14 Veterans who have:
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Aslan French, aslan.french@civicactions.com, +1 510-408-7510 #1001
+*   Moderator: Dave Pickett, dave.pickett@civicactions.com, +1 312-833-1813
 *   Research guide writing and task development: Aslan French
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
 *   Participant(s) for pilot test: Max, John, or Christian?
 *   Note-takers: Perigean
-*   Observers: Dave Pickett & Denise Eisner
+*   Observers: 
