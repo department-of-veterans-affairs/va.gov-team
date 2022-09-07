@@ -33,7 +33,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 #### Sidebar nav position 
 `508-defect-2`
 - Currently below the H1 and creating confusion for screen reader users ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
-- [Slack thread](https://design.va.gov/patterns/forms/sub-task)
+- [Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1651153191682419)
 -   **Next steps:**  Needs team grooming
 
 
