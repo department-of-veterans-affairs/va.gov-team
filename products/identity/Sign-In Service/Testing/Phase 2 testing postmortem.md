@@ -5,6 +5,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Total Users Benefitted:** 41,200   
 **Success Rate:** 74.25%    
 **Return Rate:** 78%  
+**Login Performance:** 21.26% average reduction in time to log in (tested in Chrome across CSP's)  
 **Callback Failures:** 1,360  (Errors detected between authentication with the CSP and returning to VA.gov)  
 **Notes:**  
 - Our success rate was negatively impacted by ID.me viewing our traffic as new users and requesting they consent to sharing information with VA.gov
