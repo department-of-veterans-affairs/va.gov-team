@@ -65,25 +65,23 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 
 ### Research questions
 
-TASKS
-*   What benefit-related tasks do clients complete at Benefit Offices?
-*   Veterans were able to accomplish the task at the facility?
-    *   Did going physically to the facility allow them to accomplish their task?
-    *   Was going to the facility required for the task?
-*   Do they have a preference for doing this task in person or not?
 
-TRAVEL
-*   What do Veterans need in order to be prepared for a visit?
-*   How did they travel to the facility?
-*   What was the experience like getting to the appointment?
-    *   Wayfinding within a building
+1.   What benefit-related tasks do clients complete at Benefit Offices?
+    *   Is visiting a Benefit Office necessary/sufficient to complete the task?
+    *   Do clients have a preference for doing this task in-person if other options are available?
+    *   Do clients' mental models of benefit tasks align to the actual processes?
 
-WEBSITE
-*   What are the top tasks that Veterans seek out a regional/benefit office for? 
-*   Do Veterans understand the different types of facilities?
-*   How important is the child location relationship to the regional office for Veterans?
-*   What are the questions Veterans want answered by calling the phone number(s)?
-*   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
+2.   What is the client experience of visiting a Benefit Office?
+    *   How do clients travel to Benefit Offices?
+    *   How do clients find their way to Benefit Offices within multipurpose buildings?
+    *   What is the check-in experience at Benefit Offices?
+
+3.   What information do clients need in order to prepare for a visit?
+    *   What are the top tasks that clients need to complete online before a visit?
+    *   What are the questions clients want answered by calling the phone number(s)?
+    *   Do clients need to understand the different types of benefit offices?
+    *   Do clients need to understand the parent-child relationship between benefit offices?
+    *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 ### Hypothesis
 
