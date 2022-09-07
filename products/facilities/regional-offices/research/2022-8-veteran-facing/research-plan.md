@@ -66,17 +66,17 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 ### Research questions
 
 
-1.   What benefit-related tasks do clients complete at Benefit Offices?
+1.  What benefit-related tasks do clients complete at Benefit Offices?
     *   Is visiting a Benefit Office necessary/sufficient to complete the task?
     *   Do clients have a preference for doing this task in-person if other options are available?
     *   Do clients' mental models of benefit tasks align to the actual processes?
 
-2.   What is the client experience of visiting a Benefit Office?
+2.  What is the client experience of visiting a Benefit Office?
     *   How do clients travel to Benefit Offices?
     *   How do clients find their way to Benefit Offices within multipurpose buildings?
     *   What is the check-in experience at Benefit Offices?
 
-3.   What information do clients need in order to prepare for a visit?
+3.  What information do clients need in order to prepare for a visit?
     *   What are the top tasks that clients need to complete online before a visit?
     *   What are the questions clients want answered by calling the phone number(s)?
     *   Do clients need to understand the different types of benefit offices?
