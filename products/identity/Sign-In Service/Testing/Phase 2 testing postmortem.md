@@ -78,3 +78,10 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 **Average total sign-in time:** 15.31s  
 
 
+
+# To add
+% of users for Safari/Chrome  
+Definitions of success/return rate with examples  
+
+
+
