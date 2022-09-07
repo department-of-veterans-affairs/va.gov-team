@@ -8,7 +8,7 @@
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
 
 #### Discovery Sprint Goals (TENTATIVE) 
-Kristen - 9; Ben - 7; Ya-Ching - 8; Nira - 8; Lori - 2
+Kristen - 9; Ben - 9; Ya-Ching - 8; Nira - 8; Lori - 2
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Synthesize research (5 Ya-Ching/Nira)
     - Start research report (2 Ya-Ching/Nira)
@@ -18,6 +18,8 @@ Kristen - 9; Ben - 7; Ya-Ching - 8; Nira - 8; Lori - 2
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Finish & hand off survey (2 Kristen)
     - Monitor Optimal Workshop Study (1 Kristen)
+- [Split GA Dashboards into Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46727)
+    - Complete (2 Ben)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - Make case & present to Stephen/Patrick/Team (3 Ben)
 - [Document all check-in end state scenarios and determine success](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45951)
@@ -29,11 +31,16 @@ Kristen - 9; Ben - 7; Ya-Ching - 8; Nira - 8; Lori - 2
     - Create tickets to get us started
     
 #### Design & Content Sprint Goals (TENTATIVE) 
-Zach - 9
+Zach - 11
+Ben - 2
 - [Pass Users to Check-in when Access Pre-Check-in Link on Day of Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     -  Do research to make recommendations about how to solve (5 Zach)
 - [Update VA Sketch Cloud and Generate Presentation Links for the Happy Path](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46279)
     - Complete (4 Zach)
+- [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
+    - Update design & release artifacts (1 Ben/Zach)
+- [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
+    - Update design & release artifacts????? Is this necessary???? (1 Ben/Zach)
 
 #### Engineering Sprint Goals (TENTATIVE) 
 FE - 12 + 4 optional; BE - 17 + 5 optional
@@ -46,21 +53,16 @@ FE - 12 + 4 optional; BE - 17 + 5 optional
 - [Gather analytics for "check-in attempted too early"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46697)
     - Implement DD metrics (2 FE)
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
-    - Implement (3 FE)
+    - Continue to move forward  (3 FE)
 - [Distributed logging and traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46180)
-    - Complete & release (3 BE)
+    - Spike (3 BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Continue to identify how we can make a call (3 BE)
 - [CIE Tech Debt & Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
     - [[SPIKE] Explore How We Might Isolate Check-in and Pre-Check-in from VA.gov Outages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45832) (2 FE)
     - [[SPIKE] [FE] Look into refactoring Error pages to make them less opaque](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45795) (2 FE)
-- [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
-    - [RESEARCH] Gather analytics for "check-in attempted too early" #46697
-        - Part of production support
-    - Pull in as many of the following as needed
-        - Look at higher bounce rates for screen resolutions (2 FE)
-        - Break out Metrics by Modality (2 FE)        
-        - Determine % of Patient Appointments that are within a Half Hour of One Another (5 BE)
+    - [Document All Error States & Link to Where Can Find in GA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46728)
+        - Complete & share with the team
         
 
 ## 8/24/2022 
