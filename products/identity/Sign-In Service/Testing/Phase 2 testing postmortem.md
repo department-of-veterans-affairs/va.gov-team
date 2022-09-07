@@ -60,10 +60,10 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 **Average total sign-in time:** 6.1 seconds (SSOe: 11.35)    
 
 ## My HealtheVet  
-**Average time from CSP selection to sign-in screen:**  
-**Average time from sign-in to MFA screen:**  
-**Average time from MFA completion to return to VA.gov:**  
-**Average total sign-in time:**  
+**Average time from CSP selection to sign-in screen:** 4.2 seconds (SSOE: 5.23s)   
+**Average time from sign-in to MFA screen:**  5.46 seconds (SSOe: 5.72s)  
+**Average time from MFA completion to return to VA.gov:** 6.7 seconds (SSOe: 7.80s)    
+**Average total sign-in time:**  16.36 seconds (SSOe: 18.76s) 
 
 ## DSLogon
 **Average time from CSP selection to sign-in screen:** 2.7s (SSOe: 6.45)  
