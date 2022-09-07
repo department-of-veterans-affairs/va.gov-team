@@ -57,7 +57,7 @@ Benefit offices touch on the following stages of the Veteran Journey:
 
 ## Research Goals
 
-The goal of this research is to understand a Benefit Office clients' experiences, impressions and relationships with Benefit Offices.
+The goal of this research is to understand a Benefit Office clients' experiences, impressions, and relationships with Benefit Offices.
 
 ### Outcome
 
