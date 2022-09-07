@@ -18,7 +18,7 @@ Benefit Offices provide clients (Veterans, service members, family members, care
 *   home loans
 *   special services for elderly, homeless, or Veterans who are members of other marginalized groups.
 
-The benefit office webpages seek to give important information about physical locations where beneficiaries can apply for and receive benefits. Benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with Facility Locator, VAMCs, and Vet Centers. 
+The Benefit Office webpages seek to give important information about physical locations where beneficiaries can apply for and receive benefits. Benefit Office pages are accessible through the public unauthenticated web. These pages expand on prior work done with Facility Locator, VAMCs, and Vet Centers. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
@@ -55,7 +55,7 @@ Decrease:
 
 ### Veteran Journey
 
-Benefit offices touch on the following stages of the Veteran Journey:
+Benefit Offices touch on the following stages of the Veteran Journey:
 
 *   Getting out (engaging VA to access benefits and services)
 *   Starting Up (Finding something to do, re-establishing and creating relationships, balancing finances, finding a place to live)
@@ -86,8 +86,7 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 3.  What information do clients need when **preparing** for a visit?
     *   What are the tasks that clients need to complete online before a visit?
     *   What are the questions clients want answered by calling Benefit Office phone number(s)?
-    *   Do clients need to understand the different types of benefit offices and the relationships between them?
-  
+    *   Do clients need to understand the different types of Benefit Offices and the relationships between them?
 
 ### Hypothesis
 
@@ -208,9 +207,9 @@ Recruiting 10-14 Veterans who have:
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
 *   Moderator: Dave Pickett, dave.pickett@civicactions.com, +1 312-833-1813
-*   Research guide writing and task development: Aslan French
+*   Research guide writing and task development: Aslan French, Dave Pickett
 *   Participant recruiting & screening: Perigean
 *   Project point of contact: David Shannon, David.Shannon@agile6.com
-*   Participant(s) for pilot test: Max, John, or Christian?
+*   Participant(s) for pilot test: Max or Christian?
 *   Note-takers: Perigean
-*   Observers: 
+*   Observers: Val Runde?
