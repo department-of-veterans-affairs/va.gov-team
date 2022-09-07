@@ -117,14 +117,24 @@ Recruit 15 Veterans through Perigean.
 
   **Screener Question:**
   
-    **Have you visited a VA Regional Office or one of it's child benefits offices in the last 6 months?** 
+    **In the last 6 months, have you visited a VA Benefits Office from the following list?** 
     **(Answer must be yes)**
 
       [following checkboxes] 
+      
+      [ ] Regional Benefit Office
+      
+      [ ] Satellite Benefit Office
+      
+      [ ] Integrated Disability Evaluation System Site      
+      
+      [ ] Pre-Discharge Site
 
-      [ ] Yes
-
-      [ ] No
+      [ ] Veteran Readiness and Employment Office
+      
+      [ ] VetSuccess On Campus
+      
+     **Benefits Office Definition**: Benefit Offices are unique VA facilities, separate from VA Medical Centers, clinics, Vet Centers, VFWs, etc. If unsure, please visit Veterans Benefits Administration's website: [https://benefits.va.gov/benefits/](https://benefits.va.gov/benefits/)
 
 #### Secondary criteria / Would like to have -
 
