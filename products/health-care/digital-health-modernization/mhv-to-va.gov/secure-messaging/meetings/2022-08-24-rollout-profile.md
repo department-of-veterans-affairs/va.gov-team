@@ -2,7 +2,9 @@
 
 ## Attendees
 - Samara Strauss (VA.gov Profile PO)
-- Chante Lantos-Swett (Identity
+- Chante Lantos-Swett (Identity)
+- Jasmine Yohannan
+- Marci McGuire
 
 ## Agenda
 - My Health Prototype - Mobile (unauth)
