@@ -1,8 +1,16 @@
 # Research Plan for Facilities, Benefit Offices, August 2022
 
+* Background
+* Research Goals
+* Method
+* Research Materials
+* Recruitment
+* Timeline
+* Team Roles
+
 ## Background
 
-Benefit Offices provide clients (Veterans, service members, families, caregivers, etc.) with access to non-medical benefits. This can include things like:
+Benefit Offices provide clients (Veterans, service members, family members, caregivers, etc.) access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
