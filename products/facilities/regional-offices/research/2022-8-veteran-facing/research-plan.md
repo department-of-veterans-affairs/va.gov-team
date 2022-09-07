@@ -2,7 +2,7 @@
 
 ## Background
 
-Benefit offices provide Veterans, service members, and their families with access to non-medical benefits. This can include things like:
+Benefit Offices provide clients (Veterans, service members, families, caregivers, etc.) with access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
@@ -65,23 +65,21 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 
 ### Research questions
 
-
-1.  What benefit-related tasks do clients complete at Benefit Offices?
+1.  What benefit-related **tasks** do clients complete at Benefit Offices?
     *   Is visiting a Benefit Office necessary/sufficient to complete the task?
-    *   Do clients have a preference for doing this task in-person if other options are available?
+    *   Do clients have a preference for doing this task in-person (if other options are available)?
     *   Do clients' mental models of benefit tasks align to the actual processes?
 
-2.  What is the client experience of visiting a Benefit Office?
+2.  What is the client experience of **visiting** a Benefit Office?
     *   How do clients travel to Benefit Offices?
     *   How do clients find their way to Benefit Offices within multipurpose buildings?
     *   What is the check-in experience at Benefit Offices?
 
-3.  What information do clients need in order to prepare for a visit?
-    *   What are the top tasks that clients need to complete online before a visit?
-    *   What are the questions clients want answered by calling the phone number(s)?
-    *   Do clients need to understand the different types of benefit offices?
-    *   Do clients need to understand the parent-child relationship between benefit offices?
-    *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
+3.  What information do clients need when **preparing** for a visit?
+    *   What are the tasks that clients need to complete online before a visit?
+    *   What are the questions clients want answered by calling Benefit Office phone number(s)?
+    *   Do clients need to understand the different types of benefit offices and the relationships between them?
+  
 
 ### Hypothesis
 
@@ -172,6 +170,13 @@ Recruiting 10-14 Veterans who have:
 *   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
 *   A range of ages from recently in service to older Veterans. 
 *   Veterans who live both in urban and rural locations.
+*   Can we recruit caregivers / non-veterans through Perigean?
+*   We want representation within each of the regional districts
+*   2 Disability
+*   2 Home Loan
+*   1 Education
+*   1 Burial
+*   1 caregiver / family member if possible?
 
 ## Timeline
 
