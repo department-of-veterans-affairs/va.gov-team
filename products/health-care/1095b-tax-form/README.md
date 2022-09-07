@@ -29,7 +29,7 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Product roadmap overview
 
-This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf) for the new team. 
+This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Turnover%20document%209.7.22.pdf) for the new team. 
 
 Overview of product roadmap (with details below): 
 
