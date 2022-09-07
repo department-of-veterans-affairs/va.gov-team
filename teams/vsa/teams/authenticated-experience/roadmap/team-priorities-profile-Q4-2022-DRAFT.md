@@ -6,7 +6,10 @@
 
 We did a lot, including:
 
-- XYZ
+- Re-integrate military information through VA Profile
+- Launched a modal that asks if you want to update your mailing address when you update your home address
+- Restricted character set for address fields to certain alphabetic and alphanumeric characters
+- Updated A TON of documentation
 
 ...and much, much more that is still ongoing. Great work, team!
 
