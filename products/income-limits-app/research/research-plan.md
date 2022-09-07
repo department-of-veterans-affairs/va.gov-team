@@ -1,4 +1,4 @@
-# Research Plan for Public Websites, Income Limits App, June 2022
+# Research Plan for Public Websites, Income Limits App, Sept 2022
 
 ## Background
 An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
@@ -153,12 +153,14 @@ For cohort 3, seeking a response of one or more answers "a change in..." questio
 **Secondary criteria (nice-to-haves)**
 
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-- Geographic distribution: 25% east coast, 25% midwest, 25% south, 25% west coast
-- 30% people of color (especially Native)
-- 25% in a rural area
-- 25% without a degree
-- 25% women
-- 10% LGBTQ
+- Geographic distribution: at least 4 from each the east coast, the midwest, the south, and the west coast
+- Age distribution: at least 4 from each of the following age groups: 25-40, 40-55, 55-64, 65+
+- At least 6 people of color (especially Native)
+- At least 5 in a rural area
+- At least 4 without a degree
+- At least 5 women
+- At least 2 LGBTQ
+- At least 1 person with a cognitive impairment (Why not more? Since we're not putting a prototype or screens in front of the user, having participants with cognitive impairments is less important at this point. Would be nice to have at least 1 here)
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
