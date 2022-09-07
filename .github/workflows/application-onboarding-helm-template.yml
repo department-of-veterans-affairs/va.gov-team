@@ -36,6 +36,9 @@ on:
         required: true
         type: string
 
+env:
+  IMAGE_TAG: go-httpbin-v2.3.0
+
 jobs:
   application-directory:
     runs-on: ubuntu-latest
@@ -73,6 +76,10 @@ jobs:
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: cp vsp-infra-helm/hello-world/Chart.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/Chart.yaml
 
+      - name: Modify Chart.yaml to have correct format
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: cat <<< $(yq -e 'del(.keywords) | del(.sources) | .dependencies[0].name=.name | .dependencies[0].version=.version | .dependencies[0].repository="https://department-of-veterans-affairs.github.io/vsp-infra-helm"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/Chart.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/Chart.yaml
+
       - name: Copy values.yaml from template
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: cp vsp-infra-helm/hello-world/values.yaml vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
@@ -81,9 +88,19 @@ jobs:
         if: steps.directory_check.outputs.directory_exists == 'false'
         run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY}}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
+      - name: Modify image tag to pull from ECR 
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: cat <<< $(yq -e '(.image.tag)="${{ env.IMAGE_TAG }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
       - name: Modify ingress environment to use dev
         if: steps.directory_check.outputs.directory_exists == 'false'
-        run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/om-test/dev/values.yaml) > vsp-infra-application-manifests/apps/om-test/dev/values.yaml
+        run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+      - name: Modify values.yaml to have correct format
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: |
+          export VALUES=$(cat vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml)
+          cat <<< $(myenv=$VALUES yq --null-input '.hello-world = env(myenv)') > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
 
       - name: Create pull request
         if: steps.directory_check.outputs.directory_exists == 'false'
