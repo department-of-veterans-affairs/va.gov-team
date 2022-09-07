@@ -69,7 +69,7 @@ The goal of this research is to understand a Benefit Office clients' experiences
 
 ### Outcome
 
-It will give us a fuller understanding of what Veterans need, and provide a baseline experience for empathizing with their goals. 
+It will give us a fuller understanding of what Benefit Office clients need, and create design recommendations for the [Regional Benefit Office MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/README.md). 
 
 ### Research questions
 
