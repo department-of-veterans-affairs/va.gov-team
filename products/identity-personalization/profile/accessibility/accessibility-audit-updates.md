@@ -126,10 +126,10 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 #### In-line error message when editing in profile
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
--   Also does not tell screenreader about all the errors shown, just one.
+-   Also does not tell screenreader about all the errors shown, just one. This is likely a form system problem, opened a bug assuming that's the case [#46731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46731)
 -   **Recommendations:**
 	-   Angela suggested that the best thing to do is to have a list of errors together
--   **Next steps:** Determine if this is something specific to our form, or global form system problem. 
+-   **Next steps:** Determine where focus should go, get a11y defect level
 
 #### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
