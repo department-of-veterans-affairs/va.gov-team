@@ -52,6 +52,8 @@ Before we jump into talking about VA health care benefits, I have a few question
 2. Would you mind if I ask who you live with right now? (Can include: I don't need to know names or anything that you feel uncomfortable sharing)
 3. What do you like to do for fun?
 
+_Note: We discussed possibly changing these questions to be more applicable to the VA, i.e. "What do you like about being part of the veteran community?" I think that's probably fine, though having thought more about it at this point, I do like the more general, open nature of these questions. I believe they open the conversation trying to see the participant in a more holistic way. Will participants think it's strange that we ask questions that touch their personal life, outside of their status as a veteran? I would think no, and that these types of more general questions opens the door for them to share things outside of what they see as specifically part of their experiences as a veteran._
+
 ## Guided Storytelling - X minutes
 
 _Note about the following questions: 
