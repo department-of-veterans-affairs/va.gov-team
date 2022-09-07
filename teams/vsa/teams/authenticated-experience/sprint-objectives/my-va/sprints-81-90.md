@@ -118,6 +118,18 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 
 - Finish FE build
 
+### My VA Audit
+
+**PM**
+
+- Schedule design intent
+
+**Design**
+
+- Review all designs with team
+- Design intent
+- Updates from design intent
+
 ## Sprint 84 (10/5 - 10/18)
 
 ### On-site notifications
