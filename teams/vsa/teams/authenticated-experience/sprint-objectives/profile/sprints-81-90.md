@@ -122,6 +122,52 @@
 ## Sprint 83 (9/21 - 10/4)
 - Ad Hoc internal meetings all day 10/3, and most of 10/4; may have reduced availability.
 
+### Bad address indicator
+
+**PM**
+
+- Launch go/no-go
+
+**FE**
+
+- Launch to 25%
+- Launch to 50%
+
+### Documentation
+
+**Design**
+
+- Document Connected Apps
+
+**FE**
+
+FE documentation for:
+
+- Contact info
+- Military info
+- Direct deposit
+- Notification prefs
+
+**BE**
+
+- Document Notification Preferences
+- Continue error matrix (if applicable)
+
+### Forms system
+
+**FE**
+
+- Continued updates as needed
+
+### Accessibility audit
+
+We'll make this more specific before planning.
+
+**Design**
+
+- Continue design
+- Talk about build and usability testing plan (will need to happen in code)
+
 ## Sprint 84 (10/5 - 10/18)
 
 ## Sprint 85 (10/19 - 11/1)
