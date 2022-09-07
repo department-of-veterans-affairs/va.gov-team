@@ -1,4 +1,4 @@
-# My VA team priorities through Q3 2022 (October - December)
+# My VA team priorities through Q4 2022 (October - December)
 
 ### This is a draft and not ready to share with the team.
 
