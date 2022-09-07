@@ -11,6 +11,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 - Our login time can be improved by certain CSP's implementing Single Round-Trip for our Sign-in Service (specifically ID.me and Login.gov)  
 - During our test, we saw a dramatic improvement in success rate for users on Chrome and Safari, with a 15-20% higher rate than the existing SSOe system  
 - During our test, we identified a Token Exchange Error with ID.me and Login.gov resulting in 414 (1% of users) callback failures from ID.me, accounting for 30% of our failures  
+- On average we saw a 20% decrease in the time taken to sign in over SSOe  
 
 
 # Test Summary
@@ -47,7 +48,7 @@ We would like to utilize or Sign-in Service for 100% of users in staging and bel
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
 
-**Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a reduction in sign-on time of 1-2 seconds.**
+**Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a reduction in sign-on time of 1-2 seconds.**  On average, we saw a 20% reduction in sign-in time with the Sign-in Service over the existing SSOe solution.
 
 
 
