@@ -35,7 +35,7 @@ This research plan supports the following OCTO objectives:
 <img width="1178" alt="Screen Shot 2022-06-06 at 11 08 08 AM" src="https://user-images.githubusercontent.com/101129355/172188932-7bbb1fdf-efc1-43d2-9c05-315bf1612638.png">
 
 ## Research Goals	
-Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in and pre-check-in experiences. The list of all appointment data that we can display includes:
+Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in experiences. The list of all appointment data that we can display includes:
 - Recently added
   - provider's name 
   - type of care 
@@ -57,27 +57,23 @@ Check-in has expanded our access to more appointment data, which we can display 
   - cancel status
   - patient name
 
-The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
+The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in experience. 
 
 The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
 
 ### Outcome
-Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in and pre-check-in. Then, we can plan further work to iterate on the current experiences.
+Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in. Then, we can plan further work to iterate on the current experiences.
 
 ### Research questions
 - What appointment information is important to review when determining what appointment Veterans need to check-in for? 
 - What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
-- What appointment information is important to review when trying to understand what appointment Veterans are completing pre-check-in for?
-- What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
 
 ### Hypothesis
 1. Veterans and caregivers will generally agree on which data is most important when determining what appointment they need to check-in for.
 2. Veterans and caregivers will generally agree on which data is most important when check-in is complete, but they want to know what to do next.
-3. Veterans and caregivers will generally agree on which data is most important when trying to understand what appointment they are completing pre-check-in for.
-4. Veterans and caregivers will generally agree on which data is most important when pre-check-in is complete, but they want to know what to do next.
 
 ## Method	
-We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 4 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
+We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 2 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
 
 We would like to get complete survey responses from at least 30 Veterans and others (ideally 40-50), in distinct cohorts of fewer than 10 participants per cohort (per PRA).
 
