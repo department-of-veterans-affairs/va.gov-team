@@ -138,3 +138,5 @@ The survey will open on ? and should remain open for two weeks (Date?) or until 
 * Research guide writing and task development: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
 * Participant recruiting & screening: Perigean
 * Project point of contact: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us)), (202) 818-8710 x1385
+
+[Companion Check-in Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization)
