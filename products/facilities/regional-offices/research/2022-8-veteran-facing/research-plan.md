@@ -1,8 +1,8 @@
-# Research Plan for Facilities, Regional Offices, August 2022
+# Research Plan for Facilities, Benefit Offices, August 2022
 
 ## Background
 
-Regional offices and their children, benefits offices, provide Veterans with access to non-medical benefits. This can include things like:
+Benefit offices provide Veterans, service members, and their families with access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
@@ -10,7 +10,7 @@ Regional offices and their children, benefits offices, provide Veterans with acc
 *   home loans
 *   special services for elderly, homeless, or Veterans who are members of other marginalized groups.
 
-The regional/benefit office pages seek to give important information about physical locations where Veterans can seek help and receive benefits. The regional/benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with the facility locator, VAMCs, and vet centers. 
+The benefit office webpages seek to give important information about physical locations where beneficiaries can apply for and receive benefits. Benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with Facility Locator, VAMCs, and Vet Centers. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
@@ -47,7 +47,7 @@ Decrease:
 
 ### Veteran Journey
 
-Regional/benefit office pages touch on the following stages of the Veteran Journey:
+Benefit offices touch on the following stages of the Veteran Journey:
 
 *   Getting out (engaging VA to access benefits and services)
 *   Starting Up (Finding something to do, re-establishing and creating relationships, balancing finances, finding a place to live)
@@ -57,7 +57,7 @@ Regional/benefit office pages touch on the following stages of the Veteran Journ
 
 ## Research Goals
 
-What are Veteran use cases for researching regional/benefit office locations?
+The goal of this research is to understand a Benefit Office clients' experiences, impressions and relationships with Benefit Offices.
 
 ### Outcome
 
@@ -65,23 +65,27 @@ It will give us a fuller understanding of what Veterans need, and provide a base
 
 ### Research questions
 
-*   Do Veterans understand the different types of facilities?
-*   What are the top tasks that Veterans seek out a regional/benefit office for? 
-*   How important is the child location relationship to the regional office for Veterans?
-*   What are the questions Veterans want answered by calling the phone number(s)?
-*   What was the benefit-related task they were trying to accomplish?
+TASKS
+*   What benefit-related tasks do clients complete at Benefit Offices?
 *   Veterans were able to accomplish the task at the facility?
     *   Did going physically to the facility allow them to accomplish their task?
     *   Was going to the facility required for the task?
 *   Do they have a preference for doing this task in person or not?
-*   What else do Veterans need in order to be prepared for a visit?
+
+TRAVEL
+*   What do Veterans need in order to be prepared for a visit?
 *   How did they travel to the facility?
 *   What was the experience like getting to the appointment?
     *   Wayfinding within a building
+
+WEBSITE
+*   What are the top tasks that Veterans seek out a regional/benefit office for? 
+*   Do Veterans understand the different types of facilities?
+*   How important is the child location relationship to the regional office for Veterans?
+*   What are the questions Veterans want answered by calling the phone number(s)?
 *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 ### Hypothesis
-
 
 *   Do Veterans find it easy and useful to get information about Regional Offices? 
 
