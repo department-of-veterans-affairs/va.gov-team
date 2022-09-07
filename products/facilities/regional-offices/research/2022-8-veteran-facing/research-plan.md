@@ -1,12 +1,12 @@
 # Research Plan for Facilities, Benefit Offices, August 2022
 
-* Background
-* Research Goals
-* Method
-* Research Materials
-* Recruitment
-* Timeline
-* Team Roles
+* [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#background)
+* [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#research-goals)
+* [Method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#method)
+* [Research Materials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#research-materials)
+* [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#recruitment)
+* [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#timeline)
+* [Team Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#team-roles)
 
 ## Background
 
