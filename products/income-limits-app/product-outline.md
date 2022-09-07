@@ -4,6 +4,8 @@
 
 Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
 
+[See Mural of existing application here.](https://app.mural.co/t/vagov6717/m/vagov6717/1657807571797/ee2497db0a9c637538f51e38546ffe3eaea508c0?sender=ua604735c5cf1162b042a4310)
+
 ## Problem Statement
 
 The [existing Income Limits web application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) is difficult to maintain the data to accurately provide information to Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents. In addition, the current application lacks plain language or clearly defined use cases/usability design and testing to validate that it is intuitively aligned to problems for the Veteran and providing information that is clear and easy to understand.
