@@ -244,8 +244,9 @@ Aiming to schedule studies September 14-September 21
 
 ### Prepare
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: Eva Floyd, eva@coforma.io
-* Date and time of pilot session: TBD
+* Pilot participant email: [Eva Floyd](eva@coforma.io)
+* Observer: [Sade Ragsdale](sade@coforma.io)
+* Date and time of pilot session: September 19, 2022, 10am ET
 
 ### Research sessions
 * Planned dates of research: September 20 - 27, 2022
