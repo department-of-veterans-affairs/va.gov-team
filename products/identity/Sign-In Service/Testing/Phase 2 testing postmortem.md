@@ -54,10 +54,10 @@ We would like to utilize or Sign-in Service for 100% of users in staging and bel
 ### Time to log in (Sign-in Service)
 All tests performed on live VA.gov, with times measured at 3 points. All tests were performed 3 times with the average being displayed below.
 ## Login.gov  
-**Average time from CSP selection to sign-in screen:** 0 seconds _(the time this takes is faster than the tester was able to click start/stop on a stopwatch)_  
-**Average time from sign-in to MFA screen:** 1.2 seconds  
-**Average time from MFA completion to return to VA.gov:** 4.9 seconds  
-**Average total sign-in time:** 6.1 seconds  
+**Average time from CSP selection to sign-in screen:** 0 seconds (SSOe: 2.71)  
+**Average time from sign-in to MFA screen:** 1.2 seconds (SSOe: 1.69)      
+**Average time from MFA completion to return to VA.gov:** 4.9 seconds (SSOe: 6.95)  
+**Average total sign-in time:** 6.1 seconds (SSOe: 11.35)    
 
 ## My HealtheVet  
 **Average time from CSP selection to sign-in screen:**  
@@ -66,22 +66,29 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 **Average total sign-in time:**  
 
 ## DSLogon
-**Average time from CSP selection to sign-in screen:** 2.7s  
-**Average time from sign-in to MFA screen:**  4.9s  
-**Average time from MFA completion to return to VA.gov:** 5.6s  
-**Average total sign-in time:** 13.3s  
+**Average time from CSP selection to sign-in screen:** 2.7s (SSOe: 6.45)  
+**Average time from sign-in to MFA screen:**  4.9s (SSOe: 4.21)   
+**Average time from MFA completion to return to VA.gov:** 5.6s (SSOe: 9.86)  
+**Average total sign-in time:** 13.3s (SSOe: 20.53)  
 
 ## ID.me  
-**Average time from CSP selection to sign-in screen:** 0s _(as with Login.gov, faster than tester could click stopwatch)_  
-**Average time from sign-in to MFA screen:**  2.13s  
-**Average time from MFA completion to return to VA.gov:** 13.18s _(due to an issue with ID.me, we experience two round-trips to verify LOA.  Once this is resolved, time should be halved)_  
-**Average total sign-in time:** 15.31s  
+**Average time from CSP selection to sign-in screen:** 0s (SSOe: 2.96)  
+**Average time from sign-in to MFA screen:**  2.13s (SSOe: 4.11)  
+**Average time from MFA completion to return to VA.gov:** 10.79s (SSOe: 6.95)  
+**Average total sign-in time:** 15.31s (SSOe: 14.02)    
+**NOTE:** Due to an issue with ID.me, Sign-in Service requires two round trips to verify LOA.  Once we resolve this we anticipate a reduction in the time it takes to sign in of at least 1-2 seconds)
 
 
+# Appendix: Definitions of Return and Success Rate  
 
-# To add
-% of users for Safari/Chrome  
-Definitions of success/return rate with examples  
+**Return Rate:** We define the Return Rate as the percentage of users who click on a CSP button on the sign in page of VA.gov, are sent to a CSP for sign-in, and are then returned to VA.gov.  This includes users who sign in successfully, as well as users who fail sign-in for whatever reason (wrong password, for example).  Based on past user behavior studies, 15-20% of our users abandon the sign-in process, so in general we assume a theoretical maximum return rate between 80 and 85%  
+  
+  
+**Success Rate:** We define Success Rate as the percentage of users who click on a CSP button on the sign in page of VA.gov, are sent to a CSP for sign-in, and are then returned to VA.gov **successfully logged in**.  The theoretical maximum success rate would be 100% of the Return Rate.
 
+**Success/Return Rate Example**  
+100 users click a CSP button to sign in  
+Of those users, 80 are returned to VA.gov, signed in or not.  This gives us a return rate of 80%. (80/100 users)  
+Of the 80 users returned, 75 are returned signed in.  This gives us a return rate of 75% (75/100 users)
 
 
