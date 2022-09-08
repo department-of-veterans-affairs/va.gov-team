@@ -253,7 +253,7 @@ A quarter of the participants (5 of 19) said that they'd sign in first--before u
 
 ## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant who was a screen reader user, and one of which also confused several sighted participants.
 
-1. Several participants and a pilot participant had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected. When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. **Participants expected to see a list of dropdown options *without any of them expanded*.** 
+1. Several participants and a pilot participant had difficulty using the megamenu because it didn't work as expected. When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. **Participants expected to see a list of dropdown options *without any of them expanded*.** 
 - One participant wanted to browse the dropdown options but skipped health care because it was already open. 
 - A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. 
 - A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. 
@@ -363,7 +363,7 @@ We heard some pain points about VA in general, which is included below but not a
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
 8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(being discussed with Josh Kim and Laura Flannery)*:
-     1.  **Change the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+     1.  **Change the megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
      2.  **Fix the focus issue when you click on a link in the megamenu** so focus is on the page title, not the megamenu option clicked on.
 10. Consider whether **some common misspellings could be handled more gracefully by search**, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
