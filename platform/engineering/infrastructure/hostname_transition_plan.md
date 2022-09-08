@@ -60,7 +60,7 @@ The vets-api code base makes several API requests to different hosts. In instanc
 #### **Vets-api: Settings**
 The vets-api settings in the devops repository which reference `api.va.gov` have been identified and their change requirements have been documented.
 
-Reference: [Vets-api Re-mapped Settings](https://docs.google.com/spreadsheets/d/111t6f4V3eCVkaKoBIxXi54_HlkPT-54qKShfRjl-iMs/edit#gid=2101280441).
+Reference: [Vets-api Re-mapped Settings](vets_api_upstream_settings.xlsx) (Excel).
 
 With the exception of the authentication callbacks that will need to change to the new, environment-specific *platform-api.va.gov hostnames, all settings that required changes have been updated and tested with the help of affected teams. See **Release Steps** for details on updating authentication callbacks.
 
@@ -129,7 +129,7 @@ vets-api sets an `api_session` cookie, whose domain is tied to the currently con
 
 The following options for obviating the need to coordinate the API URLs used by VA.gov and vets-api were considered:
 1. Have multiple SAML authentication callbacks configured at a time, which would allow to at least side-step the need to coordinate these changes with the IAM Team. However, this is not possible in the case of SAML, unlike some other auth providers.
-2. Set up an extra internal redirect between the auth callback and the final redirect to www.va.gov that would switch the domain back to whatever the VA.gov was expecting, and decouple these two things. This would require some prototyping in dev to fully assess.
+2. Set up an extra internal redirect between the auth callback and the final redirect to VA.gov that would switch the domain back to whatever the VA.gov was expecting, and decouple these two things. This would require some prototyping in dev to fully assess.
 3. Use a domain wildcard for the cookie, i.e. one for \*.va.gov, in which case the browser would send the cookie for subsequent requests to _any_ va.gov subdomain. This might require some extra manipulation of the cookie name to account for different environments, e.g. `api-session-dev` for `dev-platform-api.va.gov`.
 
 Currently, we are working under the assumption that the change to the new hostname will be performed in a coordinated fashion between VA.gov and vets-api.
@@ -256,7 +256,7 @@ At this time the Lighthouse team is working to transition to using the new Apige
   - [Hostname Specifications](https://vfs.atlassian.net/wiki/spaces/CLOUD/pages/2283339976) (Confluence - TODO: move to Infra)
   - [Reroute vets-api upstream requests to Lighthouse](https://vfs.atlassian.net/wiki/spaces/ECP/pages/2220785993/2022-06-06+Reroute+vets-api+upstream+requests+to+Lighthouse) (ADR/Confluence)
   - [Datadog Tests](https://vagov.ddog-gov.com/synthetics/tests?query=tag%3A%28%22team%3Acit%22%29) (Datadog Link)
-  - [Remapped vets-api settings](vets_api_upstream_settings.xlsx) (Github va.gov-team repo)
+  - [Remapped vets-api settings](./vets_api_upstream_settings.xlsx) (Github va.gov-team repo)
   - [Enabling new *platform-api.va.gov domains in EKS](https://vfs.atlassian.net/wiki/spaces/CLOUD/pages/2263351375) (Confluence - TODO: move to Infra)
   - [New Domain to Serve vets-api](https://vfs.atlassian.net/wiki/spaces/ECP/pages/2221572288/2022-06-06+New+domain+to+serve+vets-api) (ADR/Confluence)
   - [Original Explainer Doc on VA.gov <=> Lighthouse overlap](https://vfs.atlassian.net/wiki/spaces/ECP/pages/1907523684/Explainer+-+VA.gov-Lighthouse+Overlap) (Confluence)
