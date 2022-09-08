@@ -92,7 +92,7 @@
 
 ### Task 1: Update email address (5 minutes)
 *Check #feedback-backchannel before reading prompt.*
-* **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to contact you. Without touching anything, where would you expect to go to do that?
+* **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to send you information. Without touching anything, where would you expect to go to do that?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 *  Go ahead and use the app to go to where you think you’d update your email address. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Email Address screen before starting the next task. Note where they have trouble.*
