@@ -213,13 +213,6 @@ LBGTQ+
 
 ## Timeline
 
-*   Early September - Research Review & Approval
-*   Late September - Paticipant Recruitment
-*   Early Oct - Research Sessions
-*   Late Oct - Research Synthesis and Readouts
-
-### Length of sessions
-
 *   Session length: 45 minutes
 *   Buffer time between sessions: 15 minutes
 *   Maximum Sessions per day: 5
