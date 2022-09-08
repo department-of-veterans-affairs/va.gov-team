@@ -13,16 +13,13 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 - During our test, we saw a dramatic improvement in success rate for users on Chrome and Safari, with a 15-20% higher rate than the existing SSOe system  
 - During our test, we identified a Token Exchange Error with ID.me and Login.gov resulting in 414 (1% of users) callback failures from ID.me, accounting for 30% of our failures  
 - On average we saw a 20% decrease in the time taken to sign in over SSOe  
+- No major issues were identified (defined as issues requiring us to stop our test ahead of our planned end time)
+- Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
+
 
 
 # Test Summary
 We began our test at 0900 EST on Thursday, September 1 2022.  During the 36 hours the test ran, ending at 1700 EST on Friday, September 3 2022, 41,200 users were sent through our Sign-in Service from VA.gov.  Of these users we saw 30,590 successfully sign in.  We continue to see a lower than desired success rate with ID.me as they view traffic from our sign-in service as new users and request that the users consent to share information with VA.gov again.  The only other issue of note was that the 1010EZ team notified us of an issue related to the changes we have made to refresh tokens.  The time to resolution for this issue was less than 2 hours from it being brought to our attention, and a fix was implemented before the end of the day we were notified that will prevent other teams from being impacted by this in the future.
-
-## Key Takeaways
-- No major issues were identified (defined as issues requiring us to stop our test ahead of our planned end time)
-- Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
-- We were able to offer a 20% improvement in sign-in time over the existing SSOe solution
-- We were able to increase the rate of successful log-in for Chrome and Safari users by 15-20% (accounting for about 12% of our users)
 
 
 ## Related Tickets:  
