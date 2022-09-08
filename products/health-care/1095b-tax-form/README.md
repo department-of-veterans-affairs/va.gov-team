@@ -124,7 +124,7 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - GitHub Label: 1095b-Tax-Form
 - Slack channel: #cedar-1095b
 - Product POCs: 
-    - Tracey Mulrooney (Product Owner/VA) | tracey.mulrooney@va.gov
+    - Tracey Mulrooney (Product Owner/VA) | tracey.c.mulrooney@omb.eop.gov
     - Travis Hoffmann (MOVE) | travis@themostudio.com
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Business Owner: 
