@@ -1,7 +1,7 @@
 # Research Plan for VA.gov Home Page Redesign ROUND 2 Usability Testing [Sitewide Home Page team, September 2022]
 
 ## Background
-The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design. 
+The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design, which was usability tested in August 2022. Now more revisions have been made to the home page design, and we're doing a second round of usability testing.
 
 [Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 
@@ -19,10 +19,10 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 ## Research Goals	
-The purpose of this research is to **get a second round of user feedback on the revision of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks. 
+The purpose of this research is to **get user feedback on the *revised version* of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks. 
 
 ### Outcome
-This research will inform iterations to the home page redesign, the need for future research, and release decisions.
+This research will inform future iterations of the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
@@ -38,6 +38,8 @@ This research will inform iterations to the home page redesign, the need for fut
     8. VAntage Point blog promo (below search and common tasks)
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
+
+**DISCUSS--DELETE EVERYTHING BELOW?**
 1. When do participants search (by typing into a box) *vs.* browse (clicking on links, like the benefit hubs)?
     1. Are there differences between browsing/learning tasks *vs.* managing tasks?
     2. Are there differences between people more *vs.* less familiar with VA benefits? 
@@ -50,13 +52,14 @@ This research will inform iterations to the home page redesign, the need for fut
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
-- Login/signup CTA
+- Sign up CTA
 - Common task list
 - Search
+- Other search tools
 - Benefit hubs
 - VAntage Point blog promo
 
-### Hypotheses
+### Hypotheses -- DISCUSS
 1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
 1. More participants will use the prominent sign in/sign up CTA than the button in the header.
 1. The streamlined design enables participants to complete tasks efficiently. 
@@ -90,7 +93,7 @@ Add the total requested number, ideal completed sessions and breakdown type of p
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |               | 
+|       20      |         10       |    14  |    2        |    2     |        2      | 
 
 
 ### Criteria Table 
@@ -99,9 +102,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 - If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
 - ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
 - For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment.  
-- If you're conducting an unmoderated study (*survey, tree test*) using cohorts, ***do not exceed*** nine participants per cohort to avoid PRA (Paperwork Reduction Act).
-- Add which group you want applied to each cohort in the heading row (***Ex. Vet Cohort 1, Care Cohort 2, Fam Cohort 3, Serv Cohort 4***). 
-- You can use the same group for all cohorts, but the categories you choose must vary (***Ex. Vet Cohort 1 [9 Male]; Vet Cohort 2 [9 Female]***. 
+
 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
@@ -211,7 +212,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
 |Font resizing/larger                                         |            |
-|Screen reader                                                |            |
+|Screen reader                                                |    6       |
 |Braille terminal                                             |            |
 |Speech recognition sftw                                      |            |
 |Speech generating device                                     |            |
@@ -239,7 +240,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     4      |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
