@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022 (updated 09/07/2022)
+Date: 08/31/2022 (updated 09/08/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -148,7 +148,7 @@ FOR EVERYONE
 
 1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
-1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
+1. **Two accessibility issues were discovered with the VA Benefits and Health Care megamenu**, both of which confused a pilot participant who was a screen reader user, and one of which also confused several sighted participants.  
 
 1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks** (no tasks were related to it).
 
@@ -251,16 +251,17 @@ Neither sign-in button got much use during the research sessions:
 A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 - One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-## 5. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
-When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. 
-**Participants expected to see all dropdown options and select one any content is opened.** 
+## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant who was a screen reader user, and one of which also confused several sighted participants.
+
+1. Several participants and a pilot participant had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected. When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. **Participants expected to see a list of dropdown options *without any of them expanded*.** 
 - One participant wanted to browse the dropdown options but skipped health care because it was already open. 
 - A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. 
 - A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. 
-- In addition, opening the dropdown and having the health care option already expanded was confusing for our pilot participant who uses a screen reader.
+- Opening the dropdown and having the health care option already expanded was confusing for our pilot participant using a screen reader.
 
 > *"I thought it would clear out; you wouldn’t think a drop-down would save that [the last option opened]" (p23).*
 
+2. Our pilot participant who uses a screen reader noticed that **clicking on a link in the megamenu led to a focus issue when the content page was opened**. When they clicked on *Education and training* and then *Eligibility*, the [Education eligibility page](https://staging.va.gov/education/eligibility/) that opened had focus still in the megamenu instead of on the title of the content page where it should have been.
 
 ## 6. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
 There were no tasks related to the Vantage blog promo box, and no one mentioned it until the moderator asked about it during the post-task interview. Participants expressed their impressions in various ways:
@@ -294,17 +295,14 @@ We heard some additional usability feedback on the home page and other VA.gov pa
 1. One participant suggested removing the 3 photos of Veterans because they *"don't do anything" (p14)*--i.e, you can't interact with them.
 1. One participant said that there are too many clicks to get to information from the home page.
 2. Two participants said that there's too much text on some of the VA.gov pages, for example, in the light blue box on the [Burial Eligibility page](https://staging.va.gov/burials-memorials/eligibility/).
-3. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+1. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
 
 > *"Don't bury so many things so deep...[check education benefits] buried under too many clicks...want two clicks max...After two clicks I would stop because I don’t want to have to click five times to get to what I am looking for...search until I get tired, and then use the VA 800 number" (p9).*
 
 > *"Makes you read a lot of stuff you shouldn't have to read" (p14).*
 
 > *"I would scan it. I would eventually have to read it once I was frustrated" (p16).*
-
-**Two accessibility issues** were identified during the usability testing:
-1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1 heading** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. 
 
 
 ## Other Findings
@@ -364,7 +362,9 @@ We heard some pain points about VA in general, which is included below but not a
      7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
-8. Consider **changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(being discussed with Josh Kim and Laura Flannery)*:
+     1.  **Change the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+     2.  **Fix the focus issue when you click on a link in the megamenu** so focus is on the page title, not the megamenu option clicked on.
 10. Consider whether **some common misspellings could be handled more gracefully by search**, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
