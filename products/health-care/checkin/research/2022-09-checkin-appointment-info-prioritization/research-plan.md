@@ -65,12 +65,10 @@ The mobile app and VAOS teams have completed similiar studies. Once our check-in
 Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in. Then, we can plan further work to iterate on the current experiences.
 
 ### Research questions
-- What appointment information is important to review when determining what appointment Veterans need to check-in for? 
-- What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
+- What appointment information is important to review when letting VA know you have arrived for your appointment? 
 
 ### Hypothesis
-1. Veterans and caregivers will generally agree on which data is most important when determining what appointment they need to check-in for.
-2. Veterans and caregivers will generally agree on which data is most important when check-in is complete, but they want to know what to do next.
+1. Veterans and caregivers will generally agree on which data is most important when letting VA know you have arrived for your appointment.
 
 ## Method	
 We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 2 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
@@ -83,13 +81,13 @@ Remote unmoderated via Optimal Workshop
 ### Research materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=1)
-- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=2)
-- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=3)
-- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=4)
-- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=5)
-- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=6)
-- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=7)
+- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=1)
+- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=2)
+- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=3)
+- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=4)
+- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=5)
+- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=6)
+- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=7)
 	
 ## Recruitment	
 
