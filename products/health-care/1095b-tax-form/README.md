@@ -125,18 +125,17 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - Slack channel: #cedar-1095b
 - Product POCs: 
     - Tracey Mulrooney (Product Owner/VA) | tracey.mulrooney@va.gov
-    - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
+    - Travis Hoffmann (MOVE) | travis@themostudio.com
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Business Owner: 
     - Tarsha Tremble (Health Enrollment Center) | tarsha.tremble@va.gov
     - Stacey Echols (Director, VHA Health Enrollment Center) | stacey.echols@va.gov
-- OGC Legal reviewer: 
 
 ### Team members
 
 In addition to the team above: 
 
-- Engineering:  Teagan Stephenson / Dan Smith
+- Engineering:  Teagan Stephenson (Bracari) / Dan Smith (Bracari)
 - Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
 
 ## Other systems we rely on
