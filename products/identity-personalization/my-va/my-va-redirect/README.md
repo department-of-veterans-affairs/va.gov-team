@@ -41,7 +41,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Exits from VA.gov from My VA|6.1%|5.7%|TBD|TBD|TBD|TBD|
 
-#### [Top interactions from My VA (via My VA analytics dashboard)](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220822&_u.date01=20220828/)
+#### [Top interactions from My VA (via My VA analytics dashboard)](https://va-gov.domo.com/page/1167851935?userId=1322887837)
 
 **Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
@@ -56,7 +56,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |Refill and track prescriptions|4,063|6,734|TBD|TBD|TBD|TBD|
 |View your payment history|17,107|28,115|TBD|TBD|TBD|TBD|
 
-#### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+#### [Searches initiated from My VA](https://va-gov.domo.com/page/1167851935?userId=1322887837)
 
 **Hypothesis**: If a link lives on My VA, there will be no increase in searches for this information from My VA or overall.
 
@@ -74,10 +74,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|4|5|TBD|TBD|TBD|TBD|
-|Letter|5|3|TBD|TBD|TBD|TBD|
-|Benefit letter|29|15|TBD|TBD|TBD|TBD|
-|GI bill|16|13|TBD|TBD|TBD|TBD|
+|DD214|4|4|TBD|TBD|TBD|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|2|2|TBD|TBD|TBD|TBD|
+|GI bill|9|10|TBD|TBD|TBD|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
