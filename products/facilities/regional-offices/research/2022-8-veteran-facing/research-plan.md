@@ -88,15 +88,23 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
     *   What are the questions clients want answered by calling Benefit Office phone number(s)?
     *   Do clients need to understand the different types of Benefit Offices and the relationships between them?
 
-### Hypothesis
+### Hypotheses
 
-*   Do Veterans find it easy and useful to get information about Regional Offices? 
 
-Hypothesis: yes
+1.  What benefit-related **tasks** do clients complete at Benefit Offices? - **Will vary by benefit type**
+    *   Is visiting a Benefit Office necessary/sufficient to complete the task? - **Will vary by benefit type**
+    *   Do clients have a preference for doing this task in-person (if other options are available)? - **Will vary by client demographics**
+    *   Do clients' mental models of benefit tasks align to the actual processes? - **Yes**
 
-What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+2.  What is the client experience of **visiting** a Benefit Office? - **Clients have a positive, helpful experiences at Benefit Officess** 
+    *   How do clients travel to Benefit Offices? - **A mix of car & public transit**
+    *   How do clients find their way to Benefit Offices within multipurpose buildings? **Clear signage guides clients within buildings** 
+    *   What is the check-in experience at Benefit Offices? **Clients are able to check in with ease**
 
-*   I think they will find having clear local location information, especially contact, hours, and description of service information extremely useful.
+3.  What information do clients need when **preparing** for a visit? - **Clients are able to find all the information they need via VA.gov**
+    *   What are the tasks that clients need to complete online before a visit? **Make an appointment & Ask VA**
+    *   What are the questions clients want answered by calling Benefit Office phone number(s)? **Will vary by benefit type**
+    *   Do clients need to understand the different types of Benefit Offices and the relationships between them? **No**
 
 ## Method
 
