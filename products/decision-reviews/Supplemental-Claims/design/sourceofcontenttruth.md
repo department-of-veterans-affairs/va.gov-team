@@ -1,4 +1,4 @@
-# [draft] Supplemental Claim Content
+# Supplemental Claim Content Source of Truth
 
 **_SIGNED OUT_**
 
