@@ -220,13 +220,21 @@ LBGTQ+
 
 ### Length of sessions
 
-*   Session length: 30 minutes
-*   Buffer time between sessions: 30 minutes
-*   Maximum Sessions per day: 4
+*   Session length: 45 minutes
+*   Buffer time between sessions: 15 minutes
+*   Maximum Sessions per day: 5
 
-### Availability
-
-9am-7pm EST M-F
+Date | Time in Eastern | Slots
+-----|-----------------------|-------
+Mon, Sept 19 [PILOT] |  | - 
+Tues, Sept 20 | 10-11a, 12-2p, | 3 
+Thur, Sept 22 | 10-11a, 2-3p, 4-6p | 4 
+Fri, Sept 23  | 10-11a, 3-6p | 4
+Mon, Sept 26  | 10-11a, 3-6p | 4
+Tues, Sept 27 | 10-11a, 12-3p, 4-6p | 6
+Wed, Sep 28   | 10-11a, 12-2p, 3-6p | 6
+Thur, Sept 29 | 10-11a, 2-6p | 5
+Fri, Sept 30  | 10-12p, 1-5p | 6
 
 ## Team Roles
 
