@@ -126,7 +126,12 @@
 
 **PM**
 
+- UAT go/no-go
 - Launch go/no-go
+
+**Design**
+
+- Run internal UAT
 
 **FE**
 
