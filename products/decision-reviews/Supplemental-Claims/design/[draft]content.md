@@ -15,7 +15,7 @@ Answer a question to get started.
 - [ ] Disability compensation
 - [ ] Claim other than disability compensation
 
-Continue
+**_Continue_**
 
 If you don't think this is the right for for you, go back and review types of decision reviews
 
@@ -25,10 +25,11 @@ Send the completed form to the benefit office that matches the benefit type you 
 
 [Download VA Form 20-0995 PDF](https://www.va.gov/find-forms/about-form-20-0995/)
 
-*error
+*error*
 
 Please provide a response.
 
+---
 ## File a Supplemental Claim
 VA Form 20-0995 (Supplemental Claim)
 
@@ -156,11 +157,12 @@ If you have hearing loss, call TTY: 711.
 ## Step 1 of 4: Veteran information
 
 **Who is filing this claim?**
+
 Claimant’s Name: (if other than Veteran’s)
 
 As a Veteran, you can file claims yourself, or you can have a trusted individual or a third party file on your behalf. In some cases, you will need an additional authorization form to grant permission to file on your behalf.
 
-Who is filing this Supplemental Claim? (*Required)
+**Who is filing this Supplemental Claim?** (*Required)
 
 - [ ] Veteran
 - [ ] Other
@@ -178,9 +180,9 @@ IF OTHER:
 Please specify your relationship to the Veteran? (*Required)
 TEXT FIELD (recommend 68 character limit)
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## Step 1 of 4: Veteran information
@@ -198,29 +200,30 @@ This is the personal information we have on file for you.
 
 - *Gender*
 
-Note: If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+**Note:** If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## Step 1 of 4: Veteran Information
 We'll save your application every time you add or update information.
 
-Are you experiencing homelessness or at risk of becoming homeless? (*required)
+**Are you experiencing homelessness or at risk of becoming homeless? (*required)
+
 - [ ] Yes
 - [ ]  No
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
 
-Contact information
+**Contact information**
 
 This is the contact information we have on file for you. We’ll send any updates or information about your Supplemental Claim to this address. 
 
@@ -234,17 +237,17 @@ Note: Any updates you make here will be reflected on your VA.gov profile
 
 - *Mailing address (edit)*
 
-Note: If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+*Note:* If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 1 of 4: Veteran Information
 We'll save your application every time you add or update information.
  
-What is your primary phone number?
+**What is your primary phone number?**
 
 We may need to contact you to clarify issues related to your Supplemental Claim.
 
@@ -252,9 +255,9 @@ We may need to contact you to clarify issues related to your Supplemental Claim.
 
 - [ ] *Mobile phone number*
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## Step 2 of 4: Issues for review
@@ -262,7 +265,7 @@ We'll save your application every time you add or update information.
 
 These are the issue(s) in your VA record. If an issue is missing from the list, you can add it here.
 
-Select the issue(s) you’d like us to review:
+**Select the issue(s) you’d like us to review**
 
 Issue
 
@@ -278,29 +281,29 @@ Why aren’t all my issues listed here (expand)
 
 If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it. 
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
-## Step 2 of 4: Issues for review:
+## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
-What issue would you like to add?
+**What issue would you like to add?**
 
 You can only add an issue that you’ve  received a VA decision notice for. (*Required)
 
 Enter the decision date on your decision notice (the letter you received in the mail from us).
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
-## Step 2 of 4: Issues for review:
+## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
-Opt-in to the new decision review process
+**Opt-in to the new decision review process**
 
 If you’re filing a Supplemental Claim for an issue in an initial claim we decided before February 19, 2019, you’ll need to opt in to the new decision review process. To do this, please check the box here. We’ll move your issue from the old appeals process to the new decision review process.
 
@@ -308,15 +311,15 @@ Our decision review process is part of the Appeals Modernization Act. When you o
 
 - [ ] I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them into the new decision review process.
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
 We'll save your application every time you add or update information.
 
-You’ll need to review and acknowledge this notice of evidence needed.
+**You’ll need to review and acknowledge this notice of evidence needed.**
 
 You’ll need to submit new evidence we haven’t reviewed before that’s related to the issue you’re claiming.
 
@@ -331,15 +334,16 @@ You'll need to submit or give us permission to gather medical evidence from a VA
 - [ ] I certify that I have reviewed the notice of evidence needed.
 
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
 We'll save your application every time you add or update information.
 
-What type of evidence do you want us to review as part of your claim?
+**What type of evidence do you want us to review as part of your claim?**
+
 Select your record types: (*Required)
 
 - [ ] VA medical records
@@ -359,9 +363,9 @@ If you were treated by a private doctor, including a Veteran’s Choice doctor, 
 Lay statements or other
 A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -369,7 +373,7 @@ We'll save your application every time you add or update information.
 
 IF VA medical records:
 
-Which facility treated you for your disability?
+**Which facility treated you for your disability?**
 
 Location: Name of VA medical center, VA treatment facility, or Federal department or agency (*Re	quired)
 
@@ -386,9 +390,9 @@ End date (*Required)
 [day]
 [year]
  
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -396,16 +400,16 @@ We'll save your application every time you add or update information.
 
 IF VA medical records:
 
-Do you want to add another facility?
+**Do you want to add another facility?**
 
 Be sure to add all VA facilities that treated you for the issue(s) you want us to review:
 
 - Yes
 - No
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -413,7 +417,8 @@ We'll save your application every time you add or update information.
 
 IF VA medical records:
 
-Summary
+**Summary**
+
 We’ll obtain your records from these VA facilities. 
 
 Facility Name
@@ -422,9 +427,9 @@ Dates
 
 Edit
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -432,7 +437,8 @@ We'll save your application every time you add or update information.
 
 IF VA medical records edit:
 
-Summary
+**Summary**
+
 We’ll obtain your records from these VA facilities. 
 
 Which facility treated you for your disability?
@@ -453,9 +459,9 @@ End date (*Required)
 [day]
 [year]
  
-Update
+**_BACK_**
 
-Cancel
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -463,7 +469,8 @@ We'll save your application every time you add or update information.
 
 PRIVATE medical records:
 
-How do you want to share your private medical records?
+**How do you want to share your private medical records?**
+
 You can upload your records or we’ll get your records for you. (*Required)
 
 - [ ] I’ll upload my records
@@ -479,9 +486,9 @@ We get your medical records for you
 
 If you tell us the name of the private doctor or hospital that treated you for your condition, we can get your medical records for you. Getting your records may take us some time, and this could mean that it’ll take us longer to make a decision on your claim.
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -490,7 +497,7 @@ We'll save your application every time you add or update information.
 IF PRIVATE  medical records:
 Get my records
 
-We need your authorization to request your medical records
+**We need your authorization to request your medical records**
 
 I voluntarily authorize and request disclosure (including paper, oral, and electronic interchange) of: All my medical records; including information related to my ability to perform tasks of daily living. This includes specific permission to release:
 
@@ -521,9 +528,9 @@ Note: For additional information refer to the following website: https://www.ben
 
 - [ ] I acknowledge and authorize this release of information (*Required)
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -531,7 +538,8 @@ We'll save your application every time you add or update information.
 
 IF Private  medical records:
 
-Where did you receive treatment?
+**Where did you receive treatment?**
+
 We’ll request your private medical records from here.
 
 Location
@@ -564,9 +572,9 @@ Month
 Day
 Year
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -575,7 +583,7 @@ We'll save your application every time you add or update information.
 IF PRIVATE  medical records:
 Get my records
 
-What condition were you treated for?
+**What were you treated for?**
 
 - [ ] Contention from issue list
 
@@ -583,9 +591,9 @@ Description
 
 Decision date
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -595,14 +603,14 @@ PRIVATE  medical records:
 
 Get my records
 
-Do you want to add another facility?
+**Do you want to add another facility?**
 
 - Yes
 - No
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -611,16 +619,16 @@ We'll save your application every time you add or update information.
 IF PRIVATE  medical records:
 Get my records
 
-Do you want to limit the information VA requests?
+**Do you want to limit the information VA requests?**
 
 - [ ] I want to limit my consent for VA to retrieve specific information from my private medical provider(s).
 
 Describe the limitation below (you can limit to treatment dates, type of disability, etc. 400 characters max) 
 *text input field
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -628,7 +636,8 @@ We'll save your application every time you add or update information.
 
 IF Private  medical records edit:
 
-Summary
+**Summary**
+
 We’ll obtain your records from these providers.. 
 
 Facility Name
@@ -637,18 +646,17 @@ Dates
 
 Edit
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
 We'll save your application every time you add or update information.
 
 IF Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
 
-(*Required)
+**Upload your evidence**(*Required)
 
 You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (also known as lay statements), and other types of evidence. We’ll prompt you to upload each document from your device, but you may first need to scan your document, then save each file as a PDF and upload it.
 
@@ -662,16 +670,17 @@ A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large f
 
 *Upload*
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
 We'll save your application every time you add or update information.
 
-Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
+IF Supporting (lay) statements, other evidence or upload your documents
+
+**Upload your evidence**
 
 You’re adding this evidence
 
@@ -681,27 +690,11 @@ XKB
 
 Document type (*Required)
 
-Delete
+***_Delete_***
 
-Back
+**_BACK_**
 
-Continue
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
-
-Do you want to upload another document?
-
-- Yes
-- No
-
-Back
-
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -710,18 +703,35 @@ We'll save your application every time you add or update information.
 IF Supporting (lay) statements, other evidence or upload your documents
 Upload your evidence
 
-Summary
+**Do you want to upload another document?**
+
+- Yes
+- No
+
+**_BACK_**
+
+**_CONTINUE_**
+
+---
+## STEP 3 of 4: New and relevant evidence
+We'll save your application every time you add or update information.
+
+IF Supporting (lay) statements, other evidence or upload your documents
+Upload your evidence
+
+**Summary**
+
 You’ve uploaded these documents to support your claim
 
 Filename.pdf
 
 Document type
 
-Edit
+*Edit*
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## STEP 3 of 4: New and relevant evidence
@@ -730,18 +740,19 @@ We'll save your application every time you add or update information.
 IF Supporting (lay) statements, other evidence or upload your documents
 Upload your evidence
 
-Is there anything else you’d like to add to support your claim?
+**Is there anything else you’d like to add to support your claim?**
+
 Additional information (400 characters max)
 
-Back
+**_BACK_**
 
-Continue
+**_CONTINUE_**
 
 ---
 ## Step 4 of 4: REVIEW & SUBMIT
 We’ll save your application every time you add or update information.
 
-Veteran information +/_
+**Veteran information**
 
 Contact information
 
@@ -766,19 +777,19 @@ Are you experiencing homelessness or at risk of becoming homeless?
 
 Answer
 
-Edit
+*Edit*
 
 
-Issues for review
+**Issues for review**
 
 Issue
 
 Decision date
 
-Edit
+*Edit*
 
 
-Supporting evidence
+**Supporting evidence**
 
 Evidence types
 
@@ -790,7 +801,7 @@ Supporting (lay) statements or other evidence
 
 Status (selected)
 
-Edit
+*Edit*
 
 
 Supporting (lay) statements or other evidence
@@ -806,10 +817,10 @@ Document type
 
 Buddy/lay statement
 
-Edit
+*Edit*
 
 
-Notice of Acknowledgement
+**Notice of Acknowledgement**
 
 Certification
 
@@ -817,16 +828,16 @@ I certify that I have reviewed the notice of evidence needed.
 
 Yes, I certify
 
-Edit
+*Edit*
 
 
-Note: According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
 - [ ] I have read and accepted the privacy policy. (*Required)
 
-**Submit your claim**
+**_Submit your claim_**
 
-Back
+**_Back_**
 
 
 
