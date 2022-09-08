@@ -41,7 +41,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Exits from VA.gov from My VA|6.1%|5.7%|TBD|TBD|TBD|TBD|
 
-#### [Top interactions from My VA (via My VA analytics dashboard)](https://va-gov.domo.com/page/1167851935)
+#### [Top interactions from My VA](https://va-gov.domo.com/page/1167851935)
 
 **Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
