@@ -165,7 +165,7 @@ We'll make this more specific before planning.
 
 **Design**
 
-- Continue design
+- Design for whatever tickets we decide to tackle
 - Talk about build and usability testing plan (will need to happen in code)
 
 ## Sprint 84 (10/5 - 10/18)
