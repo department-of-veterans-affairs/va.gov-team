@@ -10,11 +10,11 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Notes:**  
 - Our success rate was negatively impacted by ID.me viewing our traffic as new users and requesting they consent to sharing information with VA.gov
 - Our login time can be improved by certain CSP's implementing Single Round-Trip for our Sign-in Service (specifically ID.me and Login.gov)  
-- During our test, we saw a dramatic improvement in success rate for users on Chrome and Safari, with a 15-20% higher rate than the existing SSOe system  
+- **During our test, we saw a dramatic improvement in success rate for users on Chrome and Safari, with a 15-20% higher rate than the existing SSOe system ** 
 - During our test, we identified a Token Exchange Error with ID.me and Login.gov resulting in 414 (1% of users) callback failures from ID.me, accounting for 30% of our failures  
-- On average we saw a 20% decrease in the time taken to sign in over SSOe  
+-** On average we saw a 20% decrease in the time taken to sign in over SSOe  **
 - No major issues were identified (defined as issues requiring us to stop our test ahead of our planned end time)
-- Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
+- **Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy**
 
 
 
