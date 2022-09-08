@@ -65,12 +65,10 @@ The mobile app and VAOS teams have completed similiar studies. Once our check-in
 Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within pre-check-in. Then, we can plan further work to iterate on the current experiences.
 
 ### Research questions
-- What appointment information is important to review when trying to understand what appointment Veterans are completing pre-check-in for?
-- What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
+- What appointment information is important to review when confirming and answering questions for your VA appointment (AKA pre-check-in)?
 
 ### Hypothesis
-1. Veterans and caregivers will generally agree on which data is most important when trying to understand what appointment they are completing pre-check-in for.
-2. Veterans and caregivers will generally agree on which data is most important when pre-check-in is complete, but they want to know what to do next.
+1. Veterans and caregivers will generally agree on which data is most important when confirming and answering questions for your VA appointment (AKA pre-check-in).
 
 ## Method	
 We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 4 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
