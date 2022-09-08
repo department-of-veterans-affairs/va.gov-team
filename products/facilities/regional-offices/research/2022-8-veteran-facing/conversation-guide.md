@@ -22,25 +22,25 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Aslan. Today we're going to talk about the Veteran Benefits Administration pages. Mostly what I'm looking to do is get to know you and learn more about how you interact with the VA website.
+Thanks for joining us today. My name is Dave.  I also have some colleagues on the line listening and taking notes. Today we're going to talk about VA Benefit Offices. We're trying to learn about Veteran and service member's experiences with Benefit Offices.
 
 Before we start, a few things I want to mention:
 
 *   **This entire session should take about 30 minutes.**
+*   **This session is going to resemble an interview where I will ask you many questions about your experience with VA Benefit Offices.** There are no right or wrong answers, this is purely to understand actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
 *   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 *   **If for any reason and at any time you want to stop the session, please let me know.**
-*   **Are you comfortable if I record my screen and audio as we talk today?**
+*   This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
+    * If yes: Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.
 
 _Start recording._
 
-## Warm-up Questions (Optional) - X minutes
+* **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
-Before we look at the website, let’s start with a little warm up introduction.
 
-*   Name
-*   Where are you from?
-*   What VA location have you visited in the last 6 months?
-*   Just for fun, if you could have any superpower, what would you want?
+## Warm-up Questions
+
+*  Can you tell me briefly about your service history?
 
 ## Questions
 
