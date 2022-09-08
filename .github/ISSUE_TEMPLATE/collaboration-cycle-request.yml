@@ -22,6 +22,8 @@ body:
   - type: markdown
     attributes:
       value: "## VFS product information"
+      - label: If your product is already on VA.gov, please verify your product information in the Product Directory.
+          required: true
   - type: input
     id: product-team
     attributes:
