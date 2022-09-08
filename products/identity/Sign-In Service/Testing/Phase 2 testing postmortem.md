@@ -90,6 +90,6 @@ All tests performed on live VA.gov, with times measured at 3 points. All tests w
 **Success/Return Rate Example**  
 100 users click a CSP button to sign in  
 Of those users, 80 are returned to VA.gov, signed in or not.  This gives us a return rate of 80%. (80/100 users)  
-Of the 80 users returned, 75 are returned signed in.  This gives us a return rate of 75% (75/100 users)
+Of the 80 users returned, 75 are returned signed in.  This gives us a success rate of 75% (75/100 users)
 
 
