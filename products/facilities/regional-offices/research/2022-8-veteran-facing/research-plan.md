@@ -122,17 +122,17 @@ Remote, via Zoom. 
 
 ### Recruitment approach
 
-Recruit 15 Veterans through Perigean.
+Recruit 15 clients through Perigean
 
 #### Primary criteria / Must have - 
 
-- Veterans & active duty service members 
+- Veterans, active duty service members, or caregivers
 
 - Answers "Yes" to screener question
 
-  **Screener Question:**
+  **Screener Questions:**
   
-    **In the last 6 months, have you visited a VA Benefits Office from the following list?** 
+    **1. In the last 6 months, have you visited a VA Benefits Office from the following list?** 
     **(Answer must be yes)**
 
       [following checkboxes] 
@@ -150,11 +150,45 @@ Recruit 15 Veterans through Perigean.
       [ ] VetSuccess On Campus
       
      **Benefits Office Definition**: Benefit Offices are unique VA facilities, separate from VA Medical Centers, clinics, Vet Centers, VFWs, etc. If unsure, please visit Veterans Benefits Administration's website: [https://benefits.va.gov/benefits/](https://benefits.va.gov/benefits/)
+     
+     **2. Which benefit(s) was your visit related to? (Check all that apply)** 
+      
+      [following checkboxes] 
+      
+      [ ] Burial claim
+      
+      [ ] Disability
+      
+      [ ] Education and career counseling
+      
+      [ ] Home Loans
+      
+      [ ] Pension
+
+      [ ] Vocational Rehabilitation
+      
+      [ ] Other
 
 #### Secondary criteria / Would like to have -
 
-Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy):
+At least one client from each Benefit Office [District](https://www.benefits.va.gov/benefits/offices.asp):
+* Northeast
+* Southeast
+* Continental
+* Pacific
 
+A sample across different **benefit types**
+* Burial claim: 1
+* Disability: 2
+* Education and career counseling: 1
+* Home Loan: 2
+
+At least one **caregiver or family member** 
+
+Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy): 
+
+Veterans
+* Assistive tech users: 8
 * Age 55-64+ : 8
 * Cognitive Disability: 8
 * Mobile user: 8
@@ -165,33 +199,17 @@ Based on established [MVS sampling strategy](https://github.com/department-of-ve
 * Women: 2
 * Expat (living abroad): 1
 
+Race
 * Black: 3
 * Hispanic: 2
 * Biracial: 1
 * Asian: 1
 * Native: 1
 
+LBGTQ+
 * Gay, lesbian, or bisexual: 1
 * Transgender: 1
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-
-
-### Recruitment criteria
-
-Recruiting 10-14 Veterans who have:
-
-*   Visited a regional benefits office in the last six months. 
-*   Question - Can we prescreen based on the purpose of their visit (i.e. home loan vs disabilities)? If not, how do we ensure a spread across different benefit services?
-*   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
-*   A range of ages from recently in service to older Veterans. 
-*   Veterans who live both in urban and rural locations.
-*   Can we recruit caregivers / non-veterans through Perigean?
-*   We want representation within each of the regional districts
-*   2 Disability
-*   2 Home Loan
-*   1 Education
-*   1 Burial
-*   1 caregiver / family member if possible?
 
 ## Timeline
 
@@ -208,7 +226,7 @@ Recruiting 10-14 Veterans who have:
 
 ### Availability
 
-11am-7pmCST M-F
+9am-7pm EST M-F
 
 ## Team Roles
 
