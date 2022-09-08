@@ -22,6 +22,8 @@ We began our test at 0900 EST on Thursday, September 1 2022.  During the 36 hour
 - No major issues were identified (defined as issues requiring us to stop our test ahead of our planned end time)
 - Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
 - During testing we saw a 15-20% increase in success rate for Chrome and Safari users over the existing SSOe solution, which accounts for about 12% of our users  
+- We were able to offer a 20% improvement in sign-in time over the existing SSOe solution
+- We were able to increase the rate of successful log-in for Chrome and Safari users by 15-20% (accounting for about 12% of our users)
 
 
 ## Related Tickets:  
