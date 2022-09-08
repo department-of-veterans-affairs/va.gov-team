@@ -23,7 +23,7 @@ We are working to stand up a new sign-in service for VA.gov, and ultimately othe
 - Partner rollout: Bringing other VA properties such as MHV onto our sign-in service will add SSO functionality 
 - Terms and Conditions: The VA is working to roll out unified terms and conditions, we want to implement this in our sign-in service.  See the Terms and Conditions item below for more details.
 
-**Why does it matter?**
+**Why does it matter?**  
 The existing system (IAM/ISAM) is built on older technology.  It provides a less than ideal user experience due to issues with certain browsers, long sign-in times, and a high cost to the VA.  Additionally, it is an opaque system where we are reliant on a third-party (IAM) for any fixes.  Our sign-in service is built on a modern technology stack, offers improved performance and significant cost savings, as well as allowing for future development and easy resolution of issues.  
 
 ### Inherited Proofing  
@@ -34,7 +34,7 @@ We are working to support inherited proofing for users of legacy CSP's such as D
 - Our current line of thought is to only offer users the ability to transition to Login.gov.
 - Users, by and large, understand the process and reasoning for this transition.
 
-**Why does it matter?**
+**Why does it matter?**  
 Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DSLogon are destined to be depreciated.  The goal of the VA is to migrate these users to a modern CSP (primarily Login.gov) prior to the deadline (TBD).  
 
 ### Terms and Conditions
