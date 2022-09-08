@@ -9,7 +9,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Callback Failures:** 1,360  (Errors detected between authentication with the CSP and returning to VA.gov)  
 **Notes:**  
 - In a test using Chrome, our average sign-in time across all CSP's was reduced by 20% using our Sign-in Service over SSOe
-- During our test, our rate of successful sign-in increased by up to 20% for users utilizing Safari and Chrome and our Sign-in Service over SSOe (Safari and Chrome account for 12% of our daily users)  
+- During our test, our rate of successful sign-in increased by up to 20% (averaging 10-12% for the entire test) for users utilizing Safari and Chrome and our Sign-in Service over SSOe (Safari and Chrome account for 12% of our daily users)  
 - Issues impacting other teams were resolved in 2 hours or less, with fixes released in time for the same-day production deploy
 - Our success rate was negatively impacted by ID.me viewing our traffic as new users and requesting they consent to sharing information with VA.gov
 - Our login time can be improved by certain CSP's implementing Single Round-Trip for our Sign-in Service (specifically ID.me and Login.gov)   
