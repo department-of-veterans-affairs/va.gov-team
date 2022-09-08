@@ -1,5 +1,5 @@
 # My VA Redirect Initiative Brief
-Last updated: August 30, 2022
+Last updated: September 8, 2022
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)
@@ -51,9 +51,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
 |View claim ("view details")|21,041|29,622|TBD|TBD|TBD|TBD|
 |Manage all claims and appeals|20,359|32,265|TBD|TBD|TBD|TBD|
-|Schedule and view your appointments|1,677|1,639|TBD|TBD|TBD|TBD|
-|View your messages|5,543|10,432|TBD|TBD|TBD|TBD|
-|Refill and track prescriptions|3,096|3,035|TBD|TBD|TBD|TBD|
+|Schedule and view your appointments|1,950|2,694|TBD|TBD|TBD|TBD|
+|View your messages|6,704|10,432|TBD|TBD|TBD|TBD|
+|Refill and track prescriptions|4,063|6,734|TBD|TBD|TBD|TBD|
 |View your payment history|17,107|28,115|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
