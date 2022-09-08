@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022
+Date: 08/31/2022 (updated 09/07/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -156,11 +156,12 @@ FOR EVERYONE
 # Details of Findings 
 
 ## 1. Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work
-We observed 4 distinct **browse *vs.* search usage patterns** among the participants:
-1. More than a third of participants (37%, or 7 of 19) **browsed exclusively** and never used search to complete tasks.
-1. More than a third of participants (37%, or 7 of 19) **started off browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
-1. Only our youngest participant **searched exclusively** to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.) The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on the page he got to, rather than browsing on the home page.
-1. One participant **tried search first, had success a couple times, then got irrelevant results, and so stopped using search**. This participant only browsed after that.
+We observed 5 distinct **browse *vs.* search usage patterns** among the participants:
+1. (7 participants) **Browsed exclusively** and never used search to complete tasks.
+1. (7 participants) **Started browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
+2. (3 participants) **Mostly browsed but tried search once**.
+4. (1 participant) **Tried search first, had success a couple times, then got irrelevant results, and so stopped using search**. This participant only browsed after that.
+5. (1 participant) **Searched exclusively** to complete tasks. This was the youngest participant in this research; this same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist. The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on the page he got to, rather than browsing on the home page.
 
 One participant said they were giving a lower task rating because they *"had to do a search for it" (p4).* Some participants said that they browse first and avoid searching because they
 - Don't like to type into the search box
@@ -174,6 +175,8 @@ Below is some specific feedback on using search:
 >  Regarding browsing and then trying searching: *"I gave up [on browsing] and used the search...search is better to use* vs. *so much to read [on the home page]--a whole page that I have to read, when I should be depending on search" (p14).*
 
 > *"Getting used to using search...working pretty good...autofill function...seems intuitive" (p4).* 
+
+Of the participants who tried search, **9 of them used the new search box, which is more than the 6 who used the existing link** in the header.
    
 ## 2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it** 
 Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
@@ -301,7 +304,7 @@ We heard some additional usability feedback on the home page and other VA.gov pa
 
 **Two accessibility issues** were identified during the usability testing:
 1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
+2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1 heading** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. 
 
 
 ## Other Findings
