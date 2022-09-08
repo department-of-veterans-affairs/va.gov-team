@@ -178,9 +178,9 @@ At least one client from each Benefit Office [District](https://www.benefits.va.
 * Pacific
 
 A sample across different **benefit types**
-* Burial claim: 1
+* Burial claim: 2
 * Disability: 2
-* Education and career counseling: 1
+* Education and career counseling: 2
 * Home Loan: 2
 
 At least one **caregiver or family member** 
