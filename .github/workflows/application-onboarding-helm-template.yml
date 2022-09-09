@@ -73,7 +73,7 @@ jobs:
         run: mkdir -p vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/templates
 
       - name: Copy hello-world
-        run: cp -ar vsp-infra-helm/hello-world vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}
+        run: cp -ar vsp-infra-helm/hello-world/* vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}
 
       # - name: Copy Chart.yaml from template
       #   if: steps.directory_check.outputs.directory_exists == 'false'
