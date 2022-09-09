@@ -19,7 +19,7 @@
       - Can be tested in a lower environment
 - Tasks
   - [x] Create ticket for apostrophe issue
-  - [ ] Disable content update for confirmation page
+  - [x] Disable content update for confirmation page
     - Re-enable on or around 09/22
   - [ ] Backwards compatibility test with Mulesoft team
     - Ruman and Lihan to coordinate this testnig offline
