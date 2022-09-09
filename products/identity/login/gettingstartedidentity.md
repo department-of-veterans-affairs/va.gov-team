@@ -13,7 +13,7 @@ Updated 6/15/22
 
 ## Signing in
 
-Users can sign in on [VA.gov](http://va.gov/) using one of three Identity Providers:
+Users can sign in on [VA.gov](http://va.gov/) using one of four Identity Providers:
 
 1. **DS Logon**
 2. **My HealtheVet**
@@ -52,7 +52,8 @@ Each identity provider has various account levels, which are mapped to [VA.gov](
 |                  | DS Logon Level 2  |
 | ID.me LOA1       |                   |
 |                  | ID.me LOA3        |
-
+| logingov IAL1    |                   |
+|                  | logingov IAL2     |
 ```
 
 ## User paths based on Identity
