@@ -19,25 +19,28 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 ## Research Goals	
-The purpose of this research is to **get user feedback on the *revised version* of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks. 
+The purpose of this research is to **get user feedback on the *newly revised version* of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, caregivers, and service members while completing benefit-related tasks. 
 
 ### Outcome
-This research will inform future iterations of the home page redesign, the need for future research, and release decisions.
+This research will inform future iterations of the home page redesign, future research, and release decisions.
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
 1. Are ALL participants able to easily complete tasks from the home page? *("easily" = being able to figure out where to go and not get stuck)*
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
-3. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
-    1. "Sign in or create account" button
-    3. "Common tasks"
-    4. The new search box (next to common tasks)
-    5. "Other search tools" (next to common tasks)
-    6. Benefit hubs (below search and common tasks)--Are they used at all?
-    7. The main content of the page (between the header and footer)--Did they scroll all the way down the page?
-    8. VAntage Point blog promo (below search and common tasks)
+1. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
+    1. Featured content at top of page (to left of "Create account" button)
+    2. "Create account" button
+    4. The new search box 
+    5. "Other search tools" 
+    3. "Popular on VA.gov"
+    4. VA News
+    6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
+1. Do participants know when to use the "Sign in" vs. "Create account" buttons?
+1. Do participants scroll all the way down the page? Do they stop at the row of photos?
+2. Do they have any interest in signing up for an email newsletter from the VA?
 
 **DISCUSS--DELETE EVERYTHING BELOW?**
 1. When do participants search (by typing into a box) *vs.* browse (clicking on links, like the benefit hubs)?
@@ -52,39 +55,48 @@ This research will inform future iterations of the home page redesign, the need 
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
-- Sign up CTA
-- Common task list
-- Search
+- Create account button
+- New search box
 - Other search tools
+- Popular on VA.gov
 - Benefit hubs
-- VAntage Point blog promo
+- VA News
 
-### Hypotheses -- DISCUSS
-1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
-1. More participants will use the prominent sign in/sign up CTA than the button in the header.
+### Hypotheses
 1. The streamlined design enables participants to complete tasks efficiently. 
     1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
+1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
+
+**DISCUSS--DELETE EVERYTHING BELOW?**
+1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
+1. More participants will use the prominent sign in/sign up CTA than the button in the header.
 1. Participants will know to search for tasks not listed as "common tasks". 
 1. Participants understand where "other search tools" links will take them and what they will find there.
 1. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
-1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 2. Most participants start with a search engine, not VA.gov.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
-wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
+wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
 
 Participants will be asked to complete some tasks based on which VA benefits they have experience with, per their responses to questions at the beginning of the session. Each participant will do a subset of the full list of tasks in the conversation guide. We will **track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions**. If we're unable to find enough participants that meet the benefit qualification for a particular task, the backup plan is to ask any participant to do that task.
 
 
 ### Research materials
-- [Link to conversation guide]()
+- [Link to conversation guide](). 
+  - DRAFT ideas for tasks:
+    - something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
+    - something about email subscription (You want to get receive updates about changes in VA benefits or relevant legislation--WORDING TBD)
+    - at least one task that's not in the Popular list
+    - the 4 most difficult tasks from the first round of testing, plus "message your doctor"
+    - one of the education tasks (b/c the education links no longer in Other search tools)
+  - 
 - [Link to prototype on Staging server]()
 
 	
 ## Recruitment	
 
-Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **10 completed sessions** using the criteria below.
+Ask Perigean to recruit **16 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **8 completed sessions** using the criteria below.
 
 ### Recruitment criteria
 Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
@@ -93,7 +105,7 @@ Add the total requested number, ideal completed sessions and breakdown type of p
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       20      |         10       |    14  |    2        |    2     |        2      | 
+|       16      |         10       |    10  |    2        |    2     |        2      | 
 
 
 ### Criteria Table 
@@ -108,7 +120,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |            |        |        |        |        |        |        |        |        |        |         |
+|Female          |   5        |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
@@ -121,19 +133,19 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
+|Black           |   3        |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
+|Latinx          |   2        |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |   1        |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |   1        |        |        |        |        |        |        |        |        |        |         |                
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |   2        |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |   2        |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |   3        |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |   4        |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |   5        |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
@@ -156,7 +168,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
+|***EDUCATION*** |     range  |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
 |GED             |            |        |        |        |        |        |        |        |        |        |         |
@@ -170,12 +182,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
 |Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |            |        |        |        |        |        |        |        |        |        |         |
+|Rural           |      4     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |      5     |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |            |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |      11    |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
@@ -240,7 +252,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     4      |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     5      |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -256,50 +268,29 @@ What demographics, experience, and scenarios do you need participants to meet to
        
 
 ### Screener
-
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+1. Do you have an account on the VA.gov website? *(recruit 8 who say "yes" and 8 who say "no")*
+2. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
+    1. Zero or one *(recruit 3)*
+    1. Two or more NOT INCLUDING Health Care *(recruit 6)*
+    1. Two or more INCLUDING Health Care *(recruit 4)*
 
-
-### Primary criteria (must-haves)
-- At least 13 are Veterans
-- At least 3 are Veterans' caregivers
-- At least 2 are Veterans' family members
-- At least 2 are service members
+### Additional criteria--DISCUSS WHETHER WANT THESE
 - 3 have NO experience with ANY VA benefit OR experience with ONLY ONE VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 4 have experience with health care and optionally with other VA benefits *(see Additional Question #1 below)*
 - 10 people who plan to use their desktop or laptop computer for the session
 - 10 people who plan to use their mobile device for the session 
-- At least 7 people with a cognitive disability (e.g., TBI)
-- At least 7 people who are age 55 or older
-- At least 5 people 35 or under
-- At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
 - At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
+
 - ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-### Secondary criteria (nice-to-haves)
-- At least 6 people of color
-- At least 4 women
-- At least 4 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
-- At least 4 people who live in a rural or remote area
-
-### Additional questions to ask in the screener
-1. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
-    1. Zero or one *(recruit 3)*
-    1. Two or more NOT INCLUDING Health Care *(recruit 6)*
-    1. Two or more INCLUDING Health Care *(recruit 4)*
-    
-1. Have you ever used the VA.gov website before?
-    1. No *(recruit 5)*
-    1. Yes
-    1. Not sure
-    
+ 
 
 ## Timeline
 
