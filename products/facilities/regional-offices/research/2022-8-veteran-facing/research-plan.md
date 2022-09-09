@@ -171,19 +171,17 @@ Recruit 20 clients through Perigean with a goal of interviewing 15
 
 #### Secondary criteria / Would like to have -
 
-At least one client from each Benefit Office [District](https://www.benefits.va.gov/benefits/offices.asp):
-* Northeast
-* Southeast
-* Continental
-* Pacific
-
-A sample across different **benefit types**
-* Burial claim: 2
-* Disability: 2
-* Education and career counseling: 2
-* Home Loan: 2
-
-At least one **caregiver or family member** 
+* At least one client from each Benefit Office [District](https://www.benefits.va.gov/benefits/offices.asp):
+  * Northeast
+  * Southeast
+  * Continental
+  * Pacific
+* A sample across different **benefit types**
+  * Burial claim: 2
+  * Disability: 2
+  * Education and career counseling: 2
+  * Home Loan: 2
+* At least one **caregiver or family member** 
 
 Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy): 
 
