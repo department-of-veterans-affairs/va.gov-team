@@ -148,7 +148,7 @@ The following information is supported by **Lighthouse**:
 
 ## Frontend
 
-What information do we need here?
+- [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
 
 ## Design 
 
