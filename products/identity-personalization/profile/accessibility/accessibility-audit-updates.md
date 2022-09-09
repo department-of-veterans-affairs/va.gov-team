@@ -84,7 +84,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - **Recommendations:**
 	- Maybe instead of Continue and Cancel, the modal could be Are you Sure? with Yes/No buttons
 - On the other hand, as is might be better for those with cognitive disabilities
-- **Next steps:** Create ticket, collaborate with content folks on improving this.
+- **Next steps:** Create ticket [#46788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46788) collaborate with content folks on improving this.
 ---
 
 ### Issues that need more work
