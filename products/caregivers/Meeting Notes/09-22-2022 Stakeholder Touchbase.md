@@ -18,7 +18,7 @@
     - Will need to verify that we can still submit to their V1 endpoints
       - Can be tested in a lower environment
 - Tasks
-  - [ ] Create ticket for apostrophe issue
+  - [x] Create ticket for apostrophe issue
   - [ ] Disable content update for confirmation page
     - Re-enable on or around 09/22
   - [ ] Backwards compatibility test with Mulesoft team
