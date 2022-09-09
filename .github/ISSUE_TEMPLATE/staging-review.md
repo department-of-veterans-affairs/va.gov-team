@@ -30,7 +30,7 @@ This template is being deprecated. If your kickoff meeting took place after May 
 
 **VFS** 
 - [ ] Respond to Platform feedback tickets.
-- [ ] Please verify your product information in the Product Directory
+- [ ] Please verify your product information in the [Product Directory](https://vfs.atlassian.net/wiki/spaces/GS/pages/2294120662/VFS+Product+Directory)
 - [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
 - [ ] Update Staging Review ticket with the product’s launch date after it has gone live.
 - [ ] Close Staging Review ticket when the review is complete and the product has launched.
