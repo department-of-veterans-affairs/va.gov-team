@@ -16,14 +16,17 @@ We did a lot, including:
 
 ## Continuing and upcoming work for Q4 2022 
 
-### Project
+### Accessibility updates
 
-Description
+We will tackle the accessibility issues that have been piling up over the last couple of years, and set up the profile for further growth in a way that is accessibility-friendly.
 
 **Anticipated launch**: TBD
 
-### Project
+### Notifications preferences updates
 
-Description
+As we anticipate eventually needing to add the 1095B preference and the MyHealtheVet preferences in 2023, we are going to need to make the following changes to notification preferences to better support those updates:
+
+- Add the ability to detect default opt-in
+- Move to a read-only/edit model for preferences (note: we can talk about whether this is single-page editing or not) 
 
 **Anticipated launch**: TBD
