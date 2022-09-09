@@ -11,7 +11,7 @@
  ## Process for testing
  | | Task | Owner |Status|
  |----|----|----|----|
- |1.| Gather profile IDs of test subject and securely send to VA Notify| Samara | Completed - week of 9/5 |
+ |1.| Gather profile IDs of test subjects and securely send to VA Notify| Samara | Completed - week of 9/5 |
  |2.| Let VA Notify how many notifications to send to which test subjects | Angela |Completed - 9/9 |
  |3.| VA Notify tells us when they will be able to trigger those notifications| VA Notify/Melanie | |
  |4.| Reach out to test subjects to confirm their availablility and to relay the process for validation| Angela | |
