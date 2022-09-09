@@ -1,6 +1,6 @@
 # Onsite Notifications MVP - Internal Testing Plan
 
-## Goals:
+## Goals
  1. Confirm the feature is showing up as intended per feature flag and triggered notification
  2. Confirm the feature is working as intended
  
