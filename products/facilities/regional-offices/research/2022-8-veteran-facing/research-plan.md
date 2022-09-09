@@ -122,7 +122,7 @@ Remote, via Zoom. 
 
 ### Recruitment approach
 
-Recruit 15 clients through Perigean
+Recruit 20 clients through Perigean with a goal of interviewing 15
 
 #### Primary criteria / Must have - 
 
