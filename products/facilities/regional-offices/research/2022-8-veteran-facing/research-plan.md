@@ -75,7 +75,8 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
 
 1.  What benefit-related **tasks** do clients complete at Benefit Offices?
     *   Is visiting a Benefit Office necessary/sufficient to complete the task?
-    *   Do clients have preferred modalities for doing this task? If in-person/phone/online were all available, which would they choose?
+    *   Do clients have preferred modalities for doing this task? 
+        *   If in-person/phone/online were all available, which would they choose?
     *   Do clients' mental models of benefit tasks align to the actual processes?
 
 2.  What is the client experience of **visiting** a Benefit Office?
