@@ -95,12 +95,14 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
 - [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 - **Next steps:** Needs ticket + a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: More assessment/research needed
 
 
 #### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
 -   **Next steps:** Needs ticket + a11y defect level for prioritzation
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
 -   **Considerations:** What percentage of users end up going through this flow? Knowing this could help us prioritize.
 
 #### Name tag
@@ -111,10 +113,13 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1
 	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
 
 #### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **Next steps:** _Resolved?_
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
+	-   [Related TTY ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46195)
 
 
 #### Account Security
@@ -123,6 +128,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   **Recommendations:**
 	-   Angela: "You can put the email address change at the top under H1 under an H2 and then another that says completed tasks (H2) - or put the email part somewhere else and then get rid of the rest"
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
 
 #### In-line error message when editing in profile
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
@@ -130,12 +136,15 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   **Recommendations:**
 	-   Angela suggested that the best thing to do is to have a list of errors together
 -   **Next steps:** Determine where focus should go, get a11y defect level
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
+	-   *Additional suggestion*: If an error summary is available, place focus on the heading within this area. Otherwise, if an error summary is not available, place focus within the first error field. Be sure to include descriptive error messages for screen readers and other users to determine what needs to be corrected.
 
 #### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
 -   Can one-per-page editing help with any of the above concerns?
 -   Some research has been done by other teams
 -   **Next steps:** Create ticket to assess the above items.
+	-   *Shared Support - a11y defect level suggestion*: More assessment/research needed  
 
 ## Shared Support Accessibility Audit Summary - September 2022
 
