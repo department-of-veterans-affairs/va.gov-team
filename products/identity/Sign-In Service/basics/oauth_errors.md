@@ -58,45 +58,45 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 ### Access Token JWT Decoder
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Access token body does not match signature** | - | - |
-| 400 | **Access token has expired** | - | - |
-| 400 | **Access token JWT is malformed** | - | - |
+| 400 | **Access token body does not match signature** | The access token could not be verified | Clear cookies & cache, try again |
+| 400 | **Access token has expired** | The access token is no longer valid | Obtain a new access token through `/sign_in/refresh` or logging out and back in |
+| 400 | **Access token JWT is malformed** | The access token could not be parsed properly | Clear cookies & cache, try again |
   
 ### ACR Translator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Invalid ACR for `<csp>`** | - | - |
-| 400 | **InvalidType value** | - | - |
+| 400 | **Invalid ACR for `<csp>`** | The `acr` param is invalid for the CSP type  | Make sure `acr` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
+| 400 | **InvalidType value** | The `type` param is invalid | Make sure `type` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
 
 ### Credential Info Creator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Cannot save information for malformed credential** | - | - |
+| 400 | **Cannot save information for malformed credential** | The CSP token is malformed and cannot be saved by `vets-api` | Clear cookies & cache, try again |
 
 ### Credential Level Creator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Unsupported credential authorization levels** | - | - |
+| 400 | **Unsupported credential authorization levels** | The CSP returned an invalid authorization level | Clear cookies & cache, try again |
   
 ### Code Validator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Code is not valid** | The `code` provided is not valid | - |
-| 400 | **Code verifier is malformed** | - | - |
-| 400 | **Code verifier is not valid** | - | - |
-| 400 | **Grant Type is not valid** | - | - |
+| 400 | **Code is not valid** | The `code` param is not valid | Clear cookies & cache, try again - make sure the `code` param returned by vets-api at the end of the authentication is what is used to the `/token` call |
+| 400 | **Code verifier is malformed** | The `code_verifier` param is malformed | Clear cookies & cache, try again - make sure `code_verifier` is the same that was used to generate the `code_challenge` param for the [`/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md#authorize) call |
+| 400 | **Code verifier is not valid** | The `code_verifier` param is not valid | Clear cookies & cache, try again - make sure `code_verifier` is the same that was used to generate the `code_challenge` param for the [`/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md#authorize) call |
+| 400 | **Grant Type is not valid** | The `grant_type` param is not valid | Make sure `grant_type` is `authorization_code` - no other value is accepted |
 
 ### Refresh Token JWT Encryptor
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Refresh token is malformed** | - | - |
+| 400 | **Refresh token is malformed** | The `refresh_token` is missing necessary attributes | Clear cookies & cache, try again |
 
 ### Refresh Token JWT Decryptor
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Refresh token cannot be decrypted** | - | - |
-| 400 | **Refresh nonce is invalid** | - | - |
-| 400 | **Refresh token version is invalid** | - | - |
+| 400 | **Refresh token cannot be decrypted** | The `refresh_token` is unable to be decrypted | Clear cookies & cache, try again |
+| 400 | **Refresh nonce is invalid** | The `refresh_token`'s encrypted and unencrypted nonce values do not match | Clear cookies & cache, try again - token's `nonce` value must be unchanged |
+| 400 | **Refresh token version is invalid** | The `refresh_token`'s encrypted and unencrypted token version values do not match | Clear cookies & cache, try again - token's `version` value must be unchanged |
   
 ### Session Refresh
 | Status Code | Error | Description | Fix |
