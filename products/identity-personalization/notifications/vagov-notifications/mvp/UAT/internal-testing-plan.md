@@ -2,7 +2,7 @@
 
 ## Goals
  1. Confirm the feature is showing up as intended per feature flag and triggered notification
- 2. Confirm the feature is working as intended
+ 2. Confirm the feature is working as intended (ordering by date for multiple notifications, link functionality, dismiss functionality)
  
  ## How will we test?
  1. Testing with 5 internal users on desktop and mobile
