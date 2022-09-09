@@ -16,6 +16,7 @@ MVP Targeting Fall/Winter 2022
 - [Travel Reimbursement Findings from Interview with VA Bay Pines Healthcare System ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/bay-pines-interview-notes.md)<br>
 - [Research Synthesis from Bay Pines (Mural)](https://app.mural.co/t/vfscie8528/m/agilesixapplications0942/1656596645401/9bd88630ea05258119a5fa523233b1979a996531?sender=u83bc52d7fa73658f84f27755)<br>
 - [Travel Reimbursement Findings from Interview with VA Texas Valley Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/tx-valley-interview-notes.md)
+- [Travel Reimbursement Veteran Remote Study Synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661533294973/772d372cc95132227efcf5b3391ed1a02e41e7df?sender=u83bc52d7fa73658f84f27755)
 
 ### Design Artifacts
 - [Initial user flow options (Sketch)](https://www.sketch.com/s/42a478e7-cb38-49e5-9500-9b21182873da/a/dlAA519)
