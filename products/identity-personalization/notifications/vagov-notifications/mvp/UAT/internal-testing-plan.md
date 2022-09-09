@@ -26,5 +26,5 @@
 _Angela will share these instructions with the test subjects  as part of step 4 above._
 1. Confirm you see the notification(s) on desktop and mobile
 2. Confirm the link within the notification(s) naviagtes you to the combined debt portal on desktop and mobile
-3. Send screenshots from both desktop and mobile to Angela (example will be provided)
+3. Send screenshots from both desktop and mobile to Angela (example of what she needs will be provided)
 4. After completing all validation steps, confirm you are able to dismiss the notification(s)
