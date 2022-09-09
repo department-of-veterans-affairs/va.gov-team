@@ -232,10 +232,14 @@ Fri, Sept 30  | 10-12p, 1-5p | 6
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Dave Pickett, dave.pickett@civicactions.com, +1 312-833-1813
+*   Moderator: Dave Pickett, <dave.pickett@civicactions.com>, +1 312-833-1813
 *   Research guide writing and task development: Aslan French, Dave Pickett
 *   Participant recruiting & screening: Perigean
-*   Project point of contact: David Shannon, David.Shannon@agile6.com
-*   Participant(s) for pilot test: Max or Christian?
+*   Project point of contact: David Shannon, <David.Shannon@agile6.com>
+*   Participant(s) for pilot test: Christian Burk, <christian.burk@civicactions.com>
 *   Note-takers: Perigean
-*   Observers: Val Runde?
+*   Observers:
+    *   Dave Conlon <david.conlon@va.gov> 
+    *   David Shannon <David.Shannon@agile6.com>
+    *   Roger Eagans <roger.eagans@agile6.com>
+    *   Possibly VBA representatives (Tanekwa and Kenayana)
