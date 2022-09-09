@@ -18,6 +18,7 @@ Users can sign in on [VA.gov](http://va.gov/) using one of three Identity Provid
 1. **DS Logon**
 2. **My HealtheVet**
 3. **[ID.me](http://id.me/)**
+4. **Login.gov**
 
 Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov](http://va.gov/) page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the [VA.gov](http://va.gov/) Microsoft Dynamics instance.
 
