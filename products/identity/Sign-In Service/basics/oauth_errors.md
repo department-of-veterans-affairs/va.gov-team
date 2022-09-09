@@ -101,42 +101,41 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 ### Session Refresh
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Anti CSRF token is not valid** | - | - |
-| 400 | **No valid Session found** | - | - |
-| 400 | **Token theft detected** | - | - |
+| 400 | **Anti CSRF token is not valid** | The `anti_csrf_token` does not match the stored value in the `refresh_token` | Clear cookies & cache, try again |
+| 400 | **No valid Session found** | No valid session was found with the information in the provided `refresh_token` | Clear cookies & cache, try again |
+| 400 | **Token theft detected** | The `refresh_token` does not match the values stored in the session | Clear cookies & cache, try again - ensure the `refresh_token` cookie is not manipulated |
 
 ### State Payload JWT Encoder
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Attributes are not valid** | - | - |
-| 400 | **Code Challenge is not valid** | - | - |
-| 400 | **Code Challenge Method is not valid** | - | - |
+| 400 | **Attributes are not valid** | One or more attributes for the `/authorize` call are invalid | Review the [/authorize](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) endpoint parameters, try again |
+| 400 | **Code Challenge is not valid** | `code_challenge` param is invalid | Make sure `code_challenge` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
+| 400 | **Code Challenge Method is not valid** | `code_challenge_method` is invalid | `code_challenge_method` must be `S256` |
 
 ### State Payload JWT Decoder
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **State JWT body does not match signature** | - | - |
-| 400 | **State JWT is malformed** | - | - |
+| 400 | **State JWT body does not match signature** | The `state` JWT passed back by the CSP has a signature mismatch | Clear cache & cookies, try again |
+| 400 | **State JWT is malformed** | The `state` JWT passed back by the CSP is unable to be decoded | Clear cache & cookies, try again |
 
 ### Token Serializer
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Client id is not valid** | - | - |
+| 400 | **Client id is not valid** | The session's `client_id` is not parsable by the token serializer | Clear cache & cookies, try again |
 
 ### User Creator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Death Flag Detected** | - | - |
-| 400 | **Theft Flag Detected** | - | - |
-| 400 | **User Attributes are Malformed** | - | - |
-| 400 | **User MPI record cannot be created** | - | - |
+| 400 | **Death Flag Detected** | User's MPI account has a death flag | Contact helpdesk to resolve account status |
+| 400 | **Theft Flag Detected** | User's MPI account has a theft flag | Contact helpdesk to resolve account status |
+| 400 | **User Attributes are Malformed** | A `UserVerification` for the user cannot be created or found due to malformed user attributes | Clear cache & cookies, try again, contact helpdesk to resolve user attribute issues if error persists |
+| 400 | **User MPI record cannot be created** | The MPI service call to create a new record for the user failed | Wait for potential MPI issues to be resolved, try again later |
+| 400 | **User MPI record cannot be updated** | The MPI service call to update the user's record failed | Wait for potential MPI issues to be resolved, try again later |
 
 ### User Loader
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Invalid Session Handle** | - | - |
+| 400 | **Invalid Session Handle** | An active session with the `access_token`'s `sesion_handle` could not be found | Clear cache & cookies, try again |
 | 400 | **Invalid User UUID** | - | - |
-
-
 
 </details>
