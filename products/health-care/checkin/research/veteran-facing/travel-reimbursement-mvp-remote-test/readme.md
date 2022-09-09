@@ -8,6 +8,7 @@ Date(s): August 15-23, 2022
 [User flow options (Sketch)](https://www.sketch.com/s/42a478e7-cb38-49e5-9500-9b21182873da/a/dlAA519)<br>
 [User flow diagrams for prototypes (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)<br>
 [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/session-notes)<br>
+[Veteran Participant Responses Table (Google Sheets)](https://docs.google.com/spreadsheets/d/1wNJzjE5AoIynZ_1HGKvCB-1LEgvaNQvwiBc50Hsn51w/edit?usp=sharing)<br>
 [Research Synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661533294973/772d372cc95132227efcf5b3391ed1a02e41e7df?sender=u83bc52d7fa73658f84f27755)
 
 #### Prototypes
