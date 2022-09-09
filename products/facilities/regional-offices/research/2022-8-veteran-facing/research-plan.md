@@ -75,8 +75,7 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
 
 1.  What benefit-related **tasks** do clients complete at Benefit Offices?
     *   Is visiting a Benefit Office necessary/sufficient to complete the task?
-    *   Do clients have a preference for doing this task in-person (if other options are available)?
-    *   Are there tasks Veterans/beneficiaries would prefer to accomplish online if that service is currently only available via other means?
+    *   Do clients have preferred modalities for doing this task? If in-person/phone/online were all available, which would they choose?
     *   Do clients' mental models of benefit tasks align to the actual processes?
 
 2.  What is the client experience of **visiting** a Benefit Office?
@@ -103,20 +102,20 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
 
 ### Hypotheses
 
-1.  What benefit-related **tasks** do clients complete at Benefit Offices? - **Will vary by benefit type**
-    *   Is visiting a Benefit Office necessary/sufficient to complete the task? - **Will vary by benefit type**
-    *   Do clients have a preference for doing this task in-person (if other options are available)? - **Will vary by client demographics**
-    *   Do clients' mental models of benefit tasks align to the actual processes? - **Yes**
+1.  What benefit-related **tasks** do clients complete at Benefit Offices? 
+    * We expect high variance by facility type and benefit service
+    * We expect moderate variance by client demographics
+    * We expect little to no variance by geography
 
-2.  What is the client experience of **visiting** a Benefit Office? - **Clients have a positive, helpful experiences at Benefit Officess** 
-    *   How do clients travel to Benefit Offices? - **A mix of car & public transit**
-    *   How do clients find their way to Benefit Offices within multipurpose buildings? **Clear signage guides clients within buildings** 
-    *   What is the check-in experience at Benefit Offices? **Clients are able to check in with ease**
+2.  What is the client experience of **visiting** a Benefit Office? - 
+    * We expect high variance by facility type and geography
+    * We expect moderate variance by benefit service
+    * We expect little to no variance by client demographics
 
-3.  What information do clients need when **preparing** for a visit? - **Clients are able to find all the information they need via VA.gov**
-    *   What are the tasks that clients need to complete online before a visit? **Make an appointment & Ask VA**
-    *   What are the questions clients want answered by calling Benefit Office phone number(s)? **Will vary by benefit type**
-    *   Do clients need to understand the different types of Benefit Offices and the relationships between them? **No**
+3.  What information do clients need when **preparing** for a visit? 
+    * We expect high variance by facility type and benefit service
+    * We expect moderate variance by client demographics
+    * We expect little to no variance by geography
 
 ## Method
 
