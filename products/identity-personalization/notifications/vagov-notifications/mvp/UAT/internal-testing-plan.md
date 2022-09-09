@@ -10,9 +10,9 @@
  
  ## Process for testing
  | | Task | Owner |Status|
- |----|----|----|
+ |----|----|----|----|
  |1.| Gather profile IDs of test subject and securely send to VA Notify| Samara | Completed - week of 9/5 |
- |2.| Let VA Notify how many notifications to send to which test subjects | Angela |Completed - 9/9  |
+ |2.| Let VA Notify how many notifications to send to which test subjects | Angela |Completed - 9/9 |
  |3.| VA Notify tells us when they will be able to trigger those notifications| VA Notify/Melanie | |
  |4.| Reach out to test subjects to confirm their availablility and to relay the process for validation| Angela | |
  |5.| When test users confirm their availability Angela then turns feature on for them in production via feature flipper| Angela | |
