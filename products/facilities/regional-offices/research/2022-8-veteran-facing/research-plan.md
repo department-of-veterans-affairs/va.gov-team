@@ -10,7 +10,7 @@
 
 ## Background
 
-Benefit Offices provide clients (Veterans, service members, family members, caregivers, etc.) access to non-medical benefits. This can include things like:
+Veteran Benefits Administration offices (Benefit Offices) provide clients (Veterans, service members, family members, caregivers, etc.) access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
@@ -76,20 +76,32 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
 1.  What benefit-related **tasks** do clients complete at Benefit Offices?
     *   Is visiting a Benefit Office necessary/sufficient to complete the task?
     *   Do clients have a preference for doing this task in-person (if other options are available)?
+    *   Are there tasks Veterans/beneficiaries would prefer to accomplish online if that service is currently only available via other means?
     *   Do clients' mental models of benefit tasks align to the actual processes?
 
 2.  What is the client experience of **visiting** a Benefit Office?
     *   How do clients travel to Benefit Offices?
-    *   How do clients find their way to Benefit Offices within multipurpose buildings?
-    *   What is the check-in experience at Benefit Offices?
-
+    *   How do clients find their way to appointments within Benefit Office buildings?
+    *   What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
+  
 3.  What information do clients need when **preparing** for a visit?
-    *   What are the tasks that clients need to complete online before a visit?
-    *   What are the questions clients want answered by calling Benefit Office phone number(s)?
-    *   Do clients need to understand the different types of Benefit Offices and the relationships between them?
+    *   How do clients prepare for their visits? 
+        *   What tasks do they complete? (i.e. directions, paperwork)
+        *   What modalities do they use? (i.e. web, phone)
+    *   Do clients feel prepared before their visits?
+        *   Are they actually prepared?
+        *   Retrospectively, what would they have needed to be prepared?
+    *   Do clients understand the different types of Benefit Offices?
+        *   If yes, do clients understand the relationships between Benefit Offices?
+        *   Are these relationships important to clients?
+
+4. To what extent do the answers to questions 1-3 **vary** by:
+   *   Facility type? 
+   *   Benefit service?
+   *   Geography?
+   *   Client demographics?
 
 ### Hypotheses
-
 
 1.  What benefit-related **tasks** do clients complete at Benefit Offices? - **Will vary by benefit type**
     *   Is visiting a Benefit Office necessary/sufficient to complete the task? - **Will vary by benefit type**
