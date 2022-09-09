@@ -56,11 +56,11 @@
 |Launch % |Desired Date | Actual Date | 
 |-------|-----------|-----------|
 | Launch to 25% | 08/29/2022 | 08/29/2022 |
-| Launch to 50% | 09/06/2022 | mm/dd/yyyy |
+| Launch to 50% | 09/06/2022 | 09/06/2022 |
 | Launch to 100% | 09/12/2022 | mm/dd/yyyy |
 
 
-### 1-week results:
+### 1-week results (at 100%):
 - **Number of unique users:**
      - ...
 - **Any issues with VA handling/processing?**
@@ -72,7 +72,7 @@
 - **If yes, what:** 
      - ...
 
-### 1-month results:
+### 1-month results (at 100%):
 - **Number of unique users:**
      - ...
 - **Any issues with VA handling/processing?**
