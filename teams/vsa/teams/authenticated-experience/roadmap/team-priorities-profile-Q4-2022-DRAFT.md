@@ -18,6 +18,8 @@ We did a lot, including:
 
 ### Accessibility updates
 
+**Still need to define specifics, as some of these might be larger projects**
+
 We will tackle the accessibility issues that have been piling up over the last couple of years, and set up the profile for further growth in a way that is accessibility-friendly.
 
 **Anticipated launch**: TBD
@@ -30,3 +32,7 @@ As we anticipate eventually needing to add the 1095B preference and the MyHealth
 - Move to a read-only/edit model for preferences (note: we can talk about whether this is single-page editing or not) 
 
 **Anticipated launch**: TBD
+
+### Potential ideas
+
+- Holistic/overview research on the profile, what works well, and what is missing
