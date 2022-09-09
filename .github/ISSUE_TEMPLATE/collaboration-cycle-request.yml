@@ -22,7 +22,12 @@ body:
   - type: markdown
     attributes:
       value: "## VFS product information"
-      - label: If your product is already on VA.gov, please verify your product information in the [Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory).
+  - type: checkbox
+    id: verify-directory
+    attributes:
+      label: If your product is already on VA.gov, please verify your product information in the [Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory).
+      options:
+        - label: The product information in the Product Directory is accurate.
           required: true
   - type: input
     id: product-team
