@@ -78,10 +78,9 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI))
 - User flows
-- Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
      - [va.gov/health-care/apply/application/introduction](https://staging.va.gov/health-care/apply/application/introduction)
-- Use cases
+- [Use cases]([https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Self-identifying-Gender-Identity.md))
 - Finalized design prototype or mockup
      - [Birth Sex sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/pa70avR)
      - [Gender sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/VrVyr37)
