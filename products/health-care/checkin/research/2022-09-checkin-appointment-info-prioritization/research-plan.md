@@ -59,7 +59,7 @@ Check-in has expanded our access to more appointment data, which we can display 
 
 The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in experience. 
 
-The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
+The mobile app and VAOS teams have looked into similar topics. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
 
 ### Outcome
 Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in. Then, we can plan further work to iterate on the current experiences.
