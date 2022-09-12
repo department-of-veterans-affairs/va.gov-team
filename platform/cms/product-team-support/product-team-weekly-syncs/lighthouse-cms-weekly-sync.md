@@ -40,15 +40,14 @@
 * Mental Health
   * Dave C generate reports
   * Mutliple phone numbers https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10332
+  * Can LH team deliver report of Mental Health numbers in LH right now. Can crosswalk with what we have in Drupal 
+  * AI: Joshua will own, Mental Health Primary from the Office of Mental Health CDW table 
 * CMS article documentation
   * CM piece - discuss with JHL - commmunicating impact of v1
   * LH can begin documenting the reason why there are differences 
   * Facilities team/CMS team take the  lead on working with editors on how we explain
-  *
-
-
-
- 
+  * Opportunity here to discuss how to leverage this into communication with the Field in general (CMO's at each faclity) this is important and here's why
+  * David to get current idea of KB's, set up meeting with LH Josh and Joe - in context of rough draft of what LH would author, and emphisising the WHY.
 
 ## Monday, August 29, 2022
 
