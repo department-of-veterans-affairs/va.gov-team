@@ -126,7 +126,7 @@ _Start recording._
 
 * That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
 * We've still got a few more minutes, if any of the observers would like to ask a follow up question, please unmute now.
-[Observer questions]
+* [Observer questions]
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
