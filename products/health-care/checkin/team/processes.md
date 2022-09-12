@@ -135,9 +135,9 @@
     
 ## Notifications of Releases & Updates to Planned Releases
 - Notification message for updates to Planned Releases
-    - "Modernized Check-in team has updated their Planned Releases." (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
+    - "Modernized Check-in team has updated their Planned Releases. <include info for new/updated Planned Releases>" (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
 - Notification message for production releases
-    - "Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here."
+    - "Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here. <copy release notes here>"
         - Include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
