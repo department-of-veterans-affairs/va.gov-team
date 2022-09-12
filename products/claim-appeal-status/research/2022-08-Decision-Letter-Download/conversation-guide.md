@@ -78,6 +78,7 @@ Imagine you have a disability claim that you've been waiting to hear back about.
 -  [Notification Letters page] Tell me what you see here.
 -  If you clicked the Download link, what would you expect to see? 
 -  [After clicking link] Is this what you were expecting?
+-  [After clickig into letter PDF] Tell me what you see here. 
 
 Post-task questions:
 - What do you think of this experience overall, on a scale of 1 (least helpful) to 5 (most helpful)?
