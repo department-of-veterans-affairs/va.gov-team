@@ -49,4 +49,6 @@ The team implemented an event tag on the Discharge Date field within the 10-10EZ
 |Event|1 Month of Data (Aug 8-Sep 8)|2 Months of Data|3 Months of Data|
 |--------------------|-------------------|--------------|---------------|
 |Future Discharge Date on submitted applications| 1,059 | TBD | TBD |
+|Total successfully submitted applications| 11,860 | TBD | TBD |
+|Percentage of Future Discharge dates| 8.93% | TBD | TBD |
 
