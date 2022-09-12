@@ -57,6 +57,8 @@ There is no singular backend that supports this section. Largely, this section i
 
 ### How to Access and Test
 
+[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+
 ## Frontend
 
 Depending on what service someone has used to sign in, we dynamically change the link we show under the "Sign-in email address" section. We point them to whatever service they are currently signed in with (eg. so if they sign in with ID.me, the link takes them to ID.me).
