@@ -21,6 +21,10 @@
   * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
   * Jay sent on Friday, LH team needs to do some adjustment
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
+  * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, changes made locally, once that is out we will be able to test again
+  * Jay sent 4 services, only one got ingested 
+    * Can LH solve it on their end - start here, Josh hoping this will be implented tomorrow  _"Audiology and Speech" -> "audiology"_
+    * If not, will ask Facility team 
 * Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
 * Sync CMS data to sandbox  
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
