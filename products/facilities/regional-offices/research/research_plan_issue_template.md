@@ -30,8 +30,6 @@ Suggested workflow:
 - [ ] Convert docs to MS Word for PO review
 - [ ] Convert into markdown files for Research Review cycle
 
-I need to Add links to platform's research plan and conversation guide
-
 ## Acceptance Criteria
 - [ ] Artifacts sent to PO 24 hours in advance of meeting
 - [ ] PO has reviewed draft plans (in 1-hour working meeting)
