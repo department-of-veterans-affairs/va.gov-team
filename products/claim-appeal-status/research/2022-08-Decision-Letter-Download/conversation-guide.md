@@ -65,6 +65,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **Note:** Half of the participants will start with "First task," and the other half will start with "Second task." The goal of this is to test if there is a difference in behavior between Veterans who know there is a decision and Veterans who don't know if there is a decision.
 
+**[SHARE PROTOTYPE WITH PARTICIPANT]**
 
 ## First Task: Checking on claim status - 15 minutes
 
