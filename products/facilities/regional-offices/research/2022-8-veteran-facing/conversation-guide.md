@@ -38,11 +38,11 @@ _Start recording._
 * **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
 
-## Warm-up Questions
+## Warm-up Questions - 2 min
 
 *  Can you tell me briefly about your service history?
 
-## Baseline Questions
+## Baseline Questions - 3 min
 
 * In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a [Answer to Screener Question #1 - type of facility], is that correct?
 * In your own words, could you briefly describe the reason for your visit to that office?
@@ -50,7 +50,7 @@ _Start recording._
    *  [This should line up with answer to screener question #2. If not, ask follow up.]
    *  On the survey, you also listed [answer to screener question #2 - benefit type], could you tell me about that?
 
-## Benefit Task Questions
+## Benefit Task Questions - 8 min
 
 * Okay, for this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
   * [If multiple benefits were indicated in baseline questions, focus on one benefit type at a time]
@@ -69,7 +69,7 @@ _Start recording._
 * Is there anything else about this task or this benefit you want to share?
 * [Repeat questions if there are multiple tasks or benefits]
 
-## Visiting Questions
+## Visiting Questions - 8 min
 
 * Okay, now we're going to talk specifically about the day you visited the benefit office. 
 * Where is this office located?
@@ -85,7 +85,7 @@ _Start recording._
 * Was there any information you wish you had \on that day\ that would have made your visit easier?
   * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
 
-## Preparing for the Visit Questions
+## Preparing for the Visit Questions - 8 min
 
 * Now we're going to talk about the steps you took to prepare yourself for visiting the office.
 * Thinking back to when you first learned about this benefit office, what sources did you consult to get ready for your visit?
@@ -106,7 +106,7 @@ _Start recording._
     * [Again, might be a place to use "Imagine I'm a vet..." phrasing]    
 * Anything else you'd like to share about your experience? 
 
-## General Benefit Office Questions
+## General Benefit Office Questions - 5 min
 
 * For this last section, I'm going to ask you some general questions about VA benefit offices. There are no right or wrong answers, I'm just interested in your perspective.
 * In your words, how are VA benefit offices, like the one you talked about today, different from other VA locations such as VA medical clinics and Vet Centers?
@@ -122,7 +122,7 @@ _Start recording._
 * Are you involved in any Veteran Service Organizations (VSOs)?
   * If you wanted to learn more about VSOs in your area, where would you look?
 
-## Thank-You and Closing
+## Thank-You and Closing - 3 min
 
 * That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
 * We've still got a few more minutes, if any of the observers would like to ask a follow up question, please unmute now.
@@ -134,4 +134,4 @@ Thank you again, and I hope you enjoy the rest of your day.
 
 ## Emergency Exit
 
-\[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.\]
+* Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
