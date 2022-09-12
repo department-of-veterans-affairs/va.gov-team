@@ -41,8 +41,8 @@
             - check-in-experience-metrics-create.md            
             - check-in-experience-metrics-monitor.md
         - RESEARCH
-            - check-in-experience-research-assets-task.md
-            - check-in-experience-research-plan-and-convo-guide-task.md
+            - check-in-experience-research-research-plan-task.md
+            - check-in-experience-research-convo-guide-task.md
             - check-in-experience-research-interview.md
             - check-in-experience-research-conduct-study.md
             - check-in-experience-research-remote-study.md
