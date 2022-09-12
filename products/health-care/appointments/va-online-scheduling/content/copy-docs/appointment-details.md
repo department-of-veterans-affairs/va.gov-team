@@ -38,12 +38,7 @@ VA appointment
 {Facility address}
 Directions
 
-```diff
-- Main phone: {phone number}
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
-
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -96,8 +91,7 @@ VA appointment
 {Facility address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -149,8 +143,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -197,8 +190,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -241,8 +233,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -281,8 +272,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -331,8 +321,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -373,8 +362,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
@@ -546,8 +534,7 @@ You must join this meeting from this VA location:
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -599,8 +586,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -645,8 +631,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -697,7 +682,7 @@ Need to make changes?
 Contact this facility if you need to reschedule or cancel your appointment:
 
 {Facility name}
-Main phone: {phone number}
+Main phone: {phone number} (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
@@ -823,7 +808,7 @@ Need to make changes?
 Contact this facility if you need to reschedule or cancel your appointment:
 
 {Facility name}
-Main phone: {phone number}
+Main phone: {phone number} (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
@@ -937,8 +922,7 @@ Someone from your VA facility will call you at your phone number on file at the 
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -988,8 +972,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -1035,8 +1018,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -1170,8 +1152,7 @@ Community care
 {Provider address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1221,8 +1202,7 @@ Community care
 {Provider address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1264,8 +1244,7 @@ Community care
 {Provider address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1333,8 +1312,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -1387,8 +1365,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -1436,8 +1413,7 @@ VA appointment
 {Facility address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
