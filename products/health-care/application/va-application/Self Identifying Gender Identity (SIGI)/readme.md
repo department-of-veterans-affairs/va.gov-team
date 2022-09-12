@@ -44,7 +44,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 | KPI / Metric | Baseline: 0 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
 | Pct. Applications with Gender Identity | 0 | TBD | TBD
-
+| Number of Applications with Gender Identity | 0 | TBD | TBD
 
 ---
 
