@@ -18,13 +18,41 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | Notes | Reference | Last updated |
 | -------------- | --------------- | --------------- | --------------- |
-| VA debt | | |
-| benefit overpayments / benefit debt|  |  |
-| copays |  |  |
-| copay bills |  |  |
+| benefit overpayment / overpayment / overpayment debt| This is the term that we use for a debt related to a VA financial benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention if needed for clarity and "overpayment" for all subsequent mentions.   |  |
+| copay / copayment  |  |  |
+| copay bill |  |  |
+| debt |  |  |
+| payment |  |  |
+| payment history |  |  |
+
 
 ## Research findings
 
 Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
+
+### SEO and VA.gov search
+
+- Terms related to "debt" have the largest search volume
+ - Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
+   ![image](https://user-images.githubusercontent.com/62957278/189704973-8282e253-3931-43cc-864e-23e035010b6c.png)
+
+- Terms related to "overpayment" have some search volume
+  - Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
+  ![image](https://user-images.githubusercontent.com/62957278/189705393-67d7125f-76ac-47b0-9193-93e72459bc90.png)
+
+
+
+###
+How participants defined copays, debt, and bills:
+Copay:	Participants defined copays in relation to money owed for medical related expenses
+“A copay is when you’re paying whatever insurance doesn’t cover for service that you had.”
+Debt:	Participants defined debt as money owed, usually through overpayment from VA
+“Bill is something that is due now. Debt is money you owe, debt is something you owe from the past.”
+“Debt is an overpayment that I owe them back.”
+Bill:	Most participants defined bills as similar to debt, as money owed and many viewed it as a statement for money owed
+“Bills being a request for me to pay my liable for my debt to the VA.”
+More quotes and info:
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]va_debt_portal/research/usability-apr-2022/research-findings.md
+Let me know if you have any questions
 
 ## Other notes
