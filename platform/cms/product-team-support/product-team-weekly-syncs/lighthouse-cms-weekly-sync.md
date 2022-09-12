@@ -21,6 +21,7 @@
   * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
   * Jay sent on Friday, LH team needs to do some adjustment
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
+* Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
 * Sync CMS data to sandbox  
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
 * Mental Health
@@ -30,6 +31,7 @@
   * CM piece - discuss with JHL - commmunicating impact of v1
   * LH can begin documenting the reason why there are differences 
   * Facilities team/CMS team take the  lead on working with editors on how we explain
+  *
 
 
 
