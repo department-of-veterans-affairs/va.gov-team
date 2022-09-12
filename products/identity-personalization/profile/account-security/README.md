@@ -64,8 +64,8 @@ There is no singular backend that supports this section. Largely, this section i
 Depending on what service someone has used to sign in, we dynamically change the link we show under the "Sign-in email address" section. We point them to whatever service they are currently signed in with (eg. so if they sign in with ID.me, the link takes them to ID.me).
 
 ## Design and UX
-- Add Sketch files
-- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases)
+- [Account Security Sketch files](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
+- [Account Security Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases)
 
 ### Flow diagrams
-- Add a flow diagram if applicable. Otherwise, delete this section.
+- [High level flow diagram with screenshots](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/p/C518EEE8-2115-4CE4-B50A-5DD7E8410A18/canvas)
