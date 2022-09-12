@@ -14,8 +14,28 @@
 
 </details>
 
-## Monday, August 29, 2022
+## Monday, September 12, 2022
 
+
+* v1 deployt
+  * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
+  * Jay sent on Friday, LH team needs to do some adjustment
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
+* Sync CMS data to sandbox  
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
+* Mental Health
+  * Dave C generate reports
+  * Mutliple phone numbers https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10332
+* CMS article documentation
+  * CM piece - discuss with JHL - commmunicating impact of v1
+  * LH can begin documenting the reason why there are differences 
+  * Facilities team/CMS team take the  lead on working with editors on how we explain
+
+
+
+ 
+
+## Monday, August 29, 2022
 
 * Sync CMS data to sandbox  
  * Gathering full plan - sandbox data is a representation of production - the only caveat is that we dont have CMS data in Sandbox.. should that data be complete match?
@@ -64,9 +84,9 @@
   * CM piece - discuss with JHL -  commmunicating impact of v1 
   * HOw does an editor know that their change went through? ifthey see a problem, where would an editor go?
   * LH can begin documenting the reason why there are differences 
-  * Facilities team/CMS team take teh lead on working with editors on how we explain , 
-  * HOw can we reinforce .. VHA DM, lean into memo 
-  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're not contriubting to Facilites ecosystem and will be consumed by FL and other things, take langauge from LH team and build it into KB
+  * Facilities team/CMS team take the  lead on working with editors on how we explain , 
+  * How can we reinforce .. VHA DM, lean into memo 
+  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're now contriubting to Facilites ecosystem and your data will be consumed by FL and other things, take language from LH team and build it into KB
   * Facility team will let LH team know where this content will live 
 
 
