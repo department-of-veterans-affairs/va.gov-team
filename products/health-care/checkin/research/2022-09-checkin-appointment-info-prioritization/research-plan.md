@@ -124,13 +124,13 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***  |            |        |        |        |        |        |        |    9    |
 
 ## Timeline
-The survey will open on ? and should remain open for two weeks (Date?) or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
+The survey is currently open. It is ready as soon as Perigean is able to recruit participants. If possible, it will start no later than Sept. 19. It should remain open for two weeks past the first recruitment or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
 
 ### Prepare
-* The survey link has been tested by several people on Date?.
+* The survey link has been tested by several people (Ben Brasso, Lori Pusey, and Stephen Barrs).
 
 ### Length of sessions
-* Session length: 15 minutes
+* Session length: 10 minutes
 	
 ## Team Roles	
 * Research guide writing and task development: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
