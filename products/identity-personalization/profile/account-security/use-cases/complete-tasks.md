@@ -10,7 +10,7 @@
 - Clicking the link will lead the user through the process of 2-factor authentication.
 - A checkmark will appear once the user has completed this task. 
 - [Desktop mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/aWWp5P/a/3OYm1ew)
-- [Mobile mock-up, 2-factor authentication]([https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/eKL3852](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/4aAPxQJ))
+- [Mobile mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/eKL3852](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/4aAPxQJ))
 
 ### Terms and conditions
 - If someone has not agreed to terms and conditions, there will not be a checkmark next to the section. 
