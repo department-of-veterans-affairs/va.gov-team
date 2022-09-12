@@ -46,3 +46,4 @@
 | Second Booster info | 4/4 | 4/4 | 5/5 | 5/11 | 5/12 |
 | Additional doses info | | 5/12 | 5/31 | 
 | Novovax for 12 and older | 8/31 | 8/31 | 9/9 (Spanish) | 9/9 (Spanish)|
+| Updated boosters | 9/9 | 9/12 |
