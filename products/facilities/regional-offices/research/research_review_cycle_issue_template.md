@@ -8,19 +8,24 @@
 - [Research Readout & Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_readout_issue_template.md)
 
 # Template name: Research Review Cycle
-- **About:** Use this template when...
-- **Issue default title:** [PRODUCT/INITIATIVE] ...
+- **About:** Use this template when you have a research plan & conversation guide ready for review by other teams
+- **Issue default title:** Conduct [PRODUCT/INITIATIVE] Research Review Cycle
 - **Assignees** n/a
 - **Labels:** Research, Design
 - **Template content:** 
 
 ## Description
 
-Here are the steps to follow when setting up a new UX research process:
+- Veteran-facing research must go through Platform's [Research Review Cycle](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-2.Researchreview)
+- Editor-facing research must go through the [CMS Collaboration Cycle](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/1791459333/CMS+Collaboration+Cycle)
 
+Note: This step is a hard blocker for Veteran Participant Recruitment, but less so for Editor Participant Recruitment. 
 
 ## Acceptance Criteria
-- [ ] blah blah blah
+- [ ] Create the necessary tickets for the Review Cycle
+- [ ] Incorporate any feedback from the Review Cycle into the Research Plan and Conversation Guide
+- [ ] If there are significant alterations, consult your Product Manager or Product Owner
+- [ ] Once approved, move on to Participant Recruitment & Scheduling 
 
 ### CMS Team
 Please check the team(s) that will do this work.
