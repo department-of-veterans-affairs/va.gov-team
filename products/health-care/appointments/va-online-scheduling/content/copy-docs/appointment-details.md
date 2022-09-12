@@ -40,7 +40,8 @@ Directions
 
 ```diff
 - Main phone: {phone number}
-+ TTY: 711
+- TTY: 711
++ Main phone: {phone number} (TTY: 711)
 @@ GH45155 @@
 
 
