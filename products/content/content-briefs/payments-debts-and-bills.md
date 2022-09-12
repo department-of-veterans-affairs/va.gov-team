@@ -18,13 +18,14 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | Notes | Reference | Last updated |
 | -------------- | --------------- | --------------- | --------------- |
-| benefit overpayment / overpayment / overpayment debt| This is the term that we use for a debt related to a VA financial benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention if needed for clarity and "overpayment" for all subsequent mentions. |  |  |
-| copay / copayment |   |  |
-| copay bill |  |  |
-| debt |  |  |
-| outstanding debt | This is a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  |
-| payment | This is a payment that VA makes to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. |  |
-| payment history |  |  |
+| benefit overpayment / overpayment / overpayment debt| This is the term that we use for a debt related to a VA financial benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention if needed for clarity and "overpayment" for all subsequent mentions. |  | 9.12.22 |
+| copay / copayment | This is the term we use for the Veteran's health care copay. Not all Veterans have copays. |  |
+| copay bill |  | 9.12.22 |
+| debt | This is the overarching term we use for any money the Veteran owes to VA. "Debt" encompasses money owed for overpayments as well as copays.  |  | 9.12.22 |
+
+| outstanding debt | This is a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  | 9.12.22 |
+| payment | This is a payment that VA makes to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. |  | 9.12.22 |
+| payment history |  | 9.12.22 |
 
 ## Research findings
 
