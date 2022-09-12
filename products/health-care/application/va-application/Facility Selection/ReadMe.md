@@ -50,7 +50,7 @@
 * Update the current UI to be easier to use and understand.
 
 ### Risks
-* Applicantsa may not understand the reason for selecting a facility.
+* Applicants may not understand the reason for selecting a facility.
 * Applicants may not understand how to use the facility selector/search.
 * Applicants may be given too much information about facility, location, and so on and feel overwhelmed when making a decision.
 * API dependencies may cause unplanned outages, causing the facility selector page to be unresponsive,
