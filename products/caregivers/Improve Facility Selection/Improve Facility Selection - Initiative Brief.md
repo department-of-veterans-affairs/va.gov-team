@@ -72,7 +72,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: Make it easier for Veterans with representatives to fill out the online form
   - Key result: number of applications that are not misrouted or delayed **Where can we get this information??**
   - Key result: Facilities list is complete, accurate and up to date
-       - [JSON static file](https://docs.google.com/spreadsheets/d/1DafCzm4P4w5XnS6QqnPoWlFqrEqOekpDscgyT3Ntr8c/edit#gid=1158118984) contained 142 facilities
+       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/dist/caregiverProgramFacilities.json) contained 142 facilities
+       - Facilities API contains **NUMBER** facilities
   - 
   
 
