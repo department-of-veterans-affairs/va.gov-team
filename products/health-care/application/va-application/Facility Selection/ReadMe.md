@@ -38,7 +38,8 @@
 
 ### Objectives and Key Results
 * Objective: Make it easier for Veterans to apply for healthcare and select the facility that's correct for them.
-  * Key Result: TBD
+  - Key result: Facilities list is complete, accurate and up to date
+       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
 
 
 ---
