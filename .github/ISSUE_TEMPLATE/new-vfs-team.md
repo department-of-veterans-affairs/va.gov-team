@@ -58,7 +58,7 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] Ask all of your team members to complete the process
 
 ## Review and update your team's product information 
-- [ ] Go to the [VA Product Directory](https://vfs.atlassian.net/wiki/spaces/GS/pages/2294120662/VFS+Product+Directory)
+- [ ] Go to the [VA Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
 - [ ] Navigate to and select your team's product
 - [ ] Review to make sure that all of your team's products are listed and assigned correctly
 - [ ] If an edit to your team's product page needs to be made, see the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide)
