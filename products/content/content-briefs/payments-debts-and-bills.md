@@ -18,13 +18,13 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | Notes | Reference | Last updated |
 | -------------- | --------------- | --------------- | --------------- |
-| benefit overpayment / overpayment / overpayment debt| This is the term that we use for a debt related to a VA financial benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention if needed for clarity and "overpayment" for all subsequent mentions.   |  |
-| copay / copayment  |  |  |
+| benefit overpayment / overpayment / overpayment debt| This is the term that we use for a debt related to a VA financial benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention if needed for clarity and "overpayment" for all subsequent mentions. |  |  |
+| copay / copayment |   |  |
 | copay bill |  |  |
 | debt |  |  |
-| payment |  |  |
+| outstanding debt | This is a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  |
+| payment | This is a payment that VA makes to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. |  |
 | payment history |  |  |
-
 
 ## Research findings
 
@@ -35,6 +35,8 @@ Add content-related notes that came out of research that should inform the messa
 - Terms related to "debt" have the largest search volume
  - Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
    ![image](https://user-images.githubusercontent.com/62957278/189704973-8282e253-3931-43cc-864e-23e035010b6c.png)
+ - Top 20 organic search terms related to VA debt from SEMRush (9.12.2021 - 9.12.2022)
+ ![image](https://user-images.githubusercontent.com/62957278/189710073-5bee2e30-682e-42bd-bd8e-25f262548763.png)
 
 - Terms related to "overpayment" have some search volume
   - Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
