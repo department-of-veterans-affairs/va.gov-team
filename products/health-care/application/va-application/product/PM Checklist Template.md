@@ -88,6 +88,8 @@
      - [ ] Make any necessary tickets/changes for design
 - [ ] Create Use Cases
      - [ ] Identify test users
+- [ ] Create Release Plan
+     - [ ] Include E2E test results & signoff
 - [ ] Complete development
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
@@ -115,7 +117,7 @@
 - [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Update Contact Center guide
 - [ ] Submit Contact Center guide review ticket
-- [ ] Create Release Plan
+- [ ] Update Release Plan
      - [ ] Include E2E test results & signoff
 - [ ] Conduct Launch Go/No Go with the team
      - [ ] Review this checklist
