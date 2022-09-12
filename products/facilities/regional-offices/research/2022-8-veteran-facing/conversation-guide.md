@@ -47,7 +47,7 @@ _Start recording._
 * In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a [Answer to Screener Question #1 - type of facility], is that correct?
 * In your own words, could you briefly describe the reason for your visit to that office?
 * [Confirm benefit-related service(s)]Okay, so just to confirm, it sounds like this visit was related to [benefit type], correct? 
-   *  [This should line up with answer to screener question #2. If not ask follow up.]
+   *  [This should line up with answer to screener question #2. If not, ask follow up.]
    *  On the survey, you also listed [answer to screener question #2 - benefit type], could you tell me about that?
 
 ## Benefit Task Questions
@@ -81,43 +81,56 @@ _Start recording._
   * Did you speak with any employees? (e.g. receptionist)
   * Was there a waiting area of any kind?
   * How did you know when you were at the right place?
-* Was there any information you wish you had that day that would have made your visit easier?
+* Did you have a pre-scheduled appointment, or did you just walk-in?
+* Was there any information you wish you had \on that day\ that would have made your visit easier?
   * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
 
-## Preparing for the Visit
+## Preparing for the Visit Questions
 
+* Now we're going to talk about the steps you took to prepare yourself for visiting the office.
+* Thinking back to when you first learned about this benefit office, what sources did you consult to get ready for your visit?
+  * Did you talk to any VA employees? Other Veterans/beneficiaries?
+  * Did you call a phone number?
+  * Did you look at the website?
+* What information did you gather from these sources?
+  * Directions? Hours?
+  * Details about benefit services/tasks?    
+* When you were preparing for your visit, did you research multiple beenfit office locations?
+  * If so, what factors led you to pick one over another? 
+* What tasks did you complete before your appointment? 
+  * Making an appointment?
+  * Any paperwork forms?
+* Did you feel prepared for your visit?
+  * Were you actually prepared, or was there a surprise when you got to the office?
+  * What do you wish you had in advance of your visit, so you would have been prepared?
+    * [Again, might be a place to use "Imagine I'm a vet..." phrasing]    
+* Anything else you'd like to share about your experience? 
 
+## General Benefit Office Questions
 
+* For this last section, I'm going to ask you some general questions about VA benefit offices. There are no right or wrong answers, I'm just interested in your perspective.
+* In your words, how are VA benefit offices, like the one you talked about today, different from other VA locations such as VA medical clinics and Vet Centers?
+* I'm going to briefly list some different types of benefit offices. For each one I'd like you to tell me if you've heard of it and what it's for.
+  * Regional Benefit Office
+  * Satellite Benefit Office
+  * Integrated Disability Evaluation System Site      
+  * Pre-Discharge Site
+  * Veteran Readiness and Employment Office
+  * VetSuccess On Campus
+* Based on your understanding of these different offices types, are there any important connections between them?
+  * For example, have you ever been reffered from one office to another?
+* Are you involved in any Veteran Service Organizations (VSOs)?
+  * If you wanted to learn more about VSOs in your area, where would you look?
 
-## old questions
-(the following questions are sort of a scattershot that may diverge some from the script depending on the answers given by the participant)
+## Thank-You and Closing
 
-*   Do Veterans understand the different types of facilities?
+* That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
+* We've still got a few more minutes, if any of the observers would like to ask a follow up question, please unmute now.
+[Observer questions]
 
-*   How important is the child location relationship to the regional office for Veterans?
-*   What are the questions Veterans want answered by calling the phone number(s)?
-*   What else do Veterans need in order to be prepared for a visit?
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-*   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
-*   Do you know what kinds of facilities that the VA runs?
-*   What do they do?
-*   Which kinds have you used the most?
-*   What kinds of things do you use them for?
-*   What kinds of things do you wish you could use them for?
-
-
-*   Do you use facilities other than a regional office?
-*   Do you know what a child office is or do you ever use a child office?
-*   Why do you use a regional office versus a child office?
-*   What kind of information do you need from a regional office before visiting it?
-*   What kind of information have you found on the website when visiting a regional office?
-*   What had you wished you known before a visit to a facility once you got there?
-
-## Thank-You and Closing - X minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thank you so much again, and enjoy the rest of your day!
+Thank you again, and I hope you enjoy the rest of your day.
 
 ## Emergency Exit
 
