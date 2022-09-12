@@ -1,6 +1,11 @@
 # SPRINT GOALS
 
-## 9/7/2022 (FUTURE)
+## 9/7/2022 
+
+#### NOTE
+- Goals had to be adjusted after Sprint Planning because    
+    - We lost 2 team members
+    - Our contract changed and most team members lost VA access
 
 #### Planned Releases 
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
