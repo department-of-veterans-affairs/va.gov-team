@@ -19,7 +19,7 @@
 - Veteran-facing research must go through Platform's [Research Review Cycle](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-2.Researchreview)
 - Editor-facing research must go through the [CMS Collaboration Cycle](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/1791459333/CMS+Collaboration+Cycle)
 
-Note: This step is a hard blocker for Veteran Participant Recruitment, but less so for Editor Participant Recruitment. 
+Note: This step is a hard blocker for Veteran Recruitment, but less so for Editor Recruitment. 
 
 ## Acceptance Criteria
 - [ ] Create the necessary tickets for the Review Cycle
