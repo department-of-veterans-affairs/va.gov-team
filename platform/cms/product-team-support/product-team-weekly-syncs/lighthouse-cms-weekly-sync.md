@@ -19,11 +19,11 @@
 
 * v1 deploy
   * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
-  * Jay sent on Friday, LH team needs to do some adjustment
+  * Jay sent payload on Friday, LH team needs to do some adjustment around the key id value
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
-  * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, changes made locally, once that is out we will be able to test again
+  * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, LH made changes locally, once that is out we will be able to test again
   * Jay sent 4 services, only one got ingested 
-    * Can LH solve it on their end - start here, Josh hoping this will be implented tomorrow  _"Audiology and Speech" -> "audiology"_
+    * Can LH solve it on their end - start here, Josh hoping this will be implemented tomorrow  _"Audiology and Speech" -> "audiology"_
     * That ID is the unique key
     * Jay: Does that identifier map the service to the other sources of other systems
     * All sources are mapped to ServiceID - LH maps to internal ID 
@@ -32,16 +32,23 @@
     * (If not, will ask Facility team to change )
   * If all goes well, ready to send to production. 
   * How much lead time to push to sandbox? Jay will switch if necessary but can hop on it quickly.
-  * How long do we need for produciton?  Our module in Drupal - "Queue Everything" - quick within 30 mins - as fast as queue processor can work through everything.
+  * How long do we need for production?  Facilities has a modeule in Drupal - big button - "Queue Everything" - quick within 30 mins - as fast as queue processor can work through everything.
     * Confirmed no impact on content release 
 * Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
+ * Jay's goal to speak intelligently and prioritize for next meeting - what's ready, what needs work  
 * Sync CMS data to sandbox  
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
+  * What problems does current LH approach create? Looks like it won't solve Facility's needs
+  * Joshua - looking to have architect call this week with LH team, Steve, Jay
+  * Talking about making the entire data set synthetic - what lapses does that create? How to understand more deeply?
+  * Taking into account the future of Sandbox data, how it's going to live
 * Mental Health
   * Dave C generate reports
+    * Crosswalk ATC data and Facilities data - understand what impact might be if we start using ATC as source 
+    * Delivered REAL TIME   
   * Mutliple phone numbers https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10332
-  * Can LH team deliver report of Mental Health numbers in LH right now. Can crosswalk with what we have in Drupal 
-  * AI: Joshua will own, Mental Health Primary from the Office of Mental Health CDW table 
+    * Can LH team deliver report of Mental Health numbers in LH right now. Can crosswalk with what we have in Drupal 
+    * AI: Joshua will own, Mental Health Primary from the Office of Mental Health CDW table 
 * CMS article documentation
   * CM piece - discuss with JHL - commmunicating impact of v1
   * LH can begin documenting the reason why there are differences 
