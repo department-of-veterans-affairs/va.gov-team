@@ -24,7 +24,16 @@
   * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, changes made locally, once that is out we will be able to test again
   * Jay sent 4 services, only one got ingested 
     * Can LH solve it on their end - start here, Josh hoping this will be implented tomorrow  _"Audiology and Speech" -> "audiology"_
-    * If not, will ask Facility team 
+    * That ID is the unique key
+    * Jay: Does that identifier map the service to the other sources of other systems
+    * All sources are mapped to ServiceID - LH maps to internal ID 
+    * Display name vs key value for a service 
+    * Aiming for tomorrow-ish to retest 
+    * (If not, will ask Facility team to change )
+  * If all goes well, ready to send to production. 
+  * How much lead time to push to sandbox? Jay will switch if necessary but can hop on it quickly.
+  * How long do we need for produciton?  Our module in Drupal - "Queue Everything" - quick within 30 mins - as fast as queue processor can work through everything.
+    * Confirmed no impact on content release 
 * Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
 * Sync CMS data to sandbox  
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
