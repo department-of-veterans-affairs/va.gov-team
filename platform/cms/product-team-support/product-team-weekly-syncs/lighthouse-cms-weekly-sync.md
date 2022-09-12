@@ -17,7 +17,7 @@
 ## Monday, September 12, 2022
 
 
-* v1 deployt
+* v1 deploy
   * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
   * Jay sent on Friday, LH team needs to do some adjustment
   * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
