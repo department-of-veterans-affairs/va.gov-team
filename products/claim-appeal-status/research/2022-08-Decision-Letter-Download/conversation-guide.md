@@ -84,7 +84,7 @@ Post-task questions:
 - What do you think of this experience overall, on a scale of 1 (least helpful) to 5 (most helpful)?
 - Do you typically go online to review documents like this (bank statements, receipts, insurance claims?) Do you think having access to this document online is useful?
 - Do you think it's valuable to have access to these decision letters on VA.gov? Why or why not?
-- What else would you expect to see on this Notification Letters page? What other types of content in the future? 
+- What else would you expect to see on this (Claim letters) page?
 
 ### Things to watch for:
 
@@ -101,7 +101,7 @@ Post-task questions:
 ### Things to watch for:
 
 - [Where does the participant expect to find their decision letter?]
-- [Are they able to intuitively navigate to the Notification Letters page from the home page?]
+- [Are they able to intuitively navigate to the Claim Letters page from the home page?]
 
 ## Third Task: VA Benefit Letters Page - 15 minutes
 
