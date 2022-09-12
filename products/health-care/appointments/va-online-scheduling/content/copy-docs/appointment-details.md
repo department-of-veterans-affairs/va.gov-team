@@ -38,8 +38,11 @@ VA appointment
 {Facility address}
 Directions
 
-Main phone: {phone number}
-TTY: 711
+```diff
+- Main phone: {phone number}
++ TTY: 711
+@@ GH45155 @@
+
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -81,7 +84,7 @@ n/a
 **PAGE DESCRIPTION**
 
 ```
-+ {Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
+{Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
 ```
 
 **PAGE CONTENT**
