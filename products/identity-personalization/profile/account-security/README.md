@@ -65,7 +65,7 @@ Depending on what service someone has used to sign in, we dynamically change the
 
 ## Design and UX
 - Add Sketch files
-- Add use cases
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases)
 
 ### Flow diagrams
 - Add a flow diagram if applicable. Otherwise, delete this section.
