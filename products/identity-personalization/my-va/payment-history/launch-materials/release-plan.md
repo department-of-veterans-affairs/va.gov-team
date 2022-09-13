@@ -5,7 +5,7 @@ This initiative is commonly referred to as "payment info v2"
 
 ### Planning:
 - **UAT Go/No go:** Week of ___
-- Link to readiness checklist (doc tk)
+- [Link to readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-go-nogo.md))
 - **Desired date range or test duration:**
      - Week of mm/dd - mm/dd
 - **Desired number of users:** 
