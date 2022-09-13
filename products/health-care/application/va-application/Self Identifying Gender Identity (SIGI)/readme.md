@@ -73,8 +73,13 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ## Launch Planning
 
+### Incident Response Info
+- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions.  There are no changes to the form's performance, architecture, API enpoints or security.
+- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+
 ### Important Links
-- - [Project epic #25410](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/25410)
+- [Project epic #25410](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/25410)
 - [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI))
 - User flows
