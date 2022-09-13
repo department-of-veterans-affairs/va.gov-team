@@ -60,7 +60,7 @@ Before we start, a few things I want to mention:
 
 ## Preparing for the Visit Questions - 8 min
 
-* My first set of questions is about the steps you took to prepare yourself for visiting the office.
+My first set of questions is about the steps you took to prepare yourself for visiting the office.
 * How did you first learn about this office?
 * What sources did you consult to get ready for your visit?
   * Did you talk to any VA employees?
@@ -82,7 +82,7 @@ Before we start, a few things I want to mention:
 
 ## Visiting Questions - 8 min
 
-* Okay, now we're going to talk specifically about the day you visited the benefit office. 
+Okay, now we're going to talk specifically about the day you visited the benefit office. 
 * Where is this office located?
 * How did you travel to the office? 
 * Did anyone accompany you on the visit?
@@ -99,7 +99,7 @@ Before we start, a few things I want to mention:
 
 ## Benefit Task Questions - 8 min
 
-* Okay, for this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
+For this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
   * [If multiple benefits were indicated in baseline questions, focus on one benefit type at a time]
 * Imagine I am a Veteran/service member/caregiver who doesn't know anything about this benefit, and I came to you for advice about it. How would you describe it to me based on your experience?
   * [Potentially follow up prompts]
@@ -118,7 +118,7 @@ Before we start, a few things I want to mention:
 
 ## General Benefit Office Questions - 5 min
 
-* For this last section, I'm going to ask you some general questions about VA benefit offices. There are no right or wrong answers, I'm just interested in your perspective.
+For this last section, I'm going to ask you some general questions about VA benefit offices. There are no right or wrong answers, I'm just interested in your perspective.
 * In your words, how are VA benefit offices, like the one you talked about today, different from other VA locations such as VA medical clinics and Vet Centers?
 * I'm going to briefly list some different types of benefit offices. For each one I'd like you to tell me if you've heard of it and what it's for.
   * Regional Benefit Office
