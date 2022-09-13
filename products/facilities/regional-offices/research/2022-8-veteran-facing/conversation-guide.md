@@ -98,36 +98,34 @@ Okay, now we're going to talk specifically about the day you visited the benefit
 
 ## Benefit Task Questions - 8 min
 
-For this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
-  * [If multiple benefits were indicated in baseline questions, focus on one benefit type at a time]
-* Imagine I am a Veteran/service member/caregiver who doesn't know anything about this benefit, and I came to you for advice about it. How would you describe it to me based on your experience?
-  * [Potentially follow up prompts]
-  * What steps are involved in this process?
-  * How did you figure that out?
-  * Anything else I should watch out for?
-* Now to focus back on the part where you visited the benefit office. You said that you went there to do [specific task], correct?
-  * What prompted you to visit the office? (i.e. referral, websearch, etc.)
-  * Were you able to complete the task during the visit?
-    * Did you visit multiple offices?
-    * Did you have to visit the same office multiple times?
-  * Was there another way you could have completed the task?
-  * If you had the option of completing this task online/ by phone/ or in-person, what would your preference be?
-* Is there anything else about this task or this benefit you want to share?
-* [Repeat questions if there are multiple tasks or benefits]
+For this next part, we're going to talk about the **[benefit-related task]** you wanted to complete at the office.
+* Were you able to complete the task during the visit?
+  * Did you visit multiple offices?
+  * Did you have to visit the same office multiple times?
+* Was there another way you could have completed the task?
+* If you had the option of completing this task online / by phone / or in-person, what would your preferences be?
+  * Rank 1st, 2nd, 3rd  
+* Is there any information specific to this task/benefit that you wish you had before your visit?
+* [Repeat questions if there are multiple tasks or benefits] 
 
 ## General Benefit Office Questions - 5 min
 
 For this last section, I'm going to ask you some general questions about VA benefit offices. There are no right or wrong answers, I'm just interested in your perspective.
-* In your words, how are VA benefit offices, like the one you talked about today, different from other VA locations such as VA medical clinics and Vet Centers?
-* I'm going to briefly list some different types of benefit offices. For each one I'd like you to tell me if you've heard of it and what it's for.
-  * Regional Benefit Office
-  * Satellite Benefit Office
-  * Integrated Disability Evaluation System Site      
-  * Pre-Discharge Site
-  * Veteran Readiness and Employment Office
-  * VetSuccess On Campus
-* Based on your understanding of these different offices types, are there any important connections between them?
-  * For example, have you ever been reffered from one office to another?
+
+* In addition to the [benefit task] that brought you to this office, can you think of other reasons you or another Veteran might visit this location in the future? 
+  *  What other tasks might be completed here?
+* I'm going to share my screen and show you a list of benefit offices. [_Share screen_] **Can you see my screen?**
+* As we go through this list, for each office type I'd like you to tell me if you've heard of it before.
+  1. Regional Benefit Office
+  2. Satellite Benefit Office
+  3. Integrated Disability Evaluation System Site      
+  4. Pre-Discharge Site
+  5. Veteran Readiness and Employment Office
+  6. VetSuccess On Campus
+* *Follow up for each office type they know* In your words, what can Veterans do at this type of office?
+* If they indicate having heard of at least two types:
+  * Based on your understanding of these different offices types, are there any important connections between them?
+    * For example, have you ever been reffered from one office to another?
 * Are you involved in any Veteran Service Organizations (VSOs)?
   * If you wanted to learn more about VSOs in your area, where would you look?
 
@@ -143,4 +141,8 @@ Thank you again, and I hope you enjoy the rest of your day.
 
 ## Emergency Exit
 
-* Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+* Veteran is currently having issues with a RO or benefits issue
+  * I'm sorry to hear about that. Would it be okay if I had shared your information with my contact in the Benefits Administration so they can follow up and help resolve that for you?
+* Need to cut session short for unexpected reason
+  * We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
