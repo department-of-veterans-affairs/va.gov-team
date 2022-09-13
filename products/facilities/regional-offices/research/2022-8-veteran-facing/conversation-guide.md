@@ -71,7 +71,7 @@ My first set of questions is about the steps you took to prepare yourself for vi
 * What information did you gather from these sources?
   * Directions? Hours?
   * Details about benefit services/tasks?
-* When you were preparing for your visit, did you research multiple beenfit office locations?
+* When you were preparing, did you research any other benefit office locations?
   * If so, what factors led you to pick one over another? 
 * What tasks did you complete before your appointment? 
   * Making an appointment?
@@ -94,8 +94,7 @@ Okay, now we're going to talk specifically about the day you visited the benefit
   * Was there a waiting area of any kind?
   * How did you know when you were at the right place?
 * Did you have a pre-scheduled appointment, or did you just walk-in?
-* Was there any information you wish you had on that day that would have made your visit easier?
-  * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
+* Was there anything you wish you had on that day that would have made your visit easier?
 
 ## Benefit Task Questions - 8 min
 
