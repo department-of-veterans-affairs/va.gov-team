@@ -193,7 +193,6 @@ Recruit 20 clients through Perigean with a goal of interviewing 15
   * Disability: 2
   * Education and career counseling: 2
   * Home Loan: 2
-  * Other: 2
 * At least one **caregiver or family member** 
 
 Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy): 
