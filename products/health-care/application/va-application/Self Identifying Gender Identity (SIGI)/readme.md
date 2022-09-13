@@ -80,9 +80,10 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - User flows
 - Product URL(s)
      - [va.gov/health-care/apply/application/introduction](https://staging.va.gov/health-care/apply/application/introduction)
-- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Self-identifying-Gender-Identity.md)
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Self-identifying-Gender-Identity.md)
 - Finalized design prototype or mockup
      - [Birth Sex sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/pa70avR)
+          - This design was not implemented
      - [Gender sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/VrVyr37)
 - Content brief
 - Regression test plans
