@@ -17,7 +17,7 @@
 
 *   In the Attendees section, make sure everyone except the participant is on mute.
 *   In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-*   Check your \[screensharing setup\] and share permissions for participants.
+*   Check your [screensharing setup] and share permissions for participants.
 *   When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
@@ -28,7 +28,7 @@ I have a colleague with us in this session who will be taking notes.
 
 There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
 
-* (\If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session."\)
+* (If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")
 
 Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans', service member's, and caregivers' experiences with Benefit Offices.
 
