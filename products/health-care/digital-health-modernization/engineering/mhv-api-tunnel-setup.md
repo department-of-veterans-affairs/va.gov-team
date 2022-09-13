@@ -60,5 +60,25 @@ mhv:
     mock: false
 ```
   
+### Bypassing SSL hostname verification
+At this point, attempting to use the tunnel connection would fail because vets-api thinks it is making a connection to `localhost` but the forward proxy (via the tunnel) is presenting an SSL certificate with its hostname. 
+
+So, we want to configure vets-api to ignore hostname verification for outbound connections. But, we want to do that in a way that won't accidentally sneak into a pull request and make its way to our deployed environments. So we're going to add a config intializer and then set git up to ignore it.
+
+1. Create a file `config/initializers/faraday_ssl_noverify.rb` with these contents:
+```
+# frozen_string_literal: true
+
+Faraday.default_connection_options = { ssl: { verify: false } }
+```
+
+2. Append the following to `.git/info/exclude`
+```
+# Ignore faraday disabling of ssl verification, used for local development
+config/initializers/faraday_ssl_noverify.rb
+```
+  
+Restart vets-api to make that initializer take effect, and at that point the tunnel connection should work. 
+  
 ## Limitations
 * Since the remote end of the tunnel is configured to point to the VA.gov forward proxy, this approach only works to reach upstream services that the forward proxy is configured for. In the MHV example, the dev forward proxy points to MHV INTB, and the staging forward proxy points to MVH SYSB. At present this approach will not work to point to other MHV environments such as cloud instances. If we need to add forward proxy routes to one or more cloud instances to enable end-end development, we can do so with concurrence by the platform infrastructure team.  
