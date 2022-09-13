@@ -863,8 +863,6 @@ Contact this facility if you need to reschedule or cancel your appointment:
 + Main phone: {phone number} (TTY: 711)
 @@ GH45155 @@
 
-
-Main phone: {phone number} (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
