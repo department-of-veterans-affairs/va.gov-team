@@ -13,7 +13,7 @@ We have heard from Veterans based on user research and user feedback (submitted 
 
 The VAOS team is looking to improve the following flows: 
 - When a Veteran clicks on Starts Scheduling and they are routed to the request flow (since the facility is not configured for direct scheduling). 
-- When a Veteran clicks on Start Scheduling and selects a Type of Care that is eligibile for Community Care, then they are directed to the request flow for an appointment. 
+- When a Veteran clicks on Start Scheduling and selects a Type of Care that is eligible for Community Care, then they are directed to the request flow for an appointment. 
 
 ---
 
