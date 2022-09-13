@@ -22,7 +22,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today. My name is Dave.
+Thanks for joining us today. My name is Dave. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes.
 
