@@ -80,33 +80,101 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-## Assumptions
-- Veterans and Caregivers want to select the facility that is most convenient to them
+## Discovery
+### Assumptions/Risks
+> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
+> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-## Solution Approach
-- Provide an updated facility selection page that is easy to use and understand why we are asking for it
-     - Connect with active Facilities API in place of the current static json file
-     - Revisit UI against the current Facilities selection page on va.gov, and other private sector locator search pages
-     - Conduct research/usability sessions with Veterans and Caregivers to determine the best, easy to use design
-     - Redesign Facility selection page
+- **Value Risks** (will people use it): 
+  - Applicants want to select the facility that's best for them.
 
+- **Usability Risks** (can people figure out how to use it):
+  - Applicants may not understand the reason for selecting a facility.
+  - Applicants may not understand how to use the facility selector/search.
+  - Applicants may be given too much information about facility, location, and so on and feel overwhelmed when making a decision.
 
-### Initial goals
-- Update the current search functionality with an updated API service for a more complete and accurate facilities list
-- Update the current UI to be easier to use and understand
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - API dependencies may cause unplanned outages, causing the facility selector page to be unresponsive,
+  
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - VA Stakeholder change requests to final designs
+  - VA stakeholder End-to-End testing
 
-### Risks
-- Applicants may not understand the reason for selecting a facility
-- Applicants may not understand how to use the facility selector/search
-- API dependencies may cause unplanned outages, causing our facility selector page to be unresponsive
-
-
+### What're you building
+- Provide an updated facility selection page that is easy to use and understand.
+  - Connect with active Facilities API in place of the current static JSON file
+  - Revisit UI against the current Facilities selection page on VA.gov and other private sector locator search pages
+  - Condust research/usability sessiosn with Veterans to determine the best, easiest to use design
+  - Redesign facility selection page
+    - Provide applicants with an idea of location/distance of any given facility to ensure they can select the one that is correct for them.
 --- 
 
+## Launch Planning
+### Collaboration Cycle
 
-## Launch Dates
+- Kickoff ticket #..
+  - Design Intent
+  - Research Review
+  - IA Review
+  - Midpoint Review
+  - Staging Review
+  - Privacy & Security
+  - Contact Center guide review
+
+### Incident Response Info
+- The 1010CG form is currently in production
+- We are calling a new API (API NAME NEEDED)
+- We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- 1010CG [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+
+### Timeline 
+> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+#### Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch?*
+
+
+## Screenshots
+
+### Before
+
+![image](https://user-images.githubusercontent.com/92328831/189940306-bef18277-a751-45f4-9fef-b84963310cc8.png)
+
+
+### After
+
+---
+
+#### Communications
+*Where will you discuss this initiative?*
+
+<details>
+
+- Team Name: 10-10 Health Apps team
+- GitHub Label(s): cg-facilities
+- Slack channel: #1010-health-apps
+- Product POCs: Heather Justice, Mark Fallows
+
+</details>
+
+
+#### Stakeholders
+*What offices/departments are critical to make this initiative successful?*
+
+<details>
+  
+- Office/Department: OCTO-DE
+- Contact(s): Patrick Bateman, Katherine Lawyer, Mark Dewey
+ 
+</details>
+
+---
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
+<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
+
