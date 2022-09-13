@@ -249,9 +249,10 @@ Please list the people who will be serving in each role. **Include the primary p
 *   Participant(s) for pilot test: Christian Burk, <christian.burk@civicactions.com>
 *   Note-takers: Perigean
 *   Observers:
-    *   Dave Conlon <david.conlon@va.gov> 
-    *   David Shannon <David.Shannon@agile6.com>
-    *   Roger Eagans <roger.eagans@agile6.com>
-    *   Tanekwa Bournes
-    *   Kenyonna Power
-    *   Possibly other VBA representatives
+    * Always invite:
+      * Dave Conlon <david.conlon@va.gov> 
+      * David Shannon <David.Shannon@agile6.com>
+    * Additional invitees who will sign up for specific slots:
+      * Roger Eagans <roger.eagans@agile6.com>
+      * Tanekwa Bournes <Tanekwa.Bournes@va.gov>
+      * Kenyonna Power <Kenyonna.Power@va.gov>
