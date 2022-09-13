@@ -252,4 +252,6 @@ Please list the people who will be serving in each role. **Include the primary p
     *   Dave Conlon <david.conlon@va.gov> 
     *   David Shannon <David.Shannon@agile6.com>
     *   Roger Eagans <roger.eagans@agile6.com>
-    *   Possibly VBA representatives (Tanekwa and Kenayana)
+    *   Tanekwa Bournes
+    *   Kenyonna Power
+    *   Possibly other VBA representatives
