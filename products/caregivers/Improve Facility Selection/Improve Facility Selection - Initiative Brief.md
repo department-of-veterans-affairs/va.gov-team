@@ -40,14 +40,14 @@
  
 ## Desired User Outcomes
 - Facility selection is easy and builds confidence
-- Facility names are up-to-date
-- 
+- Facility names are up-to-date, accurate and complete
 
 ## Undesired User Outcomes
 - Increased difficulty completing the online form
-
+- Delayed application processing due to misrouting
 
 ## Desired Business Outcomes
+- Applications will be processed at the appropriate facility
 - CSCs won't have to reroute applications because of incorrect facility selection
 
 ## Undesired Business Outcomes
