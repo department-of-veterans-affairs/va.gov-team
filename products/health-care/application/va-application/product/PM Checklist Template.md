@@ -119,6 +119,8 @@
 - [ ] Submit Contact Center guide review ticket
 - [ ] Update Release Plan
      - [ ] Include E2E test results & signoff
+- [ ] Review this checklist for any missing artifacts
+- [ ] Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)
 - [ ] Conduct Launch Go/No Go with the team
      - [ ] Review this checklist
      - [ ] Review Release Plan
