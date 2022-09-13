@@ -4,21 +4,29 @@
 
 ### 2-3 days before the session
 
-*   Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+* Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions)
+* Make copy of this guide and update with Participant # and info from screener questions  
 
 ### Day of the session
 
-*   Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in  
-    Slack for real-time feedback from observers.
-*   Mute your Slack notifications.
-*   Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+**10-15 min before session:**
 
-### Starting the session
+* Post p# and [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)
+  * @mention team members
+  * Share brief summary of participant demographic info
+ 
+**5-10 min before session:**
 
-*   In the Attendees section, make sure everyone except the participant is on mute.
-*   In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-*   Check your [screensharing setup] and share permissions for participants.
-*   When the participant is ready, begin the session with the following intro
+* Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting
+* Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
+* Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
+* Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+* Open a Word Doc with the List of Benefit Office Types
+* Do Not Disturb ON so no notifications
+* Make sure everyone is muted except me and the participant
+* SLACK WINDOW for real-time feedback and questions from observers
+
+When the participant is ready, turn on your camera and begin session with the intro
 
 ## Intro - 5 minutes
 
@@ -145,4 +153,10 @@ Thank you again, and I hope you enjoy the rest of your day.
   * I'm sorry to hear about that. Would it be okay if I shared your information with my contact in the Benefits Administration so they can follow up and help resolve that for you?
 * Need to cut session short for unexpected reason
   * We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
+## After Session
+* Click "End" on zoom 
+* Download recordings
+* Download notes
+* Capture any notes or thoughts 
 
