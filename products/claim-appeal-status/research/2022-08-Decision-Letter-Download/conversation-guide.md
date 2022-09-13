@@ -60,7 +60,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
 - If no, how do you generally interact with the VA, if at all?
-- Have you ever filed a 526 EZ or any other type of disability claim with the VA?
+- Have you ever filed an application for disability compensation (Form 526EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
 **Note:** Half of the participants will start with "First task," and the other half will start with "Second task." The goal of this is to test if there is a difference in behavior between Veterans who know there is a decision and Veterans who don't know if there is a decision.
