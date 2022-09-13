@@ -49,7 +49,7 @@ _Start recording._
 
 ## Warm-up Questions - 2 min
 
-*  Can you tell me briefly about your service history?
+*  What are some of your favorite things about being involved in the Veteran community in [your city]?
 
 ## Baseline Questions - 3 min
 
