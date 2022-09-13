@@ -74,6 +74,7 @@ Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “m
 **More info:**
 * A6 program GDrive folder:[ Benefits Hubs](https://drive.google.com/drive/u/1/folders/1nvQwXSxHGqHdN6qgEUte5z2fXyJvRJxH)
 * [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) (github)
+* [VFS Product Directory: Benefits Hubs](https://depo-platform-documentation.scrollhelp.site/getting-started/benefits-hubs)
 
 
 ### Benefits Detail Page 
@@ -123,6 +124,7 @@ A Drupal content type that can be used for short-lived marketing campaigns. Inte
 * A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
 * [campaign-landing-page-templates & Docs - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
 * [CLP runbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/campaign-landing-pages.md) - team runbook for managing CLP requests
+* [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
 ### Events List
@@ -149,6 +151,7 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * A6 program GDrive folder: [Events](https://drive.google.com/drive/u/1/folders/1wGqhMBGs-baLOFarU2Jgii8Pz2IFIas6)
 * [Events maintenance & support epic #9438](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9438) 
 * Filters were added Q2 2022, [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435) 
+* [VFS Product Directory: Outreach Events Hub & Calendar](https://depo-platform-documentation.scrollhelp.site/getting-started/outreach-events-hub-and-calendar)
 
 
 ### Event
@@ -349,6 +352,7 @@ A page that contains in-depth information about a single resource available to V
 **More info:**
 * A6 program GDrive folder: [Resources and Support](https://drive.google.com/drive/u/1/folders/1uqKHA1Wq91yPB91TdWBWGz0CV7gE8kaM)
 * 2022 Sitewide Content research project around clarity of this content and how Editors in other areas might have challenges / need support: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) 
+* [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
 
 
 ### Translations
@@ -373,6 +377,7 @@ Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translate
 * How current translations work: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
 * [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing upcoming work / research for translations (Q3 2022) 
 * **Q3 2022 project:** Upcoming translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
+* [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
 
 ---
 
@@ -455,6 +460,8 @@ VA.gov header and footer, within VA.gov context, including presentation of banne
 * 2019 research for launch: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/header-footer-and-navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/header-footer-and-navigation)
 * Mobile authed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626)
 * Mobile unauthed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623) 
+* [VFS Product Directory: Site Navigation](https://depo-platform-documentation.scrollhelp.site/getting-started/site-navigation)
+
 
 
 ### Header / footer injection
@@ -606,6 +613,7 @@ The homepage includes links to key traffic areas of the site. These links are re
 * **Q2/Q3 2022 project:**[Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh underway, prototype in staging.  Q3 user testing & will lead to design / build iteration for further testing. 
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 
 * 2021 Top Tasks research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page) 
+* [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
 
 
 ### VA site search (using search.gov)
@@ -623,6 +631,7 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 * Design system: [Search input](https://design.va.gov/components/search-input)
 * 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
 * 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
+* [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
 
 
 ### Veterans Crisis Line modal
@@ -657,6 +666,8 @@ Listing of schools that participate in the Yellow Ribbon program. Data previousl
 * Use of vets-api to connect to GIDS endpoint for data: 
    * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599)
    * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608) 
+* [VFS Product Directory: Yellow ribbon tool](https://depo-platform-documentation.scrollhelp.site/getting-started/yellow-ribbon-tool)
+
 
 ---
 
