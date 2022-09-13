@@ -6,11 +6,16 @@ Campaign Landing Pages are intended to prevent creation of standalone marketing 
 Full context & governance model: 
 https://docs.google.com/presentation/d/1y7FnBuaOrbfR_Bap0zAhMceVO8jlEeX9/edit#slide=id.p8
 
+**Both the nature of the campaign and the campaign URL must be approved by stakeholders.** \
 Not every Campaign Landing Page request will be approved. \
 Not every requested URL will be approved. \
-**Both the nature of the campaign and the campaign URL must be approved by stakeholders.**
 
-## Runbook
+CMS Campaign Landing Pages:
+https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderation_state=All&owner=All
+
+
+
+## Runbook for CLP creation
 1. Request comes in, via helpdesk request or direct to PO, or potentially in a Github issue.
 2. If not in a helpdesk request, redirect to Helpdesk or create a Helpdesk issue using email support@va-gov.atlassian.net or URL https://prod.cms.va.gov/help
 3. Helpdesk will use #sitewide-public-websites channel to request approvals
@@ -25,3 +30,7 @@ This runbook can relocate out of PW repo if Helpdesk is able to vet / execute th
 ## Example CLP GH issues
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/37773
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8182
+
+## Prior initiatives for CLP
+[Campaign landing page template MVP 1.0 - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates)
+
