@@ -66,6 +66,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - The positive impacts to the organization will be an increase in completed applications with those identifying as American Indian/Alaska Native
+  - Risk of VA Stakeholder change requests to final design
 
 
 ### Solution Summary
@@ -86,8 +87,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - Midpoint ticket [#]()
 - Contact Center guide ticket [#33525](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/33525)
 - Analytics ticket [#33528](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/33528)
-- Staging ticket [#]()
-- Privacy & Security ticket [#]()
+- No other tickets were needed
 
 ### Incident Response info
 - The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions.  There are no changes to the form's performance, architecture, API enpoints or security.
