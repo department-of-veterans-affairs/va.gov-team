@@ -59,41 +59,6 @@ _Start recording._
    *  [This should line up with answer to screener question #2. If not, ask follow up.]
    *  On the survey, you also listed [answer to screener question #2 - benefit type], could you tell me about that?
 
-## Benefit Task Questions - 8 min
-
-* Okay, for this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
-  * [If multiple benefits were indicated in baseline questions, focus on one benefit type at a time]
-* Imagine I am a Veteran/service member/caregiver who doesn't know anything about this benefit, and I came to you for advice about it. How would you describe it to me based on your experience?
-  * [Potentially follow up prompts]
-  * What steps are involved in this process?
-  * How did you figure that out?
-  * Anything else I should watch out for?
-* Now to focus back on the part where you visited the benefit office. You said that you went there to do [specific task], correct?
-  * What prompted you to visit the office? (i.e. referral, websearch, etc.)
-  * Were you able to complete the task during the visit?
-    * Did you visit multiple offices?
-    * Did you have to visit the same office multiple times?
-  * Was there another way you could have completed the task?
-  * If you had the option of completing this task online/ by phone/ or in-person, what would your preference be?
-* Is there anything else about this task or this benefit you want to share?
-* [Repeat questions if there are multiple tasks or benefits]
-
-## Visiting Questions - 8 min
-
-* Okay, now we're going to talk specifically about the day you visited the benefit office. 
-* Where is this office located?
-* How did you travel to the office? 
-* Did anyone accompany you on the visit?
-* Did you have any issues getting to the building (directions, parking, etc)?
-* Once you were inside the building, how did you find your way to the floor/room you needed?
-  * Was there any signage that guided you?
-  * Did you speak with any employees? (e.g. receptionist)
-  * Was there a waiting area of any kind?
-  * How did you know when you were at the right place?
-* Did you have a pre-scheduled appointment, or did you just walk-in?
-* Was there any information you wish you had on that day that would have made your visit easier?
-  * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
-
 ## Preparing for the Visit Questions - 8 min
 
 * Now we're going to talk about the steps you took to prepare yourself for visiting the office.
@@ -114,6 +79,41 @@ _Start recording._
   * What do you wish you had in advance of your visit, so you would have been prepared?
     * [Again, might be a place to use "Imagine I'm a vet..." phrasing]    
 * Anything else you'd like to share about your experience? 
+
+## Visiting Questions - 8 min
+
+* Okay, now we're going to talk specifically about the day you visited the benefit office. 
+* Where is this office located?
+* How did you travel to the office? 
+* Did anyone accompany you on the visit?
+* Did you have any issues getting to the building (directions, parking, etc)?
+* Once you were inside the building, how did you find your way to the floor/room you needed?
+  * Was there any signage that guided you?
+  * Did you speak with any employees? (e.g. receptionist)
+  * Was there a waiting area of any kind?
+  * How did you know when you were at the right place?
+* Did you have a pre-scheduled appointment, or did you just walk-in?
+* Was there any information you wish you had on that day that would have made your visit easier?
+  * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
+
+## Benefit Task Questions - 8 min
+
+* Okay, for this next part, we're going to talk about the whole process of you managing your [benefit]. That includes steps you completed before or after your visit to the benefit office. 
+  * [If multiple benefits were indicated in baseline questions, focus on one benefit type at a time]
+* Imagine I am a Veteran/service member/caregiver who doesn't know anything about this benefit, and I came to you for advice about it. How would you describe it to me based on your experience?
+  * [Potentially follow up prompts]
+  * What steps are involved in this process?
+  * How did you figure that out?
+  * Anything else I should watch out for?
+* Now to focus back on the part where you visited the benefit office. You said that you went there to do [specific task], correct?
+  * What prompted you to visit the office? (i.e. referral, websearch, etc.)
+  * Were you able to complete the task during the visit?
+    * Did you visit multiple offices?
+    * Did you have to visit the same office multiple times?
+  * Was there another way you could have completed the task?
+  * If you had the option of completing this task online/ by phone/ or in-person, what would your preference be?
+* Is there anything else about this task or this benefit you want to share?
+* [Repeat questions if there are multiple tasks or benefits]
 
 ## General Benefit Office Questions - 5 min
 
