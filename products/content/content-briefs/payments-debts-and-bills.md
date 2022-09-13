@@ -16,9 +16,12 @@ This brief will help your team create content for your product that aligns with 
 
 ## Related terminology
 
-| Word or phrase | Notes | Reference | Last updated |
-| -------------- | --------------- | --------------- | --------------- |
-| benefit overpayment / overpayment / overpayment debt| This is the term that we use to describe a debt related to a VA benefit (such as disability, education, or pension benefits). Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | Sitewide content and IA team | 9.12.22 |
+| Word or phrase | How we use this term | Related language we use to define or describe this term in Veteran communications | Notes | Reference | Last updated |
+| -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| benefit overpayment / overpayment | This is the term that we use to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits). | **Benefit overpayment:** We paid you, or your school, more than you were eligible to receive for a VA benefit payment. We often refer to this type of debt as an overpayment. An overpayment can happen for any of these reasons:
+<ul> <li>If you don’t report a life change that affects your eligibility, **or** </li>
+<li>If you report a change, but we can't update your benefit amount before your next payment, **or** </li>
+ <li> Because of an error, like a double payment </li></ul> | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | Sitewide content and IA team | 9.12.22 |
 | balance (used with "debt balance" and "copay bill balance") | This is the term we use to talk about the remaining total amount a Veteran owes for debts or copay bills. We use this mainly within the online debt portal itself. | Sitewide content and IA team | 9.12.22 | 
 | compromise offer | This is 1 of 4 repayment or relief options for paying down a debt related to benefit overpayments. Here's how we describe a compromise offer: If you don’t get monthly benefit payments and can’t pay monthly, you can offer a lesser one-time lump sum amount as full payment. If we accept your request, you'll have to pay the one-time amount within 30 days. | Content and sitewide IA team | 9.12.22 | 
 | copay / copayment / health care copay | This is the term we use for the Veteran's health care copay. Not all Veterans have copays. | Sitewide content and IA team | 9.12.22 | 
