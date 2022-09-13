@@ -93,6 +93,13 @@
   - Privacy & Security
   - Contact Center guide review
 
+### Incident Response Info
+- The 1010EZ form is currently in production
+- We are calling a new API (API NAME NEEDED)
+- We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
