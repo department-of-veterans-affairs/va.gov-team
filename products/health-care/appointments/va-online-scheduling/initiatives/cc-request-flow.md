@@ -19,6 +19,10 @@ The VAOS team is looking to improve the following flows:
 
 ## Measuring Success
 
+1. More positive feedback from the users 
+2. Increase number of Veterans using the VAOS application 
+3. Decrease the number of Veterans dropping off during the request flow
+
 
 ---
 
