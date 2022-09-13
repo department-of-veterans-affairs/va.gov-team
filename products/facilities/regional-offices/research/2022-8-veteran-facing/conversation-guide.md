@@ -29,6 +29,7 @@ I have a colleague with us in this session who will be taking notes.
 There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
 
 * *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+* Briefly introduce observers: "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
 
 Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans', service member's, and caregivers' experiences with Benefit Offices.
 
