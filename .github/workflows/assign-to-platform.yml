@@ -18,7 +18,7 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
         github.event.action == 'opened' &&
-        (contains(github.event.issue.labels.*.name, 'platform-leadership')
+        (contains(github.event.issue.labels.*.name, 'platform-leadership'))
       with:
         project: 'https://github.com/orgs/department-of-veterans-affairs/projects/797'
         column_name: 'New'
