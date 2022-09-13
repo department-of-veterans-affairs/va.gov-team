@@ -1,4 +1,4 @@
-# VA.gov content brief for VA payments, debts, and copay bills.
+# VA.gov content brief for VA payments, debts, and copay bills
 
 Created by the VA.gov sitewide content team for teams working on products related to VA payments, debts, and copay bills.
 
