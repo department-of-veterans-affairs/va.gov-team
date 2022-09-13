@@ -22,7 +22,15 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today. My name is Dave.  I also have some colleagues on the line listening and taking notes. Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans', service member's, and caregivers' experiences with Benefit Offices.
+Thanks for joining us today. My name is Dave.
+
+I have a colleague with us in this session who will be taking notes.
+
+There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
+
+* \(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")\
+
+Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans', service member's, and caregivers' experiences with Benefit Offices.
 
 Before we start, a few things I want to mention:
 
