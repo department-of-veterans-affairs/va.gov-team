@@ -33,14 +33,7 @@ This brief will help your team create content for your product that aligns with 
 | repay / repayment plan | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe a repayment plan:  If you can’t pay your full debt balance now, you can ask to make smaller monthly payments. | | 9.12.22 |
 | repay / repayment plan |
 
-
-
-
-## Research findings
-
-Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
-
-### SEO and VA.gov search
+## SEO and VA.gov search
 
 - Terms related to "debt" have the largest search volume
  - Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
@@ -52,6 +45,10 @@ Add content-related notes that came out of research that should inform the messa
   - Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
   ![image](https://user-images.githubusercontent.com/62957278/189705393-67d7125f-76ac-47b0-9193-93e72459bc90.png)
 
+
+## Research findings
+
+Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
 
 
 ###
