@@ -1,4 +1,4 @@
-name: Assign to One Project
+name: Assign to Platform
 # Assigns new issues to project based on label
 # See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
 # For support see #github-management or #github_information on DSVA
@@ -10,11 +10,11 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  assign_one_project:
+  assign_to_platform:
     runs-on: ubuntu-latest
     name: Add issues to Github Platform project
     steps:
-    - name: Add issues to VSP Analytics & Insights project
+    - name: Add issues based on platform-leasership label
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
         github.event.action == 'opened' || github.event.action == 'labeled' &&
