@@ -4,6 +4,10 @@ Screen readers are an important part of the accessibility testing process. Users
 
 Screen reader testing is an intensive, manual process. It involves subjective judgment--Is this link clear enough? Is this button the right input mechanism?--and takes a lot of time. The accessibility specialists are encouraging front-end engineers to do basic screen reader testing as part of their software development cycle. Our goal is to identify issues sooner and collaborate on solutions ahead of the staging accessibiltiy review.
 
+Sighted users can learn to use screen readers and test for the problems that many blind and low-vision users experience. [JAWS Certification](https://www.freedomscientific.com/training/certification/) and [NVDA Certification](https://www.nvaccess.org/product/nvda-expert-certification/) can help with this. Ultimately however, people with lived experience as blind and low-vision users can provide richer feedback. 
+
+When choosing which screen readers to test for, consider checking the latest [WebAim Screen Reader Survey](https://webaim.org/projects/screenreadersurvey9/). It will highlight what is popular among screen reader users in the last year. Also keep in mind that both Android and iOS include built-in screen readers that should be tested.  
+
 ## MacOS - VoiceOver and Safari
 
 For users working on an Apple laptop or desktop, Safari and VoiceOver included in MacOS. You do not need to download any software to get started.
