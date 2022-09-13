@@ -90,7 +90,7 @@ _Start recording._
   * Was there a waiting area of any kind?
   * How did you know when you were at the right place?
 * Did you have a pre-scheduled appointment, or did you just walk-in?
-* Was there any information you wish you had \on that day\ that would have made your visit easier?
+* Was there any information you wish you had on that day that would have made your visit easier?
   * [Could use the "Imagine I am a veteran..." prompt again here if that worked before]
 
 ## Preparing for the Visit Questions - 8 min
