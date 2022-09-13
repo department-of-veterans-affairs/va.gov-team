@@ -31,7 +31,7 @@ This brief will help your team create content for your product that aligns with 
 | pay vs. repay | We use **pay** to describe paying a copay bill. We use **repay** to describe repaying an overpayment from VA. We use **make a payment** in both contexts. | Sitewide content and IA team | 9.12.22 |
 | pay down a debt | We use this phrase to describe how a Veteran makes payments toward paying down a debt over time. | Sitewide content and IA team | 9.13.22 |
 | repay / repayment plan | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe a repayment plan:  If you can’t pay your full debt balance now, you can ask to make smaller monthly payments. | Sitewide content and IA team | 9.12.22 |
-| waiver | Need to fill in | Sitewide content and IA team | 9.12.22 |
+| waiver | This is 1 of 4 repayment or relief options for VA debt. | Sitewide content and IA team | 9.12.22 |
 
 ## SEO and VA.gov search
 
@@ -50,7 +50,7 @@ This brief will help your team create content for your product that aligns with 
 
 Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
 
-### Combined debt portal research, 7.7.22
+### Combined debt portal research, 2022-06
 
 #### How participants defined copays, debt, and bills:
  - **Copay:**	Participants defined copays in relation to money owed for medical related expenses.
@@ -61,6 +61,12 @@ Add content-related notes that came out of research that should inform the messa
 - **Bill:**	Most participants defined bills as similar to debt, as money owed and many viewed it as a statement for money owed
   - “Bills being a request for me to pay my liable for my debt to the VA.”
 
-[Read the full combined debt portal research findings for more quotes and info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]va_debt_portal/research/usability-apr-2022/research-findings.md)
+[Read the full combined debt portal research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/140)
+
+### MyVA benefit payments and debts UAT, 2022-03
+
+
+
+[Read the full MyVA benefit payments and debts UAT research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/95)
 
 ## Other notes
