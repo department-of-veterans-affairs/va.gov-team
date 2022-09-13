@@ -69,6 +69,7 @@
   - API dependencies may cause unplanned outages, causing the facility selector page to be unresponsive,
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - VA Stakeholder change requests to final designs
   - VA stakeholder End-to-End testing
 
 ### What're you building
