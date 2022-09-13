@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022 (updated 09/08/2022)
+Date: 08/31/2022 (updated 09/12/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -148,7 +148,7 @@ FOR EVERYONE
 
 1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
-1. **Two accessibility issues were discovered with the VA Benefits and Health Care megamenu**, both of which confused a pilot participant who was a screen reader user, and one of which also confused several sighted participants.  
+1. **Two accessibility issues were discovered with the VA Benefits and Health Care megamenu** on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.  
 
 1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks** (no tasks were related to it).
 
@@ -251,7 +251,7 @@ Neither sign-in button got much use during the research sessions:
 A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 - One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant who was a screen reader user, and one of which also confused several sighted participants.
+## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.
 
 1. Several participants and a pilot participant had difficulty using the megamenu because it didn't work as expected. When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. **Participants expected to see a list of dropdown options *without any of them expanded*.** 
 - One participant wanted to browse the dropdown options but skipped health care because it was already open. 
@@ -362,7 +362,7 @@ We heard some pain points about VA in general, which is included below but not a
      7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
-8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(being discussed with Josh Kim and Laura Flannery)*:
+8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(discussed with Josh Kim and Laura Flannery)*:
      1.  **Change the megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
      2.  **Fix the focus issue when you click on a link in the megamenu** so focus is on the page title, not the megamenu option clicked on.
 10. Consider whether **some common misspellings could be handled more gracefully by search**, such as a search for "benifits" being able to return the results as if "benefits" were typed.
