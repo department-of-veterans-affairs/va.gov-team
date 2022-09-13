@@ -20,7 +20,7 @@
 - Answer: 
 
 **All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
-- Answer: Yes
+- Answer: 
 
 **All: Does anyone have any concerns that would prevent us from moving forward with schedule UAT?**
 - Answer: 
