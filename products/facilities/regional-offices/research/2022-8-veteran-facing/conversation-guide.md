@@ -22,27 +22,27 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today. My name is Dave. How are you doing today?
+Thanks for joining us today. My name is Dave, I am a web designer for the VA. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes.
 
 There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
 
 * *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
-* Briefly introduce observers: "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
+* "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
 
 Today we're going to talk about VA Benefit Offices, these include Regional Offices, Veteran Readiness and Employment Offices, Pre-Discharge Sites and a couple other types. We're trying to learn about Veterans', service member's, and caregivers' experiences with visiting these locations.
 
 Before we start, a few things I want to mention:
 
 *   **This entire session should take about 45 minutes.**
-*   **This session is going to resemble an interview where I will ask you many questions about your experience with VA Benefit Offices.** There are no right or wrong answers, this is purely to understand actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
+*   **This session is going to resemble an interview where I will ask you many questions about your experience with VA Benefit Offices.** There are no right or wrong answers, this is purely to understand your actual experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
 *   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 *   **If for any reason and at any time you want to stop the session, please let me know.**
 *   This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
     * If yes: Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.
 
-_Start recording._
+*Start recording.*
 
 * **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
@@ -52,22 +52,25 @@ _Start recording._
 
 ## Baseline Questions - 3 min
 
-* In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a [Answer to Screener Question #1 - type of facility], is that correct?
+* In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a **[Answer to Screener Question #1 - type of facility]**, is that correct?
 * In your own words, could you briefly describe the reason for your visit to that office?
-* [Confirm benefit-related service(s)]Okay, so just to confirm, it sounds like this visit was related to [benefit type], correct? 
-   *  [This should line up with answer to screener question #2. If not, ask follow up.]
-   *  On the survey, you also listed [answer to screener question #2 - benefit type], could you tell me about that?
+* [*Confirm benefit-related service(s)*] Okay, so just to confirm, it sounds like this visit was related to [benefit type], correct? 
+   *  *This should line up with answer to screener question #2. If not, ask follow up.*
+   *  On the survey, you also listed **[answer to screener question #2 - benefit type]**, could you tell me about that?
 
 ## Preparing for the Visit Questions - 8 min
 
-* Now we're going to talk about the steps you took to prepare yourself for visiting the office.
-* Thinking back to when you first learned about this benefit office, what sources did you consult to get ready for your visit?
-  * Did you talk to any VA employees? Other Veterans/beneficiaries?
+* My first set of questions is about the steps you took to prepare yourself for visiting the office.
+* How did you first learn about this office?
+* What sources did you consult to get ready for your visit?
+  * Did you talk to any VA employees?
+    * Did you speak to anyone who works at this location? 
+  * Did you talk to other Veterans/beneficiaries?
   * Did you call a phone number?
   * Did you look at the website?
 * What information did you gather from these sources?
   * Directions? Hours?
-  * Details about benefit services/tasks?    
+  * Details about benefit services/tasks?
 * When you were preparing for your visit, did you research multiple beenfit office locations?
   * If so, what factors led you to pick one over another? 
 * What tasks did you complete before your appointment? 
@@ -75,9 +78,7 @@ _Start recording._
   * Any paperwork forms?
 * Did you feel prepared for your visit?
   * Were you actually prepared, or was there a surprise when you got to the office?
-  * What do you wish you had in advance of your visit, so you would have been prepared?
-    * [Again, might be a place to use "Imagine I'm a vet..." phrasing]    
-* Anything else you'd like to share about your experience? 
+* Is there anything else you wish you had known before your visit?
 
 ## Visiting Questions - 8 min
 
@@ -86,6 +87,7 @@ _Start recording._
 * How did you travel to the office? 
 * Did anyone accompany you on the visit?
 * Did you have any issues getting to the building (directions, parking, etc)?
+  * Was the address and hours accurately represented?
 * Once you were inside the building, how did you find your way to the floor/room you needed?
   * Was there any signage that guided you?
   * Did you speak with any employees? (e.g. receptionist)
