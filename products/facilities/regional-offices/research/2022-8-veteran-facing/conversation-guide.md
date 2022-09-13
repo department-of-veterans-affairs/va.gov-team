@@ -142,7 +142,7 @@ Thank you again, and I hope you enjoy the rest of your day.
 ## Emergency Exit
 
 * Veteran is currently having issues with a RO or benefits issue
-  * I'm sorry to hear about that. Would it be okay if I had shared your information with my contact in the Benefits Administration so they can follow up and help resolve that for you?
+  * I'm sorry to hear about that. Would it be okay if I shared your information with my contact in the Benefits Administration so they can follow up and help resolve that for you?
 * Need to cut session short for unexpected reason
   * We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
