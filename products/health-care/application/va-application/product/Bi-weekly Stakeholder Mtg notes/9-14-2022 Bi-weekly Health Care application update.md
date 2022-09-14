@@ -2,6 +2,7 @@
 
 ### 9/14/22 Agenda Items
 - American Indian question
+     - Email was sent from Stacey Echols to HEC team (including Tarsha, Jessica Soza, Christopher Hawkins) stating that our revised content is acceptable
      - Online Health Apps team will update code and inform this audience of deployment to Production
 
 - Short Form - ES team development update
