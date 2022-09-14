@@ -234,10 +234,13 @@ This is a single study, and we are testing with a prototype
        
 
 ### Screener
-Have you been denied a claim for disability in the last couple of years? 
-Have you or someone on your behalf filed a Supplemental Claim before?
-Do you have new or relevant evidence that you think could prove your previously denied claim is now eligible?
-Do you have access to the internet and can you screen share?
+Have you been denied a claim for disability in the last couple of years? Yes
+ 
+Have you or someone on your behalf filed a Supplemental Claim before? Ok if no
+
+Do you have new or relevant evidence that you think could prove your previously denied claim is now eligible? Yes, but ok if unsure
+
+Do you have access to the internet and can you screen share? Yes
 
 ## Timeline
 Aiming to schedule studies September 14-September 21
