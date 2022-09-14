@@ -10,7 +10,6 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Prod Validation | Actual Release | Short Description |
 | :----------------- | :--------- | :---------  | :---------  | :--------------  |
-| Spanish Support - Round 2 | 9/20/2022   |  |  | [Epic 42546](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546) Adding additional Spanish translations.  |
 | Display Error Message when Pre-Check-in Link has Expired | 9/20/2022   |  |  | [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117) Display an error message to a Veteran when they access a Pre-Check-in link that has expired |
 | Delete LoROTA Entry when All Authentication Attempts Fail | 9/26/2022 |  | | [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) Delete LoROTA Entry when All Authentication Attempts Fail. |
 | Tagalog Support | TBD   |  |  | [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788) Adding Tagalog translations.  |
