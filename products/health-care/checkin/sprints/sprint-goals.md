@@ -1,5 +1,26 @@
 # SPRINT GOALS
 
+## 9/21/2022 (FUTURE)
+
+#### Planned Releases (TENTATIVE)
+None
+
+#### Discovery Sprint Goals (TENTATIVE) 
+- [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+    - Create research plan & conversation guide
+- [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
+    - Finish study report & present
+    
+#### Design & Content Sprint Goals (TENTATIVE) 
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finalize content & update wireframes    
+
+#### Engineering Sprint Goals (TENTATIVE) 
+- [Production Support]() (~8 FE/BE)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Create infrastructure to talk to the BTSSS API
+    - Create new pages
+
 ## 9/7/2022 
 
 #### NOTE
