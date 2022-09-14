@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 9/14/2022
+- Addded additional Spanish-translated content
+    - [Epic 42546](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
+
 ### 9/7/2022
 - Added a link to the [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) resource page to the Pre-Check-in completion confirmation page to aid Veterans in understanding the steps necessary to Check-in for their appointments on the day of their appointment 
     - [Epic 44392](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
