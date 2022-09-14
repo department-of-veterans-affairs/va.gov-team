@@ -1,5 +1,9 @@
 # MEETING NOTES - TRAVEL REIMBURSEMENT
 
+## 9/14/2022
+- Attendees
+- Questions 
+
 ## 9/6/2022
 - Questions
   - Ben will advance these this coming sprint
