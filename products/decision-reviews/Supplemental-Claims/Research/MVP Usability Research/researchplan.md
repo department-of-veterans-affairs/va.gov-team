@@ -249,19 +249,13 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: September 19, 2022, 10am ET
 
 ### Research sessions
-* Planned dates of research: September 20 - 27, 2022
+* Planned dates of research: September 22 - 29, 2022
 
 ### Length of sessions
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes
 
 ### Availability in ET
-**Sep 20, 2022**
-11am-3pm
-
-**Sep 21, 2022**
-11am-3pm
-
 **Sep 22, 2022**
 11am-3pm
 
@@ -269,9 +263,15 @@ A pilot session is required. Please indicate the date and name of a mock partici
 11am-3pm
 
 **Sep 26, 2022**
-11am - 3pm
+11am-3pm
 
 **Sep 27, 2022**
+11am-3pm
+
+**Sep 28, 2022**
+11am - 3pm
+
+**Sep 29, 2022**
 11am - 3pm
 	
 ## Team Roles	
