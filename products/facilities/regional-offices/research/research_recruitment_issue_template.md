@@ -38,6 +38,7 @@
 ## Acceptance Criteria
 - [ ] The target number of participants have been recruited and scheduled
 - [ ] Moderator(s), notetaker(s), and observer(s) are invited to research sessions
+- [ ] Pilot session is scheduled
 
 ### CMS Team
 Please check the team(s) that will do this work.
