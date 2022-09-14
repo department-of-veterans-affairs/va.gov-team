@@ -2,13 +2,19 @@
 
 ### 9/14/22 Agenda Items
 - American Indian question
-     - Online Health Apps team send updated question revision to audience last week.
+     - Online Health Apps team will update code and inform this audience of deployment to Production
 
 - Short Form - ES team development update
-     - ES UPdate?
+     - Per Joshua Faulkner - ES work has been completed and tested.  Ready to deploy **Saturday, 9/17**
+     - Online Health Apps team will deploy on **Monday, 9/19** at a small increment to start with
 
 - Self-Identifying Gender Identity
-     - Content being re-reviewed and finalized
+     - Content being re-reviewed
+     - Per Christopher H. - Target production delivery 11/19/2022
+
+- Action Item
+     - [X] Heather to provide current online form pages for Jessi's reference
+---
 
 ### Future Endeavors (Backlog)
 - In-progress Notification emails
