@@ -1,6 +1,6 @@
 # On-site Notifications MVP: UAT Go/No-Go | 09.14.2022 
 
-## Decision: _Yes_________
+## Decision: Yes
 
 ---
 
