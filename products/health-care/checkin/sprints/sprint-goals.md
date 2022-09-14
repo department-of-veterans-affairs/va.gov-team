@@ -20,7 +20,7 @@ None
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
     - Update design & release artifacts
 - [Update VA Sketch Cloud and Generate Presentation Links for the Happy Path](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46279)
-    - Complete (4 Zach)
+    - Complete
 
 #### Engineering Sprint Goals (TENTATIVE) 
 - [Production Support]() (~8 FE/BE)
