@@ -20,7 +20,7 @@
 - Answer: Yes
 
 **All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
-- Answer: N/A, sessions are being help asynchrnously but if any issues arise we will be available. 
+- Answer: N/A, sessions are being held asynchrnously but if any issues arise we will be available. 
 
 **All: Does anyone have any concerns that would prevent us from moving forward with schedule UAT?**
 - Answer: No
