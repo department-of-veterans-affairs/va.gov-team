@@ -14,13 +14,14 @@
  |1.| Gather profile IDs of test subjects and securely send to VA Notify| Samara | Completed - week of 9/5 |
  |2.| Let VA Notify know how many notifications to send to which test subjects | Angela |Completed - 9/9 |
  |3.| VA Notify tells us when they will be able to trigger those notifications| VA Notify (Melanie) | Monday 9/12 |
- |4.| Reach out to test subjects to confirm their availablility and to relay the process for validation| Angela | |
- |5.| When test users confirm their availability turn feature on for them in production via feature flipper| Angela | |
- |6.| Test subjects test and share validation confirmation with Angela, including screenshots. As part of validation test subjects are asked to dismiss all notifications as their last test/step| Test subjects, but Angela and Erica to confirm | |
- |7.| Troubleshoot as needed if issues are discovered and communicate any issues with Taylor and VA Notify| Angela, Erica and Taylor as needed | |
- |8.| Turn off feature flag for all test subjects| Angela | |
- |9.| Document results/findings| Angela | |
- |10.| Let team + VA Notify know that internal testing is complete | Angela or Erica | |
+ |4.| UAT go/no go meeting| Erica, Angela and Taylor | |
+ |5.| Reach out to test subjects to confirm their availablility and to relay the process for validation| Angela | |
+ |6.| When test users confirm their availability turn feature on for them in production via feature flipper| Angela | |
+ |7.| Test subjects test and share validation confirmation with Angela, including screenshots. As part of validation test subjects are asked to dismiss all notifications as their last test/step| Test subjects, but Angela and Erica to confirm | |
+ |8.| Troubleshoot as needed if issues are discovered and communicate any issues with Taylor and VA Notify| Angela, Erica and Taylor as needed | |
+ |9.| Turn off feature flag for all test subjects| Angela | |
+ |10.| Document results/findings| Angela | |
+ |11.| Let team + VA Notify know that internal testing is complete | Angela or Erica | |
 
 ## Instructions for test subjects
 _Angela will share these instructions with the test subjects  as part of step 4 above._
