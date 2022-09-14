@@ -14,9 +14,9 @@
   - Remote
 2. Scope
   - Change the screen size only (responsive)
-  - Change the screen size only (responsive) plus identity verification
-  - **Change the screen size only (responsive), identity verification, header/footer (Recommended due to previous team discussion)**
-  - Change the screen size only (responsive), identity verification, header/footer, VHIC card scanning, and visual design (touch targets, font sizes, etc)
+  - Change the screen size only (responsive) plus identity verification/auto logout
+  - **Change the screen size only (responsive), identity verification/auto logout, header/footer (Recommended due to previous team discussion)**
+  - Change the screen size only (responsive), identity verification/auto logout, header/footer, VHIC card scanning, and visual design (touch targets, font sizes, etc)
   - Eveything listed above plus editing capabilities
 3. Type of prototype
   - **Hi-fi Sketch or UX Pin prototype (Recommended due to types of research questions that we have)**
