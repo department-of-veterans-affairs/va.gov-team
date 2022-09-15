@@ -14,12 +14,18 @@ This document describes the recommended setup for doing fullstack development of
 ## Setup steps
 ### SSM Tunnel
 #### One Time Setup
-1.  Ensure AWS credentials are [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`. Note the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+1. [Install the `aws-cli`](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
+2. [Install the Session Manager plugin](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) for `aws-cli`. 
+3. [Configure AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html) for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`.
+    - Note: the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+    - An Access Key ID and Secret Access Key can be created by through the management page of your user in the [IAM console](https://console.amazonaws-us-gov.com/iamv2). 
+4.  Clone the [`devops` repository](https://github.com/department-of-veterans-affairs/devops/).
 
 #### Per-Session Setup
 The following steps need to be performed each development session, since the MFA session expires and the forward proxy instances periodically get redeployed with new instance IDs.  
 
-1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. _Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell._ It should print output like "AWS Session credentials saved. Will expire in 12 hours"
+1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
+   1. Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell. 
 2. From the same terminal, discover a forward proxy instance to tunnel to in whichever environment is desired, using this command `./utilities/ssm.sh fwdproxy <dev|staging>`. The command will print the available instances and prompt you to connect a shell session to one. You can Ctrl-C out of this command at this point as you don't need to connect, you just want to print the available instances.
 3. Run the following command to establish the SSM tunnel:
 ```
