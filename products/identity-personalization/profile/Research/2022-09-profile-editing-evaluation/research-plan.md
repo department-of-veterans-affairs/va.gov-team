@@ -129,10 +129,10 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
 |High School     |            |        |        |        |        |        |        |        |        |        |         |
 |Some College    |            |        |        |        |        |        |        |        |        |        |         |
 |Associate's     |           |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |      0      |        |        |        |        |        |        |        |        |        |         |
-|Masters         |      0      |        |        |        |        |        |        |        |        |        |         |
-|Professional    |      0      |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |      0      |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |    X   |        |        |        |        |        |        |        |        |        |         |
+|Masters         |   X     |        |        |        |        |        |        |        |        |        |         |
+|Professional    |     X     |        |        |        |        |        |        |        |        |        |         |
+|Doctoral        |     X      |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |      12      |        |        |        |        |        |        |        |        |        |         |
@@ -148,7 +148,7 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|     12       |        |        |        |        |        |        |        |        |        |         |
+|VA.gov (has acct)|     12       |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
@@ -167,18 +167,6 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
 |IAL3            |            |        |        |        |        |        |        |        |        |        |         |
 
 ---
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
-
----
-
-`Assistive Tech and Cognitive Impairment will apply across cohorts`
-- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
@@ -230,8 +218,6 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
        
 
 ### Screener questions
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  
 1. Do you consider yourself to have a vision impairment? (Proceed to next question if yes)
 	* Do you need assistive technology to use your phone, such as VoiceOver on an iPhone or TalkBack on an Android device? (Answer should be yes to satisfy criteria for screen reader users)
 	* Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Answer should be yes to satisfy criteria for font size/magnification)
@@ -244,29 +230,26 @@ ALL participants must have a smartphone and are willing to complete their interv
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
 ### Prepare
 It’s ready as of 9/15/2022.
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
-* Date and time of pilot session: 
+* Date and time of pilot session:  9/23/2022, time TBD 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: 9/27-9/29
+* 
 
 ### Length of sessions
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+* 9/27 - 9:45am-7:30pm EST
+* 9/28 - 7-8am, 9:30am-7:30pm EST
+* 9/29 - 10:45am-7:30pm EST
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+## Team Roles		
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz	
 - Participant recruiting & screening:	Perigean
