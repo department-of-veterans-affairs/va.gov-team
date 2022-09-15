@@ -1,4 +1,4 @@
-# How should we test the VA-owned device concept?
+# VA-owned Device: Research Strategy and Outstanding Questions
 
 ## Research questions
 - ~~Do a subset of Veterans find our VA-owned device solution interesting and something that they would use to check-in?~~ Note: We know this from previous work.
@@ -9,7 +9,7 @@
 - Does the proposed identity verfication method match Veteran expectations?
 - Does Veteran's feedback have any implications to hardware choices?
 
-## Test Details
+## Test Details and MVP Scope Proposal
 Crossed out means that it isn't part of the MVP scope proposal or how we will test the MVP.
 
 1. Location
