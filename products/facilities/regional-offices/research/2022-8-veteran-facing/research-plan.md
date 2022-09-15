@@ -134,7 +134,7 @@ Remote, via Zoom. 
 
 ### Recruitment approach
 
-Recruit 20 clients through Perigean with a goal of interviewing 15
+Recruit 19 clients through Perigean with a goal of interviewing 15
 
 #### Primary criteria / Must have - 
 
@@ -235,6 +235,9 @@ Tues, Sept 27 | 10-11a, 12-3p, 4-6p | 6
 Wed, Sep 28   | 10-11a, 12-2p, 3-6p | 6
 Thur, Sept 29 | 10-11a, 2-6p | 5
 Fri, Sept 30  | 10-12p, 1-5p | 6
+Mon, Oct 3    | 3-6p | 3
+Tues, Oct 4   | 10-11a, 12-3p, 4-6p | 6
+Wed, Oct 5    | 10-11a, 12-2p, 3-6p | 6
 
 ## Team Roles
 
