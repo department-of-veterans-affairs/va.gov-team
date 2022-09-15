@@ -230,8 +230,6 @@ LBGTQ+
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Mon, Sept 19 [PILOT] |  | - 
-Thur, Sept 22 | 10-11a, 2-3p, 4-6p | 4 
-Fri, Sept 23  | 10-11a, 3-6p | 4
 Mon, Sept 26  | 10-11a, 3-6p | 4
 Tues, Sept 27 | 10-11a, 12-3p, 4-6p | 6
 Wed, Sep 28   | 10-11a, 12-2p, 3-6p | 6
