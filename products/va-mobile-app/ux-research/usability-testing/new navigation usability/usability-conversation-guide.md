@@ -49,7 +49,7 @@
 * Do you have the VA Health and Benefits mobile app?
   * *If yes:*
     * When did you first start using it?
-    * Where did you download it?
+    * How did you find out about it? DO you remember where you downloaded it?
     * What are the main reasons you use it?
     * How frequently do you go into the app? Daily? Weekly? Monthly?
     * What do you like best? What do you wish you could change?
