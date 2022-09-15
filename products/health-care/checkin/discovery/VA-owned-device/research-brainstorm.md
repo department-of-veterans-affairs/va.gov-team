@@ -14,6 +14,7 @@ Crossed out means that it isn't part of the MVP scope proposal or how we will te
 
 1. Location
   - **On-site**
+    - Recruit Veterans after they checked in or Veterans who are done with their appointment.
   - ~~Remote~~
 2. MVP Scope Proposal
   - **Change the screen size (responsive)**
@@ -32,9 +33,6 @@ Crossed out means that it isn't part of the MVP scope proposal or how we will te
 4. Device
   - **Tablet**
   - ~~Computer~~
-
-### Study note
-- Recruit Veterans after they checked in or Veterans who are done with their appointment.
 
 ## Overall VA-owned device outstanding questions
 - How do we get a tablet to test with and connect it to the VA network? Choose a site for the test that meets connectivity requirements.
