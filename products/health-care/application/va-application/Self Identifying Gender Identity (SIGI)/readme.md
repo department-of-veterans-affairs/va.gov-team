@@ -88,7 +88,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Self-identifying-Gender-Identity.md)
 - Finalized design prototype or mockup
      - [Birth Sex sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/pa70avR) (This design was not implemented)
-     - [Gender sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/VrVyr37)
+     - [Gender sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/KvjzaoV)
 - Content brief
 - Regression test plans
 - TestRail 
