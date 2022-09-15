@@ -9,13 +9,13 @@
 - Does the proposed identity verfication method match Veteran expectations?
 - Implications to hardware and software.
 
-## Decisions to be made before we can run a research study
+## Test Details (Bold signifies chosen option as part of MVP proposal for Veteran study)
 1. Location
   - **On-site**
   - Remote
-2. Scope (Bold signifies that it is part of MVP)
-  - **Change the screen size only (responsive)**
-  - **Identity verification
+2. Scope
+  - **Change the screen size (responsive)**
+  - **Changes to identity verification**
   - **Auto logout**
   - **Remove header/footer**
   - **Provide an easy way to quit**
@@ -31,14 +31,12 @@
   - **Tablet**
   - Computer
 
-### Things to take into account on-site
-- Computer or tablet set up for us in the waiting room. Or take something with us? How can we get a machine to test on?
-- We need to find a site that has good connections (wifi) or we need a testing location close to a waiting room that we can hard-wire in.
-- Veteran might not be will to try a UXPin prototype on site, since they would still have to check-in. Maybe we recruit Veterans after they checked in or Veterans who are done with their appointment.
+### Study note
+- Recruit Veterans after they checked in or Veterans who are done with their appointment.
 
-## Outstanding questions
-- Should any research questions be added?
-- What are the final decisions on decision 1 - 4 (specifically decision 2)?
-- What identity verfication method do we need to use? Do we need full SSN or add phone? What three pieces of data fit security requirements?
+## Overall VA-owned device outstanding questions
+- How do we get a tablet to test with and connect it to the VA network? Choose a site for the test that meets connectivity requirements.
+- What identity verfication method do we need to use? How does physically securing the device play into our options? - Shawn Adams to share what the Charleston VA-owned device solution included.
 - Are there any changes needed to the staff-facing app (staff notifications, such as when check-in started is triggered)?
-- Should we talk to staff who are part of purchasing equipment? Who would buy this? - Answer: Not at this time for this research study.
+- Should we talk to staff who are part of purchasing equipment? Who would buy this? - Answer: Not part of the initial UX research study.
+- What hardware solution are we recommending? 
