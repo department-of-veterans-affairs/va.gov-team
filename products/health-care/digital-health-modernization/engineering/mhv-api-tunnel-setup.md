@@ -7,8 +7,8 @@ This document describes the recommended setup for doing fullstack development of
 
 ## Prerequisites
 1. Developers will need AWS access, which can be requested by filing an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D) ticket in va.gov-team. 
-  * Developers should request "SSM Access to lower environment instances". The specific IAM policy needed is "SSMApplicationLowerEnvironmentAccess", which can be granted via membership in the "dsva-vfs-developers" group.
-  * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
+    * Developers should request "SSM Access to lower environment instances". The specific IAM policy needed is "SSMApplicationLowerEnvironmentAccess", which can be granted via membership in the "dsva-vfs-developers" group.
+    * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
 2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel. 
 
 ## Setup steps
@@ -17,8 +17,8 @@ This document describes the recommended setup for doing fullstack development of
 1. [Install the `aws-cli`](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 2. [Install the Session Manager plugin](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) for `aws-cli`. 
 3. [Configure AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html) for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`.
-    - Note: the region for VA.gov is GovCloud west aka `us-gov-west-1`.
-    - An Access Key ID and Secret Access Key can be created by through the management page of your user in the [IAM console](https://console.amazonaws-us-gov.com/iamv2). 
+    * Note: the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+    * An Access Key ID and Secret Access Key can be created by through the management page of your user in the [IAM console](https://console.amazonaws-us-gov.com/iamv2). 
 4.  Clone the [`devops` repository](https://github.com/department-of-veterans-affairs/devops/).
 
 #### Per-Session Setup
