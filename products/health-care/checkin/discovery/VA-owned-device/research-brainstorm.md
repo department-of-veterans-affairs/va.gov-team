@@ -11,6 +11,7 @@
 
 ## Test Details
 Crossed out means that it isn't part of MVP scope proposal/not how we will test the MVP.
+
 1. Location
   - **On-site**
   - ~~Remote~~
@@ -21,7 +22,7 @@ Crossed out means that it isn't part of MVP scope proposal/not how we will test 
   - **Remove header/footer**
   - **Provide an easy way to quit**
   - **Visual impairment - using built-in iOS capabilities and best software development practices**
-  - ~~VHIC card scanning
+  - ~~VHIC card scanning~~
   - ~~Visual design (touch targets, font sizes, etc)~~
   - ~~Editing contact information, next of kin, and emergency contact capabilities~~
 3. Type of prototype
