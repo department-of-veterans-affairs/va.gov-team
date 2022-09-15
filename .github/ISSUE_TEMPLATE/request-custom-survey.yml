@@ -1,7 +1,7 @@
 name: Request Custom Survey
 description: Use this template to request adding a custom Medallia Survey to your product pages
 title: "Request Custom Survey"
-labels: [ "VSP-contact-center" ]
+labels: [ "VSP-contact-center", "cc-survey-request" ]
 assignees:
   - jwoodman5
 body:
