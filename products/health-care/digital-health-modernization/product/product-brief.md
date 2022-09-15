@@ -23,14 +23,19 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 ## Team
 
-### Apartment Team
+### Apartment Team (aka Core Team)
 
 **Federal employees** 
--	Design: Meg Peters
+-	Design: Coulton Bunney
 -	Engineering: Christopher Froehlich
--	Product: Tracey Mulrooney
+-	Product: Leila Rassi
 
-
+**Contractors (Ad Hoc)** 
+-	Design: Jonathan Nelson
+-	Research: Robyn Singleton
+-	Engineering: Patrick Vinograd
+-	Engineering: Eric Voshall
+-	Product: Marci McGuire
 
 ## Business Partners
 Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
