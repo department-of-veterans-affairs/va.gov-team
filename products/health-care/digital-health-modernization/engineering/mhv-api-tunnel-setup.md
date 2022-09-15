@@ -14,7 +14,7 @@ This document describes the recommended setup for doing fullstack development of
 ## Setup steps
 ### SSM Tunnel
 #### One Time Setup
-1.  Ensure AWS credentials are configured for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`. Note the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+1.  Ensure AWS credentials are [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`. Note the region for VA.gov is GovCloud west aka `us-gov-west-1`.
 
 #### Per-Session Setup
 The following steps need to be performed each development session, since the MFA session expires and the forward proxy instances periodically get redeployed with new instance IDs.  
