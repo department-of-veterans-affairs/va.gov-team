@@ -65,11 +65,17 @@ Before we start, a few things I want to mention:
 * [*Confirm benefit-related service(s)*] Okay, so just to confirm, it sounds like this visit was related to [benefit type], correct? 
    *  *This should line up with answer to screener question #2. If not, ask follow up.*
    *  On the survey, you also listed **[answer to screener question #2 - benefit type]**, could you tell me about that?
+*  Before visiting the office, did you try to complete this task via another method (phone, online, etc.)?
+   * *Follow up to understand how they came to decide that visiting the office was the best way to complete the task* 
 
 ## Preparing for the Visit Questions - 8 min
 
 My first set of questions is about the steps you took to prepare yourself for visiting the office.
+
 * How did you first learn about this office?
+  * *Skip or rephrase based on answers baseline questions* 
+* When you were preparing, did you research any other benefit office locations?
+  * If so, what factors led you to pick one over another?
 * What sources did you consult to get ready for your visit?
   * Did you talk to any VA employees?
     * Did you speak to anyone who works at this location? 
@@ -79,8 +85,6 @@ My first set of questions is about the steps you took to prepare yourself for vi
 * What information did you gather from these sources?
   * Directions? Hours?
   * Details about benefit services/tasks?
-* When you were preparing, did you research any other benefit office locations?
-  * If so, what factors led you to pick one over another? 
 * What tasks did you complete before your appointment? 
   * Making an appointment?
   * Any paperwork forms?
@@ -92,7 +96,10 @@ My first set of questions is about the steps you took to prepare yourself for vi
 
 Okay, now we're going to talk specifically about the day you visited the benefit office. 
 * Where is this office located?
+  * How far away is that from where you live?
 * How did you travel to the office? 
+  * Method of transportation (car/bus, etc)?
+  * Wayfinding/directions (landmarks, GPS, printed)?
 * Did anyone accompany you on the visit?
 * Did you have any issues getting to the building (directions, parking, etc)?
   * Was the address and hours accurately represented?
