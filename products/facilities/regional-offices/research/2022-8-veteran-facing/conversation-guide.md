@@ -56,7 +56,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 2 min
 
-*  What are some of your favorite things about being involved in the Veteran community in [your city]?
+*  Can you tell me a little about yourself and your relationship to the VA?
 
 ## Baseline Questions - 3 min
 
