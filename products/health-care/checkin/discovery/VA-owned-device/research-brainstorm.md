@@ -15,7 +15,7 @@ Crossed out means that it isn't part of MVP scope proposal/not how we will test 
 1. Location
   - **On-site**
   - ~~Remote~~
-2. Scope
+2. MVP Scope Proposal
   - **Change the screen size (responsive)**
   - **Changes to identity verification**
   - **Auto logout**
