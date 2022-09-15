@@ -19,7 +19,7 @@ Flipping feature flags (super easy effort)
 **Tom:**
 Military Info
 Documentation (may be done just needs to be reviewed by Sharon)
-#46338 - military address bug, needs to speak more with Ian about this. Not sure if there’s anything for Profile to do, probably work for Ian’s team (not sure what team that is)
+#46338 - military address bug, needs to speak more with Ian (from VA Profile) about this. Not sure if there’s anything for Profile to do, probably work for VA Profile.
 
 **Liz:**
 No tickets
