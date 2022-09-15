@@ -4,7 +4,7 @@
 
 ### Planning
 - UAT Go/No Go: No UAT Planned, this is an addition of a single Yes/No question.
-- Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/American%20Indian%20question/product/UAT%20Readiness%20Checlist.md)
+- Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/American%20Indian%20question/product/Readiness%20Checlist.md)
 - Desired date range or test duration: N/A
 - Desired number of users: N/A
 - Recruitment method: N/A
