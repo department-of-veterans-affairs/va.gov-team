@@ -35,3 +35,4 @@
 - Should any research questions be added?
 - What are the final decisions on decision 1 - 4 (specifically decision 2)?
 - What identity verfication method do we need to use? Do we need full SSN or add phone? What three pieces of data fit security requirements?
+- Are there any changes needed to the staff-facing app?
