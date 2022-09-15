@@ -12,7 +12,7 @@ The addition of a payment information section should help fulfill our north star
 
 ### Veteran Journey
 Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
-
+ 
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that our MVP functionality works as expected.
