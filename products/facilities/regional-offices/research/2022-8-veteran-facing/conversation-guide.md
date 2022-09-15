@@ -150,7 +150,8 @@ Thank you again, and I hope you enjoy the rest of your day.
 ## Emergency Exit
 
 * Veteran is currently having issues with a RO or benefits issue
-  * I'm sorry to hear about that. Would it be okay if I shared your information with my contact in the Benefits Administration so they can follow up and help resolve that for you?
+  * You can call the VA customer service hotline for Benefits at 1-800-827-1000. 
+  * If you have already tried that you can also consider using the White House VA hotline. Calls to that line are answered by a live agent 24 hours a day, seven days a week, 365 days a year. The hotline is staffed by more than 60 agents who have had extensive training on VA programs and services. These agents help us to rapidly respond to systemic inefficiencies and empower VA employees to resolve Veteran concerns quickly. You can reach the White House VA hotline at 1-855-948-2311.
 * Need to cut session short for unexpected reason
   * We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
