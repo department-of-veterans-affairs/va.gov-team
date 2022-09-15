@@ -148,6 +148,10 @@ The following information is supported by **Lighthouse**:
 
 ## Frontend
 
+- [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
+
+- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
+
 - [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
 
 ## Design 
