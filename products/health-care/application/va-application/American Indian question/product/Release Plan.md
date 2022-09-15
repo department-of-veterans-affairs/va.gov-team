@@ -22,7 +22,7 @@
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: TBD.  Pending feedback on verbiage.
+- Launch Go / No Go: 09/26/2022
 - Desired date range: TBD
 - How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
 - Success criteria to be reviewed prior to advancing rollout to the next stage
@@ -31,18 +31,18 @@
 - Links to [Domo dashboards](https://va-gov.domo.com/page/447193050)
 
 #### Phased Rollout
-- 25% of users (1 week)
-  - Dates: TBD
-- 50% of users (2 weeks)
-  - Dates: TBD
+- 25% of users
+  - Dates: 09/26/2022
+- 50% of users
+  - Dates: 10/03/2022
 - 75% of users
-  - Date: TBD
+  - Date: 10/10/2022
 - 100% of users
-  - Date: TBD
+  - Date: 10/17/2022
 
 
 ## Phase 3: Go Live!
 
 ### Planning
-- Planned date: TBD.  Pending feedback on verbiage.
+- Planned date: 10/17/2022
 - Actual date: TBD
