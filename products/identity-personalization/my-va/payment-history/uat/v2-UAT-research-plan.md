@@ -53,102 +53,236 @@ Our intended audience for this research is BIPOC Veterans who have payments and 
 We'll focus our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
 ### Recruitment criteria
+Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
 
-Please recruit 12 participants for 6 completed sessions.
+`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
 
-#### Primary criteria (must-haves)
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|        16     |        8         |   8    |      0      |     0    |       0       | 
 
-**All participants**
 
-- must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
-	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
-	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
-	- If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
+### Criteria Table
 
-- must be able to screenshare via Zoom.Prior to the session, please confirm:
-	- They're comfortable sharing their screen after they've logged into VA.gov.  Financial information will be viewable to the moderator and any observers.
-	- They have Zoom downloaded prior to the session and they know how to screenshare. 
-	- **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
-	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your VA financial information will be viewable. (Answer should be yes to qualify)
+|                |Moderated   |
+|----------------|:----------:|
+|***SEX***       |            |
+|*Various*       |            |
+|Male            |            |
+|Female          |            |
+|***LGBTQ+***    |            |
+|*Various*       |            |
+|Gay             |            |
+|Lesbian         |            |
+|Bisexual        |            |
+|Asexual         |            |
+|Transgender     |            |
+|Non-Binary      |            |
+|Gender-fluid    |            |
+|Queer           |            |
+|Two-Spirit      |            |
+|       ---      |     ---    |   
+|***RACE***      |            |             
+|*Various*       |            |
+|Black           |            |       
+|White           |            |             
+|Latinx          |            |                      
+|Asian           |            |              
+|Native          |            |          
+|Pacific Islander|            |            
+|       ---      |     ---    |     
+|***AGE***       |            |
+|*Various*       |            |
+|18-24 yo        |            |
+|25-34 yo        |            |
+|35-44 yo        |            |
+|45-54 yo        |            |
+|55+ yo          |            |
+|      ---       |     ---    |
+|***BENEFITS***  |            |
+|*Various*       |            |
+|*No Ben/Ser Exp*|            |
+|Disability      |            |
+|Education       |            |
+|Employment      |            |
+|Finances        |            |
+|Healthcare      |            |
+|Housing         |            |
+|Life Insurance  |            |
+|Memorialization |            |
+|Pension         |            |
+|       ---      |     ---    |
+|***BRANCH***    |            |
+|*Various*       |            |
+|Marine Corps    |            |
+|Army            |            |
+|Navy            |            |
+|Air Force       |            |
+|Space Force     |            |
+|Coast Guard     |            |
+|Nat. Guard      |            |
+|Pub Hlth Corps  |            |
+|       ---      |     ---    |
+|***EDUCATION*** |            |
+|*Various*       |            |
+|Elementary      |            |
+|Intermediate    |            |
+|GED             |            |
+|High School     |            |
+|Some College    |            |
+|Associate's     |            |
+|Bachelors       |            |
+|Masters         |            |
+|Professional    |            |
+|Doctoral        |            |
+|       ---      |     ---    |
+|***RESIDENCE*** |            |
+|*Various*       |            |
+|Urban           |            |
+|Rural           |            |
+|       ---      |     ---    |
+|***HARDWARE***  |            |
+|*Various*       |            |
+|Desktop         |            |
+|Laptop          |            |
+|Smartphone      |            |
+|Tablet          |            |
+|       ---      |     ---    |
+|***WEBSITE***   |            |
+|*Various*       |            |
+|VA.gov(has acct)|            |
+|VA.gov(no acct) |            |
+|MyHealtheVet    |            |
+|Ebenefits       |            |
+|       ---      |      ---   |
+|***LOGIN***     |            |
+|*Various*       |            |
+|DS Logon        |            |
+|MyHealtheVet    |            |
+|ID.me           |            |
+|Login.gov       |            |
+|       ---      |      ---   |
+|***ID PROOF***  |            |
+|*Various*       |            |
+|IAL1            |            |
+|IAL2            |            |
+|IAL3            |            |
 
-- Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
+---
+**Identity Assurance Levels**
+
+- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
+
+- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
+
+- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
+
+---
+
+`Assistive Tech and Cognitive Impairment will apply across cohorts`
+- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
+|Font resizing/larger                                         |            |
+|Screen reader                                                |            |
+|Braille terminal                                             |            |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|            |
+|Closed captions                                              |            |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |            |
+|Sign language interpreter                                    |            |
+|Speech-to-speech transliterator                              |            |
+|Visual aids                                                  |            |
+|Writing on paper                                             |            |
+|Typing with phone or tablet and showing it to others         |            |
+|Caregiver                                                    |            |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|*Various*                                                    |            |
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |            |
+       
+
+### Screener
+
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   
-- Must have received education benefit or compensation/pension payments from the VA. Screener question:
-   - Have you ever received an education, compensation, or pension payment from the VA?
-   - Answering yes would qualify the participant for the study.
-
-- Must identify as other than white or Caucasian
-
-**Participant groups**
-    
-- 4 participants who have received payments from the VA in the past, but have not received a payment in the last month. Screener question (as a follow-up to the first screener above):
-	- Have you received a payment in the last 30 days? 
-	- Answering no would qualify the participant to meet this criteria.
-- 75% of participants should identify as other than male 
-- At least 50% of participants should identify as having a cognitive disability
-- At least 50% of participants should be younger than 55
-- 6-8 participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
+ > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
   
-  1. Veterans can have debt with VA, usually as a result of a VA overpayment.  Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. **Do you currently have an outstanding debt balance with VA, not including health care related debt (like co-pays)?** 
-  2. Do you have health care related debt with VA?
+ Additionally, you may provide instructions for Perigean to follow to ensure a smooth set-up.
   
-  - Answering yes to question **1 AND 2** would qualify the participant for the study.
-  - Answering yes **only to question 2** would disqualify the participant from the study.
-- 4 participants should regularly use zoom magnification tools and be able to participate on a desktop device. Screener question:
-	- Do you use screen magnification tools (for example, ZoomText, fusion) on your desktop or laptop computer?
-	- Answering yes would qualify the participant for the study.
-#### Secondary criteria (nice-to-haves)
-##### Inclusion:
-- 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
-- At least 3 Veterans living abroad (please work with researcher to coordinate timezones)
-- At least 6 Veterans who identify as Hispanic, Asian, or Native
-- At least 2 Veterans with other than honorable discharge
-- At least 3 Veterans who have an immigrant origin
+ > **Example:** ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
+  - During the session, are willing to share over Zoom a web browser window on their device
+  - Have a working microphone on their device
+  - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-##### Geographic distribution:
-- 4 participants from the east coast
-- 4 participants from the mid-west
-- 4 participants from the west coast
 
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-April 18, 2022 (tentative)
+Q4 2022
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD - Since we have very specific crtieria and were unable to find someone who meets it ourselves, we will use the first session as the test pilot. Please schedule only one person on the first day so we can make any necessary adjustments.
+* Pilot participant email: TBD
 * Date and time of pilot session: 
   * TBD
 
 ### Research sessions
 What dates do you plan to do research? 
-4/12/2022 - 4/15/2022
+
 
 ### Length of sessions
-Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 4/12/2022 | 9am - any time |	
-| 4/13/2022 | 9am - 3pm |
-| 4/14/2022 | 9am - any time |
-| 4/15/2022 | 9am - any time |
+|  |  |	
+|  |  |
+|  |  |
+|  |  |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
 - Moderator: Angela Agosto, angela.agosto@adhocteam.us
-- Research guide writing and task development (usually but not always same as moderator): Liz Lantz
-- Participant recruiting & screening:	Perigean
-- Project point of contact: Liz Lantz and Angela Agosoto
-- Participant(s) for pilot test:	TBD
+- Research guide writing and task development: Angela Agosto
+- Participant recruiting & screening: Perigean
+- Project point of contact: Angela Agosto
+- Participant(s) for pilot test: TBD
 - Note-takers: TBD
 - Observers:	
   - samara.strauss@va.gov
-  - heather.justice@adhocteam.us
-  - lihan@adhocteam.us
+  - ana@adhocteam.us
+  - erica.sauve@adhocteam.us
   - taylor.mitchell@gcio.com
   - liz.lantz@adhocteam.us
-  - christina.gednalske@adhocteam.us
