@@ -1,5 +1,5 @@
 # Initiative Brief - 10-10EZ Household section redesign
-- [Household section redesign epic #31146](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31146)
+- [Household section redesign epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 
 ## Outcome Summary
 
