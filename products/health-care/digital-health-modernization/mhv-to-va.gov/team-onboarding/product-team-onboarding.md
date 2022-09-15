@@ -19,6 +19,9 @@ Before you get started with onboarding, you will need a few key pieces of inform
 ## Communication
 Most day-to-day communications between VA.gov product team members happens in Slack.  Questions and feedback on specific GitHub requests is frequently done within the comments of the GitHub issue itself. In general, email is used infrequently and largely for communicating with VA personnel or outside vendors.
 
+## GitHub
+- [VSP GitHub Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) (privacy info, folder and file naming conventions, etc.)
+
 ### Slack Recommendations
 There are over 400 channels in the DSVA workspace, so take advantage of the channel browser or search to look for channels relevant to your work. Here are some broader recommendations:
 
