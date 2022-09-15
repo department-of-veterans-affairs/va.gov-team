@@ -1,4 +1,4 @@
-# 10-10EZ American Indian Question
+# 10-10EZ Self-Identifying Gender Identity (SIGI)
 
 ## Decision: 
 
