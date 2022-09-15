@@ -3,9 +3,10 @@
 ## Background
 Accessibility specialists have been advocating for a “one thing per page” pattern for VA.gov forms for the last year. This pattern is known to improve the usability for complex forms by reducing cognitive load, improving error messages, reducing load times and more.
 
-We’re considering this pattern for profile, but we’re not sure if there are actual user problems this would solve since profile has relatively simple forms. Through this research, we want to evaluate which, if any, usability problems would be solved by this approach.
+We’re considering this pattern for profile, but we’re not sure if there are actual user problems this would solve since profile has relatively simple forms. This research will help us identify usability problems that would be solved by this approach.
 
-We don’t have a specific product brief for this research, but we do have an overall [profile product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md), and a related [GitHub ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46871).
+ * [Profile product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+ * Related [GitHub ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46871)
 
 ### OCTO Objectives 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) :
@@ -15,7 +16,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 
 
 ### Veteran Journey
-Our product fits into [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at all stages. Veterans have personal information on file with VA from starting up and beyond.
+Our product fits into [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at all stages. Veterans have personal information on file with VA from Starting Up and beyond.
 
 ## Research Goals	
 1. Identify the problems users have editing information in their profile.
@@ -34,18 +35,11 @@ Our product fits into [Veteran journey](https://github.com/department-of-veteran
 ### Hypothesis
 * People will be able to easily update 1-2 field forms (such as phone number) with in-line editing
 * People will encounter usability hurdles with more complex forms/flows such as address validation
-* Notification settings will be easy for users to update
+* People will not encounter significant usability hurdles when updating their notification settings
+* People with cognitive disabilities will struggle the most with in-line editing
 
 ## Method	
 We’ll conduct this research through moderated usability testing by having participants log into VA.gov and use their profile.
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 The research will be conducted remotely over Zoom, using Perigean’s account.
@@ -57,36 +51,17 @@ The research will be conducted remotely over Zoom, using Perigean’s account.
 ## Recruitment	
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+We’ll focus our recruitment on Veterans (through Perigean) since the VA.gov profile doesn’t support other user roles at this time.
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Our recruitment will focus on groups that have been underrepresented in VA research so far, as well as people with cognitive disabilities, and people who use assistive technology. 
 
 ### Recruitment criteria
-Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
-
-`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
-
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |     12          |       8           |    8    |       0      |     0     |     0      | 
 
 
-### Criteria Table (Please read carefully)
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-- If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
-- ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
-- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
-- ***Various*** means you want all types of the category to be recruited.
-- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
-
-- For hardware category, select which type/s you want participants to join your session to use.
-
+### Criteria Table 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
@@ -272,7 +247,7 @@ ALL participants must have a smartphone and are willing to complete their interv
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-It’s ready as of 9/15/2022
+It’s ready as of 9/15/2022.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
