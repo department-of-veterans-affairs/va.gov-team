@@ -114,7 +114,7 @@ Collab Cycle not applicable for this change
 - May 2022: Design work finalized
 - July 2022: Development work finalized
 - July 2022: Complete QA?
-- August 2022: Launched to 25% of users
+- August 22, 2022: Launched to 25% of users
 
 
 ---
