@@ -1210,9 +1210,10 @@ none
 ```diff
 Type of care: {Type of Care}
 
-Community care
+- Community care 
++ Community care proivder
 {Provider name}
-+ Specialty: {treatment specialty}
++ {Treatment specialty}
 @@ GH46903 @@ 
 
 {Provider address}
@@ -1266,9 +1267,10 @@ This appointment occurred in the past.
 ```diff
 Type of care: {Type of Care}
 
-Community care
+- Community care 
++ Community care proivder
 {Provider name}
-+ Specialty: {treatment specialty}
++ {Treatment specialty}
 @@ GH46903 @@ 
 
 {Provider address}
@@ -1314,9 +1316,10 @@ n/a
 ```diff
 Type of care: {Type of Care}
 
-Community care
+- Community care 
++ Community care proivder
 {Provider name}
-+ Specialty: {treatment specialty}
++ {Treatment specialty}
 @@ GH46903 @@ 
 
 {Provider address}
