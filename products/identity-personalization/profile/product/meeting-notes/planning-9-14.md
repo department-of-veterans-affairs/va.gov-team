@@ -26,13 +26,16 @@ No tickets
 
 ### Accessibility Discussion:
 
-*Overview:* Conversation that has been ongoing for a year or so. Not just for Profile but across va.gov. Idea of editing one thing per page. Reducing cognitive load, helps low vision users, makes error handling simpler. Not 100% it's appropriate for Profile in all cases. Profile is already very simple so it could be a good use case to test this process. Address validation could probably benefit from this exercise. 
-Do a study where we recruit people with cognitive disabilities, lower levels of education, people on mobile to see what kind of editing problems they have on Profile.
-Do we have analytics that can help us see how often people are running into issues editing things on Profile
+*Overview:* The conversation around this work has been ongoing for a year or so. This is not just for Profile but across va.gov. The idea is to edit one thing per page. 
+
+*Goal:* Reduce cognitive load, help low vision users, makes error handling simpler. 
+
+*Notes:* Not 100% sure it's appropriate for Profile in all cases. Profile is already very simple so it could be a good use case to test this process. Address validation could probably benefit from this exercise. We could do a study where we recruit people with cognitive disabilities, lower levels of education, or people on mobile to see what kind of editing problems they have on Profile.
+Do we have analytics that can help us see how often people are running into issues editing things on Profile?
 Example from the VAOS team - https://design.va.gov/patterns/help-users-to/complete-a-sub-task 
 Have we heard any feedback from users on accessibility? No, most issues found were from our own teams. However, we’ve never taken users through complex flows.
 Research to validate if we have any problems that need to be addressed
-Next steps - Liz to do some research planning
+- Next steps - Liz to do some research planning
 
 ### Accessibility Audit:
 Defect 4 - would be a large effort on the engineering side but it comes up often in accessibility audits. This would also require some design effort as well. Sharon and Samara to touch base offline to discuss priorities. Samara is good with us prioritizing this over other work if needed.
