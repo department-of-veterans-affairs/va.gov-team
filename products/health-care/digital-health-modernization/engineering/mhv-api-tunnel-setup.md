@@ -25,7 +25,7 @@ This document describes the recommended setup for doing fullstack development of
 The following steps need to be performed each development session, since the MFA session expires and the forward proxy instances periodically get redeployed with new instance IDs.  
 
 1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
-   1. Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell. 
+   * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell. 
 2. From the same terminal, discover a forward proxy instance to tunnel to in whichever environment is desired, using this command `./utilities/ssm.sh fwdproxy <dev|staging>`. The command will print the available instances and prompt you to connect a shell session to one. You can Ctrl-C out of this command at this point as you don't need to connect, you just want to print the available instances.
 3. Run the following command to establish the SSM tunnel:
 ```
