@@ -7,7 +7,7 @@
   - Do we need to make touch target (button size) changes?
   - Do we need to make any workflow order changes?
 - Does the proposed identity verfication method match Veteran expectations?
-- Implications to hardware and software.
+- Does Veteran's feedback have any implications to hardware choices.
 
 ## Test Details (Bold signifies chosen option as part of MVP proposal for Veteran study)
 1. Location
