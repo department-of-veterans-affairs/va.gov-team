@@ -9,10 +9,11 @@
 - Does the proposed identity verfication method match Veteran expectations?
 - Does Veteran's feedback have any implications to hardware choices?
 
-## Test Details (Bold signifies chosen option as part of MVP proposal for Veteran study)
+## Test Details
+Crossed out means that it isn't part of MVP scope proposal/not how we will test the MVP.
 1. Location
   - **On-site**
-  - Remote
+  - ~~Remote~~
 2. Scope
   - **Change the screen size (responsive)**
   - **Changes to identity verification**
@@ -20,16 +21,16 @@
   - **Remove header/footer**
   - **Provide an easy way to quit**
   - **Visual impairment - using built-in iOS capabilities and best software development practices**
-  - VHIC card scanning
-  - Visual design (touch targets, font sizes, etc)
-  - Editing contact information, next of kin, and emergency contact capabilities
+  - ~~VHIC card scanning
+  - ~~Visual design (touch targets, font sizes, etc)~~
+  - ~~Editing contact information, next of kin, and emergency contact capabilities~~
 3. Type of prototype
   - **Hi-fi Sketch or UX Pin prototype**
-  - Coded prototype
-  - Paper or low-fi prototype (allows more focus on the workflow order)
+  - ~~Coded prototype~~
+  - ~~Paper or low-fi prototype (allows more focus on the workflow order)~~
 4. Device
   - **Tablet**
-  - Computer
+  - ~~Computer~~
 
 ### Study note
 - Recruit Veterans after they checked in or Veterans who are done with their appointment.
