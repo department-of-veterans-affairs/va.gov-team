@@ -2,7 +2,7 @@
 
 ## Decision: 
 
-- [ ] [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/Release%20Plan.md)
+- [ ] [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/Release%20Plan.md) complete and ready to execute against
 
 - [ ] All launch-blocking accessibility issues fixed
 
