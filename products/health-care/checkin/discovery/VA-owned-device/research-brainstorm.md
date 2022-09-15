@@ -10,7 +10,7 @@
 - Does Veteran's feedback have any implications to hardware choices?
 
 ## Test Details
-Crossed out means that it isn't part of MVP scope proposal/not how we will test the MVP.
+Crossed out means that it isn't part of the MVP scope proposal or how we will test the MVP.
 
 1. Location
   - **On-site**
