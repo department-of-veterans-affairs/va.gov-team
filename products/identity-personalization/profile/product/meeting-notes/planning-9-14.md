@@ -17,9 +17,8 @@ Alert
 Flipping feature flags (super easy effort)
 
 **Tom:**
-Military Info
-Documentation (may be done just needs to be reviewed by Sharon)
-#46338 - military address bug, needs to speak more with Ian (from VA Profile) about this. Not sure if there’s anything for Profile to do, probably work for VA Profile.
+- #47040 - Notification Settings documentation may be done, just needs to be reviewed by Sharon.
+- #46338 - Military Address Bug is caused by data coersion in VA Profile.  Tom has spoken with with Ian McEwan (from VA Profile team) about this. Not sure if there’s anything for us to do; this is probably work for VA Profile.  Need to discuss further with VA Profile team.  
 
 **Liz:**
 No tickets
