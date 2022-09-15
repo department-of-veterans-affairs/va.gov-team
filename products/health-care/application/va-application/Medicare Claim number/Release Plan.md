@@ -45,4 +45,4 @@
 
 ### Planning
 - Planned date: 08/22/2022
-- Actual date: TBD
+- Actual date: 08/22/2022
