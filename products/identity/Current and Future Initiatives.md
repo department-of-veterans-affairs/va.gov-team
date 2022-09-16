@@ -7,7 +7,7 @@ Welcome to the Identity folder. This directory contains information about user i
 ## Current Team Objectives
 
 
-### Sign-in Service Pilot  
+### [Sign-in Service](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/42469) 
 _Current Status:_ Actively working on this.  Currently performing testing.
 We are working to stand up a new sign-in service for VA.gov, and ultimately other VA and .gov properties.  The goal is to replace the existing SSOe solution with a newer, faster, and more cost-effective solution built on modern, scalable technologies.  We are currently performing initial tests of our web-based Sign-in Service, as well as working with the VA.go mobile team to implement the service within their app.  Our target for the mobile app is to begin limited user testing in September.
 
@@ -27,7 +27,7 @@ We are working to stand up a new sign-in service for VA.gov, and ultimately othe
 The existing system (IAM/ISAM) is built on older technology.  It provides a less than ideal user experience due to issues with certain browsers, long sign-in times, and a high cost to the VA.  Additionally, it is an opaque system where we are reliant on a third-party (IAM) for any fixes.  Our sign-in service is built on a modern technology stack, offers improved performance and significant cost savings, as well as allowing for future development and easy resolution of issues.  
 
 
-### Inherited Proofing  
+### [Inherited Proofing ](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/34838) 
 _Current Status:_ Moving our screens from wireframe into code.
 We are working to support inherited proofing for users of legacy CSP's such as DSLogon and MyHealtheVet, so that they are able to transition to a newer, more secure CSP such as Login.gov or ID.me.  Presently, we have finished several rounds of user research covering accessibility as well as general user sentiment and understanding.  We have created our initial back-end work and are waiting for our Login.gov partners to implement their work so that we can plan user pilots.
 
@@ -42,7 +42,7 @@ Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DS
 **What's Next**  
 At present, our objective is for Design (Amanda) and Front-end (Alex, Afia) to update our wireframes based on our research and then migrate those wireframes into code.  Once this is done, we just need to wait for Login.gov to complete their side of things.  Our goal is to begin transitioning eligible users before EOY 2022.
 
-### Terms and Conditions
+### [Terms and Conditions](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/45895)
 _Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.  
 
 Within the VA and its associated properties such as MHV, there is a need to roll out a unifed Terms and Conditions for users to accept.  The goal of this work is to provide a single point for updating and tracking acceptance of the Terms and Conditions in a clean, auditable manner.  At present this work is relatively minimal on our part, as the existing solution is being decoupled from CERNER and rolled into the IAM/SSOe user flow.  However, as we roll out our sign-in service, we will need to implement the existing solution with an eye towards potentially making our own.
