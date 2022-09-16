@@ -57,7 +57,7 @@ There is no singular backend that supports this section. Largely, this section i
 
 ### How to Access and Test
 
-[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+[See profile product outline for information on how to test account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
 
 ## Frontend
 
