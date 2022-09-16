@@ -81,13 +81,13 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Black           |       4     |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |     4       |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |     4       |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
+|*Various*       |     12       |        |        |        |        |        |        |        |        |        |         |
+|Black           |       2     |        |        |        |        |        |        |        |        |        |         |               
+|White           |      X      |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |     2       |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |     2       |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |     2       |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|    2       |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |     8       |        |        |        |        |        |        |        |        |        |         |
@@ -140,7 +140,7 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
 |Rural           |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   10 - any device is acceptable for users who are using screen readers or zoom magnification. Otherwise, we want mobile users if they do not use assistive technology.         |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
 |Smartphone      |     12       |        |        |        |        |        |        |        |        |        |         |
@@ -236,9 +236,8 @@ It’s ready as of 9/15/2022.
 * Pilot participant email:
 * Date and time of pilot session:  9/23/2022, time TBD 
 
-### Research sessions
+### Research dates
 * Planned dates of research: 9/27-9/29
-* 
 
 ### Length of sessions
 * Session length: 45 minutes
@@ -247,7 +246,7 @@ It’s ready as of 9/15/2022.
 ### Availability
 * 9/27 - 9:45am-7:30pm EST
 * 9/28 - 7-8am, 9:30am-7:30pm EST
-* 9/29 - 10:45am-7:30pm EST
+* 9/29 - 10:45am-5:30pm EST
 	
 ## Team Roles		
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
