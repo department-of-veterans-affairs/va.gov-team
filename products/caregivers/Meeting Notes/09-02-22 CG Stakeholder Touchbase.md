@@ -1,4 +1,4 @@
-## September 9, 2022 CG Stakeholder Touchbase
+## September 2, 2022 CG Stakeholder Touchbase
 
 ### Notes from Tham 
 
