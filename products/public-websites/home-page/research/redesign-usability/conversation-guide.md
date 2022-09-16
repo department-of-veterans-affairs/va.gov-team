@@ -1,4 +1,4 @@
-# Conversation Guide: VA.gov Home Page Redesign Usability Testing
+# Conversation Guide: VA.gov Home Page Redesign ROUND 2 Usability Testing
 
 ## Moderator logistics
 
@@ -8,8 +8,6 @@
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
-- *Sticky note: Which tasks to do or skip*
-- *Blank sticky notes for benefits p has, doesn't have but interested in*
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -19,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page: **bit.ly/3Ix90HN (https://staging.va.gov/homepage-test/)** 
+- *Open a standalone browser window to web page: **bit.ly/TBD (https://staging.va.gov/homepage-test/)** 
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -101,7 +99,7 @@ I have a web page that I'd like you to look at while you're sharing your screen 
 
 While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/3Ix90HN (3, upper case “i”, x, 90, HN)**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/TBD (say any ambiguous letters/numbers)**
 - *(If dictate, skip the “http://” part)*
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
@@ -449,10 +447,6 @@ Your employer asked you to provide proof of your military service and honorable 
      1. How often should the information be changed?
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
 2. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
-3. I'd like to know more about how you usually look for information on web pages in general--not specifically VA or government websites. Can you tell me about a web page that you went to recently and how you found what you were looking for on it? 
-    1. *RECORD: type into search box / click on links (browse) / _______________________*
-    1. Do you ever use a search box on the page?
-    2. If so, when?
 3. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
@@ -471,8 +465,8 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on July 12, 2022
-- Reviewed and approved by Shane Strassberg on July 13, 2022
+- Reviewed and approved by Dave Conlon (PO) on 
+- Reviewed and approved by Shane Strassberg on 
 
 ## Template for Notetaking
-[Notes Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/notes-template.md)
+[Notes Template]
