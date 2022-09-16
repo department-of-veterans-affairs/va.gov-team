@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 9/20/2022 (FUTURE)
-- Updated Pre-Check-in and Check-in to require the use of the Veteran's date of birth instead of their last 4 when performing identity verification (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). Please note that we will be releasing this change to 10% of users initially, while the other 90% will verify their identity using their last 4. If everything looks good we will increase the number of users accessing this feature by 20% per day until we have reached 100%.
+- Updated Pre-Check-in and Check-in to require the use of the Veteran's date of birth instead of their last 4 when performing identity verification (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). Please note that we will be releasing this change to 10% of users initially, while the other 90% will verify their identity using their last 4. If everything looks good we will increase the number of users accessing this feature by 20% per business day until we have reached 100%.
     - [Epic 39193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 
 ### 9/14/2022
