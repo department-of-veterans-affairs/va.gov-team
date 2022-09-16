@@ -56,7 +56,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|        16     |        8         |   8    |      0      |     0    |       0       | 
+|        12     |        8         |   8    |      0      |     0    |       0       | 
 
 
 ### Criteria Table
@@ -66,9 +66,9 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |***SEX***       |            |
 |*Various*       |            |
 |Male            |            |
-|Female          |            |
+|Female          |      6     |
 |***LGBTQ+***    |            |
-|*Various*       |            |
+|*Various*       |      4     |
 |Gay             |            |
 |Lesbian         |            |
 |Bisexual        |            |
@@ -80,25 +80,25 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Two-Spirit      |            |
 |       ---      |     ---    |   
 |***RACE***      |            |             
-|*Various*       |            |
-|Black           |            |       
+|*Various*       |      2     |
+|Black           |      4     |       
 |White           |            |             
-|Latinx          |            |                      
-|Asian           |            |              
-|Native          |            |          
-|Pacific Islander|            |            
+|Latinx          |      2     |                      
+|Asian           |      2     |              
+|Native          |      1     |          
+|Pacific Islander|      1     |            
 |       ---      |     ---    |     
 |***AGE***       |            |
-|*Various*       |            |
+|*Various*       |      8     |
 |18-24 yo        |            |
 |25-34 yo        |            |
 |35-44 yo        |            |
 |45-54 yo        |            |
-|55+ yo          |            |
+|55+ yo          |      4     |
 |      ---       |     ---    |
 |***BENEFITS***  |            |
-|*Various*       |            |
-|*No Ben/Ser Exp*|            |
+|*Various*       |      12    |
+|*No Ben/Ser Exp*|       X    |
 |Disability      |            |
 |Education       |            |
 |Employment      |            |
@@ -110,7 +110,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Pension         |            |
 |       ---      |     ---    |
 |***BRANCH***    |            |
-|*Various*       |            |
+|*Various*       |     12     |
 |Marine Corps    |            |
 |Army            |            |
 |Navy            |            |
@@ -121,13 +121,13 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Pub Hlth Corps  |            |
 |       ---      |     ---    |
 |***EDUCATION*** |            |
-|*Various*       |            |
+|*Various*       |      4     |
 |Elementary      |            |
 |Intermediate    |            |
 |GED             |            |
-|High School     |            |
-|Some College    |            |
-|Associate's     |            |
+|High School     |      4     |
+|Some College    |      2     |
+|Associate's     |      2     |
 |Bachelors       |            |
 |Masters         |            |
 |Professional    |            |
@@ -135,33 +135,33 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |       ---      |     ---    |
 |***RESIDENCE*** |            |
 |*Various*       |            |
-|Urban           |            |
-|Rural           |            |
+|Urban           |      6     |
+|Rural           |      6     |
 |       ---      |     ---    |
 |***HARDWARE***  |            |
-|*Various*       |            |
+|*Various*       |      12    |
 |Desktop         |            |
 |Laptop          |            |
-|Smartphone      |            |
+|Smartphone      |      6     |
 |Tablet          |            |
 |       ---      |     ---    |
 |***WEBSITE***   |            |
 |*Various*       |            |
-|VA.gov(has acct)|            |
+|VA.gov(has acct)|      12    |
 |VA.gov(no acct) |            |
 |MyHealtheVet    |            |
 |Ebenefits       |            |
 |       ---      |      ---   |
 |***LOGIN***     |            |
-|*Various*       |            |
+|*Various*       |      12    |
 |DS Logon        |            |
 |MyHealtheVet    |            |
 |ID.me           |            |
 |Login.gov       |            |
 |       ---      |      ---   |
 |***ID PROOF***  |            |
-|*Various*       |            |
-|IAL1            |            |
+|*Various*       |      12    |
+|IAL1            |      X     |
 |IAL2            |            |
 |IAL3            |            |
 
@@ -182,8 +182,8 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
-|*Various*                                                    |            |
-|Font resizing/larger                                         |            |
+|*Various*                                                    |      2     |
+|Font resizing/larger                                         |      2     |
 |Screen reader                                                |            |
 |Braille terminal                                             |            |
 |Speech recognition sftw                                      |            |
@@ -213,7 +213,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    |            |
+|*Various*                                                    |      6     |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -227,19 +227,30 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Reading difficulties                                         |            |
 |Low tolerance for cognitive overload                         |            |
        
+  
+### Screener questions
+1. Do you consider yourself to have a vision impairment? (Proceed to next question if yes)
+	* Do you need assistive technology to use your phone, such as VoiceOver on an iPhone or TalkBack on an Android device? (Answer should be yes to satisfy criteria for screen reader users)
+	* Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Answer should be yes to satisfy criteria for font size/magnification)
 
-### Screener
+2. **All** participants should have received education benefit or compensation/pension payments from the VA. Screener question:
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  - Have you ever received an education, compensation, or pension payment from the VA?
+
+  - Answering yes would qualify the participant for the study.
+
+- **At least 8** participants should have incurred education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener questions:
+
+  1. Do you have education, compensation, or pension debt with VA?
+  2. Do you have health care related debt with VA, such as copays?
+
+  - Answering yes to question **1 OR 2** would qualify the participant for the study.
   
- > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-  
- Additionally, you may provide instructions for Perigean to follow to ensure a smooth set-up.
-  
- > **Example:** ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
-  - During the session, are willing to share over Zoom a web browser window on their device
+### Additional instructions  
+ALL participants must have a smartphone and are willing to complete their interview that device. They also need to:
+  - be willing to log into their VA.gov account and share over Zoom in a web browser window on their device
   - Have a working microphone on their device
-  - Have Zoom downloaded to their device prior to the session and know how to share their screen
+  - Have Zoom downloaded to their device prior to the session
 
 
 ## Timeline
@@ -254,7 +265,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
-
+TBD
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
