@@ -31,6 +31,8 @@ N/A
 
 ## How to reproduce
 
+See [profile staging users and test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile.md) and [profile product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test) and for information on how to test account security
+
 ### Notes
 - Any LOA3 user can access Account security information
 - You can test with any staging user
