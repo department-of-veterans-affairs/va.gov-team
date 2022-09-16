@@ -6,10 +6,12 @@
 None
 
 #### Discovery Sprint Goals (TENTATIVE) 
-8 Kristen; 5 Ben; 5 Ya-Ching
+7 Kristen; 5 Ben; 5 Ya-Ching
 - [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Start research plan (5 Kristen)
+    - Collaborate with Shawn to learn what has been tried research plan (3 Kristen)
     - Determine login methods we must use (3 Kristen)
+- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)]
+    - Monitor unmoderated study (1 Kristen)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish Study Report (5 Ben)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
