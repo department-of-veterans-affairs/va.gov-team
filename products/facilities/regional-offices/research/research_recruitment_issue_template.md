@@ -25,8 +25,9 @@
 
 **Editor-facing research**
 * The Research Lead should work with Product Manager, Product Owner, and Business Stakeholders to identify a list of potential participants
-* The Research Lead contacts and schedules participants 
+* The Research Lead contacts and schedules participants (using their VA.gov email address of the shared VADrupalCMS@va.gov email address)
 * Consider creating a Calendly link (or equivalent) with available timeslots so that participants can pick the time that works for them
+* Ensure that teleconferencing rooms connected to the calendar events have correct permissions for Moderator(s)
 * The Research Lead should create placeholder calendar events to block those time slots and invite other team members 
 * Once participants are scheduled, the Research Lead invites other team members to official calendar events
 
@@ -36,7 +37,7 @@
 * [Planning In-person Studies](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants#RecruitingParticipants-In-personmoderatedstudies)
 
 ## Acceptance Criteria
-- [ ] The target number of participants have been recruited and scheduled
+- [ ] The target number(s) of participants (overall & primary criteria targets) have been recruited and scheduled
 - [ ] Moderator(s), notetaker(s), and observer(s) are invited to research sessions
 - [ ] Pilot session is scheduled
 
