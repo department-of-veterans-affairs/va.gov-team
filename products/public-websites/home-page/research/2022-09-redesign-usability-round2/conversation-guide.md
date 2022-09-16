@@ -159,6 +159,15 @@ FOR EVERYONE
     
 </details>
 
+### DRAFT IDEAS for tasks:
+- something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
+  - Impressions? *(news / benefit / ad / ____________)* 
+  - What do people try to click on? *(headline / image / Read the full article / somewhere else in box)*
+  - followup: How would you see if there's other information that's relevant to you? *(More VA news / __________)*
+- at least one task that's not in the Popular list
+- the 4 most difficult tasks from the first round of testing, plus "message your doctor"
+- one of the education tasks (b/c the education links no longer in Other search tools)
+
 ### FOR EVERYONE
 *Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
 - How would you sign in? *(RECORD: button in header / hero by photos)*
@@ -441,10 +450,8 @@ Your employer asked you to provide proof of your military service and honorable 
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
-1. I'd like to ask you about a specific part of the first page that you looked at: the dark blue section on Veteran homelessness. 
-     1. What are your thoughts on what you see here in this section of the page?   
-     1. If there wasn't information on homelessness here, what kind of information might you expect or want to see here?
-     1. How often should the information be changed?
+1. I'd like to ask you about a specific part of the first page: Pathfinder: The front door for engaging with VA. 
+     1. What are your impressions of what you see here?   
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
 2. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
 3. Is there anything else that we haven't talked about that you think I should know? 
