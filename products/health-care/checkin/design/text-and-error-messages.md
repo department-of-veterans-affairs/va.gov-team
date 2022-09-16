@@ -1,10 +1,6 @@
 # Text messages and Error Messages 
 This document will serve as hub to all the source of truths documentation for all check-in and pre-check-in text message and error message wording.
 
-Jump to...
-- [Check-in](#checkin)
-- [Pre-check-in](#precheckin)
-
 ## Check-in <a name="checkin"></a> 
 This [Sketch file](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm) shows the overall user flow and decision points. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
 
