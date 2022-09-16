@@ -1,7 +1,7 @@
 ---
 name: Authorized Experience Profile New Issue Template
 about: Basic template for creating Authorized Experience Profile team issues
-title: Practice Area - Auth Profile - [Project] - [Issue Name]
+title: Practice Area | Profile | [Project]| [Issue Name]
 labels: needs-grooming, profile, vsa, sprint-planning, vsa-authenticated-exp
 assignees: ''
 
@@ -11,11 +11,21 @@ assignees: ''
 
 Describe the issue background and scope
 
+
 ## Tasks
-- [ ] Add tasks here that must be completed
+- [ ] Conduct Unit tests 
+- [ ] Run E2E tests covering current code and regression
+- [ ] All axe checks pass
+- [ ] Deploy to Staging behind feature flag
 
 ## Acceptance Criteria
-- [ ] Add what must occur for this issue to be considered complete
+- [ ] Complete all unit testing
+- [ ] End-to-end tests showing 0 violations
+- [ ] Notify Product Manager that the change is ready to be validated on Staging
+- [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
+- [ ] Deploy changes to Production using feature flag
+
+
 
 ## How to configure this issue
 - Include practice area in title -- e.g., [Design], [FE], [BE]
