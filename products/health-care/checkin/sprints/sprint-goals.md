@@ -6,25 +6,31 @@
 None
 
 #### Discovery Sprint Goals (TENTATIVE) 
+8 Kristen; 5 Ben; 5 Ya-Ching
 - [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Create research plan & conversation guide
+    - Start research plan (5 Kristen)
+    - Determine login methods we must use (3 Kristen)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finish Study Report (5 Ben)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Finish study report & present
+    - Finish study report & present (5 Ya-Ching)
     
 #### Design & Content Sprint Goals (TENTATIVE) 
+3 Ben; 6 Zach; 2 Ya-Ching
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finalize content & update wireframes    
-    - Update user flows
+    - Finalize content & update wireframes (2 Ben/Zach) 
+    - Hold mid-point review with Collab Cycle (1 Ben/Zach)
 - [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Create prototype to test with end users
+    - Create prototype to test with end users (3 Zach)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-    - Update design & release artifacts
+    - Update design & release artifacts (2 Ya-Ching)
 
 #### Engineering Sprint Goals (TENTATIVE) 
+17 FE; 16 BE
 - [Production Support]() (~8 FE/BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Create infrastructure to talk to the BTSSS API
-    - Start to create new pages
+    - Create infrastructure to submit claim to the BTSSS API (13 BE)
+    - Create new pages (14 FE)
 
 ## 9/7/2022 
 
