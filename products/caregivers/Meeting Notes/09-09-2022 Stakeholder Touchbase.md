@@ -1,3 +1,7 @@
+## September 9, 2022 CG Stakeholder Touchbase
+
+### Notes
+
 - Special character issue
   - Users have seen applications that come from VA.gov with special characters "wouldn't translate well"
     - Apostrophes are generating as question marks
