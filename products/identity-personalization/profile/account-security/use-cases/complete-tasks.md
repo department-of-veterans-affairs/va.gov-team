@@ -41,4 +41,4 @@ See [profile staging users and test cases](https://github.com/department-of-vete
 1. Go [staging.va.gov/profile/account-security](staging.va.gov/profile/account-security)
 2. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
 3. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
-4. Select Account security in the sidebar menu
+4. Select Account security in the sidebar menu.
