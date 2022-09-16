@@ -21,45 +21,34 @@ If you don't think this is the right form for you, go back and review the other 
 << Go back to review your options
 
 ## Filing if your Supplemental Claim isn't for a disability
-We can accept online Supplemental Claims only for disability claims at this time. You'll need to fill out and submit VA Form 20-0995 by mail or in person.
+We can accept online Supplemental Claims only for disability claims at this time. For other types of claims, you'll need to fill out and submit VA Form 20-0995 by mail or in person.
 Send the completed form to the benefit office that matches the benefit type you select on the form.
 
 Find the address for where to mail your form (text link) 
 
-[Download VA Form 20-0995 PDF](https://www.va.gov/find-forms/about-form-20-0995/)
+[Download VA Form 20-0995 (PDF)](https://www.va.gov/find-forms/about-form-20-0995/)
 
 *error*
-Please provide a response.
+You must choose a claim type.
 
 ---
 ## File a Supplemental Claim (VA Form 20-0995)
 Decision Review Request: Supplemental Claim
 
-When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
-
-*Save time—and save your work in progress—by signing in before starting your application*
-
-When you’re signed in to your VA.gov account: 
-
-We’ll prefill part of your application based on your account details.
-You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start your application to submit it. After 60 days, we’ll delete the application and you’ll need to start over. 
-
-Note: If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.*
-
-**Sign in to start your claim**
+When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence you want us to gather for you. A reviewer will determine whether the new evidence changes the decision.
 
 ### Follow these steps to get started
 
 If you don’t think this is the right form for you, go back and answer the questions again.
 
 #### 1. Check your eligibility
-You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before.
+Make sure you meet our eligibility requirements for Supplemental Claims before you file.
 
 What are the eligibility requirements to file a Supplemental Claim? (Expand) \
 
-In order to file a Supplemental Claim, you must add evidence that is new (or not provided to VA previously) and relevant to your case. You can file a Supplemental Claim anytime, but we recommend you file within one year from the date on your decision letter. 
+You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter. 
 
-Note: You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
+**Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
 
 [Learn more about fiduciary claims](https://www.va.gov/decision-reviews/fiduciary-claims/)
 
@@ -68,26 +57,34 @@ Note: You can’t file a Supplemental Claim if you have a fiduciary claim or a c
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
 
-Issue(s) you want VA to review: You can include all or just some of the issues VA decided. You must list the issue(s) you disagree with and the VA decision date.
+**The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
 
-Evidence: You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
+**New and relevant evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
 
 Types of Evidence (expand)
-- VA medical records and hospital records that relate to your claimed condition or that show your rated disability has gotten worse
-- Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
-- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it got worse
+- Medical records from a VA medical center, another federal health facility, or your private health care provider
+- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it got worse
 
-### 3. File your Supplemental Claim
+### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
 
-You don’t need to do anything while you’re waiting unless the VA contacts you asking for more information. If the VA schedules exams for you, be sure not to miss them.
+You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
+
+*Save time and save your work in progress*
+
+Here's how signing in now helps you: 
+
+- We can fill in some of your information for you to save you time.
+- You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it.
+
+Note: You can sign in after you start your application. But you’ll lose any information you already filled in.
 
 **Sign in to start your claim**
 
 
-How long we think this will take you to complete: 15 minutes
+How long it may take to complete this form (called "respondent burden"): 15 minutes
 
 OMB Control #: 2900-0862
 
@@ -96,15 +93,13 @@ Expiration date: 4/30/2024
 Privacy Act Statement
 
 **Need help?**
-If you need help with this form, call us at 800-698-2411 (TTY: 711). Then select 0. We’re here 24/7.
-
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 ---
 **_SIGNED IN_**
 
 Follow these steps to get started
 
-### 1. Prepare
-Check your eligibility
+### 1. Check your eligibility
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before.
 
 What are the eligibility requirements to file a Supplemental Claim? (Expand) 
