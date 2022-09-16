@@ -26,8 +26,9 @@ We are working to stand up a new sign-in service for VA.gov, and ultimately othe
 **Why does it matter?**  
 The existing system (IAM/ISAM) is built on older technology.  It provides a less than ideal user experience due to issues with certain browsers, long sign-in times, and a high cost to the VA.  Additionally, it is an opaque system where we are reliant on a third-party (IAM) for any fixes.  Our sign-in service is built on a modern technology stack, offers improved performance and significant cost savings, as well as allowing for future development and easy resolution of issues.  
 
+
 ### Inherited Proofing  
-_Current Status:_ Waiting for partners.
+_Current Status:_ Moving our screens from wireframe into code.
 We are working to support inherited proofing for users of legacy CSP's such as DSLogon and MyHealtheVet, so that they are able to transition to a newer, more secure CSP such as Login.gov or ID.me.  Presently, we have finished several rounds of user research covering accessibility as well as general user sentiment and understanding.  We have created our initial back-end work and are waiting for our Login.gov partners to implement their work so that we can plan user pilots.
 
 **Key Information**
@@ -37,6 +38,9 @@ We are working to support inherited proofing for users of legacy CSP's such as D
 
 **Why does it matter?**  
 Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DSLogon are destined to be depreciated.  The goal of the VA is to migrate these users to a modern CSP (primarily Login.gov) prior to the deadline (TBD).  
+
+**What's Next?**. 
+At present, our objective is for Design (Amanda) and Front-end (Alex, Afia) to update our wireframes based on our research and then migrate those wireframes into code.  Once this is done, we just need to wait for Login.gov to complete their side of things.  Our goal is to begin transitioning eligible users before EOY 2022.
 
 ### Terms and Conditions
 _Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.  
