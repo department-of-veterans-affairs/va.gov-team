@@ -62,7 +62,7 @@ We have realized that there are many assets within the VA, including parts of Ve
 - Once identified, we want to work with any current owners to determine if it's better for us to take ownership
 - We also want to work to improve these assets, whether or not we own them.  This includes refactoring, better documentation, security reviews, etc...
 
-**Next Steps**
+**What's Next**  
 Once we've identified a list of assets, we should start to prioritize them and work with any existing owners to figure out a good course of action for them.
 
 
