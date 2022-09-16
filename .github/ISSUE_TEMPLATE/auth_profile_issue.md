@@ -25,6 +25,12 @@ Describe the issue background and scope
 - [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
 - [ ] Deploy changes to Production using feature flag
 
+## Validation
+- Who can validate this ticket? (FE, BE, Design, PM)?
+- How can this work be validated?
+
+## Associated Tickets
+- #
 
 
 ## How to configure this issue
