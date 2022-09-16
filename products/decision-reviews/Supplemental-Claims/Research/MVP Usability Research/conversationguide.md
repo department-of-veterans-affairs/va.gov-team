@@ -23,7 +23,7 @@
 • _When the participant is ready, begin the session with the following intro._
 
 ### Intro: 2 minutes
-Thanks for joining us today. My name is Pam and I also have a few observers here with me. We are all technologists working to modernize the Veteran experience and are here to learn how to better do that. Today we're going to talk about a new feature on[ VA.gov](http://VA.gov) that will help Veterans file Supplemental Claims for disability claims that were previously denied.
+Thanks for joining us today. I’m Pam Hastings, I’m part of a team working on the process of claiming benefits on VA.gov. We have a few others from the team listening in today. There’s x (x waves or says hi), y (y waves or says hi), and z (z waves or says hi). Today we're going to talk about a new feature on[ VA.gov](http://VA.gov) that will help Veterans file Supplemental Claims for disability claims that were previously denied.
 
 Before we start, a few things I want to mention:
 
