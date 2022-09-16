@@ -22,6 +22,7 @@
 * Perigean will contact, screen, and schedule participants
 * Perigean will create official calendar events and invite team members indicated in the Research Plan 
 * If some Observers will only be invited to certain sessions, the Research Lead or Project Manager will need to coordinate that
+* The Research Lead should schedule a pilot session
 
 **Editor-facing research**
 * The Research Lead should work with Product Manager, Product Owner, and Business Stakeholders to identify a list of potential participants
@@ -31,6 +32,7 @@
   * Ensure that teleconferencing rooms connected to the calendar events have correct permissions for Moderator(s)
 * The Research Lead should create placeholder calendar events to block those time slots and invite other team members 
 * Once participants are scheduled, the Research Lead invites other team members to official calendar events
+* The Research Lead should schedule a pilot session
 
 **Field Research** and **Unmoderated Studies**
 * These types of studies have additional logistical considerations
