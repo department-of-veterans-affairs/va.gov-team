@@ -18,7 +18,7 @@ Update various product artifacts, as necessary, based on the feature release.
 - [ ] Send updated screenshots to Danielle Thierry for the Resources & Support (R&S) articles in VA.gov
 
 ## Acceptance Criteria
-- [ ] Product Guides are up-to-date (content & screenshots)
+- [ ] Product Guides are ready to be pushed to production (content & screenshots)
 - [ ] Poster is up-to-date
 - [ ] ALL screenshots are of the highest quality possible
 - [ ] [User flow diagrams are up-to-date](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm)
