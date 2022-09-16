@@ -26,32 +26,26 @@ This research will inform future iterations of the home page redesign, future re
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
-1. Are ALL participants able to easily complete tasks from the home page? *("easily" = being able to figure out where to go and not get stuck)*
-    1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
-1. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
-    1. Featured content at top of page (to left of "Create account" button)
+1. Are participants able to successfully complete tasks from the home page without getting stuck?
+    1. How do task success rates compare to those in the first round of usability testing?  
+1. Which parts of the home page do participants use to complete tasks? 
+    1. Featured VA news at top of page (PACT Act)
     2. "Create account" button
     4. The new search box 
     5. "Other search tools" 
     3. "Popular on VA.gov"
-    4. VA News
+    4. VA News content in the middle of the page (PathFinder)
     6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
-1. Do participants know when to use the "Sign in" vs. "Create account" buttons?
-1. Do participants scroll all the way down the page? Do they stop at the row of photos?
-2. Do they have any interest in signing up for an email newsletter from the VA?
-
-**DISCUSS--DELETE EVERYTHING BELOW?**
-1. When do participants search (by typing into a box) *vs.* browse (clicking on links, like the benefit hubs)?
-    1. Are there differences between browsing/learning tasks *vs.* managing tasks?
-    2. Are there differences between people more *vs.* less familiar with VA benefits? 
-3. Is there anything that participants find unclear or confusing on the home page? 
-    1. Other search tools?
-4. What are participants' expectations of the VAntage Point blog promo content?
-    1. What content would be helpful to be there?
-    2. How often should the content be refreshed?
-3. Where do participants typically go to get information and benefits from the VA? (i.e., search engine, VA.gov, call VA, etc.)
+1. Do participants know when to use the "Sign in" *vs.* "Create account" buttons?
+1. Do participants scroll all the way down the page to the footer? Do they stop at the row of photos?
+1. Is there anything that participants find unclear or confusing on the home page, especially when using a smartphone or a screen reader? 
+1. What are participants' impressions of the two new content sections (with PACT Act and Pathfinder news articles)?
+    1. Do they interpret them as news?
+    1. What do they think of the "More VA News" link?
+    1. How would they get more details on these topics?
+    1. How would they get stories on other topics?
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
@@ -60,27 +54,28 @@ In this research, we are primarily interested in the following areas of the home
 - Other search tools
 - Popular on VA.gov
 - Benefit hubs
-- VA News
+- VA News featured at top and lower down on page
 
 ### Hypotheses
-1. The streamlined design enables participants to complete tasks efficiently. 
-    1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
+1. The revised home page design will result in improved task success rates as compared to the first round of usability testing, especially including the tasks below.
+    1. The 4 tasks with the lowest success rates:
+        1. Check current disability compensation rates (60%)
+        2. Compare education benefits by school (56%)
+        3. Add spouse (Review/update dependents) (56%)
+        4. File for disability increase (50%)
+    2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
+        1. Message your doctor (83%)
+        1. Add spouse (Review/update dependents) (56%)
+1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
-
-**DISCUSS--DELETE EVERYTHING BELOW?**
-1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
-1. More participants will use the prominent sign in/sign up CTA than the button in the header.
-1. Participants will know to search for tasks not listed as "common tasks". 
-1. Participants understand where "other search tools" links will take them and what they will find there.
-1. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
-2. Most participants start with a search engine, not VA.gov.
+1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
+1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
+1. Participants understand that the news content blocks are news.
+2. Participants will be interested in the news content and know how to learn more about them.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
 wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
-
-Participants will be asked to complete some tasks based on which VA benefits they have experience with, per their responses to questions at the beginning of the session. Each participant will do a subset of the full list of tasks in the conversation guide. We will **track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions**. If we're unable to find enough participants that meet the benefit qualification for a particular task, the backup plan is to ask any participant to do that task.
-
 
 ### Research materials
 - [Link to conversation guide](). 
