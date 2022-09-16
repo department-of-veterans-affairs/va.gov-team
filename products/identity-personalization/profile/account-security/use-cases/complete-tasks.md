@@ -35,6 +35,6 @@ N/A
 - Any LOA3 user can access Account security information
 - You can test with any staging user
 
-### Add or edit personal info
+### View Account Security
 1. Go [staging.va.gov/profile/account-security](staging.va.gov/profile/account-security)
 2. Log in with any user **except** vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
