@@ -39,7 +39,7 @@ We are working to support inherited proofing for users of legacy CSP's such as D
 **Why does it matter?**  
 Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DSLogon are destined to be depreciated.  The goal of the VA is to migrate these users to a modern CSP (primarily Login.gov) prior to the deadline (TBD).  
 
-**What's Next?**. 
+**What's Next**  
 At present, our objective is for Design (Amanda) and Front-end (Alex, Afia) to update our wireframes based on our research and then migrate those wireframes into code.  Once this is done, we just need to wait for Login.gov to complete their side of things.  Our goal is to begin transitioning eligible users before EOY 2022.
 
 ### Terms and Conditions
