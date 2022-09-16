@@ -14,13 +14,13 @@ CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/
 
 ### VA.gov
 
-VA.gov's source of truth are our [product guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+VA.gov's source of truth are our [product guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides).
 
 ## Pre-check-in <a name="precheckin"></a> 
 The following Sketch files (links below) show the overall user flow and decision points for both Read-only and Editing versions. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
-  - [Read-only verion](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
-  - [Editing verion](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
+  - [Read-only version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
+  - [Editing version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
 
 ### VA.gov
 
-VA.gov's source of truth are our [product guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+VA.gov's source of truth are our [product guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides).
