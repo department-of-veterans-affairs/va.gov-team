@@ -6,32 +6,34 @@
 ## CHOOSE BENEFIT TYPE
 
 ### Is this the form I need?
-Use this Supplemental Claim VA form 20-0995 if you disagree with our decision on your claim and have new and relevant eidence to submit. 
+Use this Supplemental Claim form if you disagree with our decision on your claim and have new and relevant evidence to submit. 
 
-Answer a question to get started.
+Answer this question to get started:
 
-**What type of claim are you filing a Supplemental Claim?** (*Required)
+**What type of claim are you filing a Supplemental Claim for?** (*Required)
 
-- [ ] Disability compensation
-- [ ] Claim other than disability compensation
+- [ ] Disability compensation claim
+- [ ] Another type of claim (not a disability claim)
 
 **_Continue_**
 
-If you don't think this is the right for for you, go back and review types of decision reviews
+If you don't think this is the right form for you, go back and review the other decision review options.
+<< Go back to review your options
 
-## Non-Disability Claims
-We don’t support claims other than disability online at this time. You'll need to fill out and submit VA Form 20-0995 by mail or in person.
+## Filing if your Supplemental Claim isn't for a disability
+We can accept online Supplemental Claims only for disability claims at this time. You'll need to fill out and submit VA Form 20-0995 by mail or in person.
 Send the completed form to the benefit office that matches the benefit type you select on the form.
+
+Find the address for where to mail your form (text link) 
 
 [Download VA Form 20-0995 PDF](https://www.va.gov/find-forms/about-form-20-0995/)
 
 *error*
-
 Please provide a response.
 
 ---
-## File a Supplemental Claim
-VA Form 20-0995 (Supplemental Claim)
+## File a Supplemental Claim (VA Form 20-0995)
+Decision Review Request: Supplemental Claim
 
 When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
 
@@ -50,8 +52,7 @@ Note: If you sign in after you’ve started your application, you won’t be abl
 
 If you don’t think this is the right form for you, go back and answer the questions again.
 
-#### 1. Prepare
-Check your eligibility
+#### 1. Check your eligibility
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before.
 
 What are the eligibility requirements to file a Supplemental Claim? (Expand) \
@@ -76,7 +77,7 @@ Types of Evidence (expand)
 - Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
 - Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it got worse
 
-### 3. File your supplemental claim
+### 3. File your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
@@ -86,7 +87,7 @@ You don’t need to do anything while you’re waiting unless the VA contacts yo
 **Sign in to start your claim**
 
 
-Respondent Burden: 15 minutes
+How long we think this will take you to complete: 15 minutes
 
 OMB Control #: 2900-0862
 
@@ -95,9 +96,7 @@ Expiration date: 4/30/2024
 Privacy Act Statement
 
 **Need help?**
-If you have questions or need help filling out this form, please call our MYVA411 main information line at 800-698-2411 and select 0. We’re here 24 hours a day, 7 days a week. 
-
-If you have hearing loss, call TTY: 711.
+If you need help with this form, call us at 800-698-2411 (TTY: 711). Then select 0. We’re here 24/7.
 
 ---
 **_SIGNED IN_**
