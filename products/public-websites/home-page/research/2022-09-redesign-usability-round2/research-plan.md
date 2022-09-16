@@ -78,14 +78,8 @@ We will conduct **remote moderated usability sessions via Zoom**. Participants w
 wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
 
 ### Research materials
-- [Link to conversation guide](). 
-  - DRAFT ideas for tasks:
-    - something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
-    - something about email subscription (You want to get receive updates about changes in VA benefits or relevant legislation--WORDING TBD)
-    - at least one task that's not in the Popular list
-    - the 4 most difficult tasks from the first round of testing, plus "message your doctor"
-    - one of the education tasks (b/c the education links no longer in Other search tools)
-  - 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
+ 
 - [Link to prototype on Staging server]()
 
 	
