@@ -39,15 +39,31 @@ We are working to support inherited proofing for users of legacy CSP's such as D
 Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DSLogon are destined to be depreciated.  The goal of the VA is to migrate these users to a modern CSP (primarily Login.gov) prior to the deadline (TBD).  
 
 ### Terms and Conditions
-_Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.
+_Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.  
+
+Within the VA and its associated properties such as MHV, there is a need to roll out a unifed Terms and Conditions for users to accept.  The goal of this work is to provide a single point for updating and tracking acceptance of the Terms and Conditions in a clean, auditable manner.  At present this work is relatively minimal on our part, as the existing solution is being decoupled from CERNER and rolled into the IAM/SSOe user flow.  However, as we roll out our sign-in service, we will need to implement the existing solution with an eye towards potentially making our own.
 
 **Key Information**
-Within the VA and its associated properties such as MHV, there is a need to roll out a unifed Terms and Conditions for users to accept.  
+- Goal is for a single set of terms and conditions across all VA properties
+- Easy, single point for updating them
+- Tracking account-level acceptance of terms and conditions, including version accepted
+- When a new version is released, users should be presented with that and have to accept again 
+
+**What's Next**
+- Once the existing solution is decoupled from Cerner (by the OCC Team), we should evaluate it for implementation in the sign-in service
 
 ### VA Identity Asset Identification and Improvement
-_Current Status:_ Evaluating potential assets
+_Current Status:_ Evaluating potential assets we feel would be improved by being owned by the Identity team.  
 
+We have realized that there are many assets within the VA, including parts of Vets API and other pieces of software, that either lack clear ownership, or would be best served as being owned by the Identity team.  Our goal is to produce a list of these assets, determine ownership, and then work to improve and maintain them.  
 
+**Key Information**
+- Working to identify assets
+- Once identified, we want to work with any current owners to determine if it's better for us to take ownership
+- We also want to work to improve these assets, whether or not we own them.  This includes refactoring, better documentation, security reviews, etc...
+
+**Next Steps**
+Once we've identified a list of assets, we should start to prioritize them and work with any existing owners to figure out a good course of action for them.
 
 
 ---
