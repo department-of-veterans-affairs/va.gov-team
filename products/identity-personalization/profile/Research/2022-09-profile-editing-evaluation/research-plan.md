@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, Profile, September 2022
+# Research Plan for Authenticated Experience, Profile Editing Evaluation, September 2022
 
 ## Background
 Accessibility specialists have been advocating for a “one thing per page” pattern for VA.gov forms for the last year. This pattern is known to improve the usability for complex forms by reducing cognitive load, improving error messages, reducing load times and more.
@@ -39,21 +39,20 @@ Our product fits into [Veteran journey](https://github.com/department-of-veteran
 * People with cognitive disabilities will struggle the most with in-line editing
 
 ## Method	
-We’ll conduct this research through moderated usability testing by having participants log into VA.gov and use their profile.
+We’ll conduct this research through moderated usability testing by having participants log into VA.gov.
 
 ### Location
 The research will be conducted remotely over Zoom, using Perigean’s account.
 
 ### Research materials
-- Link to conversation guide (to come)
-- Link to example letter (to come)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
 
 ## Recruitment	
 
 ### Recruitment approach
 We’ll focus our recruitment on Veterans (through Perigean) since the VA.gov profile doesn’t support other user roles at this time.
 
-Our recruitment will focus on groups that have been underrepresented in VA research so far, as well as people with cognitive disabilities, and people who use assistive technology. 
+Our recruitment will focus on people with cognitive disabilities, and people who use assistive technology, as well as groups that have been underrepresented in VA research to date.
 
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
@@ -218,9 +217,10 @@ Our recruitment will focus on groups that have been underrepresented in VA resea
        
 
 ### Screener questions
-1. Do you consider yourself to have a vision impairment? (Proceed to next question if yes)
-	* Do you need assistive technology to use your phone, such as VoiceOver on an iPhone or TalkBack on an Android device? (Answer should be yes to satisfy criteria for screen reader users)
-	* Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Answer should be yes to satisfy criteria for font size/magnification)
+1. Do you need assistive technology to use your phone such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to next question if yes)
+	 * Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to next question if yes)
+	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
 
 ### Additional instructions  
 ALL participants must have a smartphone and are willing to complete their interview that device.  They also need to:
