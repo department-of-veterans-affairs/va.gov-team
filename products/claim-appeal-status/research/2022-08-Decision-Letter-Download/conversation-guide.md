@@ -91,11 +91,11 @@ Post-task questions:
 
 - [Does the participant understand how to navigate from the Claim Status Tool to their decision letter?]
 - [Does the participant understand what the letter is even with limited metadata associated with it?]
-- [What does the participant expect the Notification Letters page to contain?]
+- [What does the participant expect the Claim Letters page to contain?]
 
 ## Second Task: Looking for notification letter - 10 minutes
 
-- Let’s say you have received your notification letter in the mail, but you've misplaced it. You want to get a new copy from VA.gov.
+- Let’s say you have received your decision letter in the mail, but you've misplaced it. You want to get a new copy from VA.gov.
 - [VA.gov home page] Where would you go to find the decision letter?
     - Why would you expect to find it there?
 
@@ -107,7 +107,7 @@ Post-task questions:
 ## Third Task: VA Benefit Letters Page - 15 minutes
 
 - What would you expect to find in the "VA Benefit Letters Page"? 
-- [Navigate to the Letters page] Explain to me what you see here. 
+- [Navigate to the Benefit Letters page] Explain to me what you see here. 
 - What do you think is the purpose of this page? How would you use it?
 - What type of content would you expect to be on this page?
 - What do you think of this page overall, on a scale of 1 (least helpful) to 5 (most helpful)?
@@ -115,7 +115,7 @@ Post-task questions:
 
 ### Things to watch for:
 
-- [What does user expect from the VA Benefit Letters page, after seeing the Notification Letters page?]
+- [What does user expect from the VA Benefit Letters page, after seeing the CLaim Letters page?]
 - [Do they understand the distinction between inbound letters and letters they generate?]
 
 ## Post-Task Interview - 5 minutes
