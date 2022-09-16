@@ -1,27 +1,27 @@
 # Research Plan for Authenticated Experience, My VA Benefit Payments and Debts UAT, October 2022
 ## Background
-Throughout  [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research)  in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
+Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
 
-This effort aims to add payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention, as the MVP.
+This effort aims to add more detail around debt and payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention.
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history) for more details.
 
 ### OCTO-DE Objectives 
-The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
-
+The addition of timely debt and payment updates should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
 
 ### Veteran Journey
-Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
+Since Veterans can receive payments and incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
  
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that our MVP functionality works as expected.
 
-As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md):
-- We would like to validate that no major usability hurdles have been introduced during the iterations that have occurred, especially with the changes we made to the alert design.
-- We would like to learn more about challenges experienced by people who use magnification, and have cognitive considerations.
-- We would like to better understand whether or not it’s important to people see the number of outstanding debts they have.
-- We would like to better understand Veteran expectations around co-pay information on My VA.
+As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md):
+- We would like to validate that no usability hurdles have been introduced during the iterations that have occurred.
+	- We eliminated the use of red and green color and want to make sure the page is still scannable without them.
+	- We have made some content updates to align with other teams around payments and debts.
+- We would like to learn more about challenges experienced by people who use magnification, have cognitive considerations, and use screen readers.
+- 
 
 ### Outcome
 Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
