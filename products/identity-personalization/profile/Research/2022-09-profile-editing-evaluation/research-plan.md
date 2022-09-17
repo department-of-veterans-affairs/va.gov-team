@@ -14,32 +14,31 @@ This research supports the following [OCTO objectives](https://github.com/depart
 * Veterans and their families can find a single, authoritative source of information
 * Logged-in users have a personalized experience, with relevant and time-saving features
 
-
 ### Veteran Journey
 Our product fits into [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at all stages. Veterans have personal information on file with VA from Starting Up and beyond.
 
 ## Research Goals	
-1. Identify the problems users have editing information in their profile.
+1. Learn whether or not our edit-in-place pattern presents major usability problems for people with cognitive disabilities on mobile devices.
 2. Identify any other usability hurdles in profile.
 
+**Note:** In this study, we’re going to test with a group of Veterans that would be most likely to have challenges with edit in place functionality: people with cognitive disabilities, those who use assistive technology, and those who have limited screen real estate.  These are the people we are referring to when we say “people” throughout the rest of this document.
+
 ### Outcome
-* The findings from this research will help our team determine if a “one thing per page” pattern is appropriate for any portions of profile.
-* We’ll also identify other usability hurdles we can improve for users by iterating on our design.
+The findings from this research will help our team understand how well our current profile editing pattern supports self-service for managing personal information. We’ll use these findings to plan future iterations.
 
 ### Research questions
-1. What challenges do users encounter related to in-line editing, especially address information and notification preferences?
-2. How easily can users navigate the address validation flow?
-3. Do users encounter any usability hurdles with updating notification settings?
-
+1. What challenges do people encounter related to in-line editing, especially address information and notification preferences?
+2. How easily can people navigate the address validation flow?
+3. Do people encounter any usability hurdles with updating notification settings?
 
 ### Hypothesis
-* People will be able to easily update 1-2 field forms (such as phone number) with in-line editing
+* people will be able to easily update 1-2 field forms (such as phone number) with in-line editing
 * People will encounter usability hurdles with more complex forms/flows such as address validation
 * People will not encounter significant usability hurdles when updating their notification settings
-* People with cognitive disabilities will struggle the most with in-line editing
+* If a people can edit their profile without major challenges, we can be more confident our edit-in-place pattern works well for *all* Veterans.
 
 ## Method	
-We’ll conduct this research through moderated usability testing by having participants log into VA.gov.
+We’ll conduct this research through moderated usability testing by having people log into VA.gov on a mobile device.
 
 ### Location
 The research will be conducted remotely over Zoom, using Perigean’s account.
@@ -50,14 +49,12 @@ The research will be conducted remotely over Zoom, using Perigean’s account.
 ## Recruitment	
 
 ### Recruitment approach
-We’ll focus our recruitment on Veterans (through Perigean) since the VA.gov profile doesn’t support other user roles at this time.
-
 Our recruitment will focus on people with cognitive disabilities, and people who use assistive technology, as well as groups that have been underrepresented in VA research to date.
-
+  
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|     12          |       8           |    8    |       0      |     0     |     0      | 
+|     12          |       8           |    8    |       8      |     8     | 8      | 
 
 
 ### Criteria Table 
@@ -224,7 +221,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 
 ### Additional instructions  
 ALL participants must have a smartphone and are willing to complete their interview that device.  They also need to:
-  - be willing to log into their VA.gov account and share over Zoom in a web browser window on their device
+  - be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
 
@@ -233,14 +230,14 @@ ALL participants must have a smartphone and are willing to complete their interv
 ### Prepare
 It’s ready as of 9/15/2022.
 
-* Pilot participant email:
+* Pilot participant email: 
 * Date and time of pilot session:  9/23/2022, time TBD 
 
 ### Research dates
 * Planned dates of research: 9/27-9/29
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 minutes for sessions without screenreaders, 75 minutes for sessions with screenreaders.
 * Buffer time between sessions: 30 minutes
 
 ### Availability
