@@ -27,9 +27,15 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-Today we're going to talk about making updates to the personal information VA has on file for you.  We’re interested to learn how our current pages support Veterans when they need to make updates.
+Today we're going to talk about making updates to the personal information VA has on file for you.  We’re interested to learn how our current pages support Veterans on their phone when they need to make updates.
 
-Before we start, a few things I want to mention:
+*If Veteran has joined from a desktop/laptop:* Do you have a mobile device available you can use for the session? You don’t have to join from Zoom on the phone, but I’d like you to review the website on a phone.
+
+*If yes:* Explore laptop hugging method, or have them show you on their phone what they’re doing.
+
+*If no:* End the session
+
+*Before we start, a few things I want to mention:*
 
 - **This entire session should take about 35-40 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -42,54 +48,64 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## First Task: Update address - X minutes
+## First Task: Update contact information - 10 minutes
 Can you please start screen sharing with me? I can help you do that if you’re not sure how.
 
-/Once screen sharing has begun:/
+/Once screen sharing has begun/
 
-Imagine you received an email from the VA saying there was a problem with some of your personal information in your va.gov profile. The letter said to go to your VA.gov profile and update your home address.  
+I’d like for you to update your contact information on VA.gov. Do you know where to do that? If not, I can share a link. 
 
-/Paste a link in the chat, or verbally tell the participant where to go/
+/Paste a link in the chat, or verbally tell the participant where to go. They’ll need to go through the sign-in process before they get to profile./
 
-- Go ahead and update your home address. /If it’s already correct, have the participant change something to go through the edit flow/ Please think out loud as you go through this update.
-- Step 2
+/Pause recording during sign in process/
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Go ahead and start updating your contact information. ????*Please think out loud as you go through.* ????  
+If it’s correct, just change something small. We’ll correct it all at the end. /Have participant update at least 3 pieces of contact information. One must be an address./
+- If needed, have them trigger address validation flow by changing a number in the zip code to make it incorrect.
+- If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
+- Moderator: ask follow-up questions to understand the participants experience. For example:
+	* Clarifying hesitation spots
+	* What was difficult about making those updates?
+	* How does it align with expectations?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Did the participant encounter any challenges in updating information?
+- Did they get confused by having all of the forms on one page?
+- How did they react to the validation flow?
+- Note what changes they made so you can guide them to correcting them at the end of the session, if needed.
+- Did any alerts get triggered during their updates?  “e.g. Are you sure?”
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Second Task: Update notification settings - 5 minutes
+Next, I’ll have you update your VA notification settings. If they’re already set the way you want them, go ahead and change them anyway, and then set them back the way you want them.
 
 ### Things to watch for:
+- Did the participant encounter any challenges in navigating to notification settings?
+- Did the participant encounter any challenges in updating information?
+- Moderator: ask follow-up questions to understand the participants experience. For example:
+	* Clarifying hesitation spots
+	* What was difficult about making those updates?
+	* How does it align with expectations?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## Third Task: Reverse any unwanted changes in contact information - 5 minutes
 
-## Post-Task Interview - X minutes
+- Let’s go back to your contact information and make sure it is all actually accurate and the way you want it.
 
-- Question 1
-- Question 2
-- Any questions for me? 
+## Fourth Task: Review prototype - 5 minutes
+Now I’d like to get your feedback on a prototype. It’s very basic but hopefully it will give you an idea of another approach to editing contact information. Since it’s a prototype, it won’t work exactly the way you might expect.
 
-## Thank-You and Closing - X minutes
+Go to bit.ly/vap917
+
+- See how you would edit your mailing address and home phone number.
+- What are your thoughts on this approach?
+
+## Post-Task Interview - 5 minutes
+
+- Talk to me about your overall experience editing contact information
+- What was challenging about that?
+- When have you needed to update your contact info on VA.gov?
+
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -97,8 +113,6 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-##
 
 ## Emergency Exit
 
