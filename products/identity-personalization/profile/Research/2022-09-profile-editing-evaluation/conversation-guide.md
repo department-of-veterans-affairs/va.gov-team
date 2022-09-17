@@ -51,16 +51,16 @@ Today we're going to talk about making updates to the personal information VA ha
 ## First Task: Update contact information - 10 minutes
 Can you please start screen sharing with me? I can help you do that if you’re not sure how.
 
-/Once screen sharing has begun/
+*Once screen sharing has begun*
 
 I’d like for you to update your contact information on VA.gov. Do you know where to do that? If not, I can share a link. 
 
-/Paste a link in the chat, or verbally tell the participant where to go. They’ll need to go through the sign-in process before they get to profile./
+*Paste a link in the chat, or verbally tell the participant where to go. They’ll need to go through the sign-in process before they get to profile.*
 
-/Pause recording during sign in process/
+*Pause recording during sign in process*
 
 - Go ahead and start updating your contact information. ????*Please think out loud as you go through.* ????  
-If it’s correct, just change something small. We’ll correct it all at the end. /Have participant update at least 3 pieces of contact information. One must be an address./
+If it’s correct, just change something small. We’ll correct it all at the end. *Have participant update at least 3 pieces of contact information. One must be an address.*
 - If needed, have them trigger address validation flow by changing a number in the zip code to make it incorrect.
 - If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
 - Moderator: ask follow-up questions to understand the participants experience. For example:
@@ -99,13 +99,13 @@ Go to bit.ly/vap917
 - See how you would edit your mailing address and home phone number.
 - What are your thoughts on this approach?
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - X minutes
 
 - Talk to me about your overall experience editing contact information
 - What was challenging about that?
 - When have you needed to update your contact info on VA.gov?
 
-## Thank-You and Closing - 1 minute
+## Thank-You and Closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -118,7 +118,4 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
