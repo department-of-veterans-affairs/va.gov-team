@@ -35,7 +35,7 @@ This initiative is commonly referred to as "payment info v2"
 ### Planning
 **Launch Go/No-go:** 
 - Completed mm/dd/yyyy
-- Launch go/no-go ticket: link tk
+- Launch go/no-go ticket: [#47236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47236)
 - Launch readiness checklist (link tk)
 
 **Desired date range:** mm/dd/yyyy - mm/dd/yyyy
