@@ -60,7 +60,7 @@ Success Metrics (link tk)
 
 _Need to add success metrics/criteria and launch stats_
  
-### 1-week results:
+### 1-week results (at 100%):
 - **Number of unique users:**
      - ...
 - **Any issues with VA handling/processing?**
@@ -72,7 +72,7 @@ _Need to add success metrics/criteria and launch stats_
 - **If yes, what:** 
      - ...
 
-### 1-month results:
+### 1-month results (at 100%):
 - **Number of unique users:**
      - ...
 - **Any issues with VA handling/processing?**
