@@ -7,7 +7,7 @@ This initiative is commonly referred to as "payment info v2"
 - **UAT Go/No go**
   - Completed mm/dd/yyyy
   - UAT readiness ticket [#47233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47233)
-  - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-go-nogo.md)
+  - [UAT readiness checklist]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-go-nogo.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/payment-info-v2-go-nogo.md))
 - **Desired date range or test duration:**
      - Week of mm/dd - mm/dd
 - **Desired number of users:** 
