@@ -82,7 +82,7 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 * Why do you think you need to make this decision?
 * What would you do next after making a choice?
 * What would you do if you wanted more information about this decision?
-* For this study, we’ll focus on disability compensation. Please choose that option and select continue.
+* For this study, we’ll focus on disability compensation. Please choose that option.
 * Can you describe what’s happening on this screen?
 * Go ahead and start to file a claim and talk aloud as you go.
 * Please verify your primary information. 
