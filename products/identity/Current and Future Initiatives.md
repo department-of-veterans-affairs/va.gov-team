@@ -56,7 +56,7 @@ Within the VA and its associated properties such as MHV, there is a need to roll
 **What's Next**
 - Once the existing solution is decoupled from Cerner (by the OCC Team), we should evaluate it for implementation in the sign-in service
 
-### VA Identity Asset Identification and Improvement
+### [VA Identity Asset Identification and Improvement](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/47224)
 _Current Status:_ Evaluating potential assets we feel would be improved by being owned by the Identity team.  
 
 We have realized that there are many assets within the VA, including parts of Vets API and other pieces of software, that either lack clear ownership, or would be best served as being owned by the Identity team.  Our goal is to produce a list of these assets, determine ownership, and then work to improve and maintain them.  
