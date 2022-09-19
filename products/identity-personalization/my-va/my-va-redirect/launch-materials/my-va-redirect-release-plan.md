@@ -62,15 +62,15 @@
 
 ### 1-week results (at 100%):
 - **Number of unique users:**
-     - ...
+     - 216,430
 - **Any issues with VA handling/processing?**
-     - ...
+     - No
 - **Types of errors logged:**
-     - ...
+     - N/A
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
+     - No
 - **If yes, what:** 
-     - ...
+     - N/A
 
 ### 1-month results (at 100%):
 - **Number of unique users:**
