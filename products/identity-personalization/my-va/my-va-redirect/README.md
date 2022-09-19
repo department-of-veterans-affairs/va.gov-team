@@ -86,9 +86,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating, rating, or disability (whichever appears first)|5|8|12|TBD|TBD|TBD|
-|Claim or Claims (whichever appears first)|25|26|33|TBD|TBD|TBD|
-|Payment or payment history (whichever appears first)|7|11|34|TBD|TBD|TBD|
+|Disability rating, rating, or disability (whichever appears first)|5|8|12|16|TBD|TBD|
+|Claim or Claims (whichever appears first)|25|26|33|30|TBD|TBD|
+|Payment or payment history (whichever appears first)|7|11|34|31|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -96,9 +96,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|15|12|5|TBD|TBD|TBD|
-|Letter, letters, or benefit letter (whichever appears first)|18|17|9|TBD|TBD|TBD|
-|GI bill|24|25|39|TBD|TBD|TBD|
+|DD214|15|12|5|4|TBD|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|18|17|9|8|TBD|TBD|
+|GI bill|24|25|39|34|TBD|TBD|
 
 #### Medallia feedback
 
