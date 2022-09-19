@@ -10,12 +10,13 @@ None
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish Study Report (5 Ben)
 - [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Collaborate with Shawn to learn what has been tried research plan (3 Kristen)
-    - Determine login methods we must use (3 Kristen)
+    - Prepare Document for OIS Approval on Identity Verification for eCheck-in on a VA-Owned Device (3 ????)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Finish study report & present (5 Ya-Ching)
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Monitor unmoderated study (1 Kristen)
+- [C1erner Appointment Lifecycle Discovery Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46309)
+    - ???????
     
 #### Design & Content Sprint Goals (TENTATIVE) 
 3 Ben; 8 Zach
