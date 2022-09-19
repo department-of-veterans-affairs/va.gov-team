@@ -147,9 +147,10 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
 * Can you describe to me what you think this section is for?
     * What's standing out to you? 
 * Based on the choices, tell me what you think you can do?
-* Go ahead and add VA medical records and add them to your claim.
-* Now add private medical records. The information will be filled in, but you can pretend that you entered it.
-* Lastly, please choose to upload your own document
+* Go ahead and choose VA medical records and add them to your claim.
+* Can you please choose a second set of records?
+* Now can you request private medical records be added to your claim? The information will be filled in, but you can pretend that you entered it.
+* Lastly, please choose to upload your own document. This will be simulated, but please show us how you would do that.
 * What would you do if you wanted to add more evidence? 
     * Delete? 
     * Edit?
