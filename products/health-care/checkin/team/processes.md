@@ -27,6 +27,7 @@
    - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
         - DESIGN
             - check-in-experience-create-prototype.md
+            - check-in-experience-design-create-content.md
             - check-in-experience-design-create-final-wireframes.md
         - DEVELOPMENT
             - check-in-experience-development-risk-register.md
