@@ -16,12 +16,42 @@
 
 ## Monday, September 19, 2022
 * v1 deploy
-  * Service ID mapping
-* Review Facilities issues blocked by v1 - where are we ready to pick up
-* Supporting country code (Germany, Korea)
-  * VAST will not modify their records  
+  * Service ID mapping?
+  * Corrected deficiency - LH can now accept all new services
+  * LH corrected other small isues, temporary 'wipe out' 
+  * v1 been on delay - lost some cycles 
+  * Once sandbox data is pushed, do some vetting, then promote to produciton 
+  * Still a few weeks out from going live 
 * Sync CMS data to sandbox
-  * Joshua -  architect call last week with LH team, Steve, Jay
+  * When v1 goes live, must have larger set to meet needs of all consumers 
+  * Joshua -  architect call this week with LH team, Steve, Jay AI: Joshua to coordinate 
+  * We do know we want a snapshot view of all production data into lower environments 
+  * When Facilites is ready - can we push this one-time snapshot to all lower env?
+  * Local test envs are configured to push to sandbos, Jay can push from his local test - will confirm with Steve
+  * Jay is OOTO Thu Fri 
+  * AI: Jay - circle back, don't think it's a bit lift 
+  * Johsua: Sandbox rate limit is being raised to match production - Joshua to confirm 
+* Review Facilities issues blocked by v1 - where are we ready to pick up?
+  * AI: DS - David and Jay to cowork  aim for Wed - debrief on each issue 
+  * LH - anything from LH team they are waiting on? Overall it's Facilities waiting on LH 
+  * CAPS lat/long -
+  * Then ATC data, they are intersted in CMS data - look into discussing
+    * LH, ATC, CMS, VHADM  - JHL was not a part  Dave C and JHL are co-owners of service taxonomy 
+    * One more meetingw with ATC, then Josh/ATC will pull in Dave C and  JHL - Expectation is ATC will reach out 
+* Supporting country code (Germany, Korea)
+  * VAST will not modify their records 
+  * Josh - very important sooner than later
+  * Does this have to be part of the v1 release 
+  * Review slack thread - 
+  * Regarding non-US facilites - for VHA it's Manilla 
+  * VBA - Dave C added country  code 
+  * What facilites will break the model? Manilla?  Can we manually tweak? a one-off facility coming out of VAST?
+  * Current behavior - country code is being placed into State field
+    * Adam - Manilla is the only site in VAST that is technically out of the country - there are serveral non-US state-located 
+    * Dave C owns VBA datatbase - we can provide data however LH needs it for VBA
+    * Confirm - is the only non-supported outlier Manilla?
+        * Territories have a 2 character USPS code  
+    *  
 * Mental Health
   * LH phone numbers compared with CDW   
 * CMS article documentation
