@@ -28,13 +28,14 @@ The existing system (IAM/ISAM) is built on older technology.  It provides a less
 
 
 ### [Inherited Proofing ](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/34838) 
-_Current Status:_ Moving our screens from wireframe into code.
+_Current Status:_ Waiting
 We are working to support inherited proofing for users of legacy CSP's such as DSLogon and MyHealtheVet, so that they are able to transition to a newer, more secure CSP such as Login.gov or ID.me.  Presently, we have finished several rounds of user research covering accessibility as well as general user sentiment and understanding.  We have created our initial back-end work and are waiting for our Login.gov partners to implement their work so that we can plan user pilots.
 
 **Key Information**
 - Our current line of thought is to only offer users the ability to transition to Login.gov.
 - Users, by and large, understand the process and reasoning for this transition.
 - Some parts of the process (primarily in-person proofing) have been handed off to Frog as part of the CEDAR contract
+- Would very much like a go-live date from VA before dedicating resources to putting screens into code.
 
 **Why does it matter?**  
 Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DSLogon are destined to be depreciated.  The goal of the VA is to migrate these users to a modern CSP (primarily Login.gov) prior to the deadline (TBD).  
