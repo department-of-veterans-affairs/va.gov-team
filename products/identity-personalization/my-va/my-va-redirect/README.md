@@ -51,7 +51,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
 |View claim ("view details")|21,041|29,622|29,265|52,218|TBD|TBD|
 |Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|TBD|TBD|
-|Schedule and view your appointments|1,950|2,694|3,136|TBD|TBD|TBD|
+|Schedule and view your appointments|1,950|2,694|3,136|5,146|TBD|TBD|
 |View your messages|6,704|10,432|12,035|22,114|TBD|TBD|
 |Refill and track prescriptions|4,063|6,734|8,556|16,510|TBD|TBD|
 |View your payment history|17,107|28,115|18,796|29,365|TBD|TBD|
