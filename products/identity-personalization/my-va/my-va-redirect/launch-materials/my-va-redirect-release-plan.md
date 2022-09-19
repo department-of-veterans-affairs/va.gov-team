@@ -62,7 +62,7 @@
 
 ### 1-week results (at 100%):
 - **Number of unique users:**
-     - 216,430
+     - 261,430
 - **Any issues with VA handling/processing?**
      - No
 - **Types of errors logged:**
