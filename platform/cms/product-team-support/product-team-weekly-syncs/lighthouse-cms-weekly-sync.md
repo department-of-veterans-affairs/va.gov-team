@@ -49,9 +49,12 @@
   * Current behavior - country code is being placed into State field
     * Adam - Manilla is the only site in VAST that is technically out of the country - there are serveral non-US state-located 
     * Dave C owns VBA datatbase - we can provide data however LH needs it for VBA
-    * Confirm - is the only non-supported outlier Manilla?
-        * Territories have a 2 character USPS code  
-    *  
+    * Confirm - is the only non-supported outlier Manilla?  
+        * Territories have a 2 character USPS code - in compliance with 
+        * Update documenation to describe field as _US State or Territory_
+    * What about NCA faclities - Adam - we can do an audit
+  * Josh to sync with James - Dave C has meeting Tues afternoon 
+    *  Is it documentation? or modifying structure? 
 * Mental Health
   * LH phone numbers compared with CDW   
 * CMS article documentation
