@@ -35,8 +35,10 @@ Crossed out means that it isn't part of the MVP scope proposal or how we will te
   - ~~Computer~~
 
 ## Overall VA-owned device outstanding questions
+- How does the Veteran even know this piece of hardware can be used to check-in?
 - How do we get a tablet to test with and connect it to the VA network? Choose a site for the test that meets connectivity requirements.
 - What identity verfication method do we need to use? How does physically securing the device play into our options? - Shawn Adams to share what the Charleston VA-owned device solution included.
 - Are there any changes needed to the staff-facing app (staff notifications, such as when check-in started is triggered)?
+- What are the steps for getting a new device connected to the VA network, and how might that impact our ability to configure that device?
 - Should we talk to staff who are part of purchasing equipment? Who would buy this? - Answer: Not part of the initial UX research study.
 - What hardware solution are we recommending? 
