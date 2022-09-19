@@ -161,6 +161,10 @@ Thank you again, and I hope you enjoy the rest of your day.
 * Need to cut session short for unexpected reason
   * We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
+## Meta Questions
+* How to add VA observers to Slack backchannel?
+* Process for managing optional observers
+
 ## After Session
 * Click "End" on zoom 
 * Download recordings
