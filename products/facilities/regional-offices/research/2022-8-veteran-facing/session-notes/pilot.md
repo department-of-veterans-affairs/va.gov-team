@@ -1,4 +1,4 @@
-# Conversation Guide: Veterans' Experiences at VA Benefit Offices
+# Conversation Guide: Veterans' Experiences at VA Benefit Offices - PILOT
 
 ## Moderator logistics
 
