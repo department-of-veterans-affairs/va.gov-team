@@ -230,8 +230,8 @@ ALL participants must have a smartphone and are willing to complete their interv
 ### Prepare
 It’s ready as of 9/15/2022.
 
-* Pilot participant email: 
-* Date and time of pilot session:  9/23/2022, time TBD 
+* Pilot participant email: john.cater@govcio.com
+* Date and time of pilot session:  9/23/2022, 1pm eastern (please book 1 hour)
 
 ### Research dates
 * Planned dates of research: 9/27-9/29
@@ -260,3 +260,4 @@ It’s ready as of 9/15/2022.
 * tom.harrison@adhocteam.us
 * john.cater@govcio.com
 * angela.fowler@adhocteam.us (only screenreader sessions) 
+* erica.sauve@adhocteam.us
