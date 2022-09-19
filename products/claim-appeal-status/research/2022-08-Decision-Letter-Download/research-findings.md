@@ -1,14 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# Decision Letter Download: Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), VA Benefits Team 1
 
-# [Study] Research Findings 
+Date: 09/17/2022
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+Skyler Schain · skyler@coforma.io
 
 [Research Report PDF] (link here)
 
@@ -29,31 +25,24 @@ Date: MM/DD/YYYY
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience. Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+For this research, we tested the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. The purpose was to ensure that the feature as designed is usable and accessible.
 
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* Understand more about the decision letter user journey
+* Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
+* Understand Veterans' mental model for letters generally, including both benefit letters and "claim letters" (inbound communication from the VA pertaining to a Veterans' claims and appeals
 
 # Methodology 
 
-_Brief description of method chosen_
+We conducted [x] remote moderated usability sessions via Zoom. Participants were tasked with finding and accessing their decision letter via VA.gov and the Claim Status Tool. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+[x/y] participants were accessed the prototype via mobile device. [x/y] participants accessed the prototype via desktop. 
+
+Half of the participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. The other half started with Task 2, whcih prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
 
 
 # Hypotheses and Conclusions
