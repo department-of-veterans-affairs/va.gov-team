@@ -1,27 +1,34 @@
 ### Research Plan for Secure Messaging team
 
+# Research Plan for Secure Messaging Usability Round 2
+September & October, 2022
+
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed and tested a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device in June and July, 2022 (see [this folder][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability] for more information). Updates were made to the prototype based on user feedback. In this round 2 of usability testing, we will assess (1) whether the updates improved user experiences, and (2) test additional functionality that we were unable to test in round 1. 
 
-[Link to product brief](url goes here).
+You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
-## OCTO Objectives 
-This research supports OCTO Objective 2: Veterans can manage their health services online
+### OCTO Objectives 
 
-## Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This work supports the following objectives:
+- Veterans can manage their health services online
+- Veterans and their families can find a single, authoritative source of information
+- Logged-in users have a personalized experience, with relevant and time-saving features
 
-## Research Goals	
-What are you trying to learn from this research? 
+### Veteran Journey
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+## Research Goals - WIP, need to update. 	
+The goals of this study are to:
+- identify major usability or content issues with the current concept of secure messaging in MHV on VA.gov
+- understand how Veterans use secure messaging
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Results of this study will help us determine if the updated prototype continues to meet user needs, and if there are any big usability concerns that Veterans experience with the designs.
 
 ### Research questions - WIP
 
