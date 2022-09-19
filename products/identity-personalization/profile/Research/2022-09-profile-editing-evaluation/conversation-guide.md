@@ -17,7 +17,7 @@ Slack for real-time feedback from observers.
 - When the participant is ready, begin the session with the following intro*
 
 
-## Intro - 5 minutes
+## Intro - 3 minutes
 
 Thanks for joining us today! My name is Liz and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a [number] additional observers during this session?
@@ -47,6 +47,9 @@ Today we're going to talk about making updates to the personal information VA ha
 *Start recording.*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I’m also going to turn on transcriptions to improve our notes; you should be able to control them on your end too.**
+
+*Turn on transcription*
 
 ## First Task: Update contact information - 10 minutes
 Can you please start screen sharing with me? I can help you do that if you’re not sure how.
@@ -59,17 +62,16 @@ I’d like for you to update your contact information on VA.gov. Do you know whe
 
 *Pause recording during sign in process*
 
-- Go ahead and start updating your contact information. ????*Please think out loud as you go through.* ????  
+- Go ahead and start updating your contact information. 
 If it’s correct, just change something small. We’ll correct it all at the end. *Have participant update at least 3 pieces of contact information. One must be an address.*
 - If needed, have them trigger address validation flow by changing a number in the zip code to make it incorrect.
 - If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
 - Moderator: ask follow-up questions to understand the participants experience. For example:
-	* Clarifying hesitation spots
+	* Clarify any hesitation spots
 	* What was difficult about making those updates?
-	* How does it align with expectations?
+	* How does it align with your expectations?
 
 ### Things to watch for:
-
 - Did the participant encounter any challenges in updating information?
 - Did they get confused by having all of the forms on one page?
 - How did they react to the validation flow?
@@ -88,7 +90,6 @@ Next, I’ll have you update your VA notification settings. If they’re already
 	* How does it align with expectations?
 
 ## Third Task: Reverse any unwanted changes in contact information - 5 minutes
-
 - Let’s go back to your contact information and make sure it is all actually accurate and the way you want it.
 
 ## Fourth Task: Review prototype - 5 minutes
@@ -99,13 +100,13 @@ Go to bit.ly/vap917
 - See how you would edit your mailing address and home phone number.
 - What are your thoughts on this approach?
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 
 - Talk to me about your overall experience editing contact information
 - What was challenging about that?
 - When have you needed to update your contact info on VA.gov?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -117,3 +118,5 @@ Great, well thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+
