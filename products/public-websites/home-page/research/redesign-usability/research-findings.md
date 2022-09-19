@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022 (updated 09/12/2022)
+Date: 08/31/2022 (updated 09/19/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -147,7 +147,7 @@ FOR EVERYONE
      1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
 1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
-1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
+1. **Most sign-ins didn't happen on the home page** (with "Sign in or create an account" near the photos or "Sign in" in the header). 
 1. **Two accessibility issues were discovered with the VA Benefits and Health Care megamenu** on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.  
 
 1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks** (no tasks were related to it).
@@ -240,16 +240,17 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - *Message your doctor* (83% completed successfully)
 - *Check/update education benefits* (71% completed successfully)
 
-## 4. Several participants said that it was redundant or confusing to have two different sign-in buttons 
-3 participants pointed out that there were 2 different sign-in buttons and didn't need more than the one in the header. One of these participants said it was confusing to have two buttons in two different places that do the same thing.
+## 4. Most sign-ins didn't happen on the home page (with "Sign in or create an account" near the photos or "Sign in" in the header). 
 
 Neither sign-in button got much use during the research sessions:
 - 2 participants used the new "Sign in or create account" button.
 - 4 participants used the old "Sign in" button in the header.
-- Everyone else (13 participants) didn't use either sign-in button because they instead used the "sign in" button on specific content pages they found later.
+- **Everyone else (13 participants) didn't use either sign-in button because they instead used the "sign in" button on specific content pages they navigated to later.**
 
 A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
-- One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
+- One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in. 
+ 
+3 participants pointed out that there were 2 different sign-in buttons and didn't need more than the one in the header. One of these participants said it was confusing to have two buttons in two different places that do the same thing.
 
 ## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.
 
