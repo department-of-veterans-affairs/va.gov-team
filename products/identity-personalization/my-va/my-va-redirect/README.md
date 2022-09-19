@@ -32,14 +32,14 @@ We do not see an increase in clicks back to the homepage from My VA, as measured
 
 | |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Rank of the homepage as a next click from My VA|#7|#7|#6|TBD|TBD|TBD|
+|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|TBD|TBD|
 
 **KPI** 
 We do not see an increase in percentage of users exiting VA.gov entirely from My VA.
 
 ||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Exits from VA.gov from My VA|6.1%|5.7%|6.01%|TBD|TBD|TBD|
+|Exits from VA.gov from My VA|6.1%|5.7%|6.01%|5.72%|TBD|TBD|
 
 #### [Top interactions from My VA](https://va-gov.domo.com/page/1167851935)
 
