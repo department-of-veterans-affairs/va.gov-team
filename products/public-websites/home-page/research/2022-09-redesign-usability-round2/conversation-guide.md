@@ -160,6 +160,18 @@ FOR EVERYONE
 </details>
 
 ### DRAFT IDEAS for tasks:
+- same small number of tasks for everyone (diff from last round)
+- tasks that didn't go well in last round:
+  - file for disability increase
+  - add a spouse
+  - compare educ benefits by school
+  - ck current disability compensation rates
+  - message your doctor
+ - benefits letters (b/c removed direct link)--ck if have one from baseline wayfinding study (see if people find in Records benefit hub and megamenu)
+- ID cards (b/c removed direct link)--ck if have one from baseline wayfinding study (see if people find in Records benefit hub and megamenu)
+- mental health--to see what people think of where taken
+- (see if they use Resources & Support if there's a link in Other search tools). record any feedback on the name.
+
 - something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
   - Impressions? *(news / benefit / ad / ____________)* 
   - What do people try to click on? *(headline / image / Read the full article / somewhere else in box)*
@@ -167,6 +179,13 @@ FOR EVERYONE
 - at least one task that's not in the Popular list
 - the 4 most difficult tasks from the first round of testing, plus "message your doctor"
 - one of the education tasks (b/c the education links no longer in Other search tools)
+- When someone uses the sign-in or create account link, can they tell the difference?
+- How might you learn about updates in VA benefits? (PACT Act  or Pathfinger? and click thru to learn more). use the wording of changes to legislation: recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, "legislation that relates to changes in VA benefits and services"
+	- followup q: how would you get more info about this?
+	- followup q: how would you get information on other topics?
+
+- update the names of the page in the notetaking lines 
+- see if any accessibility issues with megamenu
 
 ### FOR EVERYONE
 *Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
