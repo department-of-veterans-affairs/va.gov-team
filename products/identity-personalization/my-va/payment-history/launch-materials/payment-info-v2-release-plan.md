@@ -36,16 +36,16 @@ This initiative is commonly referred to as "payment info v2"
 **Launch Go/No-go:** 
 - Completed mm/dd/yyyy
 - Launch go/no-go ticket: [#47236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47236)
-- Launch readiness checklist (link tk)
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/launch-materials/payment-history-v2-launch-readiness.md)
 
 **Desired date range:** mm/dd/yyyy - mm/dd/yyyy
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 25% | 1 week | week of mm/dd/yyyy | ticket link tk |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | ticket link tk |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | ticket link tk |
+| Launch to 25% | 1 week | week of mm/dd/yyyy | [#47237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47237) |
+| Launch to 50% | 1 week | week of mm/dd/yyyy | [#47238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47238) |
+| Launch to 100% | 1 week | week of mm/dd/yyyy | [#47239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47239) |
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
