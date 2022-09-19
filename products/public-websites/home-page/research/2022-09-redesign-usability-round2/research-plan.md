@@ -95,21 +95,25 @@ Add the total requested number, ideal completed sessions and breakdown type of p
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |       14      |         10       |    9  |     2        |    2     |        1      | 
 
-
-### Criteria Table 
+### Criteria Table (Please read carefully)
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 - If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
 - ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
-- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment.  
-
+- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
+- ***Various*** means you want an array of participants from this category but are leaving it to Perigean's discretion to recruit as many different types as possible.
+- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
+- For benefits category, you may also choose ***No Ben/Ser Exp*** which means you want particpants who haven't had experience using any Veteran benefit or service. In your additional screener section, you can specify exactly which benefit or service you want participants not to have had experience using. 
+- For hardware category, select which type/s you want participants to join your session to use.
 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |   5        |        |        |        |        |        |        |        |        |        |         |
+|Female          |    4       |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
 |Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
@@ -121,21 +125,25 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |   3        |        |        |        |        |        |        |        |        |        |         |               
+|*Various*       | Various    |        |        |        |        |        |        |        |        |        |         |
+|Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |   2        |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |   1        |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |   1        |        |        |        |        |        |        |        |        |        |         |                
+|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |            |        |        |        |        |        |        |        |        |        |         |                
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |   2        |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |   2        |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |   3        |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |   4        |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |   5        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |  Various   |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
@@ -147,6 +155,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pension         |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
 |***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
 |Army            |            |        |        |        |        |        |        |        |        |        |         |
 |Navy            |            |        |        |        |        |        |        |        |        |        |         |
@@ -156,7 +165,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |     range  |        |        |        |        |        |        |        |        |        |         |
+|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   Various  |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
 |GED             |            |        |        |        |        |        |        |        |        |        |         |
@@ -169,27 +179,33 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Urban           |            |        |        |        |        |        |        |        |        |        |         |
 |Rural           |      4     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |      5     |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |      11    |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |      9     |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov          |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |IAL1            |            |        |        |        |        |        |        |        |        |        |         |
 |IAL2            |            |        |        |        |        |        |        |        |        |        |         |
 |IAL3            |            |        |        |        |        |        |        |        |        |        |         |
@@ -211,6 +227,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
 |Font resizing/larger                                         |            |
 |Screen reader                                                |    5       |
 |Braille terminal                                             |            |
@@ -240,7 +257,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     5      |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|*Various*                                                    |     5      |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -256,8 +274,20 @@ What demographics, experience, and scenarios do you need participants to meet to
        
 
 ### Screener
+
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+  
+ > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+  
+ Additionally, you may provide instructions for Perigean to follow to ensure a smooth set-up.
+  
+ > **Example:** ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
+  - During the session, are willing to share over Zoom a web browser window on their device
+  - Have a working microphone on their device
+  - Have Zoom downloaded to their device prior to the session and know how to share their screen
+
+> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+
 
 1. Do you have an account on the VA.gov website? *(recruit 5 who say "yes" and 5 who say "no")*
 2. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
@@ -278,7 +308,6 @@ Write any recruitment criteria for experience or scenarios as screener questions
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
- 
 
 ## Timeline
 
