@@ -60,9 +60,9 @@ Before we start, a few things I want to mention:
 
 ## Baseline Questions - 3 min
 
-* In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a **[Answer to Screener Question #1 - type of facility]**, is that correct?
+* In the pre-interview survey, you indicated that you had visited a VA Benefits Office in the last 6 months. Specifically, you visited a **PIV Card Office**, is that correct
 * In your own words, could you briefly describe the reason for your visit to that office?
-* [*Confirm benefit-related service(s)*] Okay, so just to confirm, it sounds like this visit was related to [benefit type], correct? 
+* [*Confirm benefit-related service(s)*] Okay, so just to confirm, it sounds like this visit was related to **VA Network Access**, correct? 
    *  *This should line up with answer to screener question #2. If not, ask follow up.*
    *  On the survey, you also listed **[answer to screener question #2 - benefit type]**, could you tell me about that?
 *  Before visiting the office, did you try to complete this task via another method (phone, online, etc.)?
