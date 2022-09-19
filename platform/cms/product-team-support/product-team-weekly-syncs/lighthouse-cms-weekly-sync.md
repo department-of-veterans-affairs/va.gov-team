@@ -14,8 +14,21 @@
 
 </details>
 
-## Monday, September 12, 2022
+## Monday, September 19, 2022
+* v1 deploy
+  * Service ID mapping
+* Review Facilities issues blocked by v1 - where are we ready to pick up
+* Supporting country code (Germany, Korea)
+  * VAST will not modify their records  
+* Sync CMS data to sandbox
+  * Joshua -  architect call last week with LH team, Steve, Jay
+* Mental Health
+  * LH phone numbers compared with CDW   
+* CMS article documentation
+  * Meeting later today 9/19
 
+
+## Monday, September 12, 2022
 
 * v1 deploy
   * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
