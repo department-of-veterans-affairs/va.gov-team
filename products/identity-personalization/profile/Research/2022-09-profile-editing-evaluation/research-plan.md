@@ -40,6 +40,8 @@ The findings from this research will help our team understand how well our curre
 ## Method	
 We’ll conduct this research through moderated usability testing by having people log into VA.gov on a mobile device.
 
+If we have time in the session, we’ll also review a prototype with the participant.
+
 ### Location
 The research will be conducted remotely over Zoom, using Perigean’s account.
 
