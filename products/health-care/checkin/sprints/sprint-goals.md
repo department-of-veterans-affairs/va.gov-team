@@ -7,28 +7,27 @@ None
 
 #### Discovery Sprint Goals (TENTATIVE) 
 7 Kristen; 5 Ben; 5 Ya-Ching
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finish Study Report (5 Ben)
 - [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
     - Collaborate with Shawn to learn what has been tried research plan (3 Kristen)
     - Determine login methods we must use (3 Kristen)
-- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)]
-    - Monitor unmoderated study (1 Kristen)
-- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finish Study Report (5 Ben)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Finish study report & present (5 Ya-Ching)
+- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - Monitor unmoderated study (1 Kristen)
     
 #### Design & Content Sprint Goals (TENTATIVE) 
-3 Ben; 6 Zach; 2 Ya-Ching
+3 Ben; 8 Zach
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finalize content & update wireframes (2 Ben/Zach) 
     - Hold mid-point review with Collab Cycle (1 Ben/Zach)
-- [Check-in for VA-Owned](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Create prototype to test with end users (3 Zach)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-    - Update design & release artifacts (2 Ya-Ching)
+    - Update design & release artifacts (2 Zach/Ben)
+- [[Design][Research] Make Pre-Check-in on Day-of Clearer for the Veteran (i.e. what to do next)](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/46658)
+    - Make recommendations (5 Zach)
 
 #### Engineering Sprint Goals (TENTATIVE) 
-17 FE; 16 BE
+14 FE; 13 BE; 8 Suupport
 - [Production Support]() (~8 FE/BE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Create infrastructure to submit claim to the BTSSS API (13 BE)
@@ -42,9 +41,10 @@ None
     - Our contract changed and most team members lost VA access
 
 #### Planned Releases 
-- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
-- [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
+- DONE [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
+- DONE [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
+- Flip feature flag for LoROTA Security Updates & set to 10%
 
 #### Discovery Sprint Goals 
 Kristen - 9; Ben - 9; Ya-Ching - 7; Lori - 2
