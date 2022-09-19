@@ -74,8 +74,7 @@ In this research, we are primarily interested in the following areas of the home
 2. Participants will be interested in the news content and know how to learn more about them.
 
 ## Method	
-We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
-wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
+We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **tasks as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server, including some that didn't go well in the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md).
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
@@ -85,7 +84,7 @@ wayfinding prompts** to explore the redesigned VA.gov home page on the Staging s
 	
 ## Recruitment	
 
-Ask Perigean to recruit **16 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **8 completed sessions** using the criteria below.
+Ask Perigean to recruit **16 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **10 completed sessions** using the criteria below.
 
 ### Recruitment criteria
 Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
@@ -94,7 +93,7 @@ Add the total requested number, ideal completed sessions and breakdown type of p
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       16      |         10       |    10  |    2        |    2     |        2      | 
+|       14      |         10       |    9  |     2        |    2     |        1      | 
 
 
 ### Criteria Table 
@@ -213,7 +212,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
 |Font resizing/larger                                         |            |
-|Screen reader                                                |    6       |
+|Screen reader                                                |    5       |
 |Braille terminal                                             |            |
 |Speech recognition sftw                                      |            |
 |Speech generating device                                     |            |
@@ -260,7 +259,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-1. Do you have an account on the VA.gov website? *(recruit 8 who say "yes" and 8 who say "no")*
+1. Do you have an account on the VA.gov website? *(recruit 5 who say "yes" and 5 who say "no")*
 2. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
     1. Zero or one *(recruit 3)*
     1. Two or more NOT INCLUDING Health Care *(recruit 6)*
@@ -288,7 +287,7 @@ Write any recruitment criteria for experience or scenarios as screener questions
 - Pilot #2: **TBD** with TBD
 
 ### Research sessions
-* Planned dates of research: **TBD**
+* Planned dates of research: **TBD** (on or after Oct 24)
 
 ### Length of sessions
 * Session length: 1 hour
