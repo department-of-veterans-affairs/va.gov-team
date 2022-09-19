@@ -25,7 +25,7 @@
 * Mental Health
   * LH phone numbers compared with CDW   
 * CMS article documentation
-  * Meeting later today 9/19
+  * Meeting Tues 20
 
 
 ## Monday, September 12, 2022
