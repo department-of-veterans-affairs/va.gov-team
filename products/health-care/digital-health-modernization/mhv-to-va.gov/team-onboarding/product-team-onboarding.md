@@ -71,7 +71,7 @@ All team members working on a VA.gov project must complete an orientation reques
 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
-- One of the tools you'll be requesting is GitHub.  It will also simplify your ability to track work and communicate with other VA.gov teams if you  connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. 
+- Once you have access to GitHub, connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
 
 ##$ The VA.gov Platform
 - [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
