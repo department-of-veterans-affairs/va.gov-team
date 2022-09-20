@@ -61,10 +61,7 @@ You don't have any recent payments to show.
 Use font awesome icon `dollar` for icon in link list
 
 **Show**
-- If a user has direct deposit set up.
-
-**Do NOT Show**
-- If a user does not have direct deposit set up.
+- For all LOA3 users.
 
 #### Content
 
