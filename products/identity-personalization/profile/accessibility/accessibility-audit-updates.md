@@ -51,7 +51,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   In the address validation flow, we still have edit buttons that look like links in the alerts and next to the address entered by the user 
 -   ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43095#issuecomment-1228599039))
 -   _Consideration:_ This could be a non-issue if we move to a one thing per page flow for this UX
--   **Next steps:** team grooming, likely needs design re-work
+-   **Next steps:** on hold pending outcome of "one thing per page" research
 ---
 
 ### 508-defect-4
