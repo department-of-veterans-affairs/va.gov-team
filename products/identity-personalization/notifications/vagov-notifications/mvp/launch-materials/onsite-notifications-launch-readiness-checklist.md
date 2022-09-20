@@ -34,5 +34,5 @@
 **Samara/AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-release-plan.md) complete and ready to execute against?
 - Answer: 
 
-**Everyone**: does anyone have any concerns or reasons we should postpone a launch of the feature to _n_% of users?
+**Everyone**: does anyone have any concerns or reasons we should postpone a launch of the feature to 25% of users?
 - Answer: 
