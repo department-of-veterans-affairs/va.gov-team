@@ -83,12 +83,24 @@ Let’s review the links in this section. Please tell me what links you see in t
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
-- [ ] **UAT TASK**: Confirm Learn more about VA debt link is showing only for users who do not have outstanding debt.
+- [ ] **UAT TASK**: Confirm Learn more about VA debt link is showing only for users who do not have outstanding debt and is behaving as expected
 - [ ] **UAT TASK**: Confirm Manage VA debt and Manage VA bills links are behaving as expected
-- [ ] **Usability**:  How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
+- [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
-## Copay question - 2 minutes
-Thank you so much! That was everything on the page I wanted to try out with you today. I have one final question we're looking to get some feedback on for a future feature. If you were trying to find information about an outstanding copay, where do you think that would be on this page?
+## 3. Review payment history section - 5-7 minutes
+Okay, let’s look at the section that says "Payment history."
+
+Does everything related to your payment look right to you?
+
+Can you explain to me what the content in this section is telling you?
+
+Is anything confusing to you about it?
+
+- [ ] **UAT TASK**: Confirm that if the user has recurring payments, the most recent is showing
+- [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any outstanding debts to show” message and Learn about VA debt link is displaying.
+- [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
+- [ ] **Usability**: Do users find anything confusing about this section?
+
 
 ## Post-Task Interview - 5 minutes
 Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
