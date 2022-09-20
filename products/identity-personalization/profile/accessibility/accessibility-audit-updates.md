@@ -114,6 +114,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
+	-   Ticket Created [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
 
 #### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
