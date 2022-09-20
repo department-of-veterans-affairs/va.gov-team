@@ -2,7 +2,7 @@
 ## Background
 Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard. In our recent [My VA usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md), we heard from all participants that they would strongly prefer to manage VA debt on VA.gov than through the mail and over the phone.
 
-This effort aims to add more detail around debt and payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention.
+This effort aims to add more detail around debt and payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention, and also to add copays as a type of debt that can be accessed from My VA.
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history) for more details.
 
@@ -11,10 +11,9 @@ The addition of timely debt and payment updates should help fulfill our north st
 
 ### Veteran Journey
 Since Veterans can receive payments and incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
- 
 
 ## Research Goals	
-The primary goal of our UAT is to confirm that our MVP functionality works as expected.
+The primary goal of our UAT is to confirm that functionality works as expected in our new "Outstanding debts" and "Benefit payments" sections.
 
 As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md):
 - We would like to validate that no usability hurdles have been introduced during the iterations that have occurred.
@@ -23,23 +22,22 @@ As secondary goals, we’ll follow up on [our last usability study](https://gith
 - We would like to learn more about challenges experienced by people who use magnification, have cognitive considerations, and use screen readers.
 
 ### Outcome
-Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
+Based on the outcome of this research study, we will either release the two new sections to production and/or update our design to correct any significant usability hurdles people encounter.
 
 ### Research questions
 - Does the functionality work as expected?
 - Are Veterans able to take action on their payment or debt information without any usability hurdles?
-- Has the elimination of red and green colors decreased the scannability of the page, or decreased anxiety around having debt?
+- Has the elimination of red and green colors decreased the scannability of the page?
 - Is any of the copy confusing to users?
 
 ### Hypothesis
 - Veterans will not encounter any bugs in the payments and debts sections.
 - Veterans will be able to easily take action on their payment and debt information from My VA.
-- Veterans will like the term "overpayment" for debts.
-- Veterans may be confused about whether the new "payment history" title refers tio only payments VA has made to them or also payments they have made to VA.
-
+- Veterans will not be confused by the terminology used for debts and payments.
+- It will be clear what is due to VA from Veterans and what has been paid to them without the use of color to delineate.
 
 ## Method	
-We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions. We will test in production with real user data.
+We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on our usability related questions. We will test in production with real user data.
 
 ### Location
 Remote, via Zoom
@@ -176,15 +174,12 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 
 ---
 
-`Assistive Tech and Cognitive Impairment will apply across cohorts`
-- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
-
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
-|*Various*                                                    |      2     |
+|*Various*                                                    |      4     |
 |Font resizing/larger                                         |      2     |
-|Screen reader                                                |            |
+|Screen reader                                                |      2     |
 |Braille terminal                                             |            |
 |Speech recognition sftw                                      |            |
 |Speech generating device                                     |            |
@@ -213,7 +208,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    |      6     |
+|*Various*                                                    |      4     |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -229,25 +224,23 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
        
   
 ### Screener questions
-1. Do you consider yourself to have a vision impairment? (Proceed to next question if yes)
-	* Do you need assistive technology to use your phone, such as VoiceOver on an iPhone or TalkBack on an Android device? (Answer should be yes to satisfy criteria for screen reader users)
-	* Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Answer should be yes to satisfy criteria for font size/magnification)
+1. Do you need assistive technology to use your phone such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to next question if yes)
+	 * Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-2. **All** participants should have received education benefit or compensation/pension payments from the VA. Screener question:
+2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to next question if yes)
+	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
 
-  - Have you ever received an education, compensation, or pension payment from the VA?
+3. **All** participants should have received education benefit or compensation/pension payments from the VA, OR should CURRENTLY have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
 
-  - Answering yes would qualify the participant for the study.
+  1. Do you currently receive an education, compensation, or pension payment from the VA?
+  2. Do you have education, compensation, or pension debt with VA?
+  3. Do you have health care related debt with VA, such as copays?
 
-- **At least 8** participants should have incurred education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener questions:
+**Please recruit at least 8 participants who currently have a form of debt as outlined above.** For the other 4 participants, it is okay if they receive payments and do not have debt.
 
-  1. Do you have education, compensation, or pension debt with VA?
-  2. Do you have health care related debt with VA, such as copays?
-
-  - Answering yes to question **1 OR 2** would qualify the participant for the study.
   
 ### Additional instructions  
-ALL participants must have a smartphone and are willing to complete their interview that device. They also need to:
+ALL participants must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. They also need to:
   - be willing to log into their VA.gov account and share over Zoom in a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
