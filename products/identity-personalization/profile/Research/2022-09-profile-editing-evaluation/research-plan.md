@@ -64,9 +64,9 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |      4      |        |        |        |        |        |        |        |        |        |         |
-|Female          |      8      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |       12     |        |        |        |        |        |        |        |        |        |         |
+|Male            |            |        |        |        |        |        |        |        |        |        |         |
+|Female          |            |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
@@ -81,12 +81,12 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
 |*Various*       |     12       |        |        |        |        |        |        |        |        |        |         |
-|Black           |       2     |        |        |        |        |        |        |        |        |        |         |               
-|White           |      X      |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |     2       |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |     2       |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |     2       |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|    2       |        |        |        |        |        |        |        |        |        |         |                 
+|Black           |       1     |        |        |        |        |        |        |        |        |        |         |               
+|White           |           |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |     1      |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |     1       |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |     1       |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|    1       |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |     8       |        |        |        |        |        |        |        |        |        |         |
@@ -128,7 +128,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |High School     |            |        |        |        |        |        |        |        |        |        |         |
 |Some College    |            |        |        |        |        |        |        |        |        |        |         |
 |Associate's     |           |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |    X   |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |       |        |        |        |        |        |        |        |        |        |         |
 |Masters         |   X     |        |        |        |        |        |        |        |        |        |         |
 |Professional    |     X     |        |        |        |        |        |        |        |        |        |         |
 |Doctoral        |     X      |        |        |        |        |        |        |        |        |        |         |
@@ -253,7 +253,7 @@ It’s ready as of 9/15/2022.
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz	
 - Participant recruiting & screening:	Perigean
 - Project point of contact: Liz Lantz
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test: john.cater@govcio.com
 - Note-takers:	Perigean
 - Observers:	
 * samara.strauss@va.gov
