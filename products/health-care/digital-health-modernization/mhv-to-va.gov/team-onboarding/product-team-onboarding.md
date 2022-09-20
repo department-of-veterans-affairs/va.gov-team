@@ -35,6 +35,7 @@ There are over 400 channels in the DSVA workspace, so take advantage of the chan
 - [#platform-qa-standards](https://dsva.slack.com/archives/C01CHAY3ULR) - Channel for contacting the QA Standards team if you need access to a testing tool or an automated test fails.
 - [#victories](https://dsva.slack.com/archives/C0186C3LDNU) - Place for announcing launches, wins, and celebrating with other teams the impact their work has on our Veterans
 - [Slackbot](https://dsva.slack.com/archives/D039TFZT7BR) - A bot that is useful for creating one-time and recurring reminders for yourself and your team.  You can also hover on a post in any channel, click the three dots that appear, and select *Remind me about this* to receive a reminder about the post later.
+- [VA Mural Account] - Request through Kevin Hoffman (needs to be verified)
 
 #### Product Managers
 - [#product](https://dsva.slack.com/archives/C0186C3LDNU) - Forum for resources and discussions around explanding product management and product thinking at VA and in government
