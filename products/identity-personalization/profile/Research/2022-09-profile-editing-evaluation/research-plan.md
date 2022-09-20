@@ -46,8 +46,8 @@ If we have time in the session, we’ll also review a prototype with the partici
 The research will be conducted remotely over Zoom, using Perigean’s account.
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
-- [Prototype](https://codepen.io/surfbird/full/vYjxQWy)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
+[Prototype](https://codepen.io/surfbird/full/vYjxQWy)
 
 ## Recruitment	
 
@@ -55,9 +55,9 @@ The research will be conducted remotely over Zoom, using Perigean’s account.
 Our recruitment will focus on people with cognitive disabilities, and people who use assistive technology, as well as groups that have been underrepresented in VA research to date.
   
 ### Recruitment criteria
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|     12          |       8           |    8    |       8      |     8     | 8      | 
+|Total requested|Completed sessions|Various|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|:-------------:|
+|     12          |       8           |   8     |             |         |       |    |
 
 
 ### Criteria Table 
@@ -80,7 +80,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |     12       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     7       |        |        |        |        |        |        |        |        |        |         |
 |Black           |       1     |        |        |        |        |        |        |        |        |        |         |               
 |White           |           |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |     1      |        |        |        |        |        |        |        |        |        |         |                            
@@ -97,7 +97,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |55+ yo          |      4      |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |       12     |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |           |        |        |        |        |        |        |        |        |        |         |
 |*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
@@ -110,7 +110,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |Pension         |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
 |***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      12      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
 |Army            |            |        |        |        |        |        |        |        |        |        |         |
 |Navy            |            |        |        |        |        |        |        |        |        |        |         |
@@ -134,15 +134,15 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |Doctoral        |     X      |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      12      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |           |        |        |        |        |        |        |        |        |        |         |
 |Urban           |            |        |        |        |        |        |        |        |        |        |         |
 |Rural           |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |   10 - any device is acceptable for users who are using screen readers or zoom magnification. Otherwise, we want mobile users if they do not use assistive technology.         |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   12 - but must have a mobile device available for session if they are not using assistive technology (see screener questions)       |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |     12       |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |           |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
@@ -153,7 +153,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     12       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |          |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
@@ -217,13 +217,15 @@ Our recruitment will focus on people with cognitive disabilities, and people who
        
 
 ### Screener questions
-1. Do you need assistive technology to use your phone such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to next question if yes)
-	 * Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
-2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to next question if yes)
-	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
+1. Do you need assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to question 1a if yes, 1b if no)
+	 1a. Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+	1b. Are you able to join the Zoom session from a mobile device, or log into VA.gov on a mobile device during the session? (Answer should be yes to satisfy criteria for non-AT users)
+2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to question 2a if yes, 2b if no)
+	 2a. Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
+	2b. Are you able to join the Zoom session from a mobile device, or log into VA.gov on a mobile device during the session? (Answer should be yes to satisfy criteria for non-AT users)
 
 ### Additional instructions  
-ALL participants must have a smartphone and are willing to complete their interview that device.  They also need to:
+ALL participants need to:
   - be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
@@ -253,7 +255,7 @@ It’s ready as of 9/15/2022.
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz	
 - Participant recruiting & screening:	Perigean
 - Project point of contact: Liz Lantz
-- Participant(s) for pilot test: john.cater@govcio.com
+- Participant(s) for pilot test:	TBD
 - Note-takers:	Perigean
 - Observers:	
 * samara.strauss@va.gov
