@@ -104,6 +104,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   **Next steps:** Needs ticket + a11y defect level for prioritzation
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
 -   **Considerations:** What percentage of users end up going through this flow? Knowing this could help us prioritize.
+-   Draft ticket created [#47272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47272)
 
 #### Name tag
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
