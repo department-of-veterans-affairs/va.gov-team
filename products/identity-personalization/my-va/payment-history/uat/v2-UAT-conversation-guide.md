@@ -63,12 +63,12 @@ Please click on My VA. Okay let's take a look at this page. You can scroll up an
 Explain to me what you think this page is for and what's jumping out to you on it.
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
-- [ ] **UAT TASK:** Confirm the outstanding debts section is showing for all users
+- [ ] **UAT TASK:** Confirm the outstanding debts and benefit payments sections are showing for all users
 - [ ] **Usability**: Do they notice the outstanding debts section? Scanning through the page, do they mention that those amounts seem to be due and payments seem to have been paid to them?
 
 Okay, let’s look at the section that says "Outstanding debts."
 
-Does everything related to your outstanding debts look right to you?
+Does everything related to your outstanding debts seem right to you?
 
 Can you explain to me what the content in this section is telling you?
 
@@ -79,7 +79,7 @@ Is anything confusing to you about it?
 - [ ] **Usability**: Do users find anything confusing about this section?
 
 ## 2. Confirm all outstanding debts links - 5-7 minutes
-Let’s review the links in this section. Please tell me what links you see in this section.
+Let’s review the links in this section. Please tell me what links are in this section.
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
@@ -90,7 +90,7 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 ## 3. Review payment history section - 5-7 minutes
 Okay, let’s look at the section that says "Payment history."
 
-Does everything related to your payment look right to you?
+Does everything related to your payment seem right to you?
 
 Can you explain to me what the content in this section is telling you?
 
@@ -104,7 +104,7 @@ Is anything confusing to you about it?
 
 ## 4. Confirm all benefit payment links - 5-7 minutes
 
-Let’s review the links in this section. Please tell me what links you see in this section.
+Let’s review the links in this section. Please tell me what links are in this section.
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
