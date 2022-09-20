@@ -67,7 +67,7 @@ All team members working on a VA.gov project must complete an orientation reques
   - [VA Platform Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
     - [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome)
     - [Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
-  - [Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - 
+  - [Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - Schedule your own orientation sessions using Calendly.  Each session suggests team members who will benefit most.
 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
