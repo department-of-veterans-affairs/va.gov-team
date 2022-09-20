@@ -12,9 +12,10 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
-## August 24, 2022
+## September 21, 2022
 
 - top task update (VHADM)
+- looking ahead: work with Content Team to craft guidance and examples for COVID messaging
 
 ## August 9, 2022
 
