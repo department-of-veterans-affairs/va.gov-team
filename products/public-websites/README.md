@@ -640,6 +640,7 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 
 **More info:**
 * A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
+* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
 * Design system: [Search input](https://design.va.gov/components/search-input)
 * 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
 * 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
