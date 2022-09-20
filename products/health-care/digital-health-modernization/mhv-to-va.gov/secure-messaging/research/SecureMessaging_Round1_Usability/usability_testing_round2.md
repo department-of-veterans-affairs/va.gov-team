@@ -1,7 +1,7 @@
 # Research Plan for HMI team, Secure Messaging, September/October 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed and tested a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device in June and July, 2022 (see [this folder][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability]) for more information). Updates were made to the prototype based on user feedback. In this round 2 of usability testing, we will assess (1) whether the updates improved user experiences, and (2) test additional functionality that we were unable to test in round 1. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed and tested a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device in June and July, 2022 (see [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability) for more information). Updates were made to the prototype based on user feedback. In this round 2 of usability testing, we will assess (1) whether the updates improved user experiences, and (2) test additional functionality that we were unable to test in round 1. 
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -21,21 +21,29 @@ The goals of this study are to:
 ### Research questions
 
 _Finding a message:_
+
 1. Do Veterans understand that the Search function only searches within a particular folder? How does this affect their behaviors?
+
 2. Do Veterans expect the Search function to search within message attachments and threads? How does this affect their behaviors?
 
 _Organizing messages:_
+
 3. Do Veterans understand how to create folders? How to store messages in folders? Rename or delete folders?
+
 4. Do Veterans value the folder functionality?
 
 _Replying to a message:_
+
 5. Do Veterans understand how to attach a file to a message?
 
 _Patient safety:_
+
 6. Do Veterans notice and understand the information about who to call in case of an emergency and how quickly to expect a response from their providers?
+
 7. Do they notice and understand this information at the same rate as the previous version (with banner)?
 
 _Untested components:_ 
+
 8. Do users understand how to use the following non-validated components: 
 	- Tertiary buttons
 	- Toolbar
