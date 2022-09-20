@@ -46,8 +46,8 @@ If we have time in the session, we’ll also review a prototype with the partici
 The research will be conducted remotely over Zoom, using Perigean’s account.
 
 ### Research materials
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
-[Prototype](https://codepen.io/surfbird/full/vYjxQWy)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
+- [Prototype](https://codepen.io/surfbird/full/vYjxQWy)
 
 ## Recruitment	
 
@@ -218,10 +218,15 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 
 ### Screener questions
 1. Do you need assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to question 1a if yes, 1b if no)
+
 	 1a. Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
 	1b. Are you able to join the Zoom session from a mobile device, or log into VA.gov on a mobile device during the session? (Answer should be yes to satisfy criteria for non-AT users)
+
 2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to question 2a if yes, 2b if no)
+
 	 2a. Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
+
 	2b. Are you able to join the Zoom session from a mobile device, or log into VA.gov on a mobile device during the session? (Answer should be yes to satisfy criteria for non-AT users)
 
 ### Additional instructions  
