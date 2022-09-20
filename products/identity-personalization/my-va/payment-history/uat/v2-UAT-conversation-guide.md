@@ -48,17 +48,19 @@ Before we look at the website, I'd like to get a little background information f
 6. Do you know your username and password to log in to VA.gov?
 	* If not: Are these readily accessible? Could get them?
 	* If the user can not remember or retrieve their login credentials, **end the session.** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
+	
 7. Today we are going to observe you interacting with the new feature on your computer. Are you comfortable sharing your screen with me once you log in?
 	* If no: Explain this is necessary for testing. If they are still unwilling, **end the call.** I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 	
 Great! Thanks for confirming all of that. Let’s move on to the website.
 
-## 1. Confirm outstanding debts feature - 10 minutes
+## 1. Review outstanding debts section - 10 minutes
 Please open a new tab in your browser, and go to https://www.va.gov/.
 
 Once you are logged in, you can share your screen with me. Let me know if you need any help doing that.
 
-Please click on My VA. Okay let's take a look at this page. You can scroll up and down it if you'd like. Explain to me what you think this page is for and what's jumping out to you on it.
+Please click on My VA. Okay let's take a look at this page. You can scroll up and down it if you'd like.
+Explain to me what you think this page is for and what's jumping out to you on it.
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 - [ ] **UAT TASK:** Confirm the outstanding debts section is showing for all users
@@ -68,10 +70,12 @@ Okay, let’s look at the section that says "Outstanding debts."
 
 Does everything related to your outstanding debts look right to you?
 
-Is anything connfusing to you about this section?
+Can you explain to me what the content in this section is telling you?
 
-- [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any oitstanding debts to show” message and Learn about VA debt link is displaying.
-- [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the recent payment info and view all information about it at once.
+Is anything confusing to you about it?
+
+- [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any outstanding debts to show” message and Learn about VA debt link is displaying.
+- [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
 - [ ] **Usability**: Do users find anything confusing about this section?
 
 ## 2. Confirm all links - 5-7 minutes
