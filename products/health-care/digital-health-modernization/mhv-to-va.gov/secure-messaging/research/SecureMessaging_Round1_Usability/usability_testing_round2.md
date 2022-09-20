@@ -1,7 +1,7 @@
 # Research Plan for HMI team, Secure Messaging, September/October 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed and tested a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device in June and July, 2022 (see [this folder][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability] for more information). Updates were made to the prototype based on user feedback. In this round 2 of usability testing, we will assess (1) whether the updates improved user experiences, and (2) test additional functionality that we were unable to test in round 1. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed and tested a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device in June and July, 2022 (see [this folder][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability]) for more information). Updates were made to the prototype based on user feedback. In this round 2 of usability testing, we will assess (1) whether the updates improved user experiences, and (2) test additional functionality that we were unable to test in round 1. 
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -52,7 +52,8 @@ Data collection will be remote. We will use Zoom.
 
 ### Research materials
 Conversation guide [link]
-Prototype to be testing [link]
+
+Prototype to be tested [link]
 
 ## Recruitment
 TBD - need to review previous study to ID gaps, if any
