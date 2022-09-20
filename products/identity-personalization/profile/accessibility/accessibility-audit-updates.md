@@ -131,6 +131,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   Angela: "You can put the email address change at the top under H1 under an H2 and then another that says completed tasks (H2) - or put the email part somewhere else and then get rid of the rest"
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
+	-   Draft ticket created [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299)
 
 #### In-line error message when editing in profile
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
