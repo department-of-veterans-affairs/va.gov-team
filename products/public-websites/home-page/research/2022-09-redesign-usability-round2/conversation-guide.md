@@ -159,30 +159,29 @@ FOR EVERYONE
     
 </details>
 
-### DRAFT IDEAS for tasks:
+### DRAFT IDEAS for tasks: (participants completed 2-13 tasks in the last round of testing; avg 5.7)
 - same small number of tasks for everyone (diff from last round)
 - tasks that didn't go well in last round:
-  - file for disability increase
-  - add a spouse
-  - compare educ benefits by school
-  - ck current disability compensation rates
-  - message your doctor
- - benefits letters (b/c removed direct link)--ck if have one from baseline wayfinding study (see if people find in Records benefit hub and megamenu)
-- ID cards (b/c removed direct link)--ck if have one from baseline wayfinding study (see if people find in Records benefit hub and megamenu)
-- mental health--to see what people think of where taken
-- (see if they use Resources & Support if there's a link in Other search tools). record any feedback on the name.
-
-- something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
+1. file for disability increase--Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
+1. add a spouse--Say that you just got married. How would you tell the VA about your new spouse?
+1. compare educ benefits by school--There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out? (see how goes w/o education links in Other search tools)
+1. ck current disability compensation rates--You'd like to see VA's current disability compensation rates. How would you find this?
+1. message your doctor--Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them?
+1. benefits letters (b/c removed direct link)--Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA? (see if people find in Records benefit hub and megamenu)
+1. mental health--Recent news stories have affected you more than you expected, and you want to talk to someone about how you're feeling. How would you do this? (to see what people think of where taken)
+1. something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
   - Impressions? *(news / benefit / ad / ____________)* 
   - What do people try to click on? *(headline / image / Read the full article / somewhere else in box)*
-  - followup: How would you see if there's other information that's relevant to you? *(More VA news / __________)*
-- at least one task that's not in the Popular list
-- the 4 most difficult tasks from the first round of testing, plus "message your doctor"
-- one of the education tasks (b/c the education links no longer in Other search tools)
-- When someone uses the sign-in or create account link, can they tell the difference?
-- How might you learn about updates in VA benefits? (PACT Act  or Pathfinger? and click thru to learn more). use the wording of changes to legislation: recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, "legislation that relates to changes in VA benefits and services"
+  - followup: How would you see if there's other information that's relevant to you? *(More VA news / __________)* 
+1. How might you learn about updates in VA benefits? (PACT Act  or Pathfinger? and click thru to learn more). use the wording of changes to legislation: recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, "legislation that relates to changes in VA benefits and services"
 	- followup q: how would you get more info about this?
 	- followup q: how would you get information on other topics?
+
+1. SKIP b/c already have benefits letters? ID cards (b/c removed direct link)--TASK TBD (see if people find in Records benefit hub and megamenu)
+- (see if they use Resources & Support if there's a link in Other search tools). record any feedback on the name.
+
+- at least one task that's not in the Popular list DONE
+- When someone uses the sign-in or create account link, can they tell the difference?
 
 - update the names of the page in the notetaking lines 
 - see if any accessibility issues with megamenu
