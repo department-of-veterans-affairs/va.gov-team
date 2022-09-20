@@ -64,7 +64,7 @@ I’d like for you to update your contact information on VA.gov. Do you know whe
 
 - Go ahead and start updating your contact information. 
 If it’s correct, just change something small. We’ll correct it all at the end. *Have participant update at least 3 pieces of contact information. One must be an address.*
-- If needed, have them trigger address validation flow by changing a number in the zip code to make it incorrect.
+- If needed, have them trigger address validation flow by intentionally entering data to make the address incorrect. An incorrect zip code will usually do the trick.
 - If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
 - Moderator: ask follow-up questions to understand the participants experience. For example:
 	* Clarify any hesitation spots
@@ -78,7 +78,10 @@ If it’s correct, just change something small. We’ll correct it all at the en
 - Note what changes they made so you can guide them to correcting them at the end of the session, if needed.
 - Did any alerts get triggered during their updates?  “e.g. Are you sure?”
 
-## Second Task: Update notification settings - 5 minutes
+## Second Task: Reverse any unwanted changes in contact information - 5 minutes
+- Let’s go back to your contact information and make sure it is all actually accurate and the way you want it.
+
+## Third Task: Update notification settings - 5 minutes
 Next, I’ll have you update your VA notification settings. If they’re already set the way you want them, go ahead and change them anyway, and then set them back the way you want them.
 
 ### Things to watch for:
@@ -88,9 +91,6 @@ Next, I’ll have you update your VA notification settings. If they’re already
 	* Clarifying hesitation spots
 	* What was difficult about making those updates?
 	* How does it align with expectations?
-
-## Third Task: Reverse any unwanted changes in contact information - 5 minutes
-- Let’s go back to your contact information and make sure it is all actually accurate and the way you want it.
 
 ## Fourth Task: Review prototype - 5 minutes
 Now I’d like to get your feedback on a prototype. It’s very basic but hopefully it will give you an idea of another approach to editing contact information. Since it’s a prototype, it won’t work exactly the way you might expect.
