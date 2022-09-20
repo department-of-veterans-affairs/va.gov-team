@@ -195,6 +195,7 @@ _Why would your business want this to exist?_
 - This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
 - There is also a link to update direct deposit information.
 - **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
+- Benefits- team 2 is responsible for debts and copays their Slack room is #benefits-team-2
 - **Backend system**: BGS
 
 ### Apply for benefits
