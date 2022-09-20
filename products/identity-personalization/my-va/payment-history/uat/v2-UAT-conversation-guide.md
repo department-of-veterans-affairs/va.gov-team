@@ -78,7 +78,7 @@ Is anything confusing to you about it?
 - [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
 - [ ] **Usability**: Do users find anything confusing about this section?
 
-## 2. Confirm all links - 5-7 minutes
+## 2. Confirm all outstanding debts links - 5-7 minutes
 Let’s review the links in this section. Please tell me what links you see in this section.
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
@@ -96,14 +96,25 @@ Can you explain to me what the content in this section is telling you?
 
 Is anything confusing to you about it?
 
-- [ ] **UAT TASK**: Confirm that if the user has recurring payments, the most recent is showing
-- [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any outstanding debts to show” message and Learn about VA debt link is displaying.
+- [ ] **UAT TASK**: Confirm that if the user has recurring payments, the most recent is showing.
+- [ ] **UAT TASK**: Confirm that if the user has never received payments, text shows that says "You do not have any recent payments to show" and only the direct deposit link is showing.
+- [ ] **UAT TASK**: Confirm that if the user does not receive recurring payments, text shows that says "You do not have any recent payments to show" and direct deposit and payment history links are showing.
 - [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
 - [ ] **Usability**: Do users find anything confusing about this section?
 
+## 4. Confirm all benefit payment links - 5-7 minutes
+
+Let’s review the links in this section. Please tell me what links you see in this section.
+
+Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
+
+- [ ] **UAT TASK**: Confirm the "View your payment history" link within payment card is behaving as expected
+- [ ] **UAT TASK**: Confirm the "View your payment history" secondary link that shows for users without a recent payment card is behaving as expected
+- [ ] **UAT TASK**: Confirm the "Manage your direct deposit information" secondary link that shows for all users is behaving as expected
+- [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
 ## Post-Task Interview - 5 minutes
 Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
-Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day! 
+Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day!
