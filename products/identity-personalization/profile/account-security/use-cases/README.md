@@ -1,6 +1,6 @@
 # Account Security Use Cases
 
-**Last updated:** September 12, 2022
+**Last updated:** September 20, 2022
 
 If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
