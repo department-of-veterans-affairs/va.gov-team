@@ -46,8 +46,8 @@ If we have time in the session, we’ll also review a prototype with the partici
 The research will be conducted remotely over Zoom, using Perigean’s account.
 
 ### Research materials
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
-[Prototype](https://codepen.io/surfbird/full/vYjxQWy)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
+- [Prototype](https://codepen.io/surfbird/full/vYjxQWy)
 
 ## Recruitment	
 
