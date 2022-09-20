@@ -13,7 +13,8 @@
 **Tom: are you confident that the feature we can handle the traffic?**
 - Answer: 
 
-**AJ and Erica: is UAT complete?
+**AJ and Erica: is UAT complete?**
+- Answer: 
 
 **Taylor and Tom: are there any Sev1 bugs or accessibility issues outstanding?**
 - Answer: 
