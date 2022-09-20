@@ -125,7 +125,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       | Various    |        |        |        |        |        |        |        |        |        |         |
+|*Various*       | 14         |        |        |        |        |        |        |        |        |        |         |
 |Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
@@ -134,7 +134,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |  Various   |        |        |        |        |        |        |        |        |        |         |
+|*Various*       | 8          |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
@@ -166,7 +166,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |   Various  |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   14       |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
 |GED             |            |        |        |        |        |        |        |        |        |        |         |
@@ -192,8 +192,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|      5     |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |      5     |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
@@ -279,34 +279,16 @@ Write any recruitment criteria for experience or scenarios as screener questions
   
  > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
   
- Additionally, you may provide instructions for Perigean to follow to ensure a smooth set-up.
-  
- > **Example:** ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
+ 1. Please make sure that **ALL participants have a computer or smartphone and are willing to complete their interview on the device they specified when recruited**:
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-
-1. Do you have an account on the VA.gov website? *(recruit 5 who say "yes" and 5 who say "no")*
+### Additional criteria--DISCUSS WHETHER WANT THESE OR DROP
 2. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
     1. Zero or one *(recruit 3)*
     1. Two or more NOT INCLUDING Health Care *(recruit 6)*
     1. Two or more INCLUDING Health Care *(recruit 4)*
-
-### Additional criteria--DISCUSS WHETHER WANT THESE
-- 3 have NO experience with ANY VA benefit OR experience with ONLY ONE VA benefit *(see Additional Question #1 below)*
-- 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
-- 4 have experience with health care and optionally with other VA benefits *(see Additional Question #1 below)*
-- 10 people who plan to use their desktop or laptop computer for the session
-- 10 people who plan to use their mobile device for the session 
-- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
-
-- ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
-  - During the session, are willing to share over Zoom a web browser window on their device
-  - Have a working microphone on their device
-  - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 
 ## Timeline
