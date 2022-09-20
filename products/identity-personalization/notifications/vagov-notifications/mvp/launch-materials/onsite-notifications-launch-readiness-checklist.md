@@ -16,10 +16,10 @@
 **Taylor and Tom**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
-**Taylor**: are you ready to turn the feature on for _n_% of users?
+**Taylor**: are you ready to turn the feature on for 25% of users?
 - Answer: 
 
-**Samara/AJ**: is the Product Health Tool and/or Google Analytics updated to track this product data and are they working as expected?
+**Samara/AJ**: is Google Analytics updated to track this product data and are they working as expected?
 - Answer: 
 
 **Samara/AJ**: did you see KPI metrics and other usability metrics populating from UAT?
