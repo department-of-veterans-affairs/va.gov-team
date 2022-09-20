@@ -279,7 +279,11 @@ Write any recruitment criteria for experience or scenarios as screener questions
   
  > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
   
- 1. Please make sure that **ALL participants have a computer or smartphone and are willing to complete their interview on the device they specified when recruited**:
+1. What device will you be using during the research session? 
+- smartphone *(recruit 9)*
+- laptop or desktop computer *(recruit 5)*
+
+PERIGEAN: Please make sure that **ALL participants are willing to complete their interview on the device they specified when recruited** and:
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
