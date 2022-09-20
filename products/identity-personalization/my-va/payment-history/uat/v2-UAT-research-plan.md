@@ -1,13 +1,13 @@
 # Research Plan for Authenticated Experience, My VA Benefit Payments and Debts UAT, October 2022
 ## Background
-Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
+Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard. In our recent [My VA usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md), we heard from all participants that they would much rather manage VA debt on VA.gov than through the mail and over the phone.
 
 This effort aims to add more detail around debt and payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention.
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history) for more details.
 
 ### OCTO-DE Objectives 
-The addition of timely debt and payment updates should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
+The addition of timely debt and payment updates should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks and cuts down on necessary phone and mail communication.
 
 ### Veteran Journey
 Since Veterans can receive payments and incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
@@ -21,7 +21,6 @@ As secondary goals, we’ll follow up on [our last usability study](https://gith
 	- We eliminated the use of red and green color and want to make sure the page is still scannable without them.
 	- We have made some content updates to align with other teams around payments and debts.
 - We would like to learn more about challenges experienced by people who use magnification, have cognitive considerations, and use screen readers.
-- 
 
 ### Outcome
 Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
@@ -29,23 +28,24 @@ Based on the outcome of this research study, we will either release our MVP to p
 ### Research questions
 - Does the functionality work as expected?
 - Are Veterans able to take action on their payment or debt information without any usability hurdles?
-- Is it important to Veterans with debt to see the number of outstanding debts they have, or just that they have debt?
-- Do Veterans look for co-pay information on My VA under the health care section, or the benefit payments and debts section?
+- Has the elimination of red and green colors decreased the scannability of the page, or decreased anxiety around having debt?
+- Is any of the copy confusing to users?
 
 ### Hypothesis
+- Veterans will not encounter any bugs in the payments and debts sections.
 - Veterans will be able to easily take action on their payment and debt information from My VA.
-- Veterans will not encounter any bugs in the Benefit payment and debt section.
-- Veterans will not have strong opinions about whether copays are associated with benefit payments & debts or healthcare and could see it applying to either seciton.
+- Veterans will like the term "overpayment" for debts.
+- Veterans may be confused about whether the new "payment history" title refers tio only payments VA has made to them or also payments they have made to VA.
 
 
 ## Method	
-We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions.
+We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions. We will test in production with real user data.
 
 ### Location
 Remote, via Zoom
 
 ### Research materials
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-conversation-guide.md) 
 
 ## Recruitment	
 Our intended audience for this research is mainly BIPOC Veterans, LGBTQ+ Veterans, assistive tech users, and Veterans with cognitive disabilities who have payments and debt with VA. We'll use Perigean to recruit them.
