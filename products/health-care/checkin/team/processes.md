@@ -123,10 +123,10 @@
     - Production Pre-Check-in wireframes for In Person appointments
     - Production Check-in wireframes for In Person appointments
     - Production Pre-Check-in wireframes for Telephone appointments
-- Product will forward the 3 presentation links to the Business Stakeholders
+- Product will forward the 3 presentation links to the Business Stakeholders 
 - When wireframes for a feature are finalized
     - Product will 
-        - Set up a demo with Business Stakeholders
+        - Set up a demo with Business Stakeholders (Business Stakeholders will be defined by Patrick/Stephen/Mark)
         - Record the demo & post a link to the recording on the Product page    
         - Document questions & feedback
     - UX will
