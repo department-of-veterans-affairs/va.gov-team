@@ -51,6 +51,7 @@ _Untested components:_
 
 ### Hypothesis
 With the updated prototype, Veterans will understand how to find, organize, and reply to messages from their healthcare providers, and will not be put at additional risk of adverse outcomes based on the updated patient safety content. 
+- NEED TO FLESH THIS OUT MORE AFTER HAVE UPDATED USER FLOWS; ALIGN W/ CONVO GUIDE.
 
 ## Method
 We will conduct moderated usability testing interviews with 9 users, in which we will ask users to navigate the prototype, observe their behavior, and ask follow-up prompts as needed. 
