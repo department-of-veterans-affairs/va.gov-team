@@ -56,13 +56,11 @@ Task #3
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
 - Now we'll pretend you're reviewing your mailing address and your zip code is incorrect like the alert says, so you need to make a change to your zip code.
-- First of all, could you select the question with the dotted line to view more about what to do if your address is correct? Ok, you can go ahead and close that.
-- Now you can go ahead and select edit.
+- Go ahead and select edit.
 - Then make a small change to your zip code.
 - Then select Update.
 
 #### UAT
-- [ ] **UAT TASK:** Confirm the FAQ dropdown functions as expected.
 - [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
 - [ ] **UAT TASK:** Confirm the success message appears when an update is made.
 - [ ] **UAT TASK:** Confirm the BAI alert disappears when an update is made.
@@ -73,14 +71,11 @@ Task #3
 **Task goal: Make sure the participant can easily CONFIRM a mailing address.**
 
 - Ok, we'll imagine that you came to this page and found this alert, but when you checked your mailing address you didn't find any errors - everything was correct. 
-- First of all, could you select the question with the dotted line to view more about what to do if your address is correct?
-- Ok, go ahead and close that.
-- Next, I’ll have you confirm that your address is correct.
+- So I’ll have you confirm that your address is correct.
 - Go ahead and select edit.
 - And without changing anything, select Update.
 
 #### UAT
-- [ ] **UAT TASK:** Confirm the FAQ dropdown functions as expected.
 - [ ] **UAT TASK:** Confirm the address can be confirmed and saved without an error message.
 - [ ] **UAT TASK:** Confirm the success message appears when an address is confirmed.
 - [ ] **UAT TASK:** Confirm the BAI alert disappears when an address is confirmed.
@@ -90,9 +85,11 @@ Task #3
 
 ## Task 4: Reset Address (If UPDATING address) and Closing - 2 minutes
 -   That’s everything we needed to go through.
--   Lastly, let's make sure all of your information is correct, since we made one small change to your zip code. 
+-   Let's make sure all of your information is correct, since we made one small change to your zip code. 
 	-   Could you please take a moment to double check your zip code and change it back if it's incorrect?
   	-   Does everything seem correct here?
--   Great! That's everything I wanted to get your feedback on. Do you have any questions or thoughts for me on what we've reviewed?
+-   Great! That's everything.
 
-Great, thank you so much!
+Thank you so much!
+
+- Go to next participant
