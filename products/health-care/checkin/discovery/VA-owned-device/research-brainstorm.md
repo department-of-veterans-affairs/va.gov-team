@@ -34,6 +34,9 @@ Crossed out means that it isn't part of the MVP scope proposal or how we will te
   - **Tablet**
   - ~~Computer~~
 
+## Identity verification brainstorm and ideation
+[Mural](https://app.zenhub.com/files/133843125/661dd220-9e14-49db-9019-f581f28b861f/download)
+
 ## Overall VA-owned device outstanding questions
 - How does the Veteran even know this piece of hardware can be used to check-in?
 - How do we get a tablet to test with and connect it to the VA network? Choose a site for the test that meets connectivity requirements.
