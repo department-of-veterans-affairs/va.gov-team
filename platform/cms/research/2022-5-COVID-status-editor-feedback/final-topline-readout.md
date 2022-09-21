@@ -100,7 +100,41 @@ A scan of VAMC sites indicated that editors published COVID status-related conte
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+## What specific language is working or not working at the facility level?
+Masking
+* 5 of the 6 said the language works
+* 1 said that a medical-grade mask is required at their facilities
+* 1 observed that community acceptance of masks differs from their facility’s protocol
+
+Screening
+* 6 of the 6 said the language does apply 
+* “May” is the operative word
+* 2 facilities allows self-screening at level High
+* No concerns about significant confusion for Veterans
+
+Visitors
+* Only 2 of the 6 said the language works
+* 1 person is unsure
+* 3 people pointed out the way the language creates conflict
+
+Virtual Care
+* 4 of the 6 said language works
+* 1 person is unsure 
+* 1 person pointed out a possible conflict
+
+## What other COVID messages do PAOs want to convey to Veterans, that are not covered by the national language?
+Masking = medical-grade mask required
+Screening = exact screening location, self-screening options, screening is or is not required (vs. “may be required”)
+Visitors = age restrictions, types of visitors allowed, policies for particular departments or floors
+Virtual care = clarity that this is in addition to physical visits
+
+## Research Questions - Answered
+**How do PAOs decide on additional COVID messages about visitation they want to add to the website?**
+Participants take direction on COVID messages from medical director, public affairs, and other facility leadership.
+**What feedback have Veterans given about the COVID messages on the website?**
+Some reports of questions about discrepancies in old/new policies. One PAO fielded questions via social media. Most participants do not have direct contact with Veterans.  
+**When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?**
+Approaches vary. Participants choose based on their own perception of what is the most visible. More research is needed.
 
 # Recommendations
 
@@ -131,7 +165,6 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 ## Secondary research
 
 The research team used the [Drupal CMS Facility status tool](https://prod.cms.va.gov/admin/content/facilities/facility-status) to identify how VAMC facilities were using the COVID facility status and alerts to communicate their status to Veterans. Tool requires CMS access.
-
 
 ## Who we talked to 
 
