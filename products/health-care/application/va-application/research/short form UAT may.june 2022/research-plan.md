@@ -8,7 +8,7 @@ Based on our [Google Analytics](https://github.com/department-of-veterans-affair
 In September 2021 prototype [usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/flow-research-sept-21/research-findings.md) validated the flows that are now in production. The primary purpose of this research is to test the designs/flows in production and reach participant populations that we were unable to reach due to prototype limitations. Additionally A/B testing will be conducted on the two design options for the self-report confirmation screen as collab cycle as suggested that Design B is more in alignment with the design system. 
 
 ## Goals	
-The primary goal of our UAT is to confirm that the short form functionality for each of our [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Short-form-use-cases.md) works as expected.
+The primary goal of our UAT is to confirm that the short form functionality for each of our [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md) works as expected.
 
 The goals of this user research are to:
 1. Validate that there are no issues or bugs for authenticated users with 50% or greater disability rating on record
