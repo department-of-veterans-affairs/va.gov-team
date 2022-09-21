@@ -7,6 +7,8 @@
 
 [Recordings](https://drive.google.com/drive/folders/1YDcN3CuxWYMYnQWk3-_B1KvGMuZGirIT)
 
+[Mural notes](https://app.mural.co/t/coforma8350/m/coforma8350/1662487211577/ab780c3bc19ef6985d5781a76de1ae23b056cd0d?sender=uf0ac39cb9487bbab2ebe3184) 
+
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
