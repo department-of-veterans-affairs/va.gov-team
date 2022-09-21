@@ -5,8 +5,6 @@
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 
-[Recordings](https://drive.google.com/drive/folders/1YDcN3CuxWYMYnQWk3-_B1KvGMuZGirIT)
-
 [Mural notes](https://app.mural.co/t/coforma8350/m/coforma8350/1662487211577/ab780c3bc19ef6985d5781a76de1ae23b056cd0d?sender=uf0ac39cb9487bbab2ebe3184) 
 
 
