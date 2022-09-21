@@ -142,13 +142,13 @@ What demographics, experience, and scenarios do you need participants to meet to
 |55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     6      |        |        |        |        |        |        |        |        |        |         |
 |*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |     6      |        |        |        |        |        |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -288,21 +288,18 @@ PERIGEAN: Please make sure that **ALL participants are willing to complete their
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-### Additional criteria--DISCUSS WHETHER WANT THESE OR DROP
-2. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
-    1. Zero or one *(recruit 3)*
-    1. Two or more NOT INCLUDING Health Care *(recruit 6)*
-    1. Two or more INCLUDING Health Care *(recruit 4)*
-
+2. Do you have experience using VA health care? *(Don't need to ask if screener questionnaire shows that they have NOT checked "Health care benefits")*
+    1. No *(recruit 6)*
+    1. Yes *(recruit 6)* 
 
 ## Timeline
 
 ### Prepare
-- Pilot #1: **TBD** with TBD
-- Pilot #2: **TBD** with TBD
+- Pilot #1: **Oct 19/20/21** with TBD
+- Pilot #2: **Oct 19/20/21* with TBD
 
 ### Research sessions
-* Planned dates of research: **TBD** (on or after Oct 24)
+* Planned dates of research: **Oct 24-27** 
 
 ### Length of sessions
 * Session length: 1 hour
@@ -312,7 +309,7 @@ PERIGEAN: Please make sure that **ALL participants are willing to complete their
 
 Team Availability | Time (ET--all pm)
 ------------------|--------------
-TBD, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
+Oct 24, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 TBD
 	
 ## Team Roles	
