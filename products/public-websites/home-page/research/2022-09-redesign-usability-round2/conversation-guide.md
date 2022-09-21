@@ -159,7 +159,7 @@ FOR EVERYONE
     
 </details>
 
-### DRAFT IDEAS for tasks: (participants completed 2-13 tasks in the last round of testing; avg 5.7)
+### DRAFT IDEAS for tasks: (participants completed 2-13 tasks in the last round of testing; avg 7.8)
 - same small number of tasks for everyone (diff from last round)
 - tasks that didn't go well in last round:
 1. file for disability increase--Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
