@@ -3,7 +3,7 @@ Conversation Guide for Bad Address Indicator UAT (Internal)
 
 -   _Make sure VA Profile team has turned on feature for user's account_
 
-Intro - 2 minutes
+(Skip) Intro - 2 minutes
 -----------------
 
 As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
