@@ -60,6 +60,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Other participants stated that they'd prefer to see all the letters on the same page.
 
 > "The decision letters are letters from the VA to me, whereas (Benefit Letters) are letters...that the website is generating that supports me." (P19)
+
 > "I would have put what I needed on the other page and combined them." (P12)
 
 
