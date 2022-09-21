@@ -27,7 +27,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **Core task of accessing Decision Letters via the VA.gov homepage and Claim Status Tool was very succesfful**
 
 - All participants were able to navigate from the VA.gov homepage to the Claim letters page and the decision letter with minimal confusion or usability issues
-- A few participants were slowed down on the Claim Status Tool detail page, although it was hard to assess how big of an issue this was for them given the prototype's limited functionality
+- A few participants were confused by the [On this page](https://design.va.gov/components/on-this-page) component on the Claim Status Tool detail page, although it was hard to assess how big of an issue this was for them given the prototype's limited functionality
 - One participant in particular felt that it required "too many steps" to get to the decision letter, validating a hypothesis we had that we can look to improve if we are able to overcome technical constraints. 
 
 > "Oh that's definitely a 5 (out of 5)...everything is self-explanatory." (P17)
