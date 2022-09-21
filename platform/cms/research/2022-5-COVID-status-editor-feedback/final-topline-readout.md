@@ -24,43 +24,27 @@ Suzanne Gray [suzanne.gray@civicactions.com], Denise Eisner [denise.eisner@civic
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+The primary goals of this research are to understand from the perspective of Public Affairs Officers (PAOs):
+* how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility
+* what parts of the messaging are successful
+* what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* What specific language is working or not working at the facility level? Why? 
+* What other COVID messages do PAOs want to convey to Veterans, that are not covered by the national language? 
+* How do PAOs decide on additional COVID messages about visitation they want to add to the website?  
+* What feedback have Veterans given about the COVID messages on the website? 
+* When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?  
 
 # Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+* Semi-structured interviews 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+The standardized COVID health protection guidelines do not reflect the actual policies and practices at local VAMC facilities. This creates multiple problems for Veterans and staff including: confusion for Veterans both before a visit and when they arrive, an increasing the burden on the the VA staff who may have to clarify the policies. This confusion and misalignment can slow the Veteran's ability to receive care.
 
 # Key Findings
 
