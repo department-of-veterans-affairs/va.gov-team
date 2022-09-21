@@ -1,4 +1,4 @@
-# Shared Support: How to Write Good Accessibility Tickets
+# How to Write Good Accessibility Tickets
 Here we’ll be taking a look at how Shared Support accessibility specialists report issues found during an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/whats-needed-to-start-an-accessibility-audit.md). This is where we have an opportunity to explain the importance of correcting accessibility related issues and sharing with teams helpful recommendations on how to improve and address these issues.
 
 ## Information to Include within an Issue Ticket
