@@ -57,7 +57,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 ### Recruitment criteria
 |Total requested|Completed sessions|Various|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|:-------------:|
-|     12          |       8           |   8     |             |         |       |    |
+|     12          |       8           |   12     |             |         |       |    |
 
 
 ### Criteria Table 
