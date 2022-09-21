@@ -2,8 +2,9 @@ Conversation Guide for Bad Address Indicator UAT (Internal)
 ============================================
 
 -   _Make sure VA Profile team has turned on feature for user's account_
+-   _Discuss if session should be recorded_
 
-(Skip) Intro - 2 minutes
+Intro - 2 minutes
 -----------------
 
 As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
@@ -12,18 +13,10 @@ As you know, we’ll be trying out this new feature that helps Veterans update i
 
 -   **We will be able to see some of your real information today**. 
 
--   **Are you comfortable if I record my screen and audio as we talk today?** 
-
-_Start recording._
-
--   **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
 Login and share screen - 1 minute
 ----------------------------------------
 
--   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. _Send link to va.gov via chat if needed_
--   And go ahead and log in.
-- Great, now that you're logged in, could you please share your screen?
+-   OK, go ahead and log in to va.gov and then share your screen once you've logged in. <https://www.va.gov/>. _Send link to va.gov via chat if needed_
 
 _Participant shares screen_
 
@@ -34,7 +27,7 @@ _Participant shares screen_
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
--   Ok, great. Now we'll go through this step by step.
+-   Ok, now we'll go through this step by step.
 -   First, please go to your Profile. 
 
 #### UAT
@@ -43,31 +36,19 @@ _Participant shares screen_
 
 ---------------------------------------------------------------
 
-Task #2: Navigate to Contact information page - 1 minute
+Task #2: Navigate to Contact information page / Mailing address field - 1 minute
 ---------------------------------------------------------
 
-**Task goal: Make sure the participant can easily navigate to the Contact information using the link.**
+**Task goal: Make sure the participant can easily navigate to the Mailing address field in Contact information using the link.**
 -   Go ahead and select the link to review your mailing address.
 
 #### UAT
-- [ ] **UAT TASK:** Confirm the link functions as intended.
-- [ ] **UAT TASK:** Confirm the alert is displayed on the Contact information page as expected.
+- [ ] **UAT TASK:** Confirm the link functions as intended and brings the user to the Mailing address field.
+- [ ] **UAT TASK:** Confirm the alert is displayed in the Mailing address field as expected.
 
 ---------------------------------------------------------------
 
-Task #3: Navigate to Mailing address field - 1 minute
----------------------------------------------------------
-
-**Task goal: Make sure the participant can easily navigate to the Mailing address field using the jump link.**
-
-- Now please select the link to review and update your address.
-
-#### UAT
-- [ ] **UAT TASK:** Confirm the jump link functions as intended and brings the user to the Mailing address section.
-
----------------------------------------------------------------
-
-Task #4
+Task #3
 ---------------------------------------------------------
 
 ### OPTION 1: Update Mailing address - 2 minutes
@@ -75,9 +56,9 @@ Task #4
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
 - Now we'll pretend you're reviewing your mailing address and your zip code is incorrect like the alert says, so you need to make a change to your zip code.
-- First of all, could you select the question with the dotted line to view more about what to do if your address is correct?
-- Go ahead and select edit.
-- Then make a small change to your zip code
+- First of all, could you select the question with the dotted line to view more about what to do if your address is correct? Ok, you can go ahead and close that.
+- Now you can go ahead and select edit.
+- Then make a small change to your zip code.
 - Then select Update.
 
 #### UAT
@@ -107,7 +88,7 @@ Task #4
 
 ---------------------------------------------------------------
 
-## Task 5: Reset Address (If UPDATING address) and Closing - 2 minutes
+## Task 4: Reset Address (If UPDATING address) and Closing - 2 minutes
 -   That’s everything we needed to go through.
 -   Lastly, let's make sure all of your information is correct, since we made one small change to your zip code. 
 	-   Could you please take a moment to double check your zip code and change it back if it's incorrect?
