@@ -66,9 +66,9 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**The COVID-19 masking/distancing, screening and virtual care language generally works.**
 
-Labels: label 1, label 2 
+Labels: PRDT: Facilities 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
