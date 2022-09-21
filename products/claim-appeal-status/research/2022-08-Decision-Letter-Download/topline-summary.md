@@ -66,7 +66,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Other findings/reflections**
 
-- Most participants guessed that Claim Letters page would include decision letters and development letters (other letters related to gathering evidence or updates about the claim).
+- Most participants correctly guessed that Claim Letters page would include decision letters and development letters (other letters related to gathering evidence or updates about the claim).
 - The main value proposition of the Claim Letters page for many participants was that it serves as an archive. They felt reassured knowing they could access critical documents in this one place whenever they needed, especially if/when they misplaced the physical copies. This supports our design approach of creating a repository within Records for these types of letters.
 - A couple participants mentioned the mobile app, one participant in particular (P12) said that he primarily uses the mobile app and would expect to be able to find this more easily there. We should connect with the mobile app team to ensure that this functionality is available wherever Veterans need it.
 - Only one participant explicitly critiqued the design for having "too many steps" (P12). But it was clear from observing that a better user experience would involve fewer steps to get to the actual decision letter. Given technical constraints, this approach works but we should continue to explore how we can overcome those constraints to provide an optimal user experience.
