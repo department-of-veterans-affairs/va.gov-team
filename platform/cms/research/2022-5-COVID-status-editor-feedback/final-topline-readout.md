@@ -137,7 +137,11 @@ The research team used the [Drupal CMS Facility status tool](https://prod.cms.va
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+The CMS Facilities team worked with VHA Digital Media to recruit 6-7 PAOs for this research using the the following criteria:
+* Are at the facility, not VISN level 
+* Represent an equal mix of urban and rural areas 
+* Represent large and small geographic territories 
+* Have not been involved in previous research with the CMS Facilities team 
 
 We talked to **6 participants.**
 
