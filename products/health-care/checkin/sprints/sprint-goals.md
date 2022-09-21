@@ -36,8 +36,12 @@
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
     - Finish & release 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Create infrastructure to submit claim to the BTSSS API 
+    - Create infrastructure to authenticate with the BTSSS API 
     - Create new pages 
+- [Gather analytics for "check-in attempted too early"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46697)
+    - Figure out how to move forward 
+- Tech Debt
+    - Review & Merge Yarn Workspaces PR
 
 
 ## 9/7/2022 
@@ -84,7 +88,7 @@
 - [Handle CVT Appointments](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/44210)
     - DONE Verify LOGIC in MAS
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
-    - DONE Continue implementation 
+    - ALMOST DONE Continue implementation 
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
     - ALMOST DONE Complete & release when ready 
 - [Gather analytics for "check-in attempted too early"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46697)
