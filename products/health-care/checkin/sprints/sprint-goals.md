@@ -54,6 +54,7 @@
     - Start research report 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - DONE Get Questions Answered
+    - DONE Update Final Wireframes with Finalized Content
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - DONE Finish & hand off survey
     - DONE Monitor Optimal Workshop Study
