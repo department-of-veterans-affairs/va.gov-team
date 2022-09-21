@@ -3,7 +3,7 @@
 **Office of the CTO - Digital Experience (OCTO-DE), Facilities, CMS Sitewide Crew
 Date: 08/05/2022
 
-Suzanne Gray <mailto:suzanne.gray@civicactions.com>, Denise Eisner [email], Dave Pickett [ ]
+Suzanne Gray [suzanne.gray@civicactions.com], Denise Eisner [denise.eisner@civicactions.com], Dave Pickett [dave.pickett@civicactions.com]
 
 [Research Report PDF] (link here)
 
