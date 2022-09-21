@@ -25,7 +25,7 @@ Suzanne Gray [suzanne.gray@civicactions.com], Denise Eisner [denise.eisner@civic
 
 # Research Goals
 
-The primary goals of this research are to understand from the perspective of Public Affairs Officers (PAOs):
+The primary goals of this research are to understand from the perspective of VHA Public Affairs Officers (PAOs):
 * how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility
 * what parts of the messaging are successful
 * what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities
@@ -52,20 +52,11 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. The COVID-19 masking/distancing, screening and virtual care language generally works.
 
-2. Finding two
+2. Because the national language is broader than local policies, there are discrepancies in communication with Veterans.
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+3. Because editors can’t customize the COVID language, they add additional details to a variety of other places on their websites.
 
 # Details of Findings 
 
