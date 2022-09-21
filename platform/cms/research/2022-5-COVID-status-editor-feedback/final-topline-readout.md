@@ -60,50 +60,47 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**The COVID-19 masking/distancing, screening and virtual care language generally works.**
+**Finding 1: The COVID-19 masking/distancing, screening and virtual care language generally works.**
 
-Labels: PRDT: Facilities 
+Labels: PRDT: Facilities, PRDT: VA Medical Centers (Websites), RESRCH: Interviews, RESRCH: Remote, SFTW: Website 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+The masking/distancing, screening and virtual are language generally works for VAMCs. The broad nature of the visitor language however creates the potential for confusion, with the unintended consequence of a Veteran making a physical visit and being turned away.
 
-Brief description
+“I think it’s fine the way it is. We try to keep it simple.” - P1
 
-> _Supporting data: Quote here_
+“I understand what you're trying to do. It's hard to make blanket statements even inside of our facility, let alone across the country that apply to every situation.” - P3
 
-> _Supporting data: Quote here_
+“I haven’t heard any positive or negative feedback about the wording.” - P5
 
+“[the language] didn’t directly conflict [with our policies], but it didn’t completely align. It left ambiguity.” - P2_
 
-**Finding 2**
+**Finding 2: Because the national language is broader than local policies, there are discrepancies in communication with Veterans.**
 
-Labels: label 1, label 2 
+Labels: PRDT: Facilities, PRDT: VA Medical Centers (Websites), RESRCH: Interviews, RESRCH: Remote, SFTW: Website 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+From the VA design principles: The VA.gov customer experience should be consistent across tools, applications, and devices. A Veteran should be able to access the same content and user experience regardless of how they engage with their data.
 
-Brief description
+“We want it to be consistent across all our channels that we’re putting this out on.” - P3
 
-> _Supporting data: Quote here_
+"[The national language] risked creating more confusion. It was a solution to a problem we didn’t have." - P2
 
-> _Supporting data: Quote here_
+"Veterans didn't understand [the new messages] either. They were like 'So how is this different?' Our response was 'It's not.'” - P3
 
+**Finding 3: Because editors can’t customize the COVID language, they add additional details to a variety of other places on their websites.**
 
-**Finding 3**
+Labels: PRDT: Facilities, PRDT: VA Medical Centers (Websites), RESRCH: Interviews, RESRCH: Remote, SFTW: Website  
 
-Labels: label 1, label 2 
+A scan of VAMC sites indicated that editors published COVID status-related content in banner alerts and in detail pages. As of August 3, 2022, there were 71 system banner alerts with situation updates related to COVID. The content may repeat the national language or include specific details pertinent to that facility as it relates to COVID measures.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+“[It would be nice to have] the ability to pick and choose [language] that matches this level for your facility” - P4
 
-Brief description
+“In the banner at the top, I put a message about ‘check the operating status for each location’ and I put the link there.” - P1 
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+“[Medical grade masks] is the part that we were trying to get on our banner.” - P2
+"I guess I could add something on the home page" - P5
 
 # Additional Insights
 
@@ -112,13 +109,13 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
+* Remove the COVID facility status feature from the VAMC product
     * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+* Use the facility operating status for facility-specific restrictions
+* Provide approved COVID-related messages that editors can customize
+* Research and test solutions with editors before launching initiatives of this scale
+* Do research with Veterans about the how the website prepares them for a visit (i.e. “How would you figure out whether you can bring your kid to your visit?”)
+* Share research results with editors about how Veterans are using their sites
 
 # Next Steps
 
