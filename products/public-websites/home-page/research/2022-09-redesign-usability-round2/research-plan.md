@@ -265,9 +265,9 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener
 
-1. Do you have experience using VA health care? *(Don't need to ask if screener questionnaire shows they have NOT checked "Health care benefits")*
-    1. No *(recruit 6)*
+1. Do you have experience using VA health care? *(Don't need to ask because can see if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
     1. Yes *(recruit 6)* 
+    1. No *(recruit 6)*
 
 1. Please make sure that **ALL participants are willing to complete their interview on the device they specified when recruited** and:
     1. During the session, are willing to share over Zoom a web browser window on their device
