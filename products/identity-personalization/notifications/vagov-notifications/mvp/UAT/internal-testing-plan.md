@@ -17,11 +17,11 @@
  |4.| UAT go/no go meeting| Erica, Angela and Taylor | Completed Wednesday 9/14 |
  |5.| Reach out to test subjects to confirm their availablility and to relay the process for validation| Angela | Completed Thursday 9/15 |
  |6.| When test users confirm their availability turn feature on for them in production via feature flipper| Angela | Completed Thursday 9/15 |
- |7.| Test subjects test and share validation confirmation with Angela, including screenshots. As part of validation test subjects are asked to dismiss all notifications as their last test/step| Test subjects, but Angela and Erica to confirm | In progress (waiting for last participant) |
+ |7.| Test subjects test and share validation confirmation with Angela, including screenshots. As part of validation test subjects are asked to dismiss all notifications as their last test/step| Test subjects, but Angela and Erica to confirm | Completed 9/21 |
  |8.| Troubleshoot as needed if issues are discovered and communicate any issues with Taylor and VA Notify| Angela, Erica and Taylor as needed | Not needed |
- |9.| Turn off feature flag for all test subjects| Angela | |
- |10.| Document results/findings| Angela | In progress (waiting on last participant to be complete) |
- |11.| Let team + VA Notify know that internal testing is complete | Angela or Erica | |
+ |9.| Turn off feature flag for all test subjects| Angela | Completed 9/21 |
+ |10.| Document results/findings| Angela | Completed 9/21 |
+ |11.| Let team + VA Notify know that internal testing is complete | Angela or Erica | Completed 9/21 |
 
 ## Instructions for test subjects
 _Angela will share these instructions with the test subjects  as part of step 4 above._
