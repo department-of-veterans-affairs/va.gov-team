@@ -71,26 +71,25 @@ TBD - need to review previous study to ID gaps, if any
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
 ## Recruitment criteria
-We will schedule a total of 12 Veterans for an expected completion rate of 8-9 usability tests. 
+We will schedule a total of 24 Veterans for an expected completion rate of 18-20 usability tests. 
 
 **Primary criteria (must-haves)**
 - All participants must use or be eligible for VA Healthcare
-- At least 6 participants must regularly use Secure Messaging
-- At least 6 participants must not use MyHealtheVet
-- At least 6 participants who are mobile users
-- At least 6 participants who are desktop users
+- At least 12 participants must regularly use Secure Messaging
+- At least 12 participants must not use MyHealtheVet
+- At least 12 participants who are mobile users
+- At least 12 participants who are desktop users
 
 **Secondary criteria (nice-to-haves)**
-- 6 participants over the age of 55 years
-- 6 participants with cognitive disabilities
-- 2 participants from rural locations
-- 2 participants without a college degree
-- 2 participants of immigrant origin
-- 2 participants who identify as women
-- 1 expat participant
-- 2 Black participants
-- 2 Latinx participants
-- 1 Biracial participant
-- 1 Asian participant
-- 1 Native participant
-- 1 LGBTQ+ participants
+- 12 participants over the age of 55 years
+- 12 participants with cognitive disabilities
+- 6 participants who identify as women
+- 4 participants from rural locations
+- 4 participants without a college degree
+- 4 participants of immigrant origin
+- 4 Black participants
+- 4 Latinx participants
+- 3 Biracial participant
+- 2 Asian participant
+- 2 Native participant
+- 2 LGBTQ+ participants
