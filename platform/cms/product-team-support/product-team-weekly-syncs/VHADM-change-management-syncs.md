@@ -14,7 +14,11 @@
 
 ## September 21, 2022
 
-- top task update (VHADM)
+- top task update (VHADM/Denise)
+  - Register for care: 40%  		
+  - Medical records: 41% 		
+  - Billing and insurance: 51%
+
 - looking ahead: work with Content Team to craft guidance and examples for COVID messaging
 
 ## August 9, 2022
