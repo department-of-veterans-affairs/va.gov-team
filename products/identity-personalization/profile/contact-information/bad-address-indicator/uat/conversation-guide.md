@@ -88,8 +88,6 @@ Task #3
 -   Let's make sure all of your information is correct, since we made one small change to your zip code. 
 	-   Could you please take a moment to double check your zip code and change it back if it's incorrect?
   	-   Does everything seem correct here?
--   Great! That's everything.
+-   Great! That's everything. Thank you so much!
 
-Thank you so much!
-
-- Go to next participant
+_Go to next participant_
