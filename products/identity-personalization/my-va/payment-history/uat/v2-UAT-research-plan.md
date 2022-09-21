@@ -231,10 +231,9 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
 
 3. **All** participants should have received education benefit or compensation/pension payments from the VA, OR should CURRENTLY have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
-
-  1. Do you currently receive an education, compensation, or pension payment from the VA?
-  2. Do you have education, compensation, or pension debt with VA?
-  3. Do you have health care related debt with VA, such as copays?
+	* Do you currently receive an education, compensation, or pension payment from the VA?
+ 	* Do you have education, compensation, or pension debt with VA?
+ 	* Do you have health care related debt with VA, such as copays?
 
 **Please recruit at least 8 participants who currently have a form of debt as outlined above.** For the other 4 participants, it is okay if they receive payments and do not have debt.
 
