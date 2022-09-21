@@ -26,9 +26,9 @@ Suzanne Gray [suzanne.gray@civicactions.com], Denise Eisner [denise.eisner@civic
 # Research Goals
 
 The primary goals of this research are to understand from the perspective of VHA Public Affairs Officers (PAOs):
-* how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility
-* what parts of the messaging are successful
-* what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities
+* How the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility.
+* What parts of the messaging are successful.
+* What parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities.
 
 # Research Questions
 
@@ -54,10 +54,9 @@ The standardized COVID health protection guidelines do not reflect the actual po
 
 3. Because editors can’t customize the COVID language, they add additional details to a variety of other places on their websites.
 
-# Details of Findings 
+# Details of Findings
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
+[Example of COVID facility operating status](link - add image to github folder and link here with .png)
 
 **Finding 1: The COVID-19 masking/distancing, screening and virtual care language generally works.**
 
@@ -124,8 +123,11 @@ Virtual Care
 
 ## What other COVID messages do PAOs want to convey to Veterans, that are not covered by the national language?
 Masking = medical-grade mask required
+
 Screening = exact screening location, self-screening options, screening is or is not required (vs. “may be required”)
+
 Visitors = age restrictions, types of visitors allowed, policies for particular departments or floors
+
 Virtual care = clarity that this is in addition to physical visits
 
 ## Research Questions - Answered
