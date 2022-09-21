@@ -235,3 +235,9 @@ Location:
 
 COVID facility status at time of study:
 High: 6
+
+Limitations:
+* 5 of the 6 editors we spoke with are relatively new to web editing role (< 1 year)
+* Only have experienced High status - Medium and Low were thought experiments
+* Limited direct insight into Veterans’ experience 
+
