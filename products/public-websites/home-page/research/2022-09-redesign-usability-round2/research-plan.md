@@ -22,19 +22,20 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 The purpose of this research is to **get user feedback on the *newly revised version* of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, caregivers, and service members while completing benefit-related tasks. 
 
 ### Outcome
-This research will inform future iterations of the home page redesign, future research, and release decisions.
+This research will inform release decisions, as well as future research and design of the home page.
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
 1. Are participants able to successfully complete tasks from the home page without getting stuck?
-    1. How do task success rates compare to those in the first round of usability testing?  
+    1. How do task success rates compare to those in the first round of usability testing?
+    2. How do task success rates compare to those in the baseline wayfinding study last year?
 1. Which parts of the home page do participants use to complete tasks? 
-    1. Featured VA news at top of page (PACT Act)
+    1. Featured VA news at top of page (PACT Act article)
     2. "Create account" button
     4. The new search box 
     5. "Other search tools" 
     3. "Popular on VA.gov"
-    4. VA News content in the middle of the page (PathFinder)
+    4. VA News content in the middle of the page (PathFinder article)
     6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
@@ -49,10 +50,10 @@ This research will inform future iterations of the home page redesign, future re
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
-- Create account button
-- New search box
-- Other search tools
-- Popular on VA.gov
+- "Create account" button
+- The new search box
+- "Other search tools"
+- "Popular on VA.gov"
 - Benefit hubs
 - VA News featured at top and lower down on page
 
@@ -70,11 +71,13 @@ In this research, we are primarily interested in the following areas of the home
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
 1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-1. Participants understand that the news content blocks are news.
-2. Participants will be interested in the news content and know how to learn more about them.
+1. Participants understand that the two VA news content blocks are news.
+2. Participants will be interested in the VA news content and know how to learn more about them.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **tasks as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server, including some that didn't go well in the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md).
+
+**I would like Zoom transcripts please.**
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
@@ -84,27 +87,14 @@ We will conduct **remote moderated usability sessions via Zoom**. Participants w
 	
 ## Recruitment	
 
-Ask Perigean to recruit **16 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **10 completed sessions** using the criteria below.
-
 ### Recruitment criteria
-Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
-
-`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |       14      |         10       |    9  |     2        |    2     |        1      | 
 
-### Criteria Table (Please read carefully)
+### Criteria Table
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-- If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
-- ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
-- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
-- ***Various*** means you want an array of participants from this category but are leaving it to Perigean's discretion to recruit as many different types as possible.
-- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
-- For benefits category, you may also choose ***No Ben/Ser Exp*** which means you want particpants who haven't had experience using any Veteran benefit or service. In your additional screener section, you can specify exactly which benefit or service you want participants not to have had experience using. 
-- For hardware category, select which type/s you want participants to join your session to use.
 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
@@ -275,28 +265,21 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  
- > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-  
-1. What device will you be using during the research session? 
-- smartphone *(recruit 9)*
-- laptop or desktop computer *(recruit 5)*
-
-PERIGEAN: Please make sure that **ALL participants are willing to complete their interview on the device they specified when recruited** and:
-  - During the session, are willing to share over Zoom a web browser window on their device
-  - Have a working microphone on their device
-  - Have Zoom downloaded to their device prior to the session and know how to share their screen
-
-2. Do you have experience using VA health care? *(Don't need to ask if screener questionnaire shows that they have NOT checked "Health care benefits")*
+1. Do you have experience using VA health care? *(Don't need to ask if screener questionnaire shows they have NOT checked "Health care benefits")*
     1. No *(recruit 6)*
     1. Yes *(recruit 6)* 
+
+1. Please make sure that **ALL participants are willing to complete their interview on the device they specified when recruited** and:
+    1. During the session, are willing to share over Zoom a web browser window on their device
+    1. Have a working microphone on their device
+    1. Have Zoom downloaded to their device prior to the session and know how to share their screen
+
 
 ## Timeline
 
 ### Prepare
-- Pilot #1: **Oct 19/20/21** with TBD
-- Pilot #2: **Oct 19/20/21* with TBD
+- Pilot #1: **Oct 19/20/21** with Angela Fowler (angela.fowler@adhocteam.us)
+- Pilot #2: **Oct 19/20/21** with TBD
 
 ### Research sessions
 * Planned dates of research: **Oct 24-27** 
@@ -307,18 +290,20 @@ PERIGEAN: Please make sure that **ALL participants are willing to complete their
 
 ### Availability
 
-Team Availability | Time (ET--all pm)
+Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Oct 24, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
-TBD
+Oct 25, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
+Oct 26, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
+Oct 27, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill **(note that I'll be on PTO Sept 26 and Sept 30-Oct 5)**
+- Research guide writing and task development:	Cindy Merrill **(note that I'll be unavailable Sept 26 and Sept 30-Oct 5)**
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
-- Participants for pilot test:	TBD
+- Participants for pilot test:	Angela Fowler and TBD
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us)* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
 
