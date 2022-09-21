@@ -13,11 +13,12 @@ Updated 6/15/22
 
 ## Signing in
 
-Users can sign in on [VA.gov](http://va.gov/) using one of three Identity Providers:
+Users can sign in on [VA.gov](http://va.gov/) using one of four Identity Providers:
 
 1. **DS Logon**
 2. **My HealtheVet**
 3. **[ID.me](http://id.me/)**
+4. **Login.gov**
 
 Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov](http://va.gov/) page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the [VA.gov](http://va.gov/) Microsoft Dynamics instance.
 
@@ -51,7 +52,8 @@ Each identity provider has various account levels, which are mapped to [VA.gov](
 |                  | DS Logon Level 2  |
 | ID.me LOA1       |                   |
 |                  | ID.me LOA3        |
-
+| logingov IAL1    |                   |
+|                  | logingov IAL2     |
 ```
 
 ## User paths based on Identity
@@ -77,6 +79,6 @@ User paths for any product involving identity and personal information should be
 
 LOA3 users are more trusted, and will often have more information and access to services. UAT is required for any new product or feature leveraging identity to ensure that user is able to connect to the correct MPI record and that the personal information being served up by MPI and displayed by [VA.gov](http://va.gov/) is correct. If the user is not found in MPI, and they should be found or would like to be added to MPI, they need a way to correct this. If the user is connected to the correct MPI account, but the information shown is incorrect, the user needs a way to correct their information.
 
-LAO1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
+LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
 
 Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).

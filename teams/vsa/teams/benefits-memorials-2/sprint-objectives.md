@@ -1,4 +1,4 @@
-# Debt Resolution Team Sprint Objectives
+# Benefits Team 2 - Sprint Objectives
 This is a high-level summary of the current goals and tasks in the current Sprint set forth by the [Debt Resolution Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md).
 
 ### Guided by:
@@ -12,8 +12,9 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 | Sprint |Priorities  |Points Planned| Points Accomplished|
 |--|--|--|--|
-|81 (Aug 24 - Sept 6)| [#45623](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45623) |TBD points over TBD issues|TBD points over TBD issues|
-|80 (Aug 10 - Aug 23)|[#45622](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45622)|42 points over 12 issues|TBD points over TBD issues|
+|82 (September 7 -20)|[#46823](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/46823)|49 points over 14 issues|TBD points over TBD issues|
+|81 (Aug 24 - Sept 6)| [#45623](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45623) | 63 points over 21 issues| 52 points over 18 issues|
+|80 (Aug 10 - Aug 23)|[#45622](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45622)|42 points over 12 issues|45 points over 13 issues|
 | 79 (Jul 27 - Aug 9) |[#45009](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45009)|32 points over 9 issues| 32 points over 9 issues|
 | 78 (Jul 13- Jul 26) |[#44250](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/44250)|43 points over 12 issues| 44 points over 13 issues|
 | 77 (Jun 29- Jul 12) |[#43780](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/43780) |53 points over 13 issues| 70 points over 20 issues|

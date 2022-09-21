@@ -29,7 +29,7 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Product roadmap overview
 
-This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Product%20turnover%20v3%208.30.22.pdf) for the new team. 
+This product is not complete, and not in production yet. Here is a list of the [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/1095-B%20Turnover%20document%209.7.22.pdf) for the new team. 
 
 Overview of product roadmap (with details below): 
 
@@ -124,19 +124,18 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - GitHub Label: 1095b-Tax-Form
 - Slack channel: #cedar-1095b
 - Product POCs: 
-    - Tracey Mulrooney (Product Owner/VA) | tracey.mulrooney@va.gov
-    - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
+    - Tracey Mulrooney (Product Owner/VA) | tracey.c.mulrooney@omb.eop.gov
+    - Travis Hoffmann (MOVE) | travis@themostudio.com
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Business Owner: 
     - Tarsha Tremble (Health Enrollment Center) | tarsha.tremble@va.gov
     - Stacey Echols (Director, VHA Health Enrollment Center) | stacey.echols@va.gov
-- OGC Legal reviewer: 
 
 ### Team members
 
 In addition to the team above: 
 
-- Engineering:  Teagan Stephenson / Dan Smith
+- Engineering:  Teagan Stephenson (Bracari) / Dan Smith (Bracari)
 - Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
 
 ## Other systems we rely on

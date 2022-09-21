@@ -35,7 +35,7 @@ This research plan supports the following OCTO objectives:
 <img width="1178" alt="Screen Shot 2022-06-06 at 11 08 08 AM" src="https://user-images.githubusercontent.com/101129355/172188932-7bbb1fdf-efc1-43d2-9c05-315bf1612638.png">
 
 ## Research Goals	
-Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in and pre-check-in experiences. The list of all appointment data that we can display includes:
+Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in experiences. The list of all appointment data that we can display includes:
 - Recently added
   - provider's name 
   - type of care 
@@ -57,27 +57,21 @@ Check-in has expanded our access to more appointment data, which we can display 
   - cancel status
   - patient name
 
-The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
+The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in experience. 
 
-The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
+The mobile app and VAOS teams have looked into similar topics. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
 
 ### Outcome
-Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in and pre-check-in. Then, we can plan further work to iterate on the current experiences.
+Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in. Then, we can plan further work to iterate on the current experiences.
 
 ### Research questions
-- What appointment information is important to review when determining what appointment Veterans need to check-in for? 
-- What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
-- What appointment information is important to review when trying to understand what appointment Veterans are completing pre-check-in for?
-- What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
+- What appointment information is important to review when letting VA know you have arrived for your appointment? 
 
 ### Hypothesis
-1. Veterans and caregivers will generally agree on which data is most important when determining what appointment they need to check-in for.
-2. Veterans and caregivers will generally agree on which data is most important when check-in is complete, but they want to know what to do next.
-3. Veterans and caregivers will generally agree on which data is most important when trying to understand what appointment they are completing pre-check-in for.
-4. Veterans and caregivers will generally agree on which data is most important when pre-check-in is complete, but they want to know what to do next.
+1. Veterans and caregivers will generally agree on which data is most important when letting VA know you have arrived for your appointment.
 
 ## Method	
-We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 4 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
+We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 2 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
 
 We would like to get complete survey responses from at least 30 Veterans and others (ideally 40-50), in distinct cohorts of fewer than 10 participants per cohort (per PRA).
 
@@ -87,13 +81,13 @@ Remote unmoderated via Optimal Workshop
 ### Research materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=1)
-- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=2)
-- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=3)
-- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=4)
-- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=5)
-- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=6)
-- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/questions/0e10i43k?token=7)
+- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=1)
+- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=2)
+- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=3)
+- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=4)
+- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=5)
+- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=6)
+- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/questions/cdd386e52be0e53e528dc3f1bbaf956c?token=7)
 	
 ## Recruitment	
 
@@ -130,15 +124,17 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***  |            |        |        |        |        |        |        |    9    |
 
 ## Timeline
-The survey will open on ? and should remain open for two weeks (Date?) or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
+The survey is currently open. It is ready as soon as Perigean is able to recruit participants. If possible, it will start no later than Sept. 19. It should remain open for two weeks past the first recruitment or until there are 35 completes representing the recruitment criteria  (whichever is sooner).
 
 ### Prepare
-* The survey link has been tested by several people on Date?.
+* The survey link has been tested by several people (Ben Brasso, Lori Pusey, and Stephen Barrs).
 
 ### Length of sessions
-* Session length: 15 minutes
+* Session length: 10 minutes
 	
 ## Team Roles	
 * Research guide writing and task development: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
 * Participant recruiting & screening: Perigean
-* Project point of contact: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us)), (202) 818-8710 x1385
+* Project point of contact: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
+
+[Companion Pre-check-in Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-precheckin-appointment-info-prioritization/research-plan.md)

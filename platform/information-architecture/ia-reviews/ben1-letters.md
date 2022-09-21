@@ -30,8 +30,8 @@
 
 **Page** | **Pg Status** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | --- | ---
-Download VA letters   | Existing page  | www.va.gov/records/download-va-letters  | Home > Records > [Update breadcrumb current page segment to match revised H1] | Additional content added with sign in widget for the new claim letters tool. 
-Claim letters download tool | New page | TBD | TBD | 
+Download VA letters   | Existing page  | www.va.gov/records/download-va-letters  | Home > Records > Download your VA letters | Additional content added with sign in widget for the new claim letters tool. 
+Claim letters download tool | New page | www.va.gov/records/download-va-letters/claim-letters | Home > Records > Download your VA letters > Your VA claim letters | 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>

@@ -23,7 +23,7 @@
 • _When the participant is ready, begin the session with the following intro._
 
 ### Intro: 2 minutes
-Thanks for joining us today. My name is Pam and I also have a note taker here with me. Today we're going to talk about a new feature on[ VA.gov](http://VA.gov) that will help Veterans file Supplemental Claims for disability claims that were previously denied.
+Thanks for joining us today. I’m Pam Hastings, I’m part of a team working on the process of claiming benefits on VA.gov. 
 
 Before we start, a few things I want to mention:
 
@@ -37,7 +37,7 @@ This entire session should take about 45 minutes. I want to be sure not to keep 
 
 In this session, we want to hear your honest opinions. We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the exercise, it'll be really helpful if you can think out loud as much as possible.
 
-You'll be interacting with a prototype. This may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. Since it's a simulation, none of your actions will affect your actual VA information or benefits.
+You'll be interacting with a prototype. This may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. Since it's a simulation, none of your actions will affect your actual VA information or benefits. We will be walking through a scenario where you play the part of a Veteran applying for disability compensation for conditions where you were previously denied, but now have evidence you think qualifies you. 
 
 If for any reason and at any time you want to stop the session, please let me know.
 
@@ -56,10 +56,7 @@ Before we look at the prototype, I'd like to get a little background information
 
 * First, tell me a little about yourself and your relationship to the VA.
 * As part of the scheduling for this session, we asked if you had filed a disability claim with VA. Can you tell me how you got info from VA about updates on those claims?
-* You mentioned that you receive updates on your claims via _insert what the participant said_. What information about your claim is included? 
-    * Was that helpful? 
-    * Was anything missing?
-* How do you manage your VA claims? Online, on paper, other?
+* How do you typically manage your VA claims? 
 * Let's talk about the website - how do you use VA.gov? 
     * _If they use it:_ Do you ever check your claim status when you are logged in?
 * How likely are you to use VA.gov to file a follow-up claim? 
@@ -82,7 +79,7 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 * Why do you think you need to make this decision?
 * What would you do next after making a choice?
 * What would you do if you wanted more information about this decision?
-* For this study, we’ll focus on disability compensation. Please choose that option and select continue.
+* For this study, we’ll focus on disability compensation. Please choose that option.
 * Can you describe what’s happening on this screen?
 * Go ahead and start to file a claim and talk aloud as you go.
 * Please verify your primary information. 
@@ -147,9 +144,10 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
 * Can you describe to me what you think this section is for?
     * What's standing out to you? 
 * Based on the choices, tell me what you think you can do?
-* Go ahead and add VA medical records and add them to your claim.
-* Now add private medical records. The information will be filled in, but you can pretend that you entered it.
-* Lastly, please choose to upload your own document
+* Go ahead and choose VA medical records and add them to your claim.
+* Can you please choose a second set of records?
+* Now can you request private medical records be added to your claim? The information will be filled in, but you can pretend that you entered it.
+* Lastly, please choose to upload your own document. This will be simulated, but please show us how you would do that.
 * What would you do if you wanted to add more evidence? 
     * Delete? 
     * Edit?

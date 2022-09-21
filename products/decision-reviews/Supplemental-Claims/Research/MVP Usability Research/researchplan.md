@@ -234,66 +234,57 @@ This is a single study, and we are testing with a prototype
        
 
 ### Screener
-Have you been denied a claim for disability in the last couple of years? 
-Have you or someone on your behalf filed a Supplemental Claim before?
-Do you have new or relevant evidence that you think could prove your previously denied claim is now eligible?
-Do you have access to the internet and can you screen share?
+Have you been denied a claim for disability in the last couple of years? Yes
+ 
+Have you or someone on your behalf filed a Supplemental Claim before? Ok if no
+
+Do you have new or relevant evidence that you think could prove your previously denied claim is now eligible? Yes, but ok if unsure
+
+Do you have access to the internet and can you screen share? Yes
 
 ## Timeline
 Aiming to schedule studies September 14-September 21
 
 ### Prepare
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: Eva Floyd, eva@coforma.io
-* Date and time of pilot session: TBD
+* Pilot participant email: [Eva Floyd](eva@coforma.io)
+* Observer: [Sade Ragsdale](sade@coforma.io)
+* Date and time of pilot session: September 19, 2022, 10am ET
 
 ### Research sessions
-* Planned dates of research: September 14 - 21, 2022
+* Planned dates of research: September 22 - 29, 2022
 
 ### Length of sessions
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes
 
-### Availability
-**Sep 14, 2022**
-11am
-1:30pm
-2:45pm
+### Availability in ET
+**Sep 22, 2022**
+11am-3pm
 
-**Sep 15, 2022**
-11am
-1:30pm
-2:45pm
+**Sep 23, 2022**
+11am-3pm
 
-**Sep 16, 2022**
-11am
-1:30pm
-2:45pm
+**Sep 26, 2022**
+11am-3pm
 
-**Sep 19, 2022**
-11am
-1:30pm
-2:45pm
+**Sep 27, 2022**
+11am-3pm
 
-**Sep 20, 2022**
-11am
-1:30pm
-2:45pm
+**Sep 28, 2022**
+11am - 3pm
 
-**Sep 21, 2022**
-11am
-1:30pm
-2:45pm
+**Sep 29, 2022**
+11am - 3pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator: Pamela Hastings, pamela.hastings@adhocteam.us
-- Research guide writing and task development: Pamela Hastings, pamela.hastings@adhocteam.us	
+- Moderator: [Pamela Hastings](pamela.hastings@adhocteam.us)
+- Research guide writing and task development: [Pamela Hastings](pamela.hastings@adhocteam.us)	
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Pamela Hastings, pamela.hastings@adhocteam.us
-- Participant(s) for pilot test: Eva Floyd	
+- Project point of contact:	[Pamela Hastings](pamela.hastings@adhocteam.us)
+- Participant(s) for pilot test: [Eva Floyd](eva@coforma.io)	
 - Note-takers:	TBD
-- Observers: Sade Ragsdale, Robin Garrison
+- Observers: [Sade Ragsdale](sade@coforma.io), [Robin Garrison](robin.garrison@adhocteam.us), [Matt Self](matthewself.dsva@gmail.com)
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 

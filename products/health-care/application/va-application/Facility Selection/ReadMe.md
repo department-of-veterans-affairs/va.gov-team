@@ -1,54 +1,34 @@
-# Initiative Brief Template
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
+# Initiative Brief - Improve Facility Selection on the 10-10EZ
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* We want to simplify the process for a Veteran to select their VA facility when applying for health care by ensuring that they can select the correct one, whether it be based on distance from them or looking for a specific facility.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- Epic | Link to the Initiative Epic - TBD
 
+---
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Facility names change often and Veterans may know a facility based on location and not name.
+* Veterans may also be unaware of other VA locations that are actually closer to (and potentially more convenient for) them.
+* The current layout of the page is complicated and unintuitive.
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+### Desired User Outcomes
+* Facility selection becomes easy and simple.
+* Veterans can select the specific facility they want based on knowledge, location, etc..
 
-## Undesired User Outcomes
-## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+### Undesired User Outcomes
+* Facility selection becomes complicated or difficult.
+* Veterans face _analysis paralysis_ due to volume of information presented to them.
 
-## Undesired Business Outcomes
--->
+
+### Desired Business Outcomes
+* Veterans select the correct facility and book appointments at the location they actually intend to visit.
+
+
+### Undesired Business Outcomes
+* Veterans select the incorrect facility when applying for health care and need information/appointments manually changed/updated.
 
 ---
 ## Measuring Success
@@ -59,9 +39,17 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
+ We are still determinng the best ways of measuring succes via metrics for this update.  We currently have the following ideas:
+ * User feedback (Medallia)
 
+### Baseline KPI Values
+* TBD
+
+### Objectives and Key Results
+* Objective: Make it easier for Veterans to apply for healthcare and select the facility that's correct for them.
   - Key result: Facilities list is complete, accurate and up to date
        - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
+       
 ---
 
 ## Discovery
@@ -70,34 +58,47 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans want to select the facility that's best for them.
+
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Applicants may not understand the reason for selecting a facility.
+  - Applicants may not understand how to use the facility selector/search.
+  - Applicants may be given too much information about facility, location, and so on and feel overwhelmed when making a decision.
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - API dependencies may cause unplanned outages, causing the facility selector page to be unresponsive,
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - VA Stakeholder change requests to final designs
+  - VA stakeholder End-to-End testing
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-
-### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
-
+### What're you building
+- Provide an updated facility selection page that is easy to use and understand.
+  - Connect with active Facilities API in place of the current static JSON file
+  - Revisit UI against the current Facilities selection page on VA.gov and other private sector locator search pages
+  - Condust research/usability sessiosn with Veterans to determine the best, easiest to use design
+  - Redesign facility selection page
+    - Provide Veterans with an idea of location/distance of any given facility to ensure they can select the one that is correct for them.
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket #..
+  - Design Intent
+  - Research Review
+  - IA Review
+  - Midpoint Review
+  - Staging Review
+  - Privacy & Security
+  - Contact Center guide review
 
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+### Incident Response Info
+- The 1010EZ form is currently in production
+- We are calling a new API (API NAME NEEDED)
+- We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -115,6 +116,14 @@
 ## Screenshots
 
 ### Before
+Accordion closed
+
+- ![image](https://user-images.githubusercontent.com/92328831/189935552-dd447e0a-5352-455c-87be-24f25b58bdd0.png)
+
+
+Accordion Open
+
+- ![image](https://user-images.githubusercontent.com/92328831/189935728-1b3b29ce-d0c2-4e49-9b7f-bc433df2e305.png)
 
 ### After
 
@@ -125,10 +134,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps team
+- GitHub Label(s): ez-facilities
+- Slack channel: #1010-health-apps
+- Product POCs: Heather Justice, Mark Fallows
 
 </details>
 
@@ -138,11 +147,12 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO-DE
+- Contact(s): Patrick Bateman, Katherine Lawyer, Mark Dewey
  
 </details>
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+

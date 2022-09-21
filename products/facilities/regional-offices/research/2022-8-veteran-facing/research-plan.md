@@ -1,8 +1,16 @@
-# Research Plan for Facilities, Regional Offices, August 2022
+# Research Plan for Facilities, Benefit Offices, August 2022
+
+* [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#background)
+* [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#research-goals)
+* [Method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#method)
+* [Research Materials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#research-materials)
+* [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#recruitment)
+* [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#timeline)
+* [Team Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md#team-roles)
 
 ## Background
 
-Regional offices and their children, benefits offices, provide Veterans with access to non-medical benefits. This can include things like:
+Veteran Benefits Administration offices (Benefit Offices) provide clients (Veterans, service members, family members, caregivers, etc.) access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
@@ -10,7 +18,7 @@ Regional offices and their children, benefits offices, provide Veterans with acc
 *   home loans
 *   special services for elderly, homeless, or Veterans who are members of other marginalized groups.
 
-The regional/benefit office pages seek to give important information about physical locations where Veterans can seek help and receive benefits. The regional/benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with the facility locator, VAMCs, and vet centers. 
+The Benefit Office webpages seek to give important information about physical locations where beneficiaries can apply for and receive benefits. Benefit Office pages are accessible through the public unauthenticated web. These pages expand on prior work done with Facility Locator, VAMCs, and Vet Centers. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
@@ -47,7 +55,7 @@ Decrease:
 
 ### Veteran Journey
 
-Regional/benefit office pages touch on the following stages of the Veteran Journey:
+Benefit Offices touch on the following stages of the Veteran Journey:
 
 *   Getting out (engaging VA to access benefits and services)
 *   Starting Up (Finding something to do, re-establishing and creating relationships, balancing finances, finding a place to live)
@@ -57,39 +65,58 @@ Regional/benefit office pages touch on the following stages of the Veteran Journ
 
 ## Research Goals
 
-What are Veteran use cases for researching regional/benefit office locations?
+The goal of this research is to understand a Benefit Office clients' experiences, impressions, and relationships with Benefit Offices.
 
 ### Outcome
 
-It will give us a fuller understanding of what Veterans need, and provide a baseline experience for empathizing with their goals. 
+It will give us a fuller understanding of what Benefit Office clients need, and allow us to make design recommendations for the [Regional Benefit Office MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/README.md). 
 
 ### Research questions
 
-*   Do Veterans understand the different types of facilities?
-*   What are the top tasks that Veterans seek out a regional/benefit office for? 
-*   How important is the child location relationship to the regional office for Veterans?
-*   What are the questions Veterans want answered by calling the phone number(s)?
-*   What was the benefit-related task they were trying to accomplish?
-*   Veterans were able to accomplish the task at the facility?
-    *   Did going physically to the facility allow them to accomplish their task?
-    *   Was going to the facility required for the task?
-*   Do they have a preference for doing this task in person or not?
-*   What else do Veterans need in order to be prepared for a visit?
-*   How did they travel to the facility?
-*   What was the experience like getting to the appointment?
-    *   Wayfinding within a building
-*   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
+1.  What benefit-related **tasks** do clients complete at Benefit Offices?
+    *   Is visiting a Benefit Office necessary/sufficient to complete the task?
+    *   Do clients have preferred modalities for doing this task? 
+        *   If in-person/phone/online were all available, which would they choose?
+    *   Do clients' mental models of benefit tasks align to the actual processes?
 
-### Hypothesis
+2.  What is the client experience of **visiting** a Benefit Office?
+    *   How do clients travel to Benefit Offices?
+    *   How do clients find their way to appointments within Benefit Office buildings?
+    *   What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
+  
+3.  What information do clients need when **preparing** for a visit?
+    *   How do clients prepare for their visits? 
+        *   What tasks do they complete? (i.e. directions, paperwork)
+        *   What modalities do they use? (i.e. web, phone)
+    *   Do clients feel prepared before their visits?
+        *   Are they actually prepared?
+        *   Retrospectively, what would they have needed to be prepared?
+    *   Do clients understand the different types of Benefit Offices?
+        *   If yes, do clients understand the relationships between Benefit Offices?
+        *   Are these relationships important to clients?
 
+4. To what extent do the answers to questions 1-3 **vary** by:
+   *   Facility type? 
+   *   Benefit service?
+   *   Geography?
+   *   Client demographics?
 
-*   Do Veterans find it easy and useful to get information about Regional Offices? 
+### Hypotheses
 
-Hypothesis: yes
+1.  What benefit-related **tasks** do clients complete at Benefit Offices? 
+    * We expect high variance by facility type and benefit service
+    * We expect moderate variance by client demographics
+    * We expect little to no variance by geography
 
-What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+2.  What is the client experience of **visiting** a Benefit Office? - 
+    * We expect high variance by facility type and geography
+    * We expect moderate variance by benefit service
+    * We expect little to no variance by client demographics
 
-*   I think they will find having clear local location information, especially contact, hours, and description of service information extremely useful.
+3.  What information do clients need when **preparing** for a visit? 
+    * We expect high variance by facility type and benefit service
+    * We expect moderate variance by client demographics
+    * We expect little to no variance by geography
 
 ## Method
 
@@ -107,17 +134,17 @@ Remote, via Zoom. 
 
 ### Recruitment approach
 
-Recruit 15 Veterans through Perigean.
+Recruit 19 clients through Perigean with a goal of interviewing 15
 
 #### Primary criteria / Must have - 
 
-- Veterans & active duty service members 
+- Veterans, active duty service members, or caregivers
 
 - Answers "Yes" to screener question
 
-  **Screener Question:**
+  **Screener Questions:**
   
-    **In the last 6 months, have you visited a VA Benefits Office from the following list?** 
+    **1. In the last 6 months, have you visited a VA Benefits Office from the following list?** 
     **(Answer must be yes)**
 
       [following checkboxes] 
@@ -135,11 +162,43 @@ Recruit 15 Veterans through Perigean.
       [ ] VetSuccess On Campus
       
      **Benefits Office Definition**: Benefit Offices are unique VA facilities, separate from VA Medical Centers, clinics, Vet Centers, VFWs, etc. If unsure, please visit Veterans Benefits Administration's website: [https://benefits.va.gov/benefits/](https://benefits.va.gov/benefits/)
+     
+     **2. Which benefit(s) was your visit related to? (Check all that apply)** 
+      
+      [following checkboxes] 
+      
+      [ ] Burial claim
+      
+      [ ] Disability
+      
+      [ ] Education and career counseling
+      
+      [ ] Home Loans
+      
+      [ ] Pension
+
+      [ ] Vocational Rehabilitation
+      
+      [ ] Other
 
 #### Secondary criteria / Would like to have -
 
-Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy):
+* At least one client from each Benefit Office [District](https://www.benefits.va.gov/benefits/offices.asp):
+  * Northeast
+  * Southeast
+  * Continental
+  * Pacific
+* A sample across different **benefit types**
+  * Burial claim: 2
+  * Disability: 2
+  * Education and career counseling: 2
+  * Home Loan: 2
+* At least one **caregiver or family member** 
 
+Based on established [MVS sampling strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy): 
+
+Veterans
+* Assistive tech users: 8
 * Age 55-64+ : 8
 * Cognitive Disability: 8
 * Mobile user: 8
@@ -150,52 +209,51 @@ Based on established [MVS sampling strategy](https://github.com/department-of-ve
 * Women: 2
 * Expat (living abroad): 1
 
+Race
 * Black: 3
 * Hispanic: 2
 * Biracial: 1
 * Asian: 1
 * Native: 1
 
+LBGTQ+
 * Gay, lesbian, or bisexual: 1
 * Transgender: 1
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
 
-
-### Recruitment criteria
-
-Recruiting 10-14 Veterans who have:
-
-*   Visited a regional benefits office in the last six months. 
-*   Question - Can we prescreen based on the purpose of their visit (i.e. home loan vs disabilities)? If not, how do we ensure a spread across different benefit services?
-*   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
-*   A range of ages from recently in service to older Veterans. 
-*   Veterans who live both in urban and rural locations.
-
 ## Timeline
 
-*   Early September - Research Review & Approval
-*   Mid September - Paticipant Recruitment
-*   Late Sept / Early Oct - Research Sessions
-*   Mid/Late Oct - Research Synthesis and Readouts
+*   Session length: 45 minutes
+*   Buffer time between sessions: 15 minutes
+*   Maximum Sessions per day: 5
 
-### Length of sessions
-
-*   Session length: 30 minutes
-*   Buffer time between sessions: 30 minutes
-*   Maximum Sessions per day: 4
-
-### Availability
-
-11am-7pmCST M-F
+Date | Time in Eastern | Slots
+-----|-----------------------|-------
+Mon, Sept 19 [PILOT] |  | - 
+Mon, Sept 26  | 10-11a, 3-6p | 4
+Tues, Sept 27 | 10-11a, 12-3p, 4-6p | 6
+Wed, Sep 28   | 10-11a, 12-2p, 3-6p | 6
+Thur, Sept 29 | 10-11a, 2-6p | 5
+Fri, Sept 30  | 10-12p, 1-5p | 6
+Mon, Oct 3    | 3-6p | 3
+Tues, Oct 4   | 10-11a, 12-3p, 4-6p | 6
+Wed, Oct 5    | 10-11a, 12-2p, 3-6p | 6
 
 ## Team Roles
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator: Dave Pickett, dave.pickett@civicactions.com, +1 312-833-1813
-*   Research guide writing and task development: Aslan French
+*   Moderator: Dave Pickett, <dave.pickett@civicactions.com>, +1 312-833-1813
+*   Research guide writing and task development: Aslan French, Dave Pickett
 *   Participant recruiting & screening: Perigean
-*   Project point of contact: David Shannon, David.Shannon@agile6.com
-*   Participant(s) for pilot test: Max, John, or Christian?
+*   Project point of contact: David Shannon, <David.Shannon@agile6.com>
+*   Participant(s) for pilot test: Christian Burk, <christian.burk@civicactions.com>
 *   Note-takers: Perigean
-*   Observers: 
+*   Observers:
+    * Always invite:
+      * Dave Conlon <david.conlon@va.gov> 
+      * David Shannon <David.Shannon@agile6.com>
+    * Additional invitees who will sign up for specific slots:
+      * Roger Eagans <roger.eagans@agile6.com>
+      * Tanekwa Bournes <Tanekwa.Bournes@va.gov>
+      * Kenyonna Power <Kenyonna.Power@va.gov>

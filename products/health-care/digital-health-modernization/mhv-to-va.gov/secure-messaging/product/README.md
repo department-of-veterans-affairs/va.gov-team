@@ -1,6 +1,6 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: August 5, 2022
+Last Updated: Sep 15, 2022
 
 ### Communications
 
@@ -11,12 +11,14 @@ Last Updated: August 5, 2022
   
 |Name|Role|Email|
 |----|----|-----|
-|Tracey Mulrooney |oCTO Lead| tracey.mulrooney@va.gov |
+|Leila Rassi |OCTO Lead| leila.rassi@va.gov |
+|Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
 |Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
 |Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
-|Megan Graham| Core Team Researcher| megan.graham@adhocteam.us |
+|Robyn Singleton| Core Team Researcher| robyn.singleton@adhocteam.us |
 |Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
-|Christoper Froehlich|Core Team Engineer|christopher.froehlich@va.gov |
+|Eric Voshall|Core Team Engineer|eric.voshall@adhocteam.us |
+|----|----|-----|
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
 |Lichelle Bain| MHV Team Product Manager| lichelle.nichols@bylight.com |
 |Arienne Walters | MHV User Experience Specialist | arienne.walters@bylight.com |

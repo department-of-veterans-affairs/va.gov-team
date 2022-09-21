@@ -30,7 +30,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Skyler and [NOTETAKER NAME] is taking notes. I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
+Thanks for joining us today! My name is Skyler, and I'm going to be guiding you through the session today. I have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
 If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
 If participant consents, admit observers.
@@ -41,9 +41,10 @@ Great! Today we're going to talk about a feature that allows you to download dec
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take 1 hour maximum, possibly less.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- As you go through the prototype, please feel free to think aloud as you experience things that are good, bad, unexpected, frustrating. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -59,11 +60,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
 - If no, how do you generally interact with the VA, if at all?
-- Have you ever filed a 526 EZ or any other type of disability claim with the VA?
+- Have you ever filed an application for disability compensation (Form 526EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
 **Note:** Half of the participants will start with "First task," and the other half will start with "Second task." The goal of this is to test if there is a difference in behavior between Veterans who know there is a decision and Veterans who don't know if there is a decision.
 
+**[SHARE PROTOTYPE WITH PARTICIPANT]**
 
 ## First Task: Checking on claim status - 15 minutes
 
@@ -76,33 +78,36 @@ Imagine you have a disability claim that you've been waiting to hear back about.
 -  [Notification Letters page] Tell me what you see here.
 -  If you clicked the Download link, what would you expect to see? 
 -  [After clicking link] Is this what you were expecting?
+-  [After clicking into letter PDF] Tell me what you see here. 
+-  [Going back to Claims page] What would you do next, after viewing your letter, if anything?
 
 Post-task questions:
-- What do you think of this page overall, on a scale of 1 (least helpful) to 5 (most helpful)?
+- What do you think of this experience overall, on a scale of 1 (least helpful) to 5 (most helpful)?
 - Do you typically go online to review documents like this (bank statements, receipts, insurance claims?) Do you think having access to this document online is useful?
-- What else would you expect to see on this Notification Letters page? What other types of content in the future? 
+- Do you think it's valuable to have access to these decision letters on VA.gov? Why or why not?
+- What else would you expect to see on this (Claim letters) page?
 
 ### Things to watch for:
 
 - [Does the participant understand how to navigate from the Claim Status Tool to their decision letter?]
 - [Does the participant understand what the letter is even with limited metadata associated with it?]
-- [What does the participant expect the Notification Letters page to contain?]
+- [What does the participant expect the Claim Letters page to contain?]
 
 ## Second Task: Looking for notification letter - 10 minutes
 
-- Let’s say you have received your notification letter in the mail, but you've misplaced it. You want to get a new copy from VA.gov.
+- Let’s say you have received your decision letter in the mail, but you've misplaced it. You want to get a new copy from VA.gov.
 - [VA.gov home page] Where would you go to find the decision letter?
     - Why would you expect to find it there?
 
 ### Things to watch for:
 
 - [Where does the participant expect to find their decision letter?]
-- [Are they able to intuitively navigate to the Notification Letters page from the home page?]
+- [Are they able to intuitively navigate to the Claim Letters page from the home page?]
 
 ## Third Task: VA Benefit Letters Page - 15 minutes
 
 - What would you expect to find in the "VA Benefit Letters Page"? 
-- [Navigate to the Letters page] Explain to me what you see here. 
+- [Navigate to the Benefit Letters page] Explain to me what you see here. 
 - What do you think is the purpose of this page? How would you use it?
 - What type of content would you expect to be on this page?
 - What do you think of this page overall, on a scale of 1 (least helpful) to 5 (most helpful)?
@@ -110,7 +115,7 @@ Post-task questions:
 
 ### Things to watch for:
 
-- [What does user expect from the VA Benefit Letters page, after seeing the Notification Letters page?]
+- [What does user expect from the VA Benefit Letters page, after seeing the CLaim Letters page?]
 - [Do they understand the distinction between inbound letters and letters they generate?]
 
 ## Post-Task Interview - 5 minutes

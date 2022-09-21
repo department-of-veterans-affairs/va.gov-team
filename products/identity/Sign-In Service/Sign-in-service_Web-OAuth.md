@@ -89,6 +89,7 @@ A Postman collection featuring the routes and variables required for web/cookie-
 | acr | The level of user authentication asked for. Web logins require IAL2/LoA3, no IAL1/LoA1 users will be returned | String | `ial2`, `loa3`, `min` |
 | authentication | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access_token | String | `Authorization: Bearer {{encoded_access_token}}` |
 | client_id | Determines cookie-based (web) or API-based (mobile) authentication | String | `web`, `mobile` |
+| code | Authentication code provided by vets-api to be exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
 | code_challenge | Value created by vets-api and passed in param to login modal | Base64url | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
 | code_verifier | Value created and stored by client | String | `f2413353d83449c501b17e411d09ebb4` |

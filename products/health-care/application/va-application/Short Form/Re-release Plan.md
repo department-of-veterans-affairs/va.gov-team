@@ -3,11 +3,9 @@
 ## Phase 1: UAT
 
 ### Planning
-- UAT Go / No Go: 08/29/2022
-- Planned release to 5% of applicants: 09/05/2022
-  - Dates pending; waiting on confirmation from ES Team
-- Desired range or test duration: 09/05/2022 - 09/09/2022
-  - Dates pending; waiting on confirmation from ES Team
+- UAT Go / No Go: 09/16/2022
+- Planned release to 5% of applicants: 09/19/2022
+- Desired range or test duration: 09/26/2022 - 09/30/2022
 - Desired number of users: 9
 - Recruitment method: Perigean
 - How testing will be conducted: Sessions over Zoom
@@ -15,11 +13,12 @@
 
 ### Testing
 - Internal Team Testing: TBD
-- [ ] Internal team testing complete
+- [x] Internal team testing complete
 - End-to-End testing with enrollment team: TBD
-- [ ] End-to-End testing with Enrollment Team complete
-- [ ] Confirmed generation of 10-10EZ PDF with Enrollment System
+- [x] End-to-End testing with Enrollment Team complete
+- [x] Confirmed generation of 10-10EZ PDF with Enrollment System
 - Bugs identified to be addressed prior to launch: TBD
+- **Note: Per Joshua Faulkner, testing was successfully completed with the Enrollment System Team**.
 
 ### Results
 - Number of users: TBD
@@ -31,7 +30,6 @@
 
 ### Planning
 - Launch Go / No Go: 09/16/2022
-  - Dates pending; waiting on confirmation from ES Team
 - Desired date range: 09/19/2022 - 10/10/2022
   - Dates pending; waiting on confirmation from ES Team
 - Success criteria to be reviewed prior to advancing rollout to the next stage
@@ -41,47 +39,51 @@
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Phased Rollout
-- 5% of users (1 week): 09/05/2022
-- 25% of users (1 week): 09/19/2022 (based on positive results)
-  - Dates pending; waiting on confirmation from ES Team
-- 50% of users (1 week): 09/26/2022 (based on positive results)
-  - Dates pending; waiting on confirmation from ES Team
-- 25% of users (1 week): 10/03/2022 (based on positive results)
-  - Dates pending; waiting on confirmation from ES Team
-- 100% of users (1 week): 10/10/2022 (based on positive results)
-  - Dates pending; waiting on confirmation from ES Team
+- 5% of users (2 weeks): 09/19/2022
+- 25% of users (1 week): 09/26/2022 (based on positive results)
+- 50% of users (1 week): 10/03/2022 (based on positive results)
+- 75% of users (1 week): 10/10/2022 (based on positive results)
+- 100% of users (1 week): 10/17/2022 (based on positive results)
 
 
 ## Go Live!
 
 ### Planning
-- Desired date: 10/10/2022
-  - Dates pending; waiting on confirmation from ES Team
+- Desired date: 10/17/2022
 - Actual date: TBD
 
 **Key Result:** Increase number of application submissions
-*Using last 6 months (Jan-June 2022) to calculate Baselines*
+*Using last 6 months (Mar-Aug 2022) to calculate Baselines*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Application starts per Month | 20.8k | TBD | TBD |
-| Avg. Submissions per Month | 13.7k | TBD | TBD |
-| Pct. Applications Completed | 66% | TBD | TBD |
+| Avg. Application starts per Month | 17.8k | TBD | TBD |
+| Avg. Submissions per Month | 13.1k | TBD | TBD |
+| Pct. Applications Completed | 74% | TBD | TBD |
 
 **Key Result:** Reduce Sesssions / Time taken to complete application 
-| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+*Using last 6 months (Mar-Aug 2022) to calculate Baselines*
+*To calculate, sum the number of sessions involved (1 session = 1, 2 sessions = 2, 3+ sessions = 3) and divide by the total number of applications submitted*
+| KPI / Metric | Baseline: Mar-Aug 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Sessions per Submission | 1.38 | TBD | TBD |
-| Avg. Single sessions per Month | 8,103 | TBD | TBD |
-| Avg. 2 sessions per Month | 2,857 | TBD | TBD |
-| Avg. 3 or more sessions per Month | 1,764 | TBD | TBD |
+| Avg. Sessions per Submission | 1.46 | TBD | TBD |
+| Avg. 1 session per Month | 7,645 | TBD | TBD |
+| Avg. 2 sessions per Month | 2,366 | TBD | TBD |
+| Avg. 3 or more sessions per Month | 1,471 | TBD | TBD |
 
 **Key Result:** Reduce abandoned applications
-
-*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Service info/household information section (viewers of Service Information page minus views of Medicaid/Medicare page, then determine %)*
+*Using last 6 months (Mar-Aug 2022) to calculate Baselines*
+*To calculate, check how many people started the section* Service Information *and find out how many users abandoned in each of the following steps:*
+- Additional Information
+- Financial Disclosure
+- Marital Status
+- Dependent Information
+- Annual Income
+- Deductible Expenses
+*This represents how many people abandoned applications in the middle of the fields that will be skipped during the short form*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Applications Abandoned per month | 3,724 (22,346 total) | TBD | TBD |
-| Pct. Applications Abandoned per month | 19.5% | TBD | TBD |
+| Avg. Applications Abandoned per month | 6,513 (39,080 total) | TBD | TBD |
+| Pct. Applications Abandoned per month | 39.3% | TBD | TBD |
 
 
 ## Post-Launch Questions
@@ -89,3 +91,7 @@
 2. What qualitative feedback have you gathered from users or other stakeholders, if any?
 3. Which of the assumptions you listed in your product outline were / were not validated?
 4. How might your product evolve now or in the future, based on these results?
+
+
+---
+Notes: See [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXNLICZazDx55QsziZtW7q-1FIsSueMpIiTiZBGgsakh77jWIMVGqo0Y-jW2h_qZyyUbhf97hsqNSX/pubhtml) for examples on how several of the metrics were calculated.

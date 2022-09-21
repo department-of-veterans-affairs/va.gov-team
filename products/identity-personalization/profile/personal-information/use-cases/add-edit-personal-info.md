@@ -51,6 +51,10 @@ N/A
 - You can test with any staging user to add/edit
 
 ### Add or edit personal info
+
+[Personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
+
 1. Go staging.va.gov/profile/contact-information
-2. Log in with any user **except** vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-3. Click the edit button on any section and add or edit
+2. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+3. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
+4. Click the edit button on any section and add or edit

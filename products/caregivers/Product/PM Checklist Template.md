@@ -20,7 +20,7 @@
 <details>
 
 - Project epic #
-- [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- [10-10CG Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - Initiative brief
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flows
@@ -29,7 +29,7 @@
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - va.gov/health-care/apply/application/introduction
+     - va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
 - Use cases
 - Finalized design prototype or mockup
 - Content brief
@@ -88,6 +88,8 @@
      - [ ] Make any necessary tickets/changes for design
 - [ ] Create Use Cases
      - [ ] Identify test users
+- [ ] Create Release Plan
+     - [ ] Include E2E test results & signoff
 - [ ] Complete development
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
@@ -115,8 +117,10 @@
 - [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Update Contact Center guide
 - [ ] Submit Contact Center guide review ticket
-- [ ] Create Release Plan
+- [ ] Update Release Plan
      - [ ] Include E2E test results & signoff
+- [ ] Review this checklist for any missing artifacts
+- [ ] Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)
 - [ ] Conduct Launch Go/No Go with the team
      - [ ] Review this checklist
      - [ ] Review Release Plan

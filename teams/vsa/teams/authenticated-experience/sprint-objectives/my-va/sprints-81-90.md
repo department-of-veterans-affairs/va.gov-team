@@ -111,7 +111,6 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 **PM**
 
 - QA go/no-go
-- Analytics request
 - Release plan
 
 **FE**
@@ -138,6 +137,10 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 
 - Launch to 100%
 - Monitor analytics through launch
+
+### Payments V2
+
+- Analytics request
 
 ## Sprint 85 (10/19 - 11/1)
 

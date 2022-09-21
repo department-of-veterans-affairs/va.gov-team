@@ -15,3 +15,5 @@
 | [Enabling Pre-check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/telephone) | 13 Veterans | May 2022 |
 | [Bay Pines Veteran In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat) | 17 Veterans | June 2022 |
 | [Bay Pines Staff In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/readme.md) | 36 Staff Members | June 2022 |
+| [Corpus Christi Veteran In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person) | 39 Veterans and 2 Caregivers | July 2022 |
+| [Corpus Christi Veteran In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person) | 30 Staff Members | July 2022 |

@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022
+Date: 08/31/2022 (updated 09/19/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -147,8 +147,8 @@ FOR EVERYONE
      1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
 1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
-1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
-1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
+1. **Most sign-ins didn't happen on the home page** (with "Sign in or create an account" near the photos or "Sign in" in the header). 
+1. **Two accessibility issues were discovered with the VA Benefits and Health Care megamenu** on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.  
 
 1. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks** (no tasks were related to it).
 
@@ -156,11 +156,12 @@ FOR EVERYONE
 # Details of Findings 
 
 ## 1. Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work
-We observed 4 distinct **browse *vs.* search usage patterns** among the participants:
-1. More than a third of participants (37%, or 7 of 19) **browsed exclusively** and never used search to complete tasks.
-1. More than a third of participants (37%, or 7 of 19) **started off browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
-1. Only our youngest participant **searched exclusively** to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.) The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on the page he got to, rather than browsing on the home page.
-1. One participant **tried search first, had success a couple times, then got irrelevant results, and so stopped using search**. This participant only browsed after that.
+We observed 5 distinct **browse *vs.* search usage patterns** among the participants:
+1. (7 participants) **Browsed exclusively** and never used search to complete tasks.
+1. (7 participants) **Started browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
+2. (3 participants) **Mostly browsed but tried search once**.
+4. (1 participant) **Tried search first, had success a couple times, then got irrelevant results, and so stopped using search**. This participant only browsed after that.
+5. (1 participant) **Searched exclusively** to complete tasks. This was the youngest participant in this research; this same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist. The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on the page he got to, rather than browsing on the home page.
 
 One participant said they were giving a lower task rating because they *"had to do a search for it" (p4).* Some participants said that they browse first and avoid searching because they
 - Don't like to type into the search box
@@ -174,6 +175,8 @@ Below is some specific feedback on using search:
 >  Regarding browsing and then trying searching: *"I gave up [on browsing] and used the search...search is better to use* vs. *so much to read [on the home page]--a whole page that I have to read, when I should be depending on search" (p14).*
 
 > *"Getting used to using search...working pretty good...autofill function...seems intuitive" (p4).* 
+
+Of the participants who tried search, **9 of them used the new search box, which is more than the 6 who used the existing link** in the header.
    
 ## 2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it** 
 Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
@@ -237,27 +240,29 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - *Message your doctor* (83% completed successfully)
 - *Check/update education benefits* (71% completed successfully)
 
-## 4. Several participants said that it was redundant or confusing to have two different sign-in buttons 
-3 participants pointed out that there were 2 different sign-in buttons and didn't need more than the one in the header. One of these participants said it was confusing to have two buttons in two different places that do the same thing.
+## 4. Most sign-ins didn't happen on the home page (with "Sign in or create an account" near the photos or "Sign in" in the header). 
 
 Neither sign-in button got much use during the research sessions:
 - 2 participants used the new "Sign in or create account" button.
 - 4 participants used the old "Sign in" button in the header.
-- Everyone else (13 participants) didn't use either sign-in button because they instead used the "sign in" button on specific content pages they found later.
+- **Everyone else (13 participants) didn't use either sign-in button because they instead used the "sign in" button on specific content pages they navigated to later.**
 
 A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
-- One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
+- One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in. 
+ 
+3 participants pointed out that there were 2 different sign-in buttons and didn't need more than the one in the header. One of these participants said it was confusing to have two buttons in two different places that do the same thing.
 
-## 5. Several participants had difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected
-When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. 
-**Participants expected to see all dropdown options and select one any content is opened.** 
+## 5.  Two accessibility issues were discovered with the VA Benefits and Health Care megamenu on desktop, both of which confused a pilot participant using a screen reader, and one of which also confused several sighted participants.
+
+1. Several participants and a pilot participant had difficulty using the megamenu because it didn't work as expected. When the megamenu dropdown is opened, one dropdown option is already expanded--either the first option (Health care) or the one last opened. **Participants expected to see a list of dropdown options *without any of them expanded*.** 
 - One participant wanted to browse the dropdown options but skipped health care because it was already open. 
 - A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. 
 - A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. 
-- In addition, opening the dropdown and having the health care option already expanded was confusing for our pilot participant who uses a screen reader.
+- Opening the dropdown and having the health care option already expanded was confusing for our pilot participant using a screen reader.
 
 > *"I thought it would clear out; you wouldn’t think a drop-down would save that [the last option opened]" (p23).*
 
+2. Our pilot participant who uses a screen reader noticed that **clicking on a link in the megamenu led to a focus issue when the content page was opened**. When they clicked on *Education and training* and then *Eligibility*, the [Education eligibility page](https://staging.va.gov/education/eligibility/) that opened had focus still in the megamenu instead of on the title of the content page where it should have been.
 
 ## 6. **No participants said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**
 There were no tasks related to the Vantage blog promo box, and no one mentioned it until the moderator asked about it during the post-task interview. Participants expressed their impressions in various ways:
@@ -291,17 +296,14 @@ We heard some additional usability feedback on the home page and other VA.gov pa
 1. One participant suggested removing the 3 photos of Veterans because they *"don't do anything" (p14)*--i.e, you can't interact with them.
 1. One participant said that there are too many clicks to get to information from the home page.
 2. Two participants said that there's too much text on some of the VA.gov pages, for example, in the light blue box on the [Burial Eligibility page](https://staging.va.gov/burials-memorials/eligibility/).
-3. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+1. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
 
 > *"Don't bury so many things so deep...[check education benefits] buried under too many clicks...want two clicks max...After two clicks I would stop because I don’t want to have to click five times to get to what I am looking for...search until I get tired, and then use the VA 800 number" (p9).*
 
 > *"Makes you read a lot of stuff you shouldn't have to read" (p14).*
 
 > *"I would scan it. I would eventually have to read it once I was frustrated" (p16).*
-
-**Two accessibility issues** were identified during the usability testing:
-1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
-2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened. *WILL TRY TO REPRODUCE WITH PILOT PARTICIPANT*
 
 
 ## Other Findings
@@ -361,7 +363,9 @@ We heard some pain points about VA in general, which is included below but not a
      7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
-8. Consider **changing the VA Benefits and Health Care megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(discussed with Josh Kim and Laura Flannery)*:
+     1.  **Change the megamenu interaction to be more like a standard dropdown** in which all options are shown whenever it's opened *without any of the options already expanded until the user selects one.*
+     2.  **Fix the focus issue when you click on a link in the megamenu** so focus is on the page title, not the megamenu option clicked on.
 10. Consider whether **some common misspellings could be handled more gracefully by search**, such as a search for "benifits" being able to return the results as if "benefits" were typed.
 
 # Next Steps
@@ -378,7 +382,7 @@ We heard some pain points about VA in general, which is included below but not a
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20pg%20redesign%20usab%20notes%20%26%20data%20analysis%20(9).xlsx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20pg%20redesign%20usab%20notes%20%26%20data%20analysis.xlsx)
 - [Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/analysis/Home%20Page%20Redesign%20Usability%20Test%20pictures%20for%20report.pptx)
 
 ## Pages and applications used

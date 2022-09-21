@@ -38,6 +38,7 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 - [ ] Trevor Bosaw (BE Engineer)
 - [ ] John Bramley (BE Engineer)
 - [ ] Ian Hundere (DevOps Engineer)
+- [ ] John Rahagi (OCTO leadership)
 
 ### Ensure you are added to the following Slack Channels
 - [ ] vsp-identity (this is our public channel)
@@ -54,7 +55,10 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 
 
 ## Onboarding Items (Product)
-
+- [ ] [Read the Identity Overview](https://docs.google.com/document/d/10Vj2Kz3m5EwOMkmse4C3gvYjkJgXBh_wD1HlmKyuIuU/edit)
+- [ ] [Read the Current and Future Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Current%20and%20Future%20Initiatives.md)
+- [ ] [Read the Readme](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/README.md)
+- [ ] [Bookmark the Zenhub board](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/board?repos=33202667,62409417,133843125,194202180,246683655,322684287,446961999)
 
 ## Onboarding Items (DevOps Engineer)
 

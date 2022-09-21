@@ -61,10 +61,7 @@ You don't have any recent payments to show.
 Use font awesome icon `dollar` for icon in link list
 
 **Show**
-- If a user has direct deposit set up.
-
-**Do NOT Show**
-- If a user does not have direct deposit set up.
+- For all LOA3 users.
 
 #### Content
 
@@ -100,7 +97,7 @@ Only show a card for the most recent payment.
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->We're sorry. We can't access some of your information right now.  We're working to fix this problem. Please check back later.
+>We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
 - This should appear under the 'Benefit payments' header.
 
 #### Mock-ups

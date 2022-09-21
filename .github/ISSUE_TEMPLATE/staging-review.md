@@ -19,6 +19,7 @@ This template is being deprecated. If your kickoff meeting took place after May 
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
 - [ ]  If this product contains any [experimental design](https://design.va.gov/experimental-design/), add the experimental-design label and schedule a meeting with DSC to present the research findings.
+- [ ]  Please verify your product information in the [Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
 
  **Platform**
  

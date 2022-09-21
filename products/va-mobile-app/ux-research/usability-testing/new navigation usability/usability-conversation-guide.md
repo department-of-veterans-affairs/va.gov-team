@@ -49,6 +49,7 @@
 * Do you have the VA Health and Benefits mobile app?
   * *If yes:*
     * When did you first start using it?
+    * How did you find out about it? DO you remember where you downloaded it?
     * What are the main reasons you use it?
     * How frequently do you go into the app? Daily? Weekly? Monthly?
     * What do you like best? What do you wish you could change?
@@ -81,8 +82,8 @@
 ### Task 0: First impressions (5 minutes)
 * I want you to imagine that your name is Kimberly Washington, and you are a United States Navy Veteran. 
 * I want to direct your attention to the app now. 
-  * Without touching your device, please describe what you see on your screen.
-  * What stood out to you **first** when looking at this screen?
+  * Without touching your device, talk to me about what you're seeing here. What stands out to you **first** on this screen?
+  * What are some of the things that you think you could do from here that are important to you?
   * Directing your attention to the bar at the bottom of the screens with the icons that says "Home, Benefits, Health, Payments" 
     * What sorts of things would you expect to see when you tap "Benefits"?
     * What sorts of things would you expect to see when you tap "Payments"?
@@ -92,7 +93,7 @@
 
 ### Task 1: Update email address (5 minutes)
 *Check #feedback-backchannel before reading prompt.*
-* **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to contact you. Without touching anything, where would you expect to go to do that?
+* **PROMPT:** You recently switched email providers, and you want to update the email address VA uses to send you information. Without touching anything, where would you expect to go to do that?
 *  *If they don't elaborate* Tell me about that—why would you expect to [whatever they just said]
 *  Go ahead and use the app to go to where you think you’d update your email address. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Email Address screen before starting the next task. Note where they have trouble.*
@@ -142,7 +143,8 @@
 * Great. All done! You can stop sharing your screen.
 
 ### Final thoughts
-* What were your overall thoughts on  the app we used today? 
+* What were your overall thoughts on the app we used today? 
+* Can you imagine a situation in your life when you would use this? Why or why not?
 * What did you like or dislike about the app we used today?
 * *If current app user:* Thinking about your experience using the current VA mobile app, how does the app we used today compare to that? 
 Easier to use, The same to use, Harder to use?

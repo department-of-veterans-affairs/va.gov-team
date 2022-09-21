@@ -19,6 +19,9 @@ Before you get started with onboarding, you will need a few key pieces of inform
 ## Communication
 Most day-to-day communications between VA.gov product team members happens in Slack.  Questions and feedback on specific GitHub requests is frequently done within the comments of the GitHub issue itself. In general, email is used infrequently and largely for communicating with VA personnel or outside vendors.
 
+## GitHub
+- [Platform GitHub Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) (privacy info, folder and file naming conventions, etc.)
+
 ### Slack Recommendations
 There are over 400 channels in the DSVA workspace, so take advantage of the channel browser or search to look for channels relevant to your work. Here are some broader recommendations:
 
@@ -32,6 +35,7 @@ There are over 400 channels in the DSVA workspace, so take advantage of the chan
 - [#platform-qa-standards](https://dsva.slack.com/archives/C01CHAY3ULR) - Channel for contacting the QA Standards team if you need access to a testing tool or an automated test fails.
 - [#victories](https://dsva.slack.com/archives/C0186C3LDNU) - Place for announcing launches, wins, and celebrating with other teams the impact their work has on our Veterans
 - [Slackbot](https://dsva.slack.com/archives/D039TFZT7BR) - A bot that is useful for creating one-time and recurring reminders for yourself and your team.  You can also hover on a post in any channel, click the three dots that appear, and select *Remind me about this* to receive a reminder about the post later.
+- [VA Mural Account] - Request through Kevin Hoffman (needs to be verified)
 
 #### Product Managers
 - [#product](https://dsva.slack.com/archives/C0186C3LDNU) - Forum for resources and discussions around explanding product management and product thinking at VA and in government
@@ -60,15 +64,15 @@ The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) 
 ### Platform Orientation
 All team members working on a VA.gov project must complete an orientation request and should attend general and practice-specific orientation sessions. Orientation session descriptions will recommend team members for which the session is pertinent.
 
-- [Platform Orienation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
+- [Platform Orientation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
   - [VA Platform Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
     - [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome)
     - [Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
-  - [Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - 
+  - [Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - Schedule your own orientation sessions using Calendly.  Each session suggests team members who will benefit most.
 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
-- One of the tools you'll be requesting is GitHub.  It will also simplify your ability to track work and communicate with other VA.gov teams if you  connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. 
+- Once you have access to GitHub, connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
 
 ##$ The VA.gov Platform
 - [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)

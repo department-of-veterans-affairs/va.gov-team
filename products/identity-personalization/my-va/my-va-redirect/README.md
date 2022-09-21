@@ -1,5 +1,5 @@
 # My VA Redirect Initiative Brief
-Last updated: August 30, 2022
+Last updated: September 8, 2022
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)
@@ -32,16 +32,16 @@ We do not see an increase in clicks back to the homepage from My VA, as measured
 
 | |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Rank of the homepage as a next click from My VA|#7|#7|TBD|TBD|TBD|TBD|
+|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|TBD|TBD|
 
 **KPI** 
 We do not see an increase in percentage of users exiting VA.gov entirely from My VA.
 
 ||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Exits from VA.gov from My VA|6.1%|5.7%|TBD|TBD|TBD|TBD|
+|Exits from VA.gov from My VA|6.1%|5.7%|6.01%|5.72%|TBD|TBD|
 
-#### [Top interactions from My VA (via My VA analytics dashboard)](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220822&_u.date01=20220828/)
+#### [Top interactions from My VA](https://va-gov.domo.com/page/1167851935)
 
 **Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
@@ -49,14 +49,14 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim ("view details")|21,041|29,622|TBD|TBD|TBD|TBD|
-|Manage all claims and appeals|20,359|32,265|TBD|TBD|TBD|TBD|
-|Schedule and view your appointments|1,677|1,639|TBD|TBD|TBD|TBD|
-|View your messages|5,543|10,432|TBD|TBD|TBD|TBD|
-|Refill and track prescriptions|3,096|3,035|TBD|TBD|TBD|TBD|
-|View your payment history|17,107|28,115|TBD|TBD|TBD|TBD|
+|View claim ("view details")|21,041|29,622|29,265|52,218|TBD|TBD|
+|Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|TBD|TBD|
+|Schedule and view your appointments|1,950|2,694|3,136|5,146|TBD|TBD|
+|View your messages|6,704|10,432|12,035|22,114|TBD|TBD|
+|Refill and track prescriptions|4,063|6,734|8,556|16,510|TBD|TBD|
+|View your payment history|17,107|28,115|18,796|29,365|TBD|TBD|
 
-#### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+#### [Searches initiated from My VA](https://va-gov.domo.com/page/1167851935)
 
 **Hypothesis**: If a link lives on My VA, there will be no increase in searches for this information from My VA or overall.
 
@@ -64,12 +64,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|24|32|TBD|TBD|TBD|TBD|
-|Rating|42|40|TBD|TBD|TBD|TBD|
-|Disability|47|49|TBD|TBD|TBD|TBD|
-|Claim(s)| 45, 26| 74, 16 |TBD|TBD|TBD|TBD|
-|Payment|57|32|TBD|TBD|TBD|TBD|
-|Payment history|6|14|TBD|TBD|TBD|TBD|
+|Disability rating, rating, or disability (whichever appears first)|26|39|28|30|TBD|TBD|
+|Claim or Claims (whichever appears first)| 23| 23 |16|12|TBD|TBD|
+|Payment or payment history (whichever appears first)|5|12|17|22|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -77,10 +74,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|4|5|TBD|TBD|TBD|TBD|
-|Letter|5|3|TBD|TBD|TBD|TBD|
-|Benefit letter|29|15|TBD|TBD|TBD|TBD|
-|GI bill|16|13|TBD|TBD|TBD|TBD|
+|DD214|4|4|3|2|TBD|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|TBD|TBD|
+|GI bill|9|10|14|17|TBD|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -90,12 +86,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|5|8|TBD|TBD|TBD|TBD|
-|Rating|14|13|TBD|TBD|TBD|TBD|
-|Disability|36|42|TBD|TBD|TBD|TBD|
-|Claim(s)|53, 25|62, 26|TBD|TBD|TBD|TBD|
-|Payment|50|38|TBD|TBD|TBD|TBD|
-|Payment history|7|11|TBD|TBD|TBD|TBD|
+|Disability rating, rating, or disability (whichever appears first)|5|8|12|16|TBD|TBD|
+|Claim or Claims (whichever appears first)|25|26|33|30|TBD|TBD|
+|Payment or payment history (whichever appears first)|7|11|34|31|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -103,10 +96,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|15|12|TBD|TBD|TBD|TBD|
-|Letter|18|17|TBD|TBD|TBD|TBD|
-|Benefit letter|58|46|TBD|TBD|TBD|TBD|
-|GI bill|24|25|TBD|TBD|TBD|TBD|
+|DD214|15|12|5|4|TBD|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|18|17|9|8|TBD|TBD|
+|GI bill|24|25|39|34|TBD|TBD|
 
 #### Medallia feedback
 

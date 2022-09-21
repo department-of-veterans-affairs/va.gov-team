@@ -27,6 +27,7 @@
    - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
         - DESIGN
             - check-in-experience-create-prototype.md
+            - check-in-experience-design-create-content.md
             - check-in-experience-design-create-final-wireframes.md
         - DEVELOPMENT
             - check-in-experience-development-risk-register.md
@@ -41,8 +42,8 @@
             - check-in-experience-metrics-create.md            
             - check-in-experience-metrics-monitor.md
         - RESEARCH
-            - check-in-experience-research-assets-task.md
-            - check-in-experience-research-plan-and-convo-guide-task.md
+            - check-in-experience-research-research-plan-task.md
+            - check-in-experience-research-convo-guide-task.md
             - check-in-experience-research-interview.md
             - check-in-experience-research-conduct-study.md
             - check-in-experience-research-remote-study.md
@@ -122,10 +123,10 @@
     - Production Pre-Check-in wireframes for In Person appointments
     - Production Check-in wireframes for In Person appointments
     - Production Pre-Check-in wireframes for Telephone appointments
-- Product will forward the 3 presentation links to the Business Stakeholders
+- Product will forward the 3 presentation links to the Business Stakeholders 
 - When wireframes for a feature are finalized
     - Product will 
-        - Set up a demo with Business Stakeholders
+        - Set up a demo with Business Stakeholders (Business Stakeholders will be defined by Patrick/Stephen/Mark)
         - Record the demo & post a link to the recording on the Product page    
         - Document questions & feedback
     - UX will
@@ -135,9 +136,9 @@
     
 ## Notifications of Releases & Updates to Planned Releases
 - Notification message for updates to Planned Releases
-    - "Modernized Check-in team has updated their Planned Releases." (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
+    - "Modernized Check-in team has updated their Planned Releases. <include info for new/updated Planned Releases>" (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
 - Notification message for production releases
-    - "Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here."
+    - "Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here. <copy release notes here>"
         - Include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email

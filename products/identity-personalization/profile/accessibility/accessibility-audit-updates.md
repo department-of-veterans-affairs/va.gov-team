@@ -33,7 +33,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 #### Sidebar nav position 
 `508-defect-2`
 - Currently below the H1 and creating confusion for screen reader users ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
-- [Slack thread](https://design.va.gov/patterns/forms/sub-task)
+- [Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1651153191682419)
 -   **Next steps:**  Needs team grooming
 
 
@@ -51,7 +51,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   In the address validation flow, we still have edit buttons that look like links in the alerts and next to the address entered by the user 
 -   ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43095#issuecomment-1228599039))
 -   _Consideration:_ This could be a non-issue if we move to a one thing per page flow for this UX
--   **Next steps:** team grooming, likely needs design re-work
+-   **Next steps:** on hold pending outcome of "one thing per page" research
 ---
 
 ### 508-defect-4
@@ -84,7 +84,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - **Recommendations:**
 	- Maybe instead of Continue and Cancel, the modal could be Are you Sure? with Yes/No buttons
 - On the other hand, as is might be better for those with cognitive disabilities
-- **Next steps:** Create ticket, collaborate with content folks on improving this.
+- **Next steps:** FE ticket [#46935](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46935) created.
 ---
 
 ### Issues that need more work
@@ -95,13 +95,16 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
 - [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 - **Next steps:** Needs ticket + a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: More assessment/research needed
 
 
 #### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
 -   **Next steps:** Needs ticket + a11y defect level for prioritzation
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
 -   **Considerations:** What percentage of users end up going through this flow? Knowing this could help us prioritize.
+-   Draft ticket created [#47272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47272)
 
 #### Name tag
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
@@ -111,10 +114,14 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1
 	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
+	-   Ticket Created [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
 
 #### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **Next steps:** _Resolved?_
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
+	-   [Related TTY ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46195)
 
 
 #### Account Security
@@ -123,19 +130,24 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   **Recommendations:**
 	-   Angela: "You can put the email address change at the top under H1 under an H2 and then another that says completed tasks (H2) - or put the email part somewhere else and then get rid of the rest"
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
+	-   Draft ticket created [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299)
 
 #### In-line error message when editing in profile
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
--   Also does not tell screenreader about all the errors shown, just one.
+-   Also does not tell screenreader about all the errors shown, just one. This is likely a form system problem, opened a bug assuming that's the case [#46731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46731)
 -   **Recommendations:**
 	-   Angela suggested that the best thing to do is to have a list of errors together
--   **Next steps:** Determine if this is something specific to our form, or global form system problem. 
+-   **Next steps:** Determine where focus should go, get a11y defect level
+	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
+	-   *Additional suggestion*: If an error summary is available, place focus on the heading within this area. Otherwise, if an error summary is not available, place focus within the first error field. Be sure to include descriptive error messages for screen readers and other users to determine what needs to be corrected.
 
 #### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
 -   Can one-per-page editing help with any of the above concerns?
 -   Some research has been done by other teams
 -   **Next steps:** Create ticket to assess the above items.
+	-   *Shared Support - a11y defect level suggestion*: More assessment/research needed  
 
 ## Shared Support Accessibility Audit Summary - September 2022
 

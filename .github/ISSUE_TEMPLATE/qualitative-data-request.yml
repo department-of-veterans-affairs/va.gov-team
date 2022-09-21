@@ -1,7 +1,7 @@
 name: Qualitative Data Request
 description: Please use this form to request qualitative (textual) data for tier 2/3 support as well as Medallia User Surveys
 title: "Qualitative Data Request"
-labels: [ "VSP-contact-center" ]
+labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
   - jwoodman5, ianMcCullough-ob
 body:
@@ -13,7 +13,7 @@ body:
   - type: dropdown
     id: data-request-type
     attributes:
-      label: Survey Type Requested
+      label: Data Type Requested
       options:
         - Support
         - User Surveys

@@ -1,5 +1,5 @@
 # Initiative Brief - 10-10EZ Household section redesign
-- [Household section redesign epic #31146](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31146)
+- [Household section redesign epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 
 ## Outcome Summary
 
@@ -21,6 +21,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 - HEC team (especially Stacey) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
+- Applicants will be able to proceed through the application easier and confidently
 - Applicants will be better prepared to complete the application the first time
 
 ## Undesired User Outcomes

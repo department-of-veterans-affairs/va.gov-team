@@ -1,10 +1,36 @@
 # Travel Pay Engineering details
 
+## Overview
 
-## Architecture Diagram
+We are deciding on the doing the work syncronously for the MVP.  We will do the work asyncronously for the next iteration, if needed
 
-![diagram](../assets/Travel%20re-embursement.0.png)
+key: things in green are new additions to the workflow
 
+## Syncronous (MVP)
+
+### Diagram
+
+#### Check in Initialization
+![Syncronous Diagram](../assets/day.of.check.in.initiated.with.travel.pay.1.png)
+> built with[https://sequencediagram.org/](https://sequencediagram.org/);  [source](../assets/day.of.check.in.initiated.with.travel.pay.1.txt) 
+
+#### Check in Flow
+
+![Syncronous Diagram](../assets/day.of.check.in.with.travel.pay.1.sync.png)
+> built with[https://sequencediagram.org/](https://sequencediagram.org/);  [source](../assets/day.of.check.in.with.travel.pay.1.sync.txt) 
+
+### Pros
+
+- Simple to implement
+- Feeback for the user is instant
+- Can gather MVP analytics while we build a more robust solution
+- If the claim submission fails, the Veteran is at the clinic to get help
+
+### Cons
+
+- The BTSSS API is a risk for handling the claim creation in a timely manner to not interfer with check in
+- Will increase manual review process load, but we can mitigate by doing a slow control roll out and only doing a max of XX% of users before scaling up
+- This solution more than likely won't scale out of the box.
 
 ## API Docs
 

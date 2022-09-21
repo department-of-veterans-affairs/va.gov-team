@@ -10,12 +10,99 @@
     - From VAST
     - To Lighthouse
   - Retiring VBA Facilities db, Making CMS source of truth
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt, David Shannon.
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, Kevin Walsh, David Shannon.
 
 </details>
 
-## Monday, August 29, 2022
+## Monday, September 19, 2022
+* v1 deploy
+  * Service ID mapping?
+  * Corrected deficiency - LH can now accept all new services
+  * LH corrected other small isues, temporary 'wipe out' 
+  * v1 been on delay - lost some cycles 
+  * Once sandbox data is pushed, do some vetting, then promote to produciton 
+  * Still a few weeks out from going live 
+* Sync CMS data to sandbox
+  * When v1 goes live, must have larger set to meet needs of all consumers 
+  * Joshua -  architect call this week with LH team, Steve, Jay AI: Joshua to coordinate 
+  * We do know we want a snapshot view of all production data into lower environments 
+  * When Facilites is ready - can we push this one-time snapshot to all lower env?
+  * Local test envs are configured to push to sandbos, Jay can push from his local test - will confirm with Steve
+  * Jay is OOTO Thu Fri 
+  * AI: Jay - circle back, don't think it's a bit lift 
+  * Johsua: Sandbox rate limit is being raised to match production - Joshua to confirm 
+* Review Facilities issues blocked by v1 - where are we ready to pick up?
+  * AI: DS - David and Jay to cowork  aim for Wed - debrief on each issue 
+  * LH - anything from LH team they are waiting on? Overall it's Facilities waiting on LH 
+  * CAPS lat/long -
+  * Then ATC data, they are intersted in CMS data - look into discussing
+    * LH, ATC, CMS, VHADM  - JHL was not a part  Dave C and JHL are co-owners of service taxonomy 
+    * One more meetingw with ATC, then Josh/ATC will pull in Dave C and  JHL - Expectation is ATC will reach out 
+* Supporting country code (Germany, Korea)
+  * VAST will not modify their records 
+  * Josh - very important sooner than later
+  * Does this have to be part of the v1 release 
+  * Review slack thread - 
+  * Regarding non-US facilites - for VHA it's Manilla 
+  * VBA - Dave C added country  code 
+  * What facilites will break the model? Manilla?  Can we manually tweak? a one-off facility coming out of VAST?
+  * Current behavior - country code is being placed into State field
+    * Adam - Manilla is the only site in VAST that is technically out of the country - there are serveral non-US state-located 
+    * Dave C owns VBA datatbase - we can provide data however LH needs it for VBA
+    * Confirm - is the only non-supported outlier Manilla?  
+        * Territories have a 2 character USPS code - in compliance with 
+        * Update documenation to describe field as _US State or Territory_
+    * What about NCA faclities - Adam - we can do an audit
+  * Josh to sync with James - Dave C has meeting Tues afternoon 
+    *  Is it documentation? or modifying structure? 
+* Mental Health
+  * LH phone numbers compared with CDW   
+* CMS article documentation
+  * Meeting Tues 20
 
+
+## Monday, September 12, 2022
+
+* v1 deploy
+  * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
+  * Jay sent payload on Friday, LH team needs to do some adjustment around the key id value
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
+  * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, LH made changes locally, once that is out we will be able to test again
+  * Jay sent 4 services, only one got ingested 
+    * Can LH solve it on their end - start here, Josh hoping this will be implemented tomorrow  _"Audiology and Speech" -> "audiology"_
+    * That ID is the unique key
+    * Jay: Does that identifier map the service to the other sources of other systems
+    * All sources are mapped to ServiceID - LH maps to internal ID 
+    * Display name vs key value for a service 
+    * Aiming for tomorrow-ish to retest 
+    * (If not, will ask Facility team to change )
+  * If all goes well, ready to send to production. 
+  * How much lead time to push to sandbox? Jay will switch if necessary but can hop on it quickly.
+  * How long do we need for production?  Facilities has a modeule in Drupal - big button - "Queue Everything" - quick within 30 mins - as fast as queue processor can work through everything.
+    * Confirmed no impact on content release 
+* Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
+ * Jay's goal to speak intelligently and prioritize for next meeting - what's ready, what needs work  
+* Sync CMS data to sandbox  
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
+  * What problems does current LH approach create? Looks like it won't solve Facility's needs
+  * Joshua - looking to have architect call this week with LH team, Steve, Jay
+  * Talking about making the entire data set synthetic - what lapses does that create? How to understand more deeply?
+  * Taking into account the future of Sandbox data, how it's going to live
+* Mental Health
+  * Dave C generate reports
+    * Crosswalk ATC data and Facilities data - understand what impact might be if we start using ATC as source 
+    * Delivered REAL TIME   
+  * Mutliple phone numbers https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10332
+    * Can LH team deliver report of Mental Health numbers in LH right now. Can crosswalk with what we have in Drupal 
+    * AI: Joshua will own, Mental Health Primary from the Office of Mental Health CDW table 
+* CMS article documentation
+  * CM piece - discuss with JHL - commmunicating impact of v1
+  * LH can begin documenting the reason why there are differences 
+  * Facilities team/CMS team take the  lead on working with editors on how we explain
+  * Opportunity here to discuss how to leverage this into communication with the Field in general (CMO's at each faclity) this is important and here's why
+  * David to get current idea of KB's, set up meeting with LH Josh and Joe - in context of rough draft of what LH would author, and emphisising the WHY.
+
+## Monday, August 29, 2022
 
 * Sync CMS data to sandbox  
  * Gathering full plan - sandbox data is a representation of production - the only caveat is that we dont have CMS data in Sandbox.. should that data be complete match?
@@ -64,9 +151,9 @@
   * CM piece - discuss with JHL -  commmunicating impact of v1 
   * HOw does an editor know that their change went through? ifthey see a problem, where would an editor go?
   * LH can begin documenting the reason why there are differences 
-  * Facilities team/CMS team take teh lead on working with editors on how we explain , 
-  * HOw can we reinforce .. VHA DM, lean into memo 
-  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're not contriubting to Facilites ecosystem and will be consumed by FL and other things, take langauge from LH team and build it into KB
+  * Facilities team/CMS team take the  lead on working with editors on how we explain , 
+  * How can we reinforce .. VHA DM, lean into memo 
+  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're now contriubting to Facilites ecosystem and your data will be consumed by FL and other things, take language from LH team and build it into KB
   * Facility team will let LH team know where this content will live 
 
 
