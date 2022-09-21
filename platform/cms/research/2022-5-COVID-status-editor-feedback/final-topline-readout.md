@@ -1,14 +1,9 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# COVID Facility Status - Editor Research Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), Facilities, CMS Sitewide Crew
+Date: 08/05/2022
 
-# [Study] Research Findings 
-
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+Suzanne Gray <mailto:suzanne.gray@civicactions.com>, Denise Eisner [email], Dave Pickett [ ]
 
 [Research Report PDF] (link here)
 
