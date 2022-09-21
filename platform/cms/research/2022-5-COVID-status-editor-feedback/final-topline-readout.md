@@ -56,7 +56,7 @@ The standardized COVID health protection guidelines do not reflect the actual po
 
 # Details of Findings
 
-[Example of COVID facility operating status](link - add image to github folder and link here with .png)
+[Example of COVID facility operating status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/Covid_status_modal.png)
 
 **Finding 1: The COVID-19 masking/distancing, screening and virtual care language generally works.**
 
