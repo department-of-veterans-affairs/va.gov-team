@@ -2,13 +2,13 @@
 name: Check In Experience Release Feature to Production Task
 about: For Check In Experience Task to release to production
 title: "Release to Production"
-labels: HCE-Checkin, design, research, frontend, backend
+labels: HCE-Checkin, ux, frontend
 assignees: ''
 ---
 
 ## ENGINEERING TASKS
-- [ ] Merge code to main branch **prior to 2 pm ET** on day of release (or flip a feature flag
-- [ ] Conduct prod or staging validation
+- [ ] Merge code to main branch on day of release or flip a feature flag
+- [ ] Conduct prod or staging validation, if necessary
 
 ## RESEARCH TASKS
 - [ ] Push updated Product Guides to Git
