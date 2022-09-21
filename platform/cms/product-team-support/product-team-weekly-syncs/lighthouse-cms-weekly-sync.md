@@ -14,6 +14,19 @@
 
 </details>
 
+## Monday, September 21, 2022
+## Documenation / KB meeting - 
+* David AI - review doc from Josh
+* Master taxonomy
+* Current  mapping, Intenrnal LH Service ID -> CMS display name 
+                                          -> ATC dispaly name 
+ * If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2
+ * Would requrie creating a new ID and mapping to this new broken out service 
+ * For example Mental Health
+   * ATC has 3 services mapped to single Mental Health ID - LH is doing the mapping arrangement 
+   * That mapping needs to be coordinated across all 
+                        
+
 ## Monday, September 19, 2022
 * v1 deploy
   * Service ID mapping?
