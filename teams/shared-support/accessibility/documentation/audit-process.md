@@ -1,4 +1,4 @@
-# Shared Support: The Audit Process
+# The Audit Process
 
 This document explains the general accessibility audit process used by the Shared Support team.
 
