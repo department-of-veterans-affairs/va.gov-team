@@ -8,30 +8,30 @@
 
 **NOTE: content has not been finalized and is subject to change**
 
-[Click through prototype](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/3c784fa2-f86a-42b7-b1e4-f0fd5f3c1aa3/commits/d0be5dc1a76d50fc6dffd4b0c13567626df99164/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=3e7034be-0a0a-4895-8cf2-246a3d3ecb52&collectionLayerId=11842933-81f3-4651-86c5-220d77e2c649&mode=design&present=true)
+[Click through prototype](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/1A834D3B-A6B1-4B5E-A0CB-9C11FF0238D5)
 
 ### When a Veteran chooses to use eCheck-in to check-in for an in-person appointment and after they confirm their personal, emergency, and next-of-kin contact information, they will now be asked if they would like to file a Travel Reimbursement claim
 
-![image](https://user-images.githubusercontent.com/86678742/190417656-1fad0c6d-2168-467b-a701-6f230060e25c.png)
+![image](https://user-images.githubusercontent.com/86678742/191504859-5f2168f5-376d-47ff-867d-94262fd1c965.png)
 
 ### If the Veteran chooses to file a claim, they will be asked three questions
 
-#### Question 1: Did you travel to your appointment in your own vehicle?
-![image](https://user-images.githubusercontent.com/86678742/190418165-f1091b09-7391-4744-b067-50f7250eeece.png)
+#### Question 1: Did you travel in your own vehicle?
+![image](https://user-images.githubusercontent.com/86678742/191505388-f42fb67c-9265-417b-b4fc-9fc9334efa6c.png)
 
-#### Question 2: Did you travel from your home address on file?
-![image](https://user-images.githubusercontent.com/86678742/190418583-9484d36b-2624-4385-974b-9f63088fbb7b.png)
+#### Question 2: Did you travel from your home address?
+![image](https://user-images.githubusercontent.com/86678742/191505700-0e25062a-fc92-473a-a1c1-0961d3bdd802.png)
  
-#### Question 3: Are you filing receipts from other expenses?
-![image](https://user-images.githubusercontent.com/86678742/190418680-0da98e76-3098-4574-8032-d97a5c0c3d7f.png)
+#### Question 3: Are you claiming only mileage for your trip?
+![image](https://user-images.githubusercontent.com/86678742/191505927-8e279a4e-05d6-429c-aab4-ec8993ee6291.png)
 
 ### If the Veteran used their own vehicle from their home address and has no receipts to file, after they check-in for their appointment they will be notified that a Travel Reimbursement claim has been forwarded to the Travel Office
-![image](https://user-images.githubusercontent.com/86678742/190419025-1d47cd70-b432-48eb-a7a0-ca5616390d20.png)
+![image](https://user-images.githubusercontent.com/86678742/191509203-d9209cb4-8e41-4516-a6f9-91b5b8d2970d.png)
 
+### If the Veteran has not used their own vehicle or did not travel from their on-file home address or has receipts, after they check-in for their appointment they will be notified that they will need to submit a Travel Reimbursement claim using the BTSSS system or a paper form
+![image](https://user-images.githubusercontent.com/86678742/191509354-cc2e7489-ba18-4d43-b5ee-b62c6db74b87.png)
 
-### If the Veteran has not used their own vehicle or did not travel from their on-file home address or  has receipts, after they check-in for their appointment they will be notified that they will need to submit a Travel Reimbursement claim using the BTSSS system or a paper form
-![image](https://user-images.githubusercontent.com/86678742/190419328-31a0aaa4-5645-4170-a980-2c68a9f967ea.png)
+### If the Veteran chooses to not file a claim, they will continue to check-in with their appointment and no claim is filed
+![image](https://user-images.githubusercontent.com/86678742/191509460-a1d85492-ae01-42f0-b676-a444312ba8db.png)
 
-### If the Veteran choosese to not file a claim, they will continue to check-in with their appointment and no claim is filed
-![image](https://user-images.githubusercontent.com/86678742/190420693-a5ce6de4-0bf8-4509-a467-d163ae66e031.png)
 
