@@ -100,23 +100,51 @@ A scan of VAMC sites indicated that editors published COVID status-related conte
 # Additional Insights
 
 ## What specific language is working or not working at the facility level?
-Masking
+**Masking**
+
+*National content (as of May 2022)*<br>
+High - Everyone must wear a mask and practice physical distancing<br>
+Medium - Everyone must wear a mask<br>
+Low - Everyone must wear a mask
+
+Participant reactions:
 * 5 of the 6 said the language works
 * 1 said that a medical-grade mask is required at their facilities
 * 1 observed that community acceptance of masks differs from their facility’s protocol
 
-Screening
+**Screening**
+
+*National content (as of May 2022)*<br>
+High - We may screen you for COVID-19 symptoms at the entrance.<br>
+Medium - Please self-screen. If you've had any COVID-19 symptoms in the past 48 hours, call first unless you need care now. Check CoVID-19 symptoms on the CDC website<br>
+Low - Same as medium
+
+Participant reactions:
 * 6 of the 6 said the language does apply 
 * “May” is the operative word
 * 2 facilities allows self-screening at level High
 * No concerns about significant confusion for Veterans
 
-Visitors
+**Visitors**
+
+*National content (as of May 2022)*<br>
+High - Approved visitors only. Ask your care team who can visit<br>
+Medium - Your care partner is welcome (no other visitors)<br>
+Low - Visitors are welcome
+
+Participant reactions:
 * Only 2 of the 6 said the language works
 * 1 person is unsure
 * 3 people pointed out the way the language creates conflict
 
-Virtual Care
+**Virtual Care**
+
+*National content (as of May 2022)*<br>
+High - Ask your team about phone or video appointment options<br>
+Medium  - N/A<br>
+Low - N/A
+
+Participant reactions:
 * 4 of the 6 said language works
 * 1 person is unsure 
 * 1 person pointed out a possible conflict
