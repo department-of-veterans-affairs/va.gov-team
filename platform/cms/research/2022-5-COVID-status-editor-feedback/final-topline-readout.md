@@ -48,10 +48,6 @@ The standardized COVID health protection guidelines do not reflect the actual po
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. The COVID-19 masking/distancing, screening and virtual care language generally works.
 
 2. Because the national language is broader than local policies, there are discrepancies in communication with Veterans.
@@ -106,148 +102,57 @@ A scan of VAMC sites indicated that editors published COVID status-related conte
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-
 # Recommendations
 
-* Remove the COVID facility status feature from the VAMC product
-    * _Supporting evidence_
-* Use the facility operating status for facility-specific restrictions
-* Provide approved COVID-related messages that editors can customize
-* Research and test solutions with editors before launching initiatives of this scale
+* Remove the COVID facility status feature from the VAMC product.
+    * Editors described a clear gap between the national language and the operational realities at their facilities.
+* Use the facility operating status for facility-specific restrictions.
+* Provide approved COVID-related messages that editors can customize.
+* Research and test solutions with editors before launching initiatives of this scale.
+    * There were no interviews with editors prior to launching the initiative.  
 * Do research with Veterans about the how the website prepares them for a visit (i.e. “How would you figure out whether you can bring your kid to your visit?”)
-* Share research results with editors about how Veterans are using their sites
+* Share research results with editors about how Veterans are using their sites.
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* New language for COVID facility status will be developed and approved centrally.
+* The CMS user interface will be updated to reflect the new guidance and messaging.
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-conversation-guide.md)
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
+[Mural](https://app.mural.co/t/vagov6717/m/vagov6717/1657732819254/674ba24fa2340c85eaafce676998c2521291fbde?sender=u31df4f199540466f5c2a0712) (requires account access)  
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+The research team used the [Drupal CMS Facility status tool](https://prod.cms.va.gov/admin/content/facilities/facility-status) to identify how VAMC facilities were using the COVID facility status and alerts to communicate their status to Veterans. Tool requires CMS access.
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **6 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* VAMC Editors: 6
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 4
+* Rural: 2
 
+Location:
+* West: 1
+* Central: 2
+* East: 1
+* South: 2
 
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+COVID facility status at time of study:
+High: 6
