@@ -1,13 +1,21 @@
-# [DRAFT] Research Plan: 10-10 Apps team, UAT of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
+# [DRAFT] Research Plan: Health care application 10-10EZ, UAT of shortened form based on disability rating, October 2022
 
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the 10-10 Health Apps team.
 
-Based on our [Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) data and [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/research%20findings.md) we have identified that the Military Service and Household Information sections of the 10-10EZ cause applicants the most confusion, time, and show the highest drop-off rates. As part of an iterative process we have created [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) that eliminate these two sections for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by the applicant self-reporting it during the application. In the future, we will look into expanding this short form experience for other qualifying questions.
+The primary purpose of this research is to test the designs/flows in production and reach participant populations that we were unable to reach due to prototype limitations. These are the created [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) that eliminate Military Service and Household Information sections for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by the applicant self-reporting it during the application. 
 
-In September 2021 prototype [usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/flow-research-sept-21/research-findings.md) validated the flows that are now in production. The primary purpose of this research is to test the designs/flows in production and reach participant populations that we were unable to reach due to prototype limitations. Additionally A/B testing will be conducted on the two design options for the self-report confirmation screen as collab cycle as suggested that Design B is more in alignment with the design system. 
+September 2021 prototype [usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/flow-research-sept-21/research-findings.md) validated the flows that are now in production.
 
-## Goals	
+Previous [usability testing findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md) and [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-plan.md) conducted on short form flow during June 2022.
+
+Link to product outline: [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
+
+### OCTO Objectives
+
+### Veteran Journey
+
+## Research Goals	
 The primary goal of our UAT is to confirm that the short form functionality for each of our [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md) works as expected.
 
 The goals of this user research are to:
@@ -32,11 +40,16 @@ The goals of this user research are to:
 
 
 ## Method	
+### User acceptance testing (UAT)
 We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on any usability-related findings.
-  	
+
+Testing in production to validate both authenticated and unauthenticated flows for various disability ratings.
+[Production link](https://va.gov/health-care/apply/application/introduction)
+
+	
 
 ## Participants and Recruitment	
-We would like to work with Perigean to recruit for X fulfilled remote sessions. Therefore, we request that X sessions be scheduled.
+We would like to work with Perigean to recruit for 10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
 
 **Must have for participants**
 
@@ -46,6 +59,8 @@ We would like to work with Perigean to recruit for X fulfilled remote sessions. 
      - At least 3 people who use a screenreader (at least 1 that is new to assistive technology)
      - At least 5 people with a cognitive disability
 - At least 8 people who will use a mobile device during the research session
+
+
 
 **Demographic makeup**
 - At least 50% that identify as women or nonbinary
@@ -64,12 +79,24 @@ We would like to work with Perigean to recruit for X fulfilled remote sessions. 
 - Branch of service
 
 
+## Timeline
 
-## When? 	
-Desired Timeline: TBD, 2022
+### Prepare
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
-Session length: 45 minutes
+Pilot participant email:
+Date and time of pilot session:
 
+### Research sessions
+Desired Timeline: October (5-16 or 19-30?), 2022
+
+### Length of sessions
+* Session length: 45 minutes
+* Buffer time between sessions: 1 hour 
+* Maximum Sessions per day: 2
+
+
+### Availability
 	
 Team Availability | Time (EST)
 ------------------|--------------
@@ -78,20 +105,19 @@ April 1     | TBD
 
 
 
-
 ## Team Roles	
 	
-- Moderator: Dené Gabaldón (dene.gabaldon@adhocteam.us)	
-- Research guide writing and task development: Same as moderator
+- Moderator: Nick Osmanski (nick.osmanski@amida.com) and Jessica Stump (jessica.stump@adhocteam.us)	
+- Research guide writing and task development: Moderators and Dené Gabaldón (dene.gabaldon@adhocteam.us)	
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Same as moderator
-- Participant(s) for pilot test: N/A
-- Note-takers: N/A
+- Project point of contact:	Same as moderators
+- Participant(s) for pilot test: 
+- Note-takers: 10-10 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 	
 
 ## Resources	
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
-- [Conversation Guide]([h](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md))
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md))
 - [Prod link](https://va.gov/health-care/apply/application/introduction)
 - [Research Findings]
