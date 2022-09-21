@@ -51,7 +51,7 @@ Task #2: Navigate to Contact information page / Mailing address field - 1 minute
 Task #3
 ---------------------------------------------------------
 
-### OPTION 1: Update Mailing address - 2 minutes
+_### OPTION 1:_ Update Mailing address - 2 minutes
 
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
@@ -66,7 +66,7 @@ Task #3
 - [ ] **UAT TASK:** Confirm the BAI alert disappears when an update is made.
 - [ ] **UAT TASK:** Confirm the BAI flag is properly cleared in VA Profile when an update is made.
 
-### OPTION 2: Confirm Mailing address - 2 minutes
+_### OPTION 2:_ Confirm Mailing address - 2 minutes
 
 **Task goal: Make sure the participant can easily CONFIRM a mailing address.**
 
