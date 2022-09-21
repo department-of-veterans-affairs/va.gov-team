@@ -11,15 +11,13 @@ Suzanne Gray [suzanne.gray@civicactions.com], Denise Eisner [denise.eisner@civic
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/cms/research/2022-5-COVID-status-editor-feedback/final-topline-readout.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/cms/research/2022-5-COVID-status-editor-feedback/final-topline-readout.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/cms/research/2022-5-COVID-status-editor-feedback/final-topline-readout.md#recommendations)
 
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/cms/research/2022-5-COVID-status-editor-feedback/final-topline-readout.md#who-we-talked-to)
 
 <br>
 
@@ -165,6 +163,20 @@ Participants take direction on COVID messages from medical director, public affa
 Some reports of questions about discrepancies in old/new policies. One PAO fielded questions via social media. Most participants do not have direct contact with Veterans.  
 **When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?**
 Approaches vary. Participants choose based on their own perception of what is the most visible. More research is needed.
+
+## COVID status messaging Rollout
+3 people mentioned friction created by the rollout of COVID status messaging
+
+“It was hard at first to get leadership to give me direction… I don’t know if our leadership knew in advance. I got the notices from you guys" - P5
+
+“It felt like a public affairs plan put in place waiting to figure out what the operational friction was going to be.” - P2
+
+“Leadership didn't understand what the change was when this came out.” - P3
+
+## Adjacent messaging: COVID vaccines 
+All participants used the system alert to link to COVID vaccine information. Most of these vaccine pages were updated prior to February 2022.
+* 1 participant dismissed the alert and did not see this page for several months
+* Introduction developed in 2021 written in future tense and may not reflect current operations
 
 # Recommendations
 
