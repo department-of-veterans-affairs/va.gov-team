@@ -211,9 +211,6 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ---
 
-`Assistive Tech and Cognitive Impairment will apply across cohorts`
-- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
-
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
 |***ASSISTIVE TECH***                                         |            | 
@@ -247,8 +244,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    |     5      |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     5      |
+|*Various*                                                    |            |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
