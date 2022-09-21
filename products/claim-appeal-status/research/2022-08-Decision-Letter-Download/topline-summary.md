@@ -1,16 +1,11 @@
-<!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
-
-**This is a template, PLEASE MAKE A COPY**
-
-# [Research Name] Topline Summary
+# DLD Usability Testing Topline Summary
 
 
-[link research plan]()
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/research-plan.md)
 
-[link conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 
-[link interview transcripts]()
-
+[Recordings](https://drive.google.com/drive/folders/1YDcN3CuxWYMYnQWk3-_B1KvGMuZGirIT)
 
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
@@ -26,13 +21,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
+**Core task of accessing Decision Letters via the VA.gov homepage and Claim Status Tool was very succesfful**
 
-**Finding #1**
-
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
+- All participants were able to navigate from the VA.gov homepage to the Claim letters page and the decision letter with minimal confusion or usability issues
+- A few participants got hung up on the Claim Status Tool detail page, although it was hard to assess how big of an issue this was for them given the prototype's limited functionality
+- One participant in particular felt that it required "too many steps" to get to the decision letter, validating a hypothesis we had that we can look to improve if we are able to overcome technical constraints. 
 
 > Quote (if relevant)
 
