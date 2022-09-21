@@ -1,15 +1,15 @@
 # SPRINT GOALS
 
-## 9/21/2022 (FUTURE)
+## 9/21/2022 
 
-#### Planned Releases (TENTATIVE)
+#### Planned Releases 
 - Flip feature flag for LoROTA Security Updates & set to 10%
 - [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)  
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
 
 
-#### UX Sprint Goals (TENTATIVE) 
+#### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish Study Report 
     - Hold mid-point review with Collab Cycle 
@@ -27,7 +27,7 @@
     - Update design artifacts
     - Update release artifacts 
 
-#### Engineering Sprint Goals (TENTATIVE) 
+#### Engineering Sprint Goals 
 - [Production Support]() 
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
     - Finish & release 
@@ -42,7 +42,6 @@
     - Figure out how to move forward 
 - Tech Debt
     - Review & Merge Yarn Workspaces PR
-
 
 ## 9/7/2022 
 
