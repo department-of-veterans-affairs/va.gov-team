@@ -28,36 +28,43 @@ This topline summary is a high level, top of mind summary of trends found in the
 - A few participants got hung up on the Claim Status Tool detail page, although it was hard to assess how big of an issue this was for them given the prototype's limited functionality
 - One participant in particular felt that it required "too many steps" to get to the decision letter, validating a hypothesis we had that we can look to improve if we are able to overcome technical constraints. 
 
-> Quote (if relevant)
+> "Oh that's definitely a 5 (out of 5)...everything is self-explanatory." (P17)
+
+> "I actually thought it moved along pretty quickly." (P19)
+
+> "Nothing was missing, it was just too many steps to go through to get to (the decision letter)." (P12)
 
 
-**Finding #2**
+**The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+- In the prototype, the "closed on" date in CST and the letter in Claim letters had the same date (Sep 8). This was a key context clue for participants to be able to know which letter was their decision letter. In production, we can't always guarantee that this will be the case, so there is risk for some confusion there, but we can be confident that the date will be helpful in the absence of other contextual metadata.
+- During UAT, let's double check to ensure that dates are meaningful with real user data.
 
-> Quote (if relevant)
+> "We're talking about 8 September, and the ones below are different dates." (P8)
 
-
-**Finding #3**
-
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+> _"Why did you click on that letter?"_ "Because it's the most recent." (P10)
 
 
-**Finding #4**
+**On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+- Some participants couldn't find a way back to the Claim Letters page from the Download VA letters page, because the Claim Letters entrypoint was below the fold and they didn't scroll to see it. 
+- The participants who did scroll saw the Claim Letters entrypoint and understood easily what it was. 
+- On desktop, many participants looked at the left nav when prompted to find their way back to the Claim Letters page
 
-> Quote (if relevant)
+
+**Participants who were familiar with Benefit Letters understood the difference between Benefit Letters and Claim Letters. For those less familiar, the distinction was less clear.**
+
+- Although they found it difficult to clearly articulate the difference, participants who were familiar with Benefit Letters from past experience weren't confused by the separate of Benefit Letters and Claim Letters. They understood the different use cases for them both.
+- Other participants stated that they'd prefer to see all the letters on the same page.
+
+> "The decision letters are letters from the VA to me, whereas (Benefit Letters) are letters...that the website is generating that supports me." (P19)
+> "I would have put what I needed on the other page and combined them." (P12)
 
 
-**Finding #5**
+**Other findings/reflections**
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+- Most participants guessed that Claim Letters page would include decision letters and development letters (other letters related to gathering evidence or updates about the claim).
+- The main value proposition of the Claim Letters page for many participants was that it serves as an archive. They felt reassured knowing they could access critical documents in this one place whenever they needed, especially if/when they misplaced the physical copies. This supports our design approach of creating a repository within Records for these types of letters.
+- A couple participants mentioned the mobile app, one participant in particular (P12) said that he primarily uses the mobile app and would expect to be able to find this more easily there. We should connect with the mobile app team to ensure that this functionality is available wherever Veterans need it.
+- Only one participant explicitly critiqued the design for having "too many steps" (P12). But it was clear from observing that a better user experience would involve fewer steps to get to the actual decision letter. Given technical constraints, this approach works but we should continue to explore how we can overcome those constraints to provide an optimal user experience.
+- A few participants mentioned that they would use the decision letter for an appeal (P19 mentioned that they would do this immediately). Beyond the MVF, we should explore how we might connect the Claim Letters page to the appeals flows in an intuitive and cohesive way.
