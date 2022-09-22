@@ -13,6 +13,7 @@ with ApiClient(configuration) as api_client:
 
     request_ids = set()
 
+    checkin_window_before = 30
     start = dp.isoparse('2022-09-12T00:00:00-04:00')
     end = dp.isoparse('2022-09-23T00:00:00-04:00')
 
@@ -57,14 +58,14 @@ with ApiClient(configuration) as api_client:
             appt_time = dp.isoparse(start_time)
             diff = (appt_time - check_in_time)
             time_before_days = diff.days
-            time_before_minutes = (diff.seconds / 60) - 30
+            time_before_minutes = (diff.seconds / 60) - checkin_window_before
             if time_before_days >=0 and time_before_minutes > 0:
                 if time_before == 0 or time_before_minutes < time_before:
                     time_before = time_before_minutes
             
         if time_before:
             too_early_appointments.append(time_before)
-            too_early_requests[request_id]['minutes_before_30m_window'] = time_before
+            too_early_requests[request_id]['minutes_before_checkin_window'] = time_before
 
     number_early_requests = len(too_early_appointments)
     time_before_mean = statistics.mean(too_early_appointments)
