@@ -75,8 +75,8 @@ The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-1
 Month Day – Month Day, 2022 (TBD)
 
 ## Length of sessions
-* 30-45 minutes each
-* 20 minutes buffer time between sessions
+* 45 minutes each
+* 20 minutes buffer time between debrief and next session
 * 15 minutes after each session for research team debrief
 
 ## Availability
