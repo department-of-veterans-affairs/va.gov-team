@@ -66,7 +66,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Male            |            |
 |Female          |      6     |
 |***LGBTQ+***    |            |
-|*Various*       |      4     |
+|*Various*       |            |
 |Gay             |            |
 |Lesbian         |            |
 |Bisexual        |            |
@@ -78,13 +78,13 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Two-Spirit      |            |
 |       ---      |     ---    |   
 |***RACE***      |            |             
-|*Various*       |      2     |
-|Black           |      4     |       
+|*Various*       |            |
+|Black           |      2     |       
 |White           |            |             
 |Latinx          |      2     |                      
 |Asian           |      2     |              
-|Native          |      1     |          
-|Pacific Islander|      1     |            
+|Native          |            |          
+|Pacific Islander|            |            
 |       ---      |     ---    |     
 |***AGE***       |            |
 |*Various*       |      8     |
@@ -119,13 +119,13 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Pub Hlth Corps  |            |
 |       ---      |     ---    |
 |***EDUCATION*** |            |
-|*Various*       |      4     |
+|*Various*       |            |
 |Elementary      |            |
 |Intermediate    |            |
 |GED             |            |
-|High School     |      4     |
-|Some College    |      2     |
-|Associate's     |      2     |
+|High School     |      2     |
+|Some College    |            |
+|Associate's     |            |
 |Bachelors       |            |
 |Masters         |            |
 |Professional    |            |
@@ -133,8 +133,8 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |       ---      |     ---    |
 |***RESIDENCE*** |            |
 |*Various*       |            |
-|Urban           |      6     |
-|Rural           |      6     |
+|Urban           |            |
+|Rural           |      4     |
 |       ---      |     ---    |
 |***HARDWARE***  |            |
 |*Various*       |      12    |
