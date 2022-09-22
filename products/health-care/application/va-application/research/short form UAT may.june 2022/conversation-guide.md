@@ -5,7 +5,7 @@
 - [ ] Start a thread in #feedback-backchannel
 
 ## Intro - 2 minutes
-Thanks for joining us today! My name is {Moderator's First Name} and I also have some colleagues on the line observing and taking notes. We're working on adding a new feature that reduces the length of the health care applications for Veterans. The purpose of our session today is to make sure that the feature is working as expected in your account and that you're able to interact with it as intended.
+Thanks for joining us today! My name is {moderator's first name} and I also have some colleagues on the line observing and taking notes. We're working on adding a new feature that reduces the length of the health care applications for Veterans. The purpose of our session today is to make sure that the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -81,6 +81,6 @@ Well, we really appreciate you taking the time to test these updates today. This
 
 
 ## Resources	
-- [Research plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-April%202022/research-plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/research-plan.md))
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/research-plan.md)
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
 - [Prod link](https://va.gov/health-care/apply/application/introduction)
