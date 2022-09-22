@@ -49,6 +49,8 @@ The Lighthouse team keeps their documentation for this feature in Confluence. If
 
 ### How to Access and Test
 
+See [profile product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test) and [profile staging users and test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile.md) for information on how to test connected apps
+
 ## Frontend
 
 ## Design and UX
