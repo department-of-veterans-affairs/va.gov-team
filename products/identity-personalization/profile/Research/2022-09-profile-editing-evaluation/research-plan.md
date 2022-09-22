@@ -231,7 +231,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 
 ### Additional instructions  
 ALL participants need to:
-  - be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device
+  - ~be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device~ Update: we will have participants log into a staging account.
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
 
