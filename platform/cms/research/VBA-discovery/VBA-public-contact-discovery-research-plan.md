@@ -61,10 +61,12 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * Conversation guide (to be added)
 
 ## Recruitment
-The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using The CMS Facilities team will work with the OCTO-DE product owner to recruit 5-10 Public Contact staff for this research using the the following criteria:
+The CMS Facilities team will work with the OCTO-DE product owner to recruit 6-10 Public Contact staff for this research using the the following criteria:
 * Are at a Regional Office chosen for the MVP
 * Represent different services areas
 * Have been in the role for at least 6 months
+
+The Facilities team initially will need upwards of 20 names for potential interview participants.
 
 Note that recruitment cycles involving VA employees can take up an entire sprint, from initial contact to follow-ups and scheduling of observers.
 
