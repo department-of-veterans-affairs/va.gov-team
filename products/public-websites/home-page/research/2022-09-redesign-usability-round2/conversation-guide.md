@@ -34,8 +34,12 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
-There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+
+- *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
+
+Could the notetaker and observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
 
 *(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
@@ -108,203 +112,48 @@ Do you see the link?
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-### Overview of Tasks
-Each participant will be asked to do a **subset (probably no more than 9) of the 20 tasks** detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session. We would like **each of the 20 tasks to be done by at least 4 participants** (and hopefully more).
-
-<details>
-  <summary>Click to see the list of ALL tasks and when to ask them</summary>
-  
-We will track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions. If we're unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
-
-IF HAVEN'T USED EDUCATION BENEFITS…
-- Task 1: [Learn about or apply for education benefits]
-- Task 2: [Compare VA education benefits and rates by school]
-
-IF HAVEN'T USED DISABILITY BENEFITS...
-- Task 3: [Learn about or file for disability compensation (service-related)]
-- Task 20A: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
-  
-IF HAVE USED DISABILITY BENEFITS...
-- Task 4: [File for a VA disability increase]
-- Task 20B: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
-- Task 5A: [View your payment history]
-- Task 6A: [Check the current disability compensation rates]
-
-IF HAVE USED EDUCATION BENEFITS...
-- Task 5B: [View your payment history] -- *SKIP if did task 5A*
-- Task 7: [Check or update your current education benefits]
-
-FOR EVERYONE
-- Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
-- Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
-- Task 9: [Get your VA medical records]
-
-IF HAVE VA HEALTH CARE...
-- Task 10: [Message your doctor or get a health care message]
-- Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
-- Task 20C: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
-
-IF DON'T HAVE VA HEALTH CARE...
-- Task 12: [Learn about or apply for VA health care]
-- Task 20D: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
-
-FOR EVERYONE
-- Task 13: [Get letters about your VA benefits and service history (benefit letters)]
-- Task 14: [Review or update your dependents]
-- Task 15: [Update your contact information with VA]
-- Task 16: [Find a mental health counselor or therapist]
-- Task 17: [Learn in advance if eligible for burial in a VA cemetery]
-- Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
-- Task 19: [Request your military records (DD214)]
-    
-</details>
-
 ### DRAFT IDEAS for tasks: (participants completed 2-13 tasks in the last round of testing; avg 7.8)
-- same small number of tasks for everyone (diff from last round)
 - tasks that didn't go well in last round:
-1. file for disability increase--Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
 1. add a spouse--Say that you just got married. How would you tell the VA about your new spouse?
 1. compare educ benefits by school--There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out? (see how goes w/o education links in Other search tools)
 1. ck current disability compensation rates--You'd like to see VA's current disability compensation rates. How would you find this?
-1. message your doctor--Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them?
-1. benefits letters (b/c removed direct link)--Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA? (see if people find in Records benefit hub and megamenu)
+1. [benefit letter or Veteran ID card] Suppose that you need to show that you're a Veteran for a special discount at a store. How would you do that? 
 1. mental health--Recent news stories have affected you more than you expected, and you want to talk to someone about how you're feeling. How would you do this? (to see what people think of where taken)
 1. something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
-  - Impressions? *(news / benefit / ad / ____________)* 
+  - Which news box did they go to? *(PACT Act / Pathfinder)
+  - What are your impressions? *(news / benefit / ad / ____________)* 
   - What do people try to click on? *(headline / image / Read the full article / somewhere else in box)*
-  - followup: How would you see if there's other information that's relevant to you? *(More VA news / __________)* 
+  - How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
+  - How would you see what else is new--if there are other stories from the VA that might be relevant to you? *(More VA news / __________)* 
 1. How might you learn about updates in VA benefits? (PACT Act  or Pathfinger? and click thru to learn more). use the wording of changes to legislation: recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, "legislation that relates to changes in VA benefits and services"
 	- followup q: how would you get more info about this?
 	- followup q: how would you get information on other topics?
 
-1. SKIP b/c already have benefits letters? ID cards (b/c removed direct link)--TASK TBD (see if people find in Records benefit hub and megamenu)
+1. [makes the most sense if have VA health care] message your doctor--Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them?
+1. [makes the most sense if already have disability] file for disability increase--Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
+
 - (see if they use Resources & Support if there's a link in Other search tools). record any feedback on the name.
-
-- at least one task that's not in the Popular list DONE
-- When someone uses the sign-in or create account link, can they tell the difference?
-
 - update the names of the page in the notetaking lines 
 - see if any accessibility issues with megamenu
 
-### FOR EVERYONE
-*Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
-- How would you sign in? *(RECORD: button in header / hero by photos)*
-- Can you tell me about what you expect and why?
-- If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
+### IF/WHEN participant wants to sign in before doing a task...
+- How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header / "Sign in or create an account" button on a content page)*
+- *(If not currently on the home page*) Could you please go back to the original page you were on? How might you do that from here?
+- Do you have an account? *(Yes / No / ____________)*
+- *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
+- If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
-
-### IF HAVEN'T USED EDUCATION BENEFITS...
-
-#### Task 1: [Learn about or apply for education benefits]
-Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What might you do from the web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
 
 #### Task 2: [Compare VA education benefits and rates by school]
 There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
+    - *Sign in / Create account / Search / Other search tools / Popular on Va.gov / Benefit hubs / PACT Act / Pathfinder / Header / Footer*
+   
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### IF HAVEN'T USED DISABILITY BENEFITS...
-
-#### Task 3: [Learn about or file for disability compensation (service-related)]
-Your hearing loss might be related to your military service, and you want to know if you qualify for disability compensation. What would you do from the web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 20A: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
-Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### IF *HAVE* USED DISABILITY BENEFITS...
-
-#### Task 4: [File for a VA disability increase]
-Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 20B: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
-Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-
-#### Task 5A: [View your payment history]
-How would you check the amount of your current disability compensation?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 6A: [Check the current disability compensation rates]
-You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the current compensation rates?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### IF *HAVE* USED EDUCATION BENEFITS...
-
-#### Task 5B: [View your payment history] -- *SKIP if did task 5A*
-How would you see the amount of money last sent to your school?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 7: [Check or update your current education benefits]
-You're thinking about taking a few more college classes. How would you find out how much GI Bill money you have left?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### FOR EVERYONE...
-
-#### Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
+#### Task 6B: [Check the current disability compensation rates] 
 You'd like to see VA's current disability compensation rates. How would you find this?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
@@ -313,84 +162,6 @@ You'd like to see VA's current disability compensation rates. How would you find
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
-
-#### Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
-I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 9: [Get your VA medical records]
-You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### IF *HAVE* VA HEALTH CARE...
-
-#### Task 10: [Message your doctor or get a health care message] 
-
-- Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-   
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
-You traveled a long way to your doctor's appointment at the VA. How could you find out if the VA will cover your travel expenses? 
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 20C: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
-Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-
-### IF *DON'T* HAVE VA HEALTH CARE...
-
-#### Task 12: [Learn about or apply for VA health care]
-A new VA health clinic just opened near you, and you might want to see a doctor there. How would you learn about VA health care?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 20D: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
-Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### FOR EVERYONE...
 
 #### Task 13: [Get letters about your VA benefits and service history (benefit letters)]  
 - Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
@@ -411,16 +182,6 @@ Can you back out of here to the page you started on? Can you find the applicatio
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-#### Task 15: [Update your contact information with VA]
-You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
 #### Task 16: [Find a mental health counselor or therapist]
 Recent news stories have affected you more than you expected, and you want to talk to someone about how you're feeling.  How would you do this?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
@@ -431,8 +192,19 @@ Recent news stories have affected you more than you expected, and you want to ta
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-#### Task 17: [Learn in advance if eligible for burial in a VA cemetery]
-You have been wondering about whether you could be buried in a VA cemetery. How would you find out? 
+#### Task 10: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
+
+- Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+   
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+#### Task 4: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
+Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -441,25 +213,6 @@ You have been wondering about whether you could be buried in a VA cemetery. How 
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-#### Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
-Say you have been looking for a new home, and your bank asked for proof that you qualify for a VA home loan. How would you provide this?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 19: [Request your military records (DD214)]
-Your employer asked you to provide proof of your military service and honorable discharge. How would you do this?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
 
 
 ## Post-Task Interview - 15 minutes
@@ -471,6 +224,7 @@ Your employer asked you to provide proof of your military service and honorable 
 1. I'd like to ask you about a specific part of the first page: Pathfinder: The front door for engaging with VA. 
      1. What are your impressions of what you see here?   
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
+1. If you knew you had to sign in from the beginning, how would you do it from here? could ask how would you do it from the home page?
 2. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
 3. Is there anything else that we haven't talked about that you think I should know? 
 
