@@ -79,6 +79,7 @@ Use font awesome icon `dollar` for icon in link list
 
 **Do NOT show in link list**
 - If a user has never received a payment.
+![Screen Shot 2022-09-22 at 2 21 18 PM](https://user-images.githubusercontent.com/97965610/191822590-048107ed-b5e6-431f-a11c-f8bf297b93cf.png)
 
 #### Content
 [View your payment history](https://www.va.gov/va-payment-history/payments/)
