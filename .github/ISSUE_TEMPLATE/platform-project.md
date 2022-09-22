@@ -20,8 +20,8 @@ assignees: ''
 ## What do we not know about the problem space?
 *What areas do we need more information about so that we can accurately solve the problem? What discovery is needed?*
 
-## What (if any) research has been done?
-*Link to any relevent research that has been completed that is either relevant to this problem or the problem came as a secondary finding*
+## What (if any) research or discovery has been done?
+*Link to any relevent research that has been completed that is either relevant to this problem or the problem came as a secondary finding. Link to the outcome of any discovery efforts.*
 
 ## What is the acceptance criteria?
 *This should be written in a way that no one can interpret it differently. It should be written from a user impact perspective. A good acceptance criteria isn’t “We built a new service to allow VFS teams to deploy on their own” it’s “A VFS team member is provided with all the information and resources needed to deploy their code without Platform intervention.” Above all else, acceptance criteria should be testable, simple/straightforward, written in the perspective of the user and specific to the item they are supporting with no outside dependencies.*
