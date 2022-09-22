@@ -29,5 +29,5 @@
 
 ## Supporting documentation
 
-[Use double box-shadow for focus styling #654](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/654)
-A11y maturity plan [DRAFT] Double box-shadow focus styling (in progress, coming soon)
+- [Use double box-shadow for focus styling #654](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/654)
+- A11y maturity plan [DRAFT] Double box-shadow focus styling (in progress, coming soon)
