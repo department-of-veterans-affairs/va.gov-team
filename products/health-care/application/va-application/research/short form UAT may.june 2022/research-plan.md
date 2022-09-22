@@ -12,8 +12,12 @@ Previous [usability testing findings](https://github.com/department-of-veterans-
 Link to product outline: [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
 
 ### OCTO Objectives
+> Goal 1: Veterans and their families can apply for all benefits online
+> Goal 6: Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
+Applying for health care and ensuring the Veteran understands their current disability rating can possibly happen in a variety of points in the journey including: getting out, starting up, taking care of myself, retiring and aging. 
+
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that the short form functionality for each of our [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md) works as expected.
@@ -39,6 +43,7 @@ The goals of this user research are to:
 - Veterans will move through the flow easily.
 
 
+
 ## Method	
 ### User acceptance testing (UAT)
 We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on any usability-related findings.
@@ -46,6 +51,11 @@ We'll have participants go through a list of specific tasks for UAT and ask foll
 Testing in production to validate both authenticated and unauthenticated flows for various disability ratings.
 [Production link](https://va.gov/health-care/apply/application/introduction)
 
+### Location
+Remote via Zoom
+
+### Research materials
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md)
 	
 
 ## Participants and Recruitment	
@@ -53,13 +63,12 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 
 **Must have for participants**
 
-- At least 10 Veterans
+- At least 12 Veterans
 - At least 2 Power of attorney (POA) but no more than 3
 - At least 11 people with a disability rating of 50% or higher 
      - At least 3 people who use a screenreader (at least 1 that is new to assistive technology)
      - At least 5 people with a cognitive disability
 - At least 8 people who will use a mobile device during the research session
-
 
 
 **Demographic makeup**
@@ -87,8 +96,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 Pilot participant email:
 Date and time of pilot session:
 
+
 ### Research sessions
-Desired Timeline: October (5-16 or 19-30?), 2022
+Desired Timeline: October (5-16 or 19-30), 2022
 
 ### Length of sessions
 * Session length: 45 minutes
@@ -100,8 +110,10 @@ Desired Timeline: October (5-16 or 19-30?), 2022
 	
 Team Availability | Time (EST)
 ------------------|--------------
-April 1     | TBD
-
+October      | TBD
+October      | TBD
+October      | TBD
+October      | TBD
 
 
 
@@ -118,6 +130,6 @@ April 1     | TBD
 
 ## Resources	
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md))
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md)
 - [Prod link](https://va.gov/health-care/apply/application/introduction)
 - [Research Findings]
