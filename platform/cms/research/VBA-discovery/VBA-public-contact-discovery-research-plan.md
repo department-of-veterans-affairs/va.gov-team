@@ -66,10 +66,10 @@ The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-1
 * Represent different services areas
 * Have been in the role for at least 6 months
   
-## Timeline (TBD, for discussion)
-* September 2022: finalize research plans and conversation guides
-* Mid-October: complete Public Contact staff research interviews
-* Late October: synthesize research and report findings  
+## Timeline
+* September 2022: finalize research plan and conversation guides
+* Late October: complete Public Contact staff research interviews
+* November: synthesize research and report findings  
   
 ## Research sessions
 Month Day – Month Day, 2022 (TBD)
