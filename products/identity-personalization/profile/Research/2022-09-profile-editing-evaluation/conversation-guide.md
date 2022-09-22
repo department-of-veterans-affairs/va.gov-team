@@ -6,8 +6,6 @@ Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-
-
 ### Starting the session
 
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -39,7 +37,6 @@ Today we're going to talk about making updates to the personal information VA ha
 
 - **This entire session should take about 35-40 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- I’ll be asking you to log into your VA.gov account today and share your screen, which means we’ll see some of your personal information. Is that OK with you? /If not, end the session./
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -56,15 +53,29 @@ Can you please start screen sharing with me? I can help you do that if you’re 
 
 *Once screen sharing has begun*
 
-I’d like for you to update your contact information on VA.gov. Do you know where to do that? If not, I can share a link. 
+I’d like you to go to a test website and log in. Do you prefer if I send you the link in the chat or tell it to you so you can type it in?
+*Link*
+- bit.ly/va092022 (goes to staging.va.gov/profile/contact-information)
+
+
 
 *Paste a link in the chat, or verbally tell the participant where to go. They’ll need to go through the sign-in process before they get to profile.*
 
-*Pause recording during sign in process*
+Use Login.gov to sign in
+Email address is vafeedback@gmail.com
+Password is vagovsite123
 
-- Go ahead and start updating your contact information. 
-If it’s correct, just change something small. We’ll correct it all at the end. *Have participant update at least 3 pieces of contact information. One must be an address.*
-- If needed, have them trigger address validation flow by intentionally entering data to make the address incorrect. An incorrect zip code will usually do the trick.
+*give participant 2FA code sent over text, or back-up codes (moderators have these)*
+****
+*Here’s how to use the back-up codes with a participant:*
+	* After they enter UN and PW, press “continue”
+	* On the screen where it asks “Enter Your Security Code”, have them click on the “choose another authentication method” under the bold “**Can’t use your phone?”**heading
+	* Choose “Backup codes” (3rd option)
+	* Enter one of the codes above
+****
+
+- Go ahead and updating the contact information you see here - you can start with any field except mailing address. You don’t need to use your real information, but you can if that’s easy for you.  We’ll remove all if it when we’re done.
+- If needed, have them trigger address validation flow by intentionally entering data to make the home address incorrect. An incorrect zip code will usually do the trick.
 - If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
 - Moderator: ask follow-up questions to understand the participants experience. For example:
 	* Clarify any hesitation spots
@@ -78,11 +89,11 @@ If it’s correct, just change something small. We’ll correct it all at the en
 - Note what changes they made so you can guide them to correcting them at the end of the session, if needed.
 - Did any alerts get triggered during their updates?  “e.g. Are you sure?”
 
-## Second Task: Reverse any unwanted changes in contact information - 5 minutes
-- Let’s go back to your contact information and make sure it is all actually accurate and the way you want it.
+## Second Task: Remove information added - 3 minutes
+- Let’s remove all the information you added now.
 
 ## Third Task: Update notification settings - 5 minutes
-Next, I’ll have you update your VA notification settings. If they’re already set the way you want them, go ahead and change them anyway, and then set them back the way you want them.
+Next, I’ll have you update the notification settings. If they’re already set the way you want them, go ahead and change them anyway, and then set them back the way you want them.
 
 ### Things to watch for:
 - Did the participant encounter any challenges in navigating to notification settings?
