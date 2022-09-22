@@ -9,7 +9,7 @@ shows a histogram and writes a CSV of the results to `out.csv`.
 
 You'll need to have Python 3 available, along with the `datadog_api_client`, `more_itertools`, `matplotlib`, `pandas` and `statistics` python packages installed.
 
-Edit the dates on lines 16-17 to adjust the date range you wish to query, and run the following command:
+Edit the dates on lines 17-18 to adjust the date range you wish to query, and run the following command:
 
 `DD_SITE="ddog-gov.com" DD_API_KEY="XXX" DD_APP_KEY="XXX" python3 too_early.py`
 
