@@ -14,7 +14,20 @@
 
 </details>
 
-## Monday, September 21, 2022
+## Monday, September 26, 2022
+* v1 status check
+* Sandbox data - James and Dave C had a discussion
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+* David S met with Josh and Joe - notes below 
+  * There is a lot of prep/change managment work around how we will need to prep editors
+  * Where do we expect an editor to look for answers/calif when they see a descrepancy
+  * To what extent do we refactor existing KBs?  
+* Supporting country code 
+   * Any update from Josh/James sync?
+*  Mental health phone numbers
+   * We didnt get to this last week  
+
+## Wed September 21, 2022
 ### Documenation / KB meeting - 
 * DS>> AI - Review problem summary/description doc from Josh
 * LH manages taxonomy ID differences by internally mapping
