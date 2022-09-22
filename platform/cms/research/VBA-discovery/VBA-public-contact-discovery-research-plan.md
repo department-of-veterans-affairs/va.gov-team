@@ -62,7 +62,7 @@ The results of this research will be used to develop recommendations for OCTO-DE
 
 ## Recruitment
 The CMS Facilities team will work with the OCTO-DE product owner to recruit 6-10 Public Contact staff for this research using the the following criteria:
-* Are at a Regional Office chosen for the MVP
+* Represent each of the Regional Offices chosen for the MVP
 * Represent different services areas
 * Have been in the role for at least 6 months
 
