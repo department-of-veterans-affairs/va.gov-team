@@ -8,41 +8,67 @@ Link to product outline: [CST Decision Letters](#)
 
 ## Contents
   
-- [Use Case A](#use-case-a) 
-- [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c) 
+- [Veteran has at least one Notification letter in e-folder, not enough to require pagination](#use-case-a) 
+- [Veteran has enough Notification letters to require pagination](#use-case-b)
+- [Veteran does not have any notification letters in their e-folder](#use-case-c) 
+- [Application end point fails](#use-case-d) 
+- [Unauthenticated user attempts to access Notification Letters listing page](#use-case-e) 
 
 </details>
 
-## Use Case A
+## Veteran has at least one Notification letter in e-folder, not enough to require pagination
 
 * **Description**
-  - lorem ipsum
+  - Veteran has as decision letter. No pagination required. Has VA.gov credentials and access.
+
+* **Link to designs**
+  - 
+
+* **Instructions to access in Staging (or Prod for Drupal)** 
+  - Test user? (yes/no): 
+  - Link to sensitive repo: 
+
+## Veteran has enough Notification letters to require pagination
+
+* **Description**
+  - Veteran has so many notification letters, we need to offer at least one more page of Notification Letters.
+
+* **Link to designs**
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - Test user? (yes/no): 
+  - Link to sensitive repo: 
+
+
+## Veteran does not have any notification letters in their e-folder
+
+* **Description**
+  - Veteran has a VA.gov account, is authenticated, and doesn't have a notification letter in their e-folder, but they somehow get the URL for notification letters
 
 * **Link to designs**
   - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - Test user? (yes/no): 
+  - Link to sensitive repo: 
 
-## Use Case B
-
+## Application end point fails
 * **Description**
-  - lorem ipsum
+  - For whatever reason, connect_VBMS fails to actually pull in the e-folder data
 
 * **Link to designs**
-  - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - Test user? (yes/no): 
+  - Link to sensitive repo: 
 
-## Use Case C
+## Unauthenticated user attempts to access Notification Letters listing page
 
 * **Description**
-  - lorem ipsum
+  - A user attempts to access the Notifications Letters page, but is not logged in.
 
 * **Link to designs**
-  - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - Test user? (yes/no): 
+  - Link to sensitive repo: 
