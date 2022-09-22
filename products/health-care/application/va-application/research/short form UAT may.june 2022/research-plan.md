@@ -13,6 +13,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ### OCTO Objectives
 > Goal 1: Veterans and their families can apply for all benefits online
+
 > Goal 6: Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
