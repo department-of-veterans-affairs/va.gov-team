@@ -196,6 +196,7 @@ _Why would your business want this to exist?_
 - There is also a link to update direct deposit information.
 - **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
 - Benefits- team 2 is responsible for debts and copays their Slack room is #benefits-team-2
+- BGS team is respoinsible for managaging payments
 - **Backend system**: BGS
 
 ### Apply for benefits
