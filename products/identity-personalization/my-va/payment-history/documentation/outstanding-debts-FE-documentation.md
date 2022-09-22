@@ -20,7 +20,7 @@ We show this section for every LOA3 user.
 
 (**$XX.XX**)
 
-[XX] outstanding debts
+[XX] overpayment debts
 
 Last updated [date]
 
@@ -30,7 +30,7 @@ Last updated [date]
 
 - Total debt amount is pulled from the [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
 
-- Number of outstanding debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
+- Number of overpayment debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
 - Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
 
@@ -69,13 +69,13 @@ Due by [date]
 
 ---
 
-### If a user has outstanding debt(s) AND copay bill(s)
+### If a user has overpayment debt(s) AND copay bill(s)
 
 - Show both cards and always show the debts card first, then the copays card below it.
 
 ---
 
-### If a user has no outstanding debts or copay bills
+### If a user has no overpayment debts or copay bills
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/05DF131D-F900-4770-A3D3-D3F4FAA23FD3)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A2F44369-D9B0-41F6-99FE-F41269378DA9)
@@ -87,7 +87,7 @@ Due by [date]
 
 #### Content
 
-You have no outstanding debts or copay bills.
+You have no overpayment debts or copay bills.
 
 ---
 
