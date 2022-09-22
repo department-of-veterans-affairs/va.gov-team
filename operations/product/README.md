@@ -7,7 +7,7 @@ The `product operations` directory contains standards, templates, and other reso
 
 ## Content
 
-- **[Terms & Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/operations/product/terms%20and%20definitions.md)** that articulates a shared understanding of an OCTO product.
+- **[Terms & Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/operations/product/terms%20and%20definitions.md)**  articulates our understanding of an OCTO product, feature, and initiative.
 
 ---
 
