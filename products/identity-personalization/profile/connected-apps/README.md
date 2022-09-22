@@ -52,8 +52,8 @@ The Lighthouse team keeps their documentation for this feature in Confluence. If
 ## Frontend
 
 ## Design and UX
-- Add Sketch files
-- Add use cases
+- [Sketch files](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+- Use cases
 
 ### Flow diagrams
-- Add a flow diagram
+- [View and disconnect apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
