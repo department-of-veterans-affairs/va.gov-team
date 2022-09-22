@@ -1,5 +1,54 @@
 # MEETING NOTES - TRAVEL REIMBURSEMENT
 
+## 9/22/2022 - MVP Meeting with Business & API Teams
+- Attendees
+    - Lori Pusey
+    - Chester Peyton
+    - Kristen McConnell
+    - Adrian Rollett
+    - Matthew Byers
+    - Ben Brasso
+    - Daryl Richardson
+    - Zach Park
+    - Brian Seek
+    - John Woolshlager
+    - Kanchana Suriyamoorthy
+    - Stephen Barrs
+    - Mark Dewey
+    - Ben Williams
+    - Gaurav Gupta
+    - Lesley Brown
+    - Justin Kramer
+    - ? Bowman
+
+- Agenda
+    - Demo of the MVP prototype
+        - Identified these Veteran needs during the research study
+            - Expect the VA to know if they are eligible or tell them where to go to find out
+            - Expect confirmation when claim is submitted
+            - Need to know what to expect after submitting a claim
+        - Will put logic in place to bypass travel questions if Veteran has multiple appointments on the same day (API doesn't support this scenario)    
+        - Want to test the MVP with a few clinics (maybe ones with same Travel Office) and evaluate Veteran use and impact to the Travel Office
+    - Discussions
+        - Darryl: Could we ask them the eligibility questions to bypass if they are not eligible?
+        - Darryl: This is going to tremendously cut down on paper claims
+        - Ben W.: 
+            - Super simple, all steps make sense
+            - Can look into the data to see which sites are doing a good job to decide who to test MVP with
+            - For those Veterans who are not using mobile check-in, is there plans for a staff-facing app that does the same thing?
+        - Justin:
+            - Love provide info for BTSSS
+            - Can we update the "need help" to tell people to contact the travel office for claim questions
+        - M Byers:
+            - Can anyone submit a claim who uses eCheck-in?
+            - Ben/Lori: yes, we would like to be able to know (via API) who is eligible and who is not
+        - Ben W:
+            - Can we put eCheck-in on a tablet or something in the waiting room?
+        
+    - Action Items
+        - UX look at "Need Help" section
+
+
 ## 9/14/2022
 - Attendees
     - ![image](https://user-images.githubusercontent.com/86678742/190229427-a32679f9-e2e6-482e-b56a-641633fa2971.png)
