@@ -144,7 +144,7 @@ For detailed protocol on each part of the study, see:
    
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [Research Plan for VA Mobile App IA & Navigation Evaluative: Usability Study (Low-fi) - (August-September 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-research-plan.md)
+    *  [Research Plan for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-research-plan.md) (August-September 2022)
   
 
 
