@@ -8,11 +8,11 @@ Link to feature outline: [CST Decision Letters]([#](https://github.com/departmen
 
 ## Contents
   
-- [Veteran has at least one Notification letter in e-folder, not enough to require pagination](#Veteran has at least one Notification letter in e-folder, not enough to require pagination) 
-- [Veteran has enough Notification letters to require pagination](#Veteran has enough Notification letters to require pagination)
-- [Veteran does not have any notification letters in their e-folder](#Veteran does not have any notification letters in their e-folder) 
-- [Application end point fails](#Application end point fails) 
-- [Unauthenticated user attempts to access Notification Letters listing page](#Unauthenticated user attempts to access Notification Letters listing page) 
+- [Veteran has at least one Notification letter in e-folder, not enough to require pagination] 
+- [Veteran has enough Notification letters to require pagination])
+- [Veteran does not have any notification letters in their e-folder]
+- [Application end point fails]
+- [Unauthenticated user attempts to access Notification Letters listing page]
 
 </details>
 
