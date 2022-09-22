@@ -132,7 +132,7 @@ The purpose of this work is to inform the information architecture, content and 
 
 For detailed protocol on each part of the study, see: 
 
-* **VA Mobile App Information Architecture Research - Phase I - IA:**
+* **VA Mobile App Information Architecture Research - Phase I - IA Research:**
     * [Research Plan for VA Mobile App IA Research: Open Card Sort - Part 1 of 2 - (October 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
     * [Research Plan for VA Mobile App IA Research: Closed Card Sort - Part 2 of 2 - (February/March 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
  
@@ -144,10 +144,14 @@ For detailed protocol on each part of the study, see:
    
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [* Research Plan for VA Mobile App IA Research: Usability Study - (August-September 2022]
+    *  [Research Plan for VA Mobile App IA Research: Usability Study - (August-September 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-research-plan.md)
 
 
 
 ## Team Roles
 
-* High Level Project plan: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) 
+* High Level UX plan: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+* User Research (all): Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre
+* Information Architecture, navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
+* High level navigation model wireframes: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+*
