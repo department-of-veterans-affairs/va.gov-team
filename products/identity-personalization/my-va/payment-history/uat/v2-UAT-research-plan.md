@@ -78,7 +78,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Two-Spirit      |            |
 |       ---      |     ---    |   
 |***RACE***      |            |             
-|*Various*       |            |
+|*Various*       |      6     |
 |Black           |      2     |       
 |White           |            |             
 |Latinx          |      2     |                      
