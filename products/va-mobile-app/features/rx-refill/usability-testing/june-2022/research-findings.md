@@ -338,8 +338,8 @@ This work supports the following objectives:
 
 ## Appendix
 
-* [Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/research-plan.md)
-* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/conversation-guide.md)
+* [Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-plan.md)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/conversation-guide.md)
 * [Figma Prototype](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=contain&starting-point-node-id=1226%3A18714)
-* [Research Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/research-synthesis.md)</span>
-* [Participant Demographics Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/participant-demographics-tracker.png)
+* [Research Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-synthesis.md)</span>
+* [Participant Demographics Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/participant-demographics-tracker.png)
