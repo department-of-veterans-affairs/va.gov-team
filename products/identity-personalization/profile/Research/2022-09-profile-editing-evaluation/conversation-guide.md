@@ -68,6 +68,7 @@ Password is vagovsite123
 *give participant 2FA code sent over text, or back-up codes (moderators have these)*
 ****
 *Here’s how to use the back-up codes with a participant:*
+
 	* After they enter UN and PW, press “continue”
 	* On the screen where it asks “Enter Your Security Code”, have them click on the “choose another authentication method” under the bold “**Can’t use your phone?”**heading
 	* Choose “Backup codes” (3rd option)
