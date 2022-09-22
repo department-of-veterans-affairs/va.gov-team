@@ -121,7 +121,7 @@ The purpose of this work is to inform the information architecture, content and 
   <tr>
    <td>Evaluate the usability of a series of tasks the participants will be asked to complete with our proposed IA and navigation model. 
    </td>
-   <td>Evaluative study: Usability
+   <td>Evaluative study: Usability (low-fi prototype)
    </td>
    <td>Phase III
    </td>
