@@ -65,7 +65,9 @@ The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-1
 * Are at a Regional Office chosen for the MVP
 * Represent different services areas
 * Have been in the role for at least 6 months
-  
+
+Note that recruitment cycles involving VA employees can take up an entire sprint, from initial contact to follow-ups and scheduling of observers.
+
 ## Timeline
 * September 2022: finalize research plan and conversation guides
 * Late October: complete Public Contact staff research interviews
