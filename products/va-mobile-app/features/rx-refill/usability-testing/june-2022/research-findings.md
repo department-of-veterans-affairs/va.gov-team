@@ -14,8 +14,7 @@
 
 ## Background
 
-Since the launch of the Flagship Mobile App, the Mobile App team has received numerous requests from Veterans to have a prescription refill feature in the flagship app. In an effort to meet that need, we are incorporating an MVP prescription refill experience into the app. We conducted user research on a design prototype of the MVP in order to ensure we are meeting users’ expectations and core needs. 
-
+In June of 2022, the Flagship Mobile App completed a round of usability testing on the first version of the pharmacy feature for the app. This was done in an effort to expand the number of transactions that can be accomplished in the app and meet Veteran needs. Output from the research resulted in significant changes to how pharmacy information is displayed. We conducted a second round of usability testing to ensure that the new changes were intuitive and still meet Veteran needs.
 
 
 ### Office
