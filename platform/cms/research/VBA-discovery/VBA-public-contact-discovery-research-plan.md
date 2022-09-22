@@ -83,9 +83,9 @@ Month Day – Month Day, 2022 (TBD)
 The CMS Facility research team will use MS Outlook to book time with the participants identified by the Product Manager.
 
 ## Team Roles
-* Moderator: Dave Pickett (dave.pickett@va.gov 
+* Moderator: Aslan French (aslan.french@va.gov)
 * Research guide writing and task development: Denise Eisner
 * Participant recruiting & screening: Dave Conlon (david.conlon@va.gov) and MVP facility business contact
 * Project point of contact: Dave Conlon
 * Observers: TBD
-* Note-takers: TBD
+* Note-takers: Blake Organ (blake.organ@va.gov)
