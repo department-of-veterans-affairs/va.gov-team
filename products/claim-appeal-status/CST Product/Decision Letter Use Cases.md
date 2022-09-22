@@ -4,15 +4,15 @@ _Track and maintain the various use cases that exist for a given product and is 
 
 _The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
 
-Link to product outline: [CST Decision Letters](#)
+Link to feature outline: [CST Decision Letters]([#](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Decision%20Letter%20Feature%20Brief.md))
 
 ## Contents
   
-- [Veteran has at least one Notification letter in e-folder, not enough to require pagination](#use-case-a) 
-- [Veteran has enough Notification letters to require pagination](#use-case-b)
-- [Veteran does not have any notification letters in their e-folder](#use-case-c) 
-- [Application end point fails](#use-case-d) 
-- [Unauthenticated user attempts to access Notification Letters listing page](#use-case-e) 
+- [Veteran has at least one Notification letter in e-folder, not enough to require pagination](#Veteran has at least one Notification letter in e-folder, not enough to require pagination) 
+- [Veteran has enough Notification letters to require pagination](#Veteran has enough Notification letters to require pagination)
+- [Veteran does not have any notification letters in their e-folder](#Veteran does not have any notification letters in their e-folder) 
+- [Application end point fails](#Application end point fails) 
+- [Unauthenticated user attempts to access Notification Letters listing page](#Unauthenticated user attempts to access Notification Letters listing page) 
 
 </details>
 
