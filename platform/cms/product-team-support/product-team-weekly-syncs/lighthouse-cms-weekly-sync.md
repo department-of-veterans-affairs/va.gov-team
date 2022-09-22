@@ -15,18 +15,18 @@
 </details>
 
 ## Monday, September 21, 2022
-## Documenation / KB meeting - 
+### Documenation / KB meeting - 
 * DS>> AI - Review problem summary/description doc from Josh
 * LH manages taxonomy ID differences by internally mapping
-* Current  mapping, Internal LH Service ID -> CMS display name 
-                                          -> ATC dispaly name 
- * If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2, Would requrie creating a new ID and mapping to this new broken out service 
+* Current  mapping, Internal LH Service ID maps to  CMS display name and can map another value to ATC display name 
+ * For instance, If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2, Would requrie creating a new ID and mapping to this new broken out service 
  * For example Mental Health
    * ATC has 3 services mapped to single Mental Health ID - LH is doing the mapping arrangement 
    * That mapping needs to be coordinated across all sources: CMS, ATC
  * David shared links of many current KBs in the meeting agenda
- * From an editor's perspective, if they saw something odd, or believed there was a mistake, with service info, where would they look (would they search the KB?)
- * Even in advance of that, how to educate VAMC editors in advance of v1
+ * From an editor's perspective, if they saw something odd or believed there was a mistake with service info, where would they look (would they search the KB?)
+ * Even in advance of that, how to educate VAMC editors to prepare for v1
+ * 
                         
 
 ## Monday, September 19, 2022
