@@ -30,7 +30,7 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
 | [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | . |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
-| [Q&A - single](#qa---single) | [VA site search (using search.gov)](#va-site-search-using-searchgov) |  . |
+| [Q&A - single](#qa---single) | [On-site search (using search.gov)](#on-site-search-using-searchgov) |  . |
 | [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
 | [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
 
@@ -547,6 +547,25 @@ The VA is comprised of multiple administrative offices, e.g. VHA, VEO, NCA, VBA,
 * This project was launched in ~Feb 2022, but is blocked by Salesforce &lt;>Lighthouse integration. 
 * Epic: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587) 
 
+### On-site search (using search.gov)
+
+**What is:**
+
+VA.gov uses search.gov as its engine. Public Websites owns that integration, and display of search results within the site. 
+
+**Example content:**
+* URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
+* Example issue: 
+
+**More info:**
+* A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
+* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
+* Design system: [Search input](https://design.va.gov/components/search-input)
+* Search.gov documentation re: re-indexing: https://search.gov/blog/searchgov-faqs-indexing.html#q-how-often-will-you-update-my-index
+* 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
+* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
+* [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
+
 
 ### Non-facility Redirects
 
@@ -626,25 +645,6 @@ The homepage includes links to key traffic areas of the site. These links are re
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 
 * 2021 Top Tasks research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page) 
 * [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
-
-
-### VA site search (using search.gov)
-
-**What is:**
-
-VA.gov uses search.gov as its engine. Public Websites owns that integration, and display of search results within the site. 
-
-**Example content:**
-* URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
-* Example issue: 
-
-**More info:**
-* A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
-* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
-* Design system: [Search input](https://design.va.gov/components/search-input)
-* 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
-* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
-* [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
 
 
 ### Veterans Crisis Line modal
