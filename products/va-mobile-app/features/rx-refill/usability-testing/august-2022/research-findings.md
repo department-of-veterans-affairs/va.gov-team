@@ -2,14 +2,14 @@
 
 
 ## Jump Links
-* [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#background)
-* [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#research-goals)
-* [Hypothesis & Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#hypothesis--conclusions)
-* [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#findings)
-* [Prototype Feedback (Detailed Findings)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#prototype-feedback-detailed-findings)
-* [Recommendations & Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#participant-demographics)
-* [Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#participant-demographics)
-* [OCTO Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-findings.md#octo-objectives)
+* [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#background)
+* [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#research-goals)
+* [Hypothesis & Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#hypothesis--conclusions)
+* [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#findings)
+* [Prototype Feedback (Detailed Findings)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#prototype-feedback-detailed-findings)
+* [Recommendations & Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#participant-demographics)
+* [Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#participant-demographics)
+* [OCTO Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#octo-objectives)
 
 
 ## Background
