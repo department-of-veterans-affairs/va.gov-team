@@ -10,16 +10,16 @@
 - We'll need to use another focus style method other than the double box shadow for:
   - wrapping text links 
   - And some other possible use cases:
-    - Checkbox component
-    - Combo box (focus within selection items)
+    - [Checkbox component](https://designsystem.digital.gov/components/checkbox/)
+    - [Combo box (focus within selection items)](https://designsystem.digital.gov/components/combo-box/)
     - E.g. Search
-    - Radio buttons
+    - [Radio buttons](https://designsystem.digital.gov/components/radio-buttons/)
 - We're designing for the whole site, not just the design system components.
 
 ## Requirements
 
-- We're working from using the double box shadow as a starting point.
--  We'll need to select colors from the USWDS Design System, V3.
+- We're working from using the [double box shadow](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/654) as a starting point.
+-  We'll need to select [colors from the USWDS Design System, V3](https://designsystem.digital.gov/design-tokens/color/system-tokens/).
 - We need to consider the following states in combination with the focus state:
   - Resting
   - Hover
@@ -29,5 +29,5 @@
 
 ## Supporting documentation
 
-Use double box-shadow for focus styling #654
-A11y maturity plan [DRAFT] Double box-shadow focus styling
+[Use double box-shadow for focus styling #654](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/654)
+A11y maturity plan [DRAFT] Double box-shadow focus styling (in progress, coming soon)
