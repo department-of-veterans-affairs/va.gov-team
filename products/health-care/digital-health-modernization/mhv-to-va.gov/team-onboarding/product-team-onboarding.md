@@ -60,7 +60,6 @@ There are over 400 channels in the DSVA workspace, so take advantage of the chan
 ## VA Platform Website
 The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as recommended Slack channels, processes, documentation, and instructions for getting access to the tools and systems you will need.
 
-
 ### Platform Orientation
 All team members working on a VA.gov project must complete an orientation request and should attend general and practice-specific orientation sessions. Orientation session descriptions will recommend team members for which the session is pertinent.
 
@@ -72,7 +71,7 @@ All team members working on a VA.gov project must complete an orientation reques
 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
-- Once you have access to GitHub, connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
+- Once you have access to GitHub, create a [ZenHub account](https://www.zenhub.com/) and then connect your GitHub account to it. (https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
 
 ##$ The VA.gov Platform
 - [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
