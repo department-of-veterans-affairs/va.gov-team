@@ -4,7 +4,7 @@
 
 [Prototype Mobile Link](link)
 
-[Mobile testing guidance](link)
+[Mobile testing guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
 
 [Mural board for notes](link)
 
