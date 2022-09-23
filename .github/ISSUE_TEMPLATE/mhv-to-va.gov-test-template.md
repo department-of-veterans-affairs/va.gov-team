@@ -8,15 +8,15 @@ assignees: ''
 ---
 
 ## 🌟 How to configure this issue
-- [ ] Confirm the issue is being created on the relevant board (Secure Messaging, Medical Records, Pharmacy, etc.)
+- [ ] Confirm this issue is being added to the correct team/product board (Core or MHV; Secure Messaging, Medical Records, Pharmacy, etc.)
 - [ ] Fill in User Story
-- [ ] Link to Related Documentation if appropriate, and remember to update if a file name/location changes before ticket is closed
+- [ ] Link to any Related Documentation if appropriate, and remember to update links if they change before ticket is closed
 - [ ] Fill in Description
 - [ ] Add/remove Tasks as needed
 - [ ] Add/remove Acceptance Criteria as needed
 - [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
 - [ ] If work is in progress, change Pipeline to In Progress ➡️
-- [ ] Add any necessary labels not automatically included ➡️
+- [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label ➡️
 - [ ] If work is in progress, add Assignee(s) ➡️
 - [ ] If Sprint is known, select it at the right ➡️
 - [ ] If estimate is known, add an estimate ➡️
