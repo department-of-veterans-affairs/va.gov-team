@@ -8,7 +8,7 @@ assignees: 'MarciMcGuire'
 ---
 
 ## :star2: User Story
-- As a [role], I want to [what].
+- As a [role], I want to [what] so that [desired outcome].
 
 ## :star2: Related Documentation
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
