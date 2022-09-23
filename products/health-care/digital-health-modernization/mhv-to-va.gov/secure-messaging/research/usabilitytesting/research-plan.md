@@ -76,7 +76,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 We will schedule a total of 24 Veterans for an expected completion rate of 18-20 usability tests. 
 
 **Primary criteria (must-haves)**
-- All participants must use or be eligible for VA Healthcare
+- All must have been to a VA health care facility for a medical appointment in the last 12 months
 - At least 12 participants must regularly use Secure Messaging
 - At least 12 participants must not use MyHealtheVet
 - At least 12 participants who are mobile users
