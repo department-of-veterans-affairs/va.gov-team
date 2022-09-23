@@ -3,7 +3,7 @@ name: MHV to VA.gov TEST TEMPLATE
 about: For MHV to VA.gov Research Assets Task
 title: "[Research] MyHealth: APP NAME: TASK NAME"
 labels: my-health, ux, research
-assignees: ''
+assignees: 'MarciMcGuire'
 
 ---
 
