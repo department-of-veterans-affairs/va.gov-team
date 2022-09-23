@@ -61,7 +61,7 @@ We will conduct moderated usability testing interviews with 9 users, in which we
 Data collection will be remote. We will use Zoom. 
 
 ### Research materials
-Conversation guide [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/usabilitytesting/conversation-guide.md]
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/usabilitytesting/conversation-guide.md)
 
 Prototype to be tested (to be linked)
 
