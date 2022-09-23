@@ -2,7 +2,7 @@
 name: MHV to VA.gov Conversation Guide Task
 about: For MHV to VA.gov Conversation Guide Task
 title: "[Research] Create Conversation Guide"
-labels: HCE-Checkin, ux, research, myhealth
+labels: HCE-Checkin, ux, research, my-health
 assignees: ''
 
 ---
