@@ -20,7 +20,7 @@ assignees: ''
 - [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label :arrow_right: 
 - [ ] If work is in progress, add Assignee(s) :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
-- [ ] If estimate is known, add an estimate :arrow_right: 
+- [ ] If work has been sized, add story points :arrow_right: 
 - [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
 
 ---
