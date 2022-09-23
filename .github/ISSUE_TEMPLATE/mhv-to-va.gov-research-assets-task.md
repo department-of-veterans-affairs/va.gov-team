@@ -10,7 +10,7 @@ assignees: ''
 ## 🌟 How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with HCE-Checkin, ux, research
+- [ ] Labeled with my-health, ux, research
 - [ ] Prepend [Research] to the beginning of the ticket title
 - [ ] Fill in User Stories
 - [ ] Fill in Description
