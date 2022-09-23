@@ -8,15 +8,22 @@ assignees: ''
 ---
 
 ## 🌟 How to configure this issue
+- [ ] Confirm the issue is being created on the correct board
 
-- [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with HCE-Checkin, ux, research
-- [ ] Prepend [Research] to the beginning of the ticket title
-- [ ] Fill in User Stories
+- [ ] Fill in User Story
 - [ ] Fill in Description
-- [ ] Fill in Tasks
-- [ ] Fill in Acceptance Criteria
+- [ ] Add/remove Tasks as needed
+- [ ] Add/remove Acceptance Criteria as needed
+- [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
+- [ ] If work is in progress, change Pipeline to In Progress ➡️
+- [ ] Add any necessary labels not automatically included ➡️
+- [ ] If work is in progress, add Assignee(s) ➡️
+- [ ] If Sprint is known, select it at the right ➡️
+- [ ] If estimate is known, add an estimate ➡️
+- [ ] Attach to an Epic (what body of work is this a part of?) ➡️
+
 ---
+
 
 ## :star2: User Story
 - As a [role], I want to [what].
@@ -36,3 +43,4 @@ assignees: ''
 - [ ] Publish assets to final location (UXPin, Mural, etc.)
 - [ ] Review assets with the team (particularly product)
 - [ ] %Add any additional Acceptance Criteria%
+
