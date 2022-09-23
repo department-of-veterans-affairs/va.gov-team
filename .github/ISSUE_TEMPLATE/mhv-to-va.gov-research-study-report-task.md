@@ -1,29 +1,29 @@
 ---
 name: MHV to VA.gov Research Study Report Task
 about: MHV to VA.gov Research Study Report Tasking
-title: "[Research] Create Research Study Report"
-labels: HCE-Checkin, ux, research, my-health
+title: "[Research] MyHealth: APP NAME: TASK DESCRIPTION"
+labels: ux, research, my-health
 assignees: ''
 
 ---
 
-## Related Documentation
+## 🌟 Related Documentation
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 - [Research plan and Conversation Guide]()
 - Synthesis for this report completed in [ticket]().
 
-## Description
+## 🌟 Description
 A research report detailing findings and design recommendations from [research study name].
 
-## Reference Materials
+## 🌟 Reference Materials
 - Platform [research process](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Overview.1958740385.html) and [research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html)
 - [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/synthesis)
 
-## Tasks
+## 🌟 Tasks
 - [ ] Create research reports/readout documents of findings. 2 versions needed (Presentation and GitHUB Markup). Use this [report template](https://dsva.slack.com/archives/C0NGDDXME/p1629381608108300) and [GitHub Markup template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
 - [ ] Conduct the [inclusive design analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/risk-documentation.md)
 
-## Acceptance Criteria
+## :star2: Acceptance Criteria
 - [ ] Post research report to GitHub as presentation and markup document
 - [ ] Update the [research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/wiki/Guidelines).
 - [ ] Create necessary issues/tickets that address findings in coordination with Corey and Julie
