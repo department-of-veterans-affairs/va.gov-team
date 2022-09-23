@@ -30,19 +30,19 @@ This research will inform release decisions, as well as future research and desi
     1. How do task success rates compare to those in the first round of usability testing?
     2. How do task success rates compare to those in the baseline wayfinding study last year?
 1. Which parts of the home page do participants use to complete tasks? 
-    1. Featured VA news at top of page (PACT Act article)
+    1. Benefit promo at top of page (PACT Act article)
     2. "Create account" button
     4. The new search box 
     5. "Other search tools" 
     3. "Popular on VA.gov"
-    4. VA News content in the middle of the page (PathFinder article)
+    4. VA News promo (PathFinder article)
     6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
 1. Do participants know when to use the "Sign in" *vs.* "Create account" buttons?
 1. Do participants scroll all the way down the page to the footer? Do they stop at the row of photos?
 1. Is there anything that participants find unclear or confusing on the home page, especially when using a smartphone or a screen reader? 
-1. What are participants' impressions of the two new content sections (with PACT Act and Pathfinder news articles)?
+1. What are participants' impressions of the two new promo sections (with PACT Act and Pathfinder news articles)?
     1. Do they interpret them as news?
     1. What do they think of the "More VA News" link?
     1. How would they get more details on these topics?
@@ -55,7 +55,7 @@ In this research, we are primarily interested in the following areas of the home
 - "Other search tools"
 - "Popular on VA.gov"
 - Benefit hubs
-- VA News featured at top and lower down on page
+- Both promos
 
 ### Hypotheses
 1. The revised home page design will result in improved task success rates as compared to the first round of usability testing, especially including the tasks below.
@@ -71,8 +71,8 @@ In this research, we are primarily interested in the following areas of the home
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
 1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-1. Participants understand that the two VA news content blocks are news.
-2. Participants will be interested in the VA news content and know how to learn more about them.
+1. Participants understand that the two promos are news.
+2. Participants will be interested in the two promos and know how to learn more about them.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **tasks as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server, including some that didn't go well in the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md).
