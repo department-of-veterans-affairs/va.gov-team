@@ -6,7 +6,7 @@
 
 We did a lot, including:
 
-- Launched bad address indicator functionality
+- Launched bad address indicator functionality (Started Q3; Completed Q4)
 - Re-integrate military information through VA Profile
 - Launched a modal that asks if you want to update your mailing address when you update your home address
 - Restricted character set for address fields to certain alphabetic and alphanumeric characters
@@ -18,11 +18,20 @@ We did a lot, including:
 
 ### Accessibility updates
 
-**Still need to define specifics, as some of these might be larger projects**
+- [Accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md)
+- [Accessibility epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46756)
 
-We will tackle the accessibility issues that have been piling up over the last couple of years, and set up the profile for further growth in a way that is accessibility-friendly.
+We will tackle accessibility issues that have been piling up over the last couple of years, and set up the profile for further growth in an accessible way. In addition to one-off tickets that are ready for us to implement, there are a number of larger/more complex problems that require research and discovery, including:
 
-**Anticipated launch**: TBD
+-  Whether we should move to a "one thing per page" model for editing
+-  How to make address validation more accessible
+-  What we should do about the nametag, and how these changes might affect My VA
+-  Improving heading navigation in account settings
+-  Improving how we handle in-line error messages
+
+Because of the number of larger/more complex issues there are to investigate, this is a potentially substantial amount of work depending on what we decide to pursue, and may even take us into the new year.
+
+**Anticipated launch**: Launches will be ongoing as items are updated
 
 ### Notifications preferences updates
 
@@ -33,6 +42,11 @@ As we anticipate eventually needing to add the 1095B preference and the MyHealth
 
 **Anticipated launch**: TBD
 
-### Potential ideas
+## Wait, that's it?
 
-- Holistic/overview research on the profile, what works well, and what is missing
+Given that a project like the 1095B work is on hold indefinitely, and that we know there are other substantial projects coming down the pipeline but don't know when (eg. MHV notification preference or added pronouns and sexual orientation to the profile), our team is in a position we haven't been in in a long time. We finally aren't cranking on a million things (thank you/sorry about that) and have some breathing room! And that feels great, but also a little bit scary.
+
+**Should we be worried there isn't enough work to do?**
+
+No, I don't think we should. Depending on where we take some of the accessibility work, there's room for potentially substantial updates to the profile as a result. There's also likely work in the backlog we can catch up on or revisit. In a worst case scenario, people might spot for My VA or other teams while profile work is slow, but I have little concern that anyone is going to be totally benched in the coming months.
+
