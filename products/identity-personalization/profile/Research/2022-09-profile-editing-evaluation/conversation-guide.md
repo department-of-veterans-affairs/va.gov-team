@@ -69,8 +69,12 @@ Password is vagovsite123
 	* Choose “Backup codes” (3rd option)
 	* Enter one of the codes above
 ****
+**If staging doesn’t work:**
+- Do you have a va.gov account of your own you’d be comfortable logging in with? We will see and change your contact information but we can revert it back to normal when we’re done.
+- If no, end the session
+****
 
-- Go ahead and updating the contact information you see here - you can start with any field except mailing address. You don’t need to use your real information, but you can if that’s easy for you.  We’ll remove all if it when we’re done.
+- Go ahead and updating the contact information you see here - you can start with any field **except mailing address.** You don’t need to use your real information, but you can if that’s easy for you.  We’ll remove all if it when we’re done.
 - If needed, have them trigger address validation flow by intentionally entering data to make the home address incorrect. An incorrect zip code will usually do the trick.
 - If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
 - Moderator: ask follow-up questions to understand the participants experience. For example:
@@ -100,17 +104,18 @@ Next, I’ll have you update the notification settings. If they’re already set
 	* How does it align with expectations?
 
 ## Fourth Task: Review prototype - 5 minutes
-Next I’ll have you log out of that testing site. Click on “Sam” in the corner, and then hit sign out.
+- Next I’ll have you log out of that testing site. Click on “Sam” in the corner, and then hit sign out.
 
-Now I’d like to get your feedback on a prototype. It’s very basic but hopefully it will give you an idea of another approach to editing contact information. Since it’s a prototype, it won’t work exactly the way you might expect.
+- Now I’d like to get your feedback on a prototype. It’s very basic but hopefully it will give you an idea of another approach to editing contact information. Since it’s a prototype, it won’t work exactly the way you might expect.
 
 Go to bit.ly/vap917
 
 - See how you would edit your mailing address and home phone number.
 - What are your thoughts on this approach?
+-  What are some of the differences you noticed between the prototype and the website?
+- *If needed:* Did you notice the prototype takes you to a new page for each step vs on the website it was all in one page?
 
 ## Post-Task Interview - 5 minutes
-
 - Talk to me about your overall experience editing contact information
 - What was challenging about that?
 - When have you needed to update your contact info on VA.gov?
