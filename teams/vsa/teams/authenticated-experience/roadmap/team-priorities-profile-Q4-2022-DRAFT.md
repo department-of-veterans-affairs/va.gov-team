@@ -50,7 +50,7 @@ Given that a project like the 1095B work is on hold indefinitely, and that we kn
 
 **Should we be worried there isn't enough work to do?**
 
-No, I don't think we should. Depending on where we take the accessibility work, we could have some larger efforts on our hands. There's also likely work in the backlog we can catch up on or revisit. In a worst case scenario, people might spot for My VA or other teams while profile work is slow, but I have little concern that anyone is going to be totally benched in the coming months.
+No, I don't think we should. Depending on where we take the accessibility work, we could have some larger efforts on our hands. There's also likely work in the backlog we can catch up on or revisit. In a worst case scenario, people might spot for My VA or other teams while profile work is slow, but I have little concern that anyone is going to be totally bored in the coming months.
 
 **What else could we work on?**
 
