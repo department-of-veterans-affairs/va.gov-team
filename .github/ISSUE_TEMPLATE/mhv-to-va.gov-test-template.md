@@ -8,11 +8,11 @@ assignees: 'MarciMcGuire'
 ---
 
 ## 🌟 How to configure this issue
-- [ ] Confirm this issue is being added to the correct team (ex. Core or MHV) and Product (ex. Secure Messaging)
+- [ ] Confirm this issue is being added to the correct team (ex. Core or MHV) and Product (ex. Secure Messaging) board
 - [ ] Add App Name (ex. Secure Messaging) and Task Name to Issue Title ⬆️
-- [ ] Fill in User Story
-- [ ] Link to any Related Documentation if appropriate, and remember to update if they change
-- [ ] Fill in Description
+- [ ] Fill in User Story ⬇️
+- [ ] Link to any Related Documentation if appropriate, and remember to update if they change ⬇️
+- [ ] Fill in Description ⬇️
 - [ ] Add/remove Tasks as needed
 - [ ] Add/remove Acceptance Criteria as needed
 - [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
