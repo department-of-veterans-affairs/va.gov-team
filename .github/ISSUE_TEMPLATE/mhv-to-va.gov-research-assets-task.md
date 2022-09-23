@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Research Assets Task
 about: For MHV to VA.gov Research Assets Task
-title: "[Research]"
+title: "[Research] MyHealth: APP NAME: TASK NAME"
 labels: HCE-Checkin, ux, research, my-health
 assignees: ''
 
