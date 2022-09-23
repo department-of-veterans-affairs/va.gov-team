@@ -34,17 +34,19 @@ _Organizing messages:_
 
 _Replying to a message:_
 
-5. Do Veterans understand how to attach a file to a message?
+5. How do users reply to a message in the updated prototype? Do users understand the additional reply functionality? 
+
+6. Do Veterans understand how to attach a file to a message?
 
 _Patient safety:_
 
-6. Do Veterans notice and understand the information about who to call in case of an emergency and how quickly to expect a response from their providers?
+7. Do Veterans notice and understand the information about who to call in case of an emergency and how quickly to expect a response from their providers?
 
-7. Do they notice and understand this information at the same rate as the previous version (with banner)?
+8. Do they notice and understand this information at the same rate as the previous version (with banner)?
 
 _Untested components:_ 
 
-8. Do users understand how to use the following non-validated components: 
+9. Do users understand how to use the following non-validated components: 
 	- Tertiary buttons
 	- Toolbar
 	- Attach and Remove buttons
