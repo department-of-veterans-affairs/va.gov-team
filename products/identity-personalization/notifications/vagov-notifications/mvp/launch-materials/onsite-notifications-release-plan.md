@@ -2,7 +2,7 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** _date tk_
+- **Desired date range or test duration:** week of 9/12/22
 - **UAT Go/No go:** 9/14/22
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
    - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
