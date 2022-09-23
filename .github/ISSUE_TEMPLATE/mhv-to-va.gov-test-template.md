@@ -9,18 +9,19 @@ assignees: ''
 
 ## 🌟 How to configure this issue
 - [ ] Confirm this issue is being added to the correct team/product board (Core or MHV; Secure Messaging, Medical Records, Pharmacy, etc.)
+- [ ] Add App Name (ex. Secure Messaging) and Task Name to Issue Title ⬆️
 - [ ] Fill in User Story
 - [ ] Link to any Related Documentation if appropriate, and remember to update links if they change before ticket is closed
 - [ ] Fill in Description
 - [ ] Add/remove Tasks as needed
 - [ ] Add/remove Acceptance Criteria as needed
 - [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
-- [ ] If work is in progress, change Pipeline to In Progress ➡️
-- [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label ➡️
-- [ ] If work is in progress, add Assignee(s) ➡️
-- [ ] If Sprint is known, select it at the right ➡️
-- [ ] If estimate is known, add an estimate ➡️
-- [ ] Attach to an Epic (what body of work is this a part of?) ➡️
+- [ ] If work is in progress, change Pipeline to In Progress :arrow_right: 
+- [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label :arrow_right: 
+- [ ] If work is in progress, add Assignee(s) :arrow_right: 
+- [ ] If Sprint is known, select it at the right :arrow_right: 
+- [ ] If estimate is known, add an estimate :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
 
 ---
 
