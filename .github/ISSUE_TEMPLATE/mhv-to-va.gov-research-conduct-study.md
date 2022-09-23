@@ -1,16 +1,16 @@
 ---
 name: MHV to VA.gov Research Conduct Study Task
 about: For MHV to VA.gov to Conduct a Research Study
-title: "[Research]Conduct Research Study"
-labels: HCE-Checkin, ux, research
+title: [Research] MyHealth: APP NAME: TASK NAME
+labels: my-health, ux, research
 assignees: ''
 
 ---
 
-## Problem Statement
+## :star2: Problem Statement
 We would like to interview .... regarding .....
 
-## Acceptance Criteria
+## :star2: Acceptance Criteria
 - [ ] Identify person to lead the study
 - [ ] Identify at least one note taker
 - [ ] Perform Interviews
