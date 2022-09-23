@@ -50,3 +50,14 @@ Given that a project like the 1095B work is on hold indefinitely, and that we kn
 
 No, I don't think we should. Depending on where we take some of the accessibility work, there's room for potentially substantial updates to the profile as a result. There's also likely work in the backlog we can catch up on or revisit. In a worst case scenario, people might spot for My VA or other teams while profile work is slow, but I have little concern that anyone is going to be totally benched in the coming months.
 
+**What else could we work on?**
+
+Given that we don't currently have teams coming to us with immediate needs, we have the luxury of using this time to answer questions we've had for a long time. We're starting with the accessibility work, but depending on how much or little that yields (and I think that'll yield a lot), there are other questions that we should feel free to do some discovery on and see where that discovery leads us:
+
+- Where does the profile meet user expectations? Where are we missing the mark?
+- Should we had a section on dependents?
+- Does our military information section meet user needs and expectations? Where do we miss the mark?
+
+**I have questions/concerns**
+
+Let's discuss!
