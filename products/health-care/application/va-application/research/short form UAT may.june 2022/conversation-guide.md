@@ -4,6 +4,12 @@
 - [ ] Review whether or not the participant roster states the participant has a diability rating and what percentage it is.
 - [ ] Start a thread in #feedback-backchannel
 
+### Starting the session
+In the Attendees section, make sure everyone except the participant is on mute.
+In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+Check your [screensharing setup] and share permissions for participants.
+When the participant is ready, begin the session with the following intro*
+
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
