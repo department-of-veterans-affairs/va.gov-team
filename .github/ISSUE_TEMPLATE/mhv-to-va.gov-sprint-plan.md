@@ -1,19 +1,19 @@
 ---
 name: MHV to VA.gov Sprint Plan
 about: MHV to VA.gov Sprint Plan template
-title: "[SPRINT PLAN] MHV to VA.gov Sprint XX"
+title: "SPRINT XX - CORE TEAM"
 labels: my-health
 assignees: 'MarciMcGuire'
 
 ---
-# SPRINT XX PLAN
-
 ## 🎯 SPRINT OBJECTIVES
 - [ ] Objective
 
 <hr>
 
-## :incoming_envelope: SECURE MESSAGING
+## 🚀 ROLLOUT PLANNING
+
+### :chart_with_upwards_trend: Product
 - [ ] Issue
 
 ### 🔎 Research
@@ -25,7 +25,10 @@ assignees: 'MarciMcGuire'
 ### ⚙️ Engineering
 - [ ] Issue
 
+
 <hr>
+
+## :incoming_envelope: SECURE MESSAGING
 
 ### :chart_with_upwards_trend: Product
 - [ ] Issue
@@ -41,8 +44,9 @@ assignees: 'MarciMcGuire'
 
 <hr>
 
-
 ## 	:stethoscope: MEDICAL RECORDS
+
+### :chart_with_upwards_trend: Product
 - [ ] Issue
 
 ### 🔎 Research
@@ -56,6 +60,21 @@ assignees: 'MarciMcGuire'
 
 <hr>
 
+## 	:stethoscope: PHARMACY
+
+### :chart_with_upwards_trend: Product
+- [ ] Issue
+
+### 🔎 Research
+- [ ] Issue
+
+### 🪄 Design
+- [ ] Issue
+
+### ⚙️ Engineering
+- [ ] Issue
+
+<hr>
 
 ## :speaking_head: DISCUSSION TOPICS 
 - [ ] Topic
