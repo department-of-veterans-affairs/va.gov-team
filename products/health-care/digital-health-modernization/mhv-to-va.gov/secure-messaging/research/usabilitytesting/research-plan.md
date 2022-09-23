@@ -53,7 +53,6 @@ _Untested components:_
 
 ### Hypothesis
 With the updated prototype, Veterans will understand how to find, organize, and reply to messages from their healthcare providers, and will not be put at additional risk of adverse outcomes based on the updated patient safety content. 
-- NEED TO FLESH THIS OUT MORE AFTER HAVE UPDATED USER FLOWS; ALIGN W/ CONVO GUIDE.
 
 ## Method
 We will conduct moderated usability testing interviews with 9 users, in which we will ask users to navigate the prototype, observe their behavior, and ask follow-up prompts as needed. 
@@ -62,12 +61,11 @@ We will conduct moderated usability testing interviews with 9 users, in which we
 Data collection will be remote. We will use Zoom. 
 
 ### Research materials
-Conversation guide [link]
+Conversation guide [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/usabilitytesting/conversation-guide.md]
 
-Prototype to be tested [link]
+Prototype to be tested (to be linked)
 
 ## Recruitment
-TBD - need to review previous study to ID gaps, if any
 
 ### Recruitment approach
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
