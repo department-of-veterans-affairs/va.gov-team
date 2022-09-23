@@ -9,7 +9,7 @@ If the user is not LOA3, the only thing they can access in profile is the Accoun
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- [View and complete tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/complete-tasks.md) User can add 2-factor authentication, view terms and conditions, or find a link to their sign in service (eg. ID.me) to change their email address.
+- [User views and completes tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/complete-tasks.md) 
 
 ## Edge cases
 
