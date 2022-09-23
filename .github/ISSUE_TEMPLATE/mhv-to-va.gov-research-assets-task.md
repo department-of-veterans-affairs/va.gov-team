@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Research Assets Task
 about: For MHV to VA.gov Research Assets Task
-title: [Research] MyHealth: APP NAME: TASK NAME
+title: "[Research] MyHealth: APP NAME: TASK NAME"
 labels: ux, research, my-health
 assignees: ''
 
