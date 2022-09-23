@@ -46,7 +46,7 @@ As we anticipate eventually needing to add the 1095B preference and the MyHealth
 
 ## Wait, that's it?
 
-Given that a project like the 1095B work is on hold indefinitely, and that we know there are other substantial projects coming down the pipeline but don't know when (eg. MHV notification preference or added pronouns and sexual orientation to the profile), our team is in a position we haven't been in in a long time. We finally aren't cranking on a million things (thank you/sorry about that) and have some breathing room! And that feels great, but also a little bit scary.
+Given that a project like the 1095B work is on hold indefinitely, and that we know there are other substantial projects coming down the pipeline but don't know when (eg. MHV notification preference, or adding pronouns and sexual orientation to the profile), our team is in a position we haven't been in in a long time. We finally aren't cranking on a million things (thank you/sorry about that) and have some breathing room! And that feels great, but also a little bit scary.
 
 **Should we be worried there isn't enough work to do?**
 
