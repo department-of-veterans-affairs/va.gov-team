@@ -36,16 +36,20 @@ assignees: 'MarciMcGuire'
 - What will the team get at the end if this ticket? All assets (prototypes, designs, spreadsheet for observer notes) needed to run the user research sessions will be completed by the end of this ticket.
 
 ## :star2: Tasks
-- [ ] Move to in progress when starting work
-- [ ] Add assets to the product folder
+- [ ] Move issue to In Progress when beginning work
+- [ ] Add assets to the product documentation
 - [ ] Update product documentation related to this work
+- [ ] Include links to assets in a comment below
 - [ ] Log relevant decisions in decision log
 - [ ] Move to Review/QA when ready for review
-- [ ] Comment and tag team reviewer(s) once work is ready to be reviewed
-- [ ] Move to Closed once tested/reviewed and accepted by PO
+- [ ] Comment and tag team reviewer(s) in Slack once work is ready to be reviewed, include links to work
+- [ ] Move issue to Closed once tested/reviewed and accepted by PO
 
 ## :star2: Acceptance Criteria
+- [ ] Do the thing
+- [ ] Document the thing or update documentation
 - [ ] Publish assets to final location (UXPin, Mural, etc.)
 - [ ] Review assets with the team (particularly product)
+- [ ] Key decisions are logged
 - [ ] ** Add any additional Acceptance Criteria **
 
