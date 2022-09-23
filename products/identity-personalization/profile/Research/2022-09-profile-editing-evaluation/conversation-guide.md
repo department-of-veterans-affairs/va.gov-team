@@ -1,13 +1,11 @@
 # Conversation Guide for Profile Editing Evaluation, September 2022
 
 ## Moderator logistics
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 ### Starting the session
-
 - In the Attendees section, make sure everyone except the participant is on mute.
 - Keep observers in the waiting room
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
@@ -55,20 +53,17 @@ Can you please start screen sharing with me? I can help you do that if you’re 
 
 I’d like you to go to a test website and log in. Do you prefer if I send you the link in the chat or tell it to you so you can type it in?
 *Link*
-- bit.ly/va092022 (goes to staging.va.gov/profile/contact-information)
-
-
+- bit.ly/va0922 (goes to staging.va.gov/profile/contact-information)
 
 *Paste a link in the chat, or verbally tell the participant where to go. They’ll need to go through the sign-in process before they get to profile.*
 
 Use Login.gov to sign in
-Email address is vafeedback@gmail.com
+Email address is vagovfeedback@gmail.com
 Password is vagovsite123
 
 *give participant 2FA code sent over text, or back-up codes (moderators have these)*
 ****
 *Here’s how to use the back-up codes with a participant:*
-
 	* After they enter UN and PW, press “continue”
 	* On the screen where it asks “Enter Your Security Code”, have them click on the “choose another authentication method” under the bold “**Can’t use your phone?”**heading
 	* Choose “Backup codes” (3rd option)
@@ -105,6 +100,8 @@ Next, I’ll have you update the notification settings. If they’re already set
 	* How does it align with expectations?
 
 ## Fourth Task: Review prototype - 5 minutes
+Next I’ll have you log out of that testing site. Click on “Sam” in the corner, and then hit sign out.
+
 Now I’d like to get your feedback on a prototype. It’s very basic but hopefully it will give you an idea of another approach to editing contact information. Since it’s a prototype, it won’t work exactly the way you might expect.
 
 Go to bit.ly/vap917
