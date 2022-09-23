@@ -8,6 +8,8 @@ We did a lot, including:
 
 - Launched the homepage > login > My VA redirect.
 - Launched the on-site notifications MVP.
+- Completed an audit of current states of My VA.
+- Completed a substantial amount of work on payments V2.
 
 ...and much, much more that is still ongoing. Great work, team!
 
