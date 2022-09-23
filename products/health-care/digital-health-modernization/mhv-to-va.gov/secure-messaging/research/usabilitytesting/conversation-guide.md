@@ -93,7 +93,7 @@ Let's say you received a message from your doctor and you need to respond to the
 
 ## Second Task: Finding a message - 10 minutes
 
-*Create tasks that has participant using the advanced search function to locate messages in folders or within attachments or threads. 
+*Create tasks that has participant using the advanced search function to locate messages in folders or within attachments or threads.* 
 
 ### Things to watch for:
 
@@ -103,7 +103,7 @@ Let's say you received a message from your doctor and you need to respond to the
 
 ## Third Task: Organizing messages - 5-10 minutes
 
-*Create tasks that has participant using folder functionality.  
+*Create tasks that has participant using folder functionality.*  
 
 ### Things to watch for:
 
