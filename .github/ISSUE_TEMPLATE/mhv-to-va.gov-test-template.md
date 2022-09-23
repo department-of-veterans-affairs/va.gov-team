@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## 🌟 How to configure this issue
-- [ ] Confirm this issue is being added to the correct team/product board (Core or MHV; Secure Messaging, Medical Records, Pharmacy, etc.)
+- [ ] Confirm this issue is being added to the correct team (ex. Core or MHV) and Product (ex. Secure Messaging)
 - [ ] Add App Name (ex. Secure Messaging) and Task Name to Issue Title ⬆️
 - [ ] Fill in User Story
 - [ ] Link to any Related Documentation if appropriate, and remember to update links if they change before ticket is closed
