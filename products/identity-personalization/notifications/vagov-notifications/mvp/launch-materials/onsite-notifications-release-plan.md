@@ -3,20 +3,13 @@
 ## Phase I: UAT
 ### Planning:
 - **Desired date range or test duration:** _date tk_
-- **UAT Go/No go:** _date tk_
+- **UAT Go/No go:** 9/14/22
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
-- **Start UAT**: _
-    - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
-- **Desired number of users:** _provide summary_
-- **How you'll recruit the right production test users:** 
-    - _tk_
-- **How you'll conduct the testing:** 
-    - _tk_
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-    - _tk_
+   - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
+- **[Internal test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/internal-testing-plan.md)**
 - **Link to Research plan for UAT**: 
-   - Research plan for onsite notifications MVP UAT (doc tk)
-   - Conversation guide for onsite notifcations MVP UAT (doc tk)
+   - Research plan for onsite notifications MVP UAT - NA
+   - Conversation guide for onsite notifcations MVP UAT - NA
 
 ### Results/Issues:
 - **Number of users:** __
