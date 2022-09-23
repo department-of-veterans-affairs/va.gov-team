@@ -18,7 +18,7 @@ assignees: 'MarciMcGuire'
 - [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
 - [ ] If work is in progress, change Pipeline to In Progress :arrow_right: 
 - [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label :arrow_right: 
-- [ ] If work is in progress, add Assignee(s) :arrow_right: 
+- [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
 - [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
