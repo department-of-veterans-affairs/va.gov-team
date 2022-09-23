@@ -58,9 +58,9 @@ Currently we support the following notifications:
 
 |Notification Group|Item|
 |--------|-----------|
-|Health Care|- Appointment Reminders <br />- Prescription Shipping|
-|Health Care| - Applications, claims, decision reviews, and appeals|
-| Financial | - Payments (future)|
+|Your health care|Appointment reminders|
+|Your health care|Prescription shipment and tracking updates|
+|Applications, claims, decision reviews, and appeals|Board of Veterans' Appeals hearing reminder|
 
      
 ## User Outcomes
