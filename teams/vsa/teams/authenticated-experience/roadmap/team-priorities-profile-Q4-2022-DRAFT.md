@@ -7,7 +7,7 @@
 We did a lot, including:
 
 - Launched bad address indicator functionality (Started Q3; Completed Q4)
-- Re-integrate military information through VA Profile
+- Re-integrated military information through VA Profile
 - Launched a modal that asks if you want to update your mailing address when you update your home address
 - Restricted character set for address fields to certain alphabetic and alphanumeric characters
 - Updated A TON of documentation
