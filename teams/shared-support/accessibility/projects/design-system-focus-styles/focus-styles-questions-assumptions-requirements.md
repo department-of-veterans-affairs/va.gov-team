@@ -14,7 +14,10 @@
     - [Combo box (focus within selection items)](https://designsystem.digital.gov/components/combo-box/)
     - E.g. Search
     - [Radio buttons](https://designsystem.digital.gov/components/radio-buttons/)
+    - Banners
 - We're designing for the whole site, not just the design system components.
+  - Header (not in design system)
+  - Footer (not in design system)
 
 ## Requirements
 
