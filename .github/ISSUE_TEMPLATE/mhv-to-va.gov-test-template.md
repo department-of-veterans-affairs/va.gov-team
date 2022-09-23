@@ -1,5 +1,5 @@
 ---
-name: MHV to VA.gov Research Assets Task
+name: MHV to VA.gov Research Test Template
 about: For MHV to VA.gov Research Assets Task
 title: "[Research] MyHealth: APP NAME: TASK NAME"
 labels: my-health, ux, research
