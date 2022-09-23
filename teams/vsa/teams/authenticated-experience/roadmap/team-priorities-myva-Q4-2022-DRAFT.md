@@ -29,7 +29,7 @@ We'll continue the updates related to the My VA audit. Now that design is mostly
 
 ### On-site notifications: Continued development
 
-After launching the on-site notification MVP, we'll monitor analytics for a bit, and then we'll start talking about our next steps. This is an important phase of the project where we'll figure out how to scale the feature, and we'll make determinations on when we might need to introduce a notification center.
+After launching the on-site notification MVP, we'll monitor analytics for a bit, and then we'll start talking about our next steps. This is an important phase of the project where we'll figure out how to scale the feature, and we'll make determinations on when (if?) we might need to introduce a notification center.
 
 **Anticipated launch**: 2023.
 
