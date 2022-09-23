@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Research Assets Task
 about: For MHV to VA.gov Research Assets Task
-title: "[Research] MyHealth: APP NAME: TASK NAME"
+title: [Research] MyHealth: APP NAME: TASK NAME
 labels: ux, research, my-health
 assignees: ''
 
@@ -20,6 +20,7 @@ assignees: ''
 
 ## :star2: User Story
 -  As a [role] I want to [what] so that [desired outcome].
+
 ## :star2: Related Documentation
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 - Platform [research process](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Overview.1958740385.html) and [research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html)
