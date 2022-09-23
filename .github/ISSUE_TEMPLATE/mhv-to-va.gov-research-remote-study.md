@@ -1,13 +1,13 @@
 ---
 name: MHV to VA.gov Conduct Remote Study Task
 about: MHV to VA.gov Conduct Remote Study Tasking
-title: "[Research] Conduct Remote Study"
-labels: ux,research, HCE-Checkin, my-health
+title: "[Research] MyHealth: APP NAME: TASK DESCRIPTION
+labels: ux,research, my-health
 assignees: ''
 
 ---
 
-## Description
+## :star2: Description
 We need to conduct the research study for <feature>.
 
 ## Set-up Tasks
