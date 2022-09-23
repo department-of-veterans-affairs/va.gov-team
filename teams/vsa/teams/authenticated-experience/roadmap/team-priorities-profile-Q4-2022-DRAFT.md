@@ -11,6 +11,7 @@ We did a lot, including:
 - Launched a modal that asks if you want to update your mailing address when you update your home address
 - Restricted character set for address fields to certain alphabetic and alphanumeric characters
 - Updated A TON of documentation
+- Completed an accessibility audit
 
 ...and much, much more that is still ongoing. Great work, team!
 
