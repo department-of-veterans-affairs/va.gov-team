@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 ## 🌟 How to configure this issue
-- [ ] Confirm the issue is being created on the correct board
-
+- [ ] Confirm the issue is being created on the relevant board (Secure Messaging, Medical Records, Pharmacy, etc.)
 - [ ] Fill in User Story
+- [ ] Link to Related Documentation if appropriate, and remember to update if a file name/location changes before ticket is closed
 - [ ] Fill in Description
 - [ ] Add/remove Tasks as needed
 - [ ] Add/remove Acceptance Criteria as needed
@@ -23,7 +23,6 @@ assignees: ''
 - [ ] Attach to an Epic (what body of work is this a part of?) ➡️
 
 ---
-
 
 ## :star2: User Story
 - As a [role], I want to [what].
