@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Update Design Artifacts (e.g. Sketch files, documents linked to prototypes)
 about: For Updating MHV to VA.gov Design Artifacts
-title: "[DESIGN] Update Design Artifacts for Release"
+title: "[DESIGN] MyHealth: APP NAME: Update Design Artifacts for Release"
 labels: my-health, design
 assignees: ''
 
