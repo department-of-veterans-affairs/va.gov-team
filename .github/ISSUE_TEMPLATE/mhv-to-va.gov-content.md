@@ -1,8 +1,8 @@
 ---
 name: MHV to VA.gov Create Content Task
-about: For Check In Experience to create content for development
+about: For MHV Core team to create content for development
 title: "[Research][Content] Create Content"
-labels: ux, content, research, my-health
+labels: ux, content, research
 assignees: ''
 
 ---
@@ -11,7 +11,7 @@ assignees: ''
 As a [role], I want to [what] so that I can [do something].
 
 ## Tasks
-- [ ] Create the content 
+- [ ] Create the content
 - [ ] Run content by Danielle
 
 ## Acceptance Criteria
