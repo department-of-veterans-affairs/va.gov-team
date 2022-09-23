@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Conduct Remote Study Task
 about: MHV to VA.gov Conduct Remote Study Tasking
-title: "[Research] MyHealth: APP NAME: TASK DESCRIPTION
+title: "[Research] MyHealth: APP NAME: TASK DESCRIPTION"
 labels: ux,research, my-health
 assignees: ''
 
