@@ -1,5 +1,7 @@
 # Profile: LOA1 user attempts to access any section of profile
 
+Last updated September 23, 2022
+
 A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov and go to the profile can't see any page in profile other than Account Security. 
 
 ## UX
