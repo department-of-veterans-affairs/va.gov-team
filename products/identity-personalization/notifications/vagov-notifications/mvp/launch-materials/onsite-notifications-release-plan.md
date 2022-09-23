@@ -7,19 +7,17 @@
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
    - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
 - **[Internal test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/internal-testing-plan.md)**
-- **Link to Research plan for UAT**: 
-   - Research plan for onsite notifications MVP UAT - NA
-   - Conversation guide for onsite notifcations MVP UAT - NA
 
 ### Results/Issues:
-- **Number of users:** __
-- **List of bugs/issues found:** ___
+- **Number of users:** 5 internal users
+- **List of bugs/issues found:** 0
+- **[Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/Onsite-notifications-internal-UAT-findings.md**
 
 ## Phase II: Staged Rollout 
 
 ### Planning
 **Launch Go/No go:** 
-- Completed mm/dd/yyyy
+- Completed 09/23/22 _however team determined we are not ready for lunch given challenges with GA at this time. Will revisit status early next week (9/26) after consulting with analytics team._
 - Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
 - [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
 
@@ -29,7 +27,10 @@
 - If all goes well, then go to 100% of users ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-_Link to analytics_
+[Onsite Notifications brief: Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#measuring-success)
+- Tracking number of users seeing notifications: [Get on-site notifications report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-table.plotKeys=%5B%5D&explorer-table.filter=notifications&_r.drilldown=analytics.eventCategory:API%20Calls,analytics.eventLabel:api_call)
+- Tracking dismissals of notifications: [Dismiss onsite notifications report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_r.drilldown=analytics.eventCategory:API%20Calls,analytics.eventLabel:api_call,analytics.eventAction:API%20Request%20-%20PATCH%20dismiss%20on-site%20notification%20-%20successful&explorer-table.plotKeys=%5B%5D)
+- Tracking "Manage your VA debt" clicks from within onsite notification: _report link tk_
 
 
 ## Go Live!
@@ -41,10 +42,10 @@ _Link to analytics_
 - Actual date for 100%: mm/dd/yyyy
 
  
-### 1-week results:
+### 1-week (at 100%) results:
 Analytics results for week 1:
 
-### 1-month results:
+### 1-month (at 100%) results:
 Analytics results for month 1:
 
 ## Post-launch Questions 
