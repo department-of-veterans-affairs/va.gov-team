@@ -63,22 +63,47 @@ Before we start, a few things I want to mention:
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
 - Do you ever send messages in My HealtheVet? What kind of messages do you send? Do you feel comfortable sending that information? Is there anything that you aren't comfortable sending in messages? What makes you comfortable/uncomfortable?
 
-## First Task: [TASK NAME] - X minutes
+## A/B Testing: Patient safety - 5 minutes
 
-- Step 1
-- Step 2
+*Anne - Here is where we can test out how much patients notice the patient safety messaging. Suggested approach: (1) show briefly (5 secs) an image of the message in reply flow and ask what they noticed; (2) show the message and ask how participants understand it and what they would do with that information.*
+
+
+## First Task: Replying to a message - 10 minutes
+
+Let's say you received a message from your doctor and you need to respond to them. How would you write back to them? 
+
+*If participant is unable to find a message to reply to:*
+
+- Where would you look for a message from your doctor? *(If participant continues to be confused, instruct them to click on "Messaages" in the left navigation.)*
+
+*If participant gets confused about picking a message from the list of possible messages, instruct them to choose a particular message. We are not concerned with whether they find a message, but rather with the reply flow.*
+
+*After participant clicks "Reply":*
+
+- If you needed to send them a document, how would you do that?
+- If you accidentally attached the wrong document and needed to get rid of it and attach a different document, how would you do that?  
+- If you wanted to save this message before you sent it to your doctor, how would you do that? 
+- If you decided that you didn't want to respond at that moment and needed to get rid of the message, how would you do that? 
+
+### Things to watch for:
+
+- Which "Reply" option does the participant use - the toolbar or the button? 
+- Does the participant notice the "Save draft" and "Delete draft" buttons? 
+- Does the participant understand how to use the Attach and Remove buttons? 
+
+## Second Task: Finding a message - 10 minutes
+
+*Create tasks that has participant using the advanced search function to locate messages in folders or within attachments or threads. 
 
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Third Task: Organizing messages - 5-10 minutes
 
-- Step 1
-- Step 2
+*Create tasks that has participant using folder functionality.  
 
 ### Things to watch for:
 
@@ -86,18 +111,7 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - 2 minutes
+## Post-Task Interview - 5 minutes
 - What are your thoughts about what we looked at today?
 - Any other things that would be good for us to know?
 
