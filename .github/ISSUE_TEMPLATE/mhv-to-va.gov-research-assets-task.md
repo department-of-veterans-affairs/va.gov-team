@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## How to configure this issue
+## 🌟 How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
 - [ ] Labeled with HCE-Checkin, ux, research
