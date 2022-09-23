@@ -1,12 +1,12 @@
 # Conversation Guide 
 
-[Prototype Desktop Link](link)
+Prototype Desktop Link (to be linked)
 
-[Prototype Mobile Link](link)
+Prototype Mobile Link (to be linked)
 
 [Mobile testing guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
 
-[Mural board for notes](link)
+Mural board for notes (to be linked)
 
 
 ## Moderator logistics
