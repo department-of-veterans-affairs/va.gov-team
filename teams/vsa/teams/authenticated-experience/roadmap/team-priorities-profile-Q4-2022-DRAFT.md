@@ -29,6 +29,7 @@ We will tackle accessibility issues that have been piling up over the last coupl
 -  What we should do about the nametag, and how these changes might affect My VA
 -  Improving heading navigation in account settings
 -  Improving how we handle in-line error messages
+-  The "hubless spoke" problem
 
 Because of the number of larger/more complex issues there are to investigate, this is a potentially substantial amount of work depending on what we decide to pursue, and may even take us into the new year.
 
