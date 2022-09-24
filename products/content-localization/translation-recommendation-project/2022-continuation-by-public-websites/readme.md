@@ -12,7 +12,7 @@ https://cms-0f356cderyijzermbo7qgoshbfrm3e1q.ci.cms.va.gov/
 
 Demo user:
 `christia.troyer.10856`
-`YC9yxcq2Qx4.`
+`ask`
 
 Steps to translate:
 With the "Content translation - Spanish" role:
