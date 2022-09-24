@@ -7,15 +7,12 @@ This folder is intended to house documentation of the resumed investigation.
 ## Getting around in the demo
 [DRAFT]
 
-Demo location:
+Demo location: 
+https://cms-0f356cderyijzermbo7qgoshbfrm3e1q.ci.cms.va.gov/
 
-About this demo: 
-
-* This demo includes translation for Spanish
-* Translation is available for Resources and Support Pages, for the purposes of the demo
-* Translation is available for "Content Translation - Spanish" (new role)
-* Content translator can only create a new translation or edit their translation. They cannot edit or change existing content.
-* For now the content translator can create any language translation, I am working on this.
+Demo user:
+`christia.troyer.10856`
+`YC9yxcq2Qx4.`
 
 Steps to translate:
 With the "Content translation - Spanish" role:
@@ -30,6 +27,14 @@ With the "Content translation - Spanish" role:
 5. Users with the role to approve or publish content can change the workflow moderation state from Draft to Published.
 
 Bonus: The interface (Drupal CMS form) is also translated to Spanish in some places.
+
+## About this demo
+
+* This demo includes translation for Spanish
+* Translation is available for Resources and Support Pages, for the purposes of the demo
+* Translation is available for "Content Translation - Spanish" (new role)
+* Content translator can only create a new translation or edit their translation. They cannot edit or change existing content.
+* For now the content translator can create any language translation, I am working on this.
 
 ## Engineer notes
 
