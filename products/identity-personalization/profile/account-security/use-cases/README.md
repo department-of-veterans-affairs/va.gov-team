@@ -2,7 +2,8 @@
 
 **Last updated:** September 20, 2022
 
-If the user is not LOA3, the only thing they can access in profile is the Account Security section. Within Account security, they can access 2-factor authentication and a link to their sign in service. They cannot view terms and conditions.
+- If the user is not LOA3, the only thing they can access in profile is the Account Security section. Within Account security, they can access 2-factor authentication and a link to their sign in service. They cannot view terms and conditions.
+- Add Desktop Sketch file
 
 ## Common use cases
 ### User logs in with LOA1 account
