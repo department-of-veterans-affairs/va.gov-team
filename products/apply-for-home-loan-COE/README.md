@@ -16,11 +16,11 @@
 - Stakeholders: Kelli Deinarowicz
 
 #### Team Members
-Sade Ragsdale
-Robin Garrison
-Eugene Lynch
-Jerek Shoemaker
-Scott Meyers
+- Sade Ragsdale
+- Robin Garrison
+- Eugene Lynch
+- Jerek Shoemaker
+- Scott Meyers
 
 ---
 
