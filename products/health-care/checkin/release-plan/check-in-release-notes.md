@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 9/26/2022 
-- Updated Pre-Check-in to display the error message that indicates Pre-Check-in is no longer available for an appointment before the Veteran verifies their identity instead of after
+- Updated Pre-Check-in to display the error message that indicates Pre-Check-in is no longer available for an appointment (because the LoROTA entry was deleted) before the Veteran verifies their identity instead of after.
     - [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
 
 ### 9/14/2022
