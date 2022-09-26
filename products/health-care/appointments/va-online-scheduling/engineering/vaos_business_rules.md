@@ -145,6 +145,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.
 - The calendar starts on the current month
 - The earliest date allowed for scheduling is 5 days after the current day
+    - If the 5th calendar day falls on a weekend (Saturday or Sunday), the following business day would be the next available date. Example: If the user is logged in on a Monday and trying to book an appointment request, slots would be available from the following Monday. 
 - The latest date allowed for scheduling is 120 days after the current date
 - Once preferred times are chosen, then:
     - For community care requests, they're sent to the community care preferences page
