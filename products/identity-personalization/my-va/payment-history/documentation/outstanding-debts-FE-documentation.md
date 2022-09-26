@@ -57,7 +57,7 @@ Last updated [date]
 
 Due by [date]
 
-[Manage your VA bills](https://www.va.gov/manage-va-debt/your-debt)
+[Manage your VA bills](https://www.va.gov/manage-va-debt/summary/copay-balances)
 
 **Content sources**
 
