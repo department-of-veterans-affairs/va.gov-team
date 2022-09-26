@@ -28,7 +28,7 @@ Here are the steps to follow when setting up a new change management process:
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
 - [ ] **If UX research is planned**, create a _Change Management Research_ issue
     - [ ] Add research questions to UX Research Plan and Conversation Guide
-    - **If no other UX research planned**:
+    - **If no UX research is planned**:
       - [ ] create a _Change Management Research Plan and Conversation Guide_ issue
       - [ ] Create a _Research Synthesis_ issue
       - [ ] Create a _Research Readout & Documentation_ issue
