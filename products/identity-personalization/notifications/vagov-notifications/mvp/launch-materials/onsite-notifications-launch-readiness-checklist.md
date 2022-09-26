@@ -1,6 +1,6 @@
 # On-site Notifications (MVP): Launch Go / No Go | 09.23.2022
 
-## Decision: Pending analytics, will postpone launch until analytics are resolved.
+## Decision: Pending analytics, will postpone launch until analytics issues are resolved.
 
 ---
 
@@ -23,7 +23,7 @@
 - Answer: Yes
 
 **Samara/AJ: is Google Analytics updated to track this product data and are they working as expected?**
-- Answer: No, we need to dig into one metric.
+- Answer: No, we have been able to confirm that the majority of the KPIs are tracking properly in GA but one metric is showing elevated numbers so we will postpone launch until we can understand why the numbers look off. This is for clicks into "Manage my VA Debt" from the notification.
 
 **Samara/AJ: did you see KPI metrics and other usability metrics populating from UAT?**
 - Answer: Same as above
@@ -32,7 +32,7 @@
 - Answer: Yes
 
 **Samara/AJ: are you ready to monitor analytics data for trends and problems?**
-- Answer: Sort of. Same as above.
+- Answer: Sort of. Same as above, we need to better understand why some numbers look inflated in GA>.
 
 **Samara/AJ: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-release-plan.md) complete and ready to execute against?**
 - Answer: Yes
