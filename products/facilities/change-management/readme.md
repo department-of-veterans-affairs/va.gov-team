@@ -1,11 +1,11 @@
 **All Change Management Runbook Issue Templates:** 
 - [Runbook - Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/readme.md) <- You are here
-- [Thing 1](URL)
-- [Thing 2](URL)
-- [Thing 3](URL)
-- [Thing 4](URL)
-- [Thing 5](URL)
-- [Thing 6](URL)
+- [Change Management Research](URL) OR [Change Management Research Plan and Conversation Guide](URL)
+- [Change Impact Assessment](URL)
+- [Change Management Journey Map](URL)
+- [Communications Plan](URL)
+- [Training Plan](URL)
+- [Post-Launch Assessment](URL)
 
 # NOTE
 This template will be the last one to complete because it should link to the "create a new issue" links for all the other templates
