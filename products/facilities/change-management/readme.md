@@ -4,7 +4,7 @@
 - [Change Impact Assessment](URL)
 - [Change Management Journey Map](URL)
 - [Communications Plan](URL)
-- [Knowledge Base](URL)
+- [Knowledge Base](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/.github/ISSUE_TEMPLATE/knowledge-base-article.md)
 - [Post-Launch Assessment](URL)
 
 # NOTE
