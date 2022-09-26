@@ -1,6 +1,8 @@
 **All Change Management Runbook Issue Templates:** 
 - [Runbook - Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/readme.md) <- You are here
 - [Change Management Research](URL) OR [Change Management Research Plan and Conversation Guide](URL)
+  - Research Synthesis
+  - Research Readout & Documentation
 - [Change Impact Assessment](URL)
 - [Change Management Journey Map](URL)
 - [Communications Plan](URL)
