@@ -81,7 +81,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 ### Objective: Bring greater differentiation and more equal weight to debts and payments (payments over emphasized and debts de-emphasized in V1).
  
-**Key result: Increase clicks into "Manage your VA debt" CTA by 10%.**
+**Key result: Increase clicks into "Manage your VA debt" CTA on My VA by 10%.**
  
 [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
  
@@ -89,8 +89,14 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage your VA debt" CTA|TBD|TBD| 
+|Clicks into "Manage your VA debt" CTA on My VA|TBD|TBD|TBD|
  
+**Key result: Increase pageviews for the debt tool overall by 10%** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Pageviews of the debt summary page|TBD|TBD|TBD| 
+
 ### Objective: Elevate copays to My VA.
  
 **Key result: Establish baseline metric for clicks into copay CTA from My VA.**
@@ -101,10 +107,14 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
-|Clicks into copay CTA|TBD|TBD|
- 
-**Key result: Increase clicks into the copay tool overall by 10%.**
+|Clicks into copay CTA|N/A|TBD|TBD|
 
+**Key result: Increase pageviews for the copay tool overall by 10%** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Pageviews of the copay summary page|TBD|TBD|TBD|  
+ 
 </details>
 
 ## Projects
