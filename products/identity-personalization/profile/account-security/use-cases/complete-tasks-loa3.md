@@ -18,7 +18,7 @@
 - Clicking the link will bring the user to the [Terms and conditions for medical information page](https://staging.va.gov/health-care/medical-information-terms-conditions/).
 - A checkmark will appear once the user has completed this task. 
 - [Desktop mock-up, terms and conditions](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/aWWp5P/a/Gm030dY)
-- [Mobile mock-up, terms and conditions](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/4aAPxQJ)
+- [Mobile mock-up, terms and conditions](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/Gm0knaD)
 
 ### Link to sign in service
 - The user will see a section with information on how to change their sign in information for their sign in service of choice. 
