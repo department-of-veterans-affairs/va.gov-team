@@ -93,6 +93,8 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 **Key result: Increase pageviews for the debt tool overall by 10%** 
 
+[Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
+
 |KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
 |Pageviews of the debt summary page|TBD|TBD|TBD| 
@@ -110,7 +112,11 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Clicks into copay CTA|N/A|TBD|TBD|
 
 **Key result: Increase pageviews for the copay tool overall by 10%** 
-
+ 
+- **Note**: Confirm this URL is correct once we have copay users in staging.
+ 
+ Get link for pageviews for copay link
+ 
 |KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
 |Pageviews of the copay summary page|TBD|TBD|TBD|  
