@@ -1,3 +1,12 @@
 # MHV to VA.gov Decision Log
-Last update 09/13/2022
+Please log key MHV to VA.gov decisions related to the below practice areas, including date, who made the decision, a description of the decision and any specific rationale behind it.  For decisions about specific products, please use the decision log within that products document folder.
 
+## Product
+
+## UX
+
+## Research
+
+## Design
+
+## Engineering
