@@ -16,6 +16,12 @@
 
 ## Monday, September 26, 2022
 * v1 status check
+  * Internal latency on one of the endpoints impacting some consumers of data. Occurs between 2:50 and 3:00 ET Mon-Thur
+  * Escalated - Major Incident Management Team within the VA. Currently LH is in a code freeze until this is figured out.
+  * This will block LH from ingesting additional data from CMS
+  * How much pain would it cause to pause CMS updating FAPI for a period of time?
+  * Jay - looks like maybe a 3-5 pt ticket to add in to our work
+
 * Sandbox data - James and Dave C had a discussion
 * Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
 * David S met with Josh and Joe - notes below 
