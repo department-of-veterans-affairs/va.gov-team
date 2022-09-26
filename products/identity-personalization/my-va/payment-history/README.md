@@ -115,7 +115,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 - **Note**: Confirm this URL is correct once we have copay users in staging.
  
- Get link for pageviews for copay link
+[Pageviews for /manage-va-debt/summary/copay-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fcopay-balances~2F/)
  
 |KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
