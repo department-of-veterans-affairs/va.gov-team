@@ -10,7 +10,7 @@
 - Clicking the link will lead the user through the process of 2-factor authentication.
 - A checkmark will appear once the user has completed this task. 
 - [Desktop mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/aWWp5P/a/3OYm1ew)
-- [Mobile mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/p/E79E0419-8D9A-4CF2-A052-EEBA8274E418/canvas)
+- [Mobile mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/4aAPxQJ)
 
 ### Terms and conditions
 - Whether or not terms and conditions shows depends on a few factors including if the user is LOA3 and if they have a MHV account.
