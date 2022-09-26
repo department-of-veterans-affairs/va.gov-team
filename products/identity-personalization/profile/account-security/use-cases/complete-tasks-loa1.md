@@ -10,14 +10,14 @@
 - Clicking the link will lead the user through the process of 2-factor authentication.
 - A checkmark will appear once the user has completed this task. 
 - [Desktop mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/DPDQDwq)
-- [Mobile mock-up, 2-factor authentication]
+- [Mobile mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/KvlZnZ2)
 
 ### Link to sign in service
 - The user will see a section with information on how to change their sign in information for their sign in service of choice. 
 - The link will bring the user to the website where they manage their account (either Login.gov,DS Logon, MyHealtheVet, or ID.me).
 - This section will never have a checkmark, as this task can be completed often and does not directly determine account security. 
-- [Desktop mock-up, change sign in information for sign in service](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/DPDQDwq)
-- [Mobile mock-up, change sign in information for sign in service]
+- [Desktop mock-up, change sign in information for sign in service](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/v8lVM24)
+- [Mobile mock-up, change sign in information for sign in service](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/KvlZnZ2)
 
 ## Codes
 N/A
