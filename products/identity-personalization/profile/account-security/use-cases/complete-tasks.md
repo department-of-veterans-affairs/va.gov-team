@@ -13,6 +13,7 @@
 - [Mobile mock-up, 2-factor authentication](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/p/E79E0419-8D9A-4CF2-A052-EEBA8274E418/canvas)
 
 ### Terms and conditions
+- Whether or not terms and conditions shows depends on a few factors including if the user is LOA3 and if they have a MHV account.
 - If someone has not agreed to terms and conditions, there will not be a checkmark next to the section. 
 - Clicking the link will bring the user to the [Terms and conditions for medical information page](https://staging.va.gov/health-care/medical-information-terms-conditions/).
 - A checkmark will appear once the user has completed this task. 
