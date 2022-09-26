@@ -121,16 +121,11 @@ Go to bit.ly/vap917
 - When have you needed to update your contact info on VA.gov?
 
 ## Thank-You and Closing - 2 minutes
+*Moderator: Download the transcript from zoom*
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+That was everything I wanted to get your feedback on today. We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usability research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Thanks! One thing to be on the lookout for - Perigean will be sending you something you can share to provide the opportunity to participate in research to other Veterans in your personal network. It’s so valuable for us to have the opportunity to include Veterans in our process.
 
 ## Emergency Exit
-
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-
