@@ -1,7 +1,7 @@
 # Account security: User views and completes tasks
 **Last updated:** September 26, 2022
 
-- Once users have verfied their identity, users can add 2-factor authentication to their account, view terms and conditions for health tools, and find a link to their sign in service (eg. ID.me) to manage their sign in information.
+- Once users have verfied their identity, users can add 2-factor authentication to their account, view terms and conditions for health tools (in some cases), and find a link to their sign in service (eg. ID.me) to manage their sign in information.
 
 ## UX
 ### 2-factor authentication
