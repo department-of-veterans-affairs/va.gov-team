@@ -16,7 +16,8 @@ Describe the issue background and scope
 - [ ] Conduct Unit tests 
 - [ ] Run E2E tests covering current code and regression
 - [ ] All axe checks pass
-- [ ] Deploy to Staging behind feature flag
+- [ ] Notify PM if this needs to be deployed to Staging behind feature flag
+  
 
 ## Acceptance Criteria
 - [ ] Complete all unit testing
