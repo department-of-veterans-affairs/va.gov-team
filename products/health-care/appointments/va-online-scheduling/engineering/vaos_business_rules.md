@@ -23,6 +23,10 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Includes VA and community care appointments
 - Display 13 months of canceled booked appts
 
+
+#### Community care appointments
+- Veteran can cancel through VAOS.
+
 ### Past Appointments
 - Includes VA and community care appointments
 - Does not display canceled booked appts
@@ -30,6 +34,9 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 ### Pending appointments
 - Includes VA and community care requests
 - Show canceled requests 120 days back
+
+#### Community care requests
+- Veteran cannot cancel through VAOS.
 
 ## New appointment flow
 
