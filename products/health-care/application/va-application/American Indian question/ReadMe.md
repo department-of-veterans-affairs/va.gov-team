@@ -112,8 +112,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 **Note**: Most design and development work was completed in 2021, but the feature was placed on hold with a dependency on the Enrollment system to support the new data.  The team was given the green light to move forward and release in August along with the paper form.
 - May 2022: Design work finalized
 - July 2022: Development work finalized
-- July 2022: Complete QA?
-- September 22, 2022: Launched to ???% of users
+- August 2022: Complete QA
+- September 26, 2022: Launched to 25% of users
 
 
 ---
