@@ -10,9 +10,7 @@ This folder is intended to house documentation of the resumed investigation.
 Demo location: 
 https://cms-0f356cderyijzermbo7qgoshbfrm3e1q.ci.cms.va.gov/
 
-Demo user:
-`christia.troyer.10856`
-`ask`
+[TBD: demo user]
 
 Steps to translate:
 With the "Content translation - Spanish" role:
