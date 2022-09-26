@@ -34,6 +34,9 @@ Update Sketch wireframes and prototypes so that they match what we are releasing
      - [ ] PM has been notified if QA or Help Center documentation need to be updated to reflect changes
 - [ ] All design decisions have been recorded in product directory in GitHub
 
+
+<hr>
+
 ## 🌟 How to configure this issue
 - [ ] Confirm this issue is being added to the correct team (ex. Core or MHV) and Product (ex. Secure Messaging) board
 - [ ] Add App Name (ex. Secure Messaging) and Task Name to Issue Title ⬆️
