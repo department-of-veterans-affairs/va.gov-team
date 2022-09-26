@@ -28,7 +28,7 @@ If a user has no new notifications since they last logged in but has notificatio
 
 *Copy Specs*
 
-- [exclamation-triangle icon] You have new debt. [Manage your VA debt](va.gov/manage-va-debt/your-debt)
+- [exclamation-triangle icon] You have new debt. [Manage your VA debt](http://va.gov/manage-va-debt/your-debt)
 - (Date) Month Day, Year
 
 **State 2: A user who has new notifications since they last logged in.**
@@ -43,7 +43,7 @@ If a user has new notifications since they last logged in, we will show the warn
 
 *Copy Specs*
 
-- [exclamation-triangle icon] You have new debt. [Manage your VA debt](va.gov/manage-va-debt/your-debt)
+- [exclamation-triangle icon] You have new debt. [Manage your VA debt](http://va.gov/manage-va-debt/your-debt)
 - (Date) Month Day, Year
 
 **State 3: A user who has no notifications.**
