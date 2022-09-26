@@ -29,14 +29,13 @@ Here are the steps to follow when setting up a new change management process:
       - [ ] create a _Change Management Research Plan and Conversation Guide_ issue
       - [ ] Create a _Research Synthesis_ issue
       - [ ] Create a _Research Readout & Documentation_ issue
-
-For Large/XL complex changes:
-  - [ ] Create a _Change Impact Assessment_ issue
-  - [ ] Create a _Change Management Journey Map_ issue
+      - [ ] Add all the issues to the Research Epic and add dependencies
+- [ ] For Large/XL complex changes involving beta testing and client stakeholders:
+    - [ ] Create a _Change Impact Assessment_ issue
+    - [ ] Create a _Change Management Journey Map_ issue
 
 - [ ] Create a _Communications Plan_ issue
 - [ ] Create a _Training Plan_ issue
-- [ ] Add all the issues to the Research Epic and add dependencies
 
 ## Acceptance Criteria
 - [ ] All tickets have been created and assigned
