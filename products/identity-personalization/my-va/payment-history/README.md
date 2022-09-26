@@ -37,6 +37,10 @@ Prior to this initial launch, we were made aware of some usability problems with
 
 ## Measuring Success
 
+### MVP: Adding payments and debts to My VA (October 2021 - May 2022)
+
+<details>  <summary>MVP</summary>  
+
 These stats are for the MVP effort to add payment and debt info to My VA.
 
 ### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
@@ -67,6 +71,16 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Search rank for "payment” or "payment history"| #6|TBD|TBD|
 |Search rank for "debt” or "debt management"| #23|TBD|TBD|
 |Search rank for "direct deposit”| #7, #17|TBD|TBD|
+
+</details>
+
+### V2: Updating payments and debts to address usability issues (May 2022 - current)
+
+<details>  <summary>V2</summary>    
+
+TBD
+
+</details>
 
 ## Projects
 
