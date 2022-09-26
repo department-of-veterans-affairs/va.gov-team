@@ -38,7 +38,7 @@ Here are the steps to follow when setting up a new change management process:
     - [ ] Create a _Change Management Journey Map_ issue
 
 - [ ] Create a _Communications Plan_ issue
-- [ ] Create a _Knowledge Base_ issue (if applicable, includes video if required)
+- [ ] Create a _Knowledge Base_ issue (if applicable; includes video if required)
 - [ ] Create a _Post-Launch Assessment_ issue
 
 ## Acceptance Criteria
