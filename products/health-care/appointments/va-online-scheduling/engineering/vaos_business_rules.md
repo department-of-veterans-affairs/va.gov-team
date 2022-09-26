@@ -44,7 +44,13 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### Community care eligibility check
 
-- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care
+- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
+    - Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
+	- Audiology (for either routine exam or hearing aid support)
+	- Optometry 
+	- Podiatry (currently only available for Community Care)
+	- Nutrition services
+
 - A user is eligibility if two checks pass:
     - The user is registered at a site that is marked as accepting community care requests
     - The community care eligibility api says that they're eligible for the type of care they chose
@@ -58,7 +64,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### VA facilities page
 
-- Facilities are shown on this page if
+- Facilities are shown on this page if:
     - They are associated with a VistA site where the user is registered, and
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
 - If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address
