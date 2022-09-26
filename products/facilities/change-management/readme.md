@@ -26,9 +26,9 @@ Here are the steps to follow when setting up a new change management process:
 - [ ] Pre-work: Make sure you and your Product Owner are aligned on the [roles and responsibilities for change management](URL)
 - [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
-- [ ] If UX research is planned, create a _Change Management Research_ issue
+- [ ] **If UX research is planned**, create a _Change Management Research_ issue
     - [ ] Add research questions to UX Research Plan and Conversation Guide
-    - If no other UX research planned:
+    - **If no other UX research planned**:
       - [ ] create a _Change Management Research Plan and Conversation Guide_ issue
       - [ ] Create a _Research Synthesis_ issue
       - [ ] Create a _Research Readout & Documentation_ issue
