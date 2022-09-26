@@ -1,5 +1,5 @@
 # Account security: User views and completes tasks
-**Last updated:** September 12, 2022
+**Last updated:** September 26, 2022
 
 - If users have not yet verfied their identity, they can add 2-factor authentication to their account and find a link to their sign in service (eg. ID.me) to change manage their sing in information. LOA1 users cannot view terms and conditions for health tools.
 
