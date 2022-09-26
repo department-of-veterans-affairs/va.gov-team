@@ -36,6 +36,7 @@ Here are the steps to follow when setting up a new change management process:
 
 - [ ] Create a _Communications Plan_ issue
 - [ ] Create a _Training Plan_ issue
+- [ ] Create a _Post-Launch Assessment_ issue
 
 ## Acceptance Criteria
 - [ ] All tickets have been created and assigned
