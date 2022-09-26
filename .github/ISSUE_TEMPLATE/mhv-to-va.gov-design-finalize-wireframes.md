@@ -24,13 +24,13 @@ As a designer, I want our final wireframes to reflect the latest changes so that
 
 ## 🌟 How to configure this issue
 - [ ] Confirm this issue is being added to the correct team (ex. Core or MHV) and Product (ex. Secure Messaging) board
-- [ ] Add App Name (ex. Secure Messaging) to Issue Title ⬆️
-- [ ] Fill in User Story ⬇️
-- [ ] Link to any Related Documentation if appropriate, and remember to update if they change ⬇️
-- [ ] Fill in Description ⬇️
-- [ ] Add/remove Tasks as needed
-- [ ] Add/remove Acceptance Criteria as needed
-- [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked
+- [ ] Add App Name (ex. Secure Messaging) and Task Name to Issue Title ⬆️
+- [ ] Fill in User Story ⬆️
+- [ ] Link to any Related Documentation if appropriate, and remember to update if they change ⬆️
+- [ ] Fill in Description ⬆️
+- [ ] Add/remove Tasks as needed ⬆️
+- [ ] Add/remove Acceptance Criteria as needed ⬆️
+- [ ] Attach any Dependency stories, indiating whether this is a blocker, or is being blocked 
 - [ ] If work is in progress, change Pipeline to In Progress :arrow_right: 
 - [ ] Add any necessary labels not automatically included.  If this is unplanned work, add the `unplanned work` label :arrow_right: 
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
