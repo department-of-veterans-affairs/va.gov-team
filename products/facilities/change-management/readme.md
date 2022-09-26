@@ -1,8 +1,6 @@
 **All Change Management Runbook Issue Templates:** 
 - [Runbook - Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/readme.md) <- You are here
-- [Change Management Research](URL) OR [Change Management Research Plan and Conversation Guide](URL)
-  - Research Synthesis
-  - Research Readout & Documentation
+- [Change Management Research](URL)
 - [Change Impact Assessment](URL)
 - [Change Management Journey Map](URL)
 - [Communications Plan](URL)
@@ -26,13 +24,9 @@ Here are the steps to follow when setting up a new change management process:
 - [ ] Pre-work: Make sure you and your Product Owner are aligned on the [roles and responsibilities for change management](URL)
 - [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
-- [ ] **If UX research is planned**, create a _Change Management Research_ issue
+- [ ] Create a _Change Management Research_ issue
     - [ ] Add research questions to UX Research Plan and Conversation Guide
-    - **If no UX research is planned**:
-      - [ ] create a _Change Management Research Plan and Conversation Guide_ issue
-      - [ ] Create a _Research Synthesis_ issue
-      - [ ] Create a _Research Readout & Documentation_ issue
-      - [ ] Add all the issues to the Research Epic and add dependencies
+
 - [ ] For Large/XL complex changes involving beta testing and client stakeholders:
     - [ ] Create a _Change Impact Assessment_ issue
     - [ ] Create a _Change Management Journey Map_ issue
