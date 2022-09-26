@@ -10,7 +10,7 @@
     - From VAST
     - To Lighthouse
   - Retiring VBA Facilities db, Making CMS source of truth
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, Kevin Walsh, David Shannon.
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, David Shannon, Jay Darnell.
 
 </details>
 
