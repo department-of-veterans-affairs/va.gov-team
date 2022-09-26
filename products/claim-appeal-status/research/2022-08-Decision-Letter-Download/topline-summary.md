@@ -52,10 +52,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 - On desktop, many participants looked at the left nav when prompted to find their way back to the Claim Letters page
 
 
-**Participants who were familiar with Benefit Letters understood the difference between Benefit Letters and Claim Letters. For those less familiar, the distinction was less clear.**
+**Most participants had no problem with the distinction between benefit letters and claim letters pages.**
 
-- Although they found it difficult to clearly articulate the difference, participants who were familiar with Benefit Letters from past experience weren't confused by the separate of Benefit Letters and Claim Letters. They understood the different use cases for them both.
-- Other participants stated that they'd prefer to see all the letters on the same page.
+- Although they found it difficult to clearly articulate the difference, most participants weren't bothered by the separation of Benefit Letters and Claim Letters. They understood the different use cases for them both.
+- A couple participants stated that they'd prefer to see all the letters on the same page.
 
 > "The decision letters are letters from the VA to me, whereas (Benefit Letters) are letters...that the website is generating that supports me." (P19)
 
