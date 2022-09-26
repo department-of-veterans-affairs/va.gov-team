@@ -21,14 +21,18 @@ This template will be the last one to complete because it should link to the "cr
 
 Here are the steps to follow when setting up a new change management process:
 - [ ] Pre-work: Validate that the change in question meets the [criteria for applying a change management approach](URL)
-- [ ] Pre-work: Make sure you and your Product Owner are aligned on the high-level purpose and scope of the change management approach
+- [ ] Pre-work: Make sure you and your Product Owner are aligned on the [roles and responsibilities for change management](URL)
 - [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
-- [ ] Create a _Research Plan & Conversation Guide_ issue
-- [ ] Create a _Research Review Cycle_ issue
-- [ ] Create a _Research Recruitment & Scheduling_ issue
-- [ ] Create a _Research Sessions_ issue
-- [ ] Create a _Research Synthesis & Topline Report_ issue
-- [ ] Create a _Research Readout & Documentation_ issues
+- [ ] Create a _Change Management Research_ issue
+    - [ ] Add research questions to any planned UX research
+    - [ ] If no other UX research planned, create a _Change Management Resarch Plan and Conversation Guide_ issue
+For Large/XL complex changes:
+  - [ ] Create a _Change Impact Assessment_ issue
+  - [ ] Create a _Change Management Journey Map_ issue
+- [ ] Create a _Communications Plan_ issue
+- [ ] Create a _Training Plan_ issue
+- [ ] Creat a _Research Synthesis_ issue
+- [ ] Create a _Research Readout & Documentation_ issue
 - [ ] Add all the issues to the Research Epic and add dependencies
 
 ## Acceptance Criteria
