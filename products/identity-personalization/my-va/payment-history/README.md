@@ -49,7 +49,7 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 **Key result**: Increase clicks into payment history and debt information by 10% on My VA.
  
-|KPI/metric|Baseline: Q1 2021|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| N/A|140,469|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| N/A|40,313|TBD|
@@ -59,7 +59,7 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
-|KPI/metric|Baseline: Q1 2021|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
 |Search rank for "payment” or "payment history" from My VA (whichever comes first)| #1|#3|TBD|
 |Search rank for "debt” or "debt management" from My VA (whichever comes first)| #5 |#11|TBD|
@@ -67,7 +67,7 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
-|KPI/metric|Baseline: Q1 2021|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
 |Search rank for "payment” or "payment history" (whichever comes first)| #5|#15|TBD|
 |Search rank for "debt” or "debt management" (whichever comes first)| #8|#12|TBD|
@@ -79,7 +79,31 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 <details>  <summary>V2</summary>    
 
-TBD
+### Objective: Bring greater differentiation and more equal weight to debts and payments (payments over emphasized and debts de-emphasized in V1).
+ 
+**Key result: Increase clicks into "Manage your VA debt" CTA by 10%.**
+ 
+[My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
+ 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Clicks into "Manage your VA debt" CTA|TBD|TBD| 
+ 
+### Objective: Elevate copays to My VA.
+ 
+**Key result: Establish baseline metric for clicks into copay CTA from My VA.**
+
+[My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)  
+ 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Clicks into copay CTA|TBD|TBD|
+ 
+**Key result: Increase clicks into the copay tool overall by 10%.**
 
 </details>
 
@@ -217,8 +241,13 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 #### Key Dates
  
 - April 2022: Collab cycle kickoff, design iterations, design intent
-- May 2022: Design updates
-- June 2022: User research
+- May 2022: Design 
+- June 2022: Temporary hold; Midpoint review prep
+- July 2022: Midpoint review; Research
+- Aug 2022: FE documentation; FE build begins
+- Sept 2022: Finish FE build; UAT planning
+- Oct 2022: QA; Analytics request; Staging review; UAT
+- Nov 2022: Launch
  
 </details> 
 
