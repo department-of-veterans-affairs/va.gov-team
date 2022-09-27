@@ -23,4 +23,4 @@ There are no validation use cases for this feature.
 - [Something has gone wrong and VA.gov can’t display any connected apps]
 
 ## Flow diagrams
-- [High-level flow with screenshots](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
+- [High-level flow with screenshots]
