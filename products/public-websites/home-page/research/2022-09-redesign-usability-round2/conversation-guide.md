@@ -222,6 +222,3 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on 
 - Reviewed and approved by Shane Strassberg on 
-
-## Template for Notetaking
-[Notes Template]
