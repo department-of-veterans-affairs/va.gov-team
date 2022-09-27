@@ -1,5 +1,5 @@
 **All Change Management Runbook Issue Templates:** 
-- [Runbook - Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/readme.md) <- You are here
+- [Runbook - Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/readme.md) 
 - [Change Management Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/change-management-research.md)
 - [Change Impact Assessment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/change-impact-assessment.md)
 - [Change Management Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/change-management/change-management-journey-map.md)
