@@ -23,7 +23,8 @@ Applying for health care and ensuring the Veteran understands their current disa
 ## Research Goals	
 The primary goal of our UAT is to confirm that the short form functionality for each of our [use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md) works as expected.
 
-The goals of this user research are to:
+
+The goals of this user acceptance test are to:
 1. Validate that there are no issues or bugs for authenticated users with 50% or greater disability rating on record
 2. Validate that there are no issues or bugs for authenticated users with less than 50% disability rating on record
 3. Validate that there are no issues or bugs for authenticated users with no disability rating on record, but self-report a disability rating of 50% or higher
@@ -58,21 +59,39 @@ Remote via Zoom
 ### Research materials
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md)
 	
-
 ## Participants and Recruitment	
-We would like to work with Perigean to recruit for 10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
+We would like to work with Perigean to recruit for 12 fulfilled remote sessions. Therefore, we request that 20 sessions be scheduled. 
+
+### Recruitment approach
+We will be testing the [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) in production with Veterans.
+
+**Cohorts/Use Cases** 
+At least 3 completed sessions per cohort listed below:
+1. Authenticated with established disability rating of 50% or higher
+2. Authenticated with no established disability rating (self report)
+3. Unathenticated with disability rating of 50% or higher
+4. Unathenticated with disability rating below 50%
+
+### Recruitment criteria
+
+| Total requested | Completed sessions | Veterans | Family Member | Caregivers | Service Members |
+| --------------- | ------------------ | -------- | ------------- | ---------- | --------------- |
+| 20              | 12	               | 20       | 0             | 0          | 0               |
+
+  
 
 **Must have for participants**
+- Participants are not currently receiving health care benefits and have not previously applied
+- At least half of participants must be identity-verified (LOA3)--using ID.me, DSLogon, or MyHealtheVet--on VA.gov? (pass = yes)
+	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
+	- Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes)
+- At least 10 people with a disability rating of 50% or higher
 
-- At least 12 Veterans
-- At least 2 Power of attorney (POA) but no more than 3
-- At least 11 people with a disability rating of 50% or higher 
-     - At least 3 people who use a screenreader (at least 1 that is new to assistive technology)
-     - At least 5 people with a cognitive disability
+
+**Additional criteria**
+- At least 3 people who use a screenreader (at least 1 that is new to assistive technology)
+- At least 5 people with a cognitive disability
 - At least 8 people who will use a mobile device during the research session
-
-
-**Demographic makeup**
 - At least 50% that identify as women or nonbinary
 - At least 50% age 55+
 - At least 50% that live in a rural area
@@ -99,7 +118,7 @@ Date and time of pilot session:
 
 
 ### Research sessions
-Desired Timeline: October (5-16 or 19-30), 2022
+Desired Timeline: October 10-21, 2022
 
 ### Length of sessions
 * Session length: 45 minutes
@@ -132,5 +151,5 @@ October      | TBD
 ## Resources	
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md)
-- [Prod link](https://va.gov/health-care/apply/application/introduction)
+- [Production link](https://va.gov/health-care/apply/application/introduction)
 - [Research Findings]
