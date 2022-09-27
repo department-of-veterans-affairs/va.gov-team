@@ -581,8 +581,8 @@ Facilities team can handle redirects for Facility URLs / content.
 * Sitewide Content team vets the request – IA will approve the requested URLs
 * Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
 * Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
-* Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/releases/job/revproxy-vagov/ 
-  * Job is owned by the Platform team. In case of issue, open a #vfs-platform-support request
+* Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/releases/job/revproxy-vagov/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
+  * If you need offcycle deployment prior to Wed deploy: open a #vfs-platform-support request, Release Tools > Off-Cycle deployment. Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
 * PW verifies in prod, before closing the ticket
 
 
