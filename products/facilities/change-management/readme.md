@@ -22,6 +22,8 @@ This template will be the last one to complete because it should link to the "cr
 Here are the steps to follow when setting up a new change management process:
 - [ ] Pre-work: Validate that the change in question meets the [triage criteria for applying a change management approach](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E)
 - [ ] Pre-work: Make sure you and your Product Owner are aligned on the [roles and responsibilities for change management](URL)
+- [ ] Pre-work: Size the change (M, L, XL) based on the degree and complexity of the change<br>
+See previous change management tickets for examples.
 - [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
 - [ ] Create a _Change Management Research_ issue
