@@ -89,8 +89,6 @@ Let’s start with a few questions...
 
 1. What VA benefits, if any, do you have experience with? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-1. What VA benefits that you *don't* have experience with might you be interested in exploring? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
-
 1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
 1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
@@ -113,12 +111,6 @@ I would like you to share your screen with me--a web browser please. You might w
 - *(refer to Screen sharing instructions above, if needed)*
 
 ### DRAFT IDEAS for tasks: (participants completed 2-13 tasks in the last round of testing; avg 7.8)
-- tasks that didn't go well in last round:
-1. add a spouse--Say that you just got married. How would you tell the VA about your new spouse?
-1. compare educ benefits by school--There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out? (see how goes w/o education links in Other search tools)
-1. ck current disability compensation rates--You'd like to see VA's current disability compensation rates. How would you find this?
-1. [benefit letter or Veteran ID card] Suppose that you need to show that you're a Veteran for a special discount at a store. How would you do that? 
-1. mental health--Recent news stories have affected you more than you expected, and you want to talk to someone about how you're feeling. How would you do this? (to see what people think of where taken)
 1. something about VA news on page (You heard that something has changed about VA benefits...How might you learn more from this web page?
   - Which news box did they go to? *(PACT Act / Pathfinder)
   - What are your impressions? *(news / benefit / ad / ____________)* 
@@ -137,47 +129,41 @@ I would like you to share your screen with me--a web browser please. You might w
 - see if any accessibility issues with megamenu
 
 ### IF/WHEN participant wants to sign in before doing a task...
-- How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header / "Sign in or create an account" button on a content page)*
+- How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header /* 
+  - *"Sign in or create an account" button on a content page > Sign in or Create account link)*
 - *(If not currently on the home page*) Could you please go back to the original page you were on? How might you do that from here?
 - Do you have an account? *(Yes / No / ____________)*
 - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
 - If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
-
-#### Task 2: [Compare VA education benefits and rates by school]
-There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in / Create account / Search / Other search tools / Popular on Va.gov / Benefit hubs / PACT Act / Pathfinder / Header / Footer*
-   
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 6B: [Check the current disability compensation rates] 
-You'd like to see VA's current disability compensation rates. How would you find this?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 13: [Get letters about your VA benefits and service history (benefit letters)]  
-- Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task 14: [Review or update your dependents] 
+#### Task X: [Review or update your dependents] 
 - Say that you just got married. How would you tell the VA about your new spouse?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+#### Task X: [Compare VA education benefits and rates by school]
+There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+#### Task X: [Check the current disability compensation rates] 
+You'd like to see VA's current disability compensation rates. How would you find this?
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+#### Task X: [Show that you're a Veteran (with benefit letter or Veteran ID card)]  
+- Suppose you need to show that you're a Veteran for a special discount at a store. How would you do that?
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -185,30 +171,32 @@ You'd like to see VA's current disability compensation rates. How would you find
 #### Task 16: [Find a mental health counselor or therapist]
 Recent news stories have affected you more than you expected, and you want to talk to someone about how you're feeling.  How would you do this?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-#### Task 10: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
+#### Task X: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-   
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-#### Task 4: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
+#### Task X: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
 Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
+#### Task X: [Updates in VA benefits (VA promo)] 
+New task scenario TBD
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -225,8 +213,10 @@ Your hearing loss from your time in the military has gotten worse over the last 
      1. What are your impressions of what you see here?   
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
 1. If you knew you had to sign in from the beginning, how would you do it from here? could ask how would you do it from the home page?
-2. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
-3. Is there anything else that we haven't talked about that you think I should know? 
+2. Can you look under the Search box and tell me what the last link means to you ("Find benefit resources and support")?
+3. "Managing health care" link?
+4. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
+5. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
