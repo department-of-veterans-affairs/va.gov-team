@@ -133,14 +133,38 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 
 ### On-site notifications
 
-Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
+This assumes we didn't launch last sprint:
 
-- Launch to 100%
-- Monitor analytics through launch
+- Launch to 25%
+- Launch to 50%
 
 ### Payments V2
 
+**PM**
+
 - Analytics request
+- Staging review prep
+- Determine if we need a privacy review
+
+**QA**
+
+- QA
+
+**Design/FE**
+
+- If applicable and if time, start updates from QA
+
+### My VA audit
+
+This might adjust if we determined in the last sprint that we are testing in code, and therefore Taylor might need to start build.
+
+**PM**
+
+- Midpoint review prep
+
+**Design**
+
+- Research planning
 
 ## Sprint 85 (10/19 - 11/1)
 
