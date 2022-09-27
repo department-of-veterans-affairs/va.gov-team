@@ -181,10 +181,14 @@ We'll make this more specific before planning.
 
 ### Accessibility updates
 
-**Design**
+**Design - Liz**
 
 - Research summary
 - Work with PM to determine next steps
+
+**Design - Christina**
+
+- Is there another accessibility issue Christina could start to look into to determine next steps?
 
 **FE**
 
