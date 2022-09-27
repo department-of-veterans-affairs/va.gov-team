@@ -176,6 +176,26 @@ Recent news stories have affected you more than you expected, and you want to ta
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
+#### Task X: [Updates in VA benefits (VA promo)] 
+How could you learn about recent legislation that may change your VA benefits?  
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+
+What are your impressions of what you're looking at? *(news / benefit / ad / ____________)*
+- What do people try to click on? *(headline / image / Read the full article / Learn link what the PACT Act means for you / More VA news)*
+
+How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
+
+How would you see what else is new--if there are other stories from the VA that might be relevant to you? (More VA news / __________)
+How might you learn about updates in VA benefits? (PACT Act or Pathfinger? and click thru to learn more). use the wording of changes to legislation: recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, "legislation that relates to changes in VA benefits and services"
+
+followup q: how would you get more info about this?
+followup q: how would you get information on other topics?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
 #### Task X: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
@@ -186,15 +206,7 @@ Recent news stories have affected you more than you expected, and you want to ta
 - Could you please go back to the original web page you opened?
 
 #### Task X: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
-Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-#### Task X: [Updates in VA benefits (VA promo)] 
-New task scenario TBD
+Pretend that you have hearing loss from your time in the military, and you think it's gotten worse over the last year. You want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
@@ -227,6 +239,10 @@ If you know any other Veterans, caregivers, or service members who might be will
 Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
+- Take note of
+  - any accessibility issues with megamenu
+  - any usage/comments re "Benefit resources and support" link
+  - Use of "VA health care" link
 - Click "End" on zoom website
 - Download recordings
 - Download notes
