@@ -41,7 +41,7 @@ Construct your research questions to learn:
 
 ## Acceptance Criteria
 - [ ] PO has reviewed proposed scope of change management research (in 1-hour working meeting for UX research plan)
-- [ ] This ticket is updated with PO feedback from review meeting
+- [ ] The research plan and coversation guide are updated with PO feedback on change management research questions from review meeting
 
 ### CMS Team
 Please check the team(s) that will do this work.
