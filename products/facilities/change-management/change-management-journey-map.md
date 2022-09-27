@@ -34,4 +34,24 @@ Step 5. Connect activities with dependencies.
 
 Step 6. Validate the first iteration of the map with the team, the Product Owner, User Support, and key stakeholders involved in change management. 
 
-Step 7. Update the map as activity dates are moved and questions or problems addressed. 
+Step 7. Update the map as activity dates are moved and questions or problems addressed.
+
+## Acceptance Criteria
+- [ ] Draft journey map reviewed by product team and User Support
+- [ ] Draft journey map reviewed by Product Owner and any key stakeholders
+- [ ] Journey map updated with all feedback
+- [ ] Journey map updated after beta testing
+- [ ] Journey map updated after launch
+- [ ] Journey map updated after post-launch activities and discussed with Product Manager for areas of improvement
+
+### CMS Team
+Please check the team(s) that will do this work.
+
+- [ ] `Program`
+- [ ] `Platform CMS Team`
+- [ ] `Sitewide Crew`
+- [ ] `⭐️ Sitewide CMS`
+- [ ] `⭐️ Public Websites`
+- [ ] `⭐️ Facilities`
+- [ ] `⭐️ User support`
+
