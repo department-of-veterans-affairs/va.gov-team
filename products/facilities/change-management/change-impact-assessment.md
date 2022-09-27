@@ -47,3 +47,17 @@ Step 5. Based on the number of people impacted and the cumulative change score, 
 - will people need specialized training for this change
 - are there other roles or stakeholders that are impacted by this change, and what are their needs during the transition
 - what are the risks if we don't communicate this change
+
+## Acceptance Criteria
+- [ ] Assessment validated with Product Owner
+
+### CMS Team
+Please check the team(s) that will do this work.
+
+- [ ] `Program`
+- [ ] `Platform CMS Team`
+- [ ] `Sitewide Crew`
+- [ ] `⭐️ Sitewide CMS`
+- [ ] `⭐️ Public Websites`
+- [ ] `⭐️ Facilities`
+- [ ] `⭐️ User support`
