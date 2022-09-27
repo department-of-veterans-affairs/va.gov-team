@@ -18,6 +18,8 @@
 ## Description
 When CMS changes are sized as L or XL and involve beta testing with CMS users, there are a lot of moving parts that benefit from a visual map. Develop a  journey map from the perspective of the CMS editor with input from the team, User Support, the Product Owner and any key stakeholders who will be involved in change management.
 
+[Sample editor journey map](https://app.mural.co/t/vagov6717/m/vagov6717/1643669604223/960c05c3f9f7dbedac43b195cfdd4d84093cd7e1?sender=u31df4f199540466f5c2a0712) (Mural)
+
 ![image](https://user-images.githubusercontent.com/92043982/192608877-517c7b5d-b5e3-460c-90df-9d0928a5cc73.png)
 
 Step 1. Identify the roles apart from the CMS editor who will be involved in change management. Create those actors on the left side of the journey map.
