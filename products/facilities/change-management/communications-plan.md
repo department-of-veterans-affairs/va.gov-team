@@ -28,8 +28,10 @@ The communications plan helps create a roadmap of the required communications in
 Communicating well and often ensures that people going through any change feel supported. Any written communications should be in plain language, concise and consider the editor's context. The following tactics have been used for previous CMS changes. 
 
 Select one or more of these tactics for the Communications Plan:
+
 **One-way**
-- Email -- reaches a larger number of editors but will require review cycles with stakeholders and team members. Typically emails to editors are sent by the client's digital team.
+- Email -- reaches a larger number of editors but will require review cycles with stakeholders and team members. Typically emails to editors are sent by the client's digital team.<br>
+  - [Sample emails[(https://docs.google.com/document/d/1QYA9N06FZhzuX3HFgw3gxQsGdtMzb8Yu7ARumf3rWnM/edit#heading=h.4uq51b1zl92l) (Google Docs)
 - CMS announcement block -- currently the CMS team can post a message on the editor log-in page. This message would be seen by all editors. 
 - Knowledge Base (KB) article -- explains the new or changed feature and can be illustrated with a link to a video
 - Video -- created by the CMS team, a video gives step-by-step instructions on how to use a new or changed feature
