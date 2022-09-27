@@ -1,5 +1,5 @@
 ---
-name: MyHealth Front End Development Task
+name: MHV to VA.gov Front End Development Task
 about: Task for front end development
 title: "[BE] MyHealth: APP NAME: TASK DESCRIPTION"
 labels: frontend, my-health
