@@ -183,6 +183,5 @@ A Postman collection featuring the routes and variables required for web/cookie-
 ## Logging and Monitoring
 The following links will provide information about the SiS.
 
-- Applications logs related to the sign in service in Grafana Loki(https://grafana.vfs.va.gov/d/-q9Nn3unz/sign-in-service-logs?orgId=1&var-env=Loki%20(Staging))
-  - Switch the environment and timing to your preference
-- Sign in service errors in Sentry 
+- Applications logs related to the sign in service in [Datadog](https://vagov.ddog-gov.com/dashboard/3di-esj-7wy/identity-log-queries?index=%2A&tpl_var_deployment_env%5B0%5D=vagov-staging&from_ts=1664276154825&to_ts=1664290554825&live=true) (includes a few other identity related logs but provides examples of queries that can be run for SiS related information)
+- Sign in service [errors in Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=auto&project=4&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity+controller_name%3Asign_in&statsPeriod=30d)
