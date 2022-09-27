@@ -5,10 +5,9 @@ In July 2022 Dave Conlon asked the Public Websites team to pick up the topic of 
 This folder is intended to house documentation of the resumed investigation.
 
 ## Getting around in the demo
-[DRAFT]
 
 Demo location: 
-https://cms-0f356cderyijzermbo7qgoshbfrm3e1q.ci.cms.va.gov/
+https://tugboat.vfs.va.gov/63323c939e6d29933cfdb403
 
 [TBD: demo user]
 
@@ -43,3 +42,26 @@ https://localize.drupal.org/
 
 3. Core module responsible for translation:
 https://www.drupal.org/docs/multilingual-guide/translating-content
+
+### How to replicate this work
+
+1. Enable multi-language
+2. Add Spanish translation
+3. Enable translaton for the Resources & Support content type
+4. Enable translation for all paragraph types
+5. Create a new role: "Translator - Spanish"
+6. Set permissions for the new role as follows:
+  - 'access content overview'
+  - 'access toolbar'
+  - 'create content translations'
+  - 'translate any entity'
+  - 'translate paragraph'
+  - 'translate support_resources_detail_page node'
+  - 'update content translations'
+  - 'update media'
+  - 'use editorial transition create_new_draft'
+  - 'view any unpublished content'
+  - 'view latest version'
+  - 'view own unpublished media'
+  - 'view the administration theme'
+7. Optional: Add custom code to the va_gov_backend_module (`va.gov-cms/docroot/modules/custom/va_gov_backend/va_gov_backend.module`) which restricts editor permissions to Spanish translations only (as opposed to any).
