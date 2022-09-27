@@ -109,10 +109,6 @@ Users can check the status of an existing application if submitted through VA.go
 If VA.gov has all the user information needed when they sign in, they may get a Certificate of Eligibility automatically.
 
 ### Steps to Reproduce
-1. User should receive an alert, "This is an important alert" on landing on the [xyz page]()
-2. User should receive an error when he clicks on xyz button on the [xyz page]()
-
-### Intended Outcomes (if applicable)
 1. Opens the page for [status](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe?postLogin=true)	
 	1. System prompts for a log in
 2. Logs in	
@@ -120,4 +116,8 @@ If VA.gov has all the user information needed when they sign in, they may get a 
 3. Views page 	
 	1. CTAs for downloading COE, making changes to COE online by filling out VA Form 26-1880, and downloading letters exist
 4. Selects Download your COE PDF 0.20MB	
-	1. PDF sample appears 
+	1. PDF sample appears
+
+### Intended Outcomes (if applicable)
+1. User can download their Certificate of Eligibility
+2. User can submit the application 
