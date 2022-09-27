@@ -85,7 +85,8 @@ Password is vagovsite123
 
 - Go ahead and updating the contact information you see here - you can start with any field **except mailing address.** You don’t need to use your real information, but you can if that’s easy for you.  We’ll remove all if it when we’re done.
 - If needed, have them trigger address validation flow by intentionally entering data to make the home address incorrect. An incorrect zip code will usually do the trick.
-- If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving
+- If needed, have them trigger the “Are you sure?” modal by clicking cancel before saving.
+- If needed, have them trigger the “Editing another section” modal by clicking “Edit” in another section before saving.
 - Moderator: ask follow-up questions to understand the participants experience. For example:
 	* Clarify any hesitation spots
 	* What was difficult about making those updates?
