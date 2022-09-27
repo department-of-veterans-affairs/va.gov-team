@@ -45,3 +45,16 @@ Select one or more of these tactics for the Communications Plan:
 - Office hours -- hosted by the client's digital team. These may not be held frequently so plan well in advance. 
 - MS Teams -- the client may have dedicated team chats for editors to share ideas and ask questions. These spaces are not a replacement for User Support, but they can point to upcoming changes with reminders for editors to look for announcement emails.
 
+## Acceptance Criteria
+- [ ] Communications Plan reviewed by PO
+
+### CMS Team
+Please check the team(s) that will do this work.
+
+- [ ] `Program`
+- [ ] `Platform CMS Team`
+- [ ] `Sitewide Crew`
+- [ ] `⭐️ Sitewide CMS`
+- [ ] `⭐️ Public Websites`
+- [ ] `⭐️ Facilities`
+- [ ] `⭐️ User support`
