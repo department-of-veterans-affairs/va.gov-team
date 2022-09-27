@@ -2,25 +2,37 @@
 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
-[Link to product brief](url goes here).
+As a result, we conducted [an audit of My VA](https://app.mural.co/t/vsa8243/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396?sender=uce014850ef6c5a8303e70396) to document and evaluate the following:
+- All of the states of each section of My VA
+- Whether all states are necessary
+- Where we can simplify without losing important personalization
+- How we can bring greater consistency between sections
+
+The design updates we are testing in this study will bring greater consistency to how each section loads, handles errors, and shows conditional information, resulting in a page that is easier to manage and scale. We hypothesize that this will improve the end user experience by highlighting benefits that may be of interest to logged in Veterans, as well as by making it easier for us to continue to add features we know people expect.
+
+[Link to project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Especially since My VA is now the next destination when a Veteran logs into VA.gov due to the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect), it is critical that we present the most relevant updates as quickly and clearly as possible while also highlighting benefits a Veteran may be interested in that they may have previously found on the homepage. Accomplishing these things will fulfill our north star objective of being a single, authoritative source of information that is personalized to the logged in user.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals	
-What are you trying to learn from this research? 
+### **1. Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- What are users logging into VA.gov to do? 
+- Once a user logs in and is redirected to My VA, what would they do next?
+- Are Veterans able to find their top tasks on My VA and act on them if applicable?
+- Is there any important information about top tasks missing on My VA? 
+- Are there any top tasks still missing from My VA?
+
+### **1. Determine if showing all sections all the time is useful to logged in LOA3 users.**
+
+- Do users 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
