@@ -1,7 +1,7 @@
 # [DRAFT] Conversation Guide: Health Care application 10-10EZ, UAT of shortened form based on disability rating, October 2022
 
 - [ ] Make sure dev team has turned on feature for user
-- [ ] Review whether or not the participant roster states the participant has a diability rating and what percentage it is.
+- [ ] Review whether or not the participant roster states the participant has a diability rating and what percentage it is, what group the participant will be testing. 
 - [ ] Start a thread in #feedback-backchannel
 
 ### Starting the session
@@ -36,7 +36,7 @@ Prod link: [https://www.va.gov/health-care/apply/application/introduction](https
 
 As part of the scheduling for this session, we asked what your service-connected disability rating is. According to the info I got, you have a service-connected disability rating of %. Is that correct? _The % determines which flow they will go on_
 
-Please log in to your account.
+Please log in to your account. (Only for groups A and B testing authenticated flows)
 
 ## Health Care application flows 
 
@@ -46,6 +46,7 @@ Please log in to your account.
 - Short form alert accordion opens and closes as expected
 - On each screen green alert accordion open and closes as expected
 - Review page has the proper accordions
+- **Stop here and do not submit - note about removing saved application from profile?**
 
 
 ### Group B (Disability 40% or less or no diability on record)
@@ -64,6 +65,7 @@ Please log in to your account.
 - Short form alert on Medicaid page
 - On each screen green alert accordion open and closes as expected
 - Review page has the proper accordions
+- **Stop here and do not submit - note about removing saved application from profile?**
 
 
 ### Group C unauthenticated
@@ -83,6 +85,7 @@ Please log in to your account.
 - Short form alert on Medicaid page
 - On each screen green alert accordion open and closes as expected
 - Review page has the proper accordions
+- **Stop here and do not submit - note about removing saved application from profile?**
 
 
 
@@ -90,7 +93,12 @@ Please log in to your account.
 Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
-Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day! 
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
+
 
 
 ## Resources	
