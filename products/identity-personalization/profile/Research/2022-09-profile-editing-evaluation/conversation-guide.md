@@ -1,9 +1,10 @@
 # Conversation Guide for Profile Editing Evaluation, September 2022
 
 ## Moderator logistics
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+1. Start a thread in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
+2. Add the [research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/research-plan.md#research-questions) to the session thread, and remind observers you’ll be asking them to post their top 3 insights from the session in the slack thread.
+3. Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+4. Mute your Slack notifications.
 
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -12,26 +13,34 @@
 - Check your screensharing setup and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Liz and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a [number] additional observers during this session?
+Thanks for joining us today! My name is Liz and Brooks is taking notes.
+There are members from the website team who would like to hear your feedback firsthand during our session. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with observers joining this session?
 
+****
 - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
 - If participant consents, admit observers. 
-   - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+- Ask notetaker and observers to give a brief, camera-on, introduction.
+- Once complete ask notetaker and observers to turn off their cameras and mics for remainder of the session to save bandwidth.
+****
 
 Today we're going to talk about making updates to the personal information VA has on file for you.  We’re interested to learn how our current pages support Veterans on their phone when they need to make updates.
 
-*If Veteran has joined from a desktop/laptop:* Do you have a mobile device available you can use for the session? You don’t have to join from Zoom on the phone, but I’d like you to review the website on a phone.
+**For AT/Magnification sessions**
+As part of signing up for the session, we asked if you need (assistive technology/magnification) to use the internet. According to my notes, you normally use [whatever participant has said]. Can you tell me more about that?
 
-*If yes:* Explore laptop hugging method, or have them show you on their phone what they’re doing.
+Are you able to use that during our session today?
 
-*If no:* End the session
+OK, that sounds good.
 
-*Before we start, a few things I want to mention:*
+**If Veteran has joined from a desktop/laptop, and they are not using magnification or a screen reader:** Do you have a mobile device available you can use for the session? You don’t have to join from Zoom on the phone, but I’d like you to review the website on a phone.
+
+*If yes, and they don’t join from Zoom: Explore laptop hugging method, or have them show you on their phone what they’re doing.*
+
+*If no: End the session. This research is scoped only to AT desktop users, or non-AT mobile users.*
+
+Before we start, there are a few things I want to mention:
 
 - **This entire session should take about 35-40 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -47,7 +56,7 @@ Today we're going to talk about making updates to the personal information VA ha
 *Turn on transcription*
 
 ## First Task: Update contact information - 10 minutes
-Can you please start screen sharing with me? I can help you do that if you’re not sure how.
+*If not using laptop hugging method:* Can you please start screen sharing with me? I can help you do that if you’re not sure how.
 
 *Once screen sharing has begun*
 
@@ -121,7 +130,7 @@ Go to bit.ly/vap917
 - When have you needed to update your contact info on VA.gov?
 
 ## Thank-You and Closing - 2 minutes
-*Moderator: Download the transcript from zoom*
+*Moderator: Download the transcript from zoom! Ask observers in the Slack thread to post their top observations.*
 
 That was everything I wanted to get your feedback on today. We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -129,3 +138,5 @@ Thanks! One thing to be on the lookout for - Perigean will be sending you someth
 
 ## Emergency Exit
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+
