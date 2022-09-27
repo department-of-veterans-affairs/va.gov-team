@@ -26,6 +26,16 @@ Here are the steps to follow when setting up a new change management process:
 See previous change management tickets for examples.
 - [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
+- [ ] Create Change Management Runbook ticket<br>
+  Description
+  
+  As a team, we need to understand the impacts of this change on the people using the CMS so we can design the appropriate communications and training approach.
+
+  Acceptance Criteria
+  
+  - Github issue templates created covering each step of the change management process
+  - Requires Product Owner review
+ 
 - [ ] Create a _Change Management Research_ issue
     - [ ] Add research questions to UX Research Plan and Conversation Guide
 
