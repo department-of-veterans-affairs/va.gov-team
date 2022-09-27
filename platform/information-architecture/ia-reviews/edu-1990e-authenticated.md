@@ -27,6 +27,8 @@ Documented by DGIB team: https://accenturefederal.invisionapp.com/freehand/Midpo
 
 ![image](https://user-images.githubusercontent.com/20994159/192578950-a72a435e-3853-450f-8eec-c2de3966642b.png)
 
+Existing 1990e form lives at an old URL, but will not be modified as part of this work.  The site map above includes this old page for reference only, and does not accurately represent the page's placement in the IA.
+
 
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
@@ -51,6 +53,7 @@ New auth 1990e form - canonical URL | /education/survivor-dependent-benefits/app
 **Action** | **Placement** | **Destination** | **Description**
 --- | --- | --- | ---
 Add | [Survivor and dependent benefits page](https://www.va.gov/education/survivor-dependent-benefits/) | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Content and a CTA need to be added around applying for transferred benefits, with a related link referring to the [Transfer Post-9/11 GI Bill benefits](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits).
+Add | Education left nav | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Add option to "Apply to use transferred benefits" (copy TBD by Sitewide Content) to left nav as child of  "Survivor and dependent benefits".  It should be listed as the 3rd option, after DEA.
 Update | [Wizard on Education How to apply page](www.va.gov/education/how-to-apply/)   | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Direct to this page if the following selections are made:  Apply for a new benefit > **Not** claiming a benefit based on own service > Sponsor **is not** deceased, MIA, POW, or 100% disabled > Sponser **has** transferred benefits
 Update | [Wizard on Education eligibility page](https://www.va.gov/education/eligibility/) | same updates as on How to apply page | same updates as on How to apply page
 Update | [Transfer Post-9/11 GI Bill benefits page](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/) | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Under section "How do I transfer the benefit?", update the link to "Apply online now" to go to new 1990e instruction page. This link text should also be updated to be more specific to the action of applying to use a transferred benefit
