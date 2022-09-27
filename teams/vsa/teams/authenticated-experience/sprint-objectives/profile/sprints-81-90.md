@@ -175,6 +175,37 @@ We'll make this more specific before planning.
 
 ## Sprint 84 (10/5 - 10/18)
 
+### Bad address indicator
+
+- Start or continue launch depending on what we were able to do in sprint 83
+
+### Accessibility updates
+
+**Design**
+
+- Research summary
+- Work with PM to determine next steps
+
+**FE**
+
+- Complete any updates that are groomed and ready to go
+
+### Documentation
+
+**PM**
+
+- Determine what documentation is not done, if any, and who needs to complete what (eg. design, FE, BE)
+
+**BE**
+
+- Continue error matrix work, if not done
+
+### General
+
+**BE**
+
+- BGS caching updates
+
 ## Sprint 85 (10/19 - 11/1)
 
 ## Sprint 86 (11/2 - 11/15)
