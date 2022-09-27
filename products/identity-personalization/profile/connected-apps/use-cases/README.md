@@ -9,7 +9,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- [User needs to view or disconnect connected apps]
+- [User needs to view, connect, or disconnect connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps/use-cases/view-connect-and-disconnect-apps.md)
 
 ## Edge cases
 
