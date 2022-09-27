@@ -30,7 +30,8 @@ The [Change Management epic](URL) created for this change included these perform
 - Report quarterly performance results for all change management work to the Product Owner
 
 ## Acceptance Criteria
-- [ ] Change performance metrics reported to PO
+- [ ] Performance data collected and put into deck
+- [ ] Change performance metrics via deck reported to PO
 
 ### CMS Team
 Please check the team(s) that will do this work.
