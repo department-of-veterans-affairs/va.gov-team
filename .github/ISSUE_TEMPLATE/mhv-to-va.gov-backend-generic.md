@@ -1,7 +1,7 @@
 ---
 name: MyHealth Back End Development Task
-about: Task for backend development
-title: "[BE] MyHealth: APP NAME"
+about: Task for back end development
+title: "[BE] MyHealth: APP NAME: TASK DESCRIPTION"
 labels: backend, my-health
 assignees: ''
 
