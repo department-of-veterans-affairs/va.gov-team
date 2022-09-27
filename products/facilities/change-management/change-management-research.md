@@ -40,7 +40,6 @@ Construct your research questions to learn:
 - Preferred way to get updates on changes or additions to the website CMS
 
 ## Acceptance Criteria
-- [ ] This ticket sent to PO 24 hours in advance of meeting for UX research plan
 - [ ] PO has reviewed proposed scope of change management research (in 1-hour working meeting for UX research plan)
 - [ ] This ticket is updated with PO feedback from review meeting
 
