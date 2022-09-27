@@ -16,10 +16,10 @@
 | vets.gov.user+212@gmail.com   | N/A | 1012845700V116007 | 1100647822 |
 | vets.gov.user+258@gmail.com   | N/A | 1012851504V621829 | 1023820672 |
 
-### Request a COE
+## Request a COE
 Users can request a Certificate of Eligibility by signing into VA.gov and completing the form online. 
 
-## Steps to Reproduce
+### Steps to Reproduce
 1. Select "Request a Certificate of Eligibility"
      1. VA Form 26-1880 opens at Step 1 of 6: Your personal information
      2. If available, form has first/middle (maybe--not required)/last name and DoB filled out
@@ -57,28 +57,28 @@ Users can request a Certificate of Eligibility by signing into VA.gov and comple
 	1. System announces that it saved the request.
 	2. Date/time stamp and request ID numbers appear.
 
-## Intended Outcomes (if applicable)
+### Intended Outcomes (if applicable)
 1. User is informed when their application is submitted. 
 2. User is informed when their applicaiton fails to submit.
 3. User is able to check the status of the application in the status tracker.
 
-### Find out if you already have a COE and download it
+## Find out if you already have a COE and download it
 Users can sign into VA.gov to find out if they already have a Certificate of Eligibility and download it.
 
-## Steps to Reproduce
+### Steps to Reproduce
 1. Signs in (either from the top menu or from the button Sign in to start your request)
 2. Accesses information link on COE that details how to download a government PDF ("Get instructions for downloading a VA.gov PDF")
 3. Downloads COE
 
-## Intended Outcomes (if applicable)
+### Intended Outcomes (if applicable)
 1. User can download their Certificate of Eligibility
 2. User can check the status of their existing application
 3.  User can submit the application
 
-### Check the status of your request
+## Check the status of your request
 Users can check the status of an existing application if submitted through VA.gov.
 
-## Steps to Reproduce
+### Steps to Reproduce
 1. Opens the page for [status](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe?postLogin=true)	
 	1. System prompts for a log in
 2. Logs in	
@@ -102,17 +102,17 @@ Users can check the status of an existing application if submitted through VA.go
 9. Selects Submit request (at the end of the form, on step 6)	
 	1. Confirmation appears
 
-## Intended Outcomes (if applicable)
+### Intended Outcomes (if applicable)
 1. User sees their status as pending, eligible, or denied. 
 
-### Get an automatic COE
+## Get an automatic COE
 If VA.gov has all the user information needed when they sign in, they may get a Certificate of Eligibility automatically.
 
-## Steps to Reproduce
+### Steps to Reproduce
 1. User should receive an alert, "This is an important alert" on landing on the [xyz page]()
 2. User should receive an error when he clicks on xyz button on the [xyz page]()
 
-## Intended Outcomes (if applicable)
+### Intended Outcomes (if applicable)
 1. Opens the page for [status](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe?postLogin=true)	
 	1. System prompts for a log in
 2. Logs in	
