@@ -118,7 +118,7 @@ I would like you to share your screen with me--a web browser please. You might w
 - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
 - If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
-### Task X: [Show that you're a Veteran (with benefit letter or Veteran ID card)]  
+### Task 1: [Show that you're a Veteran (with benefit letter or Veteran ID card)]  
 Suppose you need to show that you're a Veteran for a special discount at a store. How would you do that?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -126,7 +126,7 @@ Suppose you need to show that you're a Veteran for a special discount at a store
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [Find a mental health counselor or therapist]
+### Task 2: [Find a mental health counselor or therapist]
 Pretend that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling.  How would you do that?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -134,7 +134,7 @@ Pretend that you've been going through some challenges in your life recently, an
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [Updates in VA benefits (VA promo)] 
+### Task 3: [Updates in VA benefits (VA promo)] 
 How could you learn about recent legislation that may change your VA benefits?  
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -150,7 +150,7 @@ How could you learn what else is new--see if there are other stories from the VA
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [Review or update your dependents] 
+### Task 4: [Review or update your dependents] 
 - Say that you just got married. How would you tell the VA about your new spouse?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -158,15 +158,7 @@ How could you learn what else is new--see if there are other stories from the VA
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [Compare VA education benefits and rates by school]
-There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task X: [Check the current disability compensation rates] 
+### Task 5: [Check the current disability compensation rates] 
 You'd like to see VA's current disability compensation rates. How would you find this?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -174,7 +166,15 @@ You'd like to see VA's current disability compensation rates. How would you find
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
+### Task 6: [Compare VA education benefits and rates by school]
+There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+### Task 7: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
@@ -183,7 +183,7 @@ You'd like to see VA's current disability compensation rates. How would you find
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
 
-### Task X: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
+### Task 8: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
 Pretend that you have hearing loss from your time in the military, and you think it's gotten worse over the last year. You want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
@@ -191,7 +191,7 @@ Pretend that you have hearing loss from your time in the military, and you think
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?\
 
-## Post-Task Interview - 15 minutes
+## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
 1. What worked *well* for you?
