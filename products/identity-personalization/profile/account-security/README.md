@@ -29,6 +29,8 @@ Account security is a section of the profile where users can do the following:
 
 Once these tasks are done, users can see that they've been completed. Otherwise, there aren't any other tasks that are part of account security at this time.
 
+For more information on signing in see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md).
+
 ## User Problem Statement
 
 As a user I need to:
