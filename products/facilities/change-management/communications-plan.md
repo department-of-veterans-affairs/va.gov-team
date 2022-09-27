@@ -18,7 +18,7 @@
 ## Description
 The communications plan helps create a roadmap of the required communications including senders, key messages, timing and delivery channels.
 
-Communicating well and often ensures that people going through any change feel supported. Any written communications should be in plain language, concise and consider the editor's context. 
+Communicating well and often ensures that people going through any change feel supported. Any written communications should be in plain language, be concise and consider the editor's context. 
 
 ## Workflow
 - Develop the draft plan in Google Docs for input from team members
