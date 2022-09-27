@@ -81,7 +81,7 @@ At least 3 completed sessions per cohort listed below:
 
   
 **Must have for participants**
-- Participants are not currently receiving health care benefits and have not previously applied
+- Participants are not currently receiving health care benefits and have not previously applied but are interested in applying
 - At least half of participants must be identity-verified (LOA3)--using ID.me, DSLogon, or MyHealtheVet--on VA.gov? (pass = yes)
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
 	- Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes)
