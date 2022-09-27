@@ -184,11 +184,11 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews |
 | 271 | Fourteen, Patient | 1935-04-07 | Kristen |
 | 723 | Twentysix, Patient | 1935-04-07 | Adrian |
-| 366 | Twentyeight, Patient | 1935-04-07 | Dan |
+| 366 | Twentyeight, Patient | 1935-04-07 | John |
 | 350 | Twentynine, Patient | 1935-04-07 | Gaurav |
 | 391 | Thirty, Patient | 1935-04-07 | Lori |
 | 384 | Thirtyone, Patient | 1935-04-07 | Kanchana |
-| 140 | Thirtytwo, Patient | 1935-04-07 | Nira |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras |
 | 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
 | 217 | Nine,Patient | 1935-04-07 | Charley |
