@@ -59,6 +59,8 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
  - Events 
     - Are these National? Local? Hybrid? And what is the maintenance load?
+ - Subscribe to updates   
+    - Will this use Gov delivery?
  - Spotlights 
     - Are these National? Local? Hybrid? And what is the maintenance load?
  - Leadership profiles (is this really MVP or fast-follow?)
