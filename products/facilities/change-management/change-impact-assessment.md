@@ -29,14 +29,14 @@ We do this by gauging the impact of the product change across 5 dimensions:
 - If it means a job role change for a particular group of people
 - The duration of the change
 
-Step 1. Use pre-existing or new business research to understand which roles are involved in the CMS change and how many people are in those roles. Also pull from the research the insights that give us a sense of the change impacts on these roles.
+Step 1. Use pre-existing or new business research to understand which roles are involved in the CMS change and how many people are in those roles. Also pull from the research the insights that give us a sense of the change impacts on these roles. List the roles in the appropriate sections of the spreadsheet (either user or stakeholder group).
 
-Step 2. Record the degree of change on a scale of 1 to 5, with 5 being high in each of the 5 dimension columns. The cumulative change score will appear automatically based on an underlying simple equation.
+Step 2. For each role, record the degree of change on a scale of 1 to 5, with 5 being high in each of the 5 dimension columns. The cumulative change score will appear automatically based on an underlying simple equation.
 
 ![image](https://user-images.githubusercontent.com/92043982/192603869-7a0061f9-41e2-4021-ae41-ff201ea099f9.png)
 
 
-Step 3. Add the estimated or actual number of people in the role.
+Step 3. Add the estimated or actual number of people in each role.
 
 Step 4. Observe which roles have the highest change score and the number of people in those roles.
 
