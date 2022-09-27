@@ -28,7 +28,7 @@ The findings from this research will help our team understand how well our curre
 
 ### Research questions
 1. What challenges do people encounter related to in-line editing, especially address information and notification preferences?
-2. How easily can people navigate the address validation flow?
+2. How easily can people understand and navigate address validation?
 3. Do people encounter any usability hurdles with updating notification settings?
 
 ### Hypothesis
