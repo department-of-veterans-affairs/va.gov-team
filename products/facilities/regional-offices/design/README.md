@@ -60,7 +60,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
  - Events 
     - Are these National? Local? Hybrid? And what is the maintenance load?
  - Subscribe to updates   
-    - Will this use Gov delivery?
+    - Will this use GovDelivery?
  - Spotlights 
     - Are these National? Local? Hybrid? And what is the maintenance load?
  - Leadership profiles (is this really MVP or fast-follow?)
