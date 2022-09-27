@@ -211,6 +211,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 ## After Session 
 - Take special note of
   - how far down they scrolled on the home page
+  - any issues using a screen reader or smartphone
   - any accessibility issues with megamenu
   - any usage/comments re "Benefit resources and support" link
   - usage of "VA health care" link
