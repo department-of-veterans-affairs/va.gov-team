@@ -50,7 +50,7 @@ The goals of this user acceptance test are to:
 ### User acceptance testing (UAT)
 We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on any usability-related findings.
 
-Testing in production to validate both authenticated and unauthenticated flows for various disability ratings.
+Testing in production to validate both authenticated and unauthenticated shortened flows.
 [Production link](https://va.gov/health-care/apply/application/introduction)
 
 ### Location
@@ -65,7 +65,8 @@ We would like to work with Perigean to recruit for 12 fulfilled remote sessions.
 ### Recruitment approach
 We will be testing the [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) in production with Veterans.
 
-**Cohorts/Use Cases** 
+**Groups/Use Cases**
+
 At least 3 completed sessions per cohort listed below:
 1. Authenticated with established disability rating of 50% or higher
 2. Authenticated with no established disability rating (self report)
@@ -79,14 +80,12 @@ At least 3 completed sessions per cohort listed below:
 | 20              | 12	               | 20       | 0             | 0          | 0               |
 
   
-
 **Must have for participants**
 - Participants are not currently receiving health care benefits and have not previously applied
 - At least half of participants must be identity-verified (LOA3)--using ID.me, DSLogon, or MyHealtheVet--on VA.gov? (pass = yes)
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
 	- Can you log-in using your ID.me, DSLogon, or MyHealtheVet username and password now? (pass = yes)
 - At least 10 people with a disability rating of 50% or higher
-
 
 **Additional criteria**
 - At least 3 people who use a screenreader (at least 1 that is new to assistive technology)
