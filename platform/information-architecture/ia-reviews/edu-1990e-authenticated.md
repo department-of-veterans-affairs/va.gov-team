@@ -30,28 +30,31 @@ Documented by DGIB team: https://accenturefederal.invisionapp.com/freehand/Midpo
 
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
-New auth 1990e form - canonical URL | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/  | Home > Education and training  > VA education benefits for survivors and dependents > [H1 of form] |  The canonical URL Is what will be used for entry links to the form.  The form should resolve to the appropriate first page of the form flow (in this case, it would resolve to /introduction/, in the future this could resolve to /start/ if the wizard is relocated to the form flow)
-1990e Application Instructions |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction | Same as initial page of form | ---
-1990e Applicant Information | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/applicant-information | Same as initial page of form | ---
-1990e Sponsor information  |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-information | Same as initial page of form | ---
-1990e Sponsor information-High School |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-high-school | Same as initial page of form | ---
-1990e Sponsor information-High School-Date Received |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-high-school-completion| Same as initial page of form | ---
-1990e Contact Information-Phone/Email | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/phone-email | Same as initial page of form | ---
-1990e Contact Information-Mailing Address |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/mailing-address | Same as initial page of form | ---
-1990e Contact Information-Follow-up Questions/Preferences | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/preferred-contact-method | Same as initial page of form | ---
-1990e Direct Deposit |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/direct-deposi t| Same as initial page of form | ---
-1990e Application Review |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/review | Same as initial page of form | ---
-1990e Application Confirmation |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/confirmation| Same as initial page of form | ---
+New auth 1990e form - canonical URL | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/  | Home > Education and training  > VA education benefits for survivors and dependents > [H1 of form] |  The canonical URL Is what will be used for entry links to the form.  The form should resolve to the appropriate first page of the form flow (in this case, it would resolve to /introduction/)
+1990e Application Instructions |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction/ | Same as initial page of form | ---
+1990e Applicant Information | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/applicant-information/ | Same as initial page of form | ---
+1990e Sponsor information  |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-information/ | Same as initial page of form | ---
+1990e Sponsor information-High School |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-high-school/ | Same as initial page of form | ---
+1990e Sponsor information-High School-Date Received |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/sponsor-high-school-completion/ | Same as initial page of form | ---
+1990e Contact Information-Phone/Email | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/phone-email/ | Same as initial page of form | ---
+1990e Contact Information-Mailing Address |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/mailing-address/ | Same as initial page of form | ---
+1990e Contact Information-Follow-up Questions/Preferences | /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/preferred-contact-method/ | Same as initial page of form | ---
+1990e Direct Deposit |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/direct-deposit/ | Same as initial page of form | ---
+1990e Application Review |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/review/ | Same as initial page of form | ---
+1990e Application Confirmation |  /education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/confirmation/ | Same as initial page of form | ---
 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities. This is not intended to capture all entry points or referring links, just those critical to the experience*
 
 **Action** | **Placement** | **Destination** | **Description**
 --- | --- | --- | ---
-Add | [Wizard on Education How to apply page](www.va.gov/education/how-to-apply/)   | New auth 1990 form - /education/apply-for-gi-bill-benefits-form-22-1990/ |  If user selects "yes" for Post-9/11 GI Bill 
-Add | [Wizard on Education How to apply page](www.va.gov/education/how-to-apply/)   | Existing 1990 form - /education/apply-for-education-benefits/application/1990/  |  If "no" for Post-9/11 GI Bill 
+Add | [Survivor and dependent benefits page](https://www.va.gov/education/survivor-dependent-benefits/) | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Content and a CTA need to be added around applying for transferred benefits, with a related link referring to the [Transfer Post-9/11 GI Bill benefits](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits).
+Update | [Wizard on Education How to apply page](www.va.gov/education/how-to-apply/)   | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Direct to this page if the following selections are made:  Apply for a new benefit > **Not** claiming a benefit based on own service > Sponsor **is not** deceased, MIA, POW, or 100% disabled > Sponser **has** transferred benefits
+Update | [Wizard on Education eligibility page](https://www.va.gov/education/eligibility/) | same updates as on How to apply page | same updates as on How to apply page
+Update | [Transfer Post-9/11 GI Bill benefits page](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/) | New instructions page - www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ | Under section "How do I transfer the benefit?", update the link to "Apply online now" to go to new 1990e instruction page. This link text should also be updated to be more specific to the action of applying to use a transferred benefit
+
 
 
 
