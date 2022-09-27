@@ -28,3 +28,18 @@ The [Change Management epic](URL) created for this change included these perform
   - use the data to discuss the communications tactics that were chosen and if the approach needs to refined for future CMS changes
 - Add the performance data to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting
 - Report quarterly performance results for all change management work to the Product Owner
+
+## Acceptance Criteria
+- [ ] Change performance metrics reported to PO
+
+### CMS Team
+Please check the team(s) that will do this work.
+
+- [ ] `Program`
+- [ ] `Platform CMS Team`
+- [ ] `Sitewide Crew`
+- [ ] `⭐️ Sitewide CMS`
+- [ ] `⭐️ Public Websites`
+- [ ] `⭐️ Facilities`
+- [ ] `⭐️ User support`
+
