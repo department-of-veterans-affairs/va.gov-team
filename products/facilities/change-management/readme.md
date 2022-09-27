@@ -24,7 +24,7 @@ Here are the steps to follow when setting up a new change management process:
 - [ ] Pre-work: Make sure you and your Product Owner are aligned on the [roles and responsibilities for change management](https://docs.google.com/spreadsheets/d/1BDmdiQcjKAijBGRrq0HsfRZP_bqDm1Ul/edit#gid=1182457863)
 - [ ] Pre-work: Size the change (M, L, XL) based on the degree and complexity of the change<br>
 See previous change management tickets for examples.
-- [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/.github/ISSUE_TEMPLATE/change-management-epic.md) for your product/initiative
+- [ ] Create a Change Management [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/.github/ISSUE_TEMPLATE/change-management-epic.md) for your product/initiative and link to initiatives's super epic
 - [ ] Add the issue to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting 
 - [ ] Create Change Management Runbook ticket<br>
   Description
