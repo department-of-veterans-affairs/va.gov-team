@@ -23,15 +23,17 @@ The [Change Management epic](URL) created for this change included these perform
 ## Workflow
 - if the goal is to validate adherence to VA policies and standards, open a ticket for a dashboard tool and/or audit of the area of the CMS involved in the change
 - if the goal is to gauge the degree of editor self-support after the change, search the [Jira ticket system](https://va-gov.atlassian.net/jira/servicedesk/projects/VAHELP/queues/custom/22) for instances of support associated with the CMS area that has been changed (requires Jira access)
-- Report the performance metrics to the Product Manager, Delivery Manager, Product Owner and client digital team
+- Report the performance metrics to the Product Manager, Delivery Manager, Product Owner and client digital team via a deck
   - include analytics data about the [number of relevant KB articles accessed](https://analytics.google.com/analytics/web/#/report-home/a50123418w196569434p211458524) and [videos viewed](https://studio.youtube.com/channel/UC5Y2p4ASQ5HdRR-pQ8RVQKQ/analytics/tab-overview/period-default) (requires Google Analytics and Youtube admin access)
   - use the data to discuss the communications tactics that were chosen and if the approach needs to refined for future CMS changes
+  - [sample deck](https://docs.google.com/presentation/d/1mj3UlauuoF6QzQfCfxqPDfHsGOBWYUgIaLNXfd4eAvg/edit#slide=id.gcd567e2ae4_0_432)
 - Add the performance data to the [VA.gov CMS Change Management Airtable](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide) for quarterly tracking and reporting
-- Report quarterly performance results for all change management work to the Product Owner
+- Report quarterly performance results for all change management work to the Product Owner using a report output from Airtable
 
 ## Acceptance Criteria
 - [ ] Performance data collected and put into deck
 - [ ] Change performance metrics via deck reported to PO
+- [ ] Deck downloaded to MS PowerPoint and sent to PO
 
 ### CMS Team
 Please check the team(s) that will do this work.
