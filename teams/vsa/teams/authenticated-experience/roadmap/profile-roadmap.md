@@ -1,16 +1,16 @@
 # VA.gov profile roadmap
 
-**Updated August 26, 2022**
+**Updated September 28, 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| QA|
-|Forms system updates | FE implementation|
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|UAT|
 |Notification preferences: Integration MHV prefs| Planning |
 |Documentation updates| Ongoing|
 |Accessibility audit| Planning|
+|Forms system updates |**On hold**|
 
 
 ### Projected timelines for current projects & enhancements
@@ -19,10 +19,11 @@
 |----|----|----|----|----|
 |**Bad address indicator** | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
 |**Integrate military info through VA Profile**| - | Update integration | Launch if not already done |- |
-|**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
 |**Notification preferences: Integration MHV prefs**| - | - | Planning | Work TBD |
 |**Documentation updates**| - | Direct deposit docs | Docs for all other profile sections | - |
 |**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |
+|**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
+
 
 ## Completed projects & enhancements
 
