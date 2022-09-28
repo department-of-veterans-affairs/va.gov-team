@@ -1,27 +1,26 @@
 # My VA roadmap
 
-**Updated August 29, 2022**
+**Updated September 28, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2|Build|
-|My VA redirect| Launch to 25%|
-|My VA audit| Design|
+|Payments & Debts/copays V2|QA|
+|My VA audit| Design; Research|
 
 ### Projected timelines for current projects
 
 |Project|Q1 2022|Q2 2022|Q3 2022|Q4 2022
 |----|----|----|----|----|
 |**Payments & Debts/copays V2**|-|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
-|**Redirect from homepage to My VA at login**|-|Planning; Development|UAT; Pre-launch tasks and reviews; Launch|-|
 |**My VA audit**|-|Documentation; Determine next steps for My VA; |Update designs; Research; FE updates|Pre-launch tasks and reviews; Launch|
 
 ## Completed projects
 
 |Project|Launch/Completion date|
 |----|----|
+|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
