@@ -1,6 +1,5 @@
 # Research Plan for Authenticated Experience, My VA Audit, October 2022
 
-
 ## Background
 As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
@@ -22,7 +21,7 @@ Especially since My VA is now the next destination when a Veteran logs into VA.g
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals	
-### **1. Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
+### **1.Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
 
 - What are users logging into VA.gov to do? 
 - Once a user logs in and is redirected to My VA, what would they do next?
@@ -30,18 +29,18 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 - Is there any important information about top tasks missing on My VA? 
 - Are there any top tasks still missing from My VA?
 
-### **1. Determine if showing all sections all the time is useful to logged in LOA3 users.**
+### **2.Determine if we are handling sections on My VA that don't apply to a logged in user effectively.**
 
-- Do users 
+- For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
+- Do users know how to find out more about benefits they are not currently enrolled in?
+
+### **3.Determine if the order of sections on My VA aligns with Veterans mental model.**
+
+- For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
+- Do users know how to find out more about benefits they are not currently enrolled in?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Based on our findings, we will determine if updates are needed and continue onto the next step of the collaboration cycle.
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
