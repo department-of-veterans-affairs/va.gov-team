@@ -9,7 +9,7 @@
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|UAT|
 |Notification preferences: Integration MHV prefs| Planning |
 |Documentation updates| Ongoing|
-|Accessibility audit| Planning|
+|Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
 |Forms system updates |**On hold**|
 
 
