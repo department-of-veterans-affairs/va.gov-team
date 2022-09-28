@@ -85,16 +85,29 @@ Deactivated:
 
 ## VA Forms Contacts
 __VA forms stakeholder working group includes:__
-- Huber, Diane <Diane.Huber@va.gov>
-- Walker, Stephen <Stephen.Walker4@va.gov>
-- Ranes, Michelle M. <michelle.ranes@va.gov>
-- Reid, Kevin <Kevin.Reid@va.gov>
-- Keyes, Janel <Janel.Keyes@va.gov>
+
+### Forms managers
+|Name|Role re: Forms|
+|----|----|
+|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL)|
+|Keyes, Janel <Janel.Keyes@va.gov>  | VHA Forms manager|
+|Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
+|Allmond, Yvette M. <yvette.allmond@va.gov> | Forms manager|
+|Swearinger-Smith, Gail T. (VACO)" <Gail.SwearingerSmith@va.gov>|VHA forms admin|
+
+
+### Forms DB
+Forms DB is in maintenance mode.
+- Reid, Kevin <Kevin.Reid@va.gov> -- Owner
+
+### Other folks
+- Huber, Diane <Diane.Huber@va.gov> - OIT / Development, Security & Operations
+- Walker, Stephen <Stephen.Walker4@va.gov> - OIT, IT Specialist
+- Ranes, Michelle M. <michelle.ranes@va.gov> - OIT, Senior IT Specialist/ Web Dev
 - McCarthy, Brian <Brian.McCarthy4@va.gov> (former VA point of contact during Find a VA Form MVP)
-- Smith, Jeremy <Jeremy.Smith@va.gov>
-- Tuscher, Joshua <joshua.tuscher@va.gov>
-- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>
-- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>
+- Smith, Jeremy <Jeremy.Smith@va.gov> - VHA Program analyst
+- Tuscher, Joshua <joshua.tuscher@va.gov> - OPIA Media technologist
+- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov> - 
 
 ### Contacts by Business Line - last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>
 ![image](https://user-images.githubusercontent.com/73354907/138717356-491698da-1d70-49d8-8658-281125bf55c1.png)
