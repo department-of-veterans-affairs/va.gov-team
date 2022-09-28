@@ -15,14 +15,14 @@
           - **Tarsha** will send email to supervisory group to get the conversation started
 
 - Household section
-     - The household section of the Online form has been reported as a difficult section to get through, some questions are not clear, and it can be overwhelming.
+     - The Household section of the Online form has been reported as a difficult section to get through, some questions are not clear, and it can be overwhelming.
      - We are reviewing the section and considering some optimization to make the section easier to handle, easier to answer, quicker to complete and more accessible for applicants that may use alternative methods of navigating the form (assistive tech, zooming tools, etc)
      - QUESTION: How is the Spouse and Dependent information used, other than for financial implications?
           - Used for financials assessment (means test)and determine the priority group/enrollment status that the Veteran is eligible for
           - This is verified through SSN administration as well
           - If the Veteran chooses not to disclose financials, and does not have an eligible service history, they will receive a letter that they will not be enrolled, will be in 8G status.
           - Marital status question is still asked when the Veteran chooses not to disclose financials (no spouse details are collected).  Is this still needed?
-          - 
+                - **Heather** will review this more to check on the requirement of gathering the marital status
           
 ---
 
