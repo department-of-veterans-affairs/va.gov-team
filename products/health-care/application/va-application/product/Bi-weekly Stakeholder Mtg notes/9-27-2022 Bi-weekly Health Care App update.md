@@ -3,16 +3,16 @@
 ### 9/27/22 Agenda Items
 - Short form status – Are we pass the 5% flow?
      - We are still at 5% with no issues to report.  We are gearing up to perform UAT with Veterans to confirm usability and gather any other feedback
-     - **Heather** to collect and send Sentry details on where Veterans may be getting errors within the Short form flow that stopped them from submitting.
+     - [ ]  **Heather** to collect and send Sentry details on where Veterans may be getting errors within the Short form flow that stopped them from submitting.
 - Indian Health status – Have any issues come up since release?  Are we still at 25% flow?
      - We are at 25% with no issues to report
      - We plan to increase this to 50% on Thursday morning
-     - **Heather** to respond to previous email including folks to update on the increase
+     - [x] **Heather** to respond to previous email including folks to update on the increase
 - Is there a way to get details around files that are uploaded for DD214 evidence, and whether or not the documents are acceptable?
      - For example, if a document was uploaded but it wasn't a DD214, instead it was a picture of a dog or a lunch menu - that would be considered not acceptable
      - We are curious if there are any issues or concerns around documents that are uploaded, and whether it is something we might want to look into.
      - There have not been any reports of issues or large volumes of incorrect/invalid documents - could check with EED team (Enrollment Eligibility Department)
-          - **Tarsha** will send email to supervisory group to get the conversation started
+          - [ ] **Tarsha** will send email to supervisory group to get the conversation started
 
 - Household section
      - The Household section of the Online form has been reported as a difficult section to get through, some questions are not clear, and it can be overwhelming.
@@ -22,7 +22,7 @@
           - This is verified through SSN administration as well
           - If the Veteran chooses not to disclose financials, and does not have an eligible service history, they will receive a letter that they will not be enrolled, will be in 8G status.
           - Marital status question is still asked when the Veteran chooses not to disclose financials (no spouse details are collected).  Is this still needed?
-                - **Heather** will review this more to check on the requirement of gathering the marital status
+               - [ ] **Heather** will review this more to check on the requirement of gathering the marital status
           
 ---
 
