@@ -175,6 +175,7 @@ A Postman collection featuring the routes and variables required for web/cookie-
 ```
 
 ## Revoke All Endpoint
+- This endpoint has not yet been implemented to take any action (it will not logout all endpoints) as of 9/28/22. We have the item on the roadmap with the current restriction around how this will feature will be presented to the user.
 - This endpoint expects a valid access token from the user to be present when calling the `revoke_all` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
 
 ## Revocation Endpoint
