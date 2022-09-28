@@ -6,7 +6,7 @@
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
 - [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
-
+- [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 
 ## Backlog & Roadmap
 - [Priorities](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661259690010/d8a74b136b1ed8727b2d08fdf55298aa1ffeafab?sender=ud3aa760e30b39bcf436d4473)
