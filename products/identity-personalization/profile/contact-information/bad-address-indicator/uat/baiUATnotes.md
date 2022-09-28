@@ -1,4 +1,4 @@
-## BAI UAT Notes - 9/29/2022
+## BAI UAT Notes - 9/29/22
 
 Purpose of this UAT: We are checking to make sure that the mailing address alerts show up on everyone’s accounts and that the information is correct and the functionality operates as intended.
 
