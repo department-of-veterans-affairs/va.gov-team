@@ -20,6 +20,8 @@ Login and share screen - 1 minute
 
 _Participant shares screen_
 
+_Start recording_
+
 ---------------------------------------------------------------
 
 ## Task #1: Review Personal information page and alert - 1 minute
