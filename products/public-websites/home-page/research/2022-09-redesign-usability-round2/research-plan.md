@@ -27,8 +27,8 @@ This research will inform release decisions, as well as future research and desi
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
 1. Are participants able to successfully complete tasks from the home page without getting stuck?
-    1. How do task success rates compare to those in the first round of usability testing?
-    2. How do task success rates compare to those in the baseline wayfinding study last year?
+    1. For tasks previously assessed, how do task success rates compare to those in the first round of usability testing?
+    2. For tasks previously assessed, how do task success rates compare to those in the baseline wayfinding study last year?
 1. Which parts of the home page do participants use to complete tasks? 
     1. Benefit promo at top of page (PACT Act article)
     2. "Create account" button
@@ -40,22 +40,20 @@ This research will inform release decisions, as well as future research and desi
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
 1. Do participants know when to use the "Sign in" *vs.* "Create account" buttons?
-1. Do participants scroll all the way down the page to the footer? Do they stop at the row of photos?
 1. Is there anything that participants find unclear or confusing on the home page, especially when using a smartphone or a screen reader? 
 1. What are participants' impressions of the two new promo sections (with PACT Act and Pathfinder news articles)?
-    1. Do they interpret them as news?
-    1. What do they think of the "More VA News" link?
     1. How would they get more details on these topics?
-    1. How would they get stories on other topics?
+    1. How would they get stories on other topics? 
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
+- Benefit promo (PACT Act article)
 - "Create account" button
 - The new search box
 - "Other search tools"
 - "Popular on VA.gov"
+- VA News promo (PathFinder article)
 - Benefit hubs
-- Both promos
 
 ### Hypotheses
 1. The revised home page design will result in improved task success rates as compared to the first round of usability testing, especially including the tasks below.
@@ -66,13 +64,12 @@ In this research, we are primarily interested in the following areas of the home
         4. File for disability increase (50%)
     2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
         1. Message your doctor (83%)
-        1. Add spouse (Review/update dependents) (56%)
+        1. Add spouse (Review/update dependents) (56%) -- also listed above
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
-1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
 1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-1. Participants understand that the two promos are news.
-2. Participants will be interested in the two promos and know how to learn more about them.
+1. Participants will be interested in the two promos and know how to learn more about them.
+1. Participants understand that the bottom promo is news and know how to get more news stories.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **tasks as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server, including some that didn't go well in the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md).
