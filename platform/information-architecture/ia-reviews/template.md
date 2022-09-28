@@ -7,27 +7,25 @@
 
 **On this page:**
 - [User flows](#flows)
-- [IA structure, URLs and breadcrumbs](#ia)
-- [Navigation and entry points](#nav)
+- [Page structure](#map)
+- [URLs and breadcrumbs](#url)
+- [Entry points](#nav)
 - [Redirects](#redirects)
 - [Meeting notes](#notes)
 
 
-## <a name="flows"></a>User/Page Flows <br>
+## <a name="flows"></a>User flows <br>
 *Description of how users will flow through the experience*
 
-[Image of user flow]
+
+# <a name="map"></a>Page structure<br>
+*Description, image, or link to the organizational structure (i.e. site map)*
 
 
-## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
-*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-### Site maps
+# <a name="url"></a>URLs and breadcrumbs
+*URLs and breadcrumbs*
 
-[Image of site map]
-
-
-### Pages, URLs and Breadcrumbs 
 
 **1) [Page name] - [Existing/New]**
 - URL:
@@ -40,8 +38,8 @@
 - Notes: 
 
 
-## <a name="nav"></a>Navigation and Primary Entry Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+## <a name="nav"></a>Entry points <br>
+*The primary entry points and changes to global navigation*
 
 
 1. [Page or component name] - [Add/Modify/Remove]
@@ -69,5 +67,5 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 <hr>
 
-## <a name="notes"></a>Meetings Notes and Background Info
+## <a name="notes"></a>Meetings notes and background info
 
