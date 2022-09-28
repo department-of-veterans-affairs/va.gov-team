@@ -35,17 +35,17 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 *Using last 6 months (Jan-June 2022) to calculate Baselines*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Application starts per Month | 20.8k | TBD | TBD |
-| Avg. Submissions per Month | 13.7k | TBD | TBD |
-| Pct. Applications Completed | 66% | TBD | TBD |
+| Avg. Application starts per Month | 12,974k | 2,546 | TBD |
+| Avg. Submissions per Month | 4,196k | 1,900 | TBD |
+| Pct. Applications Completed | 32.3% | 74.6% | TBD |
 
 **Key Result 2:** Reduce Sesssions / Time taken to complete application 
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Sessions per Submission | 1.38 | TBD | TBD |
-| Avg. Single sessions per Month | 8,103 | TBD | TBD |
-| Avg. 2 sessions per Month | 2,857 | TBD | TBD |
-| Avg. 3 or more sessions per Month | 1,764 | TBD | TBD |
+| Avg. Sessions per Submission | 1.52 | 1.50 | TBD |
+| Avg. Single sessions per Month | 8,103 | 1,289 | TBD |
+| Avg. 2 sessions per Month | 2,857 | 393 | TBD |
+| Avg. 3 or more sessions per Month | 1,764 | 191 | TBD |
 
 **Key Result 3:** Reduce abandoned applications
 
@@ -54,7 +54,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 | ------------ | ------------------ | ------------------- |------------------- |
 | Avg. Applications Abandoned per month |2,185 6mo. avg | 469 | TBD |
 | Pct. Applications Abandoned per month |16.8% of 12,974 6mo. avg started| 18.4% of 2,546 started | TBD |
-| Pct. Applications Abandoned compared to total abandoned| 52% of 4,203 6mo. avg total |73% of 646 total | TBD|
+| Pct. Section Abandon compared to total abandoned| 52% of 4,203 6mo. avg total |73% of 646 total | TBD|
 
 ---
 
