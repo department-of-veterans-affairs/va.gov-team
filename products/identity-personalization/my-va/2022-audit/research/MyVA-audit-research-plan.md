@@ -21,7 +21,7 @@ Especially since My VA is now the next destination when a Veteran logs into VA.g
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals	
-### **1.Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
+### **1. Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
 
 - What are users logging into VA.gov to do? 
 - Once a user logs in and is redirected to My VA, what would they do next?
@@ -29,7 +29,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 - Is there any important information about top tasks missing on My VA? 
 - Are there any top tasks still missing from My VA?
 
-### **2.Determine if we are handling sections on My VA that don't apply to a logged in user effectively.**
+### **2. Determine if we are handling sections on My VA that don't apply to a logged in user effectively.**
 
 - For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
 - Do users know how to find out more about benefits they are not currently enrolled in?
@@ -37,7 +37,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 - Do these empty sections get in the way of Veterans trying to find out information about their current benefits?
 - Do these empty sections and CTAs bring attention to benefits that Veterans may be interested in?
 
-### **3.Determine if the order of sections on My VA aligns with Veterans mental model.**
+### **3. Determine if the order of sections on My VA aligns with Veterans mental model.**
 
 - What are Veterans mainly logging into VA.gov to do? Are those tasks represented in a logical order on My VA?
 - Is the new education section in a good place on the page for Veterans who are interested in those benefits? What about Veterans who are not interested?
