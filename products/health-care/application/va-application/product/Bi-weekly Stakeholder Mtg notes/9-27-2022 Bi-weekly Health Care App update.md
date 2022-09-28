@@ -2,7 +2,8 @@
 
 ### 9/27/22 Agenda Items
 - Short form status – Are we pass the 5% flow?
-     - We are still at 5% with no issues to report.  We are gearing up to perform UAT with Veterans to confirm usability and gather any other feedback
+     - We are still at 5% with no issues to report. 
+     - We are monitoring volume of Short Form applications started vs submitted, gearing up to perform UAT with Veterans to confirm usability and gather any other feedback
      - [ ]  **Heather** to collect and send Sentry details on where Veterans may be getting errors within the Short form flow that stopped them from submitting.
 - Indian Health status – Have any issues come up since release?  Are we still at 25% flow?
      - We are at 25% with no issues to report
