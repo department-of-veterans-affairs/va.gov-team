@@ -7,7 +7,7 @@ This folder is intended to house documentation of the resumed investigation.
 ## Getting around in the demo
 
 Demo location: 
-https://tugboat.vfs.va.gov/63323c939e6d29933cfdb403
+https://cms-0f356cderyijzermbo7qgoshbfrm3e1q.ci.cms.va.gov/
 
 [TBD: demo user]
 
@@ -43,6 +43,8 @@ https://localize.drupal.org/
 3. Core module responsible for translation:
 https://www.drupal.org/docs/multilingual-guide/translating-content
 
+4. This demo is based on work in previous, older demos, but it is unclear what value remains. Many of those configs were undone in the commits here and the work outlined in steps below for how to replicate this work *should* stand alone. Either way, history is in tact in case there are any gotchas.
+
 ### How to replicate this work
 
 1. Enable multi-language
@@ -51,17 +53,18 @@ https://www.drupal.org/docs/multilingual-guide/translating-content
 4. Enable translation for all paragraph types
 5. Create a new role: "Translator - Spanish"
 6. Set permissions for the new role as follows:
-  - 'access content overview'
-  - 'access toolbar'
-  - 'create content translations'
-  - 'translate any entity'
-  - 'translate paragraph'
-  - 'translate support_resources_detail_page node'
-  - 'update content translations'
-  - 'update media'
-  - 'use editorial transition create_new_draft'
-  - 'view any unpublished content'
-  - 'view latest version'
-  - 'view own unpublished media'
-  - 'view the administration theme'
-7. Optional: Add custom code to the va_gov_backend_module (`va.gov-cms/docroot/modules/custom/va_gov_backend/va_gov_backend.module`) which restricts editor permissions to Spanish translations only (as opposed to any).
+  * 'access content overview'
+  * 'access toolbar'
+  * 'create content translations'
+  * 'translate any entity'
+  * 'translate paragraph'
+  * 'translate support_resources_detail_page node'
+  * 'update content translations'
+  * 'update media'
+  * 'use editorial transition create_new_draft'
+  * 'view any unpublished content'
+  * 'view latest version'
+  * 'view own unpublished media'
+  * 'view the administration theme'
+  * Manage translations for any entity that the user can edit
+7. Optional: Add custom code to (`va.gov-cms/docroot/modules/custom/va_gov_backend/va_gov_backend.module`) restricts editor permissions to single language translation only.
