@@ -1,6 +1,6 @@
-# September 27, 2022 HEC Bi-weekly Health Care application update
+# September 28, 2022 HEC Bi-weekly Health Care application update
 
-### 9/27/22 Agenda Items
+### 9/28/22 Agenda Items
 - Short form status – Are we pass the 5% flow?
      - We are still at 5% with no issues to report. 
      - We are monitoring volume of Short Form applications started vs submitted, gearing up to perform UAT with Veterans to confirm usability and gather any other feedback
