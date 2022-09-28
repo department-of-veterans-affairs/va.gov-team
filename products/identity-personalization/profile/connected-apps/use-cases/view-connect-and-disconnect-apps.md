@@ -6,22 +6,26 @@
 ## UX
 ### View apps
 - If a user already has apps connected, the user will see a list of the apps.
-- If they have not yet added apps, they will see ______. 
+- If they have not yet added apps, they will see information on Connected apps and a link to go to the app directory. 
 - [Desktop mock-up]
 - [Mobile mock-up]
 
 ### Connect apps
-- If a user already has apps connected, the user will see a additional information component with a link _____.
-- If they have not yet added apps, the link will be ______. 
+- If a user does not already have apps connected, they will see information on Connected apps and a link to go to the app directory. 
+- If a user has already connected apps, they will see an additional information component, which contains a link to go to the app directory.
+- If they have not yet added apps, the link will be a link to go to the app directory. 
 - Clicking the link will lead the user to a list of third party apps.
 - User can connect an app through the app itself. 
-- [Desktop mock-up]
-- [Mobile mock-up]
+- [Desktop mock-up - no connected apps]
+- [Mobile mock-up - no connected apps]
+- [Desktop mock-up - connected apps]
+- [Mobile mock-up - connected apps]
 
 ### Disconnect apps
 - If a user already has apps connected, they will have the option to disconnect apps.
-- The user will see ______. 
-- The link will ______.
+- The user will see a list of connected apps.
+- Each app will have a button to Disconnect the app.
+- Selecting this button will prompt an alert that says _____
 - [Desktop mock-up]
 - [Mobile mock-up]
 
