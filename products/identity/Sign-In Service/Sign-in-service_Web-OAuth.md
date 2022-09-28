@@ -11,8 +11,8 @@ This document describes how our web-based OAuth partners can integrate with the 
 1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
-### Postman Routes
-A Postman collection featuring the routes and variables required for web/cookie-based interaction with the Sign in Service can be [found here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json). Further information on how to authenticate to SiS with Postman can be found in the [SiS Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/507f88cad7b161cbbf30bc90cafb6137a8f107d5/products/identity/Sign-In%20Service/readme.md#postman-collection).
+## Postman Collection
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md). This collection is set up for both web/cookie & API-based authentication.
 
 ### Sequence Diagram
 ![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
