@@ -49,11 +49,12 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 **Key Result 3:** Reduce abandoned applications
 
-*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Service info/household information section (viewers of Basic Information page minus views of Medicaid/Medicare page, then determine %)*
-| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
-| ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Applications Abandoned per month | 3,724 (22,346 total) | TBD | TBD |
-| Pct. Applications Abandoned per month | 19.5% | TBD | TBD |
+*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Basic info/Household info section (viewers of Basic Information page minus views of Medicaid/Medicare page, then determine %)*
+| KPI / Metric |Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| ------------ | ------------------ | ------------------- |------------------- |
+| Avg. Applications Abandoned per month |2,185 6mo. avg | 469 | TBD |
+| Pct. Applications Abandoned per month |16.8% of 12,974 6mo. avg started| 18.4% of 2,546 started | TBD |
+| Pct. Applications Abandoned compared to total abandoned| 52% of 4,203 6mo. avg total |73% of 646 total | TBD|
 
 ---
 
