@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Benefits Team 1
 
-Date: 09/17/2022
+Date: 09/29/2022
 
 Skyler Schain · skyler@coforma.io
 
@@ -38,22 +38,26 @@ For this research, we tested the effectiveness of the MVF (Minimum Viable Featur
 
 # Methodology 
 
-We conducted [x] remote moderated usability sessions via Zoom. Participants were tasked with finding and accessing their decision letter via VA.gov and the Claim Status Tool. 
+We conducted 10 remote moderated usability sessions via Zoom. Participants were tasked with finding and accessing their decision letter via VA.gov and the Claim Status Tool. 
 
-[x/y] participants were accessed the prototype via mobile device. [x/y] participants accessed the prototype via desktop. 
+5/10 participants were accessed the prototype via mobile device. 5/10 participants accessed the prototype via desktop. 
 
 Half of the participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. The other half started with Task 2, whcih prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. When prompted to look for an update to their claim decision, participants will navigate to the Claim Status Tool, and from there they will find the decision letter and download it. 
+- TRUE. 10/10 participants successfully navigated to the decision letter via the Claim Status Tool when prompted to find the decision letter related to their disability compensation claim. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+2. When prompted to find a copy of a disability claim they'd already received (Task 2), participants will navigate to Records from the VA.gov homepage to access the decision letter from there. 
+- FALSE. None of the participants who were prompted with this task navigated to Records from the home page. They all navigated to the Claim Status Tool and got to the decision letter that way. 
 
-_Hypothesis statement_
+3. Participants will be able to identify the decision letter in the list of letters in the Claim Letters page based on the date. 
+- TRUE. 10/10 participants mentioned the date or the fact that it was "the most recent one" in explaining how they knew to click on the correct link to access the decision letter. (The date matched the "claim closed on" date listed in the Claim Status Tool). 
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+4. Participants will understand the difference between Claim Letters and Benefit Letters based on the way we explain them in the UI. 
+- MAYBE TRUE. From the Download VA Letters page, 4/10 participants tried to access the claim letters via the "View Benefit Letters" button, although this took them to the Benefit Letters page. This might have been due to the lack of discoverability of the Claim Letters entrypoint, which in most cases was hidden below the fold. 
 
 
 # Key Findings
