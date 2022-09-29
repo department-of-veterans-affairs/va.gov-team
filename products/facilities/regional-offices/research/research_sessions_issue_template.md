@@ -8,7 +8,7 @@
 - [Research Readout & Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/research_readout_issue_template.md)
 
 # Template name: Research Sessions
-- **About:** Use this template when ...
+- **About:** Use this template when you are conducting research session
 - **Issue default title:** Conduct [PRODUCT/INITIATIVE] Research Sessions
 - **Assignees** n/a
 - **Labels:** Research, Design
@@ -25,8 +25,10 @@
 
 ## Acceptance Criteria
 
-- [ ] Testable_Outcome_Z
-- [ ] Satisfied our intended demographics from research plan or PO has signed off that we've hit enough to move forward
+- [ ] Pilot session has been conducted and any relevant edits have been made to research protocol
+- [ ] Observers and notetakers have shared their notes with Research Lead
+- [ ] Research Lead has downloaded all session recording to their local machine
+- [ ] We have conducted enough sessions to satify our intended demographics from research plan OR Product Owner has signed off that we've done enough to move forward
 
 ### CMS Team
 Please check the team(s) that will do this work.
