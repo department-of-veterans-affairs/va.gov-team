@@ -285,14 +285,15 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 
    Update email address was the only task where _any_ participants initially expected to complete the task in a location other than what is in the prototype, and eventually all but 2 participants were successful in completing the task.
     1. 9/13 participants initially expected to go to Profile to update their email address:
-       1. P10 "Traditionally most apps/websites have the primary personal info stored there." 
-       2. P13 "I expect to see Home, email, your phone number, your address, all your personal information in your profile."
+       > P10 "Traditionally most apps/websites have the primary personal info stored there."
+
+       > P13 "I expect to see Home, email, your phone number, your address, all your personal information in your profile."
     2. 4/13 participants (P2, P5, P6, P14) initially expected to update their email address through Contact the VA (on the Home screen), and described expecting to speak to a person at VA to make the change:
-       1. P5 “I would think if I go to Contact VA—they would ask for updated information like phone number or address… I would expect to talk to someone who could make [the changes] for me.”
+       > P5 “I would think if I go to Contact VA—they would ask for updated information like phone number or address… I would expect to talk to someone who could make [the changes] for me.”
     3. With prompting (“What if you could do it yourself, in the app”), 2 of those 4 participants then successfully located the place to update their email address in Profile.
-       1. P6 “I would go to Contact VA. Should be a place for me to communicate with them and give them my information, my email address or contact them if I have an Issue. _(What if you could change it yourself, using the app?_) I'd expect to find it under Contact VA. Wait a minute, wait a minute, up at the top I see Profile, let me try that.”
-       2. 3/4 participants (P5, P6, P14) who expected to go to Contact VA to complete updating their email address reported a cognitive disability during recruiting. Rec: Further research to understand whether their disability influences their methods/preference for this task as well as more information about how all Veterans prefer to complete this task.
-       3. 1 participant (P14) who failed the email task (and who described recently updating his personal information by calling VA) did successfully identify where they would update their app login settings (Profile > Settings) task. 
+       > P6 “I would go to Contact VA. Should be a place for me to communicate with them and give them my information, my email address or contact them if I have an Issue. _(What if you could change it yourself, using the app?_) I'd expect to find it under Contact VA. Wait a minute, wait a minute, up at the top I see Profile, let me try that.”
+       1. 3/4 participants (P5, P6, P14) who expected to go to Contact VA to complete updating their email address reported a cognitive disability during recruiting. Rec: Further research to understand whether their disability influences their methods/preference for this task as well as more information about how all Veterans prefer to complete this task.
+       2. 1 participant (P14) who failed the email task (and who described recently updating his personal information by calling VA) did successfully identify where they would update their app login settings (Profile > Settings) task. 
     4. The information listed above surrounds the instances where participants were not directly successful. This leads us to believe that their task success ratings may be due to a participant’s preference around how to update personal information with VA rather than a problem understanding or navigating the app.
   
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
@@ -328,66 +329,90 @@ In addition to 13/13 participants successfully completing the tasks in these cat
        1. When asked what they’d expect to find in the “Payments” category, participants expected two main things (but not always both):
             1. **A record of payments from the VA:** 12/13 participants expected that they would see money paid to them from VA. The most frequently mentioned type of payment was payment related to disability (9/13). 
             2. **A record of money owed to the VA**: 8/13 participants expected that they would find money they owed to VA (even though some of those folks had never owed money to VA themselves). The most frequently mentioned type of money owed to the VA was a copay of some kind (6/13).
-                 1. P14: “Payments the VA makes to me. View the Payment level related to disability claim, seeing the amount. Seeing dependent payment info.”
-                 2. P21: "Whether it was payments to me or from me, I guess I would expect to find it all in the same area, maybe".
+                 > P14: “Payments the VA makes to me. View the Payment level related to disability claim, seeing the amount. Seeing dependent payment info.”
+
+                 > P21: "Whether it was payments to me or from me, I guess I would expect to find it all in the same area, maybe".
        2. When asked later what they expected to find in “outstanding debts” (within the Payments category), 12/13 participants expected that they would find money they owed to the VA, suggesting both that this label is clear and understandable (regardless of personal context) and that for the participants who *didn’t initially expect* to find money paid to the VA, that the Payments section was learnable.
             1. The most frequently mentioned type of money owed were copays (5/13) and overpayment (4/13). Also mentioned were loans and VA health locations.
-                 1. P21: "I would be looking for my Pharmacy copayments—even though it's not considered a collectible debt, it's still a debt, also if I had been overpaid, or if for some reason I'm owing the VA money for something."
+                 > P21: "I would be looking for my Pharmacy copayments—even though it's not considered a collectible debt, it's still a debt, also if I had been overpaid, or if for some reason I'm owing the VA money for something."
             2. 1 participant was unaware that debts to the VA were possible:
-                 1. P10 “Wow. I am thinking… how someone could owe the VA money?”
+                 > P10 “Wow. I am thinking… how someone could owe the VA money?”
                 
    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare, BNFT: Education, BNFT: Housing
 
 
 5. **Does the increased depth of hierarchy (ex: Claims now being under Benefits) affect participants’ perception of ease of use?** 
 No. When asked to compare the prototype with their experience using the current app, 5/5 participants who are current app users reported that the prototype was the same or easier to use than the current app.
-    1. P4 “It seemed very similar to what currently exists. Benefits felt different, but I don't know why exactly.”
-    2. P10 "I like the one we just looked at. The prototype, it just seems to be like, say more, eye-friendly, and [the tab bar] at the bottom in the ballpark where you're going, to which one of those icons you're going to. It wasn't overwhelming, but the current version stuff is too much in your face…"
+    > P4 “It seemed very similar to what currently exists. Benefits felt different, but I don't know why exactly.”
+
+    > P10 "I like the one we just looked at. The prototype, it just seems to be like, say more, eye-friendly, and [the tab bar] at the bottom in the ballpark where you're going, to which one of those icons you're going to. It wasn't overwhelming, but the current version stuff is too much in your face…"
     
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare 
 
 
 6. **What, if anything, would participants want to change about the proposed information architecture and navigation?** 
     1. **Top level navigation:** When asked what they disliked about the prototype, only 1 participant mentioned anything related to top level navigation:
-       1. P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]” 
-       2. P4 “Why would Payments have such a prominent place in the app? I pretty much know what the payment is going to be each month. If I log in, it’s just for healthcare and benefits. It feels like it doesn't belong, but not sure where else to put it.” 
+       > P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]” 
+
+       > P4 “Why would Payments have such a prominent place in the app? I pretty much know what the payment is going to be each month. If I log in, it’s just for healthcare and benefits. It feels like it doesn't belong, but not sure where else to put it.” 
+
     2. **Feature level content:** Several participants mentioned mentioned the placement or prominence of feature level content:
        1. **Home screen:** 3/13 participants mentioned the prominence of the evergreen home screen content
-            1. P4 Questioning About VA links: “This [about VA] is stuff I can find on the website - not about me…seems a little high [in the hierarchy] for what I want to do here. COVID-19 updates are less relevant.”
-            1. P2 [Referring to Contact VA, Find location, COVID-19)] "I can tell you these links are probably not updated. It takes a long time for the VA to update anything.” 
-            1. P22 “‘COVID updates’ and ‘Find a location’ are taking up space. People are so over COVID… Contact VA seems redundant because you are on the app. I know the VA phone number already." ‘Find a VA location’ would be good if traveling. [Home screen content] doesn't pertain to me. Anything you can squish down and make simpler is wonderful." "It would make me feel in control and not so lost [if tab bar content were on home screen]"
+            > P4 Questioning About VA links: “This [about VA] is stuff I can find on the website - not about me…seems a little high [in the hierarchy] for what I want to do here. COVID-19 updates are less relevant.”
+
+             > P2 [Referring to Contact VA, Find location, COVID-19)] "I can tell you these links are probably not updated. It takes a long time for the VA to update anything.” 
+
+             > P22 “‘COVID updates’ and ‘Find a location’ are taking up space. People are so over COVID… Contact VA seems redundant because you are on the app. I know the VA phone number already." ‘Find a VA location’ would be good if traveling. [Home screen content] doesn't pertain to me. Anything you can squish down and make simpler is wonderful." "It would make me feel in control and not so lost [if tab bar content were on home screen]"
+
     3. **Prominence of Messages:** 2/13 participants thought Messages should be higher up in the IA:
-       1. P10 "Maybe Contact Provider should be [more hierarchical]." 
-       2. P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]”
-       3. P22 [Referring to Home screen content “Contact VA is not something I'd do here, but secure messaging is.”
+       > P10 "Maybe Contact Provider should be [more hierarchical]." 
+
+       > P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]”
+
+       > P22 [Referring to Home screen content “Contact VA is not something I'd do here, but secure messaging is.”
+
     4. **Name and branch of service displayed on Home:** 1 participant questioned the prominence of their name on the Home screen:
-       1. P4 “I don't know why it says my name, I know who I am.”
+       > P4 “I don't know why it says my name, I know who I am.”
+
     5. **Manage dependents** 1 participant expected to see Manage dependents in both their Profile and Benefits section:
-       1. P19 "I would expect Manage dependents to be under Profile. If I am actively receiving benefits, I would expect them to be in Benefits. If I am not receiving any benefits from my dependents, under my Profile, they should still be listed. In Benefits, I would expect them to show in an [inactive state]”.
+       > P19 "I would expect Manage dependents to be under Profile. If I am actively receiving benefits, I would expect them to be in Benefits. If I am not receiving any benefits from my dependents, under my Profile, they should still be listed. In Benefits, I would expect them to show in an [inactive state]”.
 
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
 
 
 7. **What, if anything, are people expressing positive reactions to? How are they reacting?**
     1. **Simple, easy to understand (6/13)**
-       1. P6 “Not as complicated, on the desktop there's a lot more information and stuff to choose from, this is a lot more simplistic.”
-       2. P14 “Clear, was easy to understand. Using new devices, you have to get used to it. It would take a bit of time, is that the right place to go? But it’s easy enough to figure out. I've used [VA services] quite a bit so I would know an idea of what to click."
-       3. P19 "It’s straightforward, user friendly. From my experience, stuff is grouped logically. I can't speak to a new user's perspective, but the stuff is grouped in a similar manner to the web… I can drill down in a clear logical manner.”
+       > P6 “Not as complicated, on the desktop there's a lot more information and stuff to choose from, this is a lot more simplistic.”
+
+       > P14 “Clear, was easy to understand. Using new devices, you have to get used to it. It would take a bit of time, is that the right place to go? But it’s easy enough to figure out. I've used [VA services] quite a bit so I would know an idea of what to click."
+
+       > P19 "It’s straightforward, user friendly. From my experience, stuff is grouped logically. I can't speak to a new user's perspective, but the stuff is grouped in a similar manner to the web… I can drill down in a clear logical manner.”
+
     2. **Everything you need in one (4/13)**
-       1. P5 “It's great. You need to implement it as soon as possible. Everything you need to do without searching around.“
-       2. P12 “Everything you need in one place.”
-       3. P13 "YAY! A one stop shop!" "I would use it a lot. I like it because I'd be able to share with other Veterans. This one I can tell them, its one app to do everything you need to do on there."
-       4. P21 "All can be done on the website, but it’s not very intuitive. So this would be one stop shopping."
+       > P5 “It's great. You need to implement it as soon as possible. Everything you need to do without searching around.“
+
+       > P12 “Everything you need in one place.”
+
+       > P13 "YAY! A one stop shop!" "I would use it a lot. I like it because I'd be able to share with other Veterans. This one I can tell them, its one app to do everything you need to do on there."
+
+       > P21 "All can be done on the website, but it’s not very intuitive. So this would be one stop shopping."
+
     3. **Name and branch of service displayed on Home (4/13)**
-       1. P10 “My name was there, had my branch of service, that was cool. Kind of giving me a shoutout. ” [things are] "personalized". "It knows me, knows my branch of service.”
-       2. P13 “I can see my name and then it tells you the branch of service on the bottom and you know I love that. I'm proud of that service and I like it.”
-       3. P18 "a cool touch. Another little personalization that says you're more than just we. We've been regarded for far too long as you just name rank and serial number. But to have that little touch back. To, okay, I wasn't just, i'm not just a VA person. I'm a navy person who is with VA. Thank you."
+       > P10 “My name was there, had my branch of service, that was cool. Kind of giving me a shoutout. ” [things are] "personalized". "It knows me, knows my branch of service.”
+
+       > P13 “I can see my name and then it tells you the branch of service on the bottom and you know I love that. I'm proud of that service and I like it.”
+
+       > P18 "a cool touch. Another little personalization that says you're more than just we. We've been regarded for far too long as you just name rank and serial number. But to have that little touch back. To, okay, I wasn't just, i'm not just a VA person. I'm a navy person who is with VA. Thank you."
+
     4. **Tab bar reminds/guides (3/13)**
-       1. P2 “When I’m in ‘VA mode,’ the [tab bar] icons are reminders of other things I need to do.”
-       2. P10 "Down at the bottom [the tab bar], you can kinda guess in the ballpark which one of those Icons you're going to use to get you to where you want to pretty quickly.”
+       > P2 “When I’m in ‘VA mode,’ the [tab bar] icons are reminders of other things I need to do.”
+
+       > P10 "Down at the bottom [the tab bar], you can kinda guess in the ballpark which one of those Icons you're going to use to get you to where you want to pretty quickly.”
+
     5. **Being able to switch back & forth between categories—Health & Payments, Benefits & payments (3/13)**
-       1. P12 “Easy to navigate [between categories] with [tab bar].”
-       2. P19 Described switching between Benefits & Payments categories to check % and payments being received.
+       > P12 “Easy to navigate [between categories] with [tab bar].”
+
+       > P19 Described switching between Benefits & Payments categories to check % and payments being received.
 
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
 
@@ -401,12 +426,12 @@ No. When asked to compare the prototype with their experience using the current 
 2. **What stood out to you first?** 
     1. 6 participants said that their name and emblem for service stood out to them first (P4, P6, P10, P13, P20, P22)
     2. 5 participants were drawn first to the About VA section on the homescreen. (P2, P5, P14, P19, P21)
-       1. P19 "My eyes are personally drawn to [Contact VA], and Find a VA location. If I was new to the system, that's where I would go for information or getting questions answered. Find a VA location, I think, is similar to a Google search. COVID is self explanatory"
+       > P19 "My eyes are personally drawn to [Contact VA], and Find a VA location. If I was new to the system, that's where I would go for information or getting questions answered. Find a VA location, I think, is similar to a Google search. COVID is self explanatory"
     
 3. **Pain points:**
     1. **Problems with Sign in/passwords:**
     **4 participants mentioned issues with sign in or passwords in current app and VA websites (P5, P10, P12, P13)**
-       1. P13 "I have a TBI and it is so frustrating to remember all my passwords (and go through login over and over and over)" 
+       > P13 "I have a TBI and it is so frustrating to remember all my passwords (and go through login over and over and over)" 
 
     2. **Didn’t notice Messages feature**: 
 4 participants mentioned that they didn’t notice Messages (wasn’t included as a study task, but identified by participants as important to them). 
@@ -414,7 +439,7 @@ No. When asked to compare the prototype with their experience using the current 
 Several participants did not see the save button in the top right corner (but commented on the delete email link)
     4. **Phone is too small:**
 1 participant mentioned an issue with screen size
-       1. P13 “The reason I wouldn't use it is visual, phone too small. I have an iPad and use it because its bigger. I would use it on my iPad if available.”
+       > P13 “The reason I wouldn't use it is visual, phone too small. I have an iPad and use it because its bigger. I would use it on my iPad if available.”
 
 4. **Research Ops:**
     1. **Recruitment Issues - difficulty vetting app users**
