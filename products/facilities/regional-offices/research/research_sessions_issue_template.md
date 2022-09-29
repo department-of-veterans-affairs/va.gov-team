@@ -38,6 +38,7 @@
 - [ ] Moderator(s), Notetaker(s), & Observer(s) have reviewed guidelines for their role(s)
 
 **After sessions**
+- [ ] Team members join Daily Debrief Research sessions when possible
 - [ ] Observers and Notetakers have shared their notes with Research Lead
 - [ ] All notes are stored in the research folder
 - [ ] Participant demographics have been recorded in a recruitment tracker
