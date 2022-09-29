@@ -33,6 +33,7 @@ Suggested workflow:
 ## Acceptance Criteria
 - [ ] Moderator(s), Notetaker(s), and Obeserver(s) have been identified
 - [ ] Possible timeslots for research sessions have been identified
+  - Should be 2 times as many slots as # of desired participants 
 - [ ] Artifacts sent to PO 24 hours in advance of meeting
 - [ ] PO has reviewed draft plans (in 1-hour working meeting)
 - [ ] Artifacts are updated with PO feedback from review meeting
