@@ -141,20 +141,7 @@ Task completion was scored on a 4 point scale, measuring the effectiveness of th
 
 ### Prototype tested
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-![alt_text](images/image1.png "image_tooltip")
-  
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-![alt_text](images/image2.png "image_tooltip")
-  
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-![alt_text](images/image3.png "image_tooltip")
-  
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-![alt_text](images/image4.png "image_tooltip")
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Home.png" alt="Prototype - Home screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Profile.png" alt="Prototype - Profile screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Benefits.png" alt="Prototype - Benefits category screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Health.png" alt="Prototype - Health category screen" style="width:180px;" align="top"/> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/prototype%20images/Payments.png" alt="Prototype - Payments category screen" style="width:180px;" align="top"/> 
 
 
 
