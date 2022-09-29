@@ -8,7 +8,7 @@ Date: 09/26/2022
 
 Holly Collier | [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)
 
-[Research report PDF]
+[Research report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/2022%20-%20VA%20Mobile%20App_%20Information%20Architecture%20%26%20Navigation%20User%20Research%20-%20Findings%20Report%20.pdf)
 
 **Jump to:**
 
