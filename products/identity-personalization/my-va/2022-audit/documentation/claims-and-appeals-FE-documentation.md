@@ -20,72 +20,73 @@ We show this section for every LOA3 user.
 #### **Content**
 
 **Title**
-
+Date
+Status
+View details (link)
 
 ---
 
-### If a user has not received a payment in the last 60 days
+### If a user does not have an open claim or appeal, or a claim or appeal closed in the last 60 days
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/977354F4-360B-4287-B9CD-CE28DC8444A0)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/95A46294-248D-407C-8557-8C6A35C02315)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
 
 **Show**
 
-- If a user has not received a payment in the last 60 days. This includes veterans who have never received payments.
+- If a user does not have any open claims or appeals, or they had a claim or appeal that closed over 60 days ago.
 
 #### **Content**
 
-You don't have any recent payments to show.
+You have no claims or appeals to show.
 
 ---
 
-### Manage direct deposit link
+### Learn how to file a claim link
 
-![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153481-a47957ed-7357-48af-840b-13fff4137f49.png)
+![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
 
-Use font awesome icon `dollar` for icon in link list
+Use font awesome icon `file-lines` for icon
+
+**Show**
+- For users who do not have a claim or appeal update to show as outlined above.
+
+**Positioning**
+- This link should appear on the lefthand side on desktop as the first link in the list, above "Manage all claims and appeals".
+
+#### Content
+
+[Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/)
+
+---
+
+### Manage all claims and appeals link
+
+- Use font awesome icon “clipboard-check”
 
 **Show**
 - For all LOA3 users.
+![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
+
+**Positioning**
+- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
+- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
 
 #### Content
-
-[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)
-
----
-
-### View your payment history link
-
-- Use font awesome icon “user-check”
-
-**Show in link list**
-- If a user has not had a payment in the last 60 days but has in the past.
-![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153689-a6c0bb5e-357d-4a44-8c33-eb2cfdf54fde.png)
-
-**Do NOT show in link list**
-- If a user has never received a payment.
-![Screen Shot 2022-09-22 at 2 21 18 PM](https://user-images.githubusercontent.com/97965610/191822590-048107ed-b5e6-431f-a11c-f8bf297b93cf.png)
-
-#### Content
-[View your payment history](https://www.va.gov/va-payment-history/payments/)
-
----
-
-### If a user has multiple payments in the same day
-
-Only show a card for the most recent payment.
+[Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/)
 
 ---
 
 ## Error States
 
-### Error State 1: The Payment History API call fails
+### Error State 1: The claims API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
-- This should appear under the 'Benefit payments' header.
+- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the error message.
+>We can't acess any claims or appeals information right now.
+>We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
+
+- This should appear under the 'Claims and appeals' header.
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/268A4DAB-EB9D-49B5-AA3F-FEDBDB797E4A)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D56012A2-DBE1-49DD-A5D5-95D01ABB4DFA)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
