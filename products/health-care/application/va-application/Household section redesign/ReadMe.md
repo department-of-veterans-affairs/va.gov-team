@@ -49,15 +49,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 Overall exit rate for 2021 on the Financial Disclosure page was 14.4%.  Target a third reduction to 10%
 
-| Product KPI | 12mo 2021 avg Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|Financial Disclosure page | 4% | 2% | TBD|TBD|
-|Spouse page | 6.9% | 3.5% | TBD|TBD|
-|Dependent page | 0% | 0% | TBD|TBD|
-|Annual Income page | 5.2% | 2.5% | TBD|TBD|
-| Deductible Expenses page | 1.4% | .75% | TBD|TBD|
-
-
 #### **Key Result #2:** Increase application submissions by 4%, and submissions within a single session by 5%
 This is based on a third of current exit rates converting to successful submissions
 
