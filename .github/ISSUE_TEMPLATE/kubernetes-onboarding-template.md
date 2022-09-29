@@ -67,7 +67,7 @@ _Requesting team_
 - [ ] **Add semantic release configuration (a `.releaserc` file) to your repo** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc) | [Docs](https://semantic-release.gitbook.io/semantic-release/)    
 _Requesting team_  
 - [ ] **Automation to push the app's container to ECR with a semantic version number** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/mirror-images.yaml)    
-Note: We recommend using the `sha`. Don't use default "latest" tag. The release system uses modified container image tags to synchronize automation. 
+Note: Use `sha` or semver. Don't use default "latest" tag. The release system uses modified container image tags to synchronize automation.  
 _Requesting team_  
 
 ### Application secrets and parameters
