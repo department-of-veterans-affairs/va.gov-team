@@ -282,6 +282,7 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 
 
 2. **Which tasks, if any, do participants struggle with finding and where do participants expect to find those tasks?** 
+
    Update email address was the only task where _any_ participants initially expected to complete the task in a location other than what is in the prototype, and eventually all but 2 participants were successful in completing the task.
     1. 9/13 participants initially expected to go to Profile to update their email address:
        1. P10 "Traditionally most apps/websites have the primary personal info stored there." 
@@ -298,7 +299,8 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 
 
 3. **Does previous use of the VA Health and Benefits mobile app affect how participants expect to navigate to key tasks or ability to successfully complete tasks?**
-   Previous app usage did _not_ seem to significantly affect participants' expectations around the location of or their ability to successfully complete tasks in the prototype.
+
+   Previous app usage did *not* seem to significantly affect participants' expectations around the location of or their ability to successfully complete tasks in the prototype.
     1. **Task 1: (Update email)** 11/13 participants were successful—app users fared slightly better.
        1. 5/5 app users were directly successful.
        2. 3/5 non-app users were directly successful, 1 was successful with help, and 1 was not successful.
@@ -341,13 +343,14 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 No. When asked to compare the prototype with their experience using the current app, 5/5 participants who are current app users reported that the prototype was the same or easier to use than the current app.
     1. P4 “It seemed very similar to what currently exists. Benefits felt different, but I don't know why exactly.”
     2. P10 "I like the one we just looked at. The prototype, it just seems to be like, say more, eye-friendly, and [the tab bar] at the bottom in the ballpark where you're going, to which one of those icons you're going to. It wasn't overwhelming, but the current version stuff is too much in your face…"
+    
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare 
 
 
 6. **What, if anything, would participants want to change about the proposed information architecture and navigation?** 
     1. **Top level navigation:** When asked what they disliked about the prototype, only 1 participant mentioned anything related to top level navigation:
        1. P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]” 
-            1. P4 “Why would Payments have such a prominent place in the app? I pretty much know what the payment is going to be each month. If I log in, it’s just for healthcare and benefits. It feels like it doesn't belong, but not sure where else to put it.” 
+       2. P4 “Why would Payments have such a prominent place in the app? I pretty much know what the payment is going to be each month. If I log in, it’s just for healthcare and benefits. It feels like it doesn't belong, but not sure where else to put it.” 
     2. **Feature level content:** Several participants mentioned mentioned the placement or prominence of feature level content:
        1. **Home screen:** 3/13 participants mentioned the prominence of the evergreen home screen content
             1. P4 Questioning About VA links: “This [about VA] is stuff I can find on the website - not about me…seems a little high [in the hierarchy] for what I want to do here. COVID-19 updates are less relevant.”
@@ -357,10 +360,11 @@ No. When asked to compare the prototype with their experience using the current 
        1. P10 "Maybe Contact Provider should be [more hierarchical]." 
        2. P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]”
        3. P22 [Referring to Home screen content “Contact VA is not something I'd do here, but secure messaging is.”
-    4. **Name and branch of service displayed on Home (1/13)**
+    4. **Name and branch of service displayed on Home:** 1 participant questioned the prominence of their name on the Home screen:
        1. P4 “I don't know why it says my name, I know who I am.”
-    5. **Manage dependents (1/13) **
-       1. P19 "Would expect Manage dependents to be under their profile. I am not receiving any benefits from my dependents. If I am actively receiving benefits, I would expect them to be in Benefits. Under my profile, they should still be listed. In Benefits, I would expect them to show in an [inactive state]”.
+    5. **Manage dependents** 1 participant expected to see Manage dependents in both their Profile and Benefits section:
+       1. P19 "I would expect Manage dependents to be under Profile. If I am actively receiving benefits, I would expect them to be in Benefits. If I am not receiving any benefits from my dependents, under my Profile, they should still be listed. In Benefits, I would expect them to show in an [inactive state]”.
+
     Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
 
 
@@ -390,50 +394,33 @@ No. When asked to compare the prototype with their experience using the current 
 
 ## Additional Insights
 
-1. **When asked What are some of the things that you think you could do from here that are important to you?** 
+1. **When asked 'What are some of the things that you think you could do from here that are important to you?'** 
     1. The most commonly mentioned thing was “Health” or something specific in the health category (8/13)
     2. Other items mentioned were Benefits (4/13), Payments (4/13), and Links that tell me about the VA—(including Contact us the VA & VA locations (4/13) and Veterans Crisis Line (3/13).
   
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
-
 2. **What stood out to you first?** 
     1. 6 participants said that their name and emblem for service stood out to them first (P4, P6, P10, P13, P20, P22)
     2. 5 participants were drawn first to the About VA section on the homescreen. (P2, P5, P14, P19, P21)
        1. P19 "My eyes are personally drawn to [Contact VA], and Find a VA location. If I was new to the system, that's where I would go for information or getting questions answered. Find a VA location, I think, is similar to a Google search. COVID is self explanatory"
     
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
-
 3. **Pain points:**
     1. **Problems with Sign in/passwords:**
     **4 participants mentioned issues with sign in or passwords in current app and VA websites (P5, P10, P12, P13)**
        1. P13 "I have a TBI and it is so frustrating to remember all my passwords (and go through login over and over and over)" 
-   
-    Labels: SPG: Mental Health     
-    
+
     2. **Didn’t notice Messages feature**: 
 4 participants mentioned that they didn’t notice Messages (wasn’t included as a study task, but identified by participants as important to them). 
-
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone 
-    
     3. **Profile/Email:**
-Several participants did not see the save button in the top right corner (but commented on the delete email link).
-
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
-    
+Several participants did not see the save button in the top right corner (but commented on the delete email link)
     4. **Phone is too small:**
 1 participant mentioned an issue with screen size
        1. P13 “The reason I wouldn't use it is visual, phone too small. I have an iPad and use it because its bigger. I would use it on my iPad if available.”
-       
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone 
 
 4. **Research Ops:**
     1. **Recruitment Issues - difficulty vetting app users**
-    Several participants reported being app users (and passed our screening process: first, asking them to confirm they had the app using an image of the app’s icon and later asking them to confirm the language displayed at the top of the app’s logged in home screen), but answers to questions about their app use are not consistent with what’s possible in the app. 
-       1. One participant referred to various websites as "apps" on desktop & phone
+    Several participants reported being app users (and passed our screening process: first, asking them to confirm they had the app using an image of the app’s icon and later asking them to confirm the language displayed at the top of the app’s logged in home screen), but answers to questions about their app use are not consistent with what’s possible in the app.
+       1. One participant referred to various websites as "apps" on desktop & phone.
        2. We also noticed that when saving a shortcut to VA.gov, the icon is nearly identical to the app’s icon (navy blue is slightly different). May want to consider alternate ways of determining whether participants are app users for recruiting.
-      
-    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
-
     2. **Research method:**
        1. No technical issues with method/script for screen–sharing web-based Figma app on participants’ phones.
        2. When guiding users through how to close the prototype, a few participants seemed surprised or commented upon seeing their open browser tabs alongside the prototype tab.
