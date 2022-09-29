@@ -14,7 +14,7 @@
 **All:** Have you all reviewed the feature in staging and/or production and confirmed that it works as expected?
 - Answer: 
 
-**Adam:** Are you prepared to set the feature flag, or revoke the feature flag if any serious issues arise? (Reminder to turn on feature toggle in both the FE and BE when necessary)
+**Adam:** Are you prepared to set the feature flag, or revoke the feature flag if any serious issues arise? _(Reminder to turn on feature toggle in both the FE and BE when necessary)_
 - Answer: 
 
 **Samara/Sharon:**  Are analytics being properly recorded and showing in the GA widget(s)?
