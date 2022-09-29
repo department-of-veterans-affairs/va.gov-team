@@ -186,7 +186,7 @@ In addition to 13/13 participants successfully completing the tasks in these cat
     2. When asked later what they expected to find in “outstanding debts” (within the Payments category), a strong majority of participants expected that they would find money they owed to the VA, suggesting both that this label is clear and understandable (regardless of personal context) and that for the participants who_ didn’t initially expect_ to find money paid to the VA, that the Payments section was learnable. 
 
 4. **Increased depth of hierarchy (ex: Claims now being under Benefits) did not seem to affect app users’ perceptions of ease of use.** 
-5. When asked to compare the prototype with their experience using the current app, 5/5 participants who are current app users reported that the prototype was the same or easier to use than the current app. 
+5. When asked to compare the prototype with their experience using the current app, **5/5 participants who are current app users reported that the prototype was the same or easier to use than the current app**. 
 
 
 <table>
@@ -259,9 +259,9 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 
 ### Findings: Research ops
 
-1. There were no technical issues with method/script for screen–sharing web-based Figma app on participants’ phones.**
-2. We had difficulty vetting VA mobile app users during recruitment: **Several participants reported being app users (and passed our screening process), but answers to questions about their app use were not consistent with what’s possible in the app. 
-3. When guiding users through how to close the prototype, several participants seemed surprised or commented upon seeing their open tabs alongside the prototype tab.
+1. There were **no technical issues with method/script for screen–sharing web-based Figma app on participants’ phones.**
+2. We had difficulty vetting VA mobile app users during recruitment: **Several participants reported being app users (and passed our screening process), but answers to questions about their app use were not consistent with what’s possible in the app.** 
+3. When guiding users through how to close the prototype, **several participants seemed surprised or commented upon seeing their open browser tabs** alongside the prototype tab.
 
 
 ## Detailed findings
@@ -269,74 +269,82 @@ In addition to 13/13 participants successfully completing the tasks in these cat
 
 ### Raw task success rate results:
 
-[Navigation Usability Study - Analysis Task Scoring & Notes - VA Mobile App (September 2022)](https://docs.google.com/spreadsheets/d/1bnhifIKPUDoKyoONlz_Xys49UVyw3Nz_oSyEfIm6lyA/edit#gid=0) 
+[Navigation Usability Study - Analysis Task Scoring & Notes - VA Mobile App](https://docs.google.com/spreadsheets/d/1bnhifIKPUDoKyoONlz_Xys49UVyw3Nz_oSyEfIm6lyA/edit#gid=0) (September 2022)
 
 
 ### Research questions, answered
 
-#### 1. Are participants able to successfully navigate to key tasks in the app using the updated information architecture and navigation?
-**Yes.** For 4 of the tasks, 13/13 participants were directly or indirectly successful. For 1 of the tasks (updating email address), 11/13 participants were directly successful or successful with help.
-* Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
+1. **Are participants able to successfully navigate to key tasks in the app using the updated information architecture and navigation?**   
+   **Yes.** For 4 of the tasks, 13/13 participants were directly or indirectly successful. For 1 of the tasks (updating email address), 11/13 participants were directly successful or successful with help.
 
-#### 2. Which tasks, if any, do participants struggle with finding and where do participants expect to find those tasks?** 
-Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
-Update email address was the only task where _any_ participants initially expected to complete the task in a location other than what is in the prototype, and eventually all but 2 participants were successful in completing the task.
-     1. 9/13 participants initially expected to go to Profile to update their email address:
+   Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
+
+
+
+2. **Which tasks, if any, do participants struggle with finding and where do participants expect to find those tasks?** 
+   Update email address was the only task where _any_ participants initially expected to complete the task in a location other than what is in the prototype, and eventually all but 2 participants were successful in completing the task.
+    1. 9/13 participants initially expected to go to Profile to update their email address:
        1. P10 "Traditionally most apps/websites have the primary personal info stored there." 
        2. P13 "I expect to see Home, email, your phone number, your address, all your personal information in your profile."
-     2. 4/13 participants (P2, P5, P6, P14) initially expected to update their email address through Contact the VA (on the Home screen), and described expecting to speak to a person at VA to make the change:
+    2. 4/13 participants (P2, P5, P6, P14) initially expected to update their email address through Contact the VA (on the Home screen), and described expecting to speak to a person at VA to make the change:
        1. P5 “I would think if I go to Contact VA—they would ask for updated information like phone number or address… I would expect to talk to someone who could make [the changes] for me.”
-     3. With prompting (“What if you could do it yourself, in the app”), 2 of those 4 participants then successfully located the place to update their email address in Profile.
+    3. With prompting (“What if you could do it yourself, in the app”), 2 of those 4 participants then successfully located the place to update their email address in Profile.
        1. P6 “I would go to Contact VA. Should be a place for me to communicate with them and give them my information, my email address or contact them if I have an Issue. _(What if you could change it yourself, using the app?_) I'd expect to find it under Contact VA. Wait a minute, wait a minute, up at the top I see Profile, let me try that.”
-       2. 3 /4 participants (P5, P6, P14) who expected to go to Contact VA to complete updating their email address reported a cognitive disability during recruiting. Rec: Further research to understand whether their disability influences their methods/preference for this task as well as more information about how all Veterans prefer to complete this task.
+       2. 3/4 participants (P5, P6, P14) who expected to go to Contact VA to complete updating their email address reported a cognitive disability during recruiting. Rec: Further research to understand whether their disability influences their methods/preference for this task as well as more information about how all Veterans prefer to complete this task.
        3. 1 participant (P14) who failed the email task (and who described recently updating his personal information by calling VA) did successfully identify where they would update their app login settings (Profile > Settings) task. 
-     4. The information listed above surrounds the instances where participants were not directly successful. This leads us to believe that their task success ratings may be due to a participant’s preference around how to update personal information with VA rather than a problem understanding or navigating the app. 
-#### 3. Does previous use of the VA Health and Benefits mobile app affect how participants expect to navigate to key tasks or ability to successfully complete tasks?**
-Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
-Previous app usage did _not_ seem to significantly affect participants' expectations around the location of or their ability to successfully complete tasks in the prototype.
-        4. **Task 1: (Update email)** 11/13 participants were successful—app users fared slightly better.
-            6. 5/5 app users were directly successful.
-            7. 3 /5 non-app users were directly successful, 1 was successful with help, and 1 was not successful.
-        5. **Task 2: (Disability rating)** All participants were successful, but non-app users fared slightly better. 
-            8. 4/5 app users were directly successful and 1 was indirectly successful (expecting it first to be in Profile, its current location in the live app).
-            9. 5/5 non-app users were directly successful. 
-        6. **Task 3: (Appointments)** No difference - all participants were directly successful.
-        7. **Task 4: (Benefits payment)** No difference - all participants were directly successful.
-        8. **Task 5: (Claim status)** All participants were successful—non-app users fared slightly better. 
-            10. 4/5 app users were directly successful and 1 was indirectly successful (expecting it to be in Benefits, but in a different location).
-            11. 5/5 of non-app users were directly successful. 
+    4. The information listed above surrounds the instances where participants were not directly successful. This leads us to believe that their task success ratings may be due to a participant’s preference around how to update personal information with VA rather than a problem understanding or navigating the app.
+  
+    Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone
 
-#### 4. Are the new category labels (Payments, Benefits) clear & understandable to participants? 
-Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare, BNFT: Education, BNFT: Housing
+
+3. **Does previous use of the VA Health and Benefits mobile app affect how participants expect to navigate to key tasks or ability to successfully complete tasks?**
+   Previous app usage did _not_ seem to significantly affect participants' expectations around the location of or their ability to successfully complete tasks in the prototype.
+    1. **Task 1: (Update email)** 11/13 participants were successful—app users fared slightly better.
+       1. 5/5 app users were directly successful.
+       2. 3 /5 non-app users were directly successful, 1 was successful with help, and 1 was not successful.
+    2. **Task 2: (Disability rating)** All participants were successful, but non-app users fared slightly better. 
+       1. 4/5 app users were directly successful and 1 was indirectly successful (expecting it first to be in Profile, its current location in the live app).
+       2.  5/5 non-app users were directly successful. 
+    3. **Task 3: (Appointments)** No difference - all participants were directly successful.
+    4. **Task 4: (Benefits payment)** No difference - all participants were directly successful.
+    5. **Task 5: (Claim status)** All participants were successful—non-app users fared slightly better. 
+       1. 4/5 app users were directly successful and 1 was indirectly successful (expecting it to be in Benefits, but in a different location).
+       2. 5/5 of non-app users were directly successful.
+
+   Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
+
+
+4. **Are the new category labels (Payments, Benefits) clear & understandable to participants? 
 **Yes.** In addition to 13/13 participants successfully completing the tasks in these categories, most participants correctly predicted things that they would find in each of the new categories (though the specific things named varied between participants). 
-    3. **Benefits:**
-        9. When asked what they’d expect to find in “Benefits,” 12/13 participants correctly predicted at least one of the category items. The most frequently mentioned were items related to disability (compensation, benefits, claims, or percentage—10/13), and education (6/13). Also mentioned were healthcare, home loans, letters, forms, and dependant info 
-        10. My benefits vs benefits I’m eligible for:
-            12. 11/13 participants mentioned expecting to find benefits they were interacting with.
-            13. 4 participants specified that they also expected to also find benefits they were eligible for (P4, P14, P19, P21).
-            14. 1 participant (P18) expected it to be general information about benefits, not personal interactions with them. 
-    4. **Payments:** 
-        12. When asked what they’d expect to find in the “Payments” category, participants expected two main things (but not always both):
-            27. **A record of payments from the VA:** 12/13 participants expected that they would see money paid to them from VA. The most frequently mentioned type of payment was payment related to disability (9/13). 
-            28. **A record of money owed to the VA**: 8/13 participants expected that they would find money they owed to VA (even though some of those folks had never owed money to VA themselves). The most frequently mentioned type of money owed to the VA was a copay of some kind (6/13).
-                3. P14: “Payments the VA makes to me. View the Payment level related to disability claim, seeing the amount. Seeing dependent payment info.”
-                4. P21: "Whether it was payments to me or from me, I guess I would expect to find it all in the same area, maybe".
- 
-        13. When asked later what they expected to find in “outstanding debts” (within the Payments category), 12/13 participants expected that they would find money they owed to the VA, suggesting both that this label is clear and understandable (regardless of personal context) and that for the participants who_ didn’t initially expect_ to find money paid to the VA, that the Payments section was learnable.
-            30. The most frequently mentioned type of money owed were copays (5/13) and overpayment (4/13). Also mentioned were loans and VA health locations.
-                18. P21: "I would be looking for my Pharmacy copayments—even though it's not considered a collectible debt, it's still a debt, also if I had been overpaid, or if for some reason I'm owing the VA money for something."
-            31. 1 participant was unaware that debts to the VA were possible:
-                19. P10 “Wow. I am thinking… how someone could owe the VA money?”
+    1. **Benefits:**
+       1. When asked what they’d expect to find in “Benefits,” 12/13 participants correctly predicted at least one of the category items. The most frequently mentioned were items related to disability (compensation, benefits, claims, or percentage—10/13), and education (6/13). Also mentioned were healthcare, home loans, letters, forms, and dependant info 
+       2. My benefits vs benefits I’m eligible for:
+            1. 11/13 participants mentioned expecting to find benefits they were interacting with.
+            2. 4 participants specified that they also expected to also find benefits they were eligible for (P4, P14, P19, P21).
+            3. 1 participant (P18) expected it to be general information about benefits, not personal interactions with them. 
+    2. **Payments:** 
+       1. When asked what they’d expect to find in the “Payments” category, participants expected two main things (but not always both):
+            1. **A record of payments from the VA:** 12/13 participants expected that they would see money paid to them from VA. The most frequently mentioned type of payment was payment related to disability (9/13). 
+            2. **A record of money owed to the VA**: 8/13 participants expected that they would find money they owed to VA (even though some of those folks had never owed money to VA themselves). The most frequently mentioned type of money owed to the VA was a copay of some kind (6/13).
+                 1. P14: “Payments the VA makes to me. View the Payment level related to disability claim, seeing the amount. Seeing dependent payment info.”
+                 2. P21: "Whether it was payments to me or from me, I guess I would expect to find it all in the same area, maybe".
+       2. When asked later what they expected to find in “outstanding debts” (within the Payments category), 12/13 participants expected that they would find money they owed to the VA, suggesting both that this label is clear and understandable (regardless of personal context) and that for the participants who *didn’t initially expect* to find money paid to the VA, that the Payments section was learnable.
+            1. The most frequently mentioned type of money owed were copays (5/13) and overpayment (4/13). Also mentioned were loans and VA health locations.
+                 1. P21: "I would be looking for my Pharmacy copayments—even though it's not considered a collectible debt, it's still a debt, also if I had been overpaid, or if for some reason I'm owing the VA money for something."
+            2. 1 participant was unaware that debts to the VA were possible:
+                 1. P10 “Wow. I am thinking… how someone could owe the VA money?”
+                
+   Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare, BNFT: Education, BNFT: Housing
 
-#### 5. Does the increased depth of hierarchy (ex: Claims now being under Benefits) affect participants’ perception of ease of use?** 
-Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare 
+
+5. **Does the increased depth of hierarchy (ex: Claims now being under Benefits) affect participants’ perception of ease of use?** 
 No. When asked to compare the prototype with their experience using the current app, 5/5 participants who are current app users reported that the prototype was the same or easier to use than the current app.
     5. P4 “It seemed very similar to what currently exists. Benefits felt different, but I don't know why exactly.”
     6. P10 "I like the one we just looked at. The prototype, it just seems to be like, say more, eye-friendly, and [the tab bar] at the bottom in the ballpark where you're going, to which one of those icons you're going to. It wasn't overwhelming, but the current version stuff is too much in your face…"
+Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare 
 
 
-#### 6. What, if anything, would participants want to change about the proposed information architecture and navigation?** 
-5. Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
+6. **What, if anything, would participants want to change about the proposed information architecture and navigation?** 
     7. **Top level navigation:** When asked what they disliked about the prototype, only 1 participant mentioned anything related to top level navigation:
         17. P4 “I feel the space used for Payments could be used for something else. Personal bias, but Messages or a Notification area. The things I would use the app for should be right up front instead of going deeper into the app [to access features]” 
         18. P4 “Why would Payments have such a prominent place in the app? I pretty much know what the payment is going to be each month. If I log in, it’s just for healthcare and benefits. It feels like it doesn't belong, but not sure where else to put it.” 
@@ -353,8 +361,10 @@ No. When asked to compare the prototype with their experience using the current 
             39. P4 “I don't know why it says my name, I know who I am.”
         22. **Manage dependents **
             40. P19 "Would expect Manage dependents to be under their profile. I am not receiving any benefits from my dependents. If I am actively receiving benefits, I would expect them to be in Benefits. Under my profile, they should still be listed. In Benefits, I would expect them to show in an [inactive state]”. \
+Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
 
-#### 7. What, if anything, are people expressing positive reactions to? How are they reacting?**
+
+7. **What, if anything, are people expressing positive reactions to? How are they reacting?**
 Labels: PRDT: VA-mobile-app, RESRCH: Usability, HDW: Smartphone, BNFT: Disability, BNFT: Finances, BNFT: Healthcare
     9. **Simple, easy to understand 6/13)**
         23. P6 “Not as complicated, on the desktop there's a lot more information and stuff to choose from, this is a lot more simplistic.”
