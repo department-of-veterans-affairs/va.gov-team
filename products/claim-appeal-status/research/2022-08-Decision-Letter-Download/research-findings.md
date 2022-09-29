@@ -62,23 +62,17 @@ Half of the participants started with Task 1, which prompted them to find out ab
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. Core task of accessing Decision Letters via the Claim Status Tool was very successful.
 
-2. Finding two
+2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.
 
-3. Finding three
+3. On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough.
 
-4. Finding four
+4. Navigation from the Download VA letters page back to the claim letter page was tricky for some participants.
 
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+5. Participants mostly understood the use cases for benefit letters and claim letters, although some found it hard to articulate the difference between them.
 
 
 # Details of Findings 
@@ -89,48 +83,77 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Core task of accessing Decision Letters via the Claim Status Tool was very successful.**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+Users were able to navigate to the list of decision letters and download their decision letter with minimal usability issues.
 
-> _Supporting data: Quote here_
+> _"Oh that's definitely a 5 (out of 5)...everything is self-explanatory." (P17)_
 
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _"I actually thought it moved along pretty quickly." (P19)_
 
 
-**Finding 3**
+**The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+Date and recency sorting helped users understand which letter to click to get their decision letter. This is not a fully reliable signifier, since dates can be variable, but it's a good starting point. Going forward, any addiitonal metadata about the letter we can surface to the user will further improve usability. 
 
-> _Supporting data: Quote here_
+> _"We're talking about 8 September, and the ones below are different dates." (P8)_
 
-> _Supporting data: Quote here_
+> _(Why did you click on that letter?) "Because it's the most recent." (P10)_
 
+
+**On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Participants who scrolled below the fold and discovered the Claim letters page understood that it took them to the list of letters, and were able to find their way back to the page when prompted. 
+
+Those who did not scroll far enough to see the Claim letters entrypoint were confused about how to return to that page, and some thought Benefit letters would take them back to the Claim letters list.
+
+**Navigation from the Download VA letters page back to the claim letter page was tricky for some participants**
+
+> When prompted to navigate to the list of decision letters from this page, 4/10 participants clicked on “View benefit letters”
+
+> A few participants went looking for the claim letters page in the left nav but couldn’t find it
 
 # Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
+**Expectations for “Claim Letters” page content was fairly accurate**
+
+Most participants understood that this page would provide updates about their claim in the form of letters from the VA.
+
+> _“Different letters in reference to my claim.” - P2_
+
+> _“They would be earlier claims. Other letters in the past have been related to education benefits and that kind of thing – not sure if these are all related to compensation and pension.” - P8_
+
+> _“Any other letters that are in reference to my VA claim.” - P10_
+
+**Veterans used a variety of terms to describe the differences between benefit letters and claim letters.**
+
+We asked Veterans to describe the difference in their own words.
+
+> _“(Claim letters) is for getting access to an archived copy of a claim letter that I’ve actually received in the mail.” - P8_
+
+> _“With (benefit letters) you have proof that you’re a Veteran and what benefits you have access to.” - P17_
+
+> _“(Claim letters) was a letter from the VA to me, whereas (benefit letters) is a letter the website is generating that supports me.” - P19_
+
+**A few Veterans expressed that it would be nice not to have to navigate to the Claim Letters page to get the decision letter**
+
+We would like to remedy this in future versions, but are limited by technical constraints
+
+> _"Nothing was missing, it was just too many steps to go through to get to (the decision letter)." (P12)_
 
 
 # Recommendations
