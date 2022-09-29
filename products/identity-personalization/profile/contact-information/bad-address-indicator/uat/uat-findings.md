@@ -32,7 +32,7 @@ The primary goal of our UAT is to confirm that the BAI functionality works as ex
 
 ### Secondary Findings
 
-After an address was updated or confirmed, users on mobile were not brought back to the field they were just editing. This is something that happens throughout Profile, but is only noticeable when editing fields with larger edit states. We discussed looking into this to more accurately place focus on the field.
+After an address was updated or confirmed, users on mobile were not brought back to the field they were just editing. This is something that happens throughout Profile, but it is only noticeable when editing fields with larger edit states. We discussed looking into this to more accurately place focus after an update/confirmation has been made.
 
 
 [View detailed notes of the UAT sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/UAT-Notes.md)
