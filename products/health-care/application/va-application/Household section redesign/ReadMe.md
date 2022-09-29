@@ -6,6 +6,7 @@
 The 10-10EZ is easier for applicants to understand and complete without having to exit the application.
 - Reduce drop-off/exit rates on the Household section pages
 - Increase application submissions
+- Reduce number of sessions to submission
 - Relieve painpoints reported to the Call Center
 
 
@@ -32,6 +33,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 - Applications will be completed and submitted quicker
 - More applications that are started will be submitted in a single session
 - Drop-off/exit rates will decrease
+- Reduce call center activity pertaining to the Household section
 
 ## Undesired Business Outcomes
 - The Household section will cause confusion for applicants
@@ -56,8 +58,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | April-Sept 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | 70% (70,282k)  | 74% | TBD|TBD|
-|Single-session Submissions | 67% (80k) | 72% | TBD|TBD|
+|Application Submissions | 70% (70k)  | 74% | TBD|TBD|
+|Single-session Submissions | 67% (47k) | 72% | TBD|TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
@@ -87,6 +89,7 @@ Data source - Call Center team/TBD
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - The positive impacts to the organization will be an increase in completed applications, and less call center activity requesting assistance with the Household section.
+  - The risk/constraint is that the stakeholders will not have favorable feedback on the changes
 
 
 ### Solution Summary
