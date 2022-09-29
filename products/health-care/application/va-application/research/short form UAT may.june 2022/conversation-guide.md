@@ -36,7 +36,7 @@ Prod link: [https://www.va.gov/health-care/apply/application/introduction](https
 
 As part of the scheduling for this session, we asked what your service-connected disability rating is. According to the info I got, you have a service-connected disability rating of %. Is that correct? _The % determines which flow they will go on_
 
-Please log in to your account. (Only for groups A and B testing authenticated flows)
+Please log in to your account. 
 
 ## Health Care application flows 
 
@@ -61,26 +61,6 @@ Please log in to your account. (Only for groups A and B testing authenticated fl
 - If user selects yes to 50% or greater to compensation question, they are shown short form confirmation
 
 **Task: Validate that there are no issues or bugs for authenticated users with no disability rating on record, but self-report a disability rating of 50% or higher - 5 minutes**
-- User can confirm and move forward
-- Short form alert on Medicaid page
-- On each screen green alert accordion open and closes as expected
-- Review page has the proper accordions
-- **Stop here and do not submit - note about removing saved application from profile?**
-
-
-### Group C unauthenticated
-**Task: Validate that there are no issues or bugs for unauthenticated users that don't self-report a disability rating of 50% or higher - 15 minutes**
-- No indication of short form is shown before self-report
-- If user selects no to compensation question, they are shown pension question
-- If user selects yes to 40% or less compensation question, they are shown Military Service section
-- If user selects yes to 50% or greater to compensation question, they are shown short form confirmation
-- User can move back from short form confirmation
-- If user selects no to compensation question, they are shown pension question
-- If user selects yes to 40% or less compensation question, they are shown Military Service section
-- If user selects yes to 50% or greater to compensation question, they are shown short form confirmation
-
-
-**Task: Validate that there are no issues or bugs for unauthenticated users that self-report a disability rating of 50% or higher - 5 minutes**
 - User can confirm and move forward
 - Short form alert on Medicaid page
 - On each screen green alert accordion open and closes as expected
