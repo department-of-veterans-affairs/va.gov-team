@@ -31,6 +31,8 @@ Suggested workflow:
 - [ ] Convert into markdown files for Research Review cycle
 
 ## Acceptance Criteria
+- [ ] Moderator(s), Notetaker(s), and Obeserver(s) have been identified
+- [ ] Possible timeslots for research sessions have been identified
 - [ ] Artifacts sent to PO 24 hours in advance of meeting
 - [ ] PO has reviewed draft plans (in 1-hour working meeting)
 - [ ] Artifacts are updated with PO feedback from review meeting
