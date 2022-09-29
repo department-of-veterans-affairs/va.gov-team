@@ -1,1 +1,1 @@
-# This directory will contain information specific to how the tools originally located on MHV will be included in VA.gov navigation and preferences. 
+# This directory will contain information specific to overall content strategy and how the Health Apartment will fit into VA.gov's IA and navigation
