@@ -6,23 +6,6 @@ Date: 09/29/2022
 
 Skyler Schain · skyler@coforma.io
 
-[Research Report PDF] (link here)
-
-<br>
-
-**Jump to:**
-
-[Hypotheses and conclusions](insert link to section)
-
-[Key findings](insert link to section)
-
-[Recommendations](insert link to section)
-
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
-
-<br>
 
 # Research Goals
 Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience. Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.
@@ -83,10 +66,6 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Core task of accessing Decision Letters via the Claim Status Tool was very successful.**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Users were able to navigate to the list of decision letters and download their decision letter with minimal usability issues.
 
 > _"Oh that's definitely a 5 (out of 5)...everything is self-explanatory." (P17)_
@@ -96,10 +75,6 @@ Users were able to navigate to the list of decision letters and download their d
 
 **The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Date and recency sorting helped users understand which letter to click to get their decision letter. This is not a fully reliable signifier, since dates can be variable, but it's a good starting point. Going forward, any addiitonal metadata about the letter we can surface to the user will further improve usability. 
 
 > _"We're talking about 8 September, and the ones below are different dates." (P8)_
@@ -108,10 +83,6 @@ Date and recency sorting helped users understand which letter to click to get th
 
 
 **On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Participants who scrolled below the fold and discovered the Claim letters page understood that it took them to the list of letters, and were able to find their way back to the page when prompted. 
 
@@ -124,8 +95,6 @@ Those who did not scroll far enough to see the Claim letters entrypoint were con
 > A few participants went looking for the claim letters page in the left nav but couldn’t find it
 
 # Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 **Expectations for “Claim Letters” page content was fairly accurate**
 
@@ -156,8 +125,6 @@ We would like to remedy this in future versions, but are limited by technical co
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
 * Increase visibility of Claim Letters entrypoint on the Download VA Letters page. 
     * 4/10 had initial trouble finding the Claim Letters entrypoint on this page. As a result, some tried to go to the Benefit Letters page to find their decision letter. 
     
@@ -180,33 +147,14 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+Mural board, Google Spreadsheet
 
 
 ## Who we talked to 
@@ -237,10 +185,8 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Smart phone: 5
 
 
 Age:
