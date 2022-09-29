@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 9/29/2022
+- Changed Pre-Check-in to allow Veterans to get an error message prior to verifying their identity when using an expired Pre-Check-in link
+    - [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
+
 ### 9/27/2022 
 - Change to allow the VA to manually trigger a PageDuty outage for the Pre-Check-in and Check-in applications individually. End users would see a maintenance message when an outage has been triggered. 
     - [Epic 46120](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
