@@ -20,5 +20,8 @@
 **Samara/Sharon:**  Are analytics being properly recorded and showing in the GA widget(s)?
 - Answer: 
 
+**Samara**: Is there anyone that needs to be notified in advance of the launch?
+- Answer
+
 **All:** Does anyone have any concerns about us launching this feature to 25% of users on Monday 10/3?
 - Answer: 
