@@ -46,23 +46,23 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Financial Disclosure page | 4% | 2% | TBD|
-|Spouse page | 6.9% | 3.5% | TBD|
-|Dependent page | 0% | 0% | TBD|
-|Annual Income page | 5.2% | 2.5% | TBD|
-| Deductible Expenses page | 1.4% | .75% | TBD|
+| Product KPI | 12mo avg Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Financial Disclosure page | 4% | 2% | TBD|TBD|
+|Spouse page | 6.9% | 3.5% | TBD|TBD|
+|Dependent page | 0% | 0% | TBD|TBD|
+|Annual Income page | 5.2% | 2.5% | TBD|TBD|
+| Deductible Expenses page | 1.4% | .75% | TBD|TBD|
 
 
 #### **Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Application Submissions | 14% (114k)  | 25% | TBD|
-|Single-session Submissions | 70% (80k) | 75% | TBD|
+| Product KPI | 12mo Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Application Submissions | 14% (114k)  | 25% | TBD|TBD|
+|Single-session Submissions | 70% (80k) | 75% | TBD|TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
