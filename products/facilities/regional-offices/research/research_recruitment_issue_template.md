@@ -23,6 +23,7 @@
 * Perigean will create official calendar events and invite team members indicated in the Research Plan 
 * If some Observers will only be invited to certain sessions, the Research Lead or Project Manager will need to coordinate that
 * The Research Lead should schedule a [pilot session](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-4.Runapilotsession)
+* The Research Lead should schedule 30-minute Daily Reseach Debrief meetings and invite Observers
 
 **Editor-facing research**
 * The Research Lead should work with Product Manager, Product Owner, and Business Stakeholders to identify a list of potential participants
@@ -33,6 +34,7 @@
 * The Research Lead should create placeholder calendar events to block those time slots and invite other team members 
 * Once participants are scheduled, the Research Lead invites other team members to official calendar events
 * The Research Lead should schedule a [pilot session](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-4.Runapilotsession)
+* The Research Lead should schedule 30-minute Daily Reseach Debrief meetings and invite Notetakers & Observers
 
 **Field Research** and **Unmoderated Studies**
 * These types of studies have additional logistical considerations
@@ -43,6 +45,7 @@
 - [ ] The target number(s) of participants (overall & primary criteria targets) have been recruited and scheduled
 - [ ] Moderator(s), notetaker(s), and observer(s) are invited to research sessions
 - [ ] Pilot session is scheduled
+- [ ] Daily Research Debriefs are scheduled and relevant team members are invited
 
 ### CMS Team
 Please check the team(s) that will do this work.
