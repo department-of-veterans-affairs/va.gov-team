@@ -1,22 +1,56 @@
 # Important 10-10EZ Google Analytics event labels
 
 - hca--submission
+  -  Submission page
+    -  "Submit application"
 - hca--submission-failed
+  - Unsuccessful submission of application
 - hca--submission-failed-client
+  - "Some error" that occurred prior to submitting downstream
 - hca--submission-successful
+  - Successful submission of application
 - hca--validation-failed
+  - Review page
+    - "Submit application"
 - hca-continue-application
+  - "We need some information before you can start your application..."
+    - "Continue to the application"
 - hca-file-uploaded
+  - DD214 page
+    - Occurs after successfully uploading the supporting DD214 documentation
 - hca-form-apply
+  - Authenticated only
+  - No existing application
+  - Introduction page
+    - "Start your application"
 - hca-form-reapply
+  - Authenticated only
+  - Existing application
+  - Introduction page
+    - "Start your application"
 - hca-sip-form-load-failed
+  - Authenticated only
+  - Occurs when trying to load an existing *unsubmitted* application that fails
 - hca-sip-form-load-signed-out
 - hca-sip-form-loaded
+  - Authenticated only
+  - Occurs when trying to load an existing *unsubmitted* application that succeeds
 - hca-sip-form-prefill-failed
 - hca-sip-form-save-failed
+  - Authenticated only
+  - Occurs when trying to save an ongoing application that fails
 - hca-sip-form-save-failed-client
 - hca-sip-form-save-signed-out
+  - Authenticated only
+  - Occurs when trying to save an ongoing application but login session has timed out
 - hca-sip-form-saved
+  - Authenticated only
+  - Occurs when trying to save an ongoing application that succeeds
 - hca-sip-form-start-over
+  - Introduction page
+    - "Start new application"
 - login-link-clicked-hcainfo
+  - 
 - hca-future-discharge-date-submission
+  - Military information page
+    - Supplying a discharge date > today
