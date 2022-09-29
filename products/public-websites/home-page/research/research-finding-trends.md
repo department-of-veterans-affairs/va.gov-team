@@ -1,4 +1,4 @@
-# VA.gov Home Page Research Finding Trends across research studies
+# VA.gov Home Page Research Finding Trends across Research Studies
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
