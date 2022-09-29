@@ -114,6 +114,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - July 2022: Development work finalized
 - August 2022: Complete QA
 - September 26, 2022: Launched to 25% of users
+- September 29, 2022: Launched to 50% of users
 
 
 ---
