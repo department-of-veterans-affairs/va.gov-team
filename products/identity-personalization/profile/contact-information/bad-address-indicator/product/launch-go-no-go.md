@@ -1,7 +1,8 @@
-Bad Address Indicator: Go/No-Go Launch | 09/xx/22
-Decision: Go!!
+# Bad Address Indicator: Go/No-Go Launch | 09/xx/22
 
-Samara: Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/product/release-plan.md)complete and ready to execute against?
+## Decision: 
+
+**Samara:** Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/product/release-plan.md)complete and ready to execute against?
 Answer: 
 
 Christina: Have we completed UAT without finding launch blockers?
