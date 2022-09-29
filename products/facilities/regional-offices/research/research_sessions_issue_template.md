@@ -27,7 +27,9 @@
 
 - [ ] Pilot session has been conducted and any relevant edits have been made to research protocol
 - [ ] Observers and Notetakers have shared their notes with Research Lead
-- [ ] Research Lead has downloaded all session recording to their local machine
+- [ ] All notes are stored in the research folder
+- [ ] Participant demographics have been recorded in a recruitment tracker
+- [ ] Research Lead has downloaded all session recording to their local machine for synthesis
 - [ ] We have conducted enough sessions to satify our intended demographics from research plan 
   - [ ] OR Product Owner has signed off that we've done enough to move forward
 
