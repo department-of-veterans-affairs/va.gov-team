@@ -34,11 +34,11 @@
 - 25% of users
   - Dates: 09/26/2022
 - 50% of users
-  - Dates: 10/03/2022
+  - Dates: 09/29/2022
 - 75% of users
-  - Date: 10/10/2022
+  - Date: 10/05/2022
 - 100% of users
-  - Date: 10/17/2022
+  - Date: 10/10/2022
 
 
 ## Phase 3: Go Live!
