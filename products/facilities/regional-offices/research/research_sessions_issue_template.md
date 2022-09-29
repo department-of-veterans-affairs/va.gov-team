@@ -25,11 +25,18 @@
 - [Observer guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines)
 
 **Recruitment Trackers**
-- Veteran-Facing research
-- Editor-Facing research
+- Veteran-Facing research should follow [Platform guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Maximum-Variation-Sampling) on recruitment tracking
+  - [VA recruitment checker spreadsheet on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t)
+  - [Google Sheets version of the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+- Editor-Facing research should track participants in the [VA.gov CMS UX research base](https://airtable.com/invite/l?inviteId=inv9nYvS8HoNGoZpu&inviteToken=7d5d76876f2b9f45c44a18ad316f6989c54017e5504ef23742f4153d8b658df3&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
 **No-shows and rescheduling**
-- blah blah
+- If a particpant hasn't shown up within 5 minutes of the scheduled start time, they should be contacted as a reminder
+  - In Veteran-facing research, the Perigean Notetaker will handle contacting the participant by phone and email
+  - In Editor-facing research, the Moderator should contact the participant through email or Microsoft Teams
+- If the participant hasn't shown up within 15 minutes of the start, consider it a no show
+  - Contact the participant to see if they can reschedule for a different avaialable slot 
+  - If unable to reschedule, mark them officially as a no show in the recruitment tracker 
 
 ## Acceptance Criteria
 
