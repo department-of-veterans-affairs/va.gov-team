@@ -2,7 +2,7 @@
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that the BAI functionality works as expected and users can update or confirm their mailing address to remove the bad address flag.  
-- We would like to validation that all alerts appear on the Personal information and Contact information pages as intended.
+- We would like to validate that all alerts appear on the Personal information and Contact information pages as intended.
 - We would like to validate that included links function as intended.
 - We would like to validate that the bad address flag is removed from the user's account as expected when an address is updated AND confirmed.
 - We would like to validate that the alerts disappear as expected when an address is updated or confirmed.
