@@ -114,7 +114,7 @@ I would like you to share your screen with me--a web browser please. You might w
 
 ### IF/WHEN participant wants to sign in before doing a task...
 - How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header /* 
-  - *"Sign in or create an account" button on a content page > Sign in or Create account link)*
+  - *"Sign in or create an account" button on a content page > Sign in or Create account link / My VA button )*
 - *(If not currently on the home page*) Could you please go back to the original page you were on? How might you do that from here?
 - Do you have an account? *(Yes / No / ____________)*
 - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
