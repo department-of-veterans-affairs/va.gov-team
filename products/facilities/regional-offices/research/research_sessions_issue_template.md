@@ -16,16 +16,28 @@
 
 ## Description
 
-- Schedule 30 minute debrief sessions at end of each day of interviews/testing
-- Observers notes - best practices
-- Observer roles (audience vs contributor)
-- Veteran note takers Perigean
-- Editor note taker - design team
-- Notetaker needs to be identified during scheduling and recruitment
+**Guidelines**
+- [Moderator guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions)
+  - [Research Safety guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies) 
+- [Notetaker guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines#Observerguidelines-Howtobeagoodnotetaker)
+  - For Veteran-facing research, Perigean can provide a notetaker
+  - For Editor-facing research, the Product Manager or another member of the Design Team should take notes
+- [Observer guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines)
+
+**Recruitment Trackers**
+- Veteran-Facing research
+- Editor-Facing research
+
+**No-shows and rescheduling**
+- blah blah
 
 ## Acceptance Criteria
 
+**Before 1st session**
 - [ ] Pilot session has been conducted and any relevant edits have been made to research protocol
+- [ ] Moderator(s), Notetaker(s), & Observer(s) have reviewed guidelines for their role(s)
+
+**After sessions**
 - [ ] Observers and Notetakers have shared their notes with Research Lead
 - [ ] All notes are stored in the research folder
 - [ ] Participant demographics have been recorded in a recruitment tracker
