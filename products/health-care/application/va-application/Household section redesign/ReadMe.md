@@ -21,8 +21,8 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 - HEC team (especially Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
-- Applicants will be able to proceed through the application easier and confidently
-- Applicants will be better prepared to complete the application the first time
+- Applicants will be able to proceed through the application easily and confidently
+- Applicants will be better prepared to complete the application the first time, without having to save and return
 
 ## Undesired User Outcomes
 - Applicants will be more confused and unable to complete the application
