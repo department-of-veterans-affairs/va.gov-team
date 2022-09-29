@@ -1,4 +1,4 @@
-# Bad Address Indicator: Go/No-Go Launch | 09/xx/22
+## Bad Address Indicator: Go/No-Go Launch for 10/3/2022
 
 ## Decision: 
 
