@@ -23,51 +23,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Research
-| Date | Decision Maker(s) | Description of Decision | Rationale |
-|------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-
-## Design
-| Date | Decision Maker(s) | Description of Decision | Rationale |
-|------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-
-## Engineering
+## UX
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -111,7 +67,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Design
+## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -154,3 +110,4 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
+
