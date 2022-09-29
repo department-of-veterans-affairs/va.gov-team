@@ -68,6 +68,6 @@
   - Birth information page
     - Authenticated only
     - Alert for authenticated users that have a high enough disability rating associated to their profile
-- hca-submit-with-sigi-value
+- hca-submission-with-sigi-value
   - Application submission
   - Indicates whether a value other than _Prefer not to answer_ was submitted with the application
