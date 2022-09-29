@@ -12,13 +12,13 @@ Holly Collier | [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#who-participated-in-the-study)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability#who-participated-in-the-study)
 
 
 ## Research Goals
