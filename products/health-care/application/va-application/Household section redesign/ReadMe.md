@@ -26,6 +26,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 ## Undesired User Outcomes
 - Applicants will be more confused and unable to complete the application
+- Applicants feel the application is long and drawn out
 
 ## Desired Business Outcomes
 - Applications will be completed and submitted quicker
