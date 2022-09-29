@@ -34,7 +34,7 @@
 
 - Link clickthroughs from Alerts are successfully directing users to the intended pages with no errors 
 - No P0's (launch-blockers) found
-- Approval from the GO/NO GO call (add link)
+- Approval from the GO/NO GO call 
 
 # Go Live!
 
