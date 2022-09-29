@@ -21,7 +21,7 @@
 * The Research Lead should create placeholder calendar events to block those time slots and invite other team members 
 * Perigean will contact, screen, and schedule participants
 * Perigean will create official calendar events and invite team members indicated in the Research Plan 
-* If some Observers will only be invited to certain sessions, the Research Lead or Project Manager will need to coordinate that
+* If some Observers will only be invited to certain sessions, consider using a sign-up sheet [PROVIDE EXAMPLE]
 * The Research Lead should schedule a [pilot session](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-4.Runapilotsession)
 * The Research Lead should schedule 30-minute Daily Reseach Debrief meetings and invite Observers
 
