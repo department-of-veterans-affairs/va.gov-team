@@ -45,7 +45,7 @@
 
 ## Acceptance Criteria
 - [ ] The target number(s) of participants have been recruited and scheduled (for overall & primary criteria)
-      - Schedule 20-25% more sessions than the desired # of participants to account for no-shows & cancellations 
+  - Schedule 20-25% more sessions than the desired # of participants to account for no-shows & cancellations 
 - [ ] Moderator(s), notetaker(s), and observer(s) are invited to research sessions
 - [ ] Pilot session is scheduled
 - [ ] Daily Research Debriefs are scheduled and relevant team members are invited
