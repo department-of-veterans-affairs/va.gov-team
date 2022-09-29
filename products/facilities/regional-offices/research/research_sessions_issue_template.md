@@ -28,7 +28,8 @@
 - [ ] Pilot session has been conducted and any relevant edits have been made to research protocol
 - [ ] Observers and Notetakers have shared their notes with Research Lead
 - [ ] Research Lead has downloaded all session recording to their local machine
-- [ ] We have conducted enough sessions to satify our intended demographics from research plan OR Product Owner has signed off that we've done enough to move forward
+- [ ] We have conducted enough sessions to satify our intended demographics from research plan 
+  - [ ] OR Product Owner has signed off that we've done enough to move forward
 
 ### CMS Team
 Please check the team(s) that will do this work.
