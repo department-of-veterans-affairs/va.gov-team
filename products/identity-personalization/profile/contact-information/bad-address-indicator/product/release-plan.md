@@ -10,8 +10,8 @@
 - **How you'll conduct the testing:** Zoom meeting with internal team members production accounts (VA Profile marked as "BAI" in advance)
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** n/a
 **Link to Research plan for UAT:** n/a
-- **Research Plan** n/a
-- **Conversation Guide** n/a
+- **Research Plan** [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/research-plan.md) 
+- **Conversation Guide**  [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/conversation-guide.md). 
 
 ### Results
 - **Number of users:** 
