@@ -77,9 +77,9 @@ We will conduct **remote moderated usability sessions via Zoom**. Participants w
 **I would like Zoom transcripts please.**
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
  
-- [Link to prototype on Staging server]()
+- [Link to prototype on Staging server](https://staging.va.gov/homepage-test/)
 
 	
 ## Recruitment	
