@@ -51,11 +51,14 @@ Our goals in this study are to:
 
 ## Methodology
 
-We conducted remote, moderated, think-aloud user interviews with usability testing over Zoom. We sent participants a link to a limited functionality, web-based prototype and then asked them to open it on their mobile device and to share their screen with us while completing a series of tasks.
+We conducted remote, moderated, think-aloud user interviews with usability testing over Zoom with 13 participants representing a mixture of app users and non-app users. We sent participants a link to a limited functionality, web-based prototype and then asked them to open it on their mobile device and to share their screen with us while completing a series of tasks.
+
+* 5 participants were current users of the VA Health and Benefits mobile app
+* 5 participants were not current users of the VA Health and Benefits mobile app
+* 3 participants we were uncertain whether or not they used the app based on recruiting + answers interview questions
 
 * 12 participants used either an iPhone (6) or Android (6) mobile device. 
-* One participant used a desktop prototype.  
-
+* One participant used a desktop prototype. 
 
 ### Study tasks
 
