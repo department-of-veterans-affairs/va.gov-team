@@ -8,6 +8,9 @@
 #### UX Sprint Goals (----TENTATIVE----)
 - [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
     - Submit new translations to the State Department (do diff)
+- CIE Tech Debt 
+    - [Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47717)
+    - [Submit our Navigation Pattern to the Experimental Design System](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47716)
 -  [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Collaborate with VAOS to determine where they are in their process
 - [Display a Message that You've Already Completed Pre-Check-in when Attempting Pre-Check-in Again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47194)
