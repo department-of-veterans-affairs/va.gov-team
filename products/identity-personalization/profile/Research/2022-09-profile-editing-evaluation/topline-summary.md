@@ -4,7 +4,7 @@ Liz Lantz, VA.gov Authenticated Experience, Profile
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
-- [Interview transcripts](va.gov-team/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/session-notes at master · department-of-veterans-affairs/va.gov-team · GitHub])
+- [Interview transcripts](va.gov-team/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/session-notes)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
