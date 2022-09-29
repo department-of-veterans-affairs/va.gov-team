@@ -170,7 +170,7 @@ How could you learn what else is new--see if there are other stories from the VA
 - Could you please go back to the original web page you opened?
 
 ### Task 6: [Check the current disability compensation rates] 
-You'd like to see VA's current disability compensation rates. How would you find this?
+You'd like to see VA's current disability compensation rates. How would you find these?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
