@@ -5,37 +5,22 @@ We show this section for every LOA3 user.
 
 ## UX Specs
 ### Claims and appeals status card
-- Direct deposit payments:
-  - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/222D00A6-3BFD-4D99-9FCB-A9CE2766E78A)
-  - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1CA9530C-0A0F-4CF6-9597-D76F83143B45)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
-- Mailed paper check payments:
-  - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1FEFF140-7526-42A2-9D64-959E152ED415)
-  - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/38CB47EF-6A94-44CD-B0F8-F6FE999C933D)
 
 **Show card**
 
-- If a user has received a payment in the last 60 days.
+- If a user has an open claim or appeal, or their claim or appeal has been closed in the last 60 days.
 
 **Do NOT show card**
 
-- If a user has not received a payment in the last 60 days.
+- If a user has not had an open claim or appeal in the last 60 days.
 
 #### **Content**
 
-**+$XX.XX**
+**Title**
 
-[Type of payment]
-
-- If the payment was made via direct deposit:
-
-Deposited on [date]
-
-- If the payment was made via a mailed paper check:
-
-Check mailed on [date]
-
-[View your payment history](https://www.va.gov/va-payment-history/payments)
 
 ---
 
