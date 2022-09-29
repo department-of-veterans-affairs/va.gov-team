@@ -21,7 +21,7 @@
   - [Research Safety guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies) 
 - [Notetaker guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines#Observerguidelines-Howtobeagoodnotetaker)
   - For Veteran-facing research, Perigean can provide a notetaker
-  - For Editor-facing research, the Product Manager or another member of the Design Team should take notes
+  - For Editor-facing research, the Product Manager or a member of the Design Team should take notes
 - [Observer guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines)
 
 **Recruitment Trackers**
