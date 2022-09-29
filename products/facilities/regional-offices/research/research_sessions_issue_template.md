@@ -26,7 +26,7 @@
 ## Acceptance Criteria
 
 - [ ] Pilot session has been conducted and any relevant edits have been made to research protocol
-- [ ] Observers and notetakers have shared their notes with Research Lead
+- [ ] Observers and Notetakers have shared their notes with Research Lead
 - [ ] Research Lead has downloaded all session recording to their local machine
 - [ ] We have conducted enough sessions to satify our intended demographics from research plan OR Product Owner has signed off that we've done enough to move forward
 
