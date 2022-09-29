@@ -62,8 +62,6 @@ Half of the participants started with Task 1, which prompted them to find out ab
 
 # Key Findings
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. Core task of accessing Decision Letters via the Claim Status Tool was very successful.
 
 2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.
