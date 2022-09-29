@@ -24,28 +24,54 @@
 ## Q4 sitewide content and IA team planned initiatives
 
 ### Migration work
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
 | Migrate all Veteran and family member community care content: 36 pages + PDFs | ---- | ---- | ---- |
-| Migrate all Veteran BVA content: TBD pages | ---- | ---- | ---- |
 | Migrate OPIA persona pages: 4 pages | ---- | ---- | ---- |
-| Migrate at least 5 "one-off" pages from top 1,000 urls spreadsheet: 5 pages | ---- | ---- | ---- |
 | Finalize roadmap for migration | ---- | ---- | ---- |
 
-### Translation work
-| Translate at least 5 core Disability "get benefit" pages into Spanish | ---- | ---- | ---- |
-| Translate at least 5 core Health care "get benefit" pages into Spanish | ---- | ---- | ---- |
+#### Stretch migration goals
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Migrate all Veteran BVA content: TBD pages | ---- | ---- | ---- |
+| Migrate 5 "one-off" pages from top 1,000 urls spreadsheet: 5 pages | ---- | ---- | ---- |
 
-### Content refinement work
+
+### Translation work
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Translate 3 core Disability "get benefit" pages into Spanish | ---- | ---- | ---- |
+| Translate 3 core Health care "get benefit" pages into Spanish | ---- | ---- | ---- |
+
+#### Stretch translation goals
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Translate 5 additional core Disability "get benefit" pages into Spanish | ---- | ---- | ---- |
+| Translate 5 additional core Health care "get benefit" pages into Spanish | ---- | ---- | ---- |
+| Translate family caregiver program landing page into Spanish | ---- | ---- | ---- |
+| Translate DIC page into Spanish | ---- | ---- | ---- |
+
+### Content iteration work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
 | Redesign content in supplemental claims section | ---- | ---- | ---- | ---- |
 | Combine copay content with manage debt section | ---- | ---- | ---- | ---- |
-| Finalize accessibility work to ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | In progress | Reduce defects (508, plain language etc) produced by editors in the CMS |
-| Translate 10 new pages in disability and health care benefit hubs into Spanish | OCTO lead and team capacity | Initial translation complete (will be ongoing for check-in) | In progress | Increase translated content volume |
+
+#### Stretch content iteration work goals
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Finalize accessibility work to ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review | In progress | Reduce defects (508, plain language etc) produced by editors in the CMS |
 
 ### Style guide/standards/training work
-| Reusable COPE content: Create structured content model for benefit about, eligibility, and how to apply information (OCTO) | PW and CMS team collaboration | TBD | Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content |
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
 | Add or expand at least 1 issue in content style guide | OCTO lead capacity  | Page published | Complete | Reduce defects (508, plain language etc) produced by editors in the CMS |
 | Publish Drupal knowledge base article with Danielle's plain language training session video | OCTO lead capacity | Page published | In progress | Reduce defects (508, plain language etc) produced by editors in the CMS | 
+
+#### Stretch style guide/standards/training work
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Reusable COPE content: Create structured content model for benefit about, eligibility, and how to apply information (OCTO) | PW and CMS team collaboration | TBD | Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content |
 
 ## Q4 ongoing work to support program partners and product teams
 
