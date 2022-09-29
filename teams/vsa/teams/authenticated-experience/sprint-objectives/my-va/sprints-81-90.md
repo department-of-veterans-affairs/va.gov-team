@@ -156,15 +156,17 @@ This assumes we didn't launch last sprint:
 
 ### My VA audit
 
-This might adjust if we determined in the last sprint that we are testing in code, and therefore Taylor might need to start build.
-
 **PM**
 
-- Midpoint review prep
+- Put together FE tickets
 
 **Design**
 
-- Research planning
+- Finish FE documentation if not already done
+
+**FE**
+
+- Start FE build *if tickets are ready*
 
 ## Sprint 85 (10/19 - 11/1)
 
