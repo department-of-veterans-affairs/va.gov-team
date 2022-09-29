@@ -48,16 +48,16 @@ Half of the participants started with Task 1, which prompted them to find out ab
 # Hypotheses and Conclusions
 
 1. When prompted to look for an update to their claim decision, participants will navigate to the Claim Status Tool, and from there they will find the decision letter and download it. 
-- **TRUE** 10/10 participants successfully navigated to the decision letter via the Claim Status Tool when prompted to find the decision letter related to their disability compensation claim. 
+- **TRUE.** 10/10 participants successfully navigated to the decision letter via the Claim Status Tool when prompted to find the decision letter related to their disability compensation claim. 
 
 2. When prompted to find a copy of a disability claim they'd already received (Task 2), participants will navigate to Records from the VA.gov homepage to access the decision letter from there. 
-- **FALSE** None of the participants who were prompted with this task navigated to Records from the home page. They all navigated to the Claim Status Tool and got to the decision letter that way. 
+- **FALSE.** None of the participants who were prompted with this task navigated to Records from the home page. They all navigated to the Claim Status Tool and got to the decision letter that way. 
 
 3. Participants will be able to identify the decision letter in the list of letters in the Claim Letters page based on the date. 
-- **TRUE** 10/10 participants mentioned the date or the fact that it was "the most recent one" in explaining how they knew to click on the correct link to access the decision letter. (The date matched the "claim closed on" date listed in the Claim Status Tool). 
+- **TRUE.** 10/10 participants mentioned the date or the fact that it was "the most recent one" in explaining how they knew to click on the correct link to access the decision letter. (The date matched the "claim closed on" date listed in the Claim Status Tool). 
 
 4. Participants will understand the difference between Claim Letters and Benefit Letters based on the way we explain them in the UI. 
-- **MAYBE TRUE** From the Download VA Letters page, 4/10 participants tried to access the claim letters via the "View Benefit Letters" button, although this took them to the Benefit Letters page. This might have been due to the lack of discoverability of the Claim Letters entrypoint, which in most cases was hidden below the fold. 
+- **MAYBE TRUE.** From the Download VA Letters page, 4/10 participants tried to access the claim letters via the "View Benefit Letters" button, although this took them to the Benefit Letters page. This might have been due to the lack of discoverability of the Claim Letters entrypoint, which in most cases was hidden below the fold. 
 
 
 # Key Findings
