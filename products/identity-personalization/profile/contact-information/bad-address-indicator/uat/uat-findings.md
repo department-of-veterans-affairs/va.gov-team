@@ -16,7 +16,8 @@ The primary goal of our UAT is to confirm that the BAI functionality works as ex
 
 - We conducted UAT internally using production accounts for 5 members of the Profile team. 
 - VA Profile added the Bad address indicator flag to these accounts ahead of testing. 
-- 3 accounts were used to test “updating” an address and 2 accounts were used to test “confirming” an address.
+- 3 accounts were used to test “updating” an address
+- 2 accounts were used to test “confirming” an address.
 
 ### Findings
 
