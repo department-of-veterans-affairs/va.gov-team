@@ -144,6 +144,7 @@ This assumes we didn't launch last sprint:
 
 - Analytics request
 - Staging review prep
+- Privacy review prep
 - Determine if we need a privacy review
 
 **QA**
