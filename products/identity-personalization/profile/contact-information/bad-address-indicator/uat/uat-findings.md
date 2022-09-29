@@ -12,14 +12,14 @@ The primary goal of our UAT is to confirm that the BAI functionality works as ex
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/conversation-guide.md)
 
 
-### Who we talked to
+## Who we talked to
 
 - We conducted UAT internally using production accounts for 5 members of the Profile team. 
 - VA Profile added the Bad address indicator flag to these accounts ahead of testing. 
 - 3 accounts were used to test “updating” an address
 - 2 accounts were used to test “confirming” an address.
 
-### Findings
+## Findings
 
 **No issues were discovered and all alerts functioned as expected:**
 
@@ -31,7 +31,7 @@ The primary goal of our UAT is to confirm that the BAI functionality works as ex
 - 2/2 participants were able to confirm their address successfully.
 - For those participants, alerts disappeared as expected when addresses were confirmed.
 
-### Secondary Findings
+## Secondary Findings
 
 After an address was updated or confirmed, our mobile tester was not brought back to the field they had just been editing. This is something that happens throughout Profile but is only noticeable when a user is editing something with a larger edit state (i.e. Mailing address or Home address). We discussed looking into this to more accurately place focus after an update/confirmation has been made.
 
