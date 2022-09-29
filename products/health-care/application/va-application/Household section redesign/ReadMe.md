@@ -43,11 +43,13 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 ### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 
-#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by half.
+#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 12mo avg Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+Overall exit rate for 2021 on the Financial Disclosure page was 14.4%.  Target a third reduction to 10%
+
+| Product KPI | 12mo 2021 avg Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |Financial Disclosure page | 4% | 2% | TBD|TBD|
 |Spouse page | 6.9% | 3.5% | TBD|TBD|
@@ -56,14 +58,15 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 | Deductible Expenses page | 1.4% | .75% | TBD|TBD|
 
 
-#### **Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
+#### **Key Result #2:** Increase application submissions by 4%, and submissions within a single session by 5%
+This is based on a third of current exit rates converting to successful submissions
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 12mo Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | April-Sept 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | 14% (114k)  | 25% | TBD|TBD|
-|Single-session Submissions | 70% (80k) | 75% | TBD|TBD|
+|Application Submissions | 70% (70,282k)  | 74% | TBD|TBD|
+|Single-session Submissions | 67% (80k) | 72% | TBD|TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
@@ -86,6 +89,7 @@ Data source - Call Center team/TBD
      - Research sessions will be conducted to ensure we are making the appropriate, informed changes, as needed.
 - **Usability Risks** (can people figure out how to use it):
   - The Usability Risk is similar to Value risk, in that a redesign could cause confusion or further complicate the section, causing more drop-offs.
+  - The application may feel too long and applicants won't want to spend the time completing all the information.
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - None at the time
