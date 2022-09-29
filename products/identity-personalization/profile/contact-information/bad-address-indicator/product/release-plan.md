@@ -7,7 +7,7 @@
 - **Desired date range or test duration:**  Sept 2022
 - **Desired number of users:**  Internal team will test since we won't be able to recruit for this very specific scenario.
 - **How you'll recruit the right production test users:** n/a
-- **How you'll conduct the testing:** n/a
+- **How you'll conduct the testing:** Zoom meeting with internal team members production accounts (VA Profile marked as "BAI" in advance)
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** n/a
 **Link to Research plan for UAT:** n/a
 - **Research Plan** n/a
