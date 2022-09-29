@@ -14,10 +14,10 @@
 - **Conversation Guide**  [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/conversation-guide.md). 
 
 ### Results
-- **Number of users:** 
-- **Number of bugs identified / fixed:** 
-- **Types of errors logged: 
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?
+- **Number of users:** 8
+- **Number of bugs identified / fixed:** 0
+- **Types of errors logged: 0
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? n/a
 
 
 ## Phase II: Staged Roll-out
