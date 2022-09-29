@@ -64,8 +64,10 @@ Use font awesome icon `file-lines` for icon
 - Use font awesome icon “clipboard-check”
 
 **Show**
-- For all LOA3 users.
+
 ![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
+
+- For all LOA3 users.
 
 **Positioning**
 - If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
@@ -82,9 +84,11 @@ Use font awesome icon `file-lines` for icon
 
 #### Visual specs
 - Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the error message.
->We can't acess any claims or appeals information right now.
->We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
+>We can't acess any claims or appeals information right now. We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
 
+**Positioning**
+- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
+- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
 - This should appear under the 'Claims and appeals' header.
 
 #### Mock-ups
