@@ -16,13 +16,15 @@
 
 ## Description
 Based on topline there is a scope determination for how big of an event this is
-
+[Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) 
 
 ## Acceptance Criteria
 - [ ] Recommendations created for decisioning
 - [ ] Additional artifacts created (larger readout deck)
 - [ ] Possible big group readout
 - [ ] Possibly take to full design group on Mondays
+- [ ] Findings documented in Research Repo
+- [ ] Recordings destroyed
 
 ### CMS Team
 Please check the team(s) that will do this work.
