@@ -59,6 +59,10 @@ Understandably, the MVP required a lot of thinking, planning, iterating, and tes
 
 As part of this work, we should figure out how we can make implementing new on-site notifications a relatively low-lift over time. We will need to work with VANotify to implement a process that considers on-site notifications from the beginning as teams are adding new email/text notifications.
 
+#### What do we need from VANotify over time?
+
+We need to work with VANotify to figure out how to scale this feature, both in terms of a governance, testing, and launch process, but also figuring out how and what we need to manage on-site notifications in the VANotify self-service tool.
+
 ## Problem Statement
 
 ## User outcomes
