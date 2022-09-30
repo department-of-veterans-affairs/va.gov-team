@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated August 29, 2022
+Last updated September 30, 2022
 
 ### Communications
 
@@ -65,13 +65,15 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 **Key result**: Increase overall clicks into debt information by 10%.
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+**Update dates based on actual launch dates before filling out information**
+
+|KPI/metric|Baseline: [one month pre-launch] |Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| 158k|TBD|TBD|
 
 **Key result**: Establish baseline metric for how many people click the debt notification from My VA. Goal: 20K clicks/quarter.
 
-|KPI/metric|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
 |----------|---------------|-------------------|
 |Clicks of debt notification on My VA|TBD|TBD|
 
@@ -119,6 +121,10 @@ The following is needed for the MVP build:
 - June 2022: VANotify fixes some issues; Begin trying to get end-to-end testing to work
 - July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
 - August 2022: Completed final collab cycle reviews; Awaiting launch after My VA redirect launch
+- September 2022: Fixing final analytics issues before launch
+- October X, 2022: Launch to 25%
+- October X, 2022: Launch to 50%
+- October X, 2022: Launch to 100%
 
 ## Backend
 
