@@ -37,3 +37,9 @@ After launching the on-site notification MVP, we'll monitor analytics for a bit,
 
 Now that we have some projects winding down, we'll want to start updating our documentation to reflect these new changes. We'll make sure that time is allotted for documentation at the end of each project.
 
+### GA4 migration
+
+According to the analytics team, we should anticipate some level of work around the Google Analytics migration to GA4. Details are TBD.
+
+**Anticipated launch**: TBD
+
