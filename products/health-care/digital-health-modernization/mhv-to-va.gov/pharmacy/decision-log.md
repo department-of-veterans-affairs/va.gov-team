@@ -23,7 +23,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Research
+## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -45,7 +45,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Design
+## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -67,7 +67,8 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Engineering
+
+## Research (How it tests)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -89,29 +90,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Research
-| Date | Decision Maker(s) | Description of Decision | Rationale |
-|------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-
-## Design
+## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -154,3 +133,5 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
+
+
