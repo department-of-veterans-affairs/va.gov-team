@@ -6,6 +6,15 @@ Created by the sitewide content and IA team for teams working on products relate
 - Ask us in our slack channel: #va-sitewide-content
 - [Read about the purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md)
 
+## Sections
+
+[Overview](#overview)
+[Related terminology](#related-terminology)
+[Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
+[Content-specific research findings](#content-specific-research-findings)
+[Unauthenticated content related to this topic](#unauthenticated-content-related-to-this-topic
+[Other notes](#other-notes)
+
 ## Overview
 
 Speaking plainly, compassionately, and consistently across VA helps us build trust with Veterans, service members, and their family members. As we continue to move toward an omnichannel experience and multilingual content, consistency becomes even more important.  
