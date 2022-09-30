@@ -23,7 +23,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## UX
+## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
@@ -45,7 +45,30 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Research
+## Design (How it looks)
+| Date | Decision Maker(s) | Description of Decision | Rationale |
+|------|-------------------|-------------------------|-----------|
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+|      |                   |                         |           |
+
+
+## Research (How it tests)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
