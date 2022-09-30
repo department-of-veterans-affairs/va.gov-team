@@ -19,8 +19,11 @@ We show this section for every LOA3 user.
 #### **Content**
 
 **Title**
+
 Date
+
 Status
+
 View details (link to status details page for the specific claim)
 
 ---
