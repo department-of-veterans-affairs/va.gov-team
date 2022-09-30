@@ -49,6 +49,7 @@
 
 <details>
 
+**PM Responsibility**
 - [ ] Create Initiative Brief with the Problem Statement and as many details known
      - [ ] Update the Initiative Brief after each step with links to the artifacts and more details known
 - [ ] Discovery
@@ -61,18 +62,20 @@
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [ ] Create Epic and corresponding stories to align with the work needed (start with this list!)
+- [ ] Sign up for a Product Review session to present the initiative (after Design Intent)
+     
+**APM Responsibility**     
 - [ ] Initial design
      - [ ] Lo-Fi design ideas
      - [ ] Presentation and agreement with the team on direction
           - [ ] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
 - [ ] Submit Collaboration Cycle request ticket
-     - [ ] Review Collaboration Cycle pages
+     - [ ] Review Collaboration Cycle site
      - [ ] Start gathering artifacts (list above)
      - [ ] Maintain this checklist of artifacts, updating as they are shared
 - [ ] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Present design and obtain feedback
-- [ ] Sign up for a Product Review session to present the initiative
 - [ ] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
