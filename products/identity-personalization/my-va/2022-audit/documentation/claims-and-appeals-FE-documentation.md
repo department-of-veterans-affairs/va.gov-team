@@ -18,7 +18,7 @@ We show this section for every LOA3 user.
 
 #### **Content**
 
-**Title**
+Title
 
 Date
 
