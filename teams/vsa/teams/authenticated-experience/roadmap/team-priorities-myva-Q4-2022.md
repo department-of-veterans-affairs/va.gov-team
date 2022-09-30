@@ -40,6 +40,3 @@ Now that we have some projects winding down, we'll want to start updating our do
 ### GA4 migration
 
 According to the analytics team, we should anticipate some level of work around the Google Analytics migration to GA4. Details are TBD.
-
-**Anticipated launch**: TBD
-
