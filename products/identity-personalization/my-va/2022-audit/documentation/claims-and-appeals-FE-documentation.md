@@ -8,7 +8,6 @@ We show this section for every LOA3 user.
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
-
 **Show card**
 
 - If a user has an open claim or appeal, or their claim or appeal has been closed in the last 60 days.
@@ -22,7 +21,7 @@ We show this section for every LOA3 user.
 **Title**
 Date
 Status
-View details (link)
+View details (link to status details page for the specific claim)
 
 ---
 
@@ -83,12 +82,10 @@ Use font awesome icon `file-lines` for icon
 ### Error State 1: The claims API call fails
 
 #### Visual specs
-- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We can't acess any claims or appeals information right now. We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
 
 **Positioning**
-- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
-- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
 - This should appear under the 'Claims and appeals' header.
 
 #### Mock-ups
