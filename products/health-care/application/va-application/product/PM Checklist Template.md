@@ -120,7 +120,8 @@
 - [ ] Submit Contact Center guide review ticket
 - [ ] Update Release Plan
      - [ ] Include E2E test results & signoff
-- [ ] Validate all required stories are closed for the initiative
+- [ ] Schedule or close all remaining tickets
+     - Some tickets may be backlogged for future work, as they were not required to launch
 - [ ] Review this checklist for any missing artifacts
 - [ ] Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)
 - [ ] Conduct Launch Go/No Go with the team
@@ -132,7 +133,6 @@
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
-- [ ] Schedule or close all remaining tickets
-     - Some tickets may be backlogged for future work, as they were not required to launch
+
 
 </details>
