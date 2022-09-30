@@ -2,7 +2,9 @@
 
 **Purpose**: a template for VFS teams to create product guides for VA.gov contact center. VFS teams should use this template as a guide for describing the use and functionality of a new tool or a significant update to an existing tool or feature.
 
-All product guides should be created and saved as a Word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A complete product guide will include the following:
+All product guides should be created and saved as a Word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A Word template for VA.gov Product Guides can be downloaded for use at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Product%20Guide%20Template%2006142022.docx
+
+A complete product guide will include the following:
 
 ## **Important Items/Notes:**
   

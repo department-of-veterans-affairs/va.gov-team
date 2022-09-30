@@ -4,7 +4,7 @@
 This document is designed to capture best practices around how the VFS-CMS and Sitewide Crew teams approach each two week sprint and leverages various applications throughout.
 
 ## Capacity planning
-Before the start of each sprint, team members are expected to go into their respective team’s tab (“Platform Team”, “Sitewide CMS Team”, "Facilities Team", "Public Websites") on [this sheet](https://docs.google.com/spreadsheets/d/1g814Nfk_UgUUkAFC0tcMIQWdqlLb8Z6foNqMBN801KU/edit#gid=6090049) and enter the number of available days for the sprint.
+Before the start of each sprint, team members are expected to go into their respective team’s tab (“Platform CMS Team”, “Sitewide CMS Team”, "Facilities Team", "Public Websites") on [this sheet](https://docs.google.com/spreadsheets/d/1g814Nfk_UgUUkAFC0tcMIQWdqlLb8Z6foNqMBN801KU/edit#gid=6090049) and enter the number of available days for the sprint.
 
 The default is eight, which translates to eight working days per two week period, and accounts for two days of sprint ceremonies, code review, context switching, and general meetings. Holidays, PTO, and OOO should be accounted for by subtracting one point for each day unavailable. Adding a note to give information on why points were subtracted is appreciated but not required.
 

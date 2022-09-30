@@ -2,26 +2,26 @@
 
 **Goal**: All VFS teams will have Key Performance Indicators set up, be supported in tracking their data, and use these metrics for data-driven product decisions and goals. 
 
-## KPI Setting Workshops (_As a part of the initial weeks of VSP Orientation_)
-1. The VSP Analytics and Insights Team (VSP Insights) will set up 2 hour workshops with teams building products or services in the VA.gov ecosystem - this includes VFS and VSP teams.
-2. VSP will send the VFS Team a [link to a pre-work template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-setting-pre-workshop-template.md) before the workshop.
+## KPI Setting Workshops (_As a part of the initial weeks of Platform Orientation_)
+1. The Platform Analytics and Insights Team (Platform Insights) will set up 2 hour workshops with teams building products or services in the VA.gov ecosystem - this includes VFS and Platform teams.
+2. Platform will send the VFS Team a [link to a pre-work template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-setting-pre-workshop-template.md) before the workshop.
 3. The VFS team needs to create a file from this template in their /team folder in GitHub, and meet internally to fill it out before the Workshop.
-4. VSP Insights will facilitate the KPI Workshop itself, to lead teams through setting the KPIs for their product(s). Teams will collaborate in this meeting via screenshare, to fill out a [KPIs Google Sheet](https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHMNrk/edit#gid=1554481611) hosted by VSP Insights.
-5. Post-workshop, VSP Insights will Slack an Excel version of the Google Sheet to the team, the team will upload it to their product folder, and return the link to Insights. 
+4. Platform Insights will facilitate the KPI Workshop itself, to lead teams through setting the KPIs for their product(s). Teams will collaborate in this meeting via screenshare, to fill out a [KPIs Google Sheet](https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHMNrk/edit#gid=1554481611) hosted by Platform Insights.
+5. Post-workshop, Platform Insights will Slack an Excel version of the Google Sheet to the team, the team will upload it to their product folder, and return the link to Insights. 
 
 ## Insights KPI Tracking (_Post Orientation_)
 
 1. Insights will add each team's KPIs to [this list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-list.md) and consolidate them [here](https://docs.google.com/spreadsheets/d/1No7cWp3LgD69dQWgA5bdgo0zx5d-1m-4HW-ZLnasSDM/edit#gid=0).
-2. VSP Insights will synthesize the data from each team's KPI setting to track:
+2. Platform Insights will synthesize the data from each team's KPI setting to track:
     - Which KPIs are the most common
     - Which data sources we can pull from for tracking KPIs
     - Which desired metrics are uncaptured
-3. VSP Insights will incorporate results from KPI workshops and check-ins to the Product Health Tool.
-5. VSP Insights will be readily available for team questions and updates on KPIs and product health metrics through the [#vfs-platforrm-support](https://dsva.slack.com/channels/vfs-platforrm-support) Slack channel.
+3. Platform Insights will incorporate results from KPI workshops and check-ins to the Product Health Tool.
+5. Platform Insights will be readily available for team questions and updates on KPIs and product health metrics through the [#vfs-platforrm-support](https://dsva.slack.com/channels/vfs-platforrm-support) Slack channel.
 
 ## Quarterly Check-Ins
 
-VSP Insights will perform quarterly KPI check-ins with each team. 
+Platform Insights will perform quarterly KPI check-ins with each team. 
     - These check-ins will incorporate the KPI results, resulting actions, and any adjustments to KPIs.
     
 (_Assumption: Insights will develop and deploy the Product Health Tool, which will help minimize the load to Wrangle and Explore the data_)

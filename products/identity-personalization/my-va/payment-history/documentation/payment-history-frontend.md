@@ -6,11 +6,16 @@
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/43720C90-8E38-4058-8213-B52543FFE8C7/?search=payment)
 
 ## When to show the ‘Benefit payments and debt’ section
+We show this section if a veteran has ever received payments or has any outstanding debt.
+
 **Show**
-- If we receive any information from the payment information API, then we will show this section.  
+- If we receive any information from the payment history API *or*
+- If we receive any information from the debts API, and the debt is not 0.
 
 **Do NOT show**
-- If we don't receive any information from the payment history API.
+- If we don't receive any information from the payment history API *AND*
+- If we don't receive any information from the debts API *or*
+- We receive information from the debts API, and the debt equals 0.
 
 ## UX Specs
 ### Outstanding debt notification
@@ -19,26 +24,20 @@
 
 **Show**
 
-- If a user has any debts in the debt portal.  
+- If a user has any debts in the debt portal that do not equal 0.  
 
 #### **Content**
 
-**When we have a count of debts**
-
-You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-debt)
-
-**When we do not have a count of debts**
-
-You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
+You have [count] outstanding debts. [Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt)
 
 ----
+### User has no outstanding debt
 
-### Your total VA debt balance is $0.
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/qea25yM)
 
 **Show**
-- If a user has no debts in the debt portal.  
+- If a user has never had debt or their debts equal 0. 
 
 #### **Content**
 
@@ -53,25 +52,32 @@ Your total VA debt balance is $0.
 
 **Show**
 
-- If a user has a payment made in the last 30 days. We will show the most recent payment in the month.
+- If a user has a payment made in the last 30 days, we will show the most recent payment.
 
 **Do NOT Show**
 
 - If a user has no payments in the last 30 days (but has received payments from VA in the past). 
 - If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
+- If a user has never had payments but has outstanding debt, we show messaging stating "You haven't received any payments in the past 30 days."
 
 
 #### Content
 
 **H3**
 
- We deposited [$$] in your account ending in [acct] on [date].
+- If a user has received a direct deposit in the last 30 days:
+
+We deposited [$$] in your account ending in [acct] on [date].
+ 
+ - If a user has received a paper check in the last 30 days:
+
+ We sent you a payment in the amount of [$$] on [date].
 
 **Body** 
 
-Type: [type]
+Type: [paycheck type]
 
-[View your payment history](/va-payment-history/payments)
+[View your payment history](https://www.va.gov/va-payment-history/payments)
 
 ---
 
@@ -91,7 +97,7 @@ Use font awesome icon `dollar` for icon in link list
 
 #### Content
 
-[Manage your direct deposit](/profile/direct-deposit-information)
+[Manage your direct deposit](https://www.va.gov/profile/direct-deposit)
 
 ---
 
@@ -102,10 +108,10 @@ Use font awesome icon `dollar` for icon in link list
 - Use font-awesome icon “file-invoice-dollar”
 
 **Show**
-- If a user has no debts
+- If a user has never had debt or their current debt balance is 0.
 
 **Do NOT Show**
-- If a user has outstanding debts (they’ll have the Manage your VA debt link in the alert instead)
+- If a user has outstanding debts (they’ll have the Manage your VA debt link in the alert instead).
 
 #### Content
 
@@ -122,8 +128,11 @@ Use font awesome icon `dollar` for icon in link list
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
 
 **Show in link list**
-- If a user has not had a payment in the last 30 days
+- If a user has not had a payment in the last 30 days but has in the past
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+
+**Do NOT show in link list**
+- If a user has never received a payment
 
 #### Content
 [View your payment history](/va-payment-history/payments) 
@@ -135,7 +144,7 @@ Use font awesome icon `dollar` for icon in link list
 ### State 1: A user who has outstanding debt + received a payment within the last 30 days.  
 
 #### Visual specs
-- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - The payment card uses the following styles from the design system:
 	- `H3` element for heading
 	- `p` for payment type
@@ -145,7 +154,6 @@ Use font awesome icon `dollar` for icon in link list
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1rWvEe)
--
 ---
 
 ### State 2: A user who has NO outstanding debt + received a payment within the last 30 days.  
@@ -162,7 +170,7 @@ Use font awesome icon `dollar` for icon in link list
 
 ---
 
-### State 3: A user has had NO payments in the last 30 days + NO debt.
+### State 3: A user has had NO payments in the last 30 days but has received payments before + NO debt.
 
 #### Visual specs
 - Use a plain `p` element for no outstanding debt message
@@ -181,13 +189,14 @@ Mock-ups
 ### State 4: If a user has had NO payments in the last 30 days + HAS debt.  
 
 #### Visual Specs
-- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - Use a plain `p` element for no recent payments message
+> You haven’t received any payments in the last 30 days.
 - Display the “View your payment history” link in the link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/paD25yQ)
-- [Mobile] - TBD 
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/eKx5KlW) 
 ---
 
 ### State 5: If a user has multiple deposits in the same day.
@@ -204,7 +213,7 @@ For MVP, we will only show the most recent payment.
 ### Error State 1: The Payment History API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We're sorry. We can't access some of your information right now.  We're working to fix this problem. Please check back later.
 - Do not display Benefit payment and debt section
 
@@ -216,7 +225,7 @@ For MVP, we will only show the most recent payment.
 ### Error State 2: The Debt API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list
 - Display the payment card below the alert component

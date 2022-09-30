@@ -38,11 +38,18 @@ Staging User  |Use Case|
 | test user-87  | Veteran is not enrolled in VA health care
 <br/>
 
-### Combined VA Debt Portal Staging Users
+### Combined Debt Portal Staging Users
+[Staging URL-https://staging.va.gov/manage-debt-and-bills/](https://staging.va.gov/manage-debt-and-bills/) 
+[Note(6/2)until content pages are added add 'summary' at end of url
+
+[Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
 Staging User  |Use Case|
 |--|--|
-| test-user-##| TBD
-| test user-## |TBD
+| test-user-81 or test-user-228| Veteran only has one debt
+| test user-80 |Veteran only has one copay
+| test user-56 |Empty State:Veteran has neither a copay bill nor debt
+| test user-3 |Veteran is not enrolled in healthcare
+| test user-81 |Veteran has both a copay bill and debt
 
 <br/>
 <br/>
@@ -55,3 +62,29 @@ Staging User  |Use Case|
 - Is behind the SOCKS proxy, so you have to have that setup in order to use TUD.
 - To use TUD, start SOCKS, then go to [https://tud.vfs.va.gov/](https://tud.vfs.va.gov/) and login with GitHub.
 - [https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html)
+
+
+## Staging User Profiles for Reference
+| Staging User | User Profile Details        |
+|--------------|-----------------------------|
+| 1            | TBD                         |
+| 3            | Has not received a Copay or Bill in 6 months but is enrolled in health care |
+| 14           | can reorder medical devices |
+| 56           | TBD                         |
+| 80           | TBD                         |
+| 81           | TBD                         |
+| 82           | TBD                         |
+| 83           | TBD                         |
+| 84           | TBD                         |
+| 85           | TBD                         |
+| 86           | TBD                         |
+| 87           | TBD                         |
+| 88           | TBD                         |
+| 89           | TBD                         |
+| 90           | TBD                         |
+| 91           | TBD                         |
+| 92           | TBD                         |
+| 93           | TBD                         |
+| 94           | TBD                         |
+| 95           | TBD                         |
+| 228          | TBD                         |

@@ -1,17 +1,18 @@
 # Product Guides
 
-## Patient Check-in (day of an appointment experience)
+## Day of Check-In (or Patient Check-In)
 
-Last uploaded: May 2, 2022
+Last uploaded: September 7, 2022
 
-- [PDF] [PATIENT CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605091/PATIENT.CHECK-IN_PRODUCT_GUIDE.Version.2.pdf)
+- [PATIENT CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9507978/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [Word (.docx)] [PATIENT CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605096/PATIENT.CHECK-IN_PRODUCT_GUIDE.Version.2.docx)
+- [PATIENT CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9507981/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
-## Pre-check-in
+## Pre-Check-In
 
-Last uploaded: May 2, 2022
+Last uploaded: September 16, 2022
 
-- [PDF] [PRE-CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605613/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.pdf)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9587020/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [Word (.docx)] [PRE-CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605615/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.docx)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9587022/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
+

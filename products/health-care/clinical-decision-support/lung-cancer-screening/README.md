@@ -15,10 +15,10 @@ Screening is a high touchpoint experience where a Lung Cancer Screening Coordina
 
 ## About the Team
 ### GitHub/ZenHub/Teams/Jira
-GitHub label = lung-cancer-screen-and-track
+GitHub repo = [https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track)
 ZenHub board - [link to this if/when you have one]
-Link to Teams folder if applicable: 
-•	https://teams.microsoft.com/l/team/19%3atSpgDLtfwJshsi1OeS5A3MUYyB9HZ02DszYKBZMNsMY1%40thread.tacv2/conversations?groupId=1e94a8be-65b0-4431-9924-16329ebe3f7d&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf 
+[Link to Teams folder if applicable](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track): 
+•[Link to CDSP Teams folder](https://teams.microsoft.com/l/team/19%3atSpgDLtfwJshsi1OeS5A3MUYyB9HZ02DszYKBZMNsMY1%40thread.tacv2/conversations?groupId=1e94a8be-65b0-4431-9924-16329ebe3f7d&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
 Link to Jira if applicable: 
 
@@ -30,6 +30,7 @@ Link to Jira if applicable:
 
 ### Team Members
 OCTO-DE/DEPO:
+- Shane Elliot
 - Dr. Stefany Holguin (VA OCTO, PIF, Product)
 - Varoon Mathur (VA OCTO, PIF, Data)
 

@@ -1,3 +1,12 @@
+----
+
+# This documentation has moved! 
+### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/research-overview#ResearchOverview-Runapilotsession) is found on the Platform website!
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # VSA Research Pilot Participant Guidelines
 
 We run a pilot/test session before each study so we can rehearse the process of logging in, working through kinks, and making sure we have allocated an appropriate amount of time for the sessions.

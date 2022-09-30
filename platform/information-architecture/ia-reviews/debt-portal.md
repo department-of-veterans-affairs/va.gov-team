@@ -15,43 +15,135 @@
 
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
-- This work brings 2 authenticated tools together under an overarching summary page, and a parent unauth static landing page.  
-- Unauth users will always be taken to the unauth static landing page. From there the user can click/tap the sign-in CTA and complete the sign in flow.  Once authenticated, they should be taken directly to the summary level of the auth tool, or the intended deeper page within the authenticated too.
+- This work brings 2 authenticated tools together under an overarching auth summary page, and a parent unauth static landing page.  
+- This section will also include an unauthenticated static page for requesting assistance with debt and bills, and the existing online FSR will also move to this section. 
 - In order to continue to link users to specific functions within the auth tool, entry point links in content and navigation components may target deeper pages within the structure - i.e. a link to "Pay your copay bill" will take a user to that specific page within the tool rather than the summary level.  
-  - All unauth users will first be taken
   - When unauth users are deep linked into the auth tool, they will first be sent to the unauth static page where they can click a CTA to sign-in and continue forward.  After authenticating, they should be forwarded on to their originally intended destination.
   - When auth users are deep linked into the auth tool, they will bypass the unauth static page and be taken directly to their destination
-- Based on the approach to bypass the unauth static landing page for authenticated users, the corresponding segment for that page in the breadcrumb should be hidden once you are in the 
-![image](https://user-images.githubusercontent.com/20994159/164260715-36f62613-9c2e-40ee-ae8c-dcbc806db4ff.png)
+
+![image](https://user-images.githubusercontent.com/20994159/169404143-8140fadd-774b-47f9-90c3-a17d363b03d7.png)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-![image](https://user-images.githubusercontent.com/20994159/164260392-d5058e29-c6e9-4519-a77c-373e93d35cfe.png)
+### Site maps
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/e186169c-87ad-42f4-89f6-3922c04d65fc)
 
 
-**Page** | **New/Existing** | **URL** | **Breadcrumb** | **Notes**
---- | --- | --- | --- | ---
-Debt and bills static landing page   | Existing   |  TBD | Home  >  Manage your VA debt and bills     | - This is the existing debt static page that will be modified to now encompass copay bills <br> - URL will change and old URL will need to be redirected 
-Your debt and bills summary page | NEW | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  | - This is the new summary level page of the manage debt and bills tool
-Current copay bills | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  | - This is the existing page <br> - The H1 will be modified slightly <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Copay bill details | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Copy bill statement | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >   [date] statement | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Current benefit debt  | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Debt details | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt details | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Debt letters | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt letters | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Request help static landing page | NEW | TBD | Home  >  Manage your VA debt and bills  >  Request help for debt and bills | - This is a new static landing page that will incorporate content from the existing debt landing page, the FSR wizard, the copay financial hardship page, and the copay dispute charges page  | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Request help/FSR form | Existing | TBD | Home > Manage your VA debt and bills > Request help with VA debt (VA Form 5655)  | - This is the existing online FSR <br> - The URL will change to reflect the new hierarchy and the insertion of a static parent page, the old URL will need to be redirected
+### Pages, URLs and Breadcrumbs 
+
+**1) Debt and bills static landing page (Existing)**
+- URL:
+  - **old:** /manage-va-debt/ 
+  - **new:** /manage-debt-and-bills/ 
+- Breadcrumb: Home > Manage your VA debt and *copay* bills 
+- Notes: This is the existing debt static page
+
+**2) Your debt and bills summary (NEW)**
+- URL: /manage-debt-and-bills/summary/ 
+- Breadcrumb:  Home > Manage your VA debt and bills > Your debt and bills summary 
+
+**3) Copay bill balances (Existing)**
+- URL: 
+  - **old:** /health-care/pay-copay-bill/your-current-balances/ 
+  - **new:** /manage-debt-and-bills/summary/copay-balances/ 
+- Breadcrumb: Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  
+
+**4) Copay bill details (Existing)**
+- URL:
+  - **old:** /health-care/pay-copay-bill/your-current-balances/balance-details/ 
+  - **new:** /manage-debt-and-bills/summary/copay-balances/detail/ 
+- Breadcrumb: Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] 
+
+**5) Copy bill statement (Existing)**
+- URL
+  - **old:**/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ 
+  - **new:** /manage-debt-and-bills/summary/copay-balances/detail/statement/ 
+- Breadcrumb: Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >  [date] statement
+
+**6) Benefit debt blalances (Existing)**
+- URL:
+  - **old:** /manage-va-debt/your-debt/
+  - **new:** /manage-debt-and-bills/summary/debt-balances/
+- Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances  
+
+**7) Debt details (Existing)**
+- URL:
+  - **old:** /manage-va-debt/your-debt/debt-detail/
+  - **new**: /manage-debt-and-bills/summary/debt-balances/details/  
+- Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt details 
+
+**8) Debt letters (Existing)**
+- URL:
+  - **old:** /manage-va-debt/your-debt/debt-letters/
+  - **new:** /manage-debt-and-bills/summary/debt-balances/letters/ 
+- Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt letters 
+
+**9) Request help static landing page (NEW)**
+- URL: /manage-debt-and-bills/request-help/ 
+- Breadcrumb: Home  >  Manage your VA debt and bills  >  Request help for debt and bills 
+- Notes: New static landing page to help users find the right option  
+
+**10) Request help/FSR form (Existing)**
+- URL:
+  - **old:** /manage-va-debt/request-debt-help-form-5655/  
+  - **new**  /manage-debt-and-bills/request-help/request-financial-help-form-5655/ 
+- Breadcrumb: VA.gov home  >  Manage your VA debt and bills  >  Request help with debt and bills  >  Request financial help (VA Form 5655) 
+
+**11) Pay your copay bill static page (RETIRE)**
+- URL:/health-care/pay-copay-bill/ 
+- Breadcrumb: n/a 
+- Notes: This page is no longer needed and will be retired and redirected
+
+**12) Displute your VA copay charges (RETIRE)**
+- URL: /health-care/pay-copay-bill/dispute-charges/ 
+- Breadcrumb: n/a 
+- Notes: This page will be retired and redirected. Content will be moved to the Request help static page and applicable R&S articles. 
+
+**13) Request VA financial hardship assistance (RETIRE)**
+- URL: /health-care/pay-copay-bill/financial-hardship/ 
+- Breadcrumb: n/a 
+- Notes: This page will be retired and redirected. Content will be moved to the Request help static page and applicable R&S articles. 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
---- | --- | --- | ---
-   |   |   |  | 
 
+1. Health care hub page (Existing)
+  - Link lable: TBD
+  - Link destination: www.va.gov/manage-debt-and-bills/summary/copay-balances/
+  - Notes: Update existing "Pay your VA copay bill" link to deep link into auth tool.  
+2. Health care left nav  (Existing)
+  - Link label: TBD
+  - Link destination: www.va.gov/manage-debt-and-bills/summary/copay-balances/
+  - Notes: Update existing "Pay your VA copay bill" link to deep link into auth tool. 
+3. Disability hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes: 
+5. Disability left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+7. Education hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+9. Education left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+11. Pension hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+13. Pension left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
 
 
 ## <a name="redirects"></a>Redirects <br>

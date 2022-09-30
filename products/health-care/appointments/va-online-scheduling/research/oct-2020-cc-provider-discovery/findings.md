@@ -1,3 +1,21 @@
+# CC provider selection usability study
+
+## Participants
+
+| P#  | Role                                               | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | Disability rating | Community care    |
+| --- | -------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ----------------- | ----------------- |
+| P1  | Veteran | Male | White or Caucasian | 35 - 44 | Some college (no degree) | Army | TX | 60% | Yes |
+| P2  | Veteran | Male | Asian | 35 - 44 | Bachelor's degree | Marine Corps | MD | 100% | Yes |	
+| P3  | Veteran | Female | White or Caucasian | 55 - 64 | Some college (no degree) | Air Force | TX | 30% | Yes |	
+| P4  | Veteran | Male | White or Caucasian | 55 - 64 | High school diploma or equivalent (for ex: GED) | Navy | IN | 50% | Yes |	
+| P5 | Veteran | Male | Black or African American | 45 - 54 | High school diploma or equivalent (for ex: GED) | Army | LA | 10% | No |	
+| P6 | Veteran, Veteran's Family Member | Female | White or Caucasian | 18-24 | Associate’s degree / trade certificate / vocational training | Marine Corps | SC | 80% | Yes |	
+| P7 | Veteran | Female | White or Caucasian | 45 - 54 | Associate’s degree / trade certificate / vocational training | Army | PA | 100% | Yes |	
+| P8 | Veteran | Male | White or Caucasian | 35 - 44 | Associate’s degree / trade certificate / vocational training | Air Force | ND | 60% | No |	
+| P9 | Veteran | Female | White or Caucasian | 45 - 54 | Master's degree | Navy | AZ | 60% | Yes |	
+| P10 | Veteran | Male | White or Caucasian | 45 - 54 | Bachelor's degree | Army, Other | CA | 10% | Yes |	
+| P11 | Veteran, Veteran's Family Member | Male | Hispanic, Latino, or Spanish Origin | 55 - 64 | Some college (no degree) | Army | IN | 70% | Yes |
+
 ## Findings and recommendations
 
 

@@ -120,11 +120,10 @@ There is also an available email directly to our help desk ticketing system: sup
 ## VA Help Desk Responsibilities
 ### Tier 1
 
-[Tier 1 Help Desk Triage] (https://docs.link-replaced.com/spreadsheets/d/1oYOPFgOoZ7O8mcAvBZ3YwQBrrF4rUs4SsXjZOqdlqDQ/edit#gid=0)
+[How to Cover Helpdesk] (https://docs.google.com/document/d/1cFxxwZg1lsP3EwDWSbfLM9L8EXzZ7WvpfO7aruW1v54/edit?usp=sharing)
 
-[Tier 1 Help Desk Product Scope of Support](https://docs.link-replaced.com/document/d/1L1aX13P0p6SmVXxOI7KMs3RndC1TykEQTq1nvKd3SAU/edit#)
+[Helpdesk Support Common Topics and Canned Responses] (https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing)
 
-[Help Desk 101](https://docs.link-replaced.com/presentation/d/1nKe1VSauK3b-7m6ahCr3u-CKgsyeaFB_brPtWm1PIGk/edit#slide=id.gb2fc4ff98b_0_75)
 
 The Tier 1 Help Desk is responsible for any Issues related to content publishing or editing that involve How-to questions (how-to edit, manage, publish, or alter VA Medical Center’s pages) and questions about the use any of the CMS’ built-in features such as Password Reset, Governance, Permissions, and Account management.
 
@@ -140,38 +139,21 @@ Escalate any Issue not in scope by engaging the Slack channel #cms-product-triag
 
 Warm Transfer Ownership after gaining agreement on the specific Tier 2 Product Owner, or Manager, Developer, or engineer taking Lead on the Ticket, notating ownership on the Ticket.
 
-Ensure that next-steps are taken to create Tier 2 ticket in GitHub Backlog.
-
-Follow-up weekly with Tier 2 on the Backlog of Tickets found in GitHub and convey any progress or barriers to progress with the related User.  
-
 Respond appropriately to follow -up on any open tickets in the Tier 1 queue.  
 
 Ensure that any Incidents are reported/escalated immediately, and serve as Incident Commander until/unless an appropriate team member takes over that role.
 
 ### Tier 2
 
-[CMS Tier 2 Rotation and Responsibilities](https://docs.link-replaced.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit)
+[Tier 1 vs. Tier 2 Responsibilities] (https://docs.google.com/document/d/1mbNhoY9vYsy3dK1NlfmV2vFpHVBWd-s_eL6Rf7ORRJs/edit?usp=sharing)
 
-[GitHub Tickets for Backlog](https://docs.link-replaced.com/spreadsheets/d/16RCtyqQdJIEVEVC4fJZiQOZI2NhXibkxTeCC5NXPevs/edit#gid=0)
-
-[Tier 2 Triage for Actionable Items from User Feedback](https://whimsical.com/product-and-tier-2-triage-for-actionable-items-from-user-feedbac-9wUpPeb6T69NUKDsKY3HqY)
-
-Tier 2 staff consists of engineers, product owners, and developers.
-
-The scope of their support involves all issues involving defects (critical and non-critical), feature requests, or enhancements. Additionally, Tier 2 will:
+Tier 2 will:
 
 Provide Tier 1 with technical information to aid in root cause analysis.
 
 Take ownership of Issues that fall within the scope of Tier 2.
 
 Respond immediately to any Incident reported through the Support Channels and serve as Incident Commander as needed.
-
-Provide 1 engineer, developer, or product owner to rotate every 2 weeks as Tier 2 on-duty providing off-hour coverage to respond to Incidents and to serve as lead on any technical questions posted to the Slack channel #cms-product-triage.
-
-### Tier 3  
-<requires refining>
-
-[VA Org Chart](https://docs.link-replaced.com/spreadsheets/d/1HDHl-tisVE5Ah72c5Y0W0ANa66O6H3fiKCC4P5qItcw/edit#gid=0)
 
 
 ### The Help Desk Manager
@@ -192,19 +174,9 @@ Prioritizes Tier 2 backlog queue and holds accountable Tier 2 rotation staff.
 
 #### User How-To or User Error Tickets
 
-The most common Issue.
+Please refer to the new living document on common issues:
+[Helpdesk Support Common Topics and Canned Responses] (https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing)
 
-Often can be resolved with Tier 1 Enhancement or Feature Requests
-
-Tier 1 will meet and review the Issue with Tier 2.
-
-Tier 2 will determine if Ownership of the Issue is necessary and create a Github ticket within the backlog.
-
-The Delivery Manager should be notified after the ticket is created schedule the request for completion in the Tier 2 Backlog
-
-For any follow-up or clarifying questions Tier 1 may be asked to engage the User or Tier 2 may, Ownership of the Issue by Tier 2 does not necessarily remove Tier 1 from the Issue.
-
-Tier 1 may follow-up independently of Tier 2 and notify the User of any updates until the Issue is resolved.  
 
 ### Defects
 
@@ -257,7 +229,7 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 [CMS User Administration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration)
 
-[VAMC System Policies Page Training](https://dsva.slack.com/files/U01DQAYJYCC/F01RZGYS65V/vamc_system_policies_page_training-local.pptx)
+[2022 Heldesk Access Request Decision Chart] (https://docs.google.com/presentation/d/10bG3GxxwviZFd-KoTSVYFFkNXNgqKYerVxoX_4TrOro/edit?usp=sharing)
 
 [Training Runbook](https://docs.link-replaced.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097)
 

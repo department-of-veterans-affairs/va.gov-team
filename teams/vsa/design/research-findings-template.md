@@ -1,3 +1,13 @@
+----
+
+# This documentation has moved! 
+### [Please use latest version of this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
+
 # Title Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
 

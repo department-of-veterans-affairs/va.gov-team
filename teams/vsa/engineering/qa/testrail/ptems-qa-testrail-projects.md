@@ -1,25 +1,28 @@
-# TestRail Projects
+# TestRail project
 
-**[WORK IN PROGRESS]**
+## Who should read this?
 
-## What is a Project?
+- Product Managers
+- Anyone who needs to access TestRail regularly
 
-A Project is TestRail's main organizational unit.  All data like Test Cases, Test Runs, and Test Plans are directly associated with a Project.
+## What is a TestRail Project?
 
-**NOTE**: Your VSA Product Team should already have its Project created in TestRail, unless your Team's newly-formed (in which case your Product Manager should consult [Platform's Getting started with TestRail doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b352dd50dfb8064f0cf813bae1d20cf755cfc1d7/platform/quality-assurance/testrail/getting-started.md)).
+A Project is TestRail's main organizational unit.  All data like Test Cases, Test Runs, Test Results/Reports, and Test Plans are directly associated with a Project.
 
-## How are Projects used for PTEMS?
+**NOTE**: Your Application Team should already have its Project created in TestRail.  If your Team's newly-formed, your Product Manager should contact #.
 
-Projects are used to reflect PTEMS VA.gov Application Teams organization -- each Application Team has its own Project.  All test-data for a Team's products/features are housed inside the Team's Project.  Typically, you can only access your own Team's Project with your Team's login credentials.
+TestRail Projects are used to reflect PTEMS VA.gov Application Teams organization -- each Application Team has its own Project [except VA-Profile team which shares a Project with Authenticated-Experience team].  All test-data for a Team's products/features are housed inside the Team's TestRail Project.  Typically, you can only access your own Team's Project with your Team's login credentials.
 
-## How do I access my Project in TestRail?
+## How do I access my team's TestRail Project?
 
-After logging into TR, you'll be on the Dashboard, where all Projects are listed.  All PTEMS-Product-Team Project-names start with **PTEMS-** (e.g., **PTEMS-1010**, **VSA-Authd-Exp*, etc.) -- just click the Project with your Team-name to access your team-specific Test Plans/Runs/Cases.
+1. Get your team's shared login credentials from your Product Manager.
+2. Click your team's direct TestRail project-links below to go directly to your team's TestRail Project.
 
-## Usage Tips
-
-### Favorite your Project
-
-You can have your Project displayed at the top of the Projects list on your Dashboard by making it a Favorite:
-
-- Click the **empty star** icon next to the Project-name.  The icon will change to a filled-in, yellow star, and the Project will be displayed at the top of the list.
+| Application Team | TestRail Project |
+| --- | --- |
+| 1010 | [PTEMS-1010](https://dsvavsp.testrail.io/index.php?/projects/overview/10) |
+| Modernized Check-in | [PTEMS-Mod-Check-in](https://dsvavsp.testrail.io/index.php?/projects/overview/24) |
+| VA Online Scheduling | [PTEMS-VAOS](https://dsvavsp.testrail.io/index.php?/projects/overview/53) |
+| VA.gov Profile | [PTEMS-Authd-Exp](https://dsvavsp.testrail.io/index.php?/projects/overview/4) |
+| Authenticated Experience | [PTEMS-Authd-Exp](https://dsvavsp.testrail.io/index.php?/projects/overview/4) |
+| Debt Resolution | [PTEMS-Debt-Res](https://dsvavsp.testrail.io/index.php?/projects/overview/7) |

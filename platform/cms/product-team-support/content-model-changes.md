@@ -236,3 +236,22 @@ The critical aspect of this collaboration is to ensure that either CMS or FE is 
   </tr>
 </table>
 
+
+## Short Versions (to see basic flow and considerations)
+
+These are not separate steps from above, but just a shortened version the two simple approaches.
+
+### Non-breaking flow, additive, no editor confusion window.
+The flow looks like this in terms of merge order:
+1. Day 1: CMS PR creates the field as hidden.
+2. Day 2: FE PR adds the query and template changes (templates are defensive in that they don't output the new content if it is not present)
+3. Day 3: CMS PR 
+   - makes the field visible
+   - auto publishes latest draft of Knowledgebase Article(s).
+4. Notify editors after CMS build completes.
+
+### Non-breaking flow, additive, 24hr editor confusion window.
+Otherwise we have the compressed version, which has a editor confusion window of at least 23 hours if all releases go as scheduled.:
+1. Day 1: CMS PR creates the field visible, and auto publishes draft of Knowledgebase article(s).
+2. Notify editors after CMS build completes.
+3. Day 2: FE PR adds the query and template changes (templates are defensive in that they don't output the new content if it is not present)

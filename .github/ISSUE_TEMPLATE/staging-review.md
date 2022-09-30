@@ -6,6 +6,8 @@ labels: collab-cycle-review, collaboration-cycle, governance-team, staging-revie
 assignees: ''
 
 ---
+# NOTE
+This template is being deprecated. If your kickoff meeting took place after May 26, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 26, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
 
 # Steps to complete Staging Review
 
@@ -17,6 +19,7 @@ assignees: ''
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
 - [ ]  If this product contains any [experimental design](https://design.va.gov/experimental-design/), add the experimental-design label and schedule a meeting with DSC to present the research findings.
+- [ ]  Please verify your product information in the [Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
 
  **Platform**
  
@@ -115,4 +118,4 @@ Please note:
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Staging Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html) on Platform website for more information about the Collaboration Cycle.
 
- FYI: @shiragoodman , @chaseakirby
+ FYI: @shiragoodman

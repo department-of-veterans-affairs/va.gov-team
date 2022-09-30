@@ -1,7 +1,5 @@
 # COVID-19 campaign landing bi-weekly swapping process 
 
-**Last swap date:** 3/28/22
-
 **Drupal Page:** Have questions before you get your COVID-19 vaccine? http://preview-prod.vfs.va.gov/preview?nodeId=19578
 
 ## Air Force Veteran information

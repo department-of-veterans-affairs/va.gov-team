@@ -1,0 +1,34 @@
+“Mayroon ka bang appointment? Mag-check in gamit ang iyong smartphone”
+“1. I-text ang check in sa 53079”
+“O i-scan ang code na ito gamit ang iyong camera.”
+“Sa: 53079”
+“Mensahe: check in”
+“2. Maghintay hanggang sa makatanggap ka ng text na may link. Ito ay aabutin lamang ng ilang segundo.”
+“3. I-tap ang link upang simulan ang iyong pag check-in. Maaaring may bayad ang data.”
+“Hindi ma-scan ang QR code? Sa halip ay mag-text sa amin. Kailangang i-update ang iyong impormasyon? Sa halip ay mag check in sa isang staff member.
+
+
+“Kapatid na lalaki”,
+“Manugang”,
+“Anak na babae”,
+“Kamag-anak”;
+“Ama”,
+“Apo”,
+“Asawa (lalaki)”,
+“Ina”,
+“Pamangking babae/pamangking lalaki”,
+“Kapatid na babae”,
+“Anak na lalaki”,
+“Anak ng asawa sa iba”,
+“Kaibigan”,
+“Ward”,
+“Asawa (babae)”,
+
+“Ito ay isang automated system at hindi sinusubaybayan.  Kung may tanong ka, mangyaring tawagan ang iyong VA facility.”
+“Paumanhin, ngunit hindi ka na i-check in sa iyong VA appointment ng aming automated system.  Mangyaring pumunta sa klinika upang mag-check in sa isa sa aming staff.”
+“Paumanhin. Hindi ka namin mai-check in online. Humingi ng tulong sa isang staff member.”
+“Ipinapakita sa aming mga rekord na mayroon kang appointment sa araw na ito. Maaari kang mag-check in hanggang ${process.env.CHECKIN_MINUTES_BEFORE} minuto bago ang iyong appointment. Subukang muli mamaya.”
+“Paumanhin. Hindi namin mahanap ang appointment na naka-iskedyul para sa iyo sa araw na ito. Magtanong sa isang staff member o tumawag sa amin para sa tulong. Hanapin ang aming numero ng telepono: https://www.va.gov/find-locations/.”
+“Wala sa aming mga rekord ang numero ng telepono na ito. Subukang muli gamit ang mobile phone na nasa aming mga rekord. Kung kailangan mo ng higit pang tulong, magtanong sa isang staff member o tumawag sa amin. Hanapin ang aming numero ng telepono: https://www.va.gov/find-locations/.”
+“Paumanhin. Hindi ka namin mai-check in online. Kailangan naming suriin ang impormasyon ng iyong health insurance na kasama ka.  Humingi ng tulong sa isang staff member.”
+“Mag-check in para sa iyong VA appointment sa ${shortUrl}.”

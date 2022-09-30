@@ -36,6 +36,8 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## Solution Goals
 
+- Enable formal and informal caregivers and Veterans to submit the right information allowing for fast, transparent adjudication so they can get the support they need.
+
 ### User Goals
 - Caregivers and veterans want to be able to fill out the 10-10CG online.
 
@@ -87,6 +89,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
+
 #### Baseline KPIs
 
 - TBD
@@ -104,7 +107,21 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 			
 #### Objective 3: Improve the experience of being a caregiver			
 - Key result 1: Improve caregiver and veteran assessments of the PCAFC 	
+---
+### New OKRs from 2022 Workshop
+#### Objective 1: Increase in number of VA-recognized Caregivers
+- Key result 1: Increase the number of successful online applications to the PCAFC
+- Key result 2: Increase % of caregivers who obtain approval for benefits
 
+#### Objective 2: Decrease time from submission to decision
+- Key result 1: Decrease application completion time
+- Key result 2: Decrease application processing time and follow-ups by customer support
+- Key result 3: Decrease number of status update calls to customer support
+
+#### Objective 3: Increase transparency of the application processing and decisions
+- Key result 1: Decrease % of application inquiry calls to customer support
+- Key result 2: Increase application status checks online
+- Key result 3: Increase number of appeals filed after rejection decision
 --- 
 
 ## Go-to-market Strategy
@@ -159,6 +176,11 @@ Note: as of 05/27/2020, the program office has not made specific plans to releas
 
 ## How to Access and Test
 - https://staging.va.gov/caregivers/
+- User #36 can be used for testing in all environments
+     - first name: WESLEY
+     - last name: FORD
+     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional SSN, DOB information
+
 
 ## Error Handling
 - If the Veteran cannot be found in MPI, the submission will not go through and the user will be prompted to print and fill out the paper form
@@ -179,5 +201,5 @@ Note: as of 05/27/2020, the program office has not made specific plans to releas
 https://www.va.gov/health-care/forms/vha-10-10CG.pdf
 
 #### After:
-TBD
+https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
 

@@ -6,6 +6,8 @@ labels: collab-cycle-review, collaboration-cycle, governance-team, midpoint-revi
 assignees: ''
 
 ---
+# NOTE
+This template is being deprecated. If your kickoff meeting took place after May 26, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 26, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
 
 # Steps to complete Midpoint Review 
 
@@ -93,4 +95,4 @@ Please note: You are responsible for adding the VFS attendees. If you have more 
 ## Additional information
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Midpoint Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) on Platform website for more information about the Collaboration Cycle.
 
-FYI: @shiragoodman , @chaseakirby
+FYI: @shiragoodman

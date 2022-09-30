@@ -213,38 +213,325 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 ## Sprint 75 (6/1 - 6/14)
 [Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
+### PTO
+
+- **Liz**: 6/1 - 6/6
+- **Samara**: Afternoon of 6/14
+- **Taylor**: 6/6 - 6/10
+
+### Priorities
+
+In order of importance, in case it's needed:
+
+1. On-site notifications
+2. Cerner updates
+3. My VA redirect
+4. Payment info V2
+5. Audit updates
+
+There are *a lot* of PM tasks this sprint. The sprint is mostly PM stuff moving along each project. We should talk about how this work can be divided among AJ, Erica, and Samara (as needed).
+
+Also, besides the Cerner updates, I don't have any frontend priorities for Taylor right now. If there are no carryover tickets from last sprint or FE tickets in the backlog, please check in with the engineering lead to get him some work for this sprint.
+
+### On-site notifications
+
+Goal: Be ready for QA by 6/15
+
+**PM**
+
+- Request QA from Tze
+- Figure out how to get the backend (DMC) to support test users
+- Coordinate QA with all necessary parties
+- QA go/no-go
+
 ### Cerner updates
 
-(692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
-(653) Roseburg: Go-live -- 6/11/2022
+**FE**
+
+- Add the following facilities to the list of Cerner sites for My VA
+  - (692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
+  - (653) Roseburg: Go-live -- 6/11/2022
 
 ### My VA redirect
+
+**PM**
+
+- Assuming we may not get the Sprint 74 tasks done with AJ needing to take some sick time, so let's move the sprint 74 tasks into sprint 75
+
+**Design - Liz**
+
+- UAT/research planning
+
+### Payments and debts V2
+
+Design on hold while we prep for midpoint review
+
+**PM**
+
+- Midpoint review prep, including starting a preliminary list of QA tasks
+- Hold midpoint review by the end of the sprint if possible
+
+### Audit updates
+
+**PM**
+
+- Collab cycle kickoff
+
+**Design - Angela**
+
+- Finish use cases if they aren't done
+- Outline design updates
+- Start on design updates
 
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
+### PTO
+
+- **Tom**: 6/17 - 6/24 (this might affect end-to-end testing for on-site notifications)
+
+Projects are in priority order:
+
+### On-site notifications
+
+**Full team**
+
+- End-to-end testing. How we are going to handle this:
+  -  Once VANotify has completed their backend testing, we will ask DMC to add the test data for a subset of staging users. If we can then validate that on-site notifications showed up in those accounts as expected, there is no need to hold an e2e call.
+  -  However, if we ask DMC to add debts and no on-site notification shows up, we should hold a call to troubleshoot the issue. 
+
+**PM**
+
+- Hold QA go/no-go
+- Fill out release plan
+- Support call center guide updates
+
+**Design**
+
+- Call center guide updates (can use My VA guide) 
+
+**QA**
+
+- Tze to conduct QA
+
+### My VA redirect
+
+**PM**
+
+- Submit IA review (if not already done)
+- Test the feature once it's in staging (QA)
+- Figure out what contact center guide updates need to happen
+
+**FE**
+
+- Code implementation by identity team
+
+**Design -- Liz**
+
+- UAT planning
+
 ### My VA: Cerner updates
 
-(531) Boise: Go-live -- 6/25/2022
+**FE**
+
+- (531) Boise: Go-live -- 6/25/2022
+
+### Payments V2
+
+Design is on hold bc of midpoint review
+
+**PM**
+
+- Midpoint review prep, including starting a preliminary list of QA tasks
+- Hold midpoint review by the end of the sprint if possible
+
+### Audit
+
+**Design**
+
+- Design for Claim status & health care sections 
 
 ## Sprint 77 (6/29 - 7/12)
 [Epic: #40787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40787)
 
+### PTO
+
+- Samara: July 5 - 6
+- AJ: July 5
+- Liz: July 8
+
+**In priority order:**
+
+### On-site notifications
+
+- VANotify to fix VA Profile ID bug
+- Get DMC to add debts
+- Taylor to fix bug with removing on-site alert
+
+### My VA redirect
+
+**PM**
+
+- Contact center guide updates
+
+**Design**
+
+- Research recruiting
+- Conduct UAT/usability testing
+
+### Payment & debts V2
+
+**Design**
+
+- Research recruiting (if it didn't happen in sprint 76)
+- Conduct research sessions
+- Research summary (if time; dependent on when sessions start)
+
+### My VA Audit
+
+This can be on hold this sprint if Angela doesn't have bandwidth due to payments V2 research. However, if she does:
+
+**Design**
+
+- Preliminary research planning
+  - This is separate from a formal research plan, though you may want to document some thoughts to include in the research plan when we get there.
+  - Do we need to test in code? If so, how do we plan on doing this (prod, code-pen or equivalent, staging)? Make sure the method serves our objectives.
+
+### Documentation
+
+This is a stretch goal and can be moved to next sprint if needed. PMs should be focused on on-site notifications and the My VA redirect as top priorities.
+
+- Create a plan for updating My VA documentation in Github (see Liz's plan in [#40862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40862#issuecomment-1128093147) for guidance)
+
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
 
+This is roughly in priority order, though the redirect and on-site notifications are about the same level of priority. **My VA audit & updates and documentation efforts are currently on hold unless people have bandwidth**.
+
+### PTO
+
+Liz: Jul 22 - 29
+
+### My VA redirect
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+- Release plan
+
+**Design**
+
+This assumes everything is fixed with the feature flag.
+
+- UAT/usability testing
+- Write up
+
+### On-site notifications
+
+Our main objective this sprint is to make sure the feature is working. If it is, great! If not, we may need to add/adjust sprint tasks in order to get it working.
+
+**PM**
+
+- Oversee end-to-end testing (July 22)
+- Oversee QA (if QA is able to happen)
+- Release plan
+- Call center guide updates (can use My VA guide) 
+- Make sure we know where we are tracking analytics for this
+  - Do metrics need to get added to our [existing dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)? 
+
+**QA**
+
+- Conduct QA (if possible; if not, we will move to next sprint)
+
 ### My VA: Cerner updates
 
-(463) Anchorage: Go-live -- 7/16/2022
+- (531) Boise: Go-live -- 7/23/2022
+
+### Payments V2
+
+- Another midpoint review
+- Research recruiting
 
 ## Sprint 79 (7/27 - 8/9)
 [Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
 
+I don't have work for Taylor, so he can either do work that's in the backlog, or we can check in with Sharon to see if there are backlog tickets he can work on for the profile.
+
 ### PTO
 
 - Samara: Aug 1 - 5
+- Liz: Jul 27 - 29
+
+### On-site notifications
+
+**PM**
+
+- Release plan
+- Make sure analytics implementation is complete, and get GA dashboard set up
+
+**QA**
+
+- Run QA and document bugs
+
+**Design & FE**
+
+- If needed, updates coming out of QA
+
+### My VA redirect
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+- Release plan
+
+**Design - Liz**
+
+- Conduct sessions
+- Start research write-up (does not need a topline summary unless Liz wants to do one)
+
+### Payments V2
+
+**Design - Angela**
+
+- Research sessions
+- Research summary
+- Updates to design (if needed/if time)
 
 ## Sprint 80 (8/10 - 8/23)
 [Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
 
-(663) Seattle: Go-live -- 8/27/2022
+I don't have work for Taylor, so he can either do work that's in the backlog, or we can check in with Sharon to see if there are backlog tickets he can work on for the profile.
+
+### PTO
+
+- Samara: August 12
+
+### On-site notifications
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+
+### My VA redirect
+
+**PM**
+
+We can move on to these if there are no issues in the usability testing/UAT sessions that cause us to reevaluate our strategy.
+
+- Staging review
+- Privacy review
+- Launch go/no-go (stretch goal; assumes no issues out of the staging review)
+
+**Design - Liz**
+
+- Finish research write-up
+
+### Payments V2
+
+**Design**
+
+- Updates to design (if needed)
+- Write the frontend implementation documentation for Taylor

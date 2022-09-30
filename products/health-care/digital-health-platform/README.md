@@ -57,7 +57,7 @@ Measuring Success
 Solution Approach
 -------------------
 
--   The initial launch will be scoped to a small group of users at our pilot site (Atlanta VA Whole Health) using Fitbits. Future iterations will likely expand this to a larger group as the value of the DHP is proven. 
+-   The initial launch will be scoped to a small group of users at various sites who are using Fitbits. Future iterations will likely expand this to a larger group as the value of the DHP is proven. 
 
 -   VA.gov was selected as the location for the device-registration experience because it is a centralized location Veterans are familiar with, and provides much of the needed base functionality such as authentication. Future iterations may expand to include the flagship mobile app or Myhealthevet.  
 
@@ -65,39 +65,39 @@ Solution Approach
 
 -   In order to connect their Fitbit account and data a Veteran must:
 
--   Navigate to a page about connecting their PGD to VA
+    -   Navigate to a page about connecting their PGD to VA
 
--   Sign in with their VA account
+    -   Sign in with their VA account
 
--   Select the type of account they would like to connect (Fitbit)
+    -   Select the type of account they would like to connect (Fitbit)
 
--   Be redirected to the Fitbit website to sign in 
+    -   Be redirected to the Fitbit website to sign in 
 
--   Select the data (steps, heart rate, sleep, activity, etc) they would like to share (On Fitbit's website)
+    -   Select the data (steps, heart rate, sleep, activity, etc) they would like to share (On Fitbit's website)
 
--   Be redirected back to a confirmation page on VA.gov indicating the account was successfully linked
+    -   Be redirected back to a confirmation page on VA.gov indicating the account was successfully linked
 
 * * * * *
 
 Go-to-market Strategy
 ---------------------
 
-Our initial users will be part of a pilot site at the Atlanta VA Whole Health. Veterans in this group will learn about the program through their care team at this site.
+Our initial users will be care team members at various sites who actively engage with Veteran Fitbit users. Veterans in this group will learn about the program through their care team at this site.
 
 Launch Dates
 ------------
 
-We are planning to launch by the end of July 2022.
+We are planning to launch in 2022.
 
 * * * * *
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Travis McKinstry, Yoni Doron-Peters, Todd Stanich, Suzanne Scott, Cam Bui, Rebecca Green, Aurelio Nogueira 
+Kimberly Roberts, Michael Chaffee, Suzanne Miller, Aurelio Nogueira, Cam Bui, Lex Joseph, Mariah Sager, Rebecca Green, Stephen Ruiz, Yoni Doron-Peters 
 
 #### Stakeholders
 
-Kimberly McManus, Arash Harzand, Blake Henderson
+Arash Harzand, Blake Henderson, Stefany Holguin
 
 #### GitHub/ZenHub/Teams/Jira
 GitHub label: [digital-health-platform](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform)

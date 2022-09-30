@@ -1,3 +1,12 @@
+----
+
+# This documentation has moved! 
+### [Please use latest version of this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Profile Personal Information Topline Summary
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**

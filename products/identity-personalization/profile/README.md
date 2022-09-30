@@ -1,38 +1,37 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: May 5, 2022
+Last Updated: August 19, 2022
 
-### Communications
+## Table of Contents
 
-- **Github labels**: vsa-authenticated-exp; profile
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-
-### Roles  
-  
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@gcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
-
----
-
-### Table of Contents
-
+- [POCs](#pocs)
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
+- [Analytics](#analytics)
 - [Projects](#projects)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
+- [Backend](#backend)
+- [Frontend](#frontend)
 - [Design](#design)
+
+---
+
+### POCs
+
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+#### Roles  
+  
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Sharon Kasimow |Product Manager| sharon.kasimow@govcio.com|
+|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
 
@@ -47,8 +46,8 @@ Currently, the VA.gov profile supports the following information:
 - [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
 - [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
 - [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
-- Account security
-- Connected apps (managed by the Lighthouse team)
+- [Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)
+- [Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data/README.md) (While the profile team built out the frontend, the Lighthouse team is responsible for the connected apps portfolio)
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
@@ -95,37 +94,71 @@ The profile gives us a place to present a consolidated view of what we know abou
 
 We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
 
-## Measuring Success
+## Analytics
 
-Current metrics we're tracking:
+These are the GA dashboards we use to track profile analytics:
 
--
+- [Personal information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
+- [Contact information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
+- [Address validation GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
+- [Direct deposit for com & pen GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Direct deposit for education GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qEpkRFroTOSTpgaBDHXK4A/a50123418w177519031p176188361/)
+- [Notification preferences GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
+- [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
+- [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
 
 ## Projects
 
 [Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
 
-## How to Access and Test
+## Backend
+
+### Backend Systems that Support the Profile
+
+You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
+
+The following information comes from **VA Profile**:
+
+- Personal information
+- Contact information
+- Military information
+- Notification preferences
+
+The following information comes from **EVSS**:
+
+- Direct deposit for comp & pen
+
+The following information comes from **BGS**:
+
+- Direct deposit for education
+
+The following information is supported by **Lighthouse**:
+
+- Connected apps
+
+### How to Access and Test
 
 - Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
 - [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
-## Error Handling
+### Error Handling
 
 - [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
-## Backend Systems that Support the Profile
+## Frontend
 
-- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Direct deposit for comp & pen information comes from the [Enterprise Veterans Self Service (EVSS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html).
-- Direct deposit for edu information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
-- Personal information comes from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
-- Military information comes from the [Enterprise Military Information Service (eMIS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html).
-- Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Confirmation emails for when people update contact information and direct deposit information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
+- [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
+
+- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
+
+- [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/frontend_documentation.md)
+
+- [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
 
 ## Design 
+
+### Sketch files
 
 - [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
 - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)

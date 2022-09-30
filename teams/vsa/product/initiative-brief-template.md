@@ -64,7 +64,7 @@
 ## Discovery
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
+> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
   - .
@@ -72,17 +72,20 @@
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
-    - API availability
+    - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+  - Examples: 
+    - VA stakeholder testing, marketing, compliance requirements 
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+### What're you building
+> *What's in scope for you to build with this initiative? Describe key features/flows. 
+> *What have you explicitly decided to **not** include and why?*
+> *How does this solution address your Assumptions & Risks?
 
-### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+#### Go-to-market 
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 --- 
 
@@ -91,9 +94,6 @@
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*

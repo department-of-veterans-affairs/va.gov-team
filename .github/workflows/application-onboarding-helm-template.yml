@@ -1,0 +1,100 @@
+name: Automation for application onboarding using helm template
+
+on:
+  workflow_dispatch:
+    inputs:
+      application_name:
+        description: Application name
+        required: true
+        type: string
+      application_environment:
+        description: Application environment
+        required: true
+        default: dev
+        type: choice
+        options:
+          - dev
+      task:
+        description: Onboarding or promoting
+        required: true
+        default: onboarding
+        type: choice
+        options:
+          - onboarding
+  workflow_call:
+    inputs:
+      application_name:
+        description: Application name
+        required: true
+        type: string
+      application_environment:
+        description: Application environment
+        required: true
+        type: string
+      task:
+        description: Onboarding or promoting
+        required: true
+        type: string
+
+env:
+  IMAGE_TAG: go-httpbin-v2.3.0
+
+jobs:
+  application-directory:
+    runs-on: ubuntu-latest
+    if: inputs.application_environment == 'dev'
+    steps:
+      - name: Check out Application Manifest infra repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-application-manifests
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          path: vsp-infra-application-manifests
+
+      - name: Check out Helm template infra repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-helm
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          path: vsp-infra-helm
+
+      - name: Check if application directory exists
+        id: directory_check
+        run: |
+          if [ -d vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }} ]
+          then 
+            echo "::set-output name=directory_exists::$(echo true)"
+          else
+            echo "::set-output name=directory_exists::$(echo false)"
+          fi
+
+      - name: Create application directory
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: mkdir -p vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/templates
+
+      - name: Copy hello-world
+        run: cp -ar vsp-infra-helm/hello-world/* vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}
+
+      - name: Modify image to pull from ECR
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: cat <<< $(yq -e '(.image.repository)="${{ secrets.HTTPBIN_ECR_REPOSITORY}}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+      - name: Modify image tag to pull from ECR 
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: cat <<< $(yq -e '(.image.tag)="${{ env.IMAGE_TAG }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+      - name: Modify ingress environment to use dev
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        run: cat <<< $(yq -e '(.ingress.environment)="${{ inputs.application_environment }}"' vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml) > vsp-infra-application-manifests/apps/${{ inputs.application_name }}/${{ inputs.application_environment }}/values.yaml
+
+      - name: Create pull request
+        if: steps.directory_check.outputs.directory_exists == 'false'
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          path: vsp-infra-application-manifests
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          branch: "chore/${{ inputs.task }}-${{ inputs.application_name }}-${{ inputs.application_environment }}"
+          commit-message: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+          title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+          body: Automated PR triggered by issue ${{ github.event.issue.html_url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}

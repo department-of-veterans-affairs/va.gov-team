@@ -1,10 +1,13 @@
-# Initiative Brief - 10-10EZ Household section redesign
+# Initiative Brief - 10-10EZ Household section optimization
+- [Household section redesign epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 
 ## Outcome Summary
 
 The 10-10EZ is easier for applicants to understand and complete without having to exit the application.
 - Reduce drop-off/exit rates on the Household section pages
 - Increase application submissions
+- Reduce number of sessions to submission
+- Relieve painpoints reported to the Call Center
 
 
 **Related/Associated product(s)**
@@ -15,19 +18,22 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 - During Discovery research we identified how difficult the Household section is for people to work through
      - (examples: Pause to talk to spouse, have to find financial paperwork, need to finish taxes, etc.)
 - We have noticed a 12-month trend of drop-offs around the Financial Disclosure page (4%), the Annual Income page (5.2%) and Spouse page (6.9%).  
-     - it was first brought to our attention because it showed the highest drop-off rate
-- HEC team (especially Stacey) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
+     - it was first brought to our attention because they showed the highest drop-off rates
+- HEC team (especially Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
-- Applicants will be better prepared to complete the application the first time
+- Applicants will be able to proceed through the application easily and confidently
+- Applicants will be better prepared to complete the application the first time, without having to save and return
 
 ## Undesired User Outcomes
 - Applicants will be more confused and unable to complete the application
+- Applicants feel the application is long and drawn out
 
 ## Desired Business Outcomes
 - Applications will be completed and submitted quicker
 - More applications that are started will be submitted in a single session
 - Drop-off/exit rates will decrease
+- Reduce call center activity pertaining to the Household section
 
 ## Undesired Business Outcomes
 - The Household section will cause confusion for applicants
@@ -39,27 +45,32 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 ### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 
-**Key Result #1:** Reduce drop-off/exit rate for the Household section pages by half.
+#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Financial Disclosure page | 4% | 2% | TBD|
-|Spouse page | 6.9% | 3.5% | TBD|
-|Dependent page | 0% | 0% | TBD|
-|Annual Income page | 5.2% | 2.5% | TBD|
-| Deductible Expenses page | 1.4% | .75% | TBD|
+Overall exit rate for 2021 on the Financial Disclosure page was 14.4%.  Target a third reduction to 10%
+
+#### **Key Result #2:** Increase application submissions by 4%, and submissions within a single session by 5%
+This is based on a third of current exit rates converting to successful submissions
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | April-Sept 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Application Submissions | 70% (70k)  | 74% | TBD|TBD|
+|Single-session Submissions | 67% (47k) | 72% | TBD|TBD|
 
 
-**Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
+#### **Key Result #3:** Veterans feel prepared when they begin the Household section
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+#### **Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Application Submissions | 14% (114k)  | 25% | TBD|
-|Single-session Submissions | 70% (80k) | 75% | TBD|
+Data source - Qualitative research and usability feedback
+
+#### **Key Result #5:** Reduced call center complaints on the Household section of questions
+
+Data source - Call Center team/TBD
 
 ---
 
@@ -71,12 +82,14 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
      - Research sessions will be conducted to ensure we are making the appropriate, informed changes, as needed.
 - **Usability Risks** (can people figure out how to use it):
   - The Usability Risk is similar to Value risk, in that a redesign could cause confusion or further complicate the section, causing more drop-offs.
+  - The application may feel too long and applicants won't want to spend the time completing all the information.
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - None at the time
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - The positive impacts to the organization will be an increase in completed applications, and less call center activity requesting assistance with the Household section.
+  - The risk/constraint is that the stakeholders will not have favorable feedback on the changes
 
 
 ### Solution Summary
@@ -92,17 +105,18 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 ## Launch Planning
 ### Collaboration Cycle
 
-- Kickoff ticket [#]()
-- Design Intent ticket [#]()
-- Content ticket [#]()
-- Midpoint ticket [#]()
-- Contact Center guide ticket [#]()
-- Analytics ticket [#]()
-- Staging ticket [#]()
-- Privacy & Security ticket [#]()
+- Collab Cycle ticket [#]()
+     - [ ] Design Intent
+     - [ ] Content and IA
+     - [ ] Research
+     - [ ] Midpoint
+     - [ ] Contact Center guide
+     - [ ] Analytics
+     - [ ] Staging
+     - [ ] Privacy & Security
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing the flow of the application's questions
+- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
@@ -123,7 +137,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ### Key Dates
 
-- May 2022: Kickoff with outline & begin design
+- May 2022: Initial discovery
+- June 2022: Kickoff with outline & begin design
 - ???? 2022: Design work finalized
 - ???? 2022: Usability testing kickoff
 - ???? 2022: Finalize designs, development
@@ -160,6 +175,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ### After
 
+TBD
+
 ---
 
 #### Communications
@@ -168,7 +185,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): 
+- GitHub Label(s): household-info-redesign
 - Slack channel: #1010-health-apps
 - Product POCs: Heather Justice & Mark Fallows
 
@@ -182,7 +199,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson
+- Contact(s): Lauren Alexanderson, Patrick Bateman
 
  
 </details>

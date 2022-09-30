@@ -1,3 +1,12 @@
+----
+
+# This documentation has moved! 
+### [The latest version of this information](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html#Observerguidelines-Role:Notetaker) is found on the Platform website!
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # How to Take Good Session Notes
 
 ## Primary Notetaker

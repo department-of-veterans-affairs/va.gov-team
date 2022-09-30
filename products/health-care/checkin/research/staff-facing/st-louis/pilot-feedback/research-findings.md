@@ -3,7 +3,7 @@
 
 # Modernized Check-In Experience: St. Louis Pilot UAT with Staff Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Care Products, Mordernized Check-In Experience**
+**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Modernized Check-In Experience**
 
 Date: 05/17/2022
 
@@ -11,19 +11,19 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf)
 
+[Companion study research findings with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)
+
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#recommendations)
 
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#who-we-talked-to)
 
 <br>
 
@@ -79,96 +79,113 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. MSAs see value in allowing editing of demographic information in pre-check-in. 
+1. Some staff felt that the roll out lacked proper communication and training. Staff would benefit from training on a variety of fronts. E.g., how to use Workflows in VSE-CS, how to fix specific "hard stops" during check-in, when MSAs should check in Veterans themselves, etc. The amount of training MSAs received was a major factor on whether they felt their job was greatly impacted. Some MSAs are using VSE-CS, which was not the original intent. Often to avoid the “lag” between systems, the want to use fewer systems or for reasons we do not yet understand. 
+1. Technical and network issues have been the root of some staff unhappiness, however most see the potential of check-in when those issues are resolved.
+1. Staff had a variety of recommendations for VSE-CS, including more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name and filtering options in Workflow. 
+1. Some staff see value in adding patients flags to VSE-CS, while others are content with using CPRS. 
+1. Each clinic handles pre-registration for patients with telephone appointments differently.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+[Companion study research findings with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+Labels: AUD: Staff, PRDT: health-care-check-in, RESRCH: Interviews, VETSJNY: Taking care of themselves
 
+**MSAs see value in allowing editing of demographic information in pre-check-in.**
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+MSAs felt that allowing Veterans to edit their information in pre-check-in would expedite the check-in process. I.e., Veterans wouldn't be required to speak with an MSA if their information needs to be updated. In turn, shortening the line of Veterans that have to speak to MSAs on the day of their appointment. 
 
+> _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
 
-**Finding 1**
+**Some staff felt that the roll out lacked proper communication and training. Based on our observations, staff would benefit from training on a variety of fronts. Some MSAs are using VSE-CS, which was not the original intent. Often to avoid the “lag” between systems, the want to use fewer systems or for reasons we do not yet understand.**
 
-Labels: label 1, label 2 
+Direction on how to use VSE-GUI and VSE-CS seemed inconsistent at times across clinics or individual MSAs. For example, some MSAs were instructed to use VSE-CS for specific activities, while others weren't. And, some MSAs were more persistent in requiring Veterans to use mobile check-in vs. simply using VSE-GUI to check them in. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Clinics that received sufficient training and were staffed higher compared to others viewed the changes to be fairly easy and convenient. 
 
-Brief description
+> _No one knew about it; neither staff or Veterans._
 
-> _Supporting data: Quote here_
+**Technical, network and cellular service have been the root of some staff unhappiness, however, most see the potential with check-in when those issues are resolved.**
 
-> _Supporting data: Quote here_
+The most common complaint received was that cellular service is not good in many locations. The second most common complaint is technical issues. E.g., where there is lag or the system is down for everyone or specific individuals. 
 
+Clinicians in multiple clinics were frustrated at VSE-CS and said it doesn't work. E.g., concern around time it takes for statuses to change in VSE-CS. Their work has increased considerably, which is negatively impacting patient care. They are constantly having to go to the waiting room to look for patients. Then, they have to stop and assist Veterans with check-in. 
 
-**Finding 2**
+Two OT's were very unhappy with VSE-CS, primarily because of its slowness in updating patient statuses and how it was rolled out. However, when VSE-CS is working as it's supposed to, they like it. 
 
-Labels: label 1, label 2 
+> _There’s potential to reduce work and improve wait times when the system is functioning properly and when Veterans have more fully adopted it._
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _It has impacted our work for the better. But, it really hurts us when the system is slow._
 
-Brief description
+> _Some Veterans don’t get good cellular service in the office. In addition, many of the Veterans do not have unlimited plans, so they get charged for each text message. Sometimes, cellular service may be turned off too and the Veteran doesn’t know how to connect to WiFi or turn off airplane mode._
 
-> _Supporting data: Quote here_
+**Staff had a variety of recommendations for VSE-CS, including more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name and filtering options in Workflow.**
 
-> _Supporting data: Quote here_
+- Many clinicians mentioned they’d like to see alerts in VSE-CS that persist to notify them that patients are checked in and ready to be seen. Or, highlight the row when statuses change. 
+- Would like to see visual indicators, like sounds, colors, flashing, etc., to know that the screen has refreshed and there is new information. 
+- One OT requested that alerts be sent to their VA pager when a patient checks in. This solution was proposed because the OT does not have a laptop and has to go back to their office to find out if their patient has arrived. (Other clinics also had clinicians that don’t have easy access to a computer.)  
+- Adding last 4 digits of SSN in VSE-CS seemed helpful to most clinicians and MSAs. 
+- Two clinicians talked about the need for an “other” option in the VSE-CS’s Workflow dropdown that offered an open text box. E.g., to document which provider the patient is with or enter information specific to their clinic. (It was mentioned this option was available in the previous system.) 
+- The MSAs in the Speciality Care clinic would like the patient summaries to print out automatically when the patient checks in. They’d like to see the patient’s future appointments added to the Patient Summary, as well as current medications, but not discontinued medications. 
+- One nurse would like the ability to use filters to shorten the list of patients by check-in status in VSE-CS, such as only show checked-in patients.
 
+**Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS.**
 
-**Finding 3**
+- MSAs don’t always look at the patient record flags, depending on how busy they are. Most know who the patients are and their needs. 
+- Some clinics use national, local, behavioral or both types of flags. 
+- Two OT’s said patient flags are not needed in VSE-CS. Patient flags are in CPRS and it would be overkill to have them in both places. 
 
-Labels: label 1, label 2 
+> _We don’t use patient flags. Not useful in VSE-CS. We typically see the flags in CPRS and acknowledge them._
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _Would like to see patient flags added to VSE-CS on the Workflow List as an indicator near the patient name (or in a new column). Hover text would be great. I want to avoid clicking to get the information._
 
-Brief description
+> _The flag should pop up when the patient checks in._
 
-> _Supporting data: Quote here_
+**Each clinic handles pre-registration for patients with telephone appointments differently.**
 
-> _Supporting data: Quote here_
+Some clinics do more telephone appointments than others, typically based on the speciality, treatment, etc. E.g., physical therapy can’t not do phone appointments. 
 
+Completing pre-registration is inconsistent. E.g., MSA may call before or after the appointment. Depends on how busy they are. Or, sometimes nurse will call. 
 
-# Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+One provider was asking whether or not they could check a patient in through VSE-CS since MSAs aren’t involved with check-in for those patients. Sometimes, the MSA will mark them as a “no show” the following day because it appears they never arrived. 
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* **Pre-check-in**
+    * Explore opportunities to increase utilization of pre-check-in with Veterans (and ensure it doesn’t “get lost”). 
+        * Communicate the value to Veterans (in marketing communications, text message, etc.) 
+        * Test new text messages (e.g., test moving the pre-check-in link into initial confirmation text message) 
+        * Send text message at a different time or day after confirming their appointment
+        * Send pre-check-in message multiple times, if not completed
+        * Introduce email for pre-check-in 
+    * Consider implementing editing of demographic information in pre-check-in.  
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* **Check-in**
+    * Consider implementing a push text message on day of appointment, e.g., pushing the check-in link out to Veterans (knowing that Veterans are arriving earlier than 30 minutes). And, consider increasing the check-in window beyond 30 minutes. 
+    * Look for opportunities (via an audit) to provide more context in error messages on VA.gov pages to expedite check-in process for Veterans and staff.
+    * Explore opportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations.   
+    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identity verification.  
 
+* **Check-in poster**
+    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.  
+    * Consider testing a poster option where text option is primary and QR code is secondary (knowing that it’s troublesome for some Veterans and devices). 
+    * Look into creating recommendations and guidelines for poster placement in clinics. Or, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
 
-# Next Steps
+* **Back of the house**
+    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS. 
+    * Share knowledge with stakeholders and training team about the impact that training has on MSA’s workload and usage of VSE-GUI and VSE-CS. I.e., with a goal to create better consistencies on how staff use these systems, how they work with Veterans to get checked in and how to mitigate when Veterans reach hard stops. 
+    * Talk to more MSAs to understand why they’re using VSE-CS. 
+    * Share knowledge with stakeholders and training team on successes of a dedicated staff member helping Veterans with check-in. As a result, recommend testing at high-volume clinics. 
+    * Work with VSE-CS team to understand and prioritize suggested improvements to VSE-CS. E.g., more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name, filtering options in Workflow, etc. 
 
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* **Feature enhancements**
+    * Talk with additional staff to understand if patient record flags are desirable in VSE-CS.
+    * Cross-reference telephone appointment findings with usability testing findings to determine if additional gaps exist prior to piloting. 
+    * Prioritize feature enhancements with product owners, including:  
+        * Integration of travel reimbursement into check-in 
+        * Ability for caregivers to check in for Veterans 
+        * Expansion into walk-in appointments 
 
 # Appendix
 
@@ -181,29 +198,21 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+[Research Synthesis Mural](https://app.mural.co/t/vfscie8528/m/vfscie8528/1651764128759/12f7863ae34343d5eb0086756dee8998d6124f61?sender=u70b8b2930b03d3ef317d2520)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Check-In Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos)
 
+## Who we talked to
 
-## Other supporting documents created
+9 MSAs, MSA Leads and clinic administrators
+6 clinicians
 
-e.g. user flows, personas, etc.
+Due to the intercept method used for this research, we were unable to collect demographic information that supports the VA's inclusive research guidelines. 
 
+We spoke with staff from a number of clinics, including:
 
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
-## Who we talked to 
-
-
-## Underserved groups we haven’t talked to 
-
-
+- North County CBOC, St. Louis (Primary care, wellness, nutrition, etc.) 
+- GI Lab, Eye Clinic, OT/PT, Speciality Care Clinic (at St. Louis VAMC) 
+- Olive Street VA Clinic (Women's Health and Dermatology Clinic) 

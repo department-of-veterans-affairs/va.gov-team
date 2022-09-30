@@ -9,8 +9,8 @@ When we estimate with story points, we assign a point value to each item. The ra
 
 | Story Points  |  Engineering  |User Experience|
 | ------------- | ------------- | -------------
-|       1       |  Content Change - replacing text only <br /> Copy-paste/reusing code type work| Regiving a presentation/presentation with no prep required |
-|       2       | FE single component change <br /> Adding a minor code change that is simple to test + unit test |Attending a brainstorming session<br>Making already discussed changes to the UI (screen only) <br /> Designing for an existing feature or workflow |
-|       3       | Adding a new, simple component/page (working from well-defined spec) <br /> Adding a new feature toggle<br/> A minor code change that has complicated testing associated with it.<br/> Adding calls to a new CHIP endpoint | Design and content changes without changing UI pattern <br /> Designing a feature based off examples w/no changes to design system|
+|       1       |  Content Change - replacing text only <br /> Copy-paste/reusing code type work| Regiving a presentation/presentation with no prep required<br>Making a quick UI Change<br>Having a quick meeting with no prep |
+|       2       | FE single component change <br /> Adding a minor code change that is simple to test + unit test |Attending a brainstorming session<br /> Designing for an existing feature or workflow<br>UI Change with moderate complexity |
+|       3       | Adding a new, simple component/page (working from well-defined spec) <br /> Adding a new feature toggle<br/> A minor code change that has complicated testing associated with it.<br/> Adding calls to a new CHIP endpoint |Design and content changes without changing UI pattern <br /> Designing a feature based off examples w/no changes to design system<br>UI Change with extensive complexity|
 |       5       | New feature that touches multiple parts of the application | Designing a feature that requires a new workflow|
 |       8       |  |  |

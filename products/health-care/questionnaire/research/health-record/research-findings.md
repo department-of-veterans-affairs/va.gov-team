@@ -187,7 +187,7 @@ ___________
 16.	Lot number
 17.	Location of immunization (arm)
 
-- Items above of the line averaged within the very important or important categories and had lower standard deviation scores. 
+- Items above the line averaged within the very important or important categories and had lower standard deviation scores. 
 - A few participants stated that they were ranking product name/manufacturer and lot number higher due to COVID, then they would based upon other immunizations. Now 1st dose and 2nd dose (which could have been associated with COVID) was pretty consistent, because some other immunizations require more than one dose (such as Shingles). 
 - Participants did mention a preference to show the common names of immunizations, such as flu shot compared to influenza. There was slight confusions on what “Editing reactions” actually let you do. However, most participants understood all pieces of data/features without explanation. As a whole, confusion was pretty low for all items within immunizations, medications, and allergies, which is not what the team was expecting prior to testing.
 - Secure messaging was mentioned by multiple participants as a feature that should be added to this list. The participants who suggested it also ranked it very highly. How long does each immunization last (like flu shot is 1 year and tetanus is every 10) was suggested as an item by one participant. 
@@ -240,7 +240,7 @@ _________
 21.	Injection, Oral, Liquid
 22.	Description (Oval, white)
 
-- Items to the left of the line averaged within the very important or important categories and had lower standard deviation scores. 
+- Items above the line averaged within the very important or important categories and had lower standard deviation scores. 
 - Secure messaging and Diagnosis (What do I take this medication for?) were mentioned by multiple participants as features that should be added to this list. The participants who suggested these also ranked them very highly.
 - There was no real confusion with any of these pieces of data/features. With later participants in the study, we asked if they would rank the “Taking as prescribed (Yes/No and Why?)” if it was just no. Participants stated that they probably would rank it higher. An example a participants shared about why they see that as value was to let a provider know if a medication was upsetting their stomach. 
 - Five out of seven participants want to list medication allergies (such as you develop a rash when taking Penicillin) in both the medications and allergies sections.

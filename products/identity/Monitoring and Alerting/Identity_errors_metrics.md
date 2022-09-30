@@ -33,13 +33,33 @@ StatsD is the main metric collector for all of Vets-API and Vets-Website. The me
 
 [IAM SSOe OAuth Session Metrics](https://github.com/department-of-veterans-affairs/vets-api/blob/9c908c868e8d1cc5d28f148696baf0df6f1ab8e0/config/initializers/statsd.rb#L224) related Oauth metrics for mobile. We normally do not interact with this data much so only adding this as a reference.
 
+[Sign in Service Metrics](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/initializers/statsd.rb#L70)
+- `STATSD_SIS_AUTHORIZE_ATTEMPT_SUCCESS`
+- `STATSD_SIS_AUTHORIZE_ATTEMPT_FAILURE`
+- `STATSD_SIS_CALLBACK_SUCCESS`
+- `STATSD_SIS_CALLBACK_FAILURE`
+- `STATSD_SIS_TOKEN_SUCCESS`
+- `STATSD_SIS_TOKEN_FAILURE`
+- `STATSD_SIS_REFRESH_SUCCESS`
+- `STATSD_SIS_REFRESH_FAILURE`
+- `STATSD_SIS_REVOKE_SUCCESS`
+- `STATSD_SIS_REVOKE_FAILURE`
+- `STATSD_SIS_INTROSPECT_SUCCESS`
+- `STATSD_SIS_INTROSPECT_FAILURE`
+- `STATSD_SIS_REVOKE_ALL_SESSIONS_SUCCESS`
+- `STATSD_SIS_REVOKE_ALL_SESSIONS_FAILURE`
+
 ### Errors
+#### SAML Errors
 SAML Errors can be found [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/errors.rb#L15). More information on SAML errors should be referenced from a previous task called [Sentry Hackathon](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sentry%20Hackathon%202020).
 - `MULTIPLE_MHV_IDS_CODE`
 - `MULTIPLE_EDIPIS_CODE`
 - `MHV_ICN_MISMATCH_CODE`
 - `IDME_UUID_MISSING_CODE`
 - `MULTIPLE_CORP_IDS_CODE`
+
+#### Sign in Service Errors
+Sign in Service errors can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/basics/oauth_errors.md), and steps for troubleshooting them can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/troubleshooting_signin.md).
 
 ### Performance Alerting
 [Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alerting to slack and pagerduty.

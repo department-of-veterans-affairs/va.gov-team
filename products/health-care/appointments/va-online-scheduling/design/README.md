@@ -28,13 +28,14 @@ VAOS is [one of many touchpoints](https://github.com/department-of-veterans-affa
 
 ## VAOS user flows
 
-![Flows](images/VAOS-User-Flows.png)
+[VAOS screen-by-screen user flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267%3A19369) (Figma)
 
-[Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/design) of the different flows.
 
 <details>
-<summary>Previous flow diagrams</summary>
-  
+<summary>Old flow diagrams</summary>
+  ![Flows](images/VAOS-User-Flows.png)
+
+- [Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/design) of the different flows.
 - [Updated VAOS Flow - Flowmapp](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
 - [VAOS Flow - Figma](https://www.figma.com/file/KGChcQHMrTReo7T7cML418/VAOS-Flow)
 

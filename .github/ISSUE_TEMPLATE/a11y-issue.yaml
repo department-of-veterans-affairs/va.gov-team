@@ -1,0 +1,87 @@
+name: "Accessibility Issue Ticket"
+description: "Create an accessibility issue ticket"
+title: "508-defect-x:"
+labels: ["508/Accessibility"]
+assignees: []
+body:
+- type: markdown
+  attributes:
+    value: Here's a [list of common issue tickets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues) you can reference, copy, and add to. 
+- type: markdown
+  attributes:
+    value: "## Definition of done"
+- type: markdown
+  attributes:
+    value: |
+      1. Review and acknowledge feedback.
+      1. Fix and/or document decisions made.
+      1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix."
+- type: input
+  id: contact
+  attributes:
+    label: Point of contact
+    description: The person who wrote or is responsible for this ticket. Usually an a11y specialist.
+  validations:
+    required: true
+- type: dropdown
+  id: severity
+  attributes:
+    label: Severity level
+    description: "Don't forget to add a corresponding label to this ticket once it's created"
+    options:
+      - 0, Launchblocker. Potentially Harmful. Must be fixed immediately.
+      - 1, Launchblocker. Critical. Must be fixed before launch.
+      - 2, Serious. Should be fixed in 1-2 sprints post-launch.
+      - 3, Moderate. Should be fixed in 1-3 sprints post-launch.
+      - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
+  validations:
+    required: true
+- type: textarea
+  id: details
+  attributes:
+    label: Details
+    description: "Describe the issue and what problem it's creating. If you have a screenshot or video, add those here after the ticket is created."
+    value: |
+      ...
+- type: textarea
+  id: repro
+  attributes:
+    label: Reproduction steps
+    description: "How do you trigger this issue? Please walk us through it step by step. Include any relevant device, browser, and assistive technology."
+    value: |
+      1.
+      2.
+      3.
+      ...
+- type: textarea
+  id: solution
+  attributes:
+    label: Proposed solution or next steps
+    description: "If there is an easy HTML, CSS, or JavaScript markup fix, add it after creating this ticket. If it is a longer fix or you do not have a ready solution, provide next steps."
+    value: |
+      ...
+- type: textarea
+  id: references
+  attributes:
+    label: References, articles, or WCAG support
+    description: "Provide any relevant documentation or evidence as to why this is an issue or how to fix it"
+    value: |
+      1.
+      2.
+      3.
+      ...
+- type: checkboxes
+  id: type
+  attributes:
+    label: Type of issue
+    description: You may select more than one.
+    options:
+      - label: Screenreader
+      - label: Keyboard
+      - label: Focus
+      - label: Headings
+      - label: Color
+      - label: Zoom
+      - label: Semantics
+      - label: Axe-core
+      - label: Something else

@@ -14,7 +14,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
  - CSP ID: comes from the credential provider such as IDme
  - ICN: MPI (Master Person Index) uuid
  - Sec_ID: Eauth uuid
- - MHV_ICN: ICN stored from MHV in MPI
+ - MHV_ICN: ICN stored from MHV in MHV EAuth headers
 
 [Vets-API inspects](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/user_attributes/ssoe.rb) each of the above attributes and makes business logic decisions regarding if a user should be permitted to login to va.gov and any other applications that utilize the sign-in modal (exceptions are made on a case by case basis and are listed in the next section):
  - IEN: 
@@ -44,7 +44,8 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has more than one Sec_ID, the user `IS` permitted to login. A [warning is published](https://github.com/department-of-veterans-affairs/vets-api/blob/c6bfa717cfe9532cbc29925587cb9c0106edd68a/lib/saml/user_attributes/ssoe.rb#L243) to sentry to alert vets-api of this occurrence.
     - If a user has one or less Sec_ID, the user `IS` permitted to login
  - MHV_ICN: parsed from eauth headers
-    - If the MHV ICN does not equal the ICN inside the eauth headers returned after authnetication, the user `IS NOT` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
+    - If the MHV ICN does not equal the ICN inside the eauth headers returned after authentication, the user `IS NOT` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
+    - For Sign in Service since we do not get eauth headers we do not compare the MHV ICN to the MPI ICN. We will only be looking for the MPI ICN. If a user signs in through Sign in Service and the MHV ICN does not equal the MPI ICN, the user `IS` permitted to login.
  
 This diagram depicts the current business requirements as described above:
 

@@ -1,5 +1,9 @@
 # Personal and Contact Information
 
+**This documentation is no longer accurate.** In June 2022, we split personal information and contact information. 
+- [Current personal information documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
+- [Current contact information documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+
 ### Relevant links
 
 - **Invision prototype [Desktop](https://vsateams.invisionapp.com/share/FJW9OGY2B9A) 

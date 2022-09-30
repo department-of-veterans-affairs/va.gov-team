@@ -1,5 +1,7 @@
 # VSA 10-10EZ short form hub
 
+**Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
+
 <br>
 
 
@@ -19,7 +21,7 @@
 <br>
 
 ## Feature background
-Our analytics and [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) shows that the sections that cause the most confusion and result in the most drop-offs is the Military information and Household/financial information sections. Because these sections are not necessary for Veterans that are in Priority group 1, we will remove any questions that aren't necessary for their application.
+Our analytics and [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) shows that the sections that cause the most confusion and result in the most drop-offs is the Military information and Household/financial information sections. Because these sections are not necessary for Veterans that are in Priority group 1, we will remove any questions that aren't necessary for their application.
 
 User story: As a Veteran applying for health care, I would like to expedite the application so I can complete it faster, remove blockers, and have less confusion.
 
@@ -37,8 +39,8 @@ This table includes links to the individual research studies.
 
 | Study | Research folder |
 | :--- | :--- | 
-| Discovery research (May 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) 
-| Usability  (September 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research) | 
+| Discovery research (May 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) 
+| Usability  (September 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/flow-research-sept-21) | 
 | Usability post-publication (April 2022) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/Short%20form%20usability-April%202022)
 
 
@@ -49,7 +51,7 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Last status |
 | :--- | :--- | :--- | 
-| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
+| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
 | Authenticated-immediate alert flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq) | Up-to-date |
 | Authenticated-self-report flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb) | Up-to-date |
 | Unathenticated-self-report flow  | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j)  | Up-to-date |
@@ -61,7 +63,7 @@ This table includes links to the individual design work products.
 <br>
 
 ### Engineering artifacts
-- [Short form use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Short-form-use-cases.md)
+- [Short form use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md)
 
 <br>
 
@@ -83,11 +85,12 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## Team members that worked on this
-- Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
-- Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
-- Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
+- Dené Gabaldón | dene.gabaldon@va.gov -- Sr UX researcher/designer
+- Nick Osmanski | nick.osmanaski@va.gov -- UX researcher/designer
+- Heather Justice | heather.justice1@va.gov -- Product Manager
+- Mark Fallows | mark.fallows@va.gov -- Associate Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
-- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
+- Matt Long | matt.long@va.gov -- Frontend engineer
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 

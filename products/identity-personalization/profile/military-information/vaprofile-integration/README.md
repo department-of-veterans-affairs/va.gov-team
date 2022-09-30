@@ -1,6 +1,6 @@
 # Project outline: Integrate military information through VA Profile
 
-Last updated: May 5, 2022 
+Last updated: August 18, 2022 
 
 ### Communications
 
@@ -17,8 +17,10 @@ Last updated: May 5, 2022
 
 |Name|Role|Email|
 |----|----|-----|
-|Mike Richard| VA Profile|michael.richard2@va.gov|
-|Barry Willbanks| VA Profile|bwilbanks@meetveracity.com|
+|Barb Burns| VA Profile |Barbara.Burns@va.gov |
+|Tom Traficante| VA Profile |Thomas.Traficante@va.gov|
+|Barry Willbanks| VA Profile |bwilbanks@meetveracity.com|
+|Josh Lindsey| VA Profile|Joshua.Lindsey@va.gov|
 
 ### Table of Contents
 
@@ -73,3 +75,9 @@ In February 2022, we were informed that the service through which the VA.gov pro
 
 - April 2022: Begin migrating integration from eMIS to VA Profile.
 - May  2022: Kickoff; Begin integration work.
+- June 2022: QA
+- July 2022: Waiting for VA Profile to give prod permissions
+- August 2022: UAT
+- August 9, 2022: Launch to 25%
+- August 15, 2022: Launch to 50%
+- August 18, 2022: Launch to 100%

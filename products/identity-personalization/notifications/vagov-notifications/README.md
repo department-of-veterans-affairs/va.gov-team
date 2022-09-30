@@ -1,6 +1,6 @@
-# Product: Alerts & notifications on VA.gov ("On-site Notifications")
+# Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-Last updated May 5, 2022
+Last updated July 14, 2022
 
 ### Communications
 
@@ -77,22 +77,38 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Backend
 
-We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html). The system works as follows:
+### How it works
 
-- A backend system (eg. debt management) talks to VANotify and tells it to send out a notification.
-- VANotify then determines via what channels to send the notification (eg. email, text, VA.gov).
-- If VANotify determines it should send a notification to VA.gov (ie. on-site notifications), it will send a `user id` and `template id` to VA.gov. This will tell us what notification to show and to whom.
+We receive on-site notifications from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
+
+- The debt management center backend (DMC) will add debts for a given set of users. Those debts will show up in the debt tool in VA.gov.
+- Once a day, the DMC backend will send a batch request to VANotify to send out notifications to folks alerting them that they have a new debt.
+- VANotify will then send out notifications:
+  - An email notification (this existed prior to the on-site notification MVP and was an entirely separate effort).
+  - A notification that shows on someone's My VA personalized dashboard if they are logged in and identity-verified (LOA3) on VA.gov.
+  - Users receive notifications based on their preferences. Email notifications can be turned off; on-site notifications can not. 
+- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
+
+[Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
+
+See [Onsite Notification Technical Overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical_overview.md) for more detailed technical workflows and explanations about the solution.
+
+### How to test
+
+Currently, there is only one notification to test (2022). In the future, there may be multiple notifications that need to be tested in different ways. 
+
+- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#how-to-test).
 
 ## Frontend
 
 - The frontend connects to VANotify via an API we set up.
-- The frontend code currently stores the content for on-site notifications.
+- Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
+- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
 
 ## Design
 
-- Notifications are a simple line of copy and a link to more information.
-- We do not show personalized data in notifications since that is not sent to us from VANotify.
-- We can show timestamps to help differentiate similar notifications.
+- Add Sketch files
+- Add use cases
 
 ### Before
 

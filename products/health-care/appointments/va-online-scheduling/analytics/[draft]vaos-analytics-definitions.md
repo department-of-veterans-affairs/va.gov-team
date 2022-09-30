@@ -65,14 +65,14 @@ vaos-direct-path-started |
 vaos-direct-submission | `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | User completed the form and a submission was attempted
 vaos-direct-submission-failed | { flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission wasn't successful
 vaos-direct-submission-successful | `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care"}` | Submission was successful
-vaos-eligibility-direct-available-clinics-failed |
-vaos-eligibility-direct-check-past-visits-failed |
-vaos-eligibility-direct-no-matching-past-clinics-failed |
-vaos-eligibility-direct-supported-failed |
-vaos-eligibility-request-exceeded-outstanding-requests-failed |
-vaos-eligibility-request-past-visits-failed |
-vaos-eligibility-request-supported-failed |
-vaos-eligibility-supported-facilities-failed |
+vaos-eligibility-direct-available-clinics-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; service did not return any clinics
+vaos-eligibility-direct-check-past-visits-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
+vaos-eligibility-direct-no-matching-past-clinics-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; could not find any of the clinics returned in the past 24 months of appointments
+vaos-eligibility-direct-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
+vaos-eligibility-request-exceeded-outstanding-requests-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; reached the limit for appointment requests at this location
+vaos-eligibility-request-past-visits-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
+vaos-eligibility-request-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
+vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-error |
 vaos-get-future-appointments-failed | | If any of the upcoming appointments fetches fail: va or cc
 vaos-get-future-appointments-retrieved |

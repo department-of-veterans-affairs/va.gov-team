@@ -44,7 +44,9 @@ Confirm specific cases with DSVA.
 
 *Gray area.* This depends heavily on the systems themselves. Try asking around in DSVA's [#sre](https://dsva.slack.com/channels/sre) Slack channel.
 
-Areas like the VA's network toplogy, especially regarding the TIC and surrounding systems, are likely to be considered sensitive by VA's networking and security teams.
+Areas like the VA's network toplogy (including CIDRs), especially regarding the TIC and surrounding systems, are most likely to be considered sensitive by VA's networking and security teams. Specific versions, configurations, or flavors of software may also be considered sensitive as they may offer adversaries avenues for attacks. Anything involving accounts, CIDRs/IP addresses, or other information that could potentially provide adversaries with information on how to attack a system, should also be considered sensitive.
+
+As with everything, when you are unsure about whether something would be considered sensitive, ask around on slack and/or start out the content in the sensitive repo.
 
 ### Internal phone numbers / email addresses
 
@@ -53,3 +55,7 @@ Personal contact information for individuals working on VA.gov should generally 
 ### Test user information + credentials for lower environments
 
 Credentials should remain private.
+
+### API Keys
+
+API keys and tokens that need to remain private are stored in AWS Parameter Store.  See [this link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D) for instructions on requesting AWS access.  Access the parameter store via AWS Systems Manager to retrieve relevant tokens.  Parameter store can be accessed either via the console or by following [these instructions](https://depo-platform-documentation.scrollhelp.site/developer-docs/store-a-secret-in-parameter-store) for CLI access.  Ensure tokens are stored in a .env file that is not commited to public repos.

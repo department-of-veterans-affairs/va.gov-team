@@ -1,0 +1,35 @@
+Prior Action Items
+- Catastrophic Failure SOP
+  - Will have to investigate whether this has been started
+    - Can retry update be deployed early?
+        - 10/01 will allow for substantially more Veterans to apply for caregiver assistance
+            - Big event last time this happened
+            - Potential for lots of attentions / problems
+        - VA Team would like to keep 09/23 as the targeted deadline
+            - Nothing stopping us from releasing early if all the work is done ahead of time
+            - 09/23 is just more realistic of a goal
+        - When will this go into staging?
+            - In staging by 09/15
+        - How do we test these changes at a volume of greater than 1 - 2 applications at a time
+- New API documentation for CG updates
+    - Ruman to provide updated documentation on 07/15
+- [VA.gov](http://VA.gov) team to look into *Vetern Not in MPI* errors
+    - Longer term research into validity of errors and determine whether there were any frontend tweaks to help ensure clean / accurate information is provided
+    - Saw some MPI timeout errors
+        - Flagged as *other* errors
+    - How can you programmatically catch errors about a form that’s being filled out?
+        - Don’t know at this time; would like the opportunity to investigate further
+    - Lots of logic goes into identifying a Veteran in MPI
+    - May not be necessary to further investigate
+        - Rare to have a spike in this
+        - Only so much that can be done to account for a user inputting information incorrectly
+    - Revised plan
+        - There was a spike; no news of an outage
+        - Let’s review the errors during the spike to confirm whether there was an actual problem at the time
+    - Was this limited to a specific timeframe?
+        - If so, have we spoken with MPI about this?
+
+Tasks
+- [ ] Catastrophic Failure SOP
+    - Follow up with Heather - has this been started?
+- [ ]  Can we get an update on when ICN will be added to the payload?

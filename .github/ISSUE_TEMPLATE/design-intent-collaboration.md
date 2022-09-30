@@ -6,6 +6,8 @@ labels: collab-cycle-review, collaboration-cycle, design-intent, governance-team
 assignees: ''
 
 ---
+# NOTE
+This template is being deprecated. If your kickoff meeting took place after May 26, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 26, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
 
 # Steps to complete Design Intent Collaboration
 
@@ -65,4 +67,4 @@ For the Design Intent, you'll receive feedback from design, accessibility and IA
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Design Intent Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) on Platform website for more information about the Collaboration Cycle.
 
-FYI: @shiragoodman , @chaseakirby
+FYI: @shiragoodman 

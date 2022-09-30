@@ -1,5 +1,9 @@
 # PTEMS-QA Cypress-TestRail integration
 
+## DO NOT USE!
+
+**IMPORTANT**: **Do NOT use cy-tr-reporter or cypress-testrail-helper**, until further notice.  As of 2022-07-15, Cypress-TestRail integration scripts/libraries are _broken_ by Cypress 10 major upgrade.  Once these integrational scripts/libraries are refactored to work with Cypress 10, you'll be notified via DSVA Slack in #vfs-frontend channel.
+
 ## Who should read this?
 
 - PTEMS Front-End Engineers
