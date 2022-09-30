@@ -1,4 +1,4 @@
-# Project outline: On-site notifications MVP
+# Project outline: On-site notifications V2
 
 Last updated September 30, 2022
 
