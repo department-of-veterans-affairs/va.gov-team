@@ -1,6 +1,6 @@
 # Connected Apps Use Cases
 
-**Last updated:** September 22, 2022
+**Last updated:** September 30, 2022
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -20,7 +20,7 @@ There are no flags associated with this feature.
 There are no validation use cases for this feature.
 
 ### System
-- [Something has gone wrong and VA.gov can’t display any connected apps]
+- [Something has gone wrong and VA.gov can’t display any connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps/use-cases/system-cant-display-connected-apps.md)
 
 ## Flow diagrams
-- [High-level flow with screenshots]
+- [High-level flow with screenshots](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
