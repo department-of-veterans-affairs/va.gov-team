@@ -9,7 +9,16 @@ Last updated September 30, 2022
 
 ### Roles
 
-[Please see the My VA product outline for the current on-site notifications team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
+#### On-site notifications team
+
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
+|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
+|Angela Agosto |Designer| angela.agosto@adhocteam.us |
+|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+
 
 #### Partners
 
