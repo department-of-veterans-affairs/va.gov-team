@@ -86,7 +86,9 @@ Use font awesome icon `file-lines` for icon
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->We can't access any claims or appeals information right now. We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
+>We can't access any claims or appeals information right now.
+>
+>We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
 
 **Positioning**
 - This should appear under the 'Claims and appeals' header on the lefthand side on desktop.
