@@ -1,4 +1,4 @@
-# Project outline: On-site notifications V2
+# Project outline: Scaling on-site notifications (On-site notifications V2)
 
 Last updated September 30, 2022
 
