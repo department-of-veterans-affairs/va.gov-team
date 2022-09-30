@@ -4,94 +4,178 @@
 We show this section for every LOA3 user.
 
 ## UX Specs
-### Upcoming appointment card
+### Next appointment card
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
 **Show card**
 
-- If a user has an open claim or appeal, or their claim or appeal has been closed in the last 60 days.
+- If a user has VA health care and has an upcoming appointment scheduled, no matter how far in the future it is.
 
 **Do NOT show card**
 
-- If a user has not had an open claim or appeal in the last 60 days.
+- If a user does not have any future appointments scheduled.
+
+**If a user has multiple future appointments scheduled**
+
+- Only show a card for the closest appointment to today's date.
 
 #### **Content**
 
-Title
+Next appointment
 
 Date
 
-Status
+Time
 
-View details (link to status details page for the specific claim)
+Location
+
+[Schedule and manage your appointments] (https://va.gov/health-care/schedule-view-va-appointments/appointments)
 
 ---
 
-### If a user does not have an open claim or appeal, or a claim or appeal closed in the last 60 days
+### If a user has VA health care but does not have any upcoming appointments scheduled
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ECC10511-998E-4BD9-9D9F-B87E0ADC477B)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6D7BBA0-BD00-42E1-A445-5C81FBEE0307)
 
 **Show**
 
-- If a user does not have any open claims or appeals, or they had a claim or appeal that closed over 60 days ago.
+- If a user has VA health care but does not have any upcoming appointments scheduled.
 
 #### **Content**
 
-You have no claims or appeals to show.
+You have no upcoming appointments to show.
 
 ---
 
-### Learn how to file a claim link
+### If a user has unread message(s) from a health care provider(s)
 
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
-
-Use font awesome icon `file-lines` for icon
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D3CE5EC9-6925-4086-A1C5-2370E93073CB)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6F32EDF4-2B0A-4277-9963-FB1E45AA0BDD)
 
 **Show**
-- For users who do not have a claim or appeal update to show as outlined above.
+
+- If a user has unread messages in the My HealtheVet secure messaging portal.
+
+#### **Content**
+
+You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+
+*# should be the number of unread messages*
+
+#### Visual specs
+
+- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the messages notification.
 
 **Positioning**
-- This link should appear on the lefthand side on desktop as the first link in the list, above "Manage all claims and appeals".
-
-#### Content
-
-[Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/)
+- The unread messages notification should appear under the "Health care" header on the lefthand side on desktop, regardless of any other conditions within the section. If the user also has upcoming appointments, the messages notification should come before the upcoming appointments card.
 
 ---
 
-### Manage all claims and appeals link
+### Send a secure message to your health care team link
 
-- Use font awesome icon “clipboard-check”
+![Screen Shot 2022-09-30 at 1 47 18 PM](https://user-images.githubusercontent.com/97965610/193328155-29073239-d536-4672-ad4e-a8922c86c71a.png)
+
+Use font awesome icon `comments` for icon
 
 **Show**
-
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
-
-- For all LOA3 users.
+- For users who have VA health care but do not have any unread messages.
 
 **Positioning**
-- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
-- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
+- This link should always appear first in the stack of health care links when it applies. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
-[Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/)
+
+[Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+
+---
+
+### Schedule and manage your appointments link
+
+![Screen Shot 2022-09-30 at 1 50 51 PM](https://user-images.githubusercontent.com/97965610/193330557-10078363-ce30-4d6d-91db-0c1182ae99c1.png)
+
+Use font awesome icon `calendar-check` for icon
+
+**Show**
+- For users who have VA health care but do not have any upcoming appointments.
+
+**Positioning**
+- This link should appear under the "Send a secure message to your health care team" link if that applies, or at the top of the stack of health care links if the user has unread messages. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+
+#### Content
+
+[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+
+---
+
+### Refill and track your prescriptions link
+
+![Screen Shot 2022-09-30 at 1 50 57 PM](https://user-images.githubusercontent.com/97965610/193331635-504abfdc-91c3-45eb-abe1-ecec34b2ad6d.png)
+
+Use font awesome icon `prescription-bottle` for icon
+
+**Show**
+- For users who have VA health care.
+
+**Positioning**
+- This link should appear under the "Schedule and manage your appointments" link if that applies, or at the top of the stack of health care links if the user has unread messages and appointments. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+
+#### Content
+
+[Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+
+---
+
+### Request travel reimbursement link
+
+![Screen Shot 2022-09-30 at 1 51 04 PM](https://user-images.githubusercontent.com/97965610/193332543-3f753ce1-5451-46c5-a1e9-5ff14031a8b2.png)
+
+Use font awesome icon `suitcase` for icon
+
+**Show**
+- For users who have VA health care.
+
+**Positioning**
+- This link should appear under the "Refill and track your prescriptions" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+
+#### Content
+
+[Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+
+---
+
+### Get your VA medical records and lab and test results link
+
+![Screen Shot 2022-09-30 at 1 51 12 PM](https://user-images.githubusercontent.com/97965610/193333627-9a383f84-4fa7-4b98-8786-4bfb81520483.png)
+
+Use font awesome icon `file-medical` for icon
+
+**Show**
+- For users who have VA health care.
+
+**Positioning**
+- This link should appear under the "Get your VA medical records and lab and test results" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+
+#### Content
+
+[Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
 
 ---
 
 ## Error States
 
-### Error State 1: The claims API call fails
+### Error State 1: The health care API call fails (can't tell if user has VA health care or not)
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->**We can't access any claims or appeals information right now.**
+>**We can't access any health care information right now.**
 >
->We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
+>We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
+>[Visit My HealheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
 
 **Positioning**
-- This should appear under the 'Claims and appeals' header on the lefthand side on desktop.
+- This should appear under the 'Health care' header on the lefthand side on desktop.
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
