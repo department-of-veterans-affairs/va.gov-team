@@ -197,6 +197,6 @@ _List all groups in red from the spreadsheet_
 * LGBTQ+
 * Assistive tech users
 
-<img width="961" alt="Screen Shot 2022-09-30 at 2 23 22 PM" src="https://user-images.githubusercontent.com/95102058/193333402-61f98fcd-5721-426d-9d84-7acdf14b82a3.png">
 
+<img width="921" alt="Screen Shot 2022-09-30 at 2 57 39 PM" src="https://user-images.githubusercontent.com/95102058/193338426-6264e354-cb76-4691-af75-ae487e57c881.png">
 
