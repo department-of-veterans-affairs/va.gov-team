@@ -8,12 +8,12 @@ Created by the sitewide content and IA team for teams working on products relate
 
 ## Sections
 
-[Overview](#overview)
-[Related terminology](#related-terminology)
-[Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
-[Content-specific research findings](#content-specific-research-findings)
-[Unauthenticated content related to this topic](#unauthenticated-content-related-to-this-topic
-[Other notes](#other-notes)
+- [Overview](#overview)
+- [Related terminology](#related-terminology)
+- [Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
+- [Content-specific research findings](#content-specific-research-findings)
+- [Content pages related to this topic](#content-pages-related-to-this-topic
+- [Other notes](#other-notes)
 
 ## Overview
 
@@ -115,4 +115,6 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
 
 [Read the full MyVA benefit payments and debts UAT research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/95)
 
+## Content pages related to this topic  
+  
 ## Other notes
