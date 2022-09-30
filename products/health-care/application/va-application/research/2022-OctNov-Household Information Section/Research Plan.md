@@ -1,5 +1,4 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# [DRAFT] Research Plan for [1010 Team, Health care application 10-10EZ household information section, October 2022]
 
 ## Background
 Briefly describe the background of your product. Consider:
@@ -7,7 +6,9 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+
+
+- Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 
 ### OCTO Objectives 
 
@@ -21,6 +22,12 @@ Are there moments that matter?
 What are you trying to learn from this research? 
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+
+- Optimize the order and flow of questions within the household information section 
+
+Understand and measure the usability impacts of optimizing the household information section question flow and content.
+
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
