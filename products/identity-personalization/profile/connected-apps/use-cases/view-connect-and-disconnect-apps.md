@@ -1,43 +1,45 @@
 # Connected apps: User views, connects, and disconnects apps
 **Last updated:** September 26, 2022
 
-- Once users have verfied their identity, users can view, connect, and disconnect, apps.
+- Once users have verfied their identity, users can view, connect, and disconnect apps.
 
 ## UX
 ### View apps
-- If a user already has apps connected, the user will see a list of the apps.
+- If a user already has apps connected, the user will see a list of the apps. 
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/dl71Zrn)
+	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/qeE9kQk)
 - If they have not yet added apps, they will see information on Connected apps and a link to go to the app directory. 
-- [Desktop mock-up]
-- [Mobile mock-up]
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
+	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
 
 ### Connect apps
 - If a user does not already have apps connected, they will see information on Connected apps and a link to go to the app directory. 
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
+	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
 - If a user has already connected apps, they will see an additional information component, which contains a link to go to the app directory.
-- If they have not yet added apps, the link will be a link to go to the app directory. 
-- Clicking the link will lead the user to a list of third party apps.
-- User can connect an app through the app itself. 
-- [Desktop mock-up - no connected apps]
-- [Mobile mock-up - no connected apps]
-- [Desktop mock-up - connected apps]
-- [Mobile mock-up - connected apps]
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/zx2qG8o)
+	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/jg27QMa)
+- Clicking the link will lead the user to a list of third party apps where they can complete the process of connect their apps.
 
 ### Disconnect apps
 - If a user already has apps connected, they will have the option to disconnect apps.
 - The user will see a list of connected apps.
 - Each app will have a button to Disconnect the app.
-- Selecting this button will prompt an alert that says _____
-- [Desktop mock-up]
-- [Mobile mock-up]
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/dl71Zrn)
+	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/qeE9kQk)
+- Selecting this button will prompt an alert that asks the user to confirm their choice to disconnect the app.
+	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/JnmMD8G)
+	- [Mobile mock-ups](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/OmlYekq)
 
 ### Success - app disconnected
 - Once the app has successfully been disconnected, a success alert will appear.
-- [Desktop mock-up, success]
-- [Mobile mock-up, success]
+- [Desktop mock-up, success](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/4a894g3)
+- [Mobile mock-up, success](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/nRGWVZ4)
 
 ### Error - app not disconnected
 - If an error occurs and the app cannot be disconnected, an error alert will appear.
-- [Desktop mock-up, error]
-- [Mobile mock-up, error]
+- [Desktop mock-up, error](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/DPJ8A1y)
+- [Mobile mock-up, error](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/7y8Gpd2)
 
 ## Codes
 N/A
