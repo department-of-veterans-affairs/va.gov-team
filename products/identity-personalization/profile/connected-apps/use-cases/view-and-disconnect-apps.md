@@ -15,7 +15,7 @@
 - If a user already has apps connected, they will see a list of their apps. 
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/dl71Zrn)
 	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/qeE9kQk)
-- Each app has a button to Disconnect the app.
+- Each app has a button to disconnect the app.
 - Selecting this button will prompt an alert asking the user to confirm they'd like to disconnect the app.
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/JnmMD8G)
 	- [Mobile mock-ups](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/OmlYekq)
