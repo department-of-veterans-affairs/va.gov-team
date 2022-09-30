@@ -58,4 +58,4 @@ See [profile product outline](https://github.com/department-of-veterans-affairs/
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases)
 
 ### Flow diagrams
-- [View, connect, and disconnect apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
+- [View and disconnect apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
