@@ -20,12 +20,12 @@
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/JnmMD8G)
 	- [Mobile mock-ups](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/OmlYekq)
 
-### Success - app disconnected
+#### Success - app disconnected
 - Once the app has successfully been disconnected, a success alert will appear.
 - [Desktop mock-up, success](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/4a894g3)
 - [Mobile mock-up, success](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/nRGWVZ4)
 
-### Error - app not disconnected
+#### Error - app not disconnected
 - If an error occurs and the app cannot be disconnected, an error alert will appear.
 - [Desktop mock-up, error](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/DPJ8A1y)
 - [Mobile mock-up, error](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/7y8Gpd2)
