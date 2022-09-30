@@ -1,5 +1,5 @@
 # Connected apps: VA.gov can’t display any connected apps
-**Last updated: September 22, 2022**
+**Last updated: September 30, 2022**
 
 For LOA3 users who sign in, go to the profile, and click into the connected apps section, we will show an error if we are having issues connecting to the backend. If we are having issues connecting to the backend, there’s no action a user can take to correct this.
 
