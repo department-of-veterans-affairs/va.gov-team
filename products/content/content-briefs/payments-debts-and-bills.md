@@ -28,7 +28,7 @@ This brief will help your team create content for your product that aligns with 
 | **monthly offset** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe monthly offsets: If you get VA benefit payments, we may keep (or “offset”) part or all of each payment to pay down your debt. This is how we'll collect your debt unless we approve another option. | Sitewide content and IA team | 9.12.22 |
 | **outstanding debt** | We use this This is the term we use to describe a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. | Sitewide content and IA team  | 9.12.22 |
 | **overpayment debt** | We use this term to refer to a debt that's because of an overpayment. For example, in MyVA, we use this term to display the number of current overpayment debts a Veteran has to differentiate overpayment debt from copay debt. |  |  | Sitewide content and IA team  | 9.12.22 |
-| **payment / payments / VA payment** | These terms are highly contextual. We typically use **VA payment** to describe a payment that VA makes to the Veteran. However, we do use **payment** (without the **VA**) in the context of **payment history** to describe the display of a historical record of payments VA has made to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. We also use **payment** in the context of a payment a Veteran can make to pay down a debt. | Sitewide content and IA team  | 9.12.22 |
+| **payment / payments / VA payment** | These terms are highly contextual. We typically use **VA payment** to describe a payment that VA makes to the Veteran. However, we do use **payment** (without the **VA**) in the context of **payment history** to describe the display of a historical record of payments VA has made to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. We also use **payment** in the context of a payment a Veteran can make to pay down a debt. |  | 9.12.22 |
 | **payment history** | This is the term we use for displaying a history of payments VA has made to a Veteran. | Sitewide content and IA team | 9.12.22 |
 | **pay vs. repay** | We use **pay** to describe paying a copay bill. We use **repay** to describe repaying an overpayment from VA. We use **make a payment** in both contexts. | Sitewide content and IA team | 9.12.22 |
 | **pay down a debt** | We use this phrase to describe how a Veteran makes payments toward paying down a debt over time. | Sitewide content and IA team | 9.13.22 |
@@ -39,16 +39,20 @@ This brief will help your team create content for your product that aligns with 
 
 ### Terms related to "debt" have the largest search volume.
 
-Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
+#### Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
+
 ![image](https://user-images.githubusercontent.com/62957278/189704973-8282e253-3931-43cc-864e-23e035010b6c.png)
-Top 20 organic search terms related to VA debt from SEMRush (9.12.2021 - 9.12.2022)
+
+#### Top 20 organic search terms related to VA debt from SEMRush (9.12.2021 - 9.12.2022) <br
 ![image](https://user-images.githubusercontent.com/62957278/189710073-5bee2e30-682e-42bd-bd8e-25f262548763.png)
 
 ### Terms related to "overpayment" have some search volume
-Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
+                                                                                             
+#### Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
+                                                                                             
 ![image](https://user-images.githubusercontent.com/62957278/189705393-67d7125f-76ac-47b0-9193-93e72459bc90.png)
 
-###
+### Terms 
 
 ## Content-specific research findings
 
