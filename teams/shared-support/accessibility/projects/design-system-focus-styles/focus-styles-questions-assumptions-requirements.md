@@ -2,8 +2,19 @@
 
 ## Questions
 
-- Do teams use custom components outside of the design system that may require a more custom approach to focus styles?
-- With the move to v3 of the USWDS Design System, would our link colors or other prominent colors change on the site in a way that would make us rethink focus style colors?
+**Do teams use custom components outside of the design system that may require a more custom approach to focus styles?**
+
+From Matt Dingee:
+
+> That's not supposed to be the case, though the Design System does not include every component (notably header and footer; however those are quite stable). When a VFS team goes through the CollabCycle they are asked to either comply with the Design System or contribute back through the experimental process. Some teams may decide to ignore those recommendations but do so at their own peril and responsibility.
+
+So this is less of a concern for an audit, but still worth looking out for when looking at the site.
+
+**With the move to v3 of the USWDS Design System, would our link colors or other prominent colors change on the site in a way that would make us rethink focus style colors?**
+
+> Yes colors will be shifting with the move to v3 but not anytime soon. I doubt they would cause a significant impact to the focus colors as the changes are mild shifts in tones rather than dramatic changes but, happy to share the color changes for you all to evaluate the impact.
+
+One example Matt shared, the button color, was a very slight shift. Likely not an issue, but will still get the colors when it's time to start examining different color possibilities.
 
 ## Assumptions
 
