@@ -1,5 +1,5 @@
 # Connected apps: User views, connects, and disconnects apps
-**Last updated:** September 26, 2022
+**Last updated:** September 30, 2022
 
 - Once users have verfied their identity, users can view, connect, and disconnect apps.
 
