@@ -9,7 +9,7 @@ Last updated September 30, 2022
 
 ### Roles
 
-[Please see the My VA product outline for the current My VA team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
+[Please see the My VA product outline for the current on-site notifications team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
 
 #### Partners
 
