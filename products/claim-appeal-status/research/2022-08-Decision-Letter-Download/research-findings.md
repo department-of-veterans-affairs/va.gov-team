@@ -10,7 +10,7 @@ Skyler Schain · skyler@coforma.io
 # Research Goals
 Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience. Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.
 
-For this research, we tested the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. The purpose was to ensure that the feature as designed is usable and accessible.
+For this research, we tested the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. The purpose was to ensure that the feature as designed is usable by Veterans across a range of demographics and form factors.
 
 
 # Research Questions
