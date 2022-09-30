@@ -197,13 +197,22 @@ Race:
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+[Recruitment Checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=744554771)
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability
+* Rural
+* Other than honorable
+* Immigrant origina
+* Expat (living abroad)
+* Hispanic
+* Biracial
+* Asian
+* Native
+* LGBTQ+
+* Assistive tech users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="961" alt="Screen Shot 2022-09-30 at 2 23 22 PM" src="https://user-images.githubusercontent.com/95102058/193333402-61f98fcd-5721-426d-9d84-7acdf14b82a3.png">
+
+
