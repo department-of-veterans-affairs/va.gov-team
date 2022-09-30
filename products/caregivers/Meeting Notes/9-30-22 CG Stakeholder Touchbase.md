@@ -18,6 +18,7 @@
           - Lighthouse API has this mapping and already has a mechanism in place to keep it accurate
      - We need to discuss more on what we need to ask for and what needs to be sent to CARMA
      - How can we make sure the user is clear on what this information is being used for and why they are selecting a location?
+- **Jenna** will set up a refinement meeting with all parties to go through existing Facilities page and potential solutions on updating the UX
 
 >**Notes from 9/23/22 initial Facilities conversation**
 >- Originally, we restrict the locations that Veteran can chose from when completing the 1010 CG to be the ones that have a CSC at them AND are the ones that CARMA has a queue for.
