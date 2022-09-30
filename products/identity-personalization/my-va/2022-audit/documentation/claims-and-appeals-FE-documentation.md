@@ -16,6 +16,10 @@ We show this section for every LOA3 user.
 
 - If a user has not had an open claim or appeal in the last 60 days.
 
+**Visual specs**
+
+- Use the [card component](https://design.va.gov/components/card) in the VA design system
+
 #### **Content**
 
 Title
@@ -24,7 +28,14 @@ Date
 
 Status
 
-View details (link to status details page for the specific claim)
+View details (link)
+
+**Content specs**
+
+- Title: (Type of claim) received (date) - pulled from the claim details link. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
+- Date: Latest update date, also pulled from the claim details link above 
+- Status: Most recent completed status step in the "Status" table of the claim details link above
+- View details: Links to the claim details which is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
 
 ---
 
@@ -63,12 +74,11 @@ Use font awesome icon `file-lines` for icon
 
 ### Manage all claims and appeals link
 
-- Use font awesome icon “clipboard-check”
-
-**Show**
-
 ![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
 
+- Use font awesome icon `clipboard-check`
+
+**Show**
 - For all LOA3 users.
 
 **Positioning**
