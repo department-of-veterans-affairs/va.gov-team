@@ -156,14 +156,14 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- 5 mobile-first users of VA.gov.
+- 5 Veterans aged 55-64+
+- 5 Black Veterans
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
 * Veterans: 10 
-* Caregivers: 0
-* Family members of a Veteran: 0
 
 
 Gender:
@@ -177,8 +177,6 @@ Devices used during study:
 
 
 Age:
-* 25-34: 0
-* 35-44: 0
 * 45-54: 2
 * 55-64: 2
 * 65+: 6
