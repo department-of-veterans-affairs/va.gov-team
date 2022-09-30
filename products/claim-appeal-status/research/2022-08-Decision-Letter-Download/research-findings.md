@@ -17,7 +17,7 @@ For this research, we tested the effectiveness of the MVF (Minimum Viable Featur
 
 * Understand more about the decision letter user journey
 * Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
-* Understand Veterans' mental model for letters generally, including both benefit letters and "claim letters" (inbound communication from the VA pertaining to a Veterans' claims and appeals
+* Understand Veterans' mental model for letters generally, including both benefit letters and "claim letters" (inbound communication from the VA pertaining to a Veterans' claims and appeals).
 
 # Methodology 
 
@@ -58,13 +58,8 @@ Half of the participants started with Task 1, which prompted them to find out ab
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-**Core task of accessing Decision Letters via the Claim Status Tool was very successful.**
+**1. Core task of accessing Decision Letters via the Claim Status Tool was very successful.**
 
 Users were able to navigate to the list of decision letters and download their decision letter with minimal usability issues.
 
@@ -72,8 +67,7 @@ Users were able to navigate to the list of decision letters and download their d
 
 > _"I actually thought it moved along pretty quickly." (P19)_
 
-
-**The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
+**2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
 Date and recency sorting helped users understand which letter to click to get their decision letter. This is not a fully reliable signifier, since dates can be variable, but it's a good starting point. Going forward, any addiitonal metadata about the letter we can surface to the user will further improve usability. 
 
@@ -81,14 +75,13 @@ Date and recency sorting helped users understand which letter to click to get th
 
 > _(Why did you click on that letter?) "Because it's the most recent." (P10)_
 
-
-**On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
+**3. On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
 
 Participants who scrolled below the fold and discovered the Claim letters page understood that it took them to the list of letters, and were able to find their way back to the page when prompted. 
 
 Those who did not scroll far enough to see the Claim letters entrypoint were confused about how to return to that page, and some thought Benefit letters would take them back to the Claim letters list.
 
-**Navigation from the Download VA letters page back to the claim letter page was tricky for some participants**
+**4. Navigation from the Download VA letters page back to the claim letter page was tricky for some participants**
 
 > When prompted to navigate to the list of decision letters from this page, 4/10 participants clicked on “View benefit letters”
 
@@ -96,9 +89,7 @@ Those who did not scroll far enough to see the Claim letters entrypoint were con
 
 # Additional Insights
 
-**Expectations for “Claim Letters” page content was fairly accurate**
-
-Most participants understood that this page would have things like development letters related to their claims and appeals.
+**Participants expected that the "Claim Letters" page would have development letters, decision letters, and other communications related to their claims.**
 
 > _“Different letters in reference to my claim.” - P2_
 
@@ -125,9 +116,9 @@ We would like to remedy this in future versions, but are limited by technical co
 
 # Recommendations
 
-* For MVF, spin up the Claim Letters page within CST, since most users associated the page contents with claims and appeals information. (There are also product and technical reasons for doing this). Long term, figure out how to integrate different types of notification letters into Records.
+* For MVF, simplify the user experience by housing the Claim Letters page within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters, not Records. (There are also product and technical reasons for going this route). Long term, figure out how to integrate different types of notification letters into Records.
     
-* Beyond MVF, continue exploring how to surface the decision letter within a claim itself in CST.
+* Beyond MVF, continue exploring how to pair decision letters with their specific claims, to further simplify the user journey.
     * One participant (P12) in particular was dissatisfied with the experience due to the number of clicks it took to get to the decision. From observing the other participants, it was clear that reducing the total steps would have made for an even clearer and better experience. 
 
 * Beyond MVF, consider how this user journey connects to the appeals journeys and try to construct an intuitive pathway for users to appeal claims once they see their decision letter.
@@ -146,8 +137,6 @@ Mural board, Google Spreadsheet
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
