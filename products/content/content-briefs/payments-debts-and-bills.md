@@ -18,13 +18,13 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran communications | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| **benefit overpayment / overpayment** | We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits). | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | | 9.12.22 |
-| **balance (used with "debt balance" and "copay bill balance")** | We use this term to describe the remaining amount a Veteran owes on a debt or copay bill. | We use this mainly within the online debt portal itself. | | | 9.12.22 | 
-| **benefit debt** | At this time, we use this term to describe a debt related to VA benefits and to distinguish it from copay-related debt. |  Note that we need to revisit the use of "benefit debt" rather than "overpayment debt." We want to do this because we've confirmed that all benefit-related debts are related to  | 
-| **compromise offer** | We use this term to describe this specific debt repayment/relief option. | Compromise offers are an option for both overpayment and copay-related debt. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "What debt repayment and relief options does VA offer?") | | 9.12.22 | 
-| **copay / copayment / health care copay** | This is the term we use for the Veteran's health care copay. | We don't yet have a firm rule on when to use which version ("copay/copayment/health care copay"). But we typically use "health care copay" on a first mention and then "copay." Will work to solidify this. |  | 9.12.22 | 
-| **copay bill / patient statement / billing statement** | We use these terms to describe the bill (or statement) that a Veteran receives for their health care copay. This is a term that we need to refine more. | | Sitewide content and IA team  | 9.12.22 |
-| debt | This is the overarching term we use for any money the Veteran owes to VA. "Debt" encompasses money owed for overpayments as well as copays.  | Sitewide content and IA team  | 9.12.22 |
+| **benefit overpayment / overpayment** | We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits). | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | Not yet in style guide | 9.30.22 |
+| **balance (used with "debt balance" and "copay bill balance")** | We use this term to describe the remaining amount a Veteran owes on a debt or copay bill. | We use this mainly within the online debt portal itself. |[VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "How do I check my VA debt balance to find out how much I owe?") | Not yet in content style guide | 9.30.22 | 
+| **benefit debt** | At this time, we use this term to describe a debt related to VA benefits and to distinguish it from copay-related debt. |  Note that we need to revisit the use of "benefit debt" vs. "overpayment debt." We started with "benefit debt," but have since confirmed that we can confidently refer to benefit-related debts as "overpayments" and this is a less negative term. | [Manage your VA debt landing page](https://www.va.gov/manage-va-debt/) | Not yet in content style guide | 9.30.22 |
+| **compromise offer** | We use this term to describe this specific debt repayment/relief option. | Compromise offers are an option for both overpayment and copay-related debt. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "What debt repayment and relief options does VA offer?") | Not yet in content style guide | 9.30.22 | 
+| **copay / copayment / health care copay** | This is the term we use for the Veteran's health care copay. | We don't yet have a firm rule on when to use which version ("copay/copayment/health care copay"). But we typically use "health care copay" on a first mention in general content where the context of health care is necessary and then "copay" on subsequent mentions. | | Not yet in content style guide  | 9.12.22 | 
+| **copay bill / patient statement / billing statement** | We use these terms to describe the bill/statement that a Veteran receives for their health care copay.| This is a term that we need to refine more. Content will work with VHA partner to refine guidance and document here. | | Not yet in content style guide | 9.12.22 |
+| **debt** | This is the overarching term we use for any money the Veteran owes to VA. "Debt" encompasses money owed for overpayments as well as copays. |  | Not yet in content style guide | 9.12.22 |
 | **monthly offset** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe monthly offsets: If you get VA benefit payments, we may keep (or “offset”) part or all of each payment to pay down your debt. This is how we'll collect your debt unless we approve another option. | Sitewide content and IA team | 9.12.22 |
 | **outstanding debt** | We use this This is the term we use to describe a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. | Sitewide content and IA team  | 9.12.22 |
 | **overpayment debt** | We use this term to refer to a debt that's because of an overpayment. For example, in MyVA, we use this term to display the number of current overpayment debts a Veteran has to differentiate overpayment debt from copay debt. |  |  | Sitewide content and IA team  | 9.12.22 |
@@ -37,20 +37,36 @@ This brief will help your team create content for your product that aligns with 
 
 ## SEO and VA.gov search
 
-- Terms related to "debt" have the largest search volume
- - Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
+### Terms related to "debt" have the largest search volume.
+
+Top 20 on-site search terms related to debt (9.12.2021 - 9.12.2022)
 ![image](https://user-images.githubusercontent.com/62957278/189704973-8282e253-3931-43cc-864e-23e035010b6c.png)
- - Top 20 organic search terms related to VA debt from SEMRush (9.12.2021 - 9.12.2022)
+Top 20 organic search terms related to VA debt from SEMRush (9.12.2021 - 9.12.2022)
 ![image](https://user-images.githubusercontent.com/62957278/189710073-5bee2e30-682e-42bd-bd8e-25f262548763.png)
 
-- Terms related to "overpayment" have some search volume
-  - Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
+### Terms related to "overpayment" have some search volume
+Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
 ![image](https://user-images.githubusercontent.com/62957278/189705393-67d7125f-76ac-47b0-9193-93e72459bc90.png)
 
+###
 
-## Research findings
+## Content-specific research findings
 
-Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
+Here's where we add content-related notes that came out of research that should inform the messaging generally and word choice specifically. We want to make sure that the terms we use and the explanations we provide are clear to Veterans. We don't make major messaging or labeling changes based on any 1 study, but rather watch for trends over time.
+
+### 2022-09 VA mobile app IA & navigation research
+
+- Tested Veterans' expectations around a "payments" category
+  - Participants expected to find 2 main things in Payments (but not always both):
+    - A record of payments from VA (12/13 participants). The most frequently mentioned type of payment was related to disability (9/13).
+    - A record of money owed to VA (8/13 participants). The most frequently mentioned type of money owed was a copay of some kind (6/13).
+- Tested Veterans' expectations around the term "outstanding debts"
+  - When asked what they expected to find in "outstanding debts," 12/13 participants expected that they would find money they owed to VA. The most frequently mentioned type of money owed were copays (5/13) and overpayment (4/13). Also mentioned were loans and VA health locations.
+  - P21: "I would be looking for my Pharmacy copayments—even though it's not considered a collectible debt, it's still a debt, also if I had been overpaid, or if for some reason I'm owing the VA money for something."
+  - 1 participant was unaware that debts to the VA were possible:
+P10 “Wow. I am thinking… how someone could owe the VA money?”
+
+**Note:** Will add link to full study in research repo when posted.
 
 ### 2022-07 Benefit payments and debts usability study
   - Tested separate section for debts vs benefit payments - all understood debt is something they owe and payments were something they are receiving
@@ -59,12 +75,12 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
   - Tested copays and debt combined into 1 total, and a version where they were separate - 100% preferred separated amounts
     - “Debts and copays donʼt come out of the same budget for me. I want to see them here separately.” - P8
   - Feedback on "benefit payments" as separate section 
-    - 100% were able to define that this was for money being paid to them
-  - Having debt to VA can worsen mental health for veterans. Discussing this with some participants brought up strong feelings of anxiety
+    - 100% were able to define that this was for money being paid to them.
+  - Having debt to VA can worsen mental health for veterans. Discussing this with some participants brought up strong feelings of anxiety.
 
 [Read the full benefit payments and debts usability study findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/160)
 
-### Combined debt portal research, 2022-06
+### 2022-06 Combined debt portal research
 
 #### How participants defined copays, debt, and bills:
  - **Copay:**	Participants defined copays in relation to money owed for medical related expenses.
@@ -78,6 +94,11 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
 [Read the full combined debt portal research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/140)
 
 ### MyVA benefit payments and debts UAT, 2022-03
+
+- Asked users where they would expect to see an outstanding copay on MyVA
+  - 2 out of 12 users said they would expect to see it under health care
+  - 3 out of 12 users said they would expect to see it represented as a debt under Benefit payments and debts
+- One user thought health care-related prescription bills would count as debt because it’s something that he owes to the VA
 
 [Read the full MyVA benefit payments and debts UAT research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/95)
 
