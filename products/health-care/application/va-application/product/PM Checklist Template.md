@@ -62,9 +62,6 @@
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [ ] Create Epic and corresponding stories to align with the work needed (start with this list!)
-- [ ] Sign up for a Product Review session to present the initiative (after Design Intent)
-     
-**APM Responsibility**     
 - [ ] Initial design
      - [ ] Lo-Fi design ideas
      - [ ] Presentation and agreement with the team on direction
@@ -76,6 +73,7 @@
      - [ ] Maintain this checklist of artifacts, updating as they are shared
 - [ ] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Present design and obtain feedback
+- [ ] Sign up for a Product Review session to present the initiative (after Design Intent)
 - [ ] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
@@ -122,6 +120,7 @@
 - [ ] Submit Contact Center guide review ticket
 - [ ] Update Release Plan
      - [ ] Include E2E test results & signoff
+- [ ] Validate all required stories are closed for the initiative
 - [ ] Review this checklist for any missing artifacts
 - [ ] Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)
 - [ ] Conduct Launch Go/No Go with the team
