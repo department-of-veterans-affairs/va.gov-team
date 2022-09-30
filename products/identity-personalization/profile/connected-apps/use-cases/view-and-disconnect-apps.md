@@ -4,20 +4,18 @@
 - Once users have verfied their identity, users can view and disconnect apps.
 
 ## UX
-### View apps
-- If a user already has apps connected, the user will see a list of the apps. 
-	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/dl71Zrn)
-	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/qeE9kQk)
-- If they have not yet added apps, they will see information on Connected apps and a link to go to the app directory. 
+### User does not have apps connected - view apps
+
+- If they have not yet added apps, they will see information about Connected apps and a link to go to the app directory. 
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
 	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
 
-### Disconnect apps
-- If a user already has apps connected, they will have the option to disconnect apps.
-- The user will see a list of connected apps.
-- Each app will have a button to Disconnect the app.
+### User has apps connected - view and disconnect apps
+
+- If a user already has apps connected, the user will see a list of their apps. 
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/dl71Zrn)
 	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/qeE9kQk)
+- Each app will have a button to Disconnect the app.
 - Selecting this button will prompt an alert that asks the user to confirm their choice to disconnect the app.
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/JnmMD8G)
 	- [Mobile mock-ups](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/OmlYekq)
