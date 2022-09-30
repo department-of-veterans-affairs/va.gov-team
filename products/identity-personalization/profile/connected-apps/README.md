@@ -4,14 +4,14 @@ Last Updated September 6, 2022
      
 ## Table of Contents
 
-- [POCs](#)
+- [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
 - [Projects](#projects)
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design and UX](#design)
+- [Design and UX](#design-and-ux)
 
 
 ## POCs
