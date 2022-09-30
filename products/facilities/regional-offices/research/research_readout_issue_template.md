@@ -15,8 +15,11 @@
 - **Template content:** 
 
 ## Description
-Based on topline there is a scope determination for how big of an event this is
-[Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) 
+- Based on topline there is a scope determination for how big of an event this is
+- [Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) 
+- [Research Presentation Template](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit#slide=id.g892adcb623_0_141)
+- [How to add reserach to Platform Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/70)
+- Message Naomi Marcussen on Slack to sign up to share your findings with others at the weekly Design + Content + Research meeting
 
 ## Acceptance Criteria
 - [ ] Recommendations created for decisioning
