@@ -98,7 +98,7 @@ Those who did not scroll far enough to see the Claim letters entrypoint were con
 
 **Expectations for “Claim Letters” page content was fairly accurate**
 
-Most participants understood that this page would provide updates about their claim in the form of letters from the VA.
+Most participants understood that this page would have things like development letters related to their claims and appeals.
 
 > _“Different letters in reference to my claim.” - P2_
 
@@ -125,19 +125,12 @@ We would like to remedy this in future versions, but are limited by technical co
 
 # Recommendations
 
-* Increase visibility of Claim Letters entrypoint on the Download VA Letters page. 
-    * 4/10 had initial trouble finding the Claim Letters entrypoint on this page. As a result, some tried to go to the Benefit Letters page to find their decision letter. 
+* For MVF, spin up the Claim Letters page within CST, since most users associated the page contents with claims and appeals information. (There are also product and technical reasons for doing this). Long term, figure out how to integrate different types of notification letters into Records.
     
 * Beyond MVF, continue exploring how to surface the decision letter within a claim itself in CST.
     * One participant (P12) in particular was dissatisfied with the experience due to the number of clicks it took to get to the decision. From observing the other participants, it was clear that reducing the total steps would have made for an even clearer and better experience. 
 
-* Consider whether other types of letters should be in the claim letters page. 
-    * Based on our framing in this design, it was clear that letters in this page were related to claims. If we want this repository to house more types of letters (e.g. CoE, education benefit letters), we should adjust the content framing to set that expectation.
-
-
-# Next Steps
-
-_Next steps here. Include owners if appropriate._
+* Beyond MVF, consider how this user journey connects to the appeals journeys and try to construct an intuitive pathway for users to appeal claims once they see their decision letter.
 
 
 # Further research needed
