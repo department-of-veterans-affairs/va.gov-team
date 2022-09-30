@@ -12,6 +12,8 @@ So this is less of a concern for an audit, but still worth looking out for when 
 
 **With the move to v3 of the USWDS Design System, would our link colors or other prominent colors change on the site in a way that would make us rethink focus style colors?**
 
+From Matt Dingee:
+
 > Yes colors will be shifting with the move to v3 but not anytime soon. I doubt they would cause a significant impact to the focus colors as the changes are mild shifts in tones rather than dramatic changes but, happy to share the color changes for you all to evaluate the impact.
 
 One example Matt shared, the button color, was a very slight shift. Likely not an issue, but will still get the colors when it's time to start examining different color possibilities.
