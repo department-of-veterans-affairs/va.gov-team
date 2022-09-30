@@ -192,7 +192,7 @@ Education:
 Race:
 * White: 5
 * Black: 4
-* Prefer not to asnwer: 1
+* Prefer not to answer: 1
 
 
 ## Underserved groups we haven’t talked to 
