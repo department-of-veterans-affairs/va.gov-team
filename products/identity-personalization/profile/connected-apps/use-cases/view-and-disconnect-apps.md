@@ -1,7 +1,7 @@
-# Connected apps: User views, connects, and disconnects apps
+# Connected apps: User views and disconnects apps
 **Last updated:** September 30, 2022
 
-- Once users have verfied their identity, users can view, connect, and disconnect apps.
+- Once users have verfied their identity, users can view and disconnect apps.
 
 ## UX
 ### View apps
@@ -11,15 +11,6 @@
 - If they have not yet added apps, they will see information on Connected apps and a link to go to the app directory. 
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
 	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
-
-### Connect apps
-- If a user does not already have apps connected, they will see information on Connected apps and a link to go to the app directory. 
-	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
-	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
-- If a user has already connected apps, they will see an additional information component, which contains a link to go to the app directory.
-	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/zx2qG8o)
-	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/jg27QMa)
-- Clicking the link will lead the user to a list of third party apps where they can complete the process of connect their apps.
 
 ### Disconnect apps
 - If a user already has apps connected, they will have the option to disconnect apps.
