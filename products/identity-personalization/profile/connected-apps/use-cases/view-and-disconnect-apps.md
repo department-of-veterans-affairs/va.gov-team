@@ -6,7 +6,7 @@
 ## UX
 ### User does not have apps connected - view apps
 
-- If they have not yet added apps, they will see information about Connected apps and a link to go to the app directory. 
+- If a user does not have any app connected, they will see information about Connected apps and a link to go to the app directory. 
 	- [Desktop mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/ELvK4q2)
 	- [Mobile mock-up](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/a/KvDEaZr)
 
