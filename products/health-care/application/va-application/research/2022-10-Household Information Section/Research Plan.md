@@ -6,11 +6,11 @@
 > - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 > - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-This research will be conducted on the Health Care Application (10-10EZ) by the 10-10 team.
 
-The 10-10EZ online form enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. This is an existing product and this research study is focusing on an iteration of one specific section - household information.
 
-The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area though past research (discovery research findings link and/or short form usability?) and page analytics. Initial problem discover was conducted through 
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area through past research (discovery research findings link and/or short form usability?) and page analytics. Initial problem discovery
+
 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
@@ -29,6 +29,7 @@ The household information section, step 4 out of 6 in the application progress f
 - Usage of digital, self- service tools
 - Percent of applications submitted online (vs. paper)
 - Completion rate of online transactions
+
 **Decrease**
 - Call center volume, wait time, and time to resolution
 - Time to successful complete and submit online transactions
@@ -42,20 +43,15 @@ The household information section, step 4 out of 6 in the application progress f
 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
 - Optimize the order and flow of questions within the household information section
 - Determine if the questions and contextual information is clear and actionable
-
-Understand and measure the usability impacts of optimizing the household information section question flow and content.
-
+- Esablish a qualitative baseline to aid in measuring the usability impacts of changes made
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+> How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+The outcomes of this research will help in ensuring the content and flow of the household information section questions is clear and easy for the Veteran/applicant to follow along and complete without abandonment.
 
 
 ### Research questions
@@ -98,9 +94,7 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
+Remote: Zoom
 
 If in person, include:
 - Location
@@ -117,15 +111,9 @@ For moderated interviews:
 
 For moderated usability tests: 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to prototype](url goes here) - Will create after Design Intent review
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
@@ -184,9 +172,9 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
+- Moderator: Jessica Stump (jessica.stump@adhocteam.us)	
 - Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
+- Participant recruiting & screening: Perigean	
 - Project point of contact:	
 - Participant(s) for pilot test:	
 - Note-takers:	
