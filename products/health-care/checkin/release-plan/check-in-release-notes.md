@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/04/2022
+- As part of the security updates for Pre-Check-in & eCheck-in, a LoROTA entry is deleted after 3 failed identity verification attempts; no changes to front end
+    - [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) 
+
 ### 9/29/2022
 - Changed Pre-Check-in to allow Veterans to get an error message prior to verifying their identity when using an expired Pre-Check-in link
     - [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
