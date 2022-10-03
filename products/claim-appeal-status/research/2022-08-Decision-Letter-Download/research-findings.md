@@ -81,7 +81,7 @@ Participants who scrolled below the fold and discovered the Claim letters page u
 
 Those who did not scroll far enough to see the Claim letters entrypoint were confused about how to return to that page, and some thought Benefit letters would take them back to the Claim letters list.
 
-**4. Navigation from the Download VA letters page back to the claim letter page was tricky for some participants**
+**4. Some participants got confused about the difference between Benefit Letters and Claim Letters when navigating**
 
 > When prompted to navigate to the list of decision letters from this page, 4/10 participants clicked on “View benefit letters”
 
@@ -116,7 +116,7 @@ We would like to remedy this in future versions, but are limited by technical co
 
 # Recommendations
 
-* For MVF, simplify the user experience by housing the Claim Letters page within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters, not Records. (There are also product and technical reasons for going this route). Long term, figure out how to integrate different types of notification letters into Records.
+* For this MVF, house the Claim Letters URL within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters. (There are also product and technical reasons for going this route). Beyond the MVF, consider what a sitewide repository for all VA letters would look like that includes claim letters, CoE letters, education benefit letters, and others. 
     
 * Beyond MVF, continue exploring how to pair decision letters with their specific claims, to further simplify the user journey.
     * One participant (P12) in particular was dissatisfied with the experience due to the number of clicks it took to get to the decision. From observing the other participants, it was clear that reducing the total steps would have made for an even clearer and better experience. 
