@@ -37,15 +37,13 @@ The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b24
 ## Research Goals	
 **1. Optimize the order and flow of questions within the household information section**
 **2. Determine if the questions and contextual information is clear and actionable**
-**3.  Esablish a qualitative baseline to aid in measuring the usability impacts of changes made**
+**3. Esablish a qualitative baseline to aid in measuring the usability impacts of changes made**
 
 
 ### Outcome
 > How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 The outcomes of this research will help in ensuring the content and flow of the household information section questions is clear and easy for the Veteran/applicant to complete without confusion or abandonment. 
-
-
 
 
 ### Research questions
@@ -73,7 +71,7 @@ The outcomes of this research will help in ensuring the content and flow of the 
 ### Baseline Analysis
 - Semi-structured interviews - appropriate for generative research
 
-Establishing a qualitative baseline by asking questions with visuals/screen captures showing the existing site and new designs.
+Establishing a qualitative baseline by asking questions with visuals/screen captures showing focused parts of the existing site and new designs.
 
 
 ### Task Analysis
@@ -174,4 +172,4 @@ Please request enough dates and at ***least double the amount of time slots for 
 - User Flows (Existing) & (Proposed)
 - Prototype
 - Notes board (Mural?)
-- 
+- Research Findings
