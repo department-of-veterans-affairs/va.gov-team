@@ -87,15 +87,35 @@ To mitigate each of the problems above, we plan to do the following:
 
 ### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.**
+
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
-**KPI: We will see at least a 10% increase in pageviews for new links added to My VA**
+|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
+|----------|-------------|---------------|-------------------|
+|TBD|TBD|TBD|TBD|
+
+**KPI: We will see at least a 10% increase in pageviews for new links added to My VA.**
+
+|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
+|----------|-------------|---------------|-------------------|
+|TBD|TBD|TBD|TBD|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 
+**Note**: Certificates of eligibility apply to both education benefits and home loans.
+
+|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
+|----------|-------------|---------------|-------------------|
+|Search rank for "gi bill” or similar from My VA (whichever comes first)|TBD|TBD|TBD|
+|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|TBD|TBD|TBD|
+
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.**
+|KPI/metric|Post-launch: [One month post-launch]|Post-launch: [Second month post-launch]|
+|----------|---------------|-------------------|
+|Clicks into "Compare GI Bill benefits by school" from My VA |TBD|TBD|
+|Clicks into "Check your GI Bill statement of benefits" from My VA |TBD|TBD|
 
 ## Key deliverables
 
