@@ -9,17 +9,13 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
     - Create Final Wireframe for Error Messages
 - [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
-    - Complete
-- [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
-    - Submit new translations to the State Department (do diff)
-- [Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47717)
+    - Complete audit
+    - Fix wireframes
+- [[SMS] Split the "Too Few Appointments" Messages to Clarify 2 Possible Scenarios](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47371)
+    - Define content & pass off to CHIP
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Synthesize unmoderated study data & create report
     - Collaborate with VAOS to determine where they are in their process    
-- [Display a Message that You've Already Completed Pre-Check-in when Attempting Pre-Check-in Again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47194)
-    - Create final design
-- [Display Message to Check-in with Staff when Checking-in more than 15 mins After Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47193)
-     - Create final design 
 - [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
     - Perform research to determine how we should move forward
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
@@ -46,7 +42,7 @@
 #### Planned Releases 
 - ~Flip feature flag for LoROTA Security Updates & set to 10%~
 - RELEASED on 9/27 [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)  
-- RELEASED ON 9/30 [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
+- RELEASED ON ???? [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
 - RELEASED on 9/29 [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
 
 
