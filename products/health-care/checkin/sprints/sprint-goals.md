@@ -6,13 +6,16 @@
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
 
 #### UX Sprint Goals (----TENTATIVE----)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
+    - Create Final Wireframe for Error Messages
+- [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
+    - Complete
 - [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
     - Submit new translations to the State Department (do diff)
-- CIE Tech Debt 
-    - [Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47717)
-    - [Submit our Navigation Pattern to the Experimental Design System](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47716)
--  [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Collaborate with VAOS to determine where they are in their process
+- [Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47717)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - Synthesize unmoderated study data & create report
+    - Collaborate with VAOS to determine where they are in their process    
 - [Display a Message that You've Already Completed Pre-Check-in when Attempting Pre-Check-in Again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47194)
     - Create final design
 - [Display Message to Check-in with Staff when Checking-in more than 15 mins After Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47193)
@@ -26,12 +29,12 @@
 
 #### Engineering Sprint Goals (----TENTATIVE----)
 - [Production Support]() 
-- [Memorable Date Component Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
-    - Continue to make progress
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish infrastructure to authenticate with the BTSSS API
     - Start infrasturcture to send a claim to the BTSSS API 
-    - Add additional pages & update content based on Platform feedback    
+    - Update content based on Platform feedback    
+- [Memorable Date Component Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
+    - Continue to make progress
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
     - Complete & release
 - [Pass Users to Check-in when Access Pre-Check-in Link on Day of Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
