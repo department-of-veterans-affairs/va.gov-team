@@ -1,14 +1,25 @@
 # [DRAFT] Research Plan for [1010 Team, Health care application 10-10EZ household information section, October 2022]
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+> Briefly describe the background of your product. Consider:
+> - What problem is your product trying to solve?
+> - Where is your product situated on VA.gov? (ex: auth vs. unauth)
+> - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+This research will be conducted on the Health Care Application (10-10EZ) by the 10-10 team.
+
+The 10-10EZ online form enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. 
+
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area though past research (discovery research findings link and/or short form usability?) and page analytics. Initial problem discover was conducted through 
 
 
+- Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 
-- Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
+
+- UX audit link? Ticket or Mural?
+- User flows link
+
+
 
 ### OCTO Objectives 
 
@@ -23,7 +34,8 @@ What are you trying to learn from this research?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
-- Optimize the order and flow of questions within the household information section 
+- Optimize the order and flow of questions within the household information section
+- Determine if the questions and contextual information is clear and actionable
 
 Understand and measure the usability impacts of optimizing the household information section question flow and content.
 
@@ -32,11 +44,18 @@ Understand and measure the usability impacts of optimizing the household informa
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+
+
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+> Consider bucketing research questions under research goals. For each question, think about:
+> - What will I do with what I learn from this question?
+> - Does this question serve the goals of my study?
+> - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an **order that is logical** to Veterans/applicants?
+- Are the questions worded and explained with additional context in a way that is **clear and understandable** to the Veterans/applicants?
+- What is **easy or difficult and why** for the Veteran/applicant as they work through the household information questions?
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -44,6 +63,8 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
+
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
