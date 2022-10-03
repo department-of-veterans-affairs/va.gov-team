@@ -15,7 +15,7 @@ We will utilize feature toggles to manage a staged rollout.
 
 ### Planning
 
-- Desired date range: _\[10/04/22 - 10/10/22\]_
+- Desired date range: _\[10/03/22 - 10/10/22\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 25% of relevant users), to limit our initial audience._\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[_We will focus on delivery rates to show the emails are triggering correctly. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[[DOMO Dashboard](https://va-gov.domo.com/page/447193050). [Open rates for Happy Path](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open,analytics.eventLabel:Chapter%2031%20(form%2028-1900)%20Confirmation) [Open Rates for Central Mail](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open,analytics.eventLabel:Chapter%2031%20(form%2028-1900)%20Confirmation%20(CMP))
@@ -56,7 +56,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 ## Go Live!
 
 ### Planning:
-- Desired date: 10/04/22
+- Desired date: 10/03/22
 - Post-launch KPI 1: Emails Delivered
 - Post-launch KPI 2: Open Rates
 
