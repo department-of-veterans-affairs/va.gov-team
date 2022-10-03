@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for [1010 Team, Health care application 10-10EZ household information section, October 2022]
+# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, October 2022
 
 ## Background
 > Briefly describe the background of your product. Consider:
