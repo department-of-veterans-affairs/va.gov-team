@@ -8,6 +8,8 @@
 #### UX Sprint Goals (----TENTATIVE----)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
     - Create Final Wireframe for Error Messages
+- [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
+    - Weekly analysis
 - [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
     - Complete audit
     - Fix wireframes
