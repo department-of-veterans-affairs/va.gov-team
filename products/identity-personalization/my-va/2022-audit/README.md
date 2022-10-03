@@ -93,13 +93,14 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
 |----------|-------------|---------------|-------------------|
-|TBD|TBD|TBD|TBD|
-
-**KPI: We will see at least a 10% increase in pageviews for new links added to My VA.**
-
-|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
-|----------|-------------|---------------|-------------------|
-|TBD|TBD|TBD|TBD|
+|Clicks into "Manage all claims and appeals"|TBD|TBD|TBD|
+|Clicks into individual claims, "View claim"|TBD|TBD|TBD|
+|Clicks into "Learn how to file a claim"|TBD|TBD|TBD|
+|Clicks into "Manage and schedule your appointments"|TBD|TBD|TBD|
+|Clicks into "Send a secure message to your health care team"|TBD|TBD|TBD|
+|Clicks into "Refill and track your prescriptions"|TBD|TBD|TBD|
+|Clicks into "Manage your VA debt"|TBD|TBD|TBD|
+|Clicks into "View your payment history"|TBD|TBD|TBD|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 
