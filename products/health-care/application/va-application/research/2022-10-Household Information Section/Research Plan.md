@@ -7,15 +7,13 @@
 > - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. This is an existing product and this research study is focusing on an iteration of one specific section - household information.
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. This is an existing product and this research study is focusing on an iteration of one specific section, household information, which includes adding both financial information and dependents. 
 
 The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area through past research (discovery research findings link and/or short form usability?) and page analytics. Initial problem discovery
 
 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
-
-
 - UX audit link? Ticket or Mural?
 - User flows link
 
@@ -43,9 +41,9 @@ The household information section, step 4 out of 6 in the application progress f
 
 
 ## Research Goals	
-- Optimize the order and flow of questions within the household information section
-- Determine if the questions and contextual information is clear and actionable
-- Esablish a qualitative baseline to aid in measuring the usability impacts of changes made
+1. Optimize the order and flow of questions within the household information section
+2. Determine if the questions and contextual information is clear and actionable
+3.  Esablish a qualitative baseline to aid in measuring the usability impacts of changes made
 
 
 ### Outcome
@@ -66,17 +64,23 @@ The outcomes of this research will help in ensuring the content and flow of the 
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+> What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+> - What do you already know about this problem space?
+> - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+> - Write a generalized statement that combines what you know + what you think will happen during the study. 
+> - Remember to constrain the hypothesis to the goals of your study!
+
+The new pattern to add and edit dependents 
+The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
+
+## Methods
+
+### Baseline Analysis
+- Semi-structured interviews - appropriate for generative research
+Questions with visuals for 
 
 
-
-## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
+### Task Analysis
 Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
 - Contextual inquiry - appropriate for generative research
@@ -85,21 +89,10 @@ Examples of common research methods include:
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 Remote: Zoom
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -107,10 +100,11 @@ If in person, include:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)) 
+- Link to deck - images of before/after
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md))
 - [Link to prototype](url goes here) - Will create after Design Intent review
 
 
@@ -161,9 +155,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: TBD - 30 minutes to 1 hour (need to test once conversation guide ready)
+* Buffer time between sessions: 1 hour 
+* Maximum Sessions per day: 2
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -171,12 +165,20 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Jessica Stump (jessica.stump@adhocteam.us)	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening: Perigean	
+- Research guide writing and task development: Moderator	
+- Participant recruiting & screening: Perigean
 - Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Participant(s) for pilot test: 
+- Note-takers: 
+- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+
+> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
+## Resources
+- Conversation Guide
+- User Flows (Existing) & (Proposed)
+- Prototype
+- Notes board (Mural?)
+- 
