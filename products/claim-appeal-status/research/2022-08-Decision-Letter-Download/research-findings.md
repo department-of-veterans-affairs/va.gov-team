@@ -123,6 +123,7 @@ We would like to remedy this in future versions, but are limited by technical co
 
 * Beyond MVF, consider how this user journey connects to the appeals journeys and try to construct an intuitive pathway for users to appeal claims once they see their decision letter.
 
+* Consider how this feature would work on the mobile app.
 
 # Appendix
 
