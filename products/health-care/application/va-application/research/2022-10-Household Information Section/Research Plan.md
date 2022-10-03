@@ -7,24 +7,26 @@
 > - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this both as an unauthenticated user or as an authenticated one where they can also check their application status once signed in. This is an existing product and this research study is focusing on an iteration of one specific section, household information, which includes adding both financial information and dependents. 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section, household information. This section includes questions on:
+- Financial Disclosure
+- Marital Status
+- Spouse's Information & Dependents
+- Annual Income
+- Deductible Expenses
 
-The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area through past research (discovery research findings link and/or short form usability?) and page analytics. Initial problem discovery
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area through [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf), stakeholder feedback and [page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at the problem from a best practices and competitive research lens, prior to starting design. 
 
+The [propsed new flow]() and designs include rearranging the order
+The test will be focused on a prototype that is built to only include the household information section and will skip over other sections of the form.
 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
-- UX audit link? Ticket or Mural?
-- User flows link
 
 
 
 ### OCTO Objectives 
-
-> Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
-
 **Increase**
-- Usage of digital, self- service tools
+- Usage of digital, self-service tools
 - Percent of applications submitted online (vs. paper)
 - Completion rate of online transactions
 
@@ -41,25 +43,23 @@ The household information section, step 4 out of 6 in the application progress f
 
 
 ## Research Goals	
-1. Optimize the order and flow of questions within the household information section
-2. Determine if the questions and contextual information is clear and actionable
-3.  Esablish a qualitative baseline to aid in measuring the usability impacts of changes made
+**1. Optimize the order and flow of questions within the household information section**
+**2. Determine if the questions and contextual information is clear and actionable**
+**3.  Esablish a qualitative baseline to aid in measuring the usability impacts of changes made**
 
 
 ### Outcome
 > How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-The outcomes of this research will help in ensuring the content and flow of the household information section questions is clear and easy for the Veteran/applicant to follow along and complete without abandonment.
+The outcomes of this research will help in ensuring the content and flow of the household information section questions is clear and easy for the Veteran/applicant to complete without confusion or abandonment. 
+
+
 
 
 ### Research questions
-> Consider bucketing research questions under research goals. For each question, think about:
-> - What will I do with what I learn from this question?
-> - Does this question serve the goals of my study?
-> - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
+- How do the **proposed design and content changes compare to the existing** pages in the opinion of the Veteran/applicant?
 - Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an **order that is logical** to Veterans/applicants?
-- Are the questions worded and explained with additional context in a way that is **clear and understandable** to the Veterans/applicants?
+- Are the questions worded and explained in a way that is **clear and understandable** to the Veterans/applicants or is additional context and explanation needed?
 - What is **easy or difficult and why** for the Veteran/applicant as they work through the household information questions?
 
 
@@ -70,14 +70,17 @@ The outcomes of this research will help in ensuring the content and flow of the 
 > - Write a generalized statement that combines what you know + what you think will happen during the study. 
 > - Remember to constrain the hypothesis to the goals of your study!
 
-The new pattern to add and edit dependents 
-The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
+- The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete
+- The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
+- In comparision to the existing pages, participants will prefer the new designs with content changes. 
+
+
 
 ## Methods
 
 ### Baseline Analysis
 - Semi-structured interviews - appropriate for generative research
-Questions with visuals for 
+Establishing a qualitative baseline by asking questions with visuals/screen captures showing the existing site
 
 
 ### Task Analysis
