@@ -1,6 +1,6 @@
 # Project outline: My VA audit, updates, and documentation
 
-Last updated September 22, 2022
+Last updated October 3, 2022
 
 ### Communications
 
@@ -85,7 +85,17 @@ To mitigate each of the problems above, we plan to do the following:
 
 ## Measuring Success
 
-TBD
+### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
+
+**KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
+
+**KPI: We will see at least a 10% increase in pageviews for new links added to My VA**
+
+**KPI: We will see a reduction in searches for terms related to new links added to My VA.**
+
+**KPI: Establish baseline metrics for clicks into new links from My VA.**
+
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.**
 
 ## Key deliverables
 
