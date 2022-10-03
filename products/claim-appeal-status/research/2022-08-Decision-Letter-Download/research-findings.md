@@ -116,7 +116,7 @@ We would like to remedy this in future versions, but are limited by technical co
 
 # Recommendations
 
-* For this MVF, house the Claim Letters URL within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters. (There are also product and technical reasons for going this route). Beyond the MVF, consider what a sitewide repository for all VA letters would look like that includes claim letters, CoE letters, education benefit letters, and others. 
+* For this MVF, house the Claim Letters URL within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters. (There are also product and technical reasons for going this route).
     
 * Beyond MVF, continue exploring how to pair decision letters with their specific claims, to further simplify the user journey.
     * One participant (P12) in particular was dissatisfied with the experience due to the number of clicks it took to get to the decision. From observing the other participants, it was clear that reducing the total steps would have made for an even clearer and better experience. 
