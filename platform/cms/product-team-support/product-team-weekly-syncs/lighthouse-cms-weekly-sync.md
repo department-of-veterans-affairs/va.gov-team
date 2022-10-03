@@ -14,6 +14,29 @@
 
 </details>
 
+## Monday, October 3, 2022
+* v1 status check
+  * Have not seen the issue since last Thursday. If issue is not seen in prod by end of day Tues the code freeze MAY be lifted. Still trying to identify the root cause.
+  * 
+
+* Sandbox data - James and Dave C had a discussion
+  * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
+  * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * Started SLACK threads on 3 tickets. Distilled it down and started conversation for when we can get staarted on them. 
+* David S met with Josh and Joe - notes below 
+  * Talk to some editors, describe the problem, how would an editor fix this issue. Coordinate with JHL to update facilities. David is looking into this. Will have to see where he is on this when he gets back.
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. 
+* Supporting country code 
+   * Any update from Josh/James sync?
+   * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
+   * BISL meeting? On todo list
+*  Mental health phone numbers
+   * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
+   * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+
+
+
 ## Monday, September 26, 2022
 * v1 status check
   * Internal latency on one of the endpoints impacting some consumers of data. Occurs between 2:50 and 3:00 ET Mon-Thur
