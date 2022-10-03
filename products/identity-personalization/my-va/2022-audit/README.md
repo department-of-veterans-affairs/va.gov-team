@@ -87,7 +87,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 ### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
 
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.**
+**When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
 
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
