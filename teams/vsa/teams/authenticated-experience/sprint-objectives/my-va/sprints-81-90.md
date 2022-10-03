@@ -140,20 +140,13 @@ This assumes we didn't launch last sprint:
 
 ### Payments V2
 
-**PM**
+**Design**
 
-- Analytics request
-- Staging review prep
-- Privacy review prep
-- Determine if we need a privacy review
+- Design updates re: existing copay functionality
 
-**QA**
+**FE**
 
-- QA
-
-**Design/FE**
-
-- If applicable and if time, start updates from QA
+- Implement design updates
 
 ### My VA audit
 
@@ -170,6 +163,23 @@ This assumes we didn't launch last sprint:
 - Start FE build *if tickets are ready*
 
 ## Sprint 85 (10/19 - 11/1)
+
+### Payments V2
+
+**PM**
+
+- Analytics request
+- Staging review prep
+- Privacy review prep
+- Determine if we need a privacy review
+
+**QA**
+
+- QA
+
+**Design/FE**
+
+- If applicable and if time, start updates from QA
 
 ## Sprint 86 (11/2 - 11/15)
 
