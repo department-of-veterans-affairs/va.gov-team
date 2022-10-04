@@ -37,6 +37,7 @@
 - If the participant hasn't shown up within 15 minutes of the start, consider it a no show
   - Contact the participant to see if they can reschedule for a different avaialable slot 
   - If unable to reschedule, mark them officially as a no show in the recruitment tracker 
+- Keep the PM and PO in the loop about no-shows in case additional sessions need to be scheduled
 
 ## Acceptance Criteria
 
@@ -48,10 +49,10 @@
 - [ ] Team members join Daily Debrief Research sessions when possible
 - [ ] Observers and Notetakers have shared their notes with Research Lead
 - [ ] All notes are stored in the research folder
-- [ ] Participant demographics have been recorded in a recruitment tracker
-- [ ] Research Lead has downloaded all session recording to their local machine for synthesis
-- [ ] We have conducted enough sessions to satify our intended demographics from research plan 
-  - [ ] OR Product Owner has signed off that we've done enough to move forward
+- [ ] Update the recruitment tracker with participant demographics daily
+- [ ] Download all session recording to your local machine for synthesis
+- [ ] You have conducted enough sessions to satify our intended demographics from research plan 
+  - [ ] OR Product Owner has signed off that you've done enough to move forward
 
 ### CMS Team
 Please check the team(s) that will do this work.
