@@ -32,8 +32,7 @@ Suggested workflow:
 
 ## Acceptance Criteria
 - [ ] Identify Moderator(s), Notetaker(s), and Obeserver(s) 
-- [ ] Identify timeslots for research sessions 
-  - Should be 2 times as many slots as # of desired participants 
+- [ ] Identify timeslots for research sessions (should be 2 times as many slots as # of desired participants)
 - [ ] Update artifacts with PO feedback from review meeting
 - [ ] Convert artifacts to markdown format and store in github Research Folder
 - [ ] Get final approval from PO before sending to Research Review cycle
