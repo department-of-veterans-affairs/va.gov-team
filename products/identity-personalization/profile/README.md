@@ -12,7 +12,7 @@ Last Updated: August 19, 2022
 - [Business Outcomes](#business-outcomes)
 - [Analytics](#analytics)
 - [Projects](#projects)
-- [Backend](#backend)
+- [Backend](#backend) 
 - [Frontend](#frontend)
 - [Design](#design)
 
