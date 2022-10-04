@@ -22,6 +22,7 @@ This template will be the last one to complete because it should link to the "cr
 Here are the steps to follow when setting up a new UX research process:
 - [ ] Pre-work: Align with Product Manager & Product Owner on the high-level purpose and scope of the research
 - [ ] Pre-work: Review Research Repo for previous relevant research
+- [ ] Pre-work: Read and understand [Platform's Reasearch Guidleines](https://depo-platform-documentation.scrollhelp.site/research-design/). This runbook and associated issue templates are meant help reduce time creating tickets, not to replace or overrule those guidelines.
 - [ ] Create a Research [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Epic%2C+Needs+refining&template=cms-epic.md&title=%3CInsert+summary+of+epic%3E) for your product/initiative
 - [ ] Create a Research Folder following [Platform's Research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-1.Planningforresearch)
 - [ ] Create a _Research Plan & Conversation Guide_ issue
