@@ -37,7 +37,7 @@
     - Continue to make progress
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
     - Complete & release
-- [Pass Users to Check-in when Access Pre-Check-in Link on Day of Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
+- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - SPIKE - Get answers to question (what new endpoint from CHIP would we need?) & think through the ramifications or potential side effects of implementing this
 
 
