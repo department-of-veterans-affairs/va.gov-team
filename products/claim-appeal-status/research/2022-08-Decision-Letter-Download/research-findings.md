@@ -67,7 +67,7 @@ Users were able to navigate to the list of decision letters and download their d
 
 > _"I actually thought it moved along pretty quickly." (P19)_
 
-> 4.8/5 average score from participants
+> Average score of 4.8 (out of 5) from participants.
 
 **2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
