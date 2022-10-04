@@ -1,14 +1,14 @@
 # [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, October 2022
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section, household information. This section includes questions on:
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section - household information. This section includes questions on:
 - Financial Disclosure
 - Marital Status
 - Spouse's Information & Dependents
 - Annual Income
 - Deductible Expenses
 
-The household information section, step 4 out of 6 in the application progress flow, has been identified as a pain point through [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf). [Page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at usability best practices and competitive research lens, prior to starting design. The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas) and designs include rearranging the order of the questions, updating the content to plain language standards and design pattern updates around multiple responses (list and loop) used when adding dependents.
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a pain point through [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf) and [page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at usability best practices and competitive research lens, prior to starting design. The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas) and designs include rearranging the order of the questions, updating the content to plain language standards and design pattern updates around multiple responses (list and loop) used when adding dependents.
 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
@@ -43,10 +43,11 @@ The outcome of this research will help guide what changes should be made to the 
 
 
 ### Research questions
-- How do the **proposed design and content changes compare to the existing** pages in the opinion of the Veteran/applicant?
-- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an **order that is logical** to Veterans/applicants?
-- Are the questions worded and explained in a way that is **clear and understandable** to the Veterans/applicants or is additional context and explanation needed?
-- What is **easy or difficult and why** for the Veteran/applicant as they work through the household information questions?
+- How do the proposed design and content changes compare to the existing pages in the opinion of the Veteran/applicant?
+- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
+- Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
+- What struggles do participants encounter with the process of adding and editing multiple dependents?
+- What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 
 
 ### Hypothesis
@@ -62,7 +63,7 @@ The outcome of this research will help guide what changes should be made to the 
 ### Baseline Analysis
 - Semi-structured interviews - appropriate for generative research
 
-Establishing a qualitative baseline by asking questions with visuals/screen captures showing focused parts of the existing site and new designs.
+Establishing a qualitative baseline by asking questions with visuals/screen captures showing focused parts of the existing site and new designs for comparrion feedback.
 
 
 ### Task Analysis
@@ -85,9 +86,8 @@ Remote: Zoom
 ## Recruitment	
 
 ### Recruitment approach
-> Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
 We will recruit Veterans for this research and use Perigean to recruit participants. 
+We will request partipants with critera that were not covered in the studies conduced on 10-10EZ in the past year.
 
 > Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
@@ -96,6 +96,8 @@ We will recruit Veterans for this research and use Perigean to recruit participa
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |      15       |          10      |10       |             |          |               | 
+
+
 
 **Primary criteria (must-haves)**
 > What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
