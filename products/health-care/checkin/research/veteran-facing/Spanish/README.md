@@ -2,4 +2,4 @@
 Date(s): August 29 to September 8, 2022
 
 **Quick Links**
-Synthesis
+[Synthesis document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/Spanish/Spanish%20User%20Testing%20Synthesis.pdf)
