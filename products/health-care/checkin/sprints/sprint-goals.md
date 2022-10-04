@@ -8,6 +8,7 @@
 #### UX Sprint Goals (----TENTATIVE----)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
     - Create Final Wireframe for Error Messages
+    - Create Final Wireframes for Card Style at Tablet Width
 - [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
     - Weekly analysis
 - [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
@@ -20,19 +21,20 @@
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Synthesize unmoderated study data & create report
     - Collaborate with VAOS to determine where they are in their process    
-- [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
-    - Perform research to determine how we should move forward
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - Make case for pushing a check-in link & get buy-in so we can move forward 
 - [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
     - Make case for removing the VA sign-in button & get buy-in so we can move forward
+- [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
+    - Perform research to determine how we should move forward
+
 
 #### Engineering Sprint Goals (----TENTATIVE----)
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish infrastructure to authenticate with the BTSSS API
     - Start infrasturcture to send a claim to the BTSSS API 
-    - Update content based on Platform feedback (travel & day-of)   
+    - Update content based on Platform feedback (travel pages, day-of pages, & footer)   
 - [Memorable Date Component Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
     - Continue to make progress
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
