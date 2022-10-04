@@ -37,6 +37,7 @@ _To be completed by peer reviewer_
 - [ ] Ticket has been sized 
 - [ ] Once all above items are checked, add the 'Ready' label.
 ### Planning
+_If this ticket is picked up from the Backlog mid-sprint, connect with Shira to ensure the below items are completed correctly_
 - [ ] Ticket has been discussed as a team at Planning
 - [ ] Ticket has been assigned to appropriate initiative or quarterly epic
 - [ ] Ticket has been assigned to a Sprint
