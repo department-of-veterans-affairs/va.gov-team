@@ -67,6 +67,8 @@ Users were able to navigate to the list of decision letters and download their d
 
 > _"I actually thought it moved along pretty quickly." (P19)_
 
+> 4.8/5 average score from participants
+
 **2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
 Date and recency sorting helped users understand which letter to click to get their decision letter. This is not a fully reliable signifier, since dates can be variable, but it's a good starting point. Going forward, any addiitonal metadata about the letter we can surface to the user will further improve usability. 
