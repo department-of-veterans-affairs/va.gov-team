@@ -1,4 +1,4 @@
-# Conversation Guide for 10-10 Team, Health care application 10-10EZ household information section, October 2022
+# [DRAFT] Conversation Guide for 10-10 Team, Health care application 10-10EZ household information section, October 2022
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -34,7 +34,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-Today we're going to talk about Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse and dependents and financial information.
+**Today we're going to talk about Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse and dependents and financial information.**
 
 Before we start, a few things I want to mention:
 
@@ -50,23 +50,27 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
 - Do you frequently use VA.gov or regulary sign in to your account?
-- Have you applied for health care recently and used the online form?
+- Have you applied for health care recently and used the online form? (screener questions?)
+- Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 
-### Compare Questions - 15 minutes
-
-
+## Baseline Compare Questions - 10 minutes
+(showing a/b screen capture images side by side for the participant to pick the one that is the most clear to them and state why)
+Areas to zoom in on for comparison:
+- Content on income page for gross, net and other
+- 
 
 ## First Task: Begin Application & Setting Context - 5 minutes
 
-- Step 1
+- For the context of this study, you are applying for health care and are going to include your spouse and two children. You and your spouse both work full time jobs but your family doesn't have any other sources of income. 
+
 - Step 2
 
 ### Things to watch for:
@@ -78,13 +82,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Spouse Information - 5 minutes
 
-- Step 1
-- Step 2
+- For this question, you are married. Answer the question accordingly. 
+- Walk through, while talking aloud, the fields that appear and what you would enter. 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Does the participant make any comments about the order?]
+- [Does the participant ?]
 - [Etc]
 
 ## Third Task: Adding & Editing Multiple Dependents - 10 minutes
