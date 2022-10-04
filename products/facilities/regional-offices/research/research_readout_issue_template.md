@@ -17,26 +17,29 @@
 ## Description
 
 **Crafting Recommendations**
-- this happens
+Recommendations are one of the key outputs of the research process. They connect your findings back to the product roadmap(s) and shape the experience of future users. Depending on the type of research conducted, recommendations might be narrowly focused on improving a specific interface component of your team's product, or they might have broad implications for multiple parts of the VA.gov ecosystem. Work with your Design team, Product Manager, & Product Owner to generate, refine, and categorize recommendations. PMs and POs also play a key role in socializing recomendations to other teams.
 
 **Research Readout(s)**
-- Based on topline there is a scope determination for how big of an event this is
+- Work with PM & PO to determine audience(s) and meeting length(s)
+- Default to a 30-min meeting with 20 min for presenting and 10 min for discussion
 - [Research Presentation Template](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit#slide=id.g892adcb623_0_141)
+  - Consider slimming down this template based on your audience
 - Message Naomi Marcussen on Slack to sign up to share your findings with others at the weekly Design + Content + Research meeting
 
 **Documenting Findings**
+- Building off the Topline Report, fill out the [Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) and add it to your Research Folder
 - [How to add reserach to Platform Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/70)
 - Need Editor Repo
-- [Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) 
+
+**Destroying and Archiving Research Materials**
+- Add other stuff to your research repo
 - Destroy recordings/ scrub pii from any synthesis documents
 
 ## Acceptance Criteria
-- [ ] Recommendations created for decisioning
-- [ ] Additional artifacts created (larger readout deck)
-- [ ] Possible big group readout
-- [ ] Possibly take to full design group on Mondays
-- [ ] Findings documented in Research Repo
-- [ ] Recordings destroyed
+- [ ] Craft recommendations
+- [ ] Conduct readout(s)
+- [ ] Document findings in Research Repo
+- [ ] Destroy or archive research materials
 
 ### CMS Team
 Please check the team(s) that will do this work.
