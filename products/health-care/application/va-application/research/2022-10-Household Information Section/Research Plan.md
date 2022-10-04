@@ -78,33 +78,21 @@ Remote: Zoom
 
 
 ### Research materials
-For moderated interviews:
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md) 
-- Link to deck - images of before/after
-
-For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
-- [Link to prototype](url goes here) - Will create after Design Intent review and feedback incorporated
+- [Link to prototype](url goes here) - **To create after Design Intent review and feedback incorporated** Will be used for task analysis
+- [Link to A/B voting deck](url) - To be used during baseline interview questions at beginning of session
 
 
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 > Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-> Pro tip:
-> - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-> - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-> - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+We will recruit Veterans for this research and use Perigean to recruit participants. 
 
 > Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+
 
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
@@ -122,6 +110,8 @@ Before writing your recruitment criteria, be sure to review the following resour
 **Secondary criteria (nice-to-haves)**
 > What criteria would strengthen your results? 
 
+
+
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
@@ -138,9 +128,8 @@ October - November 2022
 * Planned dates of research: TBD
 
 
-
 ### Length of sessions
-* Session length: TBD - 30 minutes to 1 hour (need to test once conversation guide ready)
+* Session length: 1 hour
 * Buffer time between sessions: 1 hour 
 * Maximum Sessions per day: 2
 
@@ -162,7 +151,7 @@ October - November 2022
 
 
 ## Resources
-- Conversation Guide
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - User Flows (Existing) & (Proposed)
 - Prototype
 - Notes board (Mural?)
