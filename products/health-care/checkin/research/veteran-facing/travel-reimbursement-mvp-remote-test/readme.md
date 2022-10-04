@@ -11,13 +11,12 @@ Date(s): August 15-23, 2022
 [User flow diagrams for prototypes (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)<br>
 [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/session-notes)<br>
 [Veteran Participant Responses Table (Google Sheets)](https://docs.google.com/spreadsheets/d/1wNJzjE5AoIynZ_1HGKvCB-1LEgvaNQvwiBc50Hsn51w/edit?usp=sharing)<br>
-[Research Synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661533294973/772d372cc95132227efcf5b3391ed1a02e41e7df?sender=u83bc52d7fa73658f84f27755)
+[Research Synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661533294973/772d372cc95132227efcf5b3391ed1a02e41e7df?sender=u83bc52d7fa73658f84f27755)<br>
+[Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/PCI%20Travel%20Reimbursement%20Research%20Report.pdf)
 
 #### Prototypes
 
-[Prototype A "Interested Question"](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E)<br>
-[Prototype B "No Interested Question"](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E032CDED-B46C-437E-8592-D47A595CB4DD)<br>
-[Prototype C "Single-Question Flow"](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E3C109B2-DA3E-46CD-8A98-52C09ADD1944)<br>
+[Prototype D (post-research study) (Sketch)](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/1A834D3B-A6B1-4B5E-A0CB-9C11FF0238D5)
 
 #### Conversation Guides
 
