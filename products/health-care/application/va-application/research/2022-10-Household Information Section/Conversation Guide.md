@@ -5,8 +5,7 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
 - Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
+- [ ] Create Mural board for observer notes on flow 
 - [ ] Step 2
 - [ ] Step 3
 
@@ -18,14 +17,11 @@ Slack for real-time feedback from observers.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-
 ### Starting the session
-
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
-
 
 
 ## Intro - 5 minutes
@@ -38,7 +34,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse and dependents and financial information.
 
 Before we start, a few things I want to mention:
 
@@ -53,13 +49,22 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+
 ## Warm-up Questions (Optional) - X minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+- Do you frequently use VA.gov or regulary sign in to your account?
+- Have you applied for health care recently and used the online form?
+
+
+### Compare Questions - 15 minutes
+
+
+
+## First Task: Begin Application & Setting Context - 5 minutes
 
 - Step 1
 - Step 2
@@ -71,7 +76,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Spouse Information - 5 minutes
 
 - Step 1
 - Step 2
@@ -82,7 +87,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Adding & Editing Multiple Dependents - 10 minutes
 
 - Step 1
 - Step 2
@@ -93,13 +98,38 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Post-Task Interview - X minutes
 
-- Question 1
+## Fourth Task: Annual Income - 10 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Fifth Task: Deductible Information - 5 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+
+## Post-Task Interview - 3 minutes
+
+- What are your thoughts on the order of the questions as they were presented in the prototype?
 - Question 2
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
