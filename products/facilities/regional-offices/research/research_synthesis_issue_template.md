@@ -16,12 +16,12 @@
 
 ## Description
 
-Methods for synthesizing research findings include:
-- Organizing research notes in an [Affinity Diagram](https://miro.com/blog/create-affinity-diagrams/) to identify themes
-- Rewatching session recordings to make additional notes & pull exact quotes
-- Illustrating user flows on prototypes (usability testing)
-- Statistical analysis
-- Revisiting the hypotheses from the Research Plan to see which can be answered
+**Synthesis**
+- Organize research notes in an [Affinity Diagram](https://miro.com/blog/create-affinity-diagrams/) to identify themes
+- Rewatch session recordings to make additional notes & pull exact quotes
+- Illustrate different paths participants took in prototypes (usability testing)
+- Conduct statistical analysis
+- Revisit the hypotheses from the Research Plan to see which can be confirmed
 
 Topline Report:
 - Use the [Topline Summary Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/topline-summary-template.md) to summarize major findings
@@ -34,8 +34,8 @@ Next Steps:
 - The PM & PO should decide if a full research readout is required and who needs to be invited
 
 ## Acceptance Criteria
-- [ ] Topline Report is created, shared with PO, and updated if needed 
-- [ ] PM & PO decide if a full research readout is required and who needs to be invited
+- [ ] Create Topline Report, share with PO, and update if needed 
+- [ ] Schedule a full research readout (if PM & PO request)
 
 ### CMS Team
 Please check the team(s) that will do this work.
