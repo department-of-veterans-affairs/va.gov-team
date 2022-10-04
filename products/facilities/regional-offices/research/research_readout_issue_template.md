@@ -17,7 +17,8 @@
 ## Description
 
 **Crafting Recommendations**
-Recommendations are one of the key outputs of the research process. They connect your findings back to the product roadmap(s) and shape the experience of future users. Depending on the type of research conducted, recommendations might be narrowly focused on improving a specific interface component of your team's product, or they might have broad implications for multiple parts of the VA.gov ecosystem. Work with your Design team, Product Manager, & Product Owner to generate, refine, and categorize recommendations. PMs and POs also play a key role in socializing recomendations to other teams.
+
+Recommendations are key outputs of the research process. They connect your findings back to the product roadmap(s) and shape the experience of future users. Depending on the type of research conducted, recommendations might be narrowly focused on improving a specific interface component of your team's product, or they might have broad implications for multiple parts of the VA.gov ecosystem. Work with your Design team, Product Manager, & Product Owner to generate, refine, and categorize recommendations. PMs and POs also play a key role in socializing recomendations to other teams.
 
 **Research Readout(s)**
 - Work with PM & PO to determine audience(s) and meeting length(s)
