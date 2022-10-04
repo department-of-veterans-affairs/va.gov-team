@@ -118,6 +118,9 @@
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
         - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 
+## VSignals
+[Process for analyzing VSignal data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/README.md)
+
 ## Business Stakeholder Feedback
 - UX will generate 3 presentation links in VA Sketch Cloud for Business Stakeholders to access
     - Production Pre-Check-in wireframes for In Person appointments
