@@ -29,10 +29,10 @@ The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b24
 
 
 ### Veteran Journey
-> Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-> Are there moments that matter? 
-
-
+The Health Care Application fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at the following stages:
+- Getting out
+- Starting up
+- Taking care of myself
 
 ## Research Goals	
 **1. Optimize the order and flow of questions within the household information section**
