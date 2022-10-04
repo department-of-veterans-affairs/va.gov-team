@@ -19,6 +19,7 @@
 **Veteran-facing research** 
 * The Research Lead should provide specific dates and time slots to Perigean as part of the Research Plan
 * The Research Lead should create placeholder calendar events to block those time slots and invite other team members 
+* After the Platform Research Review is complete, Platform will direct Perigean to begin recruitment
 * Perigean will contact, screen, and schedule participants
 * Perigean will create official calendar events and invite team members indicated in the Research Plan 
 * If some Observers will only be invited to certain sessions, consider using a sign-up sheet [PROVIDE EXAMPLE]
