@@ -37,15 +37,22 @@ The purpose of this research wsa to
 * To understand known usability issues with medical records and garner preliminary ideas for ways to improve them.
 
 # Research Questions
+Data:
+* Where do the Health Summary and Blue Button sections of MHV pull data from? What mechanism do they use?
+* How can the VA Health Summary and Blue Button sections be combined? Should they be combined?
 
-_Research questions here_
+Policies and laws:
+* What are the policies and laws that pertain to medical records? 
+* In what ways do laws and policies affect what is included in a medical records and how it must be accessed? 
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+Product history:
+* Why problems were medical records (Blue Button and VA Health Summary) designed to solve?
+* Why are medical records designed to primarily be downloaded and then viewed, rather than viewed in browser?
 
+Usability:
 
-* Question 
-* Question
-* Question
+* What information in medical records do users access most frequently? What is their primary mode of access?
+* What parts of medical records cause veterans the most frustration? 
 
 # Methodology 
 
