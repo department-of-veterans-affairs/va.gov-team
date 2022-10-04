@@ -25,20 +25,18 @@ Use the appropriate templates for the type of research you are conducting:
 
 Suggested workflow:
 - [ ] Create your initial drafts in Google Docs for collaborative editing
-- [ ] Solicit feedback on drafts from Design Team and Product Manager
-- [ ] Schedule a 1-hour meeting with the Product Owner to review docs (also invite Product Manager) 
-- [ ] Convert docs to MS Word for PO review
-- [ ] Convert into markdown files for Research Review cycle
+- [ ] Solicit feedback on artifacts from Design Team and Product Manager
+- [ ] Schedule a 1-hour meeting with the Product Owner to review artifacts (also invite Product Manager) 
+- [ ] Convert artifacts to MS Word for PO review and send at least 24 hours in advance of the review meeting
+- [ ] Convert into markdown files for final approval and sending to Research Review cycle
 
 ## Acceptance Criteria
-- [ ] Moderator(s), Notetaker(s), and Obeserver(s) have been identified
-- [ ] Possible timeslots for research sessions have been identified
+- [ ] Identify Moderator(s), Notetaker(s), and Obeserver(s) 
+- [ ] Identify timeslots for research sessions 
   - Should be 2 times as many slots as # of desired participants 
-- [ ] Artifacts sent to PO 24 hours in advance of meeting
-- [ ] PO has reviewed draft plans (in 1-hour working meeting)
-- [ ] Artifacts are updated with PO feedback from review meeting
-- [ ] Artifacts are in markdown format in github Research Folder
-- [ ] PO has approved finalized artifacts for sending to Research Review cycle
+- [ ] Update artifacts with PO feedback from review meeting
+- [ ] Convert artifacts to markdown format and store in github Research Folder
+- [ ] Get final approval from PO before sending to Research Review cycle
 
 ### CMS Team
 Please check the team(s) that will do this work.
