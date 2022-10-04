@@ -14,6 +14,7 @@ Last updated September 30, 2022
 ### Table of Contents
 
 - [Overview](#overview)
+- [Questions](#questions)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -62,6 +63,15 @@ As part of this work, we should figure out how we can make implementing new on-s
 #### What do we need from VANotify over time?
 
 We need to work with VANotify to figure out how to scale this feature, both in terms of a governance, testing, and launch process, but also figuring out how and what we need to manage on-site notifications in the VANotify self-service tool.
+
+## Questions
+
+**Notification center**
+
+- Do we need one?
+- How do we make this feel that it's not redundant to My VA?
+- If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
+- If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
 
 ## Problem Statement
 
