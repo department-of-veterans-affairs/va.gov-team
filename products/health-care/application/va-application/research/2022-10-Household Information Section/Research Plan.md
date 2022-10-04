@@ -16,12 +16,10 @@ The household information section, step 4 out of 6 in the application progress f
 
 ### OCTO Objectives 
 **Increase**
-- Usage of digital, self-service tools
 - Percent of applications submitted online (vs. paper)
 - Completion rate of online transactions
 
 **Decrease**
-- Call center volume, wait time, and time to resolution
 - Time to successful complete and submit online transactions
 - Time to process online applications (vs. paper)
 
