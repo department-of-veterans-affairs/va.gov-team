@@ -3,7 +3,7 @@
 1. Kristen McConnell will copy the weekly comments into our aggregated spreadsheet, which is available on OneDrive.
     1. The spreadsheet is a query from all VSignals feedback containing the word check-in.
     2. If you need access to the OneDrive document and do not have it, message Kristen.
-2. Kristen McConnell will message the check-in team member completing this week’s analysis.
+    3. Once the comments are copied, Kristen will message the check-in team member completing this week’s analysis.
 3. The check-in team member completing analysis will review each comment.
     1.  First, they will categorize each comment using the drop down.
         1. If a new category is needed, it can be added to the “Tags” sheet, then it will automatically populate in the other sheet.
