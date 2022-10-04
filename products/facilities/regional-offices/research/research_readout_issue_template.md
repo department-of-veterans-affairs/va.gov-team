@@ -31,12 +31,13 @@ Recommendations are key outputs of the research process. They connect your findi
 
 **Documenting Findings**
 - Building off the Topline Report, fill out the [Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) and add it to your Research Folder
-- [How to add reserach to Platform Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/70)
-- Need Editor Repo
+- Once your findings are fully written up, make sure they are linked to from the relevant research repository
+- Veteran-facing research:[How to add reserach to Platform Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/70)
+- Editor-facing research: [CMS Research Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
 
 **Destroying and Archiving Research Materials**
-- Add other stuff to your research repo
-- Destroy recordings/ scrub pii from any synthesis documents
+- Once your synthesis is complete, you should destroy any [session recordings](https://depo-platform-documentation.scrollhelp.site/research-design/recording-user-research-sessions) saved to your local machine
+- Review your notes and synthesis materials to make sure they don't contain any PII. Then make sure they are added to your github Research Folder for archival purposes
 
 ## Acceptance Criteria
 - [ ] Craft recommendations
