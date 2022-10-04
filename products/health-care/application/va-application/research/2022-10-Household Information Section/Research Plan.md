@@ -8,12 +8,10 @@ The Health Care Application (10-10EZ) enables Veterans to access and apply for V
 - Annual Income
 - Deductible Expenses
 
-The household information section, step 4 out of 6 in the application progress flow, has been identified as a problem area through [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf), stakeholder feedback and [page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at the problem from a best practices and competitive research lens, prior to starting design. 
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a pain point through [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf). [Page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at usability best practices and competitive research lens, prior to starting design. The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas) and designs include rearranging the order of the questions, updating the content to plain language standards and design pattern updates around multiple responses (list and loop) used when adding dependents.
 
-The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas) and designs include rearranging the order of the questions, updating the content to plain language standards and design pattern updates around multiple responses (list and loop) used when adding dependents.
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
-
 
 
 ### OCTO Objectives 
@@ -43,9 +41,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 
 ### Outcome
-> How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
-The outcomes of this research will help in ensuring the content and flow of the household information section questions are clear and easy for the Veteran/applicant to complete without confusion and without leaving the application. 
+The outcome of this research will help guide what changes should be made to the household information to make it easier for Veterans/applicants to complete this section without leaving the application. A secondary outcome is providing a qualitative baseline of the current usability of the household information pages. 
 
 
 ### Research questions
@@ -56,14 +52,9 @@ The outcomes of this research will help in ensuring the content and flow of the 
 
 
 ### Hypothesis
-> What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-> - What do you already know about this problem space?
-> - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-> - Write a generalized statement that combines what you know + what you think will happen during the study. 
-> - Remember to constrain the hypothesis to the goals of your study!
-
-- The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete
+- The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete.
 - The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
+- The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
 - In comparision to the existing pages, participants will prefer the new designs with content changes. 
 
 
@@ -78,7 +69,7 @@ Establishing a qualitative baseline by asking questions with visuals/screen capt
 
 ### Task Analysis
 - Usability testing - appropriate for evaluative research
-The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form.
+The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form but provide context for the participant.
 
 
 ### Location
@@ -86,10 +77,6 @@ Remote: Zoom
 
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 For moderated interviews:
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md) 
 - Link to deck - images of before/after
@@ -135,12 +122,14 @@ Write any recruitment criteria for experience or scenarios as screener questions
 What criteria would strengthen your results? 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+> Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+October - November 2022 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+> When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+> A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -153,7 +142,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 2
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+> When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
