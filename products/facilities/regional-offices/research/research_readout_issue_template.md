@@ -25,7 +25,9 @@ Recommendations are key outputs of the research process. They connect your findi
 - Default to a 30-min meeting with 20 min for presenting and 10 min for discussion
 - [Research Presentation Template](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit#slide=id.g892adcb623_0_141)
   - Consider slimming down this template based on your audience
-- Message Naomi Marcussen on Slack to sign up to share your findings with others at the weekly Design + Content + Research meeting
+  - Consider doing a pratice runthrough with Design Team or PM to ensure it flows
+- After readout(s) with your immediate team(s) and stakeholder(s), consider presenting your research at Platform's weekly Design + Content + Research meeting
+  - Message Naomi Marcussen on Slack to sign up
 
 **Documenting Findings**
 - Building off the Topline Report, fill out the [Research Findings Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) and add it to your Research Folder
