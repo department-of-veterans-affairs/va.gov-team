@@ -60,12 +60,14 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 UX PIN PROTOTPYE LINKS HERE
+COHORT 1
+COHORT 2
 
 
 ## Task 1: Financial disclosure question - 5 minutes
+
 - Begin completing this section of the health care application. 
 - Talk through what you see and what the content means to you.
-
 
 ### Things to watch for Cohort 1:
 - [Does the participant understand the financial disclosure page?]
@@ -83,59 +85,59 @@ UX PIN PROTOTPYE LINKS HERE
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
 - (Prototypes will only allow for "yes" to be selected, moving to spouse information page) Continue completing all the questions about your spouse and please remember to think aloud.  
 
-### Things to watch for in Chort 1:
+### Things to watch for in Cohort 1:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
 - [Does the participant comment on the second spouse page with the two lived with/address questions?
 
 ### This to watch for in Cohort 2:
--[Does the particpant understand the lived with/address questions easily?]
+-[Does the participant understand the lived with/address questions easily?]
+-[Does the participant make any comment about the conditional questions on this page when more fields appear?]
 
 
-
-## 3: Adding a dependent - 10 minutes
+## Task 3: Adding a dependents - 10 minutes
 
 - Now that you have completed your spouse's information, please answer the question on this page and proceed. 
 - (When selected yes) Complete the questions about your first dependent.
 - For this scenario, you have multiple children. How would you add them to this application?
 
-### Things to watch for:
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+### Things to watch for in Cohort 1:
+- [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
+- [Does the participant struggle with adding a second dependent?]
+- [Does the participant pause or are they confused by any of the dependent information questions?]
+
+### Things to watch for in Cohort 2:
+- [Does the participant need additional information of who a dependent is or do they know?]
+- [Does the participant pause or are they confused by any of the dependent information questions?]
 
 
 
 ## 4: Editing and removing a dependent - 10 minutes
 
-- 
-- Step 2
+- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix. How would you go about doing that?
+- Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent you already added?
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+### Things to watch for in Cohort 1:
+- [Does the participant clearly see the buttons to edit and delete dependents?]
+- [Does the participant easily make their edit and continue on without getting hung up?]
 
 
 ## 5: Annual Income - 10 minutes
 
-- Step 1
-- Step 2
+- Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
+- (continue) Complete your spouse's income information.
+
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
+- [Does the participant interact with any of the additional information components for more context needed?]
 - [Does the participant notice xyz?]
 - [Etc]
 
 ## 6: Deductible Information - 5 minutes
 
-- Step 1
-- Step 2
+- Complete the fields on this page. 
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
