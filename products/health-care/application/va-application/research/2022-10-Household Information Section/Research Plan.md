@@ -39,14 +39,15 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 
 ### Outcome
-The outcome of this research will help guide what changes should be made to the household information to make it easier for Veterans/applicants to complete this section without leaving the application. A secondary outcome is providing a qualitative baseline of the current usability of the household information pages. 
+The outcome of this research will help guide what changes should be made to the household information to make it easier for Veterans/applicants to complete this section without leaving the application. 
 
 
 ### Research questions
 - Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
+- What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
+
 - Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
 - What struggles do participants encounter with the process of adding and editing multiple dependents?
-- What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 - How do the proposed design and content changes compare to the existing pages in the opinion of the Veteran/applicant?
 
 
@@ -65,7 +66,7 @@ The outcome of this research will help guide what changes should be made to the 
 
 The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form.
 
-We will test both flows - new and existing - via 2 cohorts and using desktop prototypes. We will capture qualitative comments and task completion ratings to a/b test. 
+We will test both flows - new and existing - via 2 cohorts and using desktop prototypes. We will capture qualitative comments and task usability ratings to a/b test. 
 
 
 ### Location
@@ -86,14 +87,13 @@ We will request partipants with critera that were not covered in the studies con
 
 
 
-
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |      24       |          16      |16       |             |          |              | 
 
 
-Want to run two cohorts, each cohort having 
+Want to run two cohorts, each cohort having 8 completed sessions. 
 
 
 ### Criteria Table 
@@ -101,22 +101,22 @@ Want to run two cohorts, each cohort having
 |                               | **Cohort 1 (proposed flow)** | **Cohort 2 (existing flow)** |
 | ----------------------------- | ---------------------------- | ---------------------------- |
 | **_SEX_**                     |                              |                              |
-| Male                          | 6                            | 6                            |
-| Female                        | 4                            | 4                            |
+| Male                          | 2                            | 2                            |
+| Female                        | 3                            | 3                            |
 | \---                          | \---                         | \---                         |
 | **_RACE_**                    |                              |                              |
 | Black                         | 3                            | 3                            |
-| White                         | 1                            | 1                            |
+| White                         |                              |                              |
 | Latinx                        | 1                            | 1                            |
 | Asian                         | 3                            | 3                            |
-| Native                        | 1                            | 1                            |
+| Native                        |                              |                              |
 | Pacific Islander              | 1                            | 1                            |
 | \---                          | \---                         | \---                         |
 | **_AGE_**                     |                              |                              |
 | 18-24 yo                      | 1                            | 1                            |
 | 25-34 yo                      | 3                            | 3                            |
-| 35-44 yo                      | 3                            | 3                            |
-| 45-54 yo                      | 3                            | 3                            |
+| 35-44 yo                      | 2                            | 2                            |
+| 45-54 yo                      | 2                            | 2                            |
 | 55+ yo                        |                              |                              |
 | \---                          | \---                         | \---                         |
 | **_LGBTQ+_**                  |                              |                              |
@@ -152,8 +152,8 @@ Want to run two cohorts, each cohort having
 | Elementary                    |                              |                              |
 | Intermediate                  |                              |                              |
 | GED                           | 4                            | 4                            |
-| High School                   | 3                            | 3                            |
-| Some College                  | 3                            | 3                            |
+| High School                   | 2                            | 2                            |
+| Some College                  | 2                            | 2                            |
 | Associate's                   |                              |                              |
 | Bachelors                     |                              |                              |
 | Masters                       |                              |                              |
