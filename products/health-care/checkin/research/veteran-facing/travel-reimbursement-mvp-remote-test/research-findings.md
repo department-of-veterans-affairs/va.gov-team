@@ -251,7 +251,17 @@ With continued awareness and education about PCI, some Veterans will try check-i
 
 ## Who we talked to
 
-<img width="1204" alt="Screen Shot 2022-07-12 at 2 25 47 PM" src="https://user-images.githubusercontent.com/101129355/178567595-40f86256-ba5a-4446-ac42-84f04dd63832.png">
+## Underserved groups we haven't talked to
 
-<img width="1403" alt="Screen Shot 2022-07-12 at 2 27 06 PM" src="https://user-images.githubusercontent.com/101129355/178567616-2c0016cc-214f-45a4-978d-1ee44429cb76.png">
+This research may not include the perspectives of the following underserved Veteran groups:
+
+- Other than honorable discharge
+- Immigrant origin
+- Expat (living abroad)
+- Hispanic
+- Native
+- LGBTQ+
+- Assistive technology
+<br><br>
+<img width="821" alt="Screen Shot 2022-09-30 at 4 31 04 PM" src="https://user-images.githubusercontent.com/101129355/194167758-410fbda7-2933-4ba8-84f3-72758d57aca8.png">
 
