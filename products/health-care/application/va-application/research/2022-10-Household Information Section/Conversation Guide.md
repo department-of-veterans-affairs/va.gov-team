@@ -51,12 +51,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## 1: Financial disclosure questions - 5 minutes
+## 1: Begin section & financial disclosure question - 10 minutes
 
-For the context of this session, you are applying for health care and are about to complete the section household information. 
+For the context of this session, you are applying for health care and are about to complete the questions around your household information. 
 
-
--     (UX PIN PROTOTPYE LINK TO SHARE AND START)
+UX PIN PROTOTPYE LINK TO SHARE AND START
+(Sharing instructions)
 
 
 - Begin completing the household information section. 
@@ -71,18 +71,32 @@ For the context of this session, you are applying for health care and are about 
 - [Does the participant click yes or no on the financial disclosure page?] 
 
 
-## Second Task: Spouse Information - 5 minutes
+## 2: Spouse information - 5 minutes
 
-- As a reminder for the context of this session, you are married. Answer the question accordingly. 
+- (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
 - Please talk aloud about the content on this page and the options presented. 
+
+(If selected Yes, moving to spouse information page) 
+- 
 
 ### Things to watch for:
 
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
+
+
+## 3: Adding a dependent - 10 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: Adding & Editing Multiple Dependents - 10 minutes
+## 4: Editing and removing a dependent - 10 minutes
 
 - Step 1
 - Step 2
@@ -94,7 +108,7 @@ For the context of this session, you are applying for health care and are about 
 - [Etc]
 
 
-## Fourth Task: Annual Income - 10 minutes
+## 5: Annual Income - 10 minutes
 
 - Step 1
 - Step 2
@@ -105,7 +119,7 @@ For the context of this session, you are applying for health care and are about 
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Fifth Task: Deductible Information - 5 minutes
+## 6: Deductible Information - 5 minutes
 
 - Step 1
 - Step 2
