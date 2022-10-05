@@ -32,40 +32,45 @@ The patient check-in (PCI) product is reimagining the ecosystem that allows a Ve
 In June 2022, the Beneficiary Travel Reimbursement Path Analysis Team completed a review of the VA general health care travel reimbursement program, which included recommendations on improvements the Veteran experience. One of those recommendations was to integrate travel reimbursement into the patient check-in ecosystem. 
 
 As a result of their work, the Modernized Check-In Experience Team began developing user flows and wireframes to visualize the integration and gather feedback from Veterans. 
-
-
+<br><br>
 ![576b6fa7-f411-4fb3-903c-73965b7e79d9 (1)](https://user-images.githubusercontent.com/101129355/194156677-7ef1911f-5b12-4796-bf3c-4e6dae624894.png)
 
+Our questions we're hoping to answer for this research are: 
 
-
-# Research Questions
-
-- How often are Veterans using pre-check-in?
-- Do Veterans assume they still have to do day-of check-in when pre-check-in is complete?
-- What’s working and not working with pre-check-in and check-in?
-- What changes could help improve the check-in process?
-- How often are MSAs interacting with Veterans during the check-in process?
-- Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in?
-- How often are MSAs troubleshooting errors or clearing review flags?
-- What are the issues that MSAs are helping Veterans troubleshoot?
-- How do Veterans feel about pre-check-in and check-in?
-- Are Veterans able to use the check-in poster?
-- What would Veterans call this process?
-- When do Veterans expect to complete a travel reimbursement claim in relation to their appointment?
-- What steps should a Veteran have to complete for filing a travel reimbursement claim?
-- What steps could be removed from the existing BTSSS process to make it easier for Veterans to file a claim?
+1. Do Veterans prefer to be asked if they’re interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI? 
+1. Is it confusing to check in for an appointment and submit a travel reimbursement claim at the same time?
+1. Does knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted deter Veterans from filing a travel reimbursement claim? 
+1. What is the cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility? 
+1. How well or not so well do Veterans understand the status of their submitted claim or how to file a claim later on the PCI application’s confirmation page? 
 
 # Methodology 
 
-We visited Bay Pines Healthcare System (Bay Pines) to observe and conduct intercept interviews with Veterans when they arrived for medical appointments. We interacted with Veterans during the check-in process, documented how their experience went with PCI and asked follow-up questions to understand what went well and what didn’t go well. 
+We conducted remote, moderated research sessions with 20 Veterans, which were split into two groups: 
 
-We were able to observe Veterans in multiple clinics at Bay Pines VAMC Building 100, Lakeside Building, Lee County VA Clinic, St. Petersburg VA Clinic and North Pinellas VA Clinic.  
+**Group 1**
 
-We also observed and interviewed a variety of VA staff at those clinics who have a role in PCI – mostly MSAs and MSA leads, but also one clinician and a couple clinic managers. 
+- Focused on answering the following questions: 
 
-And, finally, we conducted a remote interview with three reimbursement travel assistants and supervisors where we collected feedback on a [travel reimbursement prototype](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play) and asked follow-up questions. 
+     - Do Veterans prefer to be asked if they’re interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI? 
+     - Is it confusing to check in for an appointment and submit a travel reimbursement claim at the same time?
+     - Does knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted deter Veterans from filing a travel reimbursement claim? 
 
-The research plan, conversation guide and session notes for our [Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat) and [staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) studies can be found in VA’s GitHub repository for additional information. 
+- Asked to complete tasks and provide feedback on the following prototypes: 
+
+     - [Prototype A](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/3A3BBB6C-17C3-44B9-87A0-7C6B35EED3A1)
+     - [Prototype B](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/79088E97-24E3-4453-99A2-2A982BA0D3FD) 
+
+**Group 2**
+
+- Focused on answering the following questions: 
+
+     - What is the cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility? 
+     - How well or not so well do Veterans understand the status of their submitted claim or how to file a claim later on the PCI application’s confirmation page? 
+
+- Asked to complete tasks and provide feedback on the following prototypes: 
+
+     - [Prototype B](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/79088E97-24E3-4453-99A2-2A982BA0D3FD) 
+     - [Prototype C](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/E31FD129-23BD-4CF3-AE44-8B1D88533FC6)
 
 # Hypotheses and Conclusions
 
