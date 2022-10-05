@@ -48,7 +48,7 @@
 - ~Flip feature flag for LoROTA Security Updates & set to 10%~
 - RELEASED on 9/27 [Display Outage/Downtime Messages in Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)  
 - RELEASED on 9/29 [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
+- RELEASED on 10/4 [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
 
 #### UX Sprint Goals 
 - DONE [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
