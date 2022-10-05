@@ -1,15 +1,6 @@
 # [DRAFT] Conversation Guide for 10-10 Team, Health care application 10-10EZ household information section, October 2022
 
 ## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-- [ ] Create Mural board for observer notes on flow 
-- [ ] Step 2
-- [ ] Step 3
-
-
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
@@ -34,13 +25,13 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-**Today we're going to talk about Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse and dependents and financial information.**
+**Today we're going to talk about the Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse, dependents and financial information.**
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -54,14 +45,12 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
 - Do you frequently use VA.gov or regulary sign in to your account?
-- Have you applied for health care recently and used the online form? (screener questions?)
+- Have you applied for health care recently and if so did you use the online form? (screener questions?)
 - Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 
-## Baseline Compare Questions - 10 minutes
+## Baseline Compare Questions - 5 minutes
 (showing a/b screen capture images side by side for the participant to pick the one that is the most clear to them and state why)
 Areas to zoom in on for comparison:
 - Financial onboarding page
@@ -69,11 +58,16 @@ Areas to zoom in on for comparison:
 - Content on annual income page for gross, net and other
 - 
 
-## 1: Financial disclosure page - 5 minutes
 
-For the context of this session, you are applying for health care and are going to include your spouse and two children. You and your spouse both work full time jobs but your family doesn't have any other sources of income. 
+## 1: Financial disclosure questions - 5 minutes
 
-- Begin completing the household information section as you would for this scenario we just talked through. 
+For the context of this session, you are applying for health care and are about to complete the section household information. 
+
+
+-     (UX PIN PROTOTPYE LINK TO SHARE AND START)
+
+
+- Begin completing the household information section. 
 - Talk through what you see and what the content means to you.
 
 
@@ -93,7 +87,7 @@ For the context of this session, you are applying for health care and are going 
 ### Things to watch for:
 
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
-- [Does the participant ?]
+- [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
 - [Etc]
 
 ## Third Task: Adding & Editing Multiple Dependents - 10 minutes
