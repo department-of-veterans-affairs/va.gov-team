@@ -25,7 +25,7 @@ We conducted 10 remote moderated usability sessions via Zoom. Participants were 
 
 5/10 participants were accessed the prototype via mobile device. 5/10 participants accessed the prototype via desktop. 
 
-Half of the participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. The other half started with Task 2, whcih prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
+Some participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. Some started with Task 2, which prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
 
 
 # Hypotheses and Conclusions
