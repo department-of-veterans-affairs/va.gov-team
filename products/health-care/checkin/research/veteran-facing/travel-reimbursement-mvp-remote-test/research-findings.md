@@ -74,30 +74,16 @@ We conducted remote, moderated research sessions with 20 Veterans, which were sp
 
 # Hypotheses and Conclusions
 
-1. Veterans who use pre-check-in are able to complete the required steps.
-     1. NOT ENOUGH INFORMATION: Not enough information captured.  
-1. Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment.
-     1. LIKELY FALSE: Some Veterans conflate pre-check-in and check-in. E.g., Veterans that complete pre-check-in think they've completed check-in, which results in staff not being aware the Veteran has arrived for their appointment.  
-1. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
-     1. NOT ENOUGH INFORMATION: Not enough information captured.  
-1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
-     1. DEFINITELY FALSE: Most Veterans do not see the check-in poster in the clinics. Therefore, they're waiting in line to speak with the MSA, often with their VA ID in hand. 
-1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
-     1. DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in. 
-1. MSAs will have shorter lines of Veterans waiting to be checked in.
-     1. LIKELY FALSE: PCI utilization was very low in the clinics. Therefore, the line to get checked in with an MSA was not affected. However, when a line is present, a few Veterans would see the check-in poster and begin mobile check-in. 
-1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-     1. MAYBE TRUE: We did not observe any MSAs troubleshooting error messages within the Veteran check-in experience. Instead, MSAs would start the manual check-in process in VSE, which helped skip potential friction with troubleshooting error messages.  
-1. Veterans will indicate that check-in does not affect their care experience.
-     1. MAYBE TRUE: We did not encouter any Veterans who had a negative experience with PCI. However, some Veterans prefer the VA-owned kiosks because the screen is larger and easier to see.  
-1. Veterans are able to use the check-in poster without friction.
-     1. DEFINITELY TRUE: 16/17 participants were able to use the check-in poster. One participant ran into an issue with the QR code not working as intended. 
-1. Veterans refer to the process as “check in” or “mobile check in.”
-     1. NOT ENOUGH INFORMATION: Not enough information captured. However, some Veterans did describe it as "check-in."   
-1. Veterans are called for their appointment once check-in is complete.
-     1. LIKELY TRUE: Veterans who we observed using mobile check-in were updated in VSE. However, we did hear from MSAs that some issues exist with manually creating walk-in appointments. 
-1. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
-     1. NOT ENOUGH INFORMATION: One Veteran explained how difficult it is to file a claim with Beneficiary Travel Self-service System (BTSSS) and get it approved. He said that he was close to giving up on filing claims since none of his claims get approved or reviewed very quickly. He thought that adding travel reimbursement during check-in would be ideal compared to the existing process with BTSSS. 
+1. Most Veterans prefer to be asked if they’re interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI. 
+     1. DEFINITELY TRUE: Veterans preferred being asked first if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim within the PCI application.      
+1. It is not confusing to check in for an appointment and submit a travel reimbursement claim at the same time. 
+     1. DEFINITELY TRUE: Veterans thought having the option to file a travel reimbursement claim while checking in for their appointment was easy and convenient.  
+1. Knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not deter Veterans from filing a travel reimbursement claim. 
+     1. DEFINITELY TRUE: No, knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not stop Veterans from filing a claim. But Veterans felt that VA should already know if they’re eligible before allowing them to submit a claim or, at minimum, provide information on how to find out if they’re eligible. 
+1. The cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility is very low.
+     1. DEFINITELY TRUE: Veterans required a very low cognitive load to answer questions related to reviewing and confirming their travel reimbursement claim eligibility. Additionally, Veterans preferred being asked one eligibility question per page.  
+1. Veterans easily understand the status of their submitted claim or how to file a claim later on the PCI application’s confirmation page. 
+     1. LIKELY TRUE: Veterans thought the information about the status of their submitted claim or how to file a claim later was easy to understand, but expected more information about when and where to check the status of their claim, who to contact if they have questions and why their travel reimbursement claim couldn’t be submitted. 
 
 # Key Findings
 
