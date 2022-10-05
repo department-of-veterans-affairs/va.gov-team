@@ -166,14 +166,14 @@
 -  Two pages on getting assistance for copay debt will be redirected to a new single content page.
 -  All redirects should be detailed out in a redirect request issue linked below.
 
-Current URL | New URL 
+Old URL | Redirect to 
 --- | --- 
 /health-care/pay-copay-bill/your-current-balances/ |  /manage-va-debt/summary/copay-balances/ 
-/health-care/pay-copay-bill/your-current-balances/balance-details/ | /manage-va-debt/summary/copay-balances/detail/ 
-/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ | /manage-va-debt/summary/copay-balances/detail/statement/ 
-/manage-va-debt/your-debt/ |  /manage-va-debt/summary/debt-balances/
-/manage-va-debt/your-debt/debt-detail/ | /manage-va-debt/summary/debt-balances/details/  
-/manage-va-debt/your-debt/debt-letters/  | /manage-va-debt/summary/debt-balances/letters/ 
+/health-care/pay-copay-bill/your-current-balances/balance-details/ | /manage-va-debt/summary/copay-balances/ 
+/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ | /manage-va-debt/summary/copay-balances/ 
+/manage-va-debt/your-debt/ |  /manage-va-debt/summary/
+/manage-va-debt/your-debt/debt-detail/ | /manage-va-debt/summary/
+/manage-va-debt/your-debt/debt-letters/  | /manage-va-debt/summary/
 /manage-va-debt/request-debt-help-form-5655/  | /manage-va-debt/request-help/request-financial-help-form-5655/ 
 /health-care/pay-copay-bill/dispute-charges/ | TBD
 /health-care/pay-copay-bill/financial-hardship/ | TBD
