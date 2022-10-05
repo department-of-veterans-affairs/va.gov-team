@@ -35,7 +35,7 @@ Last updated September 30, 2022
 
 Now that we've established the initial infrastructure for VA.gov to leverage VANotify's functionality, we are ready to determine next steps for scaling this feature.
 
-### Potential problems to solve for V2
+### Potential problems we'll tackle
 
 #### What notifications can we add?
 
