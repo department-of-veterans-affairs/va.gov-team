@@ -35,7 +35,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 **2. Determine if the questions and contextual information is clear and actionable**
 
-**3. Esablish a qualitative baseline to aid in measuring the usability impacts of changes made**
+**3. Establish a qualitative baseline to aid in measuring the usability impacts of changes made**
 
 
 ### Outcome
@@ -43,28 +43,22 @@ The outcome of this research will help guide what changes should be made to the 
 
 
 ### Research questions
-- How do the proposed design and content changes compare to the existing pages in the opinion of the Veteran/applicant?
 - Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
 - Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
 - What struggles do participants encounter with the process of adding and editing multiple dependents?
 - What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
+- How do the proposed design and content changes compare to the existing pages in the opinion of the Veteran/applicant?
 
 
 ### Hypothesis
 - The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete.
 - The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
 - The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
-- In comparision to the existing pages, participants will prefer the new designs with content changes. 
+(- In comparision to the existing pages, participants will prefer the new designs with content changes.)
 
 
 
 ## Methods
-
-### Baseline Analysis
-- Semi-structured interviews - appropriate for generative research
-
-Establishing a qualitative baseline by asking questions with visuals/screen captures showing focused parts of the existing site and new designs for comparrion feedback.
-
 
 ### Task Analysis
 - Usability testing - appropriate for evaluative research
@@ -79,8 +73,7 @@ Remote: Zoom
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - [Link to prototype](url goes here) - **To create after Design Intent review and feedback incorporated** Will be used for task analysis
-- [Link to ](url) - To be used during baseline interview questions at beginning of session
-
+- [Link to staging or protoptype exisiting?]
 
 	
 ## Recruitment	
@@ -88,6 +81,7 @@ Remote: Zoom
 ### Recruitment approach
 We will recruit Veterans for this research using the lean maximum variation strategy and leveraging Perigean to recruit participants. 
 We will request partipants with critera that were not covered in the studies conduced on 10-10EZ in the past year ([10-10EZ short form usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md#who-this-study-excludes)).
+
 
 
 ### Recruitment criteria
@@ -98,7 +92,7 @@ We will request partipants with critera that were not covered in the studies con
 
 
 ### Criteria Table 
-This is a , and we are testing with a prototype
+
 
 
 |                               | **Single Study** |
@@ -253,6 +247,7 @@ This is a , and we are testing with a prototype
 ### Screener
 
 
+
 > What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 > Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
@@ -286,7 +281,24 @@ October - November 2022
 * Buffer time between sessions: 1 hour 
 * Maximum Sessions per day: 2
 
+
 ### Availability
+
+Team Availability | Time (ET)
+------------------|--------------
+TBD         | TBD
+TBD         | TBD
+TBD         | TBD
+
+
+
+_Only use if necessary_ | Time (ET)
+------------------|--------------
+TBD         | TBD
+TBD         | TBD
+
+
+
 > When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
