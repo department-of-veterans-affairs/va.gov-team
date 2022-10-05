@@ -45,7 +45,7 @@
     - Complete & release (John)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - SPIKE - Get answers to question (what new endpoint from CHIP would we need?) & think through the ramifications or potential side effects of implementing this (Adrian)
-    - Collaborate with DS on Fixes for Memorable Date Component
+- Collaborate with DS on Fixes for Memorable Date Component
 
 
 ## 9/21/2022 
