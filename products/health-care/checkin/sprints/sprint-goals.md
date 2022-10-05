@@ -27,6 +27,8 @@
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Synthesize unmoderated study data & create report (Kristen)
     - Collaborate with VAOS to determine where they are in their process (Kristen)    
+- [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
+    - Prepare json files & submit to the State Department (Lori)
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE) (----TENTATIVE----)
 - [Production Support]() 
