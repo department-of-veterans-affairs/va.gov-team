@@ -49,9 +49,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you applied for health care recently and if so did you use the online form? (screener questions?)
 - Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
-
-
-## 1: Begin section & financial disclosure question - 10 minutes
+## Setup - 5 minutes
 
 For the context of this session, you are applying for health care and are about to complete the questions around your household information. 
 
@@ -59,25 +57,28 @@ UX PIN PROTOTPYE LINK TO SHARE AND START
 (Sharing instructions)
 
 
-- Begin completing the household information section. 
+## Task #1: Financial disclosure question - 5 minutes
+- Begin completing this section of the health care application. 
 - Talk through what you see and what the content means to you.
 
 
-### Things to watch for:
+### Things to watch for COHORT 1:
 - [Does the participant understand the financial disclosure page?]
 - [Does the participant comment on the alert component?]
-- [Does the participant open the additional info to learn more or do they skip over that?]
-- [Do they make any comments about providing financial information in general?]
-- [Does the participant click yes or no on the financial disclosure page?] 
+- [Does the participant open the additional info on qualifying eligibility factors?]
+- [Does the participant click yes or no on the financial disclosure page and state why?] 
+
+### Things to watch for COHORT 2:
+- [Does it take the Veteran a minute to read through this page before answering?]
 
 
-## 2: Spouse information - 5 minutes
+## Task 2: Marital status and spouse information - 5 minutes
 
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
 - Please talk aloud about the content on this page and the options presented. 
 
 (If selected Yes, moving to spouse information page) 
-- 
+- Continue completing these fields about your spouse.  
 
 ### Things to watch for:
 
