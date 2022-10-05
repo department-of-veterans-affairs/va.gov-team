@@ -47,43 +47,43 @@
 
 **3) Copay bill balances - Existing, modified**
 - URL: 
-  - **old:** /health-care/pay-copay-bill/your-current-balances/ 
-  - **new:** /manage-va-debt/summary/copay-balances/ 
+  - old: /health-care/pay-copay-bill/your-current-balances/ 
+  - new: /manage-va-debt/summary/copay-balances/ 
 - Breadcrumb:  Home  >  Manage your VA debt  > [H1 of summary page (2)]  >  [H1 of current page]
 - Notes: Old URL will need to be redirected to new URL, see redirect list below
 
 **4) Copay bill details - Existing, modified**
 - URL:
-  - **old:** /health-care/pay-copay-bill/your-current-balances/balance-details/ 
-  - **new:** /manage-va-debt/summary/copay-balances/detail/ 
+  - old: /health-care/pay-copay-bill/your-current-balances/balance-details/ 
+  - new: /manage-va-debt/summary/copay-balances/detail/ 
 - Breadcrumb:  Home  >  Manage your VA debt  > [H1 of summary page (2)]  >  [H1 of copay bill balances page (3)]  > [H1 of current page] 
 - Notes: Old URL will need to be redirected to new URL, see redirect list below
 
 **5) Copy bill statement - Existing, modified**
 - URL
-  - **old:**/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ 
-  - **new:** /manage-va-debt/summary/copay-balances/detail/statement/ 
+  - old: /health-care/pay-copay-bill/your-current-balances/balance-details/statement/ 
+  - new: /manage-va-debt/summary/copay-balances/detail/statement/ 
 - Breadcrumb:  Home  >  Manage your VA debt  > [H1 of summary page (2)]  >  [H1 of copay bill balances page (3)]  > [H1 of copay bill details page (4)]   >  [H1 of current page]
 - Notes: Old URL will need to be redirected to new URL, see redirect list below
 
 **6) Benefit debt blalances - Existing, modified**
 - URL:
-  - **old:** /manage-va-debt/your-debt/
-  - **new:** /manage-va-debt/summary/debt-balances/
+  - old: /manage-va-debt/your-debt/
+  - new: /manage-va-debt/summary/debt-balances/
 - Breadcrumb: Home  >  Manage your VA debt  > [H1 of summary page (2)] >  [H1 of current page] 
 - Notes: Old URL will need to be redirected to new URL, see redirect list below 
 
 **7) Debt details - Existing, modified**
 - URL:
-  - **old:** /manage-va-debt/your-debt/debt-detail/
-  - **new**: /manage-va-debt/summary/debt-balances/details/  
+  - old: /manage-va-debt/your-debt/debt-detail/
+  - new: /manage-va-debt/summary/debt-balances/details/  
 - Breadcrumb: Home  >  Manage your VA debt  > [H1 of summary page (2)] >  [H1 of debt balances page (6)] > [H1 of current page] 
 - Notes: Old URL will need to be redirected to new URL, see redirect list below 
 
 **8) Debt letters - Existing, modified**
 - URL:
-  - **old:** /manage-va-debt/your-debt/debt-letters/
-  - **new:** /manage-va-debt/summary/debt-balances/letters/ 
+  - old: /manage-va-debt/your-debt/debt-letters/
+  - new: /manage-va-debt/summary/debt-balances/letters/ 
 - Breadcrumb: Home  >  Manage your VA debt  > [H1 of summary page (2)] >  [H1 of debt balances page (6)] > [H1 of current page]  
 - Notes: Old URL will need to be redirected to new URL, see redirect list below 
 
@@ -94,8 +94,8 @@
 
 **10) Online FSR form flow - Existing, modified**
 - URL:
-  - **old:** /manage-va-debt/request-debt-help-form-5655/  
-  - **new**  /manage-va-debt/request-help/request-financial-help-form-5655/ 
+  - old: /manage-va-debt/request-debt-help-form-5655/  
+  - new  /manage-va-debt/request-help/request-financial-help-form-5655/ 
 - Breadcrumb: Home  >  Manage your VA debt  >  [H1 of request help static page (9)]  >  [H1 of current page]
 
 **11) Pay your copay bill static page - Existing, modified**
@@ -124,44 +124,39 @@
 
 **Entry point location: [Pay your copay bill static landig page](/health-care/pay-copay-bill)**
 - **UPDATE** sign in component to deep link into the copay bill balances page of the debt portal
-  - **Destination:** www.va.gov/manage-va-debt/summary/copay-balances/ 
-  - **Notes:** Update language of the React component and page to clarify where the visitor will be taken after signing in - i.e. reference "debt" and "copay bills and overpayments"
+  - Destination: www.va.gov/manage-va-debt/summary/copay-balances/ 
+  - Notes: Update language of the React component and page to clarify where the visitor will be taken after signing in - i.e. reference "debt" and "copay bills and overpayments"
 
 **Entry point location: [Disability hub](https://www.va.gov/disability/)
 - **ADD** link and teaser text to the manage debt static page
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "View disability payment history" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "View disability payment history" 
 
 **Entry point location:** Disability left nav
 - **ADD** option for "Manage va debt"
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "View disability payment history" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "View disability payment history" 
 
 **Entry point location: [Education hub](https://www.va.gov/education/)
 - **ADD** link and teaser text to the manage debt static page
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Apply to restore your GI Bill benefits" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Apply to restore your GI Bill benefits" 
 
 **Entry point location:** Education left nav
 - **ADD** option for "Manage va debt"
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "Apply to restore your GI Bill benefits" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "Apply to restore your GI Bill benefits" 
 
 **Entry point location: [Pension hub](https://www.va.gov/pension/)
 - **ADD** link and teaser text to the manage debt static page
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Request a decision review or manage a legacy appeal" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Request a decision review or manage a legacy appeal" 
 
 **Entry point location:** Pension left nav
 - **ADD** option for "Manage va debt"
-  - **Destination:** www.va.gov/manage-va-debt/
-  - **Notes:** Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "Request a decision review or manage a legacy appeal" 
+  - Destination: www.va.gov/manage-va-debt/
+  - Notes: Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "Request a decision review or manage a legacy appeal" 
 
-
-**Entry point location: 
-- **ADD** 
-  - **Destination:** 
-  - **Notes:**
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -169,7 +164,20 @@
 
 -  Redirects will be needed for almost all pages in the existing copays and debt experiences based on a top level page change, hierarchical changes, and movement of pages from the health care sub-directory to the debt sub-directory. 
 -  Two pages on getting assistance for copay debt will be redirected to a new single content page.
--  All redirects will be detailed out in a rediret request once URLs are finalized.
+-  All redirects should be detailed out in a redirect request issue linked below.
+
+Current URL | New URL 
+--- | --- 
+/health-care/pay-copay-bill/your-current-balances/ |  /manage-va-debt/summary/copay-balances/ 
+/health-care/pay-copay-bill/your-current-balances/balance-details/ | /manage-va-debt/summary/copay-balances/detail/ 
+/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ | /manage-va-debt/summary/copay-balances/detail/statement/ 
+/manage-va-debt/your-debt/ |  /manage-va-debt/summary/debt-balances/
+/manage-va-debt/your-debt/debt-detail/ | /manage-va-debt/summary/debt-balances/details/  
+/manage-va-debt/your-debt/debt-letters/  | /manage-va-debt/summary/debt-balances/letters/ 
+/manage-va-debt/request-debt-help-form-5655/  | /manage-va-debt/request-help/request-financial-help-form-5655/ 
+/health-care/pay-copay-bill/dispute-charges/ | TBD
+/health-care/pay-copay-bill/financial-hardship/ | TBD
+
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
