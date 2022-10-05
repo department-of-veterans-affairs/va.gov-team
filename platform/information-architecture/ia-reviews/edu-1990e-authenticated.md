@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 10/5/2022**
 
 Modernized URLs [documented in issue #29622](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29622#issuecomment-1154164989).  The URLs for all education forms were reviewed, along with H1s and title tags, and compared across approach used for all other benefit applications.  That work resulted in the recommendations posted in issue #29622. 
 
@@ -22,7 +22,7 @@ Modernized URLs [documented in issue #29622](https://github.com/department-of-ve
 Documented by DGIB team: https://accenturefederal.invisionapp.com/freehand/Midpoint-Review---TOE-U3BzprxZZ?dsid_h=06a224645241871fa5475824bd7e4ed97d273fcdf1fcb16d2890ca7d8bc61039&uid_h=3850c01aa08037284fab1cff4c26de053d5bcd667acc2f234dd81dce8e213d01
 
 
-**Page flow**
+### Page flow
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6df3f2c4-8e4e-472d-892a-6dd8ac7071fa)
 
@@ -30,21 +30,25 @@ Documented by DGIB team: https://accenturefederal.invisionapp.com/freehand/Midpo
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1e6445c8-408f-4f1a-85be-7a924a9aedbe)
-
+### Site map
 Existing 1990e form lives at an old URL, but will not be modified as part of this work.  The site map above includes this old page for reference only.
 The 5490 form URL represented in the site map is the intended modernized URL, changing that URL is not part of this workstream.
 
 
-**URLs and breadcrumbs**
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1e6445c8-408f-4f1a-85be-7a924a9aedbe)
 
-**Page:** Static Transferred benefits page - NEW
-- **URL:** `/education/survivor-dependent-benefits/transferred-benefits/'
+
+
+
+### URLs and breadcrumbs
+
+**Page: Static Transferred benefits page - NEW**
+- **URL:** `/education/survivor-dependent-benefits/transferred-benefits/`
 - **Breadcrumb:** Home > Education and training  > VA education benefits for survivors and dependents > [H1 of page] 
 - **Notes:**
 
 
-**Page:** Auth 1990e form - NEW
+**Page: Auth 1990e form - NEW**
 - **URL:** `/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/`  
 - **Breadcrumb:** Home > Education and training  > VA education benefits for survivors and dependents > [H1 of form] 
 - **Notes:** The canonical URL above is what will be used for entry links to the form.  The form should resolve to the appropriate first page of the form flow (in this case, it would resolve to /introduction/), this ensures that the referring links are always correct and working regardless if the first page of the form changes.
@@ -94,14 +98,12 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
       - Apply for dependent benefits
       - Apply for transferred benefits
 
-
 **Entry point location:** Find your education form wizard
 - **UPDATE** the wizard to point to the introduction page on the new auth version of the form
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/
   - **Notes:**  
   - This wizard exists on 2 pages: [How to apply page](www.va.gov/education/how-to-apply/) and  [Eligibility page](https://www.va.gov/education/eligibility/)
   - Direct to this page if the following selections are made:  Apply for a new benefit > **Not** claiming a benefit based on own service > Sponsor **is not** deceased, MIA, POW, or 100% disabled > Sponser **has** transferred benefits
-
 
 **Entry point location:** [Transfer Post-9/11 GI Bill benefits page](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)
 - **ADD** content and link to the transferred benefits static page 
@@ -111,7 +113,6 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ 
   - **Notes:** Under section "How do I transfer the benefit?", update the link to "Apply online now" to go to new 1990e instruction page. This link text should also be updated to be more specific to the action of applying to use a transferred benefit
 
-*  
 
 
 ## <a name="redirects"></a>Redirects <br>
