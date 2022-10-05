@@ -53,53 +53,62 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 For the context of this session, you are applying for health care and are about to complete the questions around your household information. 
 
-UX PIN PROTOTPYE LINK TO SHARE AND START
-(Sharing instructions)
+I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
+
+- [Send link to prototype in Zoom chat]
+- [If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent]
+- [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
+
+UX PIN PROTOTPYE LINKS HERE
 
 
-## Task #1: Financial disclosure question - 5 minutes
+## Task 1: Financial disclosure question - 5 minutes
 - Begin completing this section of the health care application. 
 - Talk through what you see and what the content means to you.
 
 
-### Things to watch for COHORT 1:
+### Things to watch for Cohort 1:
 - [Does the participant understand the financial disclosure page?]
 - [Does the participant comment on the alert component?]
 - [Does the participant open the additional info on qualifying eligibility factors?]
 - [Does the participant click yes or no on the financial disclosure page and state why?] 
 
-### Things to watch for COHORT 2:
-- [Does it take the Veteran a minute to read through this page before answering?]
+### Things to watch for Cohort 2:
+- [Does the participant read through this page quickly or take pause and make any comments?]
+- [Does the particpant notice the alert component?
 
 
 ## Task 2: Marital status and spouse information - 5 minutes
 
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
-- Please talk aloud about the content on this page and the options presented. 
+- (Prototypes will only allow for "yes" to be selected, moving to spouse information page) Continue completing all the questions about your spouse and please remember to think aloud.  
 
-(If selected Yes, moving to spouse information page) 
-- Continue completing these fields about your spouse.  
-
-### Things to watch for:
-
+### Things to watch for in Chort 1:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
+- [Does the participant comment on the second spouse page with the two lived with/address questions?
+
+### This to watch for in Cohort 2:
+-[Does the particpant understand the lived with/address questions easily?]
+
 
 
 ## 3: Adding a dependent - 10 minutes
 
-- Step 1
-- Step 2
+- Now that you have completed your spouse's information, please answer the question on this page and proceed. 
+- (When selected yes) Complete the questions about your first dependent.
+- For this scenario, you have multiple children. How would you add them to this application?
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 
+
+
 ## 4: Editing and removing a dependent - 10 minutes
 
-- Step 1
+- 
 - Step 2
 
 ### Things to watch for:
@@ -136,7 +145,7 @@ UX PIN PROTOTPYE LINK TO SHARE AND START
 ## Post-Task Interview - 3 minutes
 
 - What are your thoughts on the order of the questions as they were presented in the prototype?
-- Question 2
+- Did you feel there was not enough explanation given for the questions, too much or just right?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
