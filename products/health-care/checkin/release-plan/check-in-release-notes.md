@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 10/05/2022
-- Fixed a bug for the Memorable Date Component that resulted in an endless validation loop; no changes to the front end
+- Fixed a bug for the date-of-birth component that resulted in an endless validation loop; no changes to the front end
     - [Epic 47467](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
 
 ### 10/04/2022
