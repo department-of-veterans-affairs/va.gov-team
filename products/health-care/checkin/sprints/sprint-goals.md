@@ -6,42 +6,40 @@
 - Flip feature flag for LoROTA Security Updates & set to 10%
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
 
-#### UX Sprint Goals (----TENTATIVE----)
+#### UX Sprint Goals (IN ORDER OF IMPORTANCE) (----TENTATIVE----)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
-    - Create Final Wireframe for Error Messages
-    - Create Final Wireframes for Card Style at Tablet Width
-- [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
-    - Weekly analysis
-- [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
-    - Complete audit
-    - Fix wireframes
-- [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
-    - Get started
+    - Create Final Wireframe for Error Messages (Zach)
+    - Create Final Wireframes for Card Style at Tablet Width (Zach)
 - [[SMS] Split the "Too Few Appointments" Messages to Clarify 2 Possible Scenarios](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47371)
-    - Define content & pass off to CHIP
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Synthesize unmoderated study data & create report
-    - Collaborate with VAOS to determine where they are in their process    
-- [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
-    - Make case for pushing a check-in link & get buy-in so we can move forward 
+    - Define content & pass off to CHIP (Ya-Ching/Kristen)
 - [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
-    - Create prototypes & research plan 
-- [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
-    - Perform research to determine how we should move forward
+    - Create prototypes (Ya-Ching)
+    - Create research plan (Ben)
+- [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
+    - Make case for pushing a check-in link & get buy-in so we can move forward  (Ben)
+- [Audit Wireframes to Identify Inconsistencies with Production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47366)
+    - Complete audit (Kelly/Zach)
+    - Fix wireframes (Kelly/Zach)
+- [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
+    - Get started (Ben)
+- [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
+    - Weekly analysis (Lori)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - Synthesize unmoderated study data & create report (Kristen)
+    - Collaborate with VAOS to determine where they are in their process (Kristen)    
 
-
-#### Engineering Sprint Goals (----TENTATIVE----)
+#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE) (----TENTATIVE----)
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish infrastructure to authenticate with the BTSSS API
     - Start infrasturcture to send a claim to the BTSSS API 
     - Update content based on Platform feedback (travel pages, day-of pages, & footer)   
 - [Memorable Date Component Bugs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
-    - Continue to make progress
+    - Continue to make progress (John)
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
-    - Complete & release
+    - Complete & release (John)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - SPIKE - Get answers to question (what new endpoint from CHIP would we need?) & think through the ramifications or potential side effects of implementing this
+    - SPIKE - Get answers to question (what new endpoint from CHIP would we need?) & think through the ramifications or potential side effects of implementing this (Adrian)
 
 
 ## 9/21/2022 
