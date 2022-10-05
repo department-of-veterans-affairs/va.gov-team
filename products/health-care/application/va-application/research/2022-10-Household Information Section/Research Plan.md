@@ -79,17 +79,15 @@ Remote: Zoom
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - [Link to prototype](url goes here) - **To create after Design Intent review and feedback incorporated** Will be used for task analysis
-- [Link to A/B voting deck](url) - To be used during baseline interview questions at beginning of session
+- [Link to ](url) - To be used during baseline interview questions at beginning of session
 
 
 	
 ## Recruitment	
 
 ### Recruitment approach
-We will recruit Veterans for this research and use Perigean to recruit participants. 
-We will request partipants with critera that were not covered in the studies conduced on 10-10EZ in the past year.
-
-> Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will recruit Veterans for this research using the lean maximum variation strategy and leveraging Perigean to recruit participants. 
+We will request partipants with critera that were not covered in the studies conduced on 10-10EZ in the past year ([10-10EZ short form usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md#who-this-study-excludes)).
 
 
 ### Recruitment criteria
@@ -99,7 +97,162 @@ We will request partipants with critera that were not covered in the studies con
 
 
 
-**Primary criteria (must-haves)**
+### Criteria Table 
+This is a , and we are testing with a prototype
+
+
+|                               | **Single Study** |
+| ----------------------------- | ---------------- |
+| **_SEX_**                     |                  |
+| Male                          | 6                |
+| Female                        | 4                |
+| \---                          | \---             |
+| **_RACE_**                    |                  |
+| Black                         | 3                |
+| White                         |                  |
+| Latinx                        | 1                |
+| Asian                         | 3                |
+| Native                        | 1                |
+| Pacific Islander              | 2                |
+| \---                          | \---             |
+| **_AGE_**                     |                  |
+| 18-24 yo                      | 1                |
+| 25-34 yo                      | 3                |
+| 35-44 yo                      | 3                |
+| 45-54 yo                      | 3                |
+| 55+ yo                        |                  |
+| \---                          | \---             |
+| **_LGBTQ+_**                  |                  |
+| Gay                           |                  |
+| Lesbian                       |                  |
+| Bisexual                      |                  |
+| Asexual                       |                  |
+| Transgender                   |                  |
+| Non-Binary                    |                  |
+| Gender-fluid                  |                  |
+| Queer                         |                  |
+| Two-Spirit                    |                  |
+| \---                          | \---             |
+| **_BENEFITS_**                |                  |
+| Education                     |                  |
+| Employment                    |                  |
+| Finances                      |                  |
+| Healthcare                    |                  |
+| Housing                       |                  |
+| Memorialization               |                  |
+| \---                          | \---             |
+| **_BRANCH_**                  |                  |
+| Marine Corps                  |                  |
+| Army                          |                  |
+| Navy                          |                  |
+| Air Force                     |                  |
+| Space Force                   |                  |
+| Coast Guard                   |                  |
+| Nat. Guard                    |                  |
+| Pub Hlth Corps                |                  |
+| \---                          | \---             |
+| **_EDUCATION_**               |                  |
+| Elementary                    |                  |
+| Intermediate                  |                  |
+| GED                           | 4                |
+| High School                   | 3                |
+| Some College                  | 3                |
+| Associate's                   |                  |
+| Bachelors                     |                  |
+| Masters                       |                  |
+| Professional                  |                  |
+| Doctoral                      |                  |
+| \---                          | \---             |
+| **_RESIDENCE_**               |                  |
+| Urban                         |                  |
+| Rural                         |                  |
+| \---                          | \---             |
+| **_HARDWARE_**                |                  |
+| Desktop                       |                  |
+| Laptop                        |                  |
+| Mobile                        |                  |
+| Tablet                        |                  |
+| \---                          | \---             |
+| **_WEBSITE_**                 |                  |
+| [VA.gov](http://VA.gov)       |                  |
+| MyHealtheVet                  |                  |
+| Ebenefits                     |                  |
+| \---                          | \---             |
+| **_LOGIN_**                   |                  |
+| DS Logon                      |                  |
+| MyHealtheVet                  |                  |
+| [ID.me](http://ID.me)         |                  |
+| [Login.gov](http://Login.gov) |                  |
+| \---                          | \---             |
+| **_ID PROOF_**                |                  |
+| IAL1                          |                  |
+| IAL2                          |                  |
+| IAL3                          |                  |
+
+
+---
+**Identity Assurance Levels**
+
+- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
+
+- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
+
+- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
+
+---
+
+`Assistive Tech and Cognitive Impairment will apply across cohorts`
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|Font resizing/larger                                         |            |
+|Screen reader                                                |            |
+|Braille terminal                                             |            |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|            |
+|Closed captions                                              |            |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |            |
+|Sign language interpreter                                    |            |
+|Speech-to-speech transliterator                              |            |
+|Visual aids                                                  |            |
+|Writing on paper                                             |            |
+|Typing with phone or tablet and showing it to others         |            |
+|Caregiver                                                    |            |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |          2 |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |          3 |
+       
+
+### Screener
+
+
 > What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 > Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
