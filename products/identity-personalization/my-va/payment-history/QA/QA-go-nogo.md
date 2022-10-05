@@ -17,13 +17,10 @@
 ### Is the feature complete on staging?
 - 
 
-### Have we received sign-off on IA?
+### Have we completed internal testing?
 - 
 
-### Have we completed end-to-end testing with our partners on VA Notify and DMC?
-- 
-
-### Have we resolved any blocker issues that came up in end-to-end testing?
+### Have we resolved any blocker issues that came up in internal testing?
 - 
 
 ### Have we received approval on all content/copy?
