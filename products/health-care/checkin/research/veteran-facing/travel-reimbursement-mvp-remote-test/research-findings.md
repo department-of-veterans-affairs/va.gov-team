@@ -205,43 +205,31 @@ With continued awareness and education about PCI, some Veterans will try check-i
 
 # Recommendations
 
-**Reducing the number of Veterans thinking they’re checked in when they’re not**
+- Utilize a user flow that includes asking Veterans if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim, and present them as one question per page.
 
-1. Add a "check in now" message from VeText/CHIP delivered 30 minutes before the appointment. 
-2. Test a stepped form design for check-in with Veterans as a way to better communicate the remaining steps.
+<img width="1725" alt="Screen Shot 2022-10-05 at 5 19 14 PM" src="https://user-images.githubusercontent.com/101129355/194165879-adabc937-0770-4863-b0be-990467bc68e3.png">
 
-**Better distinguish pre-check-in from check-in**
+- Include clear paths to information (or where to find relevant information) for Veterans to understand travel reimbursement and claim eligibility, without affecting the Veteran’s ability to easily complete checking in to their appointment. 
 
-3. Add a link on the pre-check-in confirmation page for Veterans to [learn about how to check in on the day of their appointment](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/). 
-4. Explore new naming convention for “pre-check-in” that doesn’t include “check-in.” Specifically, draft new ideas and document usage across Veteran and staff-facing applications. Consider how pre-check-in may be perceived by Veterans once new functionality is introduced and considered more valuable compared to current state. E.g., health questionnaires, editing information and medication review.
-5. Explore creating a test to send a pre-check-in reminder text (via VeText/CHIP), if not completed. 
-6. As kiosks are removed, migrate remaining functionality into PCI, to the extent possible, especially as a way to improve the value of pre-check-in for Veterans, which will also help distinguish it from check-in. E.g., edit information, view future appointments and beneficiary travel reimbursement.
+- Include clearer information on the application’s confirmation pages for Veterans to understand where to check the status of their claim (e.g., link to the AccessVA travel claim portal), who to contact if they have questions about their claim and why their travel reimbursement claim couldn’t be submitted. 
 
-**Travel reimbursement**
+- Talk to the Travel Reimbursement Business and BTSSS API partners about finding a way to check a Veteran’s travel reimbursement eligibility prior to them submitting a claim and making that function available within the online travel reimbursement ecosystem. 
 
-7. Introduce travel reimbursement into PCI for Veterans to quickly file a claim during check-in. 
-8. Talk to more travel assistants at Bay Pines and Corpus Christi to better understand what information in claims they’re reviewing, why it’s important and how they’re making decisions as a means to streamline the reimbursement process for Veterans. 
+- Talk to the BTSSS API partners about expanding the API to support accepting more types of travel reimbursement claims beyond only mileage without other expenses. E.g., traveled from an address other than their home, tolls, meals, public transportation, etc.  
 
-**Addressing Veterans that prefer the kiosks**
+- Knowing that Veterans thought that having the option to file a travel reimbursement claim while checking in for their appointment was easy and convenient, talk to staff-facing application partners about adding travel reimbursement into VistA Scheduling Enhancements (VSE). 
 
-9. Explore reintroducing a VA-owned check-in device in clinics – once kiosks are removed and remaining functionality has been migrated into PCI or elsewhere – to better serve the needs of Veterans that aren't interested in a mobile check-in solution. And, as more functionality becomes available in both a VA-owned check-in device and a mobile solution, remove superfluous posters and brochures from clinics to streamline the check-in experience for Veterans. 
+- Include more information into travel reimbursement claim eligibility questions about common Veteran travel arrangements and trip types (e.g., tolls, meals, Uber, etc.) for Veterans to better understand the questions and feel more confident in their responses.
 
-**Bug fixes**
+- Avoid using “we may be able to” phrasing in favor of more precise information. 
 
-10. Research if there’s any known QR code bugs associated with text messages not populating. 
-11. Research how a Veteran may have received both a system not operational message from CHIP and a second message with a link to start their check-in.
+**For later down the road…**
 
-**Staff-facing applications**
+- Include support for Veterans to file a travel reimbursement claim after their appointment through something like a post-visit SMS message for those opted in to receive messages from VEText. 
 
-12. Revisit adding the ability to print routing slips, which is [something we’ve heard from clinics in previous discovery sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/site-visits/visit-notes/Pittsburgh-KM.md). 
-13. Evaluate and prioritize all feedback mentioned by MSAs and one clinician about staff-facing applications that has been previously reported. E.g., adding last four, too much of a delay, update Veteran information in VSE or VSE CS, memo field, reason for visit for walk-ins in VSE, better notifications in VSE CS and last four. 
-14. Evaluate and prioritize all new feedback mentioned by MSAs about staff-facing applications. E.g., no shows not working, multiple windows in VSE, walk-ins not working and sort within each clinic/group.
+- Send Veterans a confirmation of their submitted claim through SMS that includes their claim number and where to check the status of their claim (e.g., AccessVA travel claim portal). 
 
-**Providing more information to Veterans in CHIP/VeText responses**
-
-15. Explore adding appointment time to CHIP response when Veteran is too early for check-in. 
-16. Explore adding information related to being too late for check-in to CHIP response when Veteran is too late for check-in.
-17. Explore removing, "We're sorry," from CHIP response when a Veteran needs their health insurance reviewed to avoid possible Veteran concern or frustration. 
+- Review additional functionality that Veterans asked about with PCI product owners. E.g., estimated claim reimbursement dollar amount, health insurance confirmation, editing demographics, etc. 
 
 # Appendix
 
