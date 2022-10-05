@@ -1,5 +1,5 @@
 # IA Design for Debt Portal
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:** Debt Resolution team
 
