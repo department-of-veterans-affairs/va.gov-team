@@ -98,7 +98,11 @@ OKRs and KPIs TBD.
 
 ## Solution approach
 
-- We are initially engaging with the MHV team biweekly in order to define the notification preferences work before we go to VA Profile and VA Notify and fill out intake forms.
+**Phase one: Definition, scoping, and planning - Fall 2022**
+
+- We are engaging biweekly with the MHV team in order to define their notifications and notification preferences. This includes both existing notifications and notifications they are planning to add.
+- Once we have a clear definition of what they have and what they would like to add, we will regroup with the health apartment team (eg. Lauren, Coulton, etc) to talk about a roadmap for these notifications & preferences. We hypothesize that we'll move over and incorporate notifications and preferences as related features (eg. secure messaging) are integrated into VA.gov.
+- We will also talk to the health apartment about a migration strategy, and whether or not we think MHV should integrate with VA Profile, or we should simply retire notification preferences on MHV when we turn them on on VA.gov.
 
 ### Requirements
 
