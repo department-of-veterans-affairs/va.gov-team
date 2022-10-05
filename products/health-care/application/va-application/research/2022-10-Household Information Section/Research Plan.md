@@ -54,7 +54,7 @@ The outcome of this research will help guide what changes should be made to the 
 - The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete.
 - The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
 - The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
-(- In comparision to the existing pages, participants will prefer the new designs with content changes.)
+- In comparision to the existing pages, participants will prefer the new designs with content changes.
 
 
 
@@ -64,6 +64,8 @@ The outcome of this research will help guide what changes should be made to the 
 - Usability testing - appropriate for evaluative research
 
 The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form but provide context for the participant.
+
+We will test both flowa - new and existing - via 2 cohorts and using desktop prototypes. We will capture comments and task completion ratings. 
 
 
 ### Location
@@ -84,6 +86,7 @@ We will request partipants with critera that were not covered in the studies con
 
 
 
+
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
@@ -93,96 +96,93 @@ We will request partipants with critera that were not covered in the studies con
 
 ### Criteria Table 
 
-
-
-|                               | **Single Study** |
-| ----------------------------- | ---------------- |
-| **_SEX_**                     |                  |
-| Male                          | 6                |
-| Female                        | 4                |
-| \---                          | \---             |
-| **_RACE_**                    |                  |
-| Black                         | 3                |
-| White                         |                  |
-| Latinx                        | 1                |
-| Asian                         | 3                |
-| Native                        | 1                |
-| Pacific Islander              | 2                |
-| \---                          | \---             |
-| **_AGE_**                     |                  |
-| 18-24 yo                      | 1                |
-| 25-34 yo                      | 3                |
-| 35-44 yo                      | 3                |
-| 45-54 yo                      | 3                |
-| 55+ yo                        |                  |
-| \---                          | \---             |
-| **_LGBTQ+_**                  |                  |
-| Gay                           |                  |
-| Lesbian                       |                  |
-| Bisexual                      |                  |
-| Asexual                       |                  |
-| Transgender                   |                  |
-| Non-Binary                    |                  |
-| Gender-fluid                  |                  |
-| Queer                         |                  |
-| Two-Spirit                    |                  |
-| \---                          | \---             |
-| **_BENEFITS_**                |                  |
-| Education                     |                  |
-| Employment                    |                  |
-| Finances                      |                  |
-| Healthcare                    |                  |
-| Housing                       |                  |
-| Memorialization               |                  |
-| \---                          | \---             |
-| **_BRANCH_**                  |                  |
-| Marine Corps                  |                  |
-| Army                          |                  |
-| Navy                          |                  |
-| Air Force                     |                  |
-| Space Force                   |                  |
-| Coast Guard                   |                  |
-| Nat. Guard                    |                  |
-| Pub Hlth Corps                |                  |
-| \---                          | \---             |
-| **_EDUCATION_**               |                  |
-| Elementary                    |                  |
-| Intermediate                  |                  |
-| GED                           | 4                |
-| High School                   | 3                |
-| Some College                  | 3                |
-| Associate's                   |                  |
-| Bachelors                     |                  |
-| Masters                       |                  |
-| Professional                  |                  |
-| Doctoral                      |                  |
-| \---                          | \---             |
-| **_RESIDENCE_**               |                  |
-| Urban                         |                  |
-| Rural                         |                  |
-| \---                          | \---             |
-| **_HARDWARE_**                |                  |
-| Desktop                       |                  |
-| Laptop                        |                  |
-| Mobile                        |                  |
-| Tablet                        |                  |
-| \---                          | \---             |
-| **_WEBSITE_**                 |                  |
-| [VA.gov](http://VA.gov)       |                  |
-| MyHealtheVet                  |                  |
-| Ebenefits                     |                  |
-| \---                          | \---             |
-| **_LOGIN_**                   |                  |
-| DS Logon                      |                  |
-| MyHealtheVet                  |                  |
-| [ID.me](http://ID.me)         |                  |
-| [Login.gov](http://Login.gov) |                  |
-| \---                          | \---             |
-| **_ID PROOF_**                |                  |
-| IAL1                          |                  |
-| IAL2                          |                  |
-| IAL3                          |                  |
-
+|                               | **Cohort 1 (proposed flow)** | **Cohort 2 (existing flow)** |
+| ----------------------------- | ---------------------------- | ---------------------------- |
+| **_SEX_**                     |                              |                              |
+| Male                          | 6                            | 6                            |
+| Female                        | 4                            | 4                            |
+| \---                          | \---                         | \---                         |
+| **_RACE_**                    |                              |                              |
+| Black                         | 3                            | 3                            |
+| White                         | 1                            | 1                            |
+| Latinx                        | 1                            | 1                            |
+| Asian                         | 3                            | 3                            |
+| Native                        | 1                            | 1                            |
+| Pacific Islander              | 1                            | 1                            |
+| \---                          | \---                         | \---                         |
+| **_AGE_**                     |                              |                              |
+| 18-24 yo                      | 1                            | 1                            |
+| 25-34 yo                      | 3                            | 3                            |
+| 35-44 yo                      | 3                            | 3                            |
+| 45-54 yo                      | 3                            | 3                            |
+| 55+ yo                        |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_LGBTQ+_**                  |                              |                              |
+| Gay                           |                              |                              |
+| Lesbian                       |                              |                              |
+| Bisexual                      |                              |                              |
+| Asexual                       |                              |                              |
+| Transgender                   |                              |                              |
+| Non-Binary                    |                              |                              |
+| Gender-fluid                  |                              |                              |
+| Queer                         |                              |                              |
+| Two-Spirit                    |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_BENEFITS_**                |                              |                              |
+| Education                     |                              |                              |
+| Employment                    |                              |                              |
+| Finances                      |                              |                              |
+| Healthcare                    |                              |                              |
+| Housing                       |                              |                              |
+| Memorialization               |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_BRANCH_**                  |                              |                              |
+| Marine Corps                  |                              |                              |
+| Army                          |                              |                              |
+| Navy                          |                              |                              |
+| Air Force                     |                              |                              |
+| Space Force                   |                              |                              |
+| Coast Guard                   |                              |                              |
+| Nat. Guard                    |                              |                              |
+| Pub Hlth Corps                |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_EDUCATION_**               |                              |                              |
+| Elementary                    |                              |                              |
+| Intermediate                  |                              |                              |
+| GED                           | 4                            | 4                            |
+| High School                   | 3                            | 3                            |
+| Some College                  | 3                            | 3                            |
+| Associate's                   |                              |                              |
+| Bachelors                     |                              |                              |
+| Masters                       |                              |                              |
+| Professional                  |                              |                              |
+| Doctoral                      |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_RESIDENCE_**               |                              |                              |
+| Urban                         |                              |                              |
+| Rural                         |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_HARDWARE_**                |                              |                              |
+| Desktop                       |                              |                              |
+| Laptop                        |                              |                              |
+| Mobile                        |                              |                              |
+| Tablet                        |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_WEBSITE_**                 |                              |                              |
+| [VA.gov](http://VA.gov)       |                              |                              |
+| MyHealtheVet                  |                              |                              |
+| Ebenefits                     |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_LOGIN_**                   |                              |                              |
+| DS Logon                      |                              |                              |
+| MyHealtheVet                  |                              |                              |
+| [ID.me](http://ID.me)         |                              |                              |
+| [Login.gov](http://Login.gov) |                              |                              |
+| \---                          | \---                         | \---                         |
+| **_ID PROOF_**                |                              |                              |
+| IAL1                          |                              |                              |
+| IAL2                          |                              |                              |
+| IAL3                          |                              |                              |
 
 ---
 **Identity Assurance Levels**
