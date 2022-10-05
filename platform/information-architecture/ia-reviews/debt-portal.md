@@ -31,7 +31,7 @@
 
 ### Site map
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/e186169c-87ad-42f4-89f6-3922c04d65fc)
+![image](https://user-images.githubusercontent.com/20994159/194178642-fe8b455d-1b2c-4fe1-a050-4f6ba0fbe7d4.png)
 
 
 ### Pages, URLs and Breadcrumbs 
