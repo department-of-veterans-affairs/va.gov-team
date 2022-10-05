@@ -3,6 +3,7 @@
 ## 10/05/2022 (---FUTURE-------FUTURE--------FUTURE-----)
 
 #### Planned Releases (----TENTATIVE----)
+- Flip feature flag for LoROTA Security Updates & set to 10%
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
 
 #### UX Sprint Goals (----TENTATIVE----)
