@@ -24,7 +24,7 @@
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - Make case for pushing a check-in link & get buy-in so we can move forward 
 - [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
-    - Make case for removing the VA sign-in button & get buy-in so we can move forward
+    - Create prototypes & research plan 
 - [View All Upcoming Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42920)
     - Perform research to determine how we should move forward
 
