@@ -63,9 +63,9 @@ The outcome of this research will help guide what changes should be made to the 
 ### Task Analysis
 - Usability testing - appropriate for evaluative research
 
-The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form but provide context for the participant.
+The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form.
 
-We will test both flowa - new and existing - via 2 cohorts and using desktop prototypes. We will capture comments and task completion ratings. 
+We will test both flows - new and existing - via 2 cohorts and using desktop prototypes. We will capture qualitative comments and task completion ratings to a/b test. 
 
 
 ### Location
@@ -90,8 +90,10 @@ We will request partipants with critera that were not covered in the studies con
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |          10      |10       |             |          |               | 
+|      24       |          16      |16       |             |          |              | 
 
+
+Want to run two cohorts, each cohort having 
 
 
 ### Criteria Table 
