@@ -127,7 +127,7 @@
   - Destination: www.va.gov/manage-va-debt/summary/copay-balances/ 
   - Notes: Update language of the React component and page to clarify where the visitor will be taken after signing in - i.e. reference "debt" and "copay bills and overpayments"
 
-**Entry point location: [Disability hub](https://www.va.gov/disability/)
+**Entry point location:** [Disability hub](https://www.va.gov/disability/)
 - **ADD** link and teaser text to the manage debt static page
   - Destination: www.va.gov/manage-va-debt/
   - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "View disability payment history" 
@@ -137,7 +137,7 @@
   - Destination: www.va.gov/manage-va-debt/
   - Notes: Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "View disability payment history" 
 
-**Entry point location: [Education hub](https://www.va.gov/education/)
+**Entry point location:** [Education hub](https://www.va.gov/education/)
 - **ADD** link and teaser text to the manage debt static page
   - Destination: www.va.gov/manage-va-debt/
   - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Apply to restore your GI Bill benefits" 
@@ -147,7 +147,7 @@
   - Destination: www.va.gov/manage-va-debt/
   - Notes: Left nav label to be confirmed by Sitewide content. Add option to left nav under the "Manage benefits" spoke.  Place option as last item in section, under "Apply to restore your GI Bill benefits" 
 
-**Entry point location: [Pension hub](https://www.va.gov/pension/)
+**Entry point location:** [Pension hub](https://www.va.gov/pension/)
 - **ADD** link and teaser text to the manage debt static page
   - Destination: www.va.gov/manage-va-debt/
   - Notes: Link label and teaser text TBD by Sitewide content. Place option as last item in section, under "Request a decision review or manage a legacy appeal" 
