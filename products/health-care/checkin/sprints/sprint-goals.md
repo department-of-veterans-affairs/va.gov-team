@@ -36,6 +36,7 @@
     - Finish infrastructure to authenticate with the BTSSS API
     - Start infrasturcture to send a claim to the BTSSS API 
     - Update content based on Platform feedback (travel pages, day-of pages, & footer)   
+    - Look into how to persistence data and save the Veteran's place in the event of a page reload
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
     - Complete & release (John)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
