@@ -64,30 +64,35 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Baseline Compare Questions - 10 minutes
 (showing a/b screen capture images side by side for the participant to pick the one that is the most clear to them and state why)
 Areas to zoom in on for comparison:
-- Content on income page for gross, net and other
+- Financial onboarding page
+- Edit/Remove dependents screen w/ buttons
+- Content on annual income page for gross, net and other
 - 
 
-## First Task: Begin Application & Setting Context - 5 minutes
+## 1: Financial disclosure page - 5 minutes
 
-- For the context of this study, you are applying for health care and are going to include your spouse and two children. You and your spouse both work full time jobs but your family doesn't have any other sources of income. 
+For the context of this session, you are applying for health care and are going to include your spouse and two children. You and your spouse both work full time jobs but your family doesn't have any other sources of income. 
 
-- Step 2
+- Begin completing the household information section as you would for this scenario we just talked through. 
+- Talk through what you see and what the content means to you.
+
 
 ### Things to watch for:
+- [Does the participant understand the financial disclosure page?]
+- [Does the participant comment on the alert component?]
+- [Does the participant open the additional info to learn more or do they skip over that?]
+- [Do they make any comments about providing financial information in general?]
+- [Does the participant click yes or no on the financial disclosure page?] 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
 
 ## Second Task: Spouse Information - 5 minutes
 
-- For this question, you are married. Answer the question accordingly. 
-- Walk through, while talking aloud, the fields that appear and what you would enter. 
+- As a reminder for the context of this session, you are married. Answer the question accordingly. 
+- Please talk aloud about the content on this page and the options presented. 
 
 ### Things to watch for:
 
-- [Does the participant make any comments about the order?]
+- [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant ?]
 - [Etc]
 
