@@ -13,11 +13,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 10/05/2022
-- Fixed a bug for the Memorable Date Component that resulted in an endless validation loop
+- Fixed a bug for the Memorable Date Component that resulted in an endless validation loop; no changes to the front end
     - [Epic 47467](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
 
 ### 10/04/2022
-- As part of the security updates for Pre-Check-in & eCheck-in, a LoROTA entry is deleted after 3 failed identity verification attempts; no changes to front end
+- As part of the security updates for Pre-Check-in & eCheck-in, a LoROTA entry is deleted after 3 failed identity verification attempts; no changes to the front end
     - [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) 
 
 ### 9/29/2022
