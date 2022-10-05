@@ -8,13 +8,14 @@ assignees: ''
 ---
 
 ## What are building
-
+The artifact, process, etc. we are creating.
 
 ## Why are we pursuing this opportunity/problem
+Why is this important? How does this impact teams and people?
 
 ---
 ## Tasks
-- [ ] ..
+- [ ] Lorem
 
 ---
 ## Definition of Done
