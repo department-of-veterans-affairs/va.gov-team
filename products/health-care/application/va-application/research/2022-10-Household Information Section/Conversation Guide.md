@@ -50,14 +50,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 
-## Baseline Compare Questions - 5 minutes
-(showing a/b screen capture images side by side for the participant to pick the one that is the most clear to them and state why)
-Areas to zoom in on for comparison:
-- Financial onboarding page
-- Edit/Remove dependents screen w/ buttons
-- Content on annual income page for gross, net and other
-- 
-
 
 ## 1: Financial disclosure questions - 5 minutes
 
