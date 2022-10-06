@@ -31,7 +31,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -51,13 +51,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Setup - 5 minutes
 
-For the context of this session, you are applying for health care and are about to complete the questions around your household information. 
+For the context of this session, you are applying for health care and are about to complete the questions around your household information. You have already completed the first steps of the application putting in your information, your VA benefits and military service information.
 
 I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 - [Send link to prototype in Zoom chat]
 - [If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent]
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
+
 
 UX PIN PROTOTPYE LINKS HERE
 COHORT 1
@@ -112,42 +113,53 @@ COHORT 2
 
 
 
-## 4: Editing and removing a dependent - 10 minutes
+## Task 4: Editing and removing a dependent - 5 minutes
 
-- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix. How would you go about doing that?
-- Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent you already added?
+- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
+- Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
 
 ### Things to watch for in Cohort 1:
 - [Does the participant clearly see the buttons to edit and delete dependents?]
 - [Does the participant easily make their edit and continue on without getting hung up?]
 
+### Things to watch for in Cohort 2:
 
-## 5: Annual Income - 10 minutes
+
+## Task 5: Annual Income - 5 minutes
 
 - Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
 - (continue) Complete your spouse's income information.
+- In real life, how long would it take you to gather and make sure you were entering the correct information here?
 
-
-### Things to watch for:
+### Things to watch for in Cohort 1:
+- [Does the participant comment on the onboarding page or do they spend a lot of time here?]
 - [Does the participant interact with any of the additional information components for more context needed?]
 - [Does the participant notice xyz?]
-- [Etc]
 
-## 6: Deductible Information - 5 minutes
+### Things to watch for in Cohort 2:
+- [Does the participant seem to understand the definitions for the income types?]
+- [Does the participant comment on the dependent income fields at the bottom?]
+
+
+## Task 6: Deductible Information - 5 minutes
 
 - Complete the fields on this page. 
+- What is your impression of this page and why these questions are being asked? 
 
-### Things to watch for:
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
+### Things to watch for in Cohort 1:
+- [Does the participant understand this question or are they confused?]
+- [Does the participant notice and call attention to the alert component?]
+
+### Things to watch for in Cohort 2:
+- [Does the participant seem overwhelmed by the content on this page?]
+- [Does the participant interact with the additional info component to learn more?]
 
 
 ## Post-Task Interview - 3 minutes
 
-- What are your thoughts on the order of the questions as they were presented in the prototype?
-- Did you feel there was not enough explanation given for the questions, too much or just right?
+- What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
+- Did you feel there was not enough explanation given for the questions, too much or was just about right?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
