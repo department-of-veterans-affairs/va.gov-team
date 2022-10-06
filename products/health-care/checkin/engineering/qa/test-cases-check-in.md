@@ -1,8 +1,7 @@
 <!-- markdownlint-disable no-duplicate-heading -->
 
-# Test Cases for Check-in Pre-MVP
-
-- [Test Cases for Check-in Pre-MVP](#test-cases-for-check-in-pre-mvp)
+# Test Cases for Check-in 
+- [Test Cases for Check-in](#test-cases-for-check-in-pre-mvp)
   - [Scope](#scope)
   - [Resources](#resources)
   - [How to access in Staging](#how-to-access-in-staging)
@@ -63,25 +62,20 @@
 
 This document is for is QA testing of the va.gov portion of the `Check-in` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
 
-## Resources
+## Wireframes 
+#### Production Wireframes  
+- [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
+- [In person Check-in](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C) in Sketch Cloud
+- [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
 
-- [Mock Ups for Pre-MVP - Test Case A & B](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
-- [Error State Mockup](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/MynDRab)
+#### Wireframes for Travel Remimbursement MVP
+- [Travel Reimbursement MVP](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/ecc65d23-3ae2-47cb-9a52-8ab4fa9dab29/commits/eab82af147bca0e28ee00e3734ee9290f1b77efb/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=90b54a54-d2ee-4fae-ad07-73114aa02714&collectionLayerId=6311c53e-ab0c-484a-9e09-8ddcd43532a1&mode=design)
 
 ## How to access in Staging
-
 - Our experience is un-authenticated
 - The URL for our experience is unique per appointment
 - The sample URL: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKEN-HERE>
-
-## Assumptions
-
-- We have a way to generate links with valid tokens, with valid data, with LoROTA in Staging.
-
-## To-Dos
-
-- [ ] Validate Assumptions
-- [ ] Create cypress tests for each test cases
+- [Instructions for creating an appointment and generating a link to eCheck-in and Pre-Check-in in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 
 ## Test Case A: Happy Path - Successful Check-in
 
@@ -93,16 +87,19 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a valid LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKEN-HERE>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
 - The link Loads
-- The user selects "No" to the `Update Information` question
-- User selects the `Check-in now` button
-- User should be on the confirmation screen and see appropriate messaging that matches the mockups
+- User verifies their identity
+- User selects "Yes" to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User selects the `Check-in now` button for their appointment
+- User should be on the "You're checked in" screen and see appropriate messaging that matches the mockups
 
 ### Assert (Expected Outcome)
 
@@ -119,20 +116,23 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKE
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a valid LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKEN-HERE>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
 - The link Loads
-- The user selects "`Yes` to the `Update Information` question
-- User should be on the `See Staff` page
+- User verifies their identity
+- User selects "No" to any of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User should be on the `Check in with a staff member` page
 
 ### Assert (Expected Outcome)
 
 - No errors are thrown
-- The user sees a `See Staff` screen with appropriate messaging that matches the mockups
+- The user sees a `Check in with a staff member` screen with appropriate messaging that matches the mockups
 
 ## Test Case C: Edge Case - Premature Check-in
 
@@ -148,13 +148,12 @@ This case may not be different than other token-based edge cases, but calling th
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a LoROTA token for appt >30 in the future
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=TOKEN-HERE>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
 - The link Loads
+- User verifies their identity
 - User should see an error page
 
 ### Assert (Expected Outcome)
@@ -177,9 +176,7 @@ This case may not be different than other token-based edge cases, but calling th
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with an expired LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TOKEN-HERE>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
@@ -205,9 +202,7 @@ This case may not be different than other token-based edge cases, but calling th
   
 ### Arrange (Data needed)
 
-- A link to the check in-app without any LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
@@ -233,9 +228,7 @@ This case may not be different than other token-based edge cases, but calling th
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a malformed LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=NOT_A_VALID_TOKEN>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
@@ -261,13 +254,12 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Arrange (Data needed)
 
-- A link to the check in-app with a LoROTA token that has already been used to check-in.
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TOKEN>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
 - The link Loads
+- User verifies their identity
 - The user sees an appropriate message
 
 ### Assert (Expected Outcome)
@@ -286,9 +278,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TOKEN>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
@@ -319,9 +309,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
   
 ### Arrange (Data needed)
 
-- A link to the check in-app with a LoROTA token
-
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TOKEN>
+- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
 
