@@ -45,13 +45,13 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- Do you frequently use VA.gov or regulary sign in to your account?
+- Do you frequently use VA.gov and regulary sign in to your account? How often would you 
 - Have you applied for health care recently and if so did you use the online form? (screener questions?)
 - Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 ## Setup - 5 minutes
 
-For the context of this session, you are applying for health care through the online apllication.
+For the context of this session, you are applying for health care using the online apllication found on VA.gov.
 
 I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
@@ -62,13 +62,15 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 UX PIN PROTOTPYE LINKS HERE
 COHORT 1
-COHORT 2 : 
 
 
 ## Task 0: Leading up to Household Information section
 
-- 
+- You are on a page Apply for VA health care, talk through what is on this page and start applying for health care.
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) how prepared does this page make you feel about the application overall?  
 
+
+- Complete the questions asking about your information. Reminder this is a staging enviro
 
 ## Task 1: Financial disclosure question - 5 minutes
 
@@ -80,6 +82,8 @@ COHORT 2 :
 - [Does the participant comment on the alert component?]
 - [Does the participant open the additional info on qualifying eligibility factors?]
 - [Does the participant click yes or no on the financial disclosure page and state why?] 
+
+
 
 ### Things to watch for Cohort 2:
 - [Does the participant read through this page quickly or take pause and make any comments?]
