@@ -17,7 +17,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
 - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
@@ -51,7 +51,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Setup - 5 minutes
 
-For the context of this session, you are applying for health care and are about to complete the questions around your household information. You have already completed the first steps of the application putting in your information, your VA benefits and military service information.
+For the context of this session, you are applying for health care through the online apllication.
 
 I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
@@ -62,7 +62,12 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 UX PIN PROTOTPYE LINKS HERE
 COHORT 1
-COHORT 2
+COHORT 2 : 
+
+
+## Task 0: Leading up to Household Information section
+
+- 
 
 
 ## Task 1: Financial disclosure question - 5 minutes
