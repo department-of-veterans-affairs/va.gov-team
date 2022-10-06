@@ -95,7 +95,19 @@ You have no overpayment debts or copay bills.
 
 **Show**
 
-- If a user has no copays or debts in the debt portal or all of their copays and debts equal 0.
+- If a user has no overpayment debts in the debt portal or all of their overpayment debts equal 0.
+
+**Do NOT show**
+
+- If a user has overpayment debts in the debt portal that do not equal 0.
+
+**Positioning**
+
+- This link shows on the righthand side on desktop if the user has a copay card or an overpayment debt card to show in the section.
+- This link appears on the lefthand side on desktop if the user does not have any copays or debt cards to show. This includes if there is a copay or debt API error *and* no copay or debt card to show.
+- If there is an error in the section *and* the user does have a copay or debt card to show, this link appears on the righthand side on desktop.
+
+### Content
 
 [Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
 
@@ -109,7 +121,7 @@ You have no overpayment debts or copay bills.
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list if the debt API fails or the user doesn't have debt.
-- If the debt API fails but the user has an outstanding copay, show an error and show a card for copays. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
-- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
-- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
+- If the debt API fails but the user has an outstanding copay, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
+- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
+- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. In this case, the secondary link should appear on the lefthand side on desktop, below the error. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
 
