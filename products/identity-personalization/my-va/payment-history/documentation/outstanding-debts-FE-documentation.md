@@ -32,7 +32,7 @@ Last updated [date]
 
 - Number of overpayment debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
-- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
+- Last updated date should be the most recent date that any overpayment debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
 
 ---
 
