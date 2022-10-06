@@ -58,7 +58,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
 - [ ] Review the [Web Brand Consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf) documentation
 - [ ] Review the [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) documentation on Platform Website
-- [ ] Review the [Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
 - [ ] Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
 
 
