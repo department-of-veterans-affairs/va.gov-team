@@ -153,7 +153,7 @@ For cohort 3, seeking a response of one or more answers "a change in..." questio
 **Secondary criteria (nice-to-haves)**
 
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-- Geographic distribution: at least 4 from each the east coast, the midwest, the south, and the west coast
+- Geographic distribution: at least 4 from each of the east coast, the midwest, the south, and the west coast
 - Age distribution: at least 4 from each of the following age groups: 25-40, 40-55, 55-64, 65+
 - At least 6 people of color (especially Native)
 - At least 5 in a rural area
@@ -183,7 +183,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Florence McCafferty, florence.mccafferty@agile6.com, (315) 751-2796	
+- Moderator: Cindy Merrill, cindy.merrill@adhocteam.us	
 - Research guide writing and task development: Florence McCafferty	
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Wes Rowe, wesley.rowe@agile6.com	
