@@ -24,7 +24,7 @@ Use Cases are among the first development artifacts to be documented, before the
 
 </details>
 
-For more on Use Cases, see [this doc][ptems-qa-use-cases].
+For more on Use Cases, see [this doc][shared-support-qa-use-cases].
 
 ## Test Case best practices
 
@@ -68,4 +68,4 @@ Copy decks, design screens, and other references in Expected Results should be p
 
 
 [tr-readme]: testrail/README.md
-[ptems-qa-use-cases]: ./ptems-qa-use-cases.md
+[shared-support-qa-use-cases]: ./ptems-qa-use-cases.md
