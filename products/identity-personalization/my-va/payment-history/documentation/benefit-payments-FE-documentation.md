@@ -50,7 +50,7 @@ Check mailed on [date]
 
 #### **Content**
 
-You don't have any recent payments to show.
+You have no recent payments to show.
 
 ---
 
