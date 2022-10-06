@@ -35,20 +35,20 @@ Existing 1990e form lives at an old URL, but will not be modified as part of thi
 The 5490 form URL represented in the site map is the intended modernized URL, changing that URL is not part of this workstream.
 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1e6445c8-408f-4f1a-85be-7a924a9aedbe)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/ee38194e-32e4-46f2-9269-0004f158295d)
 
 
 
 
 ### URLs and breadcrumbs
 
-**Page: Static Transferred benefits page - NEW**
+**1): Transferred benefits static page - NEW**
 - **URL:** `/education/survivor-dependent-benefits/transferred-benefits/`
 - **Breadcrumb:** Home > Education and training  > VA education benefits for survivors and dependents > [H1 of page] 
 - **Notes:**
 
 
-**Page: Auth 1990e form - NEW**
+**2): Auth 1990e form - NEW**
 - **URL:** `/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/`  
 - **Breadcrumb:** Home > Education and training  > VA education benefits for survivors and dependents > [H1 of form] 
 - **Notes:** The canonical URL above is what will be used for entry links to the form.  The form should resolve to the appropriate first page of the form flow (in this case, it would resolve to /introduction/), this ensures that the referring links are always correct and working regardless if the first page of the form changes.
@@ -65,6 +65,8 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
   - Application Review - `/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/review/` 
   - Application Confirmation - `/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/confirmation/` 
 
+**3) R&S page - DEA and Fry comparison - NEW**
+- URL and entry points determined by Sitewide Content team
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities. This is not intended to capture all entry points or referring links, just those critical to the experience*
