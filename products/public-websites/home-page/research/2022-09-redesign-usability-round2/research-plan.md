@@ -294,7 +294,7 @@ Oct 27, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill **(note that I'll be unavailable Sept 30-Oct 5)**
+- Research guide writing and task development:	Cindy Merrill **(FYI: I'll be unavailable in the afternoon of Fri Oct 7)**
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
 - Participants for pilot test:	Angela Fowler and TBD
