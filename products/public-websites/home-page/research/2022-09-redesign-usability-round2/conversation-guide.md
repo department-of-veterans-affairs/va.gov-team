@@ -196,14 +196,17 @@ Pretend that you have hearing loss from your time in the military, and you think
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. What worked *well* for you?
-1. What was *unclear or didn't work well* for you?
-1. What would you like to *change or add*?
-1. *(IF haven't already discussed)* Can you look under the Search box and tell me about the links you see under "Other search tools"? 
+1. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page / ___________)*
+     1. Have you *ever* done this before?
+     1. If so, how and when?
+3. What worked *well* for you?
+4. What was *unclear or didn't work well* for you?
+5. What would you like to *change or add*?
+6. *(IF haven't already discussed)* Can you look under the Search box and tell me about the links you see under "Other search tools"? 
      1. What do you think they are, and when might you use them?
      1. *RECORD comments about Find VA location, VA form, benefit resources and support*
-4. *(IF haven't already discussed)* Do you have an account that you use to sign in on VA.gov? *(Yes / No / ____________)*
-5. Is there anything else that we haven't talked about that you think I should know? 
+7. *(IF haven't already discussed)* Do you have an account that you use to sign in on VA.gov? *(Yes / No / ____________)*
+8. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
