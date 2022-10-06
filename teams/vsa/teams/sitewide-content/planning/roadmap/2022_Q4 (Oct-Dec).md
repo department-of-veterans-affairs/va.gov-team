@@ -62,13 +62,13 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Finalize accessibility work to ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review | In progress | Reduce defects (508, plain language etc) produced by editors in the CMS |
 
-### Style guide/standards/training work
+### Governance, standards, and training work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
 | Add or expand at least 1 issue in content style guide | OCTO lead capacity  | Page published | Complete | Reduce defects (508, plain language etc) produced by editors in the CMS |
 | Publish Drupal knowledge base article with Danielle's plain language training session video | OCTO lead capacity | Page published | In progress | Reduce defects (508, plain language etc) produced by editors in the CMS | 
 
-#### Stretch style guide/standards/training work
+#### Stretch governance, standards, and training work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
 | Reusable COPE content: Create structured content model for benefit about, eligibility, and how to apply information (OCTO) | Danielle's capacity; PW and CMS team capacity; any technical blockers | In progress | Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content |
