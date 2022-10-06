@@ -62,9 +62,7 @@ The outcome of this research will help guide what changes should be made to the 
 ## Methods
 
 ### Task Analysis
-- Usability testing - appropriate for evaluative research
-
-The usability test for task analysis will be on a desktop prototype that is built to only include the household information section and will skip over other sections of the form.
+Moderated usability testing for task analysis will be on a desktop prototype (conducted in staging
 
 We will test both flows - new and existing - via 2 cohorts and using desktop prototypes. We will capture qualitative comments and task usability ratings to a/b test. 
 
