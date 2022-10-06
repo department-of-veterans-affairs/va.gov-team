@@ -1,6 +1,6 @@
 # Next steps for My VA after the audit updates
 
-The goal of the [My VA audit updates]() are to bring greater consistency to the page, and overall simplify the number of states for a better user experience and easier management. 
+The goal of the [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme) are to bring greater consistency to the page, and overall simplify the number of states for a better user experience and easier management. 
 
 We're also adding a few education links, which means that after these updates launch, My VA will largely cater to the top interactions on VA.gov, and we may not need to add a lot more to the page besides "records" links (which we see in analytics and have heard in research is expected functionality).
 
