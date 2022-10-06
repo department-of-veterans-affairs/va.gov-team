@@ -249,6 +249,8 @@ Want to run two cohorts, each cohort having 8 completed sessions.
 ### Screener
 
 - Do you have children (biological or adopted)? [answer should be yes to qualify]
+- Do you have children (biological or adopted)? [answer should be yes to qualify]
+
 
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
