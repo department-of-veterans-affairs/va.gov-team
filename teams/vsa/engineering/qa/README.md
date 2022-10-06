@@ -1,13 +1,13 @@
-# PTEMS Quality Assurance
+# Shared-Support Quality Assurance
 [formerly VSA QA]
 
 Point of contact: Tze-chiu Lei, Sr. Software Engineer (QA) [Github: **@tlei123**] 
 
 GitHub label: **ptems-qa**
 
-This is the documentation home/hub of the PTEMS Quality Assurance (PTEMS-QA) processes, best-practices, tools, and any other relevant information that would help PTEMS VA.gov Applications teams with QA/testing.
+This is the documentation home/hub of the Shared-Support Quality Assurance (PTEMS-QA) processes, best-practices, tools, and any other relevant information that would help PTEMS VA.gov Applications teams with QA/testing.
 
-NOTE: This documentation here is PTEMS-QA's adaptation & supplement of [Platform's Quality Assurance documentation][platform-qa-docs].  As such, it does not encompass everything covered there [see [PTEMS-QA Tasks & Capacity](ptems-qa-tasks-capacity.md)]
+NOTE: This documentation here is PTEMS-QA's adaptation & supplement of [Platform's Quality Assurance documentation][platform-qa-docs].  As such, it does not encompass everything covered there [see [Shared-Suppoert-QA Tasks & Capacity](ptems-qa-tasks-capacity.md)]
 
 Content here will grow over time.  Below are links to our currently-available docs/tools/info:
 
