@@ -47,7 +47,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Do you frequently use VA.gov and regulary sign in to your account? How often would you 
 - Have you applied for health care recently and if so did you use the online form? (screener questions?)
-- Do you have multiple dependents (screen question?) and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
+- Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 ## Setup - 5 minutes
 
@@ -65,20 +65,29 @@ UX PIN PROTOTPYE LINKS HERE
 
 ## Task 0: Leading up to Household Information section
 
-- You are on a page Apply for VA health care, talk through what is on this page and start applying for health care.
-- On a scale of 1-5 (1 being non very poorly and 5 being very well) how prepared does this page make you feel about the application overall?  
+- You are on a page Apply for VA health care, talk through what is on this page and as you are getting ready to apply for health care.
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) how prepared does this page make you feel about the application you are about to begin?  
+- Can you tell us more about what you would have to do in preparation for filling out this application?
 
 
-- Continue on through the questions asking about your information and please talk aloud about your impression of each page.
+- Continue on through the questions asking about your information and please talk aloud about your impression of what is on each page.
+- [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
+
+
+### Things to watch for:
+- [If participant comments]
+- [New American Indian question page]
+- [New gender identity question page]
+
 
 
 
 ## Task 1: Financial disclosure question - 5 minutes
 
-- Begin completing this section of the health care application. 
+- Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
 
-### Things to watch for Cohort 1:
+### Things to watch for:
 - [Does the participant understand the financial disclosure page?]
 - [Does the participant comment on the alert component?]
 - [Does the participant open the additional info on qualifying eligibility factors?]
@@ -86,24 +95,17 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-### Things to watch for Cohort 2:
-- [Does the participant read through this page quickly or take pause and make any comments?]
-- [Does the particpant notice the alert component?
-
-
 ## Task 2: Marital status and spouse information - 5 minutes
 
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
 - (Prototypes will only allow for "yes" to be selected, moving to spouse information page) Continue completing all the questions about your spouse and please remember to think aloud.  
 
-### Things to watch for in Cohort 1:
+### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
 - [Does the participant comment on the second spouse page with the two lived with/address questions?
 
-### This to watch for in Cohort 2:
--[Does the participant understand the lived with/address questions easily?]
--[Does the participant make any comment about the conditional questions on this page when more fields appear?]
+
 
 
 ## Task 3: Adding a dependents - 10 minutes
@@ -112,15 +114,10 @@ UX PIN PROTOTPYE LINKS HERE
 - (When selected yes) Complete the questions about your first dependent.
 - For this scenario, you have multiple children. How would you add them to this application?
 
-### Things to watch for in Cohort 1:
+### Things to watch for:
 - [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
 - [Does the participant struggle with adding a second dependent?]
 - [Does the participant pause or are they confused by any of the dependent information questions?]
-
-### Things to watch for in Cohort 2:
-- [Does the participant need additional information of who a dependent is or do they know?]
-- [Does the participant pause or are they confused by any of the dependent information questions?]
-
 
 
 ## Task 4: Editing and removing a dependent - 5 minutes
@@ -128,11 +125,10 @@ UX PIN PROTOTPYE LINKS HERE
 - You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
 - Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
 
-### Things to watch for in Cohort 1:
+### Things to watch for:
 - [Does the participant clearly see the buttons to edit and delete dependents?]
 - [Does the participant easily make their edit and continue on without getting hung up?]
 
-### Things to watch for in Cohort 2:
 
 
 ## Task 5: Annual Income - 5 minutes
@@ -141,29 +137,20 @@ UX PIN PROTOTPYE LINKS HERE
 - (continue) Complete your spouse's income information.
 - In real life, how long would it take you to gather and make sure you were entering the correct information here?
 
-### Things to watch for in Cohort 1:
+### Things to watch for:
 - [Does the participant comment on the onboarding page or do they spend a lot of time here?]
 - [Does the participant interact with any of the additional information components for more context needed?]
 - [Does the participant notice xyz?]
-
-### Things to watch for in Cohort 2:
-- [Does the participant seem to understand the definitions for the income types?]
-- [Does the participant comment on the dependent income fields at the bottom?]
-
 
 ## Task 6: Deductible Information - 5 minutes
 
 - Complete the fields on this page. 
 - What is your impression of this page and why these questions are being asked? 
+-[Clicking continue will end the prototype testing - will not continue with completing the form to end]
 
-
-### Things to watch for in Cohort 1:
+### Things to watch for:
 - [Does the participant understand this question or are they confused?]
 - [Does the participant notice and call attention to the alert component?]
-
-### Things to watch for in Cohort 2:
-- [Does the participant seem overwhelmed by the content on this page?]
-- [Does the participant interact with the additional info component to learn more?]
 
 
 ## Post-Task Interview - 3 minutes
