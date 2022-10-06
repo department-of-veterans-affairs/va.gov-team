@@ -115,16 +115,20 @@ I would like you to share your screen with me--a web browser please. You might w
 ### IF/WHEN participant wants to sign in before doing a task...
 - How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header /* 
   - *"Sign in or create an account" button on a content page > Sign in or Create account link / My VA button )*
-- *(If not currently on the home page*) Could you please go back to the original page you were on? How might you do that from here?
+- *(If "Create account" button)...* 
+  - What are your impressions of what you see? 
+  - Is this what you expected? *(RECORD: Yes / No / Confusion / __________)*
+  - What would you do next? *(RECORD: colored sign-in button / Create an account link below / __________)*
+- *(If not currently on the home page)* Could you please go back to the original page you were on? How might you do that from here?
 - Do you have an account? *(Yes / No / ____________)*
 - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
 - If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
 ### Task 1: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
 
-- Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
+Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *Create account / Search / Other search tools / Popular on VA.gov > VA health care / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -140,7 +144,7 @@ Suppose you need to show that you're a Veteran for a special discount at a store
 ### Task 3: [Find a mental health counselor or therapist]
 Pretend that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling.  How would you do that?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *VCL (success) / Create account / Search / Other search tools / Popular on VA.gov > Mental health help / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -162,9 +166,9 @@ How could you learn what else is new--see if there are other stories from the VA
 - Could you please go back to the original web page you opened?
 
 ### Task 5: [Review or update your dependents] 
-- Say that you just got married. How would you tell the VA about your new spouse?
+Say that you just got married. How would you tell the VA about your new spouse?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *Create account / Search / Other search tools / Popular on VA.gov > Dependents on your disability benefits / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -172,7 +176,7 @@ How could you learn what else is new--see if there are other stories from the VA
 ### Task 6: [Check the current disability compensation rates] 
 You'd like to see VA's current disability compensation rates. How would you find these?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -180,7 +184,7 @@ You'd like to see VA's current disability compensation rates. How would you find
 ### Task 7: [Compare VA education benefits and rates by school]
 There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *Create account / Search / Other search tools / Popular on VA.gov > Educ benefits / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -188,7 +192,7 @@ There are several universities in your area, and you want to figure out which on
 ### Task 8: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
 Pretend that you have hearing loss from your time in the military, and you think it's gotten worse over the last year. You want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
+    - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 - Could you please go back to the original web page you opened?
@@ -196,13 +200,15 @@ Pretend that you have hearing loss from your time in the military, and you think
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page / ___________)*
+1. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
      1. Have you *ever* done this before?
      1. If so, how and when?
-     2. *(Want to see if screen reader users can/will use the Medallia feedback button)*
+     2. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
+     3. *(Want to see if screen reader users can/will use the Medallia feedback button)*
 3. What worked *well* for you?
 4. What was *unclear or didn't work well* for you?
 5. What would you like to *change or add*?
+1. *(IF entered email address for VA updates)* What would you expect to happen? 
 6. *(IF haven't already discussed)* Can you look under the Search box and tell me about the links you see under "Other search tools"? 
      1. What do you think they are, and when might you use them?
      1. *RECORD comments about Find VA location, VA form, benefit resources and support*
@@ -229,5 +235,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on 
+- Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
 - Reviewed and approved by Shane Strassberg on 
