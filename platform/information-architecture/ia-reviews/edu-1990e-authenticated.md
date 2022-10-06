@@ -35,8 +35,8 @@ Existing 1990e form lives at an old URL, but will not be modified as part of thi
 The 5490 form URL represented in the site map is the intended modernized URL, changing that URL is not part of this workstream.
 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/ee38194e-32e4-46f2-9269-0004f158295d)
 
+![image](https://user-images.githubusercontent.com/20994159/194423334-5a6ec7eb-99e2-466e-970d-dd92581bbb05.png)
 
 
 
