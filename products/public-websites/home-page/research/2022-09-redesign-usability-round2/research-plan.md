@@ -68,7 +68,7 @@ In this research, we are primarily interested in the following areas of the home
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
 1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
 1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-1. Participants will be interested in the two promos and know how to learn more about them.
+1. Participants understand that the top promo is about benefits or services for Veterans.
 1. Participants understand that the bottom promo is news and know how to get more news stories.
 
 ## Method	
@@ -302,6 +302,6 @@ Please list the people who will be serving in each role.
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us).* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on TBD
+- Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
 - Reviewed and approved by Shane Strassberg on TBD
 
