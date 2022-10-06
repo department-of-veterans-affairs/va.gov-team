@@ -74,7 +74,7 @@ In this research, we are primarily interested in the following areas of the home
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **tasks as wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server, including some that didn't go well in the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md).
 
-**I would like Zoom transcripts please.** And I would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them.
+**I would like Zoom transcripts please.** And I would like to request that **Perigean *calls* each participant** to remind them about the session, in addition to emailing them.
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
