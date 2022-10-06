@@ -199,6 +199,7 @@ Pretend that you have hearing loss from your time in the military, and you think
 1. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page / ___________)*
      1. Have you *ever* done this before?
      1. If so, how and when?
+     2. *(Want to see if screen reader users can/will use the Medallia feedback button)*
 3. What worked *well* for you?
 4. What was *unclear or didn't work well* for you?
 5. What would you like to *change or add*?
