@@ -24,7 +24,7 @@ Documented by DGIB team: https://accenturefederal.invisionapp.com/freehand/Midpo
 
 ### Page flow
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6df3f2c4-8e4e-472d-892a-6dd8ac7071fa)
+![image](https://user-images.githubusercontent.com/20994159/194425201-eb44a765-df62-4b22-a43b-707db4c76ff9.png)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
@@ -72,27 +72,27 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities. This is not intended to capture all entry points or referring links, just those critical to the experience*
 
 **Entry point location:** [Survivor and dependent benefits page](https://www.va.gov/education/survivor-dependent-benefits/)
-- **ADD** Lnk to new static page about transferred benefits for dependents
+- **ADD** Add link to new static page about transferred benefits for dependents
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
-  - **Notes:**  Supporting content about using transferred benefits needs to be added to this page and treated as another benefit option.  The content will include this link to go to the static page about transferred benefits for dependents.
+  - **Notes:**  Supporting content about using transferred benefits needs to be added to this page and treated as another benefit option.  
 
 **Entry point location:** [Transferred benefits for family members page](www.va.gov/education/survivor-dependent-benefits/transferred-benefits/)
-- **ADD** CTA to apply for transferred benefits
+- **ADD** Add CTA to apply for transferred benefits
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/
   - **Notes:**  This is the CTA to go to the form and apply to use the transferred benefits. 
 
 **Entry point location:** Education left nav
-- **ADD** Option for "Transferred education benefits for family members"
+- **ADD** Add option for "Transferred education benefits for family members"
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
   - **Notes:** Add option to left nav as child of  "Survivor and dependent benefits".  See below for ordering of nav.
-- **ADD** Option for "Apply to use transferred benefits
+- **ADD** Add option for "Apply to use transferred benefits"
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/
   - **Notes:**  Add option to left nav as child of  "Survivor and dependent benefits".  See below for ordering of nav.
-- **ADD** Option to "Apply for dependent benefits"
+- **ADD** Add option to "Apply for dependent benefits"
   - **Destination:** www.va.gov/education/apply-for-education-benefits/application/5490/
   - **Notes:** Add option to left nav as a child of "Survivor and dependent benefits".  See below for ordering of nav.
 - **UPDATE** Change order of left nav options
-  - **Notes:** Order "Survivor and dependent benefits" section as follows
+  - **Notes:** Order "Survivor and dependent benefits" section as follows:
     - Survivor and dependents benefits
       - Dependents education assistance (DEA)
       - Fry Scholarship
@@ -101,17 +101,17 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
       - Apply for transferred benefits
 
 **Entry point location:** Find your education form wizard
-- **UPDATE** the wizard to point to the introduction page on the new auth version of the form
+- **UPDATE** Update the wizard to point to the introduction page on the new auth version of the form
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/
   - **Notes:**  
   - This wizard exists on 2 pages: [How to apply page](www.va.gov/education/how-to-apply/) and  [Eligibility page](https://www.va.gov/education/eligibility/)
   - Direct to this page if the following selections are made:  Apply for a new benefit > **Not** claiming a benefit based on own service > Sponsor **is not** deceased, MIA, POW, or 100% disabled > Sponser **has** transferred benefits
 
 **Entry point location:** [Transfer Post-9/11 GI Bill benefits page](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)
-- **ADD** content and link to the transferred benefits static page 
-  - **Destination:** 
-  - **Notes:**  
-- **UPDATE** link to the 1990e to go to the introduction page of the new auth version of the form 
+- **ADD** Add content and link to the transferred benefits static page 
+  - **Destination:** www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
+  - **Notes:**  Content and link label to be determined by sitewide content
+- **UPDATE** Update the link to the 1990e to go to the introduction page of the new auth version of the form 
   - **Destination:** www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/ 
   - **Notes:** Under section "How do I transfer the benefit?", update the link to "Apply online now" to go to new 1990e instruction page. This link text should also be updated to be more specific to the action of applying to use a transferred benefit
 
@@ -125,7 +125,4 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
 
 ## <a name="notes"></a>Meeting notes and background <br>
 
-- Should all entry points should be pointed at the new 1990e form, and from there if they choose to continue without signing in, they will be sent to the "old" unauth version of the 1990e?
-- Discuss hierarchy of Survivors and dependents benefits page - ensure transferred benefits is given equivalent positioning.
-- Discuss left nav revisions
 
