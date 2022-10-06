@@ -97,7 +97,7 @@ Only show a card for the most recent payment.
 ### Error State 1: The Payment History API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the error message.
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
 - This should appear under the 'Benefit payments' header.
 
