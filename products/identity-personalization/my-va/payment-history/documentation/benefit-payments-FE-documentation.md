@@ -63,6 +63,10 @@ Use font awesome icon `dollar` for icon in link list
 **Show**
 - For all LOA3 users.
 
+**Positioning**
+- If a user has a payment card to show, this link appears on the righthand side on desktop and is always first in the link list.
+- If a user does not have a payment card to show, this link shows on the lefthand side on desktop and is always first in the link list.
+
 #### Content
 
 [Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)
@@ -75,11 +79,17 @@ Use font awesome icon `dollar` for icon in link list
 
 **Show in link list**
 - If a user has not had a payment in the last 60 days but has in the past.
-![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153689-a6c0bb5e-357d-4a44-8c33-eb2cfdf54fde.png)
+
+![Screen Shot 2022-10-06 at 12 33 00 PM](https://user-images.githubusercontent.com/97965610/194369089-2d455877-4baa-4cfc-9a85-f2a22e8781e7.png)
 
 **Do NOT show in link list**
 - If a user has never received a payment.
-![Screen Shot 2022-09-22 at 2 21 18 PM](https://user-images.githubusercontent.com/97965610/191822590-048107ed-b5e6-431f-a11c-f8bf297b93cf.png)
+
+![Screen Shot 2022-10-06 at 12 33 51 PM](https://user-images.githubusercontent.com/97965610/194369122-290e056e-572d-423a-a9e2-37f7dd1cef39.png)
+
+**Positioning**
+- If a user has a payment card to show, this link appears on the righthand side on desktop.
+- If a user does not have a payment card to show but has received payments in the past, this link shows on the lefthand side on desktop, below the "Manage your direct deposit" link.
 
 #### Content
 [View your payment history](https://www.va.gov/va-payment-history/payments/)
