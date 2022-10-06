@@ -125,4 +125,7 @@ The 5490 form URL represented in the site map is the intended modernized URL, ch
 
 ## <a name="notes"></a>Meeting notes and background <br>
 
-Should all entry points should be pointed at the new 1990e form, and from there if they choose to continue without signing in, they will be sent to the "old" unauth version of the 1990e?
+- Should all entry points should be pointed at the new 1990e form, and from there if they choose to continue without signing in, they will be sent to the "old" unauth version of the 1990e?
+- Discuss hierarchy of Survivors and dependents benefits page - ensure transferred benefits is given equivalent positioning.
+- Discuss left nav revisions
+
