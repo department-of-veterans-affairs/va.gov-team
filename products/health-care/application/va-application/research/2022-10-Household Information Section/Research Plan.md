@@ -31,11 +31,14 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 - Taking care of myself
 
 ## Research Goals	
-**1. Optimize the order and flow of questions within the household information section**
 
-**2. Determine if the questions and contextual information is clear and actionable**
+**1. Determine if the questions and additional content information on the page is clear and actionable**
+**2. Optimize the order and flow of questions within the household information section**
 
-**3. Establish a qualitative baseline to aid in measuring the usability impacts of changes made**
+
+Support key results from [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
+- Key Result #3: Veterans feel prepared when they begin the Household section
+- Key Result #4: Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
 
 ### Outcome
@@ -43,12 +46,13 @@ The outcome of this research will help guide what changes should be made to the 
 
 
 ### Research questions
+
+
 - Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
 - What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 
 - Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
 - What struggles do participants encounter with the process of adding and editing multiple dependents?
-- How do the proposed design and content changes compare to the existing pages in the opinion of the Veteran/applicant?
 
 
 ### Hypothesis
@@ -62,9 +66,8 @@ The outcome of this research will help guide what changes should be made to the 
 ## Methods
 
 ### Task Analysis
-Moderated usability testing for task analysis will be on a desktop prototype (conducted in staging
+Moderated usability testing for task analysis will be on a desktop prototype.
 
-We will test both flows - new and existing - via 2 cohorts and using desktop prototypes. We will capture qualitative comments and task usability ratings to a/b test. 
 
 
 ### Location
@@ -74,7 +77,6 @@ Remote: Zoom
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - [Link to prototype](url goes here) - **To create after Design Intent review and feedback incorporated** Will be used for task analysis
-- [Link to staging or protoptype exisiting?]
 
 	
 ## Recruitment	
