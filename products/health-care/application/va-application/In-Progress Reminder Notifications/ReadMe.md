@@ -92,6 +92,15 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ### Timeline 
 - June 6, 2022: Launched to 25% of in-progress application population
+- June 9, 2022: Pulled back on the launch, reminders no longer sent to applicants
+     - Concerned that there is no way for the Veteran to Opt-out of receiving the multiple emails.  They could get at least 4 emails, and if they accessed and re-saved the application, the clock would reset, resulting in another 4+ emails.
+     - There is potential to annoy/bother the Veterans, especially when they do not want the reminder and cannot stop it.
+- Oct 6, 2022: Met with VA Notify Strike team to discuss proposal to send only one reminder at 7 days of inactivity.
+     - If the form is accessed and saved, without submission, it will reset the 7-ay clock
+     - The VA Notify Strike team researched the last 4 months of email engagement and found the most engagement was done with the 7-day email.
+     > (The open rate was 71% is now 91%; the click rate was 28% is now 51%; the conversion rate was 3.5% is now 7.5%)!
+     - The team agrees that this addresses our concerns and would like to launch the reminder emails again
+     - The VA Notify Strike team will let us know the next launch window
 
 
 ---
@@ -109,7 +118,7 @@ No UI Changes.  See this [Sample email](https://github.com/department-of-veteran
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): 
+- GitHub Label(s): 10-10ez notifications
 - Slack channel: 1010-health-apps
 - Product POCs: Heather Justice, Mark Fallows
 
