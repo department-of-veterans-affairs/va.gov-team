@@ -80,7 +80,7 @@ Remote: Zoom
 ## Recruitment	
 
 ### Recruitment approach
-We will recruit Veterans for this research using the lean maximum variation strategy and leveraging Perigean to recruit participants. 
+We will recruit Veterans for this research using and leveraging Perigean to recruit participants. 
 We will request partipants with critera that were not covered in the studies conduced on 10-10EZ in the past year ([10-10EZ short form usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md#who-this-study-excludes)).
 
 
@@ -111,11 +111,11 @@ Want to run two cohorts, each cohort having 8 completed sessions.
 | Pacific Islander              | 1                            | 1                            |
 | \---                          | \---                         | \---                         |
 | **_AGE_**                     |                              |                              |
-| 18-24 yo                      | 1                            | 1                            |
-| 25-34 yo                      | 3                            | 3                            |
+| 18-24 yo                      |                              |                             |
+| 25-34 yo                      | 2                            | 2                            |
 | 35-44 yo                      | 2                            | 2                            |
 | 45-54 yo                      | 2                            | 2                            |
-| 55+ yo                        |                              |                              |
+| 55+ yo                        | 2                            | 2                            |
 | \---                          | \---                         | \---                         |
 | **_LGBTQ+_**                  |                              |                              |
 | Gay                           |                              |                              |
