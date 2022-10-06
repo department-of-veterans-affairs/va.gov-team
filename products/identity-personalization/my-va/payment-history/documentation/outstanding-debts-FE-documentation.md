@@ -89,6 +89,8 @@ Due by [date]
 
 You have no overpayment debts or copay bills.
 
+[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
+
 ---
 
 ### Learn about VA debt link
