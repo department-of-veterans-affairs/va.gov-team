@@ -26,36 +26,36 @@
 ### Migration work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
-| Migrate all Veteran and family member community care content: 36 pages + PDFs | ---- | ---- | ---- |
-| Migrate OPIA persona pages: 4 pages | ---- | ---- | ---- |
-| Finalize roadmap for migration | ---- | ---- | ---- |
+| Migrate all Veteran and family member community care content: 36 pages + PDFs | IVC team capacity; VA partner approvals | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services | |
+| Migrate all education rate content: 4 pages | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Finalize roadmap for migration | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
 
 #### Stretch migration goals
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
-| Migrate all Veteran BVA content: TBD pages | ---- | ---- | ---- |
-| Migrate 5 "one-off" pages from top 1,000 urls spreadsheet: 5 pages | ---- | ---- | ---- |
-
+| Migrate OPIA persona pages: 4 pages | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Migrate all Veteran BVA content: TBD pages | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Migrate 5 "one-off" pages from top 1,000 urls spreadsheet: 5 pages | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
 
 ### Translation work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
-| Translate 3 core Disability "get benefit" pages into Spanish | ---- | ---- | ---- |
-| Translate 3 core Health care "get benefit" pages into Spanish | ---- | ---- | ---- |
+| Translate 3 core Disability "get benefit" pages into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Translate 3 core Health care "get benefit" pages into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
 
 #### Stretch translation goals
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
-| Translate 5 additional core Disability "get benefit" pages into Spanish | ---- | ---- | ---- |
-| Translate 5 additional core Health care "get benefit" pages into Spanish | ---- | ---- | ---- |
-| Translate family caregiver program landing page into Spanish | ---- | ---- | ---- |
-| Translate DIC page into Spanish | ---- | ---- | ---- |
+| Translate 5 additional core Disability "get benefit" pages into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Translate 5 additional core Health care "get benefit" pages into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Translate family caregiver program landing page into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
+| Translate DIC page into Spanish | ---- | ---- | ---- | Reduce the time it takes for Veterans to find, use, and receive VA services |
 
 ### Content iteration work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
 | Redesign content in supplemental claims section | ---- | ---- | ---- | ---- |
-| Combine copay content with manage debt section | ---- | ---- | ---- | ---- |
+| Redesign the copay experience to combine with manage debt section | ---- | ---- | ---- | ---- |
 
 #### Stretch content iteration work goals
 | Initiatives | Dependencies | Measurements | Status | OKR |
@@ -71,7 +71,7 @@
 #### Stretch style guide/standards/training work
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
-| Reusable COPE content: Create structured content model for benefit about, eligibility, and how to apply information (OCTO) | PW and CMS team collaboration | TBD | Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content |
+| Reusable COPE content: Create structured content model for benefit about, eligibility, and how to apply information (OCTO) | Danielle's capacity; PW and CMS team capacity; any technical blockers | In progress | Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content |
 
 ## Q4 ongoing work to support program partners and product teams
 
