@@ -1,4 +1,4 @@
-# Next steps for My VA after the "audit" updates
+# Next steps for My VA after the audit updates
 
 The goal of the [My VA audit updates]() are to bring greater consistency to the page, and overall simplify the number of states for a better user experience and easier management. 
 
