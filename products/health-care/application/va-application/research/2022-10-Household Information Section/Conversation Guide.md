@@ -61,7 +61,6 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 
 UX PIN PROTOTPYE LINKS HERE
-COHORT 1
 
 
 ## Task 0: Leading up to Household Information section
@@ -70,7 +69,9 @@ COHORT 1
 - On a scale of 1-5 (1 being non very poorly and 5 being very well) how prepared does this page make you feel about the application overall?  
 
 
-- Complete the questions asking about your information. Reminder this is a staging enviro
+- Continue on through the questions asking about your information and please talk aloud about your impression of each page.
+
+
 
 ## Task 1: Financial disclosure question - 5 minutes
 
