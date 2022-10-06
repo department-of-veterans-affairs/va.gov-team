@@ -1,0 +1,13 @@
+## NICE TO HAVE IDEAS
+- Vet has no address: https://dsva.slack.com/archives/CMNQT72LX/p1658941240056299
+- Message to alert users that they may have entered their full name instead of just their last name
+- Add appointment to my digital calendar #36559
+- Display Country when Address is NOT a US Address#39523 (maybe more important when editing)
+- PCI/CI for snowbirds
+- PCI/CI for homeless
+- Ability to cancel and reschedule appointments during pre-check-in #36563 & 36855 (may be more important if we do email)
+- Telephone Appointments
+     - [Phase 1A - Hard of Hearing](https://app.mural.co/t/civicactions3117/m/civicactions3117/1649777253301/29d43298818ec10044e3334ba33e950edc051be3?sender=niradatta0802)
+    - [Phase 1B - Confirm Phone Number](https://app.mural.co/t/civicactions3117/m/civicactions3117/1649777253301/29d43298818ec10044e3334ba33e950edc051be3?sender=niradatta0802)
+    - [Phase 2 - Clinical Reminders](https://app.mural.co/t/civicactions3117/m/civicactions3117/1649777253301/29d43298818ec10044e3334ba33e950edc051be3?sender=niradatta0802)
+    - [Phase 3 - Provider Running Late](https://app.mural.co/t/civicactions3117/m/civicactions3117/1649777253301/29d43298818ec10044e3334ba33e950edc051be3?sender=niradatta0802)
