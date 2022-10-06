@@ -107,7 +107,7 @@ You have no overpayment debts or copay bills.
 
 - This link shows on the righthand side on desktop if the user has a copay card or an overpayment debt card to show in the section.
 - This link appears on the lefthand side on desktop if the user does not have any copays or debt cards to show. This includes if there is a copay or debt API error *and* no copay or debt card to show.
-- If there is an error in the section *and* the user does have a copay or debt card to show, this link appears on the righthand side on desktop.
+- If there is a debt API error in the section *and* the user has a copay card to show, this link appears on the righthand side on desktop.
 
 ### Content
 
