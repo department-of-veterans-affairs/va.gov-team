@@ -1,5 +1,5 @@
 # Initiative Brief - 10-10EZ Household section optimization
-- [Household section redesign epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
+- [Household section optimization epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 
 ## Outcome Summary
 
@@ -81,7 +81,7 @@ Data source - Call Center team/TBD
   - The Value risk is that some applicants may find the Household section confusing or complicated.
      - Research sessions will be conducted to ensure we are making the appropriate, informed changes, as needed.
 - **Usability Risks** (can people figure out how to use it):
-  - The Usability Risk is similar to Value risk, in that a redesign could cause confusion or further complicate the section, causing more drop-offs.
+  - The Usability Risk is similar to Value risk, in that an optimization could cause confusion or further complicate the section, causing more drop-offs.
   - The application may feel too long and applicants won't want to spend the time completing all the information.
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
@@ -95,7 +95,7 @@ Data source - Call Center team/TBD
 ### Solution Summary
 
 - In-Scope
-     - Redesign/reorganization of the Household Section only
+     - Optimization of the Household Section only
      - Revisit content of questions, choice-answers and help text/drop-downs
 - Out-of-Scope
      - Redesign of other sections of the application
@@ -105,8 +105,8 @@ Data source - Call Center team/TBD
 ## Launch Planning
 ### Collaboration Cycle
 
-- Collab Cycle ticket [#]()
-     - [ ] Design Intent
+- Collab Cycle ticket [#47766](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/47766)
+     - [ ] Design Intent 10/14/22
      - [ ] Content and IA
      - [ ] Research
      - [ ] Midpoint
@@ -123,7 +123,7 @@ Data source - Call Center team/TBD
 ---
 ## Key deliverables
 
-- Design documentation
+- Design documentation - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas)
 - [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Household%20section%20redesign/Research)
 - Technical documentation
 - How to access and test
@@ -139,7 +139,7 @@ Data source - Call Center team/TBD
 
 - May 2022: Initial discovery
 - June 2022: Kickoff with outline & begin design
-- ???? 2022: Design work finalized
+- Oct 2022: Design work ready
 - ???? 2022: Usability testing kickoff
 - ???? 2022: Finalize designs, development
 - ???? 2022: Complete QA
@@ -185,7 +185,7 @@ TBD
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): household-info-redesign
+- GitHub Label(s): household-info-optimization
 - Slack channel: #1010-health-apps
 - Product POCs: Heather Justice & Mark Fallows
 
