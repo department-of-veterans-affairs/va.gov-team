@@ -303,5 +303,5 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
-- Reviewed and approved by Shane Strassberg on TBD
+- Reviewed and approved by Shane Strassberg on Oct 7, 2022
 
