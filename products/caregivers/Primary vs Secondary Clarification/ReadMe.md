@@ -1,4 +1,10 @@
 # Primary vs Secondary Clarification - Initiative Brief
+
+- [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- [Primary vs Secondary - Transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) from April 2022
+- [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
+- [Original Design intent](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37542)
+
 #### Overview
 
 <details>
@@ -26,12 +32,6 @@
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * .
-
-**Related/Associated product(s)**
-- [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
-- [Primary vs Secondary - Transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) from April 2022
-- [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
-- [Original Design intent](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37542)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
