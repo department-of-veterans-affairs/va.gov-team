@@ -21,28 +21,19 @@ Especially since My VA is now the next destination when a Veteran logs into VA.g
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals	
-### **1. Determine if Veterans' top tasks are effectively highlighted and actionable on My VA.**
+### **1. Determine if the updated information architecture of My VA still aligns with Veterans' mental model.**
 
-- What are users logging into VA.gov to do? 
-- Once a user logs in and is redirected to My VA, what would they do next?
 - Are Veterans able to find their top tasks on My VA and act on them if applicable?
-- Is there any important information about top tasks missing on My VA? 
-- Are there any top tasks still missing from My VA?
-
-### **2. Determine if we are handling sections on My VA that don't apply to a logged in user effectively.**
-
-- For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
-- Do users know how to find out more about benefits they are not currently enrolled in?
-- Are users interested in seeing more information about benefits they are not currently enrolled in?
-- Do these empty sections get in the way of Veterans trying to find out information about their current benefits?
-- Do these empty sections and CTAs bring attention to benefits that Veterans may be interested in?
-
-### **3. Determine if the order of sections on My VA aligns with Veterans mental model.**
-
-- What are Veterans mainly logging into VA.gov to do? Are those tasks represented in a logical order on My VA?
+- Is there any important information about top tasks or any categories missing on My VA? 
 - Is the new education section in a good place on the page for Veterans who are interested in those benefits? What about Veterans who are not interested?
 - Is it clear what "saved applications" are and are they in a good place at the bottom of My VA?
-- Do Veterans understand that they need to scroll down the page to see all their personal information and updates? Will anything important be missed?
+
+### **2. Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state.**
+
+- How do users react to loading states and/or errors on the page, especially in sections that don't apply to the user?
+- For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
+- Do users know how to find out more about benefits they are not currently enrolled in?
+- Do empty sections get in the way of Veterans trying to find out information about their current benefits or bring attention to benefits that Veterans may be interested in?
 
 ### Outcome
 Based on our findings, we will determine if updates are needed and continue onto the next step of the collaboration cycle.
@@ -180,15 +171,6 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 |IAL3            |            |
 
 ---
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
-
----
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
@@ -269,10 +251,9 @@ TBD
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 60 minutes
 * Buffer time between sessions: 30 minutes
 
-### Availability
 ### Availability
 
 | Date       | Times (Eastern) |
