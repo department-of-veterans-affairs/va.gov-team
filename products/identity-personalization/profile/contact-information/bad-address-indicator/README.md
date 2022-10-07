@@ -112,7 +112,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 |----------|-------------|---------------|---------------|
 |Mailing address updates|TBD|TBD|TBD|
   
-**Key result #3: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
+**Key result #3**: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
 
 Note: we need to get these numbers from VA Profile.  
   
