@@ -236,4 +236,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
-- Reviewed and approved by Shane Strassberg on 
+- Reviewed and approved by Shane Strassberg on Oct 7, 2022
