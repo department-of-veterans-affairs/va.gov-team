@@ -49,64 +49,69 @@
 
 <details>
 
-**PM Responsibility**
-- [ ] Create Initiative Brief with the Problem Statement and as many details known
-     - [ ] Update the Initiative Brief after each step with links to the artifacts and more details known
+### PM Responsibility to perform or track
+- [ ] **Create Initiative Brief with the Problem Statement and as many details known**
+     - [ ] **Update the Initiative Brief after each step with links to the artifacts and more details known**
 - [ ] Discovery
      - [ ] What is the problem to be solved
      - [ ] What solutions have been made (internal or external) to resolve this problem
      - [ ] What are the possible solutions
-     - [ ] How would they solve the problem
+     - [ ] How would we solve the problem
      - [ ] What are the efforts involved (time, design, technical)
      - [ ] What is the ROI potential for each solution
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [ ] Create Epic and corresponding stories to align with the work needed (start with this list!)
+- [ ] **Create Epic to identify the problem and solution**
+- [ ] **Sign up for a Product Review session to present the initiative (~after Design Intent)**
+- [ ] **Sign up for an Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)**
+
+
+
+### APM Responsibility to perform or track
+- [ ] Create corresponding stories to align with the work needed (start with this list!)
 - [ ] Initial design
      - [ ] Lo-Fi design ideas
      - [ ] Presentation and agreement with the team on direction
           - [ ] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [ ] Submit Collaboration Cycle request ticket
-     - [ ] Review Collaboration Cycle site
-     - [ ] Start gathering artifacts (list above)
-     - [ ] Maintain this checklist of artifacts, updating as they are shared
-- [ ] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
+- [ ] **Submit Collaboration Cycle request ticket**
+     - [ ] **Review Collaboration Cycle site**
+     - [ ] **Start gathering artifacts (list above)**
+     - [ ] **Maintain this checklist of artifacts, updating as they are shared**
+- [ ] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] Present design and obtain feedback
-- [ ] Sign up for a Product Review session to present the initiative (after Design Intent)
-- [ ] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
+- [ ] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
--- [ ] Create prototype or basic working functionality in environments
+- [ ] Create prototype or basic working functionality in environments
      - [ ] The team can determine the best path, used for research
 - [ ] Create Research Plan and Conversation Guide
-- [ ] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Request Research Review - Refer back to the initial Collaboration Cycle Request ticket
+- [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
      - [ ] Synthesize research findings
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design
-- [ ] Create Use Cases
-     - [ ] Identify test users
-- [ ] Create Release Plan
-     - [ ] Include E2E test results & signoff
+- **[ ] Create Use Cases**
+     - [ ] **Identify test users**
+- [ ] **Create Release Plan**
 - [ ] Complete development
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
      - [ ] Present to Stakeholders for validation
-- [ ] Submit QA ticket and schedule with Tze (based on Dev ETA)
-- [ ] Engage downstream system team for End-to-End QA coordination
-     - [ ] Create E2E use cases and document results
-     - [ ] Obtain signoff from downstream system team
-- [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
+- [ ] **Submit QA ticket and schedule with Tze (based on Dev ETA)**
+- [ ] **Engage downstream system team for End-to-End QA coordination**
+     - [ ] **Create E2E use cases and document results**
+     - [ ] **Obtain signoff from downstream system team**
+- [ ] **Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
-- [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
-     - [ ] Review findings with the team
-     - [ ] Create tickets for work to be completed before launch
+- [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
+     - [ ] **Review findings with the team**
+     - [ ] **Create tickets for work to be completed before launch**
 - [ ] Create Usability and/or UAT research plan and conversation guide
-- [ ] Request Research Plan review
+- [ ] **Request Research Plan review**
 - [ ] Schedule Usability/UAT sessions with Perigean
 - [ ] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
@@ -115,24 +120,25 @@
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
 - [ ] Update Error matrix documentation with any new error states
 - [ ] Update any FE and/or BE Engineering documentation
-- [ ] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Update Contact Center guide
-- [ ] Submit Contact Center guide review ticket
-- [ ] Update Release Plan
-     - [ ] Include E2E test results & signoff
-- [ ] Schedule or close all remaining tickets
-     - Some tickets may be backlogged for future work, as they were not required to launch
-- [ ] Review this checklist for any missing artifacts
-- [ ] Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)
-- [ ] Conduct Launch Go/No Go with the team
-     - [ ] Review this checklist
-     - [ ] Review Release Plan
-- [ ] Launch in a phased manner, according to Release Plan
-- [ ] Continuous check-ins with downstream system
+- [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
+- [ ] **pdate Contact Center guide**
+- [ ] **Submit Contact Center guide review ticket**
+- [ ] **Update Release Plan**
+     - [ ] **Include E2E test results & signoff**
+- [ ] **Schedule or close all remaining tickets**
+     - **Some tickets may be backlogged for future work, as they were not required to launch**
+- [ ] **Review this checklist for any missing artifacts**
+- [ ] **Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)**
+- [ ] **Conduct Launch Go/No Go with the team**
+     - [ ] **Review this checklist**
+     - [ ] **Review Release Plan**
+- [ ] **Launch in a phased manner, according to Release Plan**
+- [ ] **Continuous check-ins with downstream system**
 - [ ] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
+
 
 
 </details>
