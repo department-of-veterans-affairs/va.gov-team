@@ -2,7 +2,7 @@
 
 ## Decision: 
 
-**Samara:** Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/product/release-plan.md) complete and ready to execute against?
+**Sharon:** Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/product/release-plan.md) complete and ready to execute against?
 - Answer: 
 
 **Christina:** Have we completed UAT without finding launch blockers?
