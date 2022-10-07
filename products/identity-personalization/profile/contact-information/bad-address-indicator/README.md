@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: August 5, 2022
+Last Updated: October 7, 2022
 
 ### Communications
 
@@ -91,7 +91,27 @@ We are also working on UI updates to VA.gov to show an alert in the VA.gov profi
 
 Our main objective is to reduce the amount of mail returned to the VA. However, we don't have access to metrics on returned mail, so we can use the bad address indicator and number of address updates as proxies and assume if fewer people have the bad address indicator and more people are updating their addresses, less mail will be returned to the VA. 
 
-### Metrics to track once the initial email blast goes out to 10K people
+### Metrics to track once the UI updates go out
+
+<details>  <summary>UI updates</summary>  
+
+#### Objective: Prompt people who visit the profile and have a bad address to update their address.
+
+**Key result #1**: Establish baseline metrics for how many people see the bad address prompt.
+
+
+
+**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase).
+
+**Key result #3: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
+
+Note: we need to get these numbers from VA Profile.
+
+</details>
+
+### Metrics to track once the initial email blast goes out
+
+<details>  <summary>Bad address email</summary>  
 
 #### Objective: Reduce number of people with the bad address indicator
 
@@ -129,9 +149,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 |----------|-------------|---------------|-------------------|
 |Number/% of mailing address updates|?|?|?|
 
-### Metrics to track once the UI updates go out
-
-TBD
+</details>
 
 ## Design
 
