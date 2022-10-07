@@ -30,7 +30,7 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 - [ ] Identity Slackup (Fridays at 4PM Eastern, there is no meeting for this it's just a Slack thread)
 
 ### Set up 1:1's with your team mates:
-- [ ] Nick Soutouras (Product Lead)
+- [ ] Alyssa Gallion (Product Manager)
 - [ ] Joe Niquette (Engineering Lead)
 - [ ] Amanda Porter (Designer/Researcher)
 - [ ] Alex Garcia (FE Engineer)
@@ -38,7 +38,7 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 - [ ] Trevor Bosaw (BE Engineer)
 - [ ] John Bramley (BE Engineer)
 - [ ] Ian Hundere (DevOps Engineer)
-- [ ] John Rahagi (OCTO leadership)
+- [ ] John Rahaghi (OCTO leadership)
 
 ### Ensure you are added to the following Slack Channels
 - [ ] vsp-identity (this is our public channel)
