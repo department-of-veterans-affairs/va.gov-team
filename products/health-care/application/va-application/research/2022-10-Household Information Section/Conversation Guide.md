@@ -45,9 +45,8 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- Do you frequently use VA.gov and regulary sign in to your account? How often would you 
+- Do you frequently use VA.gov and regulary sign in to your account? 
 - Have you applied for health care recently and if so did you use the online form? (screener questions?)
-- Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 ## Setup - 5 minutes
 
@@ -73,6 +72,11 @@ UX PIN PROTOTPYE LINKS HERE
 - Continue on through the questions asking about your information and please talk aloud about your impression of what is on each page.
 - [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
 
+Participant questions before moving Household section:
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
 
 ### Things to watch for:
 - [If participant comments]
@@ -82,10 +86,12 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task 1: Financial disclosure question - 5 minutes
+## Task 1: Financial disclosure question - 3 minutes
 
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
+
+
 
 ### Things to watch for:
 - [Does the participant understand the financial disclosure page?]
@@ -108,7 +114,7 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task 3: Adding a dependents - 10 minutes
+## Task 3: Adding a dependents - 8 minutes
 
 - Now that you have completed your spouse's information, please answer the question on this page and proceed. 
 - (When selected yes) Complete the questions about your first dependent.
@@ -157,6 +163,8 @@ UX PIN PROTOTPYE LINKS HERE
 
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
 - Did you feel there was not enough explanation given for the questions, too much or was just about right?
+- Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
+
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
