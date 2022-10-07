@@ -56,7 +56,6 @@ Include specific details about how the VFS team can resolve this issue.
 
 ### VFS Guidance
 
-- Comment on the ticket if there are questions or concerns
 - Close the ticket when the issue has been resolved or validated by your Product Owner
 - If your team has additional questions or needs Platform help validating the issue, please comment on the ticket
 - Some feedback provided may be out of scope for your iteration of the product, however, Platform's OCTO leadership has stated that all identified issues need to be documented and it is still your responsibility to resolve the issue.
