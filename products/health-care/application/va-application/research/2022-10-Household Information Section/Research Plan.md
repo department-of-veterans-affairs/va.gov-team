@@ -32,8 +32,11 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 ## Research Goals	
 
-**1. Determine if the questions and additional content information on the page is clear and actionable**
-**2. Optimize the order and flow of questions within the household information section**
+**1. Determine if the questions and additional information within the household information section is clear and actionable**
+
+**2. Determine if the financial onboarding page helps in feeling prepared**  
+
+**3. Optimize the order and flow of questions within the household information section**
 
 
 Support key results from [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
@@ -47,19 +50,24 @@ The outcome of this research will help guide what changes should be made to the 
 
 ### Research questions
 
-
-- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
+**Goal 1**
+- Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
 - What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 
-- Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
+**Goal 2** 
+- Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
+- Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?
+
+**Goal 3**
+- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
 - What struggles do participants encounter with the process of adding and editing multiple dependents?
+- Is there clear error recovery and easy editing ability when adding multiple entries for a question?
 
 
 ### Hypothesis
-- The new pattern to add and edit dependents has less cognitive load for the applicant and takes less time to complete.
 - The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
 - The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
-- In comparision to the existing pages, participants will prefer the new designs with content changes.
+- The new pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
 
 
 
@@ -90,101 +98,100 @@ We will request partipants with critera that were not covered in the studies con
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      24       |          16      |16       |             |          |              | 
+|      15       |          10      |10       |             |          |              | 
 
 
-Want to run two cohorts, each cohort having 8 completed sessions. 
 
 
 ### Criteria Table 
+|                               | **Cohort 1 (proposed flow)** |
+| ----------------------------- | ---------------------------- |
+| **_SEX_**                     |                              |
+| Male                          | 6                            |
+| Female                        | 4                            |
+| \---                          | \---                         |
+| **_RACE_**                    |                              |
+| Black                         | 3                            |
+| White                         | 1                            |
+| Latinx                        | 1                            |
+| Asian                         | 3                            |
+| Native                        | 1                            |
+| Pacific Islander              | 1                            |
+| \---                          | \---                         |
+| **_AGE_**                     |                              |
+| 18-24 yo                      |                             |
+| 25-34 yo                      | 2                            |
+| 35-44 yo                      | 2                            |
+| 45-54 yo                      | 3                            |
+| 55+ yo                        | 3                            |
+| \---                          | \---                         |
+| **_LGBTQ+_**                  |                              |
+| Gay                           |                              |
+| Lesbian                       |                              |
+| Bisexual                      |                              |
+| Asexual                       |                              |
+| Transgender                   |                              |
+| Non-Binary                    |                              |
+| Gender-fluid                  |                              |
+| Queer                         |                              |
+| Two-Spirit                    |                              |
+| \---                          | \---                         |
+| **_BENEFITS_**                |                              |
+| Education                     |                              |
+| Employment                    |                              |
+| Finances                      |                              |
+| Healthcare                    |                              |
+| Housing                       |                              |
+| Memorialization               |                              |
+| \---                          | \---                         |
+| **_BRANCH_**                  |                              |
+| Marine Corps                  |                              |
+| Army                          |                              |
+| Navy                          |                              |
+| Air Force                     |                              |
+| Space Force                   |                              |
+| Coast Guard                   |                              |
+| Nat. Guard                    |                              |
+| Pub Hlth Corps                |                              |
+| \---                          | \---                         |
+| **_EDUCATION_**               |                              |
+| Elementary                    |                              |
+| Intermediate                  |                              |
+| GED                           | 4                            |
+| High School                   | 3                            |
+| Some College                  | 3                            |
+| Associate's                   |                              |
+| Bachelors                     |                              |
+| Masters                       |                              |
+| Professional                  |                              |
+| Doctoral                      |                              |
+| \---                          | \---                         |
+| **_RESIDENCE_**               |                              |
+| Urban                         |                              |
+| Rural                         |                              |
+| \---                          | \---                         |
+| **_HARDWARE_**                |                              |
+| Desktop                       |                              |
+| Laptop                        |                              |
+| Mobile                        |                              |
+| Tablet                        |                              |
+| \---                          | \---                         |
+| **_WEBSITE_**                 |                              |
+| [VA.gov](http://VA.gov)       |                              |
+| MyHealtheVet                  |                              |
+| Ebenefits                     |                              |
+| \---                          | \---                         |
+| **_LOGIN_**                   |                              |
+| DS Logon                      |                              |
+| MyHealtheVet                  |                              |
+| [ID.me](http://ID.me)         |                              |
+| [Login.gov](http://Login.gov) |                              |
+| \---                          | \---                         |
+| **_ID PROOF_**                |                              |
+| IAL1                          |                              |
+| IAL2                          |                              |
+| IAL3                          |                              |
 
-|                               | **Cohort 1 (proposed flow)** | **Cohort 2 (existing flow)** |
-| ----------------------------- | ---------------------------- | ---------------------------- |
-| **_SEX_**                     |                              |                              |
-| Male                          | 2                            | 2                            |
-| Female                        | 3                            | 3                            |
-| \---                          | \---                         | \---                         |
-| **_RACE_**                    |                              |                              |
-| Black                         | 3                            | 3                            |
-| White                         |                              |                              |
-| Latinx                        | 1                            | 1                            |
-| Asian                         | 3                            | 3                            |
-| Native                        |                              |                              |
-| Pacific Islander              | 1                            | 1                            |
-| \---                          | \---                         | \---                         |
-| **_AGE_**                     |                              |                              |
-| 18-24 yo                      |                              |                             |
-| 25-34 yo                      | 2                            | 2                            |
-| 35-44 yo                      | 2                            | 2                            |
-| 45-54 yo                      | 2                            | 2                            |
-| 55+ yo                        | 2                            | 2                            |
-| \---                          | \---                         | \---                         |
-| **_LGBTQ+_**                  |                              |                              |
-| Gay                           |                              |                              |
-| Lesbian                       |                              |                              |
-| Bisexual                      |                              |                              |
-| Asexual                       |                              |                              |
-| Transgender                   |                              |                              |
-| Non-Binary                    |                              |                              |
-| Gender-fluid                  |                              |                              |
-| Queer                         |                              |                              |
-| Two-Spirit                    |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_BENEFITS_**                |                              |                              |
-| Education                     |                              |                              |
-| Employment                    |                              |                              |
-| Finances                      |                              |                              |
-| Healthcare                    |                              |                              |
-| Housing                       |                              |                              |
-| Memorialization               |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_BRANCH_**                  |                              |                              |
-| Marine Corps                  |                              |                              |
-| Army                          |                              |                              |
-| Navy                          |                              |                              |
-| Air Force                     |                              |                              |
-| Space Force                   |                              |                              |
-| Coast Guard                   |                              |                              |
-| Nat. Guard                    |                              |                              |
-| Pub Hlth Corps                |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_EDUCATION_**               |                              |                              |
-| Elementary                    |                              |                              |
-| Intermediate                  |                              |                              |
-| GED                           | 4                            | 4                            |
-| High School                   | 2                            | 2                            |
-| Some College                  | 2                            | 2                            |
-| Associate's                   |                              |                              |
-| Bachelors                     |                              |                              |
-| Masters                       |                              |                              |
-| Professional                  |                              |                              |
-| Doctoral                      |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_RESIDENCE_**               |                              |                              |
-| Urban                         |                              |                              |
-| Rural                         |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_HARDWARE_**                |                              |                              |
-| Desktop                       |                              |                              |
-| Laptop                        |                              |                              |
-| Mobile                        |                              |                              |
-| Tablet                        |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_WEBSITE_**                 |                              |                              |
-| [VA.gov](http://VA.gov)       |                              |                              |
-| MyHealtheVet                  |                              |                              |
-| Ebenefits                     |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_LOGIN_**                   |                              |                              |
-| DS Logon                      |                              |                              |
-| MyHealtheVet                  |                              |                              |
-| [ID.me](http://ID.me)         |                              |                              |
-| [Login.gov](http://Login.gov) |                              |                              |
-| \---                          | \---                         | \---                         |
-| **_ID PROOF_**                |                              |                              |
-| IAL1                          |                              |                              |
-| IAL2                          |                              |                              |
-| IAL3                          |                              |                              |
 
 ---
 **Identity Assurance Levels**
@@ -248,8 +255,7 @@ Want to run two cohorts, each cohort having 8 completed sessions.
 
 ### Screener
 
-- Do you have children (biological or adopted)? [answer should be yes to qualify]
-- Do you have children (biological or adopted)? [answer should be yes to qualify]
+- Do you (xyz)? [answer should be yes to qualify]
 
 
 ## Timeline
@@ -261,6 +267,7 @@ October - November 2022
 > When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 > A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -299,7 +306,7 @@ TBD         | TBD
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
 - Participant(s) for pilot test: 
-- Note-takers: 
+- Note-takers: Perigean
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
@@ -307,7 +314,7 @@ TBD         | TBD
 
 ## Resources
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
-- User Flows (Existing) & (Proposed)
+- User Flows ([Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx)) & ([Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W))
 - Prototype
 - Notes board (Mural?)
 - Research Findings
