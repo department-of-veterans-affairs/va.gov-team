@@ -95,25 +95,38 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 <details>  <summary>UI updates</summary>  
 
-#### Objective: Prompt people who visit the profile and have a bad address to update their address.
+### Objective: Prompt people who visit the profile and have a bad address to update their address.
+  
+**Please update all dates to reflect the actual dates for pre-launch and post-launch.**
 
 **Key result #1**: Establish baseline metrics for how many people see the bad address prompt.
 
-
+|KPI/metric|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|----------|-------------|---------------|
+|# of views of the bad address prompt on Personal Info|TBD|TBD|
+|# of views of the bad address prompt on Contact Info|TBD|TBD| 
 
 **Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase).
 
+|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|----------|-------------|---------------|---------------|
+|Mailing address updates|TBD|TBD|TBD|
+  
 **Key result #3: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
 
-Note: we need to get these numbers from VA Profile.
+Note: we need to get these numbers from VA Profile.  
+  
+|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|----------|-------------|---------------|---------------|
+|# of people with the bad address indicator|TBD|TBD|TBD|  
 
 </details>
 
-### Metrics to track once the initial email blast goes out
+### Metrics to track once the email notification goes out
 
 <details>  <summary>Bad address email</summary>  
 
-#### Objective: Reduce number of people with the bad address indicator
+### Objective: Reduce number of people with the bad address indicator
 
 **Key Result #1** -- Establish baseline metric for what % of 10K people receiving this email update their mailing address (we will determine this by seeing how many of them have the bad address indicator removed)
 
