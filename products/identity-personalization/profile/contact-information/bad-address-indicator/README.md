@@ -71,7 +71,7 @@ We are working with VA Profile to send an initial email blast to folks who have 
 
 Once this email is sent out to the people who currently have the bad address indicator, VA Profile will also send out an email to user for whom the bad address indicator is newly added going forward.
 
-**Anticipated launch date**: Early summer 2022
+**Anticipated launch date**: Sprint 2023
 
 #### VA.gov UI updates
 
@@ -86,6 +86,13 @@ We are also working on UI updates to VA.gov to show an alert in the VA.gov profi
 - March 2022: Design intent
 - April 2022: Mostly on hold in favor of other project work
 - May 2022: Resume project; High fidelity mocks; Discussions with VA Profile on email notifications
+- June 2022: Midpoint review
+- July 2022: Research
+- August 2022: QA
+- September 2022: UAT
+- October X, 2022: Launch to 25%
+- October X, 2022: Launch to 50%
+- October X, 2022: Launch to 100%
 
 ## Measuring success
 
