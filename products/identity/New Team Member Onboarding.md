@@ -25,9 +25,9 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 - [ ] Whimsical 
 
 ### Make sure you have the following meetings on your calendar (Check with Nick Soutoruas)
-- [ ] Identity Standup (M/T/Th 3PM Eastern)
-- [ ] Identity Retro/Grooming/Planning (Wed at 4PM Eastern)
-- [ ] Identity Slackup (Fridays at 4PM Eastern, there is no meeting for this it's just a Slack thread)
+- [ ] Identity Standup 
+- [ ] Identity Retro/Grooming/Planning 
+- [ ] Identity Slackup 
 
 ### Set up 1:1's with your team mates:
 - [ ] Alyssa Gallion (Product Manager)
