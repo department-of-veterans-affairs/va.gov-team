@@ -47,12 +47,14 @@ Category ##, Issue ## (link to VA.gov Experience Standards page on Platform Webs
 WCAG, Design System, Content Style Guide, a previous gh ticket, etc.
 --> 
 
----
+
 
 ### Platform Recommendation
 <!--
 Include specific details about how the VFS team can resolve this issue.
 --> 
+
+---
 
 ### VFS Guidance
 
