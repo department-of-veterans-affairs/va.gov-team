@@ -28,13 +28,19 @@
 * .
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
+- [Original Design intent](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37542)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
+
+User story: As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives in order to apply for the correct one.
+
+Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is- if there are different requirements (there aren't) and what benefits are different.
 
 <!--
 ## Desired User Outcomes
@@ -84,6 +90,15 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
+#### Exploratory design
+This table includes links to the individual design work products.
+
+| Screens | Links  
+| :--- | :--- | 
+| Exploratory Mockup designs | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/79BDE8AC-21C9-4FEF-B0FB-DA6E0C3990DD) 
+| Future progressive exploratory flow | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/qerZvg2) 
+| Future progressive flow exploratory Mockup designs  | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/FDA98FA9-757B-4193-B52F-6C07B035DA59) 
+
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
@@ -121,10 +136,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps team
+- GitHub Label(s): cg-facilities
+- Slack channel: #1010-health-apps
+- Product POCs: Heather Justice, Mark Fallows
 
 </details>
 
