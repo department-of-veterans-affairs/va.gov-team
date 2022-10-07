@@ -190,7 +190,7 @@ There are several universities in your area, and you want to figure out which on
 - Could you please go back to the original web page you opened?
 
 ### Task 8: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
-Pretend that you have hearing loss from your time in the military, and you think it's gotten worse over the last year. You want to try to increase your disability rating. How would you do that from the web page?
+Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
