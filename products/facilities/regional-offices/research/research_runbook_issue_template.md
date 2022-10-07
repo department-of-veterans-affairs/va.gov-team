@@ -30,8 +30,8 @@ Here are the steps to follow when setting up a new UX research process:
 - [ ] Create a Research Folder following [Platform's Research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-1.Planningforresearch)
 - [ ] Create a [Research Plan & Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-plan-and-conversation-guide.md&title=Draft+%5BPRODUCT%2FINITIATIVE%5D+Research+Plan+%26+Conversation+Guide) issue
 - [ ] Create a [Research Review Cycle](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-review-cycle.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Review+Cycle) issue
-- [ ] Create a _Research Recruitment & Scheduling_ issue [ADD LINK TO TEMPLATE]
-- [ ] Create a _Research Sessions_ issue [ADD LINK TO TEMPLATE]
+- [ ] Create a [Research Recruitment & Scheduling](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-recruitment-and-scheduling.md&title=Recruit+and+schedule+participants+for+%5BPRODUCT%2FINITIATIVE%5D+research) issue
+- [ ] Create a [Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-sessions.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Sessions) issue
 - [ ] Create a _Research Synthesis & Topline Report_ issue [ADD LINK TO TEMPLATE]
 - [ ] Create a _Research Readout & Documentation_ issues [ADD LINK TO TEMPLATE]
 - [ ] Add all the above issues to the Research Epic and add dependencies
