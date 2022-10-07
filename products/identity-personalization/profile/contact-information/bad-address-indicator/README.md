@@ -62,22 +62,17 @@ When mail is sent to a veteran and then returned to the VA, the address is marke
 
 There are going to be two phases of bad address updates, which will happen asynchronously:
 
-#### Email notifications
-
-We are working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. **This email will go out before the UI updates are completed on VA.gov.** The current plan:
-
-- VA Profile wants to pilot an initial email that's sent to 10K of 300K users with the bad address indicator.
-- We will track analytics, and then scale the email and send to more users.
-
-Once this email is sent out to the people who currently have the bad address indicator, VA Profile will also send out an email to user for whom the bad address indicator is newly added going forward.
-
-**Anticipated launch date**: Sprint 2023
-
 #### VA.gov UI updates
 
-We are also working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
+We are working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
 
 **Anticipated launch date**: Late summer 2022
+
+#### Email notifications
+
+We are also working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. This email will not be ready at the same time as the UI updates. Instead, we will launch the UI updates first, gather metrics, and then launch the email notification once VA Profile has integrated with VANotify and is ready to do so. 
+
+**Anticipated launch date**: Sprint 2023
 
 ### Key dates
 
