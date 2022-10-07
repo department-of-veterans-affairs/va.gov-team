@@ -1,39 +1,52 @@
-# Shared-Support-QA Capacity & Tasks
+# Use Cases
 
-Currently, Shared-Support-QA capacity limitations preclude covering handling all the QA testing concerns outlined by Platform. Going forward, Shared-Support-QA hopes to increase support-per-team. \[See **[Shift-Left initiatives](#shift-left-initiatives)** below.\]
+VA.gov Application Teams need to provide Use Cases to Shared-Support-QA for test-cases development. Read here about Use Cases in general, and follow the relevant best practices.
 
-FYI, there's currently a recruiting effort to add a 2nd QA Engineer to the Shared Support team. The long-term goal is to build a proper QA team that enables full embedding of QA-resources into Application-Team projects, so watch this space!
+Although required only as Platform Staging Review approaches, documented Use Cases _should_ be in place at the _start_ of Build phase. This _central_ repository of basic requirements will help guide implementation work, by ensuring a common understanding of needs & expectations across all team-members.
 
 ## Who should read this?
 
-- Product Managers
-- Front-end engineers
+- All Application-Team members:
+  - **Product Managers** &mdash; plan & coordinate Use-Cases development work.
+  - **Designer** &mdash; flesh out the Cases' general User journey, and develop supporting Design reference(s).
+  - **Front-End Engineer** &mdash; assist Designer in identifying specific UI-behavior/-flow differences between Cases.
+  - **Back-End Engineers** &mdash; identify Staging test-accounts for the Cases, and develop matching Staging-API mock-data.
 
-## Testing-types & assignments/deputizations
+## Use Cases are NOT Test Cases
 
-The matrix below illustrates the current reality of what Shared-Support-QA can realistically perform, and what VA.gov Application Teams are unavoidability "deputized" to perform themselves:
+### Keep Use Cases general
 
-| QA Task                                                         | QA                 | App Teams          |
-| --------------------------------------------------------------- | ------------------ | ------------------ |
-| [Manual testing][manual-testing] [for Platform Staging Reviews] | :heavy_check_mark: |                    |
-| Unit testing                                                    |                    | :heavy_check_mark: |
-| [E2E testing][e2e-testing] (incl. [Regression][regression])     |                    | :heavy_check_mark: |
-| Load testing                                                    |                    | :heavy_check_mark: |
+The main difference between Use Cases (what Application Team provides to QA) and Test Cases (what QA develops & runs) is the **level of detail**. Generally speaking, Use Cases don't include implementation-specific details (e.g., single full-name field vs separate first-name & last-name fields, blue vs green button, etc.).
 
-This matrix will be updated if/when Shared-Support-QA staffing increases.
+Use Cases outline **general** User-personas and their distinct journeys toward User-goals, while corresponding Test Cases script out **specific** interactive-steps toward implemented UI-states. E.g., a Use Case can say "User can skip inputting Billing Address if same as Shipping", while a Test Case must script-out the specific UI test-step "Below **Shipping Address** form, click to select **Billing address is same as Shipping address above** checkbox."
 
-## Shift-Left initiatives
+<details>
+  <summary>Case contents comparison [click to expand/collapse]</summary>
 
-Although earlier QA-involvment during Design & Build phases currently have to be lower-priority, you're encouraged to involve Shared-Support-QA for the following development aspects:
+| Use Cases                                                                                    | Test Cases                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **General persona/scenario descriptions**. E.g: "Authenticated LOA3 user", "On Profile page" | **Specific test preconditions**. E.g: "Signed in as `user@example.com` (John Doe)", "On https://example.com/profile"                                        |
+| **General task descriptions**. E.g: "Changes his/her Direct Deposit bank account."           | **Specific system interactions**. E.g: "On update form, edit Routing number, Account type, and Account number, then click Submit."                          |
+| **General task outcomes**. E.g: "User sees bank info has been updated."                      | **Specific test results**. E.g: "Browser displays edited Routing number, Bank name, Account number. Content/layout matches [this copy-deck/design-screen]." |
 
-- Design Intent \[Platform Collaboration touchpoint\] -- invite Shared-Support-QA as Optional to your DI meetings w/ Platform
-- E2E tests:
-  - Add Shared-Support-QA \[currently Tze-chiu Lei\] as Optional Reviewer in Pull Requests that have E2E-spec changes
-  - Ping Shared-Support-QA \[currently Tze-chiu Lei\] for advice and/or hands-on help
+</details>
 
-Shared-Support-QA will make all reasonable efforts to accommodate your requests, as capacity permit.
+### Include just enough details for testing
 
-[shift-left]: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/engineering/qa/ptems-qa-tasks-capacity.md#shift-left-initiatives
-[manual-testing]: manual-ui-testing-process.md
-[e2e-testing]: ptems-qa-e2e-testing.md
-[regression]: ptems-qa-regression.md
+In order for your Use Cases to be testable on Staging, certain details must be provided to QA:
+
+- Specific persona and user-flow elements that make the Use Cases unique & distinct from one another.
+- Design/copy references: Provide links to design prototypes [and copy decks if copy's documented separately].
+- Staging test-accounts [for Cases requiring authentication].
+
+### Use the Use Cases template
+
+To create your Use-Cases doc, use the [Use Cases doc template][use-cases-template]:
+
+- Click the template's **Edit** button, then copy all the **Markdown content**.
+- Go to your Product-Outline doc's folder, then add a **new .md file**.
+- Paste the **template's Markdown content** into your new file, then replace placeholder-content with your **product-/feature-specific info** [but keep the general format].
+
+**NOTE**: Keep each Use Case's title-format a **heading** (e.g., `### Use Case A - ...` in Markdown syntax), like the template. Platform requires each QA Test Case to be traceable to a single, corresponding Use Case, and the headings enable specific deep-linking to facilitate this.
+
+[use-cases-template]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md
