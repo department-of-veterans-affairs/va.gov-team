@@ -39,7 +39,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 **3. Optimize the order and flow of questions within the household information section**
 
 
-Support key results from [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
+These goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
 - Key Result #3: Veterans feel prepared when they begin the Household section
 - Key Result #4: Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
