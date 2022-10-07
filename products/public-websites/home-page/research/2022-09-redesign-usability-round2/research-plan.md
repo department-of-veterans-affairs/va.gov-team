@@ -96,7 +96,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |    10      |        |        |        |        |        |        |        |        |        |         |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
 |Female          |    4       |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
@@ -129,7 +129,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     6      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     8      |        |        |        |        |        |        |        |        |        |         |
 |*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
@@ -166,7 +166,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      10    |        |        |        |        |        |        |        |        |        |         |
 |Urban           |            |        |        |        |        |        |        |        |        |        |         |
 |Rural           |      4     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
@@ -272,8 +272,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 ## Timeline
 
 ### Prepare
-- Pilot #1: **Oct 19/20/21** with Angela Fowler (angela.fowler@adhocteam.us)
-- Pilot #2: **Oct 19/20/21** with TBD
+- Pilot #1: **Oct 17/18/19/20/21** with Angela Fowler (angela.fowler@adhocteam.us)
+- Pilot #2: **Oct 17/18/19/20/21** with TBD
 
 ### Research sessions
 * Planned dates of research: **Oct 24-27** 
