@@ -43,29 +43,25 @@ Last updated [date]
 
 **Show**
 
-- If a user has copays in the debt portal that do not equal 0.
+- If a user has copay statements in the debt portal that do not equal 0.
 
 **Do NOT Show**
 
-- If a user has no copays in the debt portal or their copays equal 0.
+- If a user has no copay statements in the debt portal or their copay statement totals equal 0.
 
 #### **Content**
 
-(**$XX.XX**)
+**X copay bills**
 
-[X] copay bills
-
-Due by [date]
+Updated on [date]
 
 [Manage your VA bills](https://www.va.gov/manage-va-debt/summary/copay-balances)
 
 **Content sources**
 
-- Total copay amount is pulled from the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
+- Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances) and is the total number of statements that the user has. The user will have one statement per facility that they have any outstanding copays for. This should be plural if there is more than one copay statement; singular if there is only one.
 
-- Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances). This should be plural if there is more than one copay; singular if there is only one.
-
-- Due by date should be the soonest date that any outstanding copay bill is due in the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
+- Last updated date should be the most recent date that any copay statement has been updated on the [copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
 
 ---
 
@@ -123,7 +119,7 @@ You have no overpayment debts or copay bills.
 - Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the error message.
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list if the debt API fails or the user doesn't have debt.
-- If the debt API fails but the user has an outstanding copay, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
+- If the debt API fails but the user has a copay bill to show, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
 - If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. In this case, the "Learn about VA debt" link does not appear. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
 - If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. In this case, the secondary link should appear on the lefthand side on desktop, below the error. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
 
