@@ -25,7 +25,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-**Today we're going to talk about the Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information such as your spouse, dependents and financial information.**
+**Today we're going to talk about the Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information.**
 
 Before we start, a few things I want to mention:
 
@@ -72,7 +72,7 @@ UX PIN PROTOTPYE LINKS HERE
 - Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
 
-**Participant questions before moving Household section:**
+**Participant questions before moving on to Household section:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
@@ -83,15 +83,13 @@ UX PIN PROTOTPYE LINKS HERE
 - [New American Indian question page]
 - [New gender identity question page]
 
-
+**Sub Tasks & Ratings**
 
 
 ## Task 1: Financial disclosure question - 3 minutes
 
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
-
-
 
 ### Things to watch for:
 - [Does the participant understand the financial disclosure page?]
@@ -100,13 +98,12 @@ UX PIN PROTOTPYE LINKS HERE
 - [Does the participant click yes or no on the financial disclosure page and state why?] 
 
 
-
 ## Task 2: Marital status and spouse information - 5 minutes
 
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
 - (If selected Married for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
 
-**Participant questions before moving Household section:**
+**Participant questions after completion of spouse tasks if added:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
