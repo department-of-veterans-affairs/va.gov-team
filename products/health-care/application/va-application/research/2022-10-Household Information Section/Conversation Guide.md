@@ -69,10 +69,10 @@ UX PIN PROTOTPYE LINKS HERE
 - Can you tell us more about what you would have to do in preparation for filling out this application?
 
 
-- Continue on through the questions asking about your information and please talk aloud about your impression of what is on each page.
+- Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
 
-Participant questions before moving Household section:
+**Participant questions before moving Household section:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
@@ -104,14 +104,19 @@ Participant questions before moving Household section:
 ## Task 2: Marital status and spouse information - 5 minutes
 
 - (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
-- (Prototypes will only allow for "yes" to be selected, moving to spouse information page) Continue completing all the questions about your spouse and please remember to think aloud.  
+- (If selected Married for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
+
+**Participant questions before moving Household section:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
 - [Does the participant comment on the second spouse page with the two lived with/address questions?
 
-
+**Sub Tasks & Ratings**
 
 
 ## Task 3: Adding a dependents - 8 minutes
@@ -124,6 +129,8 @@ Participant questions before moving Household section:
 - [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
 - [Does the participant struggle with adding a second dependent?]
 - [Does the participant pause or are they confused by any of the dependent information questions?]
+
+**Sub Tasks & Ratings**
 
 
 ## Task 4: Editing and removing a dependent - 5 minutes
