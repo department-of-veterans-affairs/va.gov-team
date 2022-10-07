@@ -93,7 +93,7 @@
      - [ ] Synthesize research findings
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design
-- **[ ] Create Use Cases**
+- [ ] **Create Use Cases**
      - [ ] **Identify test users**
 - [ ] **Create Release Plan**
 - [ ] Complete development
@@ -120,8 +120,8 @@
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
 - [ ] Update Error matrix documentation with any new error states
 - [ ] Update any FE and/or BE Engineering documentation
-- [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] **pdate Contact Center guide**
+- [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Update Contact Center guide**
 - [ ] **Submit Contact Center guide review ticket**
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
