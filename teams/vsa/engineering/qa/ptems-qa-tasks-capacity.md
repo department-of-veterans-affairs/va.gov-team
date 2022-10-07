@@ -1,6 +1,8 @@
 # Shared-Support-QA Capacity & Tasks
 
-Currently, with only one PTEMS-QA resource shared across all PTEMS VA.gov Application Teams, capacity limitations preclude PTEMS-QA from handling all the QA testing concerns outlined by Platform.  However, with fewer teams to support than previous VSA contract, PTEMS-QA hopes to increase support-per-team.  \[See **[Shift-Left initiatives](#shift-left-initiatives)** below.\]
+Currently, Shared-Support-QA capacity limitations preclude covering handling all the QA testing concerns outlined by Platform. Going forward, Shared-Support-QA hopes to increase support-per-team. \[See **[Shift-Left initiatives](#shift-left-initiatives)** below.\]
+
+FYI, there's currently a recruiting effort to add a 2nd QA Engineer to the Shared Support team. The long-term goal is to build a proper QA team that enables full embedding of QA-resources into Application-Team projects, so watch this space!
 
 ## Who should read this?
 
@@ -11,20 +13,20 @@ Currently, with only one PTEMS-QA resource shared across all PTEMS VA.gov Applic
 
 The matrix below illustrates the current reality of what Shared-Support-QA can realistically perform, and what VA.gov Application Teams are unavoidability "deputized" to perform themselves:
 
-| QA Task | QA | App Teams |
-| ------- | ------ | ----------------- |
-| [Manual testing][manual-testing] [for Platform Staging Reviews] | :heavy_check_mark: | |
-| Unit testing | | :heavy_check_mark: |
-| [E2E testing][e2e-testing] (incl. [Regression][regression]) | | :heavy_check_mark: |
-| Load testing | | :heavy_check_mark: |
+| QA Task                                                         | QA                 | App Teams          |
+| --------------------------------------------------------------- | ------------------ | ------------------ |
+| [Manual testing][manual-testing] [for Platform Staging Reviews] | :heavy_check_mark: |                    |
+| Unit testing                                                    |                    | :heavy_check_mark: |
+| [E2E testing][e2e-testing] (incl. [Regression][regression])     |                    | :heavy_check_mark: |
+| Load testing                                                    |                    | :heavy_check_mark: |
 
-This matrix will be updated if/when PTEMS-QA staffing increases.
+This matrix will be updated if/when Shared-Support-QA staffing increases.
 
 ## Shift-Left initiatives
 
 Although earlier QA-involvment during Design & Build phases currently have to be lower-priority, you're encouraged to involve Shared-Support-QA for the following development aspects:
 
-- Design Intent \[Platform Collaboration touchpoint\] -- invite PTEMS-QA as Optional to your DI meetings w/ Platform
+- Design Intent \[Platform Collaboration touchpoint\] -- invite Shared-Support-QA as Optional to your DI meetings w/ Platform
 - E2E tests:
   - Add Shared-Support-QA \[currently Tze-chiu Lei\] as Optional Reviewer in Pull Requests that have E2E-spec changes
   - Ping Shared-Support-QA \[currently Tze-chiu Lei\] for advice and/or hands-on help
