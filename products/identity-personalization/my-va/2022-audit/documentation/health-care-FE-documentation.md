@@ -172,7 +172,7 @@ Use font awesome icon `file-medical` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Get your VA medical records and lab and test results" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Request travel reimbursement" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
