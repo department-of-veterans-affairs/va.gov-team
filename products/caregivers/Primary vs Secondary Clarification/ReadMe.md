@@ -5,7 +5,10 @@
 - [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
 - [Discovery ticket #35838](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/35838)
 - [Research Findings with Feedback on Primary vs Secondary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-findings.md#additional-insights)
-- Notes from Design story
+- Notes from Design story [#22372](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372)
+>Comment from Shawna
+>- One participant explicitly stated that she wanted the questions to be on a single page: "Maybe if there is a way to have primary and secondary together to explain the differences so I know right off the bat what I'm applying for." Another had issues with the placement of the "Learn more" components and thought those components were the actual questions.
+>
 >Note from the CG program team:
 >
 >- They have been receiving a higher than usual amount of Secondary CG applications. These are from older Veterans.
