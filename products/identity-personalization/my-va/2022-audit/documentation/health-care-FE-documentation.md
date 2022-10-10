@@ -54,6 +54,12 @@ Location
 
 You have no upcoming appointments to show.
 
+**Positioning**
+
+- This text should appear on the lefthand side on desktop.
+- It should appear directly below the "Health care" header if the user does not have unread messages.
+- It should appear directly below the messages notifications if the user does have unread messages.
+
 ---
 
 ### If a user has unread message(s) from a health care provider(s)
