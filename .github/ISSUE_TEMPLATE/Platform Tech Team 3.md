@@ -1,8 +1,8 @@
 ---
 
-name: Console Services Issue 
-about: For VA.gov Platform Console Services Team
-labels: console-services
+name: Tech Team 3 Issue 
+about: For VA.gov Platform Tech Team 3
+labels: platform-tech-team-3
 
 ---
 
