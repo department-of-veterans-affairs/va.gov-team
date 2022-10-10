@@ -30,7 +30,7 @@ Time
 
 Location
 
-[Schedule and manage your appointments] (https://va.gov/health-care/schedule-view-va-appointments/appointments)
+[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
 
 ---
 
