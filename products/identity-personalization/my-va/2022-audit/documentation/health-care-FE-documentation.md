@@ -69,13 +69,17 @@ You have no upcoming appointments to show.
 
 **Show**
 
-- If a user has unread messages in the My HealtheVet secure messaging portal.
+- If a user has unread messages in the [My HealtheVet secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
 
 #### **Content**
 
 You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
 
-*# should be the number of unread messages*
+**Content specs**
+
+- # should be the number of unread messages that a user has in the [secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
+- If a user has multiple unread messages, the word "messages" should appear as plural.
+- If a user has one unread message, the word "message" should appear as singular.
 
 #### Visual specs
 
