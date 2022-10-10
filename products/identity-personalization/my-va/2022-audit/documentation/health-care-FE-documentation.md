@@ -4,6 +4,22 @@
 We show this section for every LOA3 user.
 
 ## UX Specs
+
+### If a user does not have VA health care
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+
+#### **Content**
+
+You have no any health care information to show.
+
+**Secondary link**
+- When a user does not have health care, a secondary link should appear for [Learn how to apply for VA health care](
+
+**Positioning**
+- The text should appear on the lefthand side on desktop, directly under the "Health care" header.
+- The secondary link should appear directly below the text, on the lefthand side on desktop.
+
 ### Next appointment card
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
@@ -87,6 +103,25 @@ You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.go
 
 **Positioning**
 - The unread messages notification should appear under the "Health care" header on the lefthand side on desktop, regardless of any other conditions within the section. If the user also has upcoming appointments, the messages notification should come before the upcoming appointments card.
+
+
+---
+
+### Learn how to apply for VA health care link
+
+![Screen Shot 2022-10-10 at 2 14 09 PM](https://user-images.githubusercontent.com/97965610/194928816-6af42dfc-2dfd-4726-9572-e9b39ebee4af.png)
+
+Use font awesome icon `file-medical` for icon
+
+**Show**
+- For users who do not have health care through VA.
+
+**Positioning**
+- This link should appear on the lefthand side on desktop, below text stating that the user does not have health care information to show.
+
+#### Content
+
+[Learn how to apply for VA health care](https://va.gov/health-care/apply/application/introduction)
 
 ---
 
