@@ -112,100 +112,89 @@ We conducted remote, moderated research sessions with 20 Veterans, which were sp
 
 # Details of Findings 
 
-Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User Acceptance Testing, RESRCH: Interviews, VETSJNY: Taking care of themselves
+### 1. Veterans preferred being asked first if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim within the PCI application.  
 
-## Key Findings 
+Of 9 Veterans, 6 thought Prototype A was easier to complete, 1 thought Prototype B was easier to complete and 2 had no preference.
 
-### 1. A few clinics were not fully ready to use PCI due to conflicting communication or unresolved clinic-specific needs, e.g., routing slips. 
+Of 9 Veterans, 6 preferred Prototype A, 2 preferred Prototype B and 1 had no preference. 
 
-MSAs at Bay Pines VAMC, Building 100 received conflicting direction on whether to start using PCI. Some MSAs were instructed to continue using VetLink. Therefore, communication to Veterans about PCI was limited, resulting in low utilization. 
+<img width="1279" alt="Screen Shot 2022-10-10 at 11 33 05 AM" src="https://user-images.githubusercontent.com/101129355/194903044-3124703a-e0b3-4692-b15d-112b3018a79d.png">
 
-Mobile check-in was not being used at Bay Pines VAMC, Building 100, clinic 3D because MSAs need to print routing slips for each patient, which is something not supported in VSE CS.
+Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B Test, RESRCH: Remote, RESRCH: Usability, VETSJNY: Taking care of themselves
 
-Currently, MSAs print the routing slips once a patient checks in with them. 
+### 2. Veterans thought having the option to file a travel reimbursement claim while checking in for their appointment was easy and convenient. 
 
-### 2. The kiosks were affecting the check-in experience for Veterans, e.g., using them, ignoring the check-in poster and thinking they’re checked in. Additionally, too many choices at the point of check-in (e.g., posters, brochures, VA-owned devices) may ultimately create confusion, leading Veterans to not use any mobile solution or VA-owned devices.
+Of 9 Veterans, 6 had a positive sentiment, 2 had a neutral or mixed sentiment and 1 had a somewhat negative sentiment for checking in to an appointment and filing a travel reimbursement claim together.  
 
-Kiosks were still present in most clinics and “on” in some. On the kiosks, Veterans were able to view today’s appointments, future appointments and update their information. While they still work, they’re also impacting the check-in experience: 
+> “I like the idea a lot. When I leave the office after my check up, I like that idea of getting it all done right then and there.”
 
-- Increases the number of touch points during a visit
-- Creates confusion on where to go to check in 
-- Conflates using the kiosk with a check-in – something that MSAs have confirmed is happening 
-- Creates inconsistencies of the check-in experience between clinics  
+> “I really like the simplicity of the process with this. It's a one and done. I can do it while I'm checking in and I won't forget about it. For example, I still have claims from two weeks ago that I still have to put into the application [BTSSS]. But, I really need at least a good 20 minutes solid.”
 
-In addition, the area that check-in posters are located in the clinics are becoming problematic due to the number of choices that Veterans are presented with. E.g., kiosk, BTSSS brochure, My HealtheVet brochure, privacy reminder, social distancing reminder, and more. The more choices, the greater the chance to cause confusion that results in Veterans not using a mobile solution or VA-owned device.
+> “Amazing. Nothing comes close to it currently.”
 
-### 3. Confusion exists, for various reasons, among Veterans and MSAs on the difference between pre-check-in and check-in. 
+> “Very convenient and saves a lot of time. It's fantastic.”
 
-Veterans and MSAs didn’t seem to understand the distinction between pre-check-in and check-in. 
+> “It's an excellent concept because right now we can't do it. It's very simple and that's good. It's simpler than the kiosk system now.”
 
-- Some MSAs had never heard of pre-check-in or conflated it with PCI, check-in or pre-registration.
-- We observed a Veteran thinking they were checked in for an appointment after having received the first text message response from CHIP. 
+> “If I were at a medical center trying to do this, it would probably be a bit daunting when I can just go to the desk and check in. If it were a bit fewer steps and more clearly communicated on what's happening in this process, then it would probably be a bit better and it would be great.”
 
-MSAs reported that there’s times when Veterans think they’re checked in after completing pre-check-in.
+Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B Test, RESRCH: Remote, RESRCH: Usability, VETSJNY: Taking care of themselves
 
-MSAs at Lee County VA Clinic Mental Health 4A clinic received direction from clinic supervisors to bring all patients up to the counter to confirm their information even if they completed mobile check-in. We speculate that this is a tactic to help counter Veterans thinking they’re checked in, when they’re not. 
+### 3. No, knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not stop Veterans from filing a claim. But Veterans felt that VA should already know if they’re eligible before allowing them to submit a claim or, at minimum, provide information on how to find out if they’re eligible. 
 
-> _I like it. But, I thought I did some of this before._
+Of 9 Veterans, 7 responded no, 1 responded yes and 1 responded with no response that knowing VA checks travel reimbursement and claim eligibility after a claim is submitted would not deter them from filing a travel reimbursement claim.   
 
-### 4. MSAs from a few clinics and one Veteran thought that adding travel reimbursement to check-in would be valuable. 
+> “It wouldn't stop me, but I expect the VA to review my claim right now.”
 
-One Veteran explained how difficult it is to file a claim with Beneficiary Travel Self-service System (BTSSS) and get it approved. He said that he was close to giving up on filing claims since none of his claims get approved or reviewed very quickly.  
+> “No, because I know I've been authorized for it.”
 
-He thought that adding travel reimbursement during check-in would be ideal compared to the existing process with BTSSS. 
+> “I'm not quite sure what the actual requirements are for travel reimbursement. So, do you have to live outside a 30 mile radius of your attending VA or community care provider? So, maybe there could be some information about whether you qualify for reimbursement. Because if you go through all of this and don't qualify, then you go back to not having an answer as to why I don't get travel reimbursement.”
 
-> _It’s been very, very difficult. They have a lot of work, but it’s not going very well._
+> “I don't know if I qualify for travel [reimbursement] or not. And, we have a lot of Veterans out there that are qualified, but they don't know they are. If I'm qualified for travel, the app should tell me I'm qualified for it and to file for it. If I'm not qualified for travel, will it still come up or is it set up to know if a Veteran is authorized for travel or not?”
 
-> _Absolutely. That would be a lot easier._
+> “If you're unsure if you're authorized for travel reimbursement, there should be something that says, “Click here.” Then, explain who is authorized to receive travel reimbursement.”
 
-### 5. The current travel reimbursement process for Veterans is complex due to nuances in how BTSSS works, eligibility criteria (e.g., community care vs. VA clinic appointments), claim review process, etc.   
+Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B Test, RESRCH: Remote, RESRCH: Usability, VETSJNY: Taking care of themselves
 
-- Most claims are manually reviewed by travel assistants. 
-- Community care appointments are eligible for reimbursement. However, they require an extra step compared to VA appointments. I.e., a doctor’s note that contains no protected health information (PHI). If there’s no note provided in the claim, travel assistants send them a letter explaining why their claim was denied. This process is a cause for confusion and frustration among Veterans and staff. 
-- Sometimes the clinic doesn’t check the patient out. When this happens, the travel assistants on site tell the Veteran to go back to the clinic to get checked out, which is a cause of frustration.
-- Lab appointments, EKGs, X Rays, etc. (i.e., walk-ins) don’t get checked out. Travel assistants can override in BTSSS. 
-- There’s a national database that travel assistants use to determine driving routes and mileage. 
-- Mileage disputes will occur when Veterans file a claim for visiting a VA location that is farther away from a closer location that offers the same service or treatment.
-- 9/10 claims submitted are incomplete. E.g., information was missing, information was not entered in the correct format, etc. This means that travel assistants have to spend time with each claim to correct it before it’s approved. 
-- If a Veteran was to file a claim during check-in, wait for their appointment and leave because the wait is too long, that would be problematic from a reimbursement perspective. Therefore, it’s important to ensure the Veteran has completed their appointment before a claim can be submitted.  
-- Walk-in appointments are eligible for one-way reimbursement. Often in BTSSS, these appointments come in as round trip that need to be changed. 
-- Travel reimbursement is paid by the visit, not the appointment.
+### 4. Veterans required a very low cognitive load to answer questions related to reviewing and confirming their travel reimbursement claim eligibility. Additionally, Veterans preferred being asked one eligibility question per page.  
 
-### 6. Travel assistants recommend avoiding the inclusion of options in the travel reimbursement experience for Veterans that likely lead to a denial of reimbursement, such as “Other” fields, VTS and carpool. 
+30 of 32 responses from 8 Veterans answered “5 - shorter amount of time” (on a scale of 1 to 5, where 1 is a longer amount of time and 5 is a shorter amount of time) when asked how much time they would need to answer a question related to reviewing and confirming their travel reimbursement claim eligibility. 
 
-> _Don’t show options that aren’t eligible for reimbursement, such as VTS or carpool._
+<img width="1318" alt="Screen Shot 2022-10-10 at 11 38 05 AM" src="https://user-images.githubusercontent.com/101129355/194903983-c8b50f44-bff4-49ed-af3c-ee98bbd9d55f.png">
 
-> _Don’t include “Other” options. It’s just another opportunity that could lead to a denied claim._
+*Note: One Veteran responded “1 - longer amount of time” to this question, but answered “5 - shorter amount of time” to the remaining questions in Prototype C.*
 
-<img width="485" alt="Screen Shot 2022-07-12 at 5 42 59 PM" src="https://user-images.githubusercontent.com/101129355/178600599-3b8d1d7d-600d-48c5-bcdb-713f6b5f2a55.png">
+Of 7 Veterans, 2 thought Prototype C was easier to complete, 1 thought Prototype B was easier to complete and 4 had no preference. 
 
-### 7. Many Veterans prefer checking in with MSAs, and that’s okay, while others preferred the kiosks because they’re a larger screen and easier to see. 
+Of 8 Veterans, 4 preferred Prototype C, 2 preferred Prototype B and 2 had no preference.
 
-We witnessed many Veterans walking into the clinics with their VA ID in hand, ready to scan it or hand it to the MSAs and ready to announce their last name, last four. 
+<img width="1538" alt="Screen Shot 2022-10-10 at 11 41 05 AM" src="https://user-images.githubusercontent.com/101129355/194904513-1283047e-20ef-4199-bba5-a5c753266644.png">
 
-With continued awareness and education about PCI, some Veterans will try check-in in the future. 
+Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B Test, RESRCH: Remote, RESRCH: Usability, VETSJNY: Taking care of themselves
 
-> _They liked the kiosks. They could also see their future appointments and update their information._
+### 5. Veterans thought the information about the status of their submitted claim or how to file a claim later was easy to understand, but expected more information about when and where to check the status of their claim, who to contact if they have questions and why their travel reimbursement claim couldn’t be submitted. 
 
-> _Some Veterans, [regardless of age,] need help with using their cell phone, so it’s not right for everyone._
+27 of 33 responses from 9 Veterans answered “1 - easy” (on a scale of 1 to 5, where 1 is easy and 5 is difficult) when asked to rate the difficulty of understanding the information on the PCI application’s confirmation pages. 
 
-> _The kiosks were much easier because the screen is bigger and easier to see._
+> “Since I asked them to do [a] travel [reimbursement claim], I would just have the question on how I would be updated. I guess by email.”
 
-### 8. MSAs and one clinician confirmed feedback we’ve previously heard about the staff-facing applications; many of which are being addressed. E.g., adding last four, too much of a delay, etc. 
+> “Who will send an update to me about my travel reimbursement [claim]? I know it's different people at the VA.”
 
-- Many MSAs expressed frustration that the amount of applications they use have increased from moving away from VetLink. In addition, some MSAs have to rely on other staff to make updates in VistA, which hampers the process of keeping Veterans’ information up to date. 
-- The delay between VSE and VSE CS is too long. 
-- There’s a need for a memo field to communicate which provider the patient is with or what’s being done. E.g., EKG. In addition, MSAs from Lee County VA Clinic pointed out that they lost the ability to write in the patient’s reason for visit for walk-in appointments in VSE since moving away from VetLink. 
-- Better notifications in VSE CS to ensure clinicians know when a Workflow Status change occurs. E.g., visual, sound or pop-up dialogue that requires closure. 
-- Clinicians would like to see last four added to VSE CS to be able to more easily match the patient in other applications. E.g., CPRS, VistA, etc. 
+> “How are you going to send me an update about my travel reimbursement? Is it by phone, email, text? When can I expect to hear back? Again, I still don't know if you are or if you aren't reviewing. What's the next step after that? Where are you sending me an update to? How will I know if it's submitted? What happens after the review process? It's not giving me any real information.”
 
-### 9. MSAs pointed out new feedback about the staff-facing applications. E.g., no shows not working, walk-ins not working, sort within each clinic/group, etc. 
+> “Where are they sending the update about my travel reimbursement? Is it to my email? Or will they send me a text message? Other then that, it's very clear, but I just don't know where it's going. So here, it'd be nice to know where they are sending an update.” 
 
-- No MSAs asked about adding check-in into VCE CS, which was something we heard previously from other facilities. Roughly half of the MSAs we spoke with monitor VSE CS, while the other half do not use it at all. Unlike what we heard from other facilities, many clinics at Bay Pines are not using Teams to tell clinicians that their patients have arrived. 
-- MSAs at Bay Pines VAMC reported that marking a patient as a “no show” in VSE is not saving to VSE CS and vice versa. 
-- One MSA expressed the need to be able to view and check-in multiple patients at the same in VSE, which was possible in VetLink. For example, having multiple windows open would allow them to check a patient in that’s at the counter, while updating another patient’s information that’s currently on hold on the phone.
-- One staff member who monitors clinical operations at a few clinics would like the ability to group clinics together, then sort by appointment time within each group in VSE CS’s Workflow List. 
-- New appointments that are created in VSE for walk-ins are not consistently appearing in VSE CS.
+> “Usually at the VA if you can't file [on the kiosk], you go to the travel representative and fill out a form and give it to them. If the kiosk doesn't work, that's what I do. I might say, “Please see a travel representative for follow up.””
+
+<img width="319" alt="Screen Shot 2022-10-10 at 11 42 37 AM" src="https://user-images.githubusercontent.com/101129355/194904791-3e64c807-9c20-453c-ae3b-177c7aa1f1cd.png">
+
+> “I guess it seems clear, but it doesn’t tell you why the benefit [claim] didn’t go through and I imagine when it says, “Ask the staff member,” they won't tell you why, but instead give you the [paper] form. I might be confused as to why it didn’t go through.”
+
+<img width="308" alt="Screen Shot 2022-10-10 at 11 43 16 AM" src="https://user-images.githubusercontent.com/101129355/194904935-bd2ae428-b852-41ee-9dc8-a44d52aec185.png">
+
+
+
+
 
 ## Secondary Findings
 
