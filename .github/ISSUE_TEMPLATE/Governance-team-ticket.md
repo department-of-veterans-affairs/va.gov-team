@@ -11,7 +11,6 @@ assignees: ''
 _"As a (persona), I (want to), (so that)."_
 
 Assignee:
-
 Peer Reviewer:
 
 ## Description
