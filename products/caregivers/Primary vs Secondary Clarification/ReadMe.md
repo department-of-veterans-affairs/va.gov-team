@@ -12,11 +12,11 @@
 >Note from the CG program team:
 >
 >- They have been receiving a higher than usual amount of Secondary CG applications. These are from older Veterans.
->- They feel there is a lack of understanding what a secondary CG is - that is comes with heavy commitments and requirements similar to the primary. Such as check-ins, >etc.
->- Lack of understanding of the difference of Primary and Secondary- responsibilities, benefits, etc.
+>- They feel there is a lack of understanding what a secondary CG is - that it comes with heavy commitments and requirements similar to the primary, such as check-ins, >etc.
+>- Lack of understanding of the difference of Primary and Secondary - responsibilities, benefits, etc.
 >- Secondary is not just anyone who helps out (such as underage child, etc.)
->- It is unclear whether when applying for secondary, the applicant needs to reenter primary CG information
->- Applicants are unclear if they HAVE to enter both Primary and Secondary (eg. They see Secondary so they enter one- sometimes same info as Primary)
+>- It is unclear whether when applying for secondary, the applicant needs to **reenter** primary CG information
+>- Applicants are unclear if they **HAVE** to enter both Primary and Secondary (eg. They see Secondary so they enter one- sometimes same info as Primary)
 
 ---
 
