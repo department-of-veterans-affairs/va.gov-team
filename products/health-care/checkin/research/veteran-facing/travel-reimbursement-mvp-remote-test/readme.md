@@ -31,5 +31,20 @@ Date(s): August 15-23, 2022
 
 ### Participants
 
+Findings may not include the perspectives of the following underserved Veteran groups: 
+
+- Other than honorable discharge
+- Immigrant origin
+- Expat (living abroad)
+- Hispanic
+- Native
+- LGBTQ+
+- Assistive technology
+
+We recommend studies with these underserved groups in the future. <br>
+
 <img width="821" alt="194167758-410fbda7-2933-4ba8-84f3-72758d57aca8" src="https://user-images.githubusercontent.com/101129355/194915668-6ae7dea9-045d-4e11-9de0-e5fff21100c5.png">
+
+[Participant Tracker in Google Sheets
+](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1238294205)
 
