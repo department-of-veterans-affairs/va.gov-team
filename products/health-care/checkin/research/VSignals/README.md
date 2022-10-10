@@ -4,7 +4,7 @@
     1. The VSignals reports that we receive are a query from all VSignals feedback containing the word check-in.
     2. If you need access to the OneDrive document and do not have it, message Kristen.
     3. Once the comments are copied, Kristen will message the check-in team member completing this week’s analysis.
-2. The check-in team member completing analysis will open the Excel spreadsheet in the Desktop App.
+2. The check-in team member completing analysis will open the Excel spreadsheet in the desktop app.
     1. Opening the spreadsheet in the desktop app will enable the multi-select dropdown tagging capability. The web app does not have this capability.
 3. The check-in team member completing analysis will review each comment.
     1.  First, they will categorize each comment using the dropdown.
