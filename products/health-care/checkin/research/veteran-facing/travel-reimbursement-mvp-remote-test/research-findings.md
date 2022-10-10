@@ -87,15 +87,28 @@ We conducted remote, moderated research sessions with 20 Veterans, which were sp
 
 # Key Findings
 
-1. A few clinics were not fully ready to use PCI due to conflicting communication or unresolved clinic-specific needs, e.g., routing slips. 
-1. The kiosks were affecting the check-in experience for Veterans, e.g., using them, ignoring the check-in poster and thinking they’re checked in. Additionally, too many choices at the point of check-in (e.g., posters, brochures, VA-owned devices) may ultimately create confusion, leading Veterans to not use any mobile solution or VA-owned devices.
-1. Confusion exists, for various reasons, among Veterans and MSAs on the difference between pre-check-in and check-in. 
-1. MSAs from a few clinics and one Veteran thought that adding travel reimbursement to check-in would be valuable. 
-1. The current travel reimbursement process for Veterans is complex due to nuances in how BTSSS works, eligibility criteria (e.g., community care vs. VA clinic appointments), claim review process, etc.   
-1. Travel assistants recommend avoiding the inclusion of options in the travel reimbursement experience for Veterans that likely lead to a denial of reimbursement, such as “Other” fields, VTS and carpool. 
-1. Many Veterans prefer checking in with MSAs, and that’s okay, while others preferred the kiosks because they’re a larger screen and easier to see. 
-1. MSAs and one clinician confirmed feedback we’ve previously heard about the staff-facing applications; many of which are being addressed. E.g., adding last four, too much of a delay, etc. 
-1. MSAs pointed out new feedback about the staff-facing applications. E.g., no shows not working, walk-ins not working, sort within each clinic/group, etc. 
+## 1. Veterans preferred being asked first if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim within the PCI application.  
+
+- Of 9 Veterans, 6 thought Prototype A was easier to complete, 1 thought Prototype B was easier to complete and 2 had no preference.
+- Of 9 Veterans, 6 preferred Prototype A, 2 preferred Prototype B and 1 had no preference. 
+
+## 2. Veterans thought having the option to file a travel reimbursement claim while checking in for their appointment was easy and convenient. 
+
+- Of 9 Veterans, 6 had a positive sentiment, 2 had a neutral or mixed sentiment and 1 had a somewhat negative sentiment for checking in to an appointment and filing a travel reimbursement claim together.  
+
+## 3. No, knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not stop Veterans from filing a claim. But Veterans felt that VA should already know if they’re eligible before allowing them to submit a claim or, at minimum, provide information on how to find out if they’re eligible. 
+
+- Of 9 Veterans, 7 responded no, 1 responded yes and 1 responded with no response that knowing VA checks travel reimbursement and claim eligibility after a claim is submitted would not deter them from filing a travel reimbursement claim.   
+
+## 4. Veterans required a very low cognitive load to answer questions related to reviewing and confirming their travel reimbursement claim eligibility. Additionally, Veterans preferred being asked one eligibility question per page.  
+
+- 30 of 32 responses from 8 Veterans answered “5 - shorter amount of time” (on a scale of 1 to 5, where 1 is a longer amount of time and 5 is a shorter amount of time) when asked how much time they would need to answer a question related to reviewing and confirming their travel reimbursement claim eligibility. 
+- Of 7 Veterans, 2 thought Prototype C was easier to complete, 1 thought Prototype B was easier to complete and 4 had no preference. 
+- Of 8 Veterans, 4 preferred Prototype C, 2 preferred Prototype B and 2 had no preference.
+
+## 5. Veterans thought the information about the status of their submitted claim or how to file a claim later was easy to understand, but expected more information about when and where to check the status of their claim, who to contact if they have questions and why their travel reimbursement claim couldn’t be submitted. 
+
+- 27 of 33 responses from 9 Veterans answered “1 - easy” (on a scale of 1 to 5, where 1 is easy and 5 is difficult) when asked to rate the difficulty of understanding the information on the PCI application’s confirmation pages. 
 
 # Details of Findings 
 
