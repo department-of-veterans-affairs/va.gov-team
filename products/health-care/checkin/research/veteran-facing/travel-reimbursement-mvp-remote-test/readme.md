@@ -31,3 +31,5 @@ Date(s): August 15-23, 2022
 
 ### Participants
 
+<img width="821" alt="194167758-410fbda7-2933-4ba8-84f3-72758d57aca8" src="https://user-images.githubusercontent.com/101129355/194915668-6ae7dea9-045d-4e11-9de0-e5fff21100c5.png">
+
