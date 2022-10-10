@@ -74,15 +74,15 @@ We conducted remote, moderated research sessions with 20 Veterans, which were sp
 
 # Hypotheses and Conclusions
 
-1. Most Veterans prefer to be asked if they’re interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI. 
+**1. Most Veterans prefer to be asked if they’re interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI.** 
      1. DEFINITELY TRUE: Veterans preferred being asked first if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim within the PCI application.      
-1. It is not confusing to check in for an appointment and submit a travel reimbursement claim at the same time. 
+**1. It is not confusing to check in for an appointment and submit a travel reimbursement claim at the same time.** 
      1. DEFINITELY TRUE: Veterans thought having the option to file a travel reimbursement claim while checking in for their appointment was easy and convenient.  
-1. Knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not deter Veterans from filing a travel reimbursement claim. 
+**1. Knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not deter Veterans from filing a travel reimbursement claim.** 
      1. DEFINITELY TRUE: No, knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted does not stop Veterans from filing a claim. But Veterans felt that VA should already know if they’re eligible before allowing them to submit a claim or, at minimum, provide information on how to find out if they’re eligible. 
-1. The cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility is very low.
+**1. The cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility is very low.**
      1. DEFINITELY TRUE: Veterans required a very low cognitive load to answer questions related to reviewing and confirming their travel reimbursement claim eligibility. Additionally, Veterans preferred being asked one eligibility question per page.  
-1. Veterans easily understand the status of their submitted claim or how to file a claim later on the PCI application’s confirmation page. 
+**1. Veterans easily understand the status of their submitted claim or how to file a claim later on the PCI application’s confirmation page.** 
      1. LIKELY TRUE: Veterans thought the information about the status of their submitted claim or how to file a claim later was easy to understand, but expected more information about when and where to check the status of their claim, who to contact if they have questions and why their travel reimbursement claim couldn’t be submitted. 
 
 # Key Findings
