@@ -192,18 +192,56 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B 
 
 <img width="308" alt="Screen Shot 2022-10-10 at 11 43 16 AM" src="https://user-images.githubusercontent.com/101129355/194904935-bd2ae428-b852-41ee-9dc8-a44d52aec185.png">
 
+Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B Test, RESRCH: Remote, RESRCH: Usability, VETSJNY: Taking care of themselves
+
+# Additional Insights
+
+### Veterans have experienced frustrations with VA general health care travel reimbursement
+
+> “Currently, I have not been able to submit a travel claim online on my end. There’s some sort of glitch.”
+
+> “I get kicked off. I’ll do some work to submit a travel reimbursement online, but it doesn’t save properly. There are too many errors within it. Sometimes I’ll click the button to submit and it doesn’t do anything at all. I’ll do that a couple times, cancel out, go back in and enter most of the information to only find out the next day that the claim was filed five times. And, I never have appointments in my travel app. I always have to screenshot the confirmation page from My HealtheVet that I attended the appointment.”  
+
+> “I’ve sort of always felt it to be a headache to stop at the travel window on my way out considering I’m only 16 miles from the facility.” 
+
+> “So, I have to fill out the paper because there’s some sort of glitch with submitting a claim online. So, I have absolutely no idea on if or when it was approved. I just have to guess.” 
+
+> “We file travel reimbursement through a paper, but never receive any feedback on whether it's received or denied. I've sent in multiple travel reimbursements, but I've never received any travel reimbursement.”
+
+### Veterans often wanted more information to be able to better answer questions, and more decisiveness
+
+> “There are a lot of tolls in my area. That’s why it’s difficult [to answer].” 
+
+> “Here in New York, some people have to take the toll road. How would we submit the receipts for our tolls since we have to pull the bill down, which probably wouldn’t be until the next month or so? I know that would be a question that would come about.” 
+
+> “Some of my fellow Veterans might not understanding this [statement] because maybe their daughter brought them or friend of the family. So, maybe they can misconstrued this.” 
+
+> “Will you have a question after if you selected, “No?” For example, did you take public transportation or private apps? I’ve seen a lot of people take Uber, Lift, taxi. It depends on their frailty and disability.” 
+
+> “Maybe should put, “meals.” I know people that travel from Philadelphia to New York City for their appointments. And, I believe they [VA] cover their meals.” 
+
+> “Saying, “We may be able to submit your claim for review today,” is confusing.” 
+
+> “How do I know if you will or won’t? What am I doing this for if you, “may be able to file my claim today?” What’s the criteria for you to not be able to do it?” 
+
+> “Well, it says, “We may be able to.” I don’t like to hear a doubt like that. That makes me think it might work or it might not work.” 
+
+### Overall, Veterans thought the PCI application was streamlined and easy to use 
+
+> “I think it’s better to see it in your own hands compared to relying on someone behind the scenes. [I.e., MSAs.] This makes it really clear what appointment you’re coming in for. I like seeing all of your appointments. Like, checking in at the [clinic] desk, you may not know you had all those appointments.” 
+
+> “It streamlines everything.” 
+
+> “I’m surprised at how streamlined it looks with the VA website and My HealtheVet. It actually reminded me a lot of My HealtheVet, which is easy to understand.” 
+
+> “Overall, it’s very similar to the kiosks.” 
+
+### Veterans asked about additional functionality 
+
+<img width="1379" alt="Screen Shot 2022-10-10 at 11 46 55 AM" src="https://user-images.githubusercontent.com/101129355/194905602-4694d2ea-21eb-4961-affc-5c581a027366.png">
+<img width="1379" alt="Screen Shot 2022-10-10 at 11 47 03 AM" src="https://user-images.githubusercontent.com/101129355/194905614-7c5e550a-250a-44d2-8446-9704e83c39d5.png">
 
 
-
-
-## Secondary Findings
-
-- MSAs report PCI feedback to clinic supervisors or Health Administration Services (HAS) trainers. 
-- One Veteran received a system not operational message from CHIP, but also received a second message with a link to start their check-in. This occurred at the clinic that was still using VetLink for checking patients in. 
-- One Veteran on an Android device scanned the QR code, but it did not populate “check in” into the message field.
-- A Veteran checking in who didn’t realize their appointment was scheduled for later in the day wasn’t clear why they were receiving the following response from CHIP: Our records show that you have an appointment today. You can check in up to 30 minutes before your appointment. Try again later. 
-- One Veteran, who turned out to be late for their appointment, couldn’t understand why they were receiving the following response from CHIP: We're sorry. We can't check you in online. Ask a staff member for help.
-- When a Veteran needed their health insurance reviewed, they thought something was wrong when reading the response from CHIP, which lead with, “We’re sorry…”
 
 # Recommendations
 
