@@ -1,3 +1,5 @@
+For the slide deck version of these findings, see [E&E-Presentation.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/9749524/E.E-Presentation.pdf).
+
 Research Goals
 --------------
 
