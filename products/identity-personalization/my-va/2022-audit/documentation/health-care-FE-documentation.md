@@ -11,7 +11,7 @@ We show this section for every LOA3 user.
 
 #### **Content**
 
-You have no any health care information to show.
+You have no health care information to show.
 
 **Secondary link**
 - When a user does not have health care, a secondary link should appear for [Learn how to apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#learn-how-to-apply-for-va-health-care-link)
