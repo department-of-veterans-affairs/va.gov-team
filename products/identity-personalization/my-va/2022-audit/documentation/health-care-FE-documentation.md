@@ -169,7 +169,7 @@ Use font awesome icon `file-medical` for icon
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->**We can't access any health care information right now.**
+>**We can't access any health care information right now**
 >
 >We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
 >[Visit My HealheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
@@ -177,6 +177,33 @@ Use font awesome icon `file-medical` for icon
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
 
+**Secondary links**
+- When this error shows, do not show any other secondary links in the section since we cannot tell if the user has VA health care.
+
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+
+
+### Error State 2: The health care appointments API call fails (can't tell if user has appointments scheduled but can tell they have VA health care)
+
+#### Visual specs
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+>**We can't access your appointment information**
+>
+>We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool:
+>[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+
+**Positioning**
+- This should appear under the 'Health care' header on the lefthand side on desktop.
+
+**Secondary links**
+- When this error shows, the following secondary links should appear on the lefthand side on desktop:
+  - [Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+  - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+  - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/Krd92n/a/uuid/E9539FDB-7D42-4153-83EF-CC1394FC9C14)
