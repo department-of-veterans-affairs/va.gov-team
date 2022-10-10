@@ -38,10 +38,7 @@ VA appointment
 {Facility address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -57,7 +54,8 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH47728 @@
 ```
 
 ```Cancel request```
@@ -94,10 +92,7 @@ VA appointment
 {Facility address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -113,7 +108,8 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH47728 @@
 ```
 
 **PROGRESS BUTTONS**
@@ -140,7 +136,7 @@ none
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA appointment
@@ -149,10 +145,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -190,7 +183,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 VA appointment
@@ -199,10 +192,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -236,7 +226,7 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 VA appointment
@@ -245,10 +235,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -278,7 +265,7 @@ none
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 COVID-19 vaccine
@@ -287,10 +274,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -329,7 +313,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 
@@ -339,10 +323,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -373,7 +354,7 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 
@@ -383,10 +364,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
@@ -546,7 +524,7 @@ none
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA Video Connect at a VA location
@@ -558,10 +536,7 @@ You must join this meeting from this VA location:
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -603,7 +578,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA Video Connect at a VA location
@@ -613,10 +588,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -650,7 +622,7 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 
@@ -661,10 +633,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -709,7 +678,7 @@ You'll be meeting with
 
 ```Print```
 
-```diff
+```
 Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment:
@@ -726,10 +695,7 @@ You must join this meeting from this VA location:
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
 {Provider name}
@@ -852,16 +818,13 @@ You'll be meeting with
 
 ```Print```
 
-```diff
+```
 Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment:
 
 {Facility name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 ```
 
@@ -965,7 +928,7 @@ none
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA appointment over the phone
@@ -976,10 +939,7 @@ Someone from your VA facility will call you at your phone number on file at the 
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -1020,7 +980,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA appointment over the phone
@@ -1029,10 +989,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -1069,7 +1026,7 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
 VA appointment over the phone
@@ -1078,10 +1035,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Print```
@@ -1207,22 +1161,17 @@ none
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
-- Community care 
-+ Community care proivder
+Community care proivder
 {Provider name}
-+ {Treatment specialty}
-@@ GH46903 @@ 
+{Treatment specialty}
 
 {Provider address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1264,22 +1213,17 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
-- Community care 
-+ Community care proivder
+Community care proivder
 {Provider name}
-+ {Treatment specialty}
-@@ GH46903 @@ 
+{Treatment specialty}
 
 {Provider address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1313,22 +1257,17 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of Care}
 
-- Community care 
-+ Community care proivder
+Community care proivder
 {Provider name}
-+ {Treatment specialty}
-@@ GH46903 @@ 
+{Treatment specialty}
 
 {Provider address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Booking note}
@@ -1387,7 +1326,7 @@ We've scheduled and confirmed your appointment.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care}
 
 COVID-19 vaccine
@@ -1396,10 +1335,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 ```
 
 ```Add to calendar```
@@ -1443,7 +1379,7 @@ We've scheduled and confirmed your appointment.
 
 **PAGE CONTENT**
 
-```diff
+```
 Type of care: {Type of care} 
 
 VA appointment
@@ -1452,10 +1388,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
 {Reason}: {Booking note}
@@ -1503,10 +1436,7 @@ VA appointment
 {Facility address}
 Directions
 
-- Main phone: {phone number} 
-- TTY: 711
-+ Main phone: {phone number} (TTY: 711)
-@@ GH45155 @@
+Main phone: {phone number} (TTY: 711)
 
 Preferred type of appointment
 {Office visit, Phone call, Telehealth (through VA Video Connect)}
@@ -1522,7 +1452,8 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH47728 @@
 ```
 
 ```Cancel request```
