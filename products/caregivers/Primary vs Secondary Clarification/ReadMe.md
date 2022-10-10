@@ -18,22 +18,15 @@
 >- It is unclear whether when applying for secondary, the applicant needs to reenter primary CG information
 >- Applicants are unclear if they HAVE to enter both Primary and Secondary (eg. They see Secondary so they enter one- sometimes same info as Primary)
 
-
-
-#### Overview
-
- 
 ---
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
 User story: As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives in order to apply for the correct one.
 
-Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is- if there are different requirements (there aren't) and what benefits are different.
+Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is - if there are different requirements (there aren't) and what benefits are different.
+
+This change will help with increasin the accessilibility, reliability and security of Veteran's digital services.  It will also help reduce the time it takes for Veterans to find, use and receive VA services, by making the roles and benefits between the two types of Caregivers clear and easy to understand.
 
 ## Outcome Summary
 
