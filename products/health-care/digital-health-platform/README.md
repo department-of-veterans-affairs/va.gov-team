@@ -93,7 +93,7 @@ We are planning to launch in 2022.
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Suzanne Miller, Aurelio Nogueira, Cam Bui, Lex Joseph, Mariah Sager, Rebecca Green, Stephen Ruiz, Yoni Doron-Peters 
+Kimberly Roberts, Michael Chaffee, Abbie Burton, Aurelio Nogueira, Cam Bui, Lex Joseph, Mariah Sager, Rebecca Green, Stephen Ruiz, Yoni Doron-Peters 
 
 #### Stakeholders
 
