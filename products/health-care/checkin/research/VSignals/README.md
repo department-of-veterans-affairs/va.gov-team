@@ -9,7 +9,7 @@
 3. The check-in team member completing analysis will review each comment.
     1.  First, they will categorize each comment using the dropdown.
         1. **At least one category from the green list of tags must be selected for each comment.** Yellow tags are secondary options. View the "Tags" sheet to see which tags are green and yellow.
-        2. If a new category is needed, it can be added to the “Tags” sheet. Once added, it will automatically populate in the synthesis sheet. Be sure to decide if the new category is meets the criteria for a green (primary options, where at least one must be selected) or yellow (secondary optional categories) tag.
+        2. If a new category is needed, it can be added to the “Tags” sheet. Once added, it will automatically populate in the synthesis sheet. Be sure to decide if the new category is meets the criteria for a green (primary category, where at least one must be selected) or yellow (secondary optional category) tag.
     2. If a summary or note is needed about a particular comment, then it can be added to the “Notes” column.
 4. Create a quick summary report
     1. Look to [this previous summary as a guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/2022-09-VSignals.md).
