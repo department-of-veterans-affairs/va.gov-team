@@ -68,7 +68,7 @@ Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-he
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |Application Submissions | TBD  | TBD | TBD|TBD|
-|Section Exit rates|TBD  | TBD | TBD|TBD|
+|Section Exit rates?? |TBD  | TBD | TBD|TBD|
 
 #### **Key Result #2:** Reduce duplicate applications (Can Customer support get us this info?)
 
