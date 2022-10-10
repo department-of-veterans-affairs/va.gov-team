@@ -20,6 +20,8 @@ You have no health care information to show.
 - The text should appear on the lefthand side on desktop, directly under the "Health care" header.
 - The secondary link should appear directly below the text, on the lefthand side on desktop.
 
+---
+
 ### Next appointment card
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
