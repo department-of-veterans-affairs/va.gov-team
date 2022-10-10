@@ -241,8 +241,6 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B 
 <img width="1379" alt="Screen Shot 2022-10-10 at 11 46 55 AM" src="https://user-images.githubusercontent.com/101129355/194905602-4694d2ea-21eb-4961-affc-5c581a027366.png">
 <img width="1379" alt="Screen Shot 2022-10-10 at 11 47 03 AM" src="https://user-images.githubusercontent.com/101129355/194905614-7c5e550a-250a-44d2-8446-9704e83c39d5.png">
 
-
-
 # Recommendations
 
 - Utilize a user flow that includes asking Veterans if they want to file a travel reimbursement claim before being presented with questions to review and confirm eligibility of a claim, and present them as one question per page.
@@ -273,17 +271,17 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B 
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test#conversation-guides)
 
-[Session notes (Google Doc)](https://docs.google.com/document/d/1UjzNQ0MLiCPIMIaB-BrrUb5uCN5PJMEP-JITsAs5BwI/edit?usp=sharing)
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/session-notes)
 
 [Veteran intercept synthesis (17 participants) (Google Sheets)](https://docs.google.com/spreadsheets/d/1CaI1pCpTMjZkvfAm_6XRCVObNVjsHItZx5zHe9KGYME/edit?usp=sharing)
 
 [Research synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/agilesixapplications0942/1656596645401/9bd88630ea05258119a5fa523233b1979a996531?sender=u83bc52d7fa73658f84f27755)
 
-[Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/PCI%20Bay%20Pines%20Research%20Report.pdf)
+[Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/PCI%20Travel%20Reimbursement%20Research%20Report.pdf)
 
 ## Pages and applications used
 
