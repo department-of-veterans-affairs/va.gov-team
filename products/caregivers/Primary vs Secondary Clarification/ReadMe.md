@@ -135,9 +135,15 @@ This table includes links to the individual design work products.
 - 1010CG [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- Initiative Kickoff: 
+- Discovery: 
+- Design: 
+- Design Intent: 
+- Finalized Design & Midpoint: 
+- Usability/Research: 
+- Development: 
+- Staging: 
+- ... 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
