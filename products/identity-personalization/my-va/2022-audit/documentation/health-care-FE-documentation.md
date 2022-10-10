@@ -32,6 +32,13 @@ Location
 
 [Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
 
+**Content specs**
+
+- Next appointment: Static text that appears this way for every appointment card
+- Date: Date of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+- Time: Time of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+- Location: Location of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+
 ---
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
@@ -41,7 +48,7 @@ Location
 
 **Show**
 
-- If a user has VA health care but does not have any upcoming appointments scheduled.
+- If a user has VA health care but does not have any upcoming appointments scheduled in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments).
 
 #### **Content**
 
