@@ -296,6 +296,77 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: A/B 
 
 ## Who we talked to
 
+**We talked to 20 participants, but 3 were no shows.**
+
+Audience segment: 
+
+- Veterans: 20 
+
+Gender: 
+
+- Male: 12
+- Female: 8
+
+LGBTQ+:
+
+- Transgender: null
+- Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: null
+- Gay, lesbian, or bisexual: 2
+
+Devices used during study: 
+
+- Desktop: 1
+- Tablet: null
+- Smart phone: 16
+- Assistive Technology: null
+
+Age: 
+
+- 25-34: null
+- 35-44: 5
+- 45-54: 4
+- 55-64: 9
+- 65+: 2
+- Unknown: null
+
+Education: 
+
+- High school degree or equivalent: 3
+- Some college (no degree): 2
+- Associate's degree, trade certificate or vocational training: 2
+- Bachelor's degree: 5
+- Master's degree: 8
+- Doctorate degree: null
+- Unknown: null
+
+Geographic location:
+
+- Urban: 10
+- Rural: 10
+- Unknown: null
+
+Race:
+
+- White: 13
+- Black: 3
+- Hispanic: 1
+- Biracial: 2
+- Asian: 1
+- Native: null
+
+Disability and Assistive Technology (AT):
+
+- Cognitive: null
+- AT beginner: null
+- AT advanced user: null
+- Desktop screen reader: null
+- Mobile screen reader: null
+- Magnification/Zoom: null
+- Speech Input Technology like Siri/Dragon Naturally Speaking: null
+- Hearing aids: null
+- Sighted keyboard: null
+- Captions: null
+
 ## Underserved groups we haven't talked to
 
 This research may not include the perspectives of the following underserved Veteran groups:
