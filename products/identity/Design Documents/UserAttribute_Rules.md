@@ -28,6 +28,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has one SSN, the user `IS` permitted to login
     - If a verified user does not have an SSN in the response, the user `IS` permitted to login
     - After login action logs a warning to sentry if there is an [SSN mismatch](https://github.com/department-of-veterans-affairs/vets-api/blob/2bcb317c51f91fd079bdc2a023bc434ab2d0a4bb/app/controllers/v1/sessions_controller.rb#L339) between the stored redis response and the MPI response.
+    - If a user is detected to have a different SSN from the CSP and MPI with a SiS login (OAuth), the user `IS NOT` permitted to login
  - BIRLS: uuid from DSLogon
     - If a user has more than one BIRLS, the user `IS` permitted to login
     - If a user has one or less BIRLS, the user `IS` permitted to login
