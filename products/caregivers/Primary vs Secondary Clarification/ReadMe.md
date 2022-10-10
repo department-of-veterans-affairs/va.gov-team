@@ -18,6 +18,12 @@
 >- It is unclear whether when applying for secondary, the applicant needs to **reenter** primary CG information
 >- Applicants are unclear if they **HAVE** to enter both Primary and Secondary (eg. They see Secondary so they enter one- sometimes same info as Primary)
 
+Historic volume of Primary & Secondary Caregivers submitted
+|2022 Month|1 Primary|1 Primary, 1 Secondary|1Primary, 2 Secondaries|1 Secondary|2 Secondaries|Total Applications|Total Primary|Total Secondary|
+|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+|July|3,999|576|114|37|1|4,727|4,689|843|
+|August|4,643|780|141|45|4|5,613|5,564|1,115|
+|September|5,775|940|196|46|4|6,961|6,911|1,386|
 ---
 
 ## Problem
