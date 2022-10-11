@@ -331,7 +331,7 @@ We would like to have 15 total Veterans recruited, partitioned into **3 cohorts 
 - Pilot: **Oct 14 or 17** with TBD
 
 ### Research sessions
-* Planned dates of research: **Oct 19-20, Nov 14-16 ** 
+* Planned dates of research: **Oct 19-20, Nov 14-16** 
 
 ### Length of sessions
 * Session length: 1 hour
