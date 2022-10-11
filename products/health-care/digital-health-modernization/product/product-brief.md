@@ -10,16 +10,24 @@ The Health Apartment Team’s mission is to simplify Veterans’ health experien
 
 Throughout our agile development cycles, we will validate and refine the health apartment to ensure that it meets the needs of Veterans and caregivers – and that it’s usable and accessible. This will take a lot of collaboration with the Health Apartment Working Group, the My HealtheVet Team, the Sitewide and Account Experience Crews, and other product teams in OCC and OCTO. 
 
-**In the short term,** we will build a proof of concept to test our assumptions about how to unify and streamline the health experience for Veterans. We will iterate on the proof of concept (and its findability) until we have a human-centered design as our starting point for integrating My HealtheVet into VA.gov.
+We have built a proof of concept to test our assumptions about how to unify and streamline the health experience for Veterans. After iterating on the proof of concept, the health apartment has been “baked” enough to define an MVP for bringing My HealtheVet into VA.gov. Currently, we envision the MVP to include the “big four” areas of functionality now on My HealtheVet: Appointments, Secure Messaging, Medical Records, and Pharmacy. As we think about the MVP, we will consider how to integrate the Health Care hub and My HealtheVet Profile into the health apartment and VA.gov.  As of October 2022, Appointments work is underway, Secure Messaging is in development, and Medical Records is in discovery.  We have also defined four work streams, or tracks, that will afford ample opportunities for us to elicit veteran feedback while building a smooth, seamless rollout.
 
-After iterating on the proof of concept, the health apartment will be “baked” enough to define an MVP for bringing My HealtheVet into VA.gov. Currently, we envision the MVP to include the “big four” areas of functionality now on My HealtheVet: Appointments, Pharmacy, Secure Messaging, and Records. As we think about the MVP, we will consider how to integrate the Health Care hub and My HealtheVet Profile into the health apartment and VA.gov.  As of April 2022, Appointments work is underway and Secure Messaging is about to begin development.
+**Track 1** will focus on migrating the core MyHealtheVet applications to va.gov. 
 
-**In the middle term,** we will build and ship the MVP. A key aspect of designing and building the MVP will be devising a linking strategy between the health apartment, My HealtheVet, parts of VA.gov related to health, and the VA.gov flagship mobile app. There will be a slow ramp up to bring veterans from My HealtheVet to the Health Apartment on Va.gov to ensure the change is not abrupt for veterans.
+**Track 2** will answer the question of how the Health Apartment fits into va.gov. 
 
-**Over the long term,** we will expand the health apartment MVP beta, one section at a time. We’ll prioritize and sequence what will move into the apartment by leveraging analytics and user research. Working in quick cycles and across teams, as we build the apartment section by section, we’ll determine when the beta site should move into VA.gov. Once all content and functionality we want in the health apartment has been moved into it, My HealtheVet tools will no longer exist as a separate website and Veterans will have one place to go for their health needs: a single health “home” on VA.gov.
+**Track 3** will integrate Cerner (and potentially Community Care) data into VA.gov alongside VistA and DoD data.  This "mashup" of data from variouss sources represents one of the main purposes for this initiative:   Veterans will have a consistent and comprehensive VA health experience regardless of whether their care facilit(ies) are still using VistA or have already been migrated to Cerner.
+
+**Track 4** will support identity changes designed to eliminate the need for veterans to create and manage multiple log-ins in order to apply for health benefits and manage their health data, and manage all health-related interactions with VA. 
+
+**In the short term,** we will complete the build of the Secure Messaging application and define the P. A key aspect of designing and building the MVP will be devising a linking strategy between the health apartment, My HealtheVet, parts of VA.gov related to health, and the VA.gov flagship mobile app. There will be a slow ramp up to bring veterans from My HealtheVet to the Health Apartment on VA.gov to ensure the change is not abrupt for veterans.
+
+**Over the long term,** we will expand the health apartment MVP one section at a time. We’ll prioritize and sequence what will move into the apartment by leveraging analytics and user research. Working in quick cycles and across teams, as we build the apartment section by section, we’ll determine when the beta site should move into VA.gov. Once all content and functionality we want in the health apartment has been moved into it, My HealtheVet tools will no longer exist as a separate website and Veterans will have one place to go for their health needs: a single health “home” on VA.gov.
 
 ## Vision 
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
+
+
 
 ## Team
 
