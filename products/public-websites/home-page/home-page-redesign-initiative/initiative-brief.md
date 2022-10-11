@@ -270,5 +270,12 @@ This design was validated with usability testing in August 2022 and findings inf
 
 </details>
 
+<details>
+<summary> Round 2 design iteration | October 2022 </summary>
+ 
+ ![Home-R2-D-1_ PROMO-h1](https://user-images.githubusercontent.com/55411834/195213208-f3590773-b6af-49b7-8e13-4ad5d08edaf6.png)
+
+</details>
+
 
 
