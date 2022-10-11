@@ -1,6 +1,6 @@
-# My VA Claims & Appeals Frontend Documentation
+# My VA Claims and Appeals Frontend Documentation
 
-## When to show the ‘Claims & appeals’ section
+## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
 
 ## UX Specs
