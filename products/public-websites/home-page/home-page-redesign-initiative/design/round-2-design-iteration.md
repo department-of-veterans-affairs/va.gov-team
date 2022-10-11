@@ -13,7 +13,7 @@ The following changes were informed, in part, by the [findings from the VA.gov h
 
 |	Design change	|	Reason for change | Expected outcome
 |	---	|	--- |	---
-|	Added prominent benefit promo block	|	Participants in usability research sessions indicated a desire for relevant, new information about changes to benefits and services. | Increased Veteran satsifaction by making information on changes to benefits and services more readily available and higher engagement with fresh and timely featured content, measured y increases in clickthrough rates
+|	Added prominent benefit promo block	|	Participants in usability research sessions indicated a desire for relevant, new information about changes to benefits and services. | Increased Veteran satsifaction by making information on changes to benefits and services more readily available and higher engagement with fresh and timely featured content, measured by increases in clickthrough rates
 |	Added context and clearer link labels for news promo spotlight|	Participants in usability research sessions weren't able to easily distinguish news content from ads or information about benefit changes because of context and unclear link language. | Higher engagement with fresh and timely featured content, measured y increases in clickthrough rates
 |	Changed button from "sign up/sign in" to "create account" only	|	During usability research sessions, most sign-ins didn't happen on the home page (with "Sign in or create an account" near the photos or "Sign in" in the header) and participants were confused or frustrated by duplicate buttons. | Increased use of the logged in experience and account creation originating on homepage
 |	Increased number of links with first pass at rubric for determining links	|	Without explicit links on the homepage, some tasks were difficult for participants to complete during usability research sessions | Improved discoverability and findability of information and improved task completion for common tasks and those which are difficult to find by browsing or frequently searched from the homepage
@@ -25,4 +25,4 @@ The following changes were informed, in part, by the [findings from the VA.gov h
 
 ## Next steps
 - Present design at Digital Modernization Council and Web Governance Board on October 20-21, 2022
-- Vaidate new hypothesis with usability testing, beginning October 24, 2022| [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
+- Vaidate new hypothesis with usability testing, beginning October 24, 2022 | [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
