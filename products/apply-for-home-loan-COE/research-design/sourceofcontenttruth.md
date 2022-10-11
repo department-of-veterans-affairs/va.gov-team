@@ -1,4 +1,4 @@
-# Supplemental Claim Content Source of Truth
+# Certificate of Eligibility Content Source of Truth
 
 **_SIGNED OUT_**
 
