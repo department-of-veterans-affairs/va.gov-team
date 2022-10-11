@@ -85,14 +85,14 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 **KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
-|Field name|Updates in first month after launch (6/15/22 - 7/14/22); Includes launches to 25 & 50%| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|Updates in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
-|Preferred name| 5015 | | |
-|Gender identity| 9349 | | |
+|Preferred name| 6,384|6,598 |6,386 |
+|Gender identity| 12,248 |12,770 |12,436 |
 
 **KPI**: We see at least a 95% success rate for retrieving this information from the backend.
 
-|Field name|% of successful retrievals in first month after launch (6/15/22 - 7/14/22)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|Success rate in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
 |Retrieval rate| 99%| | |
 
@@ -101,12 +101,12 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 [Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 
-|Field name| Monthly updates 1 month pre-launch (5/15/22 - 6/14/22) | # of monthly updates 1 month post-launch (6/15/22 - 7/14/22) | 2 months post-launch | 3 months post-launch |
-|----------|------------|------------|------------|------------|
-|Mailing address | 29,950 |28,405 | | |
-|Home address | 30,000 |27,284 | | |
-|Mobile phone | 14,616 |12,758 | | |
-|Email address | 14,497 |11,666 | | |
+|Field name| Monthly updates 1 month pre-launch (5/15/22 - 6/14/22) | First month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
+|----------|------------|------------|------------|------------|------------|
+|Mailing address | 29,950 | | | ||
+|Home address | 30,000 | | | ||
+|Mobile phone | 14,616 | | | ||
+|Email address | 14,497 | | | ||
 
 ## Solution approach
 
