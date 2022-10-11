@@ -12,6 +12,8 @@
 ![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 
 </details>
+
+See [Round 2 design iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/round-2-design-iteration.md)
  
 ## Initial iteration designs
 The initial designs for the iteration of the VA.gov homepage planned an evolution through a series of steps characterized as
