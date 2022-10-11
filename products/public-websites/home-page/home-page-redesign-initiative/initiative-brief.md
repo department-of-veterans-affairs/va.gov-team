@@ -14,6 +14,7 @@
 
 [Summary of changes](#summary-of-changes)
  - [March 2022 iteration](#march-2022-iteration)
+ - [Round 2 design iteration](#round-2-design-iteration--october-2022)
  - [Next steps](#next-steps)
 
 [Ongoing efforts](#ongoing-efforts)
@@ -142,6 +143,9 @@ Iterations should support the following goals:
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
+This design was validated with usability testing in August 2022 and findings informed Round 2 design iteration.
+- [Usability research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)
+
 ### Round 2 design iteration | October 2022
 
 <details>
@@ -174,7 +178,7 @@ Iterations should support the following goals:
 4. Continue to refine objectives and key results 
    > Status: Ongoing
    
-5: Develop a rubric for delivering menaingful Veteran-facing content 
+5. Develop a rubric for delivering menaingful Veteran-facing content 
    > Status: In progress. Initial rubric was used to determine list of links for design iteration, round 2.
 
 6. Design iterations, informed by analytics and research findings 
