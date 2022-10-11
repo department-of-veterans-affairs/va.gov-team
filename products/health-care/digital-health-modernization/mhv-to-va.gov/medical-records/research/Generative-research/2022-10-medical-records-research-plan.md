@@ -15,25 +15,37 @@ This research fits into these points of a Veteran's Journey:
 - Aging
 
 ## Research Goals 	
-The goals of this study are to:
+The purpose of this research is to gain insight into user needs and goals related to medical records, users' emic understandings of medical records-related terms, and how these needs, goals, and understandings influence their behaviors. 
 
-
+### Outcome
+This research will inform the low fidelity prototype for the medical records redesign on VA.gov. 
 
 ### Research questions
 
-_Finding a message:_
+1. What terms do Veterans use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admisions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
 
-1. Do Veterans understand that the Search function only searches within a particular folder? How does this affect their behaviors?
+2. How do Veterans understand the existing medical records-related terminology on MHV and how does that understanding shape their behaviors? 
 
-2. Do Veterans expect the Search function to search within message attachments and threads? How does this affect their behaviors?
+3. What actions do Veterans need to take with their medical records and for what purposes? 
 
 
-### Hypothesis
-Describe. 
+### Hypotheses
+_Hypothesis 1:_ Some Veterans will use different terms for at least some of the medical records-related terms. 
+
+_Hypthesis 2:_ Some Veterans will not understand all of the medical records-related terms without support. 
+
+_Hypothesis 3:_ Some Veterans will not know what Blue Button, VA Health Summary, and Department of Defense medical records include, nor will know where to find specific information across the three options. 
+
+_Hypothesis 4:_ Some Veterans will want to be able to view and share their medical records, while others will want to identify key information to use for other purposes (e.g., to support a disability claim). 
 
 ## Method
-Card sorting
-Interviews
+
+### Card sorting
+Participants will be asked to sort 
+
+
+### Interviews
+
 
 ### Location
 Data collection will be remote. We will use Optimal Workshop for the card sorting activity and Zoom for interviews. 
