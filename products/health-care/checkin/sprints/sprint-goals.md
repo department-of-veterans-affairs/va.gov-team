@@ -24,6 +24,7 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Make progress on infrastructure to send a claim to the BTSSS API
     - Connect frontend to the API calls   
+    - Add message for BTSSS API error
     - Determine if we display appointments for Which Check-in is NOT enabled
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release
