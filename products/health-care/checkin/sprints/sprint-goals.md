@@ -15,6 +15,9 @@
     - Finish infrastructure to send a claim to the BTSSS API 
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release
+- CIE Tech Debt & Bugs
+    - [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
+    - [[BUG][FE] CHECK-IN: Go to another appt link bug - Single Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47135)
     
 ## 10/05/2022 
 
