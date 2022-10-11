@@ -70,13 +70,12 @@ What do you think users will do or think about this product? (Identifying our as
 - Veterans may not be aware of when or how their eligibility for benefits was determined.
 
 ## Method	
-Semi-structured interviews to guide Veteran through a chronological re-telling of experience(s) determining benefit eligibility.
+We will conduct **semi-structured interviews** to guide Veterans through a chronological re-telling of their experience(s) determining benefit eligibility. 
 
-### Location
-Interviews will take place remotely to ensure participation by Veterans from a diverse range of geographical locations. Zoom is preferred video conferencing software.
+Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. Plus, we would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them.
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
 	
 ## Recruitment	
 ### Recruitment criteria
@@ -107,7 +106,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       | 14         |        |        |        |        |        |        |        |        |        |         |
+|*Various*       | 15         |        |        |        |        |        |        |        |        |        |         |
 |Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
@@ -130,7 +129,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |     10     |        |        |        |        |        |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -254,15 +253,15 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener
 #### Overview
-We would like to have 15 total Veterans recruited, within **3 cohorts of 5 participants each**, defined as follows:
+We would like to have 15 total Veterans recruited, partitioned into **3 cohorts of 5 participants each**, defined as follows:
 
-- **Cohort 1**: have recently *(within the past 3 months)* **applied** for VA health care benefits (5 participants)
+- **Cohort 1**: have **recently** *(within the past 3 months)* **applied** for VA health care benefits (5 participants)
 
 - **Cohort 2**: are actively **considering applying** for VA health care benefits (5 participants)
 
-  - **Cohort 2a** (invite if 5 participants of cohort 2 are unsourceable): are **interested in learning more** about VA health care benefits
+  - **Cohort 2a** (if some/all participants of Cohort 2 are unsourceable): are **interested in learning more** about VA health care benefits
 
-- **Cohort 3**: have recently *(within the past 3 months)* **experienced a change that may result in a change of eligibility** (10-10 EZ)
+- **Cohort 3**: have **recently** *(within the past 3 months)* **experienced a change that may result in a change of eligibility** (5 participants)
 
 #### Screening Questions
 1. *(For everyone)* How often do you go online to access VA benefits and services?
@@ -283,41 +282,41 @@ We would like to have 15 total Veterans recruited, within **3 cohorts of 5 parti
      1. Within the past year     *(skip to screening question #7)*
      1. More than a year ago     *(skip to screening question #7)*
 
-1. *(For Cohort 1 only)* How did you (most recently) apply for VA health care benefits? Seeking a diversity of responses. 
+1. *(For Cohort 1 only)* How did you (most recently) apply for VA health care benefits? *(Recruit a diversity of responses.)*
      1. On my own, on paper
      1. On my own, online
      1. On my own, in person
-     1. With the help of a VSO or With the help of a transition service officer at Department of Defense
+     1. With the help of a VSO or a transition service officer at the Department of Defense
      1. With the help of a fellow veteran
      1. Other
 
 1. *(For Cohort 2 only)* Which of the following benefits are you *currently in the process of* applying to? 
      1. Health care benefits  *(recruit 5 for Cohort 2)*
-     1. Education & career services, such as GI Bill  *(disqualify)*
-     1. Disability benefits, such as claims & appeals *(disqualify)* 
-     1. Housing benefits, such as adaptive housing, home loans, homelessness services *(disqualify)* 
-     1. Pension benefits  *(disqualify)*
-     1. Life insurance    *(disqualify)*
-     1. Memorial benefits *(disqualify)*
-     1. Other             *(disqualify)*
-     1. I don't know      *(disqualify)*
+     1. Education & career services, such as GI Bill 
+     1. Disability benefits, such as claims & appeals 
+     1. Housing benefits, such as adaptive housing, home loans, homelessness services  
+     1. Pension benefits  
+     1. Life insurance    
+     1. Memorial benefits 
+     1. Other             
+     1. I don't know      
 
 1. *(For Cohort 2a only if needed)* Which of the following benefits are you *interested in* learning more about?
      1. Health care benefits *(recruit 5 for Cohort 2a)*
-     1. Education & career services, such as GI Bill  *(disqualify)*
-     1. Disability benefits, such as claims & appeals *(disqualify)* 
-     1. Housing benefits, such as adaptive housing, home loans, homelessness services *(disqualify)* 
-     1. Pension benefits  *(disqualify)*
-     1. Life insurance    *(disqualify)*
-     1. Memorial benefits *(disqualify)*
-     1. Other             *(disqualify)*
-     1. I don't know      *(disqualify)*
+     1. Education & career services, such as GI Bill  
+     1. Disability benefits, such as claims & appeals 
+     1. Housing benefits, such as adaptive housing, home loans, homelessness services 
+     1. Pension benefits  
+     1. Life insurance    
+     1. Memorial benefits 
+     1. Other            
+     1. I don't know      
 
 1. *(For Cohort 3 only)* Since receiving VA health care benefits, have you experienced any of the following?
      1. A change in number of dependents *(recruit 1-5 for Cohort 3)*
      1. A change in annual income *(recruit 1-5 for Cohort 3)*
      1. A change in geographic area *(recruit 1-5 for Cohort 3)*
-     1. Other: _________________ (??) *(disqualify)*
+     1. Other: _________________ (??) 
      1. None of these apply *(disqualify)*
 
 1. *(For everyone)* Please make sure that ALL participants:
