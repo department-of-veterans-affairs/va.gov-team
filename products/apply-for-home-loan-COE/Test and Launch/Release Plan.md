@@ -1,10 +1,4 @@
-# Release Plan Template
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
+# Release Plan: Certificate of Eligibility
 
 ---
 
@@ -16,8 +10,8 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [COE Content] | [Toggle designed to release the breadcrumb navigation leading to the introduction page.] |
-| [COE App] | [Toggle designed to release the form to users incrementally.] |
+| COE Content | Toggle designed to release the breadcrumb navigation leading to the introduction page. |
+| COE App | Toggle designed to release the form to users incrementally. |
 
 ## Step 2: Validation
 
@@ -25,67 +19,37 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [] review the plan with your DEPO/OCTO representative.
   - [] review the release plan with your team.
 
-## Step 3: Production rollout
+## Step 3: Staged production rollout
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
-
-### Define the Rollback process
+### Rollback process
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+Rollback plan: if the functionality needs to be rolled back out of production, we will do the following:
+- Turn on the feature toggle, disabling functionality of the form and status app.
+- Reach out to the sitewide content team (Randi is a POC), and request that they disable the introduction page and navigation breadcrumbs leading to the form.
+- Document issues in production to be resolved using the bug template in Zenhub.
+- Schedule a "war room" session with squad 2 from Benefits Team 1, including the head engineer (Robin), backend engineer (Eugene), and product manager (Sade). 
+- Confirm that logging and monitoring are in place to catc hthe issue should it occur again. 
+- Conduct a post-mortem on the incident. 
+- Schedule a go/no-go meeting prior to re-release with the PO (Matt Self), head engineer (Robin), backend engineer (Eugene), and product manager (Sade).
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: [10/19/2022 - 11/01/2022]
+- Desired number of users: [3-5]
+- How you'll recruit the right production test users: [Internal recruit]
+- How you'll conduct the testing: [Share the UAT testing instructions and ask users to complete each use case listed.]
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: [Using a feature toggle set at 0%, we will whitelist Veteran volunteers recruited to assist in submitting COE requests (this could include volunteers that are VA employees as well as non-VA employee Veterans).]
 
 #### Results
 
@@ -105,16 +69,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
+- Desired date range: [11/02/2022-11/30/2022]
+- How will you make the product available in production while limiting the number of users who can find/access it: [Feature toggle].
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
+  - Reported contact center calls < 2 calls
+  - Error rate < 5%
+- Links to the dashboard(s) showing "success criteria" metrics: [Link to dashboards TBD]
+- Who is monitoring the dashboard(s)?: [Sade Ragsdale]
 
 ### Stage A: Canary
 
@@ -122,8 +83,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: [1 week]
+- Percentage of Users (and roughly how many users do you expect this to be): 0%, whitelist recruit 
 
 #### Results
 
@@ -139,7 +100,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: [1 week]
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -156,7 +117,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: [1 week]
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -173,7 +134,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: [1 week]
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -188,7 +149,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- - Length of time: [1 week]
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
@@ -200,8 +161,6 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ## Post Launch metrics
-
-Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
 
 ### 1-week results
 
