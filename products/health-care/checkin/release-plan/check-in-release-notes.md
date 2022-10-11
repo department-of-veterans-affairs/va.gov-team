@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/11/2022
+- Updated eCheck-in to display a message to Veterans who successfully check-in to see a staff member if they have been waiting in the waiting room for more than 15 minutes
+    - [Epic 47114](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
+
 ### 10/05/2022
 - Fixed a bug for the date-of-birth component that resulted in an endless validation loop; no changes to the front end
     - [Epic 47467](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
