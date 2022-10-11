@@ -166,11 +166,11 @@ This assumes we didn't launch last sprint:
 
 ### On-site notifications
 
-This assumes we were able to launch to 25%/50% last sprint. If not, let's adjust accordingly
+This assumes we were able to launch to 25%/50% last sprint. If not, let's adjust accordingly:
 
 - Launch to 100%
 - DOCUMENTATION SPRINT
-  - Please set aside time with Liz to review the structure she set up for Profile documentation
+  - Please set aside time with Liz to review the structure she set up for Profile documentation.
   - Product needs to review the outline and make any necessary updates.
   - Design needs to create use case documentation, flows, and make sure all Sketch files are linked and up to date.
   - Frontend needs to add any relevant documentation. For this project, that might be around how the frontend works and connects to the backend API.
@@ -194,7 +194,7 @@ Only do these if all QA updates are complete.
 
 **Design/FE**
 
-- If applicable and if time, updates from QA
+- If applicable, updates from QA
 
 ### My VA Audit & Updates
 
