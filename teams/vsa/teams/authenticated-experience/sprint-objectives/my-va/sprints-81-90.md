@@ -164,22 +164,52 @@ This assumes we didn't launch last sprint:
 
 ## Sprint 85 (10/19 - 11/1)
 
+### On-site notifications
+
+This assumes we were able to launch to 25%/50% last sprint. If not, let's adjust accordingly
+
+- Launch to 100%
+- DOCUMENTATION SPRINT
+  - Please set aside time with Liz to review the structure she set up for Profile documentation
+  - Product needs to review the outline and make any necessary updates.
+  - Design needs to create use case documentation, flows, and make sure all Sketch files are linked and up to date.
+  - Frontend needs to add any relevant documentation. For this project, that might be around how the frontend works and connects to the backend API.
+  - Backend needs to add any info on the API and VANotify integration, and any other relevant documentation.
+
 ### Payments V2
+
+This also assumes everything went perfectly last sprint, and that we were able to complete QA with little to no issues.
 
 **PM**
 
-- Analytics request
-- Staging review prep
-- Privacy review prep
-- Determine if we need a privacy review
+Only do these if all QA updates are complete.
 
-**QA**
+- Staging review
+- Privacy review
+- UAT go/no-go
 
-- QA
+**Design**
+
+- Kickoff UAT recruiting
 
 **Design/FE**
 
-- If applicable and if time, start updates from QA
+- If applicable and if time, updates from QA
+
+### My VA Audit & Updates
+
+**FE**
+
+- Continue build
+
+If you all have time, you can move on to the following, but they are otherwise part of sprint 86:
+
+- Design: Conversation guide prep for user research
+- PM: Midpoint review prep
+
+### General
+
+- VAOS work, if needed
 
 ## Sprint 86 (11/2 - 11/15)
 
