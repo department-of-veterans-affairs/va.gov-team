@@ -63,6 +63,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - [Phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/phased-design-plan.md)
 - [First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 - [Sketch file](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/a/PGEaJDr) | March 2022
+- [Sketch file - Round 2](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/DD9CFAD9-2A54-41AB-9149-DD1BAC2EB1AF/canvas) | October 2022
 
 ## Engineering artifacts
 
