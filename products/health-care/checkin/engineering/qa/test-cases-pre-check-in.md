@@ -59,7 +59,6 @@
     - [Assert (Expected Outcome)](#assert-expected-outcome-8)
 
 ## Scope
-
 This document is for is QA testing of the va.gov portion of the `Check-in` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
 
 ## Wireframes 
@@ -77,247 +76,224 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 - The sample URL: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKEN-HERE>
 - [Instructions for creating an appointment and generating a link to eCheck-in and Pre-Check-in in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 
-## Test Case A: Happy Path - Successful Check-in
-
+## TEST CASE A: HAPPY PATH - SUCCESSFUL CHECK-IN
 > [Cypres Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/happy-path/base.happy.path.cypress.spec.js)
 
 ### Use case
-
-- As a user, I do not need to update any information and can check-in successfully
+As a user, I do not need to update any contact information and can check-in successfully
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User verifies their identity
-- User selects "Yes" to each of the following questions
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `Yes` for each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User selects the `Check-in now` button for their appointment
-- User should be on the "You're checked in" screen and see appropriate messaging that matches the mockups
+- User sees a list of their appointments scheduled for today
+- User selects the `Check-in now` button for one of their appointments that is within the check-in window (i.e. no more than 30 minutes in the future and no more than 15 minutes in the past)
+- User should now be on the `You're checked in` page and see a message telling them that they are checked-in for the appointment
 
 ### Assert (Expected Outcome)
-
 - No errors are thrown
-- The user sees a confirmation screen with appropriate messaging that matches the mockups
+- User sees a confirmation screen with a message telling them that they are checked-in for the appointment
 
-## Test Case B: Happy Path - Needs to Update Information
-
+## TEST CASE B: HAPPY PATH - NEED TO UPDATE CONTACT INFORMATION
 > [Cypres Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/go-to-staff/need.to.update.cypress.spec.js)
 
 ### Use case
-
-- As a user, I do need to update any information. To update my information, I need to see a staff member
+As a user, I need to update some or all of my contact information. To update my information, I need to see a staff member
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User verifies their identity
-- User selects "No" to any of the following questions
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `No` to any of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User should be on the `Check in with a staff member` page
+- User should be on the `Check in with a staff member` page and see a message telling them that they need to check-in with a staff member so that they can update their contact information 
 
 ### Assert (Expected Outcome)
-
 - No errors are thrown
-- The user sees a `Check in with a staff member` screen with appropriate messaging that matches the mockups
+- User sees a `Check in with a staff member` screen and a message telling them that they need to check-in with a staff member so that they can update 
 
-## Test Case C: Edge Case - Premature Check-in
-
+## TEST CASE C: EDGE CASE - PREMATURE CHECK-IN
 > Cypress Test [TBD]
 
 ### Note
-
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-
-- As a user, I have clicked a link too early (i.e., for an appointment >30 min. in the future).
+As a user, I have clicked a link too early (i.e., for an appointment >30 min. in the future).
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User verifies their identity
-- User should see an error page
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `Yes` for each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees a list of their appointments scheduled for today
+- For each appointment that is more than 30 minutes in the future, user sees a message telling them the time when they will be allowed to check-in for the appointment
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- The user sees a message for their appointment telling them the time when they will be allowed to check-in for the appointment
 
-## Test Case D: Edge Case - Expired Token
-
+## TEST CASE D: EDGE CASE - EXPIRED TOKEN
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.403.on.check-in.cypress.spec.js)
 
 ### Note
-
-This case may not be different than other token-based edge cases, but calling this out for coverage.
+This case may not be different than other token-based edge cases, but calling this out for coverage. Technically, this test covers a 403 status code from CHIP, which is an expired token error.
 
 ### Use case
-
-- As a user, I have clicked a link that is no longer valid (i.e., for an appointment that happened yesterday)
-- Technically, this test covers a 403 status code from CHIP, which is an expired token error.
+As a user, I have clicked a link that is no longer valid (i.e., for an appointment that happened yesterday)
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User should see an error page
+- User clicks their Check-in link and the application loads
+- User sees an error message that tells them they cannot check-in
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- The user sees an `Error` screen with a message that tells them they cannot check-in
 
-## Test Case E: Edge Case - No token provided
-
+## TEST CASE E: EDGE CASE - NO TOKEN PROVIDED
 > [Cypress test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/no.token.provided.cypress.spec.js)
 
 ### Note
-
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-
-- As a user, I have landed on the check-in page without a token
+As a user, I have landed on the check-in page without a token
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User should see an error page
+- User clicks their Check-in link and the application loads
+- User sees an error message that tells them they cannot check-in
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- The user sees an `Error` screen with a message that tells them they cannot check-in
 
-## Test Case F: Edge Case - Malformed Token
-
+## TEST CASE F: EDGE CASE - MALFORMED TOKEN
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/malformed.token.cypress.spec.js)
 
 ### Note
-
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-
-- As a user, I have landed on the check-in page with a malformed/invalid token
+As a user, I have landed on the check-in page with a malformed/invalid token
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User should see an error page
+- User clicks their Check-in link and the application loads
+- User sees an error message that tells them they cannot check-in
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- The user sees an `Error` screen with a message that tells them they cannot check-in
 
-## Test Case G: Edge Case - User Tries to check in again after already successfully checking in
-
+## TEST CASE G: EDGE CASE - USER TRIES TO CHECK-IN FOR AN APPOINTMENT FOR WHICH THEY ALREADY CHECKED-IN
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.404.on.check-in.cypress.spec.js)
 
-### Note
-
-This case may not be different than other token-based edge cases, but calling this out for coverage. This case assumes that using a token that already been used will return a `404` error.
-
 ### Use case
-
-- As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
+As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
 
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The link Loads
-- User verifies their identity
-- The user sees an appropriate message
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User sees a list of their appointments scheduled for today
+- For each appointment for which the user has already checked-in, user sees a message telling them that they already checked-in
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- User sees a message telling them that they already checked-in
 
-## Test Case H: Edge Case - User Tries to check in again after not completing an earlier check in attempt
-
+## TEST CASE H: EDGE CASE - USER TRIES TO CHECK-IN AGAIN AFTER NOT COMPLETING CHECK-IN FOR AN APPOINTMENT
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
-
-- As a user, I have clicked on a valid link to check-in after previously not fully completing checking in for the same appointment
-  - this is to simulate a user closing their app mid check-in and returning later to complete check-in
+As a user, I have clicked on a valid link to check-in after previously not fully completing checking in for the same appointment (this is to simulate a user closing their app mid check-in and returning later to complete check-in)
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The user clicks the link
-- The link Loads
-- The user selects "No" to the `Update Information` question
-- The user closes their app
-- The user click the link
-- The link Loads
-- The user selects "No" to the `Update Information` question
-- User selects the `Check-in now` button
-- User should be on the confirmation screen and see appropriate messaging that matches the mockups
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `Yes` for each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees a list of their appointments scheduled for today
+- User closes their app
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `Yes` for each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees a list of their appointments scheduled for today
+- User selects the `Check-in now` button for one of their appointments that is within the check-in window (i.e. no more than 30 minutes in the future and no more than 15 minutes in the past)
+- User should now be on the `You're checked in` page and see a message telling them that they are checked-in for the appointment
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
 - No errors are thrown
-- The user sees a confirmation screen with appropriate messaging that matches the mockups
+- User sees a confirmation screen with a message telling them that they are checked-in for the appointment
 
-## Test Case I: Edge Case - User Refreshes the app before finishing the check in process
-
+## TEST CASE I: EDGE CASE - USER REFRESHES APP BEFORE FINISHING CHECK-IN PROCESS
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
-
-- As a user, I have clicked on a valid link to check-in, and I have refreshed the page during the check-in process
-  - this is to simulate a user leaving the app and returning during the process on a mobile device that could reload the app in the middle of check-in
+As a user, I have clicked on a valid link to check-in, and I have refreshed the page during the check-in process (this is to simulate a user leaving the app and returning during the process on a mobile device that could reload the app in the middle of check-in)
   
 ### Arrange (Data needed)
-
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-
-- The user clicks the link
-- At some point, before clicking "check-in," the user refreshed the page.
+- User clicks their Check-in link and the application loads
+- User verifies their identity and clicks `Continue`
+- User selects `Yes` for each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees a list of their appointments scheduled for today
+- User refreshes the app
 - The app is loaded at the at the beginning of the check-in process for the same appointment
+- User selects `Yes` for each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees a list of their appointments scheduled for today
+- User selects the `Check-in now` button for one of their appointments that is within the check-in window (i.e. no more than 30 minutes in the future and no more than 15 minutes in the past)
+- User should now be on the `You're checked in` page and see a message telling them that they are checked-in for the appointment
 
 ### Assert (Expected Outcome)
-
 - Application does not crash
 - The user is still allowed to check-in.
