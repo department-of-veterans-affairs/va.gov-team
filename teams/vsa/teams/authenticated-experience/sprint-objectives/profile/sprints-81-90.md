@@ -212,6 +212,36 @@ We'll make this more specific before planning.
 
 ## Sprint 85 (10/19 - 11/1)
 
+Don't forget to move over anything that wasn't complete from last sprint.
+
+### Bad address indicator
+
+- Launch to 100%
+- DOCUMENTATION SPRINT
+  - PM to update Contact info product outline and bad address project outline, if/as needed
+  - Design to update use cases, flows, and Sketch files for contact info. You can also link these from the bad address project outline, but remember the primary thing we want updated is the Contact Info product outline.
+  - FE to update contact info docs as needed
+  - BE to update contact info docs as needed (may not be needed for BE, but we can let Tom decide)
+
+### Accessibility updates
+
+**Design**
+
+This really depends on what comes out of Liz and Christina's work for this sprint, so let's plan to review where they are at no later than Monday.
+
+**FE**
+
+If applicable, finish FE updates.
+
+### Notification preferences
+
+This is only if there is time. We can push back a sprint if there is already too much work for Tom between our team and My VA.
+
+**BE**
+
+- Resume/revisit discovery on the default opt-in indicator.
+  -  If this is already complete, let's talk about what needs to happen for us to consume it, as we'll eventually want to be able to utilize it once we migrate over existing email notifications from MHV. 
+
 ## Sprint 86 (11/2 - 11/15)
 
 ## Sprint 87 (11/16 - 11/29)
