@@ -230,6 +230,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
   - usage of "VA health care" link
 - Click "End" on zoom website
 - Download recordings
+- Download transcript
 - Download notes
 - Debrief to my spreadsheet
 
