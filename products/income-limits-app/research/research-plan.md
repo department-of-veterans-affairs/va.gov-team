@@ -95,7 +95,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
 |Female          |    5       |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    2        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |    2       |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
 |Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
@@ -253,12 +253,74 @@ What demographics, experience, and scenarios do you need participants to meet to
        
 
 ### Screener
+#### Overview
+We would like to have 15 total Veterans recruited, within **3 cohorts of 5 participants each**, defined as follows:
 
-1. Do you have experience using VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    1. Yes *(recruit 6)* 
-    1. No *(recruit 6)*
+- **Cohort 1**: have recently *(within the past 3 months)* **applied** for VA health care benefits (5 participants)
 
-1. Please make sure that ALL participants:
+- **Cohort 2**: are actively **considering applying** for VA health care benefits (5 participants)
+
+  - **Cohort 2a** (invite if 5 participants of cohort 2 are unsourceable): are **interested in learning more** about VA health care benefits
+
+- **Cohort 3**: have recently *(within the past 3 months)* **experienced a change that may result in a change of eligibility** (10-10 EZ)
+
+#### Screening Questions
+1. *(For everyone)* How often do you go online to access VA benefits and services?
+     1. Never *(recruit 3)*
+     1. Once per year or less, or once per quarter *(recruit 3)*
+     1. Once per month, A few times per month, Once a week, A few times per week, or About once a day *(recruit 3)*
+
+1. *(For everyone)* Are you currently receiving VA health care benefits?
+     1. Yes *(recruit 10 for Cohorts 1 and 3)*
+     1. No  *(recruit 5 for Cohort 2)*
+     1. I don't know *(disqualify)*
+
+
+1. *(For Cohort 1 only)* Which of the following best describes when you (most recently) applied for VA health care benefits?
+     1. Within the past month    *(recruit 1-5 for Cohort 1)*
+     1. Within the past 3 months *(recruit 1-5 for Cohort 1)*
+     1. Within the past 6 months *(skip to screening question #7)*
+     1. Within the past year     *(skip to screening question #7)*
+     1. More than a year ago     *(skip to screening question #7)*
+
+1. *(For Cohort 1 only)* How did you (most recently) apply for VA health care benefits? Seeking a diversity of responses. 
+     1. On my own, on paper
+     1. On my own, online
+     1. On my own, in person
+     1. With the help of a VSO or With the help of a transition service officer at Department of Defense
+     1. With the help of a fellow veteran
+     1. Other
+
+1. *(For Cohort 2 only)* Which of the following benefits are you *currently in the process of* applying to? 
+     1. Health care benefits  *(recruit 5 for Cohort 2)*
+     1. Education & career services, such as GI Bill  *(disqualify)*
+     1. Disability benefits, such as claims & appeals *(disqualify)* 
+     1. Housing benefits, such as adaptive housing, home loans, homelessness services *(disqualify)* 
+     1. Pension benefits  *(disqualify)*
+     1. Life insurance    *(disqualify)*
+     1. Memorial benefits *(disqualify)*
+     1. Other             *(disqualify)*
+     1. I don't know      *(disqualify)*
+
+1. *(For Cohort 2a only if needed)* Which of the following benefits are you *interested in* learning more about?
+     1. Health care benefits *(recruit 5 for Cohort 2a)*
+     1. Education & career services, such as GI Bill  *(disqualify)*
+     1. Disability benefits, such as claims & appeals *(disqualify)* 
+     1. Housing benefits, such as adaptive housing, home loans, homelessness services *(disqualify)* 
+     1. Pension benefits  *(disqualify)*
+     1. Life insurance    *(disqualify)*
+     1. Memorial benefits *(disqualify)*
+     1. Other             *(disqualify)*
+     1. I don't know      *(disqualify)*
+
+1. *(For Cohort 3 only)* Since receiving VA health care benefits, have you experienced any of the following?
+     1. A change in number of dependents *(recruit 1-5 for Cohort 3)*
+     1. A change in annual income *(recruit 1-5 for Cohort 3)*
+     1. A change in geographic area *(recruit 1-5 for Cohort 3)*
+     1. Other: _________________ (??) *(disqualify)*
+     1. None of these apply *(disqualify)*
+
+1. *(For everyone)* Please make sure that ALL participants:
     1. During the session, are willing to share over Zoom a web browser window on their device
     1. Have a working microphone on their device
     1. Have Zoom downloaded to their device prior to the session
@@ -283,121 +345,17 @@ Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Oct TBD, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 
+* No more than 4 sessions/day
 
-# OLD...
-### Recruitment approach
-Intended audience is Veterans, and recruitment is through Perigean. 
-
-### Recruitment criteria
-15 total Veterans  (within 3 cohorts of 5 participants each) to be recruited as participants for this study.
-
-**Primary criteria (must-haves)**
-
-Cohort 1: have recently *(within the past 3 months)* applied for VA health care benefits (6 participants)
-
-Cohort 2: are actively considering applying for VA health care benefits (6 participants)
-
-Cohort 2a: are interested in learning more about VA health care benefits (invite if 6 participants of cohort 2 are unsourceable)
-
-Cohort 3: have recently *(within the past 3 months)* experienced a change that may result in a change of eligibility (10-10 EZ)
-
-For all cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
-- At least 20% participants: Never
-- At least 20% participants: Once per year or less, or once per quarter
-- At least 20% participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
-
-For cohort 1, seeking a diversity of responses to question: How did you recently apply for VA health care benefits?
-- At least 1 participants: On my own, on paper
-- At least 2 participants: On my own, online
-- At least 1 participants: On my own, in person
-- At least 1 participants: With the help of a VSO or With the help of a transition service officer at Department of Defense
-- At least 1 participants: With the help of a fellow veteran
-- At least 1 participants: Other
-
-For cohort 1, seeking a response of "yes" to question: Are you currently receiving VA health care benefits?
-
-For cohort 1, seeking a response of "within the past month" OR "within the past 3 months" to question: Which of the following best describes when you (most recently) applied for VA health care benefits?
-- Within the past month
-- Within the past 3 months
-- Within the past 6 months
-- Within the past year
-- Within the past 5 years
-- Within the past 10 years
-- More than 10 years ago
-
-For cohort 2, seeking a response of "no" to question: Are you currently receiving VA health care benefits?
-
-For cohort 2, seeking a response of "health care benefits" to question: Which of the following benefits are you *currently in the process of* applying to?
-- Health care benefits
-- Education & career services, such as GI Bill
-- Disability benefits, such as claims & appeals
-- Housing benefits, such as adaptive housing, home loans, homelessness services
-- Pension benefits
-- Life insurance
-- Memorial benefits
-- Other
-- I don't know
-
-For cohort 2a, seeking a response of "health care benefits" to question: Which of the following benefits are you *interested in* learning more about?
-- Health care benefits
-- Education & career services, such as GI Bill
-- Disability benefits, such as claims & appeals
-- Housing benefits, such as adaptive housing, home loans, homelessness services
-- Pension benefits
-- Life insurance
-- Memorial benefits
-- Other
-- I don't know
-
-For cohort 3, seeking a response of one or more answers "a change in..." question: Since receiving VA health care benefits, have you experienced any of the following?
-- A change in number of dependents
-- A change in annual income
-- A change in geographic area
-- Other: _________________ (??)
-- None of these apply
-
-**Secondary criteria (nice-to-haves)**
-
-[Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-- Geographic distribution: at least 4 from each of the east coast, the midwest, the south, and the west coast
-- Age distribution: at least 4 from each of the following age groups: 25-40, 40-55, 55-64, 65+
-- At least 6 people of color (especially Native)
-- At least 5 in a rural area
-- At least 4 without a degree
-- At least 5 women
-- At least 2 LGBTQ
-- At least 1 person with a cognitive impairment (Why not more? Since we're not putting a prototype or screens in front of the user, having participants with cognitive impairments is less important at this point. Would be nice to have at least 1 here)
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
-### Prepare
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research: ________
-* No more than 3 sessions/day
-
-### Length of sessions
-* Session length: up to 1 hour
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-
-### Moderator Availability
-7AM - 8PM ET, M-F
-	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Cindy Merrill, cindy.merrill@adhocteam.us	
-- Research guide writing and task development: Florence McCafferty	
+Please list the people who will be serving in each role.  	
+- Moderator: Cindy Merrill (cindy.merrill@adhocteam.us)
+- Research guide writing and task development: Florence McCafferty wrote; Cindy Merrill revised
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Wes Rowe, wesley.rowe@agile6.com	
+- Project point of contact: Cindy Merrill	
 - Participant(s) for pilot test: TBD	
 - Note-takers: Perigean	
-- Observers: Dave Conlon david.conlon@va.gov, Wes Rowe wesley.rowe@agile6.com
-
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com)
 
 ## Approvals
 - Already reviewed and approved by Dave Conlon (PO) and Clayton Zook
