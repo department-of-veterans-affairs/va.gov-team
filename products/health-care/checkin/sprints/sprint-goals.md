@@ -22,17 +22,21 @@
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finish infrastructure to send a claim to the BTSSS API
-    - Connect frontend to the API calls
-    - ????
+    - Make progress on infrastructure to send a claim to the BTSSS API
+    - Connect frontend to the API calls   
+    - Determine if we display appointments for Which Check-in is NOT enabled
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release
+        - Asking UX if we need to send translations to Design System
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - Implement & release the "before" & "after" check-in window scenarios
     - Begin work on the "during" check-in window scenario
 - CIE Tech Debt & Bugs
     - [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
+    - [[BUG][FE] CHECK-IN: See Staff Page is Missing the Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48099)
     - [[BUG][FE] CHECK-IN: Go to another appt link bug - Single Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47135)
+        - ??????? Ben having meeting
+
     
 ## 10/05/2022 
 
