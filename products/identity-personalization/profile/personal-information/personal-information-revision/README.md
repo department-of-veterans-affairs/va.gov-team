@@ -1,8 +1,8 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: August 17, 2022 
+Last updated: October 12, 2022 
 
-### Table of Contents
+## Table of Contents
 
 - [POCs](#pocs)
 - [Overview](#overview)
@@ -13,25 +13,36 @@ Last updated: August 17, 2022
 - [Solution Approach](#solution-approach)
 - [Design](#design)
 
-### POCs
+## POCs
 
 - **Github labels**: vsa-authenticated-exp
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
-### Roles
-
-#### OCTO team
+### OCTO team
 
 [This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
-#### Stakeholders
+### VA Profile
+
+|Name|Role|Email|
+|----|----|-----|
+|Barbie Flowers| IT Product Manager – VA Profile|barbara.flowers3@va.gov|
+|Mike Richard| VA Profile PM | Michael.Richard2@va.gov|
+|Josh Lindsey | VA Profile lead engineer| Joshua.Lindsey@va.gov|
+
+### LGBTQ health services
+
+|Name|Role|Email|
+|----|----|-----|
+|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
+|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
+
+### VEO
 
 |Name|Role|Email|
 |----|----|-----|
 |Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
 |Laurie Baker | VBA partner | laurie.baker@va.gov |
-|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
-|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
 
 ## Overview
 
