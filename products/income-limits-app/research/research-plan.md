@@ -328,23 +328,27 @@ We would like to have 15 total Veterans recruited, partitioned into **3 cohorts 
 ## Timeline
 
 ### Prepare
-- Pilot #1: **TBD** with TBD
-- Pilot #2: **TBD** with TBD
+- Pilot: **Oct 14 or 17** with TBD
 
 ### Research sessions
-* Planned dates of research: **Oct TBD** 
+* Planned dates of research: **Oct 19-20, Nov 14-16 ** 
 
 ### Length of sessions
 * Session length: 1 hour
-* Buffer time between sessions: 30 minutes
+* Buffer time between sessions: 1 hour
 
 ### Availability
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Oct TBD, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
+Oct 19, 2022 | 12-1, 2-3, 6-7 pm
+Oct 20, 2022 | 12-1, 2-3, 6-7 pm
+Nov 14, 2022 | 12-1, 2-3, 5-6 pm
+Nov 15, 2022 | 12-1, 2-3, 5:30-6:30
+Nov 16, 2022 | 12-1, 2-3, 5-6 pm
+Nov 17, 2022 | 12-1, 2-3, 6-7 pm
 
-* No more than 4 sessions/day
+No more than 3 sessions per day
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
