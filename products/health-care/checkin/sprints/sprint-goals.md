@@ -1,5 +1,21 @@
 # SPRINT GOALS
 
+## 10/09/2022 (---------------------FUTURE------------------------)
+
+#### Planned Releases  (---------------------TENTATIVE------------------------)
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+
+#### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+- 
+
+#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
+- [Production Support]() 
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finish infrastructure to send a claim to the BTSSS API 
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+    - Complete minor updates & release
+    
 ## 10/05/2022 
 
 #### Planned Releases 
@@ -26,7 +42,7 @@
 - [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
     - Get started (Ben)
 - [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
-    - Weekly analysis (Lori/Kitchen)
+    - Weekly analysis (Lori/Kristen)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Synthesize unmoderated study data & create report (Kristen)
     - Collaborate with VAOS to determine where they are in their process (Kristen)    
