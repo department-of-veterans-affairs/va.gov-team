@@ -87,14 +87,16 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 |Field name|Updates in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
-|Preferred name| 6,384|6,598 |6,386 |
-|Gender identity| 12,248 |12,770 |12,436 |
+|Preferred name|6,384|6,598|6,386|
+|Gender identity|12,248|12,770|12,436|
 
-**KPI**: We see at least a 95% success rate for retrieving this information from the backend.
+**KPI**: We see at least a 95% success rate for retrieving and saving this information from the backend.
 
 |Field name|Success rate in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
-|Retrieval rate| 99%| | |
+|Retrieval rate for preferred name & gender identity|98%|98%|98%|
+|Save rate for preferred name|99%|99%|99%|
+|Save rate for gender identity|99%|98%|99%|
 
 
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
