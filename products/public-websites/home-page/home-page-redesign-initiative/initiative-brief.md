@@ -142,30 +142,53 @@ Iterations should support the following goals:
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
+### Round 2 design iteration | October 2022
+
+<details>
+<summary> Round 2 design iteration | October 2022 </summary>
+ 
+ ![Home-R2-D-1_ PROMO-h1](https://user-images.githubusercontent.com/55411834/195213208-f3590773-b6af-49b7-8e13-4ad5d08edaf6.png)
+
+</details>
+
+- Making information on changes to benefits and services more readily available should result in higher engagement with fresh and timely featured content, measured by increases in clickthrough rates
+- Adding context and clearer link labels for news promo spotlight	should improve comprehension and engagement Participants in usability research sessions weren't able to easily distinguish news content from ads or information about benefit changes because of context and unclear link language.	Higher engagement with fresh and timely featured content, measured y increases in clickthrough rates
+- Changing button from "sign up/sign in" to "create account" only	should increase use of the logged in experience and account creation originating on homepage
+- Increased number of links will improved discoverability and findability of information and improved task completion for common tasks and those which are difficult to find by browsing or frequently searched from the homepage
+- Changes to "Other search tools"	will improve task completion and Veteran understanding 
+- Adding Resources and support link	will improve task completion and result in traffic to Resources and Support page originating from homepage
+- Adding email sign up	will provide an avenue to Veterans to receive updates and information 
+- addition of Addition of "Welcome to VA.gov H1	will improve experience for those using screenreaders or keyboard navigation by giving context to landing page
+
 ### Next steps
 
 1. Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
    > Status: Complete - June 2022 | [Unmoderated top task finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)
 
 2. Validate design changes with Veterans
-   > Status: Planned for August 2022 | [Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
+   > Status: Complete - August 2022 | [Usability research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)
 
 3. Share research findings broadly 
-   > Status: ongoing. Top task presentation to Sitewide PO group planned for August 11, 2022. 
+   > Status: Complete. Top task and usability findings have been presented broadly, including to Public Websites, Authenticated Experience and Health Apartment teams. 
 
 4. Continue to refine objectives and key results 
-
+   > Status: Ongoing
+   
 5: Develop a rubric for delivering menaingful Veteran-facing content 
+   > Status: In progress. Initial rubric was used to determine list of links for design iteration, round 2.
 
 6. Design iterations, informed by analytics and research findings 
-   > Planned changes ~3Q22**
-   > - Address accessibility feedback
-   > - Update Top Tasks based on research findings
-   > - Language/labels for "other search tools"
-   > - Consider replacing Veteran portraits with additional promo space to be used for OPIA priority information (i.e. PACT ACT)
-   >    - _this will require consensus on content governance and accessibility support, particularly for images_
-   > - "Off ramp" area for non-Veteran facing content
-   > - Order of benefit hubs based on benefit utilization and analytics
+   > Status: Round 2 complete - [Description of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/round-2-design-iteration.md)
+
+7. Validate design changes with Veterans
+   > Status: _Planned - October 2022_ | [Round 2 Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
+
+8. Present to Web Governance Board and Digital Modernization Council stakeholders
+   > Status: _Scheduled for October 20-21, 2022_
+
+9. Share research findings broadly 
+   > Status: _Pending_
+
 
 ## Ongoing efforts
 
