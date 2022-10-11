@@ -26,9 +26,9 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 ### Apartment Team (aka Core Team)
 
 **Federal employees** 
--	Design: Coulton Bunney
--	Engineering: Christopher Froehlich
 -	Product: Leila Rassi
+-	Design: Coulton Bunney
+
 
 **Contractors (Ad Hoc)** 
 -	Design: Jonathan Nelson
