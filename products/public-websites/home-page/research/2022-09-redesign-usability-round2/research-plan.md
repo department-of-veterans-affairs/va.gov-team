@@ -299,7 +299,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill 
 - Participants for pilot test:	Angela Fowler and TBD
 - Note-takers:	Perigean
-- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us).* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
+- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with screen readers: Angela Fowler (angela.fowler@adhocteam.us).* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
