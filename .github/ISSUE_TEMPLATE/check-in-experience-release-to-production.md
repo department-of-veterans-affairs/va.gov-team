@@ -7,8 +7,10 @@ assignees: ''
 ---
 
 ## ENGINEERING TASKS
-- [ ] Merge code to main branch on day of release or flip a feature flag
+- [ ] Merge code to main branch (or flip the feature flag) on day of release
 - [ ] Conduct prod or staging validation, if necessary
+   - [ ] Needed
+   - [ ] Not needed
 
 ## RESEARCH TASKS
 - [ ] Push updated Product Guides to Git
