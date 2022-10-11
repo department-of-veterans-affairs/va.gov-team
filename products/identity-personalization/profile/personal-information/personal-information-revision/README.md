@@ -85,12 +85,16 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 **KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
+**Assessment**: KPI partially met. We exceeded expectations for gender identity, and had many fewer updates for preferred name. We can use these metrics as a baseline for expected behavior going forward.
+
 |Field name|Updates in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
 |Preferred name|6,384|6,598|6,386|
 |Gender identity|12,248|12,770|12,436|
 
 **KPI**: We see at least a 95% success rate for retrieving and saving this information from the backend.
+
+**Assessment**: Goal met.
 
 |Field name|Success rate in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
@@ -102,6 +106,8 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
 
 [Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
+
+**Assessment**: While there were fluctuations, we didn't see significant and consistent drops over time to contact information, so it does not appear that Contact Information took a hit by moving to a different URL.
 
 |Field name| Monthly updates 1 month pre-launch (5/15/22 - 6/14/22) | First month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|------------|
