@@ -7,9 +7,7 @@
   
   </details>
 
-## Design iterations
-
-### Summary of changes
+## Summary of changes
 
 The following changes were informed, in part, by the [findings from the VA.gov homepage usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) conducted in August 2022. 
 
