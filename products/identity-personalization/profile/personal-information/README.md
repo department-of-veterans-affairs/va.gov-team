@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: August 23, 2022
+Last Updated: October 12, 2022
 
 ## Table of Contents
 
@@ -18,7 +18,31 @@ Last Updated: August 23, 2022
 
 - **Github labels**: authenticated-experience
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)  
+### Authenticated experience
+
 - [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+### VA Profile
+
+|Name|Role|Email|
+|----|----|-----|
+|Barbie Flowers| IT Product Manager – VA Profile|barbara.flowers3@va.gov|
+|Mike Richard| VA Profile PM | Michael.Richard2@va.gov|
+|Josh Lindsey | VA Profile lead engineer| Joshua.Lindsey@va.gov|
+
+### LGBTQ health services
+
+|Name|Role|Email|
+|----|----|-----|
+|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
+|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
+
+### VEO
+
+|Name|Role|Email|
+|----|----|-----|
+|Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
+|Laurie Baker | VBA partner | laurie.baker@va.gov |
 
 ## Overview
 
