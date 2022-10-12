@@ -2,7 +2,9 @@
 
 ## Moderator logistics
 
-*Review participant list for participant name and screener question responses*
+**Before all sessions**:
+- *Review participant list for participant name and screener question responses*
+- *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
 
 **10-15 min before session**: 
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
@@ -55,6 +57,7 @@ Before we start, I want to go over a few things:
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
+*Click Live Transcript, un-check box for "Allow participants to request Live Transcription", click* **Enable**
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -222,6 +225,10 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
 Thank you so much again, and I hope that you enjoy the rest of your day!
+
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
 
 ## After Session 
 - Take special note of
