@@ -4,7 +4,7 @@
 We show this section for every LOA3 user.
 
 ## UX Specs
-### What benefits does the VA offer? (dropdown)
+### What benefits does VA offer? (dropdown)
 *Closed state:*
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B58922A6-13FB-4CF1-9DCB-F270B9DD2DC0)
@@ -27,11 +27,11 @@ We show this section for every LOA3 user.
 #### **Content**
 *Closed state:*
 
-What benefits does the VA offer?
+What benefits does VA offer?
 
 *Open state:*
 
-What benefits does the VA offer?
+What benefits does VA offer?
 
 **Explore VA.gov to learn about the benefits we offer.**
 - [Health care](https://va.gov/health-care/)
@@ -89,6 +89,10 @@ Continue your application (linked to saved application)
 #### **Content**
 
 You have no saved applications to show.
+
+**Positioning**
+
+This text appears below the "What benefits does VA offer?" dropdown, on the lefthand side of the page on desktop.
 
 ---
 
