@@ -51,7 +51,7 @@ Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **If for any reason and at any time you want to stop the session, please let me know.** If you aren't comfortable answering some of the questions that I ask, please let me know and I'll be happy to move on.
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
