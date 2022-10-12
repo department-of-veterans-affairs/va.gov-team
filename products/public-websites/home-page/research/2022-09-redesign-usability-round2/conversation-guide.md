@@ -57,7 +57,8 @@ Before we start, I want to go over a few things:
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
-*Click Live Transcript and* **Enable**.
+*Click Live Transcript and* **Enable**. 
+*Click Live Transcript > View Full Transcript*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
