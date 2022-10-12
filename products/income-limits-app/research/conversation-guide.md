@@ -167,7 +167,6 @@ When emergency is stabilized:
 
 ## After Session 
 - Click "End" on zoom website
-- Download recordings
-- Download transcript
+- Download recording w/transcript (.vtt file)
 - Download notes
 - Debrief to my spreadsheet
