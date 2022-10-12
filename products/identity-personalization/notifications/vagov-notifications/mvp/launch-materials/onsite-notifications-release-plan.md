@@ -22,10 +22,17 @@
 - Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
 - [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
 
-**Desired date range for phased rollout:** 
-- 25% of users (1 week), Dates ____: [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288)
-- 50% of users (1 week), Dates ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
-- If all goes well, then go to 100% of users ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
+**Desired date range for phased rollout:** 9/26/2022 - 10/11/2022
+
+**Phased rollout:** 
+_Dates subject to change_
+|Launch % |Time Frame | Planned Date Range | Ticket | 
+|-------|-----------|-----------|------|
+| Launch to 25% | 1 week | week of 09/26/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
+| Launch to 50% | 1 week | week of 10/03/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 100% | 1 week | week of 10/11/2022 |[#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+
+
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Onsite Notifications brief: Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#measuring-success)
@@ -34,11 +41,11 @@
 
 ## Go Live!
 ### Planning:
-- _Desired date for 25%: 09/26/2022_
-- Actual date for 25%: mm/dd/yyyy
-
-- _Desired date for 100%: mm/dd/yyyy_
-- Actual date for 100%: mm/dd/yyyy
+|Launch % |_Desired Date_ | Actual Date | Ticket |
+|-------|-----------|-----------|----------|
+| Launch to 25% | _09/26/2022_ | mm/dd/yyyy | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
+| Launch to 50% | _10/03/2022_ | mm/dd/yyyy | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 100% | _10/11/2022_ | mm/dd/yyyy | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)|
 
  
 ### 1-week (at 100%) results:
