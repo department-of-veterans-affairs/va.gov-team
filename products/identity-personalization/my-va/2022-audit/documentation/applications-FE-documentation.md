@@ -4,24 +4,33 @@
 We show this section for every LOA3 user.
 
 ## UX Specs
-### What benefits does the VA offer? dropdown
+### What benefits does the VA offer? (dropdown)
 *Closed state:*
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B58922A6-13FB-4CF1-9DCB-F270B9DD2DC0)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
 
 *Open state:*
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C85D4811-EE36-4BC4-A128-91204CA032C0)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A4773221-DDEB-4512-A53B-75C191ECEF7E)
 
 **Visual specs**
 
 - Use the [additional info component](https://design.va.gov/storybook/?path=/docs/components-va-additional-info--default) in the VA design system.
 
+**Positioning**
+
+- This dropdown appears directly below the "Saved applications" header, above any saved application cards or text stating that the user does not have any saved applications.
+- When the dropdown is expanded, any saved applications or text stating that the user does not have any saved applications is pushed down below the expanded menu as shown in the mockups linked above.
+
 #### **Content**
 *Closed state:*
+
 What benefits does the VA offer?
 
 *Open state:*
+
 What benefits does the VA offer?
 
 **Explore VA.gov to learn about the benefits we offer.**
@@ -38,105 +47,51 @@ What benefits does the VA offer?
 
 ---
 
-### Claims and appeals status card
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+### Saved application card
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
 
 **Show card**
 
-- If a user has an open claim or appeal, or their claim or appeal has been closed in the last 60 days.
+- If a user has started an application for benefits but has not yet submitted it.
 
 **Do NOT show card**
 
-- If a user has not had an open claim or appeal in the last 60 days.
+- If a user does not have any saved benefit applications that they have not yet submitted.
 
 **Visual specs**
 
-- Use the [card component](https://design.va.gov/components/card) in the VA design system
+- Use the [form status verison of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
 
 #### **Content**
 
-Title
+Form code
 
-Date
+Application type
 
-Status
+`exclamation-circle` Application expires on: Date
 
-View details (link)
+Last opened on: Date
 
-**Content specs**
+Continue your application (linked to saved application)
 
-- Title: (Type of claim) received (date) - pulled from the claim details link. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
-- Date: Latest update date, also pulled from the claim details link above 
-- Status: Most recent completed status step in the "Status" table of the claim details link above
-- View details: Links to the claim details which is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
+#### **Content specs**
+
+- The data for the saved applications card is gathered from the same API call as the main user call.
 
 ---
 
-### If a user does not have an open claim or appeal, or a claim or appeal closed in the last 60 days
+### If a user does not have any applications in progress to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
-
-**Show**
-
-- If a user does not have any open claims or appeals, or they had a claim or appeal that closed over 60 days ago.
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/10A09E21-70D7-4606-9E8A-1EBB31AE8EC9)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C7F1D33D-5400-41CE-8F6D-78F43105AE91)
 
 #### **Content**
 
-You have no claims or appeals to show.
-
----
-
-### Learn how to file a claim link
-
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
-
-Use font awesome icon `file-lines` for icon
-
-**Show**
-- For users who do not have a claim or appeal update to show as outlined above.
-
-**Positioning**
-- This link should appear on the lefthand side on desktop as the first link in the list, above "Manage all claims and appeals".
-
-#### Content
-
-[Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/)
-
----
-
-### Manage all claims and appeals link
-
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
-
-- Use font awesome icon `clipboard-check`
-
-**Show**
-- For all LOA3 users.
-
-**Positioning**
-- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
-- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
-
-#### Content
-[Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/)
+You have no saved applications to show.
 
 ---
 
 ## Error States
 
-### Error State 1: The claims API call fails
-
-#### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
->**We can't access any claims or appeals information right now.**
->
->We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
-
-**Positioning**
-- This should appear under the 'Claims and appeals' header on the lefthand side on desktop.
-
-#### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+- The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error.
