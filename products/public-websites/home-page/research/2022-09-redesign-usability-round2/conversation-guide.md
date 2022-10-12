@@ -229,7 +229,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
   - any accessibility issues with megamenu
   - usage of "VA health care" link
 - Click "End" on zoom website
-- Download recordings
+- Download recording w/transcript (.vtt file)
 - Download transcript
 - Download notes
 - Debrief to my spreadsheet
