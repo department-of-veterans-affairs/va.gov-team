@@ -57,7 +57,9 @@ Before we start, I want to go over a few things:
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
+
 *Click Live Transcript and* **Enable**. 
+
 *Click Live Transcript > View Full Transcript*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
@@ -232,13 +234,13 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 *End meeting for all*
 
 ## After Session 
+- Click "End" on zoom website
 - Take special note of
   - any issues using a screen reader or smartphone
   - any accessibility issues with megamenu
   - usage of "VA health care" link
-- Click "End" on zoom website
-- Download recording w/transcript (.vtt file)
-- Download transcript
+- Download recording and closed caption (.vtt file)
+- Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
 
