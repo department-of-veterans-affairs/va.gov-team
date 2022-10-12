@@ -147,14 +147,14 @@ _No changes, but measure % of success completing the task on launch._
     * All participants struggled with dates.
 
 **Insights:**  
-_Users expect the progress bar to be true to the number of steps they have taken and clickable. They lose their way when the steps do not reflect the number of decisions they have made._  
+_**Wayfinding:** Users expect the progress bar to be true to the number of steps they have taken and clickable. They lose their way when the steps do not reflect the number of decisions they have made._  
 
-_Some participants got lost in the evidence flow and weren’t confident that they entered the correct evidence for their issues, which might lead them to abandon, seek help or receive a denial._
+_**Evidence flow:** _Some participants got lost in the evidence flow and weren’t confident that they entered the correct evidence for their issues, which might lead them to abandon, seek help or receive a denial._
 
-_Most participants did not know or were unsure of exact dates of treatment and were nervous about entering a specific day. One user struggled with how to enter ongoing treatment. This might cause them to seek help through a VSO, abandon, or enter erroneous information._
+_**Dates:** _Most participants did not know or were unsure of exact dates of treatment and were nervous about entering a specific day. One user struggled with how to enter ongoing treatment. This might cause them to seek help through a VSO, abandon, or enter erroneous information._
 
 **Recommendations:**  
-_**Wayfinding:** Experiment with sections rather than steps and consider a clickable progress bar. Also consider if the heavy evidence section needs to be broken into smaller sections._  
+_**Wayfinding:** _Experiment with sections rather than steps and consider a clickable progress bar. Also consider if the heavy evidence section needs to be broken into smaller sections._  
 
 _**Evidence flow:** Rework the evidence flow design to lead the user through gathering their evidence for one issue at a time, leading with the issue._
 
