@@ -1,19 +1,21 @@
 # My VA team priorities through Q4 2022 (October - December)
 
-### This is a draft and not ready to share with the team.
-
 ## Wins in Q3 2022 (July - September 2022)
 
 We did a lot, including:
 
 - Launched the homepage > login > My VA redirect.
-- Launched the on-site notifications MVP.
+- Completed most of the work for the on-site notifications MVP.
 - Completed an audit of current states of My VA.
 - Completed a substantial amount of work on payments V2.
 
 ...and much, much more that is still ongoing. Great work, team!
 
 ## Continuing and upcoming work for Q4 2022 
+
+### On-site notifications MVP
+
+We're almost done! This should be launching early October.
 
 ### Payments and Debts V2
 
