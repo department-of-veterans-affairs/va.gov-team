@@ -1,5 +1,17 @@
 # Certificate of Eligibility Content Source of Truth
 
+
+## Contents
+- [Request a COE](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#request-a-coe)
+- Find out if you already have a COE and download it
+- [Check the status of your request](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#check-the-status-of-your-request)
+- Get an automatic COE
+
+---
+
+## Request a COE
+[Staging Link](https://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
+
 **_SIGNED OUT_**
 
 ## Request a VA home loan Certificate of Eligibility (COE)
@@ -279,6 +291,8 @@ A 1MB file equals about 500 pages of text. A photo or scan is usually about 6MB.
 **Need help?**
 If you need help or have questions about your eligibility, call us at <a href="tel:+18778273702" aria-label="8 7 7. 8 2 7. 3 7 0 2.">800-827-3702</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). We’re here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
 
+---
+
 ## Step 6 of 6: Review your request
 Your application will be saved on every change.
 
@@ -374,3 +388,44 @@ Your uploaded documents
 
 **Need help?**
 If you need help or have questions about your eligibility, call us at <a href="tel:+18778273702" aria-label="8 7 7. 8 2 7. 3 7 0 2.">800-827-3702</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). We’re here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
+
+---
+
+## Find out if you already have a COE and download it
+
+---
+
+
+## Check the status of your request
+
+[Staging Link](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe?postLogin=true)
+
+## Your VA home loan COE
+_We’re reviewing your request for a COE_
+
+You requested a COE on:
+
+If you qualify for a Certificate of Eligibility, we’ll notify you by email to let you know how to get your COE.
+
+Reference Number: 
+
+### You have letters about your COE request
+We’ve emailed you notification letters about your COE request. Please read these and follow the steps they outline. You may need to take action before we can make a final decision.
+
+- Date sent: Date
+- [Download Notification Letter Date (PDF)](#)
+
+### Should I request a COE again?
+No. We’re reviewing your current request, and submitting a new request won’t affect our decision or speed up the process.
+
+If more than 5 business days have passed since you submitted your request and you haven’t heard back, please don’t request a COE again. Call our toll-free number at 877-827-3702.
+
+What if I have more questions?
+If you have any questions that your lender can’t answer, please call your VA regional loan center at 877-827-3702. We’re here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
+[Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp)
+
+---
+
+## Get an automatic COE
+
+Not accessible via staging as of this moment. LGY issue.
