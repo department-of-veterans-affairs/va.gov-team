@@ -1,9 +1,7 @@
-# Research Plan for [10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, November 2022]
+# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, November 2022
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline on usability of key tasks. 
-
-This list of key tasks will be determined based on past research, page analytics and team collaboration. This will be the initial study where a baseline will be determined and used in comparrison during future research studies.  
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -23,15 +21,15 @@ Are there moments that matter?
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 We will use the results from this research to esablish some baseline to compare against in future research studies specific to these key repeatable tasks. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- What tasks are consistently completed by participants with ease?
+- What tasks do the majority of participants struggle with or have some level of difficulty?
+- What tasks have a range of participant reactions
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
