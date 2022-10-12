@@ -1,9 +1,9 @@
 # Profile Editing Research Findings 
+`draft`
+
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Profile, Authenticated Experience**
 
-`DRAFT`
-
-10/11/2022
+10/12/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
@@ -25,8 +25,8 @@ _Then, describe your goals for this research_
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
 1. Learn whether or not our edit-in-place pattern presents major usability problems for people with cognitive disabilities on mobile devices.
 2. Identify any other usability hurdles in profile.
-**Note:** In this study, we’re going to test with a group of Veterans that would be most likely to have challenges with edit in place functionality: people with cognitive disabilities, those who use assistive technology, and those who have limited screen real estate. These are the people we are referring to when we say “people” throughout the rest of this document.
 
+**Note:** For this study, we recruited a group of Veterans that would thought would most likely to have challenges with edit in place functionality: people with cognitive disabilities, those who use assistive technology, and those who have limited screen real estate. These are the people we are referring to when we say “people” or “participants” throughout the rest of this document.
 
 ## Research Questions
 1. What challenges do people encounter related to in-line editing, especially address information and notification preferences?
@@ -50,7 +50,7 @@ We conducted this research through moderated sessions over Zoom. We asked partic
 		* thought they were finished updating their settings after adding their mobile number
 		* were not sure what to do next after adding their mobile number
 		* expected a save or submit button (rather than the auto-save function)
-* If a people can edit their profile without major challenges, we can be more confident our edit-in-place pattern works well for *all* Veterans.
+* If people can edit their profile without major challenges, we can be more confident our in-line editing pattern works well for *all* Veterans.
 	* Likely true
 
 ## Key Findings
@@ -60,23 +60,64 @@ We conducted this research through moderated sessions over Zoom. We asked partic
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
+### The majority of participants were able to update a VA.gov profile with in-line editing with relative ease.
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+We started our sessions by asking participants to update sections on the contact information page. All participants intuitively understood how to go from read-only to edit mode, complete forms and save their changes. The participants who actually read the alert content easily understood what it meant.
+
+### 5 of 11 participants experienced some minor confusion during the address validation process.
+
+All participants triggered the address validation alert (some naturally, others with guidance), and were able to make a selection and move forward. However, the entire process was not intuitive for 4 participants:
+- 2 participants who triggered the “confirm your address” validation message attempted to move onto another section without confirming their address
+- 3 participants did not see the edit buttons and weren’t sure how edit their entry
+- A screenreader participant encountered the edit button before the “use this address” and “cancel” buttons, and went back to edit before understanding all possible options.
 
 
-### Participants found little difference between editing contact information on one page compared to separate pages; both approaches were easily understood and usable.
+### In the contact information section, we observed some usability hurdles in that slowed multiple people down.
 
-Labels: label 1, label 2 
+The hurdles we observed were experienced by a minority of participants, but it’s important to note trouble spots that came up in our sessions. We hypothesize that Veterans with more severe cognitive considerations or less familiarity with technology would struggle more than those who successfully participated in remote usability testing.
 
-- Of the 10 participants we asked, only 2 noticed they were going to a new URL in the prototype and stayed on one page on the website. No one commented on this without being prompted.
-- Once it was pointed out, 3 participants shared concerns about bandwidth loading a new page for each edit.
-- When discussing differences between the two approaches, 8 of 10 participants stated they preferred to stay on one page. One participant who preferred the multi-page approach said it was because there were no alerts, which was only due to the fact that it was a prototype.
+- 4 participants didn’t realize their update hadn’t finished saving, and quickly moved onto another section.  2 of these participants had triggered the address validation alert and then confirmed the update without reading the alert content. It is possible they were rushing more than they normally would if they had been completing this task because they had a real need to do so.
+- 5 participants felt uncertain about which button to select to move forward with there task, when multiple buttons were present:
+	- 2 participants expected to see “Save” instead of “Update” at the bottom of a form
+	- We observed 2 participants hesitate and take more time (compared to other tasks they completed) when choosing between “Continue editing” or “Cancel” in the confirmation alert that appeared when they hit “Cancel” with unsaved changes.
+	- 1 participant was confused by the buttons in the alert confirming removal of information.
+> See how [the button] has “Yes, remove my information?” I think it should the cancel should be maybe “cancel and save”. Because I think the cancel could be interpreted as cancel what I just did, too, like it feels too similar to remove. - P3
+
+TK: insert screenshot of buttons
+
+- 3 participants, 2 of which were blind screenreader users, missed the remove button and expected to be able to remove contact information by clicking “Edit”, clearing the form field, and saving an empty form. All had to be guided by the moderator to find the remove button.
+
+> If I did [hear the remove button read aloud], I forgot it. I would’ve been stuck there for a minute because to me, if I edit it [the form] and blank it out, and update it, that to me is the same as removing it.  - P11, screenreader user.
+	
+- 
+
+
+
+
+### Most participants, including screenreader users, found little difference between in-line editing and a “one thing per page” approach and found them to be equally usable.
+
+- No one commented on noticing they were going to a new page or staying on the same page without being prompted. Once prompted, 8 participants stated they had not noticed they were going to a new page in the prototype.
+- 2 participants stated they preferred the one-thing-per-page approach of the prototype, 4 participants preferred to be on one page, and 5 had no preference.
 
 > It didn’t make a difference that it went to another page because my focus was just on updating the information. - P1
 
+> It just feels more cohesive when everything’s on one screen. - P8
+
+- Both participants who preferred the one-thing-per-page prototype said they preferred it because it felt simpler. This is likely due to the fact that the participants didn’t encounter any alerts like they did on VA.gov
+
+> I feel like I If they were more steps to take in the other website [VA.gov] where this [prototype] feels a a little more concise and easier to me. - P3
+
+> It’s not as complicated as the other page [VA.gov], you know, having to do this and push this button and that button. It’s just a lot simpler. - P10
+
+- 3 participants shared concerns that loading a new page would negatively impact internet bandwidth.
+
+
+Labels: Accessibility, AUD: Veterans, HDW: Smartphone, HDW: Laptop, PRDT: VA.gov Profile, RESRCH: Evaluative, RESRCH: Remote, RESRCH: Usability, SFTW: Screenreader, SFTW: Website, SPG: Blind/Visually Impaired,  SPG: Cognitive Consideration
+
+
 ### Most participants found all the alerts and modals they encountered to be useful.
 
-Labels: label 1, label 2 
+Labels: Accessibility, AUD: Veterans, DSC: Alert boxes, HDW: Smartphone, HDW: Laptop, PRDT: VA.gov Profile, RESRCH: Evaluative, RESRCH: Remote, RESRCH: Usability, SFTW: Screenreader, SFTW: Website, SPG: Blind/Visually Impaired,  SPG: Cognitive Consideration
 
 - No participants were bothered or slowed down by encountering these alerts as they updated contact information.
 - Many commented they were helpful and would prevent a mistake.
@@ -104,7 +145,9 @@ Labels: label 1, label 2
 # Additional Insights
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-### Some participant felt the font was small
+### Some participants had a hard time reading content due to the font size
+8 of the 11 participants in our study require some kind of font resizing or magnification to use the internet. 4 of them commented on the legibility of our font size:
+
 > Well, no, everything is blurry when I take off my glasses and my magnifier away. So it just takes me a minute to to do it, because the the font is so small - P1
 
 # Recommendations
