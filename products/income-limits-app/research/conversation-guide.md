@@ -1,7 +1,10 @@
 # Conversation Guide for Discovery Interviews, Income Limits App, October 2022
 
 ## Moderator logistics
-*Review participant list for participant name and screener question responses*
+
+**Before all sessions**:
+- *Review participant list for participant name and screener question responses*
+- *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
 
 **10-15 min before session**: 
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
@@ -48,6 +51,8 @@ Before we start, I want to go over a few things:
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
+*Click Live Transcript and* **Enable**. 
+*Click Live Transcript > View Full Transcript*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -155,6 +160,10 @@ If you know any other Veterans who might be willing to participate in a future r
 
 Thank you so much again, and I hope that you enjoy the rest of your day!
 
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
+
 ## Emergency Exit
 If emergency occurs, follow protocol to initiate assistance:
 1. Stop research activity to attend to participant
@@ -167,6 +176,7 @@ When emergency is stabilized:
 
 ## After Session 
 - Click "End" on zoom website
-- Download recording w/transcript (.vtt file)
+- Download recording and closed caption (.vtt file)
+- Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
