@@ -1,4 +1,4 @@
-# Research Plan for Public Websites, Income Limits App, October 2022
+# Research Plan for Discovery Interviews, Income Limits App, October 2022
 
 ## Background
 An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
