@@ -3,7 +3,7 @@
 
 ## Contents
 - [Request a COE](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#request-a-coe)
-- [Find out if you already have a COE and download it] (https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#find-out-if-you-already-have-a-coe-and-download-it)
+- [Find out if you already have a COE and download it](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#find-out-if-you-already-have-a-coe-and-download-it)
 - [Check the status of your request](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#check-the-status-of-your-request)
 - [Get an automatic COE](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/apply-for-home-loan-COE/research-design/sourceofcontenttruth.md#get-an-automatic-coe)
 
