@@ -11,7 +11,7 @@
 ### Results/Issues:
 - **Number of users:** 5 internal users
 - **List of bugs/issues found:** 0
-- **[Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/Onsite-notifications-internal-UAT-findings.md**
+- **[Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/Onsite-notifications-internal-UAT-findings.md)**
 
 ## Phase II: Staged Rollout 
 
