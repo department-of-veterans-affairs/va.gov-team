@@ -15,6 +15,8 @@
           - These terms are also aligned with the VA.gov Veteran's Profile page current design for this question for a consistent VA.gov experience
           - The gender identity options are listed in a logical, alphabetical order, to avoid any perceived importance or perceived valid order of genders
           - The Online Health apps designers meet with the VA.gov Content team on a routine basis to ensure the form is aligned with VA.gov content guidance, specifically around these sensitive topics
+     - [X] Heather to send a screenshot with the above talking points to Tarsha for discussion with HEC leadership
+
 
 ![image](https://user-images.githubusercontent.com/92328831/195421673-2c43ea72-c865-497e-b625-378e42f48349.png)
 
