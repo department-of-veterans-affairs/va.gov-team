@@ -40,15 +40,12 @@ _Hypothesis 4:_ Some Veterans will want to be able to view and share their medic
 
 ## Method
 
-### Card sorting
-Participants will be asked to sort 
-
-
 ### Interviews
+We will conduct remote interviews with Zoom. These interviews will include questions about their needs and goals related to medical records, what they expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews will also include some moderated usability testing of the legacy MHV site to shed light on usability and accessibility issues that need to be addressed in the redesigned site. 
 
 
 ### Location
-Data collection will be remote. We will use Optimal Workshop for the card sorting activity and Zoom for interviews. 
+Data collection will be remote and conducted using Zoom. 
 
 ### Research materials
 [Conversation guide](location)
