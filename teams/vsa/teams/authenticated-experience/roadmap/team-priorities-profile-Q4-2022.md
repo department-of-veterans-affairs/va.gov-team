@@ -52,10 +52,6 @@ According to the analytics team, we should anticipate some level of work around 
 
 Given that a project like the 1095B work is on hold indefinitely, and that we know there are other substantial projects coming down the pipeline but don't know when (eg. MHV notification preference, or adding pronouns and sexual orientation to the profile), our team is in a position we haven't been in in a long time. We finally aren't cranking on a million things (thank you/sorry about that) and have some breathing room! And that feels great, but also a little bit scary.
 
-**Should we be worried there isn't enough work to do?**
-
-No, I don't think we should. Depending on where we take the accessibility work, we could have some larger efforts on our hands. There's also likely work in the backlog we can catch up on or revisit. In a worst case scenario, people might spot for My VA or other teams while profile work is slow, but I have little concern that anyone is going to be totally bored in the coming months.
-
 **What else could we work on?**
 
 Given that we don't currently have teams coming to us with immediate needs, we have the luxury of using this time to answer questions we've had for a long time. We're starting with the accessibility work, but depending on how much or little that yields (and I think that'll yield a lot), there are other questions that we should feel free to do some discovery on and see where that discovery leads us:
@@ -63,7 +59,3 @@ Given that we don't currently have teams coming to us with immediate needs, we h
 - Where does the profile meet user expectations? Where are we missing the mark?
 - Should we had a section on dependents?
 - Does our military information section meet user needs and expectations? Where do we miss the mark?
-
-**I have questions/concerns**
-
-Let's discuss!
