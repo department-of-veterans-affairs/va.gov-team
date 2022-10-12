@@ -18,6 +18,7 @@
 ### Planning
 **Launch Go/No go:** 
 - Completed 09/23/22 _however team determined we are not ready for lunch given challenges with GA at this time. Will revisit status early next week (9/26) after consulting with analytics team._
+- **Update 10/12**: Team resolved GA issues with assistance from analytics team, resumed go/no-go checklist on 10/12 and determined launch readiness - good to go!
 - Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
 - [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
 
@@ -28,14 +29,12 @@
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Onsite Notifications brief: Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#measuring-success)
-- Tracking number of users seeing notifications: [Get on-site notifications report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-table.plotKeys=%5B%5D&explorer-table.filter=notifications&_r.drilldown=analytics.eventCategory:API%20Calls,analytics.eventLabel:api_call)
-- Tracking dismissals of notifications: [Dismiss onsite notifications report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_r.drilldown=analytics.eventCategory:API%20Calls,analytics.eventLabel:api_call,analytics.eventAction:API%20Request%20-%20PATCH%20dismiss%20on-site%20notification%20-%20successful&explorer-table.plotKeys=%5B%5D)
-- Tracking "Manage your VA debt" clicks from within onsite notification: _report link tk_
+- [Onsite Notifications GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/_u.date00=20220912&_u.date01=20221012/) Captures success GETs (loads on My VA) when users have notifications, and when they don't have notifications, as well tracking on dismissals of notifications, and clicks on the "Manage your VA debt" link from within the notification.
 
 
 ## Go Live!
 ### Planning:
-- _Desired date for 25%: mm/dd/yyyy_
+- _Desired date for 25%: 09/26/2022_
 - Actual date for 25%: mm/dd/yyyy
 
 - _Desired date for 100%: mm/dd/yyyy_
