@@ -18,7 +18,8 @@
      - [X] Heather to send a screenshot with the above talking points to Tarsha for discussion with HEC leadership
 
 
-![image](https://user-images.githubusercontent.com/92328831/195421673-2c43ea72-c865-497e-b625-378e42f48349.png)
+![image](https://user-images.githubusercontent.com/92328831/195422728-ce4b92f8-383f-4429-9899-ef2a8cdabb07.png)
+
 
           
 ---
