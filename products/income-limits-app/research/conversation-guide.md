@@ -1,4 +1,4 @@
-# Conversation Guide for Public Websites, Income Limits App, October 2022
+# Conversation Guide for Discovery Interviews, Income Limits App, October 2022
 
 ## Moderator logistics
 *Review participant list for participant name and screener question responses*
@@ -56,8 +56,9 @@ Before we start, I want to go over a few things:
 Before we jump into talking about VA health care benefits, I have a few questions to get to know you a bit more. 
 
 1. Where do you live?
-2. Would you mind if I ask who you live with right now? I don't need to know names or anything that you feel uncomfortable sharing.
-3. What do you like to do for fun?
+2. Would you mind if I ask who is part of your household right now? I don't need to know names or anything that you feel uncomfortable sharing.
+     1. *(If sense hesitation)* Knowing how many dependents you have can help us better understand your needs around healthcare. You don't need to tell us their names or even your relationship with them. 
+4. What do you like to do for fun?
 
 _Note: We discussed possibly changing these questions to be more applicable to the VA, i.e. "What do you like about being part of the veteran community?" I think that's probably fine, though having thought more about it at this point, I do like the more general, open nature of these questions. I believe they open the conversation trying to see the participant in a more holistic way. Will participants think it's strange that we ask questions that touch their personal life, outside of their status as a veteran? I would think no, and that these types of more general questions opens the door for them to share things outside of what they see as specifically part of their experiences as a veteran._
 
