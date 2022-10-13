@@ -30,14 +30,14 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 **KPI**
 We do not see an increase in clicks back to the homepage from My VA, as measured by where the homepage ranks releative to other pages for next clicks.
 
-| |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+| |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/6 - 10/12)| 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|TBD|TBD|
+|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|#6|TBD|
 
 **KPI** 
 We do not see an increase in percentage of users exiting VA.gov entirely from My VA.
 
-||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)|  1 month post-launch to 100% (10/6 - 10/12)| 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Exits from VA.gov from My VA|6.1%|5.7%|6.01%|5.72%|TBD|TBD|
 
@@ -47,7 +47,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: We see a 25% increase or greater for clicks into the following links:
 
-|Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
+|Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/6 - 10/12)|  # of clicks 3 months post-launch to 100% (12/6 - 12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
 |View claim ("view details")|21,041|29,622|29,265|52,218|TBD|TBD|
 |Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|TBD|TBD|
@@ -62,7 +62,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Disability rating, rating, or disability (whichever appears first)|26|39|28|25|TBD|TBD|
 |Claim or Claims (whichever appears first)| 23| 23 |16|12|TBD|TBD|
@@ -72,7 +72,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |DD214|4|4|3|2|TBD|TBD|
 |Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|TBD|TBD|
@@ -84,7 +84,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Disability rating, rating, or disability (whichever appears first)|5|8|12|16|TBD|TBD|
 |Claim or Claims (whichever appears first)|25|26|33|30|TBD|TBD|
@@ -94,7 +94,7 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |DD214|15|12|5|4|TBD|TBD|
 |Letter, letters, or benefit letter (whichever appears first)|18|17|9|7|TBD|TBD|
