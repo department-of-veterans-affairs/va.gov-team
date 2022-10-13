@@ -49,12 +49,12 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/6 - 10/12)|  # of clicks 3 months post-launch to 100% (12/6 - 12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim ("view details")|21,041|29,622|29,265|52,218|TBD|TBD|
-|Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|TBD|TBD|
-|Schedule and view your appointments|1,950|2,694|3,136|5,146|TBD|TBD|
-|View your messages|6,704|10,432|12,035|22,114|TBD|TBD|
-|Refill and track prescriptions|4,063|6,734|8,556|16,510|TBD|TBD|
-|View your payment history|17,107|28,115|18,796|29,365|TBD|TBD|
+|View claim ("view details")|21,041|29,622|29,265|52,218|53,074|TBD|
+|Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|78,661|TBD|
+|Schedule and view your appointments|1,950|2,694|3,136|5,146|5,069|TBD|
+|View your messages|6,704|10,432|12,035|22,114|21,172|TBD|
+|Refill and track prescriptions|4,063|6,734|8,556|16,510|15,830|TBD|
+|View your payment history|17,107|28,115|18,796|29,365|28,827|TBD|
 
 #### [Searches initiated from My VA](https://va-gov.domo.com/page/1167851935)
 
