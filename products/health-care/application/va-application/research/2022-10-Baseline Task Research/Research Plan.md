@@ -63,17 +63,26 @@ Determine a list of tasks and standardize how they are asked repeatedly from res
 Each task will have a set of qualitative and quantitative data points that we will collect during the baseline session, then these same metrics can be used used when this task is asked during a future research study. 
 
 
-#### Participant questions
+#### Post-Task Participant questions
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
 
+#### Post-Test Participant ( ) 
+
+
+
 #### Observer rating criteria
 | 0 | No part of the task completed, much difficulty |
+
 | 1 | Partial completion, much overlooked or task was difficult |
+
 | 2 | Partial completion, some areas were overlooked or task was slightly difficult |
+
 | 3 | Most of the task was completed with little difficulty |
+
 | 4 | All parts of the task were completed with no difficulty |
+
 
 
 ### Location
