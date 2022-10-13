@@ -1,5 +1,6 @@
 # My VA Redirect Initiative Brief
-Last updated: September 8, 2022
+
+**Last updated: October 14, 2022**
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)
@@ -64,9 +65,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating, rating, or disability (whichever appears first)|26|39|28|25|TBD|TBD|
-|Claim or Claims (whichever appears first)| 23| 23 |16|12|TBD|TBD|
-|Payment or payment history (whichever appears first)|5|12|17|20|TBD|TBD|
+|Disability rating, rating, disability letter, or disability (whichever appears first)|26|39|28|25|27|TBD|
+|Claim or Claims (whichever appears first)| 23| 23 |16|12|13|TBD|
+|Payment or payment history (whichever appears first)|5|12|17|20|18|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -74,9 +75,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|4|4|3|2|TBD|TBD|
-|Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|TBD|TBD|
-|GI bill|9|10|14|19|TBD|TBD|
+|DD214|4|4|3|2|3|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|2|TBD|
+|GI bill|9|10|14|19|23|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -86,9 +87,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating, rating, or disability (whichever appears first)|5|8|12|16|TBD|TBD|
-|Claim or Claims (whichever appears first)|25|26|33|30|TBD|TBD|
-|Payment or payment history (whichever appears first)|7|11|34|31|TBD|TBD|
+|Disability rating, rating, disability letter, or disability (whichever appears first)|5|8|12|16|18|TBD|
+|Claim or Claims (whichever appears first)|25|26|33|30|30|TBD|
+|Payment or payment history (whichever appears first)|7|11|34|31|25|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -96,9 +97,9 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|15|12|5|4|TBD|TBD|
-|Letter, letters, or benefit letter (whichever appears first)|18|17|9|7|TBD|TBD|
-|GI bill|24|25|39|34|TBD|TBD|
+|DD214|15|12|5|4|4|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|18|17|9|7|17|TBD|
+|GI bill (or related terms)|24|25|39|34|29 ("Chapter 35")|TBD|
 
 #### Medallia feedback
 
