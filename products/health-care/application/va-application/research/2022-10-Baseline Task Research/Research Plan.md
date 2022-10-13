@@ -43,11 +43,7 @@ We will use the results from this research to esablish a baseline to compare aga
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Establish initial baseline patterns of participants completing tasks with ease or identifing what 
 
 ## Method	
 - Usability testing task analysis- appropriate for evaluative research
