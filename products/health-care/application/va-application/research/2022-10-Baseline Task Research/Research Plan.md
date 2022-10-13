@@ -19,21 +19,24 @@ The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-t
 
 
 ### Veteran Journey
-> Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-> Are there moments that matter? 
+The health care application product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) during the phases: 
+- Getting out
+- Starting up 
+- Retiring 
 
+> Are there moments that matter? 
+Attending to health care needs during the starting up phase of the journey is a defined moment that matters. As is taking care of my health during the retiring phase. 
 
 ## Research Goals	
 **1. Obtain a qualitative baseline for the main tasks within the application to use in comparrison during future studies and iterations.**
 
 **2. Overall, what is easy or difficult to complete within the form and why.**
 
-**3. Uncover pain point areas that cause confusion that need further exploration.**
+**3. Uncover pain point areas that cause confusion and need further discovery and research.**
 
 
 ### Outcome
-
-We will use the results from this research to esablish a baseline to compare against in future research studies specific to these key repeatable tasks. 
+We will use the results from this research to esablish a baseline to compare against in future research studies specific to key repeatable tasks. 
 
 
 ### Research questions
@@ -43,7 +46,8 @@ We will use the results from this research to esablish a baseline to compare aga
 
 
 ### Hypothesis
-Establish initial baseline patterns of participants completing tasks with ease or identifing what 
+The baseline study will confirm the findings and pain points from past studies are consistently an issue with participants. 
+
 
 ## Method	
 - Usability testing task analysis- appropriate for evaluative research
@@ -123,7 +127,7 @@ What criteria would strengthen your results?
 
 
 ### Prepare
-We will be testing what is currently approved in staging.
+We will be testing what is currently approved in the staging environment.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
