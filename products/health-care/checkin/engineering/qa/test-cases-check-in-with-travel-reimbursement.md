@@ -1,7 +1,7 @@
 <!-- markdownlint-disable no-duplicate-heading -->
 
 # Test Cases for Check-in 
-- [Test Cases for Check-in](#test-cases-for-check-in-pre-mvp)
+- [Test Cases for Check-in with Travel Reimbursement](#test-cases-for-check-in-pre-mvp)
   - [Scope](#scope)
   - [Resources](#resources)
   - [How to access in Staging](#how-to-access-in-staging)
@@ -91,15 +91,16 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 
 ### Act
 
-- The link Loads
+- User clicks their check-in link to load the Check-in application
 - User verifies their identity
 - User selects "Yes" to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User selects the `Check-in now` button for their appointment
-- User should be on the "You're checked in" screen and see appropriate messaging that matches the mockups
+- User sees their appointments for today
+- User selects the `Check-in now` button for one of their appointments
+- User should be on the `You're checked in` page and see their appointment information and instructions about what to do next
 
 ### Assert (Expected Outcome)
 
@@ -120,19 +121,19 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 
 ### Act
 
-- The link Loads
+- User clicks their check-in link to load the Check-in application
 - User verifies their identity
 - User selects "No" to any of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User should be on the `Check in with a staff member` page
+- User should be on the `Check in with a staff member` page and instructions that need to update their information with a staff member
 
 ### Assert (Expected Outcome)
 
 - No errors are thrown
-- The user sees a `Check in with a staff member` screen with appropriate messaging that matches the mockups
+- The user sees a `Check in with a staff member` page with appropriate messaging that matches the mockups
 
 ## Test Case C: Edge Case - Premature Check-in
 
@@ -152,14 +153,14 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The link Loads
+- User clicks their check-in link to load the Check-in application
 - User verifies their identity
-- User should see an error page
+- User sees any appointments for today that are >30 minutes in the future but are shown a time at which they will be allowed to check-in for each appointment
 
 ### Assert (Expected Outcome)
 
 - Application does not crash
-- The user sees an `Error` screen with appropriate messaging that matches the mockups
+- The user sees instructions about when they will be allowed to check-in for their appointment
 
 ## Test Case D: Edge Case - Expired Token
 
@@ -180,8 +181,8 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The link Loads
-- User should see an error page
+- User clicks their check-in link to load the Check-in application
+- User sees an error page indicating that they can not check-in
 
 ### Assert (Expected Outcome)
 
@@ -206,8 +207,8 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The link Loads
-- User should see an error page
+- User clicks their check-in link to load the Check-in application
+- User sees an error page indicating that they can not check-in
 
 ### Assert (Expected Outcome)
 
@@ -232,8 +233,8 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The link Loads
-- User should see an error page
+- User clicks their check-in link to load the Check-in application
+- User sees an error page indicating that they can not check-in
 
 ### Assert (Expected Outcome)
 
@@ -258,9 +259,15 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The link Loads
+- User clicks their check-in link to load the Check-in application
 - User verifies their identity
-- The user sees an appropriate message
+- User selects "Yes" to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees their appointments for today; any appointments for which they have already checked-in show that they have already checked-in for those appointments
+  - THIS NEEDS TO BE VERIFIED
 
 ### Assert (Expected Outcome)
 
@@ -282,14 +289,17 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The user clicks the link
-- The link Loads
-- The user selects "No" to the `Update Information` question
-- The user closes their app
-- The user click the link
-- The link Loads
-- The user selects "No" to the `Update Information` question
-- User selects the `Check-in now` button
+- User clicks their check-in link to load the Check-in application
+- User verifies their identity
+- User closes their app
+- User clicks their check-in link to load the Check-in application
+- User selects "Yes" to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees their appointments for today
+- User selects the `Check-in now` button for an appointment
 - User should be on the confirmation screen and see appropriate messaging that matches the mockups
 
 ### Assert (Expected Outcome)
@@ -313,9 +323,16 @@ This case may not be different than other token-based edge cases, but calling th
 
 ### Act
 
-- The user clicks the link
-- At some point, before clicking "check-in," the user refreshed the page.
-- The app is loaded at the at the beginning of the check-in process for the same appointment
+- User clicks their check-in link to load the Check-in application
+- User verifies their identity
+- User selects "Yes" to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+- User sees their appointments for today
+- User refreshes the page
+- App is loaded at the at the beginning of the check-in process for the same appointment
 
 ### Assert (Expected Outcome)
 
