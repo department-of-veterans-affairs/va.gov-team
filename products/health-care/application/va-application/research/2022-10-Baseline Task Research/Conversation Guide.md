@@ -18,7 +18,6 @@ Slack for real-time feedback from observers.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-
 ### Starting the session
 
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -58,6 +57,9 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+
+
+
 
 ## First Task: [TASK NAME] - X minutes
 
