@@ -328,10 +328,10 @@ We would like to have 15 total Veterans recruited, partitioned into **3 cohorts 
 ## Timeline
 
 ### Prepare
-- Pilot: **Oct 14 or 17** with TBD
+- Pilot: **Oct 14 at 3 pm ET** with Christopher Keene (christopher.keene@adhocteam.us)
 
 ### Research sessions
-* Planned dates of research: **Oct 19-20, Nov 14-17** 
+* Planned dates of research: **Oct 19-20, Nov 14-21** 
 
 ### Length of sessions
 * Session length: 1 hour
@@ -341,14 +341,16 @@ We would like to have 15 total Veterans recruited, partitioned into **3 cohorts 
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Oct 19, 2022 | 12-1, 2-3, 6-7 pm
-Oct 20, 2022 | 12-1, 2-3, 6-7 pm
+Oct 19, 2022 | 12-1, 2-3, 5-6, 7-8 pm
+Oct 20, 2022 | 12-1, 2-3, 5:30-6:30, 7:30-8:30 pm
 Nov 14, 2022 | 12-1, 2-3, 5-6 pm
-Nov 15, 2022 | 12-1, 2-3, 5:30-6:30
-Nov 16, 2022 | 12-1, 2-3, 5-6 pm
-Nov 17, 2022 | 12-1, 2-3, 6-7 pm
+Nov 15, 2022 | 12-1, 2-3, 5-6, 7-8 pm 
+Nov 16, 2022 | 12-1, 2-3, 5-6, 7-8 pm
+Nov 17, 2022 | 12-1, 2-3, 5:30-6:30, 7:30-8:30 pm
+Nov 18, 2022 | 12-1, 2-3, 5-6, 7-8 pm 
+Nov 21, 2022 | 12-1, 2-3, 5-6 pm 
 
-No more than 3 sessions per day
+No more than 3 sessions per day please.
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
@@ -356,7 +358,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Florence McCafferty wrote; Cindy Merrill revised
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill	
-- Participant(s) for pilot test: TBD	
+- Participant(s) for pilot test: Christopher Keene (christopher.keene@adhocteam.us)	
 - Note-takers: Perigean	
 - Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com)
 
