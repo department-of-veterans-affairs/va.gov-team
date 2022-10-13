@@ -43,6 +43,7 @@
 - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/playbook)
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 
-## Service Now Knowledge Articles
+## Service Now Knowledge Articles (KAs) for Support
+- [Patient Check-in](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
 - [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
-- [Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
+- [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
