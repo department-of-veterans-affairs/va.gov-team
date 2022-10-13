@@ -272,8 +272,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 ## Timeline
 
 ### Prepare
-- Pilot #1: **Oct 17/18/19/20/21** with Angela Fowler (angela.fowler@adhocteam.us)
-- Pilot #2: **Oct 17/18/19/20/21** with TBD
+- Pilot #1: **Oct 17 at 4-5 pm ET** with Angela Fowler (angela.fowler@adhocteam.us)
+- Pilot #2: **Oct 18 at 1-2 pm ET** with John Cater (John.Cater@govcio.com)
 
 ### Research sessions
 * Planned dates of research: **Oct 24-27** 
@@ -294,10 +294,10 @@ Oct 27, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill **(FYI: I'll be unavailable in the afternoon of Fri Oct 7)**
+- Research guide writing and task development:	Cindy Merrill 
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
-- Participants for pilot test:	Angela Fowler and TBD
+- Participants for pilot test:	Angela Fowler and John Cater
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with screen readers: Angela Fowler (angela.fowler@adhocteam.us).* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
 
