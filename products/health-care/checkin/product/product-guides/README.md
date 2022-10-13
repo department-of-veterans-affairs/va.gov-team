@@ -4,9 +4,9 @@
 
 Last uploaded: October 12, 2022
 
-- [PATIENT CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9768462/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PATIENT.CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9777165/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [PATIENT CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9768463/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
+- [PATIENT.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/9777168/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 ## Pre-Check-In
 
