@@ -291,7 +291,7 @@ Devices used during study:
 * Desktop: 5 
 * Tablet: x 
 * Smart phone: 5 
-* Assistive Technology: x
+* Assistive Technology: 0
 
 
 Age:
@@ -300,17 +300,17 @@ Age:
 * 45-54: 1
 * 55-64: 2
 * 65+: 4
-* Unknown: x
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
+* High school degree or equivalent: 0
 * Some college (no degree): 1
 * Associate's degree, trade certificate or vocational training: 1
 * Bachelor's degree: 6
 * Master's degree: 2
 * Doctorate degree: 0
-* Unknown: x
+* Unknown: 0
 
 
 Geographic location:
@@ -335,10 +335,10 @@ Disability and Assistive Technology (AT):
 * Desktop screen reader: 5
 * Mobile screen reader: 5
 * Magnification/Zoom: 1
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
