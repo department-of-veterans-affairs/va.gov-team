@@ -81,7 +81,7 @@ All participants triggered the address validation alert (some naturally, others 
 - A screenreader participant encountered the edit button before the “use this address” and “cancel” buttons, and went back to edit before understanding all possible options.
 - 3 participants did not see the edit buttons and weren’t sure how edit their entry.
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/address-validation-edit-buttons.png” width=“50%” alt=“Screenshot of address validation UI, where edit buttons that are styled to look like links are embedded in a paragraph, and under a radio button option” />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/address-validation-edit-buttons.png" alt="Screenshot of address validation UI, where edit buttons that are styled to look like links are embedded in a paragraph, and under a radio button option" width="320" />
 
 > **Moderator**: How would you go back and change what you entered?
 > **P6**: I think if I click “update”, it should take me back.
