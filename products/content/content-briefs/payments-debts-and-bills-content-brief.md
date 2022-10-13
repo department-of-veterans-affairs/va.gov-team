@@ -2,8 +2,8 @@
 
 Created by the sitewide content and IA team for teams working on products related to VA payments, debts, and copay bills.
 
-**Questions about this brief?**
-- Ask us in our slack channel: #va-sitewide-content
+**Questions or feedback on this brief?**
+- Questions and feedback are welcome. Please don't update the brief directly without confirming with the sitewide content and IA team first. Contact us in our slack channel: #sitewide-content-ia.
 - [Read about the purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md)
 
 ## Sections
