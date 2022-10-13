@@ -45,29 +45,29 @@ Before we start, a few things I want to mention:
  
 ## Warm-up Questions (Optional) - 10 minutes
  
--To start I’d love to learn a little more about you. Can you tell me a little bit about yourself and how you interact with the VA?
--What VA services do you use most often?
--Do you use MHV? What do you use it for? 
+- To start I’d love to learn a little more about you. Can you tell me a little bit about yourself and how you interact with the VA?
+- What VA services do you use most often?
+- Do you use MHV? What do you use it for? 
 -[For those who indicated they tried to set-up login.gov and failed] Have you ever tried to create a login.gov account? What prompted you to do that? What happened?
 
  
 ## SCENARIO 1: LOGIN.GOV SET-UP AND RE-PROOFING - 45 minutes
  Thank you for that information. Now I’d like to dive into sharing some concepts that we are exploring. As I mentioned before these are just ideas and we are eager for your honest feedback so we can learn what works, what needs improvement and what to scrap all together. 
-##First Task: [Receive email] - 5 minutes
+## First Task: [Receive email] - 5 minutes
 [Connect to veteran’s context as appropriate] So, I want you to imagine that you get an email from MHV that reminds you that you have an upcoming appointment and tells you that you can upgrade the security of your MHV account while you are there for your appointment. 
 [Show user the prototype email]
-What do you think about this?
-Are you interested in upgrading your account? Why? Why not?
-What questions or concerns do you have about this?
-Do you like the idea of taking care of the upgrade while you are at your appointment? Why? Why not? Would you rather do it online? Would you rather do it at the VA at  separate time?
+- What do you think about this?
+- Are you interested in upgrading your account? Why? Why not?
+- What questions or concerns do you have about this?
+- Do you like the idea of taking care of the upgrade while you are at your appointment? Why? Why not? Would you rather do it online? Would you rather do it at the VA at  separate time?
 ### Things to watch for:
 - Does the participant have a negative reaction to any of the language?
 - Does the participant perceive value in upgrading their account?
  
 ## Second Task: [CHECK IN FOR APPOINTMENT] - 5 minutes
  Now imagine that a week goes by and it is time for your appointment at the VA medical center. You arrive at the VA medical center and go to your doctor’s office to check-in. Nurse working at the desk takes your information and gets you checked in for your appointment. The nurse then says that he can see that you are eligible to upgrade your account for more secure access to MHV and says you have time to do that now while waiting for your doctor. The nurse asks, “would you like to go ahead and upgrade your account?”
--What do you think about this?
--Would you upgrade your account at that time? Would you rather do it after your appointment?
+- What do you think about this?
+- Would you upgrade your account at that time? Would you rather do it after your appointment?
  
 ### Things to watch for:
 - Does the participant have any concern about the nurse knowing their account can be upgraded and reminding them?
@@ -87,16 +87,16 @@ First I need to gather some information from you [ask for data required for acco
  ## Fourth Task: [IN-PERSON ACCOUNT SET-UP: ID PROOFING] - 5 minutes
 All the right, the next step for setting up your login.gov account is to verify your identity. May I see your driver's license or other state issued ID?
 (Moderator to do action of ID proofing, including simulating any required wait time)
--Is there another form of ID you’d like to be able to use? Why?
+- Is there another form of ID you’d like to be able to use? Why?
 ### Things to watch for:
 
  ## Fifth Task: [IN-PERSON ACCOUNT SET-UP: MFA] - 10 minutes
 Alright, the last step for creating your login.gov account is to set-up an additional security check in addition to entering your username and password. We call this Multi-factor Authentication. You can do this additional security check a number of different ways. You can have a code texted to you or emailed to you that would then type in after you enter your username and password, or you can download an app that will generate the code that you enter in, or you can use a security key or you can have the code mailed to you using the post office, so it involved a delay.
--Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
--(If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
--Which option do you think you’d choose for login.gov? Why?
--If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
--One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
+- Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
+- (If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
+- Which option do you think you’d choose for login.gov? Why?
+- If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
+- One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
 What do you think about that option? 
 
 ### Things to watch for:
@@ -111,13 +111,13 @@ Anyone else?
 Is there anyone you would share your username and password with? Why?
 Would you consider giving that person full access but asking them to create their own account? Why/why note?
 ### Things to watch for:
--Is this feature useful to them. 
--What type of information would they share
+- Is this feature useful to them. 
+- What type of information would they share
 
  ## Seventh Task: [ONGOING USE: CAREGIVER OPTIONS] - 5 minutes
 Thank you for all of this feedback. I just want to ask you about one other idea. Now imagine that you have been using your MHV account as usual for about six month. You get an email that reminds you that you set up caregiver access for the following people (mention anyone they mentioned in previous task) and what level of access you gave them. It asks you to review those listed and make sure they are still correct. If you want to make any changes it gives you a link to update. The email also asks you to think about anyone you might have shared your user name and password with. If any of those people should no longer have access to your account it suggests you change your password and provides a link to do that as well.
--What do you think about this email?
--Would it be useful to you? Why or why not?
+- What do you think about this email?
+- Would it be useful to you? Why or why not?
 
 
 ##SCENARIO 2: ACCOUNT MIGRATION WITH DELAYED PROOFING - 45 minutes
@@ -131,15 +131,15 @@ Anything else you want to share about this email?
 Who else would you show this email to? Why?
 
 ### Things to watch for:
--Feelings about VA using their data to create this account
--Perception of value
--Perception of effort required from them
+- Feelings about VA using their data to create this account
+- Perception of value
+- Perception of effort required from them
 
 ##Second Task: [Trigger physical mail to be sent to verify address] - 5 minutes
 Now let’s look more closely at this section about verifying your address. Imagine you decided you would take care of that right away. What would you do next?
 Show request verification screen from login.gov?
--Why do you need to do this?
--Any thoughts about this part of the process?
+- Why do you need to do this?
+- Any thoughts about this part of the process?
 
 ##Third Task: [Receive physical mail to be sent to verify address] - 5 minutes
 Thank you for that information. Now I want you to imagine that a few days go by and you receive a letter in the mail for you to verify your address as part of your login.gov account set-up.
@@ -151,8 +151,8 @@ Is this what you expected based on the email you received that we looked at earl
 Thank you. Imagine you did that and got a message that your address had been verified and all that was required to finish your account transition is have your idea verified and set-up multi-factor identification. You are reminded that you can either have your ID verified online or in person next time you go to the VA. You decide to wait for your next to trip to the VA.
 
 ### Things to watch for:
--How well the email from the previous task matches their expectations
--How participant would get back to their login.gov account to enter in code
+- How well the email from the previous task matches their expectations
+- How participant would get back to their login.gov account to enter in code
 
 
 ##Fourth Task: [Check into appointment at VAMC and MSA encourages ID Proofing and MFA set-up] - 5 minutes
@@ -166,36 +166,36 @@ Do you think you would have your ID verified at this moment? Why? Why not?
 
 ##Sixth Task: [MFA set-up (same as first scenario)] - 10 minutes
 Alright, the last step for creating your login.gov account is to set-up an additional security check in addition to entering your username and password. We call this Multi-factor Authentication. You can do this additional security check a number of different ways. You can have a code texted to you or emailed to you that would then type in after you enter your username and password, or you can download an app that will generate the code that you enter in, or you can use a security key or you can have the code mailed to you using the post office, so it involves a delay.
--Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
--(If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
--Which option do you think you’d choose for login.gov? Why?
--If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
--One option we are exploring in particular is security keys. As you might now, security keys are are small devices like this (show security key) that can either be plugged into a computer or held close to a smart phone and act as the secondary confirmation so you don’t have to type anything in after your username and password. 
--What do you think about that option? 
--Would you be concerned about losing the security key?
--If it was designed to clip onto your keyring or fit into your wallet (show illustrations) how would that affect your thoughts about it?
+- Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
+- (If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
+- Which option do you think you’d choose for login.gov? Why?
+- If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
+- One option we are exploring in particular is security keys. As you might now, security keys are are small devices like this (show security key) that can either be plugged into a computer or held close to a smart phone and act as the secondary confirmation so you don’t have to type anything in after your username and password. 
+- What do you think about that option? 
+- Would you be concerned about losing the security key?
+- If it was designed to clip onto your keyring or fit into your wallet (show illustrations) how would that affect your thoughts about it?
 ### Things to watch for:
--Does this seem secure to the Veteran
--Does this seem confusing to the Veteran
+- Does this seem secure to the Veteran
+- Does this seem confusing to the Veteran
 
 ##Seventh Task:  [IN-PERSON ACCOUNT SET-UP: LOGIN TO MHV WITH NEW CREDENTIALS & SET UP CAREGIVER OPTIONS] - 5 minutes
 Congratulations, your login.gov account has been verified it will continue to work for MHV and you can now use it to access many other government websites. 
 To access MHV you just type your new username and password in here and then complete the MFA.
 Show existing screen/flow for using login.gov to access MHV
 Now that you are logged in,  I would also like to point out a new feature that gives you the option to set-up limited or full access to your account for anyone who you want. That person will be able to create their own account with their own username and password and access as much of your information as you want them to have access to. And you can change or remove their access at any time.
-Is that something you would like to do?
-Who would you like to give access to? What kind of information would you like to give them access to? Why?
-Anyone else?
-Is there anyone you would share your username and password with? Why?
-Would you consider giving that person full access but asking them to create their own account? Why/why note?
+- Is that something you would like to do?
+- Who would you like to give access to? What kind of information would you like to give them access to? Why?
+- Anyone else?
+- Is there anyone you would share your username and password with? Why?
+- Would you consider giving that person full access but asking them to create their own account? Why/why note?
 ### Things to watch for:
--Is this feature useful to them. 
--What type of information would they share
+- Is this feature useful to them. 
+- What type of information would they share
 
  ## Eighth Task: [ONGOING USE: CAREGIVER OPTIONS] - 5 minutes
 Thank you for all of this feedback. I just want to ask you about one other idea. Now imagine that you have been using your MHV account as usual for about six month. You get an email that reminds you that you set up caregiver access for the following people (mention anyone they mentioned in previous task) and what level of access you gave them. It asks you to review those listed and make sure they are still correct. If you want to make any changes it gives you a link to update. The email also asks you to think about anyone you might have shared your user name and password with. If any of those people should no longer have access to your account it suggests you change your password and provides a link to do that as well.
--What do you think about this email?
--Would it be useful to you? Why or why not?
+- What do you think about this email?
+- Would it be useful to you? Why or why not?
 
 
 ## Post-Task Interview - 10 minutes
