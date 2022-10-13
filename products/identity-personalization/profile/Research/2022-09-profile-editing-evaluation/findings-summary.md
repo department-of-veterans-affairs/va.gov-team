@@ -10,11 +10,13 @@ Liz Lantz, liz.lantz@adhocteam.us
 [Research Report PDF] (link here)
 
 **Jump to:**
-- [Hypotheses and conclusions](insert link to section)
-- [Key findings](insert link to section)
-- [Recommendations](insert link to section)
-- [Who we talked to](insert link to section)
-- [Further research needed](insert link to section)
+- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#hypotheses-and-conclusions)
+- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#key-findings)
+- [Details of findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#details-of-findings)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#recommendations)
+- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#further-research-needed)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#who-we-talked-to)
+
 
 ## Research Goals
 _First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
@@ -149,6 +151,8 @@ Once participants got back to the notification settings page, they found the rad
 
 These participants assumed the notification was for “Applications, claims, decision reviews, and appeals”, which is the name of the notification group. 
 
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notification-setttings-ui.png” alt="Screenshot of notification settings UI showing the Board of Veterans Affairs Hearing Reminder heading nested between an h3 and radio buttons” width="320" />
+
 > **Moderator:** For this one that you just set up - what kind of notification will you get? 
 > **P7:** I would think…let's say my application has been submitted. For claims, I would imagine that I would receive a text message, saying, “You have submitted your claim for disability compensation.” Maybe I would also receive a text message when a compensation and pension appointment has been scheduled, or when it moves from one phase to the next. Maybe if now it is being moved to a reviewer to decide, I would think that maybe I would receive a text message about that, and what final decision has been made.
 
@@ -177,11 +181,11 @@ No one commented on noticing they were going to a new page or staying on the sam
 
 *Labels: Accessibility, AUD: Veterans, HDW: Smartphone, HDW: Laptop, PRDT: VA.gov Profile, RESRCH: Evaluative, RESRCH: Remote, RESRCH: Usability, SFTW: Screenreader, SFTW: Website, SPG: Blind/Visually Impaired,  SPG: Cognitive Consideration*
 
-# Additional Insights
+## Additional Insights
 ### Some participants had a hard time reading content due to the font size
-8 of the 11 participants in our study require some kind of font resizing or magnification to use the internet. 4 of them made comments related to legibility because of our font style (size and/or color). 
+8 of the 11 participants in our study require some kind of font resizing or magnification to use the internet. 4 of them made comments related to legibility because of our font style (size and/or color).  Larger, bolder fonts were easier for them to read.
 
-> Well, no, everything is blurry when I take off my glasses and my magnifier away. So it just takes me a minute to to do it, because the the font is so small - P1
+> Everything is blurry when I take off my glasses and my magnifier away. So it just takes me a minute to to do it, because the the font is so small - P1
 
 > With the the pop up [modal], “you're currently adding a home phone number” That's good easy for me to see, because it's [heading] bigger and is bold. But the smaller grayer letters underneath are a little less legible. And I can't zoom in on those in this pop up. - P6
 
@@ -192,18 +196,30 @@ No one commented on noticing they were going to a new page or staying on the sam
 - The other participant, a screenreader user, shared concerns about auto-saving leaving users with no way to clear or cancel a selection if they had done something by mistake.
 > The only thing I didn’t like about that is that I would like the option to save it myself. Here, if you accidentally hit the space bar or whatever, it changes it whether you really wanted it to or not.  - P11, screenreader user
 
-### Screenreader users felt profile was generally easy to use and didn’t encounter any major points of confusion.
+### The two screenreader users we talked to didn’t encounter any major points of confusion in profile, and felt it was generally easy to use.
 
-This is a huge win! We’ve worked hard on accessibility and it’s encouraging to hear feedback from screenreader users who are not on our VA.gov team.
+We’ve worked hard on accessibility and it’s very encouraging to hear feedback from Veterans who use screen readers. 
+
+> This site is actually pretty clear. It’s as clear as it can be. Nothing is ever going to be perfect, because what one person likes another person might now. One thing I will tell you is because a lot of time on a lot of websites, those alerts don’t read. In other words, JAWS doesn’t hear that alert. And if JAWS didn’t hear that alert, I wouldn’t know that it had saved. It. But you’ve got it set up so that it does.  That’s the thing with screenreader technology you have to be sure the alerts get focus so they read out loud. - P11
+
+### One participant with cognitive considerations struggled to complete tasks that required multiple pages or modal disruptions.
+
+P9 exhibited signs of short term memory lost, and: 
+- struggled to stay on task when having to go from one page to another, such as adding a mobile phone number while updating notification settings.  
+- struggled to recall to navigate from page to page, despite having already used the navigation menu in the setting.
+- repeatedly triggered the same modal, seemingly unsure how to resolve the problem.
+
+TK: insert link to recording
 
 
 ## Recommendations
-### Don’t redesign the VA.gov profile to use a one-thing-per-page pattern.
-    * All participants were able to use our existing pattern to update their information with this pattern major hurdles.
-    * We didn’t see a significant improvement in the ability for people to update their information in the prototype over our website. 
-    * At this time, we don’t have enough data to suggest that one-thing-per-page would be easier for people with cognitive or vision considerations.
+### For general editing functionality, continue using the single page editing pattern profile has in place today.
+    - All participants were able to use our existing pattern to update their information with this pattern major hurdles.
+    - We didn’t see a significant improvement in the ability for people to update their information in the prototype over our website.  Those who found  the prototype easier commented on its simplicity, but the prototype didn’t include realistic alerts/warnings that would need to be in place on a live website.
+    - At this time, we don’t have enough data to suggest that one-thing-per-page would be easier for people with cognitive or vision considerations. 
+    - If we want to test this in the future, we should build out a more realistic prototype to more confidently evaluate how one-thing-per-page impacts usability.
 
-### Work with the content team to improve our button labels.
+### Improve our button labels.
 - 5 of 11 people experienced hesitation and/or confusion over which button to choose when presented with a pair.
 - There are opportunities to be more consistent with our language and make options clearer to Veterans.
 
@@ -211,26 +227,32 @@ This is a huge win! We’ve worked hard on accessibility and it’s encouraging 
 - 4 of 11 participants triggered this by quickly moving on to a new section before an update had finished saving. This caused some confusion, as well as a rushed response to the address validation prompts.
 - If analytics show a similar percentage of users encounter this alert in sessions (~36%), we should consider how we might prevent this from happening in the first place.
    
-### Explore how we might simplify the address validation flow, and review address validation analytics to see if quantitative data can corroborate what we observed in the study.
-    * The current UX wasn’t totally intuitive for 5 out of 11 people, and we already know it needs some accessibility improvements. There’s clearly room for a better UX with this flow.
-    * Analytics could help us determine if what we saw in the study is indicative of a larger pattern.
-    * It’s possible some of the issues we saw are due to the facilitation and nature of being in a moderated research session.
+### Explore how we might simplify the address validation flow, and analytics to see if quantitative data support what we observed in the study.
+- The current UX wasn’t totally intuitive for 5 out of 11 people, and we already know it needs some accessibility improvements. There’s clearly room for a better UX with this flow.
+- Address validation analytics could help us determine if what we saw in the study is indicative of a larger pattern.
+- It’s possible some of the issues we saw are due to the facilitation and nature of being in a moderated research session.
 
-### Explore solutions to allow people to edit contact information from the notification settings page
-- It confused people to have to leave the page, and a few would’ve abandoned the task if they were not in a moderated session
-- As we add more channels for notification settings, this will become more critical and complicated
+### Explore solutions to allow people to edit contact information from the notification settings page.
+- It confused more than half of participants to have to leave the page, and a few would’ve abandoned the task if they were not in a moderated session.
+- As we add more channels for notification settings, this will become more critical and complicated.
 
-### Improve the visibility of the notification name
-- People missed the name of the notification and didn’t understand what they were doing.
+### Improve the visibility of the notification name.
+- People missed the name of the notification and didn’t understand what they were opting in to (or out of, depending on the session).
+
+### Keep the extreme “short term memory loss” use case at the forefront for future design iterations.
+- Observing P9’s experience of profile was a powerful reminder of the obstacles some Veterans have to overcome to use VA.gov. 
+- It’s worth considering how we might learn more about this population to better understand their needs, and use what we learn to inform our work as we iterate on profile.
 
 ## Next Steps
-- Review findings with VA.gov profile team and align on recommendations and next steps
-- We created some tickets for bugs observed in the studies.
-- Present findings to larger VA.gov team
+- Review findings with VA.gov profile team and align on recommendations and next steps.
+- We’ll address bugs observed in the studies.
+- Share findings with larger VA.gov team.
 
 
 ## Further research needed
-It would be valuable to explore these research questions in an unmoderated study. It’s likely that some of the behavior and preferences we observed were influenced by the nature of a moderated, task-based interview.
+- It would be valuable to explore these research questions in an unmoderated study. It’s likely that some of the behavior and preferences we observed were influenced by the nature of a moderated, task-based interview.
+- If we revisit the idea of “one thing per page” in the future, we’ll need to build a more realistic prototype that includes alerts and warnings.
+-  We should do more research with folks with extreme short term memory loss to better understand how we can make VA.gov tasks easier for them to complete.
 
 ## Appendix
 
@@ -248,84 +270,74 @@ It would be valuable to explore these research questions in an unmoderated study
 - [Codepen prototype](https://codepen.io/surfbird/full/vYjxQWy)
 	
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+We talked to **11 participants.**
 
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+### Audience segment
+* Veterans: 11 
+* Caregivers: 1 
+* Family members of a Veteran: 1  
 
 
-Gender:
-* Male: x 
-* Female: x 
+### Gender
+* Male: 5 
+* Female: 6 
 
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+### LGBTQ+
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
+
+### Devices used during study
+* Desktop: 4 
+* Tablet: 0 
+- [ ] Smart phone: 8 
+* Assistive Technology: 10
+
+### Age
+* 25-34: 1
+* 35-44: 3
+* 45-54: 2
+* 55-64: 1
+* 65+: 4
+* Unknown: 0
 
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+### Education
+* High school degree or equivalent: 1
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 1
+* Master's degree: 5
+* Doctorate degree: 1
+* Unknown: 0
 
 
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+### Geographic location
+* Urban: 7
+* Rural: 4
+* Unknown: 0
 
 
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+### Race
+* White: 2
+* Black: 7
+* Hispanic: 1
+* Biracial: 0
+* Asian: 1
+* Native: 0
 
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+### Disability and Assistive Technology (AT)
+* Cognitive: 10
+* AT beginner: 0
+* AT advanced user: 9
+* Desktop screen reader: 2
+* Mobile screen reader: 1
+* Magnification/Zoom: 8
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
@@ -334,9 +346,18 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Expats
+* Members of the LGBTQ+ community
+* Beginner AT users
+* People who use the following assistive technology:   
+	* Speech Input Tech (Siri, Dragon) 
+	* Hearing Aids
+	- Sighted Keyboard
+	- Captions
+	- Switch Device
+	- Braille Reader
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2022-09-profile-editing-recruitment-equality.png
+
+![VA recruitment checker report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2022-09-profile-editing-recruitment-equality.png)
