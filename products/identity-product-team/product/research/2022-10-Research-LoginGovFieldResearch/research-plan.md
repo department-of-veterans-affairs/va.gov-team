@@ -2,7 +2,7 @@
 
 
 ## Background
-Currently there are multiple ways to sign on and access My HealtheVet (MHV) and other VA services.  These login options do not all meet required security standards and also create user frustration and confusion.  Through our research we hope to explore how the VA can most successfully migrate existing users, and onboard new user to login.gov (which is a compliant, single sign-on credentialing platform). While Login.gov does currently exist, our research hopes to uncover the best ways to support veterans, non-veteran roles, and VA staff in this transition.  
+Currently there are multiple ways to sign on and access My HealtheVet (MHV) and other VA services.  These login options do not all meet required security standards and also create user frustration and confusion.  Through our research we hope to explore how the VA can most successfully migrate existing users, and onboard new user to Login.gov (which is a compliant, single sign-on credentialing platform). While Login.gov does currently exist, our research hopes to uncover the best ways to support Veterans, non-Veteran roles, and VA staff in this transition.  
 
 [MHV folder product folder]  
 
@@ -12,7 +12,7 @@ Currently there are multiple ways to sign on and access My HealtheVet (MHV) and 
 7. Veterans and their families trust the security accuracy and relevancy of VA.gov  
 
 ### Veteran Journey
-Although being able to use login.gov to securely access My HealtheVet and other VA services is relevant throughout a veteran’s journey, we are particular focused on a few life stages and their corresponding moments that matter. We are interested in proactively intervening with veterans who are starting-up and attending to health needs to make sure they are able to create a login.gov account that they will use to access My HealtheVet going forward. We are also focused on veterans who are Retiring and Taking care of health and veterans who are Aging and Managing declining health to make sure they have clear and technically feasible options to transition their access to My HealtheVet to login.gov and ID.me. 
+Although being able to use Login.gov to securely access My HealtheVet and other VA services is relevant throughout a Veteran’s journey, we are particularly focused on a few life stages and their corresponding moments that matter. We are interested in proactively intervening with Veterans who are starting-up and attending to health needs to make sure they are able to create a Login.gov account they will use to access My HealtheVet going forward. We are also focused on Veterans who are retiring and taking care of their health, and Veterans who are aging and managing their declining health to make sure they have clear and technically-feasible options to transition their access to My HealtheVet to Login.gov and ID.me. 
 
 Are there moments that matter?  
 - Starting-up: Attending to heath needs 
@@ -21,51 +21,51 @@ Are there moments that matter?
 
 ## Research Goals	
 
-1. Understand how we can intervene proactively to ensure that new generations of veterans use login.gov or ID.me to access MHV from the beginning. 
-2. Understand what in-person support will enable veterans who have technical or other challenges to create a login.gov account and use login.gov to access their MHV account. 
-3. Understand how we can make multi-factor authentication usable for the greatest number of veterans.   
+1. Understand how we can intervene proactively to ensure that new generations of Veterans use Login.gov or ID.me to access MHV from the beginning. 
+2. Understand what in-person support will enable Veterans who have technical or other challenges to create a Login.gov account and use Login.gov to access their MHV account. 
+3. Understand how we can make multi-factor authentication usable for the greatest number of Veterans.   
 
 ### Outcome
-Coming out of our research we will create a service blueprint, recommended concepts and guidance for messaging related to how the VA can offer in-person proofing to increase the adoption of login.gov, including supporting user in setting up MFA and using a Login.gov account to access MHV. We will also provide recommendations for interventions to encourage veterans to create login.gov accounts early on and use that exclusively to access MHV. We will also document opportunities for future research and exploration.  
+Coming out of our research we will create a service blueprint, recommended concepts and guidance for messaging related to how the VA can offer in-person proofing to increase the adoption of Login.gov, including supporting the user in setting up MFA and using a Login.gov account to access MHV. We will also provide recommendations for interventions to encourage Veterans to create Login.gov accounts early on and use that exclusively to access MHV. Additionally, we will document opportunities for future research and exploration.  
 
 ### Research questions
 
-1. Understand how we can intervene proactively to ensure that new generations of veterans use login.gov or ID.me to access MHV from the beginning. 
+1. Understand how we can intervene proactively to ensure that new generations of Veterans use Login.gov or ID.me to access MHV from the beginning. 
 -- At what moment or moments does it make the most sense for proactive intervention to encourage the creation of a Login.gov account? 
--- What is the most effective way of messaging and communicating the value of login.gov? 
--- How can we best support the veteran and non-veteran roles post initial set-up of login.gov? 
+-- What is the most effective way of messaging and communicating the value of Login.gov? 
+-- How can we best support the Veteran and non-Veteran roles post-initial setup of Login.gov? 
 
-2. Understand what in-person support will enable veterans who have technical or other challenges to create a login.gov account and use login.gov to access their MHV account. 
--- What is the most effective way of messaging and communicating the value of login.gov and the need to migrate to using login.gov to access MHV?  
--- During the in-person proofing process and account migration, what technical issues arise and other challenges arise for veterans?  
+2. Understand what in-person support will enable Veterans who have technical or other challenges to create a Login.gov account and use Login.gov to access their MHV account. 
+-- What is the most effective way of messaging and communicating the value of Login.gov and the need to migrate to using Login.gov to access MHV?  
+-- During the in-person proofing process and account migration, what technical issues arise and other challenges arise for Veterans?  
 -- How might messaging, support materials, and new workflows alleviate these challenges? 
 
-3. Understand how we can make multi-factor authentication usable for the greatest number of veterans. 
+3. Understand how we can make multi-factor authentication usable for the greatest number of Veterans. 
 -- How can we best explain the value and process of MFA? 
--- Could Security keys offer a better MFA option for veterans with unique challenges? 
--- What options for MFA would allow more veterans to migrate to login.gov? 
--- How can MFA support veteran caregivers who need to access certain portions of veteran information? 
+-- Could Security keys offer a better MFA option for Veterans with unique challenges? 
+-- What options for MFA would allow more Veterans to migrate to Login.gov? 
+-- How can MFA support Veteran caregivers who need to access certain portions of Veteran information? 
 -- If given the option to opt out of using MFA, would Veterans take it? 
 
 ### Hypothesis
 
-We know that veterans go through extensive identity proofing when applying to get VA Healthcare and acquiring their VHIC.  We belief that the while getting the photo for the VHIC would be appropriate moment for Veterans to proactively set up Login.gov accounts.    
+We know that Veterans go through extensive identity proofing when applying to get VA Healthcare and acquiring their VHIC. We belief that the while getting the photo for the VHIC would be appropriate moment for Veterans to proactively set up Login.gov accounts.    
 
-We believe that getting the messaging correct is key for login.gov adoption and use after adoption. Messaging must help to clarify that Login.gov is a portal, and not a destination so as to remove confusion.  Additionally, communications should resonate with veterans and MHV coordinators, and illuminate the benefits so that the efforts are more welcomed and positively perceived.  Our research should provide insight into what resonates with Veterans and what is distracting or off-putting. 
+We believe that getting the messaging correct is key for Login.gov adoption and use after adoption. Messaging must help to clarify that Login.gov is a portal, and not a destination so as to remove confusion. Additionally, communications should resonate with Veterans and MHV coordinators, and illuminate the benefits so that the efforts are more welcomed and positively perceived. Our research should provide insight into what resonates with Veterans and what is distracting or off-putting. 
 
-We know that many Veterans choose to use in-person proofing to upgrade their MHV account to premium.  We believe that offering an in-person proofing option will increase adoption of login.gov and make it a viable option for veterans who are not able to complete the process online. We want to validate this belief and explore how much of the process needs to be in person and what kind of support is needed. 
+We know that many Veterans choose to use in-person proofing to upgrade their MHV account to premium. We believe that offering an in-person proofing option will increase adoption of Login.gov and make it a viable option for Veterans who are not able to complete the process online. We want to validate this belief and explore how much of the process needs to be in person and what kind of support is needed. 
 
-For compliant identity proofing, MFA is required. Unfortunately, current MFA options present challenges to veterans with technology issues, and disabilities. We hypothesize that security keys might be an MFA option that is easier for these veterans to use and provide some additional benefits for managing caregiver access. 
+For compliant identity proofing, MFA is required. Unfortunately, current MFA options present challenges to Veterans with technology issues, and disabilities. We hypothesize that security keys might be an MFA option that is easier for these Veterans to use and provide some additional benefits for managing caregiver access. 
 
 ## Method	
 
 We are planning to use several research methods including: 
 
-1. Scenario Validation (Evaluative) – Here we will present veterans with a scenario that presents a possible approach to creating a login.gov account and accessing MHV.  At various points throughout the scenario will stop to gauge if the Veteran finds the proposed solution useful, clear and appropriate, as well as surfacing concerns or challenges.  
+1. Scenario Validation (Evaluative) - Here we will present Veterans with a scenario that presents a possible approach to creating a Login.gov account and accessing MHV. At various points throughout the scenario will stop to gauge if the Veteran finds the proposed solution useful, clear and appropriate, as well as surfacing concerns or challenges.  
 
-2. Service Prototype Testing (Evaluative) – We will use this in conjunction with the scenario to walk the veteran through a service prototype of how they would in-person proof, set up MFA (including security keys), and secure a Login.gov account at a VA facility.  From here we can better evaluate the workflow and support needed. 
+2. Service Prototype Testing (Evaluative) – We will use this in conjunction with the scenario to walk the Veteran through a service prototype of how they would in-person proof, set up MFA (including security keys), and secure a Login.gov account at a VA facility. From here we can better evaluate the workflow and support needed. 
 
-3. Intercepts (Evaluative) – These will be contextual intercepts at a VA facility.  We will share various messaging options around how Login.gov is explained as well as its use and benefits.  We hope to understand how to make the messaging clear, effective, received positively, memorable, and likely to result in the desired action of using Login.gov. 
+3. Intercepts (Evaluative) – These will be contextual intercepts at a VA facility.  We will share various messaging options around how Login.gov is explained as well as its use and benefits. We hope to understand how to make the messaging clear, effective, received positively, memorable, and likely to result in the desired action of using Login.gov. 
 
 ### Location
 
@@ -89,34 +89,34 @@ For moderated interviews:
 	
 ## Recruitment	
 
-We plan to work with Perigean to recruit a diverse group of 20 veterans across 1-3 locations and two user groups.  
+We plan to work with Perigean to recruit a diverse group of 20 Veterans across 1-3 locations and two user groups.  
 
 ### Recruitment approach & Screener Questions
 
 ###Primary Criteria: 
 
-Migration Group: 12-14 (60-70%) of participants would be representative of the “reactive” set of veteran users who must migrate to a new account. These participants should be a diverse group of active MHV premium users who do not have a login.gov account. Ideally some or all would be veterans who have tried and failed to set up a login.gov account.  
+Migration Group: 12-14 (60-70%) of participants would be representative of the “reactive” set of Veteran users who must migrate to a new account. These participants should be a diverse group of active MHV premium users who do not have a Login.gov account. Ideally, some or all would be Veterans who have tried and failed to set up a Login.gov account.  
 
 Screener Questions: 
-1. Do you have a login.gov account? (Required Answer: No) 
-2. Have you tried to set-up a login.gov account in the past but have been unsuccessful? (Preferred if they say yes) 
+1. Do you have a Login.gov account? (Required Answer: No) 
+2. Have you tried to set-up a Login.gov account in the past but have been unsuccessful? (Preferred if they say yes) 
 3. Do you have a MHV account? (Required Answer: Yes) 
 4. Have you or someone acting on your behalf logged into MHV in the last 3 months? (Required Answer Yes) 
 
 
 
-Proactive Group: 6-8 (30-40%) of participants would be representative of the “proactive” set of veteran users who must start from the beginning with Login.gov and do not currently have a MHV account. Ideally these users would have recently signed up for or received a VHIC. 
+Proactive Group: 6-8 (30-40%) of participants would be representative of the “proactive” set of Veteran users who must start from the beginning with Login.gov and do not currently have a MHV account. Ideally, these users would have recently signed up for or received a VHIC. 
 
 Screener Question: 
 1. Do you have a VHIC? (Required Answer: Yes) 
 2. When did you get your VHIC? (Require answer: Within the last 6 months) 
 3. Do you have a MHV account? (Required Answer: No) 
-4. Do you have a login.gov account? (Required Answer: No) 
+4. Do you have a Login.gov account? (Required Answer: No) 
 
 
 
 Intercept Group: 
-Participants for the intercepts do not require recruitment.  Subject to approval from all relevant parties, our intention is to set up a table with stimuli in/near waiting area, the MHV office and the eligibility office in VA Medical Centers where we are conducting research sessions. Participants will be able to engage in with the stimuli and provide feedback for between 5-15 minutes as they are available.  
+Participants for the intercepts do not require recruitment. Subject to approval from all relevant parties, our intention is to set up a table with stimuli in/near waiting area, the MHV office and the eligibility office in VA Medical Centers where we are conducting research sessions. Participants will be able to engage in with the stimuli and provide feedback for between 5-15 minutes as they are available.  
 
 ### Recruitment criteria
 
@@ -321,7 +321,7 @@ Friday Oct 24, 2022:  9:30 –12pm, 12pm-2:30 pm
 
 This proposed schedule has 17 slots identified and up to three participants could be scheduled for each spot as long as it aligns with the location of the teams. That provides a total of 56 spots for 20 interviews.  
 
-We of course will be open suggestions from Perigean about how to modify this schedule to maximize the ability of veterans to participate.  
+We of course will be open suggestions from Perigean about how to modify this schedule to maximize the ability of Veterans to participate.  
 
 ### Length of sessions
 * Session length: 75-90 minutes 
