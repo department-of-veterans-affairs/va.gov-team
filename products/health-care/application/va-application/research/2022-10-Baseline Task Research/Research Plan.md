@@ -1,7 +1,7 @@
 # [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, November 2022
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline of usability for key tasks. 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -24,7 +24,7 @@ The health care application product fits into the [Veteran journey](https://gith
 - Starting up 
 - Retiring 
 
-Attending to health care needs during the starting up phase of the journey is a defined moment that matters. As is taking care of my health during the retiring phase. 
+Attending to health care needs during the starting up phase of the journey is a defined moment that matters, as is taking care of my health during the retiring phase. 
 
 
 ## Research Goals	
@@ -36,17 +36,20 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ### Outcome
-We will use the results from this research to esablish a baseline to compare against in future research studies specific to key repeatable tasks. 
+We will use the results from this research to esablish a baseline for comparrison in future research studies (Household Section Optimization) specific to key tasks that come up frequently during research sessions. 
 
 
 ### Research questions
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
-- What tasks have a range of participant reactions
+- What tasks have a range of participant reactions?
+- Are there common themes between participants
 
 
 ### Hypothesis
-The baseline study will confirm the findings and pain points from past studies are consistently an issue with participants. 
+The baseline study will confirm the findings and pain points from past studies are still consistently an issue with participants in this study. 
+The baseline study
+
 
 
 ## Method	
@@ -59,12 +62,13 @@ Determine a list of tasks and standardize how they are asked repeatedly from res
 
 Each task will have a set of qualitative and quantitative data points that we will collect during the baseline session, then these same metrics can be used used when this task is asked during a future research study. 
 
+
 #### Participant questions
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
 
-#### Rating Criteria
+#### Observer rating criteria
 | 0 | No part of the task completed, much difficulty |
 | 1 | Partial completion, much overlooked or task was difficult |
 | 2 | Partial completion, some areas were overlooked or task was slightly difficult |
