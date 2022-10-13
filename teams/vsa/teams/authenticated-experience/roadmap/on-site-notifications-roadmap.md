@@ -1,12 +1,12 @@
 # On-site notifications roadmap
 
-**Updated October 3, 2022**
+**Updated October 14, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications MVP| Pre-launch |
+|On-site notifications MVP| Launched to 25% of users |
 
 ### Projected timelines for current projects
 
