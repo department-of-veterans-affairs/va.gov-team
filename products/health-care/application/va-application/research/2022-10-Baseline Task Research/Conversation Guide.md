@@ -61,19 +61,38 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Start Application] - 5 minutes
 
-- Step 1
-- Step 2
+- Scenario: you are interested in applying for health care and arrive at this page (intro page).
+- Explain what you see and what you would do next?
+
+### Participant question:
+- Do you feel prepared to continue on with this application and why or why not?
+- On a scale of [ 1 - 5? ] 
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
+- 
+### Observer Task Completion Rating
 
-## Second Task: [TASK NAME] - X minutes
+---
+
+## Second Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Second Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
 
 - Step 1
 - Step 2
@@ -84,7 +103,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+---
+
+## Third Task: [Complete Veteran Information Section] - X minutes
 
 - Step 1
 - Step 2
@@ -94,6 +115,65 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+---
+[Step 2 of 6: VA Benefits]
+
+## Fourth Task: [Disability Rating] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+{if selected a rating of above 50% and directed to short form, skip to TASK # }
+
+---
+[Step 3 of 6: Military service]
+
+
+## Fifth Task: [Dates] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Sixth Task: [Upload a file] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+---
+[Step 4 of 6: Household information]
+
+
+
+
+
+
+
+
+
+
+
 
 ## Post-Task Interview - X minutes
 
