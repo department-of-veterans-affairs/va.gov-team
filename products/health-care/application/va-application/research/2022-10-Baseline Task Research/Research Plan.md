@@ -11,36 +11,35 @@ The Health Care Application (10-10EZ) enables Veterans to access and apply for V
 The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports are:
 
 **Increase**
-- Usage of digital, self- service tools
+- Usage of digital, self-service tools
 - Percent of applications submitted online (vs. paper)
 
 **Decrease**
 - Time to successful complete and submit online transactions
 
 
-
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+> Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+> Are there moments that matter? 
 
 
 ## Research Goals	
-1. Test the main tasks within the application to get a qualitative baseline. 
-2. Overall, what is easy or difficult and why related to the form.
-3. Are there any areas that cause confusion that need further exploration.
+**1. Obtain a qualitative baseline for the main tasks within the application to use in comparrison during future studies and iterations.**
+
+**2. Overall, what is easy or difficult to complete within the form and why.**
+
+**3. Uncover pain point areas that cause confusion that need further exploration.**
 
 
 ### Outcome
 
-We will use the results from this research to esablish some baseline to compare against in future research studies specific to these key repeatable tasks. 
+We will use the results from this research to esablish a baseline to compare against in future research studies specific to these key repeatable tasks. 
+
 
 ### Research questions
-
-
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
 - What tasks have a range of participant reactions
-
 
 
 ### Hypothesis
