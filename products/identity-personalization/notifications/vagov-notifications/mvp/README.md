@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated September 30, 2022
+**Last updated: October 14, 2022**
 
 ### Communications
 
@@ -122,7 +122,7 @@ The following is needed for the MVP build:
 - July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
 - August 2022: Completed final collab cycle reviews; Awaiting launch after My VA redirect launch
 - September 2022: Fixing final analytics issues before launch
-- October X, 2022: Launch to 25%
+- October 14, 2022: Launch to 25%
 - October X, 2022: Launch to 50%
 - October X, 2022: Launch to 100%
 
