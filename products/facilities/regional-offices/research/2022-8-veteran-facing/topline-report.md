@@ -39,7 +39,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #3: Problems encountered were never really connected to VBA website content issues.**
 
-- most people seem to get information from google maps and not from the VBA website
+- Most people seem to get information from google maps and not from the VBA website
 - No one reported any difficulties finding hours or location information on the va website
 - Vets did not seem interested in checking "services available" before visiting or even really there being any distinction between one VBA location and another (as evidenced by the fact that proximity seems to be the only relevant filter). 
 - Website problems were related to lack of access to information in the authenticated experience, login, other things not related to the public facing websites
