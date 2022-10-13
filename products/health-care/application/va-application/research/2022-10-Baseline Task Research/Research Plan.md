@@ -47,6 +47,22 @@ Establish initial baseline patterns of participants completing tasks with ease o
 
 ## Method	
 - Usability testing task analysis- appropriate for evaluative research
+- Post-task and Post-testing participant questionaire/rating
+
+
+### --
+Determine a list of tasks and standardize how they are asked repeatedly from research session to session to begin gauging sentiment over time. 
+
+Each task will have a set of qualitative and quantitative data points that we will collect during the baseline session, then these same metrics can be used used when this task is asked during a future research study. 
+
+#### Participant questions
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
+#### 
+
+
 
 
 ### Location
