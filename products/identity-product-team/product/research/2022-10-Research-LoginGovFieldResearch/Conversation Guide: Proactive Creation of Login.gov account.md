@@ -45,21 +45,22 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions (Optional) - 10 minutes
  
 To start I’d love to learn a little more about you. Can you tell me a little bit about yourself and how you interact with the VA?
-What has your experience been like in transition back to civilian life? 
-Have you gotten your VHIC? What was that process like? When was  that?
+- What has your experience been like in transition back to civilian life? 
+- Have you gotten your VHIC? What was that process like? When was  that?
+
 [Do we need to screen for veterans who are eligible for care at VAMC?]
  
 ## SCENARIO 1: LOGIN.GOV SET-UP DURING VHIC PROCESS - 45 minutes
  Thank you for that information. Now I’d like to dive into sharing some concepts that we are exploring. As I mentioned before these are just ideas and we are eager for your honest feedback so we can learn what works, what needs improvement and what to scrap all together. 
-##First Task: [VHIC Admin asks about Login.gov account] - 10 minutes
+## First Task: [VHIC Admin asks about Login.gov account] - 10 minutes
 [Connect to veteran’s context as appropriate] So, I want you to imagine that you want to start seeing a doctor at the VAMC and so the first part of the process is to get a Veteran Health Information Card. You gather up the necessary information and go to the eligibility office at your local VA medical center. As you are finishing the process of applying for your card the person who has been helping you says, “While we are finalizing your VHIC application I can also help get you set up with a login.gov account. Login.gov is a secure way to access many different government services from Social Security to TSA. But specifically, the VA uses it so you can access a service called MyHealtheVet. MyHealtheVet is a health record portal that allows you to view your healthcare records, securely communicate with your VA doctors and refill your prescriptions online. Setting up login.gov will add about 5 minutes to this process. Are you interested in doing that now?”
--Would you be interested in getting a login.gov account? Why? Why not?
--Would you choose to get set up for a login.gov account while doing your VHIC application? Why or why not?
--Any other thoughts about this section?
+- Would you be interested in getting a login.gov account? Why? Why not?
+- Would you choose to get set up for a login.gov account while doing your VHIC application? Why or why not?
+- Any other thoughts about this section?
 
 ### Things to watch for:
--Understanding of what login.gov is/does
--Would participants like to know they are going to have this choice ahead of time?
+- Understanding of what login.gov is/does
+- Would participants like to know they are going to have this choice ahead of time?
 
 ## Second Task: [IN-PERSON ACCOUNT SET-UP: INFO GATHERING/REVIEW] - 5 minutes
 Imagine you decide to 
@@ -74,13 +75,13 @@ Imagine you decide to
 ## Third Task: [IN-PERSON ACCOUNT SET-UP: ID PROOFING/REVIEW] - 5 minutes
 ### Things to watch for:
 
-#Fourth Task:  [IN-PERSON ACCOUNT SET-UP: MFA] - 10 minutes
+## Fourth Task:  [IN-PERSON ACCOUNT SET-UP: MFA] - 10 minutes
 Alright, the last step for creating your login.gov account is to set-up an additional security check in addition to entering your username and password. We call this Multi-factor Authentication. You can do this additional security check a number of different ways. You can have a code texted to you or emailed to you that would then type in after you enter your username and password, or you can download an app that will generate the code that you enter in, or you can use a security key or you can have the code mailed to you using the post office, so it involved a delay.
--Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
--(If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
--Which option do you think you’d choose for login.gov? Why?
--If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
--One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
+- Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
+- (If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
+- Which option do you think you’d choose for login.gov? Why?
+- If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
+- One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
 What do you think about that option? 
 
 ### Things to watch for:
@@ -90,14 +91,14 @@ What do you think about that option?
 Congratulations, your login.gov account has been completed and you can now use it to log into MHV as well as for many other government websites. You just type your new username and password in here.
 Show existing screen/flow for using login.gov to access MHV
 Now that you are logged with your new credentials you have the option to set-up limited or full access to your account for anyone who you want. That person will be able to create their own account and with their own username and password and access as much of your information as you want them to have access to. And you can change or remove their access at any time.
-Is that something you would like to do?
-Who would you like to give access to? What kind of information would you like to give them access to? Why?
-Anyone else?
-Is there anyone you would share your username and password with? Why?
-Would you consider giving that person full access but asking them to create their own account? Why/why note?
+- Is that something you would like to do?
+- Who would you like to give access to? What kind of information would you like to give them access to? Why?
+- Anyone else?
+- Is there anyone you would share your username and password with? Why?
+- Would you consider giving that person full access but asking them to create their own account? Why/why note?
 ### Things to watch for:
--Is this feature useful to them. 
--What type of information would they share
+- Is this feature useful to them. 
+- What type of information would they share
 
 
 [IN-PERSON ACCOUNT SET-UP: WHAT TO EXPECT/NEXT STEPS]
