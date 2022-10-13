@@ -47,7 +47,7 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 ### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
 
-**Key result**: Increase clicks into payment history and debt information by 10% on My VA.
+**Key result**: Gather baseline metrics for clicks into payment history and debt information on My VA.
  
 |KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
