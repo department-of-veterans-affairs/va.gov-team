@@ -18,7 +18,7 @@ Date: 10/2022
 
 [Details of Findings and Recommendatins](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
-[Who we talked to](insert link to section)
+[Who we talked to](<img width="926" alt="Screen Shot 2022-10-13 at 1 19 49 PM" src="https://user-images.githubusercontent.com/92750161/195702178-6526d295-4d2a-44d5-9a4e-c6b4d5340772.png">)
 
 [Further research needed](insert link to section)
 
