@@ -8,14 +8,24 @@ The Health Care Application (10-10EZ) enables Veterans to access and apply for V
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports are:
+
+**Increase**
+- Usage of digital, self- service tools
+- Percent of applications submitted online (vs. paper)
+
+**Decrease**
+- Time to successful complete and submit online transactions
+
+
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
+
 ## Research Goals	
-1. Test the main tasks within the application to get a qualitative baseline 
+1. Test the main tasks within the application to get a qualitative baseline. 
 2. Overall, what is easy or difficult and why related to the form.
 3. Are there any areas that cause confusion that need further exploration.
 
@@ -25,6 +35,8 @@ Are there moments that matter?
 We will use the results from this research to esablish some baseline to compare against in future research studies specific to these key repeatable tasks. 
 
 ### Research questions
+
+
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
 - What tasks have a range of participant reactions
@@ -62,17 +74,26 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+> Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+> Pro tip:
+> - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
+> - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+> - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+> Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+
+### Recruitment approach
+We will recruit Veterans for this research using and leveraging Perigean to recruit participants. 
+
+
+
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|               |                  |        |             |          |              | 
+
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -87,6 +108,8 @@ What criteria would strengthen your results?
 
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+
 
 ### Prepare
 We will be testing what is currently approved in staging.
