@@ -12,11 +12,11 @@ Date: 10/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
-[Key findings](insert link to section)
+[Key findings](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
-[Recommendations](insert link to section)
+[Details of Findings and Recommendatins](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
 [Who we talked to](insert link to section)
 
@@ -175,109 +175,90 @@ Most of the users (8 of 10) reported that they would not want to print an indivi
    “No, I don't [print] cause when I go they usually give me print out, and when I get home I just put it in my [digital] calendar.”  
    -Participant 15  
 
-**Recommendation: No print all link**
+**Recommendation: No "print all" link**
 
 Because the majority of participants reported that they do not print their appointments, consider leaving the print link out of the appointment list.
 
-**Recommendation: Add all to calendar**
+**Recommendation: Add "add all to calendar" link**
 
 With the majority of participants reporting that they used their digital calendar as a way of managing their appointments, it is suggested that adding a link to "add all to calendar
 
-# Details of Findings 
+## 4.The order of past appointment list is confusing. 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+Users were asked to find their most recent appointment and most users (8 of 10) clicked on the first appointment at the top of the list. This suggests that users would expect to see their most recent appointments displayed on the top of the list and their older appointments to follow. 
 
+<img width="277" alt="Screen Shot 2022-10-11 at 1 33 26 PM" src="https://user-images.githubusercontent.com/92750161/195192806-6811986d-a6d1-4ab0-9206-587b9ede8dfa.png">
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+The above image shows the current order for past visits - oldest to newest.
 
+**Recommendation: Change past appointment list order** 
+Consider reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for veterans to navigate their past appointments page.
 
-**Finding 1**
+## 5. Details pages were easy to navigate. 
 
-Labels: label 1, label 2 
+All users (10 of 10) were able to navigate to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety or answers:
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- Phone number extension - There was concern that calling the facility number would put them into the VA phone system and that a direct extension to the clinic was important.
 
-Brief description
+- Provider name -  The list view showed provider name, but was not listed in the details pages. 
 
-> _Supporting data: Quote here_
+- A help number - There is a VA wide help number, but users were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
 
-> _Supporting data: Quote here_
+Two participants struggled to exit the details pages, noting that the only two options were to cancel or reschedule the appointment. It is speculated that they either did not see the back button, believed the appointment to be a modal that they would need to close or exit out of or were under the impression they needed to select one of the two options at the bottom.
 
+For canceled appointment details pages, (4 of 10) users wanted to know why their appointment was canceled. 
 
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+**Recommendation:Change Details page CTA's** 
+Reconsider the CTA buttons at the bottom of details pages.
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+### 1. The term pending was confusing for some users.
+Some users (4 of 10) were unable to locate “pending” appointments without intervention/assistance from the facilitator. After further explanation, they were all able to find the pending appointment, suggesting a discrepancy in naming. When asked how they interpreted the word “pending”, some (2 of 10) participants thought they were upcoming appointments, while one believed a pending appointment would mean an error in scheduling. 
 
+**Note**: In previous studies, the term “requests” caused confusion for participants. Bother “pending” and “request” are potentially problematic. [Link to github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion)
 
-# Recommendations
+### 2. Need a way to search or sort through past appointments. 
+Users were successful (9 of 10) in finding and clicking on the past appointments link. When asked to locate a specific appointment on the past appointments list, several users wanted a way to filter or search through those appointments, by various data points. 
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+**Note**: The date filter was not included in the test and will need to be added. 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+### 3. Access to secure messaging
+Users want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
 
+### 4. Small text
+Atleast one participant with low visibility expressed difficulty seeing the links in the details pages.
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
-
+The next steps in this process are as follows:
+1. Engineers to build a proof of concept for appointment list designs. 
+2. Update appointment list designs based on findings and recommendations from this study. 
+3. Create screen-reader usability test using low-code prototype
+4. Make changes to details page designs based on findings and recommendations from this study.
+5. Further testing on details page usability. 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+All requested demographics were met and no further testing will be needed for this study. Design changes and further testing will be conducted for design change recommendations for details page. 
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1663787968917/0350c48a113a036c09499090ae54f1da3e709626?sender=ua4cf5b25fa1f501e76ba9960)
 
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1BMn0Jwdeg-vjbtBlxKPrVwJrv7VIiA7ddJj1Cp4Gemk/edit#gid=0)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Desktop Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
+[Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
 ## Secondary research
 
