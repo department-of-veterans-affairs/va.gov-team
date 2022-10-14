@@ -172,6 +172,7 @@ If emergency occurs, follow protocol to initiate assistance:
 2. Contact Perigean over Slack immediately. Use the direct message set up at the start of the study so everyone is notified:
 - Included detailed description of scenario (e.g. the participant stopped responding and became listless, or the participant vocalized intent to harm)
 - Perigean will be responsible for calling 911 or the Veteran Crisis Line as appropriate
+
 When emergency is stabilized:
 1. Update the Slack channel with any relevant basic details
 2. Loop in your project point of contact (usually your OCTO lead)
