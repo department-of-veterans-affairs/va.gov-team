@@ -239,12 +239,12 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
   - any issues using a screen reader or smartphone
   - any accessibility issues with megamenu
   - usage of "VA health care" link
+- Check if **enough people doing later tasks** (if not, start with them)
+- Check if on track for **at least 10 completes, and at least 6 smartphone users** (monitor daily so can let Perigean know if need more b/c no-shows)
 - Download recording and closed caption (.vtt file)
 - Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
-- Check if not getting to later tasks so need to start with them 
-
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
