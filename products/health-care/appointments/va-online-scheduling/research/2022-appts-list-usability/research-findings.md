@@ -147,7 +147,12 @@ All participants (10 of 10) were able to scan through the appointment list and i
 The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
-A number of participants (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility. 
+A number of participants (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility.
+
+
+<img width="863" alt="Screen Shot 2022-10-14 at 10 03 20 AM" src="https://user-images.githubusercontent.com/92750161/195902380-4357586a-fbdb-4302-95b6-2b6ac8758bac.png">
+
+The image above shows the modality structure used for testing. 
 
 **Note:** The primary focus of this study was the appointment list. The prototype only showcased a select number of details page types. The participants may have had a different experience if when they clicked on an appointment, the information on the details pages matched that of the appointment they clicked on. Four participants clicked on the details for a video appointment at a facility and were routed to a video appointment at home, giving them no additional information on how a video appointment at a facility would be conducted. Outcomes may have differed had the details pages been consistent with appointment list items. 
 
@@ -159,8 +164,10 @@ A number of participants (4 of 10) struggled to differentiate between the differ
    
 **Recommendation: Simplify the usage of modality language.**
 
-Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. Simplifying this will help mitigate confusion and give Veterans a more clear understanding of where they need to physically be for their appointments.  
-   
+Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. Simplifying this will help mitigate confusion and give Veterans a more clear understanding of where they need to physically be for their appointments. 
+
+<img width="863" alt="Screen Shot 2022-10-14 at 10 03 20 AM" src="https://user-images.githubusercontent.com/92750161/195902380-4357586a-fbdb-4302-95b6-2b6ac8758bac.png">  
+
 ## 3. The majority of participants would not print their appointment list. 
 
 Most of the participants (8 of 10) reported that they would not want to print an individual appointment or list. When asked what they would do alternatively, all participants (10 of 10) reported using these digital methods to reference their appointments:
