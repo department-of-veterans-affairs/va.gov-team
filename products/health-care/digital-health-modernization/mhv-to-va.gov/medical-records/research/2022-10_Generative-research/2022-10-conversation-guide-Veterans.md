@@ -83,23 +83,51 @@ Before we start, I want to go over a few things:
     - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
  
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 5-10 minutes
 Let’s start with a few questions... 
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
+2. *(If using assistive technology:)* How would you rate your level of experience with using [specific assistive technology, such as a screen reader]--beginner, intermediate, advanced, or expert?
 
+3. *(If using assistive technology:)* How long have you been using [specific assistive technology]?
 
+4. As we age, we continue to have health-related experiences that need to be documented so that our doctors, nurses, and other providers can better take care of us. If all your health issues, treatments, and other histories were combined into one list, what would you call that list? 
 
+5. *OPTIONAL PROBES:* Would different types of information be in different lists? What types of lists would be in one list versus a different list? *(Interviewer can continue to probe to provide clarity on what types of information should be grouped or can move on, depending on how participant is responding.)*
 
+6. What if that/those list(s) were available online - what would you call it/them?
 
+## Past experiences - 15-20 minutes
+7. Have you ever seen or downloaded information about your health? This could be any information about your health history, about current health problem, or what you are doing to stay healthy. 
 
+8. What did you need to do, see, or download? 
+
+9. What did you want to learn or do with this information? 
+
+10. *OPTIONAL PROBES:* Did you want to share this information with anyone? If so, with who? For what purpose? 
+
+11. *OPTIONAL PROBES:* Did you want to keep this information for yourself? If so, what made you want to do that?
+
+12. In the last 1-2 times you were looking online for information about your health history, current health issues, or anything about your healthcare, what kind of health information were you trying to find? 
+
+13. *OPTIONAL PROBE:* What kind of information would you most want to find quickly? 
+
+14. In the last 1-2 times you were looking online for information about your health history, current health issues, or anything about your healthcare, what did you want to do after you found what you were looking for? 
+
+15. *OPTIONAL PROBE:* Did you want to download your entire *(use the word the participant is using for medical records)* or just use specific information? 
+
+16. *OPTIONAL PROBE:* Did you need to share your *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
+
+## Terms and information architecture
+*Show participant...something.*
+
+17. 
 
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
 
-1. *(If using assistive technology:)* How would you rate your level of experience with using [specific assistive technology, such as a screen reader]--beginner, intermediate, advanced, or expert?
-1.  *(If using assistive technology:)* How long have you been using [specific assistive technology]?
+1. 
 
 1. What VA benefits, if any, do you have experience with? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
