@@ -116,8 +116,8 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Design
 
-- Add Sketch files
-- Add use cases
+- [Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
+- [use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
 
 ### Before
 
