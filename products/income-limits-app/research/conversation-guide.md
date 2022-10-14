@@ -43,7 +43,7 @@ Today I'm going to be asking you some questions about VA health care benefits.
 
 Before we start, I want to go over a few things:
 
-- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I really just want to learn from you/your experience. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** If you aren't comfortable answering some of the questions that I ask, please let me know and I'll be happy to move on.
 
@@ -52,7 +52,7 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
-*Click Live Transcript and **Enable** or *Show Captions*. 
+*Click Live Transcript and **Enable**, or Show Captions*. 
 
 *Click Live Transcript > View Full Transcript*
 
@@ -96,9 +96,9 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 #### *After 3b, skip ahead to guide for Cohort 3*
 
 ## For Cohort 1 and Cohort 2
-### Cohort 1: Get a detailed story of the full application process
+### Cohort 1 (has applied): Get a detailed story of the full application process
 Cohort 1: For the rest of our conversation we're going to talk about what that experience was like for you. 
-### Cohort 2: Get a detailed sense of thought process, questions and concerns
+### Cohort 2 (considering applying): Get a detailed sense of thought process, questions and concerns
 Cohort 2: Let's turn now to talking about your thought process around VA health benefits.
 
 4. To start, when did you first start thinking about applying for VA health benefits? 
@@ -129,9 +129,9 @@ I'm curious to hear more about _________ (eligibility - use participant's term i
 1. What questions/concerns did you have? 
 1. Where did you go to learn more?
 
-## For Cohort 3 
+## For Cohort 3 (change may affect benefits)
 ### Get a detailed story of the change and aftermath
-For the rest of our conversation we're going to talk about _______ (the change) in the context of your VA health care benefits. To reiterate, I do not care at all whether or not a change was reported. I don't really even know the rules around reporting a change. I'm just here to learn about how you think about the change in context of your benefits.
+For the rest of our conversation we're going to talk about _______ (the change) in the context of your VA health care benefits. I don't care at all whether or not a change was reported to VA. I don't really even know the rules around reporting a change. I'm just here to learn about how you think about the change in context of your benefits.
 
 4. To start, after ______ (the change), what types of logistical tasks were you thinking about that you'd have to deal with as part of this change?
 5. Did your VA health care benefits come up in your mind as a thing you'd want to deal with after this change occurred?
