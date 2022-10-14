@@ -133,8 +133,8 @@ The purpose of this work is to inform the information architecture, content and 
 For detailed protocol on each part of the study, see: 
 
 * **VA Mobile App Information Architecture Research - Phase I - IA Research:**
-    * [Research Plan for VA Mobile App IA Research: Open Card Sort - Part 1 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)(October 2021)
-    * [Research Plan for VA Mobile App IA Research: Closed Card Sort - Part 2 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)(February/March 2022)
+    * [Findings for VA Mobile App IA Research: Open Card Sort - Part 1 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) (October 2021)
+    * [Findings for VA Mobile App IA Research: Closed Card Sort - Part 2 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)(February/March 2022)
  
   
     
@@ -145,7 +145,7 @@ For detailed protocol on each part of the study, see:
    
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [Research Plan for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-research-plan.md) (August-September 2022)
+    *  [Findings for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) (August-September 2022)
   
 
 
