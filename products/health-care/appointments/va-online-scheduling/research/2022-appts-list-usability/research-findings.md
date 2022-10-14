@@ -141,14 +141,10 @@ All participants (10 of 10) were able to scan through the appointment list and i
 
 4 participants wanted the reason for their appointment to be displayed on the appointment list as a way of reminding them what the appointment was for. This comment came prior to viewing appointment details, which lists the reason for the appointment (if provided) there.
 
-
-<img width="607" alt="Screen Shot 2022-10-11 at 10 15 47 AM" src="https://user-images.githubusercontent.com/92750161/195157192-9dc2f8ab-c980-47ad-a7af-0e22d339d731.png">
-
 The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
 A number of participants (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility.
-
 
 <img width="863" alt="Screen Shot 2022-10-14 at 10 03 20 AM" src="https://user-images.githubusercontent.com/92750161/195902380-4357586a-fbdb-4302-95b6-2b6ac8758bac.png">
 
