@@ -32,7 +32,7 @@ Today we're going to explore some options related to how you log in to access VA
  
 Before we start, a few things I want to mention:
  
-- **This entire session should take about 2 hours.** I want to be sure to respect your time, so you may see me check the time periodically and  I may occasionally need to move us along to the next section of our conversation.
+- **This entire session should take about 90 minutes.** I want to be sure to respect your time, so you may see me check the time periodically and  I may occasionally need to move us along to the next section of our conversation.
 - **In this session, we want to hear your honest opinions.** We are not testing you or your ability. If something is confusing or difficult for you it means it will be for other people as well and we need to fix it. We just want to improve these tools to better meet Veterans needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Over the course of our session I’ll be asking you to imagine yourself in certain scenarios and may show you pictures to set the stage for those scenarios. I will also show you some mock-ups or prototypes** This is a simulation to allow us to understand how to improve certain processes. Some areas of the scenario or process may not be fully fleshed out. Since this is just a simulation, none of your actions will affect your actual VA information or login.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -53,7 +53,8 @@ Before we start, a few things I want to mention:
  
 ## SCENARIO 1: LOGIN.GOV SET-UP AND RE-PROOFING - 45 minutes
  Thank you for that information. Now I’d like to dive into sharing some concepts that we are exploring. As I mentioned before these are just ideas and we are eager for your honest feedback so we can learn what works, what needs improvement and what to scrap all together. 
-##First Task: [Receive email] - 5 minutes
+
+## First Task: [Receive email] - 5 minutes
 [Connect to veteran’s context as appropriate] So, I want you to imagine that you get an email from MHV that reminds you that you have an upcoming appointment and tells you that you can upgrade the security of your MHV account while you are there for your appointment. 
 [Show user the prototype email]
 What do you think about this?
@@ -110,6 +111,7 @@ Who would you like to give access to? What kind of information would you like to
 Anyone else?
 Is there anyone you would share your username and password with? Why?
 Would you consider giving that person full access but asking them to create their own account? Why/why note?
+
 ### Things to watch for:
 -Is this feature useful to them. 
 -What type of information would they share
@@ -120,8 +122,10 @@ Thank you for all of this feedback. I just want to ask you about one other idea.
 -Would it be useful to you? Why or why not?
 
 
-##SCENARIO 2: ACCOUNT MIGRATION WITH DELAYED PROOFING - 45 minutes
-##First Task: [Receive email] - 5 minutes
+## SCENARIO 2: ACCOUNT MIGRATION WITH DELAYED PROOFING - 45 minutes
+ 
+ ## First Task: [Receive email] - 5 minutes
+
 [Connect to veteran’s context as appropriate] So, I want you to imagine that you get an email from the VA saying that they have used your MHV profile to create a new more secure login.gov account for you. Right now it’s just a provisional account because you need to confirm your ID and verify your address. 
 [Show participant the prototype email]
 How do you feel about the VA creating a login.gov account for you?
@@ -135,7 +139,7 @@ Who else would you show this email to? Why?
 -Perception of value
 -Perception of effort required from them
 
-##Second Task: [Go through initial password and username confirmation] - 5 minutes
+ ## Second Task: [Go through initial password and username confirmation] - 5 minutes
 Imagine you decided you would take care of the initial steps in acquiring your Login.gov credentials, and click to launch the login.gov preliminary account. Now let’s look more closely at the first screen asking to create your username and password. 
 [Show password/username screen for preliminary login.gov account]
 - What is this screen showing you?
@@ -148,8 +152,7 @@ Imagine you decided you would take care of the initial steps in acquiring your L
 -Does the Veteran distrust the site for any reason?
 
 
-
-##Third Task: [MFA Set up] - 10 minutes
+ ## Third Task: [MFA Set up] - 10 minutes
 Alright, Thank you. Imagine you confirmed your username and password and continued to the next step for creating your preliminary login.gov account and asked to set-up an additional security check in each time you enter your username and password. We call this Multi-factor Authentication. 
 At this point you get to choose how you would prefer to Multi-factor Authenticate, and there are a number of different ways. You can download one time use codes that would then type in after you enter your username and password, have can have a code texted to you or emailed to you that you can enter in, or you can download an app that will generate the code to enter, or you can use a security key or you can have the code mailed to you using the post office, so it involves a delay.
 [Show MFA screen for preliminary login.gov account]
@@ -169,7 +172,7 @@ At this point you get to choose how you would prefer to Multi-factor Authenticat
 -Does this seem secure to the Veteran
 -Does this seem confusing to the Veteran
 
-##Fourth Task: [Login.gov preliminary access screen] - 5 minutes
+ ## Fourth Task: [Login.gov preliminary access screen] - 5 minutes
 After that you continue to access your MHV site like always, although now you are using the new username/password that was created for login.gov and the multifactor authentication method you chose. You are still able to refill your prescriptions and communicate with your doctors. 
 
 You can see on the side that there are still some things that need to be confirmed, but there is some time to accomplish them. You can do them now, fully online, or wait to do them in person at your next visit to a VA facility.  If you prefer the in person option, you can even set up a separate appointment. 
@@ -187,8 +190,8 @@ You can see on the side that there are still some things that need to be confirm
 
 Let’s say that a few months later you have a doctor’s appointment at the VAMC. When you arrive and check-in, the person at the desk gets you all checked in and then says, “I see that we could confirm your ID today if you’d like for your login.gov account that you use to access MHV. Would you like to do that now?
 
+ ## Fifth Task: [Check into appointment at VAMC and MSA encourages ID Proofing] - 5 minutes
 
-##Fifth Task: [Check into appointment at VAMC and MSA encourages ID Proofing] - 5 minutes
 A few months later you have a doctor’s appointment at the VAMC. You receive an email that reminds you that you will also complete address and ID verification for Login.gov, and to be sure to bring your ID.
 When you arrive and check-in, the person at the desk gets you all checked in and then says, “I see that we could confirm your ID today if you’d like for your login.gov account that you use to access MHV. Would you like to do that now? 
 - What about this option do you like or dislike?
@@ -198,8 +201,8 @@ When you arrive and check-in, the person at the desk gets you all checked in and
 ### Things to watch for:
 -Does ID verifying at the next VA visit feel like a burden or a convenience to the Veteran? 
 
+ ## Sixth Task:  [IN-PERSON ACCOUNT SET-UP: LOGIN TO MHV WITH NEW CREDENTIALS & SET UP CAREGIVER OPTIONS] - 5 minutes
 
-##Sixth Task:  [IN-PERSON ACCOUNT SET-UP: LOGIN TO MHV WITH NEW CREDENTIALS & SET UP CAREGIVER OPTIONS] - 5 minutes
 Congratulations, your login.gov account has been verified it will continue to work for MHV and you can now use it to access many other government websites. 
 To access MHV you just type your new username and password in here and then complete the MFA.
 Show existing screen/flow for using login.gov to access MHV
