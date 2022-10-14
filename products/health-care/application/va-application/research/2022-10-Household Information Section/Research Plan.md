@@ -34,7 +34,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 **1. Determine if the questions and additional information within the household information section is clear and actionable**
 
-**2. Determine if the financial onboarding page helps in feeling prepared**  
+**2. Determine if the financial onboarding page content helps the participant feel prepared**  
 
 **3. Optimize the order and flow of questions within the household information section**
 
