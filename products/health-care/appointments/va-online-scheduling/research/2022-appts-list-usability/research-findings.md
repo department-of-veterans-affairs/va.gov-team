@@ -141,14 +141,12 @@ All participants (10 of 10) were able to scan through the appointment list and i
 
 4 participants wanted the reason for their appointment to be displayed on the appointment list as a way of reminding them what the appointment was for. This comment came prior to viewing appointment details, which lists the reason for the appointment (if provided) there.
 
+<img width="622" alt="Screen Shot 2022-10-14 at 10 11 42 AM" src="https://user-images.githubusercontent.com/92750161/195903715-857ad09c-2ef0-475f-8ad2-1965cf910488.png">
+
 The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
 A number of participants (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility.
-
-<img width="863" alt="Screen Shot 2022-10-14 at 10 03 20 AM" src="https://user-images.githubusercontent.com/92750161/195902380-4357586a-fbdb-4302-95b6-2b6ac8758bac.png">
-
-The image above shows the modality structure used for testing. 
 
 **Note:** The primary focus of this study was the appointment list. The prototype only showcased a select number of details page types. The participants may have had a different experience if when they clicked on an appointment, the information on the details pages matched that of the appointment they clicked on. Four participants clicked on the details for a video appointment at a facility and were routed to a video appointment at home, giving them no additional information on how a video appointment at a facility would be conducted. Outcomes may have differed had the details pages been consistent with appointment list items. 
 
