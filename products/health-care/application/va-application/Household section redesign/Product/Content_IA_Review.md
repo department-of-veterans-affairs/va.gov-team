@@ -48,7 +48,7 @@ The current estimated release period is early- to mid-January.
 
 ## About your team
 
-- Team name: 
+- Team name: 10-10 Health Apps team
 -	OCTO-DE product owner: Patrick Bateman
 -	Product manager: Heather Justice, Mark Fallows
 -	Designer: Nick Osmanski, Jessica Stump
