@@ -34,7 +34,7 @@ This brief will help your team create content for your product that aligns with 
 
 ## Content considerations specific to sign in and identity verification
 
-### Encouraging Login.gov and ID.me
+### Encouraging Login.gov and ID.me (added 10.14.22)
 
 We want to begin encouraging Veterans to create Login.gov or ID.me accounts, with an emphasis on Login.gov.
 
@@ -51,7 +51,7 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
  > - **Login.gov** is an account created, maintained, and secured by the U.S. government. It encrypts your stored information at 2 levels. Encryption translates your data into code that only you can access as the account holder. This means only you can access and change your information. 
  > - **ID.me** is an account created, maintained, and secured by a trusted technology partner. It uses bank-grade encryption to keep your personal info safe. It gives you control over which services can share your information.
 
-#### And here's language from the TAP curriculum about creating a Login.gov account specifically:
+#### And here's language from the TAP curriculum about creating a Login.gov account specifically: (added 10.14.22)
 
  > To manage your VA benefits online, we encourage you to create a Login.gov account now. 
  > Login.gov offers these benefits:
