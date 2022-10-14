@@ -16,16 +16,16 @@ Date: 10/2022
 
 [Key findings](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
-[Details of Findings and Recommendatins](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
+[Details of Findings and Recommendations](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
-[Who we talked to](<img width="926" alt="Screen Shot 2022-10-13 at 1 19 49 PM" src="https://user-images.githubusercontent.com/92750161/195702178-6526d295-4d2a-44d5-9a4e-c6b4d5340772.png">)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md#who-we-talked-to:~:text=Mobile%20Prototype-,Who%20we%20talked%20to,-Complete%20the%20demographic)
 
-[Further research needed](<img width="926" alt="Screen Shot 2022-10-13 at 1 19 49 PM" src="https://user-images.githubusercontent.com/92750161/195702178-6526d295-4d2a-44d5-9a4e-c6b4d5340772.png">)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md#who-we-talked-to:~:text=Mobile%20Prototype-,Who%20we%20talked%20to,-Complete%20the%20demographic)
 
 <br>
 
 # Research Goals
-Veterans schedule and manage their appointments in various ways, that include in person, by phone or online through the VAOS portal. A veteran can log onto VA.gov and enter the VAOS portal to schedule, request or cancel an appointment as well as view upcoming, past or pending appointments. The focus of this research was to validate the design change decisions, to improve veterans overall experience with VAOS appointment management.
+Veterans schedule and manage their appointments in various ways, that include in person, by phone or online through the VAOS portal. A veteran can log onto VA.gov and enter the VAOS portal to schedule, request or cancel an appointment as well as view upcoming, past or pending appointments. The focus of this research was to validate the design change decisions, to improve Veterans overall experience with VAOS appointment management.
 [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 The purpose of this research is to: 
@@ -75,8 +75,8 @@ For moderated _desktop_ usability test
 
 For moderated _mobile_ usability test
 
--[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
--[Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
+- [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
 
 # Hypotheses and Conclusions
@@ -88,23 +88,23 @@ We will use the findings to:
 - Evaluate usability and value of the appointment list redesign.
 
 ## Hypotheses and Conclusions
-- The new appointment list will be easy for veterans with diverse technical abilities, ages, and disabilities to navigate and scan.
+- The new appointment list will be easy for Veterans with diverse technical abilities, ages, and disabilities to navigate and scan.
   - TRUE: All participants were able to easily scan the new appointment list. 
 - The new appointment list will provide clear, valuable information to the veteran
   - TRUE: All participants found the information provided in the new appointment list to be useful and pertinent. 
-- The new modality language and iconography will clearly indicate to veterans where they will need to attend their appointments.
-  - FALSE: Several veterans found the modality icon and language confusing.
+- The new modality language and iconography will clearly indicate to Veterans where they will need to attend their appointments.
+  - FALSE: Several Veterans found the modality icon and language confusing.
 - The new details pages will provide clear, valuable information to the veteran
-  - TRUE: All participants found that the new details pages provided useful informationl. 
-- The new details pages will be easy for veterans to navigate and scan.
+  - TRUE: All participants found that the new details pages provided useful information. 
+- The new details pages will be easy for Veterans to navigate and scan.
   - TRUE: All participants were able to navigate the new details pages with ease.
-- The back button (in place of breadcrumb) will be easy for veterans to locate and use.
+- The back button (in place of the breadcrumb) will be easy for Veterans to locate and use.
   - TRUE: Veterans found the back button easily and were able to navigate using it. 
 
 
 # Key Findings
-1. **All users (10 of 10)** were able to **scan through the appointment list** by date, time, status and type of care. 
-- Many users wanted the reason for appointment to be displayed on the appointment list. 
+1. **All users (10 of 10)** were able to **scan through the appointment list** by date, time, status, and type of care. 
+- Many users wanted the reason for their appointment to be displayed on the appointment list. 
 - Users expressed an interest in access to secure messaging from the appointment list. 
 
 2. **A number of users (4 of 10)** struggled to **differentiate between modality** icons - specifically the types of video appointments.
@@ -114,7 +114,7 @@ We will use the findings to:
 3. **The majority of users (8 of 10)** reported that they **would not print** their appointments from VAOS. 
 - **All users (10 of 10)** reported using other **digital methods** to manage their appointments. 
 
-4. **Most users (9 of 10)** clicked on the **past appointments** link without assistance from facilitator. 
+4. **Most users (9 of 10)** clicked on the **past appointments** link without assistance from the facilitator. 
 
 - **The majority of users (8 of 10) did not click on the correct appointment** when asked to locate their **most recent** appointment. 
 
@@ -126,7 +126,7 @@ We will use the findings to:
 
 # Details of Findings and Recommendations
 
-## 1. Appointment list was easy for users to scan for information.
+## 1. The appointment list was easy for users to scan for information.
 
 All users (10 of 10) were able to scan through the appointment list and identify the following: 
 - **Date** - What day the appointments will take place and are grouped by. 
@@ -139,12 +139,12 @@ All users (10 of 10) were able to scan through the appointment list and identify
    
    -Participant 15  
 
-4 participants wanted the reason for appointment to be displayed on the appointment list as a way of reminding them what the appointment was for. This comment came prior to viewing appointment details, which lists the reason for the appointment (if provided) there.
+4 participants wanted the reason for their appointment to be displayed on the appointment list as a way of reminding them what the appointment was for. This comment came prior to viewing appointment details, which lists the reason for the appointment (if provided) there.
 
 
 <img width="607" alt="Screen Shot 2022-10-11 at 10 15 47 AM" src="https://user-images.githubusercontent.com/92750161/195157192-9dc2f8ab-c980-47ad-a7af-0e22d339d731.png">
 
-The above image shows the screen in the scheduling flow where veterans select one of four reasons an appointment would be scheduled, and a comment box for additional details. This is displayed in the details pages. 
+The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
 A number of users (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility. 
@@ -159,7 +159,7 @@ A number of users (4 of 10) struggled to differentiate between the different mod
    
 **Recommendation: Simplify the usage of modality language.**
 
-Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around appointment modality. It is suggested that simplifying this will help mitigate that confusion.  
+Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. It is suggested that simplifying this will help mitigate that confusion.  
    
 ## 3. The majority of users would not print their appointment list. 
 
@@ -183,32 +183,32 @@ Because the majority of participants reported that they do not print their appoi
 
 With the majority of participants reporting that they used their digital calendar as a way of managing their appointments, it is suggested that adding a link to "add all to calendar
 
-## 4.The order of past appointment list is confusing. 
+## 4. The order of past appointment list is confusing. 
 
-Users were asked to find their most recent appointment and most users (8 of 10) clicked on the first appointment at the top of the list. This suggests that users would expect to see their most recent appointments displayed on the top of the list and their older appointments to follow. 
+Users were asked to find their most recent appointment and most users (8 of 10) clicked on the first appointment at the top of the list. This suggests that users would expect to see their most recent appointments displayed at the top of the list and their older appointments to follow. 
 
 <img width="277" alt="Screen Shot 2022-10-11 at 1 33 26 PM" src="https://user-images.githubusercontent.com/92750161/195192806-6811986d-a6d1-4ab0-9206-587b9ede8dfa.png">
 
 The above image shows the current order for past visits - oldest to newest.
 
 **Recommendation: Change past appointment list order** 
-Consider reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for veterans to navigate their past appointments page.
+Consider reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for Veterans to navigate their past appointments page.
 
 ## 5. Details pages were easy to navigate. 
 
-All users (10 of 10) were able to navigate to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety or answers:
+All users (10 of 10) successfully navigated to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety or answers:
 
 - Phone number extension - There was concern that calling the facility number would put them into the VA phone system and that a direct extension to the clinic was important.
 
-- Provider name -  The list view showed provider name, but was not listed in the details pages. 
+- Provider name -  The list view showed the provider name, but was not listed in the details pages. 
 
-- A help number - There is a VA wide help number, but users were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
+- A help number - There is a VA-wide help number, however users were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
 
-Two participants struggled to exit the details pages, noting that the only two options were to cancel or reschedule the appointment. It is speculated that they either did not see the back button, believed the appointment to be a modal that they would need to close or exit out of or were under the impression they needed to select one of the two options at the bottom.
+Two participants struggled to exit the details pages, noting that the only two options were to cancel or reschedule the appointment. It is speculated that they either did not see the back button, believed the appointment to be a modal that they would need to close or exit out of, or were under the impression they needed to select one of the two options at the bottom.
 
 For canceled appointment details pages, (4 of 10) users wanted to know why their appointment was canceled. 
 
-**Recommendation:Change Details page CTA's** 
+**Recommendation: Change Details page CTA's** 
 Reconsider the CTA buttons at the bottom of details pages.
 
 # Additional Insights
@@ -227,14 +227,14 @@ Users were successful (9 of 10) in finding and clicking on the past appointments
 Users want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
 
 ### 4. Small text
-Atleast one participant with low visibility expressed difficulty seeing the links in the details pages.
+At least one participant with low visibility expressed difficulty seeing the links in the details pages.
 
 # Next Steps
 
 The next steps in this process are as follows:
 1. Engineers to build a proof of concept for appointment list designs. 
 2. Update appointment list designs based on findings and recommendations from this study. 
-3. Create screen-reader usability test using low-code prototype
+3. Create a screen-reader usability test using a low-code prototype
 4. Make changes to details page designs based on findings and recommendations from this study.
 5. Further testing on details page usability. 
 
