@@ -53,9 +53,9 @@ Due to the high number of hypotheses and the short timeline of this research eff
 
 Our research roadmap addresses specific gaps for further exploration to prove or disprove our other initial hypotheses:  
 -   Additional research for Veterans that have lower disability ratings
-   -   Key hypothesis: Veterans with lower disability ratings have greater uncertainty around eligibility than those with high ratings, and experience greater challenges in enrollment
+    -   Key hypothesis: Veterans with lower disability ratings have greater uncertainty around eligibility than those with high ratings, and experience greater challenges in enrollment
 -   Portfolio research practice ecosystem research
-   -   Goal: To understand what a portfolio-level research practice could look like for VES
+    -   Goal: To understand what a portfolio-level research practice could look like for VES
 
 You can find the roadmap under Next Steps.
 
