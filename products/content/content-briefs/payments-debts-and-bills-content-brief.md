@@ -9,6 +9,7 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - [Overview](#overview)
 - [Related terminology](#related-terminology)
+- [Content considerations specific to payments and debts](#content-considerations-specific-to-payments-and-debts)
 - [Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
 - [Content-specific research findings](#content-specific-research-findings)
 - [Content pages related to this topic](#content-pages-related-to-this-topic)
@@ -44,7 +45,7 @@ This brief will help your team create content for your product that aligns with 
 | **repayment plan** / **monthly payment plan** (also **extended monthly payment plan**) | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. A repayment plan is also an option for copays. | Here's how we describe a repayment plan: "If you can’t pay your full debt balance now, you can ask to make smaller monthly payments." <br> Note that an **extended monthly payment plan** refers to a plan to pay down the debt in 5 or more years. As part of COVId-19 relief, Veterans can request plans of less than 5 years online, by phone, or by mail and don't need to submit an FSR. They must fill out an FSR for extended plans of 5 years or more. |  | Not yet in content style guide | 9.12.22 |
 | **waiver** | This is 1 of 4 repayment or relief options for VA debt. A waiver is also a debt relief option for copay debt. | | | Not yet in content style guide | 9.12.22 |
 
-## Key content points of note
+## Content considerations specific to payments and debts
 
 ### Communicating the importance of timely action
 
