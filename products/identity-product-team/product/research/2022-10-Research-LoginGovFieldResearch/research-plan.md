@@ -128,14 +128,14 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 
 ### Criteria Table  
 
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
+|                |Migration 13   |Procative 7 |Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     9      |        |        |        |        |        |        |        |        |        |         |
-|Male            |    6 max   |        |        |        |        |        |        |        |        |        |         |
-|Female          |    11 min  |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     4      |  1     |        |        |        |        |        |        |        |        |         |
+|Male            |    2 min   |  2 min      |        |        |        |        |        |        |        |        |         |
+|Female          |    7 min  |   4     |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    2 min   |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |    1 min   |   1 min     |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
 |Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
@@ -147,70 +147,70 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |      9      |        |        |        |        |        |        |        |        |        |         |
-|Black           |      3      |        |        |        |        |        |        |        |        |        |         |               
+|*Various*       |      5      |    3    |        |        |        |        |        |        |        |        |         |
+|Black           |      2      |   1     |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |      3     |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |      3      |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |      2     |    1    |        |        |        |        |        |        |        |        |         |                            
+|Asian           |      2      |   1     |        |        |        |        |        |        |        |        |         |                 
 |Native          |      1      |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|      1      |        |        |        |        |        |        |        |        |        |         |                 
+|Pacific Islander|      1      |   1     |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      2     |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      2     |    2    |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |      1      |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |      1      |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |      1      |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |      1      |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |      14      |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |      1      |   1     |        |        |        |        |        |        |        |        |         |
+|55+ yo          |      7      |   4     |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |       4     |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|       0     |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |       4     |    2    |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|       0     |    0    |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |      16      |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |      9      |   5     |        |        |        |        |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
 |Pension         |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
 |***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      10      |        |        |        |        |        |        |        |        |        |         |
-|Marine Corps    |      2      |        |        |        |        |        |        |        |        |        |         |
-|Army            |      2      |        |        |        |        |        |        |        |        |        |         |
-|Navy            |      2      |        |        |        |        |        |        |        |        |        |         |
-|Air Force       |      2      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      3      |   2     |        |        |        |        |        |        |        |        |         |
+|Marine Corps    |      2      |    1    |        |        |        |        |        |        |        |        |         |
+|Army            |      2      |   1     |        |        |        |        |        |        |        |        |         |
+|Navy            |      2      |    1    |        |        |        |        |        |        |        |        |         |
+|Air Force       |      2      |    1    |        |        |        |        |        |        |        |        |         |
 |Space Force     |            |        |        |        |        |        |        |        |        |        |         |
 |Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
-|Nat. Guard      |      2      |        |        |        |        |        |        |        |        |        |         |
+|Nat. Guard      |      2      |    1    |        |        |        |        |        |        |        |        |         |
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     8       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     4       |   1     |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |     4       |        |        |        |        |        |        |        |        |        |         |
-|High School     |     4       |        |        |        |        |        |        |        |        |        |         |
-|Some College    |     4       |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |    2 max        |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |    2 max        |        |        |        |        |        |        |        |        |        |         |
-|Masters         |    1 max        |        |        |        |        |        |        |        |        |        |         |
-|Professional    |    2 max      |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |    1 max      |        |        |        |        |        |        |        |        |        |         |
+|GED             |     3       |   2     |        |        |        |        |        |        |        |        |         |
+|High School     |     3       |   2     |        |        |        |        |        |        |        |        |         |
+|Some College    |     3       |   2     |        |        |        |        |        |        |        |        |         |
+|Associate's     |    1 max        |   1 max     |        |        |        |        |        |        |        |        |         |
+|Bachelors       |    1 max        |  1 max      |        |        |        |        |        |        |        |        |         |
+|Masters         |    1 max        |   0     |        |        |        |        |        |        |        |        |         |
+|Professional    |    1 max      |   1 max     |        |        |        |        |        |        |        |        |         |
+|Doctoral        |    1 max      |   0     |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      5      |        |        |        |        |        |        |        |        |        |         |
-|Urban           |      4      |        |        |        |        |        |        |        |        |        |         |
-|Rural           |     11       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      4      |    1    |        |        |        |        |        |        |        |        |         |
+|Urban           |      2      |    2    |        |        |        |        |        |        |        |        |         |
+|Rural           |     7       |    4    |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     9       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     6       |   4     |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |     7       |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |     4       |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |     5       |   3     |        |        |        |        |        |        |        |        |         |
+|Tablet          |     2       |   1     |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
@@ -220,17 +220,17 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     20       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     13       |  7      |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|ID.me           |     0       |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |     0       |        |        |        |        |        |        |        |        |        |         |
+|ID.me           |     0       |   0     |        |        |        |        |        |        |        |        |         |
+|Login.gov       |     0       |   0     |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     20       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     13       |    7    |        |        |        |        |        |        |        |        |         |
 |IAL1            |            |        |        |        |        |        |        |        |        |        |         |
 |IAL2            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |     0       |        |        |        |        |        |        |        |        |        |         |
+|IAL3            |     0       |   0     |        |        |        |        |        |        |        |        |         |
 
 
 ---
