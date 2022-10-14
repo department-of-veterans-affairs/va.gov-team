@@ -64,15 +64,16 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 ## Task 0: Start Application - 5 minutes
-
 - Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
+
+**Participant questions:**
 - On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
 - Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
 - [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
--
+- [Is signing in the partipants next action or do they say they wouldn't sign in to complete the application?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
@@ -87,26 +88,29 @@ UX PIN PROTOTPYE LINKS HERE
 ## Task 0: Veteran Information Section - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see/would do.
 
-
 **Participant questions:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
 
 ### Things to watch for:
-- [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar]
+- [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
-- [New gender identity question]
+- [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
+
 
 
 ## Task 0: VA Benefits & Military Service - 3 minutes
 - Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under sections part 2 VA benefits and 3 Military service]
 
+### Things to watch for:
+- [Does the participant understand the questions and content through these sections?]
+- [Does the participant comment that the questions are too intrusive?]
+
 
 
 ## Primary Task 1: Financial disclosure question - 3 minutes
-
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
 
@@ -119,43 +123,45 @@ UX PIN PROTOTPYE LINKS HERE
 - [Does the participant understand the financial disclosure page?]
 - [Does the participant open the additional info on qualifying eligibility factors?]
 - [Does the participant click yes or no on the financial disclosure page and express why?] 
+
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
 
-## Task 2: Marital status and spouse information - 5 minutes
 
-- (After particpant clicks continue on disclosure page) Proceed with the application and answer the question as you normally would. 
-- (If selected Married for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
-
-**Participant questions after completion of spouse tasks if added:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
+## Primary Task 2: Marital status and spouse information - 5 minutes
+- (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
+- (If selected Married/Separated for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
 - [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
-- [Does the participant comment on the second spouse page with the two lived with/address questions?
+- [Does the participant comment on the second spouse page with the two lived with/address questions?]
+- [Does the participant comment the question is intrusive or that they would skip and/or answer untruthfully?]
 
-**Sub Tasks & Ratings**
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
-## Task 3: Adding a dependents - 8 minutes
-
+## Primary Task 3: Adding dependents - 5 minutes
 - Now that you have completed your spouse's information, please answer the question on this page and proceed. 
 - (When selected yes) Complete the questions about your first dependent.
 - For this scenario, you have multiple children. How would you add them to this application?
+
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
 
 ### Things to watch for:
 - [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
 - [Does the participant struggle with adding a second dependent?]
 - [Does the participant pause or are they confused by any of the dependent information questions?]
 
-**Sub Tasks & Ratings**
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
-## Task 4: Editing and removing a dependent - 5 minutes
-
+## Primary Task 4: Editing and removing a dependent - 3 minutes
 - You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
 - Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
 
@@ -163,10 +169,11 @@ UX PIN PROTOTPYE LINKS HERE
 - [Does the participant clearly see the buttons to edit and delete dependents?]
 - [Does the participant easily make their edit and continue on without getting hung up?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
-## Task 5: Annual Income - 5 minutes
-
+## Primary Task 5: Annual Income - 5 minutes
 - Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
 - (continue) Complete your spouse's income information.
 - In real life, how long would it take you to gather and make sure you were entering the correct information here?
@@ -176,8 +183,8 @@ UX PIN PROTOTPYE LINKS HERE
 - [Does the participant interact with any of the additional information components for more context needed?]
 - [Does the participant notice xyz?]
 
-## Task 6: Deductible Information - 5 minutes
 
+## Primary Task 6: Deductible Information - 5 minutes
 - Complete the fields on this page. 
 - What is your impression of this page and why these questions are being asked? 
 -[Clicking continue will end the prototype testing - will not continue with completing the form to end]
@@ -188,15 +195,14 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 ## Post-Task Interview - 3 minutes
-
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
 - Did you feel there was not enough explanation given for the questions, too much or was just about right?
 - Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
 
 - Any questions for me? 
 
-## Thank-You and Closing - 2 minutes
 
+## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
