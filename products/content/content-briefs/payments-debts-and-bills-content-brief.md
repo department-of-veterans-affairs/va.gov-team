@@ -2,9 +2,8 @@
 
 Created by the sitewide content and IA team for teams working on products related to VA payments, debts, and copay bills.
 
-**Questions or feedback on this brief?**
-- Questions and feedback are welcome. Please don't update the brief directly without confirming with the sitewide content and IA team first. Contact us in our slack channel: #sitewide-content-ia.
-- [Read about the purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md)
+**Have questions or feedback on this brief or want to add something?**
+- Send a slack to Danielle Thierry in #sitewide-content-ia.
 
 ## Sections
 
@@ -27,22 +26,23 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran communications | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| **benefit overpayment / overpayment** | We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits). | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | Not yet in style guide | 9.30.22 |
-| **balance (used with "debt balance" and "copay bill balance")** | We use this term to describe the remaining amount a Veteran owes on a debt or copay bill. | We use this mainly within the online debt portal itself. |[VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "How do I check my VA debt balance to find out how much I owe?") | Not yet in content style guide | 9.30.22 | 
-| **benefit debt** | At this time, we use this term to describe a debt related to VA benefits and to distinguish it from copay-related debt. |  Note that we need to revisit the use of "benefit debt" vs. "overpayment debt." We started with "benefit debt," but have since confirmed that we can confidently refer to benefit-related debts as "overpayments" and this is a less negative term. | [Manage your VA debt landing page](https://www.va.gov/manage-va-debt/) | Not yet in content style guide | 9.30.22 |
+| **benefit overpayment / overpayment** | We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits) and the Veteran now owes that money back to VA. | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay in all instances. | [VA debt management](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | Not yet in style guide | 9.30.22 |
+| **balance (used with "debt balance" and "copay bill balance")** | We use this term to describe the remaining amount a Veteran owes on a debt or copay bill. | We use this mainly within the online debt portal itself. |[VA debt management](https://www.va.gov/resources/va-debt-management/) (Q&A on "How do I check my VA debt balance to find out how much I owe?") | Not yet in content style guide | 9.30.22 | 
+| **benefit debt** | At this time, we use this term to describe a debt related to VA benefits and to distinguish it from copay-related debt. |  Note that we need to revisit the use of "benefit debt" vs. "overpayment debt." We started with "benefit debt," but have since confirmed that we can confidently refer to all benefit-related debts as "overpayments" and this is a less negative term. | [Manage your VA debt](https://www.va.gov/manage-va-debt/) | Not yet in content style guide | 9.30.22 |
 | **compromise offer** | We use this term to describe this specific debt repayment/relief option. | Compromise offers are an option for both overpayment and copay-related debt. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "What debt repayment and relief options does VA offer?") | Not yet in content style guide | 9.30.22 | 
-| **copay / copayment / health care copay** | This is the term we use for the Veteran's health care copay. | We don't yet have a firm rule on when to use which version ("copay/copayment/health care copay"). But we typically use "health care copay" on a first mention in general content where the context of health care is necessary and then "copay" on subsequent mentions. | | Not yet in content style guide  | 9.12.22 | 
+| **copay / copayment / health care copay** | We use this term to describe the amount some Veteran pay for certain health care services and prescriptions. | We don't yet have a firm rule on when to use which version ("copay/copayment/health care copay"). But we typically use "health care copay" on a first mention in general content where the context of health care is necessary and then "copay" on subsequent mentions. | | Not yet in content style guide  | 9.12.22 | 
 | **copay bill / patient statement / billing statement** | We use these terms to describe the bill/statement that a Veteran receives for their health care copay.| This is a term that we need to refine more. Content will work with VHA partner to refine guidance and document here. | | Not yet in content style guide | 9.12.22 |
 | **debt** | This is the overarching term we use for any money the Veteran owes to VA. "Debt" encompasses money owed for overpayments as well as copays. |  |  | Not yet in content style guide | 9.12.22 |
-| **monthly offset** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe monthly offsets: If you get VA benefit payments, we may keep (or “offset”) part or all of each payment to pay down your debt. This is how we'll collect your debt unless we approve another option. |  |  | Not yet in content style guide | 9.12.22 |
-| **outstanding debt** | We use this This is the term we use to describe a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  |  | Not yet in content style guide | 9.12.22 |
+| **debt relief** | We use this term to describe help that VA offers Veterans for their debt (such as a waiver, compromise offer, or write off). |  |  | Not yet in content style guide | 9.12.22 |
+| **monthly offset** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. | Here's how we describe monthly offsets: If you get VA benefit payments, we may keep (or “offset”) part or all of each payment to pay down your debt. This is how we'll collect your debt unless we approve another option.  |  | Not yet in content style guide | 9.12.22 |
+| **outstanding debt** | We use this term to describe a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  |  | Not yet in content style guide | 9.12.22 |
 | **overpayment debt** | We use this term to refer to a debt that's because of an overpayment. For example, in MyVA, we use this term to display the number of current overpayment debts a Veteran has to differentiate overpayment debt from copay debt. | | | Not yet in content style guide | 9.12.22 |
 | **payment / payments / VA payment** | These terms are highly contextual. We typically use **VA payment** to describe a payment that VA makes to the Veteran. However, we do use **payment** (without the **VA**) in the context of **payment history** to describe the display of a historical record of payments VA has made to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. We also use **payment** in the context of a payment a Veteran can make to pay down a debt. | | | Not yet in content style guide | 9.12.22 |
-| **payment history** | This is the term we use for displaying a history of payments VA has made to a Veteran. | | | Not yet in content style guide | 9.12.22 |
+| **payment history** | We use for displaying a history of payments VA has made to a Veteran. | | | Not yet in content style guide | 9.12.22 |
 | **pay vs. repay** | We use **pay** to describe paying a copay bill. We use **repay** to describe repaying an overpayment from VA. We use **make a payment** in both contexts. |  |  | Not yet in content style guide | 9.12.22 |
 | **pay down a debt** | We use this phrase to describe how a Veteran makes payments toward paying down a debt over time. |  |  | Not yet in content style guide | 9.13.22 |
-| **repayment plan** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe a repayment plan:  If you can’t pay your full debt balance now, you can ask to make smaller monthly payments. |  |  | Not yet in content style guide | 9.12.22 |
-| **waiver** | This is 1 of 4 repayment or relief options for VA debt. | | | Not yet in content style guide | 9.12.22 |
+| **repayment plan** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe a repayment plan: If you can’t pay your full debt balance now, you can ask to make smaller monthly payments. |  |  | Not yet in content style guide | 9.12.22 |
+| **waiver** | This is 1 of 4 repayment or relief options for VA debt. A waiver is also a debt relief option for copay debt. | | | Not yet in content style guide | 9.12.22 |
 
 ## SEO and VA.gov search
 
@@ -115,7 +115,7 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
 
 [Read the full MyVA benefit payments and debts UAT research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/95)
 
-## Content pages related to this topic  
+## Example content pages related to this topic  
 
 - [Manage your VA debt for benefit overpayments and copay bills](https://www.va.gov/manage-va-debt/)
 - [Request help with VA debt (VA Form 5655)](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
@@ -124,6 +124,10 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
 - [Waivers for VA benefit debt](https://www.va.gov/resources/waivers-for-va-benefit-debt/)
 - [Review and pay your VA copay bill](https://www.va.gov/health-care/pay-copay-bill/)
 - [Dispute your VA copay charges](https://www.va.gov/health-care/pay-copay-bill/dispute-charges/)
-- [Request VA financial hardship assistance](https://www.va.gov/health-care/pay-copay-bill/financial-hardship/)      
+- [Request VA financial hardship assistance](https://www.va.gov/health-care/pay-copay-bill/financial-hardship/)
+- [VA health care copay rates](https://www.va.gov/health-care/copay-rates/)
+- [Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)
+- [View your VA payment history](https://www.va.gov/va-payment-history/)
+- [GI Bill and other VA education benefit payments FAQs](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/)
   
 ## Other notes
