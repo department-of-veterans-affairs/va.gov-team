@@ -116,7 +116,7 @@ o	“ʻOutstanding debtsʼ is what you need to pay the VA. Maybe its things that
 [Read the full MyVA benefit payments and debts UAT research findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/95)
 
 ## Example content pages related to this topic  
-
+These are some live unauthenticated content pages related to this topic. Note that because we are always iterating on our site, existing pages may not always reflect the latest decisions in this document yet until the content team can update them. If you have questions about any content, feel free to ask.
 - [Manage your VA debt for benefit overpayments and copay bills](https://www.va.gov/manage-va-debt/)
 - [Request help with VA debt (VA Form 5655)](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 - [VA debt management](https://www.va.gov/resources/va-debt-management/)
