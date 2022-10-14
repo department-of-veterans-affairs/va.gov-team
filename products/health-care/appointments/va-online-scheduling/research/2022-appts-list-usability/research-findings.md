@@ -4,7 +4,7 @@
 
 Date: 10/2022
 
-[Ciera Maddox] [ciera.maddox@adhocteam.us], [Peter Russo] [Peter.russo@adhocteam.us]
+Ciera Maddox ciera.maddox@adhocteam.us, Peter Russo Peter.russo@adhocteam.us
 
 [Research Report PDF] (link here)
 
@@ -103,32 +103,32 @@ We will use the findings to:
 
 
 # Key Findings
-1. **All users (10 of 10)** were able to **scan through the appointment list** by date, time, status, and type of care. 
-- Many users wanted the reason for their appointment to be displayed on the appointment list. 
-- Users expressed an interest in access to secure messaging from the appointment list. 
+1. **All participants (10 of 10)** were able to **scan through the appointment list** by date, time, status, and type of care. 
+- Many participants wanted the reason for their appointment to be displayed on the appointment list. 
+- Participants expressed an interest in access to secure messaging from the appointment list. 
 
-2. **A number of users (4 of 10)** struggled to **differentiate between modality** icons - specifically the types of video appointments.
+2. **Several participants (4 of 10)** struggled to **differentiate between modality** icons - specifically the types of video appointments.
 
 (Note: Outcomes would have differed if details pages were consistent with appointment list items.
 
-3. **The majority of users (8 of 10)** reported that they **would not print** their appointments from VAOS. 
-- **All users (10 of 10)** reported using other **digital methods** to manage their appointments. 
+3. **The majority of participants (8 of 10)** reported that they **would not print** their appointments from VAOS. 
+- **All participants (10 of 10)** reported using other **digital methods** to manage their appointments. 
 
-4. **Most users (9 of 10)** clicked on the **past appointments** link without assistance from the facilitator. 
+4. **Most participants (9 of 10)** clicked on the **past appointments** link without assistance from the facilitator. 
 
-- **The majority of users (8 of 10) did not click on the correct appointment** when asked to locate their **most recent** appointment. 
+- **The majority of participants (8 of 10) did not click on the correct appointment** when asked to locate their **most recent** appointment. 
 
-5. **All users (10 of 10) found the details pages easy** to navigate and the information easy to find. 
-- Users wanted **phone number ext, providers name, help number** and **“join now”** button added.
-- Some users noted that the **only two CTA’s were to cancel or reschedule** with no other options. 
-- Users wanted to know the reason for canceled appointments. 
+5. **All participants (10 of 10) found the details pages easy** to navigate and the information easy to find. 
+- Participants wanted **phone number ext, providers name, help number** and **“join now”** button added.
+- Some participants noted that the **only two CTA’s were to cancel or reschedule** with no other options. 
+- Participants wanted to know the reason for canceled appointments. 
 
 
 # Details of Findings and Recommendations
 
-## 1. The appointment list was easy for users to scan for information.
+## 1. The appointment list was easy for participants to scan for information.
 
-All users (10 of 10) were able to scan through the appointment list and identify the following: 
+All participants (10 of 10) were able to scan through the appointment list and identify the following: 
 - **Date** - What day the appointments will take place and are grouped by. 
 - **Time** - What time the appointment will take place
 - **Status** - Is the appointment canceled?
@@ -147,7 +147,7 @@ All users (10 of 10) were able to scan through the appointment list and identify
 The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
-A number of users (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility. 
+A number of participants (4 of 10) struggled to differentiate between the different modality icons. When asked to read through and interpret an appointment on the appointment list, one participant assumed that the building icon (for video appointment at VA) was a prototype error. At least 4 participants reported that they had never heard of a video appointment that took place at a facility. 
 
 **Note:** The primary focus of this study was the appointment list. The prototype only showcased a select number of details page types. The participants may have had a different experience if when they clicked on an appointment, the information on the details pages matched that of the appointment they clicked on. Four participants clicked on the details for a video appointment at a facility and were routed to a video appointment at home, giving them no additional information on how a video appointment at a facility would be conducted. Outcomes may have differed had the details pages been consistent with appointment list items. 
 
@@ -159,15 +159,15 @@ A number of users (4 of 10) struggled to differentiate between the different mod
    
 **Recommendation: Simplify the usage of modality language.**
 
-Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. It is suggested that simplifying this will help mitigate that confusion.  
+Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. Simplifying this will help mitigate confusion and give Veterans a more clear understanding of where they need to physically be for their appointments.  
    
-## 3. The majority of users would not print their appointment list. 
+## 3. The majority of participants would not print their appointment list. 
 
-Most of the users (8 of 10) reported that they would not want to print an individual appointment or list. When asked what they would do alternatively, all users (10 of 10) reported using these digital methods to reference their appointments:
+Most of the participants (8 of 10) reported that they would not want to print an individual appointment or list. When asked what they would do alternatively, all participants (10 of 10) reported using these digital methods to reference their appointments:
 
-- Three (3 of 10) users said they use email to reference their upcoming appointments. 
-- Six (6 of 10) users reported that they use their digital calendar to reference their appointments. 
-- One user said they take a photo of their appointment and keep it in their phone to reference their appointment. 
+- Three (3 of 10) participants said they use email to reference their upcoming appointments. 
+- Six (6 of 10) participants reported that they use their digital calendar to reference their appointments. 
+- One participant said they take a photo of their appointment and keep it in their phone to reference their appointment. 
  
    “I get emails and I save those rather than print it.”  
    -Participant 5  
@@ -175,56 +175,57 @@ Most of the users (8 of 10) reported that they would not want to print an indivi
    “No, I don't [print] cause when I go they usually give me print out, and when I get home I just put it in my [digital] calendar.”  
    -Participant 15  
 
-**Recommendation: No "print all" link**
+**Recommendation: Do not include "print all" link on appointment list**
 
 Because the majority of participants reported that they do not print their appointments, consider leaving the print link out of the appointment list.
 
-**Recommendation: Add "add all to calendar" link**
+**Recommendation: Include an "add all to calendar" link to the appointment list**
 
-With the majority of participants reporting that they used their digital calendar as a way of managing their appointments, it is suggested that adding a link to "add all to calendar
+With the majority of participants reporting that they used their digital calendar as a way of managing their appointments, Adding a link to "add all to calendar" on the appointment list would save Veterans time and minimize the number of clicks to add multiple appointments to their calendar. 
 
 ## 4. The order of past appointment list is confusing. 
 
-Users were asked to find their most recent appointment and most users (8 of 10) clicked on the first appointment at the top of the list. This suggests that users would expect to see their most recent appointments displayed at the top of the list and their older appointments to follow. 
+Participants were asked to find their most recent appointment and most participants (8 of 10) clicked on the first appointment at the top of the list. This suggests that participants would expect to see their most recent appointments displayed at the top of the list and their older appointments to follow. 
 
 <img width="277" alt="Screen Shot 2022-10-11 at 1 33 26 PM" src="https://user-images.githubusercontent.com/92750161/195192806-6811986d-a6d1-4ab0-9206-587b9ede8dfa.png">
 
 The above image shows the current order for past visits - oldest to newest.
 
-**Recommendation: Change past appointment list order** 
-Consider reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for Veterans to navigate their past appointments page.
+**Recommendation: Change past appointment list order**
+
+We suggesat reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for Veterans to navigate their past appointments.
 
 ## 5. Details pages were easy to navigate. 
 
-All users (10 of 10) successfully navigated to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety or answers:
+All participants (10 of 10) successfully navigated to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety of answers:
 
 - Phone number extension - There was concern that calling the facility number would put them into the VA phone system and that a direct extension to the clinic was important.
 
 - Provider name -  The list view showed the provider name, but was not listed in the details pages. 
 
-- A help number - There is a VA-wide help number, however users were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
+- A help number - There is a VA-wide help number, however participants were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
 
 Two participants struggled to exit the details pages, noting that the only two options were to cancel or reschedule the appointment. It is speculated that they either did not see the back button, believed the appointment to be a modal that they would need to close or exit out of, or were under the impression they needed to select one of the two options at the bottom.
 
-For canceled appointment details pages, (4 of 10) users wanted to know why their appointment was canceled. 
+For canceled appointment details pages, (4 of 10) participants wanted to know why their appointment was canceled. 
 
 **Recommendation: Change Details page CTA's** 
 Reconsider the CTA buttons at the bottom of details pages.
 
 # Additional Insights
 
-### 1. The term pending was confusing for some users.
-Some users (4 of 10) were unable to locate “pending” appointments without intervention/assistance from the facilitator. After further explanation, they were all able to find the pending appointment, suggesting a discrepancy in naming. When asked how they interpreted the word “pending”, some (2 of 10) participants thought they were upcoming appointments, while one believed a pending appointment would mean an error in scheduling. 
+### 1. The term pending was confusing for some participants.
+Some participants (4 of 10) were unable to locate “pending” appointments without intervention/assistance from the facilitator. After further explanation, they were all able to find the pending appointment, suggesting a discrepancy in naming. When asked how they interpreted the word “pending”, some (2 of 10) participants thought they were upcoming appointments, while one believed a pending appointment would mean an error in scheduling. 
 
 **Note**: In previous studies, the term “requests” caused confusion for participants. Bother “pending” and “request” are potentially problematic. [Link to github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion)
 
 ### 2. Need a way to search or sort through past appointments. 
-Users were successful (9 of 10) in finding and clicking on the past appointments link. When asked to locate a specific appointment on the past appointments list, several users wanted a way to filter or search through those appointments, by various data points. 
+participants were successful (9 of 10) in finding and clicking on the past appointments link. When asked to locate a specific appointment on the past appointments list, several participants wanted a way to filter or search through those appointments, by various data points. 
 
 **Note**: The date filter was not included in the test and will need to be added. 
 
 ### 3. Access to secure messaging
-Users want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
+Participants want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
 
 ### 4. Small text
 At least one participant with low visibility expressed difficulty seeing the links in the details pages.
