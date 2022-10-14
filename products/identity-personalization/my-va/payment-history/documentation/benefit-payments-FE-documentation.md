@@ -108,6 +108,8 @@ Only show a card for the most recent payment.
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+>**We can't access your payment history**
+
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
 - This should appear under the 'Benefit payments' header.
 
