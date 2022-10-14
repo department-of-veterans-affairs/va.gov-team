@@ -1,4 +1,21 @@
-# Conversation Guide: MyHealtheVet (MHV) migration to VA.gov - Medical Records
+# Conversation Guide with Veterans: MyHealtheVet (MHV) migration to VA.gov - Medical Records
+
+## Guide for note taking
+Thank you note takers! Here's a breakdown of what we're hoping to highlight in this study, in terms of Veteran feedback:
+
+Warm-up and Section 1: Past Experiences 
+- What actions do Veterans need to take relating to their health information and records, and for what purposes?  
+- What might enable Veterans to better accomplish their goals related to their health records? 
+
+Section 2: Card sort
+- How are participants categorizing different types of health-related information? 
+- How are they comprehending the existing, SME-defined categories? 
+- What ideas are they surfacing that don't currently belog to any categories? 
+
+Links for notetakers:
+- [Sign up sheet](link) - need to provide
+- [Mural board](link) - need to provide
+- [Verbatim notes template](link) - need to provide
 
 ## Moderator logistics
 
@@ -10,6 +27,7 @@
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
+- *Have the Card sort link (to create) ready
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -19,7 +37,6 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page: **Webpage if appropriate** 
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -98,7 +115,7 @@ Let’s start with a few questions...
 
 6. What if that/those list(s) were available online - what would you call it/them?
 
-## Past experiences - 15-20 minutes
+## Section 1: Past experiences - 15-20 minutes
 7. Have you ever seen or downloaded information about your health? This could be any information about your health history, about current health problem, or what you are doing to stay healthy. 
 
 8. What did you need to do, see, or download? 
@@ -119,143 +136,71 @@ Let’s start with a few questions...
 
 16. *OPTIONAL PROBE:* Did you need to share your *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
 
-## Terms and information architecture
-*Show participant...something.*
+## Section 2: Card sort - 15-20 mins
+Now we are going to do a sorting activity on a different website. 
 
-17. 
+This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+
+How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
+
+**Instructions to open the card sort:**
+* Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
+* Click on the link for the optimal workshop card sort.
+	
+* On the left, we have different cards with information about health information. 
+* On the right, you can drag items and group them together. Try to think of these groups as broader categories. 
+* If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
+
+* I started three groups for you, including one to place cards that don’t matter to you.
+	* If there is a card that doesn’t fit into any of the groups I made, you can create and name your own group. Let’s practice that.
+* Take the top card that says “Allergies” and drop it into a column.
+* Now take it and drop it into the white space. This will create a new group - you can type a name in at the type. Call it anything you want.
+* Now you can go ahead and delete the group by clicking the red X in the upper right corner.
+* Any questions?
+
+* Organize cards in a way that makes sense to you
+	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
+
+17. *(If participant created groups):* Can you explain why you decided to create that group? 
+
+18. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. TERMS COULD INCLUDE (BUT ARE NOT LIMITED TO):
+* Blue Button
+* VA Health Summary
+* Medical Images
+* Reports
+* Labs/Tests
+* Procedures
+* Vitals
+* Admissions summaries
+* Discharge summaries
+* Pre-visit summaries
+* After-visit summaries
+* Radiology
+* Pathology
+* Hematology
+
+- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
+
+*For AT users - moderator carries out the card sorting under the direction of the AT user. Will require creating smaller groups so as to not overload participant.*
+
+*DESCRIBE GROUPS AND WHAT MIGHT LOOK LIKE.*
 
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
+**Moderator notes:**
 
-1. 
+- We are not concerned with prioritizing cards within the grouping.
 
-1. What VA benefits, if any, do you have experience with? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
-
-1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
-
-1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
-
-## User Tasks
-Now I'm going to ask you to do a number of things that you may or may not have done before. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
-
-*(if a task is taking too long, could say "Let's try a different task...")*
-
-### Screen sharing
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
-
-While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/3Ix90HN (3, upper case “i”, x, 90, HN)**
-- *(If dictate, skip the “http://” part)*
-- *(If asked, reassure that this is a legitimate link to what I want you to test.)*
-
-Do you see the link? 
-
-I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
-- *(refer to Screen sharing instructions above, if needed)*
-
-### IF/WHEN participant wants to sign in before doing a task...
-- How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header /* 
-  - *"Sign in or create an account" button on a content page > Sign in or Create account link / My VA button )*
-- *(If "Create account" button)...* 
-  - What are your impressions of what you see? 
-  - Is this what you expected? *(RECORD: Yes / No / Confusion / __________)*
-  - What would you do next? *(RECORD: colored sign-in button / Create an account link below / __________)*
-- *(If not currently on the home page)* Could you please go back to the original page you were on? How might you do that from here?
-- Do you have an account? *(Yes / No / ____________)*
-- *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
-- If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
-
-### Task 1: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
-
-Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > VA health care / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 2: [Show that you're a Veteran (with benefit letter or Veteran ID card)]  
-Suppose you need to show that you're a Veteran for a special discount at a store. From this web page, how might you request proof of your status as a Veteran?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 3: [Find a mental health counselor or therapist]
-Pretend that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling.  How would you do that?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *VCL (success) / Create account / Search / Other search tools / Popular on VA.gov > Mental health help / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 4: [Updates in VA benefits (VA promo)] 
-From this web page, how could you learn about recent changes that may affect benefits and services offered by the VA?  
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-
-What are your impressions of what you're looking at? *(news / benefit / ad / ____________)*
-- *RECORD what click on: headline / image / Read the full article / Learn link what the PACT Act means for you / More VA news*
-
-How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
-
-How could you learn what else is new--see if there are other stories from the VA that might be relevant to you? *(More VA news / __________)*
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 5: [Review or update your dependents] 
-Say that you just got married. How would you tell the VA about your new spouse?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > Dependents on your disability benefits / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 6: [Check the current disability compensation rates] 
-You'd like to see VA's current disability compensation rates. How would you find these?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 7: [Compare VA education benefits and rates by school]
-There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > Educ benefits / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-### Task 8: [File for a VA disability increase] - Ideally IF *HAVE* VA DISABILITY COMPENSATION
-Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer*
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
-
-## Post-Task Interview - 10 minutes
+## Post-Task Interview - 3 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
+18. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
      1. Have you *ever* done this before?
-     1. If so, how and when?
-     2. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
-     3. *(Want to see if screen reader users can/will use the Medallia feedback button)*
-3. What worked *well* for you?
-4. What was *unclear or didn't work well* for you?
-5. What would you like to *change or add*?
-1. *(IF entered email address for VA updates)* What would you expect to happen? 
-6. *(IF haven't already discussed)* Can you look under the Search box and tell me about the links you see under "Other search tools"? 
-     1. What do you think they are, and when might you use them?
-     1. *RECORD comments about Find VA location, VA form, benefit resources and support*
-7. *(IF haven't already discussed)* Do you have an account that you use to sign in on VA.gov? *(Yes / No / ____________)*
-8. Is there anything else that we haven't talked about that you think I should know? 
+     2. If so, how and when?
+     3. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
+     4. *(Want to see if screen reader users can/will use the Medallia feedback button)*
+
+19. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
@@ -273,8 +218,6 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Click "End" on zoom website
 - Take special note of
   - any issues using a screen reader or smartphone
-  - any accessibility issues with megamenu
-  - usage of "VA health care" link
 - Download recording and closed caption (.vtt file)
 - Rename and save transcript file from Finder
 - Download notes
@@ -282,5 +225,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on Oct 6, 2022
-- Reviewed and approved by Shane Strassberg on Oct 7, 2022
+- Reviewed and approved by Coulton Bunnon (PO) on (date)
+- Reviewed and approved by Shane Strassberg on (date)
