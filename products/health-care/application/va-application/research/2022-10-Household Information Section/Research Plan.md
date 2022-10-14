@@ -34,7 +34,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 **1. Determine if the questions and additional information within the household information section is clear and actionable**
 
-**2. Determine if the financial onboarding page content helps the participant feel prepared**  
+**2. Determine if the financial onboarding page content is helpful and understandable**  
 
 **3. Optimize the order and flow of questions within the household information section**
 
@@ -262,6 +262,8 @@ We will request partipants with critera that were not covered in the studies con
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 October - November 2022 
+
+
 
 ### Prepare
 > When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
