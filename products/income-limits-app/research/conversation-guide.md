@@ -33,7 +33,7 @@ Thanks for joining us today! My name is My name is Cindy. How are you doing toda
 I have a colleague with us in this session who will be taking notes.  
 
 There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
-- *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+- *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
 
@@ -52,7 +52,7 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
-*Click Live Transcript and* **Enable**. 
+*Click Live Transcript and **Enable** or *Show Captions*. 
 
 *Click Live Transcript > View Full Transcript*
 
