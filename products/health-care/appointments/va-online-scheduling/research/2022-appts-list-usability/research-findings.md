@@ -6,8 +6,6 @@ Date: 10/2022
 
 Ciera Maddox ciera.maddox@adhocteam.us, Peter Russo Peter.russo@adhocteam.us
 
-[Research Report PDF] (link here)
-
 <br>
 
 **Jump to:**
