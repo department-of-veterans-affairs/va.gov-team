@@ -267,33 +267,29 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+The primary recruitment criteria was include at least 8 desktop users and at least 8 mobile users. For each of these groups, we asked that at least 1 had a cognitive disability, at least 1 was LGBTQ+ and at least 1 was Native.
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
 * Veterans: 10 
 * Caregivers: 0
 * Family members of a Veteran: 0  
 
-
 Gender:
 * Male: 4 
 * Female: 6 
-
 
 LGBTQ+:
 * Transgender: 1 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
 * Gay, lesbian, or bisexual: 1
 
-
 Devices used during study: 
 * Desktop: 5 
 * Tablet: x 
 * Smart phone: 5 
 * Assistive Technology: 0
-
 
 Age:
 * 25-34: 0
@@ -303,7 +299,6 @@ Age:
 * 65+: 4
 * Unknown: 0
 
-
 Education:
 * High school degree or equivalent: 0
 * Some college (no degree): 1
@@ -312,7 +307,6 @@ Education:
 * Master's degree: 2
 * Doctorate degree: 0
 * Unknown: 0
-
 
 Geographic location:
 * Urban: 0
@@ -349,5 +343,6 @@ Disability and Assistive Technology (AT):
 <img width="926" alt="Screen Shot 2022-10-13 at 1 19 49 PM" src="https://user-images.githubusercontent.com/92750161/195702178-6526d295-4d2a-44d5-9a4e-c6b4d5340772.png">
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
+
 * Cognitive Disability
+* Native
