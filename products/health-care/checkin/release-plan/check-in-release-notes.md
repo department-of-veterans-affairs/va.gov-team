@@ -14,6 +14,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ### 10/12/2022
 - Updated eCheck-in and Pre-Check-in to require the use of the Veteran's date of birth instead of their last 4 when verifying their identity (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). 
+    - We have currently released to 30% of Veteran and will monitor the metrics as we increase the availability as follows:
+         - Monday 10/17 - 50%
+         - Tuesday 10/18 - 70%
+         - Wednesday 10/19 - 90%
+         - Thursday 10/20 - 100%
     - [Epic 39193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 
 ### 10/11/2022
