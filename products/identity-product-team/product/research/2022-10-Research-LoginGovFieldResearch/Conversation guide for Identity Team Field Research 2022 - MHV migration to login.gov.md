@@ -45,29 +45,29 @@ Before we start, a few things I want to mention:
  
 ## Warm-up Questions (Optional) - 10 minutes
  
-- To start I’d love to learn a little more about you. Can you tell me a little bit about yourself and how you interact with the VA?
-- What VA services do you use most often?
-- Do you use MHV? What do you use it for? 
+-To start I’d love to learn a little more about you. Can you tell me a little bit about yourself and how you interact with the VA?
+-What VA services do you use most often?
+-Do you use MHV? What do you use it for? 
 -[For those who indicated they tried to set-up login.gov and failed] Have you ever tried to create a login.gov account? What prompted you to do that? What happened?
 
  
 ## SCENARIO 1: LOGIN.GOV SET-UP AND RE-PROOFING - 45 minutes
  Thank you for that information. Now I’d like to dive into sharing some concepts that we are exploring. As I mentioned before these are just ideas and we are eager for your honest feedback so we can learn what works, what needs improvement and what to scrap all together. 
-## First Task: [Receive email] - 5 minutes
+##First Task: [Receive email] - 5 minutes
 [Connect to veteran’s context as appropriate] So, I want you to imagine that you get an email from MHV that reminds you that you have an upcoming appointment and tells you that you can upgrade the security of your MHV account while you are there for your appointment. 
 [Show user the prototype email]
-- What do you think about this?
-- Are you interested in upgrading your account? Why? Why not?
-- What questions or concerns do you have about this?
-- Do you like the idea of taking care of the upgrade while you are at your appointment? Why? Why not? Would you rather do it online? Would you rather do it at the VA at  separate time?
+What do you think about this?
+Are you interested in upgrading your account? Why? Why not?
+What questions or concerns do you have about this?
+Do you like the idea of taking care of the upgrade while you are at your appointment? Why? Why not? Would you rather do it online? Would you rather do it at the VA at  separate time?
 ### Things to watch for:
 - Does the participant have a negative reaction to any of the language?
 - Does the participant perceive value in upgrading their account?
  
 ## Second Task: [CHECK IN FOR APPOINTMENT] - 5 minutes
  Now imagine that a week goes by and it is time for your appointment at the VA medical center. You arrive at the VA medical center and go to your doctor’s office to check-in. Nurse working at the desk takes your information and gets you checked in for your appointment. The nurse then says that he can see that you are eligible to upgrade your account for more secure access to MHV and says you have time to do that now while waiting for your doctor. The nurse asks, “would you like to go ahead and upgrade your account?”
-- What do you think about this?
-- Would you upgrade your account at that time? Would you rather do it after your appointment?
+-What do you think about this?
+-Would you upgrade your account at that time? Would you rather do it after your appointment?
  
 ### Things to watch for:
 - Does the participant have any concern about the nurse knowing their account can be upgraded and reminding them?
@@ -87,16 +87,16 @@ First I need to gather some information from you [ask for data required for acco
  ## Fourth Task: [IN-PERSON ACCOUNT SET-UP: ID PROOFING] - 5 minutes
 All the right, the next step for setting up your login.gov account is to verify your identity. May I see your driver's license or other state issued ID?
 (Moderator to do action of ID proofing, including simulating any required wait time)
-- Is there another form of ID you’d like to be able to use? Why?
+-Is there another form of ID you’d like to be able to use? Why?
 ### Things to watch for:
 
  ## Fifth Task: [IN-PERSON ACCOUNT SET-UP: MFA] - 10 minutes
 Alright, the last step for creating your login.gov account is to set-up an additional security check in addition to entering your username and password. We call this Multi-factor Authentication. You can do this additional security check a number of different ways. You can have a code texted to you or emailed to you that would then type in after you enter your username and password, or you can download an app that will generate the code that you enter in, or you can use a security key or you can have the code mailed to you using the post office, so it involved a delay.
-- Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
-- (If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
-- Which option do you think you’d choose for login.gov? Why?
-- If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
-- One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
+-Do you already use multi-factor authentication for anything else in your life? Maybe for accessing your bank info or email accounts? 
+-(If yes) How does that work for you? What kind of MFA do you use? Is anyone else involved in helping you do that?
+-Which option do you think you’d choose for login.gov? Why?
+-If you had the option to opt out of using MFA by acknowledging that not using MFA makes your personal medical information including medical records and prescription shipment information more vulnerable, would you? Why/why not? 
+-One option we are exploring is slow or by mail MFA. The way that would work would be when you need access to MHV you request a code and we mail it to you. In 3-5 days when the code arrives you can use it along with your username and password to login and message your doctor or refill your prescriptions.
 What do you think about that option? 
 
 ### Things to watch for:
@@ -111,13 +111,13 @@ Anyone else?
 Is there anyone you would share your username and password with? Why?
 Would you consider giving that person full access but asking them to create their own account? Why/why note?
 ### Things to watch for:
-- Is this feature useful to them. 
-- What type of information would they share
+-Is this feature useful to them. 
+-What type of information would they share
 
  ## Seventh Task: [ONGOING USE: CAREGIVER OPTIONS] - 5 minutes
 Thank you for all of this feedback. I just want to ask you about one other idea. Now imagine that you have been using your MHV account as usual for about six month. You get an email that reminds you that you set up caregiver access for the following people (mention anyone they mentioned in previous task) and what level of access you gave them. It asks you to review those listed and make sure they are still correct. If you want to make any changes it gives you a link to update. The email also asks you to think about anyone you might have shared your user name and password with. If any of those people should no longer have access to your account it suggests you change your password and provides a link to do that as well.
-- What do you think about this email?
-- Would it be useful to you? Why or why not?
+-What do you think about this email?
+-Would it be useful to you? Why or why not?
 
 
 ##SCENARIO 2: ACCOUNT MIGRATION WITH DELAYED PROOFING - 45 minutes
@@ -220,9 +220,7 @@ Thank you for all of this feedback. I just want to ask you about one other idea.
 ### Things to watch for:
 -Is this feature useful to them. 
 
-
-
-## Post-Task Interview - 10 minutes
+## Post-Task Interview - 5 minutes
 Thank you so much for walking through all of that with me.
 - Of all of the things we reviewed, is there something that you think is especially important for us to make sure to implement?
 - Of all of the things we reviewed, is there something that you really didn’t like and we should make sure not implement?
@@ -238,6 +236,8 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
  
 Thank you so much again, and enjoy the rest of your day!
  
+
+
 ## Emergency Exit
 [Will be updated based on specifics of our physical location.]
 [For an emergency with our team] Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback. [Note that any compensation from Perigean will still arrive as discussed.]
