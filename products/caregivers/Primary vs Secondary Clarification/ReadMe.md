@@ -28,14 +28,13 @@ Historic volume of Primary & Secondary Caregivers submitted
 
 ## Problem
 
-User story: As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives in order to apply for the correct one.
-
 Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is - if there are different requirements (there aren't) and what benefits are different.
 
 This change will help with increasin the accessilibility, reliability and security of Veteran's digital services.  It will also help reduce the time it takes for Veterans to find, use and receive VA services, by making the roles and benefits between the two types of Caregivers clear and easy to understand.
 
 ## Outcome Summary
 
+* As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives,  so that we can apply for the correct one.
 * Provide clarity between Primary and Secondary Caregiver roles and benefits, reducing duplicate and abandoned applications.
 
 ## Desired User Outcomes
