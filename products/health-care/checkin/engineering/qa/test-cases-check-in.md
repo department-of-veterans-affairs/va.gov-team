@@ -180,6 +180,30 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User sees an `Error` screen with appropriate messaging that matches the mockups
 - - ???????????????????????
 
+## Test Case G: Edge Case - User Tries to check in again after already successfully checking in
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.404.on.check-in.cypress.spec.js)
+
+### Note
+This case may not be different than other token-based edge cases, but calling this out for coverage. This case assumes that using a token that already been used will return a `404` error.
+
+### Use case
+As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
+
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
+    - NOTE: a link can also be generated internally by using the Staging Tool
+- ?????????????????????
+- User clicks their check-in link to load the Check-in application
+- User sees an `Error` screen with appropriate messaging that matches the mockups
+
+### Assert (Expected Outcome)
+- Application does not crash
+- User sees an `Error` screen with appropriate messaging that matches the mockups
+- - ?????????????????????
+
 ## Test Case H: Edge Case - User Tries to check in again after not completing an earlier check in attempt
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
@@ -218,11 +242,10 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
-- As a user, I have clicked on a valid link to check-in, and I have refreshed the page during the check-in process
-  - this is to simulate a user leaving the app and returning during the process on a mobile device that could reload the app in the middle of check-in
+As a user, I have clicked on a valid link to check-in, and I have refreshed the page during the check-in process. This is to simulate a user leaving the app and returning during the process on a mobile device that could reload the app in the middle of check-in.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
