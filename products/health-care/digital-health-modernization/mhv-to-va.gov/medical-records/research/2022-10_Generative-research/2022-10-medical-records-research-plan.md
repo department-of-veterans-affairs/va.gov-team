@@ -7,6 +7,13 @@ We have conducted prior discover research in September, 2022 (see [this folder](
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
+### OCTO Objectives
+This researac supports the following OCTO objectives: 
+
+1. Veterans can manage their health services online
+2. Veterans and their families can find a single, authoritative source of information
+3. Logged-in users have a personalized experience, with relevant and time-saving features
+
 ### Veteran Journey
 This research fits into these points of a Veteran's Journey:
 - Starting up
@@ -30,7 +37,7 @@ This research will inform the low fidelity prototype for the medical records red
 
 
 ### Hypotheses
-_Hypothesis 1:_ Some Veterans will use different terms for at least some of the medical records-related terms. 
+_Hypothesis 1:_ Some Veterans will use different terms than those displayed via Blue Button reports for at least some of the medical records-related terms. 
 
 _Hypthesis 2:_ Some Veterans will not understand all of the medical records-related terms without support. 
 
@@ -41,14 +48,16 @@ _Hypothesis 4:_ Some Veterans will want to be able to view and share their medic
 ## Method
 
 ### Interviews
-We will conduct remote interviews with Zoom. These interviews will include questions about their needs and goals related to medical records, what they expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews will also include some moderated usability testing of the legacy MHV site to shed light on usability and accessibility issues that need to be addressed in the redesigned site. 
+We will conduct remote interviews with Zoom. These interviews will include questions about their needs and goals related to medical records, what they expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews will also include a moderated card sorting activity. 
 
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
 
 ### Research materials
-[Conversation guide](location)
+[Conversation guide for Veteran participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-conversation-guide-Veterans.md)
+
+[Conversation guide for Caregiver participants](location)
 
 
 ## Recruitment
