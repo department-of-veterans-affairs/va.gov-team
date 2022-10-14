@@ -6,8 +6,30 @@ This view is applicable to users who have not yet verified their identity (LOA1)
 ## UX Specs
 ### Identity verification call-to-action
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
+**Visual specs**
+
+- Use the [sign in or tool prompt component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#sign-in-or-tool-prompt) in the VA design system.
+
+**Positioning**
+
+- This call-to-action should appear at the top of the page after the profile link.
+
+#### **Content**
+Verify your identity to access more VA.gov tools and features
+
+We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information. This helps to keep your information safe, and to prevent fraud and identity theft.
+
+This one-time process takes about 5-10 minutes.
+
+[Verify your identity](https://va.gov/resources/verifying-your-identity-on-vagov/)
+
+---
+
+### How will Va.gov verify my identity? - Dropdown
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
 **Visual specs**
 
@@ -15,19 +37,37 @@ This view is applicable to users who have not yet verified their identity (LOA1)
 
 **Positioning**
 
-- This dropdown appears directly below the "Saved applications" header, above any saved application cards or text stating that the user does not have any saved applications.
-- When the dropdown is expanded, any saved applications or text stating that the user does not have any saved applications is pushed down below the expanded menu as shown in the mockups linked above.
+- This dropdown appears directly below the LOA1 call-to-action.
 
 #### **Content**
-*Closed state:*
+We use ID.me, our Veteran-owned technology partner that provides the strongest identity verification system available to prevent fraud and identity theft.
 
-What benefits does VA offer?
+**To verify your identity, you'll need both of these:**
+           
+A smartphone (or a landline or mobile phone and a computer with an Internet connection),
+**and**
+Your Social Security number</li>
+       
+**You'll also need one of these:**
+A digital image of your driver's license or passport,
+**or**
+The ability to answer certain questions based on private and public data (like your credit report or mortgage history) to prove you're you
 
-*Open state:*
+---
 
-What benefits does VA offer?
+### What benefits does VA offer? - Dropdown
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
-**Explore VA.gov to learn about the benefits we offer.**
+**Visual specs**
+
+- Use the [additional info component](https://design.va.gov/storybook/?path=/docs/components-va-additional-info--default) in the VA design system.
+
+**Positioning**
+
+- This dropdown appears directly below the Apply for VA benefits header.
+
+#### **Content**
 - [Health care](https://va.gov/health-care/)
 - [Education and training](https://va.gov/education/)
 - [Disability compensation](https://va.gov/disability/)
@@ -41,13 +81,14 @@ What benefits does VA offer?
 
 ---
 
-### Saved application card
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
+### If a user has applications in progress
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/5B50B211-EE03-4796-8AEA-284AF040C31F)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A7B61911-5E70-4A4E-A453-E13AF255E01C)
 
 **Show card**
 
-- If a user has started an application for benefits but has not yet submitted it.
+- If a LOA1 user has started an application for benefits but has not yet submitted it.
 
 **Do NOT show card**
 
@@ -69,25 +110,52 @@ Last opened on: Date
 
 Continue your application (linked to saved application)
 
-#### **Content specs**
-
-- The data for the saved applications card is gathered from the same API call as the main user call.
-
 ---
 
 ### If a user does not have any applications in progress to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/10A09E21-70D7-4606-9E8A-1EBB31AE8EC9)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C7F1D33D-5400-41CE-8F6D-78F43105AE91)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
 #### **Content**
 
-You have no saved applications to show.
+You have no applications in progress to show.
 
-**Positioning**
+---
 
-This text appears below the "What benefits does VA offer?" dropdown, on the lefthand side of the page on desktop.
+## Explore VA benefits and health care
 
+**Show**
+
+- For all LOA1 users.
+
+**Do NOT show**
+
+- For LOA3 users.
+
+![Screen Shot 2022-10-14 at 4 31 00 PM](https://user-images.githubusercontent.com/97965610/195938277-faf6c21e-201a-4128-9c73-a7f0c36cce07.png)
+
+#### **Content**
+
+`briefcase-medical` icon **Health care**
+
+With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
+
+[Learn how to apply for VA health care](https://va.gov/health-care/how-to-apply/)
+
+
+`file` icon **Disability compensation**
+
+With VA disability benefits, you can get disability compensation for an illness or injury that was caused, or made worse, by your military service.
+
+[Learn how to file a VA disability claim](https://va.gov/disability/how-to-file-claim/)
+
+
+`graduation-cap` icon **Education and training**
+
+With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
+
+[Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
 ---
 
 ## Error States
