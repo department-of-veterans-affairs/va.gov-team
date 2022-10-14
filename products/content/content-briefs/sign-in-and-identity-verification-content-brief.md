@@ -2,9 +2,8 @@
 
 Created by the sitewide content and IA team for teams working on products related to sign in and identity verification.
 
-**Questions about this brief?**
-- Ask us in our slack channel: #va-sitewide-content
-- [Read about the purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md)
+**Have questions or feedback on this brief or want to add something?**
+- Send us a slack in #sitewide-content-ia.
 
 ## Sections
 
