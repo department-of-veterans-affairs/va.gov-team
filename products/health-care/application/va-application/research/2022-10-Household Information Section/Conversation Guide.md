@@ -63,7 +63,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 UX PIN PROTOTPYE LINKS HERE
 
 
-## Task 0: Start Application
+## Task 0: Start Application - 5 minutes
 
 - Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
@@ -71,15 +71,20 @@ UX PIN PROTOTPYE LINKS HERE
 - Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
-- Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.
-- Observer ratings of start application task completion using rating criteria
+- [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
+-
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+   - [0 = no part of the task completed, much difficulty]
+   - [1 = Partial completion, much overlooked or task was difficult]
+   - [2 = Partial completion, some areas were overlooked or task was slightly difficult]
+   - [3 = Most of the task was completed with little difficulty]
+   - [4 = All parts of the task were completed with no difficulty]
 
 
-- Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
-- [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
 
-
-## Task 0: Veteran Information Section
+## Task 0: Veteran Information Section - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see/would do.
 
 
@@ -94,11 +99,17 @@ UX PIN PROTOTPYE LINKS HERE
 - [New gender identity question]
 
 
+## Task 0: VA Benefits & Military Service - 3 minutes
+- Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
+- [Participant continues answering questions under sections part 2 VA benefits and 3 Military service]
+
+
 
 ## Primary Task 1: Financial disclosure question - 3 minutes
 
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
+
 **Participant questions:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
@@ -106,10 +117,10 @@ UX PIN PROTOTPYE LINKS HERE
 
 ### Things to watch for:
 - [Does the participant understand the financial disclosure page?]
-- [Does the participant comment on the alert component?]
 - [Does the participant open the additional info on qualifying eligibility factors?]
-- [Does the participant click yes or no on the financial disclosure page and state why?] 
-
+- [Does the participant click yes or no on the financial disclosure page and express why?] 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 ## Task 2: Marital status and spouse information - 5 minutes
 
