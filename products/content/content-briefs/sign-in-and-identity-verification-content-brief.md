@@ -27,6 +27,8 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran content | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| **account** | We use this term to describe the account that a Veteran uses to sign in to VA.gov (such as "your Login.gov account"). | We don't use the phrase "your VA.gov account."  |  | In style guide Word list | 10.14.22 |
+| **My HealtheVet** |  | "My HealtheVet" is 2 words. Don’t italicize the “e” between “Health” and “Vet” in body copy,headlines, and user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo. |  | In style guide Word list | 10.14.22 |
 | **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
 
 
