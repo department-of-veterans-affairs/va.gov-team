@@ -23,62 +23,62 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 - [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
 
 ## How to access in Staging
+- [Instructions for creating an appointment and generating a link to eCheck-in and Pre-Check-in in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 - Our experience is un-authenticated
 - The URL for our experience is unique per appointment as it contains a token parameter that is a UUID and is generated for each appointment
     - UUIDs are constructed in a sequence of digits equal to 128 bits. The ID is in hexadecimal digits, meaning it uses the numbers 0 through 9 and letters A through F. The hexadecimal digits are grouped as 32 hexadecimal characters with four hyphens: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.
     - Sample URL: <https://staging.va.gov/health-care/appointment-check-in/?id=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX>
-- [Instructions for creating an appointment and generating a link to eCheck-in and Pre-Check-in in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 
 ## Test Case A: Happy Path - Successful Check-in
 > [Cypres Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/happy-path/base.happy.path.cypress.spec.js)
 
 ### Use case
-- As a user, I do not need to update any of my contact information and can check-in successfully.
+As a user, I do not need to update any of my contact information and can check-in successfully.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
-- User texts "check in" during the check-in window for one of their appointments scheduled for today and receives a Check-in link 
-    - A link can also be generated internally by using the Staging Tool
+- User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
+    - NOTE: a link can also be generated internally by using the Staging Tool
 - User clicks their check-in link to load the Check-in application
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User selects "Yes" to each of the following questions
+- User selects `Yes` to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
-    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User sees listed their appointments for today; each appointment has messaging that shows one of these scenarios
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
     - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
     - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
     - You already checked in for the appointment
-    - You are too early to check-in, you can check-in for the appointment at x:xx 
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
 - User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
 - User should be on the `You're checked in` page and see their appointment information and instructions about what to do next
 
 ### Assert (Expected Outcome)
 - No errors are thrown
-- The user sees a confirmation screen with appropriate messaging that matches the mockups
+- User sees a confirmation screen with appropriate messaging that matches the mockups
 
 ## Test Case B: Happy Path - Needs to Update Information
 > [Cypres Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/go-to-staff/need.to.update.cypress.spec.js)
 
 ### Use case
-- As a user, I do need to update any information. To update my information, I will need to see a staff member
+As a user, my contact information is out-of-date. I will not be able to check-in using eCheck-in, but will need to check-in with a staff member so that I can update my contact information.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
-- User texts "check in" during the check-in window for one of their appointments scheduled for today and receives a Check-in link 
-    - A link can also be generated internally by using the Staging Tool
+- User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
+    - NOTE: a link can also be generated internally by using the Staging Tool
 - User clicks their check-in link to load the Check-in application
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User selects "No" to any of the following questions
+- User selects `No` to any of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
-    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
 - User should be on the `Check in with a staff member` page and see instructions that they need check-in with a staff member
 
 ### Assert (Expected Outcome)
@@ -92,14 +92,13 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-- As a user, I have clicked a link that is no longer valid (i.e., for an appointment that happened yesterday and for which LoROTA data has been deleted)
-- Technically, this test covers a 403 status code from CHIP, which is an expired token error.
+As a user, I have clicked a link that is no longer valid (i.e., for an appointment that happened on or before yesterday and for which LoROTA data has been deleted). Technically, this test covers a 403 status code from CHIP, which is an expired token error.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
-- User clicks a previously-obtained check-in link that was for appointments for yesterday
+- User clicks a previously-obtained check-in link that was for an appointment that happened on or before yesterday
 - User sees an error page indicating that they cannot check-in
 
 ### Assert (Expected Outcome)
@@ -113,10 +112,10 @@ This case may not be different than other token-based edge cases, but calling th
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-- As a user, I have landed on the check-in page without a token.
+As a user, I have landed on the check-in page without a token.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User clicks a check-in link that is missing the token to load the Check-in application
@@ -133,10 +132,10 @@ This case may not be different than other token-based edge cases, but calling th
 This case may not be different than other token-based edge cases, but calling this out for coverage.
 
 ### Use case
-- As a user, I have landed on the check-in page with a malformed/invalid token
+As a user, I have landed on the check-in page with a malformed/invalid token.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User clicks a check-in link that has a malformed token to load the Check-in application
@@ -153,42 +152,42 @@ This case may not be different than other token-based edge cases, but calling th
 This case may not be different than other token-based edge cases, but calling this out for coverage. This case assumes that using a token that already been used will return a `404` error.
 
 ### Use case
-- As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
+As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
 
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
-- User texts "check in" during the check-in window for one of their appointments scheduled for today and receives a Check-in link 
-    - A link can also be generated internally by using the Staging Tool
+- User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
+    - NOTE: a link can also be generated internally by using the Staging Tool
 - User clicks their check-in link to load the Check-in application
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User selects "Yes" to each of the following questions
+- User selects `Yes` to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
-    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User sees listed their appointments for today; each appointment has messaging that shows one of these scenarios
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
     - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
     - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
     - You already checked in for the appointment
-    - You are too early to check-in, you can check-in for the appointment at x:xx 
-- User sees in the list that they have already checked-in for their appointment
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
+- User sees that they have already checked-in for their appointments
 - ???????????????????????
 
 ### Assert (Expected Outcome)
 - Application does not crash
 - User sees an `Error` screen with appropriate messaging that matches the mockups
+- - ???????????????????????
 
 ## Test Case H: Edge Case - User Tries to check in again after not completing an earlier check in attempt
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
-- As a user, I have clicked on a valid link to check-in after previously not fully completing checking in for the same appointment
-  - This is to simulate a user closing their app mid check-in and returning later to complete check-in
+As a user, I have clicked on a valid link to check-in after previously not fully completing check-in for the same appointment. This is to simulate a user closing their app mid check-in and returning later to complete check-in.
   
 ### Arrange (Data needed)
-- See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
+See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User texts "check in" during the check-in window for one of their appointments scheduled for today and receives a Check-in link 
@@ -226,27 +225,27 @@ This case may not be different than other token-based edge cases, but calling th
 - See [How to acccess in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/engineering/qa/test-cases.md#how-to-access-in-staging)
 
 ### Act
-- User texts "check in" during the check-in window for one of their appointments scheduled for today and receives a Check-in link 
-    - A link can also be generated internally by using the Staging Tool
+- User texts "check in" during the check-in window for one of their appointments, that is scheduled for today, and receives a Check-in link 
+    - NOTE: a link can also be generated internally by using the Staging Tool
 - User clicks their check-in link to load the Check-in application
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User selects "Yes" to one of the following questions
+- User selects `Yes` to one of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
-    - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
 - User refreshes the page
 - App is loaded at the at the beginning of the check-in process for the same appointment
-- User selects "Yes" to one of the following questions
+- User selects "Yes" to all of of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
-- User sees listed their appointments for today; each appointment has messaging that shows one of these scenarios
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
     - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
     - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
     - You already checked in for the appointment
-    - You are too early to check-in, you can check-in for the appointment at x:xx 
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
 - User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
 - User should be on the `You're checked in` page and see their appointment information and instructions about what to do next
 
