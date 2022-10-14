@@ -38,7 +38,7 @@ OCTO-DE Objectives: This change will help with increasing the accessilibility, r
 * Provide clarity between Primary and Secondary Caregiver roles and benefits, reducing duplicate and abandoned applications.
 
 ## Desired User Outcomes
-* Understanding of the Primary and Secondary Caregiver roles and benefits
+* Clear understanding of the Primary and Secondary Caregiver roles and benefits
 * Confidence in completing the form accurately
 * Trusting that VA processes will provide expected results
 
@@ -75,13 +75,22 @@ Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-he
 |Application Submissions | TBD  | TBD | TBD|TBD|
 |Section Exit rates?? |TBD  | TBD | TBD|TBD|
 
-#### **Key Result #2:** Reduce duplicate applications (Can Customer support get us this info?)
 
+#### **Key Result #2:** Reduce duplicate applications (Can CG Contact Center (CSP) get us this info?)
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |Application duplicates | TBD  | TBD | TBD | TBD |
 
+
+#### **Key Result #3:** Increased Trust in VA services
+
+Data source - Medalia survey results?
+Data source - Contact Center feedback?
+
+| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Trust  | TBD  | TBD | TBD | TBD |
 ---
 
 ## Discovery
