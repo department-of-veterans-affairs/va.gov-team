@@ -165,7 +165,7 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |       4     |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|       0     |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
@@ -223,7 +223,7 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |*Various*       |     20       |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
 |MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
+|ID.me           |     0       |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |     0       |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
@@ -242,8 +242,8 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |***ASSISTIVE TECH***                                         |            | 
 |*Various*                                                    |            |
 |Font resizing/larger                                         |            |
-|Screen reader                                                |            |
-|Braille terminal                                             |            |
+|Screen reader                                                |      0      |
+|Braille terminal                                             |      0     |
 |Speech recognition sftw                                      |            |
 |Speech generating device                                     |            |
 |Speech to text                                               |            |
@@ -253,8 +253,8 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |Keyboard only navigation (no mouse usage)                    |            |
 |Switch access, head pointer, or eye tracking                 |            |
 |Joystick                                                     |            |
-|Teletypewriter or telecommunication device for the deaf (TTY)|            |
-|Closed captions                                              |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|      0      |
+|Closed captions                                              |      0      |
 |Amplified telephone                                          |            |
 |Hearing aid                                                  |            |
 |Cochlear implant                                             |            |
@@ -262,12 +262,12 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 |Wheelchair                                                   |            |
 |Prosthetics                                                  |            |
 |Wearable tech (not prosthetic)                               |            |
-|Augmentive and alternative communication device              |            |
-|Sign language interpreter                                    |            |
-|Speech-to-speech transliterator                              |            |
+|Augmentive and alternative communication device              |      0      |
+|Sign language interpreter                                    |      0     |
+|Speech-to-speech transliterator                              |       0     |
 |Visual aids                                                  |            |
-|Writing on paper                                             |            |
-|Typing with phone or tablet and showing it to others         |            |
+|Writing on paper                                             |      0      |
+|Typing with phone or tablet and showing it to others         |      0      |
 |Caregiver                                                    |      7      |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
