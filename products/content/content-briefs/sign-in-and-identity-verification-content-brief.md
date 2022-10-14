@@ -9,7 +9,7 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - [Overview](#overview)
 - [Related terminology](#related-terminology)
-- [Key content points of note](#key-content-points-of-note)
+- [Content considerations specific to sign in and identity verification](#content-considerations-specific-to-sign-in-and-identity-verification)
 - [Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
 - [Content-specific research findings](#content-specific-research-findings)
 - [Content pages related to this topic](#content-pages-related-to-this-topic)
@@ -32,7 +32,7 @@ This brief will help your team create content for your product that aligns with 
 | **My HealtheVet** |  | "My HealtheVet" is 2 words. Don’t italicize the “e” between “Health” and “Vet” in body copy,headlines, and user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo. |  | In style guide Word list | 10.14.22 |
 | **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
 
-## Key content points of note
+## Content considerations specific to sign in and identity verification
 
 ### Encouraging Login.gov and ID.me
 
