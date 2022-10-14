@@ -1,4 +1,4 @@
-# Conversation Guide 
+# [DRAFT] Conversation Guide for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, November 2022
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -58,27 +58,29 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
+---
 
-
-
-## First Task: [Start Application] - 5 minutes
-
+## First Task: [Start Application] - 3 minutes
 - Scenario: you are interested in applying for health care and arrive at this page (intro page).
-- Explain what you see and what you would do next?
+- Explain what you see and what you would do next.
 
-### Participant question:
+### Participant questions:
 - Do you feel prepared to continue on with this application and why or why not?
-- On a scale of [ 1 - 5? ] 
+- On a scale of [ 1 not at all prepared - 5 very prepared? ] 
+
 
 ### Things to watch for:
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [Does the participant understand the content on the introduction page?]
+- [Does the partipant chose to sign in first or comment about that?]
 - 
-### Observer Task Completion Rating
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+   - [0 = no part of the task completed, much difficulty]
+   - [1 = Partial completion, much overlooked or task was difficult]
+   - [2 = Partial completion, some areas were overlooked or task was slightly difficult]
+   - [3 = Most of the task was completed with little difficulty]
+   - [4 = All parts of the task were completed with no difficulty]
 
----
 
 ## Second Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
 
@@ -86,13 +88,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Step 2
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 
 
-## Second Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
+## Second Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants ]
+- [Provide staging sign in credentials?]
+
 
 - Step 1
 - Step 2
@@ -101,7 +104,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 
 ---
 
