@@ -46,7 +46,8 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Do you frequently use VA.gov and regulary sign in to your account? 
-- Have you applied for health care recently and if so did you use the online form? (screener questions?)
+- 
+
 
 ## Setup - 5 minutes
 
@@ -62,34 +63,46 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 UX PIN PROTOTPYE LINKS HERE
 
 
-## Task 0: Leading up to Household Information section
+## Task 0: Start Application
 
-- You are on a page Apply for VA health care, talk through what is on this page and as you are getting ready to apply for health care.
-- On a scale of 1-5 (1 being non very poorly and 5 being very well) how prepared does this page make you feel about the application you are about to begin?  
+- Scenario: You are interested in applying for health care and arrive at this page. 
+- Please explain what you see and what you would do next. 
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
 - Can you tell us more about what you would have to do in preparation for filling out this application?
+
+### Things to watch for:
+- Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.
+- Observer ratings of start application task completion using rating criteria
 
 
 - Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under 1 Veteran informatin, 2 VA benefits, and 3 Military service]
 
-**Participant questions before moving on to Household section:**
+
+## Task 0: Veteran Information Section
+- Could you please complete this section of the form and talk aloud about what you see/would do.
+
+
+**Participant questions:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
 
-
 ### Things to watch for:
-- [If participant comments]
-- [New American Indian question page]
-- [New gender identity question page]
-
-**Sub Tasks & Ratings**
+- [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar]
+- [New American Indian question]
+- [New gender identity question]
 
 
-## Task 1: Financial disclosure question - 3 minutes
+
+## Primary Task 1: Financial disclosure question - 3 minutes
 
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
 - Talk through what you see and what the content means to you.
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
 
 ### Things to watch for:
 - [Does the participant understand the financial disclosure page?]
