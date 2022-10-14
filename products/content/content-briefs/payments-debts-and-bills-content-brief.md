@@ -44,6 +44,16 @@ This brief will help your team create content for your product that aligns with 
 | **repayment plan** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. Here's how we describe a repayment plan: If you can’t pay your full debt balance now, you can ask to make smaller monthly payments. |  |  | Not yet in content style guide | 9.12.22 |
 | **waiver** | This is 1 of 4 repayment or relief options for VA debt. A waiver is also a debt relief option for copay debt. | | | Not yet in content style guide | 9.12.22 |
 
+## Key content points of note
+
+### Communicating the importance of timely action
+
+Veterans can avoid issues such as late fees and collection action by either paying their debt balance or requesting help within 30 days. We always aim to communicate this to make clear the importance of taking timely action.
+
+### Communicating that help is always available
+
+Debt is a topic that causes anxiety for many people. So whenever we write about debt, we always aim to include the message that we are here to help Veterans manage their debt through repayment plans or debt relief options.
+
 ## SEO and VA.gov search
 
 ### Terms related to "debt" have the largest search volume.
