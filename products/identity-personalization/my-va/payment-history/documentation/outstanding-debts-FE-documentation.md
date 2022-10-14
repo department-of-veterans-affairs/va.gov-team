@@ -117,6 +117,7 @@ You have no overpayment debts or copay bills.
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+>**We can't access some of your financial information**
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list if the debt API fails or the user doesn't have debt.
 - If the debt API fails but the user has a copay bill to show, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
