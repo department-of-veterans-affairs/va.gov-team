@@ -143,6 +143,8 @@ All participants (10 of 10) were able to scan through the appointment list and i
 
 <img width="622" alt="Screen Shot 2022-10-14 at 10 11 42 AM" src="https://user-images.githubusercontent.com/92750161/195903715-857ad09c-2ef0-475f-8ad2-1965cf910488.png">
 
+<img width="1017" alt="Screen Shot 2022-10-14 at 11 09 57 AM" src="https://user-images.githubusercontent.com/92750161/195913279-a4c30e75-701c-4c30-8bde-66bc46cc9145.png">
+
 The above image shows the screen in the scheduling flow where Veterans select one of four reasons an appointment would be scheduled and a comment box for additional details. This is displayed in the details pages. 
 
 ## 2. Some participants did not understand modality. 
