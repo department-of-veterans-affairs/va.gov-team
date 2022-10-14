@@ -42,14 +42,23 @@ These were our hypotheses at the beginning of this research effort:
 -   The current eligibility and enrollment process is not accessible for some Veterans.
 -   It can be difficult for a Veteran's caretaker to gain access to help with the E&E process.
 
-Due to the high number of hypotheses and the short timeline of this research effort, we were not able to conclusively prove and disprove each one. There are early signals that could support some of these hypotheses, but more exploration is needed.
+Due to the high number of hypotheses and the short timeline of this research effort, we were not able to conclusively prove and disprove each one. However, we did find enough evidence to draw conclusions about the hypotheses below:
 
-Our research roadmap addresses specific gaps for further exploration:  
+-   Veterans find that the overall benefits landscape is overwhelming and confusing.
+    -   True - especially for Veterans who separated from service before Transition Assistance Program (TAP) classes were available, Veterans often had no idea what benefits they were entitled to, much less how to claim them.
+-   Determining personal eligibility is difficult and the processes are unclear.
+    -   True - Veterans frequently rely on advice from their friends, community members, VSO representative, or doctors to feel confident in eligibility for disability and other benefits.
+-   Communication between VA staff and Veterans is often delayed, unclear, unhelpful, or distributed in multiple places.
+    -   True - Veterans struggle to “learn the language” of the VA. Veterans either devote themselves to their case and learn to work with the system, or elect a representative (like a VSO representative or lawyer) to advocate for them on their behalf.
 
+Our research roadmap addresses specific gaps for further exploration to prove or disprove our other initial hypotheses:  
 -   Additional research for Veterans that have lower disability ratings
+   -   Key hypothesis: Veterans with lower disability ratings have greater uncertainty around eligibility than those with high ratings, and experience greater challenges in enrollment
 -   Portfolio research practice ecosystem research
+   -   Goal: To understand what a portfolio-level research practice could look like for VES
 
 You can find the roadmap under Next Steps.
+
 
 Key Findings
 ------------
@@ -190,8 +199,43 @@ We talked to **sixteen participants**.
 
 **Audience segment:**
 
-Veterans: 15
+-   Veterans: 15
+-   Caregivers: 0
+-   Family members of a Veteran: 1
 
-Caregivers: 0
+**Gender:**
+-   Male: 12
+-   Female: 3
+-   Non-binary: 1
 
-Family members of a Veteran: 1
+**LGBTQ+:**
+-   Transgender: unknown
+-   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+-   Gay, lesbian, or bisexual: unknown
+
+**Age:**
+-   Below 55: 9
+-   55-64+: 7
+
+**Race:**
+-   White: 8
+-   Black: 5
+-   Hispanic: 1
+-   Biracial: 1
+-   Asian: 1
+-   Native: 0
+
+**Disability and Assistive Technology (AT):**
+-   Cognitive: 3
+-   AT beginner: 0
+-   AT advanced user: 0
+-   Desktop screen reader: 0
+-   Mobile screen reader: 0
+-   Magnification/Zoom: 0
+-   Speech Input Technology like Siri/Dragon Naturally Speaking: 0
+-   Hearing aids: 0
+-   Sighted keyboard: 0
+-   Captions: 0
+
+**Underserved groups we haven’t talked to:**
+Due to no-shows and recruiting results, we did not reach our target of speaking with Veterans of immigrant origin, Veteran expats, Hispanic or Native Veterans, LGBTQ+ Veterans, or Veterans with a cognitive disability.
