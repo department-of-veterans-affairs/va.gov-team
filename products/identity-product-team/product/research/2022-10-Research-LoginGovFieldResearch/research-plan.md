@@ -123,7 +123,7 @@ Participants for the intercepts do not require recruitment. Subject to approval 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       20        |                  |    20    |             |          |               | 
+|       20        |         16         |    20    |             |          |               | 
 
 
 ### Criteria Table  
