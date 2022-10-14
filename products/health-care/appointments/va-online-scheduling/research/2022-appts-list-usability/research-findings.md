@@ -1,4 +1,4 @@
-# (Draft) Appointment List Usability Research Findings 
+# Appointment List Usability Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Online Scheduling**
 
