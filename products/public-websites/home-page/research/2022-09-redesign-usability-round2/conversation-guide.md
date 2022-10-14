@@ -243,6 +243,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
+- Check if not getting to later tasks so need to start with them 
 
 
 ## Approvals
