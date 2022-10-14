@@ -27,7 +27,7 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran content | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| **benefit overpayment / overpayment** | We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits). | Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | Not yet in style guide | 9.30.22 |
+| **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
 
 
 ## Organic SEO and VA.gov search
@@ -35,5 +35,13 @@ This brief will help your team create content for your product that aligns with 
 ## Content-specific research findings
 
 ## Content pages related to this topic
+
+- [Sign in](https://www.va.gov/sign-in/)
+- [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/)
+- [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
+- [How to get a Premium DS Logon account online](https://www.va.gov/resources/how-to-get-a-premium-ds-logon-account-online/)
+- [DS Logon FAQs](https://www.va.gov/resources/ds-logon-faqs/)
+- [Get a Premium My HealtheVet account](https://www.va.gov/resources/get-a-premium-my-healthevet-account/)
+- [My HealtheVet FAQs](https://www.va.gov/resources/my-healthevet-faqs/)
 
 ## Other notes
