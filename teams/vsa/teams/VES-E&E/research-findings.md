@@ -237,5 +237,7 @@ We talked to **sixteen participants**.
 -   Sighted keyboard: 0
 -   Captions: 0
 
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/VES-E%26E/2022_09%20E%26E%20Veteran%20Research%20Recruitment%20Checker%20for%20Equality.png)
+
 **Underserved groups we haven’t talked to:**
 Due to no-shows and recruiting results, we did not reach our target of speaking with Veterans of immigrant origin, Veteran expats, Hispanic or Native Veterans, LGBTQ+ Veterans, or Veterans with a cognitive disability.
