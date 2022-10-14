@@ -3,7 +3,7 @@
 Created by the sitewide content and IA team for teams working on products related to VA payments, debts, and copay bills.
 
 **Have questions or feedback on this brief or want to add something?**
-- Send a slack to Danielle Thierry in #sitewide-content-ia.
+- Send us a slack in #sitewide-content-ia.
 
 ## Sections
 
