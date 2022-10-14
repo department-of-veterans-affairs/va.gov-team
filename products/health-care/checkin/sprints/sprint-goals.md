@@ -1,42 +1,44 @@
 # SPRINT GOALS
 
-## 10/09/2022 (---------------------FUTURE------------------------)
+## 10/19/2022 (---------------------FUTURE------------------------)
 
 #### Planned Releases  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+    - Update product & design artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team
 - [Create list of kiosk functionality & evaluate for inclusion in our backlog for Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48058)
     - Complete & present
+- [Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
+    - Create new wording
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Create final wireframes for the "before" & "after" check-in window scenarios
+    - Create SMS content for the "before" & "after" check-in window scenarios and pass off to PCI/API team
 - [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)
-    - Create final wireframes based on recommended renaming
+    - Create final wireframes 
 - [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
     - Complete final wireframes for Check-in and Pre-Check-in
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Complete analysis for 2 weeks
 
+
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Make progress on infrastructure to send a claim to the BTSSS API
-    - Connect frontend to the API calls   
-    - Add message for BTSSS API error
-    - Determine if we display appointments for Which Check-in is NOT enabled
+    - Finish content changes
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release
-        - Asking UX if we need to send translations to Design System (the translations were sent to the DS [Katy Bowman] back in July [Katy is no longer here])
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Implement & release the "before" & "after" check-in window scenarios
-    - Begin work on the "during" check-in window scenario
+    - Begin work on the "pass-through" from Pre-Check-in to Check-in    
 - CIE Tech Debt & Bugs
     - [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
     - [CHECK-IN: Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
     - [[BUG][FE] CHECK-IN: See Staff Page is Missing the Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48099)
     - [[BUG] [FE] Address Bugs Identified During Wireframe Audit](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48110)
+    - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101)
 
     
 ## 10/05/2022 
