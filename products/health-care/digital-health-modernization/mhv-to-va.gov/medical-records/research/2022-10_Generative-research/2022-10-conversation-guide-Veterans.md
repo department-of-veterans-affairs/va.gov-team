@@ -10,7 +10,7 @@ Warm-up and Section 1: Past Experiences
 Section 2: Card sort
 - How are participants categorizing different types of health-related information? 
 - How are they comprehending the existing, SME-defined categories? 
-- What ideas are they surfacing that don't currently belog to any categories? 
+- What ideas are they surfacing that don't currently belong to any categories? 
 
 Links for notetakers:
 - [Sign up sheet](link) - need to provide
@@ -64,13 +64,13 @@ Could the notetaker and observers please turn their cameras off now to save band
 
 Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do some specific tasks using a website that I will share with you.
 
-Before we start, I want to go over a few things:
+BeBefore we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+- I am going to be asking you today about your experiences with seeing, using, or sharing health information. **Your participation in this interview is completely voluntary. If for any reason and at any time you want to stop the session, or don't want to answer a question, that's no problem. Please let me know.** 
 
-- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
+- I'd like to record my screen and audio as we talk today to make sure I don't forget anything you tell me. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
