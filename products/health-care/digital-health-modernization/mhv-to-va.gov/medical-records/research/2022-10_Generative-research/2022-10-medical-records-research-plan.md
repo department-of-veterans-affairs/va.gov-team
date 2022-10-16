@@ -3,12 +3,12 @@
 ## Background
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. MHV provides Veterans with access to their medical records, including the ability to download said records. 
 
-We have conducted prior discovery research in September, 2022 (see [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) for more information). This has helped us to identify and prioritize gaps that we must address via primary research with Veterans to ensure that the Medical Records experience on the redesigned MHV will enable Veterans to complete their top tasks with minimal pain points.  
+Discovery research was carried out in September, 2022 (see [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) for more information). This research has helped us to identify and prioritize gaps that we must address via primary research with Veterans to ensure that the Medical Records experience on the redesigned MHV will enable Veterans to complete their top tasks with minimal pain points.  
 
-You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
+You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
 ### OCTO Objectives
-This researac supports the following OCTO objectives: 
+This research supports the following OCTO objectives: 
 
 1. Veterans can manage their health services online
 2. Veterans and their families can find a single, authoritative source of information
@@ -31,7 +31,7 @@ This research will inform the low fidelity prototype for the medical records red
 
 1. What terms do Veterans and Caregivers use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admisions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
 
-2. How do Veterans and Caregivers understand the existing medical records-related terminology on MHV and how does that understanding shape their behaviors? 
+2. How do Veterans and Caregivers understand the existing medical records-related terminology on MHV and how does that understanding shape their behavior on the website (e.g., where they look for specific information)? 
 
 3. What actions do Veterans and Caregivers need to take with their medical records and for what purposes? 
 
@@ -107,7 +107,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |      10     |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |     10     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
@@ -252,7 +252,7 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Yes *(go onto Screener question 4)
     - No *(not eligible)*
 
-4. Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+4.  *(If yes to Screener question 3)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
     - Yes *(recruit 8)*
     - No *(not eligible)*
 
@@ -270,7 +270,7 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Yes *(go onto Screener question 4)
     - No *(not eligible)*
 
-4. Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+4. *(If yes to Screener question 3)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
     - Yes *(recruit 8)*
     - No *(not eligible)*
 
