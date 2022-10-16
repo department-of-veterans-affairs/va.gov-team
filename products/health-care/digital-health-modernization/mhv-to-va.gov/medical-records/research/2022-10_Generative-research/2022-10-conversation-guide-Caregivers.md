@@ -136,9 +136,9 @@ Let’s start with a few questions...
 
 10. In the last 1-2 times you were looking online for information about their health history, current health issues, or anything about their healthcare, what did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to do after you found what you were looking for? 
 
-	*OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to download their entire *(use the word the participant is using for medical records)* or just use specific information? 
+	- *OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to download their entire *(use the word the participant is using for medical records)* or just use specific information? 
 
-	*OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* need to share their *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
+	- *OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* need to share their *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
 
 ## Section 2: Card sort - 15-20 mins
 Now we are going to do a sorting activity on a different website. 
