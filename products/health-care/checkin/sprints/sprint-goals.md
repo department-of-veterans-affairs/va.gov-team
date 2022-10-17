@@ -93,7 +93,7 @@
     - ADDED AFTER PLANNING Comment Out "Go to another appointment" Link
 
 
-## 9/21/2022 
+## 9/21/2022 - 10/04/2022
 
 #### Planned Releases 
 - ~Flip feature flag for LoROTA Security Updates & set to 10%~
@@ -136,7 +136,7 @@
 - DONE Tech Debt
     - Review & Merge Yarn Workspaces PR
 
-## 9/7/2022 
+## 9/7/2022 - 9/20/2022
 
 #### NOTE
 - Goals had to be adjusted after Sprint Planning because    
@@ -190,7 +190,7 @@
     - DONE Configure manual trigger in PagerDuty 
 - DONE [Ignore traffic from Synthetic monitor when reporting to StatsD](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46021) 
 
-## 8/24/2022 
+## 8/24/2022 - 9/06/2022
 
 #### Planned Releases 
 - DONE 9/6 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)    
@@ -240,7 +240,7 @@
    - DONE [Append a URL Param for Error Type](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45777)
    - Use as necessary if, and only when, all Sprint goals are completed
 
-## 8/10/2022 
+## 8/10/2022 - 8/23/2022
 
 #### Planned Releases 
 - ~8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)~
@@ -295,7 +295,7 @@
    - As many as can fit in the Sprint
 
 
-## 7/27/2022 
+## 7/27/2022 - 8/9/2022
 
 #### Planned Releases 
 - ~8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)~
@@ -361,9 +361,7 @@
     - [Brainstorm Delivering Login/General Errors Up the Chain to Staff-Facing Applications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44360)
         - Investigate & discuss with team
     
-
-
-## 7/13/2022
+## 7/13/2022 - 7/26/2022
 
 #### Planned Releases 
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
@@ -407,7 +405,7 @@
     - [Update List Semantics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44145)
     - [Investigate users starting on the bottom of page after login](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42684)
         
-## 6/29/2022
+## 6/29/2022 - 7/12/2022
 
 #### R&D Sprint Goals
 - June Research
@@ -461,7 +459,8 @@
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     -  **Release ~7/12**
 
-## 6/15/2022
+## 6/15/2022 - 6/28/2922
+
 #### Sprint Goals
 - Support VISN rollout
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
