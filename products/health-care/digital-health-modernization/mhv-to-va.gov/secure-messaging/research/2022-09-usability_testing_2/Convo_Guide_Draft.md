@@ -10,36 +10,44 @@ Mural board for notes (to be linked)
 
 ## Moderator logistics
 
-### 2-3 days before the session
+**2-3 days before the session**:
+- Review participant list for participant name and screener question responses
+- Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+- Review VA Platform's Research Checklist.
 
--   Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
--   Complete any project-specific setup tasks for this study (List them below)
--   Step 1
--   Step 2
--   Step 3
+**10-15 min before session**: 
+- *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
+  - *@mention team members*
+  - *Share brief summary of participant demographic info*
 
-### Day of the session
+**5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
-*Use* [*\#feedback-backchannel*](https://dsva.slack.com/messages/C40B45NJK/details/) *in Slack for real-time feedback from observers.*
+- *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
-*Mute your Slack notifications.*
+- *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
 
-*Send out the* [*observer instructions*](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) *to your observers (Slackbot will do this for you if you type "observer instructions" into* [*\#feedback-backchannel*](https://dsva.slack.com/channels/feedback-backchannel)*).*
+- *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-### Starting the session
+- *Paste link into Slack so ready to paste into Zoom chat*
 
-*In the Attendees section, make sure everyone except the participant is on mute.*
+- *Do Not Disturb ON so no notifications*
 
-*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
+- *Make sure everyone is muted except me and the participant*
 
-*Check your Zoom screen, providing remote control to participants.*
+*When the participant is ready, turn on your camera and begin session with the intro*
 
-*When the participant is ready, begin the session with the following intro*
+*If not too distracting, CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. I also have some colleagues on the line observing and taking notes. Today we're going to show you some ideas related to viewing and sending messages.
+Thanks for joining us today! My name is [NAME] 
 
+There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
+- *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+
+- *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
+
+Could the notetaker and observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
 Before we start, a few things I want to mention:
 
 -   **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -48,8 +56,32 @@ Before we start, a few things I want to mention:
 -   **If for any reason and at any time you want to stop the session, please let me know.**
 -   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
     -   If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
+*Start recording to the cloud.*
 
-*Start recording.*
+*Click Live Transcript and* **Enable**. 
+
+*Click Live Transcript > View Full Transcript*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+
+## Screen sharing instructions (if needed)
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+
+## Instructions for finding Zoom chat (if needed)
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
+  - Computer: Just to the left of center is a conversation bubble that says Chat. 
+    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 -   **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -343,3 +375,20 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
+
+## After Session 
+- Click "End" on zoom website
+- Take special note of
+  - any issues using a screen reader or smartphone
+- Download recording and closed caption (.vtt file)
+- Rename and save transcript file from Finder
+- Download notes
+- Debrief to my spreadsheet
+
+## Approvals
+- Reviewed and approved by Coulton Bunnon (PO) on (date)
+- Reviewed and approved by Shane Strassberg on (date)
