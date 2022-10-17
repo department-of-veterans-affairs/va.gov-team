@@ -245,36 +245,40 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Have a working microphone on their device
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-2. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
+2. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
+    - Yes *(go onto additional screener questions)* 
+    - No *(not eligible)* 
+
+3. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
     - Yes *(go onto additional screener questions, follow instructions there to recruit a total of 16 participants. Of these 16, 10 will be Veterans and 6 will be Caregivers)* 
     - No *(recruit 8; Of these 8, 6 will be Veterans and 2 will be Caregivers)*
 
 
 ### Screener for Veterans
 
-3. *(If answered yes to Screener question 2 for all participants)* Do you have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 4)*
+4. *(If answered yes to Screener question 3 for all participants)* Do you have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 5)*
     - No *(recruit 2)*
 
-4. *(If yes to Screener question 3)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
-    - Premium *(go onto Screener question 5)
+5. *(If yes to Screener question 4)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
+    - Premium *(go onto Screener question 6)
     - Basic *(recruit 4)*
 
-5.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
+6.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
     - Yes *(recruit 4)*
     - No *(not eligible)*
 
 ### Screener for Caregivers
 
-3. *(If answered yes to Screener question 2 for all participants)* Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 4)*
+4. *(If answered yes to Screener question 3 for all participants)* Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 5)*
     - No *(recruit 2)*
 
-4. *(If yes to Screener question 3)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 5)
+5. *(If yes to Screener question 4)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
+    - Yes *(go onto Screener question 6)
     - No *(recruit 2)*
 
-5. *(If yes to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
     - Yes *(recruit 2)*
     - No *(not eligible)*
 
