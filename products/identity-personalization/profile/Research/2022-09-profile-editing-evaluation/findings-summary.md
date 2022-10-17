@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Profile, Authenticated Experience**
 
-10/17/2022
+10/13/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
-Research Report PDF coming soon
+[Research Report PDF] (link here)
 
 **Jump to:**
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#hypotheses-and-conclusions)
@@ -66,7 +66,7 @@ We conducted this research through moderated sessions over Zoom. We asked partic
 7. 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#7-9-of-11-participants-including-screenreader-users-found-in-line-editing-and-a-one-thing-per-page-approach-to-be-equally-usable))
 
 ## Details of Findings 
-### 1. 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
+### 1) 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
 
 We started our sessions by asking participants to update sections on the contact information page. All participants intuitively understood how to go from “read-only” to “edit” mode, to complete forms, and to save their changes. 
 
@@ -76,7 +76,7 @@ Notably, the “alert followed by a modal” pattern that can occur in a couple 
 
 ---
 
-### 2. 5 of 11 participants experienced some minor confusion during the address validation process.
+### 2) 5 of 11 participants experienced some minor confusion during the address validation process.
 
 All participants triggered the address validation alert (some naturally, others with guidance), and were able to make a selection and move forward. However, the entire process was not intuitive for 5 participants, as follows:
 
@@ -100,7 +100,7 @@ All participants triggered the address validation alert (some naturally, others 
 
 ---
 
-### 3. In the contact information section, we observed some usability hurdles that slowed multiple people down.
+### 3) In the contact information section, we observed some usability hurdles that slowed multiple people down.
 
 The hurdles we observed were experienced by a minority of participants, but it’s important to note trouble spots that came up in our sessions. We hypothesized that Veterans with more severe cognitive considerations or less familiarity with technology would struggle more than those who successfully participated in remote usability testing.
 
@@ -120,7 +120,7 @@ TK: insert screenshot of buttons
 
 ---
 
-### 4. Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
+### 4) Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
 
 Though our team has hypothesized encountering multiple alerts when updating contact information would be frustrating, we observed the opposite during these sessions. Even when people triggered an address validation flow that was immediately followed by 2 different modal messages, they didn’t express any frustration about the modals or alerts.
 
@@ -137,7 +137,7 @@ Though our team has hypothesized encountering multiple alerts when updating cont
 
 ---
 
-### 5. 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number.
+### 5) 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number.
 It made sense to participants that they needed to add a mobile number before updating text message settings. They intuitively clicked the “Add a mobile number to your profile” link in the alert, which sent them directly to the mobile phone number section on the contact information page. 
 
 Once on the contact page, the user flow requires the user to add a mobile number, and follow a link in the confirmation message to return to notification settings (screenshot below). The next steps confused some participants.
@@ -158,7 +158,7 @@ Once on the contact page, the user flow requires the user to add a mobile number
 
 ---
 
-### 6. 5 participants missed the “Board of Veterans’ Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
+### 6) 5 participants missed the “Board of Veterans’ Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
 
 These participants assumed the notification was for “Applications, claims, decision reviews, and appeals”, which is the name of the notification group. 
 
@@ -172,7 +172,7 @@ These participants assumed the notification was for “Applications, claims, dec
 
 ---
 
-### 7. 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
+### 7) 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
 
 We built a [simple CodePen prototype](https://codepen.io/surfbird/full/vYjxQWy) representing a “one thing per page” approach for contact information, and asked users to review it as time allowed at the end of sessions (we ended up having time in all 11 sessions). 
 
@@ -232,33 +232,48 @@ Review this [downloadable redacted video clip](https://github.com/department-of-
 
 ## Recommendations
 ### For general editing functionality, continue using the single page editing pattern that is in place today.
+ (Supported by [finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#1-9-of-11-participants-were-able-to-update-a-vagov-profile-with-in-line-editing-with-relative-ease), [finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#4-participants-were-not-bothered-by-encountering-multiple-alerts-when-updating-contact-information-though-it-took-some-longer-than-others-to-comprehend-the-information), [finding 7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#7-9-of-11-participants-including-screenreader-users-found-in-line-editing-and-a-one-thing-per-page-approach-to-be-equally-usable))
+
 - All participants were able to use our existing pattern to update their information with no major hurdles.
 - We didn’t see a significant improvement in the ability for people to update their information in the prototype over our website.  Those who found  the prototype easier commented on its simplicity, but the prototype didn’t include realistic alerts/warnings that would need to be in place on a live website.
  - At this time, we don’t have enough data to suggest that one-thing-per-page would be easier for people with cognitive or vision considerations. If we want to test this in the future, we should build out a more realistic prototype to more confidently evaluate how one-thing-per-page impacts usability.
 
+
 ### Improve the user experience for buttons in profile.
+(Supported by [finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#2-5-of-11-participants-experienced-some-minor-confusion-during-the-address-validation-process), [finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#3-in-the-contact-information-section-we-observed-some-usability-hurdles-that-slowed-multiple-people-down))
+ 
 - 5 of 11 people experienced hesitation and/or confusion over which button to choose, which demonstrates here are opportunities to be more consistent with our language and make options clearer to Veterans.
 	- 2 expected “save” instead of “update” - consider reevaluating why we chose “update”
 	- Reevaluate the labels on button pairs in the cancel confirmation modal, and the remove modal
 - Both screenreader users missed the “remove” button and didn’t expect it to be there. We should consult with our accessibility specialists to learn how we might improve this experience.
 
 ### Review analytics around our “currently editing another section” alert.
+(Supported by [finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#3-in-the-contact-information-section-we-observed-some-usability-hurdles-that-slowed-multiple-people-down))
+
 - 4 of 11 participants triggered this by quickly moving on to a new section before an update had finished saving. This caused some confusion, as well as a rushed response to the address validation prompts.
 - If analytics show that a similar percentage of users encounter this alert in sessions (~36%), we should consider how we might prevent this from happening in the first place.
    
 ### Explore how we might simplify the address validation flow, and how to leverage analytics to see if quantitative data support what we observed in the study.
+(Supported by [finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#2-5-of-11-participants-experienced-some-minor-confusion-during-the-address-validation-process))
+
 - The current UX wasn’t totally intuitive for 5 out of 11 people, and we already know it needs some accessibility improvements. There’s clearly room for a better UX with this flow.
 - Address validation analytics could help us determine if what we saw in the study is indicative of a larger pattern.
 - It’s possible some of the issues we saw are due to the facilitation and nature of being in a moderated research session.
 
 ### Explore solutions to improve the user experience of managing notification settings when no contact information is on file.
+(Supported by [finding 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#5-6-of-11-participants-were-disrupted-by-having-to-leave-the-notification-settings-page-to-add-a-mobile-number))
+
 - It confused more than half of participants to have to leave the page, and a few would have abandoned the task if they were not in a moderated session.
 - As we add more channels for notification settings, this will become more critical and complicated.
 
 ### Improve the visibility of the notification name.
+(Supported by [finding 6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#6-5-participants-missed-the-board-of-veterans-affairs-hearing-reminder-notification-name-which-led-to-a-misunderstanding-about-what-the-notification-was-for))
+
 - People missed the name of the notification and didn’t understand what they were opting in to (or out of, depending on the session).
 
 ### Keep the extreme “short term memory loss” use case at the forefront for future design iterations.
+(Supported by [finding 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#5-6-of-11-participants-were-disrupted-by-having-to-leave-the-notification-settings-page-to-add-a-mobile-number), and [this additional finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#one-participant-with-cognitive-considerations-struggled-to-complete-tasks-that-required-multiple-pages-or-modal-disruptions))
+
 - Observing P9’s experience of profile was a powerful reminder of the obstacles some Veterans have to overcome to use VA.gov. 
 - It’s worth considering how we might learn more about this population to better understand their needs, and use what we learn to inform our work as we iterate on profile.
 
