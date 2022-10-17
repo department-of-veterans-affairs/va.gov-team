@@ -2,18 +2,38 @@
 
 ### Notes
 
-Facilities search discussion
-- Last received - why are we asking?
-     - helped figure out where to move app to.
-     - Don't know that there is a benefit to having it there
-     - PDF fields mapped, could this cause an error downstream
-          - however this is an optional field, so data can be blank
-     - Heather to check into what it would take to remove this section and when we might be able to align with the paper form update
+**Additional languages for intro of CG**
+- Can CSP support other languages? (communications)
+- Prob need to do the whole form (not just intro)
+     - **Matt B** mentioned that the instructions would be quicker to update
+     - **Patrick** - when we do translations, we do the whole form with instructions.  
+          - Is it worth doing instructions only (customer experience)?
+          - Does OMB have issue with forms in other languages, or does it need to be reviewed again, like any other changes?
+>Patrick confirmed:
+> 
+> re: OMB PRA review of translated forms.
+>
+>From OIRA desk officers for VA:As long as we're just translating and not introducing new, substantive changes to the content, we can just submit the translated version through the OIRA system. They can do a non-substantive review and can usually review within 1 to 2 days.
 
-- Preferred facility
-     - zip code, city, state is used on CG support line
-     - investigated before, 5 closest and went thru a rabbit hole
-     - limitation of 90 minute drive (LH API), processing time on the site too, causes timeouts with too broad a search
+**Facilities discussion with LH**
+- Optional field - CG team to find out downstream process or service dependency on this field (Matt B already working on this)
+     - then we can talk about PRA and dropping the question
+- What does VA.gov need to send to CARMA for facility
+   - Send parent today (VHA-610)
+   - We will need to confirm the related parent facility list with Ranga balasubramanian
+         - Concern about codes, code length and mapping
+- What does the PDF need to reflect?
+   - Selected facility or Parent facility? - if contacted, would be from a different facility
+
+>Per Milli:
+>
+>I believe it is VAMC Veteran Plans to Receive Services in CARMA, which is the "*Name of VA medical center or clinic where you receive or plan to receive health care services:" in the form. 
+
+**City Field character length**
+- VA.gov needs to update limit
+- Mili to provide me other field limits
+
+---
 
 ### Notes from Tham
 
@@ -30,16 +50,32 @@ Ruman;
           - We need VA.Gov support in testing this scenario
           - Re-try was due to Network error - Anything we can do to prevent it?
           - API logs went through correctly
-          - **AI Liha**n to check on the error - Discuss internally and confirm on the fix
+          - **AI Lihan** to check on the error - Discuss internally and confirm on the fix
+**Scenario 1**
+- Payload recd and all good
+- VA.gov receives network error, we then re-try, even though there was a  successful flow 
+     - Not sure what is causing the network error, there are multiple areas where this can happen
+     - looks successful on Mulesoft side
+- Causes duplicate error in Salesforce (when Mulesoft sends downstream)
+- Mulesoft will resolve to avoid sending duplicate message to applicants
+- We can look into the issue, see if there is anything we can do to address on our side
+
+**Scenario 2**
+- Internal to Mulesoft and Salesforce
+- Timeout is happening at 60 seconds, which is way short and causing re-tries
+     - This causes PDF not to generate (too short)
+- Mulesoft will resolve
+
+  
   
 Heather;
 - Put VA.gov online 10-10CG instructions in Spanish & Tagalog
      - Follow-up questions on the Additional languages for the Instructions
      - Can CSP support additional languages in communications?
      - Please confirm the request for additional languages is for the Instructions Only, or the entire form?
-          - Patrick and team will go through the form and confirm back (for English and then other languages)
-          - Patrick: Re: From OIRA desk officers for VA: As long as we're just translating and not introducing new, substantive changes to the content, we can just submit the translated version through the OIRA system. They can do a non-substantive review and can usually review within 1 to 2 days.
-          - Matt: Changing the form from 2 to 1 -- 2 for now to match with PDF
+          - **Patrick and team** will go through the form and confirm back (for English and then other languages)
+          - **Patrick**: Re: From OIRA desk officers for VA: As long as we're just translating and not introducing new, substantive changes to the content, we can just submit the translated version through the OIRA system. They can do a non-substantive review and can usually review within 1 to 2 days.
+          - **Matt**: Changing the form from 2 to 1 -- 2 for now to match with PDF
  
 Also FYI - the PDF special character fix has been implemented.
  
@@ -51,4 +87,4 @@ Lighthouse API work;
                - Need a list of all the facility - map it to parent and parent sends to child
           - Station Id - have additional characters - need to be set with parent facility , get the list with codes and check on mapping.
                - Ranga and Heather to discuss and update
-          - Mili: I believe it is VAMC Veteran Plans to Receive Services in CARMA, which is the "*Name of VA medical center or clinic where you receive or plan to receive health care services:" in the form. 
+          - **Mili**: I believe it is VAMC Veteran Plans to Receive Services in CARMA, which is the "*Name of VA medical center or clinic where you receive or plan to receive health care services:" in the form. 
