@@ -156,6 +156,7 @@ With VA disability benefits, you can get disability compensation for an illness 
 With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
 
 [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
+
 ---
 
 ## Error States
