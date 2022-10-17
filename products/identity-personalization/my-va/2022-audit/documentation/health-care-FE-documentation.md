@@ -106,6 +106,43 @@ You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.go
 **Positioning**
 - The unread messages notification should appear under the "Health care" header on the lefthand side on desktop, regardless of any other conditions within the section. If the user also has upcoming appointments, the messages notification should come before the upcoming appointments card.
 
+---
+
+### If a user receives VA health care at a Cerner facility
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D3CE5EC9-6925-4086-A1C5-2370E93073CB)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6F32EDF4-2B0A-4277-9963-FB1E45AA0BDD)
+
+**Show**
+
+- If we detect that a user receives VA health care services from a Cerner facility via the [Drupal integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for).
+
+**Do not show**
+
+- If we detect that a user does not receive VA health care services from any Cerner facility via the [Drupal integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for).
+
+#### **Content**
+
+**Choose your health management portal**
+
+Your care team may now use our new My VA Health portal. Choose your portal based on the facility for your appointment:
+
+For (**Health care facility name**), (**Health care facility name**), or (**Health care facility name**): [Use My VA Health (opens in new tab)](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
+
+For **any other VA health facility:** [Use My HealtheVet](https://mhv-syst.myhealth.va.gov/mhv-portal-web/home)
+
+If you have trouble accessing the portal, make sure to disable your pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in to VA.gov.
+
+**Content specs**
+
+- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. This content is dynamic. If there are 2 facilities, they should be separated by the word "or". If there are 3 or more facilties, they should be separated by a comma and the word "or" should come before the last facility.
+
+#### Visual specs
+
+- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the Cerner alert.
+
+**Positioning**
+- This alert should appear directly below the health care header and nothing else shoul be shown in the section besides this alert.
 
 ---
 
