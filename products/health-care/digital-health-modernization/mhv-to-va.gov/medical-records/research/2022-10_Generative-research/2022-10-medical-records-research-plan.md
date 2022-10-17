@@ -246,8 +246,8 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 2. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
-    - Yes *(go onto additional screener questions)* 
-    - No *(not eligible)* 
+    - Yes, I have used an online patient portal in the past 12 months *(go onto additional screener questions)* 
+    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
 
 3. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
     - Yes *(go onto additional screener questions, follow instructions there to recruit a total of 16 participants. Of these 16, 10 will be Veterans and 6 will be Caregivers)* 
