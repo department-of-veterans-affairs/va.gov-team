@@ -51,6 +51,7 @@ Ruman;
           - Re-try was due to Network error - Anything we can do to prevent it?
           - API logs went through correctly
           - **AI Lihan** to check on the error - Discuss internally and confirm on the fix
+
 **Scenario 1**
 - Payload recd and all good
 - VA.gov receives network error, we then re-try, even though there was a  successful flow 
