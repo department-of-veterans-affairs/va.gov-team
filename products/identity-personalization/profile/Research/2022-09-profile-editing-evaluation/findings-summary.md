@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Profile, Authenticated Experience**
 
-10/13/2022
+10/17/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
-[Research Report PDF] (link here)
+Research Report PDF to come
 
 **Jump to:**
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#hypotheses-and-conclusions)
@@ -112,8 +112,6 @@ Specific hurdles included:
 - Some button labels made 5 participants feel uncertain about which button to select to move forward with their task.  
 > See how [the button] has “Yes, remove my information?” I think it should the cancel should be maybe “cancel and save”. Because I think the cancel could be interpreted as cancel what I just did, too, like it feels too similar to remove. - P3
 
-TK: insert screenshot of buttons
-
 - 3 participants, 2 of which were blind screenreader users, missed the remove button and expected to be able to remove contact information by clicking “Edit”, clearing the form field, and saving an empty form. All had to be guided by the moderator to find the remove button.
 
 > If I did [hear the remove button read aloud], I forgot it. I would’ve been stuck there for a minute because to me, if I edit it [the form] and blank it out, and update it, that to me is the same as removing it.  - P11, screenreader user.
@@ -152,7 +150,7 @@ Once on the contact page, the user flow requires the user to add a mobile number
 
 > That little piece that says, “go ahead and update notifications now” -  it just totally went right past me. I totally just missed it. Maybe if it  jumped out at me, or had a big stop sign or something I probably would notice, but had you not said something, I would have missed it and thought “Okay, I’m good.” - P1
 
-- A participant with cognitive challenges experienced a 5 second external disruption after landing on the page. In this [downloadable redacted video clip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/cognitive-consideration-redacted-v2-720p.mp4), you can observe that they could not recall what they were supposed to do after they focused back on the research session. Then, they went back and forth 3 times between the two pages to try to figure out what to do.  
+- A participant with cognitive challenges experienced a 5 second external disruption after landing on the page. In the session, we observed that they could not recall what they were supposed to do after they focused back on the research session. Then, they went back and forth 3 times between the two pages to try to figure out what to do.  
 
 **Once participants got back to the notification settings page, they found the radio button interface easy to use.**
 
@@ -227,8 +225,6 @@ P9 exhibited signs of short term memory loss, and:
 - struggled to stay on task when having to go from one page to another, such as adding a mobile phone number while updating notification settings.  
 - struggled to recall to navigate from page to page, despite having already used the navigation menu in the setting.
 - repeatedly triggered the same modal, seemingly unsure how to resolve the problem.
-
-Review this [downloadable redacted video clip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/cognitive-consideration-redacted-v2-720p.mp4) to observe the challenges experienced by P9.
 
 ## Recommendations
 ### For general editing functionality, continue using the single page editing pattern that is in place today.
