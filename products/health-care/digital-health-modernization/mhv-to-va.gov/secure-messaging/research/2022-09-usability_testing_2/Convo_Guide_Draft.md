@@ -2,7 +2,7 @@
 
 Prototype Desktop Link (to be linked)
 
-Prototype Mobile Link
+[Prototype Mobile Link](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0606632E-EBD2-4B8C-876D-64593DF9E556?hotspots=false)
 
 [Mobile testing guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
 
@@ -85,13 +85,13 @@ Before we start, a few things I want to mention:
 
 -   **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions (Optional) - 5-10 minutes
+## Warm-up Questions - 5-10 minutes
 
 -   What device are you using to talk to us today?
 -   Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
 -   Do you ever send messages in My HealtheVet? What kind of messages do you send? Do you feel comfortable sending that information? Is there anything that you aren't comfortable sending in messages? What makes you comfortable/uncomfortable?
 
-**First Task: Message threads – 5 minutes**
+## First Task: Message threads – 5 minutes
 
 Since we are trying to make this experience as realistic as possible, you will notice on the top right the name Jesse. If this were the live website it would be your name, but for today you will see Jesse at the top of your screen and the name Jesse Roberts on messages.
 
@@ -127,7 +127,7 @@ Using the scale we showed earlier of 1 being very difficult to 5 being very easy
 -   Does the participant understand which messages are read vs. unread?
 -   Does the participant understand that some messages are threads and have multiple messages?
 
-**Second Task: Replying to a message - 10 minutes**
+## Second Task: Replying to a message - 2-5 minutes
 
 *Help participant navigate back to Dunwoody message from September 15th if necessary.*
 
@@ -169,7 +169,7 @@ Please click Send and we will move on to the next task.
 -   Does the participant notice the “auto saved” message?
 -   Does the participant make the assumption that it saves automatically?
 
-**Third Task: Finding a Message – 10 minutes**
+## Third Task: Finding a message – 10 minutes
 
 Now I would like you to find a message.
 
@@ -268,7 +268,7 @@ Does the participant notice the “Advanced Search” function?
 
 Does the participant know the value of the “Advanced Search” function?
 
-**Fourth Task: Organizing a message – 10 minutes**
+## Fourth Task: Organizing a message – 10 minutes
 
 Can you please return to the inbox? *Assist participant if necessary.*
 
@@ -323,7 +323,7 @@ Using the scale we showed earlier of 1 being very difficult to 5 being very easy
 -   Is the participant able to locate “Edit folder name”?
 -   Is the participant able to locate “Remove folder”?
 
-**Sixth Task: Patient Safety – 5 minutes**
+## Fifth Task: Patient safety – 5 minutes
 
 Please click the “Next Screen” link at the bottom of the page. *Assist participant if necessary.*
 
@@ -355,14 +355,14 @@ Okay, if you scroll down you will see a continue button. Go ahead and click it.
 -   Did the participant recall seeing the message(s) earlier?
 -   Did the participant understand the messages?
 
-**Post Task Interview – 5 minutes**
+## Post Task Interview – 5 minutes
 
 *You can stop sharing your screen now. Assist participant if necessary.*
 
 -   What are your thoughts about what we looked at today?
 -   Any other things that would be good for us to know?
 
-## Thank-You and Closing - 2 minutes
+## Thank You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -390,5 +390,5 @@ Thank you so much again, and enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Reviewed and approved by Coulton Bunnon (PO) on (date)
+- Reviewed and approved by Coulton Bunney (PO) on (10/17/2022)
 - Reviewed and approved by Shane Strassberg on (date)
