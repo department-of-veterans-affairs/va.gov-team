@@ -38,7 +38,7 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
-## Method	
+## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
 Examples of common research methods include: 
