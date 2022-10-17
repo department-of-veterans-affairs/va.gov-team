@@ -66,7 +66,7 @@ Data collection will be remote and conducted using Zoom.
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
 ## Recruitment criteria
-We will schedule a total of 24 Veterans for an expected completion rate of 18-20 usability tests. 
+We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
@@ -238,48 +238,45 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Low tolerance for cognitive overload                         |            |
        
 
-### Screener for Veterans
-
-1. Do you have experience using VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(recruit 14)* 
-    - No *(recruit 10)*
-
-2. Do you have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 3)*
-    - No *(recruit 8)*
-
-3. *(If yes to Screener question 2)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 4)
-    - No *(not eligible)*
-
-4.  *(If yes to Screener question 3)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
-    - Yes *(recruit 8)*
-    - No *(not eligible)*
-
-### Screener for Caregivers
-
-1. Do you have experience helping the Veteran you support use VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(recruit 14)* 
-    - No *(recruit 10)*
-
-2. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 3)*
-    - No *(recruit 8)*
-
-3. *(If yes to Screener question 2)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 4)
-    - No *(not eligible)*
-
-4. *(If yes to Screener question 3)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
-    - Yes *(recruit 8)*
-    - No *(not eligible)*
-
 ### Screener for all participants
 
 1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
     - During the session, are willing to share over Zoom a web browser window on their device
     - Have a working microphone on their device
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
+
+2. Do you have experience using VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
+    - Yes *(recruit 15)* 
+    - No *(recruit 9)*
+
+
+### Screener for Veterans
+
+3. Do you have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 4)*
+    - No *(recruit 5)*
+
+4. *(If yes to Screener question 3)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
+    - Premium *(go onto Screener question 5)
+    - Basic *(recruit 2)*
+
+5.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
+    - Yes *(recruit 3)*
+    - No *(not eligible)*
+
+### Screener for Caregivers
+
+3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 4)*
+    - No *(recruit 2)*
+
+4. *(If yes to Screener question 3)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
+    - Yes *(go onto Screener question 5)
+    - No *(not eligible)*
+
+5. *(If yes to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+    - Yes *(recruit 2)*
+    - No *(not eligible)*
 
 
 ## Timeline
@@ -321,6 +318,6 @@ Please list the people who will be serving in each role.
 - Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Coulton Bunney (PO) on (under review)
+- Reviewed and approved by Coulton Bunney (PO) on Oct. 17, 2022
 - Reviewed and approved by Shane Strassberg on (under review)
 
