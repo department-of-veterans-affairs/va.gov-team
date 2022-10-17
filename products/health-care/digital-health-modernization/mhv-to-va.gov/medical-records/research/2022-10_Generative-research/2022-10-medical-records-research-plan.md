@@ -116,7 +116,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |    14      |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |    15      |        |        |        |        |        |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -162,7 +162,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |     12     |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |     16     |        |        |        |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
@@ -246,22 +246,22 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 2. Do you have experience using VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(recruit 15)* 
-    - No *(recruit 9)*
+    - Yes *(recruit 16)* 
+    - No *(recruit 8)*
 
 
 ### Screener for Veterans
 
 3. Do you have a My HealtheVet (MHV) account? 
     - Yes *(go on to additional Screener question 4)*
-    - No *(recruit 5)*
+    - No *(recruit 2)*
 
 4. *(If yes to Screener question 3)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
     - Premium *(go onto Screener question 5)
-    - Basic *(recruit 2)*
+    - Basic *(recruit 4)*
 
 5.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
-    - Yes *(recruit 3)*
+    - Yes *(recruit 4)*
     - No *(not eligible)*
 
 ### Screener for Caregivers
@@ -272,7 +272,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 4. *(If yes to Screener question 3)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
     - Yes *(go onto Screener question 5)
-    - No *(not eligible)*
+    - No *(recruit 2)*
 
 5. *(If yes to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
     - Yes *(recruit 2)*
