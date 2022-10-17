@@ -390,5 +390,5 @@ Thank you so much again, and enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Reviewed and approved by Coulton Bunney (PO) on (10/17/2022)
+- Reviewed and approved by Coulton Bunney (PO) on (under review)
 - Reviewed and approved by Shane Strassberg on (date)
