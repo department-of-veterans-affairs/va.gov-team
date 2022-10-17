@@ -69,7 +69,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 |KPI/metric|Baseline: [one month pre-launch] |Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| TBD|TBD|TBD|
+|Clicks to view all debts (from the payment info section, "You have n oustanding debts. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| 94,644|TBD|TBD|
 
 **Key result**: Establish baseline metric for how many people click the debt notification from My VA. Goal: 20K clicks/quarter.
 
