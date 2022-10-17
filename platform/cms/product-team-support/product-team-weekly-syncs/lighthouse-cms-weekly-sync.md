@@ -28,19 +28,24 @@ Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
   * Redircts from Teamsite is a manual process 
 * DS>> AI Add Max to LH meeting 
 * Sandbox data - James and Dave C had a discussion
+  * No updates this past week
   * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
   * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
-* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+* Status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * No changes  
 * KB/documentation for editors in support of v1
   * Josh to provide 1st draft 
-  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. 
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. Is this related to ATC - one of the times brought up was relatd to VAST - this is not Service Data.. perhaps intersted in hosting ATC data ? Actively going back on discuussions on how data flow is looking, want to take next steps to set up meetings to get ATC, LH, Facilites aligned .
 * Supporting country code 
    * Any update from Josh/James sync?
    * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
    * BISL meeting? On todo list
+   * Josh sent an email. JOSH>>AI Needs to respond 
 *  Mental health phone numbers
+   * Jay posted spreadsheet - what's the next step? 
    * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
    * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+   * DS>>AI Follow up- find Slack thread? Emails from Elena? Elena is 100% comfortable letting CMS be SoT  
 
 ## Monday, October 3, 2022
 * v1 status check
