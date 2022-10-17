@@ -67,7 +67,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 **Update dates based on actual launch dates before filling out information**
 
-|KPI/metric|Baseline: [one month pre-launch] |Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
+|KPI/metric|Baseline: [one month pre-launch: 9/13/22 - 10/12/22] |Post-launch: [one-month post launch to 100%: 10/25 - 11/24]| Post-launch: [second month post-launch to 100%: 11/25 - 12/24]|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all debts (from the payment info section, "You have n oustanding debts. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| 26,501|TBD|TBD|
 
