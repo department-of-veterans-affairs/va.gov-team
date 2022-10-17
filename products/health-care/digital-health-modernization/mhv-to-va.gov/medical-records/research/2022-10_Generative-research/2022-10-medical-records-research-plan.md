@@ -246,13 +246,13 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 2. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(recruit 16)* 
-    - No *(recruit 8; 6 Veterans and 2 Caregivers)*
+    - Yes *(go onto additional screener questions, follow instructions there to recruit a total of 16 participants. Of these 16, 10 will be Veterans and 6 will be Caregivers)* 
+    - No *(recruit 8; Of these 8, 6 will be Veterans and 2 will be Caregivers)*
 
 
 ### Screener for Veterans
 
-3. Do you have a My HealtheVet (MHV) account? 
+3. *(If answered yes to Screener question 2 for all participants)* Do you have a My HealtheVet (MHV) account? 
     - Yes *(go on to additional Screener question 4)*
     - No *(recruit 2)*
 
@@ -266,7 +266,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener for Caregivers
 
-3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+3. *(If answered yes to Screener question 2 for all participants)* Do you or the Veteran you support have a My HealtheVet (MHV) account? 
     - Yes *(go on to additional Screener question 4)*
     - No *(recruit 2)*
 
