@@ -29,7 +29,7 @@ This research will inform the low fidelity prototype for the medical records red
 
 ### Research questions
 
-1. What terms do Veterans and Caregivers use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admisions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
+1. What terms do Veterans and Caregivers use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admissions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
 
 2. How do Veterans and Caregivers understand the existing medical records-related terminology on MHV and how does that understanding shape their behavior on the website (e.g., where they look for specific information)? 
 
