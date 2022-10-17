@@ -16,15 +16,15 @@ Date: MM/DD/YYYY
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](#further-research-needed)
 
 <br>
 
