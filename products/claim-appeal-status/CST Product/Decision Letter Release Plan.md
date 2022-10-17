@@ -9,7 +9,9 @@ How you'll give the test users access to the product in production w/o making it
 ### Results:  
 - Number of users: x  
 - Number of bugs identified / fixed: x/x   
-Types of errors logged:  
+- Types of errors logged:
+
+ 
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
@@ -23,8 +25,8 @@ What metrics-based criteria will you look at before advancing rollout to the nex
   <li>No calls to call center due to people not being able to download decision letter</li>
 </ul>
   
-Links to dashboard(s) showing "success criteria" metrics: CST OKRs and KPIs - 2022  
-The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs.  
+Links to dashboard(s) showing "success criteria" metrics: <a href = "https://docs.google.com/spreadsheets/d/14g_nD178fwJbvXMn_24uMHJUkm85xIGEa3eeXjcylig/edit?usp=sharing">CST OKRs and KPIs - 2022</a>  
+
 ### Stage A: Canary 
 #### Planning  
 Length of time: 11/16/22 - 11/23/22  
