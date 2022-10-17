@@ -43,8 +43,8 @@ _Dates subject to change_
 ### Planning:
 |Launch % |_Desired Date_ | Actual Date | Ticket |
 |-------|-----------|-----------|----------|
-| Launch to 25% | _09/26/2022_ | mm/dd/yyyy | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
-| Launch to 50% | _10/03/2022_ | mm/dd/yyyy | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 25% | _09/26/2022_ | 10/13/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
+| Launch to 50% | _10/03/2022_ | 10/17/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
 | Launch to 100% | _10/11/2022_ | mm/dd/yyyy | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)|
 
  
