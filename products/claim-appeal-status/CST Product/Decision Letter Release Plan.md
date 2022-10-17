@@ -16,7 +16,7 @@ Any UX changes necessary based on the logs, or feedback on user challenges, or V
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
 ### Planning 
-Desired date range: 11/16/22 - 11/29/22  
+Desired date range: 11/16/22 - 12/16/22 
 How will you make the product available in production while limiting the number of users who can find/access it: feature toggle  
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 <ul>
@@ -29,7 +29,7 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://doc
 
 ### Stage A: Canary 
 #### Planning  
-Length of time: 11/16/22 - 11/23/22  
+Length of time: one week
 Percentage of Users (and roughly how many users do you expect this to be): .5%
 #### Results:  
 - Number of unique users:  
