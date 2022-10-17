@@ -1,6 +1,6 @@
 # SPRINT GOALS
 
-## 10/19/2022 (---------------------FUTURE------------------------)
+## 10/19/2022 - 11/01/2022 (---------------------FUTURE------------------------)
 
 #### Planned Releases  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
@@ -43,7 +43,7 @@
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101)
 
     
-## 10/05/2022 
+## 10/05/2022 - 10/18/2022
 
 #### Planned Releases 
 - Flip feature flag for LoROTA Security Updates & set to 10%
