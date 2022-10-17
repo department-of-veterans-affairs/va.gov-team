@@ -245,9 +245,9 @@ What demographics, experience, and scenarios do you need participants to meet to
     - Have a working microphone on their device
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-2. Do you have experience using VA health care? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
+2. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
     - Yes *(recruit 16)* 
-    - No *(recruit 8)*
+    - No *(recruit 8; 6 Veterans and 2 Caregivers)*
 
 
 ### Screener for Veterans
