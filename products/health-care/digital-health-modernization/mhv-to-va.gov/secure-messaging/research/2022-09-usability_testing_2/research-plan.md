@@ -12,7 +12,7 @@ This research supports the following OCTO objectives:
 1. Veterans can manage their health services online
 2. Veterans and their families can find a single, authoritative source of information
 3. Logged-in users have a personalized experience, with relevant and time-saving features
-4. 
+
 ### Veteran Journey
 
 This research fits into these points of a Veteran's Journey:
@@ -26,9 +26,9 @@ This research fits into these points of a Veteran's Journey:
 
 The goals of this study are to:
 
--   identify major usability or content issues with the current prototype of secure messaging in MHV on VA.gov
--   identify major usability issues with untested components
--   assess user experiences with updated content that aims to protect Veterans' safety
+-   Identify major usability or content issues with the current prototype of secure messaging in MHV on VA.gov
+-   Identify major usability issues with untested components
+-   Assess user experiences with updated content that aims to protect Veterans' safety
 
 ### Research questions
 
@@ -330,9 +330,9 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Nov. 1, 2022 | 11-12 pm; 12:30 am - 1:30 pm; 2-3 pm; 4:30-5:30 pm; 6-7 pm
+Nov. 1, 2022 | 12-3 pm; 4:30-7 pm
 Nov. 3, 2022 | 10-11 am; 2-3 pm; 4:30-5:30 pm
-Nov. 7, 2022 | 11:30-12:30 pm; 11:30 am - 12:30 pm; 1-5 pm
+Nov. 7, 2022 | 11:30 am-6 pm
 Nov. 8, 2022 | 12-2:30 pm; 4-6 pm
 Nov. 9, 2022 | 10-12 pm; 3-4 pm
 Nov. 10, 2022 | 10-12 pm; 12:30-2:30 pm; 4-5 pm
@@ -353,5 +353,5 @@ Please list the people who will be serving in each role.
 - Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Coulton Bunney (PO) (under review)
+- Reviewed and approved by Coulton Bunney (PO) (10/17/2022)
 - Reviewed and approved by Shane Strassberg on (under review)
