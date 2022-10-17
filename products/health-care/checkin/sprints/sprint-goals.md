@@ -10,6 +10,8 @@
     - Update product & design artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team
+- [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
+    - Brainstorm enhancements & prioritize
 - [Create list of kiosk functionality & evaluate for inclusion in our backlog for Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48058)
     - Complete & present
 - [Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
