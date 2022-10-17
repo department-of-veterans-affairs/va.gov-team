@@ -1,6 +1,6 @@
 # `Payment Info V2` QA Go / No Go 
 
-##  MM/DD/YYYY
+##  10/18/2022
 
 ## Decision: __
 
