@@ -10,7 +10,7 @@ Date: MM/DD/YYYY
 
 [Designer 1] [email], [Designer 2] [email]
 
-[Research Report PDF] (link here)
+[Research Presentation Deck PDF](link here or leave link for later once you have the finished pdf)
 
 <br>
 
