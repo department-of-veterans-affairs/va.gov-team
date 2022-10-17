@@ -159,8 +159,10 @@ Virtual care = clarity that this is in addition to physical visits
 ## Research Questions - Answered
 **How do PAOs decide on additional COVID messages about visitation they want to add to the website?**
 Participants take direction on COVID messages from medical director, public affairs, and other facility leadership.
+
 **What feedback have Veterans given about the COVID messages on the website?**
 Some reports of questions about discrepancies in old/new policies. One PAO fielded questions via social media. Most participants do not have direct contact with Veterans.  
+
 **When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?**
 Approaches vary. Participants choose based on their own perception of what is the most visible. More research is needed.
 
