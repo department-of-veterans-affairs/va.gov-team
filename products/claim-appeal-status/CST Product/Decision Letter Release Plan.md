@@ -16,7 +16,7 @@ Any UX changes necessary based on the logs, or feedback on user challenges, or V
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
 ### Planning 
-Desired date range: 11/16/22 - 12/16/22 
+Desired date range: 11/16/22 - 12/16/22  
 How will you make the product available in production while limiting the number of users who can find/access it: feature toggle  
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 <ul>
