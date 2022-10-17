@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page: **bit.ly/3Ix90HN (https://staging.va.gov/homepage-test/)** 
+- *Open a standalone browser window to web page:* **bit.ly/3Ix90HN (https://staging.va.gov/homepage-test/)** 
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
