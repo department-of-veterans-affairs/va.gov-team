@@ -35,6 +35,7 @@ Percentage of Users (and roughly how many users do you expect this to be): .5%
 - Number of unique users:  
 - Metrics at this stage (per your "success criteria"):  
 - Types of errors logged:  
+<BR>  
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?  
 ### Stage B: moderate  
 #### Planning  
@@ -42,7 +43,8 @@ Length of time: one week
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results:  
 - Number of unique users: x  
-- Metrics at this stage (per your "success criteria"): x  
+- Metrics at this stage (per your "success criteria"): 
+ <BR>
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? 
 ### Stage C: High 
 #### Planning  
@@ -50,8 +52,9 @@ Length of time: one week
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
 - Number of unique users: x  
-- Metrics at this stage (per your "success criteria"): x  
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- Metrics at this stage (per your "success criteria"): 
+<BR>
+What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 ## Go Live! 
 ### Planning:
 Desired date: 1/4/2023
