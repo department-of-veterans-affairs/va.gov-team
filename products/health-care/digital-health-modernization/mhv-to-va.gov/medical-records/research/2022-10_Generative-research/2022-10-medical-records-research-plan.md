@@ -319,7 +319,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Robyn Singleton 
 - Participants for pilot test:	TBD
 - Note-takers: TBD
-- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), all others to sign up via sign up list. 
+- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney (PO) on Oct. 17, 2022
