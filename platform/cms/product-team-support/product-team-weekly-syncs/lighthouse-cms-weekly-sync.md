@@ -15,7 +15,18 @@
 </details>
 
 ## Monday, October 17, 2022
+Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
 * v1 status check
+  * Still holding pattern
+  * Were able to remediate the escalated issue "MIM" -> stopped the produciton issue, currently stable.  Still investigating why this occured in the first place.  Have yet to resolve/detrmine underlying issue. 
+* URL Updates - Staleness is only applied to Vet Centers 
+  * Code freeze causes inablity to get in latest URL updates (from Randi?) probably about 30 va.gov URLs that are pointed to old sites rather than new fancy ones.
+  * What woudl it take to find a workaround? 
+  * Either way this needs to be first issue addressed 
+  * It's unclear on who is receiving a URL from LH? or where that is exposed? Need to have a converstaion with Max - waht pain is this pain causing today?
+  * DS>>AI Post to Slack on this issue 
+  * Redircts from Teamsite is a manual process 
+* DS>> AI Add Max to LH meeting 
 * Sandbox data - James and Dave C had a discussion
   * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
   * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
