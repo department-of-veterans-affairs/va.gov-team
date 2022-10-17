@@ -3,14 +3,15 @@
 ## Moderator logistics
 
 **2-3 days before the session**:
-- *Review participant list for participant name and screener question responses*
-- *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
+- Review participant list for participant name and screener question responses
+- Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+- Review VA Platform's Research Checklist.
+
 
 **10-15 min before session**: 
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
-- *Have the Card sort link (to create) ready
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -43,11 +44,7 @@ There are a few of my teammates who would like to observe this session and take 
 
 Could the notetaker and observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
 
-*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
-
-Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do a sorting exercise.
-
-BeBefore we start, I want to go over a few things:
+Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
