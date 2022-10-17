@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Profile, Authenticated Experience**
 
-10/13/2022
+10/17/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
-[Research Report PDF] (link here)
+Research Report PDF coming soon
 
 **Jump to:**
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#hypotheses-and-conclusions)
@@ -57,16 +57,16 @@ We conducted this research through moderated sessions over Zoom. We asked partic
 	* Likely true, since this is the first time we have tested this pattern with a group of Veterans with cognitive considerations that also use assistive technology.
 
 ## Key Findings
-1. The majority of participants were able to update a VA.gov profile with in-line editing with relative ease.
-2. 5 of 11 participants experienced some minor confusion during the address validation process.
-3. In the contact information section, we observed some usability hurdles that slowed multiple people down.
-4. Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
-5. Having to leave the notification settings page to add a mobile number was disruptive to 6 of 11 participants.
-6. 5 participants missed the “Board of Veteran’s Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
-7. Most participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
+1. 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#9-of-11-participants-were-able-to-update-a-vagov-profile-with-in-line-editing-with-relative-ease))
+2. 5 of 11 participants experienced some minor confusion during the address validation process. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#2-5-of-11-participants-experienced-some-minor-confusion-during-the-address-validation-process))
+3. In the contact information section, we observed some usability hurdles that slowed multiple people down. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#3-in-the-contact-information-section-we-observed-some-usability-hurdles-that-slowed-multiple-people-down))
+4. Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#4-participants-were-not-bothered-by-encountering-multiple-alerts-when-updating-contact-information-though-it-took-some-longer-than-others-to-comprehend-the-information))
+5. 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#5-6-of-11-participants-were-disrupted-by-having-to-leave-the-notification-settings-page-to-add-a-mobile-number))
+6. 5 participants missed the “Board of Veteran’s Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#6-5-participants-missed-the-board-of-veterans-affairs-hearing-reminder-notification-name-which-led-to-a-misunderstanding-about-what-the-notification-was-for))
+7. 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#7-9-of-11-participants-including-screenreader-users-found-in-line-editing-and-a-one-thing-per-page-approach-to-be-equally-usable))
 
 ## Details of Findings 
-### 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
+### 1. 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
 
 We started our sessions by asking participants to update sections on the contact information page. All participants intuitively understood how to go from “read-only” to “edit” mode, to complete forms, and to save their changes. 
 
@@ -76,7 +76,7 @@ Notably, the “alert followed by a modal” pattern that can occur in a couple 
 
 ---
 
-### 5 of 11 participants experienced some minor confusion during the address validation process.
+### 2. 5 of 11 participants experienced some minor confusion during the address validation process.
 
 All participants triggered the address validation alert (some naturally, others with guidance), and were able to make a selection and move forward. However, the entire process was not intuitive for 5 participants, as follows:
 
@@ -100,7 +100,7 @@ All participants triggered the address validation alert (some naturally, others 
 
 ---
 
-### In the contact information section, we observed some usability hurdles that slowed multiple people down.
+### 3. In the contact information section, we observed some usability hurdles that slowed multiple people down.
 
 The hurdles we observed were experienced by a minority of participants, but it’s important to note trouble spots that came up in our sessions. We hypothesized that Veterans with more severe cognitive considerations or less familiarity with technology would struggle more than those who successfully participated in remote usability testing.
 
@@ -120,7 +120,7 @@ TK: insert screenshot of buttons
 
 ---
 
-### Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
+### 4. Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
 
 Though our team has hypothesized encountering multiple alerts when updating contact information would be frustrating, we observed the opposite during these sessions. Even when people triggered an address validation flow that was immediately followed by 2 different modal messages, they didn’t express any frustration about the modals or alerts.
 
@@ -137,7 +137,7 @@ Though our team has hypothesized encountering multiple alerts when updating cont
 
 ---
 
-### 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number.
+### 5. 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number.
 It made sense to participants that they needed to add a mobile number before updating text message settings. They intuitively clicked the “Add a mobile number to your profile” link in the alert, which sent them directly to the mobile phone number section on the contact information page. 
 
 Once on the contact page, the user flow requires the user to add a mobile number, and follow a link in the confirmation message to return to notification settings (screenshot below). The next steps confused some participants.
@@ -158,7 +158,7 @@ Once on the contact page, the user flow requires the user to add a mobile number
 
 ---
 
-### 5 participants missed the “Board of Veterans’ Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
+### 6. 5 participants missed the “Board of Veterans’ Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
 
 These participants assumed the notification was for “Applications, claims, decision reviews, and appeals”, which is the name of the notification group. 
 
@@ -172,7 +172,7 @@ These participants assumed the notification was for “Applications, claims, dec
 
 ---
 
-### 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
+### 7. 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
 
 We built a [simple CodePen prototype](https://codepen.io/surfbird/full/vYjxQWy) representing a “one thing per page” approach for contact information, and asked users to review it as time allowed at the end of sessions (we ended up having time in all 11 sessions). 
 
