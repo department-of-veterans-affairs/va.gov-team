@@ -161,7 +161,7 @@ From this web page, how could you learn about recent changes that may affect ben
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / More VA news / Header / Footer / Learn what the PACT Act means for your VA benefits / Menu (on a phone)*
 
 What are your impressions of what you're looking at? *(news / benefit / ad / ____________)*
-- *RECORD what click on: headline / image / Read the full article / Learn link what the PACT Act means for you / More VA news*
+- *RECORD what click on: headline / image / Read the full article / Learn what the PACT Act means for you / More VA news*
 
 How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
 
