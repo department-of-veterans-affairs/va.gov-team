@@ -26,6 +26,10 @@
     - Complete final wireframes for Check-in and Pre-Check-in
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Complete analysis for 2 weeks
+- [Spanish Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
+    - Prepare json files & submit to the State Department (Lori)
+- [Tagalog Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48338)
+    - Prepare json files & submit to the State Department (Lori)
 
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
