@@ -10,7 +10,7 @@
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Update product & design artifacts (Ben/Kelly)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Create wireframes for check-in with staff scenarios (3 of them)
+    - Create wireframes for check-in with staff scenarios (3 of them) (Ben/Zach)
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - Update Product Artifacts for Need Help Section Release (Ben/Kelly)
     - Update test cases (Lori)
