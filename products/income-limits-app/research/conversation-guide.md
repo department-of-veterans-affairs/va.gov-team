@@ -28,7 +28,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is My name is Cindy. How are you doing today?
+Thanks for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes.  
 
