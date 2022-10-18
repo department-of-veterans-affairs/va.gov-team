@@ -84,7 +84,7 @@
     - DONE Synthesize unmoderated study data & create report (Kristen)
     - DONE Collaborate with VAOS to determine where they are in their process (Kristen)    
 - [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
-    - Prepare json files & submit to the State Department (Lori)
+    - WAITING ON CONTENT CHANGES Prepare json files & submit to the State Department (Lori)
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE) 
 - DONE [Production Support]() 
@@ -92,8 +92,8 @@
     - DONE Finish infrastructure to authenticate with the BTSSS API
     - DONE Start infrasturcture to send a claim to the BTSSS API 
     - DONE Add ICN to LoROTA payload
-    - Update content based on Platform feedback (travel pages, day-of pages, & footer)   
-    - Look into how to persist data and save the Veteran's place in the event of a page reload
+    - BLOCKED Update content based on Platform feedback (travel pages, day-of pages, & footer)   
+    - DONE Look into how to persist data and save the Veteran's place in the event of a page reload
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
     - DONE Complete & release (John)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
