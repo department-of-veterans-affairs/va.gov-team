@@ -263,7 +263,7 @@ Use font awesome icon `file-medical` for icon
 >**We can't access any health care information right now**
 >
 >We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
->[Visit My HealheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
+>[Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
