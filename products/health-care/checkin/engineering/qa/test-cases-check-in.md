@@ -1,7 +1,6 @@
 <!-- markdownlint-disable no-duplicate-heading -->
 
 # Test Cases for Check-in 
-- [Test Cases for Check-in](#test-cases-for-check-in-pre-mvp)
   - [Scope](#scope)
   - [Wireframes](#wireframes)
   - [How to access in Staging](#how-to-access-in-staging)
