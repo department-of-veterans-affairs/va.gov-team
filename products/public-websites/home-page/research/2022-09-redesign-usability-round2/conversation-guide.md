@@ -206,7 +206,6 @@ Your hearing loss from your time in the military has gotten worse over the last 
     - *Create account / Search / Other search tools / Popular on VA.gov > Disability comp / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer / Menu (on a phone)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
-- Could you please go back to the original web page you opened?
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
@@ -216,7 +215,10 @@ Your hearing loss from your time in the military has gotten worse over the last 
      1. If so, how and when?
      2. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
      3. *(Want to see if screen reader users can/will use the Medallia feedback button)*
-3. What worked *well* for you?
+
+Could you please go back to the original web page you opened?
+
+2. What worked *well* for you?
 4. What was *unclear or didn't work well* for you?
 5. What would you like to *change or add*?
 1. *(IF entered email address for VA updates)* What would you expect to happen? 
