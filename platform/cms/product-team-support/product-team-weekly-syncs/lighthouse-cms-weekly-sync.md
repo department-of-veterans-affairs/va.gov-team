@@ -46,6 +46,7 @@ Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
    * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
    * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
    * DS>>AI Follow up- find Slack thread? Emails from Elena? Elena is 100% comfortable letting CMS be SoT  
+   * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
 
 ## Monday, October 3, 2022
 * v1 status check
