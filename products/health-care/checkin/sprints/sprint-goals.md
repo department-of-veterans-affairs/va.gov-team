@@ -36,6 +36,7 @@
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Make progress on infrastructure to send a claim to the BTSSS API
+    - Add configuration for BTSSS endpoints and secrets for staging and production
     - Finish content changes
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release
