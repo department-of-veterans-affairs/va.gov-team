@@ -10,15 +10,15 @@ Ciera Maddox ciera.maddox@adhocteam.us, Peter Russo Peter.russo@adhocteam.us
 
 **Jump to:**
 
-[Hypotheses and conclusions](# Hypotheses and Conclusions)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
+[Key findings](#key-findings)
 
-[Details of Findings and Recommendations](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
+[Details of Findings and Recommendations](#details-of-findings-and-recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md#who-we-talked-to:~:text=Mobile%20Prototype-,Who%20we%20talked%20to,-Complete%20the%20demographic)
+[Who we talked to](#who-we-talked-to)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md#who-we-talked-to:~:text=Mobile%20Prototype-,Who%20we%20talked%20to,-Complete%20the%20demographic)
+[Further research needed](#further-research-needed)
 
 <br>
 
