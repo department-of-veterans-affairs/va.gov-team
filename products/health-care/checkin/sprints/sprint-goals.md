@@ -11,6 +11,7 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - Update Product Artifacts for Need Help Section Release (Ben/Kelly)
+    - Update test cases (Lori)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Brainstorm enhancements & prioritize (Lori/All)
     - Create research plan (Ben/Kelly)
