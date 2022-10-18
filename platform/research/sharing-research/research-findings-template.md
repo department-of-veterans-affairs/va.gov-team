@@ -10,7 +10,7 @@ Date: MM/DD/YYYY
 
 [Designer 1] [email], [Designer 2] [email]
 
-[Research Presentation Deck PDF](link here or leave link for later once you have the finished pdf)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
 <br>
 
