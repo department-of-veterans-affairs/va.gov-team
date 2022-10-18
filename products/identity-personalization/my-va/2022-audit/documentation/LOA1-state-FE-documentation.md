@@ -27,7 +27,7 @@ This one-time process takes about 5-10 minutes.
 
 ---
 
-### How will Va.gov verify my identity? - Dropdown
+### Learn how to verify your identity on VA.gov link
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
