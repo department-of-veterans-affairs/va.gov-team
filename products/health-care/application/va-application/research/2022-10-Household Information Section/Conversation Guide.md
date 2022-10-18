@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Do you frequently use VA.gov and regulary sign in to your account? 
-- 
+- Have you ever had to complete forms before that asked for various information on your family and your income?   
 
 
 ## Setup - 5 minutes
