@@ -33,25 +33,14 @@ This one-time process takes about 5-10 minutes.
 
 **Visual specs**
 
-- Use the [additional info component](https://design.va.gov/storybook/?path=/docs/components-va-additional-info--default) in the VA design system.
+- Use the [default link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default) in the VA design system.
 
 **Positioning**
 
-- This dropdown appears directly below the LOA1 call-to-action.
+- This link appears directly below the LOA1 call-to-action.
 
 #### **Content**
-We use ID.me, our Veteran-owned technology partner that provides the strongest identity verification system available to prevent fraud and identity theft.
-
-**To verify your identity, you'll need both of these:**
-           
-A smartphone (or a landline or mobile phone and a computer with an Internet connection),
-**and**
-Your Social Security number</li>
-       
-**You'll also need one of these:**
-A digital image of your driver's license or passport,
-**or**
-The ability to answer certain questions based on private and public data (like your credit report or mortgage history) to prove you're you
+[Learn how to verify your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
 
 ---
 
