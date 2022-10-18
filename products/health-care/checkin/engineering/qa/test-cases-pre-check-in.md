@@ -6,12 +6,12 @@
   - [Wireframes](#wireframes)
   - [How to access in Staging](#how-to-access-in-staging)
   - [Test Case A: Happy Path - Successful Pre-Check-in](#test-case-a-happy-path---successful-pre-check-in)
-  - [Test Case B: Happy Path - Needs to Update Information](#test-case-b-happy-path---needs-to-update-information)
+  - [Test Case B: Cannot Pre-Check-in on Day of Appointment](#test-case-b:-cannot-pre-check-in-on-day-of-appointment)
   - [Test Case C: Edge Case - Expired Token](#test-case-d-edge-case---expired-token)
   - [Test Case D: Edge Case - No token provided](#test-case-e-edge-case---no-token-provided)
   - [Test Case E: Edge Case - Malformed Token](#test-case-f-edge-case---malformed-token)
-  - [Test Case F: Edge Case - User Tries to check in again after not completing an earlier check in attempt](#test-case-h-edge-case---user-tries-to-check-in-again-after-not-completing-an-earlier-check-in-attempt)
-  - [Test Case G: Edge Case - User Refreshes the app before finishing the check in process](#test-case-i-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+  - [Test Case F: Edge Case - User Tries to complete Pre-Check-in again after not completing an earlier attempt](#test-case-f:-edge-case---user-tries-to-complete-pre-check-in-again-after-not-completing-an-earlier-attempt)
+  - [Test Case G: Edge Case - User Refreshes the app before finishing the check in process](#test-case-g-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
 
 ## Scope
 This document is for is QA testing of the va.gov portion of the `Pre-Check-in` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
@@ -69,7 +69,6 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User sees a `Sorry, pre-check-in is no longer available` page with appropriate messaging that matches the mockups
 
 ## Test Case C: Edge Case - Expired Token
-> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.403.on.check-in.cypress.spec.js)
 
 ### Note
 This case may not be different than other token-based edge cases, but calling this out for coverage.
@@ -84,7 +83,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User should see an error that indicates we couldn't find an account that matches their identity and will not be allowed to complete Pre-Check-in
+- User should see an error that indicates an account could not be found that matches their identity and they will not be allowed to complete Pre-Check-in
 
 ### Assert (Expected Outcome)
 - Application does not crash
@@ -105,14 +104,13 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User should be on the `Sorry, we can't complete pre-check-in` page and will not be allowed to complete Pre-Check-in
+- User should be on the `Sorry, we can't complete pre-check-in` page and they not be allowed to complete Pre-Check-in
 
 ### Assert (Expected Outcome)
 - Application does not crash
 - User sees an `Error` screen with appropriate messaging that matches the mockups
 
 ## Test Case E: Edge Case - Malformed Token
-> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/malformed.token.cypress.spec.js)
 
 ### Note
 This case may not be different than other token-based edge cases, but calling this out for coverage.
@@ -145,6 +143,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User sees the appointment for which they are completing Pre-Check-in and clicks "Answer questions"
 - User selects 'Yes' or 'No' to one of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
@@ -152,14 +151,13 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
 - User closes their browser
 - User clicks their pre-check-in link to re-load the Pre-Check-in application
-- User is taken back to the beginning of the Pre-Check-in process
+- User is taken back to the beginning of the Pre-Check-in process (i.e. "Answer questions" page)
 
 ### Assert (Expected Outcome)
 - Application does not crash
 - User is still allowed to complete Pre-Check-in.
 
 ## Test Case G: Edge Case - User Refreshes the app before finishing the check in process
-> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
 As a user, I have clicked on a valid link to Pre-check-in, and I have refreshed the page during the Pre-Check-in process. This is to simulate a user leaving the app and returning during the process on a mobile device that could reload the app in the middle of Pre-check-in.
@@ -171,6 +169,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User sees the appointment for which they are completing Pre-Check-in and clicks "Answer questions"
 - User selects 'Yes' or 'No' to one of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
@@ -178,7 +177,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
 - User closes their browser
 - User clicks their pre-check-in link to re-load the Pre-Check-in application
-- User is taken back to the beginning of the Pre-Check-in process
+- User is taken back to the beginning of the Pre-Check-in process (i.e. "Answer questions" page)
 
 ### Assert (Expected Outcome)
 - Application does not crash
