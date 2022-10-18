@@ -23,7 +23,7 @@ We need to make sure you’re you - and not someone pretending to be you - befor
 
 This one-time process takes about 5-10 minutes.
 
-[Verify your identity](https://va.gov/resources/verifying-your-identity-on-vagov/)
+[Verify your identity](https://va.gov/verify/)
 
 ---
 
