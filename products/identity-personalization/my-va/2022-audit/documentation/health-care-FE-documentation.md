@@ -259,7 +259,7 @@ Use font awesome icon `file-medical` for icon
 ### Error State 1: The health care API call fails (can't tell if user has VA health care or not)
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning#error) for the error message.
 >**We can't access any health care information right now**
 >
 >We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
@@ -279,7 +279,7 @@ Use font awesome icon `file-medical` for icon
 ### Error State 2: The health care appointments API call fails (can't tell if user has appointments scheduled but can tell they have VA health care)
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning#error) for the error message.
 >**We can't access your appointment information**
 >
 >We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool:
