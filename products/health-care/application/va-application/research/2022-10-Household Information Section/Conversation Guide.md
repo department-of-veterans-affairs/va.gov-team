@@ -178,10 +178,18 @@ UX PIN PROTOTPYE LINKS HERE
 - (continue) Complete your spouse's income information.
 - In real life, how long would it take you to gather and make sure you were entering the correct information here?
 
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
+
 ### Things to watch for:
 - [Does the participant comment on the onboarding page or do they spend a lot of time here?]
 - [Does the participant interact with any of the additional information components for more context needed?]
-- [Does the participant notice xyz?]
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
 ## Primary Task 6: Deductible Information - 5 minutes
