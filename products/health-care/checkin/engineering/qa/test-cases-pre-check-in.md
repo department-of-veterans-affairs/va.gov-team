@@ -6,7 +6,7 @@
   - [Wireframes](#wireframes)
   - [How to access in Staging](#how-to-access-in-staging)
   - [Test Case A: Happy Path - Successful Pre-Check-in](#test-case-a-happy-path---successful-pre-check-in)
-  - [Test Case B: Cannot Pre-Check-in on Day of Appointment](#test-case-b:-cannot-pre-check-in-on-day-of-appointment)
+  - [Test Case B: Cannot Pre-Check-in on Day of Appointment](#test-case-B:-cannot-pre-check-in-on-day-of-appointment)
   - [Test Case C: Edge Case - Expired Token](#test-case-d-edge-case---expired-token)
   - [Test Case D: Edge Case - No token provided](#test-case-e-edge-case---no-token-provided)
   - [Test Case E: Edge Case - Malformed Token](#test-case-f-edge-case---malformed-token)
