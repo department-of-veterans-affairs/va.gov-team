@@ -3,7 +3,7 @@
 Spoke with Randi Hecht, who gave us some basic information on how the process works to have a document/form translated
 - Would recommend to translate just to Spanish for now, if we do the whole form (haven't done a form before!)
      - Let's get the new process established first, see how it goes
-- Tagalag or Chinese might be next
+- Tagalog or Chinese might be next
 - [Landing page](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) (static) with link to online form would be translated first (this is not our instructions/Introduction page).
      - Form can be translated in staging
      - Translators need context (Content/Danielle reviews to ensure ready for translation)
