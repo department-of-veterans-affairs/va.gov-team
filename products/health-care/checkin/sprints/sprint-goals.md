@@ -7,25 +7,26 @@
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Update product & design artifacts
+    - Update product & design artifacts (Ben/Kelly)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team
+    - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
+    - Update Product Artifacts for Need Help Section Release (Ben/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - Brainstorm enhancements & prioritize
+    - Brainstorm enhancements & prioritize (Lori/All)
+    - Create research plan (Ben/Kelly)
 - [Create list of kiosk functionality & evaluate for inclusion in our backlog for Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48058)
-    - Complete & present
+    - Complete & present (Kristen)
 - [Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
-    - Create new wording
+    - Create new wording (Kelly)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Create SMS content for the "before" & "after" check-in window scenarios and pass off to PCI/API team
+    - Create final wireframes for the "before" & "after" check-in window scenarios and pass off to PCI/API team (Zach/Ya-Ching)
 - [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
     - Complete (Ben)
-- [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)
-    - Create final wireframes 
 - [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
-    - Complete final wireframes for Check-in and Pre-Check-in
+    - Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
+    - Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
-    - Complete analysis for 2 weeks
+    - Complete analysis for 2 weeks (Ben)
 - [Spanish Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
     - Prepare json files & submit to the State Department (Lori)
 - [Tagalog Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48338)
