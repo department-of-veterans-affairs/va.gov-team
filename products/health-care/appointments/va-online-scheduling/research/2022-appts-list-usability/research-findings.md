@@ -10,7 +10,7 @@ Ciera Maddox ciera.maddox@adhocteam.us, Peter Russo Peter.russo@adhocteam.us
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md?plain=1#L80)
+[Hypotheses and conclusions](# Hypotheses and Conclusions)
 
 [Key findings](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
