@@ -110,6 +110,10 @@ Continue your application (linked to saved application)
 
 You have no applications in progress to show.
 
+#### **Positioning**
+
+This text should appear directly below the "Applications in progress" subheader.
+
 ---
 
 ## Explore VA benefits and health care
