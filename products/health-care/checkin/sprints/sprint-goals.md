@@ -18,6 +18,8 @@
     - Create new wording
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - Create SMS content for the "before" & "after" check-in window scenarios and pass off to PCI/API team
+- [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
+    - Complete (Ben)
 - [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)
     - Create final wireframes 
 - [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
@@ -67,7 +69,7 @@
     - DONE Complete audit (Kelly/Zach)
     - Fix wireframes (Kelly/Zach)
 - [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
-    - Get started (Ben)
+    - DONE Get started (Ben)
 - [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
     - DONE Weekly analysis (Lori/Kristen)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
