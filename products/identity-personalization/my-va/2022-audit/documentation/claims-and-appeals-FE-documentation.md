@@ -18,7 +18,7 @@ We show this section for every LOA3 user.
 
 **Visual specs**
 
-- Use the [card component](https://design.va.gov/components/card) in the VA design system
+- Use the [claims and appeals version of the card component](https://design.va.gov/components/card#claims-and-appeals) in the VA design system.
 
 #### **Content**
 
