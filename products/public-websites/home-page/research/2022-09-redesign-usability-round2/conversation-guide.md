@@ -165,6 +165,11 @@ What are your impressions of what you're looking at? *(news / benefit / ad / ___
 
 How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
 
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
+
+### Task 4A: [VA news] 
 How could you learn what else is new--see if there are other stories from the VA that might be relevant to you? *(More VA news / __________)*
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
