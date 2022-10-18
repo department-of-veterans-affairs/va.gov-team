@@ -227,7 +227,7 @@ participants were successful (9 of 10) in finding and clicking on the past appoi
 Participants want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
 
 ### 4. Small text
-At least one participant with low visibility expressed difficulty seeing the links in the details pages.
+At least one participant with low vision expressed difficulty seeing the links in the details pages.
 
 # Next Steps
 
