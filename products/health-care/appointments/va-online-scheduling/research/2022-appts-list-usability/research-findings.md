@@ -10,7 +10,7 @@ Ciera Maddox ciera.maddox@adhocteam.us, Peter Russo Peter.russo@adhocteam.us
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md#L80)
 
 [Key findings](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1725%3A67727)
 
@@ -227,7 +227,7 @@ participants were successful (9 of 10) in finding and clicking on the past appoi
 Participants want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
 
 ### 4. Small text
-At least one participant with low vision expressed difficulty seeing the links in the details pages.
+At least one participant with low visibility expressed difficulty seeing the links in the details pages.
 
 # Next Steps
 
