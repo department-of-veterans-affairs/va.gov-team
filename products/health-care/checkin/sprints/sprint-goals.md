@@ -4,6 +4,7 @@
 
 #### Planned Releases  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+- [Need Help Section Updates for Day-of Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47827)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
