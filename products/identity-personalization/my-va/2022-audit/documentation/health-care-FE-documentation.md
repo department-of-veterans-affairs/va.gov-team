@@ -110,8 +110,8 @@ You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.go
 
 ### If a user receives VA health care at a Cerner facility
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D3CE5EC9-6925-4086-A1C5-2370E93073CB)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6F32EDF4-2B0A-4277-9963-FB1E45AA0BDD)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
 
 **Show**
 
@@ -135,14 +135,14 @@ If you have trouble accessing the portal, make sure to disable your pop-up block
 
 **Content specs**
 
-- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. This content is dynamic. If there are 2 facilities, they should be separated by the word "or". If there are 3 or more facilties, they should be separated by a comma and the word "or" should come before the last facility.
+- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. **This content is dynamic.** If there are 2 facilities, they should be separated by the word "or". If there are 3 or more facilties, they should be separated by a comma and the word "or" should come before the last facility.
 
 #### Visual specs
 
 - Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the Cerner alert.
 
 **Positioning**
-- This alert should appear directly below the health care header and nothing else shoul be shown in the section besides this alert.
+- This alert should appear directly below the health care header and nothing else should be shown in the section besides this alert.
 
 ---
 
