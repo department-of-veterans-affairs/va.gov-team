@@ -77,8 +77,8 @@
 - [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
     - DONE Weekly analysis (Lori/Kristen)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Synthesize unmoderated study data & create report (Kristen)
-    - Collaborate with VAOS to determine where they are in their process (Kristen)    
+    - DONE Synthesize unmoderated study data & create report (Kristen)
+    - DONE Collaborate with VAOS to determine where they are in their process (Kristen)    
 - [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
     - Prepare json files & submit to the State Department (Lori)
 
