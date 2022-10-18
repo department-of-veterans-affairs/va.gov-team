@@ -93,7 +93,8 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User clicks a previously-obtained check-in link that was for an appointment that happened on or before yesterday
-- User sees an error page indicating that they cannot check-in
+- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User should see an error that indicates an account could not be found that matches their identity and they will not be allowed to complete Check-in
 
 ### Assert (Expected Outcome)
 - Application does not crash
@@ -113,7 +114,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User clicks a check-in link that is missing the token to load the Check-in application
-- User sees an error page indicating that they cannot check-in
+- User should be on the `We couldn't check you in` page and they not be allowed to complete Check-in
 
 ### Assert (Expected Outcome)
 - Application does not crash
@@ -133,7 +134,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 
 ### Act
 - User clicks a check-in link that has a malformed token to load the Check-in application
-- User sees an error page indicating that they cannot check-in
+- User should be on the `We couldn't check you in` page and they not be allowed to complete Check-in
 
 ### Assert (Expected Outcome)
 - Application does not crash
@@ -153,14 +154,14 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - A link can also be generated internally by using the Staging Tool
 - User clicks their check-in link to load the Check-in application
 - User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
-- User selects "Yes" to one of the following questions
+- User selects `Yes` to one of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the last 7 days for another appointment, that question will not be asked 
 - User closes their browser
 - User clicks their check-in link to re-load the Check-in application
-- User is taken back to the beginning of the check-in process
+- User is taken back to the beginning of the check-in process (i.e. first question to answer or identity verification)
 
 ### Assert (Expected Outcome)
 - Application does not crash
@@ -186,7 +187,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
 - User refreshes the webpage
-- User is taken back to the beginning of the check-in process
+- User is taken back to the beginning of the check-in process (i.e. first question to answer)
 
 ### Assert (Expected Outcome)
 - Application does not crash
