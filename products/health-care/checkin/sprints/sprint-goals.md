@@ -42,15 +42,15 @@
     - Add configuration for BTSSS endpoints and secrets for staging and production
     - Finish content changes
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Complete minor updates & release
-- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Begin work on the "pass-through" from Pre-Check-in to Check-in    
+    - Complete minor updates & release 
 - CIE Tech Debt & Bugs
     - [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
+    - [Investigate if we can setup a DataDog RUM in Staging with the VA.gov DataDog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48379)
     - [CHECK-IN: Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
     - [[BUG][FE] CHECK-IN: See Staff Page is Missing the Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48099)
     - [[BUG] [FE] Address Bugs Identified During Wireframe Audit](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48110)
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101)
+    - [Fix Skipped Test](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48376)
 
     
 ## 10/05/2022 - 10/18/2022
