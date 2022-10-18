@@ -261,7 +261,7 @@ We will request partipants with critera that were not covered in the studies con
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-October - November 2022 
+November 2022 
 
 
 
@@ -318,5 +318,5 @@ TBD         | TBD
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - User Flows ([Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx)) & ([Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W))
 - Prototype
-- Notes board (Mural?)
+- Notes board (Mural)
 - Research Findings
