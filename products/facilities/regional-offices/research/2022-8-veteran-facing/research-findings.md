@@ -143,7 +143,7 @@ It will give us a fuller understanding of what Benefit Office clients need, and 
     * No reports of people not finding the info they wanted on the website
     * Most Veterans got information from Google Maps and didn't really need much more than that. 
     * Veteran pain points had to do with authenticated experiences, not public pages. 
-* Possibly pland research to follow up on sync and async human 2 human communication solutions
+* Possibly plan research to follow up on sync and async human 2 human communication solutions
     * Veterans cited consistently a desire to speak to a person in person when they visited the locations. 
 
 
