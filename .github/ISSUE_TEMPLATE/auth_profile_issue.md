@@ -15,13 +15,13 @@ Describe the issue background and scope
 ## Tasks
 - [ ] Conduct Unit tests 
 - [ ] Run E2E tests covering current code and regression
-- [ ] All axe checks pass
 - [ ] Notify PM if this needs to be deployed to Staging behind feature flag
   
 
 ## Acceptance Criteria
 - [ ] Complete all unit testing
 - [ ] End-to-end tests showing 0 violations
+- [ ] All axe checks pass
 - [ ] Notify Product Manager that the change is ready to be validated on Staging
 - [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
 - [ ] Confirm PM has opened a new ticket to deploy changes to Production using feature flag, if needed
