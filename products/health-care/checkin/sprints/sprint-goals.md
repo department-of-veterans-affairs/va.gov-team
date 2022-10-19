@@ -1,11 +1,11 @@
 # SPRINT GOALS
 
-## 10/19/2022 - 11/01/2022 (---------------------FUTURE------------------------)
+## 10/19/2022 - 11/01/2022
 
-#### Planned Releases  (---------------------TENTATIVE------------------------)
+#### Planned Releases  
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
-#### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
+#### UX Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Update product & design artifacts (Ben/Kelly)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
@@ -29,13 +29,12 @@
     - Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
     - Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
-    - Complete analysis for 2 weeks (Ben)
+    - Complete analysis for 2 weeks (Lori)
 
-#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
+#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Make progress on infrastructure to send a claim to the BTSSS API
-    - Add configuration for BTSSS endpoints and secrets for staging and production
+    - Make progress on infrastructure to send a claim to the BTSSS API    
     - Prevent a user from filing a travel claim when they have more than 1 appointment for the day
     - Fix 2 bugs 
     - Look into how to persist data and save the Veteran's place in the event of a page reload
