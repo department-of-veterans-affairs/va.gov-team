@@ -28,7 +28,7 @@ Action items:
   - Potentially use today's meeting to talk about the meeting
 
 
-Card sorting activity
+**Card sorting activity**
 
 - Robyn ran exercise around card sort with the [mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1657220913258/6fcf8b252749414f8881e6751f3654344f4cbad7?sender=u24af215c7d9bf806b8545488)
 
