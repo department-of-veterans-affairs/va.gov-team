@@ -33,6 +33,25 @@ Last Updated: Sep 15, 2022
 |Damjan| MHV Team QA Automation | Damjan.petrovski@bylight.com |
 |Ally Ali|MHV Team Analytics | ally.ali@bylight.com |
 
+## Stakeholders
+
+|Name|Role|Email|
+|----|----|-----|
+|Carnetta Scruggs|TBD|Carnetta.Scruggs@va.gov|
+|Patty Henry|TBD|Patricia.Henry@va.gov|
+|Theresa Hancock|TBD|Theresa.Hancock@va.gov|
+
+## Naming Convention Contacts
+|Name|Role|Email|
+|----|----|-----|
+|Tracy Martin|TBD|TBD|
+|Donna Alexander|Cerner|TBD|
+|Colleen Berding|EHRM Patient Portal|TBD|
+|Stacy L. Swanson|VHA CRH lead|TBD|
+|Dawn Smith|IVC (formerly OVAC)|TBD|
+|Mia Powers-Higgins|IVC|TBD|
+|TBD|Clinical resource hub coordinator|TBD|
+|Name|Role|Email|
 
 ## Overview
 Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
