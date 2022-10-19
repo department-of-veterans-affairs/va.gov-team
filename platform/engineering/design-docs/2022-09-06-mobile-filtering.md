@@ -15,21 +15,48 @@ It also has some other minor flaws. For example, it has poor handling of cases w
 
 We would like to give clients the ability to filter by any attributes on the model without adding explicit handling within the model. We only want to allow filtering on top-level attributes. In other words, if a client wants to filter appointments based on location street address, that would not be allowed because location street address is not top-level.
 
+Note that one typical advantage of filtering is to reduce time it takes to get a response by reducing the amount of data in the response. This will not apply in this case because all current upstream services do not support filering so there will be little difference in round-trip time.
+
 ## Considerations
 
 ### How to Transmit Filter Options
 
 #### Query Params
+##### Example
+```/v0/health/rx/prescriptions?filter[refill_status][eq]=refillinprocess```
+##### Pros
+  - This is how the existing filtering works, allowing for backwards compatibility.   
+  - No versioning of endpoints required.
+  - Vets-api currently implementation of this uses query params so some logic could be borrowed from this.
+  - Sticks with convention of other mobile endpoints. No other cases of GET requests with Bodys
+##### Cons
+  - Longer, hard to read urls for requests with multiple filter parameters.
+  - Cannot easily support complex filtering requirements. 
+    - Filtering by non-primitive data types (hashes, arrays, etc) would require work arounds to support. 
+    - Complex AND/OR filter groups could not be represented in query parameters. EX: ((Exp1 AND Exp2) OR (Exp3 OR Exp4) )   
+##### Conclusion
+  Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con since the parameters are generated programatically. This option seems to be the best fit for transmitting filter options.
 
-The existing filter system uses query params, and the mobile app already uses this in some places. It would be easy to mimic this approach while making the changes we need under the hood. This would also allow us to make few or no client changes in locations where we're using the current filter system, which would be optimal for backward compatibility.
-
-#### GET with Payload
-
-It's possible to transmit a GET request with a payload. According to the MDN docs, this is usually done by changing the verb used from GET to QUERY, but rails does not seem to support that verb. Meaning this may be effectively the same as using query params.
+#### GET with Payload Body
+##### Pros
+  - Allows for filtering of non-primitive data types (hashes, arrays, etc.)
+  - Keeps the url parameters from getting too long and hard to read
+  - Backwards compatible.
+  - No versioning of endpoints required.
+##### Cons
+  - Breaks REST/HTTP specs. While GET is technically allows to have a payload body, it is not suppose to have any semantic effect on the request itself, that would not be true in this case. 
+##### Conclusion
+Breaking REST/HTTP spec is too dangerous and may have too many unintended consquences to implement.
 
 #### POST with Payload
-
-This would require rewriting any endpoints we want to use filtering. It's by far the biggest lift.
+##### Pros
+  - Allows for the most robust filtering logic
+  - Keeps the url parameters from getting too long and hard to read
+##### Cons
+  - Would require new endpoint for each Index action
+  - Take the most time to implement and integerate into FE.
+##### Conclusion
+Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future, it does not seem worth it to take the extra time to implement this. 
 
 ### Which Filter Operations Do We Want to Support?
 
@@ -39,8 +66,7 @@ The current filter system supports these operations:
 - not_eq : does not match the value
 - lteq : less than or equal to the value
 - gteq : greatre than or equal to the value
-
-It is unclear why lteq and gteq are supported but simple less than and greater than are not. Those operations barely used in the app anyhow.
+- one_of : identical to eq but when filtering multiple values if a records satifies any of the filter conditions, it will be included in the filtered set. If this operation is used then it must be the only operator used in the request.  
 
 ### Pagination
 
@@ -50,10 +76,21 @@ Our pagination strategy adds params to the page navigation links to enable the c
 
 Validate filter options, return 422 when they're incorrect.
 
-### Library vs. Mixin
+### Implementation Options
 
-Will it be better to write this as a service object that can work with any class or as a model mixin? Can we expect a library to work reliably with all of our models?
+#### Library
+##### Pros
+  - Maintainability. Minimal code changes to existing code. 
+  - Simplicity. 
+##### Cons
+  - Harder to implement model specific behavior.
+##### Conclusion
+TODO
 
-## Implementation Options
-
-We present our findings here.
+#### Mixin
+##### Pros
+  - More control over how filtering works from model to model
+##### Cons
+  - Maintainability
+##### Conclusion
+TODO
