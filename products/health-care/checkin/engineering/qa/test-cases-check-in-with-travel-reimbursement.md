@@ -34,7 +34,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their check-in link to load the Check-in application
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User selects `Yes` to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
@@ -47,7 +47,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - You already checked in for the appointment
     - You are too early to check-in, you can check-in for the appointment at x:xx time
 - User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
-- User should be on the `You're checked in` page and see their appointment information and instructions about what to do next
+- User should be on the `You're checked in` page and see their appointment information, instructions about what to do next, and information about how to file a travel reimbursement claim later
 
 ### Assert (Expected Outcome)
 - No errors are thrown
@@ -64,7 +64,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their check-in link to load the Check-in application
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User selects `Yes` to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
@@ -98,7 +98,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their check-in link to load the Check-in application
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User selects `Yes` to each of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
@@ -109,6 +109,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
   - Did you travel in your own vehicle?
   - Did you travel from your home address?
   - Are you claiming only mileage and no other expenses today?
+  - NOTE: if `No` is selected for one of the questions, the subsequent questions will not be asked
 - User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
     - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
     - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
@@ -124,7 +125,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case D: Happy Path - Needs to Update Information - Choose Not to File
 
 ### Use case
-As a user, my contact information is out-of-date and I will not be able to check-in using eCheck-in, but will need to check-in with a staff member so that I can update my contact information. However, I would like to file a travel reimbursement claim and I DO NOT meet the criteria for filing via eCheck-in.
+As a user, my contact information is out-of-date and I will need to check-in with a staff member. I also choose NOT to file a travel reimbursement claim.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -132,15 +133,71 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their check-in link to load the Check-in application
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User selects `No` to any of the following questions
     - Is this your current contact information?
     - Is this your current emergency contact
     - Is this your current next of kin information?
     - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
-- User should be on the `Check in with a staff member` page and see instructions that they will need to check-in with a staff member
+- User selects `No` to the question "Would you like to file a travel reimbursement claim now?"
+- User should be on the `Check in with a staff member` page and see instructions that they will need to check-in with a staff member and information about how to file a travel reimbursement claim later
 
 ### Assert (Expected Outcome)
 - No errors are thrown
 - User sees a `Check in with a staff member` page with appropriate messaging that matches the mockups
 
+## Test Case E: Happy Path - Needs to Update Information - Claim Filed
+
+### Use case
+As a user, my contact information is out-of-date and I will need to check-in with a staff member. I also WOULD like to file a travel reimbursement claim and I meet the criteria for filing via eCheck-in.
+  
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
+- User clicks their check-in link to load the Check-in application
+- User enters their last name and DOB and selects `Continue` to verify their identity
+- User selects `No` to any of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User selects `Yes` to the question "Would you like to file a travel reimbursement claim now?"
+- User selects `Yes` to each of the following questions
+  - Did you travel in your own vehicle?
+  - Did you travel from your home address?
+  - Are you claiming only mileage and no other expenses today?
+- User should be on the `Check in with a staff member` page and see instructions that they will need to check-in with a staff member, an acknowledgment that their travel reimbursement claim was filed, and instructions about what to do next for their appointment and their travel claim
+
+### Assert (Expected Outcome)
+- No errors are thrown
+- User sees a `Check in with a staff member` page with appropriate messaging that matches the mockups
+
+## Test Case F: Happy Path - Needs to Update Information - Claim Not Filed
+
+### Use case
+As a user, my contact information is out-of-date and I will need to check-in with a staff member. I also WOULD like to file a travel reimbursement claim, but I DO NOT meet the criteria for filing via eCheck-in.
+  
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
+- User clicks their check-in link to load the Check-in application
+- User enters their last name and DOB and selects `Continue` to verify their identity
+- User selects `No` to any of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User selects `Yes` to the question "Would you like to file a travel reimbursement claim now?"
+- User selects `No` to one of the following questions
+  - Did you travel in your own vehicle?
+  - Did you travel from your home address?
+  - Are you claiming only mileage and no other expenses today?
+- User should be on the `Check in with a staff member` page and see instructions that they will need to check-in with a staff member, an acknowledgment that their travel reimbursement claim could not be filed, and instructions about what to do next for their appointment and an alternate method for filing their travel claim 
+
+### Assert (Expected Outcome)
+- No errors are thrown
+- User sees a `Check in with a staff member` page with appropriate messaging that matches the mockups
