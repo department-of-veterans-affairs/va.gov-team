@@ -76,7 +76,8 @@ Moderator is not expected to ask all questions as written below. These questions
 
 Great to know a little bit more about you! Let's now turn towards talking about health care benefits. 
 
-1. So just to start, do you currently receive VA health care benefits? 
+0. How often do you go online to access VA benefits and services?
+1. Do you currently receive VA health care benefits? 
 #### *If yes, ask 1a-1b. If no, skip to guide for Cohort 1 and Cohort 2.*
 1a. When did you first apply for health care benefits?
 
@@ -88,7 +89,7 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 
 2c. When was the most recent time you applied?
 
-3. Since applying (that most recent time), have you experienced a change that might affect your benefits, such as number of dependents or amount of income?
+3. Since applying (that most recent time), have you experienced a change that might affect your benefits, such as number of dependents, amount of income, or you moved?
 #### *If yes, ask 3a-3b. If no, skip ahead to guide for Cohort 1 and Cohort 2.*
 3a. What exactly was the change?
 
@@ -143,6 +144,10 @@ For the rest of our conversation we're going to talk about _______ (the change) 
 11. Did you take action at that point to learn more or do anything else as related to this thought?
 12. Did you have any kind of plan for what you would do next?
 13. When if ever did this topic come up again? (repeat as needed)
+
+###  (If p doesn't fit into any cohorts and there wasn't a change, could ask hypothetically...)
+- Suppose that your income changed a lot. What might you need to know about whether that would affect your eligibility for VA health care?
+- How would you learn more about that?  
 
 ### Things to watch for:
 - Does participant demonstrate awareness of eligibility as part of benefits application process?
