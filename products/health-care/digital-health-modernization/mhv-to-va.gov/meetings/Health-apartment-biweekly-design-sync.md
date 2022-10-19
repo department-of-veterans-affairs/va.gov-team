@@ -1,5 +1,5 @@
 # Health apartment biweekly design sync
-## 2022-10-18 
+## 2022-10-17 
 
 ## Attendees
 - 
