@@ -118,7 +118,9 @@ Most participants did not know or were unsure of exact dates of treatment and we
 
   ![dateofrecords](https://user-images.githubusercontent.com/68615337/196244370-07b9af91-8c1b-4bcc-8712-93904abe46c6.png)
   
-  > _"If you put something in there and it doesn't match the decision, it will get kicked back."_
+   Labels: **BNFT: Disability**, **DSP: Form templates: Dates**
+   
+   > _"If you put something in there and it doesn't match the decision, it will get kicked back."_
   
   > _"That shouldn't be put on a soldier to remember every single time they were treated...Expecting a soldier to remember every time they were treated is unfair."_
   
@@ -131,7 +133,9 @@ _Some participants weren't clear what issue they were identifying evidence for a
 
   ![Screen Shot 2022-10-17 at 3 46 50 PM](https://user-images.githubusercontent.com/68615337/196280016-4c0bf041-9559-4e96-85cc-c9019d31c0a9.png)
   
-  > _"I've already done the headaches and sleep apnea, haven't I?"_
+   Labels: **BNFT: Disability**, **DSP: Form templates: List and loop**
+   
+   > _"I've already done the headaches and sleep apnea, haven't I?"_
   
   > _"I already forgot. Is this for headaches or for sleep apnea?"_
   
@@ -144,7 +148,9 @@ _Several users had no idea that their progress was saved and no clear way to ret
 
   ![autosave](https://user-images.githubusercontent.com/68615337/196241931-84a3253d-1abb-4a77-a5e1-db74f135d7f7.png)
   
-  > _"I would be sitting here and saying "damn, I will need to start all over again"_
+Labels: **BNFT: Disability**, **DSP: Content presentation: Information callouts**
+    
+    > _"I would be sitting here and saying "damn, I will need to start all over again"_
   
   > _"I like that it gives you an option to save your work if you need to go find paperwork. That's a good thing. I like that."
 
@@ -154,11 +160,15 @@ Multiple primary actions confused some Veterans.
  _Some participants struggled with checking a box to identify an issue, then selecting an action to add a new one on the same screen._ 
 
   ![Screen Shot 2022-10-17 at 9 52 59 AM](https://user-images.githubusercontent.com/68615337/196210155-55792e0a-a59d-4206-9d18-fe10286f8a10.png)
+  
+  Labels: **BNFT: Disability**, **DSP: Form templates: List and loop**
 
 ## Finding 7
 9 out of 9 participants did not know how to resize a PDF, which is one of the reasons an upload is rejected in some decision reviews.
 
 _No participants knew how to resize the dimensions of a PDF, but most were familiar with creating one for upload. This is significant as it is the cause of some uploads failing on Notice of Disagreement forms today._ 
+
+Labels: **BNFT: Disability**, **DSP: Form templates: File upload**
 
 # Additional Insights
 
@@ -167,12 +177,16 @@ _No participants knew how to resize the dimensions of a PDF, but most were famil
     _No users struggled with choosing if this was the right form for them. The easily chose continue and understood the decision they were making._
 
   ![Screen Shot 2022-10-17 at 12 20 12 PM](https://user-images.githubusercontent.com/68615337/196242129-bd6dd87a-3126-464f-afa2-46bfaf5cf9fb.png)
+  
+Labels: **BNFT: Disability**, **Wizard**
 
 2. The one thing per page experiment to replace the list and loop was successful, but we need to iterate the order to identify the issue as the organizing principle. 
   
     _No users struggle with the decisions presented to them, but they struggled with relating the evidence decisons to specific issues._ 
 
   ![Screen Shot 2022-10-17 at 12 21 02 PM](https://user-images.githubusercontent.com/68615337/196242272-a759beb2-8cdf-4e7a-a1c5-028207ec4fa5.png)
+  
+Labels: **BNFT: Disability**, **DSP: Form templates: List and loop**
 
 # Recommendations
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
