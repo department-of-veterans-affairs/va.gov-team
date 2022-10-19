@@ -1,4 +1,4 @@
-# Sign-in-Service (SiS)
+# Sign-in Service (SiS)
 
 ## Overview
 The VA.gov Sign-in Service was created to solve several shortcomings identified with the existing solutions.  Our new service should reduce the number of redirects users experience, reduce login latency, and provide a more cost-effective solution to th VA while increasing transparency for login issues.
