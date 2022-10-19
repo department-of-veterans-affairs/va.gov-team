@@ -4,7 +4,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|   2022-10-18   |Lauren Alexanderson, David Conlon, Danielle Thierry|Unauth content will not be a priority for now|There are a lot of dependencies for this currently, and our main focus is migrating the apps|
+|2022-10-18|Lauren Alexanderson, David Conlon, Danielle Thierry|Unauth content will not be a priority for now|There are a lot of dependencies for this currently, and our main focus is migrating the apps|
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
