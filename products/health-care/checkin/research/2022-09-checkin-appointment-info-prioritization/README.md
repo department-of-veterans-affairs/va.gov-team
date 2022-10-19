@@ -7,5 +7,5 @@ Date: September 2022
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-plan.md)
 - [Synthesis spreadsheet]()
 - [Research findings (Markdown)]()
-- [Research report (PDF)]()
-- [Companion pre-check-in study]()
+- [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/Appointment%20Information%20Prioritization%20Research%20Report.pdf)
+- [Companion pre-check-in study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-09-precheckin-appointment-info-prioritization)
