@@ -4,7 +4,6 @@
 
 #### Planned Releases  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-- [Need Help Section Updates for Day-of Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47827)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
@@ -31,11 +30,6 @@
     - Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Complete analysis for 2 weeks (Ben)
-- [Spanish Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
-    - Prepare json files & submit to the State Department (Lori)
-- [Tagalog Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48338)
-    - Prepare json files & submit to the State Department (Lori)
-
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  (---------------------TENTATIVE------------------------)
 - [Production Support]() 
@@ -44,6 +38,7 @@
     - Add configuration for BTSSS endpoints and secrets for staging and production
     - Prevent a user from filing a travel claim when they have more than 1 appointment for the day
     - Fix 2 bugs 
+    - Look into how to persist data and save the Veteran's place in the event of a page reload
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Fix bug & release 
 - CIE Tech Debt & Bugs
@@ -54,6 +49,7 @@
     - [[BUG] [FE] Address Bugs Identified During Wireframe Audit](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48110)
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101)
     - [Fix Skipped Test](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48376)
+    - Get rid of the Medalia button
 
     
 ## 10/05/2022 - 10/18/2022
@@ -80,14 +76,14 @@
     - DONE Complete audit (Kelly/Zach)
     - Fix wireframes (Kelly/Zach)
 - [Add Event Widgets to GA Dashboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47812)
-    - DONE Get started (Ben)
+    - Get started (Ben)
 - [Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/475691)
     - DONE Weekly analysis (Lori/Kristen)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - DONE Synthesize unmoderated study data & create report (Kristen)
     - DONE Collaborate with VAOS to determine where they are in their process (Kristen)    
 - [Translation Support - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)
-    - WAITING ON CONTENT CHANGES Prepare json files & submit to the State Department (Lori)
+    - DONE Prepare json files & submit to the State Department (Lori)
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE) 
 - DONE [Production Support]() 
@@ -95,7 +91,7 @@
     - DONE Finish infrastructure to authenticate with the BTSSS API
     - DONE Start infrasturcture to send a claim to the BTSSS API 
     - DONE Add ICN to LoROTA payload
-    - BLOCKED Update content based on Platform feedback (travel pages, day-of pages, & footer)   
+    - DONE Update content based on Platform feedback (travel pages, day-of pages, & footer)   
     - DONE Look into how to persist data and save the Veteran's place in the event of a page reload
 - [Display Message for What to Do if Waiting more than 15 Minutes for Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
     - DONE Complete & release (John)
