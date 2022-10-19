@@ -12,6 +12,14 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/18/2022
+- Updated content in the "Need help?" footer of eCheck-in pages to include clearer instructions for the Veteran
+    - Confirmation page
+       - ![image](https://user-images.githubusercontent.com/86678742/196749400-07289e20-b43e-4e78-b910-f2d610749b9e.png)
+    - Non-confirmation pages 
+        - ![image](https://user-images.githubusercontent.com/86678742/196749473-1de0ae08-9ae3-421d-8f43-ed506689433f.png)
+    - [Ticket 47827](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47827) 
+
 ### 10/12/2022
 - Updated eCheck-in and Pre-Check-in to require the use of the Veteran's date of birth instead of their last 4 when verifying their identity (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). 
     - We have currently released to 30% of Veteran and will monitor the metrics as we increase the availability as follows:
