@@ -43,8 +43,8 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Make progress on infrastructure to send a claim to the BTSSS API
     - Add configuration for BTSSS endpoints and secrets for staging and production
-    - Finish content changes
-    - 2 bugs (Confirmation page has incorrect title when using app in Spanish & Content flashes on check-in confirmation page)
+    - Prevent a user from filing a travel claim when they have more than 1 appointment for the day
+    - Fix 2 bugs 
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Complete minor updates & release 
 - CIE Tech Debt & Bugs
