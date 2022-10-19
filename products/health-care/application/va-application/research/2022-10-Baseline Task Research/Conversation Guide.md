@@ -5,7 +5,6 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
 - Complete any project-specific setup tasks for this study (List them below)
-
 - [ ] Step 1
 - [ ] Step 2
 - [ ] Step 3
@@ -19,7 +18,6 @@ Slack for real-time feedback from observers.
 
 
 ### Starting the session
-
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
@@ -28,7 +26,6 @@ Slack for real-time feedback from observers.
 
 
 ## Intro - 5 minutes
-
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
@@ -37,13 +34,13 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about the online application to apply for VA health care.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -56,7 +53,8 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+
+
 
 ---
 
@@ -90,7 +88,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants ]
 - [Provide staging sign in credentials?]
 
-
 - Step 1
 - Step 2
 
@@ -100,33 +97,33 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 
-## Third Task: [Complete Veteran Information Section] - X minutes
+## Third Task: [Complete Veteran Information Section0] - 5 minutes
+- Could you please complete this section of the form and talk aloud about what you see/would do.
 
-- Step 1
-- Step 2
-
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+- 
 ### Things to watch for:
+- [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
+- [New American Indian question]
+- [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 ---
-[Step 2 of 6: VA Benefits]
 
 ## Fourth Task: [Disability Rating] - X minutes
-
 - Step 1
 - Step 2
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the questions and content through these sections?]
+- [Does the participant comment that the questions are too intrusive?]
 
 
-{if selected a rating of above 50% and directed to short form, skip to TASK # }
+{if selected a rating of above 50% and directed to short form flow, skip to TASK #, NOTE THIS ON... }
+
 
 ---
 [Step 3 of 6: Military service]
