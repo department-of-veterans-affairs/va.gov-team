@@ -15,13 +15,13 @@ Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adho
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-report.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-report.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-report.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-report.md#who-we-talked-to)
 
 <br>
 
@@ -131,20 +131,75 @@ The data points that specific cohorts ranked very differently than other cohorts
 **Question asked:** Pretend it is 3 days before your upcoming appointment and VA has texted you a link to confirm your appointment. When you click the link, VA is asking you to confirm your information prior to your appointment, such as reviewing your contact information or medication list. How important is each of the following to you to see when confirming and answering questions for your VA appointment? The information should help you feel good about confirming your appointment and knowing what to do on the day of your appointment.
 
 ### When analyzing the “extremely important” or “very important”appointment information for pre-check-in, there weren’t clear groupings like with check-in.
+<img width="993" alt="Screen Shot 2022-10-18 at 11 11 39 PM" src="https://user-images.githubusercontent.com/66287082/196588735-68a0a1cd-4692-4111-9646-1edcb55fb927.png">
+- There is a gradual decrease in the percentages, but the percentage don’t have a large gap or jump causing clear groupings like check-in.
 
+### Most facility information (except address) and condition-based information ranked lower than other appointment information.
+<img width="997" alt="Screen Shot 2022-10-18 at 11 11 53 PM" src="https://user-images.githubusercontent.com/66287082/196588786-3869b8fc-f813-4ca8-9134-aff7439eff64.png">
+
+### The cohorts varied in their pre-check-in importance ranking more than check-in.
+The data points that specific cohorts ranked very differently than other cohorts are outlined in red.
+<img width="899" alt="Screen Shot 2022-10-18 at 11 12 02 PM" src="https://user-images.githubusercontent.com/66287082/196588827-d6614cbb-19cc-4a11-abba-28eae2d967b8.png">
+- Similar to check-in, caregivers had more deviation in their importance rankings compared to other cohorts.
+
+## Pre-check-in compared to check-in
+
+### A lot of the top ranked appointment information is similar across the pre-check-in and check-in scenarios.
+Top ranked = over 80% of participants deemed it “extremely important” or “very important”
+
+- Ranked highly for both
+  - Appointment time and timezone
+  - Canceled status
+  - Date of the appointment (Sept. 30, Feb. 3)
+  - Day of appointment (Monday, Tuesday, etc.)
+  - Location (Floor and room number)
+  - Type of care (Cardiology, primary care, etc.)
+  - Visit type (In-person, telephone, video, etc.)
+- Ranked differently
+  - Facility address (High for pre-check-in only)
+  - Patient's name (High for check-in only)
+  - Provider's name (High for check-in only)
 
 # Recommendations
-1. Share with since we didn’t uncover a lot within this study.
+- Emphasize the top ranked group visually within any redesigns of check-in and pre-check-in.
+  - Appointment time and timezone
+  - Canceled status
+  - Date of the appointment (Sept. 30, Feb. 3)
+  - Day of appointment (Monday, Tuesday, etc.)
+  - Location (Floor and room number)
+  - Type of care (Cardiology, primary care, etc.)
+  - Visit type (In-person, telephone, video, etc.)
+- Explore reducing the appointment information shown in check-in to only the top ranked group (same group as Recommendation #1).
+  - Focusing on the most valuable information that enables a Veteran to determine what appointment to check into follows the previously proven mental model of:
+    - Check-in is a time-sensitive experience, where Veterans try to make decisions quickly.
+- Since the pre-check-in rankings was more split, most or all available appointment data may need to be displayed somewhere within the pre-check-in experience (most likely the confirmation page).
+- This study showed that caregivers want to view different appointment data compared to Veterans. In previous studies, we observed caregivers checking in for Veterans, but we aren’t 100% sure how big our caregiver audience is. The team should meet to discuss how to address the caregiver persona.
+- Veterans placed more importance on the clinic name compared to facility, but the data within the clinic name field is often not understandable by Veterans. In the future, explore updating the clinic names to something more Veteran-friendly.
+
 
 # Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/conversation-guide.md)
-- [Daily notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/notes/from-km.md)
-- [Staff synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658757780227/16fbb440905c5b2f2984df28898fb32dcc80a9b6?sender=u70b8b2930b03d3ef317d2520)
-- [Veteran synthesis](https://app.zenhub.com/files/133843125/c38835c8-ab74-403a-afcc-6c537b3528d3/download)
-- [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/Corpus%20Christi%20Research%20Report.pdf)
-- [Companion Staff Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/readme.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/research-plan.md)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/synthesis.xlsx)
+- [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization/Appointment%20Information%20Prioritization%20Research%20Report.pdf)
+- [Companion pre-check-in study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-09-precheckin-appointment-info-prioritization)
 
 ## Who we talked to
-- 
+- Check-in: 32 total participants 
+  - Cohort (# of participants)
+    - Male (5)
+    - Female (3)
+    - Caregivers (5)
+    - Cognitive impairment and/or functional disabilities (4)
+    - Ages 18-34 (5)
+    - Ages 35-54 (5)
+    - Ages 55+ (5)
+- Pre-check-in: 34 total participants
+  - Cohort (# of participants)
+    - Male (5)
+    - Female (4)
+    - Caregivers (5)
+    - Cognitive impairment and/or functional disabilities (7)
+    - Ages 18-34 (5)
+    - Ages 35-54 (3)
+    - Ages 55+ (5)
