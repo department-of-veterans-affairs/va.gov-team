@@ -28,24 +28,24 @@ Note that one typical advantage of filtering is to reduce time it takes to get a
   - This is how the existing filtering works, allowing for backwards compatibility.   
   - No versioning of endpoints required.
   - Vets-api currently implementation of this uses query params so some logic could be borrowed from this.
-  - Sticks with convention of other mobile endpoints. No other cases of GET requests with Bodys
+  - Sticks with convention of other mobile endpoints. 
 ##### Cons
   - Longer, hard to read urls for requests with multiple filter parameters.
   - Cannot easily support complex filtering requirements. 
     - Filtering by non-primitive data types (hashes, arrays, etc) would require work arounds to support. 
     - Complex AND/OR filter groups could not be represented in query parameters. EX: ((Exp1 AND Exp2) OR (Exp3 OR Exp4) )   
-##### Conclusion
-  Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con since the parameters are generated programatically. This option seems to be the best fit for transmitting filter options.
+##### Overview
+The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con. 
 
 #### GET with Payload Body
 ##### Pros
-  - Allows for filtering of non-primitive data types (hashes, arrays, etc.)
+  - Allows for the most robust filtering logic
   - Keeps the url parameters from getting too long and hard to read
   - Backwards compatible.
   - No versioning of endpoints required.
 ##### Cons
   - Breaks REST/HTTP specs. While GET is technically allows to have a payload body, it is not suppose to have any semantic effect on the request itself, that would not be true in this case. 
-##### Conclusion
+##### Overview
 Breaking REST/HTTP spec is too dangerous and may have too many unintended consquences to implement.
 
 #### POST with Payload
@@ -55,8 +55,13 @@ Breaking REST/HTTP spec is too dangerous and may have too many unintended consqu
 ##### Cons
   - Would require new endpoint for each Index action
   - Take the most time to implement and integerate into FE.
-##### Conclusion
+##### Overview
 Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future, it does not seem worth it to take the extra time to implement this. 
+
+#### Conclusion
+We recommend using query params to transmit filter options.
+
+While does not allow for the most robust filtering functionality, the extra work and maintience required to implement POST with Payload is not worth it when we do not forsee the more complex filtering logic enabled by using a POST with payload to ever be necessary for future endpoints. Even if these complex filtering requirements did ever become necessary for an endpoint, there are easy one time solutions that can be implemented that would not require a re-write of this filtering logic. For example, if a endpoint needed a complex filter grouping, such as ((Exp1 AND Exp2) OR (Exp3 OR Exp4)), we could extract this logic into new boolean field that could be filtered on.  
 
 ### Which Filter Operations Do We Want to Support?
 
@@ -84,13 +89,14 @@ Validate filter options, return 422 when they're incorrect.
   - Simplicity. 
 ##### Cons
   - Harder to implement model specific behavior.
-##### Conclusion
-TODO
 
 #### Mixin
 ##### Pros
   - More control over how filtering works from model to model
 ##### Cons
-  - Maintainability
+  - Maintainability 
+
 ##### Conclusion
-TODO
+We recommend implementing filtering as a library.
+
+We do not forsee implementing model specific behavior as functionality that would ever be needed. For example, whitelisting which fields and operators on a model can be filtered on (like how vets-api current filtering works) would be unncessary and FE can be relied upon to know which fields should and should not be filtered.   
