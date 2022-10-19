@@ -23,6 +23,8 @@ We also found, however, that Veterans understood the different use cases for dow
 
 > “(Claim letters) was a letter from the VA to me, whereas (benefit letters) is a letter the website is generating that supports me.” - P19
 
+We think these quotes are a starting point in understanding how Veterans understand these various letter types.
+
 ## Recommendation
 As a next step, we recommend the following: 
 1. Conduct an audit of all types of "letters" that Veterans currently receive from the VA. Determine which of these are accessible on VA.gov, or which of these are not but should be accessible on VA.gov. 
