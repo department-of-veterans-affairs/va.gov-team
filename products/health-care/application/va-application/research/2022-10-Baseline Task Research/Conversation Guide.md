@@ -61,34 +61,28 @@ Before we look at the website, let’s start with a few warm-up questions.
 ---
 
 ## First Task: [Start Application] - 3 minutes
-- Scenario: you are interested in applying for health care and arrive at this page (intro page).
-- Explain what you see and what you would do next.
+- Scenario: You are interested in applying for health care and arrive at this page. 
+- Please explain what you see and what you would do next. 
 
-### Participant questions:
-- Do you feel prepared to continue on with this application and why or why not?
-- On a scale of [ 1 not at all prepared - 5 very prepared? ] 
-
+**Participant questions:**
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
+- Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
-- [Does the participant understand the content on the introduction page?]
-- [Does the partipant chose to sign in first or comment about that?]
-- 
+- [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
+- [Is signing in the partipants next action or do they say they wouldn't sign in to complete the application?]
+
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
-   - [0 = no part of the task completed, much difficulty]
-   - [1 = Partial completion, much overlooked or task was difficult]
-   - [2 = Partial completion, some areas were overlooked or task was slightly difficult]
-   - [3 = Most of the task was completed with little difficulty]
-   - [4 = All parts of the task were completed with no difficulty]
+
+
 
 
 ## Second Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
-
-- Step 1
-- Step 2
+- As you clicked continue on the intro page, can you please explain what you would do from here? 
 
 ### Things to watch for:
-- [Does the participant understand meaning of xyz?]
+- [Does the participant click on the sign in link on this page?]
 - [Does the participant notice xyz?]
 - [Etc]
 
@@ -101,7 +95,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Step 2
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 
