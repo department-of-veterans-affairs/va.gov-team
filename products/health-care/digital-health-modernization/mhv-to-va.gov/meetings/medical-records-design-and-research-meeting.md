@@ -26,3 +26,10 @@ Robyn: Two groups of stakeholders - different needs. OCTO POs - need to be updat
 Action items: 
   - Identify who "owns" the agenda - Bryan or Lexi? 
   - Potentially use today's meeting to talk about the meeting
+
+
+Card sorting activity
+
+
+
+
