@@ -45,7 +45,7 @@
     - Prevent a user from filing a travel claim when they have more than 1 appointment for the day
     - Fix 2 bugs 
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Complete minor updates & release 
+    - Fix bug & release 
 - CIE Tech Debt & Bugs
     - [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
     - [Investigate if we can setup a DataDog RUM in Staging with the VA.gov DataDog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48379)
