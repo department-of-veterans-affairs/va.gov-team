@@ -1,13 +1,10 @@
 # Outstanding Debts and Benefit Payments Security Playbook
-Note: This feature is often referred to as Payment info v2 or Payment history v2
-
-NOTE: 
-- links to complete data for each of the sections below is welcome and encouraged.
-- This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
+_Note: This feature is often referred to as Payment info or Payment history_
 
 ## Product Description
 - [Payment Info product overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#feature-payment-and-debt-info-on-the-my-va-dashboard)
-- [Outstanding Debts and Benefit Payments (payment history v2) project overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current-1)
+- Iterations
+    - [Outstanding Debts and Benefit Payments (payment history v2) project overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current-1)
 
 ## Routes to code
 [My VA Payment Info v2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43332)
