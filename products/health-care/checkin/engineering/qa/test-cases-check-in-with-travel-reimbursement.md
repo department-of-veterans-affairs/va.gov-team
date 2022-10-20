@@ -7,9 +7,9 @@
   - [Test Case A: Happy Path - Successful Check-in - Choose Not to File](#test-case-a-happy-path---successful-check-in---choose-not-to-file)
   - [Test Case B: Happy Path - Successful Check-in - Claim Filed](#test-case-b-happy-path---successful-check-in---claim-filed)
   - [Test Case C: Happy Path - Successful Check-in - Claim Not Filed](#test-case-c-happy-path---successful-check-in---claim-not-filed)  
-  - [Test Case D: Claim Already Exists Error](#test-case-d:-claim-already-exists-error)
-  - [Test Case E: Multiple Appointments Exist Error](#test-case-e:-multiple-appointments-exist-error)
-  - [Test Case F: General Claim Submission Error](#test-case-f:-general-claim-submission-error)
+  - [Test Case D: Edge Case - Claim Already Exists Error](#test-case-d:-edge-case---claim-already-exists-error)
+  - [Test Case E: Edge Case - Multiple Appointments Exist Error](#test-case-e:-edge-case---multiple-appointments-exist-error)
+  - [Test Case F: Edge Case - General Claim Submission Error](#test-case-f:-edge-case---general-claim-submission-error)
 
 ## Scope
 This document is for is QA testing of the va.gov portion of the `eCheck-in with Travel Reimbursement` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
@@ -125,7 +125,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - No errors are thrown
 - User sees a confirmation screen with appropriate messaging that matches the mockups
 
-## Test Case D: Claim Already Exists Error
+## Test Case D: Edge Case - Claim Already Exists Error
 
 ### Use case
 As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, I have already filed a claim for today.
@@ -160,7 +160,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - No errors are thrown
 - User sees a confirmation screen with appropriate messaging that matches the mockups
 
-## Test Case E: Multiple Appointments Exist Error
+## Test Case E: Edge Case - Multiple Appointments Exist Error
 
 ### Use case
 As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, I have multiple appointments for today and I will be required to file a claim manually.
@@ -195,7 +195,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - No errors are thrown
 - User sees a confirmation screen with appropriate messaging that matches the mockups
 
-## Test Case F: General Claim Submission Error
+## Test Case F: Edge Case - General Claim Submission Error
   
 ### Use case
 As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, the BTSSS API throwns an error and did not accept my claim as a result.
