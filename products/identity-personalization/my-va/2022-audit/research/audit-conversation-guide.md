@@ -1,7 +1,7 @@
 # Conversation Guide for Authenticated Experience team - My VA Audit Improvements
 
 - [ ] Make sure the feature flipper is turned on for the participant before the session
-- [ ] Start a thread in feedback backchannel with a link to Mural board for observations
+- [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
