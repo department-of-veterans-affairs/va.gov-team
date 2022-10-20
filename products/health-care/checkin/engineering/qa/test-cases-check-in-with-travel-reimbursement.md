@@ -9,7 +9,7 @@
   - [Test Case C: Happy Path - Successful Check-in - Claim Not Filed](#test-case-c-happy-path---successful-check-in---claim-not-filed)  
   - [Test Case D: Claim Already Exists Error](#test-case-d:-claim-already-exists-error)
   - [Test Case E: Multiple Appointments Exist Error](#test-case-e:-multiple-appointments-exist-error)
-  - [Test Case F: Claim Submission Error](#test-case-f:-claim-submission-error)
+  - [Test Case F: General Claim Submission Error](#test-case-f:-general-claim-submission-error)
 
 ## Scope
 This document is for is QA testing of the va.gov portion of the `Check-in` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
@@ -125,10 +125,6 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - No errors are thrown
 - User sees a confirmation screen with appropriate messaging that matches the mockups
 
-  
-  - [Test Case F: Claim Submission Error](#test-case-f:-claim-submission-error)
-
-
 ## Test Case D: Claim Already Exists Error
 
 ### Use case
@@ -194,6 +190,41 @@ See [How to acccess in Staging](#how-to-access-in-staging)
     - You are too early to check-in, you can check-in for the appointment at x:xx time
 - User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
 - User should be on the `You're checked in` page and see their appointment information and a message indicating their travel reimbursement claim could not be submitted because they have multiple appointments for today
+
+### Assert (Expected Outcome)
+- No errors are thrown
+- User sees a confirmation screen with appropriate messaging that matches the mockups
+
+## Test Case F: General Claim Submission Error
+  
+### Use case
+As a user, if I try to file a claim but there is a general BTSSS API error, I will get an error indicating that claim could not be filed.
+  
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
+- User clicks their check-in link to load the Check-in application
+- User enters their last name and DOB and selects `Continue` to verify their identity
+- User selects `Yes` to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User selects `Yes` to the question "Would you like to file a travel reimbursement claim now?"
+- User selects `Yes` to each of the following questions
+  - Did you travel in your own vehicle?
+  - Did you travel from your home address?
+  - Are you claiming only mileage and no other expenses today?
+  - NOTE: if `No` is selected for one of the questions, the subsequent questions will not be asked
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
+    - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
+    - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
+    - You already checked in for the appointment
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
+- User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
+- User should be on the `You're checked in` page and see their appointment information and a message indicating that an error was encountered while trying to submit their travel reimbursement claim 
 
 ### Assert (Expected Outcome)
 - No errors are thrown
