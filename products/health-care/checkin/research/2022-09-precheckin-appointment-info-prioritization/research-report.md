@@ -168,10 +168,10 @@ Top ranked = over 80% of participants deemed it “extremely important” or “
   - Location (Floor and room number)
   - Type of care (Cardiology, primary care, etc.)
   - Visit type (In-person, telephone, video, etc.)
-- Explore reducing the appointment information shown in check-in to only the top ranked group (same group as Recommendation #1).
-  - Focusing on the most valuable information that enables a Veteran to determine what appointment to check into follows the previously proven mental model of:
+- Within check-in, explore creating a summary page with only the information in Recommendation #1 as well as a details page with all of the appointment information.
+  - Focusing on the most valuable information that enables a Veteran to determine what appointment to check into on a summary page follows the previously proven mental model:
     - Check-in is a time-sensitive experience, where Veterans try to make decisions quickly.
-- Since the pre-check-in rankings was more split, most or all available appointment data may need to be displayed somewhere within the pre-check-in experience (most likely the confirmation page).
+- Since the pre-check-in rankings was more split, emphasize visually the data in Recommendation #1, but all available appointment data should be displayed somewhere within the pre-check-in experience, such as the confirmation page.
 - This study showed that caregivers want to view different appointment data compared to Veterans. In previous studies, we observed caregivers checking in for Veterans, but we aren’t 100% sure how big our caregiver audience is. The team should meet to discuss how to address the caregiver persona.
 - Veterans placed more importance on the clinic name compared to facility, but the data within the clinic name field is often not understandable by Veterans. In the future, explore updating the clinic names to something more Veteran-friendly.
 
