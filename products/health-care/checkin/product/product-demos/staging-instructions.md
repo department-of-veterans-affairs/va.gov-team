@@ -47,7 +47,12 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Copy Link to Clipboard"
 - Save the link that you copied, you will need it later if you want to test somewhere other than you mobile device
 
-## Testing Mobile Check-in
+## Authentication
+- The eCheck-in and Pre-Check-in applications are un-authenticated. The URL is unique per appointment as it contains a token parameter that is a UUID and is generated for each appointment
+    - UUIDs are constructed in a sequence of digits equal to 128 bits. The ID is in hexadecimal digits, meaning it uses the numbers 0 through 9 and letters A through F. The hexadecimal digits are grouped as 32 hexadecimal characters with four hyphens: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.
+    - Sample URL: https://staging.va.gov/health-care/appointment-check-in/?id=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+
+## Testing eCheck-in
 - NOTE: you will only be able to check-in if you appointment time is no more than 30 minutes from now and no more than 15 minutes ago
 - Do one of these
     - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS)
