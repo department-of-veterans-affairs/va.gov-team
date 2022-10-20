@@ -30,7 +30,7 @@ _Dates subject to change_
 |-------|-----------|-----------|------|
 | Launch to 25% | 1 week | week of 09/26/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
 | Launch to 50% | 1 week | week of 10/03/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
-| Launch to 100% | 1 week | week of 10/11/2022 |[#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 100% | 1 week | week of 10/11/2022 |[#43300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43300) |
 
 
 
@@ -45,7 +45,7 @@ _Dates subject to change_
 |-------|-----------|-----------|----------|
 | Launch to 25% | _09/26/2022_ | 10/13/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
 | Launch to 50% | _10/03/2022_ | 10/17/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
-| Launch to 100% | _10/11/2022_ | mm/dd/yyyy | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)|
+| Launch to 100% | _10/11/2022_ | mm/dd/yyyy | [#43300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43300)|
 
  
 ### 1-week (at 100%) results:
