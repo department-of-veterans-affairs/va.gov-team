@@ -210,6 +210,7 @@ Two participants struggled to exit the details pages, noting that the only two o
 For canceled appointment details pages, (4 of 10) participants wanted to know why their appointment was canceled. 
 
 **Recommendation: Change Details page CTA's** 
+
 Reconsider the CTA buttons at the bottom of details pages.
 
 ## 6. The back link was easy to find and use
@@ -217,6 +218,7 @@ Reconsider the CTA buttons at the bottom of details pages.
 100% of participants using a desktop computer (5 of 5) used the back link on the page to navigate back to the previous page. 80% of participants using a mobile device (4 of 5) used the back link on the page to navigate back to the previous page. One participant navigated back to the previous screen using the back button on their device.
 
 **Recommendation: Replace breadcrumb with back button upon entry to VAOS.**
+
 There are several page sequences within VAOS that require users to move through specific steps. The breadcrumb does not include any navigation point within those sequences within VAOS, only the entry point.
 We suggest adding a back link in place of the breadcrumb on the past and pending appointment list pages as well as all of the details pages. Doing so will provide Veterans with a more consistent and simple way to navigate online scheduling. This is also recommended throughout the scheduling flow in VAOS. 
 
