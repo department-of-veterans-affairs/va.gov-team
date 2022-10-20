@@ -2,9 +2,10 @@
 _Note: This feature is often referred to as Payment info or Payment history_
 
 ## Product Description
-- [Payment Info product overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#feature-payment-and-debt-info-on-the-my-va-dashboard)
-- Iterations
-    - [Outstanding Debts and Benefit Payments (payment history v2) project overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current-1)
+**Product Overview:** [Payment Info product overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#feature-payment-and-debt-info-on-the-my-va-dashboard)
+
+**Iterations**
+- [Payment history v2 project overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current-1) ("Outstanding Debts and Benefit Payments")
 
 ## Routes to code
 [My VA Payment Info v2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43332)
