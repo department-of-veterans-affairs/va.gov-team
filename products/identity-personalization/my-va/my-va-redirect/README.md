@@ -147,7 +147,8 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Collab cycle tickets linked in [My VA redirect epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223)
+- [Collab cycle for Auth Exp My VA: My VA Redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42582)
+- [My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223) feature work epic
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
