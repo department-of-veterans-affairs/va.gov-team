@@ -8,7 +8,7 @@
 - _Check your screensharing setup and share permissions for participants._
 - _When the participant is ready, begin the session with the following intro._
 
-## Intro - 2 minutes
+## Intro
 
 Thanks for joining us today! My name is Angela and I also have a note taker here with me. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
 
