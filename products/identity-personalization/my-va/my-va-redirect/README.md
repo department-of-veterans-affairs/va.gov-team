@@ -147,16 +147,12 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-> TBD
+- Collab cycle tickets linked in [My VA redirect epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) TK
+* [Release Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/launch-materials/my-va-redirect-release-plan.md)
 
 #### Initiative Launch Dates
 - Monday, 8/29/22 - 25%
