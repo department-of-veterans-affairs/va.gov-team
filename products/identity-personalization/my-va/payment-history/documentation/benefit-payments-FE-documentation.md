@@ -37,6 +37,12 @@ Check mailed on [date]
 
 [View your payment history](https://www.va.gov/va-payment-history/payments)
 
+#### **Visual specs**
+
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the benefit payments card.
+
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
+
 ---
 
 ### If a user has not received a payment in the last 60 days
