@@ -13,7 +13,7 @@ Section 2: Card sort
 - What ideas are they surfacing that don't currently belong to any categories? 
 
 Links for notetakers:
-- [Sign up sheet](link) - need to provide
+- [Sign up sheet] (no link) - Marci McGuire to organize using Slack functionality
 - [Mural board](link) - need to provide
 - [Verbatim notes template](link) - need to provide
 
