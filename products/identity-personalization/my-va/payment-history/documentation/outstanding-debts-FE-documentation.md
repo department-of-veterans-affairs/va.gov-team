@@ -18,17 +18,13 @@ We show this section for every LOA3 user.
 
 #### **Content**
 
-(**$XX.XX**)
+**X overpayment debts*
 
-[XX] overpayment debts
-
-Last updated [date]
+Updated on [date]
 
 [Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt)
 
 **Content sources**
-
-- Total debt amount is pulled from the [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
 
 - Number of overpayment debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
