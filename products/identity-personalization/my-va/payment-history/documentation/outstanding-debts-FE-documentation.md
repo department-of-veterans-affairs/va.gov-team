@@ -30,6 +30,12 @@ Updated on [date]
 
 - Last updated date should be the most recent date that any overpayment debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
 
+#### **Visual specs**
+
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the debt card.
+
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
+
 ---
 
 ### Copays card
@@ -58,6 +64,12 @@ Updated on [date]
 - Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances) and is the total number of statements that the user has. The user will have one statement per facility that they have any outstanding copays for. This should be plural if there is more than one copay statement; singular if there is only one.
 
 - Last updated date should be the most recent date that any copay statement has been updated on the [copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
+
+#### **Visual specs**
+
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the copay card.
+
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
 ---
 
