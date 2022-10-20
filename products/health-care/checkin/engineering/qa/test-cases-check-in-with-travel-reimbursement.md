@@ -29,7 +29,7 @@ This document is for is QA testing of the va.gov portion of the `eCheck-in with 
 ## Test Case A: Happy Path - Successful Check-in - Choose Not to File
 
 ### Use case
-As a user, I do NOT need to update any of my contact information and I DO NOT want to file a travel reimbursement claim.
+As a Veteran, I need to check-in for my appointment and I do NOT need to update any of my contact information and I DO NOT want to file a travel reimbursement claim.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -59,7 +59,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case B: Happy Path - Successful Check-in - Claim Filed
 
 ### Use case
-As a user, I do NOT need to update any of my contact information and I WOULD like to file a travel reimbursement claim and I meet the criteria for filing via eCheck-in.
+As a Veteran, I need to check-in for my appointment andd I do NOT need to update any of my contact information, but I WOULD like to file a travel reimbursement claim and I meet the criteria for filing via eCheck-in.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -93,7 +93,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case C: Happy Path - Successful Check-in - Claim Not Filed
 
 ### Use case
-As a user, I do NOT need to update any of my contact information and I WOULD like to file a travel reimbursement claim, but I DO NOT meet the criteria for filing via eCheck-in.
+As a Veteran, I need to check-in for my appointment and I do NOT need to update any of my contact information, but I WOULD like to file a travel reimbursement claim, however I DO NOT meet the criteria for filing via eCheck-in.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -128,7 +128,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case D: Claim Already Exists Error
 
 ### Use case
-As a user, if I try to file a claim for a day for which I have already submitted a claim, I will get an error indicating that a claim already exists for that day.
+As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, I have already filed a claim for today.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -163,7 +163,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case E: Multiple Appointments Exist Error
 
 ### Use case
-As a user, if I try to file a claim for a day for which I have multiple appointments, I will get an error indicating that I cannot file a claim via eCheck-in if I have multiple appointments.
+As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, I have multiple appointments for today and I will be required to file a claim manually.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
@@ -198,7 +198,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ## Test Case F: General Claim Submission Error
   
 ### Use case
-As a user, if I try to file a claim but there is a general BTSSS API error, I will get an error indicating that claim could not be filed.
+As a Veteran, I need to check-in for my appointment and I WOULD like to file a travel reimbursement claim. However, the BTSSS API throwns an error and did not accept my claim as a result.
   
 ### Arrange (Data needed)
 See [How to acccess in Staging](#how-to-access-in-staging)
