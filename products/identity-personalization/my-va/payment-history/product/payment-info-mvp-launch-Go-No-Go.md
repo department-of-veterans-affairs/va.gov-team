@@ -1,4 +1,4 @@
-# Benefit Payments and Debts: Launch Go / No Go | Date 4/19/22
+# Benefit Payments and Debts MVP: Launch Go / No Go | Date 4/19/22
 
 ## Decision: Good to go!
 
