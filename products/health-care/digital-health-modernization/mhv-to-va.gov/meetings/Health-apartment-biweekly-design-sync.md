@@ -12,9 +12,8 @@
 Action items: 
   - 
 
-**Card sorting activity**
 
-- 
+
 
 Action items: 
  -  
