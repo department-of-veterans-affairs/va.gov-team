@@ -7,12 +7,18 @@
   - [Test Case A: Happy Path - Successful Check-in - Choose Not to File](#test-case-a-happy-path---successful-check-in---choose-not-to-file)
   - [Test Case B: Happy Path - Successful Check-in - Claim Filed](#test-case-b-happy-path---successful-check-in---claim-filed)
   - [Test Case C: Happy Path - Successful Check-in - Claim Not Filed](#test-case-c-happy-path---successful-check-in---claim-not-filed)  
+  - [Test Case D: Claim Already Exists Error](#test-case-d:-claim-already-exists-error)
+  - [Test Case E: Multiple Appointments Exist Error](#test-case-e:-multiple-appointments-exist-error)
+  - [Test Case F: Claim Submission Error](#test-case-f:-claim-submission-error)
 
 ## Scope
 This document is for is QA testing of the va.gov portion of the `Check-in` flow. This document does not include testing of VeText, CHIP, LoROTA, or any other downstream system.
 
 ## Wireframes 
-- [In person Check-in w/ Travel Reimbursement](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/ecc65d23-3ae2-47cb-9a52-8ab4fa9dab29/commits/3a08956dcf7267d7d3af8b6cae9c4456a017d20e/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=90b54a54-d2ee-4fae-ad07-73114aa02714&collectionLayerId=6311c53e-ab0c-484a-9e09-8ddcd43532a1&mode=design) 
+- [In person Check-in w/ Travel Reimbursement](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/3c784fa2-f86a-42b7-b1e4-f0fd5f3c1aa3/commits/4ca81f4c5d0ba861fbf534ab88bca414cc7baae4/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=3e7034be-0a0a-4895-8cf2-246a3d3ecb52&collectionLayerId=11842933-81f3-4651-86c5-220d77e2c649&mode=design&present=true&sha=4ca81f4c5d0ba861fbf534ab88bca414cc7baae4) 
+- [Claim Already Exists]()
+- [Multiple Appointments Exist]()
+- [General Submission Error](https://share.goabstract.com/cc1baa9a-d05e-402c-a2c7-90fd14f5460e?collectionLayerId=9421e29d-1565-4e6a-9ae5-0ca507077a80&mode=design)
 
 ## How to access in Staging
 - [Instructions for creating an appointment and generating a link to eCheck-in and Pre-Check-in in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
@@ -119,4 +125,76 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 - No errors are thrown
 - User sees a confirmation screen with appropriate messaging that matches the mockups
 
+  
+  - [Test Case F: Claim Submission Error](#test-case-f:-claim-submission-error)
 
+
+## Test Case D: Claim Already Exists Error
+
+### Use case
+As a user, if I try to file a claim for a day for which I have already submitted a claim, I will get an error indicating that a claim already exists for that day.
+  
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
+- User clicks their check-in link to load the Check-in application
+- User enters their last name and DOB and selects `Continue` to verify their identity
+- User selects `Yes` to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User selects `Yes` to the question "Would you like to file a travel reimbursement claim now?"
+- User selects `Yes` to each of the following questions
+  - Did you travel in your own vehicle?
+  - Did you travel from your home address?
+  - Are you claiming only mileage and no other expenses today?
+  - NOTE: if `No` is selected for one of the questions, the subsequent questions will not be asked
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
+    - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
+    - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
+    - You already checked in for the appointment
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
+- User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
+- User should be on the `You're checked in` page and see their appointment information and a message indicating their travel reimbursement claim could not be submitted because a claim already exists for today
+
+### Assert (Expected Outcome)
+- No errors are thrown
+- User sees a confirmation screen with appropriate messaging that matches the mockups
+
+## Test Case E: Multiple Appointments Exist Error
+
+### Use case
+As a user, if I try to file a claim for a day for which I have multiple appointments, I will get an error indicating that I cannot file a claim via eCheck-in if I have multiple appointments.
+  
+### Arrange (Data needed)
+See [How to acccess in Staging](#how-to-access-in-staging)
+
+### Act
+- User texts "check in" during the check-in window for one of their appointments and receives a Check-in link (NOTE: a link can also be generated internally by using the Staging Tool)
+- User clicks their check-in link to load the Check-in application
+- User enters their last name and DOB and selects `Continue` to verify their identity
+- User selects `Yes` to each of the following questions
+    - Is this your current contact information?
+    - Is this your current emergency contact
+    - Is this your current next of kin information?
+    - NOTE: if the user has answered **any** of these 3 questions in the past 7 days for another appointment, that question will not be asked again
+- User selects `Yes` to the question "Would you like to file a travel reimbursement claim now?"
+- User selects `Yes` to each of the following questions
+  - Did you travel in your own vehicle?
+  - Did you travel from your home address?
+  - Are you claiming only mileage and no other expenses today?
+  - NOTE: if `No` is selected for one of the questions, the subsequent questions will not be asked
+- User sees listed their appointments for today; each appointment has messaging that shows whether the user is allowed to check-in for the appointment based on the time of the appointment; the check-in window is up to 30 minues before and 15 minutes after the appointment time
+    - Your appointment started > 15 minutes ago and now you have to check-in with a staff member
+    - Your appointment is inside the check-in window and you can click the `Check-in now` button to check-in for the appointment
+    - You already checked in for the appointment
+    - You are too early to check-in, you can check-in for the appointment at x:xx time
+- User selects the `Check-in now` button for one of their appointments for which the appointment time is within the check-in window
+- User should be on the `You're checked in` page and see their appointment information and a message indicating their travel reimbursement claim could not be submitted because they have multiple appointments for today
+
+### Assert (Expected Outcome)
+- No errors are thrown
+- User sees a confirmation screen with appropriate messaging that matches the mockups
