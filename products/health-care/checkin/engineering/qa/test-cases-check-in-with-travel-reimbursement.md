@@ -16,8 +16,8 @@ This document is for is QA testing of the va.gov portion of the `Check-in` flow.
 
 ## Wireframes 
 - [In person Check-in w/ Travel Reimbursement](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/3c784fa2-f86a-42b7-b1e4-f0fd5f3c1aa3/commits/4ca81f4c5d0ba861fbf534ab88bca414cc7baae4/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=3e7034be-0a0a-4895-8cf2-246a3d3ecb52&collectionLayerId=11842933-81f3-4651-86c5-220d77e2c649&mode=design&present=true&sha=4ca81f4c5d0ba861fbf534ab88bca414cc7baae4) 
-- [Claim Already Exists]()
-- [Multiple Appointments Exist]()
+- Claim Already Exists - need wireframe
+- Multiple Appointments Exist - need wireframe
 - [General Submission Error](https://share.goabstract.com/cc1baa9a-d05e-402c-a2c7-90fd14f5460e?collectionLayerId=9421e29d-1565-4e6a-9ae5-0ca507077a80&mode=design)
 
 ## How to access in Staging
