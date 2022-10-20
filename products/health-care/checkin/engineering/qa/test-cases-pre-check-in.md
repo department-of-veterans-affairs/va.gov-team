@@ -37,7 +37,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User sees the appointment for which they are completing Pre-Check-in and clicks "Answer questions"
 - User selects `No` or `Yes` to each of the following questions
     - Is this your current contact information?
@@ -61,7 +61,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application on the day of or after their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User should be on the `Sorry, pre-check-in is no longer available` page and they cannot complete Pre-Check-in
 
 ### Assert (Expected Outcome)
@@ -82,7 +82,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User should see an error that indicates an account could not be found that matches their identity and they will not be allowed to complete Pre-Check-in
 
 ### Assert (Expected Outcome)
@@ -103,7 +103,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User should be on the `Sorry, we can't complete pre-check-in` page and they not be allowed to complete Pre-Check-in
 
 ### Assert (Expected Outcome)
@@ -124,7 +124,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User should be on the `Sorry, we can't complete pre-check-in` page and will not be allowed to complete Pre-Check-in
 
 ### Assert (Expected Outcome)
@@ -142,7 +142,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User sees the appointment for which they are completing Pre-Check-in and clicks "Answer questions"
 - User selects `Yes` or `No` to one of the following questions
     - Is this your current contact information?
@@ -168,7 +168,7 @@ See [How to acccess in Staging](#how-to-access-in-staging)
 ### Act
 - User receives a Pre-Check-in link after confirming their appointment via text message (NOTE: a link can also be generated internally by using the Staging Tool)
 - User clicks their pre-check-in link to load the Pre-Check-in application after the day of their appointment time
-- User enters their last name and DOB (or last 4 of their SSN) and selects `Continue` to verify their identity
+- User enters their last name and DOB and selects `Continue` to verify their identity
 - User sees the appointment for which they are completing Pre-Check-in and clicks "Answer questions"
 - User selects `Yes` or `No` to one of the following questions
     - Is this your current contact information?
