@@ -4,7 +4,7 @@
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 
 ## Starting the session
-- _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
+- _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
 - _Check your screensharing setup and share permissions for participants._
 - _When the participant is ready, begin the session with the following intro._
 
@@ -14,14 +14,14 @@ Thanks for joining us today! My name is Angela and I also have a note taker here
 
 Before we start, a few things I want to mention:
 
-- **I also have some other colleagues in the waiting room who would like to observe and take notes.** Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay with letting them in for this session?
+- **I have a few other colleagues in the waiting room who would like to observe and take notes.** Are you okay with letting them in for this session?
 	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
-	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
+	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, that would be great.
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
-- **We will be looking at your real account info in VA.gov today.** This means we will be able to see some of your personal information which may include benefit payments and debt information. If at any point you are uncomfortable, feel free to stop sharing your screen.
+- **We will be looking at your real account info in VA.gov today.** This means we will be able to see some of your personal information. If at any point you are uncomfortable, feel free to stop sharing your screen.
 - **If for any reason and at any time you want to stop the session, please let me know.**
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly and I will pause the recording while you are signing in so we don't capture any of that info.
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 *Start recording.*
@@ -38,7 +38,7 @@ Before we look at the website, I'd like to get a little background information f
 
 2. Can you tell me what benefits you currently have through VA, if any?
   
-3. What online or manual tools do you currently use to manage these benefits? (VA.gov, MHV, eBenefits, phone, email, etc.) Which of these tools or methods is the most useful to you and why?
+3. What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
 
 4. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
 
@@ -46,25 +46,25 @@ Before we look at the website, I'd like to get a little background information f
 
 Now I'm going to ask you to open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
 
-*Once they are sharing their screen* Okay greatm, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
+*Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
 
 *Once they are past the login screen, restart the recording.*
 
 - Okay so I'm going to ask you to think out loud while the next page loads. Any thoughts you're having would be helpful to hear.
 - *Once the full page has loaded* You said you use VA.gov to do X. Tell me how you'd go about doing/looking into X from here.
-- Is there anything you're expecting to see on this page that you don't see?
 - Let's scroll down to the education and training section. Can you tell me what you think this section is for?
 - Are any of the links in this section of interest to you? *(If not)* How do you feel about seeing this section on My VA?
 - Let's scroll down to the saved applications section. What do you think this section is for? What does "saved applications" mean to you?
 - If you filled out an application and submitted it to VA, would you expect to see that application here or somewhere else?
+- Is there anything you're expecting to see on this page that you don't see?
 
 ### Things to watch for:
 
-- Are certain sections taking a long time to load? How do veterans react to loading times?
+- Are certain sections taking a long time to load? How do veterans react to loading times? If there are any errors, how do veterans react to those?
 - Are veterans able to find their top tasks easily? Can they act on them or get the info they're interested in?
 - Is there anything veterans are looking for specifically that's not on My VA?
-- How do veterans who use education benefits react to the education section? What about veterans who do not use educatio benefits, and those who are not interested?
-- Is it clear that saved applications have not been submitted or do we need additional context or cotent changes in this secton to convey that?
+- How do veterans who use education benefits react to the education section? What about veterans who do not use education benefits, and those who are not interested?
+- Is it clear that saved applications have not been submitted or do we need additional context or content changes in this section to convey that?
 
 ## Task goal: Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state.
 
