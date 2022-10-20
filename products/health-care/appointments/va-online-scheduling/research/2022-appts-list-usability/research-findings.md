@@ -212,7 +212,7 @@ For canceled appointment details pages, (4 of 10) participants wanted to know wh
 **Recommendation: Change Details page CTA's** 
 Reconsider the CTA buttons at the bottom of details pages.
 
-## 6. Back link was easy to find and use
+## 6. The back link was easy to find and use
 
 100% of participants using a desktop computer (5 of 5) used the back link on the page to navigate back to the previous page. 80% of participants using a mobile device (4 of 5) used the back link on the page to navigate back to the previous page. One participant navigated back to the previous screen using the back button on their device.
 
