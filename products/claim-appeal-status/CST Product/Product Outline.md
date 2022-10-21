@@ -107,12 +107,12 @@ Quicker Turnaround Time between requests/opportunities for actions becoming avai
 
 ### Key Results
 - Call volumes related to disability claims questions at call centers drops by 75%
-- Repeat call center calls related to disability claims questions volume drops by 50%
+- Raise average Medallia score to 4.5/5
 
 ## Objective 3:
 - Veterans can trust that the application will function properly 
 
 ### Key Results
-- Reduced FE or BE sentry errors
-- Reduced upload submission errors
-- Reduced application load times
+- Resolve all level 2 and level 1 accessibility defects.
+- Reduced evidence submission errors
+- Reduced application errors in Sentry and DataDog
