@@ -47,7 +47,32 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
  - MHV_ICN: parsed from eauth headers
     - If the MHV ICN does not equal the ICN inside the eauth headers returned after authentication, the user `IS NOT` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
     - For Sign in Service since we do not get eauth headers we do not compare the MHV ICN to the MPI ICN. We will only be looking for the MPI ICN. If a user signs in through Sign in Service and the MHV ICN does not equal the MPI ICN, the user `IS` permitted to login.
- 
+
+## SiS Specific User Attribute Rules
+
+| IAL/LoA - CSP     | Authenticate? | Update MPI? |
+| ----------- | ----------- | ----------- |
+| IAL1      | Yes       | No |
+| IAL2 - Login.gov  | Yes        | Yes |
+| LoA1      | Yes       | No |
+| LoA3 - MHV  | Yes        | No |
+| LoA3 - DSLogon  | Yes        | Yes |
+| LoA3 - ID.me  | Yes        | Yes |
+
+--------------------------
+
+| Credential | Context | Authenticate? | Update MPI? |
+| ----------- | ----------- | ----------- | ----------- |
+| Any | CSP credential value is missing  | Yes | No |
+| Any | MPI credential value is missing | Yes | Yes |
+| `first_name` | MPI profile `given_names.first` doesn't match | Yes | Yes, log `Attribute mismatch, first_name in credential does not match MPI attribute` |
+| `last_name` | MPI profile `family_name` doesn't match | Yes | Yes, log `Attribute mismatch, last_name in credential does not match MPI attribute` |
+| `birth_date` | MPI profile `birth_date` doesn't match | Yes | Yes, log `Attribute mismatch, birth_date in credential does not match MPI attribute` |
+| `ssn` | MPI profile `ssn` doesn't match | No | No, log `Attribute mismatch, ssn in credential does not match MPI attribute` |
+|`address`|MPI profile `address` and CSP `address` don't match|Yes|Yes, log `Attribute mismatch, address in credential does not match MPI attribute`|
+|`multiple attributes don't match`|More than one of the user attributes don't match between MPI Profile and the CSP response (excluding `ssn` mismatch)| Yes|Yes|
+
+
 This diagram depicts the current business requirements as described above:
 
 ![userattribute_businessrules](https://user-images.githubusercontent.com/71290526/151223969-ceae6748-c3db-4d0c-8044-f0fcffba63a0.png)
