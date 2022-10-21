@@ -110,8 +110,6 @@ _The repeating form title forced them to scroll to find context._
 
   > _"Half your screen is taken by the title in the last three screens."_
 
-  
-  > _"Looks like I've got 4 step 1s, and now I'm at 2 or 3 step 2s. I know why that's there, but it's a little bit of a fog index."_
 
 ## Finding 3
 Most participants did not know or were unsure of exact dates of treatment and were nervous about entering a specific day. One user struggled with how to enter ongoing treatment. 
@@ -172,7 +170,7 @@ Labels: **BNFT: Disability**, **DSP: Form templates: File upload**
 
 # Additional Insights
 
-1. The one question per page experiment to replace the deprecated wizard pattern was succussful.
+1. The one question per page experiment to replace the deprecated wizard pattern was successful.
   
     _No users struggled with choosing if this was the right form for them. The easily chose continue and understood the decision they were making._
 
@@ -180,7 +178,7 @@ Labels: **BNFT: Disability**, **DSP: Form templates: File upload**
   
 Labels: **BNFT: Disability**, **Wizard**
 
-2. The one thing per page experiment to replace the list and loop was successful, but we need to iterate the order to identify the issue as the organizing principle. 
+2. The one thing per page experiment to replace the list and loop was successful, but we need to iterate to closely tie the issue to the evidence. 
   
     _No users struggle with the decisions presented to them, but they struggled with relating the evidence decisons to specific issues._ 
 
