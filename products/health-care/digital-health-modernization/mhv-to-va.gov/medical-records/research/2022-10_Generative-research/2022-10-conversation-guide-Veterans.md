@@ -64,7 +64,7 @@ Could the notetaker and observers please turn their cameras off now to save band
 
 Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do a sorting exercise.
 
-BeBefore we start, I want to go over a few things:
+Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
@@ -93,12 +93,6 @@ BeBefore we start, I want to go over a few things:
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
-
-## Instructions for finding Zoom chat (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
-  - Computer: Just to the left of center is a conversation bubble that says Chat. 
-    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
  
 ## Warm-up Questions - 5-10 minutes
 Let’s start with a few questions... 
@@ -136,57 +130,113 @@ Let’s start with a few questions...
 
 	- *OPTIONAL PROBE:* Did you need to share your *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
 
-## Section 2: Card sort - 15-20 mins
+10. I am going to share my screen to show you an image of a current website that has the *(use the word the participant is using for medical records)* for Veterans. *(Screen share and show image of Blue Button and VA Health Summary section of MHV.)*
+
+	- What would you expect to find in the Blue Button section? 
+
+	- What would you expect to find in the VA Health Summary section? 
+
+	- What would you expect to find in the Images section? 
+
+	- What do you think about how these things are grouped? 
+
+## Section 2A: Card sort - 15-20 mins (USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR EXPERIENCE TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)
 Now we are going to do a sorting activity on a different website. 
 
-This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 - [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
 
+- *IF PARTICIPANT EXPERIENCES DIFFICULTIES OPENING OPTIMAL WORKSHOP, TRY SCREEN SHARING AND GIVING THEM REMOTE CONTROL. IF THAT DOES NOT WORK, MOVE ONTO SECTION 2B.*
+
 **Instructions to open the card sort:**
 * Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
+ 	
+	- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+ 	
+	- If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 * Click on the link for the optimal workshop card sort.
 	
-* On the left, we have different cards with information about health information. 
+* On the left, we have different cards with words that in some way have to do with your health information. 
+
 * On the right, you can drag items and group them together. Try to think of these groups as broader categories. 
+
 * If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
 
-* I started three groups for you, including one to place cards that don’t matter to you.
-	* If there is a card that doesn’t fit into any of the groups I made, you can create and name your own group. Let’s practice that.
-* Take the top card that says “Allergies” and drop it into a column.
+* I started six groups for you, including one to place cards that don’t seem to fit into a group. You do not have to put cards in all of these groups - I made them simply to help get you started. You can give these groups a name to reflect what the category is by typing a name where it says "Group 1," "Group 2", etc.
+	
+	- On the other hand, if you feel like a card doesn’t fit into any of the six groups and you need another group, you can create and name your own group. Let’s practice that.
+
+* Take the top card that says *name of card* and drop it into a column.
+
 * Now take it and drop it into the white space. This will create a new group - you can type a name in at the type. Call it anything you want.
+
 * Now you can go ahead and delete the group by clicking the red X in the upper right corner.
+
 * Any questions?
 
 * Organize cards in a way that makes sense to you
-	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
-10. *(If participant created groups):* Can you explain why you decided to create that group? 
+	- We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
-11. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. TERMS COULD INCLUDE (BUT ARE NOT LIMITED TO):
-* Blue Button
-* VA Health Summary
-* Medical Images
-* Reports
-* Labs/Tests
-* Procedures
-* Vitals
-* Admissions summaries
-* Discharge summaries
-* Pre-visit summaries
-* After-visit summaries
-* Radiology
-* Pathology
-* Hematology
+11. *(As participant puts cards into different groups)*: Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
 
-- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
+	- *Continue to probe participant to explain their thinking as they group cards.*
+	
+12. *(If participant created groups):* Can you explain why you decided to create that group? 
 
-*For AT users - moderator carries out the card sorting under the direction of the AT user. Will require creating smaller groups so as to not overload participant. Will create a separate Optimal Workshop card sort for this scenario that includes less cards.*
+13. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users understand technical medical language. Example probes could be:*
+
+	- What do you think "Pathology results" are? 
+	- How are you understanding "Radiology results or images"? 
+	- What do you think the difference is between "Encounter notes" and "Progress notes"? 
+
+- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous.
 
 **Moderator notes:**
 
 - We are not concerned with prioritizing cards within the grouping.
+
+## Section 2B: Grouping like ideas
+
+Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
+
+14. Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there? 
+
+15. Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+16. What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+17. Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+18. Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+19. Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
+
+	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
 
 ## Post-Task Interview - 3 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
