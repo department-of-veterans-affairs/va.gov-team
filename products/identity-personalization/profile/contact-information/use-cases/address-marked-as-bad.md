@@ -20,7 +20,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 * [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4) 
 	
 ### Contact information page
-* Displays an [input message alert](https://design.va.gov/components/form/input-message) in the mailing address section. 
+* Displays a [background only alert with icon](https://design.va.gov/components/alert#background-color-only-alert-with-icon) in the mailing address section. 
 	* Alert ask user to review mailing address and update if it is incorrect.
 * Alert persists in edit mode.
 * Alerts disappears once Mailing address is successfully updated and validated or when an error message occurs because the address cannot be updated and validated.
