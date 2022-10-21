@@ -18,6 +18,7 @@ Answer this question to get started:
 **_Continue_**
 
 If you don't think this is the right form for you, go back and review the other decision review options.
+
 << Go back to review your options
 
 ## Filing if your Supplemental Claim isn't for a disability
@@ -46,7 +47,7 @@ Make sure you meet our eligibility requirements for Supplemental Claims before y
 
 What are the eligibility requirements to file a Supplemental Claim? (Expand) \
 
-You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter. 
+You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
 
@@ -79,12 +80,10 @@ Here's how signing in now helps you:
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it.
 
-Note: You can sign in after you start your application. But you’ll lose any information you already filled in.
-
 **Sign in to start your claim**
 
 
-How long it may take to complete this form (called "respondent burden"): 15 minutes
+How long this form may take: 15 minutes
 
 OMB Control #: 2900-0862
 
@@ -99,15 +98,16 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 **_SIGNED IN_**
 
-Follow these steps to get started
+### Follow these steps to get started
 
-### 1. Check your eligibility
-You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before.
+If you don’t think this is the right form for you, go back and answer the questions again.
 
-What are the eligibility requirements to file a Supplemental Claim? (Expand) 
+#### 1. Check your eligibility
+Make sure you meet our eligibility requirements for Supplemental Claims before you file.
 
-In order to file a Supplemental Claim, you must add evidence that is new (or not provided to VA previously) and relevant to your case. You can file a Supplemental Claim anytime, but we recommend you file within one year from the date on your decision letter. 
+What are the eligibility requirements to file a Supplemental Claim? (Expand) \
 
+You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
 
@@ -115,28 +115,25 @@ In order to file a Supplemental Claim, you must add evidence that is new (or not
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
 
-### 2. Gather your information
+#### 2. Gather your information
 Here’s what you’ll need to apply: 
 
-Issue(s) you want VA to review: You can include all or just some of the issues VA decided. You must list the issue(s) you disagree with and the VA decision date.
+**The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
 
-Evidence: You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
+**New and relevant evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
 
 Types of Evidence (expand)
-- VA medical records and hospital records that relate to your claimed condition or that show your rated disability has gotten worse
-- Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
-- Supporting statemets from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it got worse
+- Medical records from a VA medical center, another federal health facility, or your private health care provider
+- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it got worse
 
-### 3. File your supplemental claim
+### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
-What happens after I apply? (expand) 
+What happens after I apply? (expand) \
 
-You don’t need to do anything while you’re waiting unless VA contacts you asking for more information. If VA schedules exams for you, be sure not to miss them.
+You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
 
-**Start your claim**
-
-Respondent Burden: 15 minutes
+How long this form may take: 15 minutes
 
 OMB Control #: 2900-0862
 
@@ -145,40 +142,7 @@ Expiration date: 4/30/2024
 Privacy Act Statement
 
 **Need help?**
-If you have questions or need help filling out this form, please call our MYVA411 main information line at 800-698-2411 and select 0. We’re here 24 hours a day, 7 days a week. 
-
-If you have hearing loss, call TTY: 711.
-
----
-## Step 1 of 4: Veteran information
-
-**Who is filing this claim?**
-
-Claimant’s Name: (if other than Veteran’s)
-
-As a Veteran, you can file claims yourself, or you can have a trusted individual or a third party file on your behalf. In some cases, you will need an additional authorization form to grant permission to file on your behalf.
-
-**Who is filing this Supplemental Claim?** (*Required)
-
-- [ ] Veteran
-- [ ] Other
-
-IF OTHER 
-What is your relationship to the Veteran? (*Required):
-- [ ] Veteran
-- [ ] Spouse
-- [ ] Child
-- [ ] Parent
-- [ ] Other	
-
-IF OTHER:
-
-Please specify your relationship to the Veteran? (*Required)
-TEXT FIELD (recommend 68 character limit)
-
-**_BACK_**
-
-**_CONTINUE_**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 
 ---
 ## Step 1 of 4: Veteran information
@@ -190,26 +154,11 @@ This is the personal information we have on file for you.
 
 - *Social Security number* 
 
-- *VA file number*
-
 - *Date of birth: 01/10/1980*
 
 - *Gender*
 
 **Note:** If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## Step 1 of 4: Veteran Information
-We'll save your application every time you add or update information.
-
-**Are you experiencing homelessness or at risk of becoming homeless? (*required)
-
-- [ ] Yes
-- [ ]  No
 
 **_BACK_**
 
@@ -253,6 +202,8 @@ We may need to contact you to clarify issues related to your Supplemental Claim.
 **_BACK_**
 
 **_CONTINUE_**
+
+Error: We still don't have your home or mobile phone, email, and address. Please edit and update the field.
 
 ---
 ## Step 2 of 4: Issues for review
