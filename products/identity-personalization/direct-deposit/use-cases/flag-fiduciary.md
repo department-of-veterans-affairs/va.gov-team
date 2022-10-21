@@ -4,7 +4,7 @@
 
 Currently, we do not allow people who have a fiduciary/are incompetent/are marked as deceased to access and update the direct deposit section of the VA.gov profile. We get these flags from the endpoint, and show an alert on the direct deposit page if someone has one of those flags.
 
-For more on the original implementation of this blocking, please read the [documentation from 2.24.20 in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2020-02-21%20Direct%20Deposit%20Fiduciary%20Issue.md).
+For more on the original implementation of this blocking, please read the [documentation from 2.24.20 in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2020/2020-02-21%20Direct%20Deposit%20Fiduciary%20Issue.md).
 
 ## UX
 - If someone with an LOA3 account logs in to VA.gov and has the fiduciary/incompetent or deceased flag, they will see an alert in the direct deposit section of the profile that tells them they can not view their financial information. They will not be able to view any bank information.
