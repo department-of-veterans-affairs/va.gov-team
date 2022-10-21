@@ -65,13 +65,13 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
 | ----------- | ----------- | ----------- | ----------- |
 | Any | CSP credential value is missing  | Yes | No |
 | Any | MPI credential value is missing | Yes | Yes |
-| `first_name` | MPI profile `given_names.first` doesn't match | Yes | Yes, log `Credential first_name difference` |
-| `last_name` | MPI profile `family_name` doesn't match | Yes | Yes, log `Credential last_name difference` |
-| `birth_date` | MPI profile `birth_date` doesn't match | Yes | Yes, log `Credential birth_date difference` |
-| `ssn` | MPI profile `ssn` doesn't match | No | No, log `Credential ssn difference` |
-|`address`|MPI profile `address` and CSP `address` don't match|Yes|Yes update MPI, Todo: add log of difference|
-|`email address`|MPI profile `email address` and CSP `email address` don't match| Yes|Yes update MPI, Todo: add log of difference|
-|`multiple attributes don't match`|More than one of the user attributes don't match between MPI Profile and the CSP response| Yes|Yes update MPI, Todo: Do we need a separate log for this?|
+| `first_name` | MPI profile `given_names.first` doesn't match | Yes | Yes, log `Attribute mismatch, first_name in credential does not match MPI attribute` |
+| `last_name` | MPI profile `family_name` doesn't match | Yes | Yes, log `Attribute mismatch, last_name in credential does not match MPI attribute` |
+| `birth_date` | MPI profile `birth_date` doesn't match | Yes | Yes, log `Attribute mismatch, birth_date in credential does not match MPI attribute` |
+| `ssn` | MPI profile `ssn` doesn't match | No | No, log `Attribute mismatch, ssn in credential does not match MPI attribute` |
+|`address`|MPI profile `address` and CSP `address` don't match|Yes|Yes, log `Attribute mismatch, address in credential does not match MPI attribute`|
+|`email address`|MPI profile `email address` and CSP `email address` don't match| Yes|Yes, log `Attribute mismatch, email in credential does not match MPI attribute`|
+|`multiple attributes don't match`|More than one of the user attributes don't match between MPI Profile and the CSP response| Yes|Yes|
 
 
 This diagram depicts the current business requirements as described above:
