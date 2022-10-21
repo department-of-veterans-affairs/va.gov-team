@@ -18,7 +18,7 @@ We show this section for every LOA3 user.
 
 #### **Content**
 
-**X overpayment debts*
+**X overpayment debts**
 
 Updated on [date]
 
