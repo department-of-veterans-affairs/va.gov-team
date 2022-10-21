@@ -200,6 +200,8 @@ How would you prefer the link to the sorting activity? I could say it out loud f
 
 ## Section 2B: Grouping like ideas
 
+*ASK THESE QUESTIONS IF UNABLE TO DO CARD SORTING ACTIVITY DESCRIBED IN SECTION 2A.*
+
 Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
 
 14. Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found? 
@@ -241,13 +243,13 @@ Now I'm going to ask you where you would look for different types of information
 ## Post-Task Interview - 3 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-12. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
+20. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
      1. Have you *ever* done this before?
      2. If so, how and when?
-     3. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
+     3. Could you please go to VA.gov? How would you share your thoughts on this web page?
      4. *(Want to see if screen reader users can/will use the Medallia feedback button)*
 
-13. Is there anything else that we haven't talked about that you think I should know? 
+21. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
