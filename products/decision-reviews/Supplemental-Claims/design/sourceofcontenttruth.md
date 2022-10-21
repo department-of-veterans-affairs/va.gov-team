@@ -233,7 +233,6 @@ Note: Any updates you make here will be reflected on your VA.gov profile
 
 - *Mailing address (edit)*
 
-*Note:* If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 **_BACK_**
 
