@@ -209,9 +209,9 @@ Error: We still don't have your home or mobile phone, email, and address. Please
 ## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
-These are the issue(s) in your VA record. If an issue is missing from the list, you can add it here.
+These are the issues we have on file for you. If an issue is missing from the list, you can add it here.
 
-**Select the issue(s) you’d like us to review**
+**Select the issues you’d like us to review**
 
 Issue
 
@@ -235,9 +235,9 @@ If you don’t see your issue or decision listed here, it may not be in our syst
 ## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
-**What issue would you like to add?**
+**Add an issue**
 
-You can only add an issue that you’ve  received a VA decision notice for. (*Required)
+You can only add an issue that you’ve received a VA decision notice for. (*Required)
 
 Enter the decision date on your decision notice (the letter you received in the mail from us).
 
