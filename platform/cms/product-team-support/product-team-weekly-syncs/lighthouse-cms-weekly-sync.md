@@ -14,6 +14,11 @@
 
 </details>
 
+## Monday, October 24, 2022
+* v1 status check
+* What is the logic for when FL retruns a Facility page vs a Detail page 
+*    https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+
 ## Monday, October 17, 2022
 Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
 * v1 status check
