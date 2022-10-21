@@ -1,5 +1,5 @@
 # Oustanding Debts & Benefit Payments Release Plan
-This initiative is commonly referred to as "payment info v2"
+This initiative is also commonly referred to as "payment info v2" or "payment history v2"
 
 ## Phase I: UAT
 
