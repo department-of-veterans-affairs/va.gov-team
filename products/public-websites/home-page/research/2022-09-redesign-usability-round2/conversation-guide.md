@@ -127,7 +127,9 @@ I would like you to share your screen with me--a web browser please. You might w
   - What would you do next? *(RECORD: colored sign-in button / Create an account link below / __________)*
 - *(If not currently on the home page)* Could you please go back to the original page you were on? How might you do that from here?
 - Do you have an account? *(Yes / No / ____________)*
-- *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
+  - *(if No)* What do you think about **whether** you **need** an account?
+  - Why or why not?
+  - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
 - If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
 ### Task 1: [Message your doctor or get a health care message] - Ideally IF *HAVE* VA HEALTH CARE
@@ -226,7 +228,9 @@ Could you please go back to the original web page you opened?
      1. What do you think they are, and when might you use them?
      1. *RECORD comments about Find VA location, VA form, benefit resources and support*
 7. *(IF haven't already discussed)* Do you have an account that you use to sign in on VA.gov? *(Yes / No / ____________)*
-8. Is there anything else that we haven't talked about that you think I should know? 
+     1. *(if No)* What do you think about **whether** you **need** an account?
+     1. Why or why not?
+9. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
