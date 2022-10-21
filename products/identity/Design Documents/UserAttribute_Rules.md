@@ -71,7 +71,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
 | `ssn` | MPI profile `ssn` doesn't match | No | No, log `Attribute mismatch, ssn in credential does not match MPI attribute` |
 |`address`|MPI profile `address` and CSP `address` don't match|Yes|Yes, log `Attribute mismatch, address in credential does not match MPI attribute`|
 |`email address`|MPI profile `email address` and CSP `email address` don't match| Yes|Yes, log `Attribute mismatch, email in credential does not match MPI attribute`|
-|`multiple attributes don't match`|More than one of the user attributes don't match between MPI Profile and the CSP response| Yes|Yes|
+|`multiple attributes don't match`|More than one of the user attributes don't match between MPI Profile and the CSP response (excluding `ssn` mismatch)| Yes|Yes|
 
 
 This diagram depicts the current business requirements as described above:
