@@ -155,10 +155,14 @@ For the rest of our conversation we're going to talk about _______ (the change) 
 - What type of emotional experience is associated with eligibility?
 
 ## Concluding questions - 10 minutes
+- What factors make someone eligible or ineligible for VA health care?
+- Do you think your eligibility might or might not change after enrollment? 
+  - If so, how?
+  - How might you learn whether or not something would change your eligibility or access to health care?
 - What if anything would have made the health care benefits application process easier for you?
 - Looking back now, what do you wish you had known about _______ (eligibility) that you didn't know back then?
 - What, if anything, does the phrase "income limits" mean to you?
-- Anything else we didn't cover that you'd like to share about health care benefits eligibility?
+- Is there anything else we didn't cover that you'd like to share about health care benefits eligibility?
 
 ## Thank You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the tools and services that we provide.
