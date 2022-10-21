@@ -207,37 +207,37 @@ How would you prefer the link to the sorting activity? I could say it out loud f
 
 Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
 
-14. Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found? 
+14. *SCENARIO:* Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there? 
 
-15. Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information? 
+15. *SCENARIO:* Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
-16. What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
+16. *SCENARIO:* What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
-17. Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
+17. *SCENARIO:* Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
-18. Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
+18. *SCENARIO:* Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
-19. Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
+19. *SCENARIO:* Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
 
 	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
 	
