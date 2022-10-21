@@ -227,7 +227,7 @@ P9 exhibited signs of short term memory loss, and:
 - repeatedly triggered the same modal, seemingly unsure how to resolve the problem.
 
 ## Recommendations
-### For general editing functionality, continue using the single page editing pattern that is in place today.
+### For primary editing functionality, continue using the single page editing pattern that is in place today.
  (Supported by [finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#1-9-of-11-participants-were-able-to-update-a-vagov-profile-with-in-line-editing-with-relative-ease), [finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#4-participants-were-not-bothered-by-encountering-multiple-alerts-when-updating-contact-information-though-it-took-some-longer-than-others-to-comprehend-the-information), [finding 7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#7-9-of-11-participants-including-screenreader-users-found-in-line-editing-and-a-one-thing-per-page-approach-to-be-equally-usable))
 
 - All participants were able to use our existing pattern to update their information with no major hurdles.
