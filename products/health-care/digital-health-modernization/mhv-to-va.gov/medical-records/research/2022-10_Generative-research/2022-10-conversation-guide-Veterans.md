@@ -140,7 +140,9 @@ Let’s start with a few questions...
 
 	- What do you think about how these things are grouped? 
 
-## Section 2A: Card sort - 15-20 mins (USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR EXPERIENCE TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)
+## Section 2A: Card sort - 15-20 mins 
+*(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
+
 Now we are going to do a sorting activity on a different website. 
 
 This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
