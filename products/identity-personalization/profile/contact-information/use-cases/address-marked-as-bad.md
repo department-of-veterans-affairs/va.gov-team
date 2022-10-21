@@ -16,7 +16,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 ### Personal information page
 - Displays an [alert](https://design.va.gov/components/alert#warning-alert)  (VA design system component) directing user to review their mailing address
 * Alert disappears once Mailing address is successfully updated and validated.
-* [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0)   
+* [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz)   
 * [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4) 
 	
 ### Contact information page
@@ -24,8 +24,8 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 	* Alert ask user to review mailing address and update if it is incorrect.
 * Alert persists in edit mode.
 * Alerts disappears once Mailing address is successfully updated and validated or when an error message occurs because the address cannot be updated and validated.
-* [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) 
-* [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk) 
+* [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/v8jw5bQ) 
+* [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/DPaz7ry) 
 
 #### Address validation
 - A user can enter the address validation flow if the address they enter warrants it. The UX for this flow is not changed for a user with this flag in their profile.
@@ -33,9 +33,13 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 
 ### Successful update
 - Once the user has successfully updated their address, they’re returned to read mode and a success confirmation is displayed
+- [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/GmlvPr8) 
+- [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/zxJjrY5) 
 
 ### Save error
 - If the mailing address update can’t be completed, they’ll see an error alert above the update button.
+- [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eK0eRyp) 
+- [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/dlA4oEm) 
 
 ## Codes
 N/A
