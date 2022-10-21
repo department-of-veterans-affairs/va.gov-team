@@ -1,7 +1,7 @@
 ----
 
 # This documentation has moved! 
-### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/research-overview#ResearchOverview-Runapilotsession) is found on the Platform website!
+### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/research-pilot-participant-guidelines) is found on the Platform website!
 
 ### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
