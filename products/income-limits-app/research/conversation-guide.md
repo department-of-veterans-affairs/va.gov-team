@@ -32,14 +32,14 @@ Thanks for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes.  
 
-There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
 
 Could the notetaker and observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
 
-Today I'm going to be asking you some questions about VA health care benefits.
+Today I'm going to be asking you some questions about VA benefits.
 
 Before we start, I want to go over a few things:
 
