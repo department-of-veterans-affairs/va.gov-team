@@ -124,7 +124,7 @@ Most participants did not know or were unsure of exact dates of treatment and we
   
   > _"That shouldn't be put on a soldier to remember every single time they were treated...Expecting a soldier to remember every time they were treated is unfair."_
   
-  >  _"I have a hard time with dates. It has something to do with my PTSD."
+  >  _"I have a hard time with dates. It has something to do with my PTSD."_
 
 ## Finding 4
 Some participants got lost in the evidence flow and weren’t confident that they entered the correct evidence for their issues.
@@ -139,7 +139,7 @@ _Some participants weren't clear what issue they were identifying evidence for a
   
   > _"I already forgot. Is this for headaches or for sleep apnea?"_
   
-  > _"I don't know where to go from here. I can guess, I clicked headache first. OK, where did I go for headaches."
+  > _"I don't know where to go from here. I can guess, I clicked headache first. OK, where did I go for headaches."_
 
 ## Finding 5
  Some participants missed that their application autosaves and they can return to finish it later. 
@@ -150,9 +150,9 @@ _Several users had no idea that their progress was saved and no clear way to ret
   
 Labels: **BNFT: Disability**, **DSP: Content presentation: Information callouts**
     
-    > _"I would be sitting here and saying "damn, I will need to start all over again"_
+  > _"I would be sitting here and saying "damn, I will need to start all over again"_
   
-  > _"I like that it gives you an option to save your work if you need to go find paperwork. That's a good thing. I like that."
+  > _"I like that it gives you an option to save your work if you need to go find paperwork. That's a good thing. I like that."_
 
 ## Finding 6
 Multiple primary actions confused some Veterans.
@@ -188,32 +188,62 @@ Labels: **BNFT: Disability**, **Wizard**
   
 Labels: **BNFT: Disability**, **DSP: Form templates: List and loop**
 
-# Recommendations
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+3. Veterans expect their entries to match to a VA database. Several participants mentioned their expectation of the form to match what they typed in for conditions to match to an eligible condition. They also mentioned this expectation when typing in VA medical centers. 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+![matching](https://user-images.githubusercontent.com/68615337/197214378-941509a8-c386-4415-9eb2-06e637541e92.png)
+
+
+# Recommendations
+
+1. Consider changing the label to sections to support a mental model of sections, with each section having steps to complete it. Consider if sections have too many steps or too few.
+    * _Representing form progress as “steps” confused some users. Users expect the progress bar to be true to the number of steps they have taken._
+
+2. Shorten or do not display the form title as the primary h1 header. Work towards a design that frames the key question or page context in the h1 spot. This also focuses context for screen readers and presents the users with one clear action per page.
+    * _Several users initially struggled to find their place on a mobile screen. The repeating form title forced them to scroll to find context._
+
+3. Employ auto-suggest matching patterns to issue entries and VA medical facilities.
+    * _Veterans expect their entries to match to a VA database, and lose confidence with open text entries._ 
+
+4. Add hint text that lets users know they can estimate the dates of their treatment.
+    * _Most participants did not know or were unsure of the exact dates of their treatment and were nervous about entering a specific day._ 
+
+5. Iterate the evidence flow to closely tie evidence to each issue. Display issues within the record location entry to clearly associate each record with the issue it is meant to support. 
+    * _Some participants got lost in the evidence flow and weren't confident that they identified the correct evidence for their issues, which might lead them to abandon, seek help, or receive a denial._ 
+
+6. Consider displaying a dismissable success (progress saved) alert on page load and remove the subtitle to create progress awareness. Add language that helps a user know where to find their saved progress (MyVA).
+    * _Several users had no idea that their progress was saved and no clear way to return to it._
+
+7. Consider one clear action per page for the issues to review.
+    * _Multiple primary actions confused some users and one participant missed the need to check the box to select the issue they wanted to appeal._
+
+8. Prioritize a technology solution to resize PDF page dimensions.
+    * _No participants knew how to resize the page dimensions of a PDF, but almost all were familiar with how to create a PDF. This is significant as it is the cause of some evidence failures in Notice of Disagreement appeals._       
 
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+Next steps:
 
+1. Work with engineers to build a proof of concept for supplemental claims.
+2. Update hint text based on recommendations from this study.
+3. Work with engineers to create auto-suggest matching pattern for condition and VA medical center text inputs.
+4. Update evidence flow based on recommendations from this study.
+5. Communicate global form pattern findings to the design system team.
 
 # Further research needed
 
-_Future research should focus on assistive technology, especially magnification/zoom, desktop and mobile screen readers, as well as Veterans who experience arthritis or other dexterity issues. We'd like to understand if scrolling on desktop and mobile devices presents any difficulty._
+* Future usability with assistive technology, especially magnification/zoom, desktop and mobile screen readers, as well as Veterans who experience arthritis or other dexterity issues. We'd like to understand if scrolling on desktop and mobile devices presents any difficulty.
 
-_Future research should included desktop participants.
+* Future research should included desktop participants.
+
+* Further usability testing in staging.
 
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/researchplan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/researchplan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/conversationguide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/conversationguide.md)
 
 ## Tools used for Synthesis
 
@@ -221,7 +251,9 @@ _Future research should included desktop participants.
 
 ## Pages and applications used
 
-[Link to prototype](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=70%3A5676&scaling=scale-down&page-id=10%3A1697&starting-point-node-id=70%3A5676)
+[Link to prototype tested](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=1007%3A15254&scaling=scale-down&page-id=1007%3A13142&starting-point-node-id=1007%3A15254)
+
+[Link to iterated prototype with recommendations 4 and 5](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=70%3A5676&scaling=scale-down&page-id=10%3A1697&starting-point-node-id=70%3A5676)
 
 ## Other supporting documents created
 [Sketch files with flows](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89)
