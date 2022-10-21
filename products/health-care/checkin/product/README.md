@@ -1,20 +1,19 @@
 # Product Brief
-# Patient Check-in - Pre-Check-in & eCheck-in 
+# Patient Check-in: Pre-Check-in & eCheck-in Applications
 
-## Overview
+## OVERVIEW
 Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran is instructed to check-in with a staff member once they arrive for their appointment.
 
 eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which comprises the time up to 30 minutes before & 15 minutes after the appointment. The eCheck-in application is intented to replace the check-in functionality on the kiosks currently used VA facilities. 
 
 ### [Objectives & Key Results](https://app.mural.co/t/vfscie8528/m/vfscie8528/1654695959441/d90ed2bae0315fa65761373df8362460f2c82b28?sender=ud3aa760e30b39bcf436d4473)
 
-## Key Decisions
+## KEY DECISIONS
 - All data for the product will be available via a single API (vets-api)
 - Work to aggregate data from disparate systems will be completed by the PCI/API team
 - VetText has existing functionality that will be leveraged - at this time the technical integration is the biggest unknown and risk. The risk will decrease as Vets API migration gets underway.
 
-## Outcomes
-
+## OUTCOMES
 #### Deisred
  - Veterans can easily and quickly check in for their appointments using their mobile device
  - Staff are freed to perform patient-care 
@@ -31,7 +30,18 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
  - Veterans choose face-to-face interactions over the modbile check-in
  - Wait times between arrival and completion of check-in are increased
  - Check-in will be allowed during a check-in window which is up to 30 minutes before and up to 15 minutes after the appointment time
- 
+
+## RESOURCES
+### Product Guides
+#### [eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#day-of-check-in-or-patient-check-in)
+
+#### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
+
+### Production Wireframes in VA Sketch Cloud
+- [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
+- [In person Check-in](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C) in Sketch Cloud
+- [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
+
 ## FEATURES
 
 #### Check-in
