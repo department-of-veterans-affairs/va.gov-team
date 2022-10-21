@@ -148,7 +148,8 @@ Now we are going to do a sorting activity on a different website.
 This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
-- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
+- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate.
+	- FOR REVIEW PURPOSES, HERE IS ["PREVIEW LINK"](https://dj540s05.optimalworkshop.com/optimalsort/qi53c6t2/sort) 
 
 - *IF PARTICIPANT EXPERIENCES DIFFICULTIES OPENING OPTIMAL WORKSHOP, TRY SCREEN SHARING AND GIVING THEM REMOTE CONTROL. IF THAT DOES NOT WORK, MOVE ONTO SECTION 2B.*
 
