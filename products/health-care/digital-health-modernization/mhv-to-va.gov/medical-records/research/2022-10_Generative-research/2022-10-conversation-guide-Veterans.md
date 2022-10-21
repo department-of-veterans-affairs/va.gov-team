@@ -15,7 +15,7 @@ Section 2: Card sort
 Links for notetakers:
 - [Sign up sheet] (no link) - Marci McGuire to organize using Slack functionality
 - [Mural board](link) - need to provide
-- [Verbatim notes template](link) - need to provide
+- [Note-taking folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews)
 
 ## Moderator logistics
 
@@ -201,7 +201,7 @@ How would you prefer the link to the sorting activity? I could say it out loud f
 
 - We are not concerned with prioritizing cards within the grouping.
 
-## Section 2B: Grouping like ideas
+## Section 2B: Grouping like ideas - 15-20 mins
 
 *ASK THESE QUESTIONS IF UNABLE TO DO CARD SORTING ACTIVITY DESCRIBED IN SECTION 2A.*
 
