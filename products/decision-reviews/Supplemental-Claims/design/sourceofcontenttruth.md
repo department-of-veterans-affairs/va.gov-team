@@ -174,13 +174,13 @@ This is the contact information we have on file for you. We’ll send any update
 
 Note: Any updates you make here will be reflected on your VA.gov profile
 
-- *Home phone number (edit)*
+*Home phone number (edit)*
 
-- *Mobile phone number (edit)*
+*Mobile phone number (edit)*
 
-- *Email address (edit)*
+*Email address (edit)*
 
-- *Mailing address (edit)*
+*Mailing address (edit)*
 
 
 **_BACK_**
@@ -206,32 +206,32 @@ We may need to contact you to clarify issues related to your Supplemental Claim.
 Error: We still don't have your home or mobile phone, email, and address. Please edit and update the field.
 
 ---
+----------------------------------------------
+
 ## Step 2 of 4: Issues for review
+
 We'll save your application every time you add or update information.
 
+ 
 These are the issues we have on file for you. If an issue is missing from the list, you can add it here.
-
 **Select the issues you’d like us to review**
 
-Issue
-
-Description
-
-Rating
-
-Decision date: 
+ 
+- [ ] Issue
+      Description
+      Rating
+      Decision date:
 
 *Add a new issue*
 
 Why aren’t all my issues listed here (expand)
-
-If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it. 
+If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
 
 **_BACK_**
 
 **_CONTINUE_**
+----------------------------------------------
 
----
 ## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
@@ -239,14 +239,15 @@ We'll save your application every time you add or update information.
 
 You can only add an issue that you’ve received a VA decision notice for. (*Required)
 
-Enter the decision date on your decision notice (the letter you received in the mail from us).
+Enter the date on your decision notice (the letter you received in the mail from us).
 
 **_BACK_**
 
 **_CONTINUE_**
+----------------------------------------------
 
----
 ## Step 2 of 4: Issues for review
+
 We'll save your application every time you add or update information.
 
 **Opt-in to the new decision review process**
@@ -261,8 +262,10 @@ Our decision review process is part of the Appeals Modernization Act. When you o
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
 **You’ll need to review and acknowledge this notice of evidence needed.**
@@ -279,169 +282,132 @@ You'll need to submit or give us permission to gather medical evidence from a VA
 
 - [ ] I certify that I have reviewed the notice of evidence needed.
 
-
 **_BACK_**
 
 **_CONTINUE_**
 
----
+ 
+Error: You need to certify that you have reviewed the notice of evidence needed.
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-**What type of evidence do you want us to review as part of your claim?**
+**Would you like us to request your VA medical records?**
 
-Select your record types: (*Required)
+- [ ] Yes
 
-- [ ] VA medical records
-- [ ] Private medical records
-- [ ] Supporting (lay) statements, other evidence, or upload your documents
+- [ ] No
 
-Which evidence should I choose? (expand)
-
-Types of evidence
+ 
+Types of evidence / expand
 
 VA medical records
+
 If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
 
 Private medical records
+
 If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 Lay statements or other
+
 A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
 
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-IF VA medical records:
-
-**Which facility treated you for your disability?**
-
-Location: Name of VA medical center, VA treatment facility, or Federal department or agency (*Re	quired)
-
-Date(s) of record
-
-Start date (*Required)
-[month]
-[day]
-[year]
-
-End date (*Required)
-
-[month]
-[day]
-[year]
  
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-IF VA medical records:
+[IF yes:]
 
-**Do you want to add another facility?**
 
-Be sure to add all VA facilities that treated you for the issue(s) you want us to review:
+**Which facility treated you?**
 
-- Yes
-- No
+We’ll request your VA medical records from here
 
-**_BACK_**
 
-**_CONTINUE_**
+Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
 
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
+Error: You need to enter a VA facility
 
-IF VA medical records:
 
-**Summary**
+Choose the conditions for which you received treatment at this facility. (*Required)
 
-We’ll obtain your records from these VA facilities. 
+Error: You need to choose a condition.
 
-Facility Name
-
-Dates
-
-Edit
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-IF VA medical records edit:
-
-**Summary**
-
-We’ll obtain your records from these VA facilities. 
-
-Which facility treated you for your disability?
-
-Location: Name of VA medical center, VA treatment facility, or Federal department or agency (*Re	quired)
-
-Date(s) of record
-
-Start date (*Required)
+ 
+First treatment date (You can estimate) (*Required)
 
 [month]
-[day]
-[year]
 
-End date (*Required)
+[day]
+
+[year]
+ 
+
+Last treatment date (You can estimate) (*Required)
 
 [month]
+
 [day]
+
 [year]
+
+
+Add another location
+
  
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-PRIVATE medical records:
+[PRIVATE medical records:]
 
-**How do you want to share your private medical records?**
+**Would you like us to request your private medical records?**
 
-You can upload your records or we’ll get your records for you. (*Required)
+- [ ] Yes
 
-- [ ] I’ll upload my records
-- [ ] Please get my records for me
+- [ ] No
 
-What should I choose? (expand)
+Types of evidence / expand
 
-You upload your medical records
+VA medical records
 
-If you upload a digital copy of all your medical records, we can review your claim more quickly. Uploading a digital file works best if you have a computer with a fast Internet connection. The digital file can only be uploaded as a pdf.
+If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
 
-We get your medical records for you
+Private medical records
 
-If you tell us the name of the private doctor or hospital that treated you for your condition, we can get your medical records for you. Getting your records may take us some time, and this could mean that it’ll take us longer to make a decision on your claim.
+If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+
+Lay statements or other
+
+A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
+
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-IF PRIVATE  medical records:
-Get my records
 
 **We need your authorization to request your medical records**
 
@@ -450,16 +416,23 @@ I voluntarily authorize and request disclosure (including paper, oral, and elect
 1. All records and other information   regarding my treatment, hospitalization, and outpatient care for my impairment(s) including, but not limited to:
 
 •  Psychological, psychiatric, or other mental impairment(s) excluding "psychotherapy notes" as defined in 45 C.F.R. §164.501,
+
 •  Drug abuse, alcoholism, or other substance abuse,
+
 •  Sickle cell anemia,
+
 •  Records which may indicate the presence of a communicable or non-communicable disease; and tests for or records of HIV/AIDS,
+
 •  Gene-related impairments (including genetic test results)
 
 2. Information about how my impairment(s) affects my ability to complete tasks and activities of daily living, and affects my ability to work.
 
 3. Information created within 12 months after the date this authorization is signed in Item 11, as well as past information.
+
 You should not complete this form unless you want the VA to obtain private treatment records on your behalf. If you have already provided these records or intend to obtain them yourself, there is no need to fill out this form. Doing so will lengthen your claim processing time.
+
 In accordance with 38 C.F.R. §3.159(c), "VA will not pay any fees charged by a custodian to provide records requested."
+
 I hereby authorize the sources listed in Section IV, to release any information that may have been obtained in connection with a physical, psychological or psychiatric examination or treatment, with the understanding that VA will use this information in determining my eligibility to veterans benefits I have claimed.
 
 I understand that the source being asked to provide the Veterans Benefits Administration with records under this authorization may not require me to execute this authorization before it provides me with treatment, payment for health care, enrollment in a health plan, or eligibility for benefits provided by it.
@@ -470,21 +443,22 @@ I also understand that I may revoke this authorization in writing, at any time e
 
 I understand that VA may use information disclosed prior to revocation to decide my claim.
 
-Note: For additional information refer to the following website: https://www.benefits.va.gov/privateproviders/.
-
 - [ ] I acknowledge and authorize this release of information (*Required)
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-IF Private  medical records:
 
-**Where did you receive treatment?**
+[IF Private  medical records:]
+
+**Where did you receive treatment?** 
 
 We’ll request your private medical records from here.
 
@@ -504,105 +478,90 @@ State
 
 Postal code
 
-Date of record(s)
+Choose the conditions for which you received treatment at this facility. (*Required)
 
 First treatment date (you can estimate) (*Required)
 
 Month
+
 Day
+
 Year
 
 Last treatment date (you can estimate)(*Required)
 
 Month
+
 Day
+
 Year
 
+**_Add another location_**
+
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
 IF PRIVATE  medical records:
-Get my records
-
-**What were you treated for?**
-
-- [ ] Contention from issue list
-
-Description
-
-Decision date
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-PRIVATE  medical records:
-
-Get my records
-
-**Do you want to add another facility?**
-
-- Yes
-- No
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-IF PRIVATE  medical records:
-Get my records
 
 **Do you want to limit the information VA requests?**
 
 - [ ] I want to limit my consent for VA to retrieve specific information from my private medical provider(s).
 
-Describe the limitation below (you can limit to treatment dates, type of disability, etc. 400 characters max) 
+Describe the limitation below (you can limit to treatment dates, type of disability, etc. 400 characters max)
+
 *text input field
 
-**_BACK_**
+What does this mean / expand
 
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-IF Private  medical records edit:
-
-**Summary**
-
-We’ll obtain your records from these providers.. 
-
-Facility Name
-
-Dates
-
-Edit
+If you choose to limit consent, your doctor will follow the limitation you specify. Limiting consent could add to the time it takes to get your private medical records.
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
-IF Supporting (lay) statements, other evidence or upload your documents
+** Do you want to upload your records or other documents to support your claim?
 
-**Upload your evidence**(*Required)
+Yes
+No
+ 
+Types of evidence / expand
+
+VA medical records
+
+If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
+
+Private medical records
+
+If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+
+Lay statements or other
+
+A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
+
+**_BACK_**
+
+**_CONTINUE_**
+
+----------------------------------------------
+
+## STEP 3 of 4: New and relevant evidence
+
+We'll save your application every time you add or update information.
+
+**Upload your supporting evidence**(*Required)
 
 You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (also known as lay statements), and other types of evidence. We’ll prompt you to upload each document from your device, but you may first need to scan your document, then save each file as a PDF and upload it.
 
@@ -612,16 +571,22 @@ If you have access to a computer connected to a scanner, you can scan each docum
 
 If you have access to a smartphone, you can download or use the Notes app (for an iPhone) or the Google Drive app (for an Android phone) to scan each document onto the phone. The file will automatically save as a PDF when you’re done scanning.
 
-A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow Internet connection. 
+• File types you can upload: pdf
 
-*Upload*
+• Maximum file size: 100MB
+
+A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow Internet connection.
+
+**_Upload_**
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
+----------------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
 
 IF Supporting (lay) statements, other evidence or upload your documents
@@ -636,71 +601,73 @@ XKB
 
 Document type (*Required)
 
-***_Delete_***
+***_Remove_***
+
+***_Upload another document_
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
+------------------------------------
+
 ## STEP 3 of 4: New and relevant evidence
+
 We'll save your application every time you add or update information.
-
-IF Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
-
-**Do you want to upload another document?**
-
-- Yes
-- No
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
-
-IF Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
 
 **Summary**
 
-You’ve uploaded these documents to support your claim
+You’re requesting records from these VA locations:
+
+Edit
+
+Location name
+
+Condition
+
+Date – Date
+
+Remove
+
+You’re requesting records from these private providers:
+
+Edit
+
+Location name
+
+Condition
+
+Date – Date
+
+Remove
+
+You’ve uploaded these documents:
+
+Edit
 
 Filename.pdf
 
 Document type
 
-*Edit*
+Remove
+
+**_Add more evidence_**
 
 **_BACK_**
 
 **_CONTINUE_**
 
----
-## STEP 3 of 4: New and relevant evidence
-We'll save your application every time you add or update information.
+----------------------------------------------
 
-IF Supporting (lay) statements, other evidence or upload your documents
-Upload your evidence
-
-**Is there anything else you’d like to add to support your claim?**
-
-Additional information (400 characters max)
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
 ## Step 4 of 4: REVIEW & SUBMIT
+
 We’ll save your application every time you add or update information.
 
 **Veteran information**
 
 Contact information
+
+Edit
 
 Home phone number
 
@@ -714,68 +681,52 @@ City
 
 State
 
-Edit
-
-
-Homelessness
-
-Are you experiencing homelessness or at risk of becoming homeless?
-
-Answer
-
-*Edit*
-
-
 **Issues for review**
+
+Edit
 
 Issue
 
 Decision date
 
-*Edit*
-
-
 **Supporting evidence**
 
-Evidence types
+Notice of Acknowledgement
 
-VA medical records
-
-Private medical records
-
-Supporting (lay) statements or other evidence
-
-Status (selected)
-
-*Edit*
-
-
-Supporting (lay) statements or other evidence
-
-Uploaded
-
-Filename.pdf
-
-6kb
-
-
-Document type
-
-Buddy/lay statement
-
-*Edit*
-
-
-**Notice of Acknowledgement**
-
-Certification
+Edit
 
 I certify that I have reviewed the notice of evidence needed.
 
 Yes, I certify
 
-*Edit*
 
+Supporting evidence types
+
+VA medical records
+
+Edit
+
+Location name
+
+Condition
+
+Date – Date
+
+Private medical records
+
+Location name
+
+Condition
+
+Date – Date
+
+Supporting (lay) statements or other evidence
+
+filename
+
+file size
+
+document type
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
@@ -785,5 +736,4 @@ Yes, I certify
 
 **_Back_**
 
-
-
+---
