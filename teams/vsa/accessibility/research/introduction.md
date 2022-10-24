@@ -96,7 +96,7 @@ This will likely vary project to project depending on what you’re working on, 
 * Of color (specifically Black, Hispanic/Latina/Latinx, and Native)
 * Who are primarily mobile or tablet device users
 * Who identify as other than male (for example: women, transgender, nonbinary, two-spirit)
-* Who live in rural areas without strong internet connections
+* Who live in rural areas with a weaker internet connection
 * Without a degree or professional certificate
 
 If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a total equitable sample like this:
