@@ -48,16 +48,16 @@ An example of ***inequality*** would be if Spanish-speaking Veterans struggle to
 ### Equity
 Equity is when we recognize that people come from different circumstances and allocate the exact resources and opportunities needed to reach an equal outcome.
 When we talk about ***equity*** in recruitment, we’re talking about giving underserved communities of Veterans *more* opportunities to participate in our research.
-For example, a sample of [past research studies](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) suggests that we’ve failed to recruit:
-* Hispanic, Latina, and Latinx Veterans despite them making up [8% of the Veteran population (estimated to rise to 12% in 2045)](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
-* Asian Veterans (around 2% of the Veteran population)
+For example, a sample of [past research studies](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) suggests that we’ve done poorly at recruiting:
 * Native Veterans who have the [highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women)
+* Veterans without degrees, who are [far more likely than non-veterans to hold non-degree credentials](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf), including certificates and certifications.
+* LGBTQ+ Veterans, [who are are 5 times as likely to have PTSD](https://www.va.gov/HEALTHEQUITY/docs/LGBT_Veterans_Disparities_Fact_Sheet.pdf)
 
-If we want to make up for years of research potentially biased towards the needs of a majority white Veteran population, we need to make a conscious effort to recruit more Veterans of color.
+If we want to make up for years of research potentially biased towards the needs of a majority white and well-educated Veteran population, we need to make a conscious effort to recruit more Veterans from underserved communities.
 
 <details>
- <summary>How does race or X dimension play into this? Isn't that irrelevant to understanding a Veteran's digital preferences or needs?</summary>
- While race may not play into certain kinds of research we conduct (like the usability testing of a button), it may play an important role in others (like interviews about a Veteran's <a href="https://www.nber.org/digest/dec02/gi-bill-world-war-ii-and-education-black-americans">education</a> or <a href="https://www.latimes.com/world-nation/story/2021-02-05/la-na-tuskegee-study-black-distrust-access-vaccine">trust towards health care benefits</a>). Our research is also relational. As we all draw from the same participant database, who we request in our own individual studies can have an outwards impact into who Perigean continues to recruit-- and ultimately who we end up having access to. Being proactive about recruiting from underserved communities, even if dimensions like race may be irrelevant to your study, will make it easier for other researchers to recruit from those communities too instead of returning to dominant groups as the default.
+ <summary>How do identities like race play into this? Isn't that irrelevant to understanding a Veteran's digital preferences or needs?</summary>
+ While identities like race may not play into certain kinds of research we conduct (like the usability testing of a button), they may play an important role in others (like interviews about a Veteran's <a href="https://www.nber.org/digest/dec02/gi-bill-world-war-ii-and-education-black-americans">education</a> or <a href="https://www.latimes.com/world-nation/story/2021-02-05/la-na-tuskegee-study-black-distrust-access-vaccine">trust towards health care benefits</a>). Our research is relational. As we all draw from the same participant database, who we request in our own individual studies can have an outwards impact into who Perigean continues to recruit-- and ultimately who we end up having access to. Being proactive about recruiting from underserved communities, even if dimensions like race may be irrelevant to your study, will make it easier for other researchers to recruit from those communities too instead of returning to dominant groups as the default.
 </details>
 
 ### Inclusive research
