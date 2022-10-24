@@ -14,7 +14,7 @@ Section 2: Card sort
 
 Links for notetakers:
 - [Sign up sheet] (no link) - Marci McGuire to organize using Slack functionality
-- [Mural board](link) - need to provide
+- [Mural board(https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666625596260/90fc2a6158fd66770cd596c2c8c28b5602cee416?invited=true&sender=u7de68ed54bc434b67b630908)
 - [Note-taking folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews)
 
 ## Moderator logistics
