@@ -4,7 +4,7 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
 - [Phase II: Staged Rollout](#Phase-ii-staged-rollout)
-- [Go Live!](#Go-Live!)
+- [Go Live!](#Go-Live)
 
 ## Phase I: UAT
 
