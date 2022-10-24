@@ -55,6 +55,11 @@ For example, a sample of [past research studies](https://docs.google.com/spreads
 
 If we want to make up for years of research potentially biased towards the needs of a majority white Veteran population, we need to make a conscious effort to recruit more Veterans of color.
 
+<details>
+ <summary>How does race or X dimension play into this? Isn't that irrelevant to understanding a Veteran's digital preferences or needs?</summary>
+ While race may not play into certain kinds of research we conduct (like the usability testing of a button), it may play an important role in others (like interviews about a Veteran's <a href="https://www.nber.org/digest/dec02/gi-bill-world-war-ii-and-education-black-americans">education</a> or <a href="https://www.latimes.com/world-nation/story/2021-02-05/la-na-tuskegee-study-black-distrust-access-vaccine">trust towards health care benefits</a>). Our research is also relational. As we all draw from the same participant database, who we request in our own individual studies can have an outwards impact into who Perigean continues to recruit-- and ultimately who we end up having access to. Being proactive about recruiting from underserved communities, even if dimensions like race may be irrelevant to your study, will make it easier for other researchers to recruit from those communities too instead of returning to dominant groups as the default.
+</details>
+
 ### Inclusive research
 Research that aims to include underserved communities so that they can play an active role in decisions that affect their own lives.
 For us, that means creating a future where underserved Veteran communities (including caretakers and family members) can fully take part in our research.
