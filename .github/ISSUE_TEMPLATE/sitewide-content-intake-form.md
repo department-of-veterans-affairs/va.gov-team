@@ -19,7 +19,7 @@ assignees: RLHecht
   - [ ] IA support
   
   
-*Please describe your need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
+*Please be specific about the content or IA support you need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
 
 ## Will this new product be released incrementally (for instance 25% of users initially)? 
   - [ ] Yes
