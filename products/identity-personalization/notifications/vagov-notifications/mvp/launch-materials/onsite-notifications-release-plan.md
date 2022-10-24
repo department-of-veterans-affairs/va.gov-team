@@ -49,10 +49,10 @@ _Dates subject to change_
 
  
 ### 1-week (at 100%) results:
-Analytics results for week 1:
+Analytics results for week 1 (10/24 - 10/31):
 
 ### 1-month (at 100%) results:
-Analytics results for month 1:
+Analytics results for month 1 (10/24 - 11/24):
 
 ## Post-launch Questions 
 
