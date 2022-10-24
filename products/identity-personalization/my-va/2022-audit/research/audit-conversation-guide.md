@@ -2,6 +2,7 @@
 
 - [ ] Make sure the feature flipper is turned on for the participant before the session
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
+- [ ] Turn on Zoom transcription
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
@@ -34,13 +35,11 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-1. First, tell me a little about yourself and your relationship to the VA.
-
-2. Can you tell me what benefits you currently have through VA, if any?
+1. First, can you tell me what benefits you currently have through VA, if any?
   
-3. What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
+2. What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
 
-4. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
+3. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
 
 **Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model.**
 
