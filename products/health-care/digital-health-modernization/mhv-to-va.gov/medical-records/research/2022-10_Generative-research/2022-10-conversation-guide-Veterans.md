@@ -62,7 +62,7 @@ Could the notetaker and observers please turn their cameras off now to save band
 
 *(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
-Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do a sorting exercise.
+I am part of a team working on the health section on VA.gov. We are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. 
 
 Before we start, I want to go over a few things:
 
@@ -103,7 +103,7 @@ Let’s start with a few questions...
 
 	- *(If using assistive technology:)* How long have you been using [specific assistive technology]?
 
-3. As we age, we continue to have health-related experiences that need to be documented so that we can better understand our health and so that our doctors, nurses, and other providers can better take care of us. If all your health issues, treatments, and other histories were combined into one list, what would you call that list?  
+3. Like I said, we are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. Thinking along those lines, I'm going to ask you a question: as we age, we continue to have health-related experiences that need to be documented so that we can better understand our health and so that our doctors, nurses, and other providers can better take care of us. If all your health issues, treatments, and other histories were combined into one list, what would you call that list?  
 
 	- *OPTIONAL PROBES:* Would different types of information be in different lists? What types of lists would be in one list versus a different list? *(Interviewer can continue to probe to provide clarity on what types of information should be grouped or can move on, depending on how participant is responding.)*
 
