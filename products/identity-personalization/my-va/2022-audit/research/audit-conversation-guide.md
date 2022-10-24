@@ -48,9 +48,8 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 *Once they are past the login screen, restart the recording.*
 
 - Okay so I'm going to ask you to think out loud while the next page loads. Any thoughts you're having would be helpful to hear.
-- *Once the full page has loaded* You said you use VA.gov to do X. Tell me how you'd go about doing/looking into X from here.
-- Let's scroll down to the education and training section. Can you tell me what you think this section is for?
-- Are any of the links in this section of interest to you? *(If not)* How do you feel about seeing this section on My VA?
+- *Once the full page has loaded* You said you go online to check X. Tell me how you'd go about doing/looking into X from here.
+- *If they mention education benefits in the intro questions* Let's scroll down to the education and training section. Are any of the links in this section of interest to you? Is there anything else about education benefits that you would want to look up that you're not seeing here?
 - Let's scroll down to the saved applications section. What do you think this section is for? What does "saved applications" mean to you?
 - If you filled out an application and submitted it to VA, would you expect to see that application here or somewhere else?
 - Is there anything you're expecting to see on this page that you don't see?
