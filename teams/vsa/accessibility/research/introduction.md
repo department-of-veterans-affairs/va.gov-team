@@ -62,7 +62,7 @@ For us, that means creating a future where underserved Veteran communities (incl
 ---
 
 ## Why does inclusive research matter?
-We want to empower underserved communities of Veterans to be able to fully represent themselves in our research. By doing so, we can:
+Inclusive research helps us fight sampling bias, or the bias of recruiting Veterans from majority groups by default instead of underserved groups. More importantly, it helps us think about how we can center and prioritize underserved communities of Veterans in our research. By doing so, we can:
 
 ### Design services that *all* Veterans can easily access and use.
 By including communities of Veterans with more complex and underrepresented needs first we can:
