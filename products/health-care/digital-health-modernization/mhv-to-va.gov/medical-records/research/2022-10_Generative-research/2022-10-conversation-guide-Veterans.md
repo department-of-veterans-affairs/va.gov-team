@@ -140,6 +140,9 @@ Let’s start with a few questions...
 
 	- What do you think about how these things are grouped? 
 
+![Screen Shot 2022-10-24 at 2 44 36 PM](https://user-images.githubusercontent.com/100814257/197612606-3492bb73-bde1-4734-90a7-f4213da446be.png)
+
+
 ## Section 2A: Card sort - 15-20 mins 
 *(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
 
@@ -207,39 +210,39 @@ How would you prefer the link to the sorting activity? I could say it out loud f
 
 Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
 
-14. *SCENARIO:* Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found? 
+14. *SCENARIO:* Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there? 
 
-15. *SCENARIO:* Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information? 
+15. *SCENARIO:* Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found?
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
 16. *SCENARIO:* What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
-17. *SCENARIO:* Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
+17. *SCENARIO:* Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information?  
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
 18. *SCENARIO:* Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
 19. *SCENARIO:* Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
 
-	- *OPTIONAL PROBE:* If there was a tab where you would expect to find this information, what would that tab be named? 
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
 
