@@ -16,8 +16,17 @@
 
 ## Monday, October 24, 2022
 * v1 status check
-* What is the logic for when FL retruns a Facility page vs a Detail page 
-*    https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+* URL Updates - Staleness applies to Vet Centers 
+  * Are we properly sending people to new Vet Center facility pages?
+  * What is the logic for when FL returns a Facility page vs a Detail page 
+  * https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+* Sandbox data 
+* Supporting a country code 
+* KB articles in support of v1
+* Mental health phone numbers
+ * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
+
+
 
 ## Monday, October 17, 2022
 Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
