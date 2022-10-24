@@ -27,6 +27,8 @@ Of the three decision review pathways, supplemental claims are the most widely u
 
 The passing of the PACT Act is expected to have significant impact, as previously denied Veterans will be encouraged to file a Supplemental Claim.
 
+[Research presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/Design%20and%20Research%20Share%20-%20SupplementalClaimsUsability.pdf)
+
 # Research Goals
 
 1. Determine if the process of filing a Supplemental Claim is clear and actionable.
