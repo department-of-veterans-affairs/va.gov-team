@@ -39,7 +39,7 @@ Examples of the above include, but are not limited to:
 ### Equality
 Equality is when people are given the *same* resources or opportunities.
 When we talk about ***equality*** when recruiting users, we’re talking about Veterans, their family members, and their caretakers all having equal opportunities to participate in our research.
-For example, if 77% of Veterans are white and 15% of Veterans are Black, a research study that aims for equality should be made up of around 77% white Veterans and 15% Black Veterans.
+For example, if 77% of Veterans are white and 15% of Veterans are Black, your research should be made up of around 77% white Veterans and 15% Black Veterans.
 An example of ***inequality*** would be if Spanish-speaking Veterans struggle to sign up for our studies because it’s not offered in their primary language.
 
 <br aria-hidden="true"/>
@@ -88,10 +88,19 @@ The more we openly talk about underserved communities of Veterans, point out gap
 Let’s be honest. Inclusive research is hard and we’re going to need a diverse community to continue taking steps in the right direction. It’s 100% ok to be lost and confused. If you have a question, ask it in our slack channel! We’ll work together to find better answers with absolutely no judgment in the process.
 
 ### 2. Shoot for the equity stars even if you end up landing up in an equality tree
-When starting your recruitment process, think about which underserved groups of Veterans may be the most critical in your research.
+When starting your recruitment process, think about which underserved groups of Veterans may be the most critical or underreached in your research. Who haven't you been able to recruit in the past? Whose needs may be more critical?
 
-This will likely vary project to project depending on what you’re working on, but it’s always a safe bet to aim for an equitable sample that is:
-* 100% Veterans with an identified cognitive disability (*anyone* can acquire a cognitive disability)
+This will likely vary project to project depending on what you’re working on, but we recommend starting out by **selecting at least 1-2 of the following dimensions as primary criteria** for your research (meaning 100% of your participants identify as one of the following)...
+* With an identified cognitive disability (*anyone* can acquire a cognitive disability)
+* Age 55 or older
+* Of color (specifically Black, Hispanic/Latina/Latinx, and Native)
+* Who are primarily mobile or tablet device users
+* Who identify as other than male (for example: women, transgender, nonbinary, two-spirit)
+* Who live in rural areas without strong internet connections
+* Without a degree or professional certificate
+
+If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a total equitable sample like this:
+* Mostly (if not all) Veterans with an identified cognitive disability (*anyone* can acquire a cognitive disability)
 * More than 50% age 55 or older
 * More than 50% Veterans of color (specifically Black, Hispanic/Latina/Latinx, and Native)
 * More than 50% primarily mobile or tablet device users
@@ -116,7 +125,7 @@ If you’re not sure who else you should be including in your research, what goa
 ### 3. And if you can’t land in an equality tree, talk about it!
 If you can’t hit goals for equity or even equality, that’s 100% OK. It’s going to take time and teamwork to get there, and the best way to make progress is to continue the conversation (we’ll provide some actionable steps at the end).
 
-If you’re unable to recruit the following (which will likely be in most cases)...
+If you’re unable to recruit the following over time (which will likely be in most cases)...
 * 50% with an identified cognitive disability
 * 50% aged 55 or older
 * 50% primarily mobile users
@@ -143,11 +152,11 @@ If you’re unable to recruit the following (which will likely be in most cases)
   * Sighted keyboard
 
 …ask yourself and your team these questions as your first step:
-* Which underserved communities were missing or underrepresented in our research?
+* Which underserved communities were missing or underrepresented in our studies?
   * Why were they missing or underrepresented?
   * Are we confident that the insights we uncovered from other groups will apply to them too?
     * If so, why? What makes us confident? Are we making assumptions or do we have trusted sources of information we can point to?
-* How might we run another session with underserved communities that were missing from this study?
+* How might we run another session with underserved communities that were missing from our studies so far?
   * Should we conduct a separate study (for example, usability testing) that focuses specifically on recruiting these underserved communities?
   * If we can’t run another session, why not? What’s blocking us?
     * Can we share what’s blocking us with the #inclusive-research channel?
@@ -157,7 +166,7 @@ If you’re unable to recruit the following (which will likely be in most cases)
   * Contribute any of our findings to #inclusive-research’s collective understanding, conversation, and guidance of inclusive research?
 
 …then talk about it in your research presentation! It’s as easy as using our [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) which will help you:
-* Spot gaps of underserved Veteran communities who may have been left out of your research
+* Spot gaps of underserved Veteran communities who may have been left out of your research over time
 * Present those gaps in your readout and presentation
 * Start thinking about how to include those underserved Veterans in your next study
 * Spark more conversation on how we can get better at recruiting those underserved Veteran communities
