@@ -174,15 +174,15 @@ A blind participant shared that they haven’t had a very accessible experience 
 
 * Synthesize design considerations into backlog items/ design tasks 
 
-#### Step 3: Iterate on design concepts **
+#### Step 3: Iterate on design concepts
 
 * Create design concepts based on priority items
 
-**Step 4: Development Backlog**
+#### Step 4: Development Backlog
 
 * Put completed designs in the development backlog and work with leadership and PO(s) to prioritize
 
-**Step 5: Releaseg**
+#### Step 5: Release
 * Go through the pre-launch process and launch the new feature
 
 
