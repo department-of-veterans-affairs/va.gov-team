@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: October 14, 2022
+Last Updated: October 24, 2022
 
 ### Communications
 
@@ -86,8 +86,8 @@ We are also working with VA Profile to send an initial email blast to folks who 
 - August 2022: QA
 - September 2022: UAT
 - October 13, 2022: Launch to 25%
-- October X, 2022: Launch to 50%
-- October X, 2022: Launch to 100%
+- October 17, 2022: Launch to 50%
+- October 24, 2022: Launch to 100%
 
 ## Measuring success
 
