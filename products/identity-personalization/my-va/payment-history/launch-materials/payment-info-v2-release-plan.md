@@ -66,7 +66,7 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 | Launch to 50% | mm/dd/yyyy | mm/dd/yyyy |
 | Launch to 100% | mm/dd/yyyy | mm/dd/yyyy |
 
-_Need to add success metrics/criteria and launch stats_
+[**v2 success metrics**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current)
  
 ### 1-week results (at 100%):
 - **Number of unique users:**
