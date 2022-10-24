@@ -92,7 +92,7 @@ The more we openly talk about underserved communities of Veterans, point out gap
 ### 1. Join our community at **#inclusive-research**
 Let’s be honest. Inclusive research is hard and we’re going to need a diverse community to continue taking steps in the right direction. It’s 100% ok to be lost and confused. If you have a question, ask it in our slack channel! We’ll work together to find better answers with absolutely no judgment in the process.
 
-### 2. Shoot for the equity stars even if you end up landing up in an equality tree
+### 2. Focus on a couple of dimensions at a time 
 When starting your recruitment process, think about which underserved groups of Veterans may be the most critical or underreached in your research. Who haven't you been able to recruit in the past? Whose needs may be more critical?
 
 This will likely vary project to project depending on what you’re working on, but we recommend starting out by **selecting at least 1-2 of the following dimensions as primary criteria** for your research (meaning 100% of your participants identify as one of the following)...
@@ -104,7 +104,7 @@ This will likely vary project to project depending on what you’re working on, 
 * Who live in rural areas with a weaker internet connection
 * Without a degree or professional certificate
 
-If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a total equitable sample like this:
+If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a more equitable sample across the board like this:
 * Mostly (if not all) Veterans with an identified cognitive disability (*anyone* can acquire a cognitive disability)
 * More than 50% age 55 or older
 * More than 50% Veterans of color (specifically Black, Hispanic/Latina/Latinx, and Native)
@@ -113,7 +113,7 @@ If you continue to **strategically and iteratively sample different combinations
 * More than 50% in a rural area
 * More than 50% without a degree or professional certificate
 
-For any research that introduces new design patterns, involves a form, or requires a good amount of interaction that goes beyond reading content, it’s also a safe bet to plan a study specific for disabled Veterans who use technology to help access the internet (assistive technology) including, but not limited to:
+For any research that introduces new design patterns, involves a form, or requires a good amount of interaction that goes beyond reading content, **we recommend starting with a study specific to disabled Veterans** who use technology to help access the internet (assistive technology) including, but not limited to:
 * Desktop screen reader like JAWS or NVDA
 * Mobile screen reader like VoiceOver or TalkBack
 * Magnification or Zoom tools like ZoomText or Fusion
@@ -127,34 +127,10 @@ For any research that introduces new design patterns, involves a form, or requir
 We encourage you to add on any other characteristics that may be relevant to the service you’re working on. For example, if you’re doing research around caretakers and family members, you may want to consider including caretakers and family members who don’t speak English as their first language.
 If you’re not sure who else you should be including in your research, what goals you should be aiming for, or anything else– ask about it in our #inclusive-research channel.
 
-### 3. And if you can’t land in an equality tree, talk about it!
+### 3. And if you can’t, talk about it!
 If you can’t hit goals for equity or even equality, that’s 100% OK. It’s going to take time and teamwork to get there, and the best way to make progress is to continue the conversation (we’ll provide some actionable steps at the end).
 
-If you’re unable to recruit the following over time (which will likely be in most cases)...
-* 50% with an identified cognitive disability
-* 50% aged 55 or older
-* 50% primarily mobile users
-* 30% people of color
-  * 15% Black
-  * 12% Hispanic/Latina/Latinx
-  * 4% Biracial
-  * 3 % Asian
-  * At least one Native participant
-* 25% in a rural area (anecdotally quoted at 45% by David Shulkin)
-* 25% without a degree
-* 17% with immigrant origins
-* 10% women
-* At least one participant of each that identifies as:
-  * Gay, lesbian, or bisexual
-  * Transgender
-  * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender other than male or female
-* At least one participant of each that uses a:
-  * Desktop Screen Reader
-  * Mobile Screen Reader
-  * Magnification/Zoom
-  * Voice AT like Siri/Dragon Naturally Speaking
-  * Hearing Aids
-  * Sighted keyboard
+**If you notice you're not successfully recruiting from the groups above over time...**
 
 …ask yourself and your team these questions as your first step:
 * Which underserved communities were missing or underrepresented in our studies?
