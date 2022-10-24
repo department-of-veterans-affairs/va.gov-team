@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now.**
+## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now.
 
 Before we look at the website, I'd like to get a little background information from you:
 
@@ -39,7 +39,7 @@ Before we look at the website, I'd like to get a little background information f
 
 3. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
 
-## Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model.**
+## Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model.
 
 Now I'm going to ask you to open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
 
