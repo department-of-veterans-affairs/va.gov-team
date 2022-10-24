@@ -42,6 +42,8 @@ Add your team's practice and contact information below.
    - [ ] Benefit Tools
    - [ ] Lighthouse API
 
+- **Github team name:**
+
 - **Github team label:**
  
 - **Team launch date:**
