@@ -55,7 +55,7 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-Success Metrics (link tk)
+[Success Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current)
 
 ## Go Live!
 
