@@ -52,7 +52,7 @@ We will conduct remote usability testing on Zoom using real Veteran data behind 
 - We have had the research method conversation as a team early enough that the timeline allows for coding and testing in production.
 
 ### Research materials
-[Link to conversation guide](TBD)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/audit-conversation-guide.md)
 
 ### Recruitment approach
 Our intended audience for this research is Veterans who use a variety of VA benefits so that we can get perspectives from people who value each section of My VA at different levels. Secondarily we will target assistive tech users so that we can uncover any accessibility issues as early as possible. We will use Perigean to recruit them.
