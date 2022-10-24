@@ -29,8 +29,6 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions
-
 **Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now.**
 
 Before we look at the website, I'd like to get a little background information from you:
