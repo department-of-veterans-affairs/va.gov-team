@@ -122,9 +122,9 @@ The following is needed for the MVP build:
 - July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
 - August 2022: Completed final collab cycle reviews; Awaiting launch after My VA redirect launch
 - September 2022: Fixing final analytics issues before launch
-- October 14, 2022: Launch to 25%
-- October X, 2022: Launch to 50%
-- October X, 2022: Launch to 100%
+- October 13, 2022: Launch to 25%
+- October 17, 2022: Launch to 50%
+- October 24, 2022: Launch to 100%
 
 ## Backend
 
