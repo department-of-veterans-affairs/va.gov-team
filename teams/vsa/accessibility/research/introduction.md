@@ -113,21 +113,21 @@ If you continue to **strategically and iteratively sample different combinations
 * More than 50% in a rural area
 * More than 50% without a degree or professional certificate
 
-For any research that introduces new design patterns, involves a form, or requires a good amount of interaction that goes beyond reading content, **we recommend starting with a study specific to disabled Veterans** who use technology to help access the internet (assistive technology) including, but not limited to:
-* Desktop screen reader like JAWS or NVDA
-* Mobile screen reader like VoiceOver or TalkBack
-* Magnification or Zoom tools like ZoomText or Fusion
-* Voice input technology like Siri or Dragon Naturally Speaking
-* Hearing aids
-* Keyboard (meaning they are sighted, and don’t use a mouse)
-* Captions
-* Switch devices
-* Braille readers
-
 We encourage you to add on any other characteristics that may be relevant to the service you’re working on. For example, if you’re doing research around caretakers and family members, you may want to consider including caretakers and family members who don’t speak English as their first language.
 If you’re not sure who else you should be including in your research, what goals you should be aiming for, or anything else– ask about it in our #inclusive-research channel.
 
-### 3. And if you can’t, talk about it!
+### 3. Focus on disabled Veterans first when usability testing
+
+For any research that introduces new design patterns, involves a form, or requires a good amount of interaction that goes beyond reading content, **we recommend starting with a study specific to Veterans who use screen readers or have severe cognitive disabilities**. 
+
+While research with screen reader users and Veterans with cognitive disabilities may not be representative of disabilities as a whole, it's a great starting point to stress test your product for more complex cases. 
+
+For more, 
+- [read our platform guidance on research with disabled Veterans and assistive technology](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
+- ask a question in our #accessibility-help channel or
+- join Angela Fowler's accessibility office hours on Fridays
+
+### 4. And if you can’t be inclusive, talk about it!
 If you can’t hit goals for equity or even equality, that’s 100% OK. It’s going to take time and teamwork to get there, and the best way to make progress is to continue the conversation (we’ll provide some actionable steps at the end).
 
 **If you notice you're not successfully recruiting from the groups above over time...**
