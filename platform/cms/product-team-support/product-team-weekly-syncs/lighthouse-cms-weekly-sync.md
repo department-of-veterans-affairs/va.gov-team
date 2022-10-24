@@ -16,16 +16,40 @@
 
 ## Monday, October 24, 2022
 * v1 status check
+   * No change, still on code freeze, investagting latency, what are the criteria to live the freeze?   
+   * What caused latency, how to set up safeguards, where to generate alerst 
+   * After that we should be able to push through v1 changes, batches are waiting, but will take some cycles, can't push all at once
+   * Plan is to push a change, test/asess for a few days, push next change
 * URL Updates - Staleness applies to Vet Centers 
+  * THere are 3 new sites that did not have URLs in API - making ~30 total
+  * Randi notifies that new URLs are ready - been able to get last 4 sets into API 
   * Are we properly sending people to new Vet Center facility pages?
   * What is the logic for when FL returns a Facility page vs a Detail page 
   * https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+  * Detail page still exists - Veterans will still get the detail page. 
 * Sandbox data 
-* Supporting a country code 
-* KB articles in support of v1
+  * Sandbox data will be more synthetic
+  * 1. Sandbox data as Facilities reads from env
+  * 2. What environment - that is not prod - does Facilities use to push?
+  * Facilities can push to an existing sandbox -  need to continue conversation around expanding this? 
+  * We do some of this on occasion - should this be default behavior, should there be another env? 
+  * Make sure that any changes CMS is making - we need and env to assure that any changes to push - are not just done in prod 
+* Supporting a country code - email sent, AI>> Joshua to check 
+* KB articles in support of v1 AI>> Joshua to author draft send to David S 
 * Mental health phone numbers
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
-
+  * AI>> Jay to filter existing list, remove anything where the results are fields migrated in directly, only want to see the 'non migrated' fields 
+  * AI>> DS to create ticket 
+  * THEN, Is there a nuance to the delta , for example is one  data source giving and extenstion the other doesn't
+* Once v1 is ready, are we ready to start pushing CAPs - where did we agree on payload - LH team still has to set up new endpoint (simliar to standard CMS pushes), set up data structure to inject whatever we agree upon, then assure that everything is working
+  * LOE - likely be a couple sprints
+  * What cycles can move while in code freeze? 
+  * Is there an optty in next couple mondays to figure out payload? come to concesus
+  * Jay proposed 3 payload discusssions in Slack 
+    * CAPS https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+    * Cover other 2 if time allows 
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664375519019619
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664383503541379 
 
 
 ## Monday, October 17, 2022
