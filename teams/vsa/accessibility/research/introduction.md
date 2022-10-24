@@ -185,41 +185,6 @@ If you’re unable to recruit the following over time (which will likely be in m
 ![image](https://user-images.githubusercontent.com/14154792/155893795-8f723f61-bcca-4ddb-bc35-e063d600c074.png)
 [Readout example by Liz Lantz for her My VA Payment study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#underserved-groups-we-havent-talked-to)
 
-### 4. And if you have some more time…
-Consider checking out our [full inclusive research guidelines on github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research) which covers more topics like:
-* [Documents, tools, and methods for inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/documents-tools-and-methods.md)
-* [Inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-* [Research with disabled Veterans and Veterans who use assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md)
-* And more!
-
-We also have a team of volunteers who help write these guidelines actively. If you’re interested in contributing, let us know at #inclusive-research.
-
----
-
-## Future goals for inclusive research (not in plain language)
-
-### Equitable recruitment of underserved Veteran communities.
-1. Set targets for recruiting underserved Veteran communities based on existing and projected VA statistics. Start piloting methods to track recruitment diversity.
-2. **Now:** Begin actively tracking how many Veterans from underserved communities are participating in our studies each quarter across all VSA teams.
- 1. Consider automating this through the existing recruitment tracker spreadsheet
-3. **Later:** Analyze where we are sourcing Veterans from and explore new ways of widening recruitment to be more representative of the Veteran population.
-
-### Documentation, materials, and methods are inclusive and accessible to all underserved Veteran communities.
-1. **Now:** Reach out to and consult with medically trained professionals and organizations that focus on underserved Veteran communities. Ensure all recruitment documents and materials such as surveys and consent forms are Section 508 compliant and inclusively written.
-2. **Next:** Test new inclusive research methods and retire inaccessible ones.
-3. **Later:** Find metrics to evaluate our materials and methods with Veterans from underserved communities.
-
-### Team members understand, value, and actively push forward inclusive research efforts.
-1. Encourage researchers and designers to attend Angela’s office hours and to request accessibility specialist collaboration on research efforts.
-2. Create an inclusive research community at the VA
-3. **Now:** Create plain language resources and simple templates for inclusive research methods. Update onboarding to include inclusive research guidelines and training.
-4. **Next:** Develop a more self-aware and transparent research culture on checking personal biases and communicating out risk.
-
-### Current and future team members are equitably hired.
-1. **Now:** Educate teams and internal stakeholders on the tangible value of diversity and inclusion of practitioners when it comes to inclusive product development. (Reference *Good Services* by Lou Downe, *Mismatch* by Kat Holmes, etc).
-2. **Next:** Track diversity on research teams and mitigate the risk of a lack of practitioner triangulation by pairing researchers with embedded specialists.
-3. **Later:** Create plans for inclusive hiring practices.
-
 [^1]: Veterans experience mental health disorders, substance use disorders, post-traumatic stress, and traumatic brain injury at disproportionate rates compared to their civilian counterparts |  [US veterans and their unique issues: enhancing health care professional awareness (NIH)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4671760/)
 [^2]: We’re using Hispanic, Latina, and Latinx as a way of acknowledging that there isn’t one good label for an incredibly diverse group of people.
 [^3]: A professional certificate or certification is something colleges, universities and other professional or trade organizations award to those who complete a formal instruction or training program to learn the skills needed to work in a specific industry.
