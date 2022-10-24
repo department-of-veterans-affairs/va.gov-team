@@ -25,8 +25,8 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
      - The feature will be behind a feature flag. _(most likely, update if method changes)_
 - **Link to Research plan for UAT**: 
-   - Research Plan for Payment info v2 UAT (doc tk)
-   - Conversation Guide: Payment info v2 UAT (doc tk)
+   - [UAT Research Plan for Payment info v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-research-plan.md
+   - [UAT Conversation Guide for Payment info v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-conversation-guide.md)
 
 ### Results:
 - **Number of users:**
