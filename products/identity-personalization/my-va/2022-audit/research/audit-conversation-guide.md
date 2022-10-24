@@ -80,8 +80,9 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 - Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
 
 1. How important is the information that we looked at today to you?
-2. What did you expect to see that you didn't see, and what did you see that you didn't want or need to see?
-3. If you could change one thing about the page we just looked at together, what would it be?
+2. What did you expect to see that you didn't?
+3. Was there anything we looked at on My VA today that you didn't want or need to see on that page?
+4. If you could change one thing about the page we just looked at together, what would it be?
 
 ## Thanks and Closing
 
