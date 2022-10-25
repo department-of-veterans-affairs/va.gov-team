@@ -157,12 +157,10 @@ _Why would your business want this to exist?_
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
-## Measuring Success
+## Analytics
 
-- [Link to My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
-- [Overview of My VA Analytics](https://github.com/ericasauv09/Personal/blob/main/My%20VA%20Analytics.md)
-- [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
-- [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+- [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
+- [My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
 
 ## Projects
 
