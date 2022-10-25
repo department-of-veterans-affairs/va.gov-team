@@ -248,7 +248,6 @@ I would like you to consider each field in this form before clicking the search 
     *If the participant doesn’t mention the search was in the inbox, ask:*
 
 -   Did you search in all folders or just the inbox? What makes you say that?
--   What would you have changed if the message was not in the inbox, but in your Eye doctor folder? What makes you say that?
 
 If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.
 
