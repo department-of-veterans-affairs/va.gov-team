@@ -63,20 +63,18 @@ The findings from this research will help our team understand how accessible our
 3. What, if anything, are people expressing positive reactions to? How are they reacting?
 4. Does the app have room for improvement with these tools and other tools that we may not consider during testing?  
 5. How is the content language translating to the Veteran? 
-6.Are there accessibility issues logging into the VA health and benefits app, and if so, how does the Veteran find a workaround? 
+6. Are there accessibility issues logging into the VA health and benefits app, and if so, how does the Veteran find a workaround? 
 
 
 ## Hypothesis
 
 
-
-1. Participants will be able to complete tasks that involve clicking through 3 or less screen, but might run into usability hurdles with more complex tasks.
-2. Participants will find the PDF of their letters inaccessible.
+1. Participants will be able to complete tasks that are accessible at the surface level, but might run into usability hurdles with more complex tasks.
 
 
 ## Methodology
 
-We will conduct remote, moderated, think-aloud user interviews with usability testing over Zoom. Participants will be asked to download the health and benefits mobile app in advance. During the session, we will have the participant share their screen and complete a series of tasks while they “think aloud.”
+We will conduct remote, moderated, think-aloud user interviews with usability testing over Zoom. Participants will be asked to download the VA health and benefits mobile app in advance. During the session, we will have the participant share their screen and complete a series of tasks while they “think aloud.”
 
 
 #### Location:
@@ -358,9 +356,9 @@ Our recruitment will focus on people who use assistive technology ( Magnificatio
 * Total requested: 9
 * 3 blind participants who are experienced using screen readers (has 5+ years of experience). 
 * 3 blind participants should be beginner screen readers (has 1-3 years of experience).
-* 3 participants should be low vision participants who use screen magnification. 
+* 3 participants should be low vision participants who use screen magnification. Low vision participants should be defined as users who consistently use extra large font sizes on their browser, who pinch to zoom on their mobile devices, or who use display zoom on iOS or magnification on Android.
 * All users should be current VA health and benefits mobile app users. 
-* To ensure Veterans have the app, please send them a link in advance for them to download the app prior to the session. Here is the link for the [App store for iOS users](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596). Here is the link for the [Google play store for Android users](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US). 
+* To ensure Veterans have the app, if they cannot show they currently use it, please send them a link in advance for them to download the app prior to the session. Here is the link for the [App store for iOS users](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596). Here is the link for the [Google play store for Android users](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US). 
 
 
 #### Schedule and Availability
@@ -400,8 +398,8 @@ Our conversation guide, observer and notetaker sign up and spreadsheets will be 
 1. Do you need assistive technology to use your mobile device such as VoiceOver on an iPhone, TalkBack on an Android device?  (Proceed to question 2 if no)
     1. Are you able to join the Zoom session using this assistive technology and log onto the VA: Health and Benefits Mobile App on a mobile device during the session? (Answer should be yes to satisfy criteria for screen reader)
     2. On a scale of 1-5, how experienced are you with using a screen reader? 1 being Novice, and 5 being Expert?
-2. Do you consistently need to resize fonts or use a magnification tool to see your screen when you are using your phone? (Proceed to question 2a if yes)
-    3. Are you able to join the Zoom session from your mobile device using the tools you need to see your screen and log onto the VA: Health and Benefits Mobile App on a mobile device during the session?  (Answer should be yes to satisfy criteria for non-AT users)
+2. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your phone? (Proceed to question 2a if yes)
+    3. Are you able to join the Zoom session from your mobile device using the tools you need to see your screen and are you able to log onto the VA: Health and Benefits Mobile App on a mobile device during the session?  (Answer should be yes to satisfy criteria for non-AT users)
 
 
 ### Additional instructions
@@ -413,16 +411,16 @@ ALL participants need to:
 * Be willing to log into their own VA: Health and Benefits Mobile App account and share over Zoom on their device
 * Have a working microphone on their device
 * Have Zoom downloaded to their device prior to the session
-* Have the VA: Health and Benefits Mobile App and be able to login.
+* Have the VA: Health and Benefits Mobile App and be able to login to the app prior to the session.
 
 
 ##  
 Team Roles
 
-* Moderators: Melissa Lefevre melissa.lefevre@adhocteam.us, Lis Straghalis liz.straghalis@adhocteam.us, Brea Blackwelder brea.blackwelder@adhocteam.us 
+* Moderators: Melissa Lefevre melissa.lefevre@adhocteam.us, Liz Straghalis liz.straghalis@adhocteam.us, Brea Blackwelder brea.blackwelder@adhocteam.us 
 * Research guide writing and task development:  
 * Participant recruiting & screening: Perigean
-* Project point of contact: 
+* Project point of contact: Melissa Lefevre 
 * Participant(s) for pilot test: Angela Fowler
 * Note-takers: Perigean
 * Observers: 
