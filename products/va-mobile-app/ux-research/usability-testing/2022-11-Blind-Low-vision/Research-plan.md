@@ -182,10 +182,199 @@ Our recruitment will focus on people who use assistive technology ( Magnificatio
 
 #### Recruitment criteria
 
+### Recruitment criteria
+Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
 
+`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
+
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|       9        |                  |    9    |             |          |               | 
+
+
+### Criteria Table (Please read carefully)
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
+- If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
+- ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
+- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
+- ***Various*** means you want an array of participants from this category but are leaving it to Perigean's discretion to recruit as many different types as possible.
+- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
+- For benefits category, you may also choose ***No Ben/Ser Exp*** which means you want particpants who haven't had experience using any Veteran benefit or service. In your additional screener section, you can specify exactly which benefit or service you want participants not to have had experience using. 
+- For hardware category, select which type/s you want participants to join your session to use.
+- If you're conducting an unmoderated study (*survey, tree test*) using cohorts, ***do not exceed*** nine participants per cohort to avoid PRA (Paperwork Reduction Act).
+- Add which group you want applied to each cohort in the heading row (***Ex. Vet Cohort 1, Care Cohort 2, Fam Cohort 3, Serv Cohort 4***). 
+- You can use the same group for all cohorts, but the categories you choose must vary (***Ex. Vet Cohort 1 [9 Male]; Vet Cohort 2 [9 Female]***. 
+
+|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
+|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
+|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|Male            |            |        |        |        |        |        |        |        |        |        |         |
+|Female          |            |        |        |        |        |        |        |        |        |        |         |
+|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|Gay             |            |        |        |        |        |        |        |        |        |        |         |
+|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
+|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
+|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
+|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
+|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
+|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
+|Queer           |            |        |        |        |        |        |        |        |        |        |         |
+|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
+|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|Black           |            |        |        |        |        |        |        |        |        |        |         |               
+|White           |            |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |            |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
+|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
+|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |       9    |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
+|Disability      |            |        |        |        |        |        |        |        |        |        |         |
+|Education       |            |        |        |        |        |        |        |        |        |        |         |    
+|Employment      |            |        |        |        |        |        |        |        |        |        |         |
+|Finances        |            |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
+|Housing         |            |        |        |        |        |        |        |        |        |        |         |
+|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
+|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
+|Pension         |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
+|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
+|Army            |            |        |        |        |        |        |        |        |        |        |         |
+|Navy            |            |        |        |        |        |        |        |        |        |        |         |
+|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
+|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
+|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
+|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
+|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      9     |        |        |        |        |        |        |        |        |        |         |
+|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
+|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
+|GED             |            |        |        |        |        |        |        |        |        |        |         |
+|High School     |            |        |        |        |        |        |        |        |        |        |         |
+|Some College    |            |        |        |        |        |        |        |        |        |        |         |
+|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
+|Masters         |            |        |        |        |        |        |        |        |        |        |         |
+|Professional    |            |        |        |        |        |        |        |        |        |        |         |
+|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |     9      |        |        |        |        |        |        |        |        |        |         |
+|Urban           |            |        |        |        |        |        |        |        |        |        |         |
+|Rural           |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
+|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |      9      |        |        |        |        |        |        |        |        |        |         |
+|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
+|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
+|VA Mobile App   |      9     |        |        |        |        |        |        |        |        |        |         |
+|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
+|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
+|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
+|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
+|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
+
+---
+**Identity Assurance Levels**
+
+- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
+
+- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
+
+- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
+
+---
+
+`Assistive Tech and Cognitive Impairment will apply across cohorts`
+- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
+|Font resizing/larger                                         |      3     |
+|Screen reader                                                |      6     |
+|Braille terminal                                             |            |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|            |
+|Closed captions                                              |            |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |            |
+|Sign language interpreter                                    |            |
+|Speech-to-speech transliterator                              |            |
+|Visual aids                                                  |            |
+|Writing on paper                                             |            |
+|Typing with phone or tablet and showing it to others         |            |
+|Caregiver                                                    |            |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|*Various*                                                    |            |
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |            |
+     
 
 * Total requested: 9
-* Completed sessions: 9
 * 3 blind participants who are experienced using screen readers (5+ years of experience). (Find out a question that can help identify someone as an experienced screen reader.)
 * 3 blind participants should be beginner screen readers (has 1-3 years of experience).
 * 3 participants should be low vision participants who use screen magnification. 
