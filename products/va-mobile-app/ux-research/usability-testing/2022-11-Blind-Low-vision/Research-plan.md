@@ -42,15 +42,14 @@ Our product fits into the [Veteran journey](https://github.com/department-of-vet
 
 
 
-* Identify pain points for Veterans using assistive tech navigating the app.
-* Surface new accessibility issues. 
-* Establish foundational knowledge of patterns and differences in experience across a diversity of mobile assistive technology users.
-* Identify the value the mobile app provides to blind users versus other digital products in the VA ecosystem.
+* Identify pain points as well as accessibility issues for blind and low vision Veterans who are assistive technology users (AT) as they navigate through the app.
+* Establish foundational knowledge of patterns and differences in the experience across a diversity of mobile assistive technology users.
+* Identify the value the mobile app provides to blind and low users versus other digital products in the VA ecosystem.
 
 
 ## Outcome
 
-The findings from this research will help our team understand how accessible our current app experience is. We’ll use these findings to plan future iterations.
+The findings from this research will help our team understand how accessible our current app experience is for blind and low vision Veterans. We’ll use these findings to plan future iterations to continuously improve the app's overall accessibility.
 
 
 ## Research Questions
@@ -64,16 +63,15 @@ The findings from this research will help our team understand how accessible our
 3. What, if anything, are people expressing positive reactions to? How are they reacting?
 4. Does the app have room for improvement with these tools and other tools that we may not consider during testing?  
 5. How is the content language translating to the Veteran? 
-6. If the app is having login issues (or other issues), does the Veteran find a workaround? If so, what is it?
+6.Are there accessibility issues logging into the VA health and benefits app, and if so, how does the Veteran find a workaround? 
 
 
 ## Hypothesis
 
 
 
-1. Participants will be able to easily complete tasks that involve clicking through 3 or less screens such as reviewing their military information. 
-2. Participants will encounter usability hurdles with more complex forms/flows such as composing a message.
-3. Participants will find the PDF of their letters inaccessible.
+1. Participants will be able to complete tasks that involve clicking through 3 or less screen, but might run into usability hurdles with more complex tasks.
+2. Participants will find the PDF of their letters inaccessible.
 
 
 ## Methodology
@@ -358,11 +356,10 @@ Our recruitment will focus on people who use assistive technology ( Magnificatio
      
 
 * Total requested: 9
-* 3 blind participants who are experienced using screen readers (5+ years of experience). (Find out a question that can help identify someone as an experienced screen reader.)
+* 3 blind participants who are experienced using screen readers (has 5+ years of experience). 
 * 3 blind participants should be beginner screen readers (has 1-3 years of experience).
 * 3 participants should be low vision participants who use screen magnification. 
-* All users should be current mobile app users. 
-* Operating systems won’t matter as criteria, we are going to prioritize the AT and hopefully mobile app users. 
+* All users should be current VA health and benefits mobile app users. 
 * To ensure Veterans have the app, please send them a link in advance for them to download the app prior to the session. Here is the link for the [App store for iOS users](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596). Here is the link for the [Google play store for Android users](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US). 
 
 
@@ -376,10 +373,10 @@ Our recruitment will focus on people who use assistive technology ( Magnificatio
     * Low vision - Magnification study dates: November 9-10,  2022
         * Anytime between 10am EST-6pm EST
 * Cohort 2
-    * Blind users - Novice to Screen reader technology study dates: November 14-15 with backup dates 16-18,  2022
+    * Blind users - Beginner Screen reader users study dates: November 14-15 with backup dates 16-18,  2022
         * Anytime between 10am EST-6pm EST
 * Cohort 3
-    * Blind users - Experienced with Screen reader technology study dates: November 14-15 with backup dates 16-18,  2022
+    * Blind users - Experienced Screen reader users study dates: November 14-15 with backup dates 16-18,  2022
         * Anytime between 10am EST-6pm EST.
 
 
@@ -404,7 +401,7 @@ Our conversation guide, observer and notetaker sign up and spreadsheets will be 
     1. Are you able to join the Zoom session using this assistive technology and log onto the VA: Health and Benefits Mobile App on a mobile device during the session? (Answer should be yes to satisfy criteria for screen reader)
     2. On a scale of 1-5, how experienced are you with using a screen reader? 1 being Novice, and 5 being Expert?
 2. Do you consistently need to resize fonts or use a magnification tool to see your screen when you are using your phone? (Proceed to question 2a if yes)
-    3. Are you able to join the Zoom session from a mobile device using the tools you need to see your screen? and log onto the VA: Health and Benefits Mobile App on a mobile device during the session?  (Answer should be yes to satisfy criteria for non-AT users)
+    3. Are you able to join the Zoom session from your mobile device using the tools you need to see your screen and log onto the VA: Health and Benefits Mobile App on a mobile device during the session?  (Answer should be yes to satisfy criteria for non-AT users)
 
 
 ### Additional instructions
@@ -423,7 +420,7 @@ ALL participants need to:
 Team Roles
 
 * Moderators: Melissa Lefevre melissa.lefevre@adhocteam.us, Lis Straghalis liz.straghalis@adhocteam.us, Brea Blackwelder brea.blackwelder@adhocteam.us 
-* Research guide writing and task development:  , , 
+* Research guide writing and task development:  
 * Participant recruiting & screening: Perigean
 * Project point of contact: 
 * Participant(s) for pilot test: Angela Fowler
@@ -432,7 +429,4 @@ Team Roles
     * Jen Ecker
     * Brea Blackwelder 
     * Therese Dickson
-    * Holly Collier
-    * Lauren Russel
-    * Tom Gammons
     * Angela Fowler
