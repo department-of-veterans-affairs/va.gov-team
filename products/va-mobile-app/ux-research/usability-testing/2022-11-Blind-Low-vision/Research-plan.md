@@ -183,28 +183,15 @@ Our recruitment will focus on people who use assistive technology ( Magnificatio
 #### Recruitment criteria
 
 ### Recruitment criteria
-Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
 
-`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       9        |                  |    9    |             |          |               | 
+|       9        |       9           |    9    |             |          |               | 
 
 
 ### Criteria Table (Please read carefully)
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
-- ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
-- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
-- ***Various*** means you want an array of participants from this category but are leaving it to Perigean's discretion to recruit as many different types as possible.
-- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
-- For benefits category, you may also choose ***No Ben/Ser Exp*** which means you want particpants who haven't had experience using any Veteran benefit or service. In your additional screener section, you can specify exactly which benefit or service you want participants not to have had experience using. 
-- For hardware category, select which type/s you want participants to join your session to use.
-- If you're conducting an unmoderated study (*survey, tree test*) using cohorts, ***do not exceed*** nine participants per cohort to avoid PRA (Paperwork Reduction Act).
-- Add which group you want applied to each cohort in the heading row (***Ex. Vet Cohort 1, Care Cohort 2, Fam Cohort 3, Serv Cohort 4***). 
-- You can use the same group for all cohorts, but the categories you choose must vary (***Ex. Vet Cohort 1 [9 Male]; Vet Cohort 2 [9 Female]***. 
 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
