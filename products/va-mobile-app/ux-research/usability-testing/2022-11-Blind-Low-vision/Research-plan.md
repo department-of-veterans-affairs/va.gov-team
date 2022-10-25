@@ -1,7 +1,5 @@
 
-# VA Mobile App Blind and Low Vision 
-Research Plan
-
+# VA Mobile App Blind and Low Vision Research Plan
 
 ## October 2022
 
