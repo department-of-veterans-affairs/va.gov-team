@@ -213,6 +213,10 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ## Sprint 86 (11/2 - 11/15)
 
+### PTO
+
+-Taylor: 11/10 - 11/13
+
 ### On-site notifications
 
 - For everyone -- Finish documentation if it wasn't finished last sprint 
@@ -231,6 +235,15 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ## Sprint 87 (11/16 - 11/29)
 
+### PTO
+
+- AJ: 11/23 - 11/25
+- Erica:
+- Angela: 11/23 - 11/25
+- Taylor: 11/20 - 11/27
+- Liz: 11/23 - 11/25
+- Samara: 11/23 - 11/25
+
 ## Sprint 88 (11/30 - 12/13)
 
 ### On-site notifications
@@ -239,7 +252,25 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ## Sprint 89 (12/14 - 12/27)
 
+### PTO
+
+- AJ: 12/23
+- Erica: 12/26 - 12/27
+- Angela: 12/23 - 12/26
+- Taylor: 12/16 - 12/18
+- Liz: 12/23 - 12/27
+- Samara:
+
 ## Sprint 90 (12/28 - 1/10)
+
+### PTO
+
+- AJ: 12/30
+- Erica: 12/28 - 12/30
+- Angela:
+- Taylor:
+- Liz: 12/28 - 12/30
+- Samara:
 
 ### On-site notifications
 
