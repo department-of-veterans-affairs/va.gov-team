@@ -224,6 +224,11 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Staging review updates, if applicable 
 - Stretch goal depending on QA and staging review outcomes: UAT go/no-go and recruiting
 
+### My VA audit updates
+
+- Continue FE build
+- Design/FE updates from the midpoint review
+
 ## Sprint 87 (11/16 - 11/29)
 
 ## Sprint 88 (11/30 - 12/13)
