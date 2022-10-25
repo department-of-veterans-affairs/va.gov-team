@@ -51,7 +51,7 @@ Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
-- **If for any reason and at any time you want to stop the session, please let me know.** If you aren't comfortable answering some of the questions that I ask, please let me know and I'll be happy to move on.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -142,7 +142,7 @@ Let's pretend that you had a doctor's appointment at the VA last week, and now y
 - Could you please go back to the original web page you opened?
 
 ### Task 2: [Show that you're a Veteran (with benefit letter or Veteran ID card)]  
-Suppose you need to show that you're a Veteran for a special discount at a store. From this web page, how might you request proof of your status as a Veteran?
+Suppose you heard about a new Veteran discount at a store, but before you go there, you want to have something that shows you’re a Veteran. From this web page, how might you request proof of your status as a Veteran?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer / Menu (on a phone)*
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
@@ -160,12 +160,12 @@ Pretend that you've been going through some challenges in your life recently, an
 ### Task 4: [Updates in VA benefits (VA promo)] 
 From this web page, how could you learn about recent changes that may affect benefits and services offered by the VA?  
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / More VA news / Header / Footer / Learn what the PACT Act means for your VA benefits / Menu (on a phone)*
+    - *Create account / Search / Other search tools / Popular on VA.gov / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / More VA news / Header / Footer / Learn what the PACT Act means to you / Menu (on a phone)*
 
 What are your impressions of what you're looking at? *(news / benefit / ad / ____________)*
-- *RECORD what click on: headline / image / Read the full article / Learn what the PACT Act means for you / More VA news*
+- *RECORD what click on: headline / image / Read the full article / Learn what the PACT Act means to you / More VA news*
 
-How would you get more information about this? *(Learn what the PACT Act means for you / Read the full article / __________)*
+How would you get more information about this? *(Learn what the PACT Act means to you / Read the full article / __________)*
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
@@ -226,7 +226,7 @@ Could you please go back to the original web page you opened?
 1. *(IF entered email address for VA updates)* What would you expect to happen? 
 6. *(IF haven't already discussed)* Can you look under the Search box and tell me about the links you see under "Other search tools"? 
      1. What do you think they are, and when might you use them?
-     1. *RECORD comments about Find VA location, VA form, benefit resources and support*
+     1. *RECORD comments about Find VA facility, VA form, benefit resources and support*
 7. *(IF haven't already discussed)* Do you have an account that you use to sign in on VA.gov? *(Yes / No / ____________)*
      1. *(if No)* What do you think about **whether** you **need** an account?
      1. Why or why not?
