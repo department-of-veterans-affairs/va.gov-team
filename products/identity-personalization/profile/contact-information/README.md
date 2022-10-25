@@ -10,7 +10,7 @@ Last Updated September 1, 2022
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design and UX](#design)
+- [Design and UX](#design-and-ux)
 
 
 ## POCs
