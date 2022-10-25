@@ -323,5 +323,5 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney (PO) on Oct. 17, 2022
-- Reviewed and approved by Shane Strassberg on (under review)
+- Reviewed and approved by Shane Strassberg on Oct. 17, 2022
 
