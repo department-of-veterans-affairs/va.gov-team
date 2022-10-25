@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated August 9, 2022
+**Last updated: October 25, 2022**
 
 ### Communications
 
@@ -25,6 +25,7 @@ Last updated August 9, 2022
 - [Opportunities & Priorities](#opportunities--priorities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
+- [Projects](#projects)
 - [Measuring Success](#measuring-success)
 - [Platform Documentation](#Platform-Documentation)
 - [Design](#Design)
@@ -116,6 +117,10 @@ _Why would your business want this to exist?_
 - [Overview of My VA Analytics](https://github.com/ericasauv09/Personal/blob/main/My%20VA%20Analytics.md)
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+
+## Projects
+
+[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md).
 
 ## Platform Documentation
 
