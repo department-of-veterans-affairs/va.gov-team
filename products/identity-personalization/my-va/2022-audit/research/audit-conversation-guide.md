@@ -9,7 +9,7 @@
 - _Check your screensharing setup and share permissions for participants._
 - _When the participant is ready, begin the session with the following intro._
 
-## Intro
+## Intro - 5 minutes
 
 Thanks for joining us today! My name is Angela and I also have a note taker here with me. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
 
@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now.
+## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now. - 5 minutes
 
 Before we look at the website, I'd like to get a little background information from you:
 
@@ -39,7 +39,7 @@ Before we look at the website, I'd like to get a little background information f
 
 3. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
 
-## Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model.
+## Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model. - 10-15 minutes
 
 Now I'm going to ask you to open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
 
@@ -52,7 +52,6 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 - *If they mention education benefits in the intro questions* Let's scroll down to the education and training section. Are any of the links in this section of interest to you? Is there anything else about education benefits that you would want to look up that you're not seeing here?
 - Let's scroll down to the saved applications section. What do you think this section is for? What does "saved applications" mean to you?
 - If you filled out an application and submitted it to VA, would you expect to see that application here or somewhere else?
-- Is there anything you're expecting to see on this page that you don't see?
 
 ### Things to watch for:
 
@@ -62,19 +61,21 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 - How do veterans who use education benefits react to the education section? What about veterans who do not use education benefits, and those who are not interested?
 - Is it clear that saved applications have not been submitted or do we need additional context or content changes in this section to convey that?
 
-## Task goal: Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state.
+## Task goal: Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state. - 10 minutes
 
 - Let's take a look at a section that's empty. *Have them scroll to a section that doesn't apply to them*
-- How do you feel about seeing this section when you log in even though it doesn't apply to you?
+- What do you think about seeing this section when you log in even though it doesn't apply to you?
 - Are there any VA benefits you're not currently using that you might be interested in? *If yes* How would you find information about those benefits?
+- Is there anything you're expecting to see on this page that you don't see?
 
 ### Things to watch for:
 
 - How do veterans react to seeing empty sections on My VA? 
 - Are empty sections getting in the way of veterans finding what they would come to VA.gov to do?
 - Are the CTA links bringing attention to benefits that veterans might be interested in?
+- Are there any top tasks still missing from My VA?
 
-## Post Task Interview
+## Post Task Interview - 3 minutes
 
 - Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
 
@@ -83,7 +84,7 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 3. Was there anything we looked at on My VA today that you didn't want or need to see on that page?
 4. If you could change one thing about the page we just looked at together, what would it be?
 
-## Thanks and Closing
+## Thanks and Closing - 2 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. 
 
