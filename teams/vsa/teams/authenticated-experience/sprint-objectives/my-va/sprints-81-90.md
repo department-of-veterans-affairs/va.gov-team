@@ -213,11 +213,29 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ## Sprint 86 (11/2 - 11/15)
 
+### On-site notifications
+
+- For everyone -- Finish documentation if it wasn't finished last sprint 
+
+### Payments V2
+
+- QA updates
+- Staging review
+- Staging review updates, if applicable 
+- Stretch goal depending on QA and staging review outcomes: UAT go/no-go and recruiting
+
 ## Sprint 87 (11/16 - 11/29)
 
 ## Sprint 88 (11/30 - 12/13)
+
+### On-site notifications
+
+- PM: [Update 1-month stats for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success)
 
 ## Sprint 89 (12/14 - 12/27)
 
 ## Sprint 90 (12/28 - 1/10)
 
+### On-site notifications
+
+- PM: [Update 2-month stats for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success)
