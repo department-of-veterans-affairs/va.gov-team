@@ -244,6 +244,8 @@ This is only if there is time. We can push back a sprint if there is already too
 
 ## Sprint 86 (11/2 - 11/15)
 
+Move over tickets from last sprint, if needed.
+
 ### Bad address indicator
 
 - For everyone: Finish documentation updates if not done last sprint
