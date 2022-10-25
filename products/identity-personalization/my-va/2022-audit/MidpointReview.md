@@ -1,6 +1,6 @@
 ## Midpoint Review
 ### October 24, 2022
-- Each ticket is tagged in the column header
+- Each ticket is linked in the column header
 
 ### Feedback
 
