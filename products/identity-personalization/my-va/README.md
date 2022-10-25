@@ -182,17 +182,23 @@ _Why would your business want this to exist?_
 
 ### Screenshots
 
-#### Version 1.0
+<details><summary>Version 1.0</summary> 
 
 ![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+ 
+ </details>
 
-#### Version 2.0 -- July 2021
+<details><summary>Version 2.0 -- July 2021</summary> 
 
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
-#### Addition of Benefit payments and debts -- April 2022
+</details>
+ 
+<details><summary>Addition of Benefit payments and debts -- April 2022</summary>  
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
+ 
+</details> 
 
 ## Front End
 
