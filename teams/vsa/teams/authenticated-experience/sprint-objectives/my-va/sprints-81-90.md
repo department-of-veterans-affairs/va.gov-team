@@ -215,7 +215,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ### PTO
 
--Taylor: 11/10 - 11/13
+- Taylor: 11/10 - 11/13
 
 ### On-site notifications
 
@@ -241,10 +241,14 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Erica:
 - Angela: 11/23 - 11/25
 - Taylor: 11/20 - 11/27
-- Liz: 11/23 - 11/25
+- Liz: 11/23 - 11/25; 11/29 (1/2)
 - Samara: 11/23 - 11/25
 
 ## Sprint 88 (11/30 - 12/13)
+
+### PTO
+
+- Liz: 11/30; 12/1 (1/2)
 
 ### On-site notifications
 
