@@ -24,7 +24,7 @@ The procedure below is the same as before [using cypress-testrail-reporter or cy
 
 ### Example spec-specific commands for PTEMS-Acct-Exp project
 
-**If you have access to PTEMS-Acct-Exp project** in TestRail [`TR_PROJECTID=4 TR_SUITEID=5`], then you can run any of the following already-integrated Cypress specs:
+**If you have access to PTEMS-Acct-Exp project** in TestRail [`export TR_PROJECTID=4 TR_SUITEID=5`], then you can run any of the following already-integrated Cypress specs:
 
 - **src/applications/personalization/dashboard/e2e/appointments.cypress.spec.js**:
 
