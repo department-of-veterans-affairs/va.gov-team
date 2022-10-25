@@ -1,7 +1,7 @@
 ## Midpoint Review
 ### October 24, 2022
 
-## Feedback
+### Feedback
 
 |  | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48624#event-7654859360) | [IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48667#event-7657120227) | [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48676#event-7657400767) | [QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48677) | [Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48655) | Research | 
 | ----------- |-----------| ----------- | ----------- | -----------| ----------- | ----------- |
