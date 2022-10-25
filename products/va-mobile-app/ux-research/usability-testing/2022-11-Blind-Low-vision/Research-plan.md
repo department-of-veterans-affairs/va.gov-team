@@ -44,8 +44,8 @@ Our product fits into the [Veteran journey](https://github.com/department-of-vet
 
 * Identify pain points for Veterans using assistive tech navigating the app.
 * Surface new accessibility issues. 
-* Establish foundational knowledge of patterns and differences in experience across a   _diversity_ of mobile assistive technology users.
-* What value does the mobile app provide blind users versus other products in the VA ecosystem?
+* Establish foundational knowledge of patterns and differences in experience across a diversity of mobile assistive technology users.
+* Identify the value the mobile app provides to blind users versus other digital products in the VA ecosystem.
 
 
 ## Outcome
@@ -62,10 +62,8 @@ The findings from this research will help our team understand how accessible our
     2. Which tasks, if any, do participants struggle completing? Where do they get stuck? 
 2. What, if anything, would participants want to change about the app?
 3. What, if anything, are people expressing positive reactions to? How are they reacting?
-4. Does the app have room for improvement with these tools and other tools that we may not consider during testing?  Is there anything that would be a deal breaker?
+4. Does the app have room for improvement with these tools and other tools that we may not consider during testing?  
 5. How is the content language translating to the Veteran? 
-    3. Is it inclusive?
-    4. Does it have anything misleading?
 6. If the app is having login issues (or other issues), does the Veteran find a workaround? If so, what is it?
 
 
