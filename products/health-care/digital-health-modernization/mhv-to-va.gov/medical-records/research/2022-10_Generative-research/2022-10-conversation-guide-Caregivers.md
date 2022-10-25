@@ -145,23 +145,35 @@ Now we are going to do a sorting activity on a different website.
 
 This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
+**Example card sort**
+
+We will be using a website to do the sorting activity. I'll show you how it works. 
+
+First, you'll see this screen on the left that has a list of different cards with information on them. On the right, you can drag items and group them together. Try to think of these groups as broader categories.
+
+We ask folks to organize the cards into different categories that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
+
+For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables," and "Peach" can be by itself in a "Fruit" group. Or, if I didn't know what kind of food group a peach belongs to, I could put it in the "I don't know" group. 
+
+If I decide that I don't like a group that I made, I can also click the x in the top righthand side of the box and the cards get returned to the left hand column. 
+
+Do you have any questions at this point? 
+
+**Share Optimal Workshop link with participant**
+
 How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 - [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
 
 **Instructions to open the card sort:**
 * Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
 * Click on the link for the optimal workshop card sort.
-	
+
+*If participant needs extra instructions, or needs instructions to be repeated, use these:* 
 * On the left, we have different cards with information about health information. 
 * On the right, you can drag items and group them together. Try to think of these groups as broader categories. 
 * If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
 
-* I started three groups for you, including one to place cards that don’t matter to you.
-	* If there is a card that doesn’t fit into any of the groups I made, you can create and name your own group. Let’s practice that.
-* Take the top card that says “Allergies” and drop it into a column.
-* Now take it and drop it into the white space. This will create a new group - you can type a name in at the type. Call it anything you want.
-* Now you can go ahead and delete the group by clicking the red X in the upper right corner.
-* Any questions?
+* Any questions at this point?
 
 * Organize cards in a way that makes sense to you
 	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
