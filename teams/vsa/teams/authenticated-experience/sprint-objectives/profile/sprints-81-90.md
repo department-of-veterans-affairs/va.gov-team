@@ -254,12 +254,12 @@ This is only if there is time. We can push back a sprint if there is already too
 **Liz**
 
 - Finish any notification-related updates that came out of one-thing-per-page research (not sure if this was done last sprint)
-- Move on to address validation work, if time
+- Move on to [address validation work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md#address-validation), if time
 
 **Christina**
 
 - Updates to personal info based on nametag recommendations (not sure if this was done last sprint)
-- Move on to account settings work, if time
+- Move on to [account settings work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md#account-security), if time
 
 **FE**
 
