@@ -14,6 +14,10 @@
 
 </details>
 
+## Monday, October 31, 2022 :jack_o_lantern:
+* Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+
+
 ## Monday, October 24, 2022
 * v1 status check
    * No change, still on code freeze, investagting latency, what are the criteria to live the freeze?   
