@@ -103,7 +103,9 @@ Let’s start with a few questions...
 
 	- *(If using assistive technology:)* How long have you been using [specific assistive technology]?
 
-3. Like I said, we are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. Thinking along those lines, I'm going to ask you a question: as we age, we continue to have health-related experiences that need to be documented so that we can better understand our health and so that our doctors, nurses, and other providers can better take care of us. If all your health issues, treatments, and other histories were combined into one list, what would you call that list?  
+3. Like I said, we are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. Thinking along those lines, I'm going to ask you a question: 
+	
+	As we age, we continue to have health-related experiences that need to be documented. If all your health issues, treatments, and other histories were combined into one list, what would you call that list?  
 
 	- *OPTIONAL PROBES:* Would different types of information be in different lists? What types of lists would be in one list versus a different list? *(Interviewer can continue to probe to provide clarity on what types of information should be grouped or can move on, depending on how participant is responding.)*
 
@@ -136,9 +138,7 @@ Let’s start with a few questions...
 
 	- What would you expect to find in the VA Health Summary section? 
 
-	- What would you expect to find in the Images section? 
-
-	- What do you think about how these things are grouped? 
+	- What would you expect to find in the Images section?  
 
 ![Screen Shot 2022-10-24 at 2 44 36 PM](https://user-images.githubusercontent.com/100814257/197612606-3492bb73-bde1-4734-90a7-f4213da446be.png)
 
@@ -146,43 +146,50 @@ Let’s start with a few questions...
 ## Section 2A: Card sort - 15-20 mins 
 *(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
 
+## Section 2: Card sort - 15-20 mins
 Now we are going to do a sorting activity on a different website. 
 
-This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
-How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
-- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate.
-	- FOR REVIEW PURPOSES, HERE IS ["PREVIEW LINK"](https://dj540s05.optimalworkshop.com/optimalsort/qi53c6t2/sort) 
+**Example card sort**
+*Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
 
-- *IF PARTICIPANT EXPERIENCES DIFFICULTIES OPENING OPTIMAL WORKSHOP, TRY SCREEN SHARING AND GIVING THEM REMOTE CONTROL. IF THAT DOES NOT WORK, MOVE ONTO SECTION 2B.*
+We will be using a website to do the sorting activity. I'll show you how it works. 
+
+First, you'll see this screen on the left that has a list of different cards with information on them. On the right, you can drag items and group them together. Try to think of these groups as broader categories.
+
+We ask folks to organize the cards into different categories that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
+
+For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables," and "Peach" can be by itself in a "Fruit" group. Or, if I didn't know what kind of food group a peach belongs to, I could put it in the "I don't know" group. 
+
+If I decide that I don't like a group that I made, I can also click the x in the top righthand side of the box and the cards get returned to the left hand column. 
+
+Do you have any questions at this point? 
+
+**Share Optimal Workshop link with participant**
+
+First, would you mind sharing your screen? To share your screen, please tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
+
+Now I need to share with you a link to the sorting activity. How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
+	- *Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/qi53c6t2/sort*
 
 **Instructions to open the card sort:**
 * Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
- 	
-	- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
- 	
-	- If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 * Click on the link for the optimal workshop card sort.
-	
-* On the left, we have different cards with words that in some way have to do with your health information. 
 
+*If participant needs extra instructions, or needs instructions to be repeated, use these:* 
+* On the left, we have different cards with information about health information. 
 * On the right, you can drag items and group them together. Try to think of these groups as broader categories. 
-
 * If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
 
-* I started six groups for you, including one to place cards that don’t seem to fit into a group. You do not have to put cards in all of these groups - I made them simply to help get you started. You can give these groups a name to reflect what the category is by typing a name where it says "Group 1," "Group 2", etc.
-	
-	- On the other hand, if you feel like a card doesn’t fit into any of the six groups and you need another group, you can create and name your own group. Let’s practice that.
-
-* Take the top card that says *name of card* and drop it into a column.
-
-* Now take it and drop it into the white space. This will create a new group - you can type a name in at the type. Call it anything you want.
-
-* Now you can go ahead and delete the group by clicking the red X in the upper right corner.
-
-* Any questions?
+* Any questions at this point?
 
 * Organize cards in a way that makes sense to you
+	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
 	- We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
@@ -280,5 +287,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Coulton Bunnon (PO) on (date)
-- Reviewed and approved by Shane Strassberg on (date)
+- Reviewed and approved by Coulton Bunnon (PO) on 10/17/2022
+- Reviewed and approved by Shane Strassberg on 10/17/2022
