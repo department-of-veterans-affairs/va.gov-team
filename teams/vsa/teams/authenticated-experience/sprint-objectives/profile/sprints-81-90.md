@@ -296,7 +296,7 @@ Move over tickets from last sprint, if needed.
 
 - Sharon:
 - Erica:
-- Liz: 11/23 - 11/25
+- Liz: 11/23 - 11/25; 11/29 (1/2)
 - Christina: 11/24 - 11/25
 - Adam:
 - John: 11/24 (Thanksgiving)
@@ -311,7 +311,7 @@ Move over tickets from last sprint, if needed.
 
 ### PTO
 
-- Liz: 11/29 (1/2); 11/30; 12/1 (1/2)
+- Liz: 11/30; 12/1 (1/2)
 
 ### Bad address indicator
 
