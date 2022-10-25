@@ -22,7 +22,7 @@
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: 11/21/2022
+- Launch Go / No Go: 11/18/2022
 - Desired date range: TBD
 - How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
 - Success criteria to be reviewed prior to advancing rollout to the next stage
