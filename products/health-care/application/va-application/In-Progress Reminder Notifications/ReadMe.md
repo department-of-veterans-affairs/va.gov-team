@@ -101,14 +101,13 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
      > (The open rate was 71% is now 91%; the click rate was 28% is now 51%; the conversion rate was 3.5% is now 7.5%)!
      - The team agrees that this addresses our concerns and would like to launch the reminder emails again
      - The VA Notify Strike team will let us know the next launch window
+- Oct 24, 2022: VA Notify Strike team re-launched Saved-In-Progress Reminder emails at 4pm
 
 
 ---
    
 ## Screenshots
 No UI Changes.  See this [Sample email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/In-Progress%20Reminder%20Notifications/Content%20From%20VA%20Notify/Content%20sample.md) for the proposed template from VA Notify
-
-### After
 
 ---
 
