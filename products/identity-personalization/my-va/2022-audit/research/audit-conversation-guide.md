@@ -77,7 +77,7 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 
 ## Post Task Interview - 3 minutes
 
-- Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
+Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
 
 1. How important is the information that we looked at today to you?
 2. What did you expect to see that you didn't?
