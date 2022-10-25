@@ -10,8 +10,8 @@ Last Updated: August 19, 2022
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Analytics](#analytics)
 - [Projects](#projects)
+- [Analytics](#analytics)
 - [Backend](#backend) 
 - [Frontend](#frontend)
 - [Design](#design)
@@ -94,6 +94,10 @@ The profile gives us a place to present a consolidated view of what we know abou
 
 We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
 
+## Projects
+
+[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
+
 ## Analytics
 
 These are the GA dashboards we use to track profile analytics:
@@ -106,10 +110,6 @@ These are the GA dashboards we use to track profile analytics:
 - [Notification preferences GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
 - [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 - [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
-
-## Projects
-
-[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
 
 ## Backend
 
