@@ -238,7 +238,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 ### PTO
 
 - AJ: 11/23 - 11/25
-- Erica:
+- Erica: 11/24 (Thanksgiving)
 - Angela: 11/23 - 11/25
 - Taylor: 11/20 - 11/27
 - Liz: 11/23 - 11/25; 11/29 (1/2)
