@@ -244,11 +244,23 @@ This is only if there is time. We can push back a sprint if there is already too
 
 ## Sprint 86 (11/2 - 11/15)
 
+### Bad address indicator
+
+- For everyone: Finish documentation updates if not done last sprint
+- PM: [Add pre-launch stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
+
 ## Sprint 87 (11/16 - 11/29)
 
 ## Sprint 88 (11/30 - 12/13)
+
+### Bad address indicator
+
+- PM: [Add 1-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
 
 ## Sprint 89 (12/14 - 12/27)
 
 ## Sprint 90 (12/28 - 1/10)
 
+### Bad address indicator
+
+- PM: [Add 2-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
