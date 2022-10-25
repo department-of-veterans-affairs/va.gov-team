@@ -292,6 +292,17 @@ Move over tickets from last sprint, if needed.
 
 ## Sprint 87 (11/16 - 11/29)
 
+### PTO
+
+- Sharon:
+- Erica:
+- Liz: 11/23 - 11/25
+- Christina:
+- Adam:
+- John:
+- Tom:
+- Samara: 11/23 - 11/25
+
 ### General/tech-debt
 
 - FE: Fiduciary gate IF it didn't happen last sprint
@@ -304,7 +315,29 @@ Move over tickets from last sprint, if needed.
 
 ## Sprint 89 (12/14 - 12/27)
 
+### PTO
+
+- Sharon:
+- Erica: 12/26 - 12/27
+- Liz: 12/23 - 12/27
+- Christina:
+- Adam:
+- John:
+- Tom:
+- Samara:
+
 ## Sprint 90 (12/28 - 1/10)
+
+### PTO
+
+- Sharon:
+- Erica: 12/28 - 12/30
+- Liz: 12/28 - 12/30
+- Christina:
+- Adam:
+- John:
+- Tom:
+- Samara: 
 
 ### Bad address indicator
 
