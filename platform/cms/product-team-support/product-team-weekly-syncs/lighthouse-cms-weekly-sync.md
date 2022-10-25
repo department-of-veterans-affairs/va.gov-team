@@ -44,6 +44,7 @@
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
   * AI>> Jay to filter existing list, remove anything where the results are fields migrated in directly, only want to see the 'non migrated' fields 
   * AI>> DS to create ticket 
+    * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11338
   * THEN, Is there a nuance to the delta , for example is one  data source giving and extenstion the other doesn't
 * Once v1 is ready, are we ready to start pushing CAPs - where did we agree on payload - LH team still has to set up new endpoint (simliar to standard CMS pushes), set up data structure to inject whatever we agree upon, then assure that everything is working
   * LOE - likely be a couple sprints
