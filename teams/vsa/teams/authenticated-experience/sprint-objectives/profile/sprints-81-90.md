@@ -258,16 +258,41 @@ This is only if there is time. We can push back a sprint if there is already too
 
 **Christina**
 
-- Updates to personal info based on nametag recommendations (not sure if this was done last sprint)
+- Finish updates to personal info based on nametag recommendations (not sure if this was done last sprint)
 - Move on to [account settings work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md#account-security), if time
 
 **FE**
 
-- Any outstanding tickets FE can work on, if applicable
+- Any outstanding general accessibility tickets FE can work on, if applicable
+- If there are tickets we can start to handoff from design to FE for build based on Christina's or Liz's work, let's prioritize those over general/tech-debt tickets
 
-### Notifications
+### Notification preferences
+
+**Liz**
+
+- Initial thinking: Do we need to change our edit model for notification preferences to account for additional channels and notifications?
+  - If yes, do we need research, or do we know enough to mock up some options?
+  - Acceptance criteria: We have a plan for moving forward, and can create tickets to support this work.
+
+### General/tech-debt
+
+- Continue to pull in tickets as necessary
+
+**Design**
+
+- Finish fiduciary gate work, if not done
+- Have Christina take [this DD214 ticket to content office hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46564) so we can get this into build
+
+**FE**
+
+- Fiduciary gate IF the design work is done (if not, this can happen next sprint assuming design work is done)
+- Continue to pull in tickets as necessary
 
 ## Sprint 87 (11/16 - 11/29)
+
+### General/tech-debt
+
+- FE: Fiduciary gate IF it didn't happen last sprint
 
 ## Sprint 88 (11/30 - 12/13)
 
