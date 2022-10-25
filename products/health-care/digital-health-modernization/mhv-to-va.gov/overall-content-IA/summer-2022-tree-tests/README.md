@@ -1,0 +1,1 @@
+Over the summer of 2022, we conducted a series of tree tests to validate 2 hypotheses for where the health apartment/portal should live within VA.gov. This folder contains the research artifacts and readouts. 
