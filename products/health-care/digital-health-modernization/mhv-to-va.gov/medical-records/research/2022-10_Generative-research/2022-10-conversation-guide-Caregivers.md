@@ -13,9 +13,9 @@ Section 2: Card sort
 - What ideas are they surfacing that don't currently belong to any categories? 
 
 Links for notetakers:
-- [Sign up sheet](link) - need to provide
-- [Mural board](link) - need to provide
-- [Verbatim notes template](link) - need to provide
+- [Sign up sheet] (no link) - Marci McGuire to organize using Slack functionality
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666625596260/90fc2a6158fd66770cd596c2c8c28b5602cee416?invited=true&sender=u7de68ed54bc434b67b630908)
+- [Note-taking folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews)
 
 ## Moderator logistics
 
@@ -62,7 +62,7 @@ Could the notetaker and observers please turn their cameras off now to save band
 
 *(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
-Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do a sorting exercise.
+I am part of a team working on the health section on VA.gov. We are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. 
 
 Before we start, I want to go over a few things:
 
@@ -113,7 +113,9 @@ Let’s start with a few questions...
 	
 	- *OPTIONAL PROBE:* How long have you been helping *(use name or term Cargiver is using to describe the Veteran they support)* to get or use benefits or services? 
 
-4. As we age, we continue to have health-related experiences that need to be documented so that we can better understand our health and so that our doctors, nurses, and other providers can better take care of us. If all your health issues, treatments, and other histories were combined into one list, what would you call that list? 
+4. Like I said, we are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. Thinking along those lines, I'm going to ask you a question: 
+	
+	As we age, we continue to have health-related experiences that need to be documented. If all your health issues, treatments, and other histories were combined into one list, what would you call that list?  
 
 	- *OPTIONAL PROBES:* Would different types of information be in different lists? What types of lists would be in one list versus a different list? *(Interviewer can continue to probe to provide clarity on what types of information should be grouped or can move on, depending on how participant is responding.)*
 
@@ -140,12 +142,26 @@ Let’s start with a few questions...
 
 	- *OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* need to share their *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
 
+11. I am going to share my screen to show you an image of a current website that has the *(use the word the participant is using for medical records)* for Veterans. *(Screen share and show image of Blue Button and VA Health Summary section of MHV.)*
+
+	- What would you expect to find in the Blue Button section? 
+
+	- What would you expect to find in the VA Health Summary section? 
+
+	- What would you expect to find in the Images section?  
+
+![Screen Shot 2022-10-24 at 2 44 36 PM](https://user-images.githubusercontent.com/100814257/197612606-3492bb73-bde1-4734-90a7-f4213da446be.png)
+
+## Section 2A: Card sort - 15-20 mins 
+*(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
+
 ## Section 2: Card sort - 15-20 mins
 Now we are going to do a sorting activity on a different website. 
 
 This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 **Example card sort**
+*Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
 
 We will be using a website to do the sorting activity. I'll show you how it works. 
 
@@ -161,8 +177,14 @@ Do you have any questions at this point?
 
 **Share Optimal Workshop link with participant**
 
-How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+First, would you mind sharing your screen? To share your screen, please tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
+
+Now I need to share with you a link to the sorting activity. How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 - [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
+	- *Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/qi53c6t2/sort*
 
 **Instructions to open the card sort:**
 * Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
@@ -178,43 +200,78 @@ How would you prefer the link to the sorting activity? I could say it out loud f
 * Organize cards in a way that makes sense to you
 	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
-11. *(If participant created groups):* Can you explain why you decided to create that group? 
+	- We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
-12. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. TERMS COULD INCLUDE (BUT ARE NOT LIMITED TO):
-* Blue Button
-* VA Health Summary
-* Medical Images
-* Reports
-* Labs/Tests
-* Procedures
-* Vitals
-* Admissions summaries
-* Discharge summaries
-* Pre-visit summaries
-* After-visit summaries
-* Radiology
-* Pathology
-* Hematology
+12. *(As participant puts cards into different groups)*: Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
 
-- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
+	- *Continue to probe participant to explain their thinking as they group cards.*
+	
+13. *(If participant created groups):* Can you explain why you decided to create that group? 
 
-*For AT users - moderator carries out the card sorting under the direction of the AT user. Will require creating smaller groups so as to not overload participant. Will create a separate Optimal Workshop card sort for this scenario that includes less cards.*
+14. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users understand technical medical language. Example probes could be:*
 
+	- What do you think "Pathology results" are? 
+	- How are you understanding "Radiology results or images"? 
+	- What do you think the difference is between "Encounter notes" and "Progress notes"? 
+
+- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous.
 
 **Moderator notes:**
 
 - We are not concerned with prioritizing cards within the grouping.
 
+## Section 2B: Grouping like ideas - 15-20 mins
+
+*ASK THESE QUESTIONS IF UNABLE TO DO CARD SORTING ACTIVITY DESCRIBED IN SECTION 2A.*
+
+Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
+
+15. *SCENARIO:* Let's say you have diabetes and you want to see your most recent blood sugar levels based off of a blood draw they did the last time you saw your doctor. If you go into your patient portal, where would you look for that information? 
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there? 
+
+16. *SCENARIO:* Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found?
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+17. *SCENARIO:* What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+18. *SCENARIO:* Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information?  
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+19. *SCENARIO:* Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
+20. *SCENARIO:* Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
+
+	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
+	
+	- What other kind of information would you expect to find there?
+
 ## Post-Task Interview - 3 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-13. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
+21. *(IF using a screen reader)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
      1. Have you *ever* done this before?
      2. If so, how and when?
      3. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
      4. *(Want to see if screen reader users can/will use the Medallia feedback button)*
 
-14. Is there anything else that we haven't talked about that you think I should know? 
+22. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
@@ -239,5 +296,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Coulton Bunnon (PO) on (date)
-- Reviewed and approved by Shane Strassberg on (date)
+- Reviewed and approved by Coulton Bunnon (PO) on 10/17/2022
+- Reviewed and approved by Shane Strassberg on 10/17/2022
