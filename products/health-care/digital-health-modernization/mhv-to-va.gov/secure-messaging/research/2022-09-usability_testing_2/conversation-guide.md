@@ -95,7 +95,9 @@ Before we start, a few things I want to mention:
 
 Since we are trying to make this experience as realistic as possible, you will notice on the top right the name Jesse. If this were the live website it would be your name, but for today you will see Jesse at the top of your screen and the name Jesse Roberts on messages.
 
-I’m going to have you start by taking a look at some of the messages in the inbox.
+I’m going to have you start by taking a look at this screen and commenting on anything you may notice just like the game show contestant I mentioned earlier.
+
+*When participant is ready to move on:*
 
 Let’s focus on the first message from Ann Dunwoody.
 
@@ -124,6 +126,7 @@ Using the scale we showed earlier of 1 being very difficult to 5 being very easy
 
 **Things to watch for:**
 
+-   Does the participant notice the emergency message?
 -   Does the participant understand which messages are read vs. unread?
 -   Does the participant understand that some messages are threads and have multiple messages?
 
@@ -342,6 +345,12 @@ Okay, if you scroll down you will see a continue button. Go ahead and click it.
 -   Can you tell me why you clicked on [SECTION] first? What made you notice it first?
 -   Can you tell me why you clicked on [SECTION] second? What made you notice it second and not first?
 -   Can you tell me why you clicked on [SECTION] third? What made you notice it after the others?
+
+
+*If they didn't notice the emergency message, ask them to advance to the next screen.*
+
+*Prompt the participant to think out loud about what they notice if necessary.*
+
 
 *Continue with these questions as necessary.*
 
