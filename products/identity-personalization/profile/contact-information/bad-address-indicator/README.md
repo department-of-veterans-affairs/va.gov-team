@@ -110,7 +110,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 **Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase).
 
-|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
 |Mailing address updates|TBD|TBD|TBD|
   
@@ -118,7 +118,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 Note: we need to get these numbers from VA Profile.  
   
-|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Pre-launch: [One month pre-launch to any users] | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
 |# of people with the bad address indicator|TBD|TBD|TBD|  
 
