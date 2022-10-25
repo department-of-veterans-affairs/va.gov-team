@@ -249,6 +249,24 @@ This is only if there is time. We can push back a sprint if there is already too
 - For everyone: Finish documentation updates if not done last sprint
 - PM: [Add pre-launch stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
 
+### Accessibility updates
+
+**Liz**
+
+- Finish any notification-related updates that came out of one-thing-per-page research (not sure if this was done last sprint)
+- Move on to address validation work, if time
+
+**Christina**
+
+- Updates to personal info based on nametag recommendations (not sure if this was done last sprint)
+- Move on to account settings work, if time
+
+**FE**
+
+- Any outstanding tickets FE can work on, if applicable
+
+### Notifications
+
 ## Sprint 87 (11/16 - 11/29)
 
 ## Sprint 88 (11/30 - 12/13)
