@@ -29,7 +29,11 @@
 - In-progress Notification emails
      - Rolled back due to not having an "opt-out" process at this time
      - Action Item
-          - [ ] **(6/22/22) - Online Health Apps team** will conduct further analysis will be done with VA Notify team for future implementation
+          - [X] **(6/22/22) - Online Health Apps team** will conduct further analysis will be done with VA Notify team for future implementation
+          - [X] **(10/24/2022) - VA Notify team released In-Progress reminder emails to 25%
+               - If there is no activity after 7 days of starting the application, a single reminder email will be sent to the email address in the Profile
+               - If there continues to be no activity, there will not be any further emails sent, and the application will expire after 60 days
+               - If there is activity, meaning the applicant must access the application and update a field (but does not submit), that will start a new 7-day period and the applicant will receive a reminder email.
 - Registration path
      - [ ] **(5/25/22) Online Health Apps team** will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
           - (7/20 Update) - Patrick - Some work to do on our side to determine how to allow for future discharge dates and to direct applicants to that Registration Only flow as an option.
