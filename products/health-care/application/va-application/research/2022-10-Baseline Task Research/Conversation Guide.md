@@ -21,7 +21,7 @@ Slack for real-time feedback from observers.
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+- When the participant is ready, begin the session with the following intro
 
 
 
@@ -80,19 +80,20 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled?]
+- [If the participant comments on this, is it positive or negative?]
 
 
 ## Task 2b: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
 - [Provide staging sign in credentials?]
 
-- Step 1
+- Do you have and use a VA.gov profile account? 
+- Where on the site do you usually sign in at? 
 - Step 2
 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Does the participant comment if signing in is the very first thing they do on VA.gov?]
 
 ---
 
