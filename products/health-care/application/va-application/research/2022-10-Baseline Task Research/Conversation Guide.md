@@ -172,8 +172,14 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 ## Post-Task Interview - X minutes
 
+[NPS Repeat Question]
+- How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
+
+
 - Question 1
 - Question 2
+
+
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
