@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated October 24, 2022**
+**Last updated October 26, 2022**
 
 ### Communications
 
@@ -82,7 +82,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 |Project| Launch date|
 |-------|------------|
-|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp)| Oct. 13, 2022|
+|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp)| Launch completed October 24, 2022|
 
 ## Backend
 
