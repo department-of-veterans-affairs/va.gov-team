@@ -35,8 +35,22 @@ The new health apartment phased approach outlines that features outside of the h
 
 ## Potential approaches for migrating notification preferences
 
-Move preferences one at a time; Do not have MHV integrate with VA Profile
-Move preferences one at a time; Suggest MHV integrate with VA Profile
-Move preferences one at a time; Have MHV remove preferences from their profile and add individual preferences to each feature page
-Move all preferences to VA.gov at one time; Retire all preferences on MHV at the same time
+### Move preferences one at a time; Do not have MHV integrate with VA Profile
+
+This would involve us moving notification preferences over one at a time as they correspond to health apartment feature migration. MHV would not need to do any work on their end prior to the migration
+
+#### Pros
+
+- This would correspond to the phased health apartment strategy.
+- This would be easier for all teams involved over a total migration of all preferences at once.
+- Little work required by MHV prior to turning off a given preference.
+
+#### Cons
+
+- Without MHV connecting to the VA Profile backend, we run the risk of people setting different preferences on VA.gov and MHV, or people potentially getting duplicate notifications (this depends on whether VANotify will provide notification support at the same time as we provide preference support).
+- OR, we need to turn off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform.
+
+### Move preferences one at a time; Suggest MHV integrate with VA Profile
+### Move preferences one at a time; Have MHV remove preferences from their profile and add individual preferences to each feature page
+### Move all preferences to VA.gov at one time; Retire all preferences on MHV at the same time
 
