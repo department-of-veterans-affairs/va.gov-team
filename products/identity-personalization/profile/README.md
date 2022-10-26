@@ -142,7 +142,9 @@ The following information is supported by **Lighthouse**:
 - Visit https://staging.va.gov/profile/
 - [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
-### Error Handling
+### Communication and Error Handling
+
+[This document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/communication.md) reviews the communication workflow for the Profile page in VA.gov and explains improvements that were made to reduce requests that result in 403 errors.
 
 - [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
