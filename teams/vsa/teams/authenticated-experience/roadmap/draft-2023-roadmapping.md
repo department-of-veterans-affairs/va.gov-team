@@ -32,6 +32,6 @@ Potential projects and work for our team includes:
 Potential projects and work for our team includes:
 
 - Scaling on-site notifications
-- Ongoing maintenance on notification preferences (either health apartment-related or not)
+- Ongoing maintenance and updates to notification preferences, either health apartment-related or not
 - Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval
 - Persistently showing all sections of My VA and simplifying personalized logic (aka My VA audit updates)
