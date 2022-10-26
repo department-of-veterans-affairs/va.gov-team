@@ -23,9 +23,10 @@ If you don't think this is the right form for you, go back and review the other 
 
 ## Filing if your Supplemental Claim isn't for a disability
 We can accept online Supplemental Claims only for disability claims at this time. For other types of claims, you'll need to fill out and submit VA Form 20-0995 by mail or in person.
+
 Send the completed form to the benefit office that matches the benefit type you select on the form.
 
-Find the address for where to mail your form (text link) 
+Find the address for mailing your form (text link) 
 
 [Download VA Form 20-0995 (PDF)](https://www.va.gov/find-forms/about-form-20-0995/)
 
@@ -41,6 +42,8 @@ When you file a Supplemental Claim, you’re adding new evidence that’s releva
 ### Follow these steps to get started
 
 If you don’t think this is the right form for you, find out about the other decision review options.
+
+[Learn about choosing a decision review ](https://www.va.gov/resources/choosing-a-decision-review-option/)
 
 #### 1. Check your eligibility
 Make sure you meet our eligibility requirements for Supplemental Claims before you file.
@@ -84,7 +87,7 @@ Here's how signing in now helps you:
 **Sign in to start your claim**
 
 
-How long this form may take: 15 minutes
+Respondent burden: 15 minutes
 
 OMB Control #: 2900-0862
 
@@ -160,7 +163,7 @@ This is the personal information we have on file for you.
 
 - *Gender*
 
-**Note:** If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+**Note:** If you need to update your personal information, you can call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 **_BACK_**
 
@@ -174,7 +177,7 @@ We'll save your application every time you add or update information.
 
 This is the contact information we have on file for you. We’ll send any updates or information about your Supplemental Claim to this address. 
 
-Note: Any updates you make here will be reflected on your VA.gov profile
+Note: Any changes you make here will also update your VA.gov profile
 
 *Home phone number (edit)*
 
@@ -195,7 +198,7 @@ We'll save your application every time you add or update information.
  
 **What is your primary phone number?**
 
-We may need to contact you to clarify issues related to your Supplemental Claim.
+We may need to contact you if we have questions about your Supplemental Claim.
 
 - [ ] *Home phone number*
 
@@ -205,7 +208,7 @@ We may need to contact you to clarify issues related to your Supplemental Claim.
 
 **_CONTINUE_**
 
-Error: We still don't have your home or mobile phone, email, and address. Please edit and update the field.
+Error: Some information is missing. Please fill in any fields that are blank.
 
 ---
 ----------------------------------------------
@@ -254,11 +257,9 @@ We'll save your application every time you add or update information.
 
 **Opt-in to the new decision review process**
 
-If you’re filing a Supplemental Claim for an issue in an initial claim we decided before February 19, 2019, you’ll need to opt in to the new decision review process. To do this, please check the box here. We’ll move your issue from the old appeals process to the new decision review process.
+If you’re filing a Supplemental Claim for an issue in an initial claim that we decided before February 19, 2019, you’ll need to opt in to the new decision review process. When you do this, we’ll move your issue from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
 
-Our decision review process is part of the Appeals Modernization Act. When you opt in, you’re likely to get a faster decision.
-
-- [ ] I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them into the new decision review process.
+- [ ] I understand that I'm opting in to the new decision review process. This means any isues I want reviewed from the old appeals process will move into the new decision review process. 
 
 **_BACK_**
 
@@ -270,11 +271,11 @@ Our decision review process is part of the Appeals Modernization Act. When you o
 
 We'll save your application every time you add or update information.
 
-**You’ll need to review and acknowledge this notice of evidence needed.**
+**Review and acknowledge this notice of evidence needed.**
 
 You’ll need to submit new evidence we haven’t reviewed before that’s related to the issue you’re claiming.
 
-We’ll look for evidence that shows:
+We’ll look for evidence that shows both of these are true:
 
 You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), and
 
@@ -296,27 +297,18 @@ Error: You need to certify that you have reviewed the notice of evidence needed.
 
 We'll save your application every time you add or update information.
 
-**Would you like us to request your VA medical records?**
+**Would you like us to request your VA medical records for you?**
 
 - [ ] Yes
 
 - [ ] No
 
  
-Types of evidence / expand
+How do I know if I have VA medical records? / expand
 
-VA medical records
+You have VA medical records if
 
-If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
-
-Private medical records
-
-If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
-
-Lay statements or other
-
-A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
-
+You were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program.
  
 **_BACK_**
 
@@ -331,22 +323,22 @@ We'll save your application every time you add or update information.
 [IF yes:]
 
 
-**Which facility treated you?**
+**Which VA facility treated you?**
 
-We’ll request your VA medical records from here
+We’ll request your VA medical records from this facility
 
 
 Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
 
-Error: You need to enter a VA facility
+Error: You must enter a VA facility
 
 
-Choose the conditions for which you received treatment at this facility. (*Required)
+Choose the conditions you received treatment for at this facility. (*Required)
 
-Error: You need to choose a condition.
+Error: You must choose a condition.
 
  
-First treatment date (You can estimate) (*Required)
+First treatment date (you can estimate) (*Required)
 
 [month]
 
@@ -355,7 +347,7 @@ First treatment date (You can estimate) (*Required)
 [year]
  
 
-Last treatment date (You can estimate) (*Required)
+Last treatment date (you can estimate) (*Required)
 
 [month]
 
@@ -385,19 +377,9 @@ We'll save your application every time you add or update information.
 
 - [ ] No
 
-Types of evidence / expand
+How do I know if I have private medical records / expand
 
-VA medical records
-
-If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
-
-Private medical records
-
-If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
-
-Lay statements or other
-
-A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
+You have private medical records if you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 
 **_BACK_**
@@ -462,9 +444,7 @@ We'll save your application every time you add or update information.
 
 **Where did you receive treatment?** 
 
-We’ll request your private medical records from here.
-
-Location
+We’ll request your private medical records from this provider or hospital.
 
 Name of private provider or hospital (*Required)
 
@@ -480,7 +460,7 @@ State
 
 Postal code
 
-Choose the conditions for which you received treatment at this facility. (*Required)
+Choose the conditions you received treatment for at this facility. (*Required)
 
 First treatment date (you can estimate) (*Required)
 
@@ -512,17 +492,18 @@ We'll save your application every time you add or update information.
 
 IF PRIVATE  medical records:
 
-**Do you want to limit the information VA requests?**
+**Do you want to limit the information we can request?**
 
-- [ ] I want to limit my consent for VA to retrieve specific information from my private medical provider(s).
+- [ ] I want to limit my consent for VA to retrieve certain information from my private medical provider(s).
 
-Describe the limitation below (you can limit to treatment dates, type of disability, etc. 400 characters max)
+Describe the limitation (for example, you want to release only treatment dates or a type of disability.)
+400 characters max (* Required
 
 *text input field
 
-What does this mean / expand
+What does "limit my consent" mean? / expand
 
-If you choose to limit consent, your doctor will follow the limitation you specify. Limiting consent could add to the time it takes to get your private medical records.
+If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. Limiting consent may add the time it takes us to get your private medical records.
 
 **_BACK_**
 
@@ -536,18 +517,10 @@ We'll save your application every time you add or update information.
 
 ** Do you want to upload your records or other documents to support your claim?
 
-Yes
-No
+- [ ] Yes
+- [ ] No
  
-Types of evidence / expand
-
-VA medical records
-
-If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.
-
-Private medical records
-
-If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+Types of supporting evidence / expand
 
 Lay statements or other
 
@@ -565,15 +538,15 @@ We'll save your application every time you add or update information.
 
 **Upload your supporting evidence**(*Required)
 
-You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (also known as lay statements), and other types of evidence. We’ll prompt you to upload each document from your device, but you may first need to scan your document, then save each file as a PDF and upload it.
+You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (sometimes called "lay statements" or "buddy statements"), and other types of evidence. We’ll prompt you to upload each document from your device. But you may need to scan your document first, then save each file as a PDF before you can upload it.
 
-You can do this one of several ways:
+You can do this one of 2 ways:
 
 If you have access to a computer connected to a scanner, you can scan each document onto the computer. Save the file as a PDF.
 
 If you have access to a smartphone, you can download or use the Notes app (for an iPhone) or the Google Drive app (for an Android phone) to scan each document onto the phone. The file will automatically save as a PDF when you’re done scanning.
 
-• File types you can upload: pdf
+• File types you can upload: PDF
 
 • Maximum file size: 100MB
 
@@ -643,7 +616,7 @@ Date – Date
 
 Remove
 
-You’ve uploaded these documents:
+You uploaded these documents:
 
 Edit
 
@@ -693,7 +666,7 @@ Decision date
 
 **Supporting evidence**
 
-Notice of Acknowledgement
+Notice of Acknowledgment
 
 Edit
 
