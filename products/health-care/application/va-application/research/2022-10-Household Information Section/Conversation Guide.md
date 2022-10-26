@@ -205,7 +205,7 @@ UX PIN PROTOTPYE LINKS HERE
 ## Post-Task Interview - 3 minutes
 
 [NPS Repeat Question]
-- How likely are you to recommend this online application to another Veteran? [Scale of 1 (not likely) to 5 (very likey)]
+- How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
 
 [Study Specific]
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
