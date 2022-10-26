@@ -1,4 +1,29 @@
 # Medical Records: design and research sync
+
+## 2022-10-26 
+
+## Attendees
+- Robyn Singleton 
+- Lexi Wunder
+- Bobby Bailey 
+- Anne Costello 
+- Jonathan Nelson
+- Coulton Bunney 
+
+## Agenda
+- Generative research update (card sorting approach, pilot sessions, next steps) 
+- Epic tickets set up for domains x domain, or some other strategy? 
+- Coordinating with flagship mobile app team around immunizations. What do we want that to look like? 
+- Leaving space for any design review questions/discussion
+
+## Notes
+
+
+Action items: 
+  - 
+
+# Medical Records: design and research sync
+
 ## 2022-10-18 
 
 ## Attendees
