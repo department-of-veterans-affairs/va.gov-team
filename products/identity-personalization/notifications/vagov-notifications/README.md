@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-Last updated September 30, 2022
+**Last updated October 24, 2022**
 
 ### Communications
 
