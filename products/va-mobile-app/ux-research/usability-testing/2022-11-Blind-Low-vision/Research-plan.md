@@ -145,11 +145,11 @@ Task completion will be scored on a 4 point scale, measuring the effectiveness o
 
 <table>
   <tr>
-   <td colspan="2" ><strong>4 - directly accessible</strong> (participant went directly to the correct place)
+   <td colspan="2" ><strong>4 - directly successful</strong> (participant went directly to the correct place)
    </td>
   </tr>
   <tr>
-   <td colspan="2" ><strong>3 - indirectly accessible </strong>(participant did not go directly to correct place, but found their way there without help)
+   <td colspan="2" ><strong>3 - indirectly successful </strong>(participant did not go directly to correct place, but found their way there without help)
    </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ Task completion will be scored on a 4 point scale, measuring the effectiveness o
    </td>
   </tr>
   <tr>
-   <td colspan="2" ><strong>1 - inaccessible </strong>(participant was stuck or incorrect, even with help)
+   <td colspan="2" ><strong>1 - unsuccessful </strong>(participant was stuck or incorrect, even with help)
    </td>
   </tr>
 </table>
