@@ -29,5 +29,9 @@ VA.gov integrates with VA Profile for notification preferences. However, MHV doe
 
 Integrating with Cerner data presents a big challenge for the backend (VA Profile). We'll need to consider how to reconcile potentially different records for the same person that might differ between MHV and the Cerner platform (eg. a person who goes to both Cerner and VistA facilities has opted to receive secure messaging alerts in one platform but not the other).
 
+### Unknown timing
+
+The new health apartment phased approach outlines that features outside of the health apartment (eg. My VA, Profile, etc) will need to support new health apartment features in [phase two of the migration](https://dsva.slack.com/archives/C02BTDTEPNH/p1666729478677299?thread_ts=1666728785.285899&cid=C02BTDTEPNH). Given that there are (understandably) so many unknowns with when we'll be ready for phase two because of external dependencies, this makes it hard for us to coordinate notification preference migration with VA Profile, who has their own roadmap and may not be able to pivot quickly if needed.
+
 ## Potential approaches for migrating notification preferences
 
