@@ -64,6 +64,7 @@ This would involve us moving notification preferences over one at a time as they
 
 - MHV would have to agree with this approach and dedicate people to the implementation. This would be a lot of work for them.
 - We may still need to put in work being a liaison between VA Profile and MHV to aid in a smooth migration process from the MHV backend to VA Profile.
+- It doesn't feel worth it to put in significant development to MHV at this point. While the UI wouldn't need to change much (pro), the coordination and backend/frontend integration for MHV would be a lot of work.
 
 ### Move preferences one at a time; Have MHV remove preferences from their profile and add individual preferences to each feature page
 
