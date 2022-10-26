@@ -6,7 +6,7 @@
 
 |Project|Status|
 |----|----|
-|On-site notifications MVP| Launched to 100% of users |
+|On-site notifications V2| On deck; Starting later this year|
 
 ### Projected timelines for current projects
 
