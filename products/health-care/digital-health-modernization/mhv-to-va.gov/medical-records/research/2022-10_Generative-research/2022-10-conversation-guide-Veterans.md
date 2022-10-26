@@ -149,7 +149,7 @@ Let’s start with a few questions...
 ## Section 2: Card sort - 15-20 mins
 Now we are going to do a sorting activity on a different website. 
 
-This is a tool that helps us to understand how Veterans would group certain items. If we can uderstand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 **Example card sort**
 *Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
