@@ -5,10 +5,9 @@
 ## Attendees
 - Robyn Singleton 
 - Lexi Wunder
-- Bobby Bailey 
-- Anne Costello 
 - Jonathan Nelson
-- Coulton Bunney 
+- Coulton Bunney
+- Jenny Wang 
 
 ## Agenda
 - Generative research update (card sorting approach, pilot sessions, next steps) 
@@ -18,9 +17,36 @@
 
 ## Notes
 
+**Generative research update (card sorting approach, pilot sessions, next steps)** 
+  - Robyn (Pilot session): they went well - made updates based on feedback and Robyn and Jonathan's expereinces. Will have one more "practice' this afternoon. Card sorting approach: Landed on open card sort.  Wanted to capture the how users would categorize and label groups.
+  - Coulton That sounds great. More interested in how partipants group than how they label. 
 
-Action items: 
-  - 
+Next steps: 
+- Sessions start Monday, Oct 31 
+- Fill the notes slot by Lexi and Jenny  
+
+**Epic tickets set up for domains x domain, or some other strategy?** 
+
+- Coulton: Any contract requirments on tickets? 
+- Robyn: Not that we are aware of 
+- Coulton: Do this exercise for each category:
+   - Where does the data live?
+   - What is the shape of the data?
+   - How should the data be displayed?
+   - Prototype and test
+   - Probably get 2 primary ways to display information - (1) list view, (2) more detailed view of items in list.
+- How does that data exist together? Display info for immunizations, and lab results, how navigate between sections? How to stitch together. Informed by Mikki’s research.
+Stitching will probably come together later - want more of bottom up question. 
+
+**Coordinating with flagship mobile app team around immunizations. What do we want that to look like?** 
+
+- Coulton: We will use that biweekly sync to touch base first and schedule additional followups, etc 
+
+**Leaving space for any design review questions/discussion**
+
+- Discussed intention and history of the meeting 
+- Coulton: Bring more structure to the meeting. We should have a strong design decisions. I am going to purpose that Jonathan and Lexi do not own that meeting - I am going to purpose Brian owns that meeting.
+
 
 # Medical Records: design and research sync
 
