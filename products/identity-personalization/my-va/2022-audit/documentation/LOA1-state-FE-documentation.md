@@ -1,4 +1,5 @@
 # My VA LOA1 State Frontend Documentation
+Last updated: October 26, 2022
 
 ## When to show the LOA1 state
 This view is applicable to users who have not yet verified their identity (LOA1).
