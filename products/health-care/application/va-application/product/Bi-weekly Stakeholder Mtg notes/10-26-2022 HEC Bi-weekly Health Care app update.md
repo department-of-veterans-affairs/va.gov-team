@@ -3,7 +3,10 @@
 ### 10/26/22 Agenda Items
 - Short form status
      - Shared volumes of applications where the Short Form flow started and submitted
-     - Very close to a 1-to-1 start to submission rate!
+     - We have a 98.89% start to submission rate for the month of October!
+          - As of this afternoon:
+               - 542 applications have started the Short Form flow
+               - 536 applications have been submitted through the Short Form flow
      - Looking to increase visibility to 100% of all eligible Veterans next week
 - Self-Identifying Gender Identity
      - Tarsha met with CICPO (Compliance integrity) impromptu discussion Gender Identity terms
