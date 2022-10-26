@@ -35,3 +35,8 @@ The new health apartment phased approach outlines that features outside of the h
 
 ## Potential approaches for migrating notification preferences
 
+Move preferences one at a time; Do not have MHV integrate with VA Profile
+Move preferences one at a time; Suggest MHV integrate with VA Profile
+Move preferences one at a time; Have MHV remove preferences from their profile and add individual preferences to each feature page
+Move all preferences to VA.gov at one time; Retire all preferences on MHV at the same time
+
