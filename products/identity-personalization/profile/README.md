@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: August 19, 2022
+Last Updated: October 26, 2022
 
 ## Table of Contents
 
@@ -31,6 +31,7 @@ Last Updated: August 19, 2022
 |Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+| John Cater | FE Engineer | john.cater@govcio.com |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
