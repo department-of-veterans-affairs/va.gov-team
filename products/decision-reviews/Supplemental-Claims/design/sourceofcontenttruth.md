@@ -40,7 +40,7 @@ When you file a Supplemental Claim, you’re adding new evidence that’s releva
 
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, go back and answer the questions again.
+If you don’t think this is the right form for you, find out about the other decision review options.
 
 #### 1. Check your eligibility
 Make sure you meet our eligibility requirements for Supplemental Claims before you file.
@@ -100,7 +100,7 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, go back and answer the questions again.
+If you don’t think this is the right form for you, find out about the other decision review options.
 
 #### 1. Check your eligibility
 Make sure you meet our eligibility requirements for Supplemental Claims before you file.
