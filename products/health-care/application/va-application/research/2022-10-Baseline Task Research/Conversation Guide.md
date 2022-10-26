@@ -26,7 +26,7 @@ Slack for real-time feedback from observers.
 
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
 - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
@@ -59,7 +59,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ---
 
 ## Task 1: [Start Application] - 3 minutes
-- Scenario: You are interested in applying for health care and arrive at this page. 
+Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
@@ -75,7 +75,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## Second Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
+## Task 2a: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
 -  (You clicked continue on the intro page), can you please explain what you would do from here? 
 
 ### Things to watch for:
@@ -84,7 +84,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Etc]
 
 
-## Second Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants ]
+## Task 2b: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
 - [Provide staging sign in credentials?]
 
 - Step 1
@@ -97,7 +97,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ---
 
 ## Third Task: [Complete Veteran Information Section0] - 5 minutes
-- Could you please complete this section of the form and talk aloud about what you see/would do?
+- Could you please complete this section of the form and talk aloud about what you see and what you would do?
 
 **Participant questions:**
 - What worked well for you?
