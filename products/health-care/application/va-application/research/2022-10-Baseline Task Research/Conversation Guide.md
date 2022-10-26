@@ -58,7 +58,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 
-## First Task: [Start Application] - 3 minutes
+## Task 1: [Start Application] - 3 minutes
 - Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
@@ -68,16 +68,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
-- [Is signing in the partipants next action or do they say they wouldn't sign in to complete the application?]
+- [Does the partipant sign in as a next action or do they say they would complete the application without signing in?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
 
 
 
-
 ## Second Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
-- As you clicked continue on the intro page, can you please explain what you would do from here? 
+-  (You clicked continue on the intro page), can you please explain what you would do from here? 
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
@@ -98,7 +97,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ---
 
 ## Third Task: [Complete Veteran Information Section0] - 5 minutes
-- Could you please complete this section of the form and talk aloud about what you see/would do.
+- Could you please complete this section of the form and talk aloud about what you see/would do?
 
 **Participant questions:**
 - What worked well for you?
@@ -109,7 +108,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
 - [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
-
 
 ---
 
@@ -129,7 +127,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Step 3 of 6: Military service]
 
 
-## Fifth Task: [Dates] - X minutes
+## Task 5: [Dates] - X minutes
 
 - Step 1
 - Step 2
@@ -141,7 +139,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Etc]
 
 
-## Sixth Task: [Upload a file] - X minutes
+## Task 6: [Upload a file] - X minutes
 
 - Step 1
 - Step 2
@@ -155,6 +153,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 [Step 4 of 6: Household information]
+
+
+### Task 7: Household Information, Financial Disclosure - 3 minutes
+
+
 
 
 
