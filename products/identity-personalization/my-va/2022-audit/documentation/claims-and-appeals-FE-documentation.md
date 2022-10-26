@@ -1,4 +1,5 @@
 # My VA Claims and Appeals Frontend Documentation
+Last updated: October 26, 2022
 
 ## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
