@@ -34,7 +34,7 @@ You must choose a claim type.
 
 ---
 ## File a Supplemental Claim
-Equal to VA Form 20-0995
+VA Form 20-0995
 
 When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence you want us to gather for you. A reviewer will determine whether the new evidence changes the decision.
 
