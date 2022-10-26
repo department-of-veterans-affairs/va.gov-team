@@ -1,4 +1,5 @@
 # My VA Education and Training Frontend Documentation
+Last updated: October 26, 2022
 
 ## When to show the ‘Education and training’ section
 We show this section for every LOA3 user.
