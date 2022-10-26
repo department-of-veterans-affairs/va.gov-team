@@ -58,12 +58,13 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
 
-**The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
-
-**New and relevant evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
+- New and relevant evidence. You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
+- The decision date of any issue you want us to review. You can ask us to review more than 1 issue.
+- The name and address of any medical facility you'd like us to request your records from. 
+- The dates you were treated at that private medical facility. 
 
 Types of Evidence (expand)
-- Medical records from a VA medical center, another federal health facility, or your private health care provider
+- Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse
 - Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it got worse
 
 ### 3. Start your Supplemental Claim
