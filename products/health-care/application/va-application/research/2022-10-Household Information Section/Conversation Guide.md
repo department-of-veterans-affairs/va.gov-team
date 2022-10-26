@@ -195,7 +195,7 @@ UX PIN PROTOTPYE LINKS HERE
 ## Primary Task 6: Deductible Information - 5 minutes
 - Complete the fields on this page. 
 - What is your impression of this page and why these questions are being asked? 
--[Clicking continue will end the prototype testing - will not continue with completing the form to end]
+- [Clicking continue will end the prototype testing - will not continue with completing the form to end]
 
 ### Things to watch for:
 - [Does the participant understand this question or are they confused?]
@@ -205,7 +205,7 @@ UX PIN PROTOTPYE LINKS HERE
 ## Post-Task Interview - 3 minutes
 
 [NPS Repeat Question]
-- How likely are you to recommend this online application process to another Veteran? [Scale of 1 (not likely) to 5 (very likey)]
+- How likely are you to recommend this online application to another Veteran? [Scale of 1 (not likely) to 5 (very likey)]
 
 [Study Specific]
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
