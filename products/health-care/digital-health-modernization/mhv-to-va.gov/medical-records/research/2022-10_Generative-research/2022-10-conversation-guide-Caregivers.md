@@ -111,7 +111,7 @@ Let’s start with a few questions...
 
 3. Please tell me about your relationship with the Veteran you support - particularly, how you have helped them to get and use VA benefits or other types of services. 
 	
-	- *OPTIONAL PROBE:* How long have you been helping *(use name or term Cargiver is using to describe the Veteran they support)* to get or use benefits or services? 
+	- *OPTIONAL PROBE:* How long have you been helping *(use name or term Caregiver is using to describe the Veteran they support)* to get or use benefits or services? 
 
 4. Like I said, we are talking to Veterans and caregivers about how they look for their health information and what they want to do with their information, and what all that might mean for us when considering how to improve the website. Thinking along those lines, I'm going to ask you a question: 
 	
@@ -122,25 +122,25 @@ Let’s start with a few questions...
 5. What if that/those list(s) were available online - what would you call it/them?
 
 ## Section 1: Past experiences - 15-20 minutes
-6. Have you ever seen or downloaded information about the health of *(use name or term Cargiver is using to describe the Veteran they support)*? This could be any information about their health history, about current health problem, or what they are doing to stay healthy. 
+6. Have you ever seen or downloaded information about the health of *(use name or term Caregiver is using to describe the Veteran they support)*? This could be any information about their health history, about current health problem, or what they are doing to stay healthy. 
 
 7. What did you or they need to do, see, or download? 
 
 8. What did you or they want to learn or do with this information? 
 
-	- *OPTIONAL PROBES:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to share this information with anyone? If so, with who? For what purpose? 
+	- *OPTIONAL PROBES:* Did you or *(use name or term Caregiver is using to describe the Veteran they support)* want to share this information with anyone? If so, with who? For what purpose? 
 
-	- *OPTIONAL PROBES:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to keep this information for yourself? If so, what made you want to do that?
+	- *OPTIONAL PROBES:* Did you or *(use name or term Caregiver is using to describe the Veteran they support)* want to keep this information for yourself? If so, what made you want to do that?
 
 9. In the last 1-2 times you were looking online for information about their health history, current health issues, or anything about their healthcare, what kind of health information were you trying to find? 
 
-	- *OPTIONAL PROBE:* What kind of information would you or *(use name or term Cargiver is using to describe the Veteran they support)* most want to find quickly? 
+	- *OPTIONAL PROBE:* What kind of information would you or *(use name or term Caregiver is using to describe the Veteran they support)* most want to find quickly? 
 
-10. In the last 1-2 times you were looking online for information about their health history, current health issues, or anything about their healthcare, what did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to do after you found what you were looking for? 
+10. In the last 1-2 times you were looking online for information about their health history, current health issues, or anything about their healthcare, what did you or *(use name or term Caregiver is using to describe the Veteran they support)* want to do after you found what you were looking for? 
 
-	- *OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* want to download their entire *(use the word the participant is using for medical records)* or just use specific information? 
+	- *OPTIONAL PROBE:* Did you or *(use name or term Caregiver is using to describe the Veteran they support)* want to download their entire *(use the word the participant is using for medical records)* or just use specific information? 
 
-	- *OPTIONAL PROBE:* Did you or *(use name or term Cargiver is using to describe the Veteran they support)* need to share their *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
+	- *OPTIONAL PROBE:* Did you or *(use name or term Caregiver is using to describe the Veteran they support)* need to share their *(use the word the participant is using for medical records)* with anyone? If yes, with who? For what purpose? 
 
 11. I am going to share my screen to show you an image of a current website that has the *(use the word the participant is using for medical records)* for Veterans. *(Screen share and show image of Blue Button and VA Health Summary section of MHV.)*
 
