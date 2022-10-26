@@ -55,7 +55,9 @@ There is no singular backend that supports this section. Largely, this section i
 ### Services
 
 - We check DS Logon, MHV, ID.me, and Login.gov to determine whether a user has verified their identity or not, and whether or not to show them the full profile or only show them Account security with a prompt to verify their identity.
-- We also check these services to see if 2FA has been set up. **Tom should verify this**
+- We also check these services to see if 2FA has been set up.
+
+See [BE Documentation for Profile: Account Security](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md) document for more information the responsiblity of the backend API.
 
 ### How to Access and Test
 
