@@ -281,6 +281,8 @@ Include information here on when payment information shows on My VA.
 - Payment information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
 - Debt information comes from the Debt Management Center (DMC).
 
+[This document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/communication.md) reviews the communication workflow for the MyVA page explains improvements that were made to reduce payment history requests that result in 403 errors.
+
 ## Design and UX
 
 ### Use cases
