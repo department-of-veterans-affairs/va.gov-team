@@ -48,7 +48,7 @@ This would involve us moving notification preferences over one at a time as they
 #### Cons
 
 - Without MHV connecting to the VA Profile backend, we run the risk of people setting different preferences on VA.gov and MHV, or people potentially getting duplicate notifications (this depends on whether VANotify will provide notification support at the same time as we provide preference support). **Note**: we already live in this reality with appointment reminders and prescription shipment notifications.
-- OR, we need to turn off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform.
+- OR, we need to turn off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV)..
 
 ### Move preferences one at a time; Suggest MHV integrate with VA Profile
 
@@ -88,6 +88,7 @@ This would involve us migrating all notification preferences at once instead of 
 
 - We could retire all MHV preferences on MHV at once.
 - There would be no conflict between the VA Profile and MHV backends, as they would not be supporting preferences at the same time.
+- Little to no extra work for MHV.
 
 #### Cons
 
@@ -96,3 +97,15 @@ This would involve us migrating all notification preferences at once instead of 
 
 ### Don't actually support preferences on VA.gov until phase 4 (MHV feature retirment) instead of phase 2
 
+This would involve us moving notification preferences over one at a time as they correspond to health apartment feature migration. However, instead of supporting preferences in phase 2 of the migration, we would wait until phase 4, when a feature is entirely turned off on MHV.
+
+#### Pros
+
+- Moving preferences over one at a time would mean that if a feature exists on VA.gov (eg. secure messages), so does its settings.
+- There would be no conflict between the VA Profile and MHV backends, as we would retire the MHV version of a preference (eg. secure messaging alerts) at the same time as we activated it on VA.gov.
+- Little to no extra work for MHV.
+
+#### Cons
+
+- This goes against the phased health apartment strategy, as we ideally would be supporting preferences in phase 2, not phase 4.
+- This does not get around the problem of turning off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV).
