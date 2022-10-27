@@ -17,15 +17,15 @@ Now that we have [defined both existing and needed MHV notifications]() and revi
 
 ## Considersations and challenges for migrating to VA.gov
 
+### MHV backend is currently not connected to VA Profile
+
+VA.gov integrates with VA Profile for notification preferences. However, MHV does not. This means that we can/should not have VA.gov supporting health preferences at the same time as MHV. Otherwise, we risk people setting one preference in one place or the other, and those preferences don't match. 
+
 ### MHV features are moving over 1-by-1 to VA.gov
 
 MHV features (rightfully) moving over 1-by-1 to VA.gov presents a challenge with notification preferences: we'll likely only need to support 1 or maybe 2 new preferences at a time that support the new VA.gov features (eg. having a secure messages alert preference once the secure messaging feature is live). However, in MHV, notification preferences are a whole feature, and it would likely feel weird to retire one preference at a time instead of the whole feature at once.
 
 ![MHV notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/MHV%20notification%20settings.jpeg)
-
-### MHV backend is currently not connected to VA Profile
-
-VA.gov integrates with VA Profile for notification preferences. However, MHV does not. This means that we can/should not have VA.gov supporting health preferences at the same time as MHV. Otherwise, we risk people setting one preference in one place or the other, and those preferences don't match. 
 
 ### Needing to integrate Cerner data
 
