@@ -66,10 +66,12 @@ body:
       placeholder: johndoe@va.gov
     validations:
       required: true
-  - type: markdown
+  - type: textarea
+    id: add-assignee-labels
     attributes:
+      label: Add Assignee and Labels     
+      format: hidden
       value: |
           ## Configuring this issue
           If not already done so, please ensure @ianMcCullough-ob is set as the assignee for this issue and \"VSP-contact-center\" and \"cc-data-request\" are set as labels.
-    render: markdown
         
