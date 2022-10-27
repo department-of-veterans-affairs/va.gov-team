@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, October 2022
+# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, November 2022
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section - household information. This section includes questions on:
