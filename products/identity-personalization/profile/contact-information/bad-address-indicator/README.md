@@ -169,7 +169,8 @@ Note: we need to get these numbers from VA Profile.
 ## Design
 
 - [Sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B84818F9-2AB7-42E8-BFFD-0C0949B020A3/canvas)
-- Need use case documentatio
+- [Use case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
+- [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ) 
 
 ### Before
 
