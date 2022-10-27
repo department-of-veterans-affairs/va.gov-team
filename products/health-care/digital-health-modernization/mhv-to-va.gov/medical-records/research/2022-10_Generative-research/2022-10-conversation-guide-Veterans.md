@@ -7,7 +7,7 @@ Warm-up and Section 1: Past Experiences
 - What actions do Veterans need to take relating to their health information and records, and for what purposes?  
 - What might enable Veterans to better accomplish their goals related to their health records? 
 
-Section 2: Card sort
+Section 2: Card sort (https://bit.ly/mrcardsort)
 - How are participants categorizing different types of health-related information? 
 - How are they comprehending the existing, SME-defined categories? 
 - What ideas are they surfacing that don't currently belong to any categories? 
@@ -146,13 +146,13 @@ Let’s start with a few questions...
 ## Section 2A: Card sort - 15-20 mins 
 *(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
 
-## Section 2: Card sort - 15-20 mins
+## Section 2: Card sort - 15-20 mins (https://bit.ly/mrcardsort)
 Now we are going to do a sorting activity on a different website. 
 
 This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 **Example card sort**
-*Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
+*Preview link for demonstration purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
 
 We will be using a website to do the sorting activity. I'll show you how it works. 
 
@@ -174,8 +174,8 @@ First, would you mind sharing your screen? To share your screen, please tap on t
 - iPad: Broadcast screen
 
 Now I need to share with you a link to the sorting activity. How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
-- [Card sort link](link to Optimal Workshop) - to provide; create bit.ly to make smaller and easier to dictate. 
-	- *Preview link for practice purposes: https://dj540s05.optimalworkshop.com/optimalsort/qi53c6t2/sort*
+- [Card sort link](https://bit.ly/mrcardsort): https://bit.ly/mrcardsort 
+
 
 **Instructions to open the card sort:**
 * Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
