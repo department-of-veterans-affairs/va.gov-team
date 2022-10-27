@@ -186,15 +186,64 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [Observer ratings of start application task completion using rating criteria]
 
 
+## Task: Adding dependents - 5 minutes
+- Now that you have completed your spouse's information, please answer the question on this page and proceed. 
+- (When selected yes) Complete the questions about your first dependent.
+- For this scenario, you have multiple children. How would you add them to this application?
+
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
+### Things to watch for:
+- [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
+- [Does the participant struggle with adding a second dependent?]
+- [Does the participant pause or are they confused by any of the dependent information questions?]
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
+## Task: Editing and removing a dependent - 3 minutes
+- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
+- Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
+
+### Things to watch for:
+- [Does the participant clearly see the buttons to edit and delete dependents?]
+- [Does the participant easily make their edit and continue on without getting hung up?]
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
-### Task: [Household Information, Dependents] - 5 minutes
+## Task: Annual Income - 5 minutes
+- Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
+- (continue) Complete your spouse's income information.
+- In real life, how long would it take you to gather and make sure you were entering the correct information here?
+
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
 
 
+### Things to watch for:
+- [Does the participant comment on the onboarding page or do they spend a lot of time here?]
+- [Does the participant interact with any of the additional information components for more context needed?]
 
-### Task: [Household Information, Income] - 5 minutes
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+
+
+## Task: Deductible Information - 5 minutes
+- Complete the fields on this page. 
+- What is your impression of this page and why these questions are being asked? 
+- [Clicking continue will end the prototype testing - will not continue with completing the form to end]
+
+### Things to watch for:
+- [Does the participant understand this question or are they confused?]
+- [Does the participant notice and call attention to the alert component?]
 
 
 
