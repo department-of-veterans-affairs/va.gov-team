@@ -45,7 +45,7 @@ This would involve us moving notification preferences over one at a time as they
 
 - This would correspond to the phased health apartment strategy.
 - This would be easier for all teams involved over a total migration of all preferences at once.
-- Little work required by MHV prior to turning off a given preference.
+- No extra development for MHV over other approaches.
 
 #### Cons
 
@@ -89,7 +89,7 @@ This would involve us migrating all notification preferences at once instead of 
 
 - We could retire all MHV preferences on MHV at once.
 - There would be no conflict between the VA Profile and MHV backends, as they would not be supporting preferences at the same time.
-- Little to no extra work for MHV.
+- No extra development for MHV over other approaches.
 - We could actually retire the entire MHV profile at this point if we wanted, since the VA.gov profile only needs the MHV preferences in order to have feature parity.
 
 #### Cons
@@ -105,7 +105,7 @@ This would involve us moving notification preferences over one at a time as they
 
 - Moving preferences over one at a time would mean that if a feature exists on VA.gov (eg. secure messages), so does its settings.
 - There would be no conflict between the VA Profile and MHV backends, as we would retire the MHV version of a preference (eg. secure messaging alerts) at the same time as we activated it on VA.gov.
-- Little to no extra work for MHV.
+- No extra development for MHV over other approaches.
 
 #### Cons
 
