@@ -93,8 +93,21 @@
         - Notify approvers in the UX or Engineering channels that the ticket is ready to be validated
         - Close the ticket once all reviews have been completed
     - Reviewer will
+        - Use appropriate test cases in TestRail to validate features
         - Add a comment to the ticket when their review is complete
         - Post in the thread, if there is one, that their review is complete
+
+## Testing
+- Manual Testing
+    - Test new features
+        - UX/Product creates test cases before development
+        - Engineers will have access to test cases during development
+        - Validators will use test cases to test new features
+        - Midpoint/Staging review folks will use the test cases to understand how to test our application
+    - Regression testing
+        - Once per month, a team member will do test runs in staging for all test cases that apply to currently-released features
+- Automated Testing
+    - Engineers decide what needs a Cypress test
 
 ## Releasing
 - Epics 
