@@ -1,4 +1,4 @@
-# MHV notification settings migration plan
+# MHV notification settings initial effort outline
 
 Last updated May 13, 2022
 
