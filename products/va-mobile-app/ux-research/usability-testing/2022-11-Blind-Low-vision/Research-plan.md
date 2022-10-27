@@ -424,7 +424,7 @@ Team Roles
 * Participant(s) for pilot test: Angela Fowler
 * Note-takers: Perigean
 * Observers: 
-    * Jen Ecker
-    * Brea Blackwelder 
-    * Therese Dickson
-    * Angela Fowler
+    * Jen Ecker jen.ecker@adhoc.team 
+    * Brea Blackwelder brea.blackwelder@adhocteam.us
+    * Therese Dickson therese.dickson@adhocteam.us
+    * Angela Fowler angela.fowler@adhocteam.us
