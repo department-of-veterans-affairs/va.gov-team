@@ -63,7 +63,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 UX PIN PROTOTPYE LINKS HERE
 
 
-## Task: Start Application - 5 minutes
+## Task: Start application - 5 minutes
 - Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
@@ -85,7 +85,7 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task: Veteran Information Section - 5 minutes
+## Task: Veteran information - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see/would do.
 
 **Participant questions:**
@@ -100,7 +100,7 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task: VA Benefits & Military Service - 3 minutes
+## Task: VA benefits & military service - 3 minutes
 - Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under sections part 2 VA benefits and 3 Military service]
 
@@ -173,7 +173,7 @@ UX PIN PROTOTPYE LINKS HERE
 - [Observer ratings of start application task completion using rating criteria]
 
 
-## Primary Task 5: Annual Income - 5 minutes
+## Primary Task 5: Annual income - 5 minutes
 - Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
 - (continue) Complete your spouse's income information.
 - In real life, how long would it take you to gather and make sure you were entering the correct information here?
@@ -192,7 +192,7 @@ UX PIN PROTOTPYE LINKS HERE
 - [Observer ratings of start application task completion using rating criteria]
 
 
-## Primary Task 6: Deductible Information - 5 minutes
+## Primary Task 6: Deductible information - 5 minutes
 - Complete the fields on this page. 
 - What is your impression of this page and why these questions are being asked? 
 - [Clicking continue will end the prototype testing - will not continue with completing the form to end]
@@ -200,6 +200,7 @@ UX PIN PROTOTPYE LINKS HERE
 ### Things to watch for:
 - [Does the participant understand this question or are they confused?]
 - [Does the participant notice and call attention to the alert component?]
+
 
 
 ## Post-Task Interview - 3 minutes
