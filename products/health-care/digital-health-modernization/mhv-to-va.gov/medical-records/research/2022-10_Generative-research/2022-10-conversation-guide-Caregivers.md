@@ -287,13 +287,18 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Language in event participant needs mental health resources
 
-I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+I want to remind you that VA can help connect you to mental health services--even for caregivers. To access services right away, you may either contact a caregiver support coordinator using the website https://www.caregiver.va.gov/ or by calling the Caregiver Support Line 855-260-3274, Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET. Again, that's 855-260-3274.
+
+Or if you prefer, you can contact the VA's Coaching Into Care program to speak with a licensed psychologist or social worker, free of charge. They can provide information about mental health and VA services, as well as tips for how to begin the conversation about treatment with a loved one. You can find them by going to the website https://www.mirecc.va.gov/coaching/, or by calling 888-823-7458, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 **If the participant looks like they need help right now...**
 
 Would you like to stop this session now?
 
-If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+If you find that you're in crisis and need to talk to someone right away, you can reach out to a caregiver support coordinator by calling 855-260-3274. They are open Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m.
+
+You can also contact the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+
 
 ## After Session 
 - Click "End" on zoom website
