@@ -24,7 +24,6 @@ Slack for real-time feedback from observers.
 - When the participant is ready, begin the session with the following intro
 
 
-
 ## Intro - 5 minutes
 Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
@@ -58,7 +57,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 
-## Task 1: [Start Application] - 3 minutes
+## Task: [Start Application] - 3 minutes
 Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
@@ -75,7 +74,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 
 
-## Task 2a: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
+## Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
 -  (You clicked continue on the intro page), can you please explain what you would do from here? 
 
 ### Things to watch for:
@@ -84,20 +83,18 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [If the participant comments on this, is it positive or negative?]
 
 
-## Task 2b: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
+## Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
 - [Provide staging sign in credentials?]
-
 - Do you have and use a VA.gov profile account? 
 - Where on the site do you usually sign in at? 
-- Step 2
 
 ### Things to watch for:
-- [Does the participant understand meaning of xyz?]
 - [Does the participant comment if signing in is the very first thing they do on VA.gov?]
 
 ---
+[Step 1 of 6: Veteran information]
 
-## Third Task: [Complete Veteran Information Section0] - 5 minutes
+## Task: [Complete Veteran Information Section] - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see and what you would do?
 
 **Participant questions:**
@@ -108,11 +105,12 @@ Scenario: You are interested in applying for health care and arrive at this page
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
-- [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
+- [(New gender identity question when added) content on page, interaction with additional info content, comment on order or labels of choices]
 
 ---
+[Step 2 of 6: VA benefits]
 
-## Fourth Task: [Disability Rating] - X minutes
+## Task: [Disability Rating] - 3 minutes
 - Step 1
 - Step 2
 
@@ -121,14 +119,13 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [Does the participant comment that the questions are too intrusive?]
 
 
-{if selected a rating of above 50% and directed to short form flow, skip to TASK #, NOTE THIS ON... }
+{if selected a rating of above 50% and directed to short form flow, skip to TASK [Insurance Information], NOTE THIS ON... }
 
 
 ---
 [Step 3 of 6: Military service]
 
-
-## Task 5: [Dates] - X minutes
+## Task: [Dates] - 3 minutes
 
 - Step 1
 - Step 2
@@ -140,7 +137,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [Etc]
 
 
-## Task 6: [Upload a file] - X minutes
+## Task: [Upload a file] - 3 minutes
 
 - Step 1
 - Step 2
@@ -156,24 +153,41 @@ Scenario: You are interested in applying for health care and arrive at this page
 [Step 4 of 6: Household information]
 
 
-### Task 7: Household Information, Financial Disclosure - 3 minutes
+### Task: [Household Information, Financial Disclosure] - 5 minutes
 
 
 
 
 
+### Task: [Household Information, Spouse Information] - 3 minutes
 
 
 
 
 
+### Task: [Household Information, Dependents] - 5 minutes
+
+
+
+### Task: [Household Information, Income] - 5 minutes
+
+
+
+---
+[Step 5 of 6: ]
+
+
+
+
+---
+[Step 6 of 6: Review]
 
 
 
 
 ## Post-Task Interview - X minutes
 
-[NPS Repeat Question]
+[NPS Question]
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
 
 
@@ -182,6 +196,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 
 - Any questions for me? 
+
 
 ## Thank-You and Closing - X minutes
 
@@ -195,8 +210,5 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+> [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
