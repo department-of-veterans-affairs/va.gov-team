@@ -110,7 +110,9 @@ Forms DB is in maintenance mode.
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov> - 
 
 ### Contacts by Business Line - last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>
-![image](https://user-images.githubusercontent.com/73354907/138717356-491698da-1d70-49d8-8658-281125bf55c1.png)
+
+![contacts-by-business-line](https://user-images.githubusercontent.com/85581471/198370606-21419fd2-0d5c-47fd-a28c-e5ec605ccb98.png)
+
 
 ## Architecture
 
