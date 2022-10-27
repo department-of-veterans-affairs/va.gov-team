@@ -43,22 +43,22 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 |Reduce # of Expired applications| TBD | TBD | TBD|
 
 
-**Key Result 2:** Increase the number of In-Progress applications that are submitted within 7 days of starting it.
+**Key Result 2:** Increase the percentage of In-Progress applications, as a result of the email link, 25% of clicked-thru emails will submit their application.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|Increase # of Saved In Progress applications submitted| TBD | TBD | TBD|
+|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | TBD|
 
 
-**Key Result 3:** Increase the number of returning applicants as a result of the email link
+**Key Result 3:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|# of Click-thrus on email link | N/A | TBD | TBD |
+|% of Click-thrus on email link | N/A | 25% of opened emails | TBD |
 
 ---
 
