@@ -123,7 +123,7 @@ TBD
 
 ### Previous research
 
-- [Initial MHV profile discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/recommendations.md)
+- [Initial MHV profile discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research)
 
 ### Design artifacts
 
