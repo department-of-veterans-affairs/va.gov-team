@@ -98,8 +98,8 @@ Reserach sessions will be held remotely via Zoom.
  
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to Login.gov Staging](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Conversation%20Guide_Remote%20Identity%20Proofing%20and%20MFA.md)
+- [Link to Login.gov Staging](https://staging.login.gov/)
 
 
 	
