@@ -62,7 +62,7 @@ _Requesting team_
 ### Application delivery pipeline (CI/CD)
 - [ ] **AWS service account for GitHub actions**, ie `svc-gha-team-name` | [Request here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
 _Infrastructure Team_
-- [ ] **AWS Elastic Container Registry (ECR) repository for the app container:** Submit PR to add your application name to the "all-repos" section of [this page]((https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf))  
+- [ ] **AWS Elastic Container Registry (ECR) repository for the app container:** Submit PR to add your application name to the "all-repos" section of [this page](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf)  
 _Requesting team_  
 - [ ] **Add semantic release configuration (a `.releaserc` file) to your repo** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc) | [Docs](https://semantic-release.gitbook.io/semantic-release/)    
 _Requesting team_  
