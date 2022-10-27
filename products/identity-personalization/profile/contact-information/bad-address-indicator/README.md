@@ -181,4 +181,4 @@ Note: we need to get these numbers from VA Profile.
 
 ## Backend
 
-- [Backend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information#bad-address-indicator-bai)
+- [Backend documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
