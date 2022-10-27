@@ -92,6 +92,7 @@ This would involve us migrating all notification preferences at once instead of 
 - We could retire all MHV preferences on MHV at once.
 - There would be no conflict between the VA Profile and MHV backends, as they would not be supporting preferences at the same time.
 - Little to no extra work for MHV.
+- We could actually retire the entire MHV profile at this point if we wanted, since the VA.gov profile only needs the MHV preferences in order to have feature parity.
 
 #### Cons
 
