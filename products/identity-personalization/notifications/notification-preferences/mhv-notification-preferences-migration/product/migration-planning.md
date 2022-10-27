@@ -59,14 +59,12 @@ This would involve us moving notification preferences over one at a time as they
 #### Pros
 
 - This would correspond to the phased health apartment strategy.
-- This would make VA.gov's job much easier, as VA Profile would already support health preferences prior to us supporting them in our UI.
 - If needed, preferences could coexist on VA.gov and MHV at the same time until we are ready to turn off the feature on MHV.
 
 #### Cons
 
-- MHV would have to agree with this approach and dedicate people to the implementation. This would be a lot of work for them.
-- We may still need to put in work being a liaison between VA Profile and MHV to aid in a smooth migration process from the MHV backend to VA Profile.
-- It doesn't feel worth it to put in significant development to MHV at this point. While the UI wouldn't need to change much (pro), the coordination and backend/frontend integration for MHV would be a lot of work.
+- MHV would have to agree with this approach and dedicate people to the implementation. This would be more work for them, though, potentially not much additional work over what will already be needed (ie. working closely with VA Profile to define requirements and potential migration of existing preferences).
+- It doesn't feel worth it to put development into MHV at this point. While the UI wouldn't need to change much (pro), the coordination and backend/frontend integration for MHV would be extra work.
 
 ### Move preferences one at a time; Have MHV remove preferences from their profile and add individual preferences to each feature page
 
