@@ -285,6 +285,16 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 *End meeting for all*
 
+## Language in event participant needs mental health resources
+
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+**If the participant looks like they need help right now...**
+
+Would you like to stop this session now?
+
+If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+
 ## After Session 
 - Click "End" on zoom website
 - Take special note of
