@@ -72,7 +72,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Complete; release date 11/1/2022
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
-#### Beneficiary Travel Reimbursement
+#### Travel Reimbursement
 - Status: In development
 - Purpose: Allow Veterans to submit a travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the Beneficiary Travel Self Service System (BTSSS) or through a travel office.
 - Functionality:
