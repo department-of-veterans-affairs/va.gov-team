@@ -7,8 +7,6 @@
 - Complete any project-specific setup tasks for this study (List them below)
 - [ ] Step 1
 - [ ] Step 2
-- [ ] Step 3
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -54,11 +52,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-
 ---
 
 ## Task: [Start Application] - 3 minutes
-Scenario: You are interested in applying for health care and arrive at this page. 
+- Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
@@ -74,7 +71,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 
 
-## Task: [Pre-Check & Pre-populated info] - 3 minutes [For Unauthenticated Participants]
+## Task: [Pre-check & pre-populated info] - 3 minutes [For unauthenticated participants]
 -  (You clicked continue on the intro page), can you please explain what you would do from here? 
 
 ### Things to watch for:
@@ -83,7 +80,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [If the participant comments on this, is it positive or negative?]
 
 
-## Task: [Sign in - where/when in process] - 3 minutes [For Authenticated Participants]
+## Task: [Sign in - where/when in process] - 3 minutes [For authenticated participants]
 - [Provide staging sign in credentials?]
 - Do you have and use a VA.gov profile account? 
 - Where on the site do you usually sign in at? 
@@ -101,7 +98,7 @@ Scenario: You are interested in applying for health care and arrive at this page
 - What worked well for you?
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
-- 
+
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
@@ -111,24 +108,24 @@ Scenario: You are interested in applying for health care and arrive at this page
 [Step 2 of 6: VA benefits]
 
 ## Task: [Disability Rating] - 3 minutes
-- Step 1
-- Step 2
+- Continue completing the questions in the second step of the form.
+- What is your expectation 
 
 ### Things to watch for:
 - [Does the participant understand the questions and content through these sections?]
 - [Does the participant comment that the questions are too intrusive?]
+- [Does the participant select a disability rating that results in the short form flow?]
+- [Does the particpant select an option that results in the VA pension question page?]
 
+{If selected a rating of above 50% and directed to short form flow, skip to TASK [Insurance Information].}
 
-{if selected a rating of above 50% and directed to short form flow, skip to TASK [Insurance Information], NOTE THIS ON... }
 
 
 ---
 [Step 3 of 6: Military service]
 
 ## Task: [Dates] - 3 minutes
-
-- Step 1
-- Step 2
+- Continue completing the application - step 3 - providing your military service information.
 
 ### Things to watch for:
 
@@ -138,15 +135,11 @@ Scenario: You are interested in applying for health care and arrive at this page
 
 
 ## Task: [Upload a file] - 3 minutes
-
-- Step 1
-- Step 2
+- Can you please complete the instruction on this page.
 
 ### Things to watch for:
-
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 
 
 ---
@@ -236,19 +229,24 @@ Scenario: You are interested in applying for health care and arrive at this page
 - [Observer ratings of start application task completion using rating criteria]
 
 
-## Task: Deductible Information - 5 minutes
+## Task: Deductible information - 5 minutes
 - Complete the fields on this page. 
 - What is your impression of this page and why these questions are being asked? 
-- [Clicking continue will end the prototype testing - will not continue with completing the form to end]
 
 ### Things to watch for:
 - [Does the participant understand this question or are they confused?]
 - [Does the participant notice and call attention to the alert component?]
 
 
-
 ---
-[Step 5 of 6: ]
+[Step 5 of 6: Insurance information]
+
+## Task: Insurance information - 5 minutes
+- Please explain what this section of the form means to you as you work through answering the questions.
+
+
+### Things to watch for:
+- [Does the participant understand this question or are they confused and need additional context?]
 
 
 
