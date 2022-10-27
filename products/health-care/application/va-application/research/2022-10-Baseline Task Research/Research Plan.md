@@ -68,9 +68,6 @@ Each task will have a set of qualitative and quantitative data points that we wi
 - What was unclear or didn’t work well for you?
 - What would you like to change or add?
 
-#### Post-Test Participant ( ) 
-
-
 
 #### Observer rating criteria
 - 0 = No part of the task completed, much difficulty
@@ -80,15 +77,22 @@ Each task will have a set of qualitative and quantitative data points that we wi
 - 4 = All parts of the task were completed with no difficulty 
 
 
+#### Post-Test Participant ( ) 
+
+
+#### NPS Question ( ) 
+- How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
+
+
 
 ### Location
 Remote: Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Baseline%20Task%20Research/Conversation%20Guide.md)
 - [Task Wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
-- [Task List](Github URL)
+- [Task List and Metrics](Github URL)
 - [Link to staging](url goes here)
 
 
@@ -132,6 +136,8 @@ What criteria would strengthen your results?
 
 
 
+
+
 ### Prepare
 We will be testing what is currently approved in the staging environment.
 
@@ -141,7 +147,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: 
+* Planned dates of research: November 
 
 ### Length of sessions
 * Session length: 1 hour
