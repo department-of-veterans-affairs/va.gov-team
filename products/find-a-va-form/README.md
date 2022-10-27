@@ -89,10 +89,10 @@ __VA forms stakeholder working group includes:__
 ### Forms managers
 |Name|Role re: Forms|
 |----|----|
-|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL)|
+|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
 |Keyes, Janel <Janel.Keyes@va.gov>  | VHA Forms manager|
 |Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
-|Allmond, Yvette M. <yvette.allmond@va.gov> | Forms manager|
+|Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
 |Swearinger-Smith, Gail T. (VACO)" <Gail.SwearingerSmith@va.gov>|VHA forms admin|
 
 
