@@ -174,7 +174,7 @@ If you have a debt notification added to My VA and it doesn't show up, this coul
 
 ## Design
 
-- Add Sketch files
+- [Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
 
 ### Before
 
