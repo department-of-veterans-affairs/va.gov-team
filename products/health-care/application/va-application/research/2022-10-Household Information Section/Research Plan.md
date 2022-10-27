@@ -39,7 +39,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 **3. Optimize the order and flow of questions within the household information section**
 
 
-These goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
+These research goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
 - Key Result #3: Veterans feel prepared when they begin the Household section
 - Key Result #4: Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
@@ -50,21 +50,21 @@ The outcome of this research will help guide what changes should be made to the 
 
 ### Research questions
 
-**Goal 1**
+**Goal 1 - Clear and actionable**
 - Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
 - What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 
-**Goal 2** 
+**Goal 2 - Helpful and understandable content** 
 - Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
 - Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?
 
-**Goal 3**
+**Goal 3 - Logical order**
 - Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
 - What struggles do participants encounter with the process of adding and editing multiple dependents?
 - Is there clear error recovery and easy editing ability when adding multiple entries for a question?
 
 
-### Hypothesis
+### Hypotheses
 - The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
 - The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
 - The new pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
@@ -75,7 +75,6 @@ The outcome of this research will help guide what changes should be made to the 
 
 ### Task Analysis
 Moderated usability testing for task analysis will be on a desktop prototype.
-
 
 
 ### Location
@@ -317,6 +316,7 @@ TBD         | TBD
 ## Resources
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - User Flows ([Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx)) & ([Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W))
-- Prototype
-- Notes board (Mural)
+- [Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024?_gl=1*14167j8*_gcl_aw*R0NMLjE2NjMzNDA5NjEuQ2owS0NRand2WkNaQmhDaUFSSXNBUFhiYWp0Y0JmZEs4ZlFZSFV3RHctM0Y2SXlYSlpZd0Q2Z0NtdThkUVlycnBGLWZ4UF9jSW8tMWxTWWFBazRJRUFMd193Y0I.#/pages/159024257/simulate/no-panels?mode=i)
+- Notes folder
+- Notes Mural board
 - Research Findings
