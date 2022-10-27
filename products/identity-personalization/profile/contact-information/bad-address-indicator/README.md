@@ -66,13 +66,13 @@ There are going to be two phases of bad address updates, which will happen async
 
 We are working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
 
-**Anticipated launch date**: Late summer 2022
+**Launch date**: 100% as of 10/24
 
 #### Email notifications
 
 We are also working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. This email will not be ready at the same time as the UI updates. Instead, we will launch the UI updates first, gather metrics, and then launch the email notification once VA Profile has integrated with VANotify and is ready to do so. 
 
-**Launch date**: 100% as of 10/24
+**Anticipated launch date**: 100% as of 10/24
 
 ### Key dates
 
