@@ -153,13 +153,38 @@ Scenario: You are interested in applying for health care and arrive at this page
 [Step 4 of 6: Household information]
 
 
-### Task: [Household Information, Financial Disclosure] - 5 minutes
+## Task: Financial disclosure - 3 minutes
+- Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
+- Talk through what you see and what the content means to you.
+
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
+### Things to watch for:
+- [Does the participant understand the financial disclosure page?]
+- [Does the participant open the additional info on qualifying eligibility factors?]
+- [Does the participant click yes or no on the financial disclosure page and express why?] 
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
 
 
 
+## Task: Marital status and spouse information - 3 minutes
+- (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
+- (If selected Married/Separated for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
 
+### Things to watch for:
+- [Does the participant make any comments about this page happening after the financial disclosure page?]
+- [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
+- [Does the participant comment on the second spouse page with the two lived with/address questions?]
+- [Does the participant comment the question is intrusive or that they would skip and/or answer untruthfully?]
 
-### Task: [Household Information, Spouse Information] - 3 minutes
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+
 
 
 
