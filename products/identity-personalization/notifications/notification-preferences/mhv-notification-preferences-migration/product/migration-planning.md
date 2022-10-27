@@ -35,6 +35,10 @@ Integrating with Cerner data presents a big challenge for the backend (VA Profil
 
 The new health apartment phased approach outlines that features outside of the health apartment (eg. My VA, Profile, etc) will need to support new health apartment features in [phase two of the migration](https://dsva.slack.com/archives/C02BTDTEPNH/p1666729478677299?thread_ts=1666728785.285899&cid=C02BTDTEPNH). Given that there are (understandably) so many unknowns with when we'll be ready for phase two because of external dependencies, this makes it hard for us to coordinate notification preference migration with VA Profile, who has their own roadmap and may not be able to pivot quickly if needed.
 
+### The MHV team will have to help with this work
+
+While my team will be responsible for work in our profile and leading coordination with VA Profile, the MHV team can't be totally uninvolved. They'll need to agree to our migration approach, work with VA Profile to make sure preferences are defined, work with VANotify to migrate actual notifications (though, to be clear, that can happen separately from migrating preferences), work with VA Profile to migrate existing preferences (assuming they want to), and implementing UI updates to retire preferences either one at a time or all at once.
+
 ## Potential approaches for migrating notification preferences
 
 ### Move preferences one at a time; Do not have MHV integrate with VA Profile
@@ -112,3 +116,5 @@ This would involve us moving notification preferences over one at a time as they
 - This goes against the phased health apartment strategy, as we ideally would be supporting preferences in phase 2, not phase 4.
 - Users would temporarily have to go to MHV to set preferences while a feature was live on VA.gov (eg. setting a secure messaging preference on MHV while the secure messaging feature is live on VA.gov) until the feature was fully retired on MHV.
 - This does not get around the problem of turning off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV).
+
+## Recommendations
