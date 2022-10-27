@@ -118,3 +118,9 @@ This would involve us moving notification preferences over one at a time as they
 - This does not get around the problem of turning off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV).
 
 ## Recommendations
+
+Prioritize
+
+- Not having two backends conflicting
+- Reducing burden on MHV
+- Reduced confusion/inconvenience to users
