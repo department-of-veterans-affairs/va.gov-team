@@ -14,7 +14,7 @@ body:
     id: data-request-type
     attributes:
       label: Data Type Requested
-      description: For MyVA411 call center support data, select "Support." For Medallia survey data, select "User Surveys."
+      description: For MyVA411 call center support data, select \"Support.\" For Medallia survey data, select \"User Surveys.\"
       options:
         - Support
         - User Surveys
@@ -55,7 +55,7 @@ body:
     attributes:
       label: Product URL(s) and/or term(s)
       description: Please provide the root directory(ies) for your product(s). If providing specific terms to search for, please include those terms as well as common alternate spellings.
-      placeholder: URLs: va.gov/find-locations, va.gov/./locations Terms: facility, facilities, community care provider
+      placeholder: URLs\: va.gov/find-locations, va.gov/./locations Terms\: facility, facilities, community care provider
     validations:
       required: true
   - type: input
@@ -70,5 +70,5 @@ body:
     attributes:
       value: |
           ## Configuring this issue
-          If not already done so, please ensure @ianMcCullough-ob is set as the assignee for this issue and "VSP-contact-center" and "cc-data-request" are set as labels.
+          If not already done so, please ensure @ianMcCullough-ob is set as the assignee for this issue and \"VSP-contact-center\" and \"cc-data-request\" are set as labels.
         
