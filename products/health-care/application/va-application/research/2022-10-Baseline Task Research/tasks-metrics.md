@@ -98,3 +98,57 @@
 **Other data metrics:**
 - GA: Time on page
 - GA: Drop off / Exit % by page
+
+## Task:  [Adding Dependents]
+
+**Data gathered from studies:**
+- Participant questions
+- Quotes
+- Observer ratings
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Drop off / Exit % by page
+
+## Task:  [Editing Dependents]
+
+**Data gathered from studies:**
+- Quotes
+- Observer ratings
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Drop off / Exit % by page
+
+## Task:  [Income]
+
+**Data gathered from studies:**
+- Participant questions
+- Quotes
+- Observer ratings
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Drop off / Exit % by page
+
+
+## Task: [Insurance information] - 5 minutes
+**Data gathered from studies:**
+- Participant questions
+- Quotes
+- Observer ratings
+
+**Other data metrics:**
+- GA: Time on section
+- GA: Drop off / Exit % by page
+
+## Task: [Review page] - 3 minutes
+
+**Data gathered from studies:**
+- Participant questions 
+- Confident to submit rating
+- Quotes
+- Observer ratings
+
+## Task: [Confirmation page] - 3 minutes
+
