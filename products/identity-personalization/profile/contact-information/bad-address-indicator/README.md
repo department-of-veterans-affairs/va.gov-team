@@ -72,7 +72,7 @@ We are working on UI updates to VA.gov to show an alert in the VA.gov profile if
 
 We are also working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. This email will not be ready at the same time as the UI updates. Instead, we will launch the UI updates first, gather metrics, and then launch the email notification once VA Profile has integrated with VANotify and is ready to do so. 
 
-**Anticipated launch date**: 100% as of 10/24
+**Anticipated launch date**: tbd
 
 ### Key dates
 
