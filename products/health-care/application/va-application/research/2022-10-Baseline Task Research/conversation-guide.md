@@ -128,10 +128,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Continue completing the application - step 3 - providing your military service information.
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the questions and content through these sections?]
+- [Does the participant comment that the questions are too intrusive?]
 
 
 ## Task: [Upload a file] - 3 minutes
@@ -144,7 +142,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 [Step 4 of 6: Household information]
-
 
 ## Task: Financial disclosure - 3 minutes
 - Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
