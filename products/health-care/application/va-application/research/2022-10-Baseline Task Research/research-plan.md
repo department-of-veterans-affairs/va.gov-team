@@ -28,7 +28,7 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ## Research Goals	
-**1. Obtain a qualitative baseline for the main tasks within the application to use in comparrison during future studies and iterations.**
+**1. Obtain a qualitative baseline for tasks within the application to use in comparrison during future studies and iterations.**
 
 **2. Overall, what is easy or difficult to complete within the form and why.**
 
@@ -43,22 +43,21 @@ We will use the results from this research to esablish a baseline for comparriso
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
 - What tasks have a range of participant reactions?
-- Are there common themes between participants
+- Are there common themes between participant
 
 
-### Hypothesis
-The baseline study will confirm the findings and pain points from past studies are still consistently an issue with participants in this study. 
-The baseline study
-
+### HypothesEs
+- The baseline study will confirm the findings and pain points from past studies are still consistently an issue with participants in this study. 
+- The baseline study
 
 
 ## Method	
-- Usability testing task analysis- appropriate for evaluative research
-- Post-task and post-testing participant questionaire/rating
+- Usability testing task analysis
+- Post-task and post-testing participant questions
 
 
 ### --
-Determine a list of tasks and standardize how they are asked repeatedly from research session to session to begin gauging sentiment over time. 
+Determine a list of tasks and standardize how they are asked repeatedly from research session to session to begin gauging sentiment over time with design and content iterations. 
 
 Each task will have a set of qualitative and quantitative data points that we will collect during the baseline session, then these same metrics can be used used when this task is asked during a future research study. 
 
@@ -92,8 +91,8 @@ Remote: Zoom
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Baseline%20Task%20Research/Conversation%20Guide.md)
 - [Task Wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
-- [Task List and Metrics](Github URL)
-- [Link to staging](url goes here)
+- [Task List and Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Baseline%20Task%20Research/tasks-metrics.md)
+- [Link to staging](https://staging.va.gov/health-care/apply/application/introduction)
 
 
 	
@@ -111,7 +110,6 @@ For moderated usability tests:
 
 ### Recruitment approach
 We will recruit Veterans for this research using and leveraging Perigean to recruit participants.  
-
 
 
 ### Recruitment criteria
