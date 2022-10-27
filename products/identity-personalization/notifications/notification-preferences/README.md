@@ -114,8 +114,6 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 ### Error Handling
 
-- _Coming soon!_
-
 ## Frontend
 
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md)
