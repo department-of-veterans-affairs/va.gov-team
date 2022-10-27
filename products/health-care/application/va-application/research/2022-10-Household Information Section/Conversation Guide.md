@@ -25,7 +25,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-**Today we're going to talk about the Health Care Applcation but specifically are looking to get your feedback on the section of the form that asks about household information.**
+**Today we're going to talk about the VA health care application, but specifically are looking to get your feedback on the section of the form that asks about household information.**
 
 Before we start, a few things I want to mention:
 
@@ -63,7 +63,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 UX PIN PROTOTPYE LINKS HERE
 
 
-## Task 0: Start Application - 5 minutes
+## Task: Start Application - 5 minutes
 - Scenario: You are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
@@ -85,7 +85,7 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task 0: Veteran Information Section - 5 minutes
+## Task: Veteran Information Section - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see/would do.
 
 **Participant questions:**
@@ -100,7 +100,7 @@ UX PIN PROTOTPYE LINKS HERE
 
 
 
-## Task 0: VA Benefits & Military Service - 3 minutes
+## Task: VA Benefits & Military Service - 3 minutes
 - Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
 - [Participant continues answering questions under sections part 2 VA benefits and 3 Military service]
 
