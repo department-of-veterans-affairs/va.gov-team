@@ -32,11 +32,11 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 ## Research Goals	
 
-**1. Determine if the questions and additional information within the household information section is clear and actionable**
+**1. Determine if the questions and additional information within the household information section is clear and actionable.**
 
-**2. Determine if the financial onboarding page content is helpful and understandable**  
+**2. Determine if the financial onboarding page content is helpful and understandable.**  
 
-**3. Optimize the order and flow of questions within the household information section**
+**3. Optimize the order and flow of questions within the household information section.**
 
 
 These research goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
@@ -65,9 +65,9 @@ The outcome of this research will help guide what changes should be made to the 
 
 
 ### Hypotheses
-- The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
 - The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
-- The new pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
+- The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field. 
+- The updates to the multiple responses pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
 
 
 
@@ -315,8 +315,8 @@ TBD         | TBD
 
 ## Resources
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
-- User Flows ([Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx)) & ([Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W))
+- User Flows - [Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx) & [Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W)
 - [Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024?_gl=1*14167j8*_gcl_aw*R0NMLjE2NjMzNDA5NjEuQ2owS0NRand2WkNaQmhDaUFSSXNBUFhiYWp0Y0JmZEs4ZlFZSFV3RHctM0Y2SXlYSlpZd0Q2Z0NtdThkUVlycnBGLWZ4UF9jSW8tMWxTWWFBazRJRUFMd193Y0I.#/pages/159024257/simulate/no-panels?mode=i)
-- Notes folder
+- [Notes folder]()
 - Notes Mural board
 - Research Findings
