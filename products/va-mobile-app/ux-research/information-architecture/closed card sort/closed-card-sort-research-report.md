@@ -355,7 +355,7 @@ This research does not include the perspectives of the following marginalized Ve
  [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
 
 ## Tools used for Synthesis
-
+[Closed card sort - Optimal sort](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/53516949-eb96-4b85-b493-bda8794844c4#/t/results/overview)
 [Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
 
 
