@@ -25,7 +25,13 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* The Virtual Agent Chatbot was first built in Spring 2021 to live on its own page as part of its proof of value. Since then the Chatbot has been launched to production to 100% of users who can reach this chatbot page via a link the Contact Us page.
+* The first iteration of the Virtual Agent Chatbot was first built as a Proof of Concept in Spring 2021 and resided on a page wholly devoted to facilitate user reseearch on this beta version of the chatbot. This page communicated the fact that the Chatbot was in beta testing, expectations when using the chatbot, explicit instrucctions on hwo to use the chatbot with a screen reader, and privacy information.
+* On March 2, 2022, the Chatbot was launched more widely to the Veteran population via a link to this same page on the VA.gov Contact Us page. 
+* Since then, there have been more than 105,000 interactions with the Chatbot and ...
+* Clearly the Chatbot is no longer in beta testing and it is our desire to move the Chatbot off its standalone page, and make it more widely available on VA.gov. We intend to do user research to determine the best pages this will be, and the mechanism by which the Chatbot will be displayed on these pages.
+* All previous measurable outcomes contained within the previous Product Outline still hold, but specifically for this initative an emphasis will be placed on these Digital Experience measures:
+** Usage of digital, self-service tools
+
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
