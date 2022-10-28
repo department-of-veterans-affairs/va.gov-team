@@ -231,6 +231,10 @@ Reference Mural for live notes/synthesis?
 > - [Does the participant understand this question or are they confused?]
 > - [Does the participant notice and call attention to the alert component?]
 
+**Observations & Notes**
+- type here
+
+
 
 ---
 
@@ -240,7 +244,7 @@ Reference Mural for live notes/synthesis?
 > How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
 
 **Response**
-- 
+- Type here
 
 > [Study Specific]
 
