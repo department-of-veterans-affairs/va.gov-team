@@ -35,7 +35,7 @@
   * Veteran satisfaction with VA.gov
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [Virtual Agent Chatbot Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/Virtual_Agent_Product_Outline.pdf)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
