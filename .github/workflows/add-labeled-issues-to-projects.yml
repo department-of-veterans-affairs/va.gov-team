@@ -28,3 +28,13 @@ jobs:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/623
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
           labeled: platform-leadership
+
+  platform-support:
+    name: Add Platform Support Issues to Project Board
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/813
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          labeled: platform-tech-team-support
