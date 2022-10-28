@@ -70,9 +70,34 @@ Reference Mural for live notes/synthesis?
 ---
 
 ## Task - VA benefits & military service 
+**Quotes**
+- Type here
 
+
+> Things to watch for:
+> - [Does the participant understand the questions and content through these sections?]
+> - [Does the participant comment that the questions are too intrusive?]
+
+**Observations & Notes**
+- type here
 
 
 ---
 
-## PRIMARY Task - 
+## PRIMARY Task - Financial disclosure question
+
+Participant questions:
+
+What worked well for you?
+What was unclear or didn’t work well for you?
+What would you like to change or add?
+Things to watch for:
+[Does the participant understand the financial disclosure page?]
+[Does the participant open the additional info on qualifying eligibility factors?]
+[Does the participant click yes or no on the financial disclosure page and express why?]
+**Observer rating of task completion (select below)**
+- [ ] 0 = no part of the task completed, much difficulty
+- [ ] 1 = Partial completion, much overlooked or task was difficult
+- [ ] 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [ ] 3 = Most of the task was completed with little difficulty
+- [ ] 4 = All parts of the task were completed with no difficulty
