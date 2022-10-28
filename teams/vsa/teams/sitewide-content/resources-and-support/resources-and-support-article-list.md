@@ -80,3 +80,4 @@
 | 78 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) | Health care | 8/2/22 |
 | 79 | [Ang PACT Act at ang iyong mga VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-tag/) | Health care | 8/18/22 |
 | 80 | [La Ley PACT y sus beneficios de VA](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-esp/) | Health care | 8/30/22 |
+| 81 | [O*NET Interest Profiler career assessment](https://www.va.gov/resources/onet-interest-profiler-career-assessment) | Careers and employment benefits hub | 10/28/22 |
