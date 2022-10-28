@@ -317,6 +317,6 @@ TBD         | TBD
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - User Flows - [Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx) & [Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W)
 - [Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024?_gl=1*14167j8*_gcl_aw*R0NMLjE2NjMzNDA5NjEuQ2owS0NRand2WkNaQmhDaUFSSXNBUFhiYWp0Y0JmZEs4ZlFZSFV3RHctM0Y2SXlYSlpZd0Q2Z0NtdThkUVlycnBGLWZ4UF9jSW8tMWxTWWFBazRJRUFMd193Y0I.#/pages/159024257/simulate/no-panels?mode=i)
-- [Notes folder]()
-- Notes Mural board
+- [Notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes)
+- [Notes Mural board] (https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1666894526417/3cd5fb1ef447104ac677305a840849e322956178?sender=u9b3a9c1b688c0e4bb4994314)
 - Research Findings
