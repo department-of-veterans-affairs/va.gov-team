@@ -53,3 +53,10 @@ If a user has no new notifications since they last logged in but has notificatio
 **UX Specs**
 
 The notifications should stack on top of each other with the newest at the top and oldest at the bottom.
+
+## If a user dismisses a notification
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+
+If a user dismisses the notification by clicking or tapping the close icon, then the notification should disappear. If the user dismisses all notifications in the section, then the "Notifications" header should disappear.
