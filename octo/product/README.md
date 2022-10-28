@@ -1,5 +1,5 @@
-# OCTO Product Operations
-The `product operations` directory contains standards, templates, and other resources specific to the product management discipline that help teams maintain high-quality product development practices. 
+# OCTO Product
+The `product` directory contains standards, templates, and other resources specific to the product management discipline that help OCTO teams maintain high-quality product development practices. 
 
 
 
@@ -7,7 +7,7 @@ The `product operations` directory contains standards, templates, and other reso
 
 ## Content
 
-- **[Terms & Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/operations/product/terms%20and%20definitions.md)**  articulates our understanding of an OCTO product, feature, and initiative.
+- **[Terms & Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/terms%20and%20definitions.md)**  articulates our understanding of an OCTO product, feature, and initiative.
 
 ---
 
