@@ -270,6 +270,9 @@ Use font awesome icon `file-medical` for icon
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
 
+**Interaction specs**
+- When a user clicks the [Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) link, My HealtheVet should open **in a new tab**.
+
 **Secondary links**
 - When this error shows, do not show any other secondary links in the section since we cannot tell if the user has VA health care.
 
