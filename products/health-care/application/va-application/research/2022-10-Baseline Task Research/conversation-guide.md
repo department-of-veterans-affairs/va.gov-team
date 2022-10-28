@@ -3,10 +3,8 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
 - Complete any project-specific setup tasks for this study (List them below)
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Confirm staging sign in credentials for participant to use
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -31,7 +29,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-Today we're going to talk about the online application to apply for VA health care.
+**Today we're going to talk about the online application to apply for VA health care.**
 
 Before we start, a few things I want to mention:
 
@@ -46,21 +44,24 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-
 
 ---
 
+## Warm-up Questions (Optional) - 5 minutes
+
+Before we look at the website, let’s start with a few warm-up questions.
+
+- Do you currently have health care benefits from the VA?
+- If yes, what is your memory/recollection of the application process?
+
+
 ## Task: [Start Application] - 3 minutes
-- Scenario: You are interested in applying for health care and arrive at this page. 
+- Scenario: You are interested in applying for VA health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
 - On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
-- Can you tell us more about what you would have to do in preparation for filling out this application?
+- Can you tell us more about what you personally would have to do in preparation for filling out this application?
 
 ### Things to watch for:
 - [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
@@ -70,9 +71,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Observer ratings of start application task completion using rating criteria]
 
 
-
-## Task: [Pre-check & pre-populated info] - 3 minutes [For unauthenticated participants]
+## Task: [Pre-check & pre-populated info - Unathenticated] - 3 minutes 
 -  (You clicked continue on the intro page), can you please explain what you would do from here? 
+
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
@@ -80,7 +81,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [If the participant comments on this, is it positive or negative?]
 
 
-## Task: [Sign in - where/when in process] - 3 minutes [For authenticated participants]
+## Task: [Sign in - where/when in process - Authenticated] - 3 minutes 
 - [Provide staging sign in credentials?]
 - Do you have and use a VA.gov profile account? 
 - Where on the site do you usually sign in at? 
@@ -90,6 +91,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ---
 [Step 1 of 6: Veteran information]
+
 
 ## Task: [Complete Veteran Information Section] - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you see and what you would do?
@@ -108,8 +110,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Step 2 of 6: VA benefits]
 
 ## Task: [Disability Rating] - 3 minutes
-- Continue completing the questions in the second step of the form.
-- What is your expectation 
+- Continue completing the questions in the second step of the form. 
 
 ### Things to watch for:
 - [Does the participant understand the questions and content through these sections?]
@@ -117,8 +118,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant select a disability rating that results in the short form flow?]
 - [Does the particpant select an option that results in the VA pension question page?]
 
-{If selected a rating of above 50% and directed to short form flow, skip to TASK [Insurance Information].}
-
+{If selected a rating of above 50% and directed to short form flow, skip to [TASK INSURANCE INFORMATION].}
 
 
 ---
@@ -244,8 +244,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant understand this question or are they confused and need additional context?]
-
-
+- [Do the medicaid and medicare questions cause pause or confuse the participant?]
 
 
 ---
@@ -254,11 +253,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
+### Things to watch for:
+- [Does the participant have a positive or negative sentiment about the review page?]
+- [Does the participant give any reason for pause or why they wouldn's submit the application?]
+
+
+
+
 ## Post-Task Interview - X minutes
 
 [NPS Question]
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
-
 
 - Question 1
 - Question 2
