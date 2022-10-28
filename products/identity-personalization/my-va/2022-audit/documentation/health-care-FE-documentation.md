@@ -83,8 +83,8 @@ You have no upcoming appointments to show.
 
 ### If a user has unread message(s) from a health care provider(s)
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D3CE5EC9-6925-4086-A1C5-2370E93073CB)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6F32EDF4-2B0A-4277-9963-FB1E45AA0BDD)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)
 
 **Show**
 
@@ -100,9 +100,13 @@ You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.go
 - If a user has multiple unread messages, the word "messages" should appear as plural.
 - If a user has one unread message, the word "message" should appear as singular.
 
-#### Visual specs
+**Visual specs**
 
-- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the messages notification.
+- This component will be built by the Authenticated Experience team and eventually added to the VA design pattern library. When it is added, we will link it here.
+- This component is a version of the [onsite notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/frontend-documentation/notifications-frontend-documentation.md). The difference in this version is that there is no date and no dismiss icon.
+- The color of the icon is `secondary-darkest` in the VA design pattern library (#981B1E)
+- The header text in the notification is an `H4`.
+- The link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--active#active) in the VA pattern library.
 
 **Positioning**
 - The unread messages notification should appear under the "Health care" header on the lefthand side on desktop, regardless of any other conditions within the section. If the user also has upcoming appointments, the messages notification should come before the upcoming appointments card.
