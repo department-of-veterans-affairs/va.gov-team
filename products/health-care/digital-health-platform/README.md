@@ -93,14 +93,14 @@ We are planning to launch in 2022.
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Abbie Burton, Aurelio Nogueira, Cam Bui, Lex Joseph, Mariah Sager, Rebecca Green, Stephen Ruiz, Yoni Doron-Peters 
+Kimberly Roberts, Michael Chaffee, Abbie Burton, Cam Bui, Fernanda Alcocer, Lex Joseph, Mariah Sager, Oliver Moreno, Rebecca Green, Yoni Doron-Peters 
 
 #### Stakeholders
 
 Arash Harzand, Blake Henderson, Stefany Holguin
 
 #### GitHub/ZenHub/Teams/Jira
-GitHub label: [digital-health-platform](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform)
+GitHub label: [digital-health-platform](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform), dhp-device-connection
 
 Link to Teams folder if applicable: [DHP](https://teams.microsoft.com/l/team/19%3apBPuU6y6bX06LRhBKrJzImm8XBFuHOsfpUKzWtFhIVU1%40thread.tacv2/conversations?groupId=93a7bb6d-ecf0-4195-a188-03a1484d0f25&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
