@@ -9,15 +9,16 @@ on:
       - labeled
 
 jobs:
-  cop-backend:
-    name: Add CoP Backend Issues to Project Board
+  cop:
+    name: Add CoP Issues to Project Board
     runs-on: ubuntu-latest
     steps:
       - uses: actions/add-to-project@main
         with:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/815
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          labeled: platform-cop-backend
+          labeled: platform-cop-backend, platform-cop-frontend, platform-cop-devops
+          label-operator: OR
 
   platform-leadership:
     name: Add Platform Leadership Issues to Project Board
