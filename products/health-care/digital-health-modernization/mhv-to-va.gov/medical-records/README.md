@@ -1,6 +1,6 @@
-# My Health Medical Records Product Outline `WIP`
+# My Health Medical Records Product Outline
 
-Last Updated: August 23, 2022
+Last Updated: Oct 28, 2022
 
 ### Communications
 
@@ -140,6 +140,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Current Status
 
 ### Key Decisions
+October 2022 - We will approach Medical Records in a domain/category based manner where we complete one domain/category before starting the next.  Example domain/categories are: Immunizations, Allergies, Medications, etc.
 
 ---
    
