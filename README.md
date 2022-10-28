@@ -17,7 +17,7 @@ The best starting place is the knowledge hub, that provides links to the content
 https://depo-platform-documentation.scrollhelp.site/
 
 ### [/octo](./octo)
-All templates, guides, process, and onboarding resources that are relevant to everyone in OCTO, gov and contractors.
+All templates, guides, processes, and onboarding resources that are relevant to everyone in OCTO, including feds and contractors.
 
 ### [/platform](./platform)
 All resources, templates, guides, and processes that support development of VFSs on VA.gov.
