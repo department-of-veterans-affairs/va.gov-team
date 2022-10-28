@@ -67,8 +67,8 @@ Here’s what you’ll need to apply:
 - The dates you were treated at that private medical facility. 
 
 Types of Evidence (expand)
-- Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse
-- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse
+- Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse.
+- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse.
 
 ### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
