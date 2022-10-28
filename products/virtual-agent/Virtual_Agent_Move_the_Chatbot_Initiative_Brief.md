@@ -30,8 +30,9 @@
 * Since then, there have been more than 105,000 interactions with the Chatbot and ...
 * Clearly the Chatbot is no longer in beta testing and it is our desire to move the Chatbot off its standalone page, and make it more widely available on VA.gov. We intend to do user research to determine the best pages this will be, and the mechanism by which the Chatbot will be displayed on these pages.
 * All previous measurable outcomes contained within the previous Product Outline still hold, but specifically for this initative an emphasis will be placed on these Digital Experience measures:
-** Usage of digital, self-service tools
-
+  * Usage of digital, self-service tools
+  * Completion rate of online transactions (specifically with clickthroughs to linked existing VA.gov content, use of the Chatbot's Claims and Appeals feature, and use of the Chatbot's forthcoming Sign-in Support feature)
+  * Veteran satisfaction with VA.gov
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
