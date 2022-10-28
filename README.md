@@ -16,8 +16,8 @@ For information on how to use this repo, see the [Repo Guidelines](https://githu
 The best starting place is the knowledge hub, that provides links to the content in this repository and elsewhere:
 https://depo-platform-documentation.scrollhelp.site/
 
-### [/operations](./operations)
-All resources, templates, guides, and processes in support of our various Communities of Practice
+### [/octo](./octo)
+All templates, guides, process, and onboarding resources that are relevant to everyone in OCTO, gov and contractors.
 
 ### [/platform](./platform)
 All resources, templates, guides, and processes that support development of VFSs on VA.gov.
