@@ -75,13 +75,6 @@ UX PIN PROTOTPYE LINKS HERE
 - [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
 - [Is signing in the partipants next action or do they say they wouldn't sign in to complete the application?]
 
-#### Observer rating of task completion
-- [Observer ratings of start application task completion using rating criteria]
-   - [0 = no part of the task completed, much difficulty]
-   - [1 = Partial completion, much overlooked or task was difficult]
-   - [2 = Partial completion, some areas were overlooked or task was slightly difficult]
-   - [3 = Most of the task was completed with little difficulty]
-   - [4 = All parts of the task were completed with no difficulty]
 
 
 
@@ -98,6 +91,13 @@ UX PIN PROTOTPYE LINKS HERE
 - [New American Indian question]
 - [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+   - [0 = no part of the task completed, much difficulty]
+   - [1 = Partial completion, much overlooked or task was difficult]
+   - [2 = Partial completion, some areas were overlooked or task was slightly difficult]
+   - [3 = Most of the task was completed with little difficulty]
+   - [4 = All parts of the task were completed with no difficulty]
 
 
 ## Task: VA benefits & military service - 3 minutes
