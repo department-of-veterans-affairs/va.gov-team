@@ -61,7 +61,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **Participant questions:**
 - On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
-- Can you tell us more about what you personally would have to do in preparation for filling out this application?
+- Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
 - [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete application.]
@@ -241,22 +241,48 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Task: Insurance information - 5 minutes
 - Please explain what this section of the form means to you as you work through answering the questions.
 
+**Participant questions:**
+- What worked well for you?
+- What was unclear or didn’t work well for you?
+- What would you like to change or add?
+
 
 ### Things to watch for:
 - [Does the participant understand this question or are they confused and need additional context?]
 - [Do the medicaid and medicare questions cause pause or confuse the participant?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+
 
 ---
 [Step 6 of 6: Review]
 
+## Task: Review - 3 minutes
+- Explain what you would do on this page and complete the application.
 
+
+**Participant questions:**
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel to submit this application? Why?
+- Is there any reason you wouldn't submit the application at this step?
 
 
 ### Things to watch for:
 - [Does the participant have a positive or negative sentiment about the review page?]
 - [Does the participant give any reason for pause or why they wouldn's submit the application?]
+- [Does the participant interact with any of the accordions or try and edit any information?]
 
+
+---
+## Task: Confirmation Page - 3 minutes
+
+- What are your thoughts on this page after you submitted your application?
+- Is this what you would expect or what are your expectations from here?
+
+
+### Things to watch for:
+- [Does the participant seem unclear on what happens next?]
+- [Does the participant have positive or negative 
 
 
 
