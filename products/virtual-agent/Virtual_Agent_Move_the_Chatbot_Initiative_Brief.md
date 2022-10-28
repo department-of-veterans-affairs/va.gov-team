@@ -24,7 +24,7 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
+
 * The first iteration of the Virtual Agent Chatbot was first built as a Proof of Concept in Spring 2021 and resided on a page wholly devoted to facilitate user reseearch on this beta version of the chatbot. This page communicated the fact that the Chatbot was in beta testing, expectations when using the chatbot, explicit instrucctions on hwo to use the chatbot with a screen reader, and privacy information.
 * On March 2, 2022, the Chatbot was launched more widely to the Veteran population via a link to this same page on the VA.gov Contact Us page. 
 * Since then, there have been more than 105,000 interactions with the Chatbot and ...
@@ -36,12 +36,14 @@
 
 **Related/Associated product(s)**
 - [Virtual Agent Chatbot Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/Virtual_Agent_Product_Outline.pdf)
+- [Phase 2 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/Virtual_Agent_Product_Outline_Phase2.pdf)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Currently, multiple clicks are required to reach the Chatbot.
+* In order to acheive the original goal stated in our initial Product Outline, "...help the Veteran to self-serve and find information more easily", we wish to make the Chatbot more readily available by placing it in a more prominent position within VA.gov.
+* On October 6th, the link to the Chatbot on the Contact us page was moved from its Info Alert Box at the top of Contact Us to an H2 section further down the page. We were averaging approximately 2000 interactions daily with the Chatbot at that point, but since being moved, interactions have been halved to about 1000 daily.
+* By moving the Chatbot, we hope to avoid this problem in the future, by making the Chatbot always avaiable at the same location, ready to serve Veterans and help them navigate VA.gov.
+* Additionally by placing the Chatbot more prominently on VA.gov, it could serve as a way to promote or serve as an entry point for the numerous other VA.gov features currently available on the website.
 
 <!--
 ## Desired User Outcomes
