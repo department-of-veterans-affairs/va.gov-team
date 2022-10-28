@@ -46,7 +46,7 @@ We will use the results from this research to esablish a baseline for comparriso
 - Are there common themes between participant
 
 
-### HypothesEs
+### Hypotheses
 - The baseline study will confirm the findings and pain points from past studies are still consistently an issue with participants in this study. 
 - The baseline study
 
