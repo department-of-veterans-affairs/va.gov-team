@@ -8,6 +8,9 @@ Reference Mural for live notes/synthesis?
 
 **Time:**
 
+**Notetaker Name & Email:**
+
+
 ---
  
 ## Task - Start Application
