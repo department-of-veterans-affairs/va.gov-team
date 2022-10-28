@@ -43,7 +43,7 @@ We will use the results from this research to esablish a baseline for comparriso
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
 - What tasks have a range of participant reactions?
-- Are there common themes between participant
+- Are there common themes between participant cohorts?
 
 
 ### Hypotheses
@@ -75,13 +75,11 @@ Each task will have a set of qualitative and quantitative data points that we wi
 - 3 = Most of the task was completed with little difficulty
 - 4 = All parts of the task were completed with no difficulty 
 
+#### Post-Test NPS Question ( ) 
+- How likely are you to recommend this online application process to another Veteran? [Scale of 0 - 10]
+
 
 #### Post-Test Participant ( ) 
-
-
-#### NPS Question ( ) 
-- How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
-
 
 
 ### Location
@@ -101,6 +99,8 @@ For moderated usability tests:
 ### Recruitment approach
 > Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
+The intended audience for this research are Veterans and caregivers. 
+
 > Pro tip:
 > - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
 > - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
@@ -115,7 +115,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |              | 
+|               |     20?          |        |             |          |              | 
 
 
 **Primary criteria (must-haves)**
@@ -133,19 +133,19 @@ What criteria would strengthen your results?
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 
-
+November - December 2022
 
 
 ### Prepare
 We will be testing what is currently approved in the staging environment.
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+> A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
 * Pilot participant email:
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: November 
+* Planned dates of research: November - December 2022
 
 ### Length of sessions
 * Session length: 1 hour
