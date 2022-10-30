@@ -44,7 +44,7 @@ For example, if 77% of Veterans are white and 15% of Veterans are Black, your re
 An example of ***inequality*** would be if Spanish-speaking Veterans struggle to sign up for our studies because it’s not offered in their primary language.
 
 <br aria-hidden="true"/>
-<img src="https://user-images.githubusercontent.com/14154792/155893637-bc53817d-f9c3-4e3f-8763-028fe5a40b6e.png">
+<img alt="Spanish speakers trying to sign up for a recruitment form... but getting dragged away after seeing it's only in English" src="https://user-images.githubusercontent.com/14154792/155893637-bc53817d-f9c3-4e3f-8763-028fe5a40b6e.png">
 
 ### Equity
 Equity is when we recognize that people come from different circumstances and allocate the exact resources and opportunities needed to reach an equal outcome.
@@ -76,7 +76,7 @@ By including communities of Veterans with more complex and underrepresented need
 * Better cover the needs of everyone else
  * Designing for complex needs first like aging Veterans above the age of 55 or Veterans with disabilities means designing for the future of *all *Veterans who age or acquire disabilities later in life
 
-![image](https://user-images.githubusercontent.com/14154792/155893678-f48ea7fb-d288-4cdc-ad93-4619f5790f00.png)
+<img alt="A graph depicting Veterans with disabilities having a larger variety of needs and insights which covers the needs of aging Veterans and Veterans currently without disabilities." src="https://user-images.githubusercontent.com/14154792/155893678-f48ea7fb-d288-4cdc-ad93-4619f5790f00.png)"/>
 
 
 ### Increase the accuracy and impact of our research findings.
@@ -154,12 +154,14 @@ If you can’t hit goals for equity or even equality, that’s 100% OK. It’s g
 * Spark more conversation on how we can get better at recruiting those underserved Veteran communities
 
 
-![image](https://user-images.githubusercontent.com/14154792/155893773-40aa9bae-dd36-4020-b854-c9a900f3b271.png)
+<img alt="a spreadsheet documenting missing identity categories" src="https://user-images.githubusercontent.com/14154792/155893773-40aa9bae-dd36-4020-b854-c9a900f3b271.png"/>
+     
 [VA Recruitment Checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) | [Instructions for the recruitment checker (github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/risk-documentation.md)
-![image](https://user-images.githubusercontent.com/14154792/155893791-626b20c3-8297-4e6f-aab3-aecf892c6642.png)
+
+<img alt="a presentation slide showcasing those missing identities and calling out who was missing" src="https://user-images.githubusercontent.com/14154792/155893791-626b20c3-8297-4e6f-aab3-aecf892c6642.png)"/>
 [Research presentation template, slide 5](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/14154792/155893795-8f723f61-bcca-4ddb-bc35-e063d600c074.png)
+<img alt="a research read out documenting underserved groups who weren't talked to" src="https://user-images.githubusercontent.com/14154792/155893795-8f723f61-bcca-4ddb-bc35-e063d600c074.png"/>
 [Readout example by Liz Lantz for her My VA Payment study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#underserved-groups-we-havent-talked-to)
 
 [^1]: Veterans experience mental health disorders, substance use disorders, post-traumatic stress, and traumatic brain injury at disproportionate rates compared to their civilian counterparts |  [US veterans and their unique issues: enhancing health care professional awareness (NIH)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4671760/)
