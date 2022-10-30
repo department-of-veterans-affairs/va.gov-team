@@ -150,7 +150,7 @@ Once on the contact page, the user flow requires the user to add a mobile number
 
 > That little piece that says, “go ahead and update notifications now” -  it just totally went right past me. I totally just missed it. Maybe if it  jumped out at me, or had a big stop sign or something I probably would notice, but had you not said something, I would have missed it and thought “Okay, I’m good.” - P1
 
-- A participant with cognitive challenges experienced a 5 second external disruption after landing on the page. In the session, we observed that they could not recall what they were supposed to do after they focused back on the research session. Then, they went back and forth 3 times between the two pages to try to figure out what to do.  
+- A participant with cognitive challenges experienced a 5 second external disruption after landing on the page. [Download this redacted video clip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/cognitive-consideration-redacted.mov) and observe that they could not recall what they were supposed to do after they focused back on the research session. Then, they went back and forth 3 times between the two pages to try to figure out what to do.  
 
 **Once participants got back to the notification settings page, they found the radio button interface easy to use.**
 
@@ -272,6 +272,7 @@ P9 exhibited signs of short term memory loss, and:
 
 - Observing P9’s experience of profile was a powerful reminder of the obstacles some Veterans have to overcome to use VA.gov. 
 - It’s worth considering how we might learn more about this population to better understand their needs, and use what we learn to inform our work as we iterate on profile.
+- Download [the redacted video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/cognitive-consideration-redacted.mov) to observe P9 struggling to understand the next step to update their notification settings.
 
 ## Next Steps
 - Review findings with VA.gov profile team and align on recommendations and next steps.
