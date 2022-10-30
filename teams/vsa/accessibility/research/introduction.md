@@ -158,7 +158,8 @@ If you can’t hit goals for equity or even equality, that’s 100% OK. It’s g
      
 [VA Recruitment Checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) | [Instructions for the recruitment checker (github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/risk-documentation.md)
 
-<img alt="a presentation slide showcasing those missing identities and calling out who was missing" src="https://user-images.githubusercontent.com/14154792/155893791-626b20c3-8297-4e6f-aab3-aecf892c6642.png)"/>
+<img alt="a presentation slide showcasing those missing identities and calling out who was missing" src="https://user-images.githubusercontent.com/14154792/155893791-626b20c3-8297-4e6f-aab3-aecf892c6642.png"/>
+
 [Research presentation template, slide 5](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit?usp=sharing)
 
 <img alt="a research read out documenting underserved groups who weren't talked to" src="https://user-images.githubusercontent.com/14154792/155893795-8f723f61-bcca-4ddb-bc35-e063d600c074.png"/>
