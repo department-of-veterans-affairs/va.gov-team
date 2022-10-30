@@ -6,7 +6,7 @@ We want this introduction to be easy for you (and anyone else) to pick up and re
 > “Because inclusive language is continually evolving, ours should be too. I’m certain that the language we use now, and that I’ve used in this book will have moved on one, five, or ten years from now.” - Kelly Ann McKercher, *Beyond Sticky Notes* 
 
 <br aria-hidden="true"/>
-<img style="width:440px" src="https://user-images.githubusercontent.com/14154792/155893555-d0d0ef3d-13f2-4114-82b0-108fc898bfc1.png">
+<img alt="Andy Dwyer quietly looking upwards asking... I don't know the difference between equity and equality, and at this point I'm too afraid to ask" style="width:440px" src="https://user-images.githubusercontent.com/14154792/155893555-d0d0ef3d-13f2-4114-82b0-108fc898bfc1.png">
 
 
 ### Underserved (or underrepresented) communities
