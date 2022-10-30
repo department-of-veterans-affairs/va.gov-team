@@ -163,6 +163,7 @@ If you can’t hit goals for equity or even equality, that’s 100% OK. It’s g
 [Research presentation template, slide 5](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit?usp=sharing)
 
 <img alt="a research read out documenting underserved groups who weren't talked to" src="https://user-images.githubusercontent.com/14154792/155893795-8f723f61-bcca-4ddb-bc35-e063d600c074.png"/>
+
 [Readout example by Liz Lantz for her My VA Payment study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#underserved-groups-we-havent-talked-to)
 
 [^1]: Veterans experience mental health disorders, substance use disorders, post-traumatic stress, and traumatic brain injury at disproportionate rates compared to their civilian counterparts |  [US veterans and their unique issues: enhancing health care professional awareness (NIH)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4671760/)
