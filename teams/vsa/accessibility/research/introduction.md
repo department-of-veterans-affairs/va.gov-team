@@ -11,13 +11,14 @@ We want this introduction to be easy for you (and anyone else) to pick up and re
 
 ### Underserved (or underrepresented) communities
 Groups of people who share a particular characteristic who have been left out of something important in society. All Veterans, their caretakers, and their family members are underserved in American society[^1] , but some are more underserved than others.
-When we talk about ***underserved communities ***within the context of our research, we’re talking about groups of people who:
+When we talk about **underserved communities** within the context of our research, we’re talking about groups of people who:
+
 * Are underserved in American society for reasons other than being a Veteran, caretaker, or family member of a Veteran
- * For example, some disabled Veterans may struggle to navigate state government unemployment websites, of which [86% fail at least one basic test for mobile page load speed, mobile friendliness, or accessibility](https://itif.org/publications/2020/04/15/most-state-unemployment-websites-fail-mobile-and-accessibility-tests).
+  * For example, some disabled Veterans may struggle to navigate state government unemployment websites, of which [86% fail at least one basic test for mobile page load speed, mobile friendliness, or accessibility](https://itif.org/publications/2020/04/15/most-state-unemployment-websites-fail-mobile-and-accessibility-tests).
 * Were underserved historically by Veterans Affairs
- * For example, in the summer of 1947, [only two of the 3,299 VA-guaranteed home loans in 13 Mississippi cities went to Black borrowers](https://time.com/6126195/black-veterans-gi-bill-world-war-two/) despite Blacks accounting for half the population of the state.
+  * For example, in the summer of 1947, [only two of the 3,299 VA-guaranteed home loans in 13 Mississippi cities went to Black borrowers](https://time.com/6126195/black-veterans-gi-bill-world-war-two/) despite Blacks accounting for half the population of the state.
 * May not participate in or have access to research studies at Veterans Affairs
- * Over the course of [7 studies in 2021-2022](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) that recorded the racial identity of participants, *none* of those participants identified as Hispanic, Latina, or Latinx[^2] 
+  * Over the course of [7 studies in 2021-2022](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) that recorded the racial identity of participants, *none* of those participants identified as Hispanic, Latina, or Latinx[^2] 
 For a more detailed description of underserved communities (but in less plain language), consider reading the [Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce (Whitehouse.gov)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/).
 
 Examples of the above include, but are not limited to:
