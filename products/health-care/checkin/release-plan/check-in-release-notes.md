@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/27/2022
+- Fixed a bug where the Confirmation page would display an incorrect title when using the application translated to Spanish
+    - [Ticket 48414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48414)
+
 ### 10/18/2022
 - Updated content in the "Need help?" footer of eCheck-in pages to include clearer instructions for the Veteran
     - Confirmation page
