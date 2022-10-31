@@ -12,7 +12,7 @@ The mobile app can't work that because it has to support older versions of the c
 
 The mobile team has been attempting to match the web results exactly but QA has found a number of differences between appointments on the mobile app and the web app. Rather than continue to fix each disparity as its found, the mobile team performed an audit of the web app's front end code to better understand the transformation and filtering logic.
 
-## Definition of Appointment Types
+## Appointment Types
 
 The web app contains four types of appointments:
 - CC Appointment: has a "kind" attribute of "cc" and have a start date.
@@ -20,33 +20,39 @@ The web app contains four types of appointments:
 - VA Appointment Request: "kind" attribute is not "cc" and has requested period data.
 - VA Appointment: all other appointments
 
-## Definition of when appointments are considered "past"
+## When appointments are considered "past"
 
-The way that past and upcoming appointments are differentiated is more complex than "start date after now".
+The way that past and upcoming appointments are differentiated is determined by the estimated end-time of the appointment. This estimate is made based upon the appointment location's time zone. If no location timezone can be found, it falls back to the user's device's timezone.
 
-These calculations are made based upon the appointment's location's time zone. If no location timezone can be found, it falls back to the user's phone's timezone (I think).
+The estimated appointment length is dependent upon the appointment's "kind". When kind is "telehealth", the appointment length is assumed to be 240 minutes. For all other kinds, the appointment length is assumed to be 60 minutes. So if the appointment is teleheath and the appointment started more than 3 hours ago in the location's timezone, it is considered past. If the appointment is not telehealth, it is considered past an hour after the appointment's start time in the location's timezone.
 
-Also, how "past" is calculated differs based on what "kind" of appointment it is. When "kind" is "telehealth", the appointment length is assumed to be 240 minutes. For all other kinds, the appointment length is assumed to be 60 minutes.
+## Upcoming Appointments
 
-So if the appointment is teleheath and the appointment started more than 3 hours ago in the location's timezone, it is considered past.
+Fetches appointments from 30 days ago until 395 days from now. If vaOnlineSchedulingStatusImprovement feature flag is on, it also fetches appointment requests from 120 days ago until today.
 
-If the appointment is not telehealth, it is considered past an hour after the appointment's start time in the location's timezone.
-
-## Definition of Upcoming Appointments
-
+Filters:
 - is a VA appointment or CC appointment
 - is not hidden # not sure this is relevant to us
 - has a valid start time
 - start time is today or after
+- start time is in next 395 days
 
-## Definition of Past Appointments
+## Past Appointments
 
+Fetches appointments based on the drop-down selected by the user. Options are:
+- past three months
+- the previous three months
+- the previous three months
+- the previous three months
+- the beginning of this year through today
+- all of last year year
+
+Filters:
 - is a VA appointment or CC appointment
-- is not cancelled
-- has a valid start time
-- start time has past
+- status is not cancelled
+- has a valid start time (this is enforced in the reducer)
 
-## Definition of Cancelled Appointments
+## Cancelled Appointments
 
 - is a VA appointment or CC appointment
 - status is cancelled
@@ -54,10 +60,10 @@ If the appointment is not telehealth, it is considered past an hour after the ap
 - start time is after 30 days ago
 
 
-## Definition of Pending Appointments
+## Pending Appointments
 
-It's worth noting that appointments are requested based on created date, not start date.
+NOTE: appointments are requested based on created date, not start date.
 
 - is a VA appointment request or CC appointment request
 - status is pending, proposed or cancelled
-- date range is 120 days ago through tomorrow. I believe these date ranges are based on creation date.
+- created at date is 120 days ago through tomorrow
