@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Finalize Wireframes
 about: For MHV core team to finalize wireframes for development
-title: "[Design] MyHealth: [APP] Finalize Wireframes"
+title: "[Design] MHV to VA.gov: [APP] Finalize Wireframes"
 labels: ux, design, my-health
 assignees: 'MarciMcGuire'
 
