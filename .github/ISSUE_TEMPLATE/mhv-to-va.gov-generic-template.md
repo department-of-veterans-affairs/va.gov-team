@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov TEST TEMPLATE
 about: For MHV to VA.gov Research Assets Task
-title: "[Research] MyHealth: APP NAME: TASK NAME"
+title: "[Practice Area] MHV to VA.gov: APP NAME: TASK NAME"
 labels: my-health, ux, research
 assignees: 'MarciMcGuire'
 
@@ -17,6 +17,7 @@ assignees: 'MarciMcGuire'
 - What will the team get at the end if this ticket? All assets (prototypes, designs, spreadsheet for observer notes) needed to run the user research sessions will be completed by the end of this ticket.
 
 ## :star2: Tasks
+- [ ] Add tasks here, remove tasks below that aren't relevant
 - [ ] Move issue to In Progress when beginning work
 - [ ] Add assets to the product documentation
 - [ ] Update product documentation related to this work
@@ -27,7 +28,7 @@ assignees: 'MarciMcGuire'
 - [ ] Move issue to Closed once tested/reviewed and accepted by PO
 
 ## :star2: Acceptance Criteria
-- [ ] Do the thing
+- [ ] Add acceptance critera here, remove acceptance criteria below that aren't relevant
 - [ ] Document the thing or update documentation
 - [ ] Publish assets to final location (UXPin, Mural, etc.)
 - [ ] Review assets with the team (particularly product)
