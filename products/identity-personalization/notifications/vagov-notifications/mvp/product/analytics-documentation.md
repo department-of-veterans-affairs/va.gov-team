@@ -11,6 +11,6 @@
 4. 'Dashboard-Navigation-View Link from Notifications' - View Manage VA debt : Link clicks on "Manage VA debt" from within a notification
 <img width="573" alt="Screen Shot 2022-10-31 at 13 14 06" src="https://user-images.githubusercontent.com/97113607/199068591-c9b1a917-3842-453f-a035-a91aa02ea1fb.png">
 
-5. 'API Request-PATCH dismiss on-site notification' - successful : Successful dismissal of notifications
+5. 'APIRequest-PATCHdismisson-sitenotification-successful' : Successful dismissal of notifications
 <img width="572" alt="Screen Shot 2022-10-31 at 13 17 08" src="https://user-images.githubusercontent.com/97113607/199069037-a4566190-16b7-4d5e-ad7e-35ab85fe7bc1.png">
 
