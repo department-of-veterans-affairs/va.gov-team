@@ -70,12 +70,13 @@ Okay, let’s look at the section that says "Outstanding debts."
 
 Does everything related to your outstanding debts seem right to you?
 
-Can you explain to me what the content in this section is telling you?
+*If the user has had debt in the past or currently has debt, ask:* Would you expect to see a link to your past debt letters here? Is that something you might reference once a debt is paid off?
 
-Is anything confusing to you about it?
+Is anything confusing to you about this section?
 
 - [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any outstanding debts to show” message and Learn about VA debt link is displaying.
 - [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
+- [ ] **Usability**: Are users interested in seeing a link to past debt letters on My VA? How useful is that info once a debt is paid off?
 - [ ] **Usability**: Do users find anything confusing about this section?
 
 ## 2. Confirm all outstanding debts links - 5-7 minutes
