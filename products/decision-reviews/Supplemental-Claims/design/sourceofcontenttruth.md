@@ -31,7 +31,7 @@ Find the address for mailing your form (text link)
 [Download VA Form 20-0995 (PDF)](https://www.va.gov/find-forms/about-form-20-0995/)
 
 *error*
-You need to choose a claim type.
+You must choose a claim type.
 
 ---
 ## File a Supplemental Claim
