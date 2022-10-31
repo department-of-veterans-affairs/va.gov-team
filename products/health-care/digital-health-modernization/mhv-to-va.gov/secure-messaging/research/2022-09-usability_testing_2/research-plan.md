@@ -91,7 +91,7 @@ Data collection will be remote. We will use Zoom.
 
 [Mobile prototype to be tested](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0606632E-EBD2-4B8C-876D-64593DF9E556?hotspots=false)
 
-Desktop prototype to be tested (TBD)
+[Desktop prototype to be tested](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0C5CF38D-3AAC-477B-A479-B14220AA3503?hotspots=false)
 
 ## Recruitment
 
