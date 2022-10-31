@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Create Prototype Task
 about: For MHV to VA.gov team to create prototype to test with end users
-title: "[Design] MyHealth: APP NAME: Create Prototype to Test with End Users"
+title: "[Design] MHV to VA.gov: APP NAME: Create Prototype to Test with End Users"
 labels: ux, design, my-health
 assignees: 'MarciMcGuire'
 
