@@ -1,4 +1,5 @@
-## 10/31/2022 Notes from mtg with Lori on Check-in Team re: Language translations experience
+## 10/31/2022 - Language translations experience
+- Lori Pusey: PM on Check-In Team
 
 ### Notes:
 - Communications
