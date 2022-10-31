@@ -147,9 +147,9 @@ Let’s start with a few questions...
 *(USE THIS SCENARIO FIRST; IF DOESN'T MAKE SENSE FOR PARTICIPANT, OR PARTICIPANT EXPERIENCES TECHNICAL CHALLENGES, MOVE ONTO SECTION 2B)*
 
 ## Section 2: Card sort - 15-20 mins (https://bit.ly/mrcardsort)
-Now we are going to do a sorting activity on a different website. 
+Now we are going to do a sorting activity. 
 
-This is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+This sorting activity is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
 
 **Example card sort**
 *Preview link for demonstration purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort*
@@ -158,7 +158,7 @@ We will be using a website to do the sorting activity. I'll show you how it work
 
 First, you'll see this screen on the left that has a list of different cards with information on them. On the right, you can drag items and group them together. Try to think of these groups as broader categories.
 
-We ask folks to organize the cards into different categories that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
+We ask folks to organize the cards into different groups that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
 
 For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables," and "Peach" can be by itself in a "Fruit" group. Or, if I didn't know what kind of food group a peach belongs to, I could put it in the "I don't know" group. 
 
