@@ -1,5 +1,8 @@
 ## 10/31/2022 - Language translations experience
 - Lori Pusey: PM on Check-In Team
+- Heather Justice: PM on 10-10 Health Apps team
+- Matt Long: Frontend Engineer on 10-10 Health Apps team
+- Jessica Stump: UX Designer on 10-10 Health Apps team
 
 ### Notes:
 - Communications
