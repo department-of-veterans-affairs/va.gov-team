@@ -6,7 +6,7 @@
 ## CHOOSE BENEFIT TYPE
 
 ### Is this the form I need?
-Use this Supplemental Claim form if you disagree with our decision on your claim and have new and relevant evidence to submit. 
+Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and have new and relevant evidence to submit. 
 
 Answer this question to get started:
 
