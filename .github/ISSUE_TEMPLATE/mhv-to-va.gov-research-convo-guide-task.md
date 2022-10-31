@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Conversation Guide Task
 about: For MHV to VA.gov Conversation Guide Task
-title: "[Research] MyHealth: APP NAME: TASK NAME"
+title: "[Research] MHV to VA.gov: APP NAME: TASK NAME"
 labels: ux, research, my-health
 assignees: ''
 
