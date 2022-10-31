@@ -2,9 +2,9 @@
 
 Prototype Desktop Link (to be linked)
 
-[Prototype Mobile Link](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0606632E-EBD2-4B8C-876D-64593DF9E556?hotspots=false)
+[Prototype Mobile Link] (https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0606632E-EBD2-4B8C-876D-64593DF9E556?hotspots=false)
 
-[Mobile testing guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
+[Mobile testing guidance](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0C5CF38D-3AAC-477B-A479-B14220AA3503?hotspots=false)
 
 Mural board for notes (to be linked)
 
@@ -101,8 +101,8 @@ I’m going to have you start by taking a look at this screen and commenting on 
 
 Let’s focus on the first message from Ann Dunwoody.
 
--   What do you think the “7 messages” in parentheses means? What makes you say that?
 -   If you were to click on this message, what would you expect to see? What makes you say that?
+-   If you wanted to see if there were any previous messages sent as part of this conversation, where would you look?
 
 Go ahead and click on it.
 
@@ -112,7 +112,10 @@ Go ahead and click on it.
 -   Is this what you expected to see?
 -   How many messages do you think are unread in this conversation? What makes you say that?
 
-Please open the message from September 1st.
+-If you were to open the message from September 1st, what would you expect to see?
+Go ahead and open it.
+
+*After participant cicks on it ask:*
 
 -   Is this what you expected to see? *If participant says “no” ask:* What would you have expected?
 -   Please close the message. (*Assist participant if needed.)*
@@ -150,7 +153,8 @@ Let's say you wanted to respond to this message from Ann Dunwoody. How would you
 
 -   If you decided that you didn't want to respond at that moment and needed to get rid of the message, how would you do that? *(the Discard Draft button is disabled)*
 -   What would you expect to happen when you click that button? What makes you say that?
--   What if you had typed up a whole message and then realized you didn’t have all the information you need to respond now and wanted to come back and finish later? What would you do?
+ 
+-    What if you had typed up a whole message and then realized you didn’t have all the information you need to respond now and wanted to come back and finish later? What would you do?
     -   Would you have expected your message to be saved?
 -   How do you know your draft will be there when you return?
 
@@ -178,35 +182,109 @@ Now I would like you to find a message.
 
 The message is one you received from Dr. Beth Smith the last week of August with your test results. How would you find that message?
 
-*If participant starts scrolling: (pagination is disabled)*
+*If participant **starts scrolling:** (pagination is disabled)*
 
 -   Can you tell me why you chose to start scrolling?
 -   What if there were hundreds of messages and you were in a hurry. What might you do instead of scrolling?
 
-*(Guide participant to Search box/Advanced search if necessary – links on top and bottom of screen)*
+*After participant finds message:*
 
-*If participant clicks “Search the Inbox” and it’s populated with “test results”:*
+- Are these the results you would expect with these search terms? What makes you say that?
+- What folder was your message found in? How do you know that?
+
+*If the participant doesn’t mention the search was in the inbox, ask:*
+ - Did you search in all folders or just the inbox? What makes you say that?
+
+-   What if there were hundreds of messages with test results and you were in a hurry? Is there a way you might be able to narrow your search?
+-   If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.​
+-   What does that tell you about where the system searched? What makes you say that?
+
+-   Are there other parts of the message that you might want to search? 
+
+If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.
+
+-   What does that tell you about where the system searched? What makes you say that?
+-   Are there other parts of the message that you might want to search? 
+
+We’re going to pause here on this screen.
+
+*When ready for Task 4:*
+
+Using the scale we showed earlier of 1 being very difficult to 5 being very easy, please rate the experience of searching for a message.
+
+What parts of the search feature did you find valuable?
+
+
+*If participant **clicks “Search the Inbox”** and it’s populated with “test results”:*
 
 -   Because this is a prototype, we filled that search out for you. Is that what you would have typed? *(if no, ask:* What would you have typed?)
 -   Are these the results you would expect by searching “test results”?
 
     *(Pagination is disabled)*
 
--   I see you used the search function, but you still had to do some scrolling and did not find the message.
+*After participant finds message:*
+
+- Are these the results you would expect with these search terms? What makes you say that?
+- What folder was your message found in? How do you know that?
+
+*If the participant doesn’t mention the search was in the inbox, ask:*
+ - Did you search in all folders or just the inbox? What makes you say that?
+
 -   What if there were hundreds of messages with test results and you were in a hurry? Is there a way you might be able to narrow your search?
+-   If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.​
+-   What does that tell you about where the system searched? What makes you say that?
 
-*(Guide participant to Advanced Search if necessary– links on top and bottom of screen)*
+-   Are there other parts of the message that you might want to search? 
 
-*If participant clicks on “search messages” in nav bar/menu and clicks the Enter keyword field and it’s populated with “test results” then clicks “Search in” which is also populated.*
+If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.
+
+-   What does that tell you about where the system searched? What makes you say that?
+-   Are there other parts of the message that you might want to search? 
+
+We’re going to pause here on this screen.
+
+*When ready for Task 4:*
+
+Using the scale we showed earlier of 1 being very difficult to 5 being very easy, please rate the experience of searching for a message.
+
+What parts of the search feature did you find valuable?
+
+
+*If participant **clicks on “search messages”** in nav bar/menu and clicks the Enter keyword field and it’s populated with “test results” then clicks “Search in” which is also populated.*
 
 -   Because this is a prototype, we filled that search out for you. Is that what you would have typed? *(if no, ask:* What would you have typed?)
 -   Are these the results you would expect by searching “test results”?
 -   I see you used the search function, but you still had to do some scrolling and did not find the message.
+
+*After participant finds message:*
+
+- Are these the results you would expect with these search terms? What makes you say that?
+- What folder was your message found in? How do you know that?
+
+*If the participant doesn’t mention the search was in the inbox, ask:*
+ - Did you search in all folders or just the inbox? What makes you say that?
+
 -   What if there were hundreds of messages with test results and you were in a hurry? Is there a way you might be able to narrow your search?
+-   If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.​
+-   What does that tell you about where the system searched? What makes you say that?
 
-*(Guide participant to Advanced Search if necessary– links on top and bottom of screen)*
+-   Are there other parts of the message that you might want to search? 
 
-*Clicks “Advanced Search”:*
+If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.
+
+-   What does that tell you about where the system searched? What makes you say that?
+-   Are there other parts of the message that you might want to search? 
+
+We’re going to pause here on this screen.
+
+*When ready for Task 4:*
+
+Using the scale we showed earlier of 1 being very difficult to 5 being very easy, please rate the experience of searching for a message.
+
+What parts of the search feature did you find valuable?
+
+
+*If participant **Clicks “Advanced Search”:**
 
 I would like you to consider each field in this form before clicking the search button.
 
@@ -241,18 +319,22 @@ I would like you to consider each field in this form before clicking the search 
 -   Is that what you would have chosen? *(if no, ask:* What would you have chosen?)
 
 *After participant clicks search:*
+- Are these the results you would expect with these search terms? What makes you say that?
+- What folder was your message found in? How do you know that?
 
--   Are these the results you would expect with these search terms? What makes you say that?
--   What folder was your message found in? How do you know that?
+*If the participant doesn’t mention the search was in the inbox, ask:*
+ - Did you search in all folders or just the inbox? What makes you say that?
 
-    *If the participant doesn’t mention the search was in the inbox, ask:*
+-   What if there were hundreds of messages with test results and you were in a hurry? Is there a way you might be able to narrow your search?
+-   If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.​
+-   What does that tell you about where the system searched? What makes you say that?
 
--   Did you search in all folders or just the inbox? What makes you say that?
+-   Are there other parts of the message that you might want to search? 
 
 If you notice the yellow highlighted text, it’s highlighting your search terms in the subject line of the message.
 
 -   What does that tell you about where the system searched? What makes you say that?
--   Are there other parts of the message that you might want to search? *If participant struggles, ask them to open it to look.*
+-   Are there other parts of the message that you might want to search? 
 
 We’re going to pause here on this screen.
 
@@ -269,6 +351,7 @@ Does the participant notice the “Search Messages” link in the nav bar?
 Does the participant notice the “Advanced Search” function?
 
 Does the participant know the value of the “Advanced Search” function?
+
 
 ## Fourth Task: Organizing a message – 10 minutes
 
@@ -291,24 +374,25 @@ In the last task, I mentioned hundreds of messages. Let’s pretend you want to 
 *After the participant clicks through and is back on the Folders screen ask:*
 
 -   Do you see the new folder?
+Using the scale we showed earlier of 1 being very difficult to 5 being very easy,
+-   Please rate the difficulty of creating a folder
+
+
 -   What would you do if you wanted to change the name of the Cardiologist folder to the doctor’s name, Dunwoody?
 
 *If the participant struggles to find “Edit folder name” give them a hint.*
+Using the scale we showed earlier of 1 being very difficult to 5 being very easy,
+-   Please rate the difficulty of changing a folder’s name
 
 *When it says “Folder successfully renamed” ask participant to return to My Folders*
+
 
 -   What would you do if you wanted to delete the kidney folder?
 
 *If the participant needs a reminder about Manage Folder, provide it.*
 
 -   What do you expect would have happened if there were messages in that folder? What makes you say that?
-
-*When ready for Task 5:*
-
 Using the scale we showed earlier of 1 being very difficult to 5 being very easy,
-
--   Please rate the difficulty of creating a folder
--   Please rate the difficulty of changing a folder’s name
 -   Please rate the difficulty of deleting a folder
 
 *Follow up:*
