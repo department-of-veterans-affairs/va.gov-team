@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Back End Development Task
 about: Task for back end development
-title: "[BE] MyHealth: APP NAME: TASK DESCRIPTION"
+title: "[BE] MHV to VA.gov: APP NAME: TASK DESCRIPTION"
 labels: backend, my-health
 assignees: ''
 
