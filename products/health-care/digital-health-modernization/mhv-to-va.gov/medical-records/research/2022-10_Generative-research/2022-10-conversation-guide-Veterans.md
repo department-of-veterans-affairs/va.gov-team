@@ -197,7 +197,9 @@ Now I need to share with you a link to the sorting activity. How would you prefe
 
 	- *Continue to probe participant to explain their thinking as they group cards.*
 	
-12. *(If participant created groups):* Can you explain why you decided to create that group? 
+12. *(Review categories where you would like to understand what participants look for in a given category, like appointments)*: I see you created *(category)*. When you review information in *(category name)*, what data would be most important for you to know? 
+	
+	- *Example question*: When you review your appointments, what information would be most important for you to know?
 
 13. *PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users understand technical medical language. Example probes could be:*
 
@@ -205,7 +207,7 @@ Now I need to share with you a link to the sorting activity. How would you prefe
 	- How are you understanding "Radiology results or images"? 
 	- What do you think the difference is between "Encounter notes" and "Progress notes"? 
 
-- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous.
+- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. *(If going to use scenarios in Section 2B, wait until you have completed those questions before asking participant to submit their card sort.)*
 
 **Moderator notes:**
 
@@ -213,7 +215,7 @@ Now I need to share with you a link to the sorting activity. How would you prefe
 
 ## Section 2B: Grouping like ideas - 15-20 mins
 
-*ASK THESE QUESTIONS IF UNABLE TO DO CARD SORTING ACTIVITY DESCRIBED IN SECTION 2A.*
+*ASK THESE QUESTIONS IF UNABLE TO DO CARD SORTING ACTIVITY DESCRIBED IN SECTION 2A, OR ASK THESE QUESTIONS IN RELATION TO THE CATEGORIES THE PARTICIPANT CREATED IN SECTION 2A.*
 
 Now I'm going to ask you where you would look for different types of information on a patient portal. When I say "patient portal," I mean a website or app that you can log into and find information about your personal health history, where you can communicate with your healthcare providers, and even where you can make appointments, find care, or pay your healthcare bills, depending on the portal. 
 
@@ -223,11 +225,15 @@ Now I'm going to ask you where you would look for different types of information
 	
 	- What other kind of information would you expect to find there? 
 
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information? 
+
 15. *SCENARIO:* Imagine that you have come to one of your patient portals (could be for the VA, or some other provider) looking for information about a diagnosis from a service-related injury that you need to file a disability claim. Where do you think that information would be found?
 
 	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
+
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information?
 
 16. *SCENARIO:* What about if you were looking to find a plan for how your doctor was going to treat a health issue that you have - where would you look for that plan? 
 
@@ -235,11 +241,15 @@ Now I'm going to ask you where you would look for different types of information
 	
 	- What other kind of information would you expect to find there?
 
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information?
+
 17. *SCENARIO:* Now imagine that you are trying to find the results of some blood tests that you had done in the past month. Where would you look for that information?  
 
 	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
+
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information?
 
 18. *SCENARIO:* Let's say you are trying to find proof that you have been vaccinated against Yellow Fever so you can travel to a country where that is a required vaccine. Where would you look for that information in a patient portal? 
 
@@ -247,11 +257,15 @@ Now I'm going to ask you where you would look for different types of information
 	
 	- What other kind of information would you expect to find there?
 
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information?
+
 19. *SCENARIO:* Imagine that you switched doctors and you needed to give your newest doctor a list of medications that you had taken in the past. Where would you look for that list in a patient portal? 
 
 	- *OPTIONAL PROBE:* If there was a header, or section of the page where you would expect to find this information, what would that tab be named? 
 	
 	- What other kind of information would you expect to find there?
+
+	- *If participant completed card sorting activity in Section 2A*: In which of the categories you created would you look for that information?
 
 ## Post-Task Interview - 3 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
