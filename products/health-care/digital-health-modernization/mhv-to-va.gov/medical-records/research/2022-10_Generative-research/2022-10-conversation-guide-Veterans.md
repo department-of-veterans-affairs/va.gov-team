@@ -160,7 +160,7 @@ First, you'll see this screen on the left that has a list of different cards wit
 
 We ask folks to organize the cards into different groups that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
 
-For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables," and "Peach" can be by itself in a "Fruit" group. Or, if I didn't know what kind of food group a peach belongs to, I could put it in the "I don't know" group. 
+For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables." I have no idea what food group "cotton candy" might belong to, so I could put it in the "I don't know" group. 
 
 If I decide that I don't like a group that I made, I can also click the x in the top righthand side of the box and the cards get returned to the left hand column. 
 
