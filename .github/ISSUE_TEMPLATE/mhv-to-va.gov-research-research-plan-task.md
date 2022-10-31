@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Research Plan Task
 about: MHV to VA.gov Research Plan Task
-title: "MyHealth: APP NAME: TASK DESCRIPTION"
+title: "MHV to VA.gov: APP NAME: Research Plan
 labels: ux, research, my-health
 assignees: ''
 
