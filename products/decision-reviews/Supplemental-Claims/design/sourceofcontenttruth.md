@@ -17,9 +17,9 @@ Answer this question to get started:
 
 **_Continue_**
 
-If you don't think this is the right form for you, go back and review the other decision review options.
+If you don't think this is the right form for you, find out about the other decision review options.
 
-<< Go back to review your options
+<< Learn about choosing a decision review option
 
 ## Filing if your Supplemental Claim isn't for a disability
 We can accept online Supplemental Claims only for disability claims at this time. For other types of claims, you'll need to fill out and submit VA Form 20-0995 by mail or in person.
@@ -41,9 +41,9 @@ When you file a Supplemental Claim, you’re adding new evidence that’s releva
 
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, find out about the other decision review options.
+If you don’t think this is the right form for you, you can go back to answer the questions again.
 
-[Learn about choosing a decision review ](https://www.va.gov/resources/choosing-a-decision-review-option/)
+<< Go back to the questions
 
 #### 1. Check your eligibility
 Make sure you meet our eligibility requirements for Supplemental Claims before you file.
