@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Content Task
 about: For MHV Core team to work with Sitewide Content team
-title: "[Content] Create Content"
+title: "[Content] MHV to VA.gov: [APP NAME]: Create Content"
 labels: my-health, design, content
 assignees: 'MarciMcGuire'
 
