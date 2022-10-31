@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Create Wireframes
 about: For MHV core team to create wireframes for development
-title: "[Design] MyHealth: APP NAME: Create Wireframes"
+title: "[Design] MHV to VA.gov: APP NAME: Create Wireframes"
 labels: ux, design, my-health
 assignees: 'MarciMcGuire'
 
