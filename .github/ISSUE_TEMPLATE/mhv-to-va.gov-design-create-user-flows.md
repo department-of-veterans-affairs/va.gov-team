@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Create User Flows
 about: For MHV core team to create user flows for development
-title: "[Design] MyHealth: APP NAME: Create User Flows"
+title: "[Design] MHV to VA.gov: APP NAME: Create User Flows"
 labels: ux, design, my-health
 assignees: 'MarciMcGuire'
 
