@@ -50,6 +50,7 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 - Okay so I'm going to ask you to think out loud while the next page loads. Any thoughts you're having would be helpful to hear.
 - *Once the full page has loaded* You said you go online to check X. Tell me how you'd go about doing/looking into X from here.
 - *If they mention education benefits in the intro questions* Let's scroll down to the education and training section. Are any of the links in this section of interest to you? Is there anything else about education benefits that you would want to look up that you're not seeing here?
+- *If the user has had debt in the past or currently has debt, ask:* Taking a look at the outstanding debts section here, take a moment to review what it says. Would you expect to see a link to your past debt letters here? Is that something you might reference once a debt is paid off?
 - Let's scroll down to the saved applications section. What do you think this section is for? What does "saved applications" mean to you?
 - If you filled out an application and submitted it to VA, would you expect to see that application here or somewhere else?
 
