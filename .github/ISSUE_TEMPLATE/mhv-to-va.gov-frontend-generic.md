@@ -1,7 +1,7 @@
 ---
 name: MHV to VA.gov Front End Development Task
 about: Task for front end development
-title: "[FE] MyHealth: APP NAME: TASK DESCRIPTION"
+title: "[FE] MHV to VA.gov: APP NAME: TASK DESCRIPTION"
 labels: frontend, my-health
 assignees: ''
 
