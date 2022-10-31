@@ -27,10 +27,13 @@
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)   (------------------TENTATIVE------------------) 
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Complete??
-- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
+    -  Finish BE communication with BTSSS API
+    -  Handle error: claims exist, multiple appt, & general
+    -  Add lookup for enabled facilities
+    -  Add GA events
+    -  Other? mocks, cookies, etc.
+-  [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - Where are we with this one?
-- CIE Tech Debt & Bugs
 
 ## 10/19/2022 - 11/01/2022
 
