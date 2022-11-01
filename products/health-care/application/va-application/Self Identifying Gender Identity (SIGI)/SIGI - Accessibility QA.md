@@ -8,7 +8,7 @@
 ## Required Accessibility Tests
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |------------------ |
-|Scan with axe browser plugin (required) | [read more about the axe browser plugin](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)| TBD  | TBD | TBD |
+|Scan with axe browser plugin in daily development (required) | [read more about the axe browser plugin](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)| TBD  | TBD | TBD |
 |Axe scans included in end-to-end (e2e) tests | [read more about e2e tests with axe checks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)| TBD  | TBD | TBD |
 | Color tests for proper contrast and colorblindness | [read more about contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)| TBD  | TBD | TBD |
 | Content zoomed to 200%, 300%, 400% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)| TBD  | TBD | TBD |
