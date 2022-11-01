@@ -70,6 +70,13 @@ complete identity verification?
 helpful in unblocking users so they can continue with the flow? (e.g. live video chat technical assistance)
     2. Are there cognitive challenges that users have when going through a remote supervised identity proofing experience (e.g. emotional states)?
     3. What languages and/or accommodations need to be supported for a remote supervised flow?
+4. What have been the major pain points with multi-factor authentication (MFA)?
+5. Where are users running into issues with MFA?
+6. What kinds of issues?
+7. What are the contributing factors?
+8. What authentications methods are the most effect?
+9. How are low vision/no vision being effected by these major pain points?
+10. What issues do screen readers have with multi-factor authentication (MFA)?
 
 ### Hypothesis
 *  People who fail the "verify personal details" and/or "verify address or phone" steps in ID proofing will have other pieces of evidence (e.g., utility bills, W2s) that could be used to prove identity in a remote supervised MVP. We expect 5-15% of people who fail either step to have other forms of documentation.
