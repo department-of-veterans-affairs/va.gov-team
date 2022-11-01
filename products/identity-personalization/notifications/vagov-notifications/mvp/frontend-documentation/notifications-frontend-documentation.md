@@ -60,18 +60,3 @@ The notifications should stack on top of each other with the newest at the top a
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
 If a user dismisses the notification by clicking or tapping the close icon, then the notification should disappear. If the user dismisses all notifications in the section, then the "Notifications" header should disappear.
-
-## Technical Flow
-
-### When are the notifications fetched from the server?
-
-The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
-
-* If there is an error we show an error.
-* If there is any notifications, that are not dismissed, we show the notifications.
-* If there are no notifications we do not show the section
-
-### If a user dismisses a notification
-
-When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
-
