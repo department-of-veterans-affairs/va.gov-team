@@ -3,7 +3,7 @@
 ## 11/02/2022 - 11/15/2022    (-----------------FUTURE-------------------)
 
 #### Planned Releases    (------------------TENTATIVE------------------)
-??????
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)    (------------------TENTATIVE------------------)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
@@ -26,6 +26,8 @@
 
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)   (------------------TENTATIVE------------------) 
 - [Production Support]() 
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+    - Fix bug & release 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     -  Finish BE communication with BTSSS API
     -  Handle error: claims exist, multiple appt, & general
@@ -57,7 +59,7 @@
 - [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
     - DONE Collaborate with DS on new wireframes (Zach/Ya-Ching)
 - [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
-    - DONE Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
+    - Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
     - Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - DONE Complete analysis for 2 weeks (Lori)
@@ -75,13 +77,13 @@
     - [Setting up Monitors in VA Gov Datadog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47811)
 - CIE Tech Debt & Bugs
     - DONE [[BUG][FE] CHECK-IN: Today's Appointment List Should Show Appointments for Which the Veterans has Already Checked-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48034)
-    - [Investigate if we can setup a DataDog RUM in Staging with the VA.gov DataDog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48379)
-    - [CHECK-IN: Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
-    - [[BUG][FE] CHECK-IN: See Staff Page is Missing the Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48099)
-    - [[BUG] [FE] Address Bugs Identified During Wireframe Audit](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48110)
+    - DONE [Investigate if we can setup a DataDog RUM in Staging with the VA.gov DataDog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48379)
+    - DONE [CHECK-IN: Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
+    - DONE [[BUG][FE] CHECK-IN: See Staff Page is Missing the Footer](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48099)
+    - DONE [[BUG] [FE] Address Bugs Identified During Wireframe Audit](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48110)
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101)
     - DONE [Fix Skipped Test](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48376)
-    - Get rid of the Medalia button
+    - DONE Get rid of the Medalia button (submitted a ticket, still waiting for it to be removed)
 
     
 ## 10/05/2022 - 10/18/2022
