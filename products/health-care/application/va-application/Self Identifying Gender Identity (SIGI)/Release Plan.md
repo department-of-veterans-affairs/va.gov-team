@@ -44,7 +44,7 @@
 ## Phase 3: Go Live!
 
 ### Planning
-- Planned 100% date: 12/12/2022
+- Planned 100% date: 11/30/2022
 - Actual date: TBD
 ___
 
