@@ -1,4 +1,4 @@
-## Language Translation discussion
+## 10/17/2022 Language Translation discussion
 
 Spoke with Randi Hecht, who gave us some basic information on how the process works to have a document/form translated
 - Would recommend to translate just to Spanish for now, if we do the whole form (haven't done a form before!)
