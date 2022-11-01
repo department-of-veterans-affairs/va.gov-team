@@ -111,6 +111,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      4. 10 of 11 participants got stuck on some task(s) during the sessions, and only 1 of them tried searching *every time* they were stuck.
 
 # PRELIMINARY Recommendations for Home Page Redesign
+Is there anything compelling enough from the findings that we should change something in the home page redesign?
 1. Add a Feedback button to the home page
 
 # Key Findings
