@@ -52,17 +52,13 @@ overcome them.
 
 This research will inform UX and product strategy across the following sprint teams:
 
-* Remote Supervised
-    * MVP scoping: Where can an MVP Remote Supervised video chat solution be most helpful? (e.g. live video chat technical assistance, alternative biometric check if KYC fails)
+* Remote Supervised MVP Scoping: Where can an MVP Remote Supervised video chat solution be most helpful? (e.g. live video chat technical assistance, alternative biometric check if KYC fails)
 
-* Customer Experience
-    * Team to write
-* Team Ada
-    * Team to write
+* Capture qualitative data that we can match with session logs. This will help multiple teams, but primarily the unsupervised flow team, understand the human view of log errors we are tracking on the backend.
 
-* Team Katherine
+* This research will inform design, content, or functionality changes needed to increase accessibility on VA.gov and to address any pain points with the flow of the inherited proofing process. Learnings will be incorporated into future design, content, and functionality and shared with other teams to inform modal considerations of other products and services. The results will also be used to inform subsequent rounds of user research and testing.
 
-    * Team to write
+
 
 ### Research questions
 
@@ -76,11 +72,9 @@ helpful in unblocking users so they can continue with the flow? (e.g. live video
     3. What languages and/or accommodations need to be supported for a remote supervised flow?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+*  People who fail the "verify personal details" and/or "verify address or phone" steps in ID proofing will have other pieces of evidence (e.g., utility bills, W2s) that could be used to prove identity in a remote supervised MVP. We expect 5-15% of people who fail either step to have other forms of documentation.
+*  Some participants will have issues taking pictures of their photo IDs or may have typos in other fields. Having the facilitator there to help the participant along will unblock a significant number of participants and allow them to move on to the next step where they might otherwise have failed or abandoned. We expect 10-20% of participants that have issues to be unblocked with the facilitator's assistance.
+*  Some participants will have issues setting up MFA. Participants may select MFA methods that are the most familiar to them. We expect 10-20% of participants will skip setting up a second MFA method. 
 
 ## Methodology
 
@@ -110,18 +104,28 @@ For moderated usability tests:
 
 * USDS will partner with agencies and non-profit organizations to share the research opportunity with their communities (e.g. SSA, American Association for People with Disabilities)
 * Potential participants will express interest via a Survey Monkey sign-up sheet
+
 * We will take an iterative approach to the study and start by scheduling 12 participants.
-* From there, we will assess recruiting needs for the second half of the studies. For
-example, it’s possible that we may have reached saturation of the common themes and problems after observing 12 participants, or that we may want to
-recruit additional participants and continue the study.
+* From there, we will assess recruiting needs for the second half of the studies. (For
+example, it’s possible that we may have reached saturation of the common themes and problems)
+* After observing 12 participants, we will want to recruit additional participants and continue the study.
 
 ### Recruitment criteria
 
 
 **Primary criteria (must-haves)**
 
-Our goal is to recruit 24 participants in order to observe a wide range of experiences across users and agencies. We want to have a broad sampling of participants. Below are the demographic breakdowns we are aiming for:
+Our goal is to recruit a total of 24 participants in order to observe a wide range of experiences across users and agencies. We want to have a broad sampling of participants.
 
+
+* We are requesting a primary recruitment of 15 participants (30% more to account for no shows). 
+* With a 1-2day break in the study. 
+* We are then asking for a secondary recruitment of 15 participants (30% more to account for no shows). 
+
+
+Below are the demographic breakdowns we are aiming for:
+
+* Participants that have never set up Multifactor Authentication (MFA)
 * Gender (even distribution)
     * Man, transgender, non-binary, or intersex
     * Woman, transgender, non-binary, or intersex
@@ -137,9 +141,9 @@ Our goal is to recruit 24 participants in order to observe a wide range of exper
     * 45-65
     * 65+
     
-* Low vision/no vision
+* At least 30% (3-4) of the participants to be Low vision/no vision
 
-* Screen readers 
+* All low vision/ no vision participants to be daily Screen readers 
     * (iOS, Jaws, Text to Voice)
 
 **Secondary criteria (nice-to-haves)**
@@ -162,34 +166,38 @@ Our goal is to recruit 24 participants in order to observe a wide range of exper
 
 ### Prepare
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-
-* Pilot participant email:
+Pilot sessions have already been conducted by Login.gov: 
 * Date and time of pilot session: 
+    * Pilot 1: 10/14 @ 11:00 AM ET
+    * Pilot 2: 10/17 @ 10:00 AM ET
+    * Pilot 3: 10/17 @ 10:45 AM ET
 
 ### Research sessions
+* The team is asking for a 1 - 2 day pause in between the first 12 participants and the second segment of 12 participants. We will come back at the end of day 2 with updated demographic asks based on learnings from the first 12 sessions. 
+* The study will resume after secondary recruitment, we the standard 5 business days that Perigean needs for recruitment effort. 
 * Planned dates of research: Oct 31st- Nov 10th
+
 
 ### Length of sessions
 * Session length: up to 1 hour
 
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
+* Buffer time between sessions: 30 minutes 
 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Maximum Sessions per day: up to 5 per day
 
 ### Availability
 
 Oct 31st- Nov 10th
 
-* Monday, October 31
-* Tuesday, November 1
-* Wednesday, November 2
-* Thursday, November 3
-* Friday, November 4
-* Monday, October 7
-* Tuesday, November 8
-* Wednesday, November 9
-* Thursday, November 10
+* Monday, October 31: 9 - 4 ET
+* Tuesday, November 1: 9 - 4 ET
+* Wednesday, November 2: 9 - 4 ET
+* Thursday, November 3: 9 - 4 ET
+* Friday, November 4: 9 - 4 ET
+* Monday, November 7: 9 - 4 ET
+* Tuesday, November 8: 9 - 4 ET
+* Wednesday, November 9: 9 - 4 ET
+* Thursday, November 10: 9 - 4 ET
    
 	
 ## Team Roles	
@@ -213,7 +221,7 @@ Please list the people who will be serving in each role.
     * Alexander Hoover (USDS)- alexander.hoover@gsa.gov
     * Annie Hirshman - QQ2-C - annie.hirshman@gsa.gov
 - Participant(s) for pilot test:
-    *  TBD
+    *  N/A
 - Note-takers:	
     * Alex Hoover - alexander.hoover@gsa.gov
     * Annie Hirshman - annie.hirshman@gsa.gov
@@ -234,4 +242,6 @@ Please list the people who will be serving in each role.
     * Travis Newby - travis.newby@gsa.gov
     * Leanna Miller - leanna.miller@gsa.gov
     * Camille Hogan - camille.hogan@gsa.gov
-    * Amanda Porter- ajohnson@clarityinnovates.com 
+    * Amanda Porter- ajohnson@clarityinnovates.com
+    * David Kennedy- david.kennedy@adhocteam.us
+    * Josh Kim- josh.kim@adhocteam.us 
