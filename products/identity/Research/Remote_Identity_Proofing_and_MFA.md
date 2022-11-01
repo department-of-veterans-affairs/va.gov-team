@@ -104,7 +104,52 @@ For moderated usability tests:
 
 * USDS will partner with agencies and non-profit organizations to share the research opportunity with their communities (e.g. SSA, American Association for People with Disabilities)
 * Potential participants will express interest via a Survey Monkey sign-up sheet
+* USDS will partner with agencies and non-profit organizations to share the research opportunity with their communities (e.g. SSA, American Association for People with Disabilities)
+* Potential participants will express interest via a Survey Monkey sign-up sheet
 
+> ### Research Participant Consent Form
+> Thank you for your interest in our study! The Department of Veterans Affairs, Login.gov,and the U.S. Digital Service are conducting research on the public’s experience signing in to government websites through Login.gov. Login.gov is a government service that lets the public sign in to participating government agency websites with one username and password. Our research will help improve this service.
+> Below are details on what you can expect from a research session and how your data will be protected.
+
+> **The basics** 
+> * Your participation is completely voluntary.
+> * You may stop the session at any time.
+> * The session will take about 60 minutes.
+> * Your feedback will be kept confidential.
+> * We will take notes during the session.
+> * If you agree, we will record the session.
+>    
+>**What you can expect from a session**
+>
+>During your research session, you will be asked to
+> * go through the full account creation process for Login.gov.
+> * share your screen with our researchers.
+> * enter data into an online form on a test website.
+> * enter your real information (name, address, social security number, and phone number) into the online form.
+> * upload your real state-issued photo ID (for example, a driver’s license). 
+
+>**How we are protecting your data**
+> * Personal information you enter on our test website is locked down. The information can only be accessed by you with your username and password.
+> * The session recording will only be available to the researchers you talk to during your session.
+> * The session recording will be deleted once we have completed our research.
+
+>Do you agree to participate in this research session as described above?
+>
+>[ ] Yes
+>
+>[ ] No
+
+>Do you agree to allow this research session to be recorded?
+>
+>[ ] Yes
+>
+>[ ] No
+
+>Full name________________________
+>
+>Signature___________________
+>
+>Date__________
 * We will take an iterative approach to the study and start by scheduling 12 participants.
 * From there, we will assess recruiting needs for the second half of the studies. (For
 example, it’s possible that we may have reached saturation of the common themes and problems)
