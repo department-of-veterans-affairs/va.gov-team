@@ -130,7 +130,7 @@ For moderated usability tests:
 
 >**How we are protecting your data**
 > * Personal information you enter on our test website is locked down. The information can only be accessed by you with your username and password.
-> * The session recording will only be available to the researchers you talk to during your session.
+> * The session recording will only be available to our team of researchers.
 > * The session recording will be deleted once we have completed our research.
 
 >Do you agree to participate in this research session as described above?
