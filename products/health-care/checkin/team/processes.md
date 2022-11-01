@@ -158,7 +158,7 @@
         - Include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
-    -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, @Anita Middleton, Mark Dewey
+    -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Anita Middleton, Mark Dewey
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Anita Middleton, Dore Mobley, Mark Dewey, erica.williams@va.gov and angela.wilt@va.gov
 
 
