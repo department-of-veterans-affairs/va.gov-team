@@ -191,8 +191,6 @@ Now I need to share with you a link to the sorting activity. How would you prefe
 * Organize cards in a way that makes sense to you
 	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
-	- We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
-
 11. *(As participant puts cards into different groups)*: Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
 
 	- *Continue to probe participant to explain their thinking as they group cards.*
