@@ -110,9 +110,24 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Frontend
 
+### Overview
+
 - The frontend connects to VANotify via an API we set up.
 - Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
-- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
+- If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
+
+### When are the notifications fetched from the server?
+
+The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
+
+* If there is an error we show an error.
+* If there is any notifications, that are not dismissed, we show the notifications.
+* If there are no notifications we do not show the section
+
+### If a user dismisses a notification
+
+When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
+
 
 ## Design
 
