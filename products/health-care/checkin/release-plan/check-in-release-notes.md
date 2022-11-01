@@ -12,6 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/31/2022
+- Fixed a bug where the footer was not displayed on the "See Staff" page
+    - [Ticket 48099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48099)
+- Fix 2 UI component alignments bugs
+    - [Ticket 48110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48110)
+
 ### 10/28/2022
 - Fixed a bug where the Confirmation page would display an incorrect title when using the application translated to Spanish
     - [Ticket 48414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48414)
