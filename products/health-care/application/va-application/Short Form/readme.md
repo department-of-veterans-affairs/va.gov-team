@@ -98,6 +98,10 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - 7/27/2022 - 100%
   - 7/29/2022 - 0% - disabled feature toggle due to [production issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/7-29-22%20-%20Prod%20Issue%20with%20Short%20Form.md)
   - 9/19/2022 - 5% (ES deployed their fix on 9/17)
+  - 10/17/2022 - 25%
+  - 10/24/2022 - 50%
+  - 10/26/2022 - 75%
+  - 10/31/2022 - 100%
 
 ---
    
