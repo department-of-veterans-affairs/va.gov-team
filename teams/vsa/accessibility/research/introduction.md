@@ -14,7 +14,7 @@ Groups of people who share a particular characteristic who have been left out of
 When we talk about **underserved communities** within the context of our research, we’re talking about groups of people who:
 
 * Are underserved in American society for reasons other than being a Veteran, caretaker, or family member of a Veteran
-  * For example, some disabled Veterans may struggle to navigate state government unemployment websites, of which [86% fail at least one basic test for mobile page load speed, mobile friendliness, or accessibility](https://itif.org/publications/2020/04/15/most-state-unemployment-websites-fail-mobile-and-accessibility-tests).
+  * For example, [4 out of 10 state unemployment websites are considered "inaccessible,"](https://itif.org/publications/2020/04/15/most-state-unemployment-websites-fail-mobile-and-accessibility-tests/) suggesting that a meaningful portion of disabled Veterans most likely struggle or are unable to navigate their state government unemployment site.
 * Were underserved historically by Veterans Affairs
   * For example, in the summer of 1947, [only two of the 3,299 VA-guaranteed home loans in 13 Mississippi cities went to Black borrowers](https://time.com/6126195/black-veterans-gi-bill-world-war-two/) despite Blacks accounting for half the population of the state.
 * May not participate in or have access to research studies at Veterans Affairs
@@ -59,6 +59,8 @@ If we want to make up for years of research potentially biased towards the needs
 <details>
  <summary>How do identities like race play into this? How does race or ethnicity factor into to understanding a Veteran's digital preferences or needs?</summary>
  While identities like race may not play into certain kinds of research we conduct (like the usability testing of a button), they may play an important role in others (like interviews about a Veteran's <a href="https://www.nber.org/digest/dec02/gi-bill-world-war-ii-and-education-black-americans">education</a> or <a href="https://www.latimes.com/world-nation/story/2021-02-05/la-na-tuskegee-study-black-distrust-access-vaccine">trust towards health care benefits</a>). Our research is relational. As we all draw from the same participant database, who we request in our own individual studies can have an outwards impact into who Perigean continues to recruit-- and ultimately who we end up having access to. Being proactive about recruiting from underserved communities, even if dimensions like race may be irrelevant to your study, will make it easier for other researchers to recruit from those communities too instead of returning to dominant groups as the default.
+ 
+In addition, by not including participants with diverse racial/ethnic backgrounds, it is possible that unanticipated but important insights are being missed. It is impossible to predict these insights when not including diverse racial/ethnic voices, particularly if the product or UX team is White and, by virtue of their backgrounds and lived experiences, unable to anticipate important design or UX insights that would come from a participant of color. Privilege is blinding but research - and the empathy it produces - have the potential to identify and correct the difficulties of designing for a social group different from one's own.
 </details>
 
 ### Inclusive research
@@ -76,7 +78,7 @@ By including communities of Veterans with more complex and underrepresented need
 * Better cover the needs of everyone else
  * Designing for complex needs first - like aging Veterans above the age of 55 or Veterans with disabilities - means designing for the future of *all *Veterans who age or acquire disabilities later in life
 
-<img alt="A graph depicting Veterans with disabilities having a larger variety of needs and insights which covers the needs of aging Veterans and Veterans currently without disabilities." src="https://user-images.githubusercontent.com/14154792/155893678-f48ea7fb-d288-4cdc-ad93-4619f5790f00.png)"/>
+<img alt="A graph depicting Veterans with disabilities having a larger variety of needs and insights which covers the needs of aging Veterans and Veterans currently without disabilities." src="https://user-images.githubusercontent.com/14154792/155893678-f48ea7fb-d288-4cdc-ad93-4619f5790f00.png"/>
 
 
 ### Increase the accuracy and impact of our research findings.
