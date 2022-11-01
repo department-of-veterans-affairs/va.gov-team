@@ -1,9 +1,10 @@
 # Self-Identifying Gender Identity - Accessibility Staging Review Prep
 
 #### Resources
-- [How to prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html)
-- [Staging review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html)
-- [Notification Preferences accessibility testing document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/staging-review/accessibility-test-prep.md)
+- [How to prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review)
+- [Staging review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/staging-review)
+
+- Any findings will be documented in this [QA folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/QA), and additional GH tickets will be created
 
 ## Required Accessibility Tests
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
