@@ -6,7 +6,6 @@
 
 [Mobile testing guidance](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/0C5CF38D-3AAC-477B-A479-B14220AA3503?hotspots=false)
 
-Mural board for notes (to be linked)
 
 ## Moderator logistics
 
