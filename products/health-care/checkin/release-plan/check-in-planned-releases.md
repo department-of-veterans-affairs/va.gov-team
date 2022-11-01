@@ -10,7 +10,7 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Short Description |
 | :----------------- | :--------- | :--------------  |
-| Tagalog Support | 11/2/2022   | [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788) Add Tagalog translations |
+| Tagalog Support | 11/4/2022   | [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788) Add Tagalog translations |
 | [Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/travel-reimbursement.md) | TBD | [Epic 40265](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) Allows Veterans to submit a mileage-only travel reimbusement claim when they use eCheck-in to check-in for an in-person appointment |
 | Pass Users to Check-in when Access Pre-Check-in Link during the Check-in Window | TBD | [Epic 46631](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631) Allows Veterans who access a Pre-Check-in link on the day of their appointment and during the check-in window to automatically be redirected to Check-in so that they can check-in for their appointment without having to text or scan a QR code |
 
