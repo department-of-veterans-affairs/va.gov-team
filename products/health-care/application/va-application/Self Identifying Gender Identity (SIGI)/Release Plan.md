@@ -3,7 +3,7 @@
 ## Phase 1: UAT
 
 ### Planning
-- UAT Go/No Go: No UAT Planned, this is an addition of one single-selection question that is not required*.
+- UAT Go/No Go: No UAT Planned, this is an addition of one single-selection question that is not required.
 - Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/Readiness%20Checklist.md)
 - Desired date range or test duration: N/A
 - Desired number of users: N/A
