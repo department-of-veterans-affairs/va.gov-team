@@ -60,3 +60,22 @@ The notifications should stack on top of each other with the newest at the top a
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
 If a user dismisses the notification by clicking or tapping the close icon, then the notification should disappear. If the user dismisses all notifications in the section, then the "Notifications" header should disappear.
+
+## If a user tries to dismiss a notification but there is an error
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A5E6BDAE-7D09-4B5B-8BF7-255DC72E98BA)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/410D442D-8E53-454E-AE7C-30D878C32529)
+
+If a user dismisses the notification by clicking or tapping the close icon, then the notification should disappear. If the notification fails to dismiss, then an error message should appear below the "Notifications" header and above any notifications in the section.
+
+**Visual Specs**
+
+![Screen Shot 2022-11-01 at 4 30 59 PM](https://user-images.githubusercontent.com/97965610/199334988-2cf90580-4eb3-4719-bfa5-7d753fdb814a.png)
+
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#error) from the VA design system.
+
+**Copy Specs**
+
+Can't dismiss notification
+
+We're sorry. Something went wrong on our end, and we can’t dismiss this notification. Please try again later.
