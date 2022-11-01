@@ -9,3 +9,9 @@ For all use cases, the user must be LOA3 (identity verified).
 
 
 ### User clicks "Manage your VA debt" link
+
+## Edge Cases
+_No edge cases exist for this feature__
+
+## Flow diagrams
+- ...
