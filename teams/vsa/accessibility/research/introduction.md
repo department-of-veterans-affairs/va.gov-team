@@ -88,6 +88,7 @@ For example, check out this research study conducted by the facilities team whic
 ### Create more awareness around underserved Veteran communities.
 The more we openly talk about underserved communities of Veterans, point out gaps in our recruitment, and look for ways to improve– the faster we’ll be able to reach equity.
 
+
 ---
 
 ## How can you get started?
@@ -95,31 +96,37 @@ The more we openly talk about underserved communities of Veterans, point out gap
 ### 1. Join our community at **#inclusive-research**
 Let’s be honest. Inclusive research is hard and we’re going to need a diverse community to continue taking steps in the right direction. It’s 100% ok to be lost and confused. If you have a question, ask it in our slack channel! We’ll work together to find better answers with absolutely no judgment in the process.
 
-### 2. Focus on a couple of underserved groups as primary criteria at a time 
-When starting your recruitment process, think about which underserved groups of Veterans may be the most critical or underreached in your research. Who haven't you been able to recruit in the past? Whose needs may be more critical?
+### 2. Aim to include 2+ underserved groups as primary criteria in your study
+When starting your recruitment process, think about which underserved groups of Veterans may be the most critical or underreached in your research. 
+
+* Who haven't you been able to recruit in the past? 
+* Whose needs may be more critical or complex?
 
 This will likely vary project to project depending on what you’re working on, but we recommend starting out by **selecting at least 1-2 of the following dimensions as primary criteria** for your research (meaning 100% of your participants identify as one of the following)...
+
 * With an identified cognitive disability (*anyone* can acquire a cognitive disability)
-* Age 55 or older
+* Age 55 or older 
 * Of color (specifically Black, Hispanic/Latina/Latinx, and Native)
 * Who are primarily mobile or tablet device users
 * Who identify as other than male (for example: women, transgender, nonbinary, two-spirit)
 * Who live in rural areas with a weaker internet connection
-* Without a degree or professional certificate
+* Who don't have a degree or professional certificate
 
-If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a more equitable sample across the board like this:
+If you continue to **strategically and iteratively sample different combinations of underserved cohorts across different studies over time**, you may reach a more **equitable** sample across the board like this:
+
 * Mostly (if not all) Veterans with an identified cognitive disability (*anyone* can acquire a cognitive disability)
 * More than 50% age 55 or older
 * More than 50% Veterans of color (specifically Black, Hispanic/Latina/Latinx, and Native)
 * More than 50% primarily mobile or tablet device users
 * More than 50% identify as other than male (for example: women, transgender, nonbinary, two-spirit)
 * More than 50% in a rural area
-* More than 50% without a degree or professional certificate
+* More than 50% who don't have a degree or professional certificate
+
 
 We encourage you to add on any other characteristics that may be relevant to the service you’re working on. For example, if you’re doing research around caretakers and family members, you may want to consider including caretakers and family members who don’t speak English as their first language.
 If you’re not sure who else you should be including in your research, what goals you should be aiming for, or anything else– ask about it in our #inclusive-research channel.
 
-### 3. Focus on disabled Veterans first when usability testing
+### 3. Focus on disabled Veterans _first_ when usability testing
 
 For any research that introduces new design patterns, involves a form, or requires a good amount of interaction that goes beyond reading content, **we recommend starting with a study specific to Veterans who use screen readers or have severe cognitive disabilities**. 
 
@@ -130,26 +137,27 @@ For more,
 - ask a question in our #accessibility-help channel or
 - join Angela Fowler's accessibility office hours on Fridays
 
-### 4. And if you can’t be inclusive, talk about it!
-If you can’t hit goals for equity or even equality, that’s 100% OK. It’s going to take time and teamwork to get there, and the best way to make progress is to continue the conversation (we’ll provide some actionable steps at the end).
+### 4. And if you can’t, that's ok! Talk about it!
+If you can’t hit equitable recruitment goals or use the strategies above, that’s OK. It’s going to take time and teamwork to get there, and the best way to make progress is to continue the conversation (we’ll provide some actionable steps at the end). If you notice you're not successfully recruiting from the groups above over time, ask yourself and your team these questions as your first step:
 
-**If you notice you're not successfully recruiting from the groups above over time...**
+#### Which underserved communities were missing or underrepresented in our studies?
+* Why were they missing or underrepresented?
+* Are we confident that the insights we uncovered from other groups will apply to them too?
+  * If so, why? What makes us confident? Are we making assumptions or do we have trusted sources of information we can point to?
 
-…ask yourself and your team these questions as your first step:
-* Which underserved communities were missing or underrepresented in our studies?
-  * Why were they missing or underrepresented?
-  * Are we confident that the insights we uncovered from other groups will apply to them too?
-    * If so, why? What makes us confident? Are we making assumptions or do we have trusted sources of information we can point to?
-* How might we run another session with underserved communities that were missing from our studies so far?
-  * Should we conduct a separate study (for example, usability testing) that focuses specifically on recruiting these underserved communities?
-  * If we can’t run another session, why not? What’s blocking us?
-    * Can we share what’s blocking us with the #inclusive-research channel?
-    * Can we plan future studies differently to be more inclusive (for example, planning your research strategy to include multiple, iterative studies with different participant groups)?
-* How might we connect with the folks at #inclusive-research to:
-  * Help answer the above questions? OR
-  * Contribute any of our findings to #inclusive-research’s collective understanding, conversation, and guidance of inclusive research?
+#### How might we run another session with underserved communities that were missing from our studies so far?
+* Should we conduct a separate study (for example, usability testing) that focuses specifically on recruiting these underserved communities?
+* If we can’t run another session, why not? What’s blocking us?
+  * Can we share what’s blocking us with the #inclusive-research channel?
+  * Can we plan future studies differently to be more inclusive (for example, planning your research strategy to include multiple, iterative studies with different participant groups)?
 
-…then talk about it in your research presentation! It’s as easy as using our [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) which will help you:
+#### How might we connect with the folks at #inclusive-research to:
+* Help answer the above questions? OR
+* Contribute any of our findings to #inclusive-research’s collective understanding, conversation, and guidance of inclusive research?
+
+#### Talk about it in your research presentation! 
+It’s as easy as using our [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) which will help you:
+
 * Spot gaps of underserved Veteran communities who may have been left out of your research over time
 * Present those gaps in your readout and presentation
 * Start thinking about how to include those underserved Veterans in your next study
