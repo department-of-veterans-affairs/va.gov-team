@@ -6,9 +6,9 @@
 
 ## Overview
 
-The VA has been moving toward a V2 appointments api. The VA web app has established a pattern of fetching all appointments during certain date ranges and of certain statuses. They do not filter on the vets-api back end and instead pass all results received from upstream to the web client, which transforms and filters those results before presenting them to the user.
+The VA has been moving toward a V2 appointments api. The VA web app has established a pattern of making multiple requests for different statuses and date ranges. They do not filter on the vets-api back end and instead pass all results received from upstream to the web client, which transforms and filters those results before presenting them to the user.
 
-The mobile app can't work that way because it has to support older versions of the client, which were written before the V2 appointments api existed. The mobile app was written to fetch all appointment statuses together. The only distinction the mobile app makes on the front end is between past and upcoming. Because of this, the mobile app must handle data transformations and filters on the backend.
+The mobile app can't work that way because it has to support older versions of the client, which were written before the V2 appointments api existed. The mobile app was written to fetch all appointment statuses together over a broader date range. The only distinction the mobile app makes on the front end is between past and upcoming. Because of this, the mobile app must handle data transformations and filters on the backend.
 
 The mobile team has been attempting to match the web results exactly but QA has found a number of differences between appointments on the mobile app and the web app. Rather than continue to fix each disparity as it's found, the mobile team performed an audit of the web app's front end code to better understand the transformation and filtering logic. This captures the results of that audit.
 
