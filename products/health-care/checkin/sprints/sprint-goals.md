@@ -8,19 +8,19 @@
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)    (------------------TENTATIVE------------------)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Create final wireframes for claim exists & multiple appts errors
+    - Talk to Dayton Travel Office to find out if enable at facility or clinic level
+- [Simplified Header/Footer with Progress Bar](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
+    - Schedule design review
+    - Update wireframes to include app name in header
+    - Create final wireframes for progress bar (not doing intro page)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Create final wireframes for the "before" & "after" check-in window scenarios (Zach/Ya-Ching)
+    - Create final wireframes for the "before" & "after" check-in window scenarios (Zach/Ya-Ching)     
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - Create research plan
+    - Create research plan & conversation guide
+    - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - Talk to BTSSS business & API folks about enhancement priorities & possibilities
-- [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
-    - Next steps???
-- [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
-    - Next steps???
-- [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
-    - Next steps????
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315) 
-    - Next steps???
+    - Collaborate with VAOS????
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Complete analysis for 2 weeks (?????)
 
@@ -31,27 +31,27 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     -  Finish BE communication with BTSSS API
     -  Handle error: claims exist, multiple appt, & general
-    -  Add lookup for enabled facilities
+    -  Add lookup for enabled facilities or clinics (TBD)
     -  Add GA events
     -  Other? mocks, cookies, etc.
--  [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Where are we with this one?
+- [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
+    - SPIKE
 
 ## 10/19/2022 - 11/01/2022
 
 #### Planned Releases  
-- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+- ~[Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)~
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Update product & design artifacts (Ben/Kelly)
+    - ~Update product & design artifacts (Ben/Kelly)~
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - DONE Discuss and create wireframes for, if necessary, check-in with staff scenarios (3 of them) (Ben/Zach)
-    - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
-    - Update Product Artifacts for Need Help Section Release (Ben/Kelly)
+    - DONE Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
+    - WILL BE DONE AS PART OF TAGALOG Update Product Artifacts for Need Help Section Release (Ben/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - DONE Brainstorm enhancements & prioritize (Lori/All)
-    - Create research plan (Ben/Kelly)
+    - ROLLOVER Create research plan (Ben/Kelly)
 - [Create list of kiosk functionality & evaluate for inclusion in our backlog for Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48058)
     - DONE Complete & present (Kristen)
 - [Change Wording for "Go to another appointment" Link](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47443)
@@ -59,8 +59,8 @@
 - [De-Couple from VA.gov (e.g. Simplify or Remove Header & Footer)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46167)
     - DONE Collaborate with DS on new wireframes (Zach/Ya-Ching)
 - [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
-    - Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
-    - Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
+    - DONE Collaborate with DS on their new progress bar component (Zach/Ya-Ching)
+    - DONE Create draft wireframes for Check-in and Pre-Check-in (Zach/Ya-Ching)
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - DONE Complete analysis for 2 weeks (Lori)
 
@@ -69,10 +69,10 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - DONE Make progress on infrastructure to send a claim to the BTSSS API    
     - DONE Prevent a user from filing a travel claim when they have more than 1 appointment for the day
-    - Fix 2 bugs 
+    - 1 IS DONE Fix 2 bugs 
     - DONE Look into how to persist data and save the Veteran's place in the event of a page reload
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Fix bug & release 
+    - ~Fix bug & release~
 - CIE Analytics
     - [Setting up Monitors in VA Gov Datadog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47811)
 - CIE Tech Debt & Bugs
