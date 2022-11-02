@@ -5,9 +5,9 @@
 - Delivery Manager - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
 - UX Research - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
 - UX/UI Design
-  - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
   - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)
+  - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
 - Frontend Engineers
   - [Adrian Rollett](https://dsva.slack.com/team/U01B3JUHLF5)
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
@@ -27,7 +27,7 @@
 ## Backlog & Roadmap
 - [Priorities](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661259690010/d8a74b136b1ed8727b2d08fdf55298aa1ffeafab?sender=ud3aa760e30b39bcf436d4473)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [CHIP/VSE/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
+- [VSE/PCI/API/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
 ## Production Wireframes in VA Sketch Cloud
 - [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
