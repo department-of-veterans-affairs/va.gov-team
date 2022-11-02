@@ -2,13 +2,16 @@
 
 ## Product
 - Delivers (or enables) a service to a user or a system 
-- Iterates over time without a beginning or an end 
-- Comprises of a set of features 
+- Iterates over time without a beginning or an end (unless the product is sunset)
+- Made up of a set of features 
 - Has a heartbeat (and other steady state/evergreen metrics) to measure its health and value 
 
-### Examples
+#### Examples
 - Caregiver Benefit Application (10-10cg)
 - MyVA 
+
+#### Resources
+* [Product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
 ## Feature
 - An interactive component of a product 
@@ -19,18 +22,17 @@
 - Benefits and Debt Section (MyVA) 
 
 ## Initiative/Workstream/Project
-- An attempt to iterate and improve an existing product (or create a new one) 
-- Identifies key metric(s) to help assess initiative progress or success 
-- A theme that aligns to a specific priority or strategy 
-- A collection of products or features 
-- A set of activities towards accomplishing a singular goal 
+- A team's attempt to iterate and improve an existing product (or to create a new one) 
+- Has associated outcomes metric(s) derived from product KPIs that help assess initiative progress and success 
+- A theme that aligns to a specific priority or strategy or set of activities towards accomplishing a singular goal 
 - Has a clear beginning and end 
 
-### Examples: 
+#### Examples: 
 - Health Apartment
 - "MyVA 2.0"
 
-
+#### Resources
+* [Initiative brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)
 ---
 ## Appendix
 ### Background & Context
