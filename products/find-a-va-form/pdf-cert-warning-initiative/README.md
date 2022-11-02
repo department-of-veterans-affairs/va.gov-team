@@ -80,7 +80,7 @@ We're using Informational Alerts from the design system component `<va-alert>`.
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49217)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
