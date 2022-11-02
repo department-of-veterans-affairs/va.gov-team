@@ -39,10 +39,10 @@
     - SPIKE
 - CIE Analytics
     - [Setting up Monitors in VA Gov Datadog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47811) 
+    - [RUM in prod](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49198)
 - CIE Tech Debt & Bugs
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101) 
     - Bug identitifed during Sprint Review (appt list doesn't refresh on go back)
-    - RUM in prod
     
 ## 10/19/2022 - 11/01/2022
 
