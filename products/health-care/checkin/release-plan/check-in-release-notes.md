@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 11/02/2022
-- Tagalog Language Support - New feauture to allow Veterans to view page content translated to Tagalog for eCheck-in and Pre-Check-in 
+- Tagalog Language Support - New feauture to allow Veterans to view eCheck-in and Pre-Check-in page content translated to Tagalog 
     - [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)
 
 ### 10/31/2022
