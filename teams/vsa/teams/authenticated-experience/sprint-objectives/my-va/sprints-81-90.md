@@ -263,7 +263,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Angela: 12/23 - 12/26
 - Taylor: 12/16 - 12/18
 - Liz: 12/23 - 12/27
-- Samara:
+- Samara: 12/26 - 12/27
 
 ## Sprint 90 (12/28 - 1/10)
 
@@ -274,7 +274,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Angela:
 - Taylor:
 - Liz: 12/28 - 12/30
-- Samara:
+- Samara: 12/28 - 12/30
 
 ### On-site notifications
 
