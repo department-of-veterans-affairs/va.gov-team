@@ -239,17 +239,18 @@ Pilot sessions have already been conducted by Login.gov:
 
 ### Availability
 
-Oct 31st- Nov 10th
+Nov 7th- Nov 18th
 
-* Monday, October 31: 9 - 4 ET
-* Tuesday, November 1: 9 - 4 ET
-* Wednesday, November 2: 9 - 4 ET
-* Thursday, November 3: 9 - 4 ET
-* Friday, November 4: 9 - 4 ET
-* Monday, November 7: 9 - 4 ET
-* Tuesday, November 8: 9 - 4 ET
-* Wednesday, November 9: 9 - 4 ET
-* Thursday, November 10: 9 - 4 ET
+
+* Monday, November 7: 9am - 4pm ET
+* Tuesday, November 8: 9am - 4pm ET
+* Wednesday, November 9: 9am - 4pm ET
+* Thursday, November 10: 9am - 4pm ET
+* Monday, November 14: 9:30am - 4pm ET
+* Tuesday, November 15: 9:30am - 4pm ET
+* Wednesday, November 16: 9:30am - 4pm ET
+* Thursday, November 17: 9:30am - 4pm ET
+* Friday, November 18: 9:30am - 4pm ET
    
 	
 ## Team Roles	
