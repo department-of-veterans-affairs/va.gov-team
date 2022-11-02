@@ -11,7 +11,7 @@ For all use cases, the user must be LOA3 (identity verified). If the user is not
 
 ### User logs in with LOA3 account
 
-- User dismisses notification (link to individual page tk)
+- [User dismisses notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-dismisses-notification.md)
 - User clicks "Manage your VA debt" link (link to individual page tk)
 
 
