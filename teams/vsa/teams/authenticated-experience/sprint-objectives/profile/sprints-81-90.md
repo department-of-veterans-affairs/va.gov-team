@@ -328,7 +328,7 @@ Move over tickets from last sprint, if needed.
 - Sharon:
 - Erica: 12/26 - 12/27
 - Liz: 12/23 - 12/27
-- Christina:
+- Christina: 12/26 - 12/27
 - Adam:
 - John:
 - Tom: 12/26 - 12/27
@@ -341,7 +341,7 @@ Move over tickets from last sprint, if needed.
 - Sharon:
 - Erica: 12/28 - 12/30
 - Liz: 12/28 - 12/30
-- Christina:
+- Christina: 12/28 - 12/30
 - Adam:
 - John:
 - Tom:
