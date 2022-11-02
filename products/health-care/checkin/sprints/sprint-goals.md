@@ -6,9 +6,11 @@
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)    (------------------TENTATIVE------------------)
+- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+    - Update product artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Create final wireframes for claim exists & multiple appts errors
-    - Talk to Dayton Travel Office to find out if enable at facility or clinic level
+    - Talk to Dayton HAS & Travel Office about release plan and research visit
     - Meet w/ S/P/M & Shawn about MVP
 - [Simplified Header/Footer with Progress Bar](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
     - Schedule design review
@@ -31,10 +33,9 @@
     - Fix bug & release 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     -  Finish BE communication with BTSSS API
-    -  Handle error: claims exist, multiple appt, & general
+    -  Handle errors: claims exist, multiple appt, & general
     -  Add lookup for enabled facilities or clinics (TBD)
     -  Add GA events
-    -  Other? mocks, cookies, etc.
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - SPIKE
 - CIE Analytics
