@@ -4,8 +4,8 @@ Now that we have [defined both existing and needed MHV notifications]() and revi
 
 **Existing notifications and notification preferences in MyHealtheVet**
 
-- Rx refill shipment notifications
-- VA appointment reminders
+- Rx refill shipment notifications (note: there is a text notification supported through VEText that already has a preference in the VA.gov profile)
+- VA appointment reminders (note: there is a text notification supported through VEText that already has a preference in the VA.gov profile)
 - Secure messaging alerts
 - Medical image and reports available
 - Biweekly MHV newsletter
