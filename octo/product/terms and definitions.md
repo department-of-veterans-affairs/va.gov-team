@@ -13,11 +13,11 @@
 #### Resources
 * [Product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
-## Feature
+#### Feature
 - An interactive component of a product 
 - Cannot deliver a service by itself 
 
-### Example: 
+#### Example: 
 - Upload legal documents (Caregiver Benefit Application)
 - Benefits and Debt Section (MyVA) 
 
