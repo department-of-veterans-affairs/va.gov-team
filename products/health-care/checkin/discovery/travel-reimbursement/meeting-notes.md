@@ -10,6 +10,7 @@
     - Adrian Rollett
 - Agenda
     - Discuss the [MVP](https://app.mural.co/t/vfscie8528/m/vfscie8528/1667222840454/ada0c417b71c922895f1750cd32d869f6213e129?sender=ud3aa760e30b39bcf436d4473)
+        - Related [Slack conversation](https://dsva.slack.com/archives/C022AC2STBM/p1667308849059459)
 - Concerns
     - Determining eligibility to file a travel claim to limit who gets to file
     - No ability to file when have multiple appointments
