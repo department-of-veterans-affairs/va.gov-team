@@ -40,7 +40,7 @@
 - No changes
 
 **Other Entry Points:**
--no changes
+- no changes
 
 **Decision Reviews Left Nav**
 - Include a link to this new online form as a child of the Supplemental Claims page
