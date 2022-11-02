@@ -303,6 +303,10 @@ Move over tickets from last sprint, if needed.
 - Tom: 11/24 - 11/25
 - Samara: 11/23 - 11/25
 
+### Accessibility
+
+- Keep moving over designs that are ready to frontend (eg. updating button pair copy Liz outlined in #48441)
+
 ### General/tech-debt
 
 - FE: Fiduciary gate IF it didn't happen last sprint
