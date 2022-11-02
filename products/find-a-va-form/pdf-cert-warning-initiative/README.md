@@ -110,12 +110,15 @@ We're using Informational Alerts from the design system component `<va-alert>`.
 #### Communications
 *Where will you discuss this initiative?*
 
+- [Epic for this effort](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10956)
+
+
 <details>
 
-- Team Name: 
+- Team Name: Sitewide Public Websites
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Slack channel: #sitewide-public-websites
+- Product POCs: Wesley Rowe (@wesrowe)
 
 </details>
 
