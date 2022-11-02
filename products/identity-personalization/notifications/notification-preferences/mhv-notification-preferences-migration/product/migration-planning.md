@@ -25,13 +25,13 @@ Unlike most features moving over to VA.gov, notification preferences will need t
 
 ### MHV features are moving over 1-by-1 to VA.gov
 
-MHV features are moving over 1-by-1 to VA.gov. This presents a challenge with notification preferences: we'll likely only need to support 1 or maybe 2 new preferences at a time as features migrate (eg. having a secure messages alert preference once the secure messaging feature is live). However, in MHV, notification preferences are a whole feature, and it would likely feel weird to retire one preference at a time instead of the whole feature at once.
+MHV features are moving over 1-by-1 to VA.gov. This presents a challenge with notification preferences: we'll likely only need to support 1 or maybe 2 new preferences at a time as features migrate (eg. having a secure messages alert preference once the secure messaging feature is live). However, in MHV, notification preferences are a whole feature, so we'll need to decide between moving all preferences over or having to retire one preference at a time.
 
 ![MHV notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/MHV%20notification%20settings.jpeg)
 
 ### The MHV team will have to help with this work
 
-While my team will be responsible for work in our profile and leading coordination with VA Profile, the MHV team can't be totally uninvolved. They'll need to agree to our migration approach, work with VA Profile to make sure preferences are defined, work with VANotify to migrate actual notifications (though, to be clear, that can happen separately from migrating preferences), work with VA Profile to migrate existing preferences (assuming they want to), and implementing UI updates to retire preferences either one at a time or all at once.
+While my team will be responsible for work in our profile and leading coordination with VA Profile, the MHV team can't be totally uninvolved. They'll need to agree to our migration approach, work with VA Profile to make sure preferences are defined, work with VANotify to migrate actual notifications (though, to be clear, that can happen separately from migrating preferences), work with VA Profile to migrate existing preferences (assuming they want to), and implement UI updates to retire preferences either one at a time or all at once.
 
 ## Potential approaches for migrating notification preferences
 
