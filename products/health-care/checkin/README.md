@@ -1,5 +1,21 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 
+## Team Members
+- Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
+- Delivery Manager - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
+- UX Research - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
+- UX/UI Design
+  - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
+  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
+  - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)
+- Frontend Engineers
+  - [Adrian Rollett](https://dsva.slack.com/team/U01B3JUHLF5)
+  - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
+  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
+- Backend Engineers
+  - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
+  - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+
 ## Product 
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
