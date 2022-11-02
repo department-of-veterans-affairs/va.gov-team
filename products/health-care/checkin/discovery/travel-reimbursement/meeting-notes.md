@@ -1,5 +1,28 @@
 # MEETING NOTES - TRAVEL REIMBURSEMENT
 
+## 11/2/2022 - MVP Meeting with Shawn Adams
+- Attendees
+    - Lori Pusey
+    - Ben Brasso
+    - Stephen Barrs
+    - Mark Dewey
+    - Patrick Bateman
+    - Adrian Rollett
+- Agenda
+    - Discuss the [MVP](https://app.mural.co/t/vfscie8528/m/vfscie8528/1667222840454/ada0c417b71c922895f1750cd32d869f6213e129?sender=ud3aa760e30b39bcf436d4473)
+- Concerns
+    - Determining eligibility to file a travel claim to limit who gets to file
+    - No ability to file when have multiple appointments
+        - CVT appointments
+        - Multiple in-person appts
+- Questions
+    - Do we have the business rules for determining eligibility? 
+        - [list](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/)
+        - What about caregivers eligibility?
+        - What about if they have direct-deposit set up?
+    - Do we know where to find all of the eligibility questions via an API
+    - Do we want to ask the Veteran?
+
 ## 9/22/2022 - MVP Meeting with Business & API Teams
 - Attendees
     - Lori Pusey
