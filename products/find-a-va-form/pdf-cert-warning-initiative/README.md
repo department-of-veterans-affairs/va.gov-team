@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief - PDF Certificate Alert
 #### Overview
 
 The VA and Adobe have an agreement that enables Veterans to use premium features within the free Acrobat Reader application in order to fill out filable PDFs. Adobe is changing the way that licensing is checked on the Internet. On January 7, PDFs that were saved by VA Forms Managers _before March 2, 2022,_ will no longer be fillable; PDFs saved after March 2 will check licenses using the new certificate/method and thus work as intended.
