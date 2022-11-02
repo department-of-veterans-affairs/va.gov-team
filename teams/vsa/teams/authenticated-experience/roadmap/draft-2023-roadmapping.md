@@ -15,6 +15,14 @@ Potential projects and work for our team includes:
 - Updating My VA to accommodate new features
   - This could be as small as updating links, or as big as adding new modules
 
+#### What we know now
+
+It is unlikely that we will need to launch any changes to the notification preferences section of the profile until CY Q4 2023 at the earliest. [From Lauren via Slack on 10/26/22](https://dsva.slack.com/archives/C02BTDTEPNH/p1666797451568699?thread_ts=1666728785.285899&cid=C02BTDTEPNH):
+
+> I would love to be in a place where both appointments and medical records are in phase 2 by this time next year. Stretch goal - pharmacy and secure messages in Phase 0 or 1.
+
+So, while we don't want to wait to start development until then, we likely won't need to work on this in CY Q1 2023. This is something that the team should start visiting with VA Profile and MHV no later than CY Q2 2023 so that preferences are ready and waiting for when they are needed.
+
 ### Improve the Veteran login experience
 
 Potential projects and work for our team includes:
