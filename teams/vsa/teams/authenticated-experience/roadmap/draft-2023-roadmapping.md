@@ -17,17 +17,25 @@ Potential projects and work for our team includes:
 
 #### What we know now
 
-It is unlikely that we will need to launch any changes to the notification preferences section of the profile until CY Q4 2023 at the earliest. [From Lauren via Slack on 10/26/22](https://dsva.slack.com/archives/C02BTDTEPNH/p1666797451568699?thread_ts=1666728785.285899&cid=C02BTDTEPNH):
+It is unlikely that we will need to launch any changes to the notification preferences section of the profile until Q4 CY2023 at the earliest. [From Lauren via Slack on 10/26/22](https://dsva.slack.com/archives/C02BTDTEPNH/p1666797451568699?thread_ts=1666728785.285899&cid=C02BTDTEPNH):
 
 > I would love to be in a place where both appointments and medical records are in phase 2 by this time next year. Stretch goal - pharmacy and secure messages in Phase 0 or 1.
 
-So, while we don't want to wait to start development until then, we likely won't need to work on this in CY Q1 2023. This is something that the team should start visiting with VA Profile and MHV no later than CY Q2 2023 so that preferences are ready and waiting for when they are needed.
+So, while we don't want to wait to start development until then, we likely won't need to work on this in Q1 CY2023. This is something that the team should start visiting with VA Profile and MHV no later than CY Q2 2023 so that preferences are ready and waiting for when they are needed.
 
 ### Improve the Veteran login experience
 
 Potential projects and work for our team includes:
 
 - Updating both the profile and My VA to account for a delegate experience.
+
+#### What we know now
+
+[Via Slack on 10/26/22 and 10/27/22](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E):
+
+- There is a product team that is tasked with helping to define what a delegate is and broad requirements for managing that on VA.gov.
+- Each VA.gov team is responsible for updating and maintaining their sections accordingly, though the main product team will act as coordinators and liaisons with whoever is helping them define the delegate use case.
+- Timing on this is unclear. Definition is in its early phases, so I don't anticipate we'll work on this in the first couple of quarters of CY2023.
 
 ### Refresh the VA.gov homepage and information architecture
 
