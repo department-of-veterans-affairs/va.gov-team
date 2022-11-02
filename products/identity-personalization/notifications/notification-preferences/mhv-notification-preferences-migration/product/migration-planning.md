@@ -76,7 +76,6 @@ This would involve us migrating all notification preferences at once instead of 
 
 #### Cons
 
-- This goes against the phased health apartment strategy.
 - A feature might not yet exist on VA.gov while it's notification preference does (if we support all preferences at the beginning of the health apartment migration, OR a feature might exist on VA.gov but it's notification preference does not (if we wait to move all preferences until the end of the health apartment work). Either way, we created back-and-forth between VA.gov and MHV to manage features.
 
 ### Don't actually support preferences on VA.gov until phase 4 (MHV feature retirment) instead of phase 2
