@@ -1,5 +1,22 @@
 # Secure Messaging: Weekly design and research critique
 
+## 2022-11-02
+
+### Attendees
+* Alexia Wunder
+* Anne Costello
+* Coulton Bunney
+
+### Agenda and notes
+Short meeting. Only lasted 30 mins. 
+
+**SM Usability research**
+  * Discussed last minute edits to usability conversation guide based on previous week's pilot sessions. Made a few edits, such as updating the way we ask about threads, introducing the 1 to 5 likert scale, and simplifying the tasks around using search. 
+  * Discussed making small edits to conversation based on initial sessions with users. Nothing that will impact the fundamental goals of the research.
+
+### Action items
+*None*
+
 ## 2022-10-25
 
 ### Attendees
@@ -29,8 +46,8 @@
 * Coulton to be added to check in session on Thursday morning.
 
 ### Action items
-* Cancel Thursday meetings (Lexi) 
-* Update Tuesday meetings to be one hour (Lexi)
-* Create Slack bot to collect agenda items (Lexi)
-* Create notes document (Coulton)
-* Send out sign up sheet for SM usability research (Anne or Lexi)
+* [x] Cancel Thursday meetings (Lexi) 
+* [x] Update Tuesday meetings to be one hour (Lexi)
+* [x] Create Slack bot to collect agenda items (Lexi)
+* [x] Create notes document (Coulton)
+* [x] Send out sign up sheet for SM usability research (Anne or Lexi)
