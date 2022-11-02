@@ -23,6 +23,7 @@
         - What about if they have direct-deposit set up?
     - Do we know where to find all of the eligibility questions via an API
     - Do we want to ask the Veteran?
+    - Are we concerned if or when Veterans don't know the answers to those questions? Is it a deterrent? 
 
 ## 9/22/2022 - MVP Meeting with Business & API Teams
 - Attendees
