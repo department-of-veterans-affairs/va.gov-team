@@ -5,7 +5,7 @@ The VA and Adobe have an agreement that enables Veterans to use premium features
 
 Forms Managers anticipate having re-saved all PDFs by mid-Dec 2022, in which case all forms provided to Veterans through Find-a-form (FaF) will work fine. But communication is needed around the FaF product since Veterans often obtain PDFs from third parties (e.g., VSOs) or other locations on the Internet that may have been saved before March 2, 2022, and thus could produce the error.
 
-Our proposed solution involves two Informatinal Alerts:
+Our proposed solution involves two [Informatinal Alerts](https://design.va.gov/components/alert):
 1) A more general message on the Find-a-form Search page
 2) A message on Form Detail pages that may be more specific to the form on that page
 
