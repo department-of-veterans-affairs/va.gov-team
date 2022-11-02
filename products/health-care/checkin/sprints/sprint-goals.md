@@ -46,11 +46,11 @@
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - ~Update product & design artifacts (Ben/Kelly)~
-- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - DONE Discuss and create wireframes for, if necessary, check-in with staff scenarios (3 of them) (Ben/Zach)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
     - DONE Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - WILL BE DONE AS PART OF TAGALOG Update Product Artifacts for Need Help Section Release (Ben/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
+    - DONE Discuss and create wireframes for, if necessary, check-in with staff scenarios (3 of them) (Ben/Zach)
     - DONE Brainstorm enhancements & prioritize (Lori/All)
     - ROLLOVER Create research plan (Ben/Kelly)
 - [Create list of kiosk functionality & evaluate for inclusion in our backlog for Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48058)
@@ -70,7 +70,7 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - DONE Make progress on infrastructure to send a claim to the BTSSS API    
     - DONE Prevent a user from filing a travel claim when they have more than 1 appointment for the day
-    - 1 IS DONE Fix 2 bugs 
+    - DONE Fix 2 bugs 
     - DONE Look into how to persist data and save the Veteran's place in the event of a page reload
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - ~Fix bug & release~
