@@ -92,9 +92,7 @@ _¹1 participant did not go through the prototype_
 ### Secondary Findings
 
 1. Participants liked the amount of prescription information presented in the cards but had different ideas about what they considered important
-2. Participants stated they didn’t need all of the metadata upfront in order to refill
-3. Participants thought that their tracked prescriptions were a list of active or recently submitted prescriptions
-4. Participants liked the idea of  renewing through secure messaging, as well as other functions.
+2. Participants mentioned the prescription statuses as one of the first things they noticed 
 
 
 ## Detailed Findings
