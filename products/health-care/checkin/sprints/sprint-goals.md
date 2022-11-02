@@ -1,11 +1,11 @@
 # SPRINT GOALS
 
-## 11/02/2022 - 11/15/2022    (-----------------FUTURE-------------------)
+## 11/02/2022 - 11/15/2022    
 
-#### Planned Releases    (------------------TENTATIVE------------------)
+#### Planned Releases   
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
-#### UX Sprint Goals (IN ORDER OF IMPORTANCE)    (------------------TENTATIVE------------------)
+#### UX Sprint Goals (IN ORDER OF IMPORTANCE)    
 - [Handoff as Kristen Transitions off the Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49136)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Update product artifacts
@@ -23,12 +23,10 @@
     - Create research plan & conversation guide
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - Talk to BTSSS business & API folks about enhancement priorities & possibilities
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315) 
-    - Create final wireframes
 - CIE Analytics
-    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)    
+    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen)
 
-#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)   (------------------TENTATIVE------------------) 
+#### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Production Support]() 
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Fix bug & release 
@@ -43,7 +41,9 @@
     - [Setting up Monitors in VA Gov Datadog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47811) 
 - CIE Tech Debt & Bugs
     - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101) 
-
+    - Bug identitifed during Sprint Review (appt list doesn't refresh on go back)
+    - RUM in prod
+    
 ## 10/19/2022 - 11/01/2022
 
 #### Planned Releases  
