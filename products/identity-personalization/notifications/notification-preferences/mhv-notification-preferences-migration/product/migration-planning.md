@@ -37,7 +37,7 @@ While my team will be responsible for work in our profile and leading coordinati
 
 ### Move preferences one at a time; Do not have MHV integrate with VA Profile
 
-This would involve us moving notification preferences over one at a time as they correspond to health apartment feature migration. MHV would not need to do any work on their end prior to the migration.
+This would involve us moving notification preferences over one at a time as they correspond to health apartment feature migration. 
 
 #### Pros
 
