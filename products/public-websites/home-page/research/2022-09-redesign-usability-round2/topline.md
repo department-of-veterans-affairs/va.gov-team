@@ -28,14 +28,14 @@ The purpose of this research was to **get user feedback on the *newly revised* v
      1. 2 people used search when they didn't appear to be stuck.
 3. The **lowest task success rate was for the *Message your doctor* task**. 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task using MyHealtheVet. *SHOW SUCCESS & RATINGS summary*
 1. Some participants didn't click on either of the promos. 
-     1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it. We don't know why people are not using it, but it might be because it looks like a banner ad or hero image.
+     1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it. We don't know why people didn't use it, but it may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
      2. Four participants didn't notice the *More VA News* link.
      3. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
 2. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status).
 3. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
 > *"Mimicking, waste of space, not to the point" (p2)*.
 7. Most participants (9 of 10) were able to successfully complete the "show you're a Veteran" task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
-8. No one expressed any interest in the email newsletter. 
+8. No one expressed any interest in the email newsletter, though this wasn't an area of focus for this research, nor was there a task about it.
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
 
 # PRELIMINARY Recommendations to consider for the Home Page Redesign
@@ -44,6 +44,6 @@ Is there anything compelling enough from the findings that we should change some
 2. **Make links under *Popular on VA.gov* more visually appealing** so they look less like unformatted footer links. Potential suggestions: colors/icons (like the benefit hubs), or even just a carat in front of each link.
 3. **Make the *More VA News* link more visually prominent** because it's not noticed by many people.
 4. **Add a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022" like the "VA NEWS" heading in the news promo).
-6. Work with the Health Apartment team to **find a more intuitive way for people to manage VA health care on VA.gov**, or decide to leave manage tasks to the Authenticated/My VA team after users sign in.
+6. To potentially address the low completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care on VA.gov**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
 7. **Add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one.
 
