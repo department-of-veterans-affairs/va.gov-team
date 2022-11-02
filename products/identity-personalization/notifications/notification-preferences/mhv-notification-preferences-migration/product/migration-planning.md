@@ -47,8 +47,7 @@ This would involve us moving notification preferences over one at a time as they
 
 #### Cons
 
-- Without MHV connecting to the VA Profile backend, we run the risk of people setting different preferences on VA.gov and MHV, or people potentially getting duplicate notifications (this depends on whether VANotify will provide notification support at the same time as we provide preference support). **Note**: we already live in this reality with appointment reminders and prescription shipment notifications.
-- OR, we need to turn off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV)..
+- Without MHV connecting to the VA Profile backend, we run the risk of people setting different preferences on VA.gov and MHV while we are between phases 2 and 4, or people potentially getting duplicate notifications (this depends on whether VANotify will provide notification support at the same time as we provide preference support). 
 
 ### Move preferences one at a time; Suggest MHV integrate with VA Profile
 
