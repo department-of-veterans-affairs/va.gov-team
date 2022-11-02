@@ -6,8 +6,9 @@
     - Ben Brasso
     - Stephen Barrs
     - Mark Dewey
-    - Patrick Bateman
+    - ~Patrick Bateman~
     - Adrian Rollett
+    - ~Shawn Adams~
 - Agenda
     - Discuss the [MVP](https://app.mural.co/t/vfscie8528/m/vfscie8528/1667222840454/ada0c417b71c922895f1750cd32d869f6213e129?sender=ud3aa760e30b39bcf436d4473)
         - Related [Slack conversation](https://dsva.slack.com/archives/C022AC2STBM/p1667308849059459)
@@ -21,9 +22,18 @@
         - [list](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/)
         - What about caregivers eligibility?
         - What about if they have direct-deposit set up?
+        - When does the TO folks check a Veteran's eligibility?    
     - Do we know where to find all of the eligibility questions via an API
     - Do we want to ask the Veteran?
     - Are we concerned if or when Veterans don't know the answers to those questions? Is it a deterrent? 
+- Outcome
+    - BTSSS API - Mark was told that anything submitted via the BTSSS API would be held for 24 hours and then go through an eligibility check and thrown into manual review if not eligible
+        - There is a batch process that runs nightly & checks a few times and then defaults to manual 
+    - We do not need to check for eligibility as part of eCheck-in
+    - We would like an BTSSS API endpoint to tell us if they are eligible and why if they are not, including
+        - Beneficiary travel eligibility
+        - Have a BTSSS Account
+        - Have a direct deposit account for travel claims
 
 ## 9/22/2022 - MVP Meeting with Business & API Teams
 - Attendees
