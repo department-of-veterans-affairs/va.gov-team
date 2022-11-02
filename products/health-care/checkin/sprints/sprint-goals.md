@@ -9,10 +9,11 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Create final wireframes for claim exists & multiple appts errors
     - Talk to Dayton Travel Office to find out if enable at facility or clinic level
+    - Meet w/ S/P/M & Shawn about MVP
 - [Simplified Header/Footer with Progress Bar](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
     - Schedule design review
-    - Update wireframes to include app name in header
-    - Create final wireframes for progress bar (not doing intro page)
+    - Update header wireframes to include app name in header
+    - Create final wireframes for progress bar (NOTE: we are not including an intro page)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
     - Create final wireframes for the "before" & "after" check-in window scenarios (Zach/Ya-Ching)     
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
@@ -20,7 +21,7 @@
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - Talk to BTSSS business & API folks about enhancement priorities & possibilities
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315) 
-    - Collaborate with VAOS????
+    - Create final wireframes
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Complete analysis for 2 weeks (?????)
 
