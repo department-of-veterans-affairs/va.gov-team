@@ -113,4 +113,3 @@ Given this, I think we should consider the following approaches outlined above:
 Options I don't think we should consider:
 
 - **Move preferences one at a time; Do not have MHV integrate with VA Profile**: This would align with the phased approach, but we'd have the VA Profile and MHV backends live at the same time, which means people could set conflicting preferences in two places.
-- 
