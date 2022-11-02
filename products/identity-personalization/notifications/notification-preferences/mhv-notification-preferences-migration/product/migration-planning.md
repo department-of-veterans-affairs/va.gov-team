@@ -17,7 +17,7 @@ Now that we have [defined both existing and needed MHV notifications]() and revi
 
 ## Considersations and challenges for migrating to VA.gov
 
-Specifically, these are challenges we need to consider in how we approach moving notification preferences from mhv to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; unknown timing of when this work needs to be done).
+Specifically, these are challenges we need to consider in how we approach moving notification preferences from MHV to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; unknown timing of when this work needs to be done).
 
 ### MHV backend is currently not connected to VA Profile
 
