@@ -332,7 +332,7 @@ Move over tickets from last sprint, if needed.
 - Adam:
 - John:
 - Tom: 12/26 - 12/27
-- Samara:
+- Samara: 12/26 - 12/27
 
 ## Sprint 90 (12/28 - 1/10)
 
@@ -345,7 +345,7 @@ Move over tickets from last sprint, if needed.
 - Adam:
 - John:
 - Tom:
-- Samara: 
+- Samara: 12/28 - 12/30
 
 ### Bad address indicator
 
