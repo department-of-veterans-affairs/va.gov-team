@@ -1,4 +1,4 @@
-# VA.gov Home Page Redesign ROUND 2 Usability Test TOPLINE Summary for Design
+# VA.gov Home Page Redesign ROUND 2 Usability Test Summary: Actionable Feedback for Design
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
@@ -9,12 +9,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md)
 
-This topline summary is a high level, top-of-mind summary of trends observed in the research sessions, but is not the final result of working with the data discovered. *The information in this document may change, following a deeper review and analysis of the data gathered.*
-
-**The goal of this document is as follows:**
- - To make sure everyone who observed the study is in alignment with the perceived findings
- - To gain insight from the team/stakeholders and determine specific directions to pursue as we analyze the data
- - To jump start synthesis by quickly organizing high-level themes
+This research summary of actionable feedback for Design is the result of a partial synthesis process, but not yet the final result of working with all the data discovered. *The information in this document may change in the final research report, following a deeper review and analysis of the data gathered.*
 
 # Introduction
 The purpose of this research was to **get user feedback on the *newly revised* version of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We observed which areas of the home page were used and how well it supported Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks.
