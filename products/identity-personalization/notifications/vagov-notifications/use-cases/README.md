@@ -23,6 +23,7 @@ For all use cases, the user must be LOA3 (identity verified). If the user is not
 
 ### System
 
+- Notifications fail (error on the backend) (link tk)
 - A user tries to dismiss a notification and the command fails (link tk)
 
 
