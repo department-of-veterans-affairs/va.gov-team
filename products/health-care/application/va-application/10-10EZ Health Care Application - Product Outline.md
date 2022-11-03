@@ -52,7 +52,7 @@
     * Proprotion of applications submitted online vs. on paper
 
 #### Baseline KPI Values
-* Coming soon
+
 
 ### Objectives and Key results (OKRs)
 
