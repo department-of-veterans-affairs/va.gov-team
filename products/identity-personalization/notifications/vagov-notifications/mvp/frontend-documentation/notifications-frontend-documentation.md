@@ -79,3 +79,10 @@ If a user dismisses the notification by clicking or tapping the close icon, then
 Can't dismiss notification
 
 We're sorry. Something went wrong on our end, and we can’t dismiss this notification. Please try again later.
+
+## If there is an error on the backend and we can't show notifications
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+
+If there is an error on the backend and we can't show notifications, then we do not show this section at all on My VA.
