@@ -119,7 +119,7 @@
 
 
 ## Launch Dates
-10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
+- 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
 ---
 
 ## Solution Narrative
