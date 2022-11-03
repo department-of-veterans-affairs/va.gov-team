@@ -15,4 +15,4 @@ A user is considered "LOA1" when they log in to VA.gov and they have not verifie
    - DO NOT verify your identity on the ID.me side.  
    - Once created, log into Staging with that acct's email and password.
 2. Sign in with LOA1 credientials 
-3. See the prompt on My VA to verified your identity 
+3. See the prompt on My VA to verify your identity 
