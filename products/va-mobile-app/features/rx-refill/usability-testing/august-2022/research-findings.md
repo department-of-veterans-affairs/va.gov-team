@@ -84,6 +84,8 @@ _¹1 participant did not go through the prototype_
  
 ## Quantitative & Synthesis
 
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/quantitative-synthesis.pdf)
+
 Quantitative synthesis was done on a few Rx tasks and on the prescription card information
 
 * Refill request: 
@@ -332,5 +334,5 @@ This work supports the following objectives:
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/conversation-guide.md)
 * [Figma Prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=21%3A3567&viewport=308%2C451%2C0.13&scaling=min-zoom&starting-point-node-id=21%3A3567&hotspot-hints=0)
 * [Affinity Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-synthesis.md#affinity-diagram)
-* [Quantitative Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-synthesis.md#quantitative-synthesis)
+* [Quantitative Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/quantitative-synthesis.pdf)
 * [Participant Demographics Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/participant-demographics-tracker.md)
