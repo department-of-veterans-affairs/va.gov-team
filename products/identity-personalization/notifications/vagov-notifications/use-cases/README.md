@@ -20,13 +20,10 @@ For all use cases, the user must be LOA3 (identity verified). If the user is not
 
 - There are no flags for this feature.
 
-### Validation
-
 ### System
 
-- Notifications fail (error on the backend)
+- If there is an error on the backend and we can't show notifications, then we do not show this section at all on My VA.
 - [A user tries to dismiss a notification and the command fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-dismisses-notification.md#theres-an-error-when-user-tries-to-dismiss-a-notification)
-
 
 ## Flow diagrams
 - [Notification flow with screenshots](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/426AF99C-8159-4972-8BC3-FD5CF5770F3D/canvas)
