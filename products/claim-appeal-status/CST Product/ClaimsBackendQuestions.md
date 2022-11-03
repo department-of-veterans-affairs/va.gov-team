@@ -9,3 +9,4 @@ November 2, 2022 · Benefits Team 1, Squad 1
 - Is there any way to filter for claims/appeals related letters?
 - Does the claim closed date match the letter dated for decision letters?
 - Are claims closed before a Decision Letter has been added to the efolder?
+- Are all letters classified as "Ratings Decisions" currently intended to be exposed/provided/mailed to veterans? 
