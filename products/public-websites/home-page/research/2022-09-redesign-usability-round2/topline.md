@@ -55,7 +55,8 @@ We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family 
 1. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
 > *"Mimicking, waste of space, not to the point" (p2)*.
 7. Most participants (9 of 10) were able to successfully complete the "show you're a Veteran" task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
-1. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
+8. There was one accessibility issue discovered with **buttons on the far right side of the page not noticed**. One participant and possibly a second who were using screen magnifiers didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. Their magnified view showed only the left half or so of the page, and without some visual indication that there's more to the right, they assumed there wasn't anything there. **Further research could be conducted with screen magnifier users** to learn more about this issue, including whether the *Create account* button was similarly invisible. The *Popular on VA.gov* section on the right side of the page *was* noticed because of its background color change.
+9. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
@@ -73,5 +74,7 @@ Is there anything compelling enough from the findings that we should consider ch
 6. **Make the *More VA News* link more visually prominent** because it's not noticed by many people.
 7. **Add a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022" like the "VA NEWS" heading in the news promo).
 8. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care on VA.gov**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
-9. **Add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one.
+9. **Add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one. 
+     1. To fix a likely accessibility issue, consider **positioning the Feedback button on the left side of the page** where it would be easier for screen magnifier users to notice when scanning pages.
+     2. Talk to the team that works on the Veterans Crisis Line to share the finding about how the red button in the top right of VA.gov pages was invisible to a screen magnifier.
 
