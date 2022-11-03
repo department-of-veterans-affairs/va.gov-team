@@ -28,7 +28,7 @@
 - Locate a staging account that has an on-site notification triggered.
   - [On-site notifications test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
   - Note that since notifications can be dismissed in staging, you will need to find a staging user who this has not occured for.
-  - VA Notify can trigger a new debt notification for a staging user if needed. Contact them on the DSVA Slack in the #va-notifiy-public channel.
+  - VA Notify can trigger a new debt notification for a staging user if needed. Contact them on the DSVA Slack in the `#va-notify-public` channel.
 - Log into staging.va.gov with credentials for a staging user who has a notification triggered.
 - Once you are logged in you will be redirected to My VA and should see a "Notifications" section at the top of the page with a dismissable notification below it.
 - Click or tap the close icon in the upper righthand corner and confirm that the notification disappears.
