@@ -197,12 +197,13 @@ Note: Any changes you make here will also update your VA.gov profile
 We'll save your application every time you add or update information.
  
 **What is your primary phone number?**
+(*Required)
 
 We may need to contact you if we have questions about your Supplemental Claim.
 
-- [ ] *Home phone number*
+- [ ] Home phone number
 
-- [ ] *Mobile phone number*
+- [ ] Mobile phone number
 
 **_BACK_**
 
