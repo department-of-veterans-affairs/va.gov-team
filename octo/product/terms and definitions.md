@@ -19,7 +19,7 @@
 
 #### Example: 
 - Upload legal documents (Caregiver Benefit Application)
-- Benefits and Debt Section (MyVA) 
+- Benefits and Debt Section (My VA) 
 
 ## Initiative/Workstream/Project
 - A team's attempt to iterate and improve an existing product (or to create a new one) 
