@@ -1,4 +1,4 @@
-## Open questions related claim letters backend
+## Open Questions Related to Claim Letters
 
 November 2, 2022 · Benefits Team 1, Squad 1
 
