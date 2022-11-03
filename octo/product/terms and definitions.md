@@ -8,7 +8,7 @@
 
 #### Examples
 - Caregiver Benefit Application (10-10cg)
-- MyVA 
+- My VA 
 
 #### Resources
 * [Product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
