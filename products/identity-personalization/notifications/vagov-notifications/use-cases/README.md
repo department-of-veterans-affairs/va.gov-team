@@ -22,8 +22,8 @@ For all use cases, the user must be LOA3 (identity verified). If the user is not
 
 ### System
 
-- Notifications fail (error on the backend) (link tk)
-- A user tries to dismiss a notification and the command fails (link tk)
+- Notifications fail (error on the backend)
+- [A user tries to dismiss a notification and the command fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-dismisses-notification.md#theres-an-error-when-user-tries-to-dismiss-a-notification)
 
 
 ## Flow diagrams
