@@ -55,7 +55,26 @@ As of 8/10/22:
 |Jill Adams |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
 |Ryan Koch    |Frontend engineer, Agile 6|
+|Steve Wirt	| Sitewide Program Team, Forms/Drupal subject matter expert, Civic Actions|
 
+## VA Forms Contacts
+__VA forms stakeholder working group includes:__
+
+### Forms managers
+|Name|Role re: Forms|
+|----|----|
+|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
+|Keyes, Janel <Janel.Keyes@va.gov>  | VHA Forms manager|
+|Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
+|Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
+
+#### Other forms related contacts of note
+|O'Donnell, Fran <frances.o'donnell@va.gov> | VHA Paperwork reduction act liaison to OMB |
+|Swearinger-Smith, Gail T. <Gail.SwearingerSmith@va.gov>|VHA forms admin|
+
+### Forms DB
+Forms DB is in maintenance mode.
+- Reid, Kevin <Kevin.Reid@va.gov> -- Owner
 
 ### Lighthouse API Team
 |Name|Role|
@@ -69,47 +88,23 @@ As of 8/10/22:
 |Name|Role|
 |----|----|
 |Marci McGuire	|Former Product Manager, iterations on Find a Form|
-|Steve Wirt	|CMS (Drupal)|
 |Ryan Thurlwell	|Design Lead, MVP|
 |Mark Greenburg	|VA APIs|
 |Charley Stran	|Formerly supported Forms on Lighthouse API team|
 
-Deactivated:
-|Name|Role|
-|----|----|
-|Zachary Morel	|Form FE Engineer, iterations on Find a Form|
-|Kelson Adams	|Former FE Engineer, MVP|
-|Cassandra Allen|Former Designer|
-|Brian Lloyd	|Former Product Manager|
-|Mickin Sahni	|Former Product Manager|
 
-## VA Forms Contacts
-__VA forms stakeholder working group includes:__
-
-### Forms managers
-|Name|Role re: Forms|
-|----|----|
-|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
-|Keyes, Janel <Janel.Keyes@va.gov>  | VHA Forms manager|
-|Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
-|Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
-|Swearinger-Smith, Gail T. (VACO)" <Gail.SwearingerSmith@va.gov>|VHA forms admin|
-
-
-### Forms DB
-Forms DB is in maintenance mode.
-- Reid, Kevin <Kevin.Reid@va.gov> -- Owner
-
-### Other folks
+### Other forms contacts
+This list was provided during 2022 Public Websites contract transition. Unclear what these folks' role with forms has been.
 - Huber, Diane <Diane.Huber@va.gov> - OIT / Development, Security & Operations
 - Walker, Stephen <Stephen.Walker4@va.gov> - OIT, IT Specialist
 - Ranes, Michelle M. <michelle.ranes@va.gov> - OIT, Senior IT Specialist/ Web Dev
-- McCarthy, Brian <Brian.McCarthy4@va.gov> (former VA point of contact during Find a VA Form MVP)
-- Smith, Jeremy <Jeremy.Smith@va.gov> - VHA Program analyst
 - Tuscher, Joshua <joshua.tuscher@va.gov> - OPIA Media technologist
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov> - 
 
-### Contacts by Business Line - last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>
+### Publications Control Officer (PCO)  Contacts by Business Line
+**last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>**
+
+Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the following list of contacts, per admin / program.
 
 ![contacts-by-business-line](https://user-images.githubusercontent.com/85581471/198370606-21419fd2-0d5c-47fd-a28c-e5ec605ccb98.png)
 
