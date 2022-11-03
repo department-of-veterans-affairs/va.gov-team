@@ -1,5 +1,5 @@
 # Onsite Notifications Use Cases
-**Last updated:** November 2, 2022
+**Last updated:** November 3, 2022
 
 For all use cases, the user must be LOA3 (identity verified). If the user is not LOA3, they will see a prompt to verify their identity and only be able to apply for benefits (see LOA1 documentation - link tk).
 
