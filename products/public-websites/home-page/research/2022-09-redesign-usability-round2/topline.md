@@ -38,7 +38,7 @@ We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family 
 
 ![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homep-pg-clicks-3-studies.png)
           
-6. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
+2. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
      1. 10 of 11 participants got stuck on some task(s) during the sessions.
      1. Only 5 of 11 participants ever tried using search. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header.
      1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
@@ -46,16 +46,17 @@ We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family 
 3. The **lowest task success rate was for the *Message your doctor* task**, and it was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task using MyHealtheVet. *SHOW SUCCESS & RATINGS summary*
      1. Three other tasks had low success rates: *Compare education benefits by school, Learn what else is new from the VA (news stories),* and *Add spouse (Review/update dependents)*.
      1. Below is the summary of all task success rates and participant ratings of ease: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
-5. Some participants didn't click on either of the promos. 
+4. Some participants didn't click on either of the promos. 
      1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it. We don't know why people didn't use it, but it may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
      2. Four participants didn't notice the *More VA News* link.
      3. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
-6. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status).
-7. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
+5. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status).
+1. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
 > *"Mimicking, waste of space, not to the point" (p2)*.
-8. Most participants (9 of 10) were able to successfully complete the "show you're a Veteran" task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
-9. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
+7. Most participants (9 of 10) were able to successfully complete the "show you're a Veteran" task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
+1. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
+> 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
 
 # PRELIMINARY Recommendations to consider for the Home Page Redesign
