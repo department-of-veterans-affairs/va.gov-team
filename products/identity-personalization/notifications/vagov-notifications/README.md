@@ -120,8 +120,9 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
 
-* If there is any notifications, that are not dismissed, we show the notifications.
-* If there are no notifications we do not show the section
+* If there are any notifications, that are not dismissed, we show the notifications.
+* If there are no notifications we do not show the section.
+* If there is an error on the backend preventing notifications from appearing, then we do not display the Notifications section on the page.
 * If there is an error when the user attempts to dismiss the notification, we show an error.
 
 ### If a user dismisses a notification
