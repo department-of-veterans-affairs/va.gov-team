@@ -20,7 +20,7 @@ This topline summary is a high level, top-of-mind summary of trends observed in 
 The purpose of this research was to **get user feedback on the *newly revised* version of the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We observed which areas of the home page were used and how well it supported Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks.
 
 # Participants
-We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family members of a Veteran** (some had multiple roles) and **1 service member**. **
+We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family members of a Veteran** (some had multiple roles) and **1 service member**.
 - 8 used a smartphone during the session (*vs.* 3 used a computer)
 - 4 were visually impaired but none used screen readers during the sessions
 - ALL had a VA.gov account
