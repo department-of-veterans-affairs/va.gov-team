@@ -5,6 +5,7 @@
 * [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#background)
 * [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#research-goals)
 * [Hypothesis & Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#hypothesis--conclusions)
+* [Quantitative Synthesis](
 * [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#findings)
 * [Prototype Feedback (Detailed Findings)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#prototype-feedback-detailed-findings)
 * [Recommendations & Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-findings.md#participant-demographics)
@@ -80,6 +81,24 @@ _¹1 participant did not go through the prototype_
     * **Definitely True:** Most participants were able to access the refill modal and go through the refill task without much assistance.
 * Veterans will be able to navigate the IA, understand the tab structure, and what items could be in the tabs
     * **Definitely True:** Most participants were able to access the tabs and understand what times would be on those tabs. 
+ 
+## Quantitative & Synthesis
+
+Quantitative synthesis was done on a few Rx tasks and on the prescription card information
+
+* Refill request: 
+    * 11 participants initially noticed the refill button; 3 had to be prompted to select the button
+    * 9¹ participants understood what would happen when selecting the button 
+    * 6² participants found the refill process favorable⁴
+* Tab navigation: 
+    * 8 participants initially noticed the tabs; 2 had to be prompted to navigate to a particular tab 
+    * 12 participants understood the purpose of the tabs; 10³ found the tabs useful
+* Landing page: 
+    * 3⁴ participants wanted a landing page
+    * 4 participants had difficulty navigating the screens
+    * 1¹ participant found the list overwhelming
+
+_¹1 unclear result not included; ²4 unclear results not included; ³2 unclear results not included; ⁴5 unclear results not included_ 
 
 ## Findings
 
