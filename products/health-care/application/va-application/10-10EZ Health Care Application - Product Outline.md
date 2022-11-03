@@ -143,32 +143,11 @@
 ## Screenshots
 
 ### Before
- <details>
-  <summary>How to apply</summary>
- 
-![How to Apply](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/How%20to%20Apply.png)
-</details>
 
- <details>
-  <summary>Start your application</summary>
- 
-![Start your application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Apply%20for%20heatlh%20care%20benefits.png)
-</details>
- 
- <details>
-  <summary>Subway map</summary>
- 
-![Subway map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Subway%20Map.png)
-</details>
- 
- <details>
-  <summary>Review page</summary>
- 
-![Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Review%20Page.png)
-</details>
  
 
 ### After
+[Sketch File of all screens](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/0C3B7020-8169-4FF2-AB5C-AF52BC4E34C2/canvas)
 
 ---
 
@@ -180,7 +159,7 @@
 - GitHub Label: #1010-team, 1010-ez
 - Slack channel: #1010-health-apps
 - Product POCs: Chris D, George C, Danielle T
-- Stakeholders: Lauren A, Dione D-L,/ Andrea S
+- Stakeholders: Lauren Alexanderson, Christopher Hawkins, Tarsha Tremble, Stacey Echols
 
 </details>
 
@@ -188,10 +167,10 @@
 
 <details>
  
- - DEPO Lead: Lauren Alexanderson, Patrick Bateman
+ - DEPO Lead: Lauren Alexanderson, Patrick Bateman, Katherine Lawyer
  - PM: Heather Justice, Mark Fallows
  - Engineering: Lisa Zapon, Lihan Li, Matt Long
- - Research/Design: Dené Gabaldón, Nick Osmanski
+ - Research/Design: Nick Osmanski, Jessica Stump
  
 </details>
 
@@ -200,7 +179,7 @@
 
 <details>
  
-- VHA, DEPO
-- Dione D-L,/ Andrea S
+- VHA, HEC
+Tarsha Tremble, Christopher Hawkins, Stacey Echols
  
 </details>
