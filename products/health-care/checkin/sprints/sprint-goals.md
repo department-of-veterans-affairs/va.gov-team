@@ -3,7 +3,7 @@
 ## 11/02/2022 - 11/15/2022    
 
 #### Planned Releases   
-- [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
+- RELEASED ON 11/2 [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)    
 - [Handoff as Kristen Transitions off the Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49136)
@@ -30,7 +30,7 @@
 #### Engineering Sprint Goals (IN ORDER OF IMPORTANCE)  
 - [Production Support]() 
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
-    - Fix bug & release 
+    - DONE Fix bug & release 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     -  Finish BE communication with BTSSS API
     -  Handle errors: claims exist, multiple appt, & general
