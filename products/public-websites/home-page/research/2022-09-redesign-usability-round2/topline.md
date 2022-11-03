@@ -36,7 +36,7 @@ We talked to **11 participants: 9 Veterans, 5 Caregivers of a Veteran, 5 family 
        
 ![home-pg-clicks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks.png)
 
-![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homep-pg-clicks-3-studies.png)
+![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks-3-studies.png)
           
 2. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
      1. 10 of 11 participants got stuck on some task(s) during the sessions.
