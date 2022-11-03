@@ -143,6 +143,7 @@ The Forms DB includes 2 dates that are migrated to Drupal:
 1. **Revision date** - date that is on the form itself in the lower left hand corner. Reflects the date when the form was created. 
     * A contractor makes changes/edits to the actual form, and they own updates to this date in the form.
     * Revision date is manually updated in the Forms DB.
+    * Veterans submitting a form using an old revision may be required to re-submit using the latest revision.
 2. **Issue date** - date that updated form is uploaded to the Form DB.
     * Will increment anytime the Revision Date increments
     * May also increment for background changes that do not change the Revision Date, such as updating Adobe certificates for the PDF. 
