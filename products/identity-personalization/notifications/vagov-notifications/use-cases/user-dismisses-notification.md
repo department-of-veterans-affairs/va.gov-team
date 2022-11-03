@@ -31,4 +31,4 @@
   - VA Notify can trigger a new debt notification for a staging user if needed. Contact them on the DSVA Slack in the `#va-notify-public` channel.
 - Log into staging.va.gov with credentials for a staging user who has a notification triggered.
 - Once you are logged in you will be redirected to My VA and should see a "Notifications" section at the top of the page with a dismissable notification below it.
-- Click or tap the close icon in the upper righthand corner and confirm that the notification disappears.
+- Click or tap the close icon in the upper righthand corner of the notification and confirm that the notification disappears.
