@@ -109,54 +109,37 @@ For moderated usability tests:
 
 ### Recruitment approach
 
-* USDS will partner with agencies and non-profit organizations to share the research opportunity with their communities (e.g. SSA, American Association for People with Disabilities)
-* Potential participants will express interest via a Survey Monkey sign-up sheet
-* USDS will partner with agencies and non-profit organizations to share the research opportunity with their communities (e.g. SSA, American Association for People with Disabilities)
-* Potential participants will express interest via a Survey Monkey sign-up sheet
-
-> ### Research Participant Consent Form
-> Thank you for your interest in our study! The Department of Veterans Affairs, Login.gov,and the U.S. Digital Service are conducting research on the public’s experience signing in to government websites through Login.gov. Login.gov is a government service that lets the public sign in to participating government agency websites with one username and password. Our research will help improve this service.
-> Below are details on what you can expect from a research session and how your data will be protected.
-
-> **The basics** 
-> * Your participation is completely voluntary.
-> * You may stop the session at any time.
-> * The session will take about 60 minutes.
-> * Your feedback will be kept confidential.
-> * We will take notes during the session.
-> * If you agree, we will record the session.
->    
->**What you can expect from a session**
+>The Department of Veterans Affairs and the U.S. Digital Service are conducting research on the public’s experience signing in to government websites through Login.gov.
+>
+>Login.gov is a government service that lets the public sign in to participating government agency websites with one username and password. Our research will help improve this service.
 >
 >During your research session, you will be asked to
-> * go through the full account creation process for Login.gov.
-> * share your screen with our researchers.
-> * enter data into an online form on a test website.
-> * enter your real information (name, address, social security number, and phone number) into the online form.
-> * upload your real state-issued photo ID (for example, a driver’s license). 
+>
+>* Go through the full account creation process for Login.gov.
+>* Share your screen with our researchers.
+>* Enter data into an online form on a test website.
+>* Enter your real information (name, address, social security number, and phone number) into the online form.
+>* Upload your real state-issued photo ID (for example, a driver’s license). 
+>
+>All personal information used in the session will be encrypted and only accessible by you.
+>
+>This feedback session will take about 1 hour. We'll ask you some questions and watch how you use the website. We'll also record your comments and actions using written notes, audio recordings, and screen recordings. If you don’t want us to record one of these things, you can say no. We won't use your name when we're presenting the results of this feedback session. We may use the recording in the future to help show others how to improve websites.
+>
+>You may quit the session at any time. If you need a break, just tell the moderator. If you have questions, go ahead and ask them whenever you like.
+>
+>**Consent**
+>
+>By initialing below and signing this form, I give my permission for the VA to use:
+>
+>*	Written notes of verbal statements (initial here ______)
+>
+>* Recorded voice (initial here ______)
+>
+>* 	Screen recording (initial here ______)
+>
+>I understand that I may quit the session at any time. If I need a break at any time, I will tell the moderator. I agree to ask questions about the session if I don't understand something. If I have questions after the session is over, I can contact [name] at [email]@va.gov.
 
->**How we are protecting your data**
-> * Personal information you enter on our test website is locked down. The information can only be accessed by you with your username and password.
-> * The session recording will only be available to our team of researchers.
-> * The session recording will be deleted once we have completed our research.
 
->Do you agree to participate in this research session as described above?
->
->[ ] Yes
->
->[ ] No
-
->Do you agree to allow this research session to be recorded?
->
->[ ] Yes
->
->[ ] No
-
->Full name________________________
->
->Signature___________________
->
->Date__________
 * We will take an iterative approach to the study and start by scheduling 12 participants.
 * From there, we will assess recruiting needs for the second half of the studies. (For
 example, it’s possible that we may have reached saturation of the common themes and problems)
@@ -164,15 +147,25 @@ example, it’s possible that we may have reached saturation of the common theme
 
 ### Recruitment criteria
 
+Fielding Questions:
+
+To recruit for participants who have never set up Multifactor Authentication (MFA)
+* Have you ever had to use your mobile phone or email address to recieve a code in order to sign in.
+    * (preferred answer is NO)
+
+To recruit for low vision/ no vision participants, who use screen readers:
+* Do you use a screen reader daily? 
+    * (preferred answer is YES)
+
 
 **Primary criteria (must-haves)**
 
 Our goal is to recruit a total of 24 participants in order to observe a wide range of experiences across users and agencies. We want to have a broad sampling of participants.
 
 
-* We are requesting a primary recruitment of 15 participants (30% more to account for no shows). 
-* With a 1-2day break in the study. 
-* We are then asking for a secondary recruitment of 15 participants (30% more to account for no shows). 
+* We are requesting a primary recruitment of 15 participants who are Veterans (30% more to account for no shows). 
+* With a week break in the study. 
+* We are then asking for a secondary recruitment of 15 participants who are Veterans (30% more to account for no shows). 
 
 
 Below are the demographic breakdowns we are aiming for:
@@ -225,9 +218,13 @@ Pilot sessions have already been conducted by Login.gov:
     * Pilot 3: 10/17 @ 10:45 AM ET
 
 ### Research sessions
-* The team is asking for a 1 - 2 day pause in between the first 12 participants and the second segment of 12 participants. We will come back at the end of day 2 with updated demographic asks based on learnings from the first 12 sessions. 
+* The team is asking for a week pause in between the first 12 participants and the second segment of 12 participants. We will come back with updated demographic asks based on learnings from the first 12 sessions. 
 * The study will resume after secondary recruitment, we the standard 5 business days that Perigean needs for recruitment effort. 
-* Planned dates of research: Oct 31st- Nov 10th
+* Planned dates of research: 
+	* First round of researh: Nov 10th- Nov 18th
+	* Break in reasearch- No sessions, **the week of Nov 21st** is set aside for recruitment
+	* Second round of research: Nov 30th- Dec 9th
+	
 
 
 ### Length of sessions
@@ -239,19 +236,27 @@ Pilot sessions have already been conducted by Login.gov:
 
 ### Availability
 
-Nov 7th- Nov 18th
+First round of researh: Nov 10th- Nov 18th
 
+* Thursday, November 10th: 9am - 4pm ET
+* Monday, November 14th: 9:30am - 4pm ET
+* Tuesday, November 15th: 9:30am - 4pm ET
+* Wednesday, November 16th: 9:30am - 4pm ET
+* Thursday, November 17th: 9:30am - 4pm ET
+* Friday, November 18th: 9:30am - 4pm ET
 
-* Monday, November 7: 9am - 4pm ET
-* Tuesday, November 8: 9am - 4pm ET
-* Wednesday, November 9: 9am - 4pm ET
-* Thursday, November 10: 9am - 4pm ET
-* Monday, November 14: 9:30am - 4pm ET
-* Tuesday, November 15: 9:30am - 4pm ET
-* Wednesday, November 16: 9:30am - 4pm ET
-* Thursday, November 17: 9:30am - 4pm ET
-* Friday, November 18: 9:30am - 4pm ET
-   
+Break in reasearch- No sessions, **the week of Nov 21st** is set aside for recruitment 
+
+Second round of research: Nov 30th- Dec 9th
+
+* Wednesday, November 30th: 9:30am - 4pm ET
+* Thursday, December 1st: 9:30am - 4pm ET
+* Friday, December 2nd: 9:30am - 4pm ET
+* Monday, December 5th: 9:30am - 4pm ET
+* Tuesday, December 6ht: 9:30am - 4pm ET
+* Wednesday, December 7th: 9:30am - 4pm ET
+* Thursday, December 8th: 9:30am - 4pm ET
+* Friday, December 9th: 9:30am - 4pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
