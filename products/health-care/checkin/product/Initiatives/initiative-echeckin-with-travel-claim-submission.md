@@ -1,144 +1,65 @@
 # Initiative Brief - eCheck-in with Travel Claim Submission
-#### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+## Overview
+In June 2022, the Beneficiary Travel Reimbursement Path Analysis Team completed a review of the VA general health care travel reimbursement program, which included recommendations on improvements the Veteran experience. One of those recommendations was to integrate travel reimbursement into the patient check-in ecosystem. The Modernized Check-in team conducted a Veteran research study to ask the following questions:
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
+- Do Veterans prefer to be asked if theyʼre interested in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility within PCI?
+- Is it confusing to check in for an appointment and submit a travel reimbursement claim at the same time?
+- Does knowing that VA checks travel reimbursement and claim eligibility after a claim has been submitted deter Veterans from filing a travel reimbursement claim?
+- What is the cognitive load required for Veterans when they review and confirm their travel reimbursement claim eligibility?
+- How well or not so well do Veterans understand the status of their submitted claim or how to file a claim later on the PCI applicationʼs confirmation page? 
 
+Findings from the research study led then team to design a workflow where a Veteran, when using eCheck-in to check-in for an in-person VA health appointment, and after confirming their personal, emergency, and next-of-kin contact information, will be asked if they would like to file a Travel Reimbursement claim. If they choose to file, the Veteran will be asked if they meet the criteria necessary to file a claim through eCheck-in:
+ - Question 1: Did you travel in your own vehicle?
+ - Question 2: Did you travel from your home address?
+ - Question 3: Are you claiming only mileage for your trip?
+
+If all criteria is met, a claim will be submitted to the BTSSS API when the Veteran completes the check-in process for their appointment.
+ 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+Veterans will have an easy way to submit a mileage-only travel reimbursement claim.
 
-**Related/Associated product(s)**
-- Product | Link to product outline 
+## Related Product
+- [Patient Check-in: eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+Veterans find it difficult to submit a travel reimbursement claim and often wait in long lines at the Travel Office.
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans have an easy way to submit a mileage-only travel reimbursement claim.
+- Wait times at Travel Offices are reduced 
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Veterans are unable to use the feature
+- Veterans are more frustrated with the eCheck-in process
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- Wait times at Travel Offices are reduced 
+- There are less claims to manually enter into BTSSS
 
 ## Undesired Business Outcomes
--->
+- Travel Offices are overwhelmed by the number of claims filed
 
----
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
-
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
----
-
-## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
-
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
-
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
-
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
---- 
+- Favorable VSignals feedback from Veterans who use eCheck-in
 
 ## Launch Planning
+
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43074)
 
-- Kickoff ticket
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-
----
+### Initiative Launch Dates
+- December 2022
    
 ## Screenshots
 
 ### Before
+[Wireframes](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C)
 
 ### After
-
----
-
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
+[Wireframes](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/3c784fa2-f86a-42b7-b1e4-f0fd5f3c1aa3/commits/005790a0202eed0e984eb6e87c8d183d090d945f/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=3e7034be-0a0a-4895-8cf2-246a3d3ecb52&collectionLayerId=11842933-81f3-4651-86c5-220d77e2c649&present=true&preview=false&sha=005790a0202eed0e984eb6e87c8d183d090d945f)
 
 
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
