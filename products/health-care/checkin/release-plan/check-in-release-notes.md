@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 11/03/2022
+- Changed the content of the "Go to another appointment" link in eCheck-in to say "Back to today's appointments" to be clearer to Veterans
+    - [Ticket 47443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47443)
+
 ### 11/02/2022
 - Tagalog Language Support - New feauture to allow Veterans to view eCheck-in and Pre-Check-in page content translated to Tagalog 
     - [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)
