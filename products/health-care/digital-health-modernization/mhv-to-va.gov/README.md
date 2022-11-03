@@ -19,5 +19,5 @@ The MHV to VA.gov Initiative consists of several different products, each with t
 - Newsletter - Core Team
 
 # Planning and Resources
-- [Roadmap 2022-2024]([https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654267191658/a7ae924cbc7804fc93e4a71660f43ac45845c330?sender=u71ad98f94f5263595f9a4390](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap))
+- [Roadmap 2022-2024](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
 
