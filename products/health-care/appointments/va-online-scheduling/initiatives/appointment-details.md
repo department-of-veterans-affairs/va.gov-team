@@ -16,8 +16,8 @@ A user can view their appointments details (upcoming, pending, canceled or past)
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - Majority of the Veterans use the MyHealtheVet appointment list to help manage and understand their appointments and as more Veterans move to VAOS to do the     same tasks, they may see a discrency between to the two lists. 
-  - The user may be confused with viewing their appointment list in two separate applications and having to do two separate logins. 
+  - Majority of the Veterans use the MyHealtheVet appointment details to help manage and understand their appointments and as more Veterans move to VAOS to do the     same tasks, they may see a discrency between to the two details. 
+  - The user may be confused with viewing their appointment details in two separate applications and having to do two separate logins. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
   - Current functionality
   - Anecdotal feedback from stakeholders and Veterans
@@ -41,12 +41,12 @@ A user can view their appointments details (upcoming, pending, canceled or past)
 </details>
 
 ## Desired Outcomes
-- Provide clear information that answers basic questions about appointments in the list
+- Provide clear information that answers basic questions about appointments in the details view
 - Seamless navigation experience from MHV (MyHealtheVet) to VAOS
 - Veterans are able to find all the same appointment information in VAOS as currently available in MHV
 
 ## Undesired Outcomes
-- A user does not have clear information about their appointment details in the list 
+- A user does not have clear information about their appointment details
 
 ## Key Decisions
 - It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application
@@ -118,9 +118,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-1. Provide clear and value information in the appointment list
-2. Facility location 
-3. TBD - "Appointment List Improvement" requests
+1. Provide clear and value information in the appointment details
 
 ### Solution Summary
 - Date and time change only
@@ -170,13 +168,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Before
 
-Current State: 
-
-<img width="592" alt="Screen Shot 2022-05-05 at 8 01 54 AM" src="https://user-images.githubusercontent.com/90797205/166919184-d6aa9850-f205-4542-b78c-b28836dd24e8.png">
-
-Future State (Post v2 Launch): 
-
-<img width="638" alt="Screen Shot 2022-05-05 at 7 58 13 AM" src="https://user-images.githubusercontent.com/90797205/166919230-c2640d26-5b42-44b1-81d0-361842eb8e4d.png">
+<img width="556" alt="Screen Shot 2022-11-03 at 6 44 53 PM" src="https://user-images.githubusercontent.com/90797205/199849342-f54f1729-a4a0-474f-a2fd-a63af6493898.png">
 
 
 ### After
@@ -201,7 +193,7 @@ Future State (Post v2 Launch):
 
 <details>
  
-- DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
+- DEPO Lead: [Katherine Lawyer](https://dsva.slack.com/team/UU7T6EKTK9)
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 - Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
 - Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
@@ -215,7 +207,7 @@ Future State (Post v2 Launch):
 <details>
   
 - Office/Department:
-- Contact(s): Kay Lawyer (OCC)
+- Contact(s):
  
 </details>
 
