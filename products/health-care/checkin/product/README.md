@@ -67,7 +67,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 ## Initiatives
 
-#### Check-in MVP
+#### [Check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
 - Purpose: Allow Veterans to check in to their appointment on the day of their appointment so that staff members are notified of their arrival
 - Functionality:
@@ -77,7 +77,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran selects the appointment for which they want to check in and checks-in
      - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
 
-#### Pre-check-in MVP
+#### [Pre-check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
 - Purpose: Allow Veterans to confirm their Contact, Emergency Contact, and Next-of-kin information up to 7 days prior to their appointment so that staff know whether their information has changed and whether they will need to check them in face-to-face
 - Functionality:
@@ -95,7 +95,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Released on 11/2/2022
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
-#### Travel Reimbursement
+#### [Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
 - Status: In development
 - Purpose: Allow Veterans to submit a travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the Beneficiary Travel Self Service System (BTSSS) or through a travel office.
 - Functionality:
