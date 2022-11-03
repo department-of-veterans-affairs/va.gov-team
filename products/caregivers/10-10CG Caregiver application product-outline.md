@@ -111,6 +111,13 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 ### New OKRs from 2022 Workshop
 #### Objective 1: Increase in number of VA-recognized Caregivers
 - Key result 1: Increase the number of successful online applications to the PCAFC
+   - As of 9/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted
+
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|
+|-------|----|----|----|----|----|----|
+|10-10 CG	|65.83%	|66.01%	|70.23%	|67.06%	|67.88%	|72.64%|
+
+
 - Key result 2: Increase % of caregivers who obtain approval for benefits
 
 #### Objective 2: Decrease time from submission to decision
