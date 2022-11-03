@@ -13,7 +13,7 @@ assignees: heyjoni
     - [ ] NEW: You would like to create a new best bet
     - [ ] CHANGE: You would like to change an existing best bet
 - Complete the corresponding section below to provide the relevant details  *(Section 1- New Request or Section 2-Change Request)*
-- Post a link to this issue in Slack Channel #va-search with tag for  @denisecoveyduc  and @John Hashimoto
+- Post a link to this issue in Slack Channel #va-search with tag for  @Joni Chan
 
 # Section 1: New Request
 
