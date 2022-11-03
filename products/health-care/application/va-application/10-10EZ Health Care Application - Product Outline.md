@@ -133,6 +133,7 @@
 
 
 ### Key Decisions
+- Reference the ["Things to know" document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) for various notes that we collected and documented
 - American Indian question
    - The decision to phrase the Indian health question, by listing the qualifications/definitions of "Indian", was made due to the HEC Leadership stakeholders questioning our decision to phrase the question initially as "Are you an American Indian or Alaska Native?" rather than match the paper form verbiage "Are you an Indian?".  Our initial Online language had been approved in late 2021, however once we were ready to release in August 2022, the language format came up again.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from August and September 2022
 - Self-Identifying Gender Identity (SIGI)
