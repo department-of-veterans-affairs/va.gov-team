@@ -105,49 +105,38 @@
 - As of 01/2022, we're going to focus on:
    - Creating dashboards in Datadog
    - Implementing Short-form Ph 1
+- As of 9/2022, we're going to focus on:
+   - Improving the flow and burden of completing the Household section of the form
+
+
+
 
 --- 
 
 ## Go-to-market Strategy
 - Coordinating with other VA outreach initiatives 
 - Support from VAMCs
-- [Coming soon: Link to Release Plan](#go-to-market-strategy)
+
 
 ## Launch Dates
-- *Initial Launch Date*
-  - April 2022
-- *Actual Launch Date* 
-  - Coming soon
-- *What date will you evaluate impact after launch?*
-  - July 2022
+10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
 ---
 
 ## Solution Narrative
 
 ### Current Status
 
-- As of 05/2022, we are
-   - Still testing Short Form with plans to launch first to Veterans with 50% or higher disability rating (authenticated)
-   - Adding in-progress app reminders to authenticated applicants via VA Notify
-   - Designing for Medicare Claim number field
-   - Researching Household section redesigns
-
-- As of 01/2022, we're going to focus on
-   - Updating "sign as legal rep" section
-   - Creating Datadog dashboards
-   - Launching Ph Short-form for Veterans with 50% or higher disability rating (auth and non-auth)
-
-- As of 10/2020, we're going to focus on:
-   - Understanding what Veteran pain points are with the current applicaiton process (research and discovery)
-   - Updating the UI to meet VA.gov design & accessibility standards
-   - Adding a question distinguishing between mailing & residential addressses
-   - Updating any content around the health care application pages that may be a source of confusion
-   - Updating the questions on the online form to align with the new 10-10EZ
-
+- As of 11/2022, we are
+   - Monitoring the recent 100% launch of the Short Form, resulting in a trending 25-30% application submission being through the Short Form flow, and a 99% submission rate of total Short Form applications.
+   - Monitoring the recent 100% launch of in-progress application email reminders to authenticated applicants via VA Notify
+   - Preparing for moderated research sessions on the Household section optimization design
 
 
 ### Key Decisions
-
+- American Indian question
+   - The decision to phrase the Indian health question, by listing the qualifications/definitions of "Indian", was made due to the HEC Leadership stakeholders questioning our decision to phrase the question initially as "Are you an American Indian or Alaska Native?" rather than match the paper form verbiage "Are you an Indian?".  Our initial Online language had been approved in late 2021, however once we were ready to release in August 2022, the language format came up again.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from August and September 2022
+- Self-Identifying Gender Identity (SIGI)
+   - The decision to use the terms on this feature to identify various Gender types was made based on extensive research on this topic in 2021, aligning with the current format in the VA.gov Profile, and using plain language to reflect a comfortable, conversational format.  The HEC Leadership stakeholders have questioned the use of the terms on the Online form being different from the paper form (Man vs Male, Woman vs Female, etc), and have submitted to CICPO (Compliance integrity) for review.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from October and November 2022
 ---
    
 ## Screenshots
