@@ -1,7 +1,7 @@
 # Initiative Brief - Appointment Details Improvements
 ## Overview
 
-Looking to improve the user experience in VAOS by updating the appointment details page to help the veterans view their appointments information. 
+Looking to improve the user experience in VAOS by updating the appointment details page to help the veterans view their appointment information. 
 The goal is to have the Veteran easily read their healthcare appointments online. 
 
  
@@ -16,7 +16,7 @@ A user can view their appointments details (upcoming, pending, canceled or past)
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - Majority of the Veterans use the MyHealtheVet appointment details to help manage and understand their appointments and as more Veterans move to VAOS to do the     same tasks, they may see a discrency between to the two details. 
+  - Majority of the Veterans use the MyHealtheVet appointment details to help manage and understand their appointments and as more Veterans move to VAOS to do the same tasks, they may see a discrency between to the two details. 
   - The user may be confused with viewing their appointment details in two separate applications and having to do two separate logins. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
   - Current functionality
@@ -58,8 +58,8 @@ A user can view their appointments details (upcoming, pending, canceled or past)
 - Success will be measured by the increased number of veterans using VAOS instead of MHV
 - Will look at these specific measurements:
   - Number of unique users of VAOS
-  - Number of pageviews of appointment list page
-  - No increase in average response time of appointment list page
+  - Number of pageviews of appointment details page
+  - No increase in average response time of appointment details page
   - Decrease in the number of errors when fetching appointment data (desired)
 
 ### Key Performance Indicators (KPIs)
@@ -134,8 +134,8 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-1. Launch of the updated appointment list view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
-* Re-launch and new appointment list will be marketed through veteran focused electronic newsletters, especially those related to health care.
+1. Launch of the updated appointment details view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
+* Re-launch and new appointment details will be marketed through veteran focused electronic newsletters, especially those related to health care.
 * Specific newsletters need to be identified and timelines for publication coordinated with launch plans
 
 2. VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
