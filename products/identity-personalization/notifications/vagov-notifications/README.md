@@ -141,3 +141,5 @@ When a user dismisses a notification, we send a PATCH request to the api `/v0/on
 ![My VA 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
 ### After
+
+![My VA desktop inline notifications](https://user-images.githubusercontent.com/97965610/199740911-2331edf4-2e37-4081-a0fb-2a82817e75f7.jpg)
