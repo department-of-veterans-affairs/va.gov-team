@@ -12,7 +12,8 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Create final wireframes for claim exists & multiple appts errors
     - Talk to Dayton HAS & Travel Office about release plan and research visit
-    - Meet w/ S/P/M & Shawn about MVP
+    - DONE Meet w/ S/P/M & Shawn about MVP
+    - Add GA events
 - [Simplified Header/Footer with Progress Bar](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
     - Schedule design review
     - Update header wireframes to include app name in header
@@ -34,7 +35,6 @@
     -  Finish BE communication with BTSSS API
     -  Handle errors: claims exist, multiple appt, & general
     -  Add lookup for enabled facilities or clinics (TBD)
-    -  Add GA events
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
     - SPIKE
 - CIE Analytics
