@@ -1,10 +1,12 @@
-# My Health*e*Vet to VA.gov Program Outline
-The MHV to VA.gov Program consists of several different projects, each with their own discrete product outlines:
+# My Health*e*Vet to VA.gov Initiative Outline
+The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
   - [Health Apartment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) - working name for the area of VA.gov that will ultimately house the tools being incorporated from MyHealth*e*Vet.
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
   - Pharmacy
   - Newsletter
+  - Community Care
+  - Appointments
 
 # GitHub Project boards
 - [Top Level View (all MHV to VA.gov teams)](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
