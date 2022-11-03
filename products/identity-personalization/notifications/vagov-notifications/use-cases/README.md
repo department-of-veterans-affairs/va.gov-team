@@ -13,7 +13,7 @@ For all use cases, the user must be LOA3 (identity verified). If the user is not
 
 - [User dismisses notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-dismisses-notification.md)
 - [User clicks or taps link in notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-clicks-link-in-notification.md)
-- [User has multiple notifications]
+- [User has multiple notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-has-multiple-notifications.md)
 
 ## Edge Cases
 
