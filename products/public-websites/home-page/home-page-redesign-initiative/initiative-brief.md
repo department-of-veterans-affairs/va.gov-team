@@ -253,13 +253,16 @@ This design was validated with usability testing in August 2022 and findings inf
 ---
 ## Cutover determination (WIP)
 
-The following context and risks are associated with this data and should be considered when determining cutover readiness
-- Feedback and analytics will be gathered based on user self-selection, which inherently has bias. This bias is consistent with feedback collection across VA.gov making the comparison of results with the existing homepage still valid. 
-- Veterans and beneficiaries who arrive on VA.gov on a page other than the homepage will not be presented with the option to experience the new homepage and thus will not be represented in this data.
-  - This may mean that much of the feedback and analytics collected on the homepage represent primarily new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
-- Veterans arriving on the homepage with a specific task in mind may be less inclined to view the new homepage during that visit.  
+**Definitions**
 
-|	Metric	| Rationale | Measured by*	| Completion rate^ - 	Baseline 	|	Completion rate - 1 month post  | Completion rate - 3 months post |
+- Completion rate: To account for all possible navigation paths from the homepage, completion begins with the homepage and includes  any required interstitial destination page(s) and logging in (if necessary), without regard for where the particular area of the homepage the task was initiated. 
+- Target: does not include the anticipated initial drop in completion rates due to change in UX
+- Level of importance
+  - (1) Critical -  showstopper for cutover 
+  - (2) Important - not a dealbreaker, deficits to be considered a high priority to address in next iteration   
+  - (3) Watchful waiting 
+
+|	Metric	| Rationale | Measured by	| Baseline (Completion rate on existing homepage) 	|	Target  | Importance   |
 |	---	|	---	|	---	|	--- |--- |---	|
 | Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | | |
 |	Use of authenticated experience should be maintained or increased	| One of the primary goals | # of logged in users/month	|		|	 | |
@@ -274,9 +277,11 @@ The following context and risks are associated with this data and should be cons
 |	User engagement - promo content #3 | Maintained or increased 	|	Click through rate to all VA News	|		|	 | |	
 |	Satisfaction score | new homepage satisfaction scores are equivalent or better than existing page			|	 | |
 
-*_Will accept initial drop in completion rates due to UX but should recover and be stabilized or improved within 3 months_
-
-^_In order to account for all possible navigation paths from the homepage, the definition of the completion rate will not include the specific events on the body of the homepage but will include a funnel initiated from the homepage, viewing any required interstitial destination pages and logging in, if necessary._
+The following context and risks are associated with this data and should be considered when determining cutover readiness
+- Feedback and analytics will be gathered based on user self-selection, which inherently has bias. This bias is consistent with feedback collection across VA.gov making the comparison of results with the existing homepage still valid. 
+- Veterans and beneficiaries who arrive on VA.gov on a page other than the homepage will not be presented with the option to experience the new homepage and thus will not be represented in this data.
+  - This may mean that much of the feedback and analytics collected on the homepage represent primarily new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
+- Veterans arriving on the homepage with a specific task in mind may be less inclined to view the new homepage during that visit.
 
 ## Screenshots
 
