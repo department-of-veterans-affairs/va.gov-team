@@ -29,14 +29,14 @@ Date
 
 Status
 
-View details (link)
+Review details (link)
 
 **Content specs**
 
 - Title: (Type of claim) received (date) - pulled from the claim details link. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
 - Date: Latest update date, also pulled from the claim details link above 
 - Status: Most recent completed status step in the "Status" table of the claim details link above
-- View details: Links to the claim details which is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
+- Review details: Links to the claim details which is in the following format and the ###### is the claim number. https://va.gov/track-claims/your-claims/########/status
 
 ---
 
