@@ -258,8 +258,8 @@ This design was validated with usability testing in August 2022 and findings inf
 - Completion rate: To account for all possible navigation paths from the homepage, completion begins with the homepage and includes  any required interstitial destination page(s) and logging in (if necessary), without regard for where the particular area of the homepage the task was initiated. 
 - Target: does not include the anticipated initial drop in completion rates due to change in UX
 - Level of importance
-  - (1) Critical -  showstopper for cutover 
-  - (2) Important - not a dealbreaker, deficits to be considered a high priority to address in next iteration   
+  - (1) Critical, showstopper for cutover 
+  - (2) Important but not a dealbreaker, deficits may considered a high priority to address in the next iteration   
   - (3) Watchful waiting 
 
 |	Metric	| Rationale | Measured by	| Baseline (Completion rate on existing homepage) 	|	Target  | Importance   |
