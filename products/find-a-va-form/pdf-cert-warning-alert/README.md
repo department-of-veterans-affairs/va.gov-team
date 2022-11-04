@@ -95,7 +95,7 @@ We're using Informational Alerts from the design system component `<va-alert>`.
 
 ---
    
-## Screenshots
+## Mock-ups
 
 ### FaF Search Page
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/4054752/199585851-88dc2b79-bf4f-4fba-8051-2f92682285a1.png">
