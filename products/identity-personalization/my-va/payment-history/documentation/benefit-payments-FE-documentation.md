@@ -1,5 +1,5 @@
 # Benefit Payments Frontend Documentation
-Last updated: October 26, 2022
+Last updated: November 4, 2022
 
 ## When to show the ‘Benefit payments’ section
 We show this section for every LOA3 user.
