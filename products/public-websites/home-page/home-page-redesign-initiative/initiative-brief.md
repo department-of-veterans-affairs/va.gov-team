@@ -28,6 +28,8 @@
 
 - [Timeline](#timeline) 
 
+[Cutover determination](#cutover-determination)
+
 [Screenshots](#screenshots)
 
 ## Overview
@@ -249,7 +251,28 @@ This design was validated with usability testing in August 2022 and findings inf
 | October 2022 | Drupalization of homepage content
 
 ---
-   
+## Cutover determination
+(WIP)
+Assumes x % of visitors to VA.gov choose to view the new homepage
+
+|	Metric	| Rationale | Measured by*	| Completion rate^ - 	Baseline 	|	Completion rate - 1 month post  | Completion rate - 3 months post |
+|	---	|	---	|	---	|	--- |--- |---	|
+|	Use of authenticated experience should be maintained or increased	| One of the primary goals | # of logged in users/month	|		|	 | |
+|	"Download your benefit letters" task completion | Secondary top task with high utilization from current homepage and explicit link no longer available | Traffic to defined pages/funnel completion initiated from homepage 	|		|	 | |
+|	"Refill or track a prescription" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to defined pages/funnel completion initiated from homepage	|		|	 | |
+|"Apply for education benefits" task completion | Secondary top task with high utilization from current homepage and explicit link replaced with popular link "VA education benefits"  | Traffic to defined pages/funnel completion initiated from homepage 	|		|	 | |
+|"File for disability compensation (service-related)" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "Disability compensation"  | Traffic to defined pages/funnel completion initiated from homepage	|		|	 | |
+|"Schedule or manage health appointments" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care"  | Traffic to defined pages/funnel completion initiated from homepage 	|		|	 | |
+|	"Message your doctor or get a health care message" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to defined pages/funnel completion initiated from homepage 	|		|	 | |
+|	User engagement - promo content #1 | Maintained or increased	|	Click through rate for benefit promo story |		|	 | |		
+|	User engagement - promo content #2 | Maintained or increased 	|	Click through rate for news story	|		|	 | |	
+|	User engagement - promo content #3 | Maintained or increased 	|	Click through rate to all VA News	|		|	 | |	
+|	Satisfaction score | new homepage satisfaction scores are equivalent or better than existing page			|	 | |
+
+*_Will accept initial drop in completion rates due to UX but should recover and be stabilized or improved within 3 months_
+
+^_In order to account for all possible navigation paths from the homepage, the definition of the completion rate will not include the specific events on the body of the homepage but will include a funnel initiated from the homepage, viewing any required interstitial destination pages and logging in, if necessary._
+
 ## Screenshots
 
 ### Before (Current)
