@@ -14,8 +14,21 @@
 
 </details>
 
-## Monday, October 31, 2022 :jack_o_lantern:
+
+## Monday, November 7, 2022 
+* v1 status check
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+* Issue around mismatch map data https://va-gov.atlassian.net/browse/VAHELP-5039
+    * https://www.va.gov/des-moines-vet-center/
+
+    * Directions (Google Maps)
+    `https://maps.google.com/?saddr=Current+Location&daddr=1821%2022nd%20Street,%20West%20Des%20Moines,%2050266`
+    
+    * Map immage
+    `https://maps.google.com/?saddr=Current+Location&daddr=1821%2022nd%20Street,%20Suite%20115,%20West%20Des%20Moines,%20IA%2050266`
+
+## Monday, October 31, 2022 :jack_o_lantern:
+_NO MEETING _
 
 
 ## Monday, October 24, 2022
