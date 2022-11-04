@@ -15,6 +15,8 @@ The filtering code itself has some shortcomings as well, such as poor handling o
 
 We would like to give the mobile client the ability to filter by any attributes on the model without adding explicit handling within the model. We only want to allow filtering on top-level attributes. In other words, if a client wants to filter appointments based on location street address, that would not be allowed because location street address is not top-level.
 
+Because we don't want to whitelist valid operations per attribute on the model, it's possible that some queries will not be possible or will not yield desireable results. For example, requests for equality on a hash object would not make sense because we do not intend to allow such complex operations. Such a request should result in a 422 response. The filters will need robust error handling and logging for cases that either don't make sense or yield errors.
+
 ## Considerations
 
 ### How to Transmit Filter Options
@@ -25,15 +27,15 @@ We would like to give the mobile client the ability to filter by any attributes 
 ##### Pros
   - This is how the existing filtering works, allowing for backwards compatibility.
   - No versioning of endpoints required.
+  - We know it works and doesn't yield any big surprises.
   - Vets-api currently implementation of this uses query params so some logic could be borrowed from this.
   - Sticks with convention of other mobile endpoints.
 ##### Cons
   - Longer, hard to read urls for requests with multiple filter parameters.
-  - Cannot easily support complex filtering requirements.
-    - Filtering by non-primitive data types (hashes, arrays, etc) would require work arounds to support.
-    - Complex AND/OR filter groups could not be represented in query parameters. EX: ((Exp1 AND Exp2) OR (Exp3 OR Exp4) )
+  - Cannot easily support complex filtering requirements. Some operations could be created for more complex data types, such as arrays and hashes, but even simple equality operators would become problematically complex for non-primitive data types.
+
 ##### Overview
-The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con.
+The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it to become a requirement for these endpoints in the future. Harder to read URLs is not a significant concern. Long and complex urls are widely used in the modern web and will not be visible to mobile users.
 
 #### GET with Payload Body
 ##### Pros
