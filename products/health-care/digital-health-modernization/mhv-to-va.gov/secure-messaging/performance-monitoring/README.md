@@ -16,7 +16,14 @@ The information in this document is based on guidance in the [VA Platform Produc
 - Research and decide what tools and data is available for measuring
    - Google Analytics - determine transactions that are available or could be available
    - Domo - for dashboard view of analytics
-   - VSSC - VHA-led reporting tool 
+   - VSSC - VHA-led reporting tool mostly based on data in CDW that comes from VistA.  Health Tools team has had success in working with this group to get reports built to help track real-time use and type of use for a product.
+   
+### User satisfation based on user feedback
+- Review feedback scores and comments monthly or quarterly (suggest monthly as it can be a lot)
+- Look for trends or categories of feedback that an be captured, prioritized, and tracked
+- Sometimes you may notice an unidentified bug or something that isn't working as intended
+- Translate feedback into action items as we are able to
+
 ### Additional metrics desired
 
 
