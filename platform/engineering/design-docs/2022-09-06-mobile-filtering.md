@@ -22,12 +22,14 @@ Because we don't want to whitelist valid operations per attribute on the model, 
 ### Query Params
 #### Example
 ```/v0/health/rx/prescriptions?filter[refill_status][eq]=refillinprocess```
+
 #### Pros
   - This is how the existing filtering works, allowing for backwards compatibility.
   - No versioning of endpoints required.
   - We know it works and doesn't yield any big surprises.
   - Vets-api currently implementation of this uses query params so some logic could be borrowed from this.
   - Sticks with convention of other mobile endpoints.
+
 #### Cons
   - Longer, hard to read urls for requests with multiple filter parameters.
   - Cannot easily support complex filtering requirements. Some operations could be created for more complex data types, such as arrays and hashes, but even simple equality operators would become problematically complex for non-primitive data types.
@@ -37,7 +39,7 @@ The support of complex filtering requirements listed in the cons is not a requir
 
 ### GET with Payload Body
 #### Pros
-  - Allows for the most robust filtering logic
+  - Allows for more robust filtering logic
   - Keeps the url parameters from getting too long and hard to read
   - Backwards compatible.
   - No versioning of endpoints required.
@@ -50,7 +52,7 @@ Breaking REST/HTTP spec is too dangerous and may have too many unintended consqu
 
 ### POST with Payload
 #### Pros
-  - Allows for the most robust filtering logic
+  - Allows for more robust filtering logic
   - Keeps the url parameters from getting too long and hard to read
 
 #### Cons
@@ -93,19 +95,19 @@ While it does not allow for the most robust filtering functionality, the extra w
 
 ### Model Collection Mixin
 #### Pros
-  - Makes more sense than a model mixin because our queries return collections, so it makes more sense to filter on the collection than the model.
+  - Makes more sense than a model mixin because our queries return collections, so filtering actually happens on the collection, not the model.
 
 #### Cons
   - The current filtering is written into the collection code. It would be awkard to have two filtering processes in collection.
-
 
 #### Conclusion
 We recommend implementing filtering as a library.
 
 We do not foresee implementing model specific behavior as functionality that would ever be needed. For example, whitelisting which fields and operators on a model can be filtered on (like how vets-api current filtering works) would be unncessary and FE can be relied upon to know which fields should and should not be filtered.
 
+## Other Concerns
 
-## Which Filter Operations Do We Want to Support?
+### Which Filter Operations Do We Want to Support?
 
 The current filter system supports these operations:
 - eq : matches the value exactly (case sensitive)
@@ -115,23 +117,27 @@ The current filter system supports these operations:
 - gteq : greater than or equal to the value
 
 We can easily build those out and more. For example, we could add:
-- one_of: this is a feature that was requested from the front end team. We changed the current filtering to allow it with some inherent limitations.
-- includes: this could be used for array inclusion
-- attribute_match: this could be used for matching against attributes in hashes.
+- one_of : this is a feature that was requested from the front end team. We changed the current filtering to allow it with some inherent limitations.
+- includes : this could be used for array inclusion
+- attribute_match : this could be used for matching against attributes in hashes.
 
-## Pagination
+### Pagination
 
 Our pagination strategy adds params to the page navigation links to enable the client simply use the pagination links (i.e., next, previous, first, last) to consistently navigate through the a collection of records. It requires that the params be "validated" via a contract, which ensures that params are allowed and of the correct data type. In order for this to continue working correctly, we will need to make some changes to the pagination code to include these non-whitelisted filters.
 
-## Security
+### Security
 
 While we want to allow highly flexible, client driven searching without whitelisting attributes or operations, it's also critical that anything we add does not introduce an attack vector. One of the primary reasons that the existing filtering code requires whitelisting is probably that it relies on metaprogramming. Whitelisting protects against any security concerns introduced by that.
 
 However, no metapgramming is needed because our models list which attributes they contain as well as their data types. As a result, we can easily determine whether a model has an attribute and whether an operation makes sense for it. We expect no security concerns.
 
-## Error Handling
+### Error Handling
 
 Because we don't want to whitelist attributes and their appropriate operations, we will need robust error handling in the filtering code. This should be relatively easy to achieve. Our models enforce data types on attributes, so we will be able to know whether an operation makes sense for an attribute and return 422 if it does not. We will also need to rescue any runtime errors within the filtering, log the error details, and return 422.
+
+### Performance Impact
+
+No significant performance change is expected. The filtering should be very fast. We should run tests with and without filtering to ensure this.
 
 ## Suggested Course of Action
 
@@ -139,4 +145,12 @@ As mentioned above, we suggest continuing with using query params because using 
 
 We also recommend implementing this code as a library rather than a model or controller mixin. This will require adding a line or two to each controller we want to filter in, but that's true of the current filtering code as well. That seems like a small price to pay relative to the added complexity of auto-magical behavior.
 
-These two design decisions are also unrelated. If we later decide that GET with query params isn't working, we should be able to swap it out relatively quickly without major changes to the filtering library, so long as we separate the parsing of the filters in a separate class.
+These two design decisions are also unrelated. If we later decide that GET with query params isn't working, we should be able to swap it out relatively quickly without major changes to the filtering library, so long as we separate the parsing of the filters in a separate class from the actual filtering.
+
+### Work Involved
+
+- create filtering library with extensive testing and error handling
+- add filtering to controllers
+- pagination changes
+- alter openapi docs to explain how this works. It may be best to do this by adding a page to our team wiki and linking to that page from the openapi docs
+- swap out current filtering in the prescriptions controller to use the new filtering
