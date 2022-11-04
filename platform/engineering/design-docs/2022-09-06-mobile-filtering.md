@@ -7,15 +7,13 @@
 
 ## Overview
 
-(Should I add a separate flaws section?)
+The vets-api has a filter system built in to model collections that allows clients to send query params specifying which records they want to include in the response. For example, a user can add a param like, `filter[refillStatus][eq]=refillinprocess` to indicate that they only want prescriptions where refill_status equals refillinprocess. This is relatively easy to use on the back end, but it has a few flaws.
 
-The vets-api has a filter system built in to model collections that allows clients to send query params specifying which records they want to include in the response. For example, a user can add a param like, `filter[refillStatus][eq]=refillinprocess` to indicate that they only want prescriptions where refill_status equals refillinprocess. This is relatively easy to use on the back end, but it has one major flaw: it requires that any filterable attributes be whitelisted in the model along with any operations that are permitted on that attribute.
+Most notably, it requires that any filterable attributes be whitelisted in the model along with any operations that are permitted on that attribute. This is compounded by the fact that some of the models we use are defined outside of the mobile module, meaning that we can't change them as easily.
 
-It also has some other minor flaws. For example, it has poor handling of cases where the client wants to fetch records where an attribute is one of multiple values, and it does not work correctly with the mobile module's pagination helper.
+The filtering code itself has some shortcomings as well, such as poor handling of cases where the client wants to fetch records where an attribute is one of multiple values, and we can't easily change the filtering logic because that would impact other teams who use it.
 
-We would like to give clients the ability to filter by any attributes on the model without adding explicit handling within the model. We only want to allow filtering on top-level attributes. In other words, if a client wants to filter appointments based on location street address, that would not be allowed because location street address is not top-level.
-
-Note that one typical advantage of filtering is to reduce time it takes to get a response by reducing the amount of data in the response. This will not apply in this case because all current upstream services do not support filering so there will be little difference in round-trip time.
+We would like to give the mobile client the ability to filter by any attributes on the model without adding explicit handling within the model. We only want to allow filtering on top-level attributes. In other words, if a client wants to filter appointments based on location street address, that would not be allowed because location street address is not top-level.
 
 ## Considerations
 
@@ -25,17 +23,17 @@ Note that one typical advantage of filtering is to reduce time it takes to get a
 ##### Example
 ```/v0/health/rx/prescriptions?filter[refill_status][eq]=refillinprocess```
 ##### Pros
-  - This is how the existing filtering works, allowing for backwards compatibility.   
+  - This is how the existing filtering works, allowing for backwards compatibility.
   - No versioning of endpoints required.
   - Vets-api currently implementation of this uses query params so some logic could be borrowed from this.
-  - Sticks with convention of other mobile endpoints. 
+  - Sticks with convention of other mobile endpoints.
 ##### Cons
   - Longer, hard to read urls for requests with multiple filter parameters.
-  - Cannot easily support complex filtering requirements. 
-    - Filtering by non-primitive data types (hashes, arrays, etc) would require work arounds to support. 
-    - Complex AND/OR filter groups could not be represented in query parameters. EX: ((Exp1 AND Exp2) OR (Exp3 OR Exp4) )   
+  - Cannot easily support complex filtering requirements.
+    - Filtering by non-primitive data types (hashes, arrays, etc) would require work arounds to support.
+    - Complex AND/OR filter groups could not be represented in query parameters. EX: ((Exp1 AND Exp2) OR (Exp3 OR Exp4) )
 ##### Overview
-The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con. 
+The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future and harder to read URLs is a relatively minor con.
 
 #### GET with Payload Body
 ##### Pros
@@ -44,7 +42,7 @@ The support of complex filtering requirements listed in the cons is not a requir
   - Backwards compatible.
   - No versioning of endpoints required.
 ##### Cons
-  - Breaks REST/HTTP specs. While GET is technically allows to have a payload body, it is not suppose to have any semantic effect on the request itself, that would not be true in this case. 
+  - Breaks REST/HTTP specs. While GET is technically allows to have a payload body, it is not suppose to have any semantic effect on the request itself, that would not be true in this case.
 ##### Overview
 Breaking REST/HTTP spec is too dangerous and may have too many unintended consquences to implement.
 
@@ -56,12 +54,12 @@ Breaking REST/HTTP spec is too dangerous and may have too many unintended consqu
   - Would require new endpoint for each Index action
   - Take the most time to implement and integerate into FE.
 ##### Overview
-Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future, it does not seem worth it to take the extra time to implement this. 
+Given the support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it become a requirement for these endpoints in the future, it does not seem worth it to take the extra time to implement this.
 
 #### Conclusion
 We recommend using query params to transmit filter options.
 
-While does not allow for the most robust filtering functionality, the extra work and maintience required to implement POST with Payload is not worth it when we do not forsee the more complex filtering logic enabled by using a POST with payload to ever be necessary for future endpoints. Even if these complex filtering requirements did ever become necessary for an endpoint, there are easy one time solutions that can be implemented that would not require a re-write of this filtering logic. For example, if a endpoint needed a complex filter grouping, such as ((Exp1 AND Exp2) OR (Exp3 OR Exp4)), we could extract this logic into new boolean field that could be filtered on.  
+While does not allow for the most robust filtering functionality, the extra work and maintience required to implement POST with Payload is not worth it when we do not forsee the more complex filtering logic enabled by using a POST with payload to ever be necessary for future endpoints. Even if these complex filtering requirements did ever become necessary for an endpoint, there are easy one time solutions that can be implemented that would not require a re-write of this filtering logic. For example, if a endpoint needed a complex filter grouping, such as ((Exp1 AND Exp2) OR (Exp3 OR Exp4)), we could extract this logic into new boolean field that could be filtered on.
 
 ### Which Filter Operations Do We Want to Support?
 
@@ -71,7 +69,7 @@ The current filter system supports these operations:
 - not_eq : does not match the value
 - lteq : less than or equal to the value
 - gteq : greatre than or equal to the value
-- one_of : identical to eq but when filtering multiple values if a records satifies any of the filter conditions, it will be included in the filtered set. If this operation is used then it must be the only operator used in the request.  
+- one_of : identical to eq but when filtering multiple values if a records satifies any of the filter conditions, it will be included in the filtered set. If this operation is used then it must be the only operator used in the request.
 
 ### Pagination
 
@@ -85,8 +83,8 @@ Validate filter options, return 422 when they're incorrect.
 
 #### Library
 ##### Pros
-  - Maintainability. Minimal code changes to existing code. 
-  - Simplicity. 
+  - Maintainability. Minimal code changes to existing code.
+  - Simplicity.
 ##### Cons
   - Harder to implement model specific behavior.
 
@@ -94,9 +92,9 @@ Validate filter options, return 422 when they're incorrect.
 ##### Pros
   - More control over how filtering works from model to model
 ##### Cons
-  - Maintainability 
+  - Maintainability
 
 ##### Conclusion
 We recommend implementing filtering as a library.
 
-We do not forsee implementing model specific behavior as functionality that would ever be needed. For example, whitelisting which fields and operators on a model can be filtered on (like how vets-api current filtering works) would be unncessary and FE can be relied upon to know which fields should and should not be filtered.   
+We do not foresee implementing model specific behavior as functionality that would ever be needed. For example, whitelisting which fields and operators on a model can be filtered on (like how vets-api current filtering works) would be unncessary and FE can be relied upon to know which fields should and should not be filtered.
