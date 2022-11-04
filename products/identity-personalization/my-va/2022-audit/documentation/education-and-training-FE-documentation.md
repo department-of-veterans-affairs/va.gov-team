@@ -1,5 +1,5 @@
 # My VA Education and Training Frontend Documentation
-Last updated: October 26, 2022
+Last updated: November 4, 2022
 
 ## When to show the ‘Education and training’ section
 We show this section for every LOA3 user.
@@ -28,9 +28,9 @@ Use font awesome icon `graduation-cap` for icon
 
 ---
 
-### Compare GI bill benefits by school link
+### Compare GI Bill benefits by school link
 
-![Screen Shot 2022-10-11 at 11 59 35 AM](https://user-images.githubusercontent.com/97965610/195142980-b83f2a9d-7d04-4ae1-8650-78f7e6c9714a.png)
+![Screen Shot 2022-11-04 at 1 58 11 PM](https://user-images.githubusercontent.com/97965610/200045566-3944b487-30e8-44fc-832d-e331cfcc1635.png)
 
 Use font awesome icon `clipboard-list` for icon
 
@@ -42,13 +42,13 @@ Use font awesome icon `clipboard-list` for icon
 
 #### Content
 
-[Compare GI bill benefits by school](https://va.gov/education/gi-bill-comparison-tool)
+[Compare GI Bill benefits by school](https://va.gov/education/gi-bill-comparison-tool)
 
 ---
 
-### Check your GI bill statement of benefits link
+### Check your GI Bill Statement of Benefits link
 
-![Screen Shot 2022-10-11 at 11 59 44 AM](https://user-images.githubusercontent.com/97965610/195143584-9bf85e2c-0b4d-4c45-b8f7-fea9ab35a42b.png)
+![Screen Shot 2022-11-04 at 1 58 19 PM](https://user-images.githubusercontent.com/97965610/200045657-100bf820-7b40-42ed-b9bf-89ba71be2f65.png)
 
 Use font awesome icon `dollar-sign` for icon
 
@@ -56,8 +56,8 @@ Use font awesome icon `dollar-sign` for icon
 - For all LOA3 users.
 
 **Positioning**
-- This link should appear on the lefthand side on desktop as the third link in the list, under the "Compare GI bills benefits by school" link.
+- This link should appear on the lefthand side on desktop as the third link in the list, under the "Compare GI Bill benefits by school" link.
 
 #### Content
 
-[Compare GI bill benefits by school](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
+[Check your GI Bill Statement of Benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
