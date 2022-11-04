@@ -60,7 +60,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 
-UX PIN PROTOTPYE LINKS HERE
+[Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
 
 
 ## Task: Start application - 5 minutes
