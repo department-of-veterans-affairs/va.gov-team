@@ -34,6 +34,7 @@ The information in this document is based on guidance in the [VA Platform Produc
 ## Performance and Issue Monitoring
 - Devise plan for monitoring product performance and issues via an Incident Response Playbook
    - Example: [VAOS Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md)
+   - Use tools to set thresholds of failures to auto alert teams through Slack with tie-ins to Grafana or DataDog.
 ### Standard monitoring
 ### Additional monitoring desired
 ### Alerts
