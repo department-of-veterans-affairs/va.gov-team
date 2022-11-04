@@ -253,6 +253,11 @@ This design was validated with usability testing in August 2022 and findings inf
 ---
 ## Cutover determination (WIP)
 
+The following context and risks are associated with this data and should be considered when determining cutover readiness
+- Feedback and analytics will be gathered based on user self-selection, which inherently has bias. This bias is consistent with feedback collection across VA.gov making the comparison of results with the existing homepage still valid. 
+- Veterans and beneficiaries who arrive on VA.gov on a page other than the homepage will not be presented with the option to experience the new homepage and thus will not be represented in this data.
+  - This may mean that much of the feedback and analytics collected on the homepage represent primarily new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
+
 |	Metric	| Rationale | Measured by*	| Completion rate^ - 	Baseline 	|	Completion rate - 1 month post  | Completion rate - 3 months post |
 |	---	|	---	|	---	|	--- |--- |---	|
 | Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | | |
