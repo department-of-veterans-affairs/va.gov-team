@@ -63,7 +63,7 @@ You have no recent payments to show.
 
 ### Manage direct deposit link
 
-![Screen Shot 2022-10-06 at 12 33 00 PM](https://user-images.githubusercontent.com/97965610/194368880-d6211a2e-3cbe-4727-aca8-a5a9fb7b6af2.png)
+![Screen Shot 2022-11-04 at 1 10 51 PM](https://user-images.githubusercontent.com/97965610/200035290-7f3f7332-d79f-4e0a-8984-f5f3cb67fc84.png)
 
 Use font awesome icon `dollar` for icon in link list
 
