@@ -27,6 +27,7 @@ The information in this document is based on guidance in the [VA Platform Produc
     - Medallia
     - Mobile Feedback UI
     - Helpdesk
+- Medium-term things that could be addressed in the medium term of what the teams work on
 
 ### Additional metrics desired
 
@@ -34,7 +35,16 @@ The information in this document is based on guidance in the [VA Platform Produc
 ## Performance and Issue Monitoring
 - Devise plan for monitoring product performance and issues via an Incident Response Playbook
    - Example: [VAOS Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md)
-   - Use tools to set thresholds of failures to auto alert teams through Slack with tie-ins to Grafana or DataDog.
+   - Use tools to set thresholds of failures to auto alert teams through Slack with tie-ins to Grafana and/or DataDog.
+      - Define and configure triggers
+      - Take advantage of Slack integrations
+   - Monitor Sentry closely after a production deploy for any issues that may come up
+   - User PagerDuty to post alert banners that performance may be reduced
+   - Demo
+      - Stephen Barrs
+      - Patrick
+   - Immediate issues that may need remediation or further research
+
 ### Standard monitoring
 ### Additional monitoring desired
 ### Alerts
