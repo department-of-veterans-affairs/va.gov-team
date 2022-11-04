@@ -4,5 +4,7 @@
 
 
 ## Files Received back from the State Department on 11/3/2022
-- [LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json)
 - [LS-2022-0118394-B-FIL-FINAL_tagalog-round-2.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-B-FIL-FINAL_tagalog-round-2.json)
+- [LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json)
+  - This file contains translations for DS components; they were forwarded to Matthew Dingee on 11/4
+
