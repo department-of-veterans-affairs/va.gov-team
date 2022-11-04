@@ -36,7 +36,7 @@ Deposited on [date]
 
 Check mailed on [date]
 
-[View your payment history](https://www.va.gov/va-payment-history/payments)
+[Review your payment history](https://www.va.gov/va-payment-history/payments)
 
 #### **Visual specs**
 
@@ -80,26 +80,24 @@ Use font awesome icon `dollar` for icon in link list
 
 ---
 
-### View your payment history link
+### Review your payment history link
 
 - Use font awesome icon “user-check”
 
 **Show in link list**
 - If a user has not had a payment in the last 60 days but has in the past.
 
-![Screen Shot 2022-10-06 at 12 33 00 PM](https://user-images.githubusercontent.com/97965610/194369089-2d455877-4baa-4cfc-9a85-f2a22e8781e7.png)
+![Screen Shot 2022-11-04 at 1 08 40 PM](https://user-images.githubusercontent.com/97965610/200034911-968063a5-6510-4194-8249-56232cfb013e.png)
 
 **Do NOT show in link list**
 - If a user has never received a payment.
-
-![Screen Shot 2022-10-06 at 12 33 51 PM](https://user-images.githubusercontent.com/97965610/194369122-290e056e-572d-423a-a9e2-37f7dd1cef39.png)
 
 **Positioning**
 - If a user has a payment card to show, this link appears on the righthand side on desktop.
 - If a user does not have a payment card to show but has received payments in the past, this link shows on the lefthand side on desktop, below the "Manage your direct deposit" link.
 
 #### Content
-[View your payment history](https://www.va.gov/va-payment-history/payments/)
+[Review your payment history](https://www.va.gov/va-payment-history/payments/)
 
 ---
 
