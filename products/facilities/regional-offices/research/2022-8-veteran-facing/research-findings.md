@@ -6,7 +6,7 @@ Date: 10/17/2022
 
 Aslan French: aslan.french@civicactions.com Dave Pickett: dave.pickett@civicactions.com
 
-[Research Presentation PDF](link here)
+[Research Presentation PDF](./research-readout.pdf)
 
 Jump to:
 
