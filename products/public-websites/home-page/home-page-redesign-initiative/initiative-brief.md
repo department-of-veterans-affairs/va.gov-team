@@ -251,12 +251,11 @@ This design was validated with usability testing in August 2022 and findings inf
 | October 2022 | Drupalization of homepage content
 
 ---
-## Cutover determination
-(WIP)
-Assumes x % of visitors to VA.gov choose to view the new homepage
+## Cutover determination (WIP)
 
 |	Metric	| Rationale | Measured by*	| Completion rate^ - 	Baseline 	|	Completion rate - 1 month post  | Completion rate - 3 months post |
 |	---	|	---	|	---	|	--- |--- |---	|
+| Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | | |
 |	Use of authenticated experience should be maintained or increased	| One of the primary goals | # of logged in users/month	|		|	 | |
 |	"Download your benefit letters" task completion | Secondary top task with high utilization from current homepage and explicit link no longer available | Traffic to defined pages/funnel completion initiated from homepage 	|		|	 | |
 |	"Refill or track a prescription" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to defined pages/funnel completion initiated from homepage	|		|	 | |
