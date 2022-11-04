@@ -55,7 +55,7 @@ The information in this document is based, in part, on guidance in the [VA Platf
    - User PagerDuty to post alert banners that performance may be reduced
    - Demo
       - Stephen Barrs
-      - Patrick
+      - Patrick Bateman
    - Immediate issues that may need remediation or further research
 
 ## Reporting
