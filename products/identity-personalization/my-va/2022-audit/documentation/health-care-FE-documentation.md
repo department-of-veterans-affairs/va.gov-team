@@ -92,7 +92,7 @@ You have no upcoming appointments to show.
 
 #### **Content**
 
-You have # unread messages. [View your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+You have # unread messages. [Review your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
 
 **Content specs**
 
