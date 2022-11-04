@@ -23,11 +23,17 @@ The information in this document is based on guidance in the [VA Platform Produc
 - Look for trends or categories of feedback that an be captured, prioritized, and tracked
 - Sometimes you may notice an unidentified bug or something that isn't working as intended
 - Translate feedback into action items as we are able to
+- Sources 
+    - Medallia
+    - Mobile Feedback UI
+    - Helpdesk
 
 ### Additional metrics desired
 
 
-## Monitoring
+## Performance and Issue Monitoring
+- Devise plan for monitoring product performance and issues via an Incident Response Playbook
+   - Example: [VAOS Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md)
 ### Standard monitoring
 ### Additional monitoring desired
 ### Alerts
