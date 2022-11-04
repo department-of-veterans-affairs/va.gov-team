@@ -3,12 +3,15 @@ Last Updated: 11/4/2022
 
 The information in this document is based, in part, on guidance in the [VA Platform Product Development checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist#ProductDevelopmentChecklist-...secureandreliable?), information presented by Health Apps team, VA Design System Components, and discussion with other teams that have implemented highly-available products on VA.gov.
 
+## OKRs
+- TBD
+
 ## KPIs
-### TBD
+- TBD
 
 
 ## Metrics
-### Standard metrics based on predefined OKRs
+### Standard metrics based on predefined OKRs and KPIs
 - Work with OCTO leadership and stakeholders to define what success is for your product. 
 - Research and decide what tools and data is available for measuring
    - Google Analytics - determine transactions that are available or could be available
