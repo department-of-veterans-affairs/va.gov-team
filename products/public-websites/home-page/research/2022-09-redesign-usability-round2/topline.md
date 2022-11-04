@@ -69,7 +69,7 @@ Is there anything compelling enough from the findings that we should consider ch
 6. **Make the *More VA News* link more visually prominent** because it's not noticed by many people.
 7. **Add a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022", styled like the "VA NEWS" heading in the news promo).
 8. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
-9. We should **add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one. Note that this recommendation isn't specifically supported by data from this study but seems like a good idea.
+9. We should **add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one. Note that this recommendation isn't  supported by data from this study but seems like a good idea.
      1. To fix the possible accessibility issue, consider **positioning the Feedback button on the *left* side of the page**, where it would be more noticeable for screen magnifier users while scanning down the left side of a page.
      2. Talk to the team that works on the *Veterans Crisis Line* to share the finding about how the red button in the top right of VA.gov pages was invisible to a screen magnifier user.
 
