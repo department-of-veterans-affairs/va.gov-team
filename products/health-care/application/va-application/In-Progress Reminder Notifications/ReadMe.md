@@ -14,7 +14,6 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 ## Desired User Outcomes
 - Shorten the time the application remains "in progress"
-- Fewer expired applications
 - More returns and submissions of saved applications
 
 ## Undesired User Outcomes
@@ -24,7 +23,6 @@ The reminders will encourage the Veteran to submit the application in order to r
 - Veterans are reminded of in progress applications and return to complete them
 
 ## Undesired Business Outcomes
-- Confusion on submission status that leads to more expired applications
 - Emails being ignored or sent to Spam/Junk folders without being read
 
 ---
@@ -91,6 +89,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - The team agrees that this addresses our concerns and would like to launch the reminder emails again
      - The VA Notify Strike team will let us know the next launch window
 - Oct 24, 2022: VA Notify Strike team re-launched Saved-In-Progress Reminder emails at 4pm
+- Nov 1, 2022: Saved-In-Progress reminder emails are at 100%
 
 
 ---
