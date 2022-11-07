@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 11/07/2022
+- Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow so that, when they reload the application at any point before completing the workflow, they will not be taken back to the start but will return to where they left off and answers to previously-asked questions retained
+    - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
+
 ### 11/03/2022
 - Changed the content of the "Go to another appointment" link in eCheck-in to say "Back to today's appointments" to be clearer to Veterans
     - [Ticket 47443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47443)
