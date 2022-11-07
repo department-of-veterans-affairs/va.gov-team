@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 11/07/2022
-- Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow so that, when they reload the application at any point before completing the workflow, they will not be taken back to the start but will return to where they left off and answers to previously-asked questions retained
+- Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow so that, when they reload the application at any point before completing the workflow, they will not be taken back to the start but will return to where they left off and answers to any previously-asked questions will be retained
     - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
 
 ### 11/03/2022
