@@ -8,7 +8,7 @@ The patient check-in (PCI) product is reimagining the ecosystem that allows a Ve
 ## Problem Statement
 Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran can be instructed to check-in with a staff member once they arrive for their appointment.
 
-eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which comprises the time up to 45 minutes before & 15 minutes after the appointment. The eCheck-in application is intented to replace the check-in functionality on the kiosks currently used VA facilities. 
+eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which comprises the time up to 45 minutes before & 15 minutes after the appointment. The eCheck-in application is intented to replace the check-in functionality on the kiosks currently used at VA facilities. 
 
 ## Desired User Outcomes
  - Veterans can easily and quickly check in for their appointments using their mobile device
@@ -86,6 +86,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran loads the Pre-Check-in application and verifies their identity by entering their Last Name and DOB
      - Veteran reviewes their contact, emergency contact, and next-of-kin information and indicates if the information is correct or needs to be updated
      - Once pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
+     - If the Veteran needs to update their information, they are directed to check-in with a staff member at the time of their appointment
 
 #### Spanish Language Support 
 - Status: Released on 6/28/2022
@@ -95,11 +96,11 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Released on 11/2/2022
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
-#### [Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
+#### [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
 - Status: In development
-- Purpose: Allow Veterans to submit a travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the Beneficiary Travel Self Service System (BTSSS) or through a travel office.
+- Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office.
 - Functionality:
-     - A Veteran can choose to file a travel reimbursement claim when they check-in for an appointment
+     - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim when they check-in for an appointment
 
 
 
