@@ -1,4 +1,4 @@
-# VA.gov Home Page Redesign ROUND 2 Usability Test Findings--PRELIMINARY!
+# VA.gov Home Page Redesign ROUND 2 Usability Test Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
@@ -179,28 +179,30 @@ Screenshot of the [Home page that was tested on Staging](https://staging.va.gov/
 
 **Recruitment criteria**
 
-We wanted to include Veterans and others who had a diverse range of experience with VA benefits and services, including some whose experience doesn't include VA health care, and some who had no experience at all with VA benefits.
+We wanted to include Veterans and others who had a diverse range of experience with VA benefits and services, including some whose experience doesn't include VA health care, and some who had no experience at all with VA benefits. We also wanted some who had a VA.gov account and some without one. Our recruitment criteria were not satisfied in the following ways:
+- All participants had a VA.gov account
+- All but 1 participant uses VA health care
 
 **11 participants** 
 
-Audience segments:
-* Veterans:  11
-* Family members of a Veteran: 2 (one was also a Veteran and the other was also a Caregiver)
-* Caregivers: 1
-* Service members: 2
+Audience segments (some had multiple roles):
+* Veterans:  9
+* Family members of a Veteran: 5
+* Caregivers: 5
+* Service members: 1
 
 
 LGBTQ+:
-* Transgender: 1 
+* Transgender: Unknown 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
 * Gay, lesbian, or bisexual: Unknown
 
 
 Devices used during study: 
-* Desktop: 12 
-* Tablet: 4
-* Smart phone: 3 
-* Assistive Technology: 0
+* Desktop: 3 
+* Tablet: 0
+* Smart phone: 8 
+* Assistive Technology: 4 part-time screen reader users but not all during the research sessions
 
 Gender:
 * Male:      12
@@ -210,11 +212,11 @@ Gender:
 
 
 Age: 
-* 25-34: 2
-* 35-44: 4
-* 45-54: 5
-* 55-64: 5
-* 65+:   3
+* 25-34: 
+* 35-44: 
+* 45-54: 
+* 55-64: 
+* 65+:   
 
 
 Education: 
@@ -223,7 +225,7 @@ Education:
 * Associate's degree, trade certificate or vocational training: 
 * Bachelor's degree: 
 * Master's degree: 
-* Doctoral degree: 0
+* Doctoral degree: 
 
 
 Geographic location:
