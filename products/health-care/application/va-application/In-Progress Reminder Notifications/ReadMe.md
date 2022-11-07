@@ -34,7 +34,7 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | Post-Launch
+| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
 |% of Saved In Progress applications submitted| N/A | 25% of click-thrus | TBD|
 
@@ -43,7 +43,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | Post-Launch
+| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
 |% of Click-thrus on email link | N/A | 25% of opened emails | TBD |
 
