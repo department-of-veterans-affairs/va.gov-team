@@ -48,7 +48,7 @@
     "XXX": "Primary Family Caregiver’s last name(*Required)",
     "XXX": "Primary Family Caregiver’s Social Security number or tax identification number",
     "XXX": "Primary Family Caregiver’s date of birth(*Required)"
-    "XXX": "Primary Family Caregiver’s sex
+    "XXX": "Primary Family Caregiver’s sex",
     "XXX": "Female",
     "XXX": "Male",
     "XXX": "Primary Family Caregiver contact information",
@@ -86,6 +86,27 @@
     "XXX": "Female",
     "XXX": "Male",
     "XXX": "Secondary Family Caregiver contact information",
+    "XXX": "If the Secondary Family Caregiver’s address is the same as the Veteran’s address, we can fill those fields out for you.",
+    "XXX": "Veteran address",
+    "XXX": "Use the same address as the Veteran",
+    "XXX": "Secondary Family Caregiver’s current street address (*Required)",
+    "XXX": "Street address line 2",
+    "XXX": "City (*Required)",
+    "XXX": "State(*Required)",
+    "XXX": "Postal code (*Required)"
+    "XXX": "Secondary Family Caregiver’s primary telephone number (including area code)(*Required)",
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
+    "XXX": "
     "XXX": "
     "XXX": "
     "XXX": "
