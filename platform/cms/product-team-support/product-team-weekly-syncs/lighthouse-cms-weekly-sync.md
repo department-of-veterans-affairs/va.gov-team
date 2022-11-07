@@ -18,6 +18,10 @@
 ## Monday, November 7, 2022 
 * v1 status check
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+* Stale Vet Center data - LH namaging 
+* Support Country Code
+* KB Articles for support 
+* Mental health phone numbers - _in Sprint 71?_
 * Issue around mismatch map data https://va-gov.atlassian.net/browse/VAHELP-5039
     * https://www.va.gov/des-moines-vet-center/
 
