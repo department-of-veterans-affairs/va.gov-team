@@ -18,4 +18,4 @@
     1. File format: yyyy-mm-dd-VSignals.md
 7. Post a link to the GitHub summary on the #check-in-experience channel. Tag Shawn Adams in the post.
 
-*We need to still talk to Research Ops about adding these summaries to the research repo and the process that will involve. They want us to help create a taxonomy for *
+*We need to still talk to Research Ops about adding these summaries to the research repo and the process that will involve. They want us to help create a taxonomy for the tags associated with VSignals summaries.*
