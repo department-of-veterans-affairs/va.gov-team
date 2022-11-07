@@ -15,13 +15,13 @@
 | Content zoomed to 200% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)| Yes  | No findings | Heather Justice |
 | Content zoomed to 300% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)| Yes  | No findings | Heather Justice |
 | Content zoomed to 400% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)| Yes  | No findings | Heather Justice |
-| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)| TBD  | TBD | TBD |
+| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)| Yes  | No findings | Heather Justice |
 
 
 ## Recommended Accessibility Tests
 
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |------------------ |
-| Test with WAVE (recommended) | [read more about the WebAIM WAVE tool](https://wave.webaim.org/)| TBD  | TBD | TBD |
+| Test with WAVE (recommended) | [read more about the WebAIM WAVE tool](https://wave.webaim.org/)| Yes  | No findings on the form | Heather Justice |
 | Screen reader tests (NVDA + Firefox) | [read more about getting started with screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests).| TBD  | TBD | TBD |
 | Screen reader tests (VoiceOver + Safari) | [read more about getting started with screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests).| TBD  | TBD | TBD |
