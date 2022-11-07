@@ -64,7 +64,7 @@
 #### Objective 1: Increase use of the VA Health Care program
 - Key result 1: Decrease number of applications that require additional review or revisions
 - Key result 2: Increase % of Veterans who successfully apply for benefits online
-   - As of 9/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted
+   - As of 9/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted.  We are noticing a significant drop from September to October, and will continue to monitor for the cause.
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
@@ -83,7 +83,7 @@
 #### Objective 3: Provide meaningful support to those that need it
 - Key result 1: Increase % of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
 - Key result 2: Increase number of application completions in a single session
-   - As of 9/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
+   - As of 9/2022, we have seen a 6-month decreasing trend for the percentage of applications completed in a single session
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
