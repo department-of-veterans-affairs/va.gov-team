@@ -43,7 +43,7 @@ Veterans find it difficult to submit a travel reimbursement claim and often wait
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- Favorable VSignals feedback from Veterans who use eCheck-in
+- Favorable VSignals feedback from Veterans who use eCheck-in and choose to file a travel reimbursement claim
 
 ## Launch Planning
 
