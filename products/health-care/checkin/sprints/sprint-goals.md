@@ -1,5 +1,22 @@
 # SPRINT GOALS
 
+## 11/16/2022 - 11/29/2022 ---------------------- FUTURE -----------------------------
+
+#### Planned Releases -------------------- TENTATIVE ------------------------------
+- [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
+
+#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
+    - Update product artifacts & resources
+
+
+#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Production Support]() 
+- [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
+    - Update mocks & test
+- CIE Analytics
+    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (???)
+
 ## 11/02/2022 - 11/15/2022    
 
 #### Planned Releases   
