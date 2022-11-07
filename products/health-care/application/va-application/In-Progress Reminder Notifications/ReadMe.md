@@ -32,18 +32,7 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 ### Objective: Veterans return to successfully submit their in-progress applications.
 
-
-**Key Result 1:** Reduce the number of In-Progress or Expired applications 
-
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
-
-| KPI/Metric  | Baseline | Target | Post-Launch
-|----------------|----------------|----------------|----------------|
-|Reduce # of apps in progress over 7 days| TBD | TBD | TBD|
-|Reduce # of Expired applications| TBD | TBD | TBD|
-
-
-**Key Result 2:** Increase the percentage of In-Progress applications, as a result of the email link, 25% of clicked-thru emails will submit their application.
+**Key Result 1:** Increase the percentage of In-Progress applications, as a result of the email link, 25% of clicked-thru emails will submit their application.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
@@ -52,7 +41,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 |% of Saved In Progress applications submitted| N/A | 25% of click-thrus | TBD|
 
 
-**Key Result 3:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
+**Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
