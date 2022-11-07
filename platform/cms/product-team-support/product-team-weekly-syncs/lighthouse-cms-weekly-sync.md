@@ -18,7 +18,7 @@
 ## Monday, November 7, 2022 
 * v1 status check
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
-* Stale Vet Center data - LH namaging 
+* Stale Vet Center data - LH will manage, no Facilities action
 * Support Country Code
 * KB Articles for support 
 * Mental health phone numbers - _in Sprint 71?_
