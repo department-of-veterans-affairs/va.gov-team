@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 11/08/2022
+- Updated error message in the info box when identity verification fails (Pre-Check-in & eCheck-in) to "We’re sorry. We couldn’t find an account that matches that last name or date of birth. Please try again."
+    - [Ticket 48721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48721)
+
 ### 11/07/2022
 - Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow. Now, when they reload the application at any point before completing the workflow, they will return to where they left off, instead of the start of the workflow, and their answers to any previously-asked questions will be retained
     - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
