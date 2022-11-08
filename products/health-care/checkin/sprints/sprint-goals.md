@@ -23,6 +23,7 @@
 - CIE Analytics
     - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kelly)
 - CIE Tech Debt & Bugs
+    - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466)
     - [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400)
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
