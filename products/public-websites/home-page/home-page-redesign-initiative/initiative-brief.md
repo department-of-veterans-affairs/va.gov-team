@@ -213,7 +213,7 @@ This design was validated with usability testing in August 2022 and findings inf
 ### Discussions with stakeholders
 - June 22, 2022 Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
 - July 12, 2022 [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) to Digital Modernization Council
-- October 20-21, 2022 Presentations to Digital Modernization Council and Web Governance Board [_link to presentation pending_]
+- October 20-21, 2022 [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx) to Digital Modernization Council and Web Governance Board
 --- 
 
 ## Launch Planning
@@ -247,7 +247,7 @@ This design was validated with usability testing in August 2022 and findings inf
 | August 2022 | Usability research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)| 
 | September 2022 | Design iteration v2 deployeded to staging
 | October 2022 | Usability of redesigned homepage /[plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
-| October 2022 | Presentations to Digital Modernization Council and Web Governance Board
+| October 2022 | [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx)to Digital Modernization Council and Web Governance Board
 | October 2022 | Drupalization of homepage content
 
 ---
@@ -275,8 +275,7 @@ This design was validated with usability testing in August 2022 and findings inf
 |	"Message your doctor or get a health care message" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to [Secure Messaging page in MHV](www.myhealth.va.gov/secure-messaging/) initiated from homepage 	| 587,173/6.57% 	|	 | |
 |	User engagement - promo content #1 | Maintained or increased	|	Click through rate for benefit promo story [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) |	6/<0.01%	|	 | |		
 |	User engagement - promo content #2 | Maintained or increased 	|	Click through rate for news story [Pathfinder](https://pathfinder.va.gov/)	| 0/0%		|	 | |	
-|	User engagement - promo content #3 | Maintained or increased 	|	Click through rate to all VA News	[Vantage Point is now VA News](https://news.va.gov/)	| 6/<0.01% | |	
-|	Satisfaction score | new homepage satisfaction scores are equivalent or better than existing page			|	_pending implementation of feedback on homepage_ | |
+|	User engagement - promo content #3 | Maintained or increased 	|	Click through rate to all VA News	[Vantage Point is now VA News](https://news.va.gov/)	| 6/<0.01% | | | Satisfaction score | new homepage satisfaction scores are equivalent or better than existing page			|	_pending implementation of feedback on homepage_ | |
 
 The following context and risks are associated with this data and should be considered when determining cutover readiness
 - Feedback and analytics will be gathered based on user self-selection, which inherently has bias. This bias is consistent with feedback collection across VA.gov making the comparison of results with the existing homepage still valid. 
