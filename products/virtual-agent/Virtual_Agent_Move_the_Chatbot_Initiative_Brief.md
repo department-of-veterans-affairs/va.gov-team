@@ -87,6 +87,7 @@
   - The Payload of the Chatbot widget will need to be monitored so as not to affect the performance and load times of the pages where the Chatbot is on.
   - Placement of the Chatbot react component will need to integrate well with the current VA.gov frontend architecture.
   - Authentication use cases within the Chatbot will need to be considered given the current Identity process.
+  - Working with the Platform teams to understand the current landscape of the VA.gov website, legacy pages, banners, etc. and how it might affect this implementation.
 
 <!--
   - Examples:
@@ -95,7 +96,9 @@
 -->
 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - We will need to coordinate with the Public Websites and Sitewide team
+  - We will need to coordinate with the Public Websites and Sitewide team, if we are the team who will be responsible for making the changes.
+  - 508 Office will need to review
+  - Proper marketing to announce the Chatbot being more widely available will be required
 <!--
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
@@ -105,6 +108,8 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
+- Functionally, we will be moving the Chatbot from the single page it resides on, to other pages on VA.gov. The exact placement and mechanism by which the Chatbot will be available on these pages is still to be determined by user research and tech feasbility. We may build a feature toggle mechanism to show / hide the Chatbot on VA.gov pages.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
