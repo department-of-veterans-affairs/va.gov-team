@@ -75,15 +75,18 @@ What marketing, outreach, or communications are necessary for this product to be
 
 ## Launch Dates
 - *Target Launch Date*
-  - TBD
+  - January 2023
 
 ---
 
 ## Solution Narrative
 
 ### Current Status
+Application is under development slated for January 2023 release.
 
 ### Key Decisions
+- Backend services will live on DGIB environment. The application will use Local vets-api endpoints that will serve proxies that generate jwt tokens to communicate with DGIB services. 
+- Support only for Post 9/11 (Chapter 33) GI Bill on first release. Other chapters will be added on future releases.
 
 ---
    
