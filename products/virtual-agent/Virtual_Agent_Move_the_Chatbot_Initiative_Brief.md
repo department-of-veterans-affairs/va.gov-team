@@ -67,8 +67,8 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
-We are currently in the process of building a custom Domo dashboard for the Chatbot page in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/45133. We would take the KPIs tracked in that dashboard and extend them in an updated report to all the pages that the Chatbot is placed on. We would use the data gathered from the initial custom Domo Dashboard for a single page to determine the baselines and targets for how we would expect the Chatbot to perform on multiple pages. We would be interested at how the Chatbot performs at the micro level (in isolation on indivdiual pages) and at the macro level (how it's affecting performance of VA.gov and in aggregate). To see all metrics being tracked, please see that ticket.
+- We are currently in the process of building a custom Domo dashboard for the Chatbot page in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/45133. We would take the KPIs tracked in that dashboard and extend them in an updated report to all the pages that the Chatbot is placed on. We would use the data gathered from the initial custom Domo Dashboard for a single page to extrapolate the baselines and targets for how we would expect the Chatbot to perform on multiple pages. We would be interested at how the Chatbot performs at the micro level (in isolation on indivdiual pages) and at the macro level (how it's affecting performance of VA.gov and in aggregate). To see all metrics being tracked, please see that ticket.
+- We would also closely monitor the KPIs and dashboards of the pages that the Chatbot is placed on to see if there are any adverse affects on the Ease of Use, Task Completion, Findability, and User Satisfaction of those individual pages. Upon launch we would compare day over day the performance of pages the Chatbot is placed on by looking at Google Analytics and Domo reports such as this dashboard: https://va-gov.domo.com/page/80919003
 ---
 
 ## Discovery
@@ -77,17 +77,29 @@ We are currently in the process of building a custom Domo dashboard for the Chat
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The Chatbot repurposes content and features that already exists within VA.gov. Will users find value in being able to reach these experiences from other pages on VA.gov?
+  - Do we risk distracting users from the main call-to-actions on VA.gov pages if the Chatbot is avaialble on those pages.
+  - Will users be distracted by the Chatbot and cause decreased engagement, interactions, task completions, user satisfaction with the page the Chatbot is on.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - The Chatbot currently resides on its own page where it is the main focus of the page. When we move the Chatbot to other pages, where some action will be required to engage with the Chatbot (by clicking on a button to expand a flyout, or accordion, or maximize it, etc.) will we still have the same level of engagement?
+  - Careful research will be required to ensure the accessibiltiy of existing pages isn't compromised by placing the Chatbot on them. Additionally the accessibility of the Chatbot will need to be considered as control is passed from the main page to the Chatbot.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - The Payload of the Chatbot widget will need to be monitored so as not to affect the performance and load times of the pages where the Chatbot is on.
+  - Placement of the Chatbot react component will need to integrate well with the current VA.gov frontend architecture.
+  - Authentication use cases within the Chatbot will need to be considered given the current Identity process.
+
+<!--
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
+-->
+
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - We will need to coordinate with the Public Websites and Sitewide team
+<!--
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
+-->
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
