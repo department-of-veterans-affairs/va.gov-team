@@ -187,13 +187,13 @@ This design was validated with usability testing in August 2022 and findings inf
    > Status: Round 2 complete - [Description of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/round-2-design-iteration.md)
 
 7. Validate design changes with Veterans
-   > Status: _Planned - October 2022_ | [Round 2 Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
+   > Status: Round 2 complete | [Round 2 Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
 
 8. Present to Web Governance Board and Digital Modernization Council stakeholders
-   > Status: _Scheduled for October 20-21, 2022_
+   > Status: Completed October 20-21, 2022
 
 9. Share research findings broadly 
-   > Status: _Pending_
+   > Status: In progress
 
 10. Drupalize homepage content
     > Status: _In progress_
