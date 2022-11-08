@@ -1,7 +1,9 @@
 ## Summary of VA.gov homepage changes
 
-### March 2022 iteration
+ - First build - [March 2022](#march-2022)
+ - Round 2 design iteration [October 2022](#october-2022)
 
+### March 2022
 <details>
 <summary> First build - March 2022 </summary>
  
@@ -27,8 +29,7 @@
 This design was validated with usability testing in August 2022 and findings informed Round 2 design iteration.
 - [Usability research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)
 
-### Round 2 design iteration | October 2022
-
+### October 2022
 <details>
 <summary> Round 2 design iteration | October 2022 </summary>
  
