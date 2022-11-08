@@ -19,9 +19,9 @@
     - Hold design intent review
     - Update wireframes with any recommendations
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
-    - Where are we with this one???
+    - Brainstorm ideas for a solution
 - CIE Analytics
-    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (???)
+    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kelly)
 - CIE Tech Debt & Bugs
     - [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400)
 
