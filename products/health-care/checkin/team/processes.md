@@ -159,7 +159,19 @@
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
     -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Anita Middleton, Mark Dewey
-    -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Anita Middleton, Dore Mobley, Mark Dewey, erica.williams@va.gov and angela.wilt@va.gov
+    -   VA email  
+            - Patrick Bateman
+            - Stephen Barrs
+            - Shawn Adams
+            - Anita Middleton
+            - Dore Mobley
+            - Mark Dewey
+            - erica.williams@va.gov 
+            - angela.wilt@va.gov
+            - Joanna.Warden@va.gov
+            - Richard.Mastal@va.gov
+            - Deborah.Dixon1@va.gov
+            - Kelly.Giddens@va.gov.
 
 
 ## Diagram of All Team Processes
