@@ -2,11 +2,9 @@
 
 ### This is a draft document which is not ready to be shared with the team. Information in here may change drastically as we gather details from other teams.
 
-## Known 2023 priorities
-
 The following are the priorities that were discussed at the October 2022 OCTO offsite for 2023 that will or might require work from the authenticated experience team:
 
-### Integrate health portal features into VA.gov
+## Integrate health portal features into VA.gov
 
 Potential projects and work for our team includes:
 
@@ -15,7 +13,7 @@ Potential projects and work for our team includes:
 - Updating My VA to accommodate new features
   - This could be as small as updating links, or as big as adding new modules
 
-#### What we know now
+### What we know now
 
 It is unlikely that we will need to launch any changes to the notification preferences section of the profile until Q4 CY2023 at the earliest. [From Lauren via Slack on 10/26/22](https://dsva.slack.com/archives/C02BTDTEPNH/p1666797451568699?thread_ts=1666728785.285899&cid=C02BTDTEPNH):
 
@@ -23,13 +21,13 @@ It is unlikely that we will need to launch any changes to the notification prefe
 
 So, while we don't want to wait to start development until then, we likely won't need to work on this in Q1 CY2023. This is something that the team should start visiting with VA Profile and MHV no later than CY Q2 2023 so that preferences are ready and waiting for when they are needed.
 
-### Improve the Veteran login experience
+## Improve the Veteran login experience
 
 Potential projects and work for our team includes:
 
 - Updating both the profile and My VA to account for a delegate experience.
 
-#### What we know now
+### What we know now
 
 [Via Slack on 10/26/22 and 10/27/22](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E):
 
@@ -42,18 +40,24 @@ Meeting with John Rahagi on 11.7.22:
 - Confirmed that it is unlikely our team will work on this in first two CY quarters of 2023, so I am not considering this in our first-quarter roadmap.
 - Check back in on this before maternity leave in case work needs to start while I am out.
 
-### Refresh the VA.gov homepage and information architecture
+## Refresh the VA.gov homepage and information architecture
 
 Potential projects and work for our team includes:
 
 - Research and/or design work with Mikki around creating a more holistic logged-in experience
 
-### Enhance Veterans' personalized online experience
+## Enhance Veterans' personalized online experience
 
-Potential projects and work for our team includes:
+### Work that is happening now and will continue into the new year
+
+- Persistently showing all sections of My VA and simplifying personalized logic (aka My VA audit updates)
+
+### Work that is definitely happening but hasn't started
 
 - Scaling on-site notifications (Notifications V2)
+
+### Potential projects that we may or may not work on
+
 - Ongoing maintenance and updates to notification preferences, either health apartment-related or not
 - Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval
-- Persistently showing all sections of My VA and simplifying personalized logic (aka My VA audit updates)
-- Potentially add new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959))
+- Adding new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959))
