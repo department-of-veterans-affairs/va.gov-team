@@ -36,6 +36,8 @@
     - Verify all workflows
 - CIE Tech Debt & Bugs
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)
+    - Verify pre-checkin usage for telephone appointments (using CDW)
+    - Clean Up Phone Feature Flag
     - [Implement Feature Status query by FLIPPER_ID cookie](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45332)
     - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Loading message references pre-check-in on day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47347)
