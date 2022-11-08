@@ -1,5 +1,6 @@
 # SPRINT GOALS
 
+
 ## 11/16/2022 - 11/29/2022 ---------------------- FUTURE -----------------------------
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
@@ -7,15 +8,42 @@
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Update product artifacts & resources
-
+    - Update product artifacts & product resources
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Update product artifacts
+    - Update design artifacts
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Create final wireframes
+- [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Design better visualize steps of checking in within Pre-Check-In
+    - Hold design intent review
+    - Update wireframes with any recommendations
+- [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
+    - Where are we with this one???
+- CIE Analytics
+    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (???)
+- CIE Tech Debt & Bugs
+    - [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400)
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - Update mocks & test
-- CIE Analytics
-    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (???)
+    - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Wire up FE and BE
+    - Verify all workflows
+- CIE Tech Debt & Bugs
+    - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)
+    - [Implement Feature Status query by FLIPPER_ID cookie](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45332)
+    - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
+    - [Loading message references pre-check-in on day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47347)
+    - [Pre-checkin should not be allowed to be attempted more than once](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41563)
+        - Add logging
+    - [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
+    - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
+    - [Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
+    - 
 
 ## 11/02/2022 - 11/15/2022    
 
