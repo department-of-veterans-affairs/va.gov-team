@@ -11,7 +11,7 @@ This view is applicable to users who have not yet verified their identity (LOA1)
 
 **Visual specs**
 
-- Use the [sign in or tool prompt component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#sign-in-or-tool-prompt) in the VA design system.
+- Use the [sign in or tool prompt component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#sign-in-or-tool-prompt) in the VA design system. The link to verify your identity should use the [primary action link style](https://design.va.gov/components/link/action#primary) in the VA design system.
 
 **Positioning**
 
@@ -20,7 +20,7 @@ This view is applicable to users who have not yet verified their identity (LOA1)
 #### **Content**
 Verify your identity to access more VA.gov tools and features
 
-We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information. This helps to keep your information safe, and to prevent fraud and identity theft.
+We need to make sure you’re you—and not someone pretending to be you—before we can give you access to your personal and health-related information. This helps to keep your information safe, and to prevent fraud and identity theft.
 
 This one-time process takes about 5-10 minutes.
 
