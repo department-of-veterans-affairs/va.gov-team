@@ -128,7 +128,7 @@
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/48652
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -137,7 +137,7 @@
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Tentatively Late March 2023
 - *Actual Launch Date* 
   - tbd
 
@@ -146,8 +146,11 @@
 ## Screenshots
 
 ### Before
+![image](https://user-images.githubusercontent.com/24488607/200672469-79ff7d57-d492-4221-876e-ba7202356b9b.png)
 
 ### After
+![image](https://user-images.githubusercontent.com/24488607/200673802-d7335cd7-4c60-42f2-993c-5b6963f87836.png)
+
 
 ---
 
@@ -156,10 +159,14 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Virtual Agent
+- GitHub Label(s): Virtual-Agent
+- Slack channel: #va-virtual-agent-public
+- Product POCs: 
+   - Luciana Morais (Product Owner)
+   - Alina Murphy (Project Manager)
+   - Ian Santarinala (Product Owner)
+   - Karan Krishnani (Tech Lead)
 
 </details>
 
