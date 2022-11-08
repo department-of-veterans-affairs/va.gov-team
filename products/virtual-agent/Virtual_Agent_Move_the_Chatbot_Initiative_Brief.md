@@ -149,6 +149,9 @@
 ![image](https://user-images.githubusercontent.com/24488607/200672469-79ff7d57-d492-4221-876e-ba7202356b9b.png)
 
 ### After
+
+- For illustrative purposes only. Further User Research and discussions required on placement and which pages we will move the Chatbot to.
+
 ![image](https://user-images.githubusercontent.com/24488607/200673802-d7335cd7-4c60-42f2-993c-5b6963f87836.png)
 
 
