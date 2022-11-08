@@ -27,7 +27,7 @@
 
 - [Timeline](#timeline) 
 
-[Cutover determination](#cutover-determination)
+[Cutover determination - WIP](#cutover-determination-wip)
 
 [Screenshots](#screenshots)
 
@@ -58,19 +58,24 @@ Veterans have evolved too - from never logging in to understanding that some tas
 ## Desired Outcomes
 
 **Desired user outcomes**
-- As a Veteran I want to be able to access tools and processes quickly and easily so that I can manage my own VA benefits 
-- As a Veteran, caregiver, family member, etc, I want to be able to learn about the different benefits available to me including eligibility etc. so that I can apply to these benefits.
-- As a secondary audience to VA.gov (VSO, Member of Congress, News) I need to understand where on VA.gov I should go to manage and learn activities appropriate to my needs 
-- Veterans have increased access to self-service tools through an elevated login funnel 
+As a Veteran or beneficiary, the VA.gov homepage supports my need to 
+- learn about the different benefits available to me so that I can apply to these benefits.
+- access tools and processes quickly and easily so that I can complete tasks to manage my VA benefits. 
+- understand why and how to create an account to get access to the personalized experience. 
+
+As a secondary audience to VA.gov (VSO, Member of Congress, News) I understand where on VA.gov I should go to manage and complete tasks appropriate to my needs.
 
 **Undesired User Outcomes**
-- Decrease in engagement with the most popular Top Tasks might be concerning, but would have to be viewed in context of overal engagement patterns.
-- Search behavior should be monitored for signs that prominent placement of Search in the page is attracting users for use cases that would be better served by some other path/product.
+As a result of the redesign changes, Veterans and beneficiaries  
+- are unable to complete the tasks necessary to manage their VA benefits online. 
+- take longer to initiate a task from the homepage 
+- are dissuaded from logging in or creating a VA.gov account
+- express a lower level of satisfaction in the VA.gov experience
 
 **Desired Business Outcomes**
 - Stakeholders can promote and give visibility to new products and services
-- More traffic from the home page to the VAntage Point blog
-- More logins
+- Increased engagement in VA news (more traffic from the home page to the VA News blog)
+- Increased use of personalized experience (more logins)
 
 ## Approach
 The redesign was originally planned as [a series of smaller changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/phased-design-plan.md) but it was decided to go straight to the planned Step 3 design for the first build, given the strong evidence for change and experimental nature of our work. Further refinement will be informed by Veteran research before changes are moved to production.
@@ -204,11 +209,17 @@ Iterations should support the following goals:
 | August 2022 | Usability research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)| 
 | September 2022 | Design iteration v2 deployeded to staging
 | October 2022 | Usability of redesigned homepage /[plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
-| October 2022 | [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx)to Digital Modernization Council and Web Governance Board
+| October 2022 | [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx) to Digital Modernization Council and Web Governance Board
 | October 2022 | Drupalization of homepage content
+| November 2022 | Final pre-launch design iteration
 
 ---
 ## Cutover determination (WIP)
+
+> The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" modal from the existing VA.gov homepage. 
+> The following metrics will be used to determine when/if the redesign can replace the existing homepage in Production by assessing 
+> - if enough users have used the redesign for analytics to be representative 
+> - if the new homepage sufficiently supports task completion  
 
 **Definitions**
 
@@ -224,21 +235,21 @@ Iterations should support the following goals:
 |	---	|	---	|	---	|	--- |--- |---	|
 | Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | | |
 |	Use of authenticated experience should be maintained or increased	| One of the primary goals | # of logged in users/month	|	3,701,932/41.44%	|	 | |
-|	"Download your benefit letters" task completion | Secondary top task with high utilization from current homepage and explicit link no longer available | Traffic to [Download VA benefit letters page](https://www.va.gov/records/download-va-letters/) initiated from homepage 	|	508,591/5.71%	|	 | |
-|	"Refill or track a prescription" task completion  | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to [Managing Your Prescription Refills Online page](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills) initiated from homepage	| 3,701,932/41.44% |	 | |
-|"Apply for education benefits" task completion  | Secondary top task with high utilization from current homepage and explicit link replaced with popular link "VA education benefits"  | Traffic to [Apply for VA Education Benefits page](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction/) initiated from homepage 	| 198,762/2.22%		|	 | |
-|"File for disability compensation (service-related)" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "Disability compensation"  | Traffic to [File For Disability Benefits page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) initiated from homepage	|	492,026/5.51%	|	 | |
-|"Schedule or manage health appointments" task completion via VAOS | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care"  | Traffic to [Your appointments page in VAOS](www.va.gov/health-care/schedule-view-va-appointments/appointments/) 	|	412,819/4.62% 	|	 | |
-|	"Message your doctor or get a health care message" task completion | Primary top task with high utilization from current homepage and explicit link replaced with popular link "VA health care" | Traffic to [Secure Messaging page in MHV](www.myhealth.va.gov/secure-messaging/) initiated from homepage 	| 587,173/6.57% 	|	 | |
-|	User engagement - promo content #1 | Maintained or increased	|	Click through rate for benefit promo story [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) |	6/<0.01%	|	 | |		
-|	User engagement - promo content #2 | Maintained or increased 	|	Click through rate for news story [Pathfinder](https://pathfinder.va.gov/)	| 0/0%		|	 | |	
-|	User engagement - promo content #3 | Maintained or increased 	|	Click through rate to all VA News	[Vantage Point is now VA News](https://news.va.gov/)	| 6/<0.01% | | | Satisfaction score | new homepage satisfaction scores are equivalent or better than existing page			|	_pending implementation of feedback on homepage_ | |
+|	"Download your benefit letters" task completion | <ul><li> This is a secondary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [Download VA benefit letters page](https://www.va.gov/records/download-va-letters/) initiated from homepage 	|	508,591/5.71%	|	 | |
+|	"Refill or track a prescription" task completion  | <ul><li> This is a primary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [Managing Your Prescription Refills Online page](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/managing-your-prescription-refills) initiated from homepage	| 3,701,932/41.44% |	 | |
+|"Apply for education benefits" task completion  | <ul><li> This is a secondary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul>  | Traffic to [Apply for VA Education Benefits page](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction/) initiated from homepage 	| 198,762/2.22%		|	 | |
+|"File for disability compensation (service-related)" task completion | <ul><li> This is a primary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [File For Disability Benefits page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) initiated from homepage	|	492,026/5.51%	|	 | |
+|"Schedule or manage health appointments" task completion via VAOS | <ul><li> This is a primary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [Your appointments page in VAOS](www.va.gov/health-care/schedule-view-va-appointments/appointments/) 	|	412,819/4.62% 	|	 | |
+|	"Message your doctor or get a health care message" task completion | <ul><li> This is a primary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [Secure Messaging page in MHV](www.myhealth.va.gov/secure-messaging/) initiated from homepage 	| 587,173/6.57% 	|	 | |
+|	User engagement - promo content #1 | Stakeholder content intended to present relevant Veteran information about changes to benefits and services | 	Click through rate for benefit promo story [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) |	6/<0.01%	|	Increased	| | |		
+|	User engagement - promo content #2 | Stakeholder content intended to present meaningful Veteran news 	|	Click through rate for news story [Pathfinder](https://pathfinder.va.gov/)	| 0/0%		|	Increased | |	
+|	User engagement - promo content #3 | Access to full news site 	|	Click through rate to all VA News	[Vantage Point is now VA News](https://news.va.gov/)	| 6/<0.01% | Increased | | 
+| Satisfaction score (dependent on the return of the feedback button to the current VA.gov homepage) | new homepage satisfaction scores are equivalent or better than existing page			|	_pending implementation of feedback on homepage_ | |
+ 
+The feedback and analytics collected on the redesign version may not be a representative sample because 
+  - Access to the redesigned page will be based on user "opt-in" from the existing homepage, making the data subject to selection bias and/or status quo bias. Feedback collected across VA.gov also has this potential selection bias so the comparison of results with the existing homepage should still be valid. 
+  - Data indicates that Veterans and beneficiaries with login accounts tend to skip the homepage so they will not see the modal announcement or be able to provide feedback on the new homepage. Other Veterans visiting VA.gov with a specific task in mind may be less inclined to view the new homepage during that visit or to take time to complete a feedback survey. These factors may lead to data which disproportionally represents new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
 
-The following context and risks are associated with this data and should be considered when determining cutover readiness
-- Feedback and analytics will be gathered based on user self-selection, which inherently has bias. This bias is consistent with feedback collection across VA.gov making the comparison of results with the existing homepage still valid. 
-- Veterans and beneficiaries who arrive on VA.gov on a page other than the homepage will not be presented with the option to experience the new homepage and thus will not be represented in this data.
-  - This may mean that much of the feedback and analytics collected on the homepage represent primarily new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
-- Veterans arriving on the homepage with a specific task in mind may be less inclined to view the new homepage during that visit.
 
 ## Screenshots
 
