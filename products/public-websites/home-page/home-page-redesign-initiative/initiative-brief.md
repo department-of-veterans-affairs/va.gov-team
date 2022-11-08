@@ -13,7 +13,8 @@
 [Assumptions and risks](#assumptions-and-risks)
 
 [Summary of changes](#summary-of-changes)
- - [Next steps](#next-steps)
+
+[Next steps](#next-steps)
 
 [Ongoing efforts](#ongoing-efforts)
 - [Cross-team collaboration](cross-team-collaboration)
@@ -119,9 +120,10 @@ Iterations should support the following goals:
 
 ## Summary of changes
 
-See details on [Summary of changes page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md)
+- [March 2022 | First build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
+- [Round 2 Design iteration | October 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#october-2022)
 
-### Next steps
+## Next steps
 
 1. Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
    > Status: Complete - June 2022 | [Unmoderated top task finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)
