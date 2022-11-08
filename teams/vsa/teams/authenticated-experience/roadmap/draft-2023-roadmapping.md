@@ -37,6 +37,11 @@ Potential projects and work for our team includes:
 - Each VA.gov team is responsible for updating and maintaining their sections accordingly, though the main product team will act as coordinators and liaisons with whoever is helping them define the delegate use case.
 - Timing on this is unclear. Definition is in its early phases, so I don't anticipate we'll work on this in the first couple of quarters of CY2023.
 
+Meeting with John Rahagi on 11.7.22:
+
+- Confirmed that it is unlikely our team will work on this in first two CY quarters of 2023, so I am not considering this in our first-quarter roadmap.
+- Check back in on this before maternity leave in case work needs to start while I am out.
+
 ### Refresh the VA.gov homepage and information architecture
 
 Potential projects and work for our team includes:
@@ -47,7 +52,8 @@ Potential projects and work for our team includes:
 
 Potential projects and work for our team includes:
 
-- Scaling on-site notifications
+- Scaling on-site notifications (Notifications V2)
 - Ongoing maintenance and updates to notification preferences, either health apartment-related or not
 - Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval
 - Persistently showing all sections of My VA and simplifying personalized logic (aka My VA audit updates)
+- Potentially add new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959))
