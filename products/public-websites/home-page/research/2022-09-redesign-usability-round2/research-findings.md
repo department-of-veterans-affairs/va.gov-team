@@ -254,42 +254,41 @@ Devices used during study:
 * Assistive Technology: 4 part-time screen reader users but not all during the research sessions
 
 Gender:
-* Male:      12
-* Female:     6
-* Non-binary: 0
-* Trans:      1
+* Male:       4
+* Female:     7
+* Non-binary: 1 (also self-identifies as female)
+* Trans:      0
 
 
 Age: 
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65+:   
+* 25-34: 0
+* 35-44: 3
+* 45-54: 4
+* 55-64: 2
+* 65+:   2
 
 
 Education: 
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
-* Doctoral degree: 
+* High school degree or equivalent: 2
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 4
+* Master's degree: 1
+* Doctoral degree: 0
 
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 7
+* Rural: 4
 
 
 Race:
-* White: 
-* Black: 
-* Hispanic:  
-* Biracial: 
-* Asian: 
-* Native: 
-* Unknown: 
+* White: 7
+* Black: 1
+* Hispanic: 3 
+* Biracial: 1
+* Asian: 1
+* Native: 1
 
 
 ## Underserved groups we haven’t talked to 
