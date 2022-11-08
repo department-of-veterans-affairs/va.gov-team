@@ -10,12 +10,12 @@ How might we create a transparent and efficient way for veterans to review and c
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-- Veterans and their families should be able to: 
-  1) View their current enrollment information 
-  2) Indicate if their enrollment information is correct or has changed on a regular basis
-  3) Have clear steps on what to do or who to contact to correct any issues with their enrollment information
+- A student required to verify their enrollment verification every month would benefit from an application that lets them:
+ -  View their current enrollment information 
+ -  Indicate if their enrollment information is correct or has changed on a regular basis
+ -   Have clear steps on what to do or who to contact to correct any issues with their enrollment information
+
+- With this problem solved, the student would be able to complete their required monthly enrollment verification conveniently at VA.gov, as opposed to having to call or send responses via phone texts.
 
 ## Undesired User Outcomes
 
