@@ -134,10 +134,20 @@
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* Release Plan will be finalized after project progresses. Key activities include:
+  1. Conducting user research on placement of the Chatbot
+  2. Identify an initial VA.gov page we can launch a Proof of Concept
+  3. Development
+  4. Launch on Proof of Concept to % of users
+  5. Observe Chatbot performance, make necessary changes, increase availability of Chatbot
+  6. Go/No Go to wider launch of Chatbot to more pages
+  7. Launch Moved Chatbot to % of users  
+  8. Observe Chatbot performance, make necessary changes, increase availability of Chatbot
+  6. Go/No Go to 100% launch of Moved Chatbot
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - Tentatively Late March 2023
+  - Q2 2023
 - *Actual Launch Date* 
   - tbd
 
