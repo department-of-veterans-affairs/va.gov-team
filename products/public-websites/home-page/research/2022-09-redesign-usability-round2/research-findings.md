@@ -122,8 +122,9 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      1. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
 4. Some participants didn't click on either of the promos. 
      1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it. We don't know why people didn't open it, but it may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
-     2. Four participants didn't notice the *More VA News* link.
+     2. Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Outreach materials*), and *Find benefit resources and support* in *Other search tools*.
      3. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
+     4. One participant was looking for an indication that the promo content was new (*vs.* always on the page). Without a date or the word "new!" like p2 saw in Press Releases (found via Footer > VA Updates > Press Releases), p2 assumed that the promo content was something she had already seen.
 5. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status).
 1. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
 > *"Mimicking, waste of space, not to the point" (p2)*.
