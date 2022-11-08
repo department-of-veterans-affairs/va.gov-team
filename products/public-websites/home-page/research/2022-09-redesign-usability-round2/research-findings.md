@@ -223,7 +223,7 @@ Screenshot of the [Home page that was tested on Staging](https://staging.va.gov/
 ![homepg-middle]()
 ![homepg-footer]()
 
-## Who we talked to -- ADD DATA!!!
+## Who we talked to
 
 **Recruitment criteria**
 
@@ -297,5 +297,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 * Other than honorable discharge
 * Immigrant origin
+* Expat (living abroad)
+* LGBTQ+
 
-![VA-recruitment-checker]()
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/VA-recruitment-checker.png)
