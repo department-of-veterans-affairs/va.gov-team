@@ -36,7 +36,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
 These are single pages that require a relatively low level of effort to migrate and are on the "top 1,000 urls" by pageviews list that is a focus of current accessibility efforts. Some have serious accessibility issues so prioritizing migration is a win for both migration and accessibility.
 
-We need to confirm with our VA partners, but I would anticipate that we could complete migration of some of these pages by December 2022.
+We need to confirm with our VA partners, but I would anticipate that we could complete migration of some of these pages by Q2 FY2023.
 
 - benefits.va.gov/gibill/isaksonroe/verification_of_enrollment.asp
 - benefits.va.gov/benefits/applying.asp
