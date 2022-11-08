@@ -12,19 +12,20 @@ Thus,
 
 ## Desired User Outcomes
 
-- Pre-filled information on file for authenticated users, _including_ an updated method for pre-filling and selecting a sponsor that has already transferred their benefits to the applicant
-- New & intuitive designs with a shortned flow that only asks the most important questions required for processing
-- The ability to yield a near real-time decision after submitting the application for some authenticated users
-
-## Undesired User Outcomes
-
+Veterans and their families should be able to: 
+- Apply for TOE education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed
+- Obtain an immediate decision about their benefit eligibility (at least for a percentage of user base)
+- Receive digital communications with status updates and documentation regarding their elgibility
+- Seemlessly notify desired school(s) about their eligibility
+- Stay informed of pertinent information being communicated from the school they are attending to VA
 
 ## Desired Business Outcomes
 
-- Shorter education application processing times for students so they can use their benefits promptly
-
+- Automation of education benefits application processing, without manual review, which should yield:
+  - Shorter education application processing times for veterans so they can use their benefits promptly
+  - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
 ## Undesired Business Outcomes
-
+- Delays on processing of TOE applications.
 
 ---
 ## Measuring Success
