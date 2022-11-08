@@ -197,7 +197,8 @@ Is there anything compelling enough from the findings that we should consider ch
 8. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
 9. We should **add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one. Note that this recommendation isn't  supported by data from this study but seems like a good idea.
      1. To fix the possible accessibility issue, consider **positioning the Feedback button on the *left* side of the page**, where it would be more noticeable for screen magnifier users while scanning down the left side of a page.
-     2. Talk to the team that works on the *Veterans Crisis Line* to share the finding about how the red button in the top right of VA.gov pages was invisible to a screen magnifier user on a computer. Perhaps the button could go all the way across the desktop version like it does on mobile.
+     2. **Talk to the team that works on the *Veterans Crisis Line*** to share the finding about how the red button in the top right of VA.gov pages was invisible to a screen magnifier user on a computer. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop version like it does on mobile.
+     3. Conduct **further research with screen magnifier users to learn more about what might be invisible on the right side of the home page, including  the *Create account* button.**
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 
