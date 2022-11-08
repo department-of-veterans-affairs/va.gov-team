@@ -68,7 +68,7 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 - We are currently in the process of building a custom Domo dashboard for the Chatbot page in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/45133. We would take the KPIs tracked in that dashboard and extend them in an updated report to all the pages that the Chatbot is placed on. We would use the data gathered from the initial custom Domo Dashboard for a single page to extrapolate the baselines and targets for how we would expect the Chatbot to perform on multiple pages. We would be interested at how the Chatbot performs at the micro level (in isolation on indivdiual pages) and at the macro level (how it's affecting performance of VA.gov and in aggregate). To see all metrics being tracked, please see that ticket.
-- We would also closely monitor the KPIs and dashboards of the pages that the Chatbot is placed on to see if there are any adverse affects on the Ease of Use, Task Completion, Findability, and User Satisfaction of those individual pages. Upon launch we would compare day over day the performance of pages the Chatbot is placed on by looking at Google Analytics and Domo reports such as this dashboard: https://va-gov.domo.com/page/80919003
+- We would also closely monitor the KPIs and dashboards of the pages that the Chatbot is placed on to see if there are any adverse affects on the Ease of Use, Task Completion, Findability, and User Satisfaction of those individual pages. Upon launch we would compare day over day the performance of pages the Chatbot is placed on by looking at Google Analytics and Domo reports such as this dashboard: https://va-gov.domo.com/page/80919003.
 ---
 
 ## Discovery
@@ -97,8 +97,8 @@
 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - We will need to coordinate with the Public Websites and Sitewide team, if we are the team who will be responsible for making the changes.
-  - 508 Office will need to review
-  - Proper marketing to announce the Chatbot being more widely available will be required
+  - 508 Office will need to review.
+  - Proper marketing to announce the Chatbot being more widely available will be required.
 <!--
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
@@ -109,10 +109,18 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- Functionally, we will be moving the Chatbot from the single page it resides on, to other pages on VA.gov. The exact placement and mechanism by which the Chatbot will be available on these pages is still to be determined by user research and tech feasbility. We may build a feature toggle mechanism to show / hide the Chatbot on VA.gov pages.
+- Functionally, we will be moving the Chatbot from the single page it resides on, to other pages on VA.gov. The exact placement and mechanism by which the Chatbot will be available on these pages is still to be determined by user research and tech feasbility. 
+- We may build a feature toggle mechanism to show / hide the Chatbot on VA.gov pages.
+- Responsiveness on the mobile web version of VA.gov will be addressed.
+- All critical accessibility issues on the Chatbot will be addressed.
+
+- Placement of the chatbot outside of the main VA.gov domain will not be included.  
+- Integration with any other functionality within VA.gov will not be included.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Coordination with the Contact Center in order to update existing user guides for the Chatbot, as well as prepare them for whatever impact moving the chatbot may have on their call volume.
+- Working with Marketing Teams to prepare the Veteran community on Chatbot capabilities (what it can and cannot do) and expecation setting.
 
 --- 
 
