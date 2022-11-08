@@ -68,6 +68,7 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
+We are currently in the process of building a custom Domo dashboard for the Chatbot page in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/45133. We would take the KPIs tracked in that dashboard and extend them in an updated report to all the pages that the Chatbot is placed on. We would use the data gathered from the initial custom Domo Dashboard for a single page to determine the baselines and targets for how we would expect the Chatbot to perform on multiple pages. We would be interested at how the Chatbot performs at the micro level (in isolation on indivdiual pages) and at the macro level (how it's affecting performance of VA.gov and in aggregate). To see all metrics being tracked, please see that ticket.
 ---
 
 ## Discovery
