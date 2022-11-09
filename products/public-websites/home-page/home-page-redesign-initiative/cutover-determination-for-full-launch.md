@@ -1,7 +1,7 @@
 ## Cutover determination for full launch (WIP)
 
 > The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" modal from the existing VA.gov homepage. 
-> The following metrics will be used to determine when/if the redesign can replace the existing homepage in Production by assessing 
+> A subset of metrics considered "critical" will be used to determine when/if the redesign can replace the existing homepage in Production by assessing 
 > - if enough users have used the redesign for analytics to be representative 
 > - if the new homepage sufficiently supports task completion  
 
