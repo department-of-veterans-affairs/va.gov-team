@@ -15,7 +15,7 @@ Increase proactive communication to Veterans via SMS, so they know when to expec
     1. https://community.max.gov/display/VAExternal/BIA-CK101+-+Kafka+Solution+Requirements+-+VA+Notify
     2. https://community.max.gov/display/VAExternal/BIA-CK102+-+Kafka+Intake+Worksheet+-+VA+Notify
 
-2. [Live 11/15/22] In partnership with VA Profile we are creating a communication item (opt-in) sync. This is currently only used for the Comp & Pen preference so we can reduce the amount of calls to VA profile monthly to only those who have opted-in.
+2. [Live 11/15/22] In partnership with VA Profile we are creating a communication item (opt-in) sync. This is currently only used for the Comp & Pen preference so we can reduce the amount of calls to VA profile monthly to only those who have opted-in. When processing the monthly batch of payment events we will first check our opt-in cache to determine if a notification is needed.
 
 ## Future enhancements
 There are also one-time/retroactive payments that may warrant a confirmation notification.
