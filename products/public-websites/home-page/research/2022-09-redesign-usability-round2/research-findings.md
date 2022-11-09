@@ -173,10 +173,14 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - *Check/update education benefits* (71% completed successfully)
 
 
-## 7. **Additional usability feedback on the home page**
-
-We heard some additional usability feedback on the home page and other VA.gov pages:
-1. One participant suggested 
+## Ideas from participants
+Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
+1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
+1. Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
+2. Would like to have a search bar at the bottom of the page to use if you scroll through the entire page and don't find what you're looking for.
+3. The header "Explore VA benefits and health care" header above the benefit hubs seemed _"like twiddling your thumbs" (p11)_. Better would be something more task or goal oriented, such as "What do you need?" or "What would you like to do?".
+4. Would be nice to have an area for community connections--organizations that partner with VA (e.g., American Legion, Disabled American Vets, VFW) for volunteering, transportation to appointments, and advocating. Suggested putting it at the bottom of the page, below the benefit hubs.
+5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
 
 
 ## Other Findings
