@@ -19,7 +19,7 @@
     - Hold design intent review
     - Update wireframes with any recommendations
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
-    - Brainstorm ideas for a solution
+    - Hold a compressed design sprint to brainstorm ideas for a solution
 - CIE Analytics
     - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kelly)
 - CIE Tech Debt & Bugs
@@ -36,8 +36,9 @@
     - Verify all workflows
 - CIE Tech Debt & Bugs
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)
-    - Verify pre-checkin usage for telephone appointments (using CDW)
-    - Clean Up Phone Feature Flag
+    - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574)
+    - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
+    - [Deprecate day-of demographics flag](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49485)
     - [Implement Feature Status query by FLIPPER_ID cookie](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45332)
     - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Loading message references pre-check-in on day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47347)
