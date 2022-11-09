@@ -3,6 +3,7 @@
 - [ ] Make sure feature is turned on for user
 - [ ] Review whether or not the participant roster states the participant has VA debt and/or payments
 - [ ] Start a thread in #feedback-backchannel
+- [ ] Make sure Zoom transcription feature is turned on
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
