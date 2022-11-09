@@ -3,7 +3,6 @@
 ## 2022-11-9 
 
 ## Attendees
--
 - Lexi Wunder
 - Jonathan Nelson
 - Coulton Bunney
