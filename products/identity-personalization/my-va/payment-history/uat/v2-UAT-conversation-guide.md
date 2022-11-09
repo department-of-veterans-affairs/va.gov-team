@@ -88,8 +88,8 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 - [ ] **UAT TASK**: Confirm Manage VA debt and Manage VA bills links are behaving as expected
 - [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
-## 3. Review payment history section - 5-7 minutes
-Okay, let’s look at the section that says "Payment history."
+## 3. Review benefit payments section - 5-7 minutes
+Okay, let’s look at the section that says "Benefit payments."
 
 Does everything related to your payment seem right to you?
 
@@ -109,8 +109,8 @@ Let’s review the links in this section. Please tell me what links are in this 
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
-- [ ] **UAT TASK**: Confirm the "View your payment history" link within payment card is behaving as expected
-- [ ] **UAT TASK**: Confirm the "View your payment history" secondary link that shows for users without a recent payment card is behaving as expected
+- [ ] **UAT TASK**: Confirm the "Review your payment history" link within payment card is behaving as expected
+- [ ] **UAT TASK**: Confirm the "Review your payment history" secondary link that shows for users without a recent payment card is behaving as expected
 - [ ] **UAT TASK**: Confirm the "Manage your direct deposit information" secondary link that shows for all users is behaving as expected
 - [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
