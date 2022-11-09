@@ -1,5 +1,41 @@
 # VA.gov / MHV Weekly Design Review meeting note log
 
+## Date: 11/9/2022
+MC: Bryan Riley  
+Notetaker: Coulton Bunney
+
+### Notes
+
+#### Round Robin Updates
+
+* Secure Messaging
+  * UCD: Secure messaging usability testing ongoing. 
+  * Development: Front-end dev continued. Working on tickets to get ready for collaboration cycle next steps.
+  * Testing: <Missed this update - audio cut out>
+  * Product: Working on artifacts for collab cycle. 
+* Medical Records
+  * UCD: Continiuing generative research for medical records this week - hope to wrap up by week's end.
+  * Development: No updates 
+  * Product: Bylight working to onboard resources for medical records. 
+
+ #### Topic 1: 45 day alert message
+  * Context: Users will receive this message when it has been 45 days since the last reply on a message from a provider. This will help encourage new conversation rather than continually replied to. 
+  * Legacy design: Reviewed the existing content. Found that the language was a bit accusatory and did not present a clear next step to resolve. Additionally, using red is not the right choice as this is not an error. Finally, the page includes reply buttons that must be pressed first to throw the "cannot reply" error message.
+  * Problem to be solved: How might we give notice to users that they can no longer reply to a conversation thread?
+  * New design: 
+    * Information alert
+    * Provided informational content that explains that a user cannot reply and why they can't reply. 
+    * Provides a way to compose a new message in respone. 
+  * Discussion: 
+	   * Patti: Would reconsider the language used, "aren't allowed" to "are no longer allowed" 
+    * Bhanu: Users did not like that there was no reply button in line. That's why we kept the reply button in line. This probably won't be in JIRA, it would be in our old system. There may be a user story in the sharepoint that you can refer to. You should also consider how this impacts drafts that would be more than 45 days old.
+    * Bhanu then shared a demo of this functionality in legacy. Today, we allow users to open a draft that is a reply that is 45 days old but tell them the draft message has expired. 
+    * Danielle: Quick note from content team: Contractions are part of the conversational tone of plain language. But in this case, there may be a different way to phrase this altogether (like the suggestion of "no longer allowed" or something similar).
+  * **Action items:**
+      1. Submit copy to content team for review
+      2. Consider what happens to draft replies when the 45 day mark is hit.
+        
+
 ## Date: 11/2/2022
 
 MC: Bryan Riley  
