@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the CEDAR Identity Project. This document should help familiarize you with the project and your team. Please copy this document to your own Github, so you can refer back to it and fill out the checklist.
+Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you here! This document should help familiarize you with the project and your team. Please copy this document to your own Github, so you can refer back to it and fill out the checklist.
 
 ## Onboarding
 ### Your onboarding checklist
