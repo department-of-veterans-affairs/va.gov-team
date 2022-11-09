@@ -21,13 +21,9 @@
 **IA** 
 - Coulton walked through the IA (focusing on MR) 
 - Recording of the meeting (ask if you want recording) 
-- 
+
 Next steps: 
 - 
-
-
-
-
 
 # Medical Records: design and research sync
 
