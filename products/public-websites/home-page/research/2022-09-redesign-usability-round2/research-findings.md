@@ -97,8 +97,11 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 # Key Findings
 
 # Details of Findings--REVISE!!!
+## In scope of home page redesign
 
-## 1. 
+## Out of scope of home page redesign
+
+### 1. 
 
 1. As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular at VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more continuously. 
       1. **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page with the percentages of participants who clicked on each area of the page. 
