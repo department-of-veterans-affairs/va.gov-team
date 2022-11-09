@@ -135,7 +135,7 @@ _¹1 unclear result not included; ²4 unclear results not included; ³2 unclear 
 * 7/12¹ participants would want to receive refill and shipping alerts (push, text, email)
   * Participants mentioned wanting to be notified when a prescription is eligible to be refilled and if there is an issue refilling a prescription.
     > “I would like a warning to refill a prescription. I would like to get it through my phone. It would be something I would benefit from. I would prefer email. If I get a text from a number I don’t know, I tend to ignore it. It could say ‘You need to order medication now.’” (P9)
-  * Participants mentioned wanting to be noticed when a prescription is shipped and delivered. 
+  * Participants mentioned wanting to be notified when a prescription is shipped and delivered. 
     > “I would like to be notified that my medication shipped and delivered. I would prefer text personally but maybe a way you can opt into which type of notification.” (P14)
 
 _¹1 participant did not go through the prototype_ 
