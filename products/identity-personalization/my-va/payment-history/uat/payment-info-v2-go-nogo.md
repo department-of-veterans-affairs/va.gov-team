@@ -4,19 +4,25 @@
 
 ---
 
-**Liz or Angela: Are the research plan and conversation guide for UAT complete?**
+**Angela: Is the research plan and conversation guide for UAT complete?**
 - Answer: 
 
-**Liz or Angela: Are you prepared to run UAT sessions as early as this week from now?**
+**Angela: Are you prepared to run UAT sessions as early as this week from now?**
+- Answer: 
+
+**Angela: Do you have a backup to run UAT sessions should something come up and you are unable to facilitate?**
 - Answer: 
 
 **All: Have we reviewed the feature in staging and confirmed that it works as expected?**
 - Answer: 
 
+**AJ, Erica and Taylor: Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?
+- Answer: 
+
 **AJ & Erica: Is staging review complete?**
 - Answer:
 
-**Taylor and Liz or Angela: Are all launch-blocking accessibility issues fixed?**
+**Taylor and Angela: Are all launch-blocking accessibility issues fixed?**
 - Answer: 
 
 **Taylor: Are you prepared to manage giving UAT participants' access to Outstanding debts and Benefit payments sections in production? And do you have a backup in case of an emergency?**
