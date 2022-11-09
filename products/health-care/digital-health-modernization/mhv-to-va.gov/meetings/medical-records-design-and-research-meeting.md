@@ -20,7 +20,10 @@
 
 **IA** 
 - Coulton walked through the IA (focusing on MR) 
-- Recording of the meeting (ask if you want recording) 
+
+- Recording of the meeting [see recording here](https://adhocteam-us.zoom.us/rec/play/HpLEly58yl-FVONmptKBXeIHituP4yTEnFtwD_uaUutEOKQ84fBherMeauwfx2JtYCNVW4JL64Eb68h-.oxNhql0RdAlj--RX)
+
+  - Passcode: LE.0VEZw 
 
 
 # Medical Records: design and research sync
