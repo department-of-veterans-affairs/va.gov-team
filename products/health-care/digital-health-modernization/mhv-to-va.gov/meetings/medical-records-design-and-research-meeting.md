@@ -1,5 +1,37 @@
 # Medical Records: design and research sync
 
+## 2022-11-9 
+
+## Attendees
+-
+- Lexi Wunder
+- Jonathan Nelson
+- Coulton Bunney
+- Bobby Bailey
+- Anne Costello 
+
+## Agenda
+- Updates 
+- Medical records and broader My Health IA (Coulton)
+
+## Notes
+
+**Updates** 
+- Include Jenny on strategy and research workshop plan prep (Jonathan and Robyn) 
+
+**IA** 
+- Coulton walked through the IA (focusing on MR) 
+- Recording of the meeting (ask if you want recording) 
+- 
+Next steps: 
+- 
+
+
+
+
+
+# Medical Records: design and research sync
+
 ## 2022-10-26 
 
 ## Attendees
