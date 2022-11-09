@@ -117,7 +117,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
           
 2. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
      1. 10 of 11 participants got stuck on some task(s) during the sessions.
-     1. Only 5 of 11 participants ever tried using search. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header.
+     1. Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header.
      1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
      1. 2 people used search when they didn't appear to be stuck.
 3. ***Message your doctor* had the lowest task success rate**, which was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. 
