@@ -46,7 +46,7 @@ Remote, via Zoom
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-conversation-guide.md) 
 
 ## Recruitment	
-Our intended audience for this research is mainly BIPOC Veterans, LGBTQ+ Veterans, assistive tech users, and Veterans with cognitive disabilities who have payments and debt with VA. We'll use Perigean to recruit them.
+Our intended audience for this research is mainly BIPOC Veterans, assistive tech users, and Veterans with cognitive disabilities who have payments and debt with VA. We'll use Perigean to recruit them.
 
 We are focusing our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
@@ -62,7 +62,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |                |Moderated   |
 |----------------|:----------:|
 |***SEX***       |            |
-|*Various*       |            |
+|*Various*       |      6     |
 |Male            |            |
 |Female          |      6     |
 |***LGBTQ+***    |            |
@@ -162,15 +162,6 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |IAL1            |      X     |
 |IAL2            |            |
 |IAL3            |            |
-
----
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
 
 ---
 
