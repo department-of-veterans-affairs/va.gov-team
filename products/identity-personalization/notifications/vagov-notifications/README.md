@@ -132,7 +132,7 @@ When a user dismisses a notification, we send a PATCH request to the api `/v0/on
 
 ## Design
 
-- [Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
+- [Sketch file](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/use-cases)
 
 ### Before
