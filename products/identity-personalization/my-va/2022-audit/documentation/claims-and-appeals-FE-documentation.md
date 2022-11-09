@@ -55,6 +55,14 @@ You have no claims or appeals to show.
 
 ---
 
+### If a user has multiple claims or appeals that are open or have been closed in the last 60 days
+
+We only show a status card in this section for the claim or appeal that has been updated most recently. 
+
+A max of **one** status card should be showing at any given time for a user.
+
+---
+
 ### Learn how to file a claim link
 
 ![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
