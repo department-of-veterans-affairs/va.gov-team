@@ -97,15 +97,15 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 # Key Findings
 
 # Details of Findings--REVISE!!!
-## In scope of home page redesign
+## In-scope findings for home page redesign
 
-## Out of scope of home page redesign
 
 ### 1. 
 
 1. As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular at VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more continuously. 
       1. **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page with the percentages of participants who clicked on each area of the page. 
-      1. One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon.
+      1. One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon. 
+      2. One participant said they liked the colored logos in front of each of the benefit hubs. A different participant said they liked the descriptions of each benefit hub, whereas someone else said that the descriptions sounded too informational and not task-focused (i.e., apply/learn about benefits, not manage benefits), and so didn't click on them.   
       5. We can compare the home page click results from this study with the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and the last year's [Baseline Wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md). From the comparison of the data from 3 research studies below, we can see that **people seem to be scrolling farther down the redesigned home page without the presence of the false footer--so making better use of the entire home page. There are also more clicks on the benefit hubs and footer**, perhaps because participants aren't finding what they need farther up (because the "top 4" boxes are missing). We make only these broad conclusions because of the following caveats:
            1. The tasks in these three studies were mostly different. In this study, there were no tasks specifically geared towards *Other search tools* as in the previous study, but there were new tasks around the VA news and benefit promos.
            2. There were fewer tasks in this study (8) than in the previous study (20) and the baseline wayfinding study (9), and in the previous study, different people did different subsets of the 20 tasks.
@@ -140,6 +140,18 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
 
+### Ideas from participants
+Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
+1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
+1. Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
+2. Would like to have a search bar at the bottom of the page to use if you scroll through the entire page and don't find what you're looking for.
+3. The header "Explore VA benefits and health care" header above the benefit hubs seemed _"like twiddling your thumbs" (p11)_. Better would be something more task or goal oriented, such as "What do you need?" or "What would you like to do?".
+4. Would be nice to have an area for community connections--organizations that partner with VA (e.g., American Legion, Disabled American Vets, VFW) for volunteering, transportation to appointments, and advocating. Suggested putting it at the bottom of the page, below the benefit hubs.
+5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
+
+## Out of scope for home page redesign
+
+
 **OLD from last round of testing, so need to REWRITE/DELETE...**
 
 ![home-pg-areas]()
@@ -172,15 +184,6 @@ From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderat
 - *Message your doctor* (83% completed successfully)
 - *Check/update education benefits* (71% completed successfully)
 
-
-## Ideas from participants
-Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
-1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
-1. Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
-2. Would like to have a search bar at the bottom of the page to use if you scroll through the entire page and don't find what you're looking for.
-3. The header "Explore VA benefits and health care" header above the benefit hubs seemed _"like twiddling your thumbs" (p11)_. Better would be something more task or goal oriented, such as "What do you need?" or "What would you like to do?".
-4. Would be nice to have an area for community connections--organizations that partner with VA (e.g., American Legion, Disabled American Vets, VFW) for volunteering, transportation to appointments, and advocating. Suggested putting it at the bottom of the page, below the benefit hubs.
-5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
 
 
 ## Other Findings
