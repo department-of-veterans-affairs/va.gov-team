@@ -253,7 +253,7 @@ December 2022
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: heather@adhocteam.us
 * Date and time of pilot session: 
-  * TBD
+  * Monday, November 14, 2022 at 4:00pm-4:30pm
 
 ### Research sessions
 What dates do you plan to do research? 
