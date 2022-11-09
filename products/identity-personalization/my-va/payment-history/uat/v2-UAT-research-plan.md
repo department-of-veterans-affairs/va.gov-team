@@ -81,8 +81,8 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |*Various*       |      6     |
 |Black           |      2     |       
 |White           |            |             
-|Latinx          |      2     |                      
-|Asian           |      2     |              
+|Latinx          |      1     |                      
+|Asian           |      1     |              
 |Native          |            |          
 |Pacific Islander|            |            
 |       ---      |     ---    |     
@@ -137,7 +137,7 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Rural           |      4     |
 |       ---      |     ---    |
 |***HARDWARE***  |            |
-|*Various*       |      12    |
+|*Various*       |      6     |
 |Desktop         |            |
 |Laptop          |            |
 |Smartphone      |      6     |
@@ -248,16 +248,16 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-Q4 2022
+December 2022
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
+* Pilot participant email: heather@adhocteam.us
 * Date and time of pilot session: 
   * TBD
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+Thursday November 17 - Wednesday November 23
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -266,10 +266,11 @@ Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-|  |  |	
-|  |  |
-|  |  |
-|  |  |
+| Thursday, November 17 | 9am-5pm |	
+| Friday, November 18 | 9am-5pm |
+| Monday, November 21 | 9am-5pm |
+| Tuesday, November 22 | 9am-5pm |
+| Wednesday, November 23 | 9am-1pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -278,11 +279,10 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto
-- Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Participant(s) for pilot test: Heather Catalano
+- Note-takers: None (will use Zoom transcription)
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us
   - erica.sauve@adhocteam.us
   - taylor.mitchell@gcio.com
-  - liz.lantz@adhocteam.us
