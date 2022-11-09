@@ -83,8 +83,7 @@ Checkout our [Playbook](https://github.com/department-of-veterans-affairs/va.gov
 * Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
 * Templating guides: 
   * https://design.va.gov/templates/email
-  * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
-  * https://notification.canada.ca/templates
+  
 
 ![](images/technical.png)
 
