@@ -1,4 +1,4 @@
-# Payment Info V2: UAT Go/No-Go |  
+# Payment Info V2: UAT Go/No-Go | 11/10/2022 
 
 ## Decision: __________
 
