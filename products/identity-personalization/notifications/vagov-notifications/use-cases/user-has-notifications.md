@@ -3,9 +3,9 @@
 **Last updated:** November 10, 2022
 
 - If a LOA3 user has an onsite notification on their My VA page, they will see their notifications under a "Notifications" header on My VA once they are logged in.
-- If a user clicks on this link, they will be taken to a different page to learn more about the notification topic and/or take action on it.
+- If a user clicks on a link within a notification, they will be taken to a different page to learn more about the notification topic and/or take action on it.
 - If a user clicks or taps the close icon on a notification, it dismisses the notification.
-- If a user has multiple notifications, they will see see a notification for each one under the "Notifications" header in chronological order with the newest at the top.
+- If a user has multiple notifications, they will see see a notification for each one under the "Notifications" header in reverse chronological order with the newest at the top.
 
 ## UX
 
@@ -47,7 +47,7 @@
 ## How to reproduce
 
 - Locate a staging account that has an onsite notification triggered.
-  - [Onsite notifications test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
+  - [On-site notifications test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
   - Note that since notifications can be dismissed in staging, you will need to find a staging user who this has not occured for.
   - VA Notify can trigger a new debt notification for a staging user if needed. Contact them on the DSVA Slack in the `#va-notify-public` channel.
 - Log into staging.va.gov with credentials for a staging user who has a notification triggered.
