@@ -125,6 +125,7 @@ Iterations should support the following goals:
 
 - [March 2022 | First build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
 - [Round 2 Design iteration | October 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#october-2022)
+- [Launch design iteration | November 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#november-2022)
 
 ## Ongoing efforts
 - Define objectives and key results
