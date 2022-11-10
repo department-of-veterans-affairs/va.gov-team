@@ -267,6 +267,7 @@ Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule
 Please list the people who will be serving in each role. 
 
 - Moderator: Angela Agosto, angela.agosto@adhocteam.us
+	- Back up moderator: Liz Lantz, liz.lantz@adhocteam.us
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto
