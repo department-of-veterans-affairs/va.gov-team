@@ -1,5 +1,5 @@
-## Design Links
-Links to Claims and Appeals design work
+## Specs
+Links to Claims and Appeals design specs (Starting 2022)
 
 
 #### Decision Letter Download - Nov 2022
