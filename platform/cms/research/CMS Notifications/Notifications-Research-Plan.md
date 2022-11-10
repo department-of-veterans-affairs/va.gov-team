@@ -5,23 +5,23 @@ This final researh plan is published in the [CMS research repo](https://github.c
 ## Background
 This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. 
 
-### OCTO Objectives 
+## OCTO Objectives 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) 
 
-## Office of the CTO (OCTO) North Stars
+### Office of the CTO (OCTO) North Stars
 - Increase the quality and reliability of VA services
 
-## Mission
-Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
+### Mission
+- Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
 
-## Goals
-1. Veterans and their families can find a single, authoritative source of information
-1. Veterans and their families trust the security accuracy and relevancy of VA.gov
+### Goals
+- Veterans and their families can find a single, authoritative source of information
+- Veterans and their families trust the security accuracy and relevancy of VA.gov
 
-## Numbers
-### Increase
+### Numbers
+#### Increase
 - Veteran satisfaction with VA.gov
-### Decrease
+#### Decrease
 - Call center volume, wait time, and time to resolution
 - Time from online benefit discovery to benefit delivery
 
