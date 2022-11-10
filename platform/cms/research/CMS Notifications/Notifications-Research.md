@@ -1,4 +1,4 @@
-# Editor-facing research Plan for [Team, Product, Date]
+# Editor-facing research Plan for Sitewide CMS Notifications - November 2022
 
 Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and add a link in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
