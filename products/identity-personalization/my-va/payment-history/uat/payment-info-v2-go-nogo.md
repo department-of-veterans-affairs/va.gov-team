@@ -7,7 +7,7 @@
 **Angela: Is the research plan and conversation guide for UAT complete?**
 - Answer: 
 
-**Angela: Are you prepared to run UAT sessions as early as this week from now?**
+**Angela: Are you prepared to run UAT sessions as early as next week?**
 - Answer: 
 
 **Angela: Do you have a backup to run UAT sessions should something come up and you are unable to facilitate?**
