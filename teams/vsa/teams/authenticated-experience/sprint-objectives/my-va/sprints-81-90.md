@@ -282,6 +282,18 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 - PM: [Update 1-month stats for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success)
 
+### My VA audit
+
+**PM**
+
+- Analytics request
+- Continue/finish QA use cases
+
+**Design**
+
+- Research
+- Research write-up
+
 ## Sprint 89 (12/14 - 12/27)
 
 ### PTO
