@@ -2,7 +2,7 @@
 Links to Claims and Appeals design specs (Starting 2022)
 
 
-#### Decision Letter Download - Nov 2022
+#### Decision Letter Download MVF - Nov 2022
 [Final spec](https://www.sketch.com/s/8b025901-295d-4929-95cc-8dbeb28454b3/p/CAA1846C-79ED-4BDB-94B9-BA0EBE74EC5B/canvas)
 
 #### Burials Flow a11y Bug - Nov 2022
