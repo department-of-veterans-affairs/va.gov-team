@@ -27,16 +27,12 @@
 
 - If a user clicks on the link in the notification, they will be taken to a different page. This action does not dismiss or affect the notification in any way.
   - For a new debt notification, the link "Manage your VA debt" takes the user to the [combined debt portal](https://www.va.gov/manage-va-debt/-your-debt) in the same window.
-    - [Desktop mockup of debt notification](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
-    - [Mobile mockup of debt notification](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/639F4902-A32D-4454-87E5-4BD2E50E578E)
 
 ### User dismisses notification
 
 - A user can dismiss a notification by clicking (or tapping on mobile) the close icon in the upper righthand corner of the notification.
 - If a user clicks or taps the close icon, the individual notification should disappear.
 - If a user dismisses all notifications in the Notifications section, the the "Notifications" header should disappear as well.
-  - [Desktop mockup of all notifications dismissed](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-  - [Mobile mockup of all notifications dismissed](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
 ### There's an error when user tries to dismiss a notification
 
