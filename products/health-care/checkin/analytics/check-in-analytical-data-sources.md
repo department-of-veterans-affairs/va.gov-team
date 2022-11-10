@@ -17,7 +17,16 @@ See also [Check-In Experience Reporting](https://github.com/department-of-vetera
 Completed mobile check-ins; total number of appointments; clinical information; patient demographics.
 
 ### Access
-CDW access is tightly restricted. National SSN access for SPatient and SStaff is necessary. Inquire in [#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) if you need access.
+CDW access is tightly restricted. National SSN access for SPatient and SStaff is necessary. Follow these instructions to get access or inquire in [#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM).
+- [Instructions](https://dvagov.sharepoint.com/sites/OITBISL/cdw_support/SitePages/Obtaining-CDW-Access.aspx)
+    - Enter these values for these fields
+        - Employee Agency = OIT
+        - Station Number = 101-Central Office
+        - CDW SQL Datasets:
+            - Basic Read Access (CDW_Full)
+            - Priviledged Read patient access (CDW_SPatient)
+            - Staff Real SSN Access (CDW_SStaff)
+        - Supervisor = Your COR (currently Cecelia Lee)
 
 ### Notes
 CDW is VA's repository for electronic health record (EHR) and other operational data, primiarly in the health care domain. Data from all EHRs (the numerous location installations of VistA or the national Cerner EHR) is replicated nightly to CDW. Data lags one day. Of particular interest is data on the `CDWWork.Appt.Apppintment` table, which includes information about how an appointment was checked in. Appointments that are checked in by a "staff member" with a SID on `OVAC_VEText.dflt.VISTALINK_Accounts` are considered to be mobile check-ins. As of June 2022, CDW does not include the pre-check-in / e-check-in enabled data for each clinic; it is on the CDW team's roadmap.
