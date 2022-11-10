@@ -1,6 +1,6 @@
 # Biweekly Process for Analyzing VSignals Feedback
 
-1. Ben Brasso will e-mail the VSignals team on the Monday before a sprint ends to get two weeks worth of VSignals reports.
+1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
     1. The VSignals reports that we receive are a query from all VSignals feedback containing the word check-in.
     2. If you need access to the OneDrive document and do not have it, message Ben.
