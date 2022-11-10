@@ -14,18 +14,17 @@
 
 [Summary of changes](#summary-of-changes)
 
-[Next steps](#next-steps)
-
 [Ongoing efforts](#ongoing-efforts)
 - [Cross-team collaboration](cross-team-collaboration)
 - [Connection to authenticated experience](#connection-to-authenticated-experience)
 - [Discussions with stakeholders](#discussions-with-stakeholders)
 
 [Launch planning](#launch-planning)
+- [Soft launch](#soft-launch)
 
-- [Collaboration cycle](#collaboration-cycle)
+[Collaboration cycle](#collaboration-cycle)
 
-- [Timeline](#timeline) 
+[Timeline](#timeline) 
 
 [Cutover determination - WIP](#cutover-determination-wip)
 
@@ -128,40 +127,9 @@ Iterations should support the following goals:
 - [March 2022 | First build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
 - [Round 2 Design iteration | October 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#october-2022)
 
-## Next steps
-
-1. Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
-   > Status: Complete - June 2022 | [Unmoderated top task finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)
-
-2. Validate design changes with Veterans
-   > Status: Complete - August 2022 | [Usability research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)
-
-3. Share research findings broadly 
-   > Status: Complete. Top task and usability findings have been presented broadly, including to Public Websites, Authenticated Experience and Health Apartment teams. 
-
-4. Continue to refine objectives and key results 
-   > Status: Ongoing
-   
-5. Develop a rubric for delivering meaningful Veteran-facing content 
-   > Status: In progress. Initial rubric was used to determine list of links for design iteration, round 2.
-
-6. Design iterations, informed by analytics and research findings 
-   > Status: Round 2 complete - [Description of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/round-2-design-iteration.md)
-
-7. Validate design changes with Veterans
-   > Status: Round 2 complete | [Round 2 Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
-
-8. Present to Web Governance Board and Digital Modernization Council stakeholders
-   > Status: Completed October 20-21, 2022
-
-9. Share research findings broadly 
-   > Status: In progress
-
-10. Drupalize homepage content
-    > Status: _In progress_
-
-
 ## Ongoing efforts
+- Define objectives and key results
+- Develop a rubric for delivering meaningful Veteran-facing content
 
 ### Cross-team collaboration
 - Tight collaboration/communication/research readouts with relevant teams (Public Websites, Apartment, Auth Experience)
@@ -178,44 +146,9 @@ Iterations should support the following goals:
 - October 20-21, 2022 [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx) to Digital Modernization Council and Web Governance Board
 --- 
 
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-
-| Collab cycle milestone |	Date	|	Issue	|	Notes |
----	|	---	|	---	|	---
-| | | Epic: [VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845)| |
-| Design intent | 03/29/2022 | [CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | |
-| Research | 5/2022 - 6/2022| [Epic: Veteran Top Task Research (moderated and unmoderated) #40857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | [Unmoderated research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md) |
-| Research | 8/2022 | [Research epic:  VA.gov homepage redesign iteration - usability#46652](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46652) | [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) |
-| Research | _planned 10/2022_ | [Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md) |
-| Analytics | _requested 5/2022_ | <ul><li> [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512) </li><li> [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503) </li></ui>  | <ul><li> Search DOMO / complete </li><li> Content DOMO / pending </li></ui> |
-| Accessibility | _requested 6/2022_| [Accessibility spot check review for redesigned VA.gov home page #42860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42860)| <ul><li> [SCREENREADER: Alt attributes need to be more descriptive #43898](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/43898) / pending </li><li> [AXE-CORE Change some of the H2s to H3s #9722](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/9722) / closed </li><li> [SCREENREADER: No h1 heading on page #9721](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/9721) / closed </li></ul>
-| Mid-cycle review | 10/21/2022 | [Sitewide Homepage, VA.gov homepage redesign #48041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48041)
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-| Date | Milestone|
-|---|---|
-| November 11, 2018 | VA.gov launch
-| April 2021 | Baseline Wayfinding Research | 
-| March 39, 2022 | [Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)|
-| June 3, 2022 | Moderated Top Task research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
-| June 3, 2022 | First build deployed to [Staging](https://staging.va.gov/homepage-test/) |  
-| June 2022 | Unmoderated Top Task research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)|
-| July 22, 2022 | [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) to Digital Modernization Council 2022 
-| August 2022 | Usability research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)| 
-| September 2022 | Design iteration v2 deployed to staging
-| October 2022 | Usability of redesigned homepage /[plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
-| October 2022 | [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx) to Digital Modernization Council and Web Governance Board
-| October 2022 | Drupalization of homepage content
-| November 2022 | Final pre-launch design iteration
-
----
 ## Launch planning
 
+### Soft launch
 The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. 
 A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. 
 
@@ -239,7 +172,7 @@ Modal
  - (+) making it dismissible will manage annoyance factor and various user flows
 </details>
 
-## Expected behavior
+**Expected behavior**
 - The redesigned experience modal is presented **only** on the VA.gov homepage.
 - A Veteran or beneficiary can interact with the modal to agree or decline to use the redesigned homepage.
 - The modal offering the redesigned homepage experience displays **only once** within a user's session.
@@ -251,8 +184,14 @@ Modal
 _Acceptable known risk:
 Veterans or beneficiaries who opt-in to the redesigned experience may not be able to easily return to the redesigned page after navigating to deeper content pages. The user_ **may** _be able to return to the redesigned page using the back button. This user will have another opportunity to opt-in from the homepage during the next VA.gov session._
 
-## Cutover determination (WIP)
-A subset of metrics considered "critical" will be used to determine when/if the redesign can replace the existing homepage in Production. [See details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
+### Cutover determination (WIP)
+A [subset of metrics considered "critical"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) will be used to determine when/if the redesign can replace the existing homepage in Production.
+
+## Collaboration Cycle
+Collab Cycle tracking details are available on the [Homepage design iteration timeline page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md#collab-cycle-touchpoints)
+
+## Timeline 
+Details on the major milestones for this initiative are available on the [Homepage design iteration timeline page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md#timeline)
 
 ## Screenshots
 
