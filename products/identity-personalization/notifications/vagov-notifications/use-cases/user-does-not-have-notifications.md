@@ -1,4 +1,4 @@
-# My VA On-site Notifications: User does not have any notifications
+# My VA Onsite Notifications: User does not have any notifications
 
 **Last updated:** November 10, 2022
 
