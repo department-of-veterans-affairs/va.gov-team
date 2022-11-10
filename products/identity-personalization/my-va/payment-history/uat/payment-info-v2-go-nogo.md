@@ -22,7 +22,7 @@
 **AJ & Erica: Is staging review complete?**
 - Answer:
 
-**Taylor and Angela: Are all launch-blocking accessibility issues fixed?**
+**Taylor and Angela: Are all launch-blocking accessibility (or other) issues fixed?**
 - Answer: 
 
 **Taylor: Are you prepared to manage giving UAT participants' access to Outstanding debts and Benefit payments sections in production? And do you have a backup in case of an emergency?**
