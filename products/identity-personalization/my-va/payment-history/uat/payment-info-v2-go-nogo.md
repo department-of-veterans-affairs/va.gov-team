@@ -16,7 +16,7 @@
 **All: Have we reviewed the feature in staging and confirmed that it works as expected?**
 - Answer: 
 
-**AJ, Erica and Taylor: Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?
+**AJ, Erica and Taylor: Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?**
 - Answer: 
 
 **AJ & Erica: Is staging review complete?**
