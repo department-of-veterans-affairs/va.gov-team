@@ -44,5 +44,5 @@ This design was validated with usability testing in August 2022 and findings inf
 - Changes to "Other search tools"	will improve task completion and Veteran understanding 
 - Adding Resources and support link	will improve task completion and result in traffic to Resources and Support page originating from homepage
 - Adding email sign up	will provide an avenue to Veterans to receive updates and information 
-- addition of Addition of "Welcome to VA.gov H1	will improve experience for those using screenreaders or keyboard navigation by giving context to landing page
+- Addition of "Welcome to VA.gov" H1	will improve experience for those using screenreaders or keyboard navigation by giving context to landing page
 
