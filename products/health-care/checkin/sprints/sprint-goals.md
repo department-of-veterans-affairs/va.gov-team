@@ -42,7 +42,6 @@
     - [Replace remaining react component with web component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
     - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
-    - [Deprecate day-of demographics flag](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49485)
     - [Implement Feature Status query by FLIPPER_ID cookie](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45332)
     - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Loading message references pre-check-in on day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47347)
@@ -62,18 +61,18 @@
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - DONE Update product artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - DONECreate final wireframes for claim exists & multiple appts errors
+    - DONE Create final wireframes for claim exists & multiple appts errors
     - Talk to Dayton HAS & Travel Office about release plan and research visit
     - DONE Meet w/ S/P/M & Shawn about MVP
     - Add GA events
 - [Simplified Header/Footer with Progress Bar](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)
-    - DONESchedule design review
+    - DONE Schedule design review
     - Update header wireframes to include app name in header
     - Create final wireframes for progress bar (NOTE: we are not including an intro page)
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631)
-    - Create final wireframes for the "before" & "after" check-in window scenarios (Zach/Ya-Ching)     
+    - DONE Create final wireframes for the "before" & "after" check-in window scenarios (Zach/Ya-Ching)     
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - DONE Create research plan
+    - Create research plan
     - Create conversation guide
     - Define content for SMS confirmation message (w/ claim #) and pass off to PCI/API team (Ben/Kelly)
     - WILL SET UP FOR AFTER T-GIVING Talk to BTSSS business & API folks about enhancement priorities & possibilities
@@ -89,13 +88,14 @@
     -  Handle errors: claims exist, multiple appt, & general
     -  DONE Add lookup for enabled facilities or clinics (TBD)
 - [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)
-    - SPIKE
+    - DONE SPIKE
 - CIE Analytics
     - DONE [Setting up Monitors in VA Gov Datadog](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47811) 
     - DONE [RUM in prod](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49198)
 - CIE Tech Debt & Bugs
-    - [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101) 
+    - DONE [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101) 
     - Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
+    - DONE [Deprecate day-of demographics flag](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49485)
     
 ## 10/19/2022 - 11/01/2022
 
