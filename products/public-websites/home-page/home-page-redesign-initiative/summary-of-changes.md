@@ -2,6 +2,7 @@
 
  - First build - [March 2022](#march-2022)
  - Round 2 design iteration [October 2022](#october-2022)
+ - Launch design iteration [November 2022(#november-2022)
 
 ### March 2022
 <details>
@@ -46,3 +47,16 @@ This design was validated with usability testing in August 2022 and findings inf
 - Adding email sign up	will provide an avenue to Veterans to receive updates and information 
 - Addition of "Welcome to VA.gov" H1	will improve experience for those using screenreaders or keyboard navigation by giving context to landing page
 
+### November 2022
+Launch design iteration 
+ 
+This iteration adds a modal for opting-in to the redesigned user experience. Content input was provided to convey the full-functionality of the redesigned page, a CTA to provide feedback, and expectation about the per-session nature of the opt-in (i.e. "Try the new homepage", "No,maybe next time").
+
+It also includes changes to make the "Create account" CTA a bit more compelling. It also incorporates a new flow to a pending Resources and Support page. This is a bet to educate new users about the benefits of an account and support account creation. This flow was preferred over negotiating changes to the current login-in modal which wasn't intended to cover these needs. 
+
+Other adjustments include
+ - determining the position of the feedback button to avoid competing with the row of Veteran portriats or the email sign up field
+ - adding the visible label for the email field to address accessibility feedback from Midpoint review
+
+
+ 
