@@ -1,20 +1,38 @@
-# Editor-facing research Plan for Sitewide CMS Notifications - November 2022
+# (WIP)Editor-facing research Plan for Sitewide CMS Notifications - November 2022
 
-Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and add a link in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
+This final researh plan is published in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
-Briefly describe the background of your editorial experience initiative. 
+This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. 
 
 ### OCTO Objectives 
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+## Office of the CTO (OCTO) North Stars
+- Increase the quality and reliability of VA services
 
+## Mission
+Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
+
+## Goals
+1. Veterans and their families can find a single, authoritative source of information
+1. Veterans and their families trust the security accuracy and relevancy of VA.gov
+
+## Numbers
+### Increase 📈
+- **Veteran satisfaction with VA.gov**
+### Decrease 📉
+- **Call center volume, wait time, and time to resolution**
+- **Time from online benefit discovery to benefit delivery**
 
 ## Research Goals	
-What are you trying to learn from this research? 
+What are we trying to learn from this research?
+(Reframe these as questions)
+-How would editors like to receive notifications? Email? Within the CMS? Both? Other?
+-What are some other things that editors could be notified (or would like to be notified of) once notifications for 6102 are implemented?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+How will this research advance our product to the next phase in the design process? What will we do with our learnings?
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
