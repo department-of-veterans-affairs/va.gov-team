@@ -339,6 +339,15 @@ These tickets are particularly high priority, but feel free to add tickets and o
 
 - Liz: 11/30; 12/1 (1/2)
 
+### Overall priorities
+
+We can talk specifics closer to this sprint, but the general priorities will be:
+
+- Wrap up any FE work we can
+- Document all finished work in GitHub
+
+Basically, get done what we can, and wrap it up with a nice bow! No new work should start (besides easily doable FE tickets). This should be about getting things into shape for the transition.
+
 ### Bad address indicator
 
 - PM: [Add 1-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
