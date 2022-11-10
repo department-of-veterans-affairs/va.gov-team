@@ -289,8 +289,8 @@ You'll need to submit or give us permission to gather medical evidence from a VA
 
 **_CONTINUE_**
 
- 
 Error: You need to certify that you have reviewed the notice of evidence needed.
+
 ----------------------------------------------
 
 ## STEP 3 of 4: New and relevant evidence
