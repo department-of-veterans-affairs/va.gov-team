@@ -142,7 +142,7 @@ Iterations should support the following goals:
 4. Continue to refine objectives and key results 
    > Status: Ongoing
    
-5. Develop a rubric for delivering menaingful Veteran-facing content 
+5. Develop a rubric for delivering meaningful Veteran-facing content 
    > Status: In progress. Initial rubric was used to determine list of links for design iteration, round 2.
 
 6. Design iterations, informed by analytics and research findings 
@@ -207,15 +207,52 @@ Iterations should support the following goals:
 | June 2022 | Unmoderated Top Task research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)|
 | July 22, 2022 | [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) to Digital Modernization Council 2022 
 | August 2022 | Usability research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)| 
-| September 2022 | Design iteration v2 deployeded to staging
+| September 2022 | Design iteration v2 deployed to staging
 | October 2022 | Usability of redesigned homepage /[plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md)
 | October 2022 | [Homepage refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx) to Digital Modernization Council and Web Governance Board
 | October 2022 | Drupalization of homepage content
 | November 2022 | Final pre-launch design iteration
 
 ---
+## Launch planning
+
+The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. 
+A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. 
+
+Two options were evaluated during a design, accessibility and implementation discussion
+- a banner, allowing a user to move between the existing and new experiences 
+- a pop-up modal allowing a user to "opt in" to the new experience. 
+**The modal was determined to be the preferred approach.** 
+
+<details>
+<summary> Pros/cons for banners and modals </summary>
+
+Banners
+ - (+) avoid the risk of stacking modals
+ - (-) could unintentionally introduce user distrust 
+ - (-) would create an escape route preventing data and feedback collection
+ - (+/-) banners are less prominent 
+ - (-) banner blindness
+Modal
+ - (-) stacking risk presents usability and accessibility concerns 
+ - (+) prominent display
+ - (+) making it dismissible will manage annoyance factor and various user flows
+</details>
+
+## Expected behavior
+- The redesigned experience modal is presented **only** on the VA.gov homepage.
+- A Veteran or beneficiary can interact with the modal to agree or decline to use the redesigned homepage.
+- The modal offering the redesigned homepage experience displays **only once** within a user's session.
+- Regardless of previous opt-in or decline, the modal will be presented during the user's next session (which includes the homepage).
+- If the Veteran or beneficiary opts-in to the  redesigned homepage experience, the redesigned page opens in the same window and tab.
+- The Veteran or beneficiary can return to the current homepage by using the VA logo and/or back button. The breadcrumb may also be an option, depending on the page. 
+- Focus management and experience via keyboard, voice or screenreader will follow patterns established by other modals in use across VA.gov.
+
+_Acceptable known risk:
+Veterans or beneficiaries who opt-in to the redesigned experience may not be able to easily return to the redesigned page after navigating to deeper content pages. The user_ **may** _be able to return to the redesigned page using the back button. This user will have another opportunity to opt-in from the homepage during the next VA.gov session._
+
 ## Cutover determination (WIP)
-[Details available](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
+A subset of metrics considered "critical" will be used to determine when/if the redesign can replace the existing homepage in Production. [See details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
 
 ## Screenshots
 
