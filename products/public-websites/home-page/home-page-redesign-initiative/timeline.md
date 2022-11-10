@@ -1,20 +1,21 @@
-## Homepage design iteration timeline and collab cycle milestones
+## Homepage design iteration timeline 
 
-|	Task/Milestone	|	Status	|	Notes
+- [Timeline](#timeline) 
+- [Collab cycle touchpoints](#collab-cycle-touchpoints)
+
+### Timeline
+
+|	Milestone	|	Status	|	Notes
 | ---|---	|	---
 |	VA.gov launch	|	November 2018	|	
 |	Baseline Wayfinding Research	|	April 2021	|	
-|	Collab cycle: Design intent	|	March 2022	|	[CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
 |	Conduct Veteran research to discover which tasks are viewed as most important by Veterans, caregivers, family members, and service members (to inform decisions about the links to display on the redesigned homepage)	|	May - June 2022	|	<ul><li>[Epic: Veteran Top Task Research (moderated and unmoderated) #40857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) </li><li> [Unmoderated research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)</li></ul>
-|	Collab cycle: Analytics	|	May 2022	|	<ul><li> [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512) </li><li>[Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503) </li></ul>
-|	[Accessibility spot check #42860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42860)	|	June 2022	|	<ul><li>[SCREENREADER: Alt attributes need to be more descriptive #43898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43898) / pending </li><li>[AXE-CORE Change some of the H2s to H3s #9722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9722) / closed </li><li>[SCREENREADER: No h1 heading on page #9721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9722) / closed </li></ul>
 |	First build deployed to Staging	|	June 2022	|	Deployed to https://staging.va.gov/homepage-test/
 |	Deep dive presentation to Digital Modernization Council 2022	|	July 2022	|	[Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf)
 |	Research to get user feedback on the redesigned VA.gov home page (first build version) and assess whether the design changes have improved the usability of the home page	|	August 2022	|	<ul><li> [Research epic: VA.gov homepage redesign iteration - usability#46652](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46652)</li><li>[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)</li></ul>
 |	v2 Design iterations, informed by analytics and research findings	|	September 2022	|	<ul><li>[Description of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/round-2-design-iteration.md) </li><li> Initial rubric was used to determine a list of links for design iteration, round 2. </li></ul>
 |	Design iteration v2 deployed to staging	|	September 2022	|	Deployed to https://staging.va.gov/homepage-test/
 |	Homepage refresh presentation to Digital Modernization Council and Web Governance Board	|	October 20-21, 2022	|	[Refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx)
-|	Collab cycle: [Mid-cycle review #48041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48041)	|	October 2022	|	<ul><li>[Redesigned homepage: Email address and search field input #11389](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11389)(_to be done before launch_)</li><li>[Redesigned homepage "consider" accessibility feedback #11392](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11392) (_post-MVP_)</ul></li>
 |	Usability of redesigned homepage /plan	|	October 2022	|	[Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41578)
 |	Finalize design for launch	|	Initiated November 9, 2022	|	
 |	Drupalize homepage content	|	November 2022	|	
@@ -24,3 +25,13 @@
 |	Finalize Popular on VA.gov link list	|	In progress	|	
 |	Define objectives and key results	|	Refinement is ongoing	|	
 |	Develop a rubric for delivering meaningful Veteran-facing content	|	In progress. 	|	_Link TBD_
+
+## Collab cycle touchpoints
+
+|	Milestone	|	Status	|	Notes
+| ---|---	|	---
+|	Design intent	|	March 2022	|	[CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
+|	Analytics	|	May 2022	|	<ul><li> [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512) </li><li>[Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503) </li></ul>
+|	[Accessibility spot check #42860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42860)	|	June 2022	|	<ul><li>[SCREENREADER: Alt attributes need to be more descriptive #43898](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43898) / pending </li><li>[AXE-CORE Change some of the H2s to H3s #9722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9722) / closed </li><li>[SCREENREADER: No h1 heading on page #9721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9722) / closed </li></ul>
+|	[Mid-cycle review #48041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48041)	|	October 2022	|	<ul><li>[Redesigned homepage: Email address and search field input #11389](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11389)(_to be done before launch_)</li><li>[Redesigned homepage "consider" accessibility feedback #11392](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11392) (_post-MVP_)</ul></li>
+| Staging review |_pending_| |
