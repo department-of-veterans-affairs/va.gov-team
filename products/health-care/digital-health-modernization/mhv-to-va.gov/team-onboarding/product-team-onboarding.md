@@ -78,10 +78,13 @@ The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
 
-##$ The VA.gov Platform
+### The VA.gov Platform
 - [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
 - [What to expect as you design, build, launch, iterate](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
 
+### AWS
+- Used to access the AWS tunnel to MHV APIs in local environments.
+[AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D)
 
 ### VA Platform Collaboration Cycle
 As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand their responsbilities, Platform expectations, and the timing and required artifacts at each touchpoint.
