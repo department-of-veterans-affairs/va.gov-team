@@ -21,12 +21,11 @@
 
 [Launch planning](#launch-planning)
 - [Soft launch](#soft-launch)
+- [Cutover determination - WIP](#cutover-determination-wip)
 
 [Collaboration cycle](#collaboration-cycle)
 
 [Timeline](#timeline) 
-
-[Cutover determination - WIP](#cutover-determination-wip)
 
 [Screenshots](#screenshots)
 
