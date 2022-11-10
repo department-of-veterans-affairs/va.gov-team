@@ -16,8 +16,8 @@
     - Create final wireframes
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Design better visualize steps of checking in within Pre-Check-In
-    - Hold design intent review
-    - Update wireframes with any recommendations
+    - Hold design intent review & update wireframes with any recommendations
+    - Design Considerations for Structuring Language Toggle, Progress Bar & Navigation Links
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
     - Hold a compressed design sprint to brainstorm ideas for a solution
 - CIE Analytics
