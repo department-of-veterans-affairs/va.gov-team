@@ -150,7 +150,18 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
 
 ## Out of scope for home page redesign
+1. Two participants spontaneously commented on specific content pages being too word heavy, including the education pages and the secure messaging pages.
+> *"There a lot of stuff to read through...there's a lot of reading here" (p4).*
 
+> *"It is a lot of information, and it's overwhelming" (p11).*
+
+1. One participant using a smartphone said it was hard to read the small text on the VA health care page. They missed the "secure messaging" link while scanning the entire page several times but finally found it.
+1. One participant expected that everything on the home page would be in the megamenu, which didn't seem to be the case because they couldn't find another about VA news. 
+> *"Should be like a table of contents" [like a sitemap] (p1).*
+
+1. One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
+1. One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
+2. One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 **OLD from last round of testing, so need to REWRITE/DELETE...**
 
@@ -211,6 +222,7 @@ Is there anything compelling enough from the findings that we should consider ch
      3. Conduct **further research with screen magnifier users to learn more about what might be invisible on the right side of the home page, including  the *Create account* button.**
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
+1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
 
 ## Future research
 
