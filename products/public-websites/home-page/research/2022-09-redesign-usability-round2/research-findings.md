@@ -223,6 +223,7 @@ Is there anything compelling enough from the findings that we should consider ch
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
+2. Talk with the Veterans Crisis Line team about how opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
 
 ## Future research
 
