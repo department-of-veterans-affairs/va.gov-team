@@ -47,7 +47,7 @@
 ## How to reproduce
 
 - Locate a staging account that has an onsite notification triggered.
-  - [On-site notifications test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
+  - [Onsite notifications test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md)
   - Note that since notifications can be dismissed in staging, you will need to find a staging user who this has not occured for.
   - VA Notify can trigger a new debt notification for a staging user if needed. Contact them on the DSVA Slack in the `#va-notify-public` channel.
 - Log into staging.va.gov with credentials for a staging user who has a notification triggered.
