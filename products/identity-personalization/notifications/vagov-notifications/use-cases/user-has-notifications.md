@@ -1,6 +1,6 @@
 # My VA On-site Notifications: User has a notification or multiple notifications
 
-**Last updated:** November 9, 2022
+**Last updated:** November 10, 2022
 
 - If a LOA3 user has an on-site notification on their My VA page, they will see their notifications under a "Notifications" header on My VA once they are logged in.
 - If a user clicks on this link, they will be taken to a different page to learn more about the notification topic and/or take action on it.
