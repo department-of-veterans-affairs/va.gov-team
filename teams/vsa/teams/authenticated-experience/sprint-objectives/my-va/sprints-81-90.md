@@ -244,11 +244,39 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Liz: 11/23 - 11/25; 11/29 (1/2)
 - Samara: 11/23 - 11/25
 
+### Payments V2
+
+- UAT & write-up
+- Meet to talk about what needs to be updated for documentation and where
+- Fixes from UAT, if applicable
+
+### My VA Audit
+
+**PM**
+
+- Analytics planning
+- Put together as many QA use cases as possible (I think this work may have been started, but not sure)
+
+**FE**
+
+- Finish FE build
+
+**Design**
+
+- Assuming build is done, research recruiting
+
 ## Sprint 88 (11/30 - 12/13)
 
 ### PTO
 
 - Liz: 11/30; 12/1 (1/2)
+
+### Payments V2
+
+- Launch to 25%
+- Launch to 50%
+- Launch to 100% (if time)
+- Update Documentation
 
 ### On-site notifications
 
