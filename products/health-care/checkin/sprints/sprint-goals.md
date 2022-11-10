@@ -35,6 +35,8 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Wire up FE and BE
     - Verify all workflows
+- [Tagalog Support - Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48338)
+    - Add round 2 translations & generate screenshots for SD QA
 - CIE Tech Debt & Bugs
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)
     - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574)
