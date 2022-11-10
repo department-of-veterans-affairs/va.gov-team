@@ -303,13 +303,35 @@ Move over tickets from last sprint, if needed.
 - Tom: 11/24 - 11/25
 - Samara: 11/23 - 11/25
 
+If needed, let's talk about how to prioritize this work against any outstanding work from last sprint:
+
 ### Accessibility
 
-- Keep moving over designs that are ready to frontend (eg. updating button pair copy Liz outlined in #48441)
+**FE**
+
+- Keep moving over designs that are ready to frontend (eg. updating button pair copy Liz outlined in #48441; Getting the personal info/nametag updates done if we think it's possible)
+
+**Design - Liz & Christina**
+
+- As the FE finishes build, both Liz and Christina should go through our documentation and make sure all use cases and Sketch files are updated
+  - These should happen within the product folders (eg. Contact information). We do not need to update documentation in the accessibility folder.
+
+### Notification preferences
+
+**Design - Liz**
+
+- Work on error states for the update mobile number flow
+- Exploratory mockups of what notification preferences would look like with additional notifications and channels (eg. the MHV notifications and email as a new channel)
 
 ### General/tech-debt
 
-- FE: Fiduciary gate IF it didn't happen last sprint
+**FE**
+
+These tickets are particularly high priority, but feel free to add tickets and otherwise prioritizeas you see fit.
+
+- Fiduciary gate
+- DD214 ticket if it didn't happen last sprint
+- React RadioButtons Deprecated #49468 
 
 ## Sprint 88 (11/30 - 12/13)
 
