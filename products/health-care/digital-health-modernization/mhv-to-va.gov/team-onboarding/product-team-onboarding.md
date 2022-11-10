@@ -1,5 +1,5 @@
 # MHV to VA.gov Product Onboarding Quick Start Guide
-Last Update: August 26, 2022
+Last Update: November 10, 2022
 
 This guide touches the highlights in the overall [VA.gov onboarding process](https://depo-platform-documentation.scrollhelp.site/getting-started/), but is not a substitute for that document.  Always defer to the VA Platform documentation for the most complete and current information.  
 
@@ -8,10 +8,10 @@ Before you get started with onboarding, you will need a few key pieces of inform
 1. Name of your Program Manager
 2. Name of your OCTO-DE Product Owner
 3. Name of your VA Business Owner
-4. A GitHub account.  Almost all orientation-related requests and related correspondence is done in GitHub, so you'll need to [create an account](https://github.com/join) before proceeding. *You don't need a VA.gov email address assigned to create the account, but once you have your VA email, add it to your GitHub account ASAP so you won't be removed from the repo*
-5. GitHub Handle - After creating a GitHub account, make note of your GitHub handle (user name).  You will need to provide this in your orientation request.
-6. Name of the contract you're on
-7. Name of the COR (Contracting Officer's Representative) on your contract and their email address
+4. All team members will need a GitHub account/handle (see GitHub section below)
+5. Name of the contract you're on
+6. Name of the COR (Contracting Officer's Representative) on your contract and their email address
+7. Name of the VOR (Vendor Onboarding Representative) on your contract and their email address
 8. Team name -  If this is a brand-new team, you and/or your Product Owner should decide on a name, and will need to create a [new VFS Team Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D)
 9. Team members' start dates - Each team member will need to know their employment start date for their orientation request
 10. Team slack channel - please work with your Product Owner, who may already have created a channel, or create one for your team if needed.
@@ -20,12 +20,19 @@ Before you get started with onboarding, you will need a few key pieces of inform
 Most day-to-day communications between VA.gov product team members happens in Slack.  Questions and feedback on specific GitHub requests is frequently done within the comments of the GitHub issue itself. In general, email is used infrequently and largely for communicating with VA personnel or outside vendors.
 
 ## GitHub
+GitHub is used to track all work relating to VA.gov processes and embedded teams as well as pull requests.  Most repositories are public facing, please remember to not share sensitive information
 - [Platform GitHub Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) (privacy info, folder and file naming conventions, etc.)
+
+1. Users will first need to create an account within GitHub (https://github.com/join).  *You don't need a VA.gov email address assigned to create the account, but once you have your VA email, add it to your GitHub account ASAP so you won't be removed from the repo* 
+2. GitHub Handle - After creating a GitHub account, make note of your GitHub handle (user name).  You will need to provide this in your orientation request.
+3. Once you have access to GitHub, create a [ZenHub account](https://www.zenhub.com/) and then connect your GitHub account to it. (https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
 
 ### Slack Recommendations
 There are over 400 channels in the DSVA workspace, so take advantage of the channel browser or search to look for channels relevant to your work. Here are some broader recommendations:
+1. A team channel will need to be created by a user with access to the DSVA workspace
+2. Additional users will then need to be invited within Slack to the workspace/channels 
 
-#### All team members
+#### Slack Channels: All team members
 - [#vfs-all-teams](https://dsva.slack.com/archives/CE4304QPK) - Channel containing info relevant to all VA.gov teams and team members, such as surveys and weekly Team of Teams meeting slides
 - [#vfs-change-announcements](https://dsva.slack.com/archives/C03R5SBELQM) - Channel announcing upcoming platform system, policy, and process changes
 - [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) - Channel for initiating platform-related support requests. Use the `/help` or `/support` command here to start that process.
@@ -37,19 +44,18 @@ There are over 400 channels in the DSVA workspace, so take advantage of the chan
 - [Slackbot](https://dsva.slack.com/archives/D039TFZT7BR) - A bot that is useful for creating one-time and recurring reminders for yourself and your team.  You can also hover on a post in any channel, click the three dots that appear, and select *Remind me about this* to receive a reminder about the post later.
 - [VA Mural Account] - Request through Kevin Hoffman (needs to be verified)
 
-#### Product Managers
+#### Slack Channels: Product Managers
 - [#product](https://dsva.slack.com/archives/C0186C3LDNU) - Forum for resources and discussions around explanding product management and product thinking at VA and in government
 - [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) - Discussions and announcements related to logging into VA.gov, including ID.me, Login.gov, MyHealtheVet and DS Logon and questions or issues related to test user accounts
 - [#oncall](https://dsva.slack.com/archives/C30LCU8S3) - Good starting point to check on critical system issues reported and being worked on.  Only for critical VA Platform related issues.  
 
-
-#### Designers & Researchers
+#### Slack Channels: Designers & Researchers
 - [#design](https://dsva.slack.com/archives/C0NGDDXME) - Share designs, learn from other designers, discuss improvements to the VA Design System
 - [#feedback-backchannel](https://dsva.slack.com/archives/C40B45NJK) - Moderator and observers talking to each other during user research sessions.
 - [#inclusive-research](https://dsva.slack.com/archives/C033ZS9E7EW) - A place to advance inclusive research at the VA
 - [#sitewide-content-ia](https://dsva.slack.com/archives/C01K37HRUAH) - Supporting teams building on VA.gov with their IA and content needs. Ask the sitewide content and IA team questions about our VA.gov content strategy, IA, voice, style, and plain language standards. We can also provide insights into benefit- and product-specific language nuances and sensitivities.
 
-#### Engineers
+#### Slack Channels: Engineers
 - [#vfs-engineers](https://dsva.slack.com/archives/C01UB5A823V) - A channel for engineers working on VA.gov to collaborate
 - [#devops-deploys](https://dsva.slack.com/archives/C37M86Y8G) - Jenkins deployment success and failure notifications
 - [#devops-alerts](https://dsva.slack.com/archives/C24RH0W11) - Alerts from various system monitoring tools
@@ -61,7 +67,7 @@ There are over 400 channels in the DSVA workspace, so take advantage of the chan
 The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as recommended Slack channels, processes, documentation, and instructions for getting access to the tools and systems you will need.
 
 ### Platform Orientation
-All team members working on a VA.gov project must complete an orientation request and should attend general and practice-specific orientation sessions. Orientation session descriptions will recommend team members for which the session is pertinent.
+**All team members** working on a VA.gov project must complete an orientation request and should attend general and practice-specific orientation sessions. Orientation session descriptions will recommend team members for which the session is pertinent.
 
 - [Platform Orientation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
   - [VA Platform Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
@@ -71,7 +77,6 @@ All team members working on a VA.gov project must complete an orientation reques
 
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
-- Once you have access to GitHub, create a [ZenHub account](https://www.zenhub.com/) and then connect your GitHub account to it. (https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. To link the accounts, access the ZenHub site, click Log In and enter your GitHub credentials.
 
 ##$ The VA.gov Platform
 - [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
