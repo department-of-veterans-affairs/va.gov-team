@@ -19,17 +19,19 @@ Continuously deliver high-quality digital experiences for the benefit of all Vet
 1. Veterans and their families trust the security accuracy and relevancy of VA.gov
 
 ## Numbers
-### Increase 📈
-- **Veteran satisfaction with VA.gov**
-### Decrease 📉
-- **Call center volume, wait time, and time to resolution**
-- **Time from online benefit discovery to benefit delivery**
+### Increase
+- Veteran satisfaction with VA.gov
+### Decrease
+- Call center volume, wait time, and time to resolution
+- Time from online benefit discovery to benefit delivery
 
 ## Research Goals	
 What are we trying to learn from this research?
-(Reframe these as questions)
+(Reframe these questions as statements.)
 -How would editors like to receive notifications? Email? Within the CMS? Both? Other?
 -What are some other things that editors could be notified (or would like to be notified of) once notifications for 6102 are implemented?
+-Would a dashboard out outdated content be beneficial?
+-How do we keep editors from editing over one another?
 
 ### Outcome
 How will this research advance our product to the next phase in the design process? What will we do with our learnings?
@@ -46,6 +48,9 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
+Outdated content on VA websites leads to....?
+
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
@@ -93,18 +98,21 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+Intended audience for this research: Editors
+How will we recruit them? Erika sent out a survey to willing participants.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type of participants for this study. What experience, geographic location, and scenarios do you need participants to meet to effectively run your study? 
 
+Number of participants:
+
+Experience, geographic location, and scenarios of particpants
+
+Someone from every facility type.
+-VBA
+-VAMC
+-What else?
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -114,19 +122,18 @@ A pilot session is optional. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
+* Session length: 30 minutes
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
+- Moderator: Blake Organ	
+- Research guide writing and task development: Blake Organ	
+- Participant recruiting & screening: TBD	
+- Project point of contact: TBD	
+- Participant(s) for pilot test: TBD	
+- Note-takers: TBD	
  
 
