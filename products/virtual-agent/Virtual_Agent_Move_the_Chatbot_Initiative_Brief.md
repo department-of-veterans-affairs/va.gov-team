@@ -25,9 +25,9 @@
 
 ## Outcome Summary
 
-* The first iteration of the Virtual Agent Chatbot was first built as a Proof of Concept in Spring 2021 and resided on a page wholly devoted to facilitate user reseearch on this beta version of the chatbot. This page communicated the fact that the Chatbot was in beta testing, expectations when using the chatbot, explicit instrucctions on hwo to use the chatbot with a screen reader, and privacy information.
+* The first iteration of the Virtual Agent Chatbot was first built as a Proof of Value in Spring 2021 and resided on a page wholly devoted to facilitate user research on this beta version of the chatbot. This page communicated the fact that the Chatbot was in beta testing, expectations when using the chatbot, explicit instructions on how to use the chatbot with a screen reader, and privacy information.
 * On March 2, 2022, the Chatbot was launched more widely to the Veteran population via a link to this same page on the VA.gov Contact Us page. 
-* Since then, there have been more than 105,000 interactions with the Chatbot and ...
+* Since then, there have been more than 110,000 chatbot interactions from new and returning users.
 * Clearly the Chatbot is no longer in beta testing and it is our desire to move the Chatbot off its standalone page, and make it more widely available on VA.gov. We intend to do user research to determine the best pages this will be, and the mechanism by which the Chatbot will be displayed on these pages.
 * All previous measurable outcomes contained within the previous Product Outline still hold, but specifically for this initative an emphasis will be placed on these Digital Experience measures:
   * Usage of digital, self-service tools
@@ -41,7 +41,7 @@
 ## Problem
 * Currently, multiple clicks are required to reach the Chatbot.
 * In order to acheive the original goal stated in our initial Product Outline, "...help the Veteran to self-serve and find information more easily", we wish to make the Chatbot more readily available by placing it in a more prominent position within VA.gov.
-* On October 6th, the link to the Chatbot on the Contact us page was moved from its Info Alert Box at the top of Contact Us to an H2 section further down the page. We were averaging approximately 2000 interactions daily with the Chatbot at that point, but since being moved, interactions have been halved to about 1000 daily.
+* On October 6th, the link to the Chatbot on the Contact us page was moved from its Info Alert Box at the top of Contact Us to an H2 section further down the page. User interactions dropped by approximately 21%. 
 * By moving the Chatbot, we hope to avoid this problem in the future, by making the Chatbot always avaiable at the same location, ready to serve Veterans and help them navigate VA.gov.
 * Additionally by placing the Chatbot more prominently on VA.gov, it could serve as a way to promote or serve as an entry point for the numerous other VA.gov features currently available on the website.
 
