@@ -311,6 +311,12 @@ If needed, let's talk about how to prioritize this work against any outstanding 
 
 - Keep moving over designs that are ready to frontend (eg. updating button pair copy Liz outlined in #48441; Getting the personal info/nametag updates done if we think it's possible)
 
+**Design - Christina**
+
+- Finish Account security mocks
+  - Include all use cases
+  - Include LOA1 state
+
 **Design - Liz & Christina**
 
 - As the FE finishes build, both Liz and Christina should go through our documentation and make sure all use cases and Sketch files are updated
@@ -324,6 +330,10 @@ If needed, let's talk about how to prioritize this work against any outstanding 
 - Exploratory mockups of what notification preferences would look like with additional notifications and channels (eg. the MHV notifications and email as a new channel)
 
 ### General/tech-debt
+
+**Design - Christina**
+
+- Nametag documentation
 
 **FE**
 
