@@ -283,7 +283,7 @@ An event, injury, or illness that happened while you were serving in the militar
 
 You'll need to submit or give us permission to gather medical evidence from a VA medical center, other federal facility, or your private health care provider.
 
-- [ ] I certify that I have reviewed the notice of evidence needed.
+- [ ] I certify that I have reviewed the notice of evidence needed. (*Required)
 
 **_BACK_**
 
