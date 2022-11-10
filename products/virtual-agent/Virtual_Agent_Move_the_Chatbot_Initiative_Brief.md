@@ -140,16 +140,13 @@
   3. Development
   4. Launch on Proof of Concept to % of users
   5. Observe Chatbot performance, make necessary changes, increase availability of Chatbot
-  6. Go/No Go to wider launch of Chatbot to more pages
-  7. Launch Moved Chatbot to % of users  
-  8. Observe Chatbot performance, make necessary changes, increase availability of Chatbot
   6. Go/No Go to 100% launch of Moved Chatbot
 
 #### Initiative Launch Dates
 - *Target Launch Date*
   - Q2 2023
 - *Actual Launch Date* 
-  - tbd
+  - tbd in Q1 2023 Chatbot feature prioritization workshop
 
 ---
    
@@ -185,12 +182,11 @@
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
+*What offices/departments/teams/people are critical to make this initiative successful?*
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+Public websites team; Call Centers: Chante Lantos-Swett; 
  
 </details>
 
