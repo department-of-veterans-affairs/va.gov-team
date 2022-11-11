@@ -142,6 +142,10 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
 
+### Findings around recruiting 
+1. People recruited to join the research session using a specific device (e.g., smartphone) may or may not be comfortable browsing websites from that device. One of the participants recruited to use a smartphone during this study said they always use a computer, not a phone, to access VA.gov. Another participant P14 recruited to use a smartphone during the session generally uses a tablet to browse the web, not a phone. 
+> *“Most of it is getting used to using a phone instead of a computer when you’re used to using a computer on a regular basis” (p5).* 
+
 ### Ideas from participants
 Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
 1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
@@ -227,13 +231,15 @@ Is there anything compelling enough from the findings that we should consider ch
 1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
 2. Talk with the Veterans Crisis Line team about how opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
 
-## Future research
-1. Get user feedback on the *Create account* button, which wasn't used in this study, presumably because all participants already had an account on VA.gov. See if there's any confusion after the button is selected, in particular with the modal that has "Sign in" at the top and "Create an account" farther down.
-
 # Next Steps
 
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - Look at home page analytics to assess the usage of the current task links on Production.
+
+# Further research needed
+1. Get user feedback on the *Create account* button, which wasn't used in this study, presumably because all participants already had an account on VA.gov. See if there's any confusion after the button is selected, in particular with the modal that has "Sign in" at the top and "Create an account" farther down.
+2. In order to get more participants on specific devices who are accustomed to using those devices for web browsing, add a screener question for future studies: "How do you normally browse the web? On a smartphone, tablet/iPad, computer (select as many as apply; recruit from those who mark smartphone)."
+3. 
 
 # Appendix
 
