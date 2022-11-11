@@ -139,6 +139,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
     - Provide applicants with an idea of location/distance of any given facility to ensure they can select the one that is correct for them.
 --- 
 
+### Outstanding Questions
+- What does the Facility question ideally look like in the future?
+  - What information is needed?
+  - What is the ultimate purpose this information will serve?
+  - How might we get this information a different way?
+  - Scenarios
+     - If the facility location selected helps determine the assocaited CG Facility for processing, how does this work if theey live in a different state?
+     - How does this work for seasonal travelers?
+
+---
+
 ## Launch Planning
 ### Collaboration Cycle
 
