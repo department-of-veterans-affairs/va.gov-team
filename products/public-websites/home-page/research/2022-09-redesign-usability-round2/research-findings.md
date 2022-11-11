@@ -139,18 +139,8 @@ Task | Why Difficult | What Could Potentially Help
 Message your doctor | **Couldn't find by browsing** (missed link on health care page), used to doing from MHV and not VA.gov, benefit hub description for "health care" looked like it was for applying/creating account and not for managing health care, 1 person unfamiliar because doesn't use VA health care | A more intuitive way for people to manage VA health care from the VA.gov home page
 Add a spouse (review/update dependents) | **Couldn't find by browsing** the disability hub page (3 of 10 tried megamenu or benefit hubs > Family member benefits) **or searching** | Add "View or change dependent" to Family Member Benefits page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
 File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase**, surprised that the link for disability increase was the same as for filing an initial claim: *"Had I known it was the same form, I would have just used the previous link I had clicked on" (p11)* | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
-
 Check current disability compensation rates | **Couldn't find by browsing** the megamenu or disability hub page (didn't notice link on that long page), **hard to find by searching**| Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"  
-
-Participants struggled with some of the other tasks, too, as shown in the table below:
-Task | Why Difficult | What Could Potentially Help
-------------------|--------------|-----------
- 
-
-
-Find mental health counselor/therapist | **Couldn't find by searching** (tried "therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
-
-## --------------
+Find mental health counselor/therapist | Couldn't find how to contact someone quickly by phone or chat from [mental health page linked to in footer](https://www.mentalhealth.va.gov/), didn't notice Veterans Crisis Line in top right because it scrolled off the screen, or while looking at left side of home page with a screen magnifier| Change footer link to go to the [modernized mental health page](https://www.va.gov/health-care/health-needs-conditions/mental-health/) that the link in *Popular* goes to, Add "mental health" to megamenu under health care
 
 6. Some participants didn't click on either of the promos. 
      1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
@@ -169,6 +159,9 @@ Find mental health counselor/therapist | **Couldn't find by searching** (tried "
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
+
+1. One participant who was especially negative about the VA.gov site at the beginning of the research session had changed her mind by the end. She started off by sharing her frustrations with being redirected to VA.gov from eBenefits or MyHealtheVet and struggling to log in, and also complaining about how overwhelming the pages are and slow to load. During the session, she was able to complete ALL of the tasks successfully (the only participant of 11 to do so) and had very positive feedback by the end of the session. 
+> *"It's a lot easier than the VA.gov I am used to...It's pretty streamlined and easier to use" [uses VA.gov about 2-3x/month] (p11)".*
 
 ### Findings around recruiting 
 1. People recruited to join the research session using a specific device (e.g., smartphone) may or may not be comfortable browsing websites from that device. One of the participants recruited to use a smartphone during this study said they always use a computer, not a phone, to access VA.gov. Another participant P14 recruited to use a smartphone during the session generally uses a tablet to browse the web, not a phone. 
@@ -200,15 +193,15 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 > *"It is a lot of information, and it's overwhelming" (p11).*
 
 1. One participant using a smartphone said it was hard to read the small text on the VA health care page. They missed the "secure messaging" link while scanning the entire page several times but finally found it.
-1. One participant expected that everything on the home page would be in the megamenu, which didn't seem to be the case because they couldn't find another about VA news. 
+2. One participant who was searching for disability rates used the new search box ("compensation chart") and saw search results from 2011 and also 2014. She opened the one from 2011 and said...
+> *"Oh but this is from 2011--that's not current. Is the information on here current?" (p11).*
+4. One participant expected that everything on the home page would be in the megamenu, which didn't seem to be the case because they couldn't find another about VA news. 
 > *"Should be like a table of contents" [like a sitemap] (p1).*
 
+1. One participant observed that some of the articles on the [VA News page](https://news.va.gov/) aren't news but instead explaining benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). They said it should have only recent changes/updates (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)).
 1. One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
 1. One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
 2. One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
-
-**OLD from last round of testing, so need to REWRITE/DELETE...**
-
 
 
 ## Other Findings
