@@ -117,15 +117,19 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 
 ![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks-3-studies.png)
           
-2. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
-     1. 10 of 11 participants got stuck on some task(s) during the sessions.
-     1. Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header.
+2. Just over half of the participants (6 of 11) wanted to sign in before doing any tasks. 
+> *"You will need to sign in, so why not sign in first. I don’t know how to do it without signing in. This feels backward since you need to sign in anyways" (p1).*
+> *"Once you login, everything is easier to find information" (p4, who signs in first every time he goes to VA.gov).*
+
+4. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
+     1. 10 of 11 participants got stuck on some task(s) during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
+     1. Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
      1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
      1. 2 people used search when they didn't appear to be stuck.
-3. ***Message your doctor* had the lowest task success rate**, which was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
+5. ***Message your doctor* had the lowest task success rate**, which was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
      1. Three other tasks had low success rates: *Compare education benefits by school, Learn what else is new from the VA,* and *Add spouse*.
      1. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
-4. Some participants didn't click on either of the promos. 
+6. Some participants didn't click on either of the promos. 
      1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
      3. Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
      4. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
@@ -133,7 +137,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      6. None of the 11 participants clicked on the Pathfinder article. One said that they wouldn't read it because it's not relevant to them. Another said that it *"sounds very corporate, talking about soliciting to Veterans, and I don't like it" (p11).*
 > *"Don't know what this is...doesn't apply to me" (p4)*.
 
-5. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status).
+5. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
 1. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
 > *"Mimicking, waste of space, not to the point" (p2)*.
 7. Most participants (9 of 10) were able to successfully complete the *Show you're a Veteran* task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
@@ -163,7 +167,10 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
 
 ## Out of scope for home page redesign
-1. Two participants spontaneously commented on specific content pages being too word heavy, including the education pages and the secure messaging pages.
+1. Two participants typed in many different search strings and got different result each time. They and others said that they wanted search to work better. Another participant didn't get any relevant results when they searched using the misspelling "benifits".
+> *"What most Veterans search for should be the top results" (p4).*
+
+3. Two participants spontaneously commented on specific content pages being too word heavy, including the education pages and the secure messaging pages.
 > *"There a lot of stuff to read through...there's a lot of reading here" (p4).*
 
 > *"It is a lot of information, and it's overwhelming" (p11).*
