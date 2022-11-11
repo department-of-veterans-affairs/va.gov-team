@@ -103,7 +103,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 ### 1. 
 
 1. As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular at VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more continuously. 
-      1. **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page with the percentages of participants who clicked on each area of the page. 
+      1. **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who clicked on each area of the page. 
       2. Two participants using smartphones didn't scroll past the top of the dark blue VA news promo section. More user research or analytics checking could help see whether this might be a new "false footer" on the home page.
       3. One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon. 
       4. One participant said they liked the colored logos in front of each of the benefit hubs. A different participant said they liked the descriptions of each benefit hub, whereas someone else said that the descriptions sounded too informational and not task-focused (i.e., apply/learn about benefits, not manage benefits), and so didn't click on them.   
@@ -113,6 +113,8 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
            2. There were fewer tasks in this study (8) than in the previous study (20) and the baseline wayfinding study (9), and in the previous study, different people did different subsets of the 20 tasks.
            3. There were fewer participants in this study (11) than in the previous study (19) and the baseline wayfinding study (13).
        
+![home-pg-areas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-areas.png)
+
 ![home-pg-clicks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks.png)
 
 ![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks-3-studies.png)
@@ -126,9 +128,30 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      1. Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
      1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
      1. 2 people used search when they didn't appear to be stuck.
+
 5. ***Message your doctor* had the lowest task success rate**, which was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
      1. Three other tasks had low success rates: *Compare education benefits by school, Learn what else is new from the VA,* and *Add spouse*.
      1. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
+     2. For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
+
+Task | Why Difficult | What Could Potentially Help
+------------------|--------------|-----------
+Message your doctor | **Couldn't find by browsing**, used to doing from MHV and not VA.gov | A more intuitive way for people to manage VA health care from the VA.gov home page
+Add a spouse (review/update dependents) | **Couldn't find by browsing** (3 of 10 tried megamenu or benefit hubs > Family member benefits) **or searching** | Add "View or change dependent" to Family Member Benefits page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+Learn what else is new from the VA (news stories)
+Compare education benefits by school | 5 of 19 **didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad
+
+Participants struggled with some of the other tasks, too, as shown in the table below:
+Task | Why Difficult | What Could Potentially Help
+------------------|--------------|-----------
+File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
+Check current disability compensation rates | **Couldn't find by searching** (tried "disability pay") **OR browsing** (tried megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
+
+
+Find mental health counselor/therapist | **Couldn't find by searching** (tried "therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
+
+## --------------
+
 6. Some participants didn't click on either of the promos. 
      1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
      3. Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
@@ -169,6 +192,7 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 ## Out of scope for home page redesign
 1. Two participants typed in many different search strings and got different result each time. They and others said that they wanted search to work better. Another participant didn't get any relevant results when they searched using the misspelling "benifits".
 > *"What most Veterans search for should be the top results" (p4).*
+> *"Depending on what my search terms are, see different results" (p4).*
 
 3. Two participants spontaneously commented on specific content pages being too word heavy, including the education pages and the secure messaging pages.
 > *"There a lot of stuff to read through...there's a lot of reading here" (p4).*
@@ -184,36 +208,6 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 2. One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 **OLD from last round of testing, so need to REWRITE/DELETE...**
-
-![home-pg-areas]()
-    
-
-A summary of the task completion and success rates for each task is shown below. 
-
-![task-success&ratings]()
-
-In comparing task success rates with last year's baseline wayfinding study, we see that 
-
-For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
-
-Task | Why Difficult | What Could Potentially Help
-------------------|--------------|-----------
-File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
-Add a spouse (review/update dependents) | **Couldn't find by browsing** (7 of 19 tried megamenu or benefit hubs > Family member benefits), 1 didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
-Compare education benefits by school | 5 of 19 **didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad
-Check current disability compensation rates | **Couldn't find by searching** (tried "disability pay") **OR browsing** (tried megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
-
-Participants struggled with some of the other tasks, too, as shown in the table below:
-Task | Why Difficult | What Could Potentially Help
-------------------|--------------|-----------
-Message your doctor | **Couldn't find by browsing**, used to doing from MHV and not VA.gov | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
-Get VA medical history/records | **Couldn't find by browsing** (tried megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
-Find mental health counselor/therapist | **Couldn't find by searching** (tried "therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
-Update your address with VA | **Couldn't find by browsing** (tried benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
-
-From the most frequently done tasks reported in the [Veteran Top Tasks Unmoderated Survey Findings research report from July 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md), only two of those 5 tasks were included in this usability test. They're listed below with their success rates: 
-- *Message your doctor* (83% completed successfully)
-- *Check/update education benefits* (71% completed successfully)
 
 
 
