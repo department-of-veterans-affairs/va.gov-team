@@ -290,5 +290,86 @@ On the one call I was on the person only gets care in va so that p seemed to ass
 	- Is that something Eric should do?  We should let Bresha and Teresa know about it and we reach out to the ByLight owners. Bresha probably won't care.  Lauren and Coulton meet with them tomorrow and can put that in the agenda then agenda 
 
 ### Action items
-- Eric will send me the info from Lighthouse and Lichelle; Marci will use that as a basis for 
+- Eric will send me the info from Lighthouse and Lichelle; Marci will use that as a basis for a comparison matrix
+
+<br>
+
+## 2022-10-27
+
+Track-specific updates from each team member
+
+  *   MHV app migrations
+- Eric, Robyn, 
+
+  *   Where will health apartment live?
+- Mikki and Coulton and Lauren are meeting to discuss what they came up with last week on next steps for IA and Design Research
+
+  *   Cerner data integration
+- Eric - did some Cerner work.  Lighthouse is integrating Cerner, but they don't have a complete data set. 
+- They were thinking that PHR makes the most sense right now from a continuity standpoint, but that brings in the issue of the Cerner integration - who will do that  
+- We should absolutely assume we use FHIR standard
+	- We should meet with Patrick, Andy Ficther with Lighthouse, Barry Egbert and do the pros/cons
+	- Lauren thinks that it might be a huge lift for PHR
+	- We may make a decision domain by domain
+- Discussion 
+
+  *   Support Identity changes
+
+5 second polling approach - something Eric discovered
+
+Coulton set in on  a meeting that Anne with ByLight put together for the triage group naming conventions - there's a Mural board for that.
+
+Coulton has started to look ahead on Pharmacy discovery; trying to get a plan together before he goes on leave Nov 15
+
+Jenny has been working on Pharmacy & Medication 
+
+There's discussions going on in the background about KPIs for Secure Messaging.  We may need to have more robust KPIs than they do. 
+
+Strategically, there's an intersting question about expanding Lighthouse and make that the source of truth, and PHR, which is also not a source of truth.
+- Generally, Lighthouse is not intended to be a program that builds APIs; they are more of a gateway.
+- Does Lighthouse even want to own the API long-term
+- Ultimate home for data should probably be in the EHR systems
+- Probably value to having an API that creates data for the purposes of the patient portal, and it's fed by those 
+- Lighthouse has a gateway using Kong
+- For scheduling, they call a service in vetsapi, and that can connect to the other systems and creates a single endpoint
+- Do we need to copy/paste the scheduling pattern for the other applications in the portal, or do we take a different approach
+
+- Action items
+	- Jonathan has a design decisions - is it linked in the main decision log?
+	- Coordinate a technical discussion around the API comparison
+		- What is the lift for each to change 
+		- Prescriptions - get data from CDW, but they are doing their processing, hasn't 
+		- Compare/Contrast about what might be the best data source for each domain
+		- Coulton is most concerned about Medications
+		- Also, it could be helpful to learn about the lighthouse clinical health API as a source for medications
+		- We will still need PHR/Lighthouse to access VistA
+	- Lauren has heard rumors that there was an effort to try to do a big migration of health history data into Cerner so you have all their history, even if you don't have their current info.  Most updated version would be in VistA, but past stuff would be in Cerner.  In that case, Cerner could be an authoritative data source for some things. 
+	- For scheduling, they call a service in vetsapi, and that can connect to the other systems and creates a single endpoint
+	- Do we need to copy/paste the scheduling pattern for the other applications in the portal, or do we take a different approach
+	- If Lighthouse is going to be a gateway, should MHV or the core team be the ones to create that service?
+	- Lighthouse could host it, but they don't need to create it.
+	- Could Lighthouse's health API basically become PHR v2? -- Patrick, either in Spirit or hand it over to Lighthouse? 
+	- Would PHR be starting from the ground up? 
+		- Within their eVault, they have it broken down into a reasonable data model but on the website, all you can do is jam it into a PDF.
+	- PHR and Lighthouse team should talk about where it might belong - they will not come with the same question.  We could have the meeting and discuss it, but Lauren would want to prepare me that the decision would need to be made at the CTO level with 
+		- Meet with Barry, meet with Lighthouse but don't ask questions about where this.
+	- EAS is owned by OIT
+	- MHV created a view for appointments, but never owned appointments
+	- Lauren is very open to a recommendation from this team based on talking to Barry, based on talking to Lighthouse.  
+	- We need something that lays out the requirements and a recommendation based on those requirements.
+	- This decision is not going to be made over night.  This could be a risk to the timelines, especially if we think PHR will do the work.  We'll need to get into the next PI for them to start the API
+	- It would probably make sense for PHR to create the same type of thing Lighthouse is doing
+	- Next steps - we have a game plan to test designs.  Eric and Jonathan in then next tech/design sync
+	- What might the process look like?  An output from the next sync could be documenting these things as we move forward.  That would 
+	- Robyn wants to make sure we are building off information and not spinning our wheels.  How might we control our risk?
+	- Based on some of the research Eric read, the search my record feature is lackluster in MHV.  Is there baseline of what we would want people to filter or search by?
+	- Lighthouse documentation is pretty clear on what they allow filtering on by endpoint
+	- A big one is whether we can actually make a responsive experience for viewing records.  For example, if it takes 30 seconds to load records then that's no acceptable.
+	- What searching & filtering look like is something that should come out of the user interviews Robyn is about to start.  
+	- The goal is to get understanding
+	- the 30 seconds is for pulling data on a refresh - once it’s refreshed and stored in evault, the data should be available much quicker
+	- We will probably have to do this domain by domain because we don't have the time to start digging into each of them.
+	- Appointments and Records are our best opportunities for making a better experience than exists on MHV
+	- We have Dr. Evans want to see significant change over MHV.  If we find we need PHR to make massive changes then we should lay that out and prepare the team to make those changes.   The sooner we start that, the better. 
+	- We don't want design to get too far ahead of technical discovery, but we can't let the API constrain our designs either.
 
