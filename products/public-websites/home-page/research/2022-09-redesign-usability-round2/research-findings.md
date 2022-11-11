@@ -137,10 +137,10 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
 Message your doctor | **Couldn't find by browsing** (missed link on health care page), used to doing from MHV and not VA.gov, benefit hub description for "health care" looked like it was for applying/creating account and not for managing health care, 1 person unfamiliar because doesn't use VA health care | A more intuitive way for people to manage VA health care from the VA.gov home page
-Add a spouse (review/update dependents) | **Couldn't find by browsing** (3 of 10 tried megamenu or benefit hubs > Family member benefits) **or searching** | Add "View or change dependent" to Family Member Benefits page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+Add a spouse (review/update dependents) | **Couldn't find by browsing** the disability hub page (3 of 10 tried megamenu or benefit hubs > Family member benefits) **or searching** | Add "View or change dependent" to Family Member Benefits page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase**, surprised that the link for disability increase was the same as for filing an initial claim: *"Had I known it was the same form, I would have just used the previous link I had clicked on" (p11)* | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
 
-File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase**, surprised that the link for disability increase was the same as for filing an initial claim | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
-Check current disability compensation rates | **Couldn't find by searching** (tried "disability pay") **OR browsing** (tried megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"  
+Check current disability compensation rates | **Couldn't find by browsing** the megamenu or disability hub page (didn't notice link on that long page), **hard to find by searching**| Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"  
 
 Participants struggled with some of the other tasks, too, as shown in the table below:
 Task | Why Difficult | What Could Potentially Help
@@ -194,7 +194,7 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 > *"What most Veterans search for should be the top results" (p4).*
 > *"Depending on what my search terms are, see different results" (p4).*
 
-3. Two participants spontaneously commented on specific content pages being too word heavy, including the education pages, the health care page, and the secure messaging page.
+3. Participants often miss a relevant link when scanning through long pages with many links (e.g., disability or health care hub pages). Two participants spontaneously commented on specific content pages being too word heavy, including the education pages, the health care page, and the secure messaging page.
 > *"There a lot of stuff to read through...there's a lot of reading here" (p4).*
 
 > *"It is a lot of information, and it's overwhelming" (p11).*
