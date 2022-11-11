@@ -6,49 +6,51 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 ## Team
 
 ### VA Product Owners
-- Leanna Miller
-- Travis Newby
+- Chris Johnston
+- Rachel Han
 - Martha Wilkes (part time design and accessibility)
 
 ### Product and Program Management
+- Matt Hall Product Leadership
+- Adam Bischoff - Product
 - Meko Hong - Product
-- Brenda Cudone - Product
-- Ashley Matthews - Product
+- Kelly Lein - Product
 - Brenda Rocha - Product
 - Seth Eheart - Program
 
 
 ### UX
 - Jen Ecker - UX Design Leadership
-- Meli Manak - UX Design
+- Brea Blackwelder - UX Design & A11y Specialist
+- Holly Collier - UX Design
+- Esther Kitavi - UX Design
 - Melissa Lefevre - UX Design
 - Lauren Russell - UX Design
-- Esther Kitavi - UX Design
-- Holly Collier - UX Design
+- Misty WIlliron-Grant - Content Strategy
 - Liz Straghalis - Research
 - Alex Taylor - Principal UX Designer
 
 
 ### Engineering
 - Patrick Saxton - Engineer Leadership
-- Alastair Dawson - Engineer
 - Chika Adibemma - Engineer
-- Kris Pethtel - Engineer
+- Theo Bentum - Engineer
+- Jon Bindbeutel - Engineer
 - Andrew Herzberg - Engineer
+- Ken Li - Engineer
+- John Marchi - Engineer
+- Dylan Nienberg - Engineer
+- Kris Pethtel - Engineer
 - Jayson Perkins - Engineer
 - Narin Ratana - Engineer
-- Teesh Shahi - Engineer
-- Rafael Arroyo, Engineer
-- John Marchi, Engineer
-- Ken Li, Engineer
-- Jon, Bindbeutel, Engineer
-- Ken Harrison - QA
-- Tom Gammons - QA
+- Tim Roettger - Engineer
 - Therese Dickson - QA
+- Tom Gammons - QA
+- Ken Harrison - QA
 
 
 ## Communications
-- Slack: #va-mobile-app
+- DSVA Slack: #va-mobile-app
 - Zenhub tag: va-mobile-app
 
 ## Timeline
