@@ -1,6 +1,6 @@
 # Payment Info V2: UAT Go/No-Go | 11/10/2022 
 
-## Decision: __________
+## Decision: Good to go 
 
 ---
 
@@ -18,6 +18,7 @@
 
 **AJ, Erica and Taylor: Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?**
 - Answer: Tracking has been implemented, will follow up again on this question after analytics office hours this afternoon
+- Update from analytics office hours: minor change needed in tag implementation (showing section name instead of product name), following up with analytics folks again on 11/11 to confirm once more. 
 
 **AJ & Erica: Is staging review complete?**
 - Answer: Yes, completed last week
