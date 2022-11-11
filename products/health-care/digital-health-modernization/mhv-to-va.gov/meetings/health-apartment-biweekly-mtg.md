@@ -204,57 +204,57 @@ Robyn Singleton to Everyone (2:12 PM)<br>
 No worries! I’m going to start organizing them as we go - so no worries if things are looking a little disorganized. For the most part, it seems like folks have been organizing their stickies under the larger categories<br>
 Eric Voshall to Everyone (2:12 PM)<br>
 forgot to mention: i am also working on getting a meeting scheduled with Dr Spahn to go over his concerns with CDW/Medications/Lighthouse and am also trying to get the MHV test user login issues resolved<br>
-Lauren Alexanderson to Everyone (2:13 PM)
-Yeah I think I did that, but maybe too much?
-Robyn Singleton to Everyone (2:13 PM)
-It’s okay :)
-Mikki Northuis to Everyone (2:25 PM)
-brb
-Lauren Alexanderson to Everyone (2:26 PM)
-You’re reading my mind
-Coulton to Everyone (2:31 PM)
-I'll be out for 10 weeks
-Me to Everyone (2:31 PM)
-Thx Coulton!
-Danielle Thierry to Everyone (2:32 PM)
-I have to jump off for another meeting.
-Me to Everyone (2:32 PM)
-Thx Danielle!
-Lauren Alexanderson to Everyone (2:32 PM)
-Thanks Danielle
-And when things show up
-i.e. 72 hours vs more than that
-Me to Everyone (2:37 PM)
-Lauren 100%
-Eric Voshall to Everyone (2:37 PM)
-“idea-batting-around” has an undeniable charm to it
-Lauren Alexanderson to Everyone (2:39 PM)
-And in theory we have some architectural hypothesis of how we data-deliver on that outcome
-(Since we’re making up words/phrases)
-Jenny Wang to Everyone (2:40 PM)
-Hmm, then I wonder what the generative research will be like for each domain (the original plan) since everything overlap
-Jonathan Nelson to Everyone (2:43 PM)
-That makes sense, Lauren
-Lauren Alexanderson to Everyone (2:45 PM)
-So if we got to a place where we have a hypothesis of what the tasks are (and possibly the groupings)
-Robyn Singleton to Everyone (2:45 PM)
-I think that’s very doable
-Jonathan Nelson to Everyone (2:45 PM)
-Well said, Coulton
-Lauren Alexanderson to Everyone (2:45 PM)
-And some lo fi mocks / data architecture to support it
-Lauren Alexanderson to Everyone (2:53 PM)
-Which may cause us to shift thinking about unauthorized tools pages
-Lauren Alexanderson to Everyone (2:56 PM)
-Has anyone brought up community care so far? I have been on one to date and it didn’t come up for them
-Jonathan Nelson to Everyone (2:56 PM)
-And how the “past” condition can become “current” conditions again
-Lauren Alexanderson to Everyone (2:56 PM)
-I wonder if community care data “breaks” any of these groupings (or not)
-Coulton to Everyone (2:58 PM)
-this one about a category of information that is asked about at every single visit. (Vitals, Demographics, allergies) is interesting to me.
-Lauren Alexanderson to Everyone (3:00 PM)
-On the one call I was on the person only gets care in va so that p seemed to assume that everything was shared across all other systems (which is sometimes true and sometimes not)
+Lauren Alexanderson to Everyone (2:13 PM)<br>
+Yeah I think I did that, but maybe too much?<br>
+Robyn Singleton to Everyone (2:13 PM)<br>
+It’s okay :)<br>
+Mikki Northuis to Everyone (2:25 PM)<br>
+brb<br>
+Lauren Alexanderson to Everyone (2:26 PM)<br>
+You’re reading my mind<br>
+Coulton to Everyone (2:31 PM)<br>
+I'll be out for 10 weeks<br>
+Me to Everyone (2:31 PM)<br>
+Thx Coulton!<br>
+Danielle Thierry to Everyone (2:32 PM)<br>
+I have to jump off for another meeting.<br>
+Me to Everyone (2:32 PM)<br>
+Thx Danielle!<br>
+Lauren Alexanderson to Everyone (2:32 PM)<br>
+Thanks Danielle<br>
+And when things show up<br>
+i.e. 72 hours vs more than that<br>
+Me to Everyone (2:37 PM)<br>
+Lauren 100%<br>
+Eric Voshall to Everyone (2:37 PM)<br>
+“idea-batting-around” has an undeniable charm to it<br>
+Lauren Alexanderson to Everyone (2:39 PM)<br>
+And in theory we have some architectural hypothesis of how we data-deliver on that outcome<br>
+(Since we’re making up words/phrases)<br>
+Jenny Wang to Everyone (2:40 PM)<br>
+Hmm, then I wonder what the generative research will be like for each domain (the original plan) since everything overlap<br>
+Jonathan Nelson to Everyone (2:43 PM)<br>
+That makes sense, Lauren<br>
+Lauren Alexanderson to Everyone (2:45 PM)<br>
+So if we got to a place where we have a hypothesis of what the tasks are (and possibly the groupings)<br>
+Robyn Singleton to Everyone (2:45 PM)<br>
+I think that’s very doable<br>
+Jonathan Nelson to Everyone (2:45 PM)<br>
+Well said, Coulton<br>
+Lauren Alexanderson to Everyone (2:45 PM)<br>
+And some lo fi mocks / data architecture to support it<br>
+Lauren Alexanderson to Everyone (2:53 PM)<br>
+Which may cause us to shift thinking about unauthorized tools pages<br>
+Lauren Alexanderson to Everyone (2:56 PM)<br>
+Has anyone brought up community care so far? I have been on one to date and it didn’t come up for them<br>
+Jonathan Nelson to Everyone (2:56 PM)<br>
+And how the “past” condition can become “current” conditions again<br>
+Lauren Alexanderson to Everyone (2:56 PM)<br>
+I wonder if community care data “breaks” any of these groupings (or not)<br>
+Coulton to Everyone (2:58 PM)<br>
+this one about a category of information that is asked about at every single visit. (Vitals, Demographics, allergies) is interesting to me.<br>
+Lauren Alexanderson to Everyone (3:00 PM)<br>
+On the one call I was on the person only gets care in va so that p seemed to assume that everything was shared across all other systems (which is sometimes true and sometimes not)<br>
 
 <hr>
 
