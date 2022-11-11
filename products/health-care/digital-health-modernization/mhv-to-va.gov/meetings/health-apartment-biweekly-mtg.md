@@ -83,4 +83,212 @@ Take a stab at --
 
 <hr>
 
+## 2022-11-07
+
+- Coulton and Jenny just met about the interviews and synthesizing the information
+  - Plan is to divide up the notes and reach out to Lexi, Bobby, and Arienne
+- Jasmine 
+  - Had alignment meeting today; Coulton got to talk about medical records
+- Martha
+  - How soon can someone start looking at that from an accessibility person
+  - We have shared service people
+
+
+<hr>
+
+## 2022-11-03
+
+Agenda:
+
+
+2:00 - 2:15 - Standup
+  * What did you complete since last standup?
+- Coulton - SM testing
+  * What are you working on today?
+  * Any blockers?
+
+2:15 - 2:30 Track-specific updates from each team member
+  * MHV app migrations
+- 5 completed interviews, only one no-show
+- Did some prelim early day patterns - can
+- Medical Records interviews
+- Organize a communication strategy
+  * Where will health apartment live?  
+	- Got off a good call; Mikki has put together a potential IA
+	- Goal is by next Tue to come up with another tree that can be tested
+  * Cerner data integration
+- Meeting with some ByLight folks getting a LOE to convert API to FHIR focusing on immunizations first
+- Been going through the Lighthouse health API data with the domains Lichelle sent over
+- Mike Moyer put out a PR for secure messaging
+- Memo was signed last night so it's "for real real" now
+	- Finalizing a list of people who will be voluntold to attend a weekly meeting with OEHIM and defining requirements for a task order
+		- Will also include two people from DocMeet 360 who know how to Cerner integrations
+  * Support Identity changes
+- Danielle - has been working on identity related content for other teams, talking about continuing to hone the language on the count to use.
+- Getting to a good place with single T&C.  Neal and Charles just need to approve.  Working with John Rahagi on the sign up service
+
+
+2:30 - 3:00 (we’ll decide week to week as topics arise)
+- Leila starting on the 14th
+- Jenny's work - prototypes
+- Coverage plan aspect  while Coulton is out; flesh out offline
+	- Providing support on Medical Records - IA work and Pharmacy discovery work which may be able to wait
+	- Would be helpful to understand what is the next thing coming up in each bucket and how we are staffing those things
+	- He's most worried about - what it looks like after Medical Records research is done
+	- Doing some of the IA testing with Medical Records
+	- Pharmacy research -should we finalize the research plan now?
+	- Lauren's concerns
+		- When he talked to Eric Sphan, we hypothesized that there's going to need to be a very close relationship, or the same product or affiliated in some way. 
+		- When we start on the Medications for Medical Records we also need to start on the Pharmacy
+	- Coulton doesn't think you can talk and work with Dr. Spahn twice; we just need to think of it as one thing
+		- Do we push off Medical Records to the last domain?  Lauren thinks so
+			- In a similar vein, past appointments also become part of your medical records.
+	- Robyn - we've been batting around different ways to move forward
+		- Jonathan - how we've been talking about it:
+			- Can we create a story around what the Veteran needs to do within the domains
+				- Even if we do it domain by domain, the initial concepts have to be more holistic
+			- Robyn and Jonathan are going to sync up and dig in a little more
+		- Robyn
+			- We have 13 domains, and those don't really map onto what people are trying do 
+			- How do those domains cluster
+			- Having that organized in a certain way
+			- Identify use cases - how people want to use their medical records
+			- Concrete steps
+				- Start with the lowest-hanging fruit cluster of ideas
+				- We're starting to understand the data related to what they are trying to do
+	- Summary:
+		- One of the leading hypotheses is that people aren't thinking about "I want to get my pathology results"
+			- As a user I want to show someone that I'm vaccinated
+			- As a patient changing health care provider, I want to download my data to share with that new provider
+			- As a person with a health condition, I want to see my latest labs and care plans
+		- How do the use cases affect  the design work?
+			- We aren't going to take a perfectly domain by domain approach
+				- Lab & pathology & radiology results
+				- Desired output by end of December?
+				- Outcome-driven design
+				- You've designed an experience to allow users 
+				- Cross-linking
+		- Lauren doesn't want it to feel like we're handing it off.  We want them to understand as much as we can this shift in thinking.
+		- Handoff/transition docs
+			- User flows
+			- Wireframes
+			- Screen designs
+			- Prototype
+			- Front-end spec
+				- This field gets data from x and does y and sends data to z
+			- Architecture hypotheses
+				- The sooner we can bring the ByLight team, it would be a good thing
+				- Let them be part of the "squiggle"
+			- As ByLight is putting the thing together, we need to have a set of tasks that need to be completed
+				- If they want to change things, we're not arguing about pixels, we're arguing about how the change better accomplish the goal
+			- We need to create a set of use cases and a set of lo fi/mocks/data/architecture to support
+				- How the data comes in
+				- At that point we would feel  good getting them involved
+			- What is some of the work that goes into that outcome 
+			- That will feed back into the IA for the health apartment
+			- Output of the work is not hi-fidelity.  
+				- They don't want to be doing spec work
+				- The prototype testing has created some confusion in what the ByLight team can/can't change
+		- Lauren still doesn't want us to shy away from continuous research, especially as it relates the groupings and IA
+- Can I take over stakeholder interviews/requirements?
+- Prelim findings for SM
+- Early days
+
+
+### Chat
+
+Lauren Alexanderson to Everyone (2:12 PM) <br>
+Qq - any adjustments to how we are doing the notes there? I looked at the mural earlier and realized I dumped a bunch of tickets in there.<br>
+Relative to other sessions<br>
+Robyn Singleton to Everyone (2:12 PM)<br>
+No worries! I’m going to start organizing them as we go - so no worries if things are looking a little disorganized. For the most part, it seems like folks have been organizing their stickies under the larger categories<br>
+Eric Voshall to Everyone (2:12 PM)<br>
+forgot to mention: i am also working on getting a meeting scheduled with Dr Spahn to go over his concerns with CDW/Medications/Lighthouse and am also trying to get the MHV test user login issues resolved<br>
+Lauren Alexanderson to Everyone (2:13 PM)
+Yeah I think I did that, but maybe too much?
+Robyn Singleton to Everyone (2:13 PM)
+It’s okay :)
+Mikki Northuis to Everyone (2:25 PM)
+brb
+Lauren Alexanderson to Everyone (2:26 PM)
+You’re reading my mind
+Coulton to Everyone (2:31 PM)
+I'll be out for 10 weeks
+Me to Everyone (2:31 PM)
+Thx Coulton!
+Danielle Thierry to Everyone (2:32 PM)
+I have to jump off for another meeting.
+Me to Everyone (2:32 PM)
+Thx Danielle!
+Lauren Alexanderson to Everyone (2:32 PM)
+Thanks Danielle
+And when things show up
+i.e. 72 hours vs more than that
+Me to Everyone (2:37 PM)
+Lauren 100%
+Eric Voshall to Everyone (2:37 PM)
+“idea-batting-around” has an undeniable charm to it
+Lauren Alexanderson to Everyone (2:39 PM)
+And in theory we have some architectural hypothesis of how we data-deliver on that outcome
+(Since we’re making up words/phrases)
+Jenny Wang to Everyone (2:40 PM)
+Hmm, then I wonder what the generative research will be like for each domain (the original plan) since everything overlap
+Jonathan Nelson to Everyone (2:43 PM)
+That makes sense, Lauren
+Lauren Alexanderson to Everyone (2:45 PM)
+So if we got to a place where we have a hypothesis of what the tasks are (and possibly the groupings)
+Robyn Singleton to Everyone (2:45 PM)
+I think that’s very doable
+Jonathan Nelson to Everyone (2:45 PM)
+Well said, Coulton
+Lauren Alexanderson to Everyone (2:45 PM)
+And some lo fi mocks / data architecture to support it
+Lauren Alexanderson to Everyone (2:53 PM)
+Which may cause us to shift thinking about unauthorized tools pages
+Lauren Alexanderson to Everyone (2:56 PM)
+Has anyone brought up community care so far? I have been on one to date and it didn’t come up for them
+Jonathan Nelson to Everyone (2:56 PM)
+And how the “past” condition can become “current” conditions again
+Lauren Alexanderson to Everyone (2:56 PM)
+I wonder if community care data “breaks” any of these groupings (or not)
+Coulton to Everyone (2:58 PM)
+this one about a category of information that is asked about at every single visit. (Vitals, Demographics, allergies) is interesting to me.
+Lauren Alexanderson to Everyone (3:00 PM)
+On the one call I was on the person only gets care in va so that p seemed to assume that everything was shared across all other systems (which is sometimes true and sometimes not)
+
+<hr>
+
+## 2022-10-31
+
+- Eric is meeting with Adam Foster at Lighthouse later
+- Also got a document from Lichelle 
+- 
+- Jenny is doing Medical/Pharmacy research
+- Robyn had first interview today
+- Danielle - no updates; recovering from being sick.  Mikki and Danielle went through next steps doc & 
+- Mikki & Danielle went through next steps and met with Lauren
+- Jasmine - no big updates; just working on things in ZenHub
+- Coulton - thinking about potential IA; sitting in on a ton of interviews
+- Jonathan - Taking notes, facilitating at least one session tomorrow
+- Robyn - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews
+- Lauren - Lauren and Coulton had a good call with Patty re: Triage work.  Have we already gotten the Mural.  
+- Mikki pulled together some next step notes.  Mikki will give those to me so we can start adding them to sprints. 
+	- Mikki went through the big sections and order of operations
+	- They bucketed out big items
+	- Things highlighted with asterisks are top priorities.  The numbers don't necessarily indicate priority order
+- Lauren - getting all of this added into our sprint planning and backlog
+	- Teams that are building out the apps are MHV
+	- We will be laying the foundation
+	- To make the maximum use of Coulton's time, it will be Mikki, Coulton, Danielle, Jenny on High/Mid level planning and strategy noodling.  
+	- They will put together the bones of a tree test.  Robyn's priority will be medical records, but advise/support on the formulation  that tree test, also help Jenny set up a tree test and get that feedback. 
+	- Concurrent we should revisit what we have for the MyHealth home page so we can evaluate the entry points - what are all the different ways someone could find their way into the HA from an unauth or auth state.
+	- Some of what Meg did may still be valid, but if not, we want to be sure we aren't putting anything invalid in front of users
+	- Best-guess timeline at this point. 
+	- Lauren is hoping that #1 can be done as much as possible over the next two weeks
+	- #2 - See what we can get done with user flows and entry points, would like to target December for #3
+- Eric - sent a message to Barry sometime last week to get clarification on what he thinks the turnound time for introducing a FIER interface,  Suggested reaching out to Boomer, Dave Rollins to talk about getting something added to PI to exploring that.
+	- Is that something Eric should do?  We should let Bresha and Teresa know about it and we reach out to the ByLight owners. Bresha probably won't care.  Lauren and Coulton meet with them tomorrow and can put that in the agenda then agenda 
+
+### Action items
+- Eric will send me the info from Lighthouse and Lichelle; Marci will use that as a basis for 
 
