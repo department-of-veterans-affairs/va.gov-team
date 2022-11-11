@@ -373,3 +373,121 @@ Strategically, there's an intersting question about expanding Lighthouse and mak
 	- We have Dr. Evans want to see significant change over MHV.  If we find we need PHR to make massive changes then we should lay that out and prepare the team to make those changes.   The sooner we start that, the better. 
 	- We don't want design to get too far ahead of technical discovery, but we can't let the API constrain our designs either.
 
+<br>
+
+## 2022-10-25
+
+- Jonathan is working on a Mural for immunizations. 
+- Robyn and Jonathan did their pilots, tested out both versions of the Veterans Guide and another for people who can't do the Optimal Workshop. 
+- They are tweaking the guide and will also test it to see what it looks like on a smart phone.
+- Eric made some edits based on Patrick's feedback on the discovery doc.  Sent out an invitation for tomorrow at 11:00. 
+- Coulton shared the Medical Records discovery with Bresha.  Still trying to find time to get that in front of Teresa or leadership team.  She didn't have any feedback, but is eager to to share this out.
+- Coulton is trying to streamline meetings across Secure Messaging and Medical Records. 
+- Coulton sent out a Slack about the Wed OCC check ins and how they start integrating Medical Records into that meeting
+- As soon as possible, if we can get every possible interaction for Medical Records, that will make everything go much smoother for Medical Records. 
+	- There's a ZenHub issue for that already.  They can start with a rougher back-of-the-napkin and then refine. 
+	- There's a plan to shift different categories from the AdHoc team to the ByLight team.  Keeping it high level and identify how the user is expected to flow.
+	- As Lexi's team gets to the finer details, they can layer that on.  Coulton doesn't want us to get too far into the details too soon and limiting ourselves.
+- Mapping out legacy will be important to know we're going to hit roadblocks
+
+<br>
+
+## 2022-10-24
+2:00 - 2:15 - Standup
+  *   What did you complete since last standup?
+  *   What are you working on today?
+  *   Any blockers?
+
+2:15  - Until - Sprint Planning
+  *   Point work ahead of meeting
+  *   Commit to work for next two weeks
+
+Sprint Retro
+https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1666625206866?sender=u71ad98f94f5263595f9a4390&key=88b16c9c-16e4-40e9-87a1-51d24866735a
+  *   What went well?
+  *   What didn’t go well?
+  *   What changes can we make?
+
+Parking Lot
+When I create the next epics for Medical Records, do you want those split out by domain (e.g., a technical discovery, generative research, lo-fi design, etc. for immunizations, then the same epics repeated for lab results, etc.)? Yes
+
+How IA work will intersect w/ concept or low-fi development in coming weeks. Specifically, how should Jonathan be coordinating with you all? If work were Venn diagram, who is doing what and what is shared?
+
+Mikki: @Robyn I think that decisions doc will be the first step in making sure we are all clear on how we are moving forward, and then yes, we will need to work in more detail in how those decisions impact the individual workstreams
+
+Notes
+- Kevin Hoffman book about planning meetings
+- Questions for Mobile - model for refreshing
+
+Coulton will start being more involved with Mikki on IA
+
+Communication around this project; needs to be led by Connected Care but we can help with the messaging.  Reinforce positive
+
+Coordinators are afraid they are going away. 
+
+Teresa might be able to give some better talking points.  We're not being blamed because they're not working on legacy.  
+
+Lauren gave Bill & Chris some feedback about what the ByLight team could be doing.  It was productive. 
+
+Stub Ticket
+
+Don't do the Mural until we have a better sense of when things are going to happen
+
+The CTO team sent a list of 10 priority initiatives, and this work is one of them.  The sitewide team, platform, etc. also have work to do -- content API, etc.  
+
+Connected Care and other teams may need something else to respond to & represented for the work other teams will be needed.
+
+Takeaways
+- Lauren feels like there are a lot of meetings in the Apt space.  Wants to make sure everyone is in the meetings they need to be in
+- Strategy for communication key takeaways and decisions
+- Lesson learned for Medical Records - where the data is coming from.
+- Mobile app
+	- Chat with the VA Mobile team about how the app works.  
+- How can we divide and conquer on different tracks and make progress?
+	- MR
+	- Cerner data
+	- API
+	- Overlap - content API, mobile app, etc.
+- MHV partners need support to become more familiar with design systems. 
+	- MHV has an interstitial that has a lot of different components. 
+	- Do they know where to go to use the components
+
+<br>
+
+## 2022-10-20
+
+Eric
+- Screen sharing is disabled in Zoom for Thu meetings
+- Got info from Barry, will be adding that to a document
+- Left nav card  - Olekssi has put together  a left Nav in React
+- Robyn asked for some overview info  about left nav and what we mean by dynamic there
+
+Robyn
+- All the Secure Messaging 
+- Generative Research meetings have been slotted, invites should come out soon
+- You list the observers in the request and then Perigean uses that to invite people
+- Marci will do a Slack sign up for each interview - 2 observers per interview.  Add spots for facilitator, note taker, and the zoom links for each.
+- Note taking - Jonathan taking notes or facilitating some of the interviews
+
+Jonathan
+- Accessibility team is auditing MHV
+- Dug into the research readout that Coulton shared unofficially with us
+- Starting putting together a Mural with post it notes so he can quickly reference the research. 
+- Trying to support Robyn with the generative research
+- Questions:
+	- Q for Robyn: What is Jonathan's role in the data collection in the generative research?
+		- Robyn's goal is to have quick turnaround on research
+		- Robyn can have Pergiean recruit people every week so they can work iteratively until a hi-fi the first of Dec.
+	- Q for Eric:  One of the tickets is to dig into the technical aspects with Eric before he starts the wireframes
+		- Eric has mostly been working with the Medical Records because it's the most complex
+Questions
+- Eric - is the ultimate plan to sunset MHV?
+	- Jonathan referred to the deck Lauren put together
+	- Left nav conversation - in the Tue meeting with OCTO he was finding out a lot of info around the left nav. 
+		- Option A - Drupal nav no customization or dynamic data
+		- Option B - Build the custom nav with React and then you own it and have to maintain it.
+
+Action Items
+- Requirements traceability matrix from PMI - send to Jonathan and Robyn
+- Eric and Jonathan will set up a weekly meeting
+- I might work on doing a design spec based on the API
