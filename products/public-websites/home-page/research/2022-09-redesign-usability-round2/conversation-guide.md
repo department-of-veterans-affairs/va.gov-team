@@ -36,14 +36,14 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
+*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
+
 There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
 
 Could the notetaker and observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
-
-*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
 Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do some specific tasks using a website that I will share with you.
 
