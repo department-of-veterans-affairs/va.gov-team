@@ -78,23 +78,25 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 # Hypotheses and Conclusions
 
 1. The revised home page design will result in improved task success rates as compared to the first round of usability testing, especially including the tasks below.
-    1. The 4 tasks with the lowest success rates:
-        1. Check current disability compensation rates (60%)
-        2. Compare education benefits by school (56%)
-        3. Add spouse (Review/update dependents) (56%)
-        4. File for disability increase (50%)
-    2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
-        1. Message your doctor (83%)
-        1. Add spouse (Review/update dependents) (56%) -- also listed above
+     1. The 4 tasks with the lowest success rates:
+         1. Check current disability compensation rates (60%)
+         2. Compare education benefits by school (56%)
+         3. Add spouse (Review/update dependents) (56%)
+         4. File for disability increase (50%)
+     2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
+         1. Message your doctor (83%)
+         1. Add spouse (Review/update dependents) (56%) -- also listed above
+     1. 
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
-1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
+     1.  
+3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
      1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the "sign in" button. We still need to see what participants without accounts would do.
-3. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
+4. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
      1. FALSE: 10 of 11 participants got stuck on at least one task, even though the home page supports multiple navigation paths. 
 5. Participants understand that the top promo is about benefits or services for Veterans.
-6. Participants understand that the bottom promo is news and know how to get more news stories.
-
-     1. PROBABLY FALSE: Most participants...
+     1. FALSE: Only 3 of 11 participants went there when asked about benefit changes, and everyone else scrolled down past it.
+7. Participants understand that the bottom promo is news and know how to get more news stories.
+     1. FALSE: Only 4 of 11 participants went there to click on "More VA news" when asked about VA stories, and everyone else looked elsewhere. The featured Pathfinder article didn't look like news, and the "More VA news" link was small and overlooked.
 
 # Key Findings
 
@@ -146,7 +148,7 @@ Check current disability compensation rates | **Couldn't find by browsing** the 
 Find mental health counselor/therapist | Couldn't find how to contact someone quickly by phone or chat from [mental health page linked to in footer](https://www.mentalhealth.va.gov/), didn't notice Veterans Crisis Line in top right because it scrolled off the screen, or while looking at left side of home page with a screen magnifier| Change footer link to go to the [modernized mental health page](https://www.va.gov/health-care/health-needs-conditions/mental-health/) that the link in *Popular* goes to, Add "mental health" to megamenu under health care
 
 6. Some participants didn't click on either of the promos. 
-     1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below), but we don't know specifics on why the others didn't open the PACT Act article; we do know that it doesn't apply to everyone. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
+     1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below; we know it doesn't apply to everyone), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
      3. Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
      4. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
      5. One participant was looking for an indication that the promo content was new (*vs.* always on the page). Without a date or the word "new!" like p2 saw in Press Releases (found via Footer > VA Updates > Press Releases), p2 assumed that the promo content was something she had already seen.
