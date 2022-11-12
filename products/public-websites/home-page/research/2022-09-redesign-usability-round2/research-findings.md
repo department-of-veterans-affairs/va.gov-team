@@ -88,7 +88,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
          1. Add spouse (Review/update dependents) (56%) -- also listed above
      1. 
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
-     1.  
+     1. TRUE: Participant success rates were not correlated by participant device or assistive technology use (screen magnifiers). 
 3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
      1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the "sign in" button. We still need to see what participants without accounts would do.
 4. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
