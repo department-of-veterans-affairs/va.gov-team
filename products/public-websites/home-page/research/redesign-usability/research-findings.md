@@ -359,7 +359,7 @@ We heard some pain points about VA in general, which is included below but not a
      3. Add "mental health" to the megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist", "counselor", and "therapy".
      4. Add "Update contact info" to the Records benefit hub.
      5. Add "View or change dependent" to Family Member Benefits page, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
-     6. Add "View disability rates" to megamenu under Disability, as an search autocomplete suggestion, and a search "top recommendation".
+     6. Add "View disability rates" to megamenu under Disability, as a search autocomplete suggestion, and a search "top recommendation".
      7. Make clear on the [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
