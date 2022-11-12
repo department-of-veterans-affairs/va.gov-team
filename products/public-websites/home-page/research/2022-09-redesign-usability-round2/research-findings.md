@@ -166,8 +166,8 @@ Find mental health counselor/therapist | Couldn't find how to contact someone qu
 
 ### Findings around recruiting 
 2. We tried to test with screen reader users, but it didn't work in this study. We learned that participants recruited as screen reader users don't always use screen readers for all of their web browsing, and **none of the four people in this study used a screen reader at all during the research session**. The reasons why are listed below:
-     3. Two participants have some vision and so avoid using screen readers unless they really need them, such as when they have a long article to read. They both used screen magnifiers, and I didn’t ask them to use their screen readers during the session because that’s not how they normally browse web pages. 
-     4. Another participant joined using a smartphone as she was asked to do by Perigean, but she normally uses a tablet with accessibility features. I asked if she could switch to the tablet, but she couldn’t because she didn’t have the Zoom app installed on it and wasn’t able to do that during the session. She is accustomed to holding her phone screen close to her face to read it, so that’s how she participated. 
+     1. Two participants have some vision and so avoid using screen readers unless they really need them, such as when they have a long article to read. They both used screen magnifiers, and I didn’t ask them to use their screen readers during the session because that’s not how they normally browse web pages. 
+     1. Another participant joined using a smartphone as she was asked to do by Perigean, but she normally uses a tablet with accessibility features. I asked if she could switch to the tablet, but she couldn’t because she didn’t have the Zoom app installed on it and wasn’t able to do that during the session. She is accustomed to holding her phone screen close to her face to read it, so that’s how she participated. 
      1. The fourth participant seems to be able to see but uses a screen reader only when she feels physically or mentally unwell, which was not the case during the session. Plus, she was in a moving car and not using her phone because she couldn’t join with it (for unknown reasons), and so she was using her boyfriend’s phone instead.
 1. **People recruited to join the research session using a specific device (e.g., smartphone) may or may not be comfortable browsing websites from that device**. One of the participants recruited to use a smartphone during this study said they always use a computer, not a phone, to access VA.gov. Another participant P14 recruited to use a smartphone during the session generally uses a tablet to browse the web, not a phone. 
 > *“Most of it is getting used to using a phone instead of a computer when you’re used to using a computer on a regular basis” (p5).* 
@@ -229,7 +229,13 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
-2. Talk with the Veterans Crisis Line team about how opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
+2. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**, and add "mental health" to the megamenu under health care as another way to go there.
+4. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
+5. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
+6. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
+8. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search.
+9. Talk with the Veterans Crisis Line team about how opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
+10. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/). 
 
 # Next Steps
 
