@@ -88,9 +88,11 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
         1. Add spouse (Review/update dependents) (56%) -- also listed above
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
 1. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
-1. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-1. Participants understand that the top promo is about benefits or services for Veterans.
-1. Participants understand that the bottom promo is news and know how to get more news stories.
+     1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the "sign in" button. We still need to see what participants without accounts would do.
+3. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
+     1. FALSE: 10 of 11 participants got stuck on at least one task, even though the home page supports multiple navigation paths. 
+5. Participants understand that the top promo is about benefits or services for Veterans.
+6. Participants understand that the bottom promo is news and know how to get more news stories.
 
      1. PROBABLY FALSE: Most participants...
 
