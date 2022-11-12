@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 11/11/2022
+Date: 11/15/2022
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -86,7 +86,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
          1. Message your doctor (83%)
          1. Add spouse (Review/update dependents) (56%) -- also listed above
-     1. 
+     1. PARTLY TRUE: Success rates for most tasks improved, though some not by much, except for "Message your doctor", which was worse (55%) than the first round of testing (83%).
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
      1. TRUE: Participant success rates were not correlated by participant device or assistive technology use (screen magnifiers). 
 3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
