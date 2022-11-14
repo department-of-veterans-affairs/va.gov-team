@@ -64,6 +64,7 @@ Of the 119 invalid legal rep uploads, 91 applications were signed by someone oth
 
 - % of accepted documents | 30% | Target | Source: Caregiver Program Office
 
+See updated [Initiative Brief for Sign as a Representative enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Sign%20as%20a%20Rep/Sign%20as%20a%20Rep%20-%20Initiative%20Outline.md)
 ---
 
 ## Discovery
