@@ -39,10 +39,6 @@ How might we set up the online form to allow Veterans' representatives to comple
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
 
 - Number of online Caregiver applications filled out by a representative per month
 - Number of online Caregiver applications filled out per month
