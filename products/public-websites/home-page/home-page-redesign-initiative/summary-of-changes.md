@@ -48,7 +48,16 @@ This design was validated with usability testing in August 2022 and findings inf
 - Addition of "Welcome to VA.gov" H1	will improve experience for those using screenreaders or keyboard navigation by giving context to landing page
 
 ### November 2022
-Launch design iteration 
+Round 3
+
+<details>
+<summary> Round 3 design iteration | November 2022 </summary>
+ 
+![Mobile Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/mobile%20round%203.PNG)
+![Desktop Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/desktop%20round%203.PNG)
+![Desktop Create account Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/desktop%20create%20account.PNG)
+ 
+ </details)
  
 This iteration adds a modal for opting-in to the redesigned user experience. Content input was provided to convey the full-functionality of the redesigned page, a CTA to provide feedback, and expectation about the per-session nature of the opt-in (i.e. "Try the new homepage", "No,maybe next time").
 
