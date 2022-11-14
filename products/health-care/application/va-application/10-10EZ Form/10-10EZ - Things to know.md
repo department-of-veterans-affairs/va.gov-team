@@ -9,7 +9,9 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 - ...
 
 ### Development
-- 7/29/22 The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
+- 7/29/22 - The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
+- 11/12/22 - The Certificate CN being sent to ES for SSL (Security layers) is "es-prod.va.gov"  
+     - If this changes, we need to be sure to communicate to Joshua Faulkner and ES team.  If Joshua is not available, update Tarsha Tremble to pass on the communications.
 
 
 ### Testing
