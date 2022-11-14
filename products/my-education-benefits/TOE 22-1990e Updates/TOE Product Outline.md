@@ -90,11 +90,50 @@ Application is under development slated for January 2023 release.
 
 ---
    
-## Screenshots
+## Application flow and screenshots
+The following is the flow for the application with respective screenshots:
 
-### Before
+1) Claimant navigates to "How to Apply" through navigation menu.
+<img alt="How To Apply page" src="./screenshots/toe-how-to-apply-menu.png" height="400"> 
 
-### After
+2) Claimant selects that they want to apply for TOE
+<img alt="How To Apply page" src="./screenshots/toe-how-to-apply.png" height="400"> 
+
+3) Claimant is presented with Introduction Page
+<img alt="Introduction page" src="./screenshots/toe-intro-page.png" height="400"> 
+
+4) Claimant is presented with preloaded data personal information from VA.gov profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services.
+<img alt="Personal Information Page" src="./screenshots/toe-applicant-information.png" height="400">
+
+5) Claimant is presented with pre-loaded sponsors if available, to select from them. Claimant is also presente with an option to add a sponsor manually.
+<img alt="Sponsor Information Page" src="./screenshots/toe-sponsor-list.png" height="400">
+
+6) If Claimant so chooses, they can enter a sponsor manually.
+<img alt="Sponsor Information Page" src="./screenshots/toe-sponsor-list.png" height="400">
+
+7) Claimant is presented with preloaded contact information from VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
+<img alt="Contact Information Page" src="./screenshots/toe-contact-information.png" height="400">
+
+8) Claimant is presented with preloaded addressfrom VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
+<img alt="Address Page" src="./screenshots/toe-address-information.png" height="400">
+
+9) Claimant is asked to enter Contact Preferences
+<img alt="Contact Preference Page" src="./screenshots/toe-preferred-contact-method.png" height="400">
+
+10) Claimant is presented with Direct Deposit information screen. It will be pre-filled with information loaded from VA.gov profile. Absent that, claimant will be required to enter Direct Deposit information directly.
+<img alt="Direct Deposit Page" src="./screenshots/toe-direct-deposit.png" height="400">
+
+11) Claimant can edit/add Direct Deposit information if needed
+<img alt="Direct Deposit Edit Page" src="./screenshots/toe-direct-deposit-edit.png" height="400">
+
+12) Claimant is presented with final review page before submission
+<img alt="Final Review Page" src="./screenshots/toe-review.png" height="400">
+
+13) Claimant is presented with Wait screen while submitting the claim
+<img alt="Submission Wait Screen" src="./screenshots/toe-loading-results.png" height="400">
+
+14) Claimant is presented with a screen advising that the submission has been received and is under review
+<img alt="Submission Wait Screen" src="./screenshots/toe-under-review.png" height="400">
 
 ---
 
