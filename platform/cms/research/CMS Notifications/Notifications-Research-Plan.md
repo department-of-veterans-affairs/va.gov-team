@@ -3,7 +3,7 @@
 This final researh plan is published in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
-This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. 
+This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. Since editors will potentially need to be notified of a variety of things, we need to figure out the best way to notify them of action items.
 
 ## OCTO Objectives 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) 
@@ -27,20 +27,24 @@ This research supports the following [OCTO objectives](https://github.com/depart
 
 ## Research Goals	
 What are we trying to learn from this research?
-(Reframe these questions as statements.)
--How would editors like to receive notifications? Email? Within the CMS? Both? Other?
--What are some other things that editors could be notified (or would like to be notified of) once notifications for 6102 are implemented?
--Would a dashboard out outdated content be beneficial?
--How do we keep editors from editing over one another?
+
+- Gain a better understanding of how editors would like to receive notifications.
+- Gain a better understanding of the things that editors want to be notified of.
+- Gain a better understanding of what painpoints editors are currently experiencing when receiving relevant information or action items.
 
 ### Outcome
-How will this research advance our product to the next phase in the design process? What will we do with our learnings?
+The results of this research will be used to develop a future direction for how to inform CMS editors about any relevant information or action items and provide an easy way to directly access the content in order to act on the notification.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+Reframe these as questions:
+-Gain a better understanding of how editors would like to receive notifications.
+-Gain a better understanding of the things that editors want to be notified of.
+-Gain a better understanding of what painpoints editors are currently experiencing when receiving relevant information or action items.
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -49,7 +53,11 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
-Outdated content on VA websites leads to....?
+Outdated content on VA websites can easily lead to information that doesn't match the operational reality of VA facilities. Veterans trust that the information on VA websites will be accurate and up to date, but when that is not the case veterans will be confused which could potentially lead to a mistrust of the the information that is on VA websites.
+
+When the VA is able to notify editors of relevant information in a timely manner that fits into their established workflow, editors will be more likely to use the CMS efficienty. When editors are notified of relevant information or action items and are able to easily access the content, they're less likely to make errors and more likely to follow veteran-centered content guidelines which yeilds higher quality content for veterans on VA.gov.
+
+CMS notifications will provide a way for us to speak to the editors directly and let them know when information needs to be updated and where. Allowing for a centralized place for all different types of CMS notifications will also provide a flexible space to expand the types of notifications that we send editors if there is a need for that in the future.
 
 
 ## Method	
@@ -57,21 +65,11 @@ Describe the method you’re planning. You should be able to explain why this me
 
 Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote via Zoom
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -134,6 +132,6 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: TBD	
 - Project point of contact: TBD	
 - Participant(s) for pilot test: TBD	
-- Note-takers: TBD	
+- Note-takers: Dave Pickett, Jordan Wood	
  
 
