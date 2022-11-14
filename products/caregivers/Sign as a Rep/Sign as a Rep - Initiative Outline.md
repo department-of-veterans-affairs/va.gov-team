@@ -62,7 +62,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: number of applications filled out by representatives
 
 
-The charts below represent the total volume of POA documents received, and of that, the volume of uploaded documents, and how many were valid vs invalid.  The stars indicate where we released to 50%, 75% and finally 100% in July.
+The charts below represent the total volume of POA documents received, and of that, the volume of uploaded documents, and how many were valid vs invalid.  The stars indicate where we released to 50%, 75% and finally 100% in July.  Also in July, the CG team was given the approval to accept general Power of Attorney documents without the medical stipulation.  This helped with the increase in valid documents, and the volume remains steady in the 70% acceptable document range.
   
 ![image](https://user-images.githubusercontent.com/92328831/201712202-e42d4233-ea5f-4aa0-b4a0-50a46c9f112b.png)
 
