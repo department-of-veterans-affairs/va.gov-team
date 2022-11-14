@@ -4,7 +4,7 @@
 
 Date: 11/14/2022
 
-[Robyn Singleton] [robyn.singleton@adhocteam.us], [Jonathan Nelson] [jonathan.nelson@adhocteam.us]
+Robyn Singleton [robyn.singleton@adhocteam.us], Jonathan Nelson [jonathan.nelson@adhocteam.us]
 
 [Research readout](link here)
 
@@ -22,67 +22,69 @@ Date: 11/14/2022
 
 [Further research needed](#further-research-needed)
 
-<br>
+### OCTO Objectives
+This research supports the following OCTO objectives: 
+
+1. Veterans can manage their health services online
+2. Veterans and their families can find a single, authoritative source of information
+3. Logged-in users have a personalized experience, with relevant and time-saving features
+
+### Veteran Journey
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+The purpose of this research is to gain insight into user needs and goals related to medical records, users' emic understandings of medical records-related terms, and how these needs, goals, and understandings influence their behaviors. This information will inform the redesign of health records on the Health Apartment on VA.gov. 
 
 ## Research Questions
 
-_Research questions here_
+1. What terms do Veterans and Caregivers use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admissions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+2. How do Veterans and Caregivers understand the existing medical records-related terminology on MHV and how does that understanding shape their behavior on the website (e.g., where they look for specific information)? 
 
-
-* Question 
-* Question
-* Question
+3. What actions do Veterans and Caregivers need to take with their medical records and for what purposes?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+### Interviews
+We conducted 15 remote interviews with Zoom. These interviews included questions about user needs and goals related to medical records, what users expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews also included a moderated card sorting activity. 
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+_Hypothesis 1:_ Some Veterans and Caregivers will use different terms than those displayed via Blue Button reports for at least some of the medical records-related terms. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+   TRUE: Participants used terms like "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History." 
 
-_Hypothesis statement_
+_Hypthesis 2:_ Some Veterans and Caregivers will not understand all of the medical records-related terms without support.
+   
+   TRUE: Terms like "Pathology results" and "Encounter notes" often generated confusion amongst participants. Medical terms found on Blue Button reports were not universally understood by participants. 
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+_Hypothesis 3:_ Some Veterans and Caregivers will not know what Blue Buttona and VA Health Summary include, nor will know where to find specific information across the three options. 
+   
+   TRUE: Participants consistently misunderstood what was available in Blue Button and VA Health Summary reports. 
 
+_Hypothesis 4:_ Some Veterans and Caregivers will want to be able to view and share their medical records, while others will want to identify key information to use for other purposes (e.g., to support a disability claim).
+
+   TRUE: Use cases for medical records can be broadly categorized into wanting to understand one's records, advocate and coordinate care using one's records, and record keep. These use cases will be explained in greater detail in the findings section. 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Participants used a range of terms to refer to medical records, such as "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History." 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Participants described wanting to access their medical records to: 
+   - Understand their health by reviewing vitals or other health monitorings
+   - Monitoring their needs, particularly appointments or medications and medication refills
+   - Understand an issue by reviewing doctors' notes, labs/tests, images with notes, or past appointments or medications
+   - Advocate for their needs by reviewing what has and hasn't been done
+   - Coordinate care across healthcare providers, particularly with providers outside the VA
+   - Keep a local record that they can review or adapt as needed
+   - Identify evidence that can be used to obtain benefits, including non-VA benefits
 
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+3. 
 
 ## Details of Findings 
 
