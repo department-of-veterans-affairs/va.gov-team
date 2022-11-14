@@ -60,7 +60,7 @@ In this research, we were primarily interested in the following areas of the hom
 - The new search box
 - "Other search tools"
 - "Popular on VA.gov"
-- VA News promo (PathFinder article)
+- VA News promo (Pathfinder article)
 - Benefit hubs
 
 # Methodology 
