@@ -64,11 +64,11 @@ In this research, we were primarily interested in the following areas of the hom
 - Benefit hubs
 
 # Methodology 
-We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given some tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Popular on VA.gov" section of the redesigned home page, while others were not. Below is the complete list of 8 tasks:
+We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Popular on VA.gov" section of the redesigned home page, while others were not. Below is the complete list of 8 tasks:
 1. Message your doctor
 1. Show you're a Veteran (benefit letter or Veteran ID card)
 1. Find mental health counselor/therapist
-1. Find recent changes in benefits/services
+1. Find recent changes in benefits/services (VA benefit promo)
 1. Learn what else is new from the VA (news stories)
 1. Add spouse (Review/update dependents)
 1. Check current disability compensation rates
