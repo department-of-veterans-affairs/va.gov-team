@@ -103,7 +103,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 1. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.**
 2. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
 3. **Some participants didn't click on either of the promos**. 
-4. There may be an **accessibility issue for screen magnifier users with buttons places on the far right side of web pages**.
+4. There may be an **accessibility issue for screen magnifier users with buttons on the far right side of web pages**.
 
 
 # Details of Findings
@@ -130,13 +130,13 @@ As in the previous round of usability testing, some participants tended to **foc
 ![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks-3-studies.png)
           
 ### 2. Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.
-- All participants except one got stuck on some task(s) during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
-- Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
+- **All participants except one got stuck on some task(s)** during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
+- More than half of the participants didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
 - Four of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
 - Two people used search when they didn't appear to be stuck.
 
 ### 3. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
-***Message your doctor* had the lowest task success rate, which was *lower* than the previous round of usability testing** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
+- ***Message your doctor* had the lowest task success rate, which was *lower than the previous round of usability testing*** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet, not VA.gov. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
 - ***Message your doctor* and *Add spouse* had lower task success rates than the 2021 Baseline Wayfinding** study, which tested the current production version of the home page.
 - **Two other tasks also had low success rates**: *Compare education benefits by school* and *Learn what else is new from the VA.*
 - **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
@@ -148,26 +148,28 @@ As in the previous round of usability testing, some participants tended to **foc
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
 Message your doctor | **Couldn't find by browsing** (missed link on health care page), used to doing from MHV and not VA.gov, benefit hub description for "health care" looked like it was for applying/creating account and not for managing health care, 1 person unfamiliar because doesn't use VA health care | A more intuitive way for people to manage VA health care from the VA.gov home page
-Add a spouse (review/update dependents) | **Couldn't find by browsing** the disability hub page (3 of 10 tried megamenu or benefit hubs > Family member benefits) **or searching** | Add "View or change dependent" to Family Member Benefits page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
-File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase**, surprised that the link for disability increase was the same as for filing an initial claim: *"Had I known it was the same form, I would have just used the previous link I had clicked on" (p11)* | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
+Add a spouse (review/update dependents) | **Couldn't find by browsing** the disability hub page (3 of 10 tried megamenu or *benefit hubs > Family member benefits*) **or searching** | Add "View or change dependent" to *Family Member Benefits* page, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase**, surprised that the link for disability increase was the same as for filing an initial claim: *"Had I known it was the same form, I would have just used the previous link I had clicked on" (p11)* | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to *increase your existing* disability rating (i.e., add to heading "or increase your current rating")
 Check current disability compensation rates | **Couldn't find by browsing** the megamenu or disability hub page (didn't notice link on that long page), **hard to find by searching**| Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"  
 Find mental health counselor/therapist | Couldn't find how to contact someone quickly by phone or chat from [mental health page linked to in footer](https://www.mentalhealth.va.gov/), didn't notice Veterans Crisis Line in top right because it scrolled off the screen, or while looking at left side of home page with a screen magnifier| Change footer link to go to the [modernized mental health page](https://www.va.gov/health-care/health-needs-conditions/mental-health/) that the link in *Popular* goes to, Add "mental health" to megamenu under health care
 
 ### 4. Some participants didn't click on either of the promos 
 - Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below; we know it doesn't apply to everyone), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
-- Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
+- Four participants **didn't notice the *More VA News* link**. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
 - One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
 - One participant was looking for an indication that the promo content was new (*vs.* always on the page). Without a date or the word "new!" like p2 saw in Press Releases (found via Footer > VA Updates > Press Releases), p2 assumed that the promo content was something she had already seen.
 - None of the 11 participants clicked on the Pathfinder article. One said that they wouldn't read it because it's not relevant to them. Another said that it *"sounds very corporate, talking about soliciting to Veterans, and I don't like it" (p11).*
-> *"Don't know what this is...doesn't apply to me" (p4)*.
+> *"Don't know what this is [PACT Act]...doesn't apply to me" (p4)*.
 
-### 5. There may be an accessibility issue for screen magnifier users with buttons places on the far right side of web pages.
-8. An accessibility issue was discovered in which **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer) didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there. The *Popular on VA.gov* section is also on the right side of the page, and this participant said he knew something was there because the background color was different. **Further research could be conducted with screen magnifier users to learn more about this issue, including whether the *Create account* button is similarly invisible.**
+### 5. There may be an accessibility issue for screen magnifier users with buttons on the far right side of web pages.
+- An accessibility issue was discovered in which **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer) didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there. The *Popular on VA.gov* section is also on the right side of the page, and this participant said he knew something was there because the background color was different. **Further research could be conducted with screen magnifier users to learn more about this issue, including whether the *Create account* button is similarly invisible.**
 
 ### 6. Other findings on the home page
 - Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
 - **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
-> *"Mimicking, waste of space, not to the point" (p2)*.10. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
+> *"Mimicking, waste of space, not to the point" (p2)*.
+
+- **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
@@ -177,47 +179,48 @@ Find mental health counselor/therapist | Couldn't find how to contact someone qu
 
 - Just over half of the participants (6 of 11) wanted to sign in before doing any tasks. 
 > *"You will need to sign in, so why not sign in first. I don’t know how to do it without signing in. This feels backward since you need to sign in anyways" (p1).*
+
 > *"Once you login, everything is easier to find information" (p4, who signs in first every time he goes to VA.gov).*
 
 ### 7. Findings around recruiting 
-2. We tried to test with screen reader users, but it didn't work in this study. We learned that participants recruited as screen reader users don't always use screen readers for all of their web browsing, and **none of the four people in this study used a screen reader at all during the research session**. The reasons why are listed below:
-     1. Two participants have some vision and so avoid using screen readers unless they really need them, such as when they have a long article to read. They both used screen magnifiers, and I didn’t ask them to use their screen readers during the session because that’s not how they normally browse web pages. 
-     1. Another participant joined using a smartphone as she was asked to do by Perigean, but she normally uses a tablet with accessibility features. I asked if she could switch to the tablet, but she couldn’t because she didn’t have the Zoom app installed on it and wasn’t able to do that during the session. She is accustomed to holding her phone screen close to her face to read it, so that’s how she participated. 
-     1. The fourth participant seems to be able to see but uses a screen reader only when she feels physically or mentally unwell, which was not the case during the session. Plus, she was in a moving car and not using her phone because she couldn’t join with it (for unknown reasons), and so she was using her boyfriend’s phone instead.
-1. **People recruited to join the research session using a specific device (e.g., smartphone) may or may not be comfortable browsing websites from that device**. One of the participants recruited to use a smartphone during this study said they always use a computer, not a phone, to access VA.gov. Another participant P14 recruited to use a smartphone during the session generally uses a tablet to browse the web, not a phone. 
+- We tried to test with screen reader users, but it didn't work in this study. We learned that participants recruited as screen reader users don't always use screen readers for ALL of their web browsing, and ***none* of the four people in this study used a screen reader at all during the research session**. The reasons why are listed below:
+  - Two participants have some vision and so avoid using screen readers unless they really need them, such as when they have a long article to read. They both used screen magnifiers, and I didn’t ask them to use their screen readers during the session because that’s not how they normally browse web pages. 
+  - Another participant joined using a smartphone as she was asked to do by Perigean, but she normally uses a tablet with accessibility features. I asked if she could switch to the tablet, but she couldn’t because she didn’t have the Zoom app installed on it and wasn’t able to do that during the session. She is accustomed to holding her phone screen close to her face to read it, so that’s how she participated in the session. 
+  - The fourth participant seems to be able to see but uses a screen reader only when she feels physically or mentally unwell, which was not the case during the session. Plus, she was in a moving car and not using her phone because she couldn’t join with it (for unknown reasons), and so she was using her boyfriend’s phone instead.
+- **People recruited to join the research session using a specific device (e.g., smartphone) may or may not be comfortable browsing websites from that device**. One of the participants recruited to use a smartphone during this study said they always use a computer, not a phone, to access VA.gov. Another participant recruited to use a smartphone during the session generally uses a tablet to browse the web, not a phone. 
 > *“Most of it is getting used to using a phone instead of a computer when you’re used to using a computer on a regular basis” (p5).* 
 
-1. We wanted to test with some people who were unfamiliar with VA.gov. As it turns out, **everyone recruited to join the research session already had an account on VA.gov, even if Perigean said that some didn't**. They recruited 4 people who said they didn't have accounts, one was a no-show, and the other 3 told me that they already had accounts. One of those participants was a caregiver who had created an account on VA.gov only a month ago, and the Veteran she cares for doesn't use any VA benefits, so that was only one person who was fairly new to using the website and had no VA benefits experience.
+- We wanted to test with some people who were unfamiliar with VA.gov. As it turns out, ***everyone* recruited to join the research session already had an account on VA.gov, even if Perigean said that some didn't**. They recruited 4 people who said they didn't have accounts, one was a no-show, and the other 3 told me that they already had accounts. One of those participants was a caregiver who had created an account on VA.gov only a month ago, and the Veteran she cares for doesn't use any VA benefits, so that was only one person who was fairly new to using the website and had no VA benefits experience.
 
 ### 8. Ideas from participants
 Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
-1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
-1. Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
-2. Would like to have a search bar at the bottom of the page to use if you scroll through the entire page and don't find what you're looking for.
-3. The header "Explore VA benefits and health care" header above the benefit hubs seemed _"like twiddling your thumbs" (p11)_. Better would be something more task or goal oriented, such as "What do you need?" or "What would you like to do?".
-4. Would be nice to have an area for community connections--organizations that partner with VA (e.g., American Legion, Disabled American Vets, VFW) for volunteering, transportation to appointments, and advocating. Suggested putting it at the bottom of the page, below the benefit hubs.
-5. The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
+- Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
+- Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
+- Would like to have a search bar at the bottom of the page to use if you scroll through the entire page and don't find what you're looking for.
+- The header "Explore VA benefits and health care" header above the benefit hubs seemed _"like twiddling your thumbs" (p11)_. Better would be something more task or goal oriented, such as "What do you need?" or "What would you like to do?".
+- Would be nice to have an area for community connections--organizations that partner with VA (e.g., American Legion, Disabled American Vets, VFW) for volunteering, transportation to appointments, and advocating. Suggested putting it at the bottom of the page, below the benefit hubs.
+- The link *"'mental health' isn't plain language. 'Need to talk to someone?' might be better" (p3).*
 
 ## Out of scope for home page redesign
-1. Two participants typed in many different search strings and got different result each time. They and others said that they wanted search to work better. Another participant didn't get any relevant results when they searched using the misspelling "benifits".
+- Two participants typed in many different search strings and got different result each time. They and others said that they wanted search to work better. Another participant didn't get any relevant results when they searched using the misspelling "benifits".
 > *"What most Veterans search for should be the top results" (p4).*
 > *"Depending on what my search terms are, see different results" (p4).*
 
-3. Participants often miss a relevant link when scanning through long pages with many links (e.g., disability or health care hub pages). Two participants spontaneously commented on specific content pages being too word heavy, including the education pages, the health care page, and the secure messaging page.
+- Participants often miss a relevant link when scanning through long pages with many links (e.g., disability or health care hub pages). Two participants spontaneously commented on specific content pages being too word heavy, including the education pages, the health care page, and the secure messaging page.
 > *"There a lot of stuff to read through...there's a lot of reading here" (p4).*
 
 > *"It is a lot of information, and it's overwhelming" (p11).*
 
-1. One participant using a smartphone said it was hard to read the small text on the VA health care page. They missed the "secure messaging" link while scanning the entire page several times but finally found it.
-2. One participant who was searching for disability rates used the new search box ("compensation chart") and saw search results from 2011 and also 2014. She opened the one from 2011 and said...
+- One participant using a smartphone said it was hard to read the small text on the VA health care page. They missed the "secure messaging" link while scanning the entire page several times but finally found it.
+- One participant who was searching for disability rates used the new search box ("compensation chart") and saw search results from 2011 and also 2014. She opened the one from 2011 and said...
 > *"Oh but this is from 2011--that's not current. Is the information on here current?" (p11).*
-4. One participant expected that everything on the home page would be in the megamenu, which didn't seem to be the case because they couldn't find another about VA news. 
+- One participant expected that everything on the home page would be in the megamenu, which didn't seem to be the case because they couldn't find another about VA news. 
 > *"Should be like a table of contents" [like a sitemap] (p1).*
 
-1. One participant observed that some of the articles on the [VA News page](https://news.va.gov/) aren't news but instead explaining benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). They said it should have only recent changes/updates (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)).
-1. One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
-1. One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
-2. One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
+- One participant observed that some of the articles on the [VA News page](https://news.va.gov/) aren't news but instead explaining benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). They said it should have only recent changes/updates (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)).
+- One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
+- One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
+- One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 # Recommendations
 ## For the home page redesign effort
