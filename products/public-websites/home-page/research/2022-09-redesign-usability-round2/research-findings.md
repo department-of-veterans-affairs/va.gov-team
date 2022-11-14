@@ -272,8 +272,8 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet]()
-- [Visualization slides]()
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/analysis/Home%20pg%20redesign%20ROUND%202%20usab%20notes%20%26%20data%20analysis%20(2).xlsx)
+- [Visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/analysis/Home%20Page%20Redesign%20ROUND%202%20Usability%20Test%20pictures%20for%20report.pptx)
 
 ## Pages and applications used
 Screenshot of the [Home page that was tested on Staging](https://staging.va.gov/homepage-test/):
