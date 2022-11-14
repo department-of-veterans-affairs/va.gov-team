@@ -91,7 +91,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
      1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the "sign in" button. We still need to see what participants without accounts would do.
 4. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-     1. FALSE: 10 of 11 participants got stuck on at least one task, even though the home page supports multiple navigation paths. 
+     1. PARTLY TRUE: 5 of 8 tasks had at least 73% success, so the home page supports task completion and multiple ways of navigating. However, 10 of 11 participants got stuck on at least one task, so some participants weren't able to find a way to complete every task. 
 5. Participants understand that the top promo is about benefits or services for Veterans.
      1. FALSE: Only 3 of 11 participants went there when asked about benefit changes, and everyone else scrolled down past it.
 7. Participants understand that the bottom promo is news and know how to get more news stories.
