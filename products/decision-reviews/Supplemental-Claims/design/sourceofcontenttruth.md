@@ -744,4 +744,4 @@ You don’t need to do anything unless we send you a letter asking for more info
 
 If you requested a decision review, and haven’t heard back from us yet, please don’t request another review. Call us at 800-827-1000.
 
-[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)
+**_[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)_**
