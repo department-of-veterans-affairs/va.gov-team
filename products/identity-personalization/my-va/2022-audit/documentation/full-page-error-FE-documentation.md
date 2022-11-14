@@ -20,6 +20,6 @@ This design should be used when the system fails to connect to the MPI (Master P
 - On mobile, this text should be left aligned as shown in the mobile mockup.
                                             
 #### **Content**
-**We’re sorry. Something went wrong on our end.**
+We’re sorry. Something went wrong on our end.
 
 Please refresh this page or try again later.
