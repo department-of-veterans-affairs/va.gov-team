@@ -1,5 +1,17 @@
 # SPRINT GOALS
 
+## 11/20/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
+
+#### Planned Releases -------------------- TENTATIVE ------------------------------
+
+#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
+    - Hold a compressed design sprint to brainstorm ideas for a solution
+- [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400) 
+- [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
+
+#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+
 
 ## 11/16/2022 - 11/29/2022 ---------------------- FUTURE -----------------------------
 
@@ -7,34 +19,32 @@
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - **NOTE: we need to coordinate with Stephen & Patrick on when to release this**
 
+#### Product Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326)
+- [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883)
+ - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
+  
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Update product artifacts & product resources 
+    - Update product artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update product artifacts 
     - Update design artifacts 
+- CIE Tech Debt & Bugs
+    - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) 
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Create final wireframes
+- [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
+    - Create conversation guide
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Hold design intent review & update wireframes with any recommendations
     - Design Considerations for Structuring Language Toggle, Progress Bar & Navigation Links
-    - Design better visualize steps of checking in within Pre-Check-In
-- [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
-    - Hold a compressed design sprint to brainstorm ideas for a solution
 - CIE Analytics
-    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) 
-    - [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326)
-    - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883)
-    - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
-- CIE Tech Debt & Bugs
-    - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) 
-    - [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400) 
-    - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
+    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)    
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Update mocks & test
     - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Wire up FE and BE
@@ -60,7 +70,7 @@
 - RELEASED ON 11/2 [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
 
 #### UX Sprint Goals (IN ORDER OF IMPORTANCE)    
-- [Handoff as Kristen Transitions off the Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49136)
+- DONE [Handoff as Kristen Transitions off the Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49136)
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - DONE Update product artifacts
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
