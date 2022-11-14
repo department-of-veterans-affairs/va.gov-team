@@ -5,6 +5,7 @@
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
+    - **NOTE: we need to coordinate with Stephen & Patrick on when to release this**
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
@@ -15,13 +16,15 @@
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Create final wireframes
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Design better visualize steps of checking in within Pre-Check-In
     - Hold design intent review & update wireframes with any recommendations
     - Design Considerations for Structuring Language Toggle, Progress Bar & Navigation Links
+    - Design better visualize steps of checking in within Pre-Check-In
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
     - Hold a compressed design sprint to brainstorm ideas for a solution
 - CIE Analytics
     - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) 
+    - [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326)
+    - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883)
     - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
 - CIE Tech Debt & Bugs
     - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) 
@@ -41,15 +44,15 @@
 - CIE Tech Debt & Bugs
     - [Replace remaining react component with web component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
-    - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
     - [Implement Feature Status query by FLIPPER_ID cookie](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45332)
     - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Loading message references pre-check-in on day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47347)
+    - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
     - [Pre-checkin should not be allowed to be attempted more than once](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41563)
         - Add logging
     - [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
     - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
-    - [Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
+    - [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
 
 ## 11/02/2022 - 11/15/2022    
 
