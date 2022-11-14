@@ -164,7 +164,7 @@ Find mental health counselor/therapist | Couldn't find how to contact someone qu
 
 ### 6. Other findings on the home page
 - Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
-- **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
+- **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. This participant was using a smartphone. No one else commented, perhaps because the *Popular on VA.gov* and benefit hubs are not visible at the same time on mobile.
 > *"Mimicking, waste of space, not to the point" (p2)*.
 
 - **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
