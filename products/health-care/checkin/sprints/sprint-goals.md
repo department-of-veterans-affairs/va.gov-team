@@ -11,6 +11,8 @@
 - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+- CIE Tech Debt & Bugs
+    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
 
 ## 11/16/2022 - 11/29/2022 ---------------------- FUTURE -----------------------------
