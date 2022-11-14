@@ -23,7 +23,7 @@
 |	Finalize release plan	|	November 2022	|	[Launch planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#launch-planning-1)
 | Determine [Beta test URL for production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48789#issuecomment-1301349832)| November 2022| Will be deployed to va.gov/new-home-page
 | Define cutover metrics	|	In progress	|	[Cutover determination criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
-|	Finalize Popular on VA.gov link list	|	In progress	|	
+|	Finalize Popular on VA.gov link list	|	Complete for launch	|	
 |	Define objectives and key results	|	Refinement is ongoing	|	
 |	Develop a rubric for delivering meaningful Veteran-facing content	|	In progress. 	|	_Link TBD_
 
