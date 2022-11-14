@@ -37,7 +37,8 @@ Get mental health care
 Review or update your dependents
 - Tertiary task
 - [View or change dependents on your VA disability benefits](https://www.va.gov/view-change-dependents) page 
-- This content is difficult to find via browsing and has a high search volume (10,390)
+- This content is difficult to find via browsing - participants tend to look for this task in the Family member benefit areas
+- This topic has a high search volume (10,390).
 
 Get reimbursed for travel pay
 - Tertiary task
