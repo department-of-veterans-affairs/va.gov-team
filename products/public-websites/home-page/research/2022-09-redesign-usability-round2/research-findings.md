@@ -43,7 +43,7 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
     4. The new search box 
     5. "Other search tools" 
     3. "Popular on VA.gov"
-    4. VA News promo (PathFinder article)
+    4. VA News promo (Pathfinder article)
     6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
@@ -221,7 +221,7 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 - One participant observed that some of the articles on the [VA News page](https://news.va.gov/) aren't news but instead explaining benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). They said it should have only recent changes or updates (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)).
 - One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
 - One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
-- One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returnd you to the top of the page. They expected to return to the footer where they had opened the link.
+- One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 # Recommendations
 ## For the home page redesign effort
