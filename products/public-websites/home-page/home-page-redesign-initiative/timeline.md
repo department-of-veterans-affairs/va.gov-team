@@ -17,15 +17,16 @@
 |	Design iteration v2 deployed to staging	|	September 2022	|	Deployed to https://staging.va.gov/homepage-test/
 |	Homepage refresh presentation to Digital Modernization Council and Web Governance Board	|	October 20-21, 2022	|	[Refresh presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/Homepage%20refresh%20DMC%20-%20Deep%20Dive%20-%2019%20Oct%202022.pptx)
 |	Usability of redesigned homepage /plan	|	October 2022	|	[Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41578)
-|	Finalize design for launch	|	Initiated November 9, 2022	|	
-|	Drupalize homepage content	|	November 2022	|	
-| Return feedback button to homepage | November 2022 | 
+|	Drupalize homepage content	|	November 2022	| Github issues [#10626](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10626) and [#10785](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10785)
+|	Finalize design for launch	|	Initiated November 9, 2022	|	[Sketch Round 3](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/EAD305BC-3082-4F81-ADEC-C2486F7B6BEF/canvas#Comment)
+|	Design iteration v3 deployed to staging	| pending	|	Github issues [#11535](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-cms/11535), [#11537](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-cms/11537), and [#11538](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-cms/11538)
+| Return feedback button to homepage | complete November 2022 | [#48805 Add Medallia feedback button to homepage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48805)
 |	Finalize release plan	|	November 2022	|	[Launch planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#launch-planning-1)
 | Determine [Beta test URL for production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48789#issuecomment-1301349832)| November 2022| Will be deployed to va.gov/new-home-page
 | Define cutover metrics	|	In progress	|	[Cutover determination criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
-|	Finalize Popular on VA.gov link list	|	Complete for launch	|	
-|	Define objectives and key results	|	Refinement is ongoing	|	
-|	Develop a rubric for delivering meaningful Veteran-facing content	|	In progress. 	|	_Link TBD_
+|	Finalize Popular on VA.gov link list	|	In progress| [Popular links menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/popular-links-menu.md)
+|	Define objectives and key results	|	Refinement is ongoing	|	[Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#measuring-success) and [Cutover determination criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md)
+|	Develop a rubric for delivering meaningful Veteran-facing content	|	In progress. 	|	[Content rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/homepage-content-rubric.md)
 
 ## Collab cycle touchpoints
 
