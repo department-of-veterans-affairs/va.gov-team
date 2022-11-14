@@ -3,12 +3,12 @@
 ---
 
 ## Overview
-Updating the 22-1990e Transfer of Entitlement (TOE) Form for Authenticated Users
+A veteran can choose to transfer their Chapter 33 entitlements to a dependent, be it child or spouse. Once the veteran has had the Transfer of Entitlement processed, the dependent (claimant) can then submit the 22-1990e form to request their benefits.
+
+This application will update the 22-1990e Transfer of Entitlement (TOE) Form at VA.gov for Authenticated Users
 
 ## Problem Statement
-Currently, the authenticated experience as a user applying for TOE benefits requires a lot of manual data entry, and no ability to receive a near-real time decision, which results in waiting times of up to 30 days for a decision. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020). 
-Thus,
-**How might we improve TOE claims processing while also considering the user experience?** 
+Currently, the authenticated experience as a user applying for TOE benefits requires a lot of manual data entry, and no ability to receive a near-real time decision, which results in waiting times of up to 30 days for a decision. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020) by providing an application that pre-fills as more information known from a claimant and automates the claim approval when possible.
 
 ## Desired User Outcomes
 
@@ -43,18 +43,19 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ---
 
 ## Assumptions
-VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, TOE sponsor information, letters, and submitted applications.
+VA.gov environment will be able to communicate with VA-Profile and the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, TOE sponsor information, letters, and submitted applications.
 
 ## Solution Approach
 
 *What are you going to build now, and why have you decided to start there?*
-- Improving the 22-1990e is a part of the larger goal to modernize and digitize the GI Bill for Veterans. 
+- We will build an application that pre-fills all information from the claimant and their sponsors and allows us to submit the claim for processing.
 
 *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - The updates to the 22-1990e will be primarily for authenticated users. At the current time, we want to prioritize the forms that will facilitate better claims processing and thus a more impactful experience in their education journey.  
+- The first version of this application will automatically create a TIMS ticket for review by a Veterans Claim Examiner. Full automation of claims will be added in a subsequent release. 
 
 *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- Our My Education Benefits team will continue to observe other VA education edu benefit forms and see how we can best improve them. 
+- Our My Education Benefits team will analyze the incoming claims to determine where full automation is viable and can have the biggest impact. Based on this information the team will add automation to the cases that can have the most impact.
 --- 
 
 ## Go-to-market Strategy
@@ -87,7 +88,7 @@ Application is under development slated for January 2023 release.
 ### Key Decisions
 - Backend services will live on DGIB environment. The application will use Local vets-api endpoints that will serve proxies that generate jwt tokens to communicate with DGIB services. 
 - Support only for Post 9/11 (Chapter 33) GI Bill on first release. Other chapters will be added on future releases.
-- Support for automated decisions will be added in future release.
+- Support for fully automated decisions will be added in future release.
 
 ---
    
