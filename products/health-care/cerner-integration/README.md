@@ -19,3 +19,6 @@ This is a folder for the Cerner integration work.
 - Dev Sandbox: C1941 https://cernabcn.cernerworks.com/Citrix/ProdWeb/
 - Stage: B1930
 - Prod: P0630
+
+# Requesting Access to Cerner Environments
+Placeholder
