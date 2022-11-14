@@ -278,9 +278,10 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 ## Pages and applications used
 Screenshot of the [Home page that was tested on Staging](https://staging.va.gov/homepage-test/):
 
-![homepg-top]()
-![homepg-middle]()
-![homepg-footer]()
+![homepg-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homepg-top.png)
+![homepg-search&popular](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homepg-search%26popular.png)
+![homepg-benefithubs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homepg-benefithubs.png)
+![homepg-bottom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/homepg-bottom.png)
 
 ## Who we talked to
 
