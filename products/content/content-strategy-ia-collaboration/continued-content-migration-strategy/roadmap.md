@@ -55,8 +55,7 @@ We need to confirm with our VA partners, but I would anticipate that we could co
 - benefits.va.gov/gibill/docs/wavechart.asp
 - benefits.va.gov/compensation/mailingaddresses.asp
 - va.gov/health/vetext_faqs.asp
-- va.gov/healthbenefits/vadip/
-- va.gov/healthbenefits/vadip/
+- va.gov/healthbenefits/vadip/ - will redirect no later than 11.30.22
 - va.gov/dental/dental-clinic-locations-finder.asp
 - Remaining life insurance pages already on board as slated for migration
 
