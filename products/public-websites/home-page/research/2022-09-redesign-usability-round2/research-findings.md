@@ -77,16 +77,12 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 
 # Hypotheses and Conclusions
 
-1. The revised home page design will result in improved task success rates as compared to the first round of usability testing, especially including the tasks below.
-     1. The 4 tasks with the lowest success rates:
-         1. Check current disability compensation rates (60%)
-         2. Compare education benefits by school (56%)
-         3. Add spouse (Review/update dependents) (56%)
-         4. File for disability increase (50%)
-     2. The 2 tasks with lower success rates than last year's baseline wayfinding research:
-         1. Message your doctor (83%)
-         1. Add spouse (Review/update dependents) (56%) -- also listed above
+1. The revised home page design will result in improved task success rates as compared to the previous round of usability testing, especially including the tasks that had the lowest success rates in the first round of usability testing. 
      1. PARTLY TRUE: Success rates for most tasks improved, though some not by much, except for "Message your doctor", which was worse (55%) than the first round of testing (83%).
+     2. *Check current disability compensation rates* (88% this round *vs.* 60% previous round)
+     3. *Compare education benefits by school* (63% this round *vs.* 56% previous round)
+     4. *Add spouse (Review/update dependents)* (60% this round *vs.* 56% previous round)
+     5. *File for disability increase* (100% this round *vs.* 50% previous round)
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
      1. TRUE: Participant success rates were not correlated by participant device or assistive technology use (screen magnifiers). 
 3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
