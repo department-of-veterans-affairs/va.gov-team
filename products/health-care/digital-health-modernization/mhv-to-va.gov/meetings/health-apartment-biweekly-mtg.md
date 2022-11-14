@@ -1,5 +1,62 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+
+## 2022-11-14 
+
+### Standup
+- Eric
+	- Met with PMB team this morning who very strongly recommended against using CDW/Lighthouse.
+	- Setting up a meeting with David Mazik
+- Marci
+	- Attended meeting with Lauren & Eric to talk to pharmacy SMEs about CDW/Lighthouse data
+	- Attended two Secure Messaging research sessions
+	- Mikki
+		- Got a rundown on everything from Coulton
+		- Will be working with Jenny on IA stuff
+	- Jonathan
+		- Robyn and Jonathan are synching on the strategy workshop later this week
+	- Robyn
+		- Working on research synthesis
+		- Starting writing up results in GitHub
+		- Out on Wednesday
+	- Lauren
+		- Leila is here this week, off next week, here again
+		- We will ease her into the work
+		- Next ByLight planning is Dec 6-8
+		- We will probably want to divide and conquer on that
+		- Had a very fortuitous meeting with PBM about CDW data
+		- There is a discussion about forcing a decision on how to get data; has to be a better way
+		- Dec 13 there will be an OCTO/OCC Apartment Strategy meeting.  Ro Weaver has set the agenda and 
+		- I got the OK to join in DC.
+	- Danielle
+		-  Mostly covered by Mikki
+		- Continuing to look into handling content/working with Content team on Secure 
+
+- Mobile App has a study going on
+- New product manager Rachel Hahn - will be back in the spring to take over the mobile app
+- Make sure we are syncing up.  Once we launch secure messaging with the API that support threading, making sure they are aware and determine when to switch over.
+
+### Quick update to bring Leila up to speed
+- Secure messaging update - they are doing another usability study to make sure the patterns and flows make sense to users, content and styling of the content
+- API for secure messaging is being built to support message threading
+- Eric has seen a few PRs for secure messaging, folder retrieval.  
+- Medical Records update
+	- Robyn has been working with Jonathan on generative research
+	- Jenny and Coulton did a lot of internal interviews 
+	- Mikki - trying to answer the question of where the Health Apartment lives on VA.gov
+- Danielle: Robyn and Jonathan - we have "content briefs" for different topics to help guide teams who are working across products/channels on a similar topic. I'd love to connect you with on your research findings to help inform one on medical records.
+
+### Backlog grooming
+- Issue for the strategy session workshop - Robyn and Jonathan
+- Leading up to the new PI plan - fairly soon - what we want to put in to make sure it's captured for Records and Access stuff for the next PI.
+- Add issue under MyHealth IA 
+	- Tree test
+	- Mikki and Jenny will be working on that
+
+### Other topics
+- Dec 13 meeting
+- VIA/VDIF All the data things discussion
+
 ## 2022-11-10 
 
 - Issues assigned to Coulton need to be re-assigned. 
