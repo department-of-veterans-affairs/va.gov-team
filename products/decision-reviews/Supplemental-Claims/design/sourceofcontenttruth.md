@@ -712,3 +712,36 @@ document type
 **_Back_**
 
 ---
+
+## Confirmation
+
+**You've successefully submitted your request**
+
+We’ll review your request. We may contact you for more information or other documents. Please print this page for your records.
+
+**File a Supplemental Claim (Form 20-0995)**
+
+for HECTOR ALLEN
+
+**Date submitted**
+
+Month XX, XXXX
+
+**Issue(s) for review
+
+- Issue
+- Issue
+
+**_Print this for your records_**
+
+### After you request a decision review
+
+When we've completed your review, we'll mail you a decision packet that includes details about our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+
+### What should I do while I wait?
+
+You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+
+If you requested a decision review, and haven’t heard back from us yet, please don’t request another review. Call us at 800-827-1000.
+
+[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)
