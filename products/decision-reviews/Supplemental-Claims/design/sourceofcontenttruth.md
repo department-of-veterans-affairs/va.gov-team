@@ -306,9 +306,7 @@ We'll save your application every time you add or update information.
  
 How do I know if I have VA medical records? / expand
 
-You have VA medical records if
-
-You were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program.
+You have VA medical records if you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program.
  
 **_BACK_**
 
@@ -327,11 +325,9 @@ We'll save your application every time you add or update information.
 
 We’ll request your VA medical records from this facility
 
-
 Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
 
 Error: You must enter a VA facility
-
 
 Choose the conditions you received treatment for at this facility. (*Required)
 
@@ -374,7 +370,6 @@ We'll save your application every time you add or update information.
 **Would you like us to request your private medical records?**
 
 - [ ] Yes
-
 - [ ] No
 
 How do I know if I have private medical records / expand
