@@ -21,11 +21,21 @@
   * Two categories:
     * Several issues are complete, in holding pattern, could be ready to go once we assess any changes of the landscape
     * Other items require discussion - 3 Slack threads, content model changes 
-* Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
-* Stale Vet Center data - LH will manage, no Facilities action
+      * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709 <- waiting to be unblocked 
+* Stale Vet Center data - LH will manage, no Facilities action SORTED/CONFIMRED - staged, ready when unblocked
+  * Long term, intent will be for CMS to own the canonical URL, and the flip of the switch - facility page will be replaced by detail page  - for all facilities 
+  * Will not host the URL file  
+  * Post v1? with v1? 
+  * Had a history of flawed/broken URLs - LH team will still want to validate URLs 
+* Mental health phone numbers
+  * In slack Excel sheet
+  * Archived items remvoed, and removed any item where LH and CMS number was the only nubmer we had and was identical
+  * Now we have a list of services where the editor has added an additional number
+  * 2nd tab - unfiltered list 
+  * AI>>DS to bring to Dave C  
 * Support Country Code
-* KB Articles for support 
-* Mental health phone numbers - _in Sprint 71?_
+* KB Articles for support AI>>Joshua to provide 1st draft
+
 
 
 
