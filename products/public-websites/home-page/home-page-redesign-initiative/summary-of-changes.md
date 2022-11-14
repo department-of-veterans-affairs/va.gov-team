@@ -2,7 +2,7 @@
 
  - First build - [March 2022](#march-2022)
  - Round 2 design iteration [October 2022](#october-2022)
- - Launch design iteration [November 2022(#november-2022)
+ - Launch design iteration [November 2022](#november-2022)
 
 ### March 2022
 <details>
