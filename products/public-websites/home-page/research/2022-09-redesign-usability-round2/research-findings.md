@@ -134,10 +134,12 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
      1. 2 people used search when they didn't appear to be stuck.
 
-5. ***Message your doctor* had the lowest task success rate**, which was lower than the previous round of usability testing (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
-     1. Three other tasks had low success rates: *Compare education benefits by school, Learn what else is new from the VA,* and *Add spouse*.
-     1. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
-     2. For some of the problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
+5. ***Message your doctor* had the lowest task success rate, which was *lower* than the previous round of usability testing** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
+     1. ***Message your doctor* and *Add spouse* had lower task success rates than the 2021 Baseline Wayfinding** study, which tested the current production version of the home page.
+     1. **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
+     1. **Two other tasks had low success rates**: *Compare education benefits by school* and *Learn what else is new from the VA.*
+     3. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
+     4. For some of the problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
