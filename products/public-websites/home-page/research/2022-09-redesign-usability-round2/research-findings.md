@@ -85,8 +85,7 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      7. *Compare education benefits by school* (63% this round *vs.* 56% previous round)
      6. *Add spouse (Review/update dependents)* (60% this round *vs.* 56% previous round)
      5. ***Message your doctor* (55% this round *vs.* 83% previous round)**
-   
-     6. *File for disability increase* (100% this round *vs.* 50% previous round)
+
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
      1. TRUE: Participant success rates were not correlated by participant device or assistive technology use (screen magnifiers). 
 3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
