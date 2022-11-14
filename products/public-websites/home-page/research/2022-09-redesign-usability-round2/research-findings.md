@@ -160,7 +160,10 @@ Find mental health counselor/therapist | Couldn't find how to contact someone qu
 > *"Don't know what this is [PACT Act]...doesn't apply to me" (p4)*.
 
 ### 5. There may be an accessibility issue for screen magnifier users with buttons on the far right side of web pages.
-- A potential accessibility issue was discovered in which **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer) didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there. The *Popular on VA.gov* section is also on the right side of the page, and this participant said he knew something was there because the background color was different. **Further research should be conducted with screen magnifier users to learn more about this issue, including whether the *Create account* button is similarly invisible.**
+- A potential accessibility issue was discovered in which **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer) didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there. The *Popular on VA.gov* section is also on the right side of the page, and this participant said he knew something was there because the background color was different. **Further research should be conducted with screen magnifier users to learn more about this issue, including whether the *Create account* button is similarly invisible.** Accessibility good practice involves positioning buttons 
+
+
+     1. To fix the possible accessibility issue, consider **positioning the Feedback button on the *left* side of the page**, where it would be more noticeable for screen magnifier users while scanning down the left side of a page.
 
 ### 6. Other findings on the home page
 - Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
@@ -232,23 +235,21 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 4. **Add a link for the *GI Bill Comparison Tool* to *Other search tools*** because it's a search tool that was difficult for participants to find when trying to compare education benefits by school. 
 5. **Make links under *Popular on VA.gov* more visually appealing** so they look less like unformatted footer links. This could include colors and/or icons (like the benefit hubs), or even just a carat in front of each link.
 6. **Make the *More VA News* link more visually prominent** because it's not noticed by many people.
-7. If we're going to keep the benefit promo on the home page, **add a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022", perhaps styled like the "VA NEWS" heading in the news promo). 
-8. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
-9. **Add a Feedback button to the home page** because it's the only page on VA.gov that doesn't have one. Note that this recommendation isn't  suggested by data from this study but seems like a good idea.
-     1. To fix the possible accessibility issue, consider **positioning the Feedback button on the *left* side of the page**, where it would be more noticeable for screen magnifier users while scanning down the left side of a page.
+7. **Consider adding a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022", perhaps styled like the "VA NEWS" heading in the news promo). 
 
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
+2. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
 4. Instead of adding a a link specifically for the *GI Bill Comparison Tool* **to *Other search tools*, we could link to a new content page that contains _all_ education-related search tools**, including *GI Bill Comparison Tool* and *Yellow Ribbon*.
-2. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**, and add "mental health" to the megamenu under health care as another way to go there.
-4. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
-5. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
-6. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
-1. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings:
+4. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**, and add "mental health" to the megamenu under health care as another way to go there.
+5. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
+6. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
+7. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
+8. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings:
      1. The red button in the top right of VA.gov pages was invisible to a screen magnifier user on a computer. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop version like it does on mobile.
      1. On a smartphone, opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
-8. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. Danielle Thierry plans to followup with VBA about this published content on TeamSite.
+9. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. Danielle Thierry plans to followup with VBA about this published content on TeamSite.
 10. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)).
 
 # Next Steps
