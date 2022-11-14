@@ -99,24 +99,29 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
      1. FALSE: Only 4 of 11 participants went there to click on "More VA news" when asked about VA stories, and everyone else looked elsewhere. The featured Pathfinder article didn't look like news, and the "More VA news" link was small and overlooked.
 
 # Key Findings
+1. **A few participants focused their attention on a specific part of the home page, while others scrolled up and down the home page more fluidly**. 
+1. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.**
+2. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
+3. **Some participants didn't click on either of the promos**. 
+4. There may be an **accessibility issue for screen magnifier users with buttons places on the far right side of web pages**.
 
-# Details of Findings--REVISE!!!
+
+# Details of Findings
 ## In-scope findings for home page redesign
 
+### 1. A few participants focused their attention on a specific part of the home page, while others scrolled up and down the home page more fluidly.
 
-### 1. 
-
-1. As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular at VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more continuously. 
-      1. **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who clicked on each area of the page. 
-      2. There were **3 participants who had less experience using VA.gov than the other 8 people. The parts of the home page used by these two subsets of participants were similar**, with the highest usage being *Popular on VA.gov*, followed by the header, footer, and benefit hubs in slightly different orders. The more experienced participants made more use of *Other search tools* and the two promos.
-      3. Two participants using smartphones didn't scroll past the top of the dark blue VA news promo section. More user research or analytics checking could help see whether this might be a new "false footer" on the home page.
-      4. One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon. 
-      5. One participant said they liked the colored logos in front of each of the benefit hubs. A different participant said they liked the descriptions of each benefit hub, whereas someone else said that the descriptions sounded too informational and not task-focused (i.e., apply/learn about benefits, not manage benefits), and so didn't click on them.   
-      6. One participant saw very little of the home page at once because of the large font size displayed on their phone. They saw even less of the page because they started off using their phone in landscape mode, but later changed to portrait when the moderator asked about it.
-      7. We can compare the home page click results from this study with the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and the last year's [Baseline Wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md). From the comparison of the data from 3 research studies below, we can see that **people seem to be scrolling farther down the redesigned home page without the presence of the false footer--so making better use of the entire home page. There are also more clicks on the benefit hubs and footer**, perhaps because participants aren't finding what they need farther up (because the "top 4" boxes are missing). We make only these broad conclusions because of the following caveats:
-           1. The tasks in these three studies were mostly different. In this study, there were no tasks specifically geared towards *Other search tools* as in the previous study, but there were new tasks around the VA news and benefit promos.
-           2. There were fewer tasks in this study (8) than in the previous study (20) and the baseline wayfinding study (9), and in the previous study, different people did different subsets of the 20 tasks.
-           3. There were fewer participants in this study (11) than in the previous study (19) and the baseline wayfinding study (13).
+As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular at VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more fluidly while working on tasks. 
+- **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who clicked on each area of the page. 
+- There were **3 participants who had less experience using VA.gov than the other 8 people. The parts of the home page used by these two subsets of participants were similar**, with the highest usage being *Popular on VA.gov*, followed by the header, footer, and benefit hubs in slightly different orders. The more experienced participants made more use of *Other search tools* and the two promos.
+- Two participants using smartphones didn't scroll past the top of the dark blue VA news promo section. More user research or analytics checking could help see whether this might be a new "false footer" on the home page.
+- One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon. 
+- One participant said they liked the colored logos in front of each of the benefit hubs. A different participant said they liked the descriptions of each benefit hub, whereas someone else said that the descriptions sounded too informational and not task-focused (i.e., apply/learn about benefits, not manage benefits), and so didn't click on them.   
+- One participant saw very little of the home page at once because of the large font size displayed on their phone. They saw even less of the page because they started off using their phone in landscape mode, but later changed to portrait when the moderator asked about it.
+- We can compare the home page click results from this study with the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and the last year's [Baseline Wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md). From the comparison of the data from 3 research studies below, we can see that **people seem to be scrolling farther down the redesigned home page without the presence of the false footer--so making better use of the entire home page. There are also more clicks on the benefit hubs and footer**, perhaps because participants aren't finding what they need farther up (because the "top 4" boxes are missing). We make only these broad conclusions because of the following caveats:
+  - The **tasks in these three studies were different**. In this study, there were no tasks specifically geared towards *Other search tools* as in the previous study, but there were new tasks around the VA news and benefit promos.
+  - There were **fewer tasks in this study (8)** than in the previous study (20) and the baseline wayfinding study (9), and in the previous study, different people did different subsets of the 20 tasks.
+  - There were **fewer participants in this study (11)** than in the previous study (19) and the baseline wayfinding study (13).
        
 ![home-pg-areas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-areas.png)
 
@@ -124,22 +129,21 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 
 ![home-pg-clicks-3-studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/home-pg-clicks-3-studies.png)
           
-2. Just over half of the participants (6 of 11) wanted to sign in before doing any tasks. 
-> *"You will need to sign in, so why not sign in first. I don’t know how to do it without signing in. This feels backward since you need to sign in anyways" (p1).*
-> *"Once you login, everything is easier to find information" (p4, who signs in first every time he goes to VA.gov).*
+### 2. Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.
+- All participants except one got stuck on some task(s) during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
+- Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
+- Four of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
+- Two people used search when they didn't appear to be stuck.
 
-4. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search**. 
-     1. 10 of 11 participants got stuck on some task(s) during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
-     1. Most people didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
-     1. 4 of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
-     1. 2 people used search when they didn't appear to be stuck.
+### 3. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
+***Message your doctor* had the lowest task success rate, which was *lower* than the previous round of usability testing** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
+- ***Message your doctor* and *Add spouse* had lower task success rates than the 2021 Baseline Wayfinding** study, which tested the current production version of the home page.
+- **Two other tasks also had low success rates**: *Compare education benefits by school* and *Learn what else is new from the VA.*
+- **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
+- Most participants (9 of 10) were able to successfully complete the *Show you're a Veteran* task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
 
-5. ***Message your doctor* had the lowest task success rate, which was *lower* than the previous round of usability testing** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
-     1. ***Message your doctor* and *Add spouse* had lower task success rates than the 2021 Baseline Wayfinding** study, which tested the current production version of the home page.
-     1. **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
-     1. **Two other tasks had low success rates**: *Compare education benefits by school* and *Learn what else is new from the VA.*
-     3. Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
-     4. For some of the problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
+- Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
+- For some of the problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
@@ -149,28 +153,33 @@ File for disability increase | **Link goes to application for disability that do
 Check current disability compensation rates | **Couldn't find by browsing** the megamenu or disability hub page (didn't notice link on that long page), **hard to find by searching**| Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"  
 Find mental health counselor/therapist | Couldn't find how to contact someone quickly by phone or chat from [mental health page linked to in footer](https://www.mentalhealth.va.gov/), didn't notice Veterans Crisis Line in top right because it scrolled off the screen, or while looking at left side of home page with a screen magnifier| Change footer link to go to the [modernized mental health page](https://www.va.gov/health-care/health-needs-conditions/mental-health/) that the link in *Popular* goes to, Add "mental health" to megamenu under health care
 
-6. Some participants didn't click on either of the promos. 
-     1. Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below; we know it doesn't apply to everyone), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
-     3. Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
-     4. One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
-     5. One participant was looking for an indication that the promo content was new (*vs.* always on the page). Without a date or the word "new!" like p2 saw in Press Releases (found via Footer > VA Updates > Press Releases), p2 assumed that the promo content was something she had already seen.
-     6. None of the 11 participants clicked on the Pathfinder article. One said that they wouldn't read it because it's not relevant to them. Another said that it *"sounds very corporate, talking about soliciting to Veterans, and I don't like it" (p11).*
+### 4. Some participants didn't click on either of the promos 
+- Many participants (5 of 11) **didn't think that the PACT Act article was about a change in benefits** and scrolled down past it to the footer to press releases, header, or *Find benefit resources and support*. One person didn't know what the PACT Act was (see quote below; we know it doesn't apply to everyone), but we don't know specifics on why the others didn't open the PACT Act article. It may have been because it looks like a banner ad or hero image at the top of the page, and/or because they thought looked like news rather than benefit changes (as stated in the user task).
+- Four participants didn't notice the *More VA News* link. They were looking in the header, the footer (in *More VA resources > Get VA updates* and *Outreach materials*), and *Find benefit resources and support* in *Other search tools*. One participant said that they expected news to be at the top of the page, but the *More VA news* link they found was a lot farther down the page.
+- One participant said that VA News is *"just taking up space and not helping with a task" (p11)*. 
+- One participant was looking for an indication that the promo content was new (*vs.* always on the page). Without a date or the word "new!" like p2 saw in Press Releases (found via Footer > VA Updates > Press Releases), p2 assumed that the promo content was something she had already seen.
+- None of the 11 participants clicked on the Pathfinder article. One said that they wouldn't read it because it's not relevant to them. Another said that it *"sounds very corporate, talking about soliciting to Veterans, and I don't like it" (p11).*
 > *"Don't know what this is...doesn't apply to me" (p4)*.
 
-5. Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
-1. **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
-> *"Mimicking, waste of space, not to the point" (p2)*.
-7. Most participants (9 of 10) were able to successfully complete the *Show you're a Veteran* task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
+### 5. There may be an accessibility issue for screen magnifier users with buttons places on the far right side of web pages.
 8. An accessibility issue was discovered in which **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer) didn't notice the *Veterans Crisis Line* button at the top right of the home page, as well as the *Feedback* button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there. The *Popular on VA.gov* section is also on the right side of the page, and this participant said he knew something was there because the background color was different. **Further research could be conducted with screen magnifier users to learn more about this issue, including whether the *Create account* button is similarly invisible.**
-9. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
+
+### 6. Other findings on the home page
+- Some participants (3 of 11) went to the **search tool *Find benefit resources and support* when they were unsure of where else to look** (e.g., for recent benefit changes, news stories, proof of Veteran status). One participant thought it would have the list of benefits that you could get with a given disability rating.
+- **Only one participant mentioned being bothered by the duplicate links in *Popular on VA.gov* and the benefit hubs**. No one else said anything, perhaps because they were unable to able to see *Popular on VA.gov* and the benefit hubs on their screen at the same time.
+> *"Mimicking, waste of space, not to the point" (p2)*.10. **No one expressed any interest in the email newsletter**, though this wasn't an area of focus for this research, nor was there a task about it. Two participants shared that they already receive some kind of email newsletters from the VA.
 > *"I probably would get spammed with a zillion emails or a newsletter" (p3)*.
 > 
 > *"I wouldn't come here [to VA.gov] just to look for information on benefits" (p9, who receives emails from the VA "all the time" and visits VA.gov when he wants to check on his benefits, submit a claim, or manage his medical care).*
 
-1. One participant who was especially negative about the VA.gov site at the beginning of the research session had changed her mind by the end. She started off by sharing her frustrations with being redirected to VA.gov from eBenefits or MyHealtheVet and struggling to log in, and also complaining about how overwhelming the pages are and slow to load. During the session, she was able to complete ALL of the tasks successfully (the only participant of 11 to do so) and had very positive feedback by the end of the session. 
+- One participant who was especially negative about the VA.gov site at the beginning of the research session had changed her mind by the end. She started off by sharing her frustrations with being redirected to VA.gov from eBenefits or MyHealtheVet and struggling to log in, and also complaining about how overwhelming the pages are and slow to load. During the session, she was able to complete ALL of the tasks successfully (the only participant of 11 to do so) and had very positive feedback by the end of the session. 
 > *"It's a lot easier than the VA.gov I am used to...It's pretty streamlined and easier to use" [uses VA.gov about 2-3x/month] (p11)".*
 
-### Findings around recruiting 
+- Just over half of the participants (6 of 11) wanted to sign in before doing any tasks. 
+> *"You will need to sign in, so why not sign in first. I don’t know how to do it without signing in. This feels backward since you need to sign in anyways" (p1).*
+> *"Once you login, everything is easier to find information" (p4, who signs in first every time he goes to VA.gov).*
+
+### 7. Findings around recruiting 
 2. We tried to test with screen reader users, but it didn't work in this study. We learned that participants recruited as screen reader users don't always use screen readers for all of their web browsing, and **none of the four people in this study used a screen reader at all during the research session**. The reasons why are listed below:
      1. Two participants have some vision and so avoid using screen readers unless they really need them, such as when they have a long article to read. They both used screen magnifiers, and I didn’t ask them to use their screen readers during the session because that’s not how they normally browse web pages. 
      1. Another participant joined using a smartphone as she was asked to do by Perigean, but she normally uses a tablet with accessibility features. I asked if she could switch to the tablet, but she couldn’t because she didn’t have the Zoom app installed on it and wasn’t able to do that during the session. She is accustomed to holding her phone screen close to her face to read it, so that’s how she participated. 
@@ -180,7 +189,7 @@ Find mental health counselor/therapist | Couldn't find how to contact someone qu
 
 1. We wanted to test with some people who were unfamiliar with VA.gov. As it turns out, **everyone recruited to join the research session already had an account on VA.gov, even if Perigean said that some didn't**. They recruited 4 people who said they didn't have accounts, one was a no-show, and the other 3 told me that they already had accounts. One of those participants was a caregiver who had created an account on VA.gov only a month ago, and the Veteran she cares for doesn't use any VA benefits, so that was only one person who was fairly new to using the website and had no VA benefits experience.
 
-### Ideas from participants
+### 8. Ideas from participants
 Participants shared some ideas for how they wanted to improve the home page, which are listed below. Each idea is from a single participant, unless noted otherwise.
 1. Would like to have the benefit hubs higher up on the page so they're easier to find and use (2 participants).
 1. Would like to have *Popular on VA.gov* higher up on the page so it's easier to find and use (2 participants).
@@ -209,11 +218,6 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 1. One participant (who was in a moving car) was frustrated with how slow it was to load VA.gov pages. 
 1. One pilot participant on a smartphone didn't expect the megamenu to be open to the last option that was opened, but it was. This is the same issue that was recently fixed on the desktop version of the megamenu but not on mobile, as reported in the last round of usability testing.
 2. One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
-
-
-## Other Findings
-1. 
-
 
 # Recommendations
 ## For the home page redesign effort
