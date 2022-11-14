@@ -130,9 +130,8 @@ As in the previous round of usability testing, some participants tended to **foc
           
 ### 2. Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.
 - **All participants except one got stuck on some task(s)** during the sessions. This includes 5 of the 6 participants who said they'd sign in first, as well as others who didn't sign in first.
-- More than half of the participants didn't use search at all; only 5 of 11 participants tried it. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
-- Four of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck.
-- Two people used search when they didn't appear to be stuck.
+- **More than half of the participants didn't use search at all; only 5 of 11 participants tried it**. The new search box was used by 3 of 11 participants, and 2 other participants used search in the header (where they were used to it being).
+- Four of the 5 people used search when they said they were stuck, and 2 of the 5 used it *every time* they were stuck. Two of the 5 used search when they didn't appear to be stuck.
 
 ### 3. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
 - ***Message your doctor* had the lowest task success rate, which was *lower than the previous round of usability testing*** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet, not VA.gov. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
