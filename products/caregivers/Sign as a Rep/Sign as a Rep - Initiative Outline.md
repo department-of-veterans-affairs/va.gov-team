@@ -60,8 +60,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
   - Key result: number of applications filled out by representatives
-  
 
+
+The charts below represent the total volume of POA documents received, and of that, the volume of uploaded documents, and how many were valid vs invalid.  The stars indicate where we released to 50%, 75% and finally 100% in July.
+  
+![image](https://user-images.githubusercontent.com/92328831/201712202-e42d4233-ea5f-4aa0-b4a0-50a46c9f112b.png)
+
+
+![image](https://user-images.githubusercontent.com/92328831/201711739-b6bca0be-4ef4-4529-9fba-4209b96227e3.png)
 
 ---
 
