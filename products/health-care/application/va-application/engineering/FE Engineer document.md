@@ -30,8 +30,6 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 /health-care/apply/application/introduction
 ```
 
-The Certificate CN being sent to ES for SSL (Security layers) is "es-prod.va.gov"  
-- If this changes, we need to be sure to communicate to Joshua Faulkner and ES team.  If Joshua is not available, update Tarsha Tremble to pass on the communications.
 
 ### How to run locally
 
