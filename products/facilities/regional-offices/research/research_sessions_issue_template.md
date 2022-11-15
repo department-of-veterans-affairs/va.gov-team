@@ -31,11 +31,11 @@
 - Editor-Facing research should track participants in the [VA.gov CMS UX research base](https://airtable.com/invite/l?inviteId=inv9nYvS8HoNGoZpu&inviteToken=7d5d76876f2b9f45c44a18ad316f6989c54017e5504ef23742f4153d8b658df3&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
 **No-shows and rescheduling**
-- If a particpant hasn't shown up within 5 minutes of the scheduled start time, they should be contacted as a reminder
+- If a participant hasn't shown up within 5 minutes of the scheduled start time, they should be contacted as a reminder
   - In Veteran-facing research, the Perigean Notetaker will handle contacting the participant by phone and email
   - In Editor-facing research, the Moderator should contact the participant through email or Microsoft Teams
 - If the participant hasn't shown up within 15 minutes of the start, consider it a no show
-  - Contact the participant to see if they can reschedule for a different avaialable slot 
+  - Contact the participant to see if they can reschedule for a different available slot 
   - If unable to reschedule, mark them officially as a no show in the recruitment tracker 
 - Keep the PM and PO in the loop about no-shows in case additional sessions need to be scheduled
 
@@ -50,7 +50,7 @@
 - [ ] All notes are stored in the research folder
 - [ ] Update the recruitment tracker with participant demographics daily
 - [ ] Download all session recording to your local machine for synthesis
-- [ ] You have conducted enough sessions to satify our intended demographics from research plan 
+- [ ] You have conducted enough sessions to satisfy our intended demographics from research plan 
   - [ ] OR Product Owner has signed off that you've done enough to move forward
 
 ### CMS Team
