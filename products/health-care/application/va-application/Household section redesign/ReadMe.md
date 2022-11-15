@@ -106,8 +106,8 @@ Data source - Call Center team/TBD
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#47766](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/47766)
-     - [ ] Design Intent 10/14/22
-     - [ ] Content and IA
+     - [x] Design Intent 10/14/22
+     - [x] Content and IA
      - [ ] Research
      - [ ] Midpoint
      - [ ] Contact Center guide
