@@ -105,7 +105,7 @@ We will request partipants with critera that were not covered in the studies con
 
 
 ### Criteria Table 
-|                               | **Cohort 1 (desktop prototype)** | **Cohort 2 (mobile prototype)** |
+|                               | **Cohort 1 (desktop prototype)** | 
 | ----------------------------- | ---------------------------- |
 | **_SEX_**                     |                              |
 | Male                          | 6                            |
