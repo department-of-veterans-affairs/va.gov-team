@@ -113,8 +113,7 @@ A pilot session is optional. Please indicate the date and name of a mock partici
 ### Length of sessions
 * Session length: 30 minutes
 
-## Team Roles	
-Please list the people who will be serving in each role. 	
+## Team Roles		
 - Moderator: Blake Organ	
 - Research guide writing and task development: Blake Organ	
 - Participant recruiting & screening: Blake Organ, Erika Washburn	
