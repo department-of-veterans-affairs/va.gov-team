@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 11/15/2022
-- Updated the react modal to use the web-component version; currenlty only affects the Privacy Act Statement modal pop-up; no noticable changes to Veterans
+- Updated the react modal to use the web-component version; currently only affects the Privacy Act Statement modal pop-up; no noticeable changes to Veterans
     - [Ticket 49554](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
 
 ### 11/08/2022
