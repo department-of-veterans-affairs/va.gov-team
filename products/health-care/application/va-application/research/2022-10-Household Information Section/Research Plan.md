@@ -99,99 +99,107 @@ We will request partipants with critera that were not covered in the studies con
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |          10      |10      |             |          |              | 
+|      15       |          10      |10      |             |          |               | 
 
+**Cohort 1**
+- 5 completed sessions
+- December 6th - December 9th
+- Desktop prototpye
 
+**Cohort 2**
+- 5 completed sessions
+- December 19th - December 21st
+- Mobile prototype
 
 
 ### Criteria Table 
-|                               | **Cohort 1 (desktop prototype)** | 
-| ----------------------------- | ---------------------------- |
-| **_SEX_**                     |                              |
-| Male                          | 6                            |
-| Female                        | 4                            |
-| \---                          | \---                         |
-| **_RACE_**                    |                              |
-| Black                         | 3                            |
-| White                         | 1                            |
-| Latinx                        | 1                            |
-| Asian                         | 3                            |
-| Native                        | 1                            |
-| Pacific Islander              | 1                            |
-| \---                          | \---                         |
-| **_AGE_**                     |                              |
-| 18-24 yo                      |                             |
-| 25-34 yo                      | 2                            |
-| 35-44 yo                      | 2                            |
-| 45-54 yo                      | 3                            |
-| 55+ yo                        | 3                            |
-| \---                          | \---                         |
-| **_LGBTQ+_**                  |                              |
-| Gay                           |                              |
-| Lesbian                       |                              |
-| Bisexual                      |                              |
-| Asexual                       |                              |
-| Transgender                   |                              |
-| Non-Binary                    |                              |
-| Gender-fluid                  |                              |
-| Queer                         |                              |
-| Two-Spirit                    |                              |
-| \---                          | \---                         |
-| **_BENEFITS_**                |                              |
-| Education                     |                              |
-| Employment                    |                              |
-| Finances                      |                              |
-| Healthcare                    |                              |
-| Housing                       |                              |
-| Memorialization               |                              |
-| \---                          | \---                         |
-| **_BRANCH_**                  |                              |
-| Marine Corps                  |                              |
-| Army                          |                              |
-| Navy                          |                              |
-| Air Force                     |                              |
-| Space Force                   |                              |
-| Coast Guard                   |                              |
-| Nat. Guard                    |                              |
-| Pub Hlth Corps                |                              |
-| \---                          | \---                         |
-| **_EDUCATION_**               |                              |
-| Elementary                    |                              |
-| Intermediate                  |                              |
-| GED                           | 4                            |
-| High School                   | 3                            |
-| Some College                  | 3                            |
-| Associate's                   |                              |
-| Bachelors                     |                              |
-| Masters                       |                              |
-| Professional                  |                              |
-| Doctoral                      |                              |
-| \---                          | \---                         |
-| **_RESIDENCE_**               |                              |
-| Urban                         |                              |
-| Rural                         |                              |
-| \---                          | \---                         |
-| **_HARDWARE_**                |                              |
-| Desktop                       |                              |
-| Laptop                        |                              |
-| Mobile                        |                              |
-| Tablet                        |                              |
-| \---                          | \---                         |
-| **_WEBSITE_**                 |                              |
-| [VA.gov](http://VA.gov)       |                              |
-| MyHealtheVet                  |                              |
-| Ebenefits                     |                              |
-| \---                          | \---                         |
-| **_LOGIN_**                   |                              |
-| DS Logon                      |                              |
-| MyHealtheVet                  |                              |
-| [ID.me](http://ID.me)         |                              |
-| [Login.gov](http://Login.gov) |                              |
-| \---                          | \---                         |
-| **_ID PROOF_**                |                              |
-| IAL1                          |                              |
-| IAL2                          |                              |
-| IAL3                          |                              |
+|                               | **Cohort 1 (Desktop)** | **Cohort 2 (Mobile)** |
+| ----------------------------- | ---------------------- | --------------------- |
+| **_SEX_**                     |                        |                       |
+| Male                          | 3                      | 2                     |
+| Female                        | 2                      | 3                     |
+| \---                          | \---                   | \---                  |
+| **_RACE_**                    |                        |                       |
+| Black                         | 1                      | 1                     |
+| White                         |                        |                       |
+| Latinx                        | 1                      | 1                     |
+| Asian                         | 1                      | 1                     |
+| Native                        | 1                      | 1                     |
+| Pacific Islander              | 1                      | 1                     |
+| \---                          | \---                   | \---                  |
+| **_AGE_**                     |                        |                       |
+| 18-24 yo                      |                        |                       |
+| 25-34 yo                      | 1                      | 1                     |
+| 35-44 yo                      | 1                      | 1                     |
+| 45-54 yo                      | 2                      | 2                     |
+| 55+ yo                        | 1                      | 1                     |
+| \---                          | \---                   | \---                  |
+| **_LGBTQ+_**                  |                        |                       |
+| Gay                           |                        |                       |
+| Lesbian                       |                        |                       |
+| Bisexual                      |                        |                       |
+| Asexual                       |                        |                       |
+| Transgender                   |                        |                       |
+| Non-Binary                    |                        |                       |
+| Gender-fluid                  |                        |                       |
+| Queer                         |                        |                       |
+| Two-Spirit                    |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_BENEFITS_**                |                        |                       |
+| Education                     |                        |                       |
+| Employment                    |                        |                       |
+| Finances                      |                        |                       |
+| Healthcare                    |                        |                       |
+| Housing                       |                        |                       |
+| Memorialization               |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_BRANCH_**                  |                        |                       |
+| Marine Corps                  |                        |                       |
+| Army                          |                        |                       |
+| Navy                          |                        |                       |
+| Air Force                     |                        |                       |
+| Space Force                   |                        |                       |
+| Coast Guard                   |                        |                       |
+| Nat. Guard                    |                        |                       |
+| Pub Hlth Corps                |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_EDUCATION_**               |                        |                       |
+| Elementary                    |                        |                       |
+| Intermediate                  |                        |                       |
+| GED                           | 2                      | 2                     |
+| High School                   | 1                      | 1                     |
+| Some College                  | 1                      | 1                     |
+| Associate's                   |                        |                       |
+| Bachelors                     |                        |                       |
+| Masters                       |                        |                       |
+| Professional                  |                        |                       |
+| Doctoral                      |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_RESIDENCE_**               |                        |                       |
+| Urban                         |                        |                       |
+| Rural                         |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_HARDWARE_**                |                        |                       |
+| Desktop                       |                        |                       |
+| Laptop                        |                        |                       |
+| Mobile                        |                        |                       |
+| Tablet                        |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_WEBSITE_**                 |                        |                       |
+| [VA.gov](http://VA.gov)       |                        |                       |
+| MyHealtheVet                  |                        |                       |
+| Ebenefits                     |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_LOGIN_**                   |                        |                       |
+| DS Logon                      |                        |                       |
+| MyHealtheVet                  |                        |                       |
+| [ID.me](http://ID.me)         |                        |                       |
+| [Login.gov](http://Login.gov) |                        |                       |
+| \---                          | \---                   | \---                  |
+| **_ID PROOF_**                |                        |                       |
+| IAL1                          |                        |                       |
+| IAL2                          |                        |                       |
+| IAL3                          |                        |                       |
 
 
 ---
@@ -262,7 +270,7 @@ We will request partipants with critera that were not covered in the studies con
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-December 6 -  2022 
+**December 6-21, 2022** 
 
 
 
@@ -275,7 +283,7 @@ December 6 -  2022
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: 2 cohorts: Cohort 1 December 6-9, 2022; Cohort 2 Decebmer 19-21, 2022
 
 
 ### Length of sessions
