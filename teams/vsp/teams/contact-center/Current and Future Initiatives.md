@@ -59,7 +59,8 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Chante Lantos-Swett
 
 ### Product and Program Management
-- Jason Woodman - Product Leadership
+- Anita Middleton - Product Manager 
+- Andrea Hewitt - Program Manager
 
 
 ### UX
