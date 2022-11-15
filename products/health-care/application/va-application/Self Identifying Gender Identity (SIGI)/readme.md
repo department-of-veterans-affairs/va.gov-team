@@ -84,8 +84,11 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Content brief
 - Regression test plans
 - TestRail 
-     - Test cases
-     - Test plans
+     - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0&group_id=6050)
+     - [Test plans](https://dsvavsp.testrail.io/index.php?/plans/view/3565)
+     - [Accessibility Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/QA/SIGI%20-%20Accessibility%20QA.md)
+     - [Coverage for References (Cases) Report](https://dsvavsp.testrail.io/index.php?/reports/view/378)
+     - [Summary (Defects) Report](https://dsvavsp.testrail.io/index.php?/reports/view/379)
 - Technical diagrams (architecture diagram, sequence diagram)
      - [Technical Diagrams folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering)
 - Release plan
