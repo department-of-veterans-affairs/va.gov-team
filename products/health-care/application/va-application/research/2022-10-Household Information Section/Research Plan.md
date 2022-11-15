@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, November 2022
+# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, December 2022
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section - household information. This section includes questions on:
@@ -294,17 +294,30 @@ We will request partipants with critera that were not covered in the studies con
 
 ### Availability
 
+**Cohort 1**
 Team Availability | Time (ET)
 ------------------|--------------
-TBD         | TBD
-TBD         | TBD
-TBD         | TBD
+December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
+Decmeber 7, 2022  | 5pm - 7pm 
+December 8, 2022  | 1:30pm - 6:30pm 
+December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
 
+Need 5 completed sessions.
+
+
+**Cohort 2**
+Team Availability | Time (ET)
+------------------|--------------
+December 19, 2022 | TBD
+December 20, 2022 | TBD
+December 21, 2022 | TBD
+
+Need 5 completed sessions.
 
 
 _Only use if necessary_ | Time (ET)
 ------------------|--------------
-TBD         | TBD
+January          | TBD
 TBD         | TBD
 
 
