@@ -4,7 +4,15 @@
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
 
+#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Perform functional testing (Kelly, Zach, Ben, Lori)
+    - Perform accessibility testing (Kelly, Zach)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Finish final wireframes (Zach/Kelly)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
     - Hold a compressed design sprint to brainstorm ideas for a solution
 - [[UX][SPIKE] Expired session/no appointments refresh](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49400) 
@@ -33,8 +41,6 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update product artifacts (get them ready but do not publish) (Kelly)
     - Update design artifacts (get them ready but do not publish) (Zach)
-    - Perform functional testing (Kelly, Zach, Ben, Lori)
-    - Perform accessibility testing (Kelly, Zach)
 - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) (Kelly)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Start final wireframes (Zach/Kelly)
