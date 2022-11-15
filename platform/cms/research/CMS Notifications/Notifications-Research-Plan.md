@@ -87,16 +87,24 @@ How will we recruit them? Erika sent out a survey to willing participants.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
+Use snowball sampling when working with VA employees. At the end of your study:
+
+- Ask your key informant if there’s anyone else they know that they would recommend you to talk to.
+- Ask if they can introduce you to them or if you can CC them on an email for credibility on contact.
+
+
 ### Recruitment criteria
 
-Number of participants:
+Number of participants: 5
 
 Experience, geographic location, and scenarios of particpants
 
+Not surveyed in the past.
+
 Someone from every facility type.
--VBA
--VAMC
--What else?
+- VBA
+- VAMC
+- What else?
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
