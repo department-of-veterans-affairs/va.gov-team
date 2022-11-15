@@ -1,6 +1,6 @@
 # (WIP)Editor-facing research Plan for Sitewide CMS Notifications - November 2022
 
-This final researh plan is published in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
+This final research plan is published in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
 This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. Since editors will potentially need to be notified of a variety of things, we need to figure out the best way to notify them of action items.
@@ -42,17 +42,11 @@ Consider bucketing research questions under research goals. For each question, t
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 Reframe these as questions:
--Gain a better understanding of how editors would like to receive notifications.
--Gain a better understanding of the things that editors want to be notified of.
--Gain a better understanding of what painpoints editors are currently experiencing when receiving relevant information or action items.
+- Gain a better understanding of how editors would like to receive notifications.
+- Gain a better understanding of the things that editors want to be notified of.
+- Gain a better understanding of what painpoints editors are currently experiencing when receiving relevant information or action items.
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
-
 Outdated content on VA websites can easily lead to information that doesn't match the operational reality of VA facilities. Veterans trust that the information on VA websites will be accurate and up to date, but when that is not the case veterans will be confused which could potentially lead to a mistrust of the the information that is on VA websites.
 
 When the VA is able to notify editors of relevant information in a timely manner that fits into their established workflow, editors will be more likely to use the CMS efficienty. When editors are notified of relevant information or action items and are able to easily access the content, they're less likely to make errors and more likely to follow veteran-centered content guidelines which yeilds higher quality content for veterans on VA.gov.
@@ -72,8 +66,6 @@ Examples of common research methods include:
 Remote via Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
@@ -83,14 +75,8 @@ For moderated usability tests:
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 	
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), research recruitment with Veterans. However, you must handle recuitment yourself for research with editors. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
