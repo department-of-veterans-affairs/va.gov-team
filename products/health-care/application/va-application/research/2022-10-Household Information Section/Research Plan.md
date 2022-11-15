@@ -83,8 +83,9 @@ Remote: Zoom
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
-- [Link to destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257) - **To create after Design Intent review and feedback incorporated** Will be used for task analysis during this study.
+- [Link to destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257) - Will be used for task analysis during this study.
 
+- [Link to mobile prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318) - Will be used for task analysis during this study.
 
 	
 ## Recruitment	
@@ -98,13 +99,13 @@ We will request partipants with critera that were not covered in the studies con
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |          10      |10       |             |          |              | 
+|      15       |          10      |10      |             |          |              | 
 
 
 
 
 ### Criteria Table 
-|                               | **Cohort 1 (proposed flow)** |
+|                               | **Cohort 1 (desktop prototype)** | **Cohort 2 (mobile prototype)** |
 | ----------------------------- | ---------------------------- |
 | **_SEX_**                     |                              |
 | Male                          | 6                            |
@@ -261,7 +262,7 @@ We will request partipants with critera that were not covered in the studies con
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-November 2022 
+December 6 -  2022 
 
 
 
@@ -308,7 +309,7 @@ TBD         | TBD
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
 - Participant(s) for pilot test: 
-- Note-takers: Perigean
+- Note-takers: Perigean, 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
@@ -318,6 +319,7 @@ TBD         | TBD
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - User Flows - [Existing](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/eKvnwPx) & [Proposed](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/nR0pl7W)
 - [Destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257)
+- [Mobile prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 - [Notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes)
 - [Synthesis notes Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1666894526417/3cd5fb1ef447104ac677305a840849e322956178?sender=u9b3a9c1b688c0e4bb4994314)
 - Research Findings
