@@ -28,6 +28,7 @@
 - Success criteria to be reviewed prior to advancing rollout to the next stage
      - No production errors, or unable to advance to next page
      - Minimal to No increase in Dropoff rates
+     - Check in with Joshua Faulkner for successfull end-to-end processing
 - Links to [Domo dashboards](https://va-gov.domo.com/page/447193050)
 
 #### Phased Rollout
