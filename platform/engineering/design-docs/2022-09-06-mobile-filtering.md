@@ -31,11 +31,13 @@ Because we don't want to whitelist valid operations per attribute on the model, 
   - Sticks with convention of other mobile endpoints.
 
 #### Cons
-  - Longer, hard to read urls for requests with multiple filter parameters.
-  - Cannot easily support complex filtering requirements. Some operations could be created for more complex data types, such as arrays and hashes, but even simple equality operators would become problematically complex for non-primitive data types.
+  - Longer, hard to read urls for requests with multiple filter parameters. URLs can be 2048 characters long. Encoding special characters used in the filter query params will use some of that space, but it's unlikely that the 2048 limit will be a problem.
+  - Cannot easily support complex filtering requirements. Some operations could be created for more complex data types, such as arrays and hashes, but even simple equality operators could become problematically complex for non-primitive data types.
 
 #### Overview
-The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it to become a requirement for these endpoints in the future. Harder to read URLs is not a significant concern. Long and complex urls are widely used in the modern web and will not be visible to mobile users.
+The support of complex filtering requirements listed in the cons is not a requirement of this feature, nor does it seem practical for it to become a requirement for these endpoints in the future. Harder to read URLs is not a significant concern. Long and complex urls are widely used in the modern web and will not be visible to mobile users. Unless we anticipate very complex queries, length should not be a concern.
+
+On a side note, there is also an uncommonly used HTTP QUERY method that is exactly what we're looking for. It's essentially a GET with a body. However, as far as I can tell, it is not supported by rails.
 
 ### GET with Payload Body
 #### Pros
@@ -56,7 +58,7 @@ Breaking REST/HTTP spec is too dangerous and may have too many unintended consqu
   - Keeps the url parameters from getting too long and hard to read
 
 #### Cons
-  - Would require new endpoint for each Index action
+  - Would require new endpoint for each Index action. This should not be a significant problem because the new endpoint can point to the same method as the existing GET endpoint.
   - Take the most time to implement and integerate into FE.
 
 #### Overview
@@ -66,6 +68,10 @@ Given that support of complex filtering requirements listed in the cons is not a
 We recommend using query params to transmit filter options.
 
 While it does not allow for the most robust filtering functionality, the extra work and maintience required to implement POST with Payload is not worth it when we do not foresee the more complex filtering logic enabled by using a POST with payload to ever be necessary for future endpoints. Even if these complex filtering requirements did ever become necessary for an endpoint, there are easy one time solutions that can be implemented that would not require a re-write of this filtering logic. For example, if a endpoint needed a complex filter grouping, such as ((Exp1 AND Exp2) OR (Exp3 OR Exp4)), we could extract this logic into new boolean field that could be filtered on or develop a method of doing that via query params, such as using groups. For example, we could do something like: ```filter[group1][refill_status][eq]=refillinprocess&filter[group2][prescription_name][eq]=ibuprofen```. That's a simplified example, but the important point is that once the filtering code belongs to entirely to the mobile team, we will have the freedom to determine how it operates.
+
+Our second preference would be POST with body. The logic behind using POST without creating a new record is that you're creating a "search object". This is counter-intuitive and feels a bit like mental gymnastics, but it is not uncommon. However, unless we intend to implement more complex functionality, like object matching or very long filter lists, it doesn't seem to have any advantages over query params.
+
+Additionally, it would be wise to discuss these decisions with the front end team to get their opinions. They may have better ideas of what types of queries they want to make and what limitations seem reasonable. They may also have opinions on the additional effort involved in switching over to POSTS with bodies.
 
 ## Implementation Options
 
