@@ -37,13 +37,12 @@
     - Perform accessibility testing (Kelly, Zach)
 - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) (Kelly)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Create final wireframes (Zach/Kelly)
+    - Start final wireframes (Zach/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Convert Research Plan to remote study (Ben)
-    - Create conversation guide (Ben)
+    - Start conversation guide (Ben)
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Hold design intent review & update wireframes with any recommendations
-    - Design Considerations for Structuring Language Toggle, Progress Bar & Navigation Links
+    - Hold design intent review 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
