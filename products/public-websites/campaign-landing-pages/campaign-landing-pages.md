@@ -20,7 +20,7 @@ https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderati
 2. If not in a helpdesk request, redirect to Helpdesk or create a Helpdesk issue using email support@va-gov.atlassian.net or URL https://prod.cms.va.gov/help
 3. Helpdesk will use #sitewide-public-websites channel to request approvals
     1. If PO (Dave Conlon) hasn't already reviewed the request, he needs to review/approve the creation / existence / description of the CLP.
-    2. IA (Mikki Northuis) needs to review / approve the requested vanity URL
+    2. IA (#sitewide-content-ia) needs to review / approve the requested vanity URL
 4. Helpdesk or any Drupal Admin can create the CLP node. We clone the [CLP template node](https://prod.cms.va.gov/node/16512)
 5. If a new editor is needed, Helpdesk or any Drupal admin can create them and assign proper permissions according to [CLP CMS account administration policy](https://prod.cms.va.gov/help/cms-account-admin-policies/clp-cms-account-administration-policy).
     1. Send that editor the [self-guided Campaign Landing Page training](https://prod.cms.va.gov/help/campaign-landing-pages/how-to-manage-campaign-landing-pages)
