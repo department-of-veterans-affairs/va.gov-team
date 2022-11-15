@@ -25,7 +25,7 @@ I also have a couple other colleagues who would like to observe and take notes. 
    - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-**Today we're going to talk about the VA health care application, but specifically are looking to get your feedback on the section of the form that asks about household information.**
+**Today we're going to talk about the VA health care application, but specifically are looking to get your feedback on the section of the form that asks about your household information.**
 
 Before we start, a few things I want to mention:
 
