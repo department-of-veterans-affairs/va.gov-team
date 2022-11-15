@@ -91,7 +91,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - [Summary (Defects) Report](https://dsvavsp.testrail.io/index.php?/reports/view/379)
 - Technical diagrams (architecture diagram, sequence diagram)
      - [Technical Diagrams folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering)
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/Release%20Plan.md)
 - Product guide for contact center
 
 ### Timeline 
