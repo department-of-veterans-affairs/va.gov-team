@@ -61,7 +61,8 @@
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete (Brian/John)
+    - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete 
+    - Ensure that eCheck-in check-in times honor the new early guardrail
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Wire up FE and BE
     - Perform functional testing (all)
