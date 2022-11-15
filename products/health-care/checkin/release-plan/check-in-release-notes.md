@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 11/15/2022
+- Updated the react modal to use the web-component version; this affects the Privacy Act Statement modal pop-up
+    - [Ticket 49554](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
+
 ### 11/08/2022
 - Updated error message in the info box when identity verification fails (Pre-Check-in & eCheck-in) to "We’re sorry. We couldn’t find an account that matches that last name or date of birth. Please try again."
     - [Ticket 48721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48721)
