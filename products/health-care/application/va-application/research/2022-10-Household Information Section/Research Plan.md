@@ -180,10 +180,10 @@ We will request partipants with critera that were not covered in the studies con
 | Rural                         |                        |                       |
 | \---                          | \---                   | \---                  |
 | **_HARDWARE_**                |                        |                       |
-| Desktop                       |                        |                       |
-| Laptop                        |                        |                       |
-| Mobile                        |                        |                       |
-| Tablet                        |                        |                       |
+| Desktop                       |  2                     |                       |
+| Laptop                        |  2                     |                       |
+| Mobile                        |                        |     4                 |
+| Tablet                        |  1                     |     1                 |
 | \---                          | \---                   | \---                  |
 | **_WEBSITE_**                 |                        |                       |
 | [VA.gov](http://VA.gov)       |                        |                       |
@@ -297,10 +297,10 @@ We will request partipants with critera that were not covered in the studies con
 **Cohort 1**
 Team Availability | Time (ET)
 ------------------|--------------
-December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
-Decmeber 7, 2022  | 5pm - 7pm 
-December 8, 2022  | 1:30pm - 6:30pm 
-December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
+Tuesday, December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
+Wednesday, Decmeber 7, 2022  | 5pm - 7pm 
+Thursday, December 8, 2022  | 1:30pm - 6:30pm 
+Friday, December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
 
 Need 5 completed sessions.
 
@@ -308,24 +308,22 @@ Need 5 completed sessions.
 **Cohort 2**
 Team Availability | Time (ET)
 ------------------|--------------
-December 19, 2022 | TBD
-December 20, 2022 | TBD
-December 21, 2022 | TBD
+Monday, December 19, 2022 | 12pm-3pm 
+Tuesday, December 20, 2022 | 1:30pm-2:30pm and 4pm-7pm 
+Wednesday, December 21, 2022 | 3pm - 7pm 
 
 Need 5 completed sessions.
 
 
 _Only use if necessary_ | Time (ET)
 ------------------|--------------
-January          | TBD
-TBD         | TBD
+January 2023      | TBD
+TBD               | TBD
 
 
-
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-- Moderator: Jessica Stump (jessica.stump@adhocteam.us)	
+- Moderator: Jessica Stump (jessica.stump@adhocteam.us) 	
 - Research guide writing and task development: Moderator	
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
