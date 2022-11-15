@@ -55,9 +55,8 @@ CMS notifications will provide a way for us to speak to the editors directly and
 
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+Potential research methods include the following. Should we just focus on one or can we include multiple as part of the same research plan since we're looking to include prototypes.
 
-Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
@@ -78,19 +77,14 @@ For moderated usability tests:
 	
 ## Recruitment	
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 Intended audience for this research: Editors
-How will we recruit them? Erika sent out a survey to willing participants.
+How we recruit them: Erika sent out a survey to willing participants. Need more info on this. 
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Use snowball sampling when working with VA employees. At the end of our study:
 
-Use snowball sampling when working with VA employees. At the end of your study:
-
-- Ask your key informant if there’s anyone else they know that they would recommend you to talk to.
-- Ask if they can introduce you to them or if you can CC them on an email for credibility on contact.
+- Ask key informant if there’s anyone else they know that they would recommend us to talk to.
+- Ask if they can introduce us to them or if we can CC them on an email for credibility on contact.
 
 
 ### Recruitment criteria
@@ -104,7 +98,7 @@ Not surveyed in the past.
 Someone from every facility type.
 - VBA
 - VAMC
-- What else?
+- Vet Center
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -123,8 +117,8 @@ A pilot session is optional. Please indicate the date and name of a mock partici
 Please list the people who will be serving in each role. 	
 - Moderator: Blake Organ	
 - Research guide writing and task development: Blake Organ	
-- Participant recruiting & screening: TBD	
-- Project point of contact: TBD	
+- Participant recruiting & screening: Blake Organ, Erika Washburn	
+- Project point of contact: Blake Organ	
 - Participant(s) for pilot test: TBD	
 - Note-takers: Dave Pickett, Jordan Wood	
  
