@@ -1,4 +1,4 @@
-# Conversation Guide for VBA MVP Public Contact Staff Discovery – August 2022
+# Conversation Guide for VBA MVP Public Contact Staff Interviews
 
 This conversation guide includes questions for VBA Public Contact staff identified for the MVP.
 
