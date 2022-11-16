@@ -73,7 +73,7 @@
     - Perform functional testing (all)
     - Perform accessibility testing (all)
 - CIE Tech Debt & Bugs
-    - Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
+    - DONE Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
     - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
     - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
