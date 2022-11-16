@@ -125,6 +125,7 @@ Data source - Call Center team/TBD
 
 - Design documentation - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas)
 - [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section)
+- [UXPin Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257/simulate/no-panels)
 - Technical documentation
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
