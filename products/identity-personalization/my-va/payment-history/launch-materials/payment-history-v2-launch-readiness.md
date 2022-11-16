@@ -31,7 +31,7 @@
 **Samara/AJ**: are you ready to monitor analytics data for trends and problems?
 - Answer: 
 
-**Samara/AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/launch-materials/release-plan.md) complete and ready to execute against?
+**Samara/AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/launch-materials/payment-info-v2-release-plan.md) complete and ready to execute against?
 - Answer: 
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch of the Outstanding debts and Benefit payments sections to 25% of users?
