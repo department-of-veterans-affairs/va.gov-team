@@ -17,13 +17,13 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 - **Desired date range or test duration:**
      - Weeks of 11/14 - 11/21
 - **Desired number of users:** 
-     - Recruiting n participants with a target of completeing n sessions
+     - Recruiting 12 participants with a target of completeing 8 sessions
 - **How you'll recruit the right production test users:** 
-     - We will recruit users via Perigean. _(most likely, update if method changes)_
+     - We will recruit users via Perigean. 
 - **How you'll conduct the testing:** 
-     - We will conduct UAT over Zoom to ensure the different features work correctly. _(most likely, update if method changes)_
+     - We will conduct UAT over Zoom to ensure the different features work correctly. 
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-     - The feature will be behind a feature flag. _(most likely, update if method changes)_
+     - The feature will be behind a feature flag. 
 - **Link to Research plan for UAT**: 
    - [UAT Research Plan for Payment info v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-research-plan.md
    - [UAT Conversation Guide for Payment info v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-conversation-guide.md)
@@ -44,14 +44,14 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 - Launch go/no-go ticket: [#47236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47236)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/launch-materials/payment-history-v2-launch-readiness.md)
 
-**Desired date range:** mm/dd/yyyy - mm/dd/yyyy
+**Desired date range:** 11/29/2022 - 12/13/2022
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 25% | 1 week | week of mm/dd/yyyy | [#47237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47237) |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | [#47238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47238) |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | [#47239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47239) |
+| Launch to 25% | 1 week | week of 11/29/2022 | [#47237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47237) |
+| Launch to 50% | 1 week | week of 12/6/2022 | [#47238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47238) |
+| Launch to 100% | 1 week | week of 12/13/2022 | [#47239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47239) |
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
@@ -62,9 +62,9 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 ### Planning:
 |Launch % |Desired Date | Actual Date | 
 |-------|-----------|-----------|
-| Launch to 25% | mm/dd/yyyy | mm/dd/yyyy |
-| Launch to 50% | mm/dd/yyyy | mm/dd/yyyy |
-| Launch to 100% | mm/dd/yyyy | mm/dd/yyyy |
+| Launch to 25% | 11/29/2022 | mm/dd/yyyy |
+| Launch to 50% | 12/6/2022 | mm/dd/yyyy |
+| Launch to 100% | 12/13/2022 | mm/dd/yyyy |
 
 [**v2 success metrics**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current)
  
