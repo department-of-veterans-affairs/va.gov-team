@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-* We want to increase the confidence with which Veterans select a facility on the 10-10CG, since it's key to getting their application routed appropriately.  
+* Veterans and their Caregivers will have confidence in selecting the Veteran's preferred facility, which will also ensure the submitted application is routed to the appropriate Caregiver service facility for processing
 
 <details>
  
