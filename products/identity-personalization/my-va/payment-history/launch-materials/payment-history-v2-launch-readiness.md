@@ -1,4 +1,4 @@
-# Outstanding Debts & Benefit Payments (payment info v2): Launch Go / No Go | mm/dd/yyyy
+# Outstanding Debts & Benefit Payments (payment info v2): Launch Go / No Go | 11/29/2022
 
 ## Decision: __________
 
