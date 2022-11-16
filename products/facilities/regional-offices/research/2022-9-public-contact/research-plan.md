@@ -19,7 +19,7 @@ The Public Contact staff at these facilities provide front-line support to Veter
 * Decrease call center volume, wait time, and time to resolution
 
 ## Research goals
-The primary goals of this research are to understand from the perspectives of the Public Contact staff for that facility the:
+Understand from the perspectives of the Public Contact staff:
 * Service delivery model for the facility (or group of facilities) for a geographic area
 * Common tasks Veterans attempt to complete during in-person visits
 * The typical Veteran experience (successes, expectations, frustrations, complaints) at these facilities 
@@ -80,7 +80,7 @@ FIX THIS PART
 * Remote, via Zoom 
   
 ## Research materials
-* Conversation guide (to be added)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/conversation-guide.md)
 
 ## Recruitment
 The CMS Facilities worked with the OCTO-DE product owner to obtain 19 names for potential interview participants that met the following criteria:
