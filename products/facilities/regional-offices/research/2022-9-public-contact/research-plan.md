@@ -1,10 +1,10 @@
-# Research Plan for VBA MVP Public Contact Staff Discovery
+# Research Plan for VBA MVP Public Contact Staff Interviews
 ## Background
-Between 5 and 7 VBA Regional Office (RO) facilities will be involved in the launch of the [Minimal Viable Product (MVP) for publishing VBA facility information](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10191) in Drupal starting in late 2022/early 2023.
+7 Veteran Benefit Administration (VBA) Regional Office (RO) facilities will be involved in the launch of the [Minimal Viable Product (MVP) for publishing VBA facility information](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10191) in Drupal starting in late 2022/early 2023.
 
 The MVP will give the designated CMS editors a basic set of functionality to publish information about their facility operations on VA.gov so Veterans can successfully plan their next visit and perform other key tasks.
 
-While some of this functionality has been developed and tested with other VA editors and Veterans, the MVP seeks to uncover any situations unique to VBA facilities that may require new research, change management planning, product development, and user testing before, during, and after the full roll-out to all VBA facilities starting in [2023](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10185).
+The Public Contact staff at these facilities provide front-line support to Veterans. We plan to interview a sample of Public Contact staff to better understand the Veteran experience and service delivery models at the MVP Regional Office sites.
  
 ## OCTO objectives
 ### North Star
@@ -19,37 +19,56 @@ While some of this functionality has been developed and tested with other VA edi
 
 ## Research goals
 The primary goals of this research are to understand from the perspectives of the Public Contact staff for that facility the:
-* Service delivery model for the facility or group of facilities for a geographic area.
-* Context for: 
-  * Event- and staff-related information
-  * Situational updates related to a facility
-
-This research will follow or run partially in parallel to a [related effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md) to understand the needs of Veterans when visiting a VBA facility and getting services. 
+* Service delivery model for the facility (or group of facilities) for a geographic area
+* Common tasks Veterans attempt to complete during in-person visits
+* The typical Veteran experience (successes, expectations, frustrations, complaints) at these facilities 
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE to inform a future direction for:
 * Development of the VBA facility product
-* The change management strategy and plan for the MVP and the full rollout of the CMS to all VBA facilities
-* The training plan for the MVP and the full rollout
+* The scope of the Regional Office product and what, if any, other facilities may be included in the scope (e.g. Satellite Regional Offices, Veteran Readiness Offices, etc)
+* The plan for the MVP and the full rollout of the CMS to all VBA Regional Office facilities
 * Future research for the VBA project
+* Gain insights from the front-line Public Contact staff in other possible areas where a website, data, or self-service mechanisms may be incorporated in a possible roadmap of the Regional Office product or other product roadmaps
 
 ## Hypothesis
 * This research will surface complexities and nuances in how different VBA facilities deliver their services to Veterans that should inform the design of the VBA facilities product.
 
 ## Research Questions
-* What are the common things Veterans ask for and how do they ask for them?
-* When do Veterans ask for a benefit by phone vs. in person and typically why?
-* What do Veterans typically try to accomplish during an in-person facility visit?
-* What are the situations when Veterans don't feel successful getting a benefit at the facility and why?
-* What do you wish Veterans knew before visiting this location?
-* What happens when a Veteran visits the facility for a service you don’t offer?
-* What do Veterans need to know or do to be adequately prepared for a visit?
-* What are the unique characteristics of the benefits offered by that facility?
-* Can Veterans access any/all of your services anywhere else in the area, such as a Vet Center?
-* How are the available services handled by the Public Contact team?
-* How are Veteran Service Organizations (VSOs) located at that facility important and why?
-* When should some benefits be encouraged or promoted to be done online or a phone call?
-* Does the Public Contact staff handle any aspect of the facility's website?
+
+1. What benefit-related **services are offered** at these facilities?
+   * How do services differ by benefit types? 
+   * Are any services shared across benefit types (e.g. updating contact info)?
+   * Are all services available consistently throughout the week?
+   * Do any services require referrals to other facilities?
+   * Are there any services unique to this region/facility?
+
+2. What do Veterans typically **try to accomplish** during an in-person facility visit?
+   * What are the most common tasks they complete?
+   * What are the least common tasks?
+   * Can these tasks be accomplished other ways (phone, web)?
+     * If so, why do Veterans do this task in-person?
+   * How complicated are these common tasks?
+   * How do Public Contact Staff assist Veterans in these tasks?
+   * Any regionally specific needs (e.g. state or region specific support, translation)?
+   * Any problems?
+     * Tasks unable to complete
+     * Tasks that Veterans usually get hung up on
+     * Frustrations expressed by Veterans
+     * How frequently are these problems encountered?
+
+3. What is the **typical Veteran experience** when visiting these facilities?
+   *	Typical wait times?
+   *	Busier days or time?
+   *	Appointments vs walk-ins?
+   *	Common frustrations? Complaints?
+   *	How Veterans usually arrive at the facility? (drive, public transit?) 
+   *	How long does it take for a Veteran to travel to a facility
+
+4. What do Veterans need to know or do to be adequately **prepared** for a visit?
+   * Does this differ by service? 
+   * Could they have found that information on the website?
+   * Most common thing Veterans are missing?
   
 ## Method
 * Semi-structured interviews 
@@ -61,35 +80,35 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * Conversation guide (to be added)
 
 ## Recruitment
-The CMS Facilities team will work with the OCTO-DE product owner to recruit 6-10 Public Contact staff for this research using the the following criteria:
+The CMS Facilities worked with the OCTO-DE product owner to obtain 19 names for potential interview participants that met the following criteria:
+
 * Represent each of the Regional Offices chosen for the MVP
-* Represent different services areas
 * Have been in the role for at least 6 months
 
-The Facilities team initially will need upwards of 20 names for potential interview participants.
-
-Note that recruitment cycles involving VA employees can take up an entire sprint, from initial contact to follow-ups and scheduling of observers.
+We will plan to schedule 14 sessions so that even with attrition we hit the target of 6-10 completed sessions.
 
 ## Timeline
-* September 2022: finalize research plan and conversation guides
-* Late October: complete Public Contact staff research interviews
-* November: synthesize research and report findings  
-  
+* November 14–18: finalize Research Plan and Conversation Guide
+* November 16–23: schedule interviews and conduct pilot interview
+* November 24–25: Thanksgiving Holiday
+* November 28–Dec 2: conduct interviews
+* December 6–16: Synthesize research and report findings
+
 ## Research sessions
-Month Day – Month Day, 2022 (TBD)
+* November 28–Dec 2, 2022
+* There will be 30 1-hour blocks for participants to choose from via Calendly
+* Will include a mix of early and later time blocks to accommodate time zones
 
 ## Length of sessions
-* 45 minutes each
-* 20 minutes buffer time between debrief and next session
-* 15 minutes after each session for research team debrief
+* 60 minutes each (may end by 45 minutes)
+* 30 minutes buffer time between sessions
 
 ## Availability
-The CMS Facility research team will use MS Outlook to book time with the participants identified by the Product Manager.
+The CMS Facility research team will use MS Outlook to book time with the participants.
 
 ## Team Roles
-* Moderator: Aslan French (aslan.french@va.gov)
-* Research guide writing and task development: Denise Eisner
-* Participant recruiting & screening: Dave Conlon (david.conlon@va.gov) and MVP facility business contact
-* Project point of contact: Dave Conlon
-* Observers: TBD
-* Note-takers: Blake Organ (blake.organ@va.gov)
+* Moderator: Dave Pickett (dave.pickett@civicactions.com)
+* Research guide writing and task development: Dave Pickett (dave.pickett@civicactions.com)
+* Project point of contact: David Shannon (david.shannon@agile6.com)
+* Observers: Dave Conlon (david.conlon@va.gov), David Shannon
+* Note-takers: Blake Organ (blake.organ@va.gov) & Jordan Wood (jordan.wood@civicactions.com)
