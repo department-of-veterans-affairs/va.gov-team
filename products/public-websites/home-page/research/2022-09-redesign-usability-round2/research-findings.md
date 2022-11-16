@@ -39,15 +39,15 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
     2. For tasks previously assessed, how do task success rates compare to those in the baseline wayfinding study last year?
 1. Which parts of the home page do participants use to complete tasks? 
     1. Benefit promo at top of page (PACT Act article)
-    2. "Create account" button
+    2. _Create account_ button
     4. The new search box 
-    5. "Other search tools" 
-    3. "Popular on VA.gov"
+    5. _Other search tools_
+    3. _Popular on VA.gov_
     4. VA News promo (Pathfinder article)
     6. Benefit hubs 
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
-1. Do participants know when to use the "Sign in" *vs.* "Create account" buttons?
+1. Do participants know when to use the _Sign in_ *vs.* _Create account_ buttons?
 1. Is there anything that participants find unclear or confusing on the home page, especially when using a smartphone or a screen reader? 
 1. What are participants' impressions of the two new promo sections (with PACT Act and Pathfinder news articles)?
     1. How would they get more details on these topics?
@@ -56,15 +56,15 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 ## Areas of focus
 In this research, we were primarily interested in the following areas of the home page as used in task completion:
 - Benefit promo (PACT Act article)
-- "Create account" button
+- _Create account_ button
 - The new search box
-- "Other search tools"
-- "Popular on VA.gov"
+- _Other search tools_
+- _Popular on VA.gov_
 - VA News promo (Pathfinder article)
 - Benefit hubs
 
 # Methodology 
-We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the "Popular on VA.gov" section of the redesigned home page, while others were not. Below is the complete list of 8 tasks:
+We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the _Popular on VA.gov_ section of the redesigned home page, while others were not. Below is the complete list of 8 tasks:
 1. Message your doctor
 1. Show you're a Veteran (benefit letter or Veteran ID card)
 1. Find mental health counselor/therapist
@@ -88,7 +88,7 @@ For more details, see [Who we talked to](https://github.com/department-of-vetera
 # Hypotheses and Conclusions
 
 1. The revised home page design will result in improved task success rates as compared to the previous round of usability testing, especially the 4 tasks that had the lowest success rates in the previous round. 
-     1. MOSTLY TRUE: Success rates for all tasks improved, though some not by much, except for "Message your doctor", which was worse.
+     1. MOSTLY TRUE: Success rates for all tasks improved, though some not by much, except for *Message your doctor*, which was worse.
      2. *Find mental health counselor/therapist* (100% this round *vs.* 90% previous round)
      3. *File for disability increase* (100% this round *vs.* 50% previous round)
      4. *Check current disability compensation rates* (88% this round *vs.* 60% previous round)
@@ -98,14 +98,14 @@ For more details, see [Who we talked to](https://github.com/department-of-vetera
 
 1. There are no significant differences in task success rate across devices (especially smartphones) or screen reader users.
      1. TRUE: Participant success rates didn't seem affected by participant device or assistive technology use (screen magnifiers). 
-3. Participants will know when to use the "sign in" *vs.* "create an account" buttons.
-     1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the "sign in" button. We still need to see what participants without accounts would do.
+3. Participants will know when to use the _Sign in_ *vs.* _Create account_ buttons.
+     1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the _Sign in_ button. We still need to see what participants without accounts would do.
 4. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
      1. PARTLY TRUE: 5 of 8 tasks had at least 73% success, so the home page supports task completion and multiple ways of navigating. However, 10 of 11 participants got stuck on at least one task, so some participants weren't able to find a way to complete every task. 
 5. Participants understand that the top promo is about benefits or services for Veterans.
      1. FALSE: Only 3 of 11 participants went there when asked about benefit changes, and everyone else scrolled down past it.
 7. Participants understand that the bottom promo is news and know how to get more news stories.
-     1. FALSE: Only 4 of 11 participants went there to click on "More VA news" when asked about VA stories, and everyone else looked elsewhere. The featured Pathfinder article didn't look like news, and the "More VA news" link was small and overlooked.
+     1. FALSE: Only 4 of 11 participants went there to click on _More VA news_ when asked about VA stories, and everyone else looked elsewhere. The featured Pathfinder article didn't look like news, and the _More VA news_ link was small and overlooked.
 
 # Key Findings
 1. **A few participants focused their attention on a specific part of the home page, while others scrolled up and down the home page more fluidly**. 
@@ -249,7 +249,7 @@ Below are some potential recommendations based on the usability test findings. A
 ## Beyond the home page (out of scope but can discuss with other teams)  
 
 ### To DISCUSS with Sitewide CONTENT/IA
-6. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**. 
+7. **Change the "mental health" link in the footer to go to the modernized mental health page** that the link in *Popular on VA.gov* goes to. 
 7. **Add "mental health" to the megamenu under health care** as another way to go there. 
 8. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent". 
 9. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
@@ -257,10 +257,10 @@ Below are some potential recommendations based on the usability test findings. A
 4. **Add to *Other search tools* a link to a new content page that contains _all_ education-related search tools**, including *GI Bill Comparison Tool* and *Yellow Ribbon*. 
 
 ### To DISCUSS with other teams
-1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header. _IN PROCESS WITH LAURA_
+13. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. _IN PROCESS WITH LAURA FLATTERY, who is following up on this issue and will add it to a ticket with other improvements to the header_
 2. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in. _HEALTH APT TEAM WORKING ON_
 3. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings: _FIND SOMEONE TO REACH OUT TO_
-     1. The red button in the top right of VA.gov pages wasn't seen by one screen magnifier user on a computer. Future user research should be conducted with screen reader users to see if this issue affects others. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop screen like it does on mobile.
+     1. The red button in the top right of VA.gov pages wasn't seen by one screen magnifier user on a computer. Additional user research should be conducted with screen magnifier users to see if this issue affects others. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop screen like it does on mobile.
      1. On a smartphone, opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
 12. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. _DANIELLE THIERRY TO FOLLOW UP WITH VBA about this published content on TeamSite._
 13. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). _POTENTIALLY FOR ROLLOUT COORDINATION WITH OPIA_
@@ -270,10 +270,10 @@ Below are some potential recommendations based on the usability test findings. A
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 
 # Further research needed
-1. Do **more usability testing with participants who don't have an account on VA.gov**. We'd like to learn about any expectations about having an account *vs.* not having one, and we'd like to see whether people know when to use the "Create account" vs. "Sign in" buttons. We also want to get user feedback on using the *Create account* button, which wasn't didn't happen in this study because all participants already had an account on VA.gov. See if there's any confusion after the button is selected, especially with the modal that has "Sign in" at the top and "Create an account" farther down.
+1. Do **more usability testing with participants who don't have an account on VA.gov**. We'd like to learn about any expectations about having an account *vs.* not having one, and we'd like to see whether people know when to use the _Create account vs. Sign in_ buttons. We also want to get user feedback on using the *Create account* button, which didn't happen in this study because all participants already had an account on VA.gov. See if there's any confusion after the button is selected, especially with the modal that has _Sign in_ at the top and _Create an account_ farther down.
 2. Do **more usability testing with participants who always or frequently use smartphones when browsing the web**. In order to get more such participants, add a screener question for future studies: *How do you normally browse the web--on a smartphone, tablet/iPad, computer? (select as many as apply; recruit from those who mark smartphone)*
 3. Do **more usability testing with participants who always or frequently use screen readers when browsing the web**. In order to get participants who will use screen readers during the research session, add a screener question for future studies: *Do you use a screen reader every time you browse the web? (recruit only if "yes")* 
-4. Do **more usability testing with participants who always or frequently use screen magnifiers when browsing the web** (e.g., ZoomText) to find out whether parts of the home page are not visible to them, such as buttons for Create Account, Veterans Crisis Line, and Feedback. This would help us determine whether p7's difficulty with two of those buttons is shared by other screen magnifier users.
+4. Do **more usability testing with participants who always or frequently use screen magnifiers when browsing the web** (e.g., ZoomText) to find out whether parts of the home page are not visible to them, such as buttons for *Create account*, *Veterans Crisis Line*, and *Feedback*. This would help understand whether p7's difficulty with two of those buttons is shared by other screen magnifier users.
 5. Do more research with participants using smartphones and/or check analytics to **see what proportion of people scroll past the top of the dark blue VA news promo section** to see whether this might be a new "false footer" for some users.
 6. Do more **research that includes the header and footer** to learn more about Veterans' expectations of them as well as assessments of intuitiveness and usefulness of the links there.
 
