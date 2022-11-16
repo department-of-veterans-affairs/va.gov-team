@@ -233,33 +233,37 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 - One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 # Recommendations
-Below are some potential recommendations based on the usability test findings. Any updates on next steps are denoted in CAPS.
+Below are some potential recommendations based on the usability test findings. Any updates on next steps are denoted in _CAPS_.
 ## For the home page redesign effort
-1. Since valuable real estate at the top of the home page isn't being used much (benefit promo and *Create account* button), consider whether **more of the top of the home page could have the most used and useful items** (e.g., *Popular at VA.gov*, Search, *Other search tools*, and maybe the benefit hubs), rather than items with lower usage (e.g., benefit promo, *Create account* button). Maybe we could decrease the size of the PACT Act promo and the *Create account* area.
+1. Since valuable real estate at the top of the home page isn't being used much (benefit promo and *Create account* button), consider whether **more of the top of the home page could have the most used and useful items** (e.g., *Popular at VA.gov*, Search, *Other search tools*, and maybe the benefit hubs), rather than items with lower usage (e.g., benefit promo, *Create account* button). Maybe we could decrease the size of the PACT Act promo and the *Create account* area. _NOT DOING_
 > *"Want in first view [at top], not scrolling scrolling scrolling...The most important things should be at the top or under the menu instead of scrolling" (p1).*
-2. **Make links under *Popular on VA.gov* more task-oriented** with destinations that are different from the benefit hubs (whose descriptions mention exploring and applying), such as the following:
+2. **Make links under *Popular on VA.gov* more task-oriented** with destinations that are different from the benefit hubs (whose descriptions mention exploring and applying), such as the following: _IN PROCESS_
      1. Instead of "VA health care", "Manage my VA benefits" could open the sign-in dialog and then go to the authenticated *My Health* page. Or, it could be a specific health care task-focused link, such as "Message my doctor". 
      1. Instead of "Disability", "Apply for disability or a disability increase" could go to the disability application page.
      1. Instead of "Education", "Apply for education benefits" could go to the education application page. Alternatively, this could instead be another top task, such as "Check or update your current education benefits" or "Verify your monthly school enrollment", which would both open the sign-in dialog and go to the appropriate authenticated page for doing that task. 
-4. **Add a link for the *GI Bill Comparison Tool* to *Other search tools*** because it's a search tool that was difficult for participants to find when trying to compare education benefits by school. 
-5. **Make links under *Popular on VA.gov* more visually appealing** so they look less like unformatted footer links. This could include colors and/or icons (like the benefit hubs), or even just a carat in front of each link.
-6. **Make the *More VA News* link more visually prominent** because it's not noticed by many people.
-7. **Consider adding a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022", perhaps styled like the "VA NEWS" heading in the news promo). 
-
+4. **Add a link for the *GI Bill Comparison Tool* to *Other search tools*** because it's a search tool that was difficult for participants to find when trying to compare education benefits by school. _NOT DOING BUT WILL ADD TO POPULAR LINKS_
+5. **Make links under *Popular on VA.gov* more visually appealing** so they look less like unformatted footer links. This could include colors and/or icons (like the benefit hubs), or even just a carat in front of each link. _IN DISCUSSION_
+6. **Make the *More VA News* link more visually prominent** because it's not noticed by many people. _NOT DOING NOW_
+7. **Consider adding a header and a date or "new!" to the benefits promo box** so people know it's relevant to VA benefits and also current (i.e., "VA BENEFIT NEWS 11/4/2022", perhaps styled like the "VA NEWS" heading in the news promo). _NOT DOING NOW_
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
-1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header.
-2. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in.
-4. Instead of adding a a link specifically for the *GI Bill Comparison Tool* **to *Other search tools*, we could link to a new content page that contains _all_ education-related search tools**, including *GI Bill Comparison Tool* and *Yellow Ribbon*.
-4. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**, and add "mental health" to the megamenu under health care as another way to go there.
-5. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
-6. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
-7. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
-8. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings:
+
+### To DISCUSS with Sitewide CONTENT/IA
+6. **Change the "mental health" link in the footer to go to the modernized mental health page that the link in Popular goes to**. 
+7. **Add "mental health" to the megamenu under health care** as another way to go there. 
+8. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent". 
+9. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
+10. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
+4. **Add to *Other search tools* a link to a new content page that contains _all_ education-related search tools**, including *GI Bill Comparison Tool* and *Yellow Ribbon*. 
+
+### To DISCUSS with other teams
+1. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. Laura Flattery is following up on this issue, which will be added to a ticket with other improvements to the header. _IN PROCESS WITH LAURA_
+2. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in. _HEALTH APT TEAM WORKING ON_
+3. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings: _FIND SOMEONE TO REACH OUT TO_
      1. The red button in the top right of VA.gov pages wasn't seen by one screen magnifier user on a computer. Future user research should be conducted with screen reader users to see if this issue affects others. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop screen like it does on mobile.
      1. On a smartphone, opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
-9. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. Danielle Thierry plans to followup with VBA about this published content on TeamSite.
-10. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)).
+12. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. _DANIELLE THIERRY TO FOLLOW UP WITH VBA about this published content on TeamSite._
+13. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). _POTENTIALLY FOR ROLLOUT COORDINATION WITH OPIA_
 
 # Next Steps
 
