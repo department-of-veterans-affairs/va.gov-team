@@ -43,19 +43,23 @@
 - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 - [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
 - [Investigate low pre-check-in completion percentages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49704) (Adrian)    
+- [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
   
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - Update product artifacts (Kelly)
+    - Let Randi know so she can publish the resource page (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update product artifacts (get them ready but do not publish) (Kelly)
     - Update design artifacts (get them ready but do not publish) (Zach)
+    - Add GA Events (Ben)
 - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) (Kelly)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Start final wireframes (Zach/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Convert Research Plan to remote study (Ben)
     - Start conversation guide (Ben)
+    - Define Content for SMS Confirmation Message with Claim Number
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Hold design intent review 
 
