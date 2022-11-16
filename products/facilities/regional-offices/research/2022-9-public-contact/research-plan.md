@@ -26,13 +26,15 @@ The primary goals of this research are to understand from the perspectives of th
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE to inform a future direction for:
-* Development of the VBA facility product
+* Development of the VBA Regional Office facility product
 * The scope of the Regional Office product and what, if any, other facilities may be included in the scope (e.g. Satellite Regional Offices, Veteran Readiness Offices, etc)
 * The plan for the MVP and the full rollout of the CMS to all VBA Regional Office facilities
 * Future research for the VBA project
 * Gain insights from the front-line Public Contact staff in other possible areas where a website, data, or self-service mechanisms may be incorporated in a possible roadmap of the Regional Office product or other product roadmaps
 
 ## Hypothesis
+FIX THIS PART
+
 * This research will surface complexities and nuances in how different VBA facilities deliver their services to Veterans that should inform the design of the VBA facilities product.
 
 ## Research Questions
