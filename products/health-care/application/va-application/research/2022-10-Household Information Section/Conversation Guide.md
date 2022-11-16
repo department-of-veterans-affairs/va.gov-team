@@ -17,7 +17,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [Jessica/Nick] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
 - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
@@ -61,6 +61,8 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 
 [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
+[Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
+
 
 
 ## Task: Start application - 5 minutes
@@ -89,7 +91,6 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
-- [New gender identity question, content on page, interaction with additional info content, comment on order or labels of choices]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
@@ -130,7 +131,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 ## Primary Task 2: Marital status and spouse information - 5 minutes
 - (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
-- (If selected Married/Separated for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
+- For this scenario, pretend you are currently married and complete the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
@@ -147,6 +148,9 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - (When selected yes) Complete the questions about your first dependent.
 - For this scenario, you have multiple children. How would you add them to this application?
 
+[**Participant prompt info if needed**]
+- [Two children. Billy is 14 years old and Sarah is 19.]
+
 **Participant questions:**
 - What worked well for you?
 - What was unclear or didn’t work well for you?
@@ -162,7 +166,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 
 ## Primary Task 4: Editing and removing a dependent - 3 minutes
-- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
+- You realized you answered the birth date question incorrectly and you need to go back and fix it. How would you go about doing that?
 - Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
 
 ### Things to watch for:
