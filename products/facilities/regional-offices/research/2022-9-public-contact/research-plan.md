@@ -33,9 +33,9 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * Gain insights from the front-line Public Contact staff in other possible areas where a website, data, or self-service mechanisms may be incorporated in a possible roadmap of the Regional Office product or other product roadmaps
 
 ## Hypothesis
-FIX THIS PART
-
-* This research will surface complexities and nuances in how different VBA facilities deliver their services to Veterans that should inform the design of the VBA facilities product.
+* The existing [VBA service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/services-taxonomy#original-list-of-services) does not accurately refelct the breadth of benefit-related tasks that can be accomplished at Regional Benefit Offices
+* A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
+* The typical Veteran experience at Regional Benefit Offices is generally positive
 
 ## Research Questions
 
