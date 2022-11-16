@@ -2,6 +2,7 @@
 
 ## Date: 11/16/2022
 MC: Brian Riley
+
 Notetaker: Marci McGuire
 
 ### Notes
