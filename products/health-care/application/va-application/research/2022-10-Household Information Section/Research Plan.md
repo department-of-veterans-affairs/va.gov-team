@@ -262,10 +262,6 @@ We will request partipants with critera that were not covered in the studies con
 |Low tolerance for cognitive overload                         |          3 |
        
 
-### Screener
-
-- Do you (xyz)? [answer should be yes to qualify]
-
 
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -298,7 +294,7 @@ We will request partipants with critera that were not covered in the studies con
 Team Availability | Time (ET)
 ------------------|--------------
 Tuesday, December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
-Wednesday, Decmeber 7, 2022  | 5pm - 7pm 
+Wednesday, December 7, 2022  | 5pm - 7pm 
 Thursday, December 8, 2022  | 1:30pm - 6:30pm 
 Friday, December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
 
