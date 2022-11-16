@@ -1,6 +1,7 @@
 # Research Plan for VBA MVP Public Contact Staff Interviews
+
 ## Background
-7 Veteran Benefit Administration (VBA) Regional Office (RO) facilities will be involved in the launch of the [Minimal Viable Product (MVP) for publishing VBA facility information](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/10191) in Drupal starting in late 2022/early 2023.
+7 Veteran Benefit Administration (VBA) Regional Office (RO) facilities will be involved in the launch of the [Minimal Viable Product (MVP) for publishing VBA facility information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/design) in Drupal starting in late 2022/early 2023.
 
 The MVP will give the designated CMS editors a basic set of functionality to publish information about their facility operations on VA.gov so Veterans can successfully plan their next visit and perform other key tasks.
 
