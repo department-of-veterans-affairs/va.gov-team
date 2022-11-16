@@ -233,6 +233,7 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 - One pilot participant on a smartphone thought it was strange that when you opened the Veterans Crisis Line link in the footer of the home page, closing the dialog returned you to the top of the page. They expected to return to the footer where they had opened the link.
 
 # Recommendations
+Below are some potential recommendations based on the usability test findings. Any updates on next steps are denoted in CAPS.
 ## For the home page redesign effort
 1. Since valuable real estate at the top of the home page isn't being used much (benefit promo and *Create account* button), consider whether **more of the top of the home page could have the most used and useful items** (e.g., *Popular at VA.gov*, Search, *Other search tools*, and maybe the benefit hubs), rather than items with lower usage (e.g., benefit promo, *Create account* button). Maybe we could decrease the size of the PACT Act promo and the *Create account* area.
 > *"Want in first view [at top], not scrolling scrolling scrolling...The most important things should be at the top or under the menu instead of scrolling" (p1).*
