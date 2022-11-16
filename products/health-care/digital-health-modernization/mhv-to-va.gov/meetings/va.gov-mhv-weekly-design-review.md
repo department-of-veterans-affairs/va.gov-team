@@ -1,5 +1,44 @@
 # VA.gov / MHV Weekly Design Review meeting note log
 
+## Date: 11/16/2022
+MC: Brian Riley
+Notetaker: Marci McGuire
+
+### Notes
+- No design, research, or dev demos this week
+
+#### Round-Robin Updates
+* Secure Messaging
+  * UCD: Secure messaging usability testing ongoing.  Added more sessions to balance age groups as first round skewed younger
+  * Development: Front-end dev continued. Working on tickets to get ready for midpoint review
+  * Testing: Synching up test cases with screens.  There are some possible issues that need to be discussed with UCD.
+  * Product: Working on artifacts for midpoint review; staging review pushed out closer to Phase 0 
+
+* Medical Records
+  * UCD: Synthesizing user interviews; readout and strategy meetings tomorrow and Friday.
+  * Development: No updates 
+  * Product: Bryan is meeting with 6-7 MHV developers next week and will be reviewing the onboarding documentation on GitHub; may be the team who will build Medical Records
+- Patty asked if the concept of search my record is something we are aware of? Were those requirements handed over to us?  She doesn't want that to drive our design, but wants to know it is being considered.  Jonathan confirmed that it is.
+
+#### Topic 1 - Road Map
+- Marci walked through the road map
+   - Ro asked what tool this was; it's ZenHub on top of GitHub
+   - Most teams on VA.gov use ZenHub; gives us a bird's eye view of all the teams involved
+
+#### Topic 2 - Phase 0 for Secure Messaging
+- Lauren is trying to find out definitively if  we are indeed blocked by the unified T&C; Carnetta may be the only person who can answer that
+- Ro said that is the same conversation she had with Carnetta
+- Haritha is writing the account creation API and they have a dependency on the unified T&C
+- Carnetta will be back next week and we can find out about T&C
+- Lauren would like the white list for Phase 0 to be 100-200 people at a minimum
+- Ro asked if this is different than the Pharmacy on VA.gov, which we already have; they weren't blocked by Terms & Conditions
+- Lauren - We need to, by the end of the year, define what must be true to move into each phase of the rollout
+	- Needs to cross each discipline
+	- Marci is working on a draft that we can collaborate on; will put in a Mural board
+		- Patty's team refers to that as success criteria
+		- We may be able to work on this together during PI planning
+
+
 ## Date: 11/9/2022
 MC: Bryan Riley  
 Notetaker: Coulton Bunney
