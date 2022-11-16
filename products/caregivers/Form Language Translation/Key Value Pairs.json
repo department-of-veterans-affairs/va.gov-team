@@ -6,25 +6,36 @@
     "XXX": "Step 1of 5: Veteran Information",
     "XXX": "Please complete all the following information.",
     "XXX": "Veteran’s first name (*Required)",
+    "XXX": "Please enter Veteran’s first name",
     "XXX": "Veteran’s middle name",
     "XXX": "Veteran’s last name (*Required)",
+    "XXX": "Please enter Veteran’s last name",
     "XXX": "Veteran’s Social Security number or tax identification number (*Required)",
+    "XXX": "Please enter a Social Security or tax identification number",
     "XXX": "Why is this required?",
     "XXX": "We need the Veteran’s Social Security number or tax identification number to process the application when it’s submitted online, but it’s not a requirement to apply for the program.",
     "XXX": "Veteran’s date of birth (*Required)",
     "XXX": "Month",
     "XXX": "Day",
     "XXX": "Year",
+    "XXX": "Please enter a date",
     "XXX": "Veteran’s sex",
     "XXX": "Female",
     "XXX": "Male",
     "XXX": "Veteran contact information",
     "XXX": "Veteran’s current street address (*Required)",
+    "XXX": "Please enter a street address",
     "XXX": "Street address line 2",
     "XXX": "City (*Required)",
+    "xxx": "Please enter a city",
     "XXX": "State (*Required)",
+    "xxx": "Please enter a state",
     "XXX": "Postal code (*Required)",
+    "xxx": "Please enter a postal code",
+    "xxx": "Please enter a valid 5- or 9-digit postal code (dashes allowed)",
     "XXX": "Veteran’s primary telephone number (including area code) (*Required)",
+    "xxx": "Please enter a phone number",
+    "xxx": "Please enter a 10-digit phone number (with or without dashes)",
     "XXX": "Veteran’s alternate telephone number (including area code)",
     "XXX": "Note: Including an email address on your application is optional, but it helps us contact you faster if we need to follow up with you. If you don’t include an email address, we’ll use your phone and address to contact you. We’ll always mail you a copy of our decision on your application.",
     "XXX": "Veteran’s email address",
@@ -35,13 +46,16 @@
     "XXX": "Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services.",
     "XXX": "A Caregiver Support Coordinator at this VA medical center will review your application.",
     "XXX": "State (*Required)",
+    "xxx": "Please provide a response",
     "XXX": "VA medical center (*Required)",
+    "xxx": "Please select a valid option",
     "XXX": "Step 2 of 5: Primary Family Caregiver applicant information",
     "XXX": "Would you like to apply for benefits for a Primary Family Caregiver?(*Required)",
     "XXX": "Learn more about who qualifies as a Primary Family Caregiver",
     "XXX": "Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran. They can be the Veteran’s: Parent  Spouse  Son or daughter  Stepfamily member  Grandchild  Significant other  Friend or neighbor  Other relative",
     "XXX": "Yes",
     "XXX": "No",
+    "xxx": "Please provide a response",
     "XXX": "Please complete the following information about the Primary Family Caregiver.",
     "XXX": "Primary Family Caregiver’s first name(*Required)",
     "XXX": "Primary Family Caregiver’s middle name",
@@ -178,20 +192,19 @@
     "XXX": "
     "XXX": "
     "XXX": "
-    "XXX": "Please enter Veteran’s first name",
-    "XXX": "Please enter Veteran’s last name",
-    "XXX": "Please enter a Social Security or tax identification number",
-    "XXX": "Please enter a date",
-    "XXX": "Please enter a street address",
-    "xxx": "Please enter a city",
-    "xxx": "Please enter a state",  
-    "xxx": "Please enter a postal code",
-    "xxx": "Please enter a valid 5- or 9-digit postal code (dashes allowed)",
-    "xxx": "Please enter a phone number",
-    "xxx": "Please enter a 10-digit phone number (with or without dashes)",
-    "xxx": "Please provide a response",
-    "xxx": "Please select a valid option",
-    "xxx": "Please provide a response",
+
+
+
+
+
+
+  
+
+
+
+
+
+
     "xxx": "Please enter Primary Family Caregiver’s first name",
     "xxx": "Please enter Primary Family Caregiver’s last name",
     "xxx": "Please enter a date",
