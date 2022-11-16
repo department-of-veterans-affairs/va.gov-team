@@ -3,13 +3,18 @@
 - **Office Hours** Angela Fowler also hosts two office hours Wednesday's at 5 - 6 PM EST and Friday's at 11:30 - 12:30 AM EST 
 
 
-## 2022-11-2
+## 2022-11-16
 
 ## Attendees
-- 
+- Martha Wilkes 
+- Jonathan Nelson 
+- Anne Costello
+- Bobby Bailey
+- Tiffany Pender 
 
 ## Agenda
-- 
+- Tiffany Pender - readout of the My Health eVet (MHV) Heuristic accessibility evaluation
+
 
 ## Notes
 - 
