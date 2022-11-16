@@ -124,14 +124,14 @@ Data source - Call Center team/TBD
 ## Key deliverables
 
 - Design documentation - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas)
-- [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Household%20section%20redesign/Research)
+- [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section)
 - Technical documentation
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
     - Testing documentation - TestRail
     - Household section test/use cases & users
     - Household section a11y test case documentation
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Research%20Plan.md)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 
@@ -140,7 +140,7 @@ Data source - Call Center team/TBD
 - May 2022: Initial discovery
 - June 2022: Kickoff with outline & begin design
 - Oct 2022: Design work ready
-- ???? 2022: Usability testing kickoff
+- Dec 2022: Usability testing kickoff
 - ???? 2022: Finalize designs, development
 - ???? 2022: Complete QA
 - ???? 2022: Complete UAT
