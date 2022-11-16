@@ -84,7 +84,6 @@ Remote: Zoom
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 - [Link to destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257) - Will be used for task analysis during this study.
-
 - [Link to mobile prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318) - Will be used for task analysis during this study.
 
 	
@@ -273,13 +272,19 @@ We will request partipants with critera that were not covered in the studies con
 ### Prepare
 > When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-> A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email:
+Desktop Prototype
+* Pilot participant email: Matt Long (matt.long@adhocteam.us)
 * Date and time of pilot session: 
 
+Desktop Prototype
+* Pilot participant email:  Lisa Zapson (lisa.zapson@adhocteam.us)
+* Date and time of pilot session: 
+
+
+
 ### Research sessions
-* Planned dates of research: 2 cohorts: Cohort 1 December 6-9, 2022; Cohort 2 Decebmer 19-21, 2022
+* Planned dates of research: 2 cohorts: Cohort 1 December 6-9, 2022; Cohort 2 December 19-21, 2022
 
 
 ### Length of sessions
@@ -319,11 +324,11 @@ TBD               | TBD
 
 	
 ## Team Roles	
-- Moderator: Jessica Stump (jessica.stump@adhocteam.us) 	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us) and Nick Osmanski (nick.osmanski@amida.com)	
 - Research guide writing and task development: Moderator	
 - Participant recruiting & screening: Perigean
-- Project point of contact: 	
-- Participant(s) for pilot test: 
+- Project point of contact: Moderator
+- Participant(s) for pilot test: Matt Long and Lisa Zapson
 - Note-takers: Perigean, 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
