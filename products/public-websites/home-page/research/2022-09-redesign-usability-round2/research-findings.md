@@ -75,11 +75,13 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 1. Compare education benefits by school
 1. File for disability increase
 
-For each task attempted by a participant, we recorded whether they were successful at completing the task or getting to the page where they could log in and then do it. We also asked the participant to rate the ease of finding what they were looking for on a scale from 1 to 5, where 1 is difficult and 5 is easy. During data synthesis, for each task, we computed the success rate and summarized the ratings across participants. We also summarized which areas of the home page were clicked on across participants, and documented usability issues and successes encountered or commented on aloud. 
+For each task attempted by a participant, we recorded whether they were successful at completing the task or getting to the page where they could log in and then do it. We also asked the participant to rate the ease of finding what they were looking for on a scale from 1 to 5, where 1 is difficult and 5 is easy. During data synthesis, for each task, we computed the success rate and summarized the ratings across participants. We also summarized which areas of the home page were clicked on across participants, and documented usability issues and successes encountered or commented on aloud.  
 
 **We talked to 11 people**--9 Veterans, 5 family members of Veterans, 5 caregivers, and 1 service member (some had multiple roles).
 - 8 used a smartphone for the session and 3 used a computer
 - 4 were screen reader users, but 2 used a screen magnifier during the session, and 2 didn't use any assistive technology at all
+- All 11 had VA.gov accounts
+- 10 of 11 had experience with VA healthcare
 
 For more details, see [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#who-we-talked-to).
 
