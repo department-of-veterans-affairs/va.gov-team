@@ -31,13 +31,13 @@
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
 
-## 11/16/2022 - 11/29/2022 ---------------------- FUTURE -----------------------------
+## 11/16/2022 - 11/29/2022 
 
-#### Planned Releases -------------------- TENTATIVE ------------------------------
+#### Planned Releases 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - **NOTE: we need to coordinate with Stephen & Patrick on when to release this**
 
-#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen) 
 - [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
 - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
@@ -45,7 +45,7 @@
 - [Investigate low pre-check-in completion percentages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49704) (Adrian)    
 - [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
   
-#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+#### UX Sprint Goals 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - Update product artifacts (Kelly)
     - Let Randi know so she can publish the resource page (Lori)
@@ -63,7 +63,7 @@
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Hold design intent review 
 
-#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Engineering Sprint Goals 
 - [Production Support]() 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete 
