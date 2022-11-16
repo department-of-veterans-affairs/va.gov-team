@@ -80,7 +80,7 @@ For each task attempted by a participant, we recorded whether they were successf
 **We talked to 11 people**--9 Veterans, 5 family members of Veterans, 5 caregivers, and 1 service member (some had multiple roles).
 - 8 used a smartphone for the session and 3 used a computer
 - 4 were screen reader users, but 2 used a screen magnifier during the session, and 2 didn't use any assistive technology at all
-- All 11 had VA.gov accounts
+- All 11 had VA.gov accounts, though one was created one month ago
 - 10 of 11 had experience with VA healthcare
 
 For more details, see [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#who-we-talked-to).
