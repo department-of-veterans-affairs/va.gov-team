@@ -34,7 +34,7 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 - **Number of bugs identified / fixed:**
      - n
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ____
+     - ...
 
 ## Phase II: Staged Rollout
 
