@@ -10,13 +10,13 @@
 **Tom**: are you ready to monitor performance data for latency, errors, etc?
 - Answer: 
 
-**AJ & Erica**: Is UAT complete?
+**Angela, AJ & Erica**: Is UAT complete?
 - Answer:
 
 **Taylor and Tom**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
-**Taylor**: are you ready to turn on the feature on to 25% of users?
+**Taylor**: are you ready to turn the feature on to 25% of users?
 - Answer: 
 
 **Samara/AJ**: is the Google Analytics/Domo updated to track this product data and are they working as expected?
