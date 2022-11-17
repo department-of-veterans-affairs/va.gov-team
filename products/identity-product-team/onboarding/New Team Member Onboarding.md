@@ -19,7 +19,7 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 - [ ] [Review previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing)
 - [ ] Add [contact information to Project Team tab](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
 
-## CEDAR Identity Project
+## CEDAR Identity Login.gov Adoption Project
 ### Background
 VA needs a streamlined way for Veterans to sign-in and securely access products and services. The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive.
 
