@@ -1,6 +1,6 @@
 # Product outline for IA and navigation
 
-Last Updated: November 17, 2022
+**Last Updated: November 17, 2022**
 
 ## Table of Contents
 
