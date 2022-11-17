@@ -35,6 +35,10 @@
 
 ## Overview
 
+VA.gov is responsible for a ton of information and for catering to multiple audiences -- from veterans, families, and caregivers trying to get and manage their benefits, to internal VA staff, media, and more. It is critical that VA.gov is organized in a way that logically groups a large quantity of information and is navigable by a variety of user types.
+
+The goal of ongoing IA and navigation work is to keep VA.gov organized and navigable as the site grows and changes, especially as the site consolidates both eBenefits and VA.gov into its architecture and functionality. Ongoing IA and navigation work puts heavy and primary focus on the veteran experience, those who may be involved in a veteran's care, and those who are not veterans but may also receive VA benefits themselves (service members, families, dependents, caregivers, etc).
+
 ## Problem Statements
 
 ## Opportunities
