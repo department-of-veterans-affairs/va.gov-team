@@ -58,23 +58,18 @@ The results of this research will be used to develop a future direction for how 
 * Too many notifications will defeat the purpose of having them and we should be judicious with the use of them.
 * Our prototype email conveys all the information an editor needs to fix outdated content.
 
-## Method	
-Semi-structured interviews
+## Method
+
+### Type
+We will use semi-structured interviews to conduct generative research.
 
 ### Location
 Remote via Zoom
 
-### Research materials
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+### Research materials  
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/CMS%20Notifications/Moderated-Interviews-Conversation-Guide.md) (Coming next sprint)
+- Email mockup (Coming next sprint)
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-	
 ## Recruitment	
 
 ### Recruitment approach
