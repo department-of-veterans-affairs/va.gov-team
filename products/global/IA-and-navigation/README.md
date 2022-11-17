@@ -10,7 +10,7 @@ Last Updated: November 17, 2022
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Projects & Initiatives](#projects)
+- [Projects & Initiatives](#projects--initiatives)
 - [Analytics](#analytics)
 - [Backend](#backend) 
 - [Frontend](#frontend)
