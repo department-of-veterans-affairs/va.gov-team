@@ -66,9 +66,9 @@ We collaborate between 8am - 5pm EST. Meetings should be scheduled during this t
 
 ### Tools we use
 - [Github](https://github.com/department-of-veterans-affairs)
-- Slack: #va-identity-product-team
+- Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
 - [Google Drive folder](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=sharing)
-- [Zenhub board](https://app.zenhub.com/workspaces/identity-product-team-632280b31e745000136a61fc/board)Zenhub tag: identity-product-team
+- [Zenhub board](https://app.zenhub.com/workspaces/identity-product-team-632280b31e745000136a61fc/board) Zenhub tag: identity-product-team
 - Mural
 - Sketch
 - [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
