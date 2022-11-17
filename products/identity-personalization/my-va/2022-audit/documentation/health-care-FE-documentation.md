@@ -15,7 +15,7 @@ We show this section for every LOA3 user.
 You have no health care information to show.
 
 **Secondary link**
-- When a user does not have health care, a secondary link should appear for [Learn how to apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#learn-how-to-apply-for-va-health-care-link)
+- When a user does not have health care, a secondary link should appear for [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#learn-how-to-apply-for-va-health-care-link)
 
 **Positioning**
 - The text should appear on the lefthand side on desktop, directly under the "Health care" header.
@@ -151,7 +151,7 @@ If you have trouble accessing the portal, make sure to disable your pop-up block
 
 ---
 
-### Learn how to apply for VA health care link
+### Apply for VA health care link
 
 ![Screen Shot 2022-10-10 at 2 14 09 PM](https://user-images.githubusercontent.com/97965610/194928816-6af42dfc-2dfd-4726-9572-e9b39ebee4af.png)
 
@@ -165,7 +165,7 @@ Use font awesome icon `file-medical` for icon
 
 #### Content
 
-[Learn how to apply for VA health care](https://www.va.gov/health-care/how-to-apply/)
+[Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction)
 
 ---
 
