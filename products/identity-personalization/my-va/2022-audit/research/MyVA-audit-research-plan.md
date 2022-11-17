@@ -33,6 +33,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 - How do users react to loading states and/or errors on the page, especially in sections that don't apply to the user?
 - For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
 - Do users know how to find out more about benefits they are not currently enrolled in?
+- What information or actions do veterans expect to see in the links that we've added to empty sections? Are those links useful to veterans?
 - Do empty sections get in the way of Veterans trying to find out information about their current benefits or bring attention to benefits that Veterans may be interested in?
 
 ### Outcome
