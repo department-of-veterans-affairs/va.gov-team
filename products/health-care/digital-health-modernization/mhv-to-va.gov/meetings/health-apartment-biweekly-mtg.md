@@ -1,5 +1,96 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+## 2022-11-17
+- Medical Records research findings (Robyn)
+- Pharmacy integrations we discussed with Eric Spahn (and the Amazon Alexa play)
+
+### Standup
+
+Eric
+- Medical records API meetings
+
+Marci
+- Rollout gates
+- User interviews
+- Attending/monitoring API progress
+
+Jonathan
+- Looked over Robin's Readout
+
+Mikki
+- Refining IA 
+- Working w/Jenny on research plan
+- Labeling with Danielle
+- Meeting on integrated appointment experience
+- Design working coming up from the MyHealth and Health Hub side
+
+Robyn
+- Analying data and prepping for research readout
+- OOO yesterday
+
+Lauren
+- Identity - outstanding question to validate whether the SSO service and T&C is actually a blocker for Phase 0 watch
+- Cerner data integration - more meetings upcoming with Intermountain
+- Good meetings this week with Eric Spahn and VetText team who have done some good integrations with pharmacy dispensaries 
+- Lots of discussions about where the HA will live; tree tests
+
+Jasmine
+- Continuing on Communication plan
+
+Martha
+- Really nice review of the current MHV from Tiffany
+
+Bobby - No updates
+
+Leah
+- Pitching in a little bit bettween Coulton & Leila
+
+### Parking lot 
+Robyn
+- Wanted to confirm that Alicia will schedule the 
+- Does she need to schedule the OCC? No, but she should reach out to the people Lauren listed eaelier.  Alicia will schedule. 
+- Lauren will schedule the OCTO OCC Meeting
+
+Eric
+- Any update on Healthy Intent people we can talk to ?  Not yet, but Lauren will follow up
+- Did Lauren see the email about CDW? Yes, she's not surprised.  Curious how the convo w/Dave will go.  We'll figure out the 
+- Did Eric go to meeting with Paras and team? Yes.  Are dispensaries a possible data source? Eric needs to find out more; convo wasn't focused on that.  Eric to follow up.  Problem is that the VA may prescribe an brand name and Veteran gets generic, but they dont get that data back.  We may be able ot integrate with Cerner's pharmacy package to get that level of data.  Paras said they have an integration with the dispensaries already for Vet-Text.  In theory, dispensary data could be a really good source of Cerner and VA medication data.
+
+### Generative research readout - Robyn Singleton
+#### High level findings
+- Purpose was to understand how participants use or would like to use their personal health records
+- How they use terminology for reports found on MHV
+- Terms participants use for medical records
+- 24 sessions scheduled, 15 conducted
+- Reviewed Mural notes and grouped liked items
+- Participants did a reviewed card sort
+- Robyn reviewed the transcripts and notes
+- Identified recurring patterns and outliers
+- Wrote notes
+- Drew from multiple interviews to create composite narratives (use cases).  Not all-encompassing - purpose is to provide storied context.
+- Not all results are being presented today. Use cases and categories only.  Full report will be fleshed out tomorrow.  [PDF of this presentation](https://dsva.slack.com/files/U038DEY7X3J/F04BCPY2ACD/medical_records_generative_research__use_cases___conceptual_categories.pdf) is in the medical records Slack channel. 
+- Look at the results as a way of thinking of medical records, not how everyone thinks about medical records.
+- Please see [the PDF](https://dsva.slack.com/files/U038DEY7X3J/F04BCPY2ACD/medical_records_generative_research__use_cases___conceptual_categories.pdf) and full report for details.  
+- There is a [related Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1668528750423/ac42daff994a721566d92e639e606d8ddc9b5fc9?sender=u71ad98f94f5263595f9a4390) that shows the way information was anchored
+
+#### Questions, Comments about findings
+- A lot of the way MHV supplies data is via download - was there interest in being able to just view?  Yes, there was.  They described viewing, even if the PDF opens in another tab.  Folks who didn't want to download the whole BB report would sometimes screen shot and create their own "custom" view
+- Did anything invalidate the domain by domain approach and job to be done approach?  The way we talked about it, evaluating and clustering domains makes sense.  Going one by one by one probably does not make sense.  Jonathan is going to facilitate the strategy session tomorrow.
+- What is Robyn's take on participants who wanted to include medications in "About me". Did they mention current medications or everything?  Older Veterans wanted to see all meds.  Younger were more interested in what was immediately relevant.  It would be interested to see 
+- Yeah I remember a p mentioning that they referenced that old list to see the name of something they used to take but no longer, but wanted to bring up to their provider b/c they liked the old one better or something
+- Me to Everyone (2:46 PM)
+- Lauren - I remember a similar comment in one I attended
+- They said if there was a med that actually worked for them, they wanted to ask for it again
+- Lauren Alexanderson to Everyone (2:46 PM)
+- I’d def recommend elevating that “time’ element in here
+- People wanted information segmented by condition.  Some were segmented by hospital visit vs. popping in for an hour.
+- Anything surprising?  Hadn't really thought about medical records this deeply. but probably the way people thought about "About Me"
+- Demographics or insurance info would be a place outside of the apartment
+- The other thing we need to connect dots on this and the unified apartment experience (make, view, cancel, check in, get beneficiary travel, after visit summary).  We'e going to get in a space where medical records and appointments overlap.
+- Anything that contradicted the proposed IA options? Robyn would have to re-look at them.   Jonathan agreed that logically they made sense.  Maybe where there's an opportunity is the differences - would people look at medical records. 
+- Marci mentioned that she talked to Jonathan about whether people would think to look for info about a current condition in Medical History
+- People mostly talked about sorting things in reverse chronological order (newest first)
+- Samara has talked about having a notification center and Lauren has wondered if we expand that from new secure message or new lab result - could we think about it as an action center, maybe group things by what they want to take action on.
 
 ## 2022-11-14 
 
