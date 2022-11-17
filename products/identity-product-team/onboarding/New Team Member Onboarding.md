@@ -34,6 +34,10 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
 
 Learn more about the key priorities in [previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing).
 
+
+### VA Product Owner
+- John Rahagi
+
 ### Your team
 - Elizabeth Koch (Product Owner, Key Personnel)
 - Steven Dickson (Engineer Lead, Key Personnel)
@@ -62,9 +66,9 @@ We collaborate between 8am - 5pm EST. Meetings should be scheduled during this t
 
 ### Tools we use
 - [Github](https://github.com/department-of-veterans-affairs)
-- Slack
+- Slack: #va-identity-product-team
 - [Google Drive folder](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=sharing)
-- [Zenhub board](https://app.zenhub.com/workspaces/identity-product-team-632280b31e745000136a61fc/board)
+- [Zenhub board](https://app.zenhub.com/workspaces/identity-product-team-632280b31e745000136a61fc/board)Zenhub tag: identity-product-team
 - Mural
 - Sketch
 - [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
