@@ -147,12 +147,19 @@ As in the previous round of usability testing, **5 of 11 participants tended to 
 ### 3. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
 Of the 9 tasks in this study, 6 of them can be directly compared with the previous round of testing. 
 - ***Message your doctor* had the lowest task success rate, which was *lower than the previous round of usability testing*** (**55%** this time *vs.* 83% before). 5 of 11 participants used the new *VA health care* link in *Popular*, but others were confused because they're accustomed to doing this task in MyHealtheVet, not VA.gov. One person thought the thought the *VA Health care* link would be about applying and so didn't click on it.
-- **Two other tasks also had low success rates**: *Compare education benefits by school* and *Learn what else is new from the VA.*
 - **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
+
+5 of the 9 tasks were successfully completed by at least 70% of those who tried them.
+- Besides *Message your doctor*, **3 other tasks also had low success rates**: 
+  - *Compare education benefits by school* 
+  - *Learn what else is new from the VA*
+  - *Add spouse (Review/update dependents)*
+
 - Most participants (9 of 10) were able to successfully complete the *Show you're a Veteran* task, and so **having no task-oriented links for Veteran ID cards and benefit letters seems OK**. 
 
-- Below is the summary of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
-- Below is a summary of why some tasks were difficult for some participants and what might help make them easier (some of which are out of scope for the home page redesign):
+Below is a summary table of all task success rates and participant ratings of difficulty: ![task-success&ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/images/task-success%26ratings.png)
+
+Below is a summary of why some tasks were difficult for some participants and what might help make them easier (some of which are out of scope for the home page redesign):
 
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
