@@ -43,13 +43,13 @@ Martha
 Bobby - No updates
 
 Leah
-- Pitching in a little bit bettween Coulton & Leila
+- Pitching in a little bit between Coulton & Leila
 
 ### Parking lot 
 Robyn
 - Wanted to confirm that Alicia will schedule the 
-- Does she need to schedule the OCC? No, but she should reach out to the people Lauren listed eaelier.  Alicia will schedule. 
-- Lauren will schedule the OCTO OCC Meeting
+- Does she need to schedule the review with other OCTO teams? No, but she should reach out to the people Lauren listed eaelier.  Alicia will schedule. 
+- Lauren will schedule the OCTO OCC Meeting.
 
 Eric
 - Any update on Healthy Intent people we can talk to ?  Not yet, but Lauren will follow up
