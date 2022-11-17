@@ -13,7 +13,7 @@ Applicants can be either authenticated or unauthenticated to access this applica
 ## Contents
 <details>
   <summary>Link to designs</summary>
-  - [Sketch flow of Household section]()
+  [Sketch flow of Household section](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
 </details>
 <details>
   <summary>Instructions to access in Staging (or Prod for Drupal) (Note: credentials should be stored in sensitive repos only)</summary>
@@ -30,8 +30,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 ## Use Cases
 
 ### Use Case A
-* **Applicant does not want to disclose their financial information**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant does not want to disclose their financial information**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **No** radio button, indicating they do not wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -39,8 +39,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   6. Applicant clicks the **Continue** buton and proceeds through the rest of the application.
 
 ### Use Case B
-* **Applicant wants to diclose their financial information, is not married, and has no dependents**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to diclose their financial information, is not married, and has no dependents**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -54,8 +54,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   12. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case C
-* **Applicant wants to disclose their financial information, is married, and has no dependents; lives with spouse**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has no dependents; lives with spouse**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -78,8 +78,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   21. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case D
-* **Applicant wants to disclose their financial information, is married, and has no dependents; does not live with spouse, does not provide financial support**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has no dependents; does not live with spouse, does not provide financial support**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -104,8 +104,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   24. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case E
-* **Applicant wants to disclose their financial information, is married, and has no dependents; does not live with spouse, does provide financial support**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has no dependents; does not live with spouse, does provide financial support**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -131,8 +131,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   24. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case F
-* **Applicant wants to disclose their financial information, is married, and has at least one dependent; lives with spouse**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has at least one dependent; lives with spouse**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -163,8 +163,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   29. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case G
-* **Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does not provide financial support**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does not provide financial support**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -198,8 +198,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
   32. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case H
-* **Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does provide financial support**
-*   1. Applicant reviews the explaining how the VA will use their financial information.
+**Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does provide financial support**
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -235,7 +235,7 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 ### Use Case I
 * **Applicant wants to disclose their financial information, is not married, and has at least one dependent**
-  1. Applicant reviews the explaining how the VA will use their financial information.
+  1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
   4. Applicant clicks the **Continue** button.
@@ -255,4 +255,3 @@ Applicants can be either authenticated or unauthenticated to access this applica
   18. Applicant clicks the **Continue** button.
   19. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
   20. Applicant clicks the **Continue** button and proceeds through the rest of the application.
----
