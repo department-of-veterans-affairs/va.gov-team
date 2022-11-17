@@ -150,7 +150,7 @@ Of the 9 tasks in this study, 6 of them can be directly compared with the previo
 - **Five tasks *improved* since the previous round of usability testing**, though the amount of gain varied.
 
 5 of the 9 tasks were successfully completed by at least 70% of those who tried them.
-- Besides *Message your doctor*, **3 other tasks also had low success rates**: 
+- Besides *Message your doctor*, **3 other tasks also had low success rates** (60-63%): 
   - *Compare education benefits by school* 
   - *Learn what else is new from the VA*
   - *Add spouse (Review/update dependents)*
