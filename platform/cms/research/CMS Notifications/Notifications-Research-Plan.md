@@ -73,45 +73,48 @@ Remote via Zoom
 ## Recruitment	
 
 ### Recruitment approach
-Intended audience for this research: Editors
-How we recruit them: Erika sent out a survey to willing participants. Need more info on this. 
+CMS editors at Vet Centers and VAMC Facilities are the intended audience of this research. Erika Washburn sent out [a survey](https://www.surveymonkey.com/r/R5TNFVX) by email to gather any willing participants. The results of the recruitment survey can be found [here](https://www.surveymonkey.com/analyze/3UKypg_2B3rgb7ogyPK29ScPq5sSsXFquw5Bc_2Bgogs5DU_3D?tab_clicked=1). Our goal is to eventually create a bank of willing research participants that we can pull from for future research sessions. We plan to do this by using the snowball sampling method when working with VA employees. At the end of each research session, we will:
 
-Use snowball sampling when working with VA employees. At the end of our study:
-
-- Ask key informant if there’s anyone else they know that they would recommend us to talk to.
+- Ask our research participant if there’s anyone else they know that they would recommend us to talk to.
 - Ask if they can introduce us to them or if we can CC them on an email for credibility on contact.
 
-
 ### Recruitment criteria
-
-Number of participants: 5
-
-Experience, geographic location, and scenarios of participants
-
-Not surveyed in the past.
-
-Someone from every facility type.
-- VBA
-- VAMC
-- Vet Center
+* 6 Participants Minimum
+* 3 Editors from Vet Centers
+  * 1 Editor - Confidence Level: Low
+  * 1 Editor - Confidence Level: Medium
+  * 1 Editor - Confidence Level: High
+* 3 Editors from VAMC Facilities
+  * 1 Editor - Confidence Level: Low
+  * 1 Editor - Confidence Level: Medium
+  * 1 Editor - Confidence Level: High
+* Not surveyed in the past.
+* No editors from the same facility
 
 ### Prepare
-A pilot session is optional. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+We will be conducting a pilot session with internal members of the VFS team in preparation for our interviews with actual editors. This will allow time for feedback and any necessary adjustments to research materials before starting our research sessions in sprint 73 (December 5-16, 2022)
+
+- Pilot participant: Bentley Hensel (bentley.hensel@civicactions.com) 
+- Date and time of pilot session: Nov 30, 2022 at 3 PM Central
 
 ### Research sessions
-* Planned dates of research: TBD
+During Sprint 73 (December 5-16, 2022) we will be conducting research sessions Monday through Thursday with one morning session and one afternoon session each day. This will allow for plenty of available timeslots to fit the schedules of our research participants.
+
+- Morning Sessions: 11 AM - 11:30 AM Central
+- Afternoon Sessions: 2 PM - 2:30 PM Central
 
 ### Length of sessions
 * Session length: 30 minutes
 
 ## Team Roles		
-- Moderator: Blake Organ	
-- Research guide writing and task development: Blake Organ	
-- Participant recruiting & screening: Blake Organ, Erika Washburn	
-- Project point of contact: Blake Organ	
-- Participant(s) for pilot test: TBD	
-- Note-takers: Dave Pickett, Jordan Wood	
- 
+These people will be serving in each role.
+
+- Moderator: Blake Organ
+- Research guide writing and task development: Blake Organ
+- Participant recruiting & screening: Blake Organ, Erika Washburn
+- Project point of contact: Blake Organ
+- Participant(s) for pilot test: Blake Organ, Bentley Hensel, Dave Pickett, Erika Washburn, Jordan Wood
+- Observers: Members from the Sitewide CMS Team and Facility Team. Potentially members from VHA Digital Media and Dave Conlon.
+- Note-takers: Dave Pickett, Jordan Wood
+
 
