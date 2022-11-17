@@ -236,6 +236,7 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 ### Additional instructions  
 ALL participants must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. They also need to:
   - be willing to log into their VA.gov account and share over Zoom in a web browser window on their device
+  - Provide the email that they use to log in to VA.gov prior to the session (please include this email in the tracker information)
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
 
