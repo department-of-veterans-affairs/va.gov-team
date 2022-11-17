@@ -108,7 +108,7 @@ For more details, see [Who we talked to](https://github.com/department-of-vetera
      1. FALSE: Only 4 of 11 participants went there to click on _More VA news_ when asked about VA stories, and everyone else looked elsewhere. The featured Pathfinder article didn't look like news, and the _More VA news_ link was small and overlooked.
 
 # Key Findings
-1. **A few participants focused their attention on a specific part of the home page, while others scrolled up and down the home page more fluidly**. 
+1. **Almost half of participants focused their attention on a specific part of the home page, while the rest scrolled up and down the home page more fluidly**. 
 1. **Many participants got stuck on some of the tasks, and when that happened, most *didn't* try to use search.**
 2. Compared to the previous round of usability testing, **5 tasks performed better and 1 fared worse in successful completions**.
 3. **Some participants didn't click on either of the promos**. 
@@ -118,9 +118,9 @@ For more details, see [Who we talked to](https://github.com/department-of-vetera
 # Details of Findings
 ## In-scope findings for home page redesign
 
-### 1. A few participants focused their attention on a specific part of the home page, while others scrolled up and down the home page more fluidly.
+### 1. Almost half of participants focused their attention on a specific part of the home page, while the rest scrolled up and down the home page more fluidly.
 
-As in the previous round of usability testing, some participants tended to **focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular on VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more fluidly while working on tasks. 
+As in the previous round of usability testing, **5 of 11 participants tended to focus their attention on a specific part of the home page**--often either the header (2 on phones and 1 on desktop) OR the *Popular on VA.gov*, Search, and *Other search tools* (2 on phones). Others scrolled up and down the home page more fluidly while working on tasks. 
 - **Most participants (8 of 11) used the links in *Popular on VA.gov*.** Next most used were the header (7 of 11), benefit hubs (6 of 11), and footer (6 of 11). Fewer people used *Other search tools*, the two promos, and the new search box. No participants used *Create account*, probably because all already had a VA.gov account. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who clicked on each area of the page. 
 - There were **3 participants who had less experience using VA.gov than the other 8 people. The parts of the home page used by these two subsets of participants were similar**, with the highest usage being *Popular on VA.gov*, followed by the header, footer, and benefit hubs in slightly different orders. The more experienced participants made more use of *Other search tools* and the two promos.
 - We can compare the home page click results from this study with the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and the last year's [Baseline Wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md). From the comparison of the data from 3 research studies below, we can see that **people seem to be scrolling farther down the redesigned home page without the presence of the false footer--so making better use of the entire home page. There are also more clicks on the benefit hubs and footer**, perhaps because fewer task-focused links are included in the body of the hoem page. We make only these broad conclusions because of the following caveats:
