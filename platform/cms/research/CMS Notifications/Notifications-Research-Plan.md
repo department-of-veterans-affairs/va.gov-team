@@ -43,15 +43,13 @@ This research supports the following [OCTO objectives](https://github.com/depart
 The results of this research will be used to develop a future direction for how to inform CMS editors about any relevant information or action items and provide an easy way to directly access the content in order to act on the notification.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
-Reframe these as questions:
-- Gain a better understanding of how editors would like to receive notifications.
-- Gain a better understanding of the things that editors want to be notified of.
-- Gain a better understanding of what pain points editors are currently experiencing when receiving relevant information or action items.
+* How familiar are editors with VA Directive 6102?
+* What pain points are editors currently experiencing when receiving information or action items from the VA about updates needed in the CMS?
+* Which notification format would be most effective in driving editors to take action within the CMS?
+  * Email Notifications
+  * Notifications within the CMS
+  * A combination of both
+* Once 6102 notifications are implemented, what are some other things we can notify editors of that will directly benefit veterans accessing VA content?
 
 ### Hypothesis
 Outdated content on VA websites can easily lead to information that doesn't match the operational reality of VA facilities. Veterans trust that the information on VA websites will be accurate and up to date, but when that is not the case veterans will be confused which could potentially lead to a mistrust of the information that is on VA websites.
