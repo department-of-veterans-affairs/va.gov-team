@@ -165,7 +165,7 @@ Use font awesome icon `file-medical` for icon
 
 #### Content
 
-[Learn how to apply for VA health care](https://va.gov/health-care/apply/application/introduction)
+[Learn how to apply for VA health care](https://www.va.gov/health-care/how-to-apply/)
 
 ---
 
