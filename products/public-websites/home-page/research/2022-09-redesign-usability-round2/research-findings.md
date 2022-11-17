@@ -64,7 +64,7 @@ In this research, we were primarily interested in the following areas of the hom
 - Benefit hubs
 
 # Methodology 
-We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the _Popular on VA.gov_ section of the redesigned home page, while others were not. Below is the complete list of 8 tasks:
+We conducted **remote moderated usability sessions via Zoom**. Participants were asked a few questions about their experiences with VA benefits, and then were given tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some of the top tasks were listed in the _Popular on VA.gov_ section of the redesigned home page, while others were not. Below is the complete list of 9 tasks:
 1. Message your doctor
 1. Show you're a Veteran (benefit letter or Veteran ID card)
 1. Find mental health counselor/therapist
@@ -101,7 +101,7 @@ For more details, see [Who we talked to](https://github.com/department-of-vetera
 3. Participants will know when to use the _Sign in_ *vs.* _Create account_ buttons.
      1. UNKNOWN: All participants in this study already had accounts on VA.gov that they could use to sign in, and many of them knew to use the _Sign in_ button. We still need to see what participants without accounts would do.
 4. The home page supports multiple ways of navigating, and participants will find a way to complete every task--i.e., there's a navigation path that works for them. 
-     1. PARTLY TRUE: 5 of 8 tasks had at least 73% success, so the home page supports task completion and multiple ways of navigating. However, 10 of 11 participants got stuck on at least one task, so some participants weren't able to find a way to complete every task. 
+     1. PARTLY TRUE: 5 of 9 tasks had at least 73% success, so the home page supports task completion and multiple ways of navigating. However, 10 of 11 participants got stuck on at least one task, so some participants weren't able to find a way to complete every task. 
 5. Participants understand that the top promo is about benefits or services for Veterans.
      1. FALSE: Only 3 of 11 participants went there when asked about benefit changes, and everyone else scrolled down past it.
 7. Participants understand that the bottom promo is news and know how to get more news stories.
@@ -125,7 +125,7 @@ As in the previous round of usability testing, **5 of 11 participants tended to 
 - There were **3 participants who had less experience using VA.gov than the other 8 people. The parts of the home page used by these two subsets of participants were similar**, with the highest usage being *Popular on VA.gov*, followed by the header, footer, and benefit hubs in slightly different orders. The more experienced participants made more use of *Other search tools* and the two promos.
 - We can compare the home page click results from this study with the [previous round of usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and the last year's [Baseline Wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md). From the comparison of the data from 3 research studies below, we can see that **people seem to be scrolling farther down the redesigned home page without the presence of the false footer--so making better use of the entire home page. There are also more clicks on the benefit hubs and footer**, perhaps because fewer task-focused links are included in the body of the home page. We make only these broad conclusions because of the following caveats:
   - The **tasks in these three studies were different**. In this study, there were no tasks specifically geared towards *Other search tools* as in the previous study, but there were new tasks around the VA news and benefit promos.
-  - There were **fewer tasks in this study (8)** than in the previous study (20) and the baseline wayfinding study (9), and in the previous study, different people did different subsets of the 20 tasks.
+  - There were **fewer tasks in this study (9)** and the baseline wayfinding study (9) than in the previous study (20), where different people did different subsets of the 20 tasks.
   - There were **fewer participants in this study (11)** than in the previous study (19) and the baseline wayfinding study (13).
 - Two participants using smartphones didn't scroll past the top of the dark blue VA news promo section. More user research or analytics checking could help see whether this might be a new "false footer" on the home page.
 - One participant on a smartphone said they thought ***Popular on VA.gov*** was the bottom of the page because the text **looked so plain and unformatted** and so appeared to be links in the footer. Another participant also commented on how plain the *Popular on VA.gov* links looked, as compared to the benefit hubs, which each have a colored icon. 
