@@ -39,9 +39,21 @@ VA.gov is responsible for a ton of information and for catering to multiple audi
 
 The goal of ongoing IA and navigation work is to keep VA.gov organized and navigable as the site grows and changes, especially as the site consolidates both eBenefits and VA.gov into its architecture and functionality. Ongoing IA and navigation work puts heavy and primary focus on the veteran experience, those who may be involved in a veteran's care, and those who are not veterans but may also receive VA benefits themselves (service members, families, dependents, caregivers, etc).
 
-## Problem Statements
+## Problems & opportunities
 
-## Opportunities
+### Problems
+
+- The current IA and navigation largely caters to logged-out, unauthenticated flows and content. This makes it hard for users who need to manage their benefits to find where and how to do this.
+- Figuring how all of MyHealtheVet fits into VA.gov means there will be some major changes to IA and navigation, and how we approach this has to not only consider the health user experience, but also how this will affect management of other benefits.
+- IA and navigation needs to work for multiple audiences, including audiences that are not veterans, service members, families, and caregivers. This can sometimes cause organization friction since our team wants to prioritize the veteran experience over business or organizational wants and needs.
+
+### Opportunities
+
+We have opportunities to:
+
+- Treat IA and navigation like any other product, and do continual work and maintenance in this space so our site remains organizable and navigable.
+- Rethink how we approach prioritizing logged-in flows and navigation through the health apartment work.
+- Work more collaboratively across unauth and auth experiences, to consider flows through both instead of considering them as two separate experiences.
 
 ## User outcomes
 
@@ -56,6 +68,11 @@ The goal of ongoing IA and navigation work is to keep VA.gov organized and navig
 ### Undesired business outcomes
 
 ## Projects & Initiatives
+
+|Project or Initiative| Launch or completion date|
+|---------------------|--------------------------|
+|Health apartment card sort (get link to documentation)| |
+|Wayfinding research (get link to documentation)| |
 
 ## Analytics
 
