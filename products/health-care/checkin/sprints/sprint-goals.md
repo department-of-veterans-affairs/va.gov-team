@@ -35,7 +35,7 @@
 
 #### Planned Releases 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - **NOTE: we need to coordinate with Stephen & Patrick on when to release this**
+    - RELEASE DATE IS PLANNED FOR 11/29
 
 #### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen) 
@@ -48,7 +48,7 @@
 #### UX Sprint Goals 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - Update product artifacts (Kelly)
-    - Let Randi know so she can publish the resource page (Lori)
+    - DONE Let Randi know so she can publish the resource page (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update product artifacts (get them ready but do not publish) (Kelly)
     - Update design artifacts (get them ready but do not publish) (Zach)
