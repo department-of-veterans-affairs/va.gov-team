@@ -1,14 +1,20 @@
-# (WIP)Editor-facing Research Plan for Sitewide CMS Notifications - November 2022
+# Editor-facing Research Plan for Sitewide CMS Notifications - November 2022
 
-This final research plan is published in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
+This final research plan is published in the [CMS Research Repo](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
-This research plan comes from 6102 which aims to update outdated content. Editors will be required to review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with 6102. Since editors will potentially need to be notified of a variety of things, we need to figure out the best way to notify them of action items.
+This research is to provide product requirements for the [MVP Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10477) in response to [VA Directive 6102](https://www.google.com/url?q=https://www.va.gov/vapubs/viewPublication.asp?Pub_ID%3D1056%26FType%3D2&sa=D&source=docs&ust=1668727018626949&usg=AOvVaw0GMUCcz3wCLL1HcSL_TzhS) which aims to update outdated content on VA websites. This directive requires that CMS editors review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with Directive 6102.
+
+Outdated content on VA websites can easily lead to information that doesn't match the operational reality of VA facilities. Veterans trust that the information on VA websites will be accurate and up to date, but when that is not the case veterans will be confused which could potentially lead to a mistrust of the information that is on VA websites.
+
+When the VA is able to notify editors of relevant information in a timely manner that fits into their established workflow, editors will be more likely to use the CMS efficiently. When editors are notified of relevant information or action items and are able to easily access the content, they're less likely to make errors and more likely to follow veteran-centered content guidelines which yield higher quality content for veterans on VA.gov.
+
+Since editors will potentially need to be notified of a variety of things beyond 6102, we need to figure out the best way to notify them of action items. CMS notifications will provide a way for us to speak to the editors directly and let them know when information needs to be updated and where. Allowing for a centralized place for all different types of CMS notifications will also provide a flexible space to expand the types of notifications that we send editors if there is a need for that in the future.
 
 ## OCTO Objectives 
-This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) 
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme). 
 
-### Office of the CTO (OCTO) North Stars
+### North Star
 - Increase the quality and reliability of VA services
 
 ### Mission
@@ -19,17 +25,18 @@ This research supports the following [OCTO objectives](https://github.com/depart
 - Veterans and their families trust the security accuracy and relevancy of VA.gov
 
 ### Numbers
-#### Increase
-- Veteran satisfaction with VA.gov
-#### Decrease
-- Call center volume, wait time, and time to resolution
-- Time from online benefit discovery to benefit delivery
+* Increase
+  * Veteran satisfaction with VA.gov  
+* Decrease
+  * Call center volume, wait time, and time to resolution  
+  * Time from online benefit discovery to benefit delivery 
 
-## Research Goals	
-What are we trying to learn from this research?
+## Research Goals
 
-- Gain a better understanding of how editors would like to receive notifications.
-- Gain a better understanding of the things that editors want to be notified of.
+### What we're trying to learn:
+
+- Gain a better understanding of how notifications could fit into the editors current workflow.
+- Gain a better understanding of what types of notifications would help editors to better serve veterans.
 - Gain a better understanding of what pain points editors are currently experiencing when receiving relevant information or action items.
 
 ### Outcome
