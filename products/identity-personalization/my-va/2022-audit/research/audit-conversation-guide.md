@@ -67,13 +67,15 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to VA.g
 - Let's take a look at a section that's empty. *Have them scroll to a section that doesn't apply to them*
 - What do you think about seeing this section when you log in even though it doesn't apply to you?
 - Are there any VA benefits you're not currently using that you might be interested in? *If yes* How would you find information about those benefits?
-- Is there anything you're expecting to see on this page that you don't see?
+- *For users who have empty sections* Now let's click the link under this empty section and take a look at the page it takes you to. If this what you would expect? Do you want to know additional information before taking action? What additional information would you be looking for?
+- Is there anything you're expecting to see on My VA that you don't see?
 
 ### Things to watch for:
 
 - How do veterans react to seeing empty sections on My VA? 
 - Are empty sections getting in the way of veterans finding what they would come to VA.gov to do?
 - Are the CTA links bringing attention to benefits that veterans might be interested in?
+- Are the pages we're linking to from My VA's empty sections useful to veterans?
 - Are there any top tasks still missing from My VA?
 
 ## Post Task Interview - 3 minutes
