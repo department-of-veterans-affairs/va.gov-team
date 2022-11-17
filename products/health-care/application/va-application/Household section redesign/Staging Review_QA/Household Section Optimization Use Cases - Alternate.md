@@ -11,20 +11,21 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 
 ## Contents
-<details>
-  <summary>Link to designs</summary>
-  [Sketch flow of Household section](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
-</details>
-<details>
-  <summary>Instructions to access in Staging (or Prod for Drupal) (Note: credentials should be stored in sensitive repos only)</summary>
-  - Access the [Staging environment - Healthcare Application]().
-  - Authenticated flow: Log in with **[User 16]()**.  the updated section starts on **Page 13**.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on **Page 17**.
-</details>
-<details>
-  <summary>Use Cases</summary>
+- [Sketch flow of Household section](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
+- Instructions to access in Staging (or Prod for Drupal) (_Note: credentials should be stored in sensitive repos only_)
+  - Access the Staging Environment()
+    - Authenticated flow: Log in with **[User 16]()**.  The updated section starts on **Page 13**.
+    - Unauthenticated flow: Do not log in and proceed through the application with any test data.  The updated section starts on **Page 17**.
+- Use Cases
   - [Use Case A](#use-case-a)
-</details>
+  - [Use Case B](#use-case-b)
+  - [Use Case C](#use-case-c)
+  - [Use Case D](#use-case-d)
+  - [Use Case E](#use-case-e)
+  - [Use Case F](#use-case-f)
+  - [Use Case G](#use-case-g)
+  - [Use Case H](#use-case-h)
+  - [Use Case I](#use-case-i)
 
 
 ## Use Cases
