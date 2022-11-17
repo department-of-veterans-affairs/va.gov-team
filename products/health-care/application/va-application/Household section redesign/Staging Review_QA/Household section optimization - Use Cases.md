@@ -64,8 +64,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 12](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 12](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
 
 ## Use Case B
 
@@ -82,8 +82,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 13](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 13](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
 
 
 ## Use Case C
@@ -125,8 +125,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 14](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 14](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
  
 ## Use Case D
 
@@ -149,8 +149,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 15](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 15](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
 
 ## Use Case E
 
@@ -179,8 +179,8 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 16](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 16](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
 
 ## Use Case F
 
@@ -216,6 +216,6 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Access the [Staging environment - healthcare application](https://staging.va.gov/health-care/apply/application/introduction)
-  - Authenticated flow: Log in with **[User 17](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The new question is on page 13.
-  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The new question is on page 17.
+  - Authenticated flow: Log in with **[User 17](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on page 13.
+  - Unauthenticated flow: Do not log in, proceed through application with any test data.  The updated section starts on page 17.
 
