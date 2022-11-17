@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: October 26, 2022
+Last updated: November 17, 2022
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
