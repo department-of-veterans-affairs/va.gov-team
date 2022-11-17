@@ -52,19 +52,14 @@ The results of this research will be used to develop a future direction for how 
 * Once 6102 notifications are implemented, what are some other things we can notify editors of that will directly benefit veterans accessing VA content?
 
 ### Hypothesis
-Outdated content on VA websites can easily lead to information that doesn't match the operational reality of VA facilities. Veterans trust that the information on VA websites will be accurate and up to date, but when that is not the case veterans will be confused which could potentially lead to a mistrust of the information that is on VA websites.
-
-When the VA is able to notify editors of relevant information in a timely manner that fits into their established workflow, editors will be more likely to use the CMS efficiently. When editors are notified of relevant information or action items and are able to easily access the content, they're less likely to make errors and more likely to follow veteran-centered content guidelines which yield higher quality content for veterans on VA.gov.
-
-CMS notifications will provide a way for us to speak to the editors directly and let them know when information needs to be updated and where. Allowing for a centralized place for all different types of CMS notifications will also provide a flexible space to expand the types of notifications that we send editors if there is a need for that in the future.
-
+* Editors are familiar with Directive 6102.
+* Editors are juggling many competing priorities and only work on their websites when there is a pressing need.
+* Notifications can help editors become 6102 compliant.
+* Too many notifications will defeat the purpose of having them and we should be judicious with the use of them.
+* Our prototype email conveys all the information an editor needs to fix outdated content.
 
 ## Method	
-Potential research methods include the following. Should we just focus on one or can we include multiple as part of the same research plan since we're looking to include prototypes.
-
-- Semi-structured interviews - appropriate for generative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Semi-structured interviews
 
 ### Location
 Remote via Zoom
