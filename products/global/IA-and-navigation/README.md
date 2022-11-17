@@ -10,7 +10,7 @@ Last Updated: November 17, 2022
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Projects](#projects)
+- [Projects & Initiatives](#projects)
 - [Analytics](#analytics)
 - [Backend](#backend) 
 - [Frontend](#frontend)
@@ -20,13 +20,16 @@ Last Updated: November 17, 2022
 
 ### POCs
 
-- **Slack channel**: TBD
+- **Slack channel**: [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia)
 
 #### Roles  
   
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |OCTO product lead for authenticated experiences| samara.strauss@va.gov |
+|Mikki Northuis| OCTO design lead for information architecture|michelle.northuis@va.gov|
+|Chante Lantos-Swett|OCTO lead for account experience portfolio|chante.lantosswett@va.gov|
+|Dave Conlon|OCTO lead for sitewide portfolio|david.conlon@va.gov|
+|Samara Strauss |OCTO product lead for authenticated experiences|samara.strauss@va.gov|
 
 ---
 
@@ -48,7 +51,7 @@ Last Updated: November 17, 2022
 
 ### Undesired business outcomes
 
-## Projects
+## Projects & Initiatives
 
 ## Analytics
 
