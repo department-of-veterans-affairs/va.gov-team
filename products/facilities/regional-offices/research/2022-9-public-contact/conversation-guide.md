@@ -37,9 +37,7 @@ There are a few of my teammates who would like to watch this session. **Would it
 * *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 * "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
 
-Today we're going to talk about VA Benefit Offices, 
-
-We're trying to learn about Veterans', service member's, and caregivers' experiences with visiting these locations.
+Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans' experiences with visiting these locations so we can build better websites for them. 
 
 Before we start, a few things I want to mention:
 
@@ -55,10 +53,11 @@ Before we start, a few things I want to mention:
 Before we dive into your facility’s operations, I’d like to learn about your work in general.
 * What’s your role at the VA? 
 * How long have you been in this role?
-* Which role do you report to?
 * What’s your favorite part of your job?
 
-## Services
+## Your Facility
+
+What facility do you work at?
 
 1. What benefit-related **services are offered** at these facilities?
    * How do services differ by benefit types? 
