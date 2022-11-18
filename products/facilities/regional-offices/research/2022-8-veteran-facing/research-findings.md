@@ -36,37 +36,32 @@ Benefit Offices touch on the following stages of the Veteran Journey:
 
 The goal of this research is to understand a Veterans' experiences, impressions, and relationships with Benefit Offices.
 
-### Outcome
-
-It will give us a fuller understanding of what Veterans need, and allow us to make design recommendations for the Regional Benefit Office MVP.
-
 # Research Questions
 
-* What benefit-related tasks do Veterans complete at Benefit Offices?
-
+1. What benefit-related tasks do Veterans complete at Benefit Offices?
   * Is visiting a Benefit Office necessary/sufficient to complete the task?
   * Do Veterans have preferred modalities for doing this task?
-    * If in-person/phone/online were all available, which would they choose?
+  * If in-person/phone/online were all available, which would they choose?
   * Do Veterans' mental models of benefit tasks align to the actual processes?
-* What is the Veteran experience of visiting a Benefit Office?
-* How do Veterans travel to Benefit Offices?
-* How do Veterans find their way to appointments within Benefit Office buildings?
-* What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
-* What information do Veterans need when preparing for a visit?
-* How do Veterans prepare for their visits?
-* What tasks do they complete? (i.e. directions, paperwork)
-* What modalities do they use? (i.e. web, phone)
-* Do Veterans feel prepared before their visits?
-* Are they actually prepared?
-* Retrospectively, what would they have needed to be prepared?
-* Do Veterans understand the different types of Benefit Offices?
-* If yes, do Veterans understand the relationships between Benefit Offices?
-* Are these relationships important to Veterans?
-* To what extent do the answers to questions 1-3 vary by:
-* Facility type?
-* Benefit service?
-* Geography?
-* Veteran demographics?
+2. What is the Veteran experience of visiting a Benefit Office?
+  * How do Veterans travel to Benefit Offices?
+  * How do Veterans find their way to appointments within Benefit Office buildings?
+  * What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
+3. What information do Veterans need when preparing for a visit?
+  * How do Veterans prepare for their visits?
+  * What tasks do they complete? (i.e. directions, paperwork)
+  * What modalities do they use? (i.e. web, phone)
+  * Do Veterans feel prepared before their visits?
+  * Are they actually prepared?
+  * Retrospectively, what would they have needed to be prepared?
+4. Do Veterans understand the different types of Benefit Offices?
+  * If yes, do Veterans understand the relationships between Benefit Offices?
+  * Are these relationships important to Veterans?
+5. To what extent do the answers to questions 1-3 vary by:
+  * Facility type?
+  * Benefit service?
+  * Geography?
+  * Veteran demographics?
 
 # Methodology
 
@@ -104,24 +99,27 @@ It will give us a fuller understanding of what Veterans need, and allow us to ma
 
 # Key Findings
 
-1. Veterans want to speak with a human when they are discovering what’s possible.
-2. Veterans want to complete tasks online when tasks are clear.
-3. Problems encountered were never really connected to VBA website content issues.
+1. Veterans would like to use the website to complete tasks when the steps are clear
+2. Veterans prefer to speak to a person on-site if they can’t find clear information online
+3. Veterans expect Regional Benefit Offices to be “one-stop shops” for services
+4. Veterans aren’t sure of what tasks they can complete at the various VA offices
 
 # Details of Findings
 
-Finding #1: Veterans want to speak with a human when they are discovering what’s possible.
+**Finding #1: Veterans would like to use the website to complete tasks  when the steps  are clear**
 
-* Doesn't like being treated like a number.
+* Most Veterans (10 / 12) prefer to complete their tasks online if the information and instructions are clear
+  * Veterans cite convenience as necessary for completing their tasks
+  * No one rated phone as their #1 preferred contact method
+    * 7 / 12 rated phone as their last preference for contact
+* Most Veterans used the website first to get information about their benefits and tasks to be completed
+  * Half of the sample expressed that the information they need is not easily found on the website
 
-  * Veterans want to know that their concerns matter to who they are speaking with.
-  * Veterans express a perception that their concerns get lost in the shuffle of bureaucracy. This may stem from a lack of clear information on their application status.
-* Veterans don’t trust automated systems such as webpages or phone tree systems, and express feeling frustration when interacting with those systems.
-* Questions are dynamic and complex and not easily slotted into reviewing an FAQ page online.
-* Questions are often exploratory “What benefits can I get?”, “Can I use my education benefits to start a new career?”
-* Veterans want the trust that comes from a real human speaking with them.
+> _“If they offer it online, I would do it online. I do everything online. I have done request for records online, and that is way easier because before you had to go to the VA.”_ -p4
+>_“I guess I wish that information was easier found out there [the website]. It may be, but I haven’t found it.”_ -p3
+>_“Depending on what the task was I would rather do it online if I trusted it would get done properly”_ -p17
 
-"It's faster to just go in and hand them a paper form" -p5
+
 
 Finding #2: Veterans want to complete tasks online when tasks are clear.
 
@@ -175,6 +173,9 @@ Finding #6: Veterans demonstrated a sophisticated use of ad hoc social media com
   * Seeking guidance with education needs
   * Seeking help getting name change. -p2
   * Seeking a home loan
+  * Securing a home loan
+  * sSeeking  education funding
+  * 
 * Visiting the offices were necessary to gain information but Veterans did not  complete all necessary tasks in their visit.
 * Veterans do not understand the VA processes, and instead rely on direct human guidance for everything.
 * “I just go in because then I can talk to someone and ask questions.” -p9
