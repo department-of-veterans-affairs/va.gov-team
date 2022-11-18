@@ -56,11 +56,13 @@
 - Great! Thanks for confirming all of that. Let’s move on to the website.
 
 ## 1. Review outstanding debts section - 10 minutes
+
 - Please open a new tab in your browser, and go to https://www.va.gov/.
 
 - Once you are logged in, you can share your screen with me. Let me know if you need any help doing that.
 
 - Please click on My VA. Okay let's take a look at this page. You can scroll up and down it if you'd like.
+
 - Explain to me what you think this page is for and what's jumping out to you on it.
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
@@ -90,6 +92,7 @@
 - [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
 ## 3. Review benefit payments section - 5-7 minutes
+
 - Okay, let’s look at the section that says "Benefit payments."
 
 - Does everything related to your payment seem right to you?
