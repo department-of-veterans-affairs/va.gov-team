@@ -11,9 +11,9 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Angela and I'm a designer for VA. Today we're going to talk about a new feature on VA.gov that will help Veterans get their recent details about VA payments and debts.
+- Thanks for joining us today! My name is Angela and I'm a designer for VA. Today we're going to talk about a new feature on VA.gov that will help Veterans get their recent details about VA payments and debts.
 
-Before we start, a few things I want to mention:
+- Before we start, a few things I want to mention:
 
 - **I also have some other colleagues in the waiting room who would like to observe and take notes.** Are you okay with letting them in for this session?
 	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
