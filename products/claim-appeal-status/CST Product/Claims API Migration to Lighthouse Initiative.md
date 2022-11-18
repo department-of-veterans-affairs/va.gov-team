@@ -1,5 +1,5 @@
 ## Outcome Summary
-The Lighthouse Claims API retrieves a veterans claims information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but, historically, it has been difficult to interatively improve this service. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue our product goals and improve the performance of the application.  
+The Lighthouse Claims API will retrieve a veteran's claim status information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but, historically, it has been difficult to interatively improve this service. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue our product goals and improve the performance of the application.  
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
