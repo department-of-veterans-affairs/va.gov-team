@@ -38,7 +38,7 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 - **Usability Risks** (can people figure out how to use it):
   - We need to ensure that the new end points are actually working. There is a risk that we could migrate to Lighthouse end points and miss something critical that causes CST to omit critical status information or, worse, supply the wrong information. To mitigate this we are setting up reliable testing environments and creating documentation that captures the way we are mapping attributes.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  -Low risk: Lighthouse is an established and trusted provider of end point services, already able to interact with the BGS services gateway and already providing API services to existing VA applications. 
+  - Low risk: Lighthouse is an established and trusted provider of end point services, already able to interact with the BGS services gateway and already providing API services to existing VA applications. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA as an organization has made this migration a priority. 
