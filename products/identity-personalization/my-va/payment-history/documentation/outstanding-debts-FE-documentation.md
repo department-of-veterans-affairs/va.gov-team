@@ -76,7 +76,9 @@ The link style on the card is the [active link style](https://design.va.gov/stor
 
 ### If a user has overpayment debt(s) AND copay bill(s)
 
-- Show both cards and always show the debts card first, then the copays card below it.
+- Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom.
+
+![Screen Shot 2022-11-18 at 1 10 58 PM](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png)
 
 ---
 
