@@ -235,24 +235,24 @@ Applicants can be either authenticated or unauthenticated to access this applica
   33. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case I
-* **Applicant wants to disclose their financial information, is not married, and has at least one dependent**
-  1. Applicant reviews the page explaining how the VA will use their financial information.
-  2. Applicant clicks the **Continue** button.
-  3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
-  4. Applicant clicks the **Continue** button.
-  5. Applicant chooses the correct option from the *Marital Status* dropdown that indicates they are not married.
-  6. Applicant clicks the **Continue** button.
-  7. Applicant selects **Yes** radio button, indicating at least one dependent to report.
-  8. Applicant clicks the **Continue** button.
-  9. Applicant reviews the *Dependent's information* page and provides the necessary information.
-  10. Applicant clicks the **Continue** button.
-  11. Applicant reviews the *Dependent's additional information* page and provides the necessary information.
-  12. Applicant clicks the **Continue** button.
-  13. Applicant reviews the *Dependent's support* page and provides the necessary information.
-  14. Applicant clicks the **Continue** button.
-  15. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
-  16. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 15.  If the **No** radio option was selected, move on to Step 26.
-  17. Applicant reviews the *Your annual income* page and provides the necesary information.
-  18. Applicant clicks the **Continue** button.
-  19. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
-  20. Applicant clicks the **Continue** button and proceeds through the rest of the application.
+**Applicant wants to disclose their financial information, is not married, and has at least one dependent**
+1. Applicant reviews the page explaining how the VA will use their financial information.
+2. Applicant clicks the **Continue** button.
+3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
+4. Applicant clicks the **Continue** button.
+5. Applicant chooses the correct option from the *Marital Status* dropdown that indicates they are not married.
+6. Applicant clicks the **Continue** button.
+7. Applicant selects **Yes** radio button, indicating at least one dependent to report.
+8. Applicant clicks the **Continue** button.
+9. Applicant reviews the *Dependent's information* page and provides the necessary information.
+10. Applicant clicks the **Continue** button.
+11. Applicant reviews the *Dependent's additional information* page and provides the necessary information.
+12. Applicant clicks the **Continue** button.
+13. Applicant reviews the *Dependent's support* page and provides the necessary information.
+14. Applicant clicks the **Continue** button.
+15. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
+16. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 15.  If the **No** radio option was selected, move on to Step 26.
+17. Applicant reviews the *Your annual income* page and provides the necesary information.
+ 18. Applicant clicks the **Continue** button.
+19. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
+20. Applicant clicks the **Continue** button and proceeds through the rest of the application.
