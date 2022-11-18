@@ -30,7 +30,7 @@ When the participant is ready, turn on your camera and begin session with the in
 
 Thanks for joining us today. My name is Dave, I am a web designer for the VA. How are you doing today?
 
-I have a colleague with us in this session who will be taking notes.
+My colleague [Blake/Jordan] is also with us to take notes as we talk.
 
 There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
 
@@ -55,49 +55,70 @@ Before we dive into your facility’s operations, I’d like to learn about your
 * How long have you been in this role?
 * What’s your favorite part of your job?
 
-## Your Facility
+## Your Facility - 10 min
 
-What facility do you work at?
+As you may know, the VA is currently working with 7 different Regional Benefit Offices from around the country to design a new modernized website that will later be rolled out to every Regional Benefit Office. Your local Regional Office, [INSERT RO] volunteered to be part of this effort so that we can make sure we're building the best possible web experience for Veterans. 
 
-1. What benefit-related **services are offered** at these facilities?
-   * How do services differ by benefit types? 
-   * Are any services shared across benefit types (e.g. updating contact info)?
-   * Are all services available consistently throughout the week?
-   * Do any services require referrals to other facilities?
-   * Are there any services unique to this region/facility?
+We are speaking with Public Contact staff like youself from these 7 different locations to get a better sense of the day-to-day reality of what Veterans experience when visiting Benefit Offices. My first set of questions is about the place you work.
 
-## Tasks
+* What facility do you work at?
+  * (Confirm both the location and the type of facility) 
+* Do you work there full-time or do you split your time between multiple locations?
+  * (If multiple locations, repeat the next set of questions per facility) 
 
-2. What do Veterans typically **try to accomplish** during an in-person facility visit?
-   * What are the most common tasks they complete?
-   * What are the least common tasks?
-   * Can these tasks be accomplished other ways (phone, web)?
-     * If so, why do Veterans do this task in-person?
-   * How complicated are these common tasks?
-   * How do Public Contact Staff assist Veterans in these tasks?
-   * Any regionally specific needs (e.g. state or region specific support, translation)?
-   * Any problems?
-     * Tasks unable to complete
-     * Tasks that Veterans usually get hung up on
-     * Frustrations expressed by Veterans
-     * How frequently are these problems encountered?
+* Is this facility a stand-alone building, or is it in a shared building?
+* Is it easy to get to? Are there any quirks for parking or finding your way inside the building that might make it hard for people to get to? 
+* What days and hours is this office open? 
+* In your own words, how would you describe this office to someone unfamiliar with the VA?
+* What different services does this location offer for Veterans?
+* Are there any services this facility offers that are unique compared to other benefits offices?
+* Are there any benefit services you know of that this facility doesn't offer? 
+  * Where would you refer a veteran for help with that service?
+* You listed [service, service, service] which all sound pretty specific to that benefit types. Are there services that apply across different benefit types?
+  * Conversely, [these services] seem broad, are there sevices that are more speicifc to different benefit types?   
+* You mentioned this facility is open [these days], are all these different services available any time it's open?
+  * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
 
-## Experience
+## Common Tasks
 
-3. What is the **typical Veteran experience** when visiting these facilities?
-   *	Typical wait times?
-   *	Busier days or time?
-   *	Appointments vs walk-ins?
-   *	Common frustrations? Complaints?
-   *	How Veterans usually arrive at the facility? (drive, public transit?) 
-   *	How long does it take for a Veteran to travel to a facility
+This next group of questions is about common tasks Veterans try to accomplish at this facility.
 
-## Preparation
+* What are some of the common tasks that you see Veterans completing here?
+* Are there any tasks that are infrequent, maybe you've only heard about one or twice since working here?
+(Use list generated from these 2 questions to cycle through the next set of questions)
 
-4. What do Veterans need to know or do to be adequately **prepared** for a visit?
-   * Does this differ by service? 
-   * Could they have found that information on the website?
-   * Most common thing Veterans are missing?
+Let's talk about [task]
+* Can this task be accomplished other ways (phone, web)?
+  * If so, why do Veterans do this task in-person?
+* How complicated is this task?
+* How do you assist Veterans in this task?
+* Thinking about what makes your location different than other Regional Offices around the country, is there anything about this task that you think is unique to your region? Is it more common? Does it require additional support?
+* What does success look like for this task?
+
+* Are there any common pain points that you see with Veterans? 
+* For instance are there tasks they want to complete that they can't?
+* Any common sources of confusion or frustration?
+* How frequently are these problems encountered?
+
+## Veteran Experience
+
+This next section of questions is about the typical Veteran experience visiting this facility. So regardless of what task they want to accomplish, what might any visitor encounter.
+*	Percentage of appointments vs walk-ins?
+*	Typical wait times?
+*	Busier days or time?
+*	Common frustrations? Complaints?
+*	How Veterans usually arrive at the facility? (drive, public transit?) 
+*	How long does it take for a Veteran to travel to a facility
+
+## Veteran Preparation
+
+Lastly, I want to talk about all the things Veterans might need or want to know in advance of visitng the office. 
+
+* Thinking about the different tasks that we've talked about today, how many of them could be completed if a Veteran just walks in to the office emptyhanded? How many of them might require them to have filled out forms in advance?
+* (Follow up on any tasks from earlier that might have unique requirements)
+* How would a Veteran know they need to do that in advance? Could they have found that information on the website?
+* Most common thing Veterans are missing? 
+* Most important thing for every Veteran to bring?
 
 ## Closing
 * *Ask any additional follow up questions from #feedback-backchannel*
