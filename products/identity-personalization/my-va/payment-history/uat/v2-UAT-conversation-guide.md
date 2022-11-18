@@ -83,6 +83,7 @@
 - [ ] **Usability**: Do users find anything confusing about this section?
 
 ## 2. Confirm all outstanding debts links - 5-7 minutes
+
 - Let’s review the links in this section. Please tell me what links are in this section.
 
 - Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
