@@ -34,6 +34,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 ### Apartment Team (aka Core Team)
 
 **Federal employees** 
+- 	Portfolio: Lauren Alexanderson
 -	Product: Leila Rassi
 -	Design: Coulton Bunney
 
@@ -57,14 +58,15 @@ Crew chief: Chante Lantos-Swett
 -	VSP Identity (John Rahaghi, Cody Reinold)
 
 ### Mobile Experience
-Product: Leanna Miller
+Product: Rachel Han & Chris Johnston
 Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
 ### Health
--	VAOS (Jeff Roof, contractor)
--	Check In (Stephen Barrs is backfilling Patrick Bateman, who returns soon. There was an earlier project called eScreener/Pre-Visit Questionnaire -- not sure if that was rolled into Check In. Angela Gant-Curtis was the PO.)
--	Caregivers (?)
--	10-10EZ application for health care (?)
+-	VAOS (Kay Lawyer, OCTO)
+-	Check In (Stephen Barrs, Patrick Bateman)
+-	BTSSS (Mark Dewey)
+-	Caregivers (Patrick Bateman)
+-	10-10EZ application for health care (Patrick Bateman)
 -	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
 -	After-visit summary (Shane Elliott)
 -	PGD (Kimberly McManus, PIF. Having PGD, or patient-generated data, on VA.gov seems a ways off, so we haven't been in touch with this stakeholder lately.)
@@ -75,7 +77,7 @@ Debt Resolution (Matt Self)
 ### Sitewide Crew
 Crew chief: Dave Conlon
 -	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages HC hub content)
--	Sitewide navigation and IA (Mikki Northuis, information architect - contractor)
+-	Sitewide navigation and IA (Mikki Northuis, information architect)
 -	Facilities (Dave Conlon, Michelle Middaugh)
 
 ### OCC 
@@ -88,7 +90,7 @@ Crew chief: Dave Conlon
 -	Acting Head of OCC: Nancy Wilck
 -	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
--	Management analyst: Carnetta Scruggs (Engineering background. Think she's VHA, outside of OCC / MHV.)
+-	Management analyst: Carnetta Scruggs (Engineering background. VHA, outside of OCC / MHV.)
 
 ### VBA 
 We need to include stakeholders from VBA but have not yet done so. 
