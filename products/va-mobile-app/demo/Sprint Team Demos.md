@@ -65,3 +65,14 @@
  - Calendar View (Meko & Ken Li)
  - Labs & Tests (Ashley & Andrew)
  - [Demo Slides](https://docs.google.com/presentation/d/1--wa8_FYedUYQF-A_ReWpTsfzhbqTV5ofnYSIymbQhs/edit?usp=sharing)
+ 
+  ---
+
+**Demo Sprint 48 7/5/22** 
+
+- Demo Topic(s)
+ - Program Updates
+ - View/Cancel Pending Appointments (Therese)
+ - System Downtime/Test Users (Chika & Jasyon)
+ - Navigation Overview (Ashley & Holly)
+ - [Demo Slides](https://docs.google.com/presentation/d/1ko2xJMrNHqDrcvNAd3Vfgcg8bBnw7pNZDI2-CKjj4_s/edit?usp=sharing)
