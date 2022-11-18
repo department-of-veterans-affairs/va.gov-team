@@ -45,15 +45,15 @@ The goal of this research is to understand a Veterans' experiences, impressions,
    * What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
 3. What information do Veterans need when preparing for a visit?
    * How do Veterans prepare for their visits?
-   * What tasks do they complete? (i.e. directions, paperwork)
-   * What modalities do they use? (i.e. web, phone)
+     * What tasks do they complete? (i.e. directions, paperwork)
+     * What modalities do they use? (i.e. web, phone)
    * Do Veterans feel prepared before their visits?
-   * Are they actually prepared?
-   * Retrospectively, what would they have needed to be prepared?
-4. Do Veterans understand the different types of Benefit Offices?
-   * If yes, do Veterans understand the relationships between Benefit Offices?
-   * Are these relationships important to Veterans?
-5. To what extent do the answers to questions 1-3 vary by:
+     * Are they actually prepared?
+     * Retrospectively, what would they have needed to be prepared?
+   * Do Veterans understand the different types of Benefit Offices?
+     * If yes, do Veterans understand the relationships between Benefit Offices?
+     * Are these relationships important to Veterans?
+4. To what extent do the answers to questions 1-3 vary by:
    * Facility type?
    * Benefit service?
    * Geography?
@@ -65,33 +65,29 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 
 # Hypotheses and Conclusions
 
-### Hypotheses
-
 1. What benefit-related tasks do Veterans complete at Benefit Offices?
    * We expect high variance by facility type and benefit service
-
-     * FALSE: majority of Veterans were looking to engage with disability benefits regardless of facility type or benefit service.
+     * NOT ENOUGH INFORMATION: our sample was primarily from one facility type (Regional Benefit Office) and one benefit type (disability) 
    * We expect moderate variance by Veteran demographics
-   * FALSE: not much variance between demographics
+     * FALSE: not much variance between demographics
    * We expect little to no variance by geography
-   * TRUE
-2. What is the Veteran experience of visiting a Benefit Office? -
+     * TRUE
 
-* We expect high variance by facility type and geography
-* FALSE: most people had good experiences with the actual logistics of the visit, such as parking, wayfinding regardless of facility type or geography. .
-* We expect moderate variance by benefit service
-* FALSE: most people had good experiences with the actual visit and little trouble finding the location, parking, regardless of benefit service sought.
-* We expect little to no variance by Veteran demographics
-* TRUE
+2. What is the Veteran experience of visiting a Benefit Office?
+   * We expect high variance by facility type and geography
+     * FALSE: most people had good experiences with the actual logistics of the visit, such as parking, wayfinding regardless of facility type or geography
+   * We expect moderate variance by benefit service
+     * FALSE: most people had good experiences regardless of benefit service sought
+   * We expect little to no variance by Veteran demographics
+     * TRUE
 
-1. What information do Veterans need when preparing for a visit?
-
-* We expect high variance by facility type and benefit service
-* FALSE: Most vets did not do much prep for their visit regardless of facility type or benefit service.
-* We expect moderate variance by Veteran demographics
-* FALSE: Most vets did not do much prep for their visit
-* We expect little to no variance by geography
-* TRUE
+3. What information do Veterans need when preparing for a visit?
+   * We expect high variance by facility type and benefit service
+     * NOT ENOUGH INFORMATION: our sample was primarily from one facility type (Regional Benefit Office) and one benefit type (disability)
+   * We expect moderate variance by Veteran demographics
+     * FALSE: Most vets did not do much prep for their visit, regardless of demographic
+   * We expect little to no variance by geography
+     * TRUE
 
 # Key Findings
 
