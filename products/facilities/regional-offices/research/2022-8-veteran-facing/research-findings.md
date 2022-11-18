@@ -231,7 +231,7 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 
 ## Who we talked to
 
-[Link to Recruitment Tracker doc](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=445791264).
+[Recruitment Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/recruitment_tracker.pdf)
 
 We talked to 12 participants.
 
@@ -298,4 +298,3 @@ This research does not include the perspectives of the following marginalized Ve
 * Younger than 45
 * Rural
 
-**
