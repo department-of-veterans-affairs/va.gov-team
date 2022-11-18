@@ -28,9 +28,9 @@
    
    - Demo Topic(s)
     - RX Live Demo (Brenda)
-      - Updated RX card, RX Help Modal, Status modals, Update to RX details screens, dynamic tab helper text 
-    - RX Research Readout (Esther)
-    - Discovery Research Readout (Liz & Esther)
+     - Updated RX card, RX Help Modal, Status modals, Update to RX details screens, dynamic tab helper text 
+     - [RX Research Readout](https://docs.google.com/presentation/d/1wT1k0v4j9g3dnCkQNA1a5FK-Dlpf6WzzoN1QJFsA5-s/edit?usp=sharing) (Esther)
+     - Discovery Research Readout (Liz & Esther)
 ---
 **Demo Sprint 52 9/1/22**  
 
