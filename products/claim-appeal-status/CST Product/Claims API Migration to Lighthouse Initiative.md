@@ -43,7 +43,7 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA as an organization has made this migration a priority. 
 
-### What're you building
+### What're we building
 - The scope of this initiative is to migrate the existing claims-status API service over to Lighthouse.
 - We are not migrating the document service that allows veterans to submit additional evidence. That service will remain with EVSS.
 
