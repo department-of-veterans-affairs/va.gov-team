@@ -16,6 +16,8 @@ Jump to:
 * [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#who-we-talked-to)
 * [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#further-research)
 
+Labels: "AUD: Veterans", "PRDT: Facilities", "RESRCH: Interviews", "RESRCH: Remote"
+
 # Research Goals
 
 ## Veteran Journey
