@@ -37,7 +37,7 @@ There are a few of my teammates who would like to watch this session. **Would it
 * *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 * "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
 
-Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans' experiences with visiting these locations so we can build better websites for them. 
+Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans' experiences with visiting these locations so we can build better websites for them.
 
 Before we start, a few things I want to mention:
 
@@ -45,7 +45,7 @@ Before we start, a few things I want to mention:
 *   **This session is going to resemble an interview where I will ask you many questions about your experience with VA Benefit Offices.** There are no right or wrong answers, this is purely to understand your actual experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
 *   **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 *   **If for any reason and at any time you want to stop the session, please let me know.**
-*   This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
+*   This session will be recorded to ensure that I capture your opinions accurately. When we present the results of this research, none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
     * If yes: Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.
 
 ## Warm-up Questions - 2 min 
