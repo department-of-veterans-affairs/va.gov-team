@@ -116,23 +116,21 @@ The goal of this research is to understand a Veterans' experiences, impressions,
   * Half of the sample expressed that the information they need is not easily found on the website
 
 > _“If they offer it online, I would do it online. I do everything online. I have done request for records online, and that is way easier because before you had to go to the VA.”_ -p4
+
 >_“I guess I wish that information was easier found out there [the website]. It may be, but I haven’t found it.”_ -p3
+
 >_“Depending on what the task was I would rather do it online if I trusted it would get done properly”_ -p17
 
+**Finding #2: Veterans prefer to speak to a person on site if they cannot  find clear information online first**
 
+* Veterans are more likely to visit the benefits office when they need additional information to complete their tasks
+* Half of the Veterans interviewed attempted to find answers to their questions online first
+* When Veterans couldn’t complete every step in the process themselves, they had confidence that the in-office staff could help them figure out next step(s)
+  * Veterans expressed a high level of trust with the staff at the Benefits Office
 
-Finding #2: Veterans want to complete tasks online when tasks are clear.
+> _“I did go to the benefits website and it gave me a little information on what programs are available, but I do like sitting down with someone to get the information.”_ -p14
 
-* 10/12 rated online 1st preference for completing task.
-  * Tasks include things like raising their disability rating, securing a home loan, seeking funding for further education.
-* Convenience was frequently stressed.
-* Veterans want up to date access to all their paperwork and forms, and the status of everything.
-* 4/12 rated phones as their second preference and 7/12 rated as 3rd preference.
-* People do not want to call because they feel like they never can find the right person and are easier to deflect
-
-“When I call I just get stuck in a phone tree” -p4
-
-”If they offer it online, I would do it online. I do everything online. I have done request for records online, and that is way easier because before you had to go to the VA.” -p4
+> _“One-stop shopping is why I picked this one [regional benefits office]. I knew I could do everything in this office. I did some researching, and you could click on a toggle and this one popped up with everything I needed to handle I could do it at this site.”_ -p2
 
 Finding #3: Veterans encountered problems with authenticated experience.
 
@@ -169,13 +167,15 @@ Finding #6: Veterans demonstrated a sophisticated use of ad hoc social media com
 * Benefit tasks Veterans sought to complete:
 
   * Increasing disability rating was the most common by far, 9/12.
-  * Seeking VA license plate.
+  * Seeking VA license plate
   * Seeking guidance with education needs
-  * Seeking help getting name change. -p2
-  * Seeking a home loan
+  * Seeking help getting name change
   * Securing a home loan
-  * sSeeking  education funding
-  * 
+  * Seeking education funding
+  * Job placement services
+  * Forms assistance
+  * Determining access to mental healthcare benefits
+
 * Visiting the offices were necessary to gain information but Veterans did not  complete all necessary tasks in their visit.
 * Veterans do not understand the VA processes, and instead rely on direct human guidance for everything.
 * “I just go in because then I can talk to someone and ask questions.” -p9
