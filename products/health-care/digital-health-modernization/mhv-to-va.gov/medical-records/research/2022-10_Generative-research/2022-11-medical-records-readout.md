@@ -101,12 +101,6 @@ _Hypothesis 4:_ Some Veterans and Caregivers will want to be able to view and sh
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **1. Participants used a range of terms to refer to medical records, such as "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History."**
 
 Labels: label 1, label 2 
@@ -118,35 +112,94 @@ Participants consistently argued that the same term should be used for online re
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/100814257/202775065-48ee4278-72e9-4b67-965e-f48983ba422c.png">
 
 
-**Finding 2**
+**Electronic medical records can be viewed, downloaded, or shared. Participants described wanting to access their medical records for the following reasons:**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+###Medical Record Use Cases
+|View, Download, or Share|     Purpose for medical records       |              Use case              |
+|------------------------|----------------------------------------------|------------------------------------|
+|View                    | Understand their health and/or monitor health|Quickly understand their health by reviewing vitals or labs/test results (looking for “flags,” within normal bounds, etc.)|
+|View|Understand their health and/or monitor health|Check current and/or past appointments|
+|View|Understand their health and/or monitor health|Check current and/or past medications|
+|View|Understand their health and/or monitor health|More deeply understand an issue by reviewing doctor’s notes, including notes attached to labs/tests/images|
+|View|As reference to communicate with healthcare providers (HCPs)|Identifying gaps or needs in records, and using the information to advocate for what they need|
+|Share|As reference to communicate with HCPs|Ask questions from providers via Secure Messaging, in a visit, or via some other means about information found in records|
+|Share|As reference to communicate with HCPs|Coordinating care -> sharing information with other HCPs, particularly non-VA providers|
+|Download|Keep a local record|Keep and, at times, update a record of needs that evolve, like medications|
+|Download|Keep a local record|Maintain personal record as a safety net in the event that one cannot access records online in the future|
+|Download|Keep a local record|Keep a copy to share with others involved in coordinating care, like spouses or caregivers|
+|View, Download, and Share|Identify evidence that can be used to obtain benefits|Locate key information to support a claim by viewing or downloading to view relevant sections of a record, then sharing back with the VA in disability claim|
 
-Brief description
 
-> _Supporting data: Quote here_
+### Narrative to exemplify "Understand and/or monitor health" purpose for using medical records
+_Leah is a former field medic who now assists her stepfather in accessing his VA healthcare. For both herself and him, she likes to regularly view their medical records online to make sure that she understands what happened in a given visit, if labs or tests have revealed problems, and if she has any follow-up questions or tasks to do. Regularly reviewing their records helps Leah to feel on top of their health needs - particularly her stepfather’s, since his needs grow more complicated with age._
 
-> _Supporting data: Quote here_
+### Narrative to exemplify "As reference to communicate with HCPs" purpose for using medical records
+_Jerry is currently in remission from cancer but regularly goes in for checkups. He reviews test results and after visit summaries; when he has a question for his doctor, he will take a screenshot to reference and include it in a secure message. He will do that with VA doctors but also with non-VA doctors, whether through email or other patient portals. Jerry’s had a lot of difficulty sharing documents with non-VA providers so he either sends screenshots or prints off documents or burns CDs to bring to appointments._ 
 
+_Once, Jerry needed a visit with a specialist that the VA said he had already had. Jerry combed through his medical records to prove that he had not had this appointment, and eventually secured the help he needed._ 
 
-**Finding 3**
+### Narrative to exemplify "Keep a local record" purpose for using medical records
+_Phillip downloaded his medical records onto a thumb drive before leaving the military. He worried he would lose the records while transitioning out and wanted his records secure. Even now, he regularly downloads a copy of his records to his laptop. He also copies his medications list into a Word document and manually updates this list so that his wife can find the information if he one day “clutches his chest” and can’t tell her what medications he is on._
+
+### Narrative to exemplify "Identify evidence that can be used to obtain benefits" purpose for using medical records
+_Ramona needed to file a claim for a service-related shoulder injury. She called the VA and had them email her complete medical records. Using all the keywords she could think of, Ramona went through and scrubbed the file for all things related to her shoulder injury, pulling out the relevant sections. She organized these sections and highlighted the magical words she knew were required to get her claim through - “injury most likely due to service”. She then submitted her claim with these sections as proof._
+
+**3. The most common categories participants used during the card sort included lab/test results (12 out of 15 participants), and separate categories for "non-body" health issuess - mental health, vision health, and dental health (10 out of 15 participants)**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Lab/ test results were created by 12 out of 15 participants, representing the most consistent category. They were most often called "labs/tests" or "test results" by participants, and almost always included "Pathology results" (a category that is currently separate from labs/test results in Blue Button reports). Almost half of these participants (5 out of 12) created a separate category for images, which included radiology results and images, MRI results, and ultrasound results. 
 
-Brief description
+   - _"So it looks like there's tests, blood tests, and I think that seems like an easy one to start. So I'm going to pull in blood sugar, blood tests, antibody tests, okay. And then I'm thinking is there anything like a test? SO I would kind of think like ultrasound results would be kinda similar...I guess its different but like tests will have like a result from that. An ultrasound is maybe not a test but they seem similar enough so I maybe kepe it in this box."_ Male Veteran, age 34, MHV account
 
-> _Supporting data: Quote here_
+"Non-body" health issues - i.e., those relating to mental health, dental health, and/or vision health - were commonly placed in separate categories (10 out of 15 participants). Participants who separated these cards either retained them in distinct categories or incorporated them into a general category that represented mental, vision, and dental health-related terms. 
 
-> _Supporting data: Quote here_
+   - _"They are a different section of the VA almost."_ Male Veteran, age 56, MHV account
+
+**4. An "About me/ Personal information" category was often created by participants, though the contents of this category differed. 
+
+Labels: label 1, label 2 
+
+Some versions of this category included demographic information, ongoing monitoring information like vitals, allergies and immunizations, and a "shapshot" of current health, issues, and treatments. Others contained only some of this information. 
+
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/100814257/202789539-f350fbd1-1a4b-482c-81c5-6c23dc70877e.png">
+
+Purpose for this category varied. Some participants framed the category of providing key information to doctors about a patient. 
+
+   - _"[Personal information group is] anything about yourself - age, height, weight. Any information that a doctor needs to know before prescribing medication."_ Female Caregiver, age 39, no MHV account
+
+Others wanted the most pressing or current information to be centrally located - in this way, this category simultaneously functioned similar to a "to do list". 
+
+This category varied the most across interviews and explanations often seemed contradictory and incoherent, however, this category still existed in the majority (n=10) of interviews.
+
+
+**5. Most participants organized or described expecting medical record information to be organized in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area. 
+
+Labels: label 1, label 2 
+
+Location/facility/inpatient/outpatient example: R: Can you tell me the difference between Hospitalized Treatments and Appointments? P. So Hospitalized Treatments I would say you are not really making an appointment. I guess you could, but you are not going to see your primary care, you are going admitted to the hospital side of the VA instead of getting a well-check. That is my thought of that. - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-07-Veteran-12.md
+
+
+**6. Time was a consistent theme across interviews. Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records. 
+
+Labels: label 1, label 2 
+
+- Urgency/ to do example: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-04-Caregiver-10.md
+
+- Wants to put together appts/meds in own cateogry because want to look at regularly: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-07-Veteran-12.md
+
+**7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records. 
+
+Labels: label 1, label 2 
+
+
 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+AT cognitive interviewing + findings
 
 
 ## Recommendations
