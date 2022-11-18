@@ -44,17 +44,17 @@ The Lighthouse Claims API provides retrieves a veterans claims information from 
   - VA as an organization has made this migration a priority. 
 
 ### What're you building
-> The scope of this initiative is to migrate the existing claims-status API service over to Lighthouse.
-> We are not migrating the document service that allows veterans to submit additional evidence. That service will remain with EVSS.
+- The scope of this initiative is to migrate the existing claims-status API service over to Lighthouse.
+- We are not migrating the document service that allows veterans to submit additional evidence. That service will remain with EVSS.
 
 --- 
 
 ## Launch Planning
 
 ### Timeline 
-Phase 1: End point migration from EVSS to Lighthouse (Dec 2022 - Jan 2023)
-Phase 2: Joint discovery on CorpDB data schema (Jan 2023 - February 2023)
-Phase 3: Make and pursue core bets (March 2023 - Dec 2023)
+- Phase 1: End point migration from EVSS to Lighthouse (Dec 2022 - Jan 2023)
+- Phase 2: Joint discovery on CorpDB data schema (Jan 2023 - February 2023)
+- Phase 3: Make and pursue core bets (March 2023 - Dec 2023)
 
 ---
 
@@ -71,7 +71,6 @@ Phase 3: Make and pursue core bets (March 2023 - Dec 2023)
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
 <details>
   
