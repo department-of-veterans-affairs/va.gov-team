@@ -7,7 +7,7 @@ The Lighthouse Claims API retrieves a veterans claims information from CorpDB, t
 ## Problem
 
 * The transactions costs around collaboration have been high, it has been difficult to conduct joint discovery to determine what opportunities there might be to expand the number of attributes available for the Claim Status Tool. As a result, the pace at which we can pursue valuable bets and iterate on the status experience has been greatly reduced. 
-* It is extremely difficult to determine objective measures of application performance metrics related to the API calls being made. For example, metrics around latency are extremely limited.
+* It is difficult to determine objective measures of application performance metrics related to the API calls being made. For example, metrics around latency are extremely limited.
 
 ## Desired User Outcomes
 - Veterans experience faster application load times.
