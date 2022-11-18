@@ -61,11 +61,11 @@ As you may know, the VA is currently working with 7 different Regional Benefit O
 
 We are speaking with Public Contact staff like youself from these 7 different locations to get a better sense of the day-to-day reality of what Veterans experience when visiting Benefit Offices. My first set of questions is about the place you work.
 
-* What facility do you work at?
-  * (Confirm both the location and the type of facility) 
+* What facility do you work at? (Confirm both the location and the type of facility) 
 * Do you work there full-time or do you split your time between multiple locations?
-  * (If multiple locations, repeat the next set of questions per facility) 
+* (If multiple locations, repeat the next set of questions per facility) 
 
+**Per facility**
 * Is this facility a stand-alone building, or is it in a shared building?
 * Is it easy to get to? Are there any quirks for parking or finding your way inside the building that might make it hard for people to get to? 
 * What days and hours is this office open? 
@@ -74,8 +74,10 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 * Are there any services this facility offers that are unique compared to other benefits offices?
 * Are there any benefit services you know of that this facility doesn't offer? 
   * Where would you refer a veteran for help with that service?
+
+**Per Service**
 * You listed [service, service, service] which all sound pretty specific to that benefit types. Are there services that apply across different benefit types?
-  * Conversely, [these services] seem broad, are there sevices that are more speicifc to different benefit types?   
+* Conversely, [these services] seem broad, are there sevices that are more speicifc to different benefit types?   
 * You mentioned this facility is open [these days], are all these different services available any time it's open?
   * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
 
@@ -87,7 +89,7 @@ This next group of questions is about common tasks Veterans try to accomplish at
 * Are there any tasks that are infrequent, maybe you've only heard about one or twice since working here?
 (Use list generated from these 2 questions to cycle through the next set of questions)
 
-Let's talk about [task]
+**Per task**
 * Can this task be accomplished other ways (phone, web)?
   * If so, why do Veterans do this task in-person?
 * How complicated is this task?
@@ -95,6 +97,7 @@ Let's talk about [task]
 * Thinking about what makes your location different than other Regional Offices around the country, is there anything about this task that you think is unique to your region? Is it more common? Does it require additional support?
 * What does success look like for this task?
 
+**Pain Points**
 * Are there any common pain points that you see with Veterans? 
 * For instance are there tasks they want to complete that they can't?
 * Any common sources of confusion or frustration?
@@ -103,6 +106,7 @@ Let's talk about [task]
 ## Veteran Experience
 
 This next section of questions is about the typical Veteran experience visiting this facility. So regardless of what task they want to accomplish, what might any visitor encounter.
+
 *	Percentage of appointments vs walk-ins?
 *	Typical wait times?
 *	Busier days or time?
