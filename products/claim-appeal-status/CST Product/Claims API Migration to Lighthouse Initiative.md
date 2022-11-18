@@ -26,7 +26,7 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 - number of reliable performance metrics we measure related to load times | baseline: currenty, we don't have any | Target: at least one
 - number of joint intiatives between Lighthouse and Benefits Team 1 to improve the CST | baseline: this initiative is the first | Target: 2 additional by the end of 2023
 - CST Avg. Medallia score | baseline 2.3 | Target: 4.5
-- number of attributes added to claims API |baseline 0 | Target: (dependent on initative goals)
+- number of attributes added to claims API |baseline 0 | Target: (dependent on future initative goals)
 
 ---
 
