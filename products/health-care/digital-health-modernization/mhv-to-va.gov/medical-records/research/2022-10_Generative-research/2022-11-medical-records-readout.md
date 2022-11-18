@@ -107,17 +107,15 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**1. Participants used a range of terms to refer to medical records, such as "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History."**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+The most common term used was "health record" or "medical record," followed by "health history" and "patient portal." 
 
-Brief description
+Participants consistently argued that the same term should be used for online records as paper-based records. 
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/100814257/202775065-48ee4278-72e9-4b67-965e-f48983ba422c.png">
 
 
 **Finding 2**
