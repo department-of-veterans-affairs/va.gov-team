@@ -55,7 +55,7 @@ Before we dive into your facility’s operations, I’d like to learn about your
 * How long have you been in this role?
 * What’s your favorite part of your job?
 
-## Your Facility - 10 min
+## Your Facility - 15 min
 
 As you may know, the VA is currently working with 7 different Regional Benefit Offices from around the country to design a new modernized website that will later be rolled out to every Regional Benefit Office. Your local Regional Office, [INSERT RO] volunteered to be part of this effort so that we can make sure we're building the best possible web experience for Veterans. 
 
@@ -81,13 +81,13 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 * You mentioned this facility is open [these days], are all these different services available any time it's open?
   * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
 
-## Common Tasks
+## Common Tasks - 15 min
 
 This next group of questions is about common tasks Veterans try to accomplish at this facility.
 
 * What are some of the common tasks that you see Veterans completing here?
 * Are there any tasks that are infrequent, maybe you've only heard about one or twice since working here?
-(Use list generated from these 2 questions to cycle through the next set of questions)
+* (Use list generated from these 2 questions to cycle through the next set of questions)
 
 **Per task**
 * Can this task be accomplished other ways (phone, web)?
@@ -103,7 +103,7 @@ This next group of questions is about common tasks Veterans try to accomplish at
 * Any common sources of confusion or frustration?
 * How frequently are these problems encountered?
 
-## Veteran Experience
+## Veteran Experience - 5 minutes
 
 This next section of questions is about the typical Veteran experience visiting this facility. So regardless of what task they want to accomplish, what might any visitor encounter.
 
@@ -114,7 +114,7 @@ This next section of questions is about the typical Veteran experience visiting 
 *	How Veterans usually arrive at the facility? (drive, public transit?) 
 *	How long does it take for a Veteran to travel to a facility
 
-## Veteran Preparation
+## Veteran Preparation - 5 minutes
 
 Lastly, I want to talk about all the things Veterans might need or want to know in advance of visitng the office. 
 
@@ -124,7 +124,7 @@ Lastly, I want to talk about all the things Veterans might need or want to know 
 * Most common thing Veterans are missing? 
 * Most important thing for every Veteran to bring?
 
-## Closing
+## Closing - 2 minutes
 * *Ask any additional follow up questions from #feedback-backchannel*
 * That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
 
