@@ -49,9 +49,14 @@ The purpose of this research is to gain insight into user needs and goals relate
 
 ## Methodology 
 
-### Interviews
-We conducted 15 remote interviews with Zoom. These interviews included questions about user needs and goals related to medical records, what users expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews also included a moderated card sorting activity. 
+### Data collection
+We conducted remote interviews with Zoom. These interviews included questions about user needs and goals related to medical records, what users expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews also included a moderated card sorting activity. 
 
+### Sample
+Describe demographics
+
+### Data analysis
+Describe
 
 ## Hypotheses and Conclusions
 
@@ -75,16 +80,24 @@ _Hypothesis 4:_ Some Veterans and Caregivers will want to be able to view and sh
 
 1. Participants used a range of terms to refer to medical records, such as "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History." 
 
-2. Participants described wanting to access their medical records to: 
-   - Understand their health by reviewing vitals or other health monitorings
-   - Monitoring their needs, particularly appointments or medications and medication refills
-   - Understand an issue by reviewing doctors' notes, labs/tests, images with notes, or past appointments or medications
-   - Advocate for their needs by reviewing what has and hasn't been done
-   - Coordinate care across healthcare providers, particularly with providers outside the VA
-   - Keep a local record that they can review or adapt as needed
-   - Identify evidence that can be used to obtain benefits, including non-VA benefits
+2. Electronic medical records can be viewed, downloaded, or shared. Participants described wanting to access their medical records to: 
+   - Understand their health by reviewing vitals or other health monitorings (by viewing online)
+   - Monitoring their needs, particularly appointments or medications and medication refills (by viewing online)
+   - Understand an issue by reviewing doctors' notes, labs/tests, images with notes, or past appointments or medications (by viewing online)
+   - Advocate for their needs by reviewing what has and hasn't been done (by viewing online)
+   - Coordinate care across healthcare providers, particularly with providers outside the VA (by sharing)
+   - Keep a local record that they can review or adapt as needed (by downloading)
+   - Identify evidence that can be used to obtain benefits, including non-VA benefits (by viewing, downloading, and sharing)
 
-3. 
+3. The most common categories participants used during the card sort included lab/test results (12 out of 15 participants), and separate categories for "non-body" health issuess - mental health and dental health (10 out of 15 participants). 
+
+4. An "About me/ Personal information" category was often created by participants, though the contents of this category differed. Some included demographic information, ongoing monitoring information like vitals, allergies and immunizations, and a "shapshot" of current health, issues, and treatments. Others contained only some of this information. This category varied the most across interviews and explanations often seemed contradictory and incoherent, however, this category still existed in the majority (n=10) of interviews. 
+
+5. Most participants organized or described expecting medical record information to be accessed in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area. 
+
+6. Time was a consistent theme across interviews. Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records. 
+
+7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records. 
 
 ## Details of Findings 
 
