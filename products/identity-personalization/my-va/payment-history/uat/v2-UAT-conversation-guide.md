@@ -36,44 +36,44 @@
 
 **Task goal: Confirm they qualify for the study, learn how they receive information from VA about financial things, and how that's meeting their needs.**
 
-Before we look at the website, I'd like to get a little background information from you:
+- Before we look at the website, I'd like to get a little background information from you:
 
-1. As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation, pension, or health care-related debt. Can you tell me how you got info from VA about updates on those payments or debts?
+- As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation, pension, or health care-related debt. Can you tell me how you got info from VA about updates on those payments or debts?
   
-2. You mentioned that you receive updates on your payments or debts via *insert what the participant said*. What information about your payments and debts is included? Was that helpful? Was anything missing?
+- You mentioned that you receive updates on your payments or debts via *insert what the participant said*. What information about your payments and debts is included? Was that helpful? Was anything missing?
   
-3. How do you manage your VA finances? Online, by mail, etc?
+- How do you manage your VA finances? Online, by mail, etc?
 
-4. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
+- Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
 
-6. Do you know your username and password to log in to VA.gov?
+- Do you know your username and password to log in to VA.gov?
 	* If not: Are these readily accessible? Could get them?
 	* If the user can not remember or retrieve their login credentials, **end the session.** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 	
-7. Today we are going to observe you interacting with the new feature on your computer. Are you comfortable sharing your screen with me once you log in?
+- Today we are going to observe you interacting with the new feature on your computer. Are you comfortable sharing your screen with me once you log in?
 	* If no: Explain this is necessary for testing. If they are still unwilling, **end the call.** I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 	
-Great! Thanks for confirming all of that. Let’s move on to the website.
+- Great! Thanks for confirming all of that. Let’s move on to the website.
 
 ## 1. Review outstanding debts section - 10 minutes
-Please open a new tab in your browser, and go to https://www.va.gov/.
+- Please open a new tab in your browser, and go to https://www.va.gov/.
 
-Once you are logged in, you can share your screen with me. Let me know if you need any help doing that.
+- Once you are logged in, you can share your screen with me. Let me know if you need any help doing that.
 
-Please click on My VA. Okay let's take a look at this page. You can scroll up and down it if you'd like.
-Explain to me what you think this page is for and what's jumping out to you on it.
+- Please click on My VA. Okay let's take a look at this page. You can scroll up and down it if you'd like.
+- Explain to me what you think this page is for and what's jumping out to you on it.
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 - [ ] **UAT TASK:** Confirm the outstanding debts and benefit payments sections are showing for all users
 - [ ] **Usability**: Do they notice the outstanding debts section? Scanning through the page, do they mention that those amounts seem to be due and payments seem to have been paid to them?
 
-Okay, let’s look at the section that says "Outstanding debts."
+- Okay, let’s look at the section that says "Outstanding debts."
 
-Does everything related to your outstanding debts seem right to you?
+- Does everything related to your outstanding debts seem right to you?
 
-*If the user has had debt in the past or currently has debt, ask:* Would you expect to see a link to your past debt letters here? Is that something you might reference once a debt is paid off?
+- *If the user has had debt in the past or currently has debt, ask:* Would you expect to see a link to your past debt letters here? Is that something you might reference once a debt is paid off?
 
-Is anything confusing to you about this section?
+- Is anything confusing to you about this section? Is there anything you expect to see that you don't?
 
 - [ ] **UAT TASK**: Confirm debt and copay cards accurately reflect data or “You don't have any outstanding debts to show” message and Learn about VA debt link is displaying.
 - [ ] **Usability**: Do screen magnification, low vision users, and screen reader user struggle with anything here? Observe if they're able to easily find the debt info and view all information about it at once, and if any secondary links seem hard to see or access.
@@ -81,22 +81,22 @@ Is anything confusing to you about this section?
 - [ ] **Usability**: Do users find anything confusing about this section?
 
 ## 2. Confirm all outstanding debts links - 5-7 minutes
-Let’s review the links in this section. Please tell me what links are in this section.
+- Let’s review the links in this section. Please tell me what links are in this section.
 
-Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
+- Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
 - [ ] **UAT TASK**: Confirm Learn more about VA debt link is showing only for users who do not have outstanding debt and is behaving as expected
 - [ ] **UAT TASK**: Confirm Manage VA debt and Manage VA bills links are behaving as expected
 - [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
 ## 3. Review benefit payments section - 5-7 minutes
-Okay, let’s look at the section that says "Benefit payments."
+- Okay, let’s look at the section that says "Benefit payments."
 
-Does everything related to your payment seem right to you?
+- Does everything related to your payment seem right to you?
 
-Can you explain to me what the content in this section is telling you?
+- Can you explain to me what the content in this section is telling you?
 
-Is anything confusing to you about it?
+- Is anything confusing to you about it? Is there anything you expect to see that you don't?
 
 - [ ] **UAT TASK**: Confirm that if the user has recurring payments, the most recent is showing.
 - [ ] **UAT TASK**: Confirm that if the user has never received payments, text shows that says "You do not have any recent payments to show" and only the direct deposit link is showing.
@@ -106,9 +106,9 @@ Is anything confusing to you about it?
 
 ## 4. Confirm all benefit payment links - 5-7 minutes
 
-Let’s review the links in this section. Please tell me what links are in this section.
+- Let’s review the links in this section. Please tell me what links are in this section.
 
-Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
+- Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
 
 - [ ] **UAT TASK**: Confirm the "Review your payment history" link within payment card is behaving as expected
 - [ ] **UAT TASK**: Confirm the "Review your payment history" secondary link that shows for users without a recent payment card is behaving as expected
@@ -116,7 +116,7 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 - [ ] **Usability**: How easy is it for magnification users, low visions users, and screen reader users to use the links? Observe if they struggle to find the link on the right column of the page.
 
 ## Post-Task Interview - 5 minutes
-Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
+- Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
-Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day!
+- Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day!
