@@ -1,24 +1,35 @@
 # Product brief for the My HealtheVet on VA.gov - Health Apartment 
 
 ## Background
-To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. Our generative research from late 2020 shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
+To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. Our generative research from 2018, repeated in late 2020, shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
 
 Consider booking a doctor’s appointment: One system locates nearby facilities. Another schedules appointments. Another handles follow-ups like messages and prescriptions. And another reimburses travel expenses. That’s a lot for Veterans to learn. It’s also difficult for VA staff to support so many siloed systems.
 
 ## Mission
 The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, which we have nicknamed the “health apartment.” As we consolidate the health experience, we will work closely with My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
-Throughout our agile development cycles, we will validate and refine the health apartment to ensure that it meets the needs of Veterans and caregivers – and that it’s usable and accessible. This will take a lot of collaboration with the Health Apartment Working Group, the My HealtheVet Team, the Sitewide and Account Experience Crews, and other product teams in OCC and OCTO. 
+Throughout our agile development cycles, we will validate and refine the health apartment to ensure that it meets the needs of Veterans and caregivers – and that it’s usable and accessible. This will take a lot of collaboration with the the My HealtheVet Team, the Health, Sitewide, Account Experience, Platform, Identity, Mobile Crews, and other product teams in OCC and OCTO. 
 
-We have built a proof of concept to test our assumptions about how to unify and streamline the health experience for Veterans. After iterating on the proof of concept, the health apartment has been “baked” enough to define an MVP for bringing My HealtheVet into VA.gov. Currently, we envision the MVP to include the “big four” areas of functionality now on My HealtheVet: Appointments, Secure Messaging, Medical Records, and Pharmacy. As we think about the MVP, we will consider how to integrate the Health Care hub and My HealtheVet Profile into the health apartment and VA.gov.    We have also defined four work streams, or tracks, that will afford ample opportunities for us to elicit veteran feedback while building a smooth, seamless rollout.
+We have defined four work streams, or tracks, that will afford ample opportunities for us to elicit Veteran feedback while building a smooth, seamless rollout.
 
-**Track 1** will focus on migrating the core MyHealtheVet applications to va.gov.  As of October 2022, Appointments work is underway, Secure Messaging is in development, and Medical Records is in discovery.
+**Track 1** will focus on migrating the core MyHealtheVet applications to va.gov.  As of October 2022, Appointments work is underway, Secure Messaging is in development, and Medical Records is in discovery. Applications will move to VA.gov in a phased approach. 
+	- Appointments is covered by the health applications team, who are building out the unified appointment experience.
+	- Bylight teams are building the applications on VA.gov, and are navigating the VA.gov platform collaboration cycle to do so. 
+	- The Apartment Core team is conducting discovery on the medical record landscape to deeply understand the policy/regulatory landscape, technical landscape, and Veteran concept for each application before we begin design and development. We have made a decision to approach the medical records work by domain. 
 
-**Track 2** will answer the question of how the Health Apartment as a whole fits into va.gov and the impact that will have on the information architecture and navigation of VA.gov and the apartment itself.
+**Track 2** will answer the question of how the Health Apartment as a whole fits into va.gov and the impact that will have on the information architecture and navigation of VA.gov and the apartment itself. This work is being conducted in partnership with VA.gov content & information architect strategists, the Sitewide team, the account experience team, the platform team, and the mobile team. 
+	- In October 2022, we made the decision to not use the authenticate-in-place strategy on VA.gov, and focus on developing an authenticated experience for the apartment. We also made the decision to leave the health hub as it is for now, with the understanding that it will need to change to accommodate the apartment as it takes shape. 
 
-**Track 3** will integrate Cerner (and potentially Community Care) data into VA.gov alongside VistA and DoD data.  This "mashup" of data from variouss sources is, in fact, one of the main purposes for this initiative. -- it provides veterans a consistent and comprehensive VA health experience regardless of whether their VA health facility uses VistA or has already been migrated to Cerner.  This consistent experience will be especially valuable to veterans who visit more than one facility that are on different systems.
+**Track 3** will integrate Cerner (and potentially Community Care) data into VA.gov alongside VistA and DoD data.  This "mashup" of data from various sources is, in fact, one of the main purposes for this initiative. -- it provides Veterans a consistent and comprehensive VA health experience regardless of whether their VA health facility uses VistA or has already been migrated to Cerner.  This consistent experience will be especially valuable to veterans who visit more than one facility that are on different systems.
+	- We are modeling this experience off of Intermountain Health's success. They currently have an untethered patient portal with a Cerner backend. 
+	- Cerner, VistA, and community care appointment data is expected to come through the Enterprise Appointment Service. 
+	- We are exploring different sources of data for medical records. 
 
 **Track 4** will support identity changes intented to eliminate the need for veterans to create and manage multiple sets of credentials in order to apply for health benefits, access their health inforation and communicate with their providers.
+	- Migrating MHV credentials to Login.gov is a big piece of this work. 
+	- In addition, the identity team is working on a delegate model. 
+	- OCTO is advocating a single Terms & Conditions approach to allow veterans to sign just one terms and conditions for VA digital properties. We are planning to use the sign-up service created for Cerner for this purpose. 
+	- MHV is updating account creation APIs to enable Veterans to access their MHV applications w/o needing a MHV account. 
 
 **In the short term,** we will complete the build of the Secure Messaging application and define the P. A key aspect of designing and building the MVP will be devising a linking strategy between the health apartment, My HealtheVet, parts of VA.gov related to health, and the VA.gov flagship mobile app. There will be a slow ramp up to bring veterans from My HealtheVet to the Health Apartment on VA.gov to ensure the change is not abrupt for veterans.
 
@@ -37,7 +48,8 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - 	Portfolio: Lauren Alexanderson
 -	Product: Leila Rassi
 -	Design: Coulton Bunney
-
+-	Design: Jenny Wang, Digital Corps Fellow
+-	Product: Jasmine Yohannan, Digital Corps Fellow
 
 **Contractors (Ad Hoc)** 
 -	Design: Jonathan Nelson
@@ -47,7 +59,6 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 -	Product: Marci McGuire
 
 ## Business Partners
-Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
 
 ### Account Experience Crew (authenticated experience)
 Crew chief: Chante Lantos-Swett
@@ -55,7 +66,7 @@ Crew chief: Chante Lantos-Swett
 -	Profile (Samara Strauss)
 -	VA Notify (Shane Elliott, Beverly Nelson)
 -	VEText (Shane Elliott, Beverly Nelson)
--	VSP Identity (John Rahaghi, Cody Reinold)
+-	VSP Identity (John Rahaghi)
 
 ### Mobile Experience
 Product: Rachel Han & Chris Johnston
@@ -63,41 +74,45 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 
 ### Health
 -	VAOS (Kay Lawyer, OCTO)
--	Check In (Stephen Barrs, Patrick Bateman)
--	BTSSS (Mark Dewey)
--	Caregivers (Patrick Bateman)
+-	Unified appointment experience (Stephen Barrs, Mark Dewey, Patrick Bateman, Kay Lawyer) 
+-	Check In, including pre-check-in (Stephen Barrs, Patrick Bateman)
+-	Beneficiary Travel (Mark Dewey)
+-	1010 CG application for caregiver health (Patrick Bateman)
 -	10-10EZ application for health care (Patrick Bateman)
 -	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
--	After-visit summary (Shane Elliott)
--	PGD (Kimberly McManus, PIF. Having PGD, or patient-generated data, on VA.gov seems a ways off, so we haven't been in touch with this stakeholder lately.)
+-	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
+-	PGD (Stefany Holguin)
 
 ### Benefits
-Debt Resolution (Matt Self)
+- Debt Resolution (Matt Self)
+- PACT Act (Zach Goldfine, Danielle Thierry)
 
 ### Sitewide Crew
 Crew chief: Dave Conlon
--	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages HC hub content)
+-	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
 -	Sitewide navigation and IA (Mikki Northuis, information architect)
 -	Facilities (Dave Conlon, Michelle Middaugh)
 
 ### OCC 
-**Contractors**
+**Bylight contract team**
 -	Barry Egbert (engineer)
--	Ken Graham (engineer)
+-	Bryan Riley (product)
+-	Mike Moyer (engineer)
+-	Arienne Walters (design)
+-	Anne Costello (design)
+-	Bobby Bailey (design)
+-	Lexi Wunder (design) 
+-	
 
 **Federal employees**
 -	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
--	Acting Head of OCC: Nancy Wilck
+-	Executive Director of Connected Care: Dr. Meredith Josephs
 -	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
--	Management analyst: Carnetta Scruggs (Engineering background. VHA, outside of OCC / MHV.)
+-	Management analyst/engineering oracle: Carnetta Scruggs
+-	Secure messaging product owner: Patti Henry
+-	Medical records product owner: Bresha Lipscomb
 
-### VBA 
-We need to include stakeholders from VBA but have not yet done so. 
-- Disability
-- Hearing aid batteries
-- Prosthetic socks
-- Travel pay
 
 ## Measuring success 
 
