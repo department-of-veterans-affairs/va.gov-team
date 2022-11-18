@@ -11,8 +11,9 @@ Last Updated: Oct 28, 2022
   
 |Name|Role|Email|
 |----|----|-----|
-|Leila Rassi |OCTO Lead| leila.rassi@va.gov |
-|Coulton Bunney |OCTO Design Lead| coulton.a.bunney@omb.eop.gov |
+|Lauren Alexanderson |OCTO Lead|lauren.alexanderson@va.gov|
+|Leila Rassi |OCTO Product Manager| leila.rassi@va.gov |
+|Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
 |Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
 |Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
 |Robyn Singleton| Core Team Researcher| robyn.singleton@adhocteam.us |
