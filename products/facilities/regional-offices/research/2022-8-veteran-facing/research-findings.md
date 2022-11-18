@@ -10,15 +10,11 @@ Aslan French: aslan.french@civicactions.com Dave Pickett: dave.pickett@civicacti
 
 Jump to:
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#hypotheses-and-conclusions)
-
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#key-findings)
-
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#recommendations)
-
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#who-we-talked-to)
-
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#further-research-needed)
+* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#hypotheses-and-conclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#key-findings)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#recommendations)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#who-we-talked-to)
+* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#further-research)
 
 # Research Goals
 
@@ -157,7 +153,7 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 
 # Additional Insights
 
-** Many Veterans cited frustration with phone assistance** 
+**Many Veterans cited frustration with phone assistance** 
 
 * 7 / 12 Ranked as their third preference out of receiving assistance via web, in-person, or over the phone
 * Phone trees and directories posed a level of frustration for Veterans, therefore they would rather show up in-person to ask questions about their specific needs
@@ -170,7 +166,7 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 > _“When I called to get clarification, I got no answer. You still find yourself trying to get there in person so you can get clarification.”_ - p17
 
 
-** Benefit tasks Veterans sought to complete**
+**Benefit tasks Veterans sought to complete**
 
 * Increasing disability rating was the most common in our sample - 9 / 12 participants
 * Seeking VA license plate
