@@ -37,7 +37,9 @@ There are a few of my teammates who would like to watch this session. **Would it
 * *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 * "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
 
-Today we're going to talk about VA Benefit Offices, these include Regional Offices, Veteran Readiness and Employment Offices, Pre-Discharge Sites and a couple other types. We're trying to learn about Veterans', service member's, and caregivers' experiences with visiting these locations.
+Today we're going to talk about VA Benefit Offices, 
+
+We're trying to learn about Veterans', service member's, and caregivers' experiences with visiting these locations.
 
 Before we start, a few things I want to mention:
 
@@ -50,14 +52,13 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 2 min 
 
-
-
 Before we dive into your facility’s operations, I’d like to learn about your work in general.
 * What’s your role at the VA? 
 * How long have you been in this role?
 * Which role do you report to?
 * What’s your favorite part of your job?
 
+## Services
 
 1. What benefit-related **services are offered** at these facilities?
    * How do services differ by benefit types? 
@@ -65,6 +66,8 @@ Before we dive into your facility’s operations, I’d like to learn about your
    * Are all services available consistently throughout the week?
    * Do any services require referrals to other facilities?
    * Are there any services unique to this region/facility?
+
+## Tasks
 
 2. What do Veterans typically **try to accomplish** during an in-person facility visit?
    * What are the most common tasks they complete?
@@ -80,6 +83,8 @@ Before we dive into your facility’s operations, I’d like to learn about your
      * Frustrations expressed by Veterans
      * How frequently are these problems encountered?
 
+## Experience
+
 3. What is the **typical Veteran experience** when visiting these facilities?
    *	Typical wait times?
    *	Busier days or time?
@@ -88,25 +93,14 @@ Before we dive into your facility’s operations, I’d like to learn about your
    *	How Veterans usually arrive at the facility? (drive, public transit?) 
    *	How long does it take for a Veteran to travel to a facility
 
+## Preparation
+
 4. What do Veterans need to know or do to be adequately **prepared** for a visit?
    * Does this differ by service? 
    * Could they have found that information on the website?
    * Most common thing Veterans are missing?
 
-
-### Facility operations
-**Facility staff role - 15 minutes**
-
-
-
-
-
-* Can you describe how Veterans access that service at your facility?
-* What do you see as Veteran's top pain points when accessing services? What is the most commonly heard complaint?
-
-
-
-### Closing
+## Closing
 * *Ask any additional follow up questions from #feedback-backchannel*
 * That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
 
