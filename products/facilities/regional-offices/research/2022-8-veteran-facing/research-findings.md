@@ -39,29 +39,29 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 # Research Questions
 
 1. What benefit-related tasks do Veterans complete at Benefit Offices?
-  * Is visiting a Benefit Office necessary/sufficient to complete the task?
-  * Do Veterans have preferred modalities for doing this task?
-  * If in-person/phone/online were all available, which would they choose?
-  * Do Veterans' mental models of benefit tasks align to the actual processes?
+   * Is visiting a Benefit Office necessary/sufficient to complete the task?
+   * Do Veterans have preferred modalities for doing this task?
+   * If in-person/phone/online were all available, which would they choose?
+   * Do Veterans' mental models of benefit tasks align to the actual processes?
 2. What is the Veteran experience of visiting a Benefit Office?
-  * How do Veterans travel to Benefit Offices?
-  * How do Veterans find their way to appointments within Benefit Office buildings?
-  * What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
+   * How do Veterans travel to Benefit Offices?
+   * How do Veterans find their way to appointments within Benefit Office buildings?
+   * What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
 3. What information do Veterans need when preparing for a visit?
-  * How do Veterans prepare for their visits?
-  * What tasks do they complete? (i.e. directions, paperwork)
-  * What modalities do they use? (i.e. web, phone)
-  * Do Veterans feel prepared before their visits?
-  * Are they actually prepared?
-  * Retrospectively, what would they have needed to be prepared?
+   * How do Veterans prepare for their visits?
+   * What tasks do they complete? (i.e. directions, paperwork)
+   * What modalities do they use? (i.e. web, phone)
+   * Do Veterans feel prepared before their visits?
+   * Are they actually prepared?
+   * Retrospectively, what would they have needed to be prepared?
 4. Do Veterans understand the different types of Benefit Offices?
-  * If yes, do Veterans understand the relationships between Benefit Offices?
-  * Are these relationships important to Veterans?
+   * If yes, do Veterans understand the relationships between Benefit Offices?
+   * Are these relationships important to Veterans?
 5. To what extent do the answers to questions 1-3 vary by:
-  * Facility type?
-  * Benefit service?
-  * Geography?
-  * Veteran demographics?
+   * Facility type?
+   * Benefit service?
+   * Geography?
+   * Veteran demographics?
 
 # Methodology
 
