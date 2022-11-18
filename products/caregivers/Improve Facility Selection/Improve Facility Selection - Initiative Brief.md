@@ -145,7 +145,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - What is the ultimate purpose this information will serve?
   - How might we get this information a different way?
   - Scenarios
-     - If the facility location selected helps determine the assocaited CG Facility for processing, how does this work if theey live in a different state?
+     - If the facility location selected helps determine the associated CG Facility for processing, how does this work if they live in a different state?
      - How does this work for seasonal travelers?
 
 ---
