@@ -1,104 +1,71 @@
 ## Outcome Summary
-The Lighthouse Claims API provides retrieves a veterans claims information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but this service has been historically unreliable. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue opportunities related to our product outcome goals and improve the performance of the application.  
+The Lighthouse Claims API provides retrieves a veterans claims information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but, historically, it has been difficult to interatively improve this service. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue our product goals and improve the performance of the application.  
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
-<!--
+* The transactions costs around collaboration have been high, it has been difficult to conduct joint discovery to determine what opportunities there might be to expand the number of attributes available for the Claim Status Tool. As a result, the pace at which we can pursue valuable bets and iterate on the status experience has been greatly reduced. 
+* It is extremely difficult to determine objective measures of application performance metrics related to the API calls being made. For example, metrics around latency are extremely limited.
+
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans experience faster application load times.
+- Over time, veterans are able to receive more reliable and useful information related to their claims so that their expectations are managed and they know what actions they can take to reduce the time waiting for a favorable decision.
 
-## Undesired User Outcomes
-## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
--->
+## Desired Benefits Crew Outcomes
+- The Benefits Crew is able to collaborate with a willing partner in Lighthouse to pursue big bets that require an expansion of the claims end point infrastructure.
+- The Benefits Crew is able to more rapidly iterate on CST functionality.
+- The Benefits Crew is able to monitor application performance more effectively.
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- number of reliable performance metrics we measure related to load times | baseline: currenty, we don't have any | Target: at least one
+- number of joint intiatives between Lighthouse and Benefits Team 1 to improve the CST | baseline: this initiative is the first | Target: 2 additional by the end of 2023
+- CST Avg. Medallia score | baseline 2.3 | Target: 4.5
+- number of attributes added to claims API |baseline 0 | Target: (dependent on initative goals)
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Low risk: The initial migration will not be adding any additional functionality or features for end users, but performance, such as load times, should improve.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We need to ensure that the new end points are actually working. There is a risk that we could migrate to Lighthouse end points and miss something critical that causes CST to omit critical status information or, worse, supply the wrong information. To mitigate this we are setting up reliable testing environments and creating documentation that captures the way we are mapping attributes.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  -Low risk: Lighthouse is an established and trusted provider of end point services, already able to interact with the BGS services gateway and already providing API services to existing VA applications. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - VA as an organization has made this migration a priority. 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
-
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+> The scope of this initiative is to migrate the existing claims-status API service over to Lighthouse.
+> We are not migrating the document service that allows veterans to submit additional evidence. That service will remain with EVSS.
 
 --- 
 
 ## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-
----
-   
-## Screenshots
-
-### Before
-
-### After
+Phase 1: End point migration from EVSS to Lighthouse (Dec 2022 - Jan 2023)
+Phase 2: Joint discovery on CorpDB data schema (Jan 2023 - February 2023)
+Phase 3: Make and pursue core bets (March 2023 - Dec 2023)
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Benefits Team 1
+- GitHub Label(s): lighthouse, claim-status-tool
+- Slack channel: benefits-team-1
+- Product POCs: Jacob Worrell
 
 </details>
 
@@ -108,11 +75,9 @@ The Lighthouse Claims API provides retrieves a veterans claims information from 
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO-DE
+- Contact(s): Matt Self
  
 </details>
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
