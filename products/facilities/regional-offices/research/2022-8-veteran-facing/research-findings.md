@@ -132,35 +132,28 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 
 > _“One-stop shopping is why I picked this one [regional benefits office]. I knew I could do everything in this office. I did some researching, and you could click on a toggle and this one popped up with everything I needed to handle I could do it at this site.”_ -p2
 
-Finding #3: Veterans encountered problems with authenticated experience.
+**Finding #3: Veterans expect Regional Benefit Offices to be “one-stop shops” for services**
 
-* No one reported any difficulties finding hours or location information on the VA website
-* Veterans reported problems with difficulty logging in, tracking the status of their applications, submitting applications digitally, which are all authenticated parts of the website.
+* Veterans used the website or Google prior to visiting a location to get a baseline understanding of offerings
+* Veterans have a high level of trust in staff at the Regional Benefits Office and most expressed satisfaction with their experience in-person
+* Veterans understood what they could expect at a Regional Benefits Office, but were less familiar with other types of locations
+  * Note: 83% of Veterans sampled had never visited another office
+* 9 / 12 Veterans visited a Regional Benefits Office and had no problems getting information on  the services they needed while there
 
-”I was looking to see if they could get me a copy of my case file, but they can not do that. I was trying to find out if my disability was static and the folks wanted nothing to do with me. I felt like I was interrupting their conversation that had nothing to do with the VA.” - p13
+> _“I think what gives them a 5-star rating is that they are a one stop shop. They can help you with everything that you may need assistance with”_ -p1
 
-Finding #4: Veterans found the information they wanted on the VBA website or Google Maps.
+> _“There is one [satellite benefits office] that is closer to my house, but I prefer to go to the one I went to initially because I have always had success there.”_ -p1
 
-* No one reported any difficulties finding hours or location information on the VA website
-* Veterans often didn’t check the VA websites, and instead relied solely on Google Maps.
+> _“The thing about going to the regional office is that is where all the information is available.”_ -p9
 
-”I had been there before because it is in the Satellite Office in the Department of Labor I had been there before when I got laid off. I Googled map to remind me of where it is at. Satellite I have in my phone, so I just had to click on the contact info and it popped up in my Google Maps.” - p9
+**Finding #4: Veterans aren’t sure of what tasks they can complete at the various VA offices**
 
-Finding #5: Veterans expect Benefit Centers to be “one stop shops” for services.
 
-* Only 1/12 Veterans interviewed expressed interest in knowing what specific services were available at the location they visited.
-* Veterans preferred to get the location information and immediately go and walk in and start asking questions with a human.
-* 9/12 Veterans visited a Regional Office and had no problems finding the services they needed.
-* 1/12 visited an IDESS location but they already knew what specialized service they were pursuing.
+* The differences between offices and what Veterans can accomplish at each isn’t obvious
+  * When in doubt, Veterans default to the Regional or Satellite Benefit Offices
+* Veterans were most confident about what they could accomplish at Regional Benefit Offices
 
-”No, those guys are pretty good about all that stuff. When I set up the appointment, he had an idea of what I was coming in with. I asked him if I needed to bring anything in with me, he told me no. If he needed something he could request it online, very rarely did I need to come home and grab records from home. Whoever is setting up the appointment will tell me if I need to bring anything” - p9
-
-Finding #6: Veterans demonstrated a sophisticated use of ad hoc social media communities to inform their relationship with the VA.
-
-* A Veteran reported using a subreddit called VeteranBenefits to inform their seeking a Disability benefit upgrade.
-* A Veteran reported following a Youtuber who was a disabled Veteran.
-
-”I first found out about it on a subreddit, VeteranBenefits” - p13
+> _“I would think that the information is pushed from Regional to Satellite and that they would recommend other offices if they thought it would benefit you more”_ -p1
 
 # Additional Insights
 
