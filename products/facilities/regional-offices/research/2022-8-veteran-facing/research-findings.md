@@ -157,64 +157,54 @@ The goal of this research is to understand a Veterans' experiences, impressions,
 
 # Additional Insights
 
-* Benefit tasks Veterans sought to complete:
+** Many Veterans cited frustration with phone assistance** 
 
-  * Increasing disability rating was the most common by far, 9/12.
-  * Seeking VA license plate
-  * Seeking guidance with education needs
-  * Seeking help getting name change
-  * Securing a home loan
-  * Seeking education funding
-  * Job placement services
-  * Forms assistance
-  * Determining access to mental healthcare benefits
+* 7 / 12 Ranked as their third preference out of receiving assistance via web, in-person, or over the phone
+* Phone trees and directories posed a level of frustration for Veterans, therefore they would rather show up in-person to ask questions about their specific needs
+* Phone assistance often left the Veterans without the answers they need to complete their task
 
-* Visiting the offices were necessary to gain information but Veterans did not  complete all necessary tasks in their visit.
-* Veterans do not understand the VA processes, and instead rely on direct human guidance for everything.
-* “I just go in because then I can talk to someone and ask questions.” -p9
-* Veteran experience visiting the actual offices:
-* Good customer experience with the office.
-* 11/12 stated they had a good experience with the receptionist and waiting room process.
-* Everyone interviewed went by car.
-* 1/12 Veterans made appointments.
-* Veterans relied on receptionists at the front desk to find the person they needed to speak to or their appointment.
-* All offices were reported as relying on a check-in and waiting area system.
-* Information that Veterans need before their visit:
-* They need their discharge form: DD-214
-* How Veterans prepare for their visits:
-* Most Veteran’s preparation consisted of bringing their discharge paperwork and looking up the address and that’s about it. Some spoke with friends or VSOs beforehand, or read/watched social media and commented on forums but many relied heavily on a sort of “show up and ask questions” approach.
-* Veterans feel prepared for their visit when asked.
-* Veterans do appear to be prepared as much as they can be expected to.
-* P3 specifically was unable to get their disability situation figured out due to some back and forth coordination issues between the Benefit Office and a VSO.
-* Veterans express a desire for better online submission and application tools.
-* Veterans do not understand the difference between different kinds of offices.
-* Regional and Satellite offices could be understood based on their name alone.
-* IDESS  gave everyone trouble (except for the one person who had visited an IDESS on purpose)
-* Pre-discharge and campus could be guessed based on prior knowledge. Veterans having been discharged themselves inferred pre-discharge was a site you visited prior to being discharged.
-* Veterans did not know the relationship between offices other than by inference such as Satellite and Regional Offices.
-* These relationships are not important to Veterans and they expect everything to be a “one-stop-shop”.
-* Answer Variance by context:
-* Facility type:
-* Not much, but also we lack the sample size to really determine this information.
-* Benefit service:
-* Not much, but also we lack the sample size to really determine this information.
-* Geography:
-* Not much, but also we lack the sample size to really determine this information.
-* Veteran demographics:
-* Not much, but also we lack the sample size to really determine this information.
+> _“I did check the website, and I did try calling and I was on hold forever. I think after 30 minutes of being on hold I gave up.”_ -p13
+
+> _“I haven’t always had good experiences with talking to people on the phone with giving out incorrect information. I just don’t trust that over reading or talking face to face.”_ -p14
+
+> _“When I called to get clarification, I got no answer. You still find yourself trying to get there in person so you can get clarification.”_ - p17
+
+
+** Benefit tasks Veterans sought to complete**
+
+* Increasing disability rating was the most common in our sample - 9 / 12 participants
+* Seeking VA license plate
+* Seeking guidance with education needs
+* Seeking help getting name change
+* Securing a home loan
+* Seeking education funding
+* Job placement services
+* Forms assistance
+* Determining access to mental healthcare benefits
 
 # Recommendations
 
-* Create VBA pages to follow existing facilities patterns
+1. Create VBA Regional Office pages to follow existing facilities patterns
+   * Most Veterans got preliminary information from VA website or Google
+   * Veterans were comfortable looking up information on facility pages
 
-  * No reports of people not finding the info they wanted on the website
-  * Most Veterans got information from Google Maps and didn't really need much more than that.
-  * Veteran pain points had to do with authenticated experiences, not public pages.
-  *
-* Follow up on potential research into synchronous and asynchronous human 2 human communication solutions
-* Veterans consistently cited a desire to speak to a person in person when they visited the locations. The actual relationship aspect of this is key.
-* Veterans sought out and used unofficial social media communities to great effect.
-* Follow up on potential research into Veteran awareness of what services are available to them.
+2. Implement clearer content when the steps to complete a task are complex or multi-step
+   * Veterans consistently cited a desire to speak someone if they felt their situation was complex
+   * Clearer content about what the requirements are for each benefit could save time and frustration for Veterans
+     * Share insights with Content Team and Benefits Team
+
+3. Follow up with research into the types of services available at each facility
+   * Make further distinctions about what services are available at what facility type
+
+## Further Research
+* Deep dive into what Veterans are visiting facilities for
+  * What do Veterans need to accomplish most often?
+  * What questions are they answering?
+  * Do their websites have the appropriate information for frequently asked questions?
+  * What is the Veteran experience at each facility type?
+* Additional research on how and when Veterans use their peer network for support
+* Forms usability and accessibility discovery
+* Content audit on accuracy and completeness of benefits processes listed on VA website
 
 # Appendix
 
