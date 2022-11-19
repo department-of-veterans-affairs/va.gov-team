@@ -36,7 +36,7 @@ Learn more about the key priorities in [previous sprint demo decks](https://driv
 
 
 ### VA Product Owner
-- John Rahagi
+- John Rahaghi
 
 ### Your team
 - Elizabeth Koch (Product Owner, Key Personnel)
