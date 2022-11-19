@@ -25,9 +25,9 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
   
 ## Currently in progress
 
-- **Education rates content:** Aiming for completion in September 2022
-- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Starting to migrate pages (3 pages migrated this week). Aiming for completion in October 2022
-- **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in December 2022
+- **Education rates content:** Aiming for completion in November 2022
+- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Costs and billings section migrated in September 2022. Aiming for completion of full migration in January 2023.
+- **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in January 2023
 - **Regional offices:** Aiming for estimated completed by FY2023-Q2 for Pilot office, FY2023-Q4 for complete roll-out
 
 ## Next up
