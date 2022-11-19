@@ -1,24 +1,22 @@
-## [_Meeting Title_]
-**Date:** [_Date_]
+## [Meeting title]
+### Date:
 
-**Attendees:** 
+### Attendees:
 
-### Notes
-
+### Notes:
 - 
 -
 
-### Next Steps
+### Next steps:
 @handle
 
-- [ ] [_Task 1_]
-- [ ] [_Task 2_]
+- [ ] [Task 1]
+- [ ] [Task 2]
 
 @handle
 
-- [ ] [_Task 1_]
+- [ ] [Task 1]
 
+### Personal input:
 
-**Personal Input**
-
-[_Thoughts on how the meeting went_]
+[How the meeting went or other thoughts to add]
