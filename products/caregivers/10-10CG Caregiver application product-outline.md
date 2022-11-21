@@ -134,14 +134,10 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 |% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|
 |Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|
 
-- *Key result 2: Decrease application processing time and follow-ups by customer support*
+- *Key result 2: Decrease application processing time and follow-ups by customer support* - **TBD from CG Team**
 - *Key result 3: Decrease number of status update calls to customer support* - **TBD from CG Team**
 
 
-#### Objective 3: Increase transparency of the application processing and decisions
-- *Key result 1: Decrease % of application inquiry calls to customer support*
-- *Key result 2: Increase application status checks online*
-- *Key result 3: Increase number of appeals filed after rejection decision*
 --- 
 
 ## Target Launch Date
