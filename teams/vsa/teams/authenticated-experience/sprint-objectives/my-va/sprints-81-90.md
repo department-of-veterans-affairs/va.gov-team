@@ -271,12 +271,20 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 - Liz: 11/30; 12/1 (1/2)
 
+### General
+
+**PM**
+
+- Review backlog with Samara (do this towards end of sprint)
+
 ### Payments V2
 
-- Launch to 25%
+- Launch to 25% (if not already done)
 - Launch to 50%
-- Launch to 100% (if time)
+- Launch to 100%
 - Update Documentation
+  - Update product guide as needed (For PM, Design, FE)
+  - Create design use cases and flows similar to what we did for on-site notifications
 
 ### On-site notifications
 
@@ -288,11 +296,6 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 - Analytics request
 - Continue/finish QA use cases
-
-**Design**
-
-- Research
-- Research write-up
 
 ## Sprint 89 (12/14 - 12/27)
 
