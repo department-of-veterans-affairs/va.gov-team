@@ -140,45 +140,28 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 --- 
 
-## Target Launch Date
-- Launched: 10/1/2020
+## Launch Dates
+- 10/1/2020: Caregiver Online form
+- 3/2022: Mulesoft Integration ph 1
+- 7/6/2022: Sign as a Representative - content update
+- 7/21/2022: "Same Address" Checkbox (Caregiver can use checkbox to indicate they have the same address as the Veteran)
+- 9/23/2022: Mulesoft Integration ph 2 (queueing and retries)
 
 ---
 
-# Implementation Info
-
-## Status
-- Focused on improving the Facility Selection page and connecting with Facilities/Lighthouse API
-- Initial discovery work on clarifying Primary and Secondary roles and responsibilities
-
 ## Solution Narrative
 
-**Pre-May 29th**
-- Unauthenticated form
-- Two signatures (printed names onto online form)
-- Form intro page
-- Downloadable submission receipt
-- Return ICN number for veteran and caregiver (if applicable)
-- Obtain static list of approved Caregiver facilities from CARMA
-- Create table in vets-api to link CARMA ID to form submission (+ date)
-
-**May 29th - Dark launch**
-- Not public facing
-- Allow for testing end-to-end testing in Staging
-
-**June 30th - Soft release*
-
-**Post-June 30th**
-- Ability to attach Power of Attorney documentation
-- Attach prefilled 10-10CG PDF to CARMA application
-- Prevent identical applications sent back-to-back
+### Status
+- Focused on improving the Facility Selection page and connecting with Facilities/Lighthouse API
+- Submit content for translation of entire form into Spanish
+- Initial discovery work on clarifying Primary and Secondary roles and responsibilities
 
 **Future goals**
 - Allow Veteran/Caregiver to track application status
-- To support Caregiver program in its expansion and reduce number of phone calls asking status question
-- Options:
-  - Use application ID number to query for status update
-  - Work with MPI to return status there
+     - To support Caregiver program in its expansion and reduce number of phone calls asking status question
+     - Options:
+          - Use application ID number to query for status update
+          - Work with MPI to return status there
 
 
 ## How to Access and Test
