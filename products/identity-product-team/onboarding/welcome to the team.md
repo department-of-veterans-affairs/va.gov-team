@@ -34,27 +34,36 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
 
 Learn more about the key priorities in [previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing).
 
+### Discovery team
+August - December 2022
 
-### VA Product Owner
-- John Rahaghi
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
+|Program Manager|Mike Prusaitis|mike.prusaitis@frog.co|
+|Design Director|Kit Casey|kit.casey@frog.co|
+|Associate Design Director|Samara Watkiss|samara.watkiss@frog.co|
+|Senior Product Manager|Pablo Cruz|pablo.cruz@frog.co|
+|Senior UX Designer|Bri Mazzio|briana.mazzio@frog.co|
+|Senior Strategist|Marissa Klein|marissa.klein@frog.go|
+|Visual Designer|Paul Knipper|paul.knipper@frog.go|
+|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 
-### Your team
-- Elizabeth Koch (Product Owner, Key Personnel)
-- Steven Dickson (Engineer Lead, Key Personnel)
-- Tyler Gindraux (Senior UX Researcher, Key Personnel)
-- Jay Tanner (Program Manager)
-- Carl Dickerson (Content Strategist)
-- Carolyn Williams (Senior Product Designer)
-- Yvonne Gardner (PIV Onboarding)
+### Implementation team
+December 2022 - 2023
 
-#### Teammates who will offboard after discovery:
-- Kit Casey (Design Director)
-- Mike Prusaitis (Associate Director, Program Management)
-- Samara Watkiss (Associate Design Director)
-- Pablo Cruz (Senior Product Manager)
-- Bri Mazzio (Senior Interaction Designer)
-- Marissa Klein (Senior Strategist)
-- Paul Knipper (Visual Designer)
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
+|Program Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
+|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
+|Content Strategist|Carl Dickson|carl@themostudio.com|
+|UX Designer|Carolyn Williams|carolyn@themostudio.com|
 
 ### When we work together
 We collaborate between 8am - 5pm EST. Meetings should be scheduled during this time. We currently hold the following all-team ceremonies:
