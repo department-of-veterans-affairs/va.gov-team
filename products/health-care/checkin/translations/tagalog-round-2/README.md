@@ -7,4 +7,7 @@
 - [LS-2022-0118394-B-FIL-FINAL_tagalog-round-2.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-B-FIL-FINAL_tagalog-round-2.json)
 - [LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-A-FIL-FINAL_updated_translations_08.18.22.json)
   - This file contains translations for DS components; they were forwarded to Matthew Dingee on 11/4
+  
+## QA Files Sent to Randi on 11/21/2022
+- [Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf)
 
