@@ -36,7 +36,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
-|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | TBD|
+|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | 57 submissions, 10% |
 
 
 **Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
@@ -45,7 +45,9 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
-|% of Click-thrus on email link | N/A | 25% of opened emails | TBD |
+|% of Click-thrus on email link | N/A | 25% of sent emails | 565 email links clicked, 31% |
+|# of emails sent | N/A | N/A| 1,825 emails sent |
+
 
 ---
 
