@@ -32,9 +32,10 @@ You'll need to create a feature toggle (or two) for any moderately or significan
 
 List the features toggles here.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| Toggle name | Description | Issue
+| ----------- | ----------- | ----------- |
+| [_TBD_] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
+|[_feature_homepage_v2: FEATURE_HOMEPAGE_V2_] | CMS feature flag/config setting controls the new homepage design deployment to Prod | [#10965](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10965)
 
 ## Step 2: Validation
 
@@ -92,6 +93,7 @@ Even though your feature has been tested and ready, production is still a differ
 
 > The opt-in modal will be governed by a feature toggle. We will monitor the deployment for unexpected behavior. By turning off the moda, we can prevent the redesigned user experience from being "advertised" or redirecting users to the page. 
 > [Create flipper for exposing the modal on live homepage #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653)
+> [VA-CMS Incident Response Procedure Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
