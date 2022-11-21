@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 11/16/2022 (updated 11/17/2022)
+Date: 11/16/2022 (updated 11/21/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -55,12 +55,12 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 
 ## Areas of focus
 In this research, we were primarily interested in the following areas of the home page as used in task completion:
-- Benefit promo (PACT Act article)
+- Benefit promo (PACT Act article at time of research; intent is that content will be rotated)
 - _Create account_ button
 - The new search box
 - _Other search tools_
 - _Popular on VA.gov_
-- VA News promo (Pathfinder article)
+- VA News promo (Pathfinder article at time of research; intent is that content will be rotated)
 - Benefit hubs
 
 # Methodology 
@@ -242,7 +242,8 @@ Participants shared some ideas for how they wanted to improve the home page, whi
 # Recommendations
 Below are some potential recommendations based on the usability test findings. Any updates on next steps are denoted in _CAPS_.
 ## For the home page redesign effort
-1. Since valuable real estate at the top of the home page isn't being used much (benefit promo and *Create account* button), consider whether **more of the top of the home page could have the most used and useful items** (e.g., *Popular on VA.gov*, Search, *Other search tools*, and maybe the benefit hubs), rather than items with lower usage (e.g., benefit promo, *Create account* button). Maybe we could decrease the size of the PACT Act promo and the *Create account* area. _NOT DOING_
+1. Since valuable real estate at the top of the home page (benefit promo and *Create account* button) wasn't used much by people who have accounts on VA.gov, consider whether **more of the top of the home page could have the most used and useful items** (e.g., *Popular on VA.gov*, *Search*, *Other search tools*, and maybe the benefit hubs), rather than items with lower usage (e.g., benefit promo, *Create account* button). Maybe we could decrease the size of the PACT Act promo and the *Create account* area. _NOT DOING_
+     1. **Monitor usage by ALL users after launch via analytics**–both experienced and not experienced users, and as the promo content changes. _IN PROCESS_ 
 > *"Want in first view [at top], not scrolling scrolling scrolling...The most important things should be at the top or under the menu instead of scrolling" (p1).*
 2. **Make links under *Popular on VA.gov* more task-oriented** with destinations that are different from the benefit hubs (whose descriptions mention exploring and applying), such as the following: _IN PROCESS_
      1. Instead of "VA health care", "Manage my VA benefits" could open the sign-in dialog and then go to the authenticated *My Health* page. Or, it could be a specific health care task-focused link, such as "Message my doctor". 
