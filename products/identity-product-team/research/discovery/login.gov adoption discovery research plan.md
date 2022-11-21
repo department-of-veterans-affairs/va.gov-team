@@ -1,4 +1,4 @@
-# Research Plan: Migration to Login.gov
+# Research Plan: Login.gov Adoption Discovery
 November 2022
 
 ## Background
