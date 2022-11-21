@@ -90,7 +90,12 @@
 ![image](https://user-images.githubusercontent.com/92328831/203120872-32e70984-4be2-45a2-b438-f48c6c0f42ec.png)
 
 - Key result 2: Decrease number of drop-off/exit rates while completing the application
+     - As of 10/2022, the percentage of exit rates have been trending downward.  We are noticing a significant increase in October, and will continue to monitor.
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
+|-------|----|----|----|----|----|----|----|
+|10-10 EZ	|47.37%	|28.03%	|33.37%	|13.49%	|10.54%	|8.13%	|36.60%|
 
+![image](https://user-images.githubusercontent.com/92328831/203131451-e2dad96b-792f-44bc-a706-e154586d91a8.png)
 
 
 #### Objective 3: Provide an effortless application completion process
@@ -114,35 +119,16 @@
 ## Assumptions
 - If we make the online health care application:
   - More user friendly 
-  - Give clearer explanation of required information + why it is required
+  - Give clearer explanation of required information & why it is required
   - Shorten the form to collect the minimum of what is needed to begin processing
   -  Provide reminders for authenticated users who have saved application, but not returned to it
 -  then more Veterans will complete the health care application online.
 
 ## Solution Approach
 
-- As of 10/2020, we're going to focus on:
- - Updating the UI to meet VA.gov design & accessibility standards
- - Adding a question distinguishing between mailing & residential addressses
- - Updating the questions on the online form to align with the new 10-10EZ
-- As of 11/2020, we're going to focus on:
-   - Validating assumptions regarding usage of the online form pre- and during COVID
-   - Using that research to guide whether to focus our Q1 efforts on the form itself or how Veterans get to the form.
-- As of 04/2021-05/2021, we're going to focus on:
-   - Understanding what Veteran pain points are with the current application process (research and discovery)
-   - Gain insight on offline workarounds used by VA staff who process applications
-   - Updating any content around the health care application pages that may be a source of confusion
-   - Understanding what methods can be used to prompt authenticated users to return to the application after save/exit
-- As of 05/2021, we're going to focus on:
-   - Testing design and content iterations based on research discovery to improve user experience
-- As of 01/2022, we're going to focus on:
-   - Creating dashboards in Datadog
-   - Implementing Short-form Ph 1
-- As of 9/2022, we're going to focus on:
+- As of 11/2022, we're going to focus on:
    - Improving the flow and burden of completing the Household section of the form
-
-
-
+   - Continue gaining insights from various metrics and Medallia feedback
 
 --- 
 
@@ -152,7 +138,12 @@
 
 
 ## Launch Dates
-- 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
+Note: 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
+- 8/23/2022: Medicare Claim number field added to the form
+- 10/11/2022: American Indian question added to the form
+- 10/31/2022: 10-10EZ Short Form launched 100%
+     - Trending 30%-40% application submission being through the Short Form flow, and a 98% submission rate of total Short Form applications.
+- 11/1/2022: 10-10EZ Saved-in-progress email reminders launched 100%
 ---
 
 ## Solution Narrative
@@ -160,9 +151,9 @@
 ### Current Status
 
 - As of 11/2022, we are
-   - Monitoring the recent 100% launch of the Short Form, resulting in a trending 25-30% application submission being through the Short Form flow, and a 99% submission rate of total Short Form applications.
-   - Monitoring the recent 100% launch of in-progress application email reminders to authenticated applicants via VA Notify
-   - Preparing for moderated research sessions on the Household section optimization design
+   - Preparing for moderated research sessions on the Household section optimization design in December
+   - Preparing for moderated research sessions on the entire form to gather baseline data and feedback
+        - This will help inform our next initiatives
 
 
 ### Key Decisions
@@ -170,7 +161,7 @@
 - American Indian question
    - The decision to phrase the Indian health question, by listing the qualifications/definitions of "Indian", was made due to the HEC Leadership stakeholders questioning our decision to phrase the question initially as "Are you an American Indian or Alaska Native?" rather than match the paper form verbiage "Are you an Indian?".  Our initial Online language had been approved in late 2021, however once we were ready to release in August 2022, the language format came up again.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from August and September 2022
 - Self-Identifying Gender Identity (SIGI)
-   - The decision to use the terms on this feature to identify various Gender types was made based on extensive research on this topic in 2021, aligning with the current format in the VA.gov Profile, and using plain language to reflect a comfortable, conversational format.  The HEC Leadership stakeholders have questioned the use of the terms on the Online form being different from the paper form (Man vs Male, Woman vs Female, etc), and have submitted to CICPO (Compliance integrity) for review.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from October and November 2022
+   - The decision to use the terms on this feature to identify various Gender types was made based on extensive research on this topic in 2021, aligning with the current format in the VA.gov Profile, and using plain language to reflect a comfortable, conversational format.  The HEC Leadership stakeholders have questioned the use of the terms on the Online form being different from the paper form (Man vs Male, Woman vs Female, etc), and have submitted to CICPO (Compliance integrity) for review.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from October and November 2022.
 ---
    
 ## Screenshots
@@ -191,7 +182,7 @@
 - Team Name: 10-10 Team
 - GitHub Label: #1010-team, 1010-ez
 - Slack channel: #1010-health-apps
-- Product POCs: Chris D, George C, Danielle T
+- Product POCs: Heather Justice, Mark Fallows
 - Stakeholders: Lauren Alexanderson, Christopher Hawkins, Tarsha Tremble, Stacey Echols
 
 </details>
