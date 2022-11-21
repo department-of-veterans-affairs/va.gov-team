@@ -15,7 +15,7 @@
   - (3) Watchful waiting 
 - Users viewing homepage July 1 - October 31, 2022 = 8,933,445
 
-|	Metric	| Rationale | Measured by	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number/%)	|	Target  | Importance   |
+|	Metric	| Rationale | Measured by	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number/% of users)	|	Target  | Importance   |
 |	---	|	---	|	---	|	--- |--- |---	|
 | Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | | |
 |	Use of authenticated experience should be maintained or increased	| One of the primary goals | # of logged in users/month	|	3,701,932/41.44%	|	 | |
