@@ -84,15 +84,14 @@ Modal
 
 _Acceptable known risk: Veterans or beneficiaries who opt-in to the redesigned experience may not be able to easily return to the redesigned page after navigating to deeper content pages. The user may be able to return to the redesigned page using the back button. This user will have another opportunity to opt-in from the homepage during the next VA.gov session._
 
+- This modal will use an existing pattern and the engineering team will conduct [Discovery for the soft launch modal](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/11587) to resolve any pending implementation questions. 
+
 ### Define the Rollback process
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+> The opt-in modal will be governed by a feature toggle. We will monitor the deployment for unexpected behavior. By turning off the moda, we can prevent the redesigned user experience from being "advertised" or redirecting users to the page. 
+> [Create flipper for exposing the modal on live homepage #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653)
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
