@@ -83,7 +83,7 @@
 #### Objective 3: Provide meaningful support to those that need it
 - Key result 1: Increase % of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
 - Key result 2: Increase number of application completions in a single session
-   - As of 9/2022, we have seen a 6-month decreasing trend for the percentage of applications completed in a single session
+   - As of 9/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
