@@ -16,7 +16,3 @@
 @handle
 
 - [ ] [Task 1]
-
-### Personal input:
-
-[How the meeting went or other thoughts to add]
