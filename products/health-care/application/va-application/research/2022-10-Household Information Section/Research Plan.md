@@ -114,11 +114,11 @@ We will request partipants with critera that were not covered in the studies con
 | Female                        |                        |
 | \---                          | \---                   |
 | **_RACE_**                    |                        |
-| Black                         | 3                      |
+| Black                         | 4                      |
 | White                         | 1                      |
-| Latinx                        | 3                      |
-| Asian                         | 3                      |
-| Native                        | 3                      |
+| Latinx                        | 2                      |
+| Asian                         | 4                      |
+| Native                        | 2                      |
 | Pacific Islander              | 2                      |
 | \---                          | \---                   |
 | **_AGE_**                     |                        |
