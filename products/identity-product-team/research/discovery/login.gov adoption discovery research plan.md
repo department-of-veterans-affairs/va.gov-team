@@ -6,8 +6,8 @@ Currently there are multiple ways to sign on and access My HealtheVet (MHV) and 
 
 ### OCTO Objectives 
 
-2. Veterans can manage their health services online 
-7. Veterans and their families trust the security accuracy and relevancy of VA.gov  
+- Veterans can manage their health services online 
+- Veterans and their families trust the security accuracy and relevancy of VA.gov  
 
 ### Veteran Journey
 Although being able to use Login.gov to securely access My HealtheVet and other VA services is relevant throughout a Veteran’s journey, we are particularly focused on a few life stages and their corresponding moments that matter. We are interested in proactively intervening with Veterans who are starting-up and attending to health needs to make sure they are able to create a Login.gov account they will use to access My HealtheVet going forward. We are also focused on Veterans who are retiring and taking care of their health, and Veterans who are aging and managing their declining health to make sure they have clear and technically-feasible options to transition their access to My HealtheVet to Login.gov and ID.me. 
