@@ -46,7 +46,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 | KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
 |% of Click-thrus on email link | N/A | 25% of sent emails | 565 email links clicked, 31% |
-|# of emails sent | N/A | N/A| 1,825 emails sent |
+|# of emails sent | N/A | 95% delivery rate| 1,825 emails sent, 98% email delivery rate |
 
 
 ---
