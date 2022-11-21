@@ -1,8 +1,8 @@
 # Caregivers Product Outline
 - GitHub Label: 1010-team
 - Slack channel: #1010-health-apps
-- VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
-- Product POCs: 
+- VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
+- Product POCs: Heather Justice, Mark Fallows
 ---
 
 ### Table of Contents
@@ -36,18 +36,18 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## Solution Goals
 
-- Enable formal and informal caregivers and Veterans to submit the right information allowing for fast, transparent adjudication so they can get the support they need.
+- To provide an easy and convenient online path for Veterans and their Caregivers to apply for Family Caregiver Program benefits, so that they can get quick access to the support and services they need.
 
 ### User Goals
-- Caregivers and veterans want to be able to fill out the 10-10CG online.
+- Caregivers and veterans want to be able to fill out and submit the 10-10CG online with little effort.
 
 ### Business Goals
-- Feed application data directly to CARMA
+- Feed application data directly to CARMA, through MuleSoft middleware
 - Accomodate the influx of applications that's expected due to changing program eligibility
-- Make the user journey feel safer and more accomodating 
+- Make the user journey feel safer and more accomodating
 
 ## Assumptions
-- Caregivers and Veterans will prefer to fill out the 1010-CG online rather than on paper.
+- Caregivers and Veterans will prefer to fill out and submit the 1010-CG online rather than on paper.
 
 
 ## Requirements and Constraints
@@ -79,6 +79,9 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## KPIs and OKRs
 
+<details>
+	<summary> Original KPIs and OKRs</summary>
+	
 ### KPIs
 - How many applications are submitted (harder to find)
 - How many applications are submitted online
@@ -89,13 +92,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
-
-#### Baseline KPIs
-
-- TBD
-
-### OKRs
-    
+   
 #### Objective 1: Make it easier to Veterans to apply to the PCAFC			
 - Key result 1: Increase the number of successful online applications to the PCAFC (Target: 500)
 - Key result 2 Decrease the number of requests for application assistance from the Contact Center (Target: 50 )
@@ -107,23 +104,36 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 			
 #### Objective 3: Improve the experience of being a caregiver			
 - Key result 1: Improve caregiver and veteran assessments of the PCAFC 	
+
+</details>
+
 ---
 ### New OKRs from 2022 Workshop
 #### Objective 1: Increase in number of VA-recognized Caregivers
 - Key result 1: Increase the number of successful online applications to the PCAFC
-   - As of 9/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted
+   - As of 10/2022, we have seen a 7 month overall increasing trend of the number of applications started and subsequently submitted
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|   Oct|
 |-------|----|----|----|----|----|----|
-|10-10 CG	|65.83%	|66.01%	|70.23%	|67.06%	|67.88%	|72.64%|
+|10-10 CG	|65.83%	|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|
 
 
-- Key result 2: Increase % of caregivers who obtain approval for benefits
+- Key result 2: Increase % of caregivers who obtain approval for benefits - **TBD from CG Team**
 
 #### Objective 2: Decrease time from submission to decision
-- Key result 1: Decrease application completion time
+- Key result 1: Increase number of application completions in a single session
+   - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
+
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
+|-------|----|----|----|----|----|----|----|
+|10-10 EZ - Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|
+|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|
+|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|
+|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|
+|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|
+
 - Key result 2: Decrease application processing time and follow-ups by customer support
-- Key result 3: Decrease number of status update calls to customer support
+- Key result 3: Decrease number of status update calls to customer support - **TBD from CG Team**
 
 #### Objective 3: Increase transparency of the application processing and decisions
 - Key result 1: Decrease % of application inquiry calls to customer support
