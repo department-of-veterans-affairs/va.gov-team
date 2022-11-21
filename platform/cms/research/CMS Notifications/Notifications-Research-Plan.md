@@ -1,6 +1,6 @@
 # Editor-facing Research Plan for Sitewide CMS Notifications - November 2022
 
-This final research plan is published in the [CMS Research Repo](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
+This final research plan is published in the [CMS Research Repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/CMS%20Notifications) and in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
 This research is to provide product requirements for the [MVP Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10477) in response to [VA Directive 6102](https://www.google.com/url?q=https://www.va.gov/vapubs/viewPublication.asp?Pub_ID%3D1056%26FType%3D2&sa=D&source=docs&ust=1668727018626949&usg=AOvVaw0GMUCcz3wCLL1HcSL_TzhS) which aims to update outdated content on VA websites. This directive requires that CMS editors review their content yearly to ensure that information is still relevant. Any outdated content will need to be either updated or removed to comply with Directive 6102.
