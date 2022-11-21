@@ -102,12 +102,10 @@ We will request partipants with critera that were not covered in the studies con
 
 **Cohort 1**
 - 5 completed sessions
-- December 6th - December 9th
 - Desktop prototpye
 
 **Cohort 2**
 - 5 completed sessions
-- December 19th - December 21st
 - Mobile prototype
 
 
@@ -284,7 +282,7 @@ Desktop Prototype
 
 
 ### Research sessions
-* Planned dates of research: 2 cohorts: Cohort 1 December 6-9, 2022; Cohort 2 December 19-21, 2022
+* Planned dates of research: December 6-9, 2022 and December 19-21, 2022
 
 
 ### Length of sessions
