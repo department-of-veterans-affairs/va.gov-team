@@ -1,62 +1,62 @@
 # Primary vs Secondary Clarification - Initiative Brief
 
-- [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
-- [Primary vs Secondary - Transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) from April 2022
-- [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
-- [Discovery ticket #35838](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/35838)
-- [Research Findings with Feedback on Primary vs Secondary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-findings.md#additional-insights)
-- Notes from Design story [#22372](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372)
->Comment from Shawna
->- One participant explicitly stated that she wanted the questions to be on a single page: "Maybe if there is a way to have primary and secondary together to explain the differences so I know right off the bat what I'm applying for." Another had issues with the placement of the "Learn more" components and thought those components were the actual questions.
->
->Note from the CG program team:
->
->- They have been receiving a higher than usual amount of Secondary CG applications. These are from older Veterans.
->- They feel there is a lack of understanding what a secondary CG is - that it comes with heavy commitments and requirements similar to the primary, such as check-ins, >etc.
->- Lack of understanding of the difference of Primary and Secondary - responsibilities, benefits, etc.
->- Secondary is not just anyone who helps out (such as underage child, etc.)
->- It is unclear whether when applying for secondary, the applicant needs to **reenter** primary CG information
->- Applicants are unclear if they **HAVE** to enter both Primary and Secondary (eg. They see Secondary so they enter one- sometimes same info as Primary)
-
-Historic volume of Primary & Secondary Caregivers submitted
-|2022 Month|1 Primary|1 Primary, 1 Secondary|1 Primary, 2 Secondaries|1 Secondary|2 Secondaries|Total Applications|Total Primary|Total Secondary|
-|------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|July|3,999|576|114|37|1|4,727|4,689|843|
-|August|4,643|780|141|45|4|5,613|5,564|1,115|
-|September|5,775|940|196|46|4|6,961|6,911|1,386|
-|October|12,318|1,849|386|99|6|14,661|14,556|2,738|
----
-
 ## Problem
 
-Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is - if there are different requirements (there aren't) and what benefits are different.
+Veterans and their Caregivers are confused about the difference between a Primary and Secondary Caregiver, and about the process of including them while completing the application. This confusion is causing application abandonment. Abandoned applications can result in complaints on the form itself or simply a decrease in applications submitted successfully. Ultimately, this may result in caregivers not receiving the support and services they need.
 
-OCTO-DE Objectives: This change will help with increasing the accessilibility, reliability and security of Veteran's digital services.  It will also help reduce the time it takes for Veterans to find, use and receive VA services, by making the roles and benefits between the two types of Caregivers clear and easy to understand.
+Evidence of this problem includes
+[Findings/observations from unrelated research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-findings.md#additional-insights) indicate
+Users are unclear about the difference between a Primary and Secondary Caregiver, including difference in the requirements and benefits for each 
+Confusion may be created in part because the selection to apply for each is separated in the flow. The applicants would like the Primary and Secondary Caregiver definitions/requirements listed together, rather than on separate pages in the application
+Stakeholder input, documented in [the initial design ticket (from May 2021)](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372) indicates:
+The applications being received (as of May 2021) list a higher than usual number of Secondary Caregivers.
+They feel there is a lack of understanding what a Secondary Caregiver is
+They feel there is a lack of understanding what the difference is between Primary and Secondary Caregivers
+Confusion on how to complete the application when only adding a Secondary Caregiver
+Confusion on whether they are required to have a Secondary Caregiver
+Data, such as 
+Anecdotal evidence of duplicated applications (we are unable to quantify this report)
+The abandonment rate for the 10-10CG is 32% over 4 months, compared to 23% for the 10-10EZ.  We see a significant exit rate within the first Secondary Caregiver section, between the Identification (name, address) and the Contact info (Phone, email) pages. There is a monthly average of 550+ applications (31%) that start the Secondary Caregiver section, but then exit the application before completing and moving on to the next section.  This exit rate makes up about 12-13% of total applications started.  
+
+## Why is this work important to prioritize at this time/over other work?
+
+This is important because 
+There is a potential to impact ~1,000 Veterans and their caregivers monthly, based on 1,300 average applications that include Secondary Caregivers, over a 4 month period.
+Eligibility was expanded October 1, 2022 to include Military Service from all eras. This doubled the number of submitted applications. The number of applications with Secondary Caregivers more than doubled from 1,186 applications in September to 2,343 applications in October.  
+
+## OCTO-DE objective alignment
+This change will help with increasing the accessibility, reliability and security of Veteran's digital services.  It will also help reduce the time it takes for Veterans to find and apply for VA services, by making the roles and benefits between the two types of Caregivers clear and easy to understand.
 
 ## Outcome Summary
 
-* As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives,  so that we can apply for the correct one.
-* Provide clarity between Primary and Secondary Caregiver roles and benefits, reducing duplicate and abandoned applications.
+Veterans and their Caregivers can quickly and easily submit the Caregiver application in a single session, while confidently listing the Caregivers in their intended hierarchy
 
 ## Desired User Outcomes
-* Clear understanding of the Primary and Secondary Caregiver roles and benefits
+* Clear understanding of the Primary and Secondary Caregiver roles, benefits, and eligibility requirements
 * Confidence in completing the form accurately
 * Trusting that VA processes will provide expected results
 
-## Undesired User Outcomes
-* Uncertainty of the difference between Primary and Secondary Caregiver roles and benefits
-* Frustration and/or confusion causing application abandonment
-* Distrust in VA and its processes
 
 ## Desired Business Outcomes
 * Reduced duplicate applications
 * Reduced application abandonment
 * Increased trust and satisfaction
 
-## Undesired Business Outcomes
-* no change or increase in duplicate applications
-* no change or increased application abandonment
-* Distrust in VA and its processes
+
+|2022 Month|Total Applications|% with Primary|% with Secondary|
+|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+|July|4,727|4,689|728| 99%|15%|
+|August|5,613|5,564|970|99%|17%|
+|September|6,961|6,911|1,186|99%|17%|
+|October|14,661|14,556|2,343|99%|16%|
+
+## Related 
+- [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- [Primary vs Secondary - Transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) from April 2022
+- [Primary/Secondary Caregiver - Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
+- [Discovery ticket #35838](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/35838)
+
+
 
 ---
 ## Measuring Success
@@ -65,16 +65,15 @@ OCTO-DE Objectives: This change will help with increasing the accessilibility, r
 
 ### Objective: Update the 10-10CG to clarify the roles and benefits of the Primary and Secondary caregivers
 
-#### **Key Result #1:** Reduce drop-off/exit rate for the application
+#### **Key Result #1:** Reduce drop-off/exit rate within the Secondary Caregiver section on the application
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
-| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | Baseline - July-Sept 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | TBD  | TBD | TBD|TBD|
-|Section Exit rates?? |TBD  | TBD | TBD|TBD|
+|Section Exit rates | 13% | TBD | TBD|TBD|
 
 
 #### **Key Result #2:** Reduce duplicate applications (Can CG Contact Center (CSP) get us this info?)
@@ -86,25 +85,40 @@ Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-he
 
 #### **Key Result #3:** Increased Trust in VA services
 
-Data source - Medalia survey results?
+Data source - Medallia survey results: October 2021 - September 2022
 Data source - Contact Center feedback?
 
-| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | Baseline out of 28 total A11 Surveys | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Trust  | TBD  | TBD | TBD | TBD |
+|General VA Trust - Rating 1 | 0% | TBD | TBD | TBD |
+|General VA Trust - Rating 2 | 0% | TBD | TBD | TBD |
+|General VA Trust - Rating 3 | 21% | TBD | TBD | TBD |
+|General VA Trust - Rating 4 | 11%  | TBD | TBD | TBD |
+|General VA Trust - Rating 5 | 18%  | TBD | TBD | TBD |
+
+
+| Product KPI | Baseline out of 28 total A11 Surveys | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Trust in VA Commitment to Veterans - Rating 1 | 4% | TBD | TBD | TBD |
+|Trust in VA Commitment to Veterans - Rating 2 | 7%  | TBD | TBD | TBD |
+|Trust in VA Commitment to Veterans - Rating 3 | 0% | TBD | TBD | TBD |
+|Trust in VA Commitment to Veterans - Rating 4 | 14%  | TBD | TBD | TBD |
+|Trust in VA Commitment to Veterans - Rating 5 | 25%  | TBD | TBD | TBD |
+
 ---
 
 ## Discovery
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - There is a Risk that applicants will still have difficulty determining the difference between the Primary and Secondary Caregiver roles and benefits
+  - There is a Risk that the content changes will not be sufficient, and applicants will still have difficulty determining the difference between the Primary and Secondary Caregiver roles and benefits
+  - There is a risk that the clarification will not improve the abandonment rate and/or duplicate applications
 - **Usability Risks** (can people figure out how to use it):
   - There is a risk that, due to lack of clarity, applicants may not know how to complete the application accurately
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - There is a low risk of technical issues that would be due to this change.  The usual overall VA>gov risks are still applicable, which are focused on service reliability and performance.
+  - There is a low risk of technical issues that would be due to this change.  The usual overall VA.gov risks are still applicable, which are focused on service reliability and performance.
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - The risk/constraint is that the stakeholders will not have favorable feedback on the changes
+  - The risk/constraint is that the stakeholders will not have favorable feedback on the changes, and may not approve the updates.
 
 ### What're you building
 
@@ -142,7 +156,7 @@ This table includes links to the individual design work products.
 
 ### Incident Response Info
 - The 1010CG form is currently in production
-- We are updating content only. There are no changes to the form's performance, architecture, API enpoints or security.
+- We are updating content only. There are no changes to the form's performance, architecture, API endpoints or security.
 - 1010CG [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
 ### Timeline 
@@ -207,4 +221,3 @@ TBD
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
-
