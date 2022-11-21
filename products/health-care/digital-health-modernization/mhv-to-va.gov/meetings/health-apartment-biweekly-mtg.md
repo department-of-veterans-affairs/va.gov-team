@@ -1,5 +1,96 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+## 2022-11-21
+
+### Discussion Notes
+- Today we will continue with Jonathan's strategy rather than our normal agenda
+- VA Profile has a lot of what's in the demographics.  We don't want to have a separate section where people are updating their demographics that is separate from VA Profile
+- Check-in workflow - insurance file in VistA, need to talk to those teams about what they already have so we don't duplicate.
+- Samara has done a lot of work with the MHV team in the past; mapping the fields MHV Profile has vs. the fields the VA Profile team has.   We would need to coordinate with VA Profile team to get those added.
+- MHV Health Information Car is sort of tied into Profile and Insurance.  Per Lauren this definitely needs to be pulled. This need to be in the backlog
+- DoD information - don't need to look at DoD team - how much is being pulled into MHV from DoD now?  Per Bobby Bailey, not much
+- Point of the Cerner go-live is to give Veterans the "whole of life" picture.  
+- Health applications team in OCTO - in order to present Veterans with a holistic past view in the future, we will need to pull that from the same place as VAOS. We also need to explore where that will be shown -- appointments or medical records?  New service VAOS will be pulling from which will be the canonical source of truth
+- This year the VAOS team is hyper-focused on appointments for the Health Apartment.  We will need to dovetail with them on what needs to appear on a BB report.
+- Dr. Spahn said that it's good for allergies and medications need to show up together
+- It's policy on MHV side that we display allergies when we display medications.  
+- Doesn't flag prescriptions as something they are allergic to - this might be a nice feature if it flagged a medication that someone had a reaction to
+- Can a Veteran remove an allergy they have self-entered?  Bobby believes so.
+- Lauren and Eric talked to Dr. Spahn and some others last week and asked them if they would disambiguate a history list from current meds
+	- Medication list could be meds you are on
+	- Meds in your treatment plan
+	- Actionable, fillable, renewable list
+	- They talked about the possibility of integrating with retail pharmacies so that that data could be brought in for Community Care info, and possibly even allow you to refill them from VA.gov (stretch goal)
+	- We have to understand how many jobs there are to be done, and what can be done in various views.
+	- We have to be very clear to disambiguate current/past medications - or I am taking this, I'm not taking this as prescribed, I'm not taking this
+	- A memo/note field would be helpful for Veterans to note what they took a particular medication for
+	- Vitals are mainly self-entered today.  Lauren - would love to pull that from the visit if we can
+	- On Pharmacy side of MHV have share vitals sent to. PGHD to keep track of what's shared - we're not sure if that's part but Shane Elliot and Rob Dirkin would know, as well if we can't get that directly 
+	- Vitals could be an opportunity to in
+	- Neil Evans said that the way VistA is set up, bits of data are not associated with a particular appointment
+	- Bobby will look at an after-visit summary
+	- Let's look at VistA before we start exploring other sources. If it's coming 
+
+- Initially we said that we would go domain by domain and learn from the Mobile app team, and Jonathan wants to confirm that approach still makes sense 
+- Lauren - hypotheis is that we probably do want to make sure we have all the domains covered, but she's coming back to the grouping that the Veterans came up with as well as the jobs to be done by some of those groupings.  Part of her would like to return to some of that data to help information what we group, and how we structure conceptual wire frames
+- Other thoughts - Marci - talked with Jonathan on Friday and think that the domains are going to be the domains regardless of how we group them, and we can be figuring out what a given domain looks like concurrently with figuring out how they will hook into each other
+- Lab and test results correspond  to - I'm checking to stay on top of my health care.  Not necessarily a to-do except to follow up 
+- The whole section around demographics - do we (Apt team) have to even develop that at all - may already be covered.  Do we point them over there, or do we pull in a view?
+- Are these view only? Our hypothesis is that they would want to view vs. just download
+- Bobby - have we done a content inventory?  Jen has.  Under each domain, she did.  Has she identified the overlaps? Not yet, but there are overlaps.  
+- Is there an exercise where go through every domain and look at the PHI, the API, map Cerner data, then we can decide if we want to show it in multiple places.
+- We do want to be thinking about the webbing between those things
+- Lauren is a little wary of going to our design meeting until we get out of the "squiggle" part of our discovery.  We want to come to that presentation with some very clear "what's next".  
+- We certainly don't want to do that right before Thanksgiving. 
+- We need to show that we have very clear findings from the interviews, data mapping
+- If we go into the presentation where we know all that we will have a much more seamless way forward
+- We need to have enough info to go into PI planning with what we're doing.  Next week could be a good solid week of work
+- Maybe we create a super-short research plan then divide and conquer
+
+
+### Chat Transcript
+
+- Lexi Wunder to Everyone (2:10 PM)The MHV Health Information Card is sort of tied into Profile and Insurance. Do we think this needs to be considered here too?
+- Lauren Alexanderson to Everyone (2:11 PM)
+	- Yes definitely should be pulled
+	- Opportunity for redesign
+	- Including understanding use of the health information card
+	- (I def see the value of it)
+- Lauren Alexanderson to Everyone (2:19 PM)
+- Spah
+- *spahn
+- Allergies / Meds are the place where I think PGHD gets funky.
+- Lexi Wunder to Everyone (2:23 PM)
+	- Self-entered allergies show up on the Health Info Card (I don’t believe clinician-entered allergies show up).
+- Jenny Wang to Everyone (2:23 PM)
+	- Bobby, which policy is it?
+- Lauren Alexanderson to Everyone (2:23 PM)
+	- That seems risky too though - if only some of your allergies show
+	- Are we only interested in medication history or medications?
+	- 
+- Danielle Thierry to Everyone (2:30 PM)
+	- I have to drop for my 2:30. Thanks!
+- Lauren Alexanderson to Everyone (2:30 PM)
+	- Thanks danielle
+	- Would love to pull that from the visit if we can
+- Jenny Wang to Everyone (2:36 PM)
+	- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf
+	- this is a sample of AVS
+	- Vitals are on there
+- Jonathan Nelson to Everyone (2:36 PM)
+	- Thanks, Jenny
+- Bobby Bailey to Everyone (2:37 PM)
+	- Awesome Jenny! Yes, I just asked and we do have vitals in AVS.
+- Lauren Alexanderson to Everyone (2:37 PM)
+	- Nicccce
+	- Lauren Alexanderson to Everyone (2:39 PM)
+		- “What is included in this domain and what isn’t”
+	- Bobby Bailey to Everyone (2:39 PM)
+		- I am assuming that data is the same that BB is pulling.
+	- Lauren Alexanderson to Everyone (2:39 PM)
+		- Esp for mvp
+
+
 ## 2022-11-17
 - Medical Records research findings (Robyn)
 - Pharmacy integrations we discussed with Eric Spahn (and the Amazon Alexa play)
