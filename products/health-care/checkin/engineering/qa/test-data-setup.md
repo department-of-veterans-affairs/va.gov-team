@@ -175,7 +175,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 25  | Three, Patient | 1935-04-07 | Paras |
 | 229 | Four, Patient | 1935-04-07 | Andy |
 | 231 | Five, Patient | 1935-04-07 | Justin |
-| 418 | Six, Patient | 1935-04-07 | Chris Wilmsen |
+| 418 | Six, Patient | 1935-04-07 | Peyton |
 | 253 | Seven, Patient | 1935-04-07 | Carl |
 | 3   | Eight, Patient | 1935-04-07 | Stephen |
 | 8   | Ten, Patient | 1935-04-07 | QA Team |
