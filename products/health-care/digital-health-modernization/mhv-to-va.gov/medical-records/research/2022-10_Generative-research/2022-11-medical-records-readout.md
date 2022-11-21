@@ -116,7 +116,7 @@ Participants consistently argued that the same term should be used for online re
 
 Labels: label 1, label 2 
 
-###Medical Record Use Cases
+### Medical Record Use Cases
 |View, Download, or Share|     Purpose for medical records       |              Use case              |
 |------------------------|----------------------------------------------|------------------------------------|
 |View                    | Understand their health and/or monitor health|Quickly understand their health by reviewing vitals or labs/test results (looking for “flags,” within normal bounds, etc.)|
@@ -202,136 +202,96 @@ Labels: label 1, label 2
 AT cognitive interviewing + findings
 
 
-## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-medical-records-research-plan.md)
 
-[Conversation guide](link here)
+[Veteran Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-conversation-guide-Veterans.md)
 
-[Interview transcripts](link here)
+[Caregiver Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-conversation-guide-Caregivers.md)
+
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[Notetaking mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666625596260/90fc2a6158fd66770cd596c2c8c28b5602cee416?invited=true&sender=u7de68ed54bc434b67b630908)
+[Optimal Workshop Card sort](https://bit.ly/mrcardsort)
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **15 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 13
+* Caregivers: 4
+* Family members of a Veteran: 4 
+_Adds up to more than 15 because some participants fulfilled multiple categories._
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 10 
+* Female: 5 
 
 
 LGBTQ+:
-* Transgender: x 
+* Transgender: unknown - not included as recruitment criteria 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Gay, lesbian, or bisexual: unknown - not included as recruitment criteria
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 13
+* Tablet: 0
+* Smart phone: 2 
+* Assistive Technology: 4
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 5
+* 45-54: 2 
+* 55-64: 3
+* 65+: 3
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 5
+* Master's degree: 5
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 9
+* Rural: 6
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 13
+* Black: 2
+* Hispanic: 0
+* Biracial: 0
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: Unknown - many AT users turned out to be false positives, so do unclear how accurate Perigean data is
+* AT beginner: 0
+* AT intermediate: 1
+* AT advanced user: 0
+* Desktop screen reader: 1
+* Mobile screen reader: 0
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 1
+* Hearing aids: 2
+* Sighted keyboard: 0
+* Captions: 1
 
 
 ## Underserved groups we haven’t talked to 
