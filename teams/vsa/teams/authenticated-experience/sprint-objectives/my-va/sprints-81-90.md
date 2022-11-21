@@ -279,7 +279,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 **Design**
 
-- Make sure Sketch files are in good shape for handoff. It should be clear what are (1) existing/live designs, (2) design explorations, (3) designs we intend to implement (eg. updates for the audit.
+- Make sure Sketch files are in good shape for handoff. It should be clear what are (1) existing/live designs, (2) design explorations, (3) designs we intend to implement (eg. updates for the audit).
 
 ### Cerner updates
 
