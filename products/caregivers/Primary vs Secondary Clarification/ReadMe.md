@@ -4,25 +4,25 @@
 
 Veterans and their Caregivers are confused about the difference between a Primary and Secondary Caregiver, and about the process of including them while completing the application. This confusion is causing application abandonment. Abandoned applications can result in complaints on the form itself or simply a decrease in applications submitted successfully. Ultimately, this may result in caregivers not receiving the support and services they need.
 
-Evidence of this problem includes
-[Findings/observations from unrelated research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-findings.md#additional-insights) indicate
-Users are unclear about the difference between a Primary and Secondary Caregiver, including difference in the requirements and benefits for each 
-Confusion may be created in part because the selection to apply for each is separated in the flow. The applicants would like the Primary and Secondary Caregiver definitions/requirements listed together, rather than on separate pages in the application
-Stakeholder input, documented in [the initial design ticket (from May 2021)](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372) indicates:
-The applications being received (as of May 2021) list a higher than usual number of Secondary Caregivers.
-They feel there is a lack of understanding what a Secondary Caregiver is
-They feel there is a lack of understanding what the difference is between Primary and Secondary Caregivers
-Confusion on how to complete the application when only adding a Secondary Caregiver
-Confusion on whether they are required to have a Secondary Caregiver
-Data, such as 
-Anecdotal evidence of duplicated applications (we are unable to quantify this report)
-The abandonment rate for the 10-10CG is 32% over 4 months, compared to 23% for the 10-10EZ.  We see a significant exit rate within the first Secondary Caregiver section, between the Identification (name, address) and the Contact info (Phone, email) pages. There is a monthly average of 550+ applications (31%) that start the Secondary Caregiver section, but then exit the application before completing and moving on to the next section.  This exit rate makes up about 12-13% of total applications started.  
+Evidence of this problem includes:
+- [Findings/observations from unrelated research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-findings.md#additional-insights)
+     - Users are unclear about the difference between a Primary and Secondary Caregiver, including difference in the requirements and benefits for each. 
+     - Confusion may be created in part because the selection to apply for each is separated in the flow. The applicants would like the Primary and Secondary Caregiver definitions/requirements listed together, rather than on separate pages in the application
+- Stakeholder input, documented in [the initial design ticket (from May 2021)](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/22372) indicates:
+     - The applications being received (as of May 2021) list a higher than usual number of Secondary Caregivers.
+     - They feel there is a lack of understanding what a Secondary Caregiver is
+     - They feel there is a lack of understanding what the difference is between Primary and Secondary Caregivers
+     - Confusion on how to complete the application when only adding a Secondary Caregiver
+     - Confusion on whether they are required to have a Secondary Caregiver
+- Data, such as 
+     - Anecdotal evidence of duplicated applications, which cause additional review by CSC and Veterans are asked to re-apply
+     - The abandonment rate for the 10-10CG is 32% over 4 months, compared to 23% for the 10-10EZ.  We see a significant exit rate within the first Secondary Caregiver section, between the Identification (name, address) and the Contact info (Phone, email) pages. There is a monthly average of 550+ applications (31%) that start the Secondary Caregiver section, but then exit the application before completing and moving on to the next section.  This exit rate makes up about 12-13% of total applications started.  
 
 ## Why is this work important to prioritize at this time/over other work?
 
 This is important because 
-There is a potential to impact ~1,000 Veterans and their caregivers monthly, based on 1,300 average applications that include Secondary Caregivers, over a 4 month period.
-Eligibility was expanded October 1, 2022 to include Military Service from all eras. This doubled the number of submitted applications. The number of applications with Secondary Caregivers more than doubled from 1,186 applications in September to 2,343 applications in October.  
+- There is a potential to impact ~1,000 Veterans and their caregivers monthly, based on 1,300 average applications that include Secondary Caregivers, over a 4 month period.
+- Eligibility was expanded October 1, 2022 to include Military Service from all eras. This doubled the number of submitted applications. The number of applications with Secondary Caregivers more than doubled from 1,186 applications in September to 2,343 applications in October.  
 
 ## OCTO-DE objective alignment
 This change will help with increasing the accessibility, reliability and security of Veteran's digital services.  It will also help reduce the time it takes for Veterans to find and apply for VA services, by making the roles and benefits between the two types of Caregivers clear and easy to understand.
@@ -68,7 +68,6 @@ Veterans and their Caregivers can quickly and easily submit the Caregiver applic
 #### **Key Result #1:** Reduce drop-off/exit rate within the Secondary Caregiver section on the application
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-
 Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 | Product KPI | Baseline - July-Sept 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
