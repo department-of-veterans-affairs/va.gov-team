@@ -351,12 +351,27 @@ These tickets are particularly high priority, but feel free to add tickets and o
 
 ### Overall priorities
 
-We can talk specifics closer to this sprint, but the general priorities will be:
+Let's get done what we can, and wrap it up with a nice bow! No new work should start (besides easily doable FE tickets). This should be about getting things into shape for the transition.
 
-- Wrap up any FE work we can
-- Document all finished work in GitHub
+**Sharon**
 
-Basically, get done what we can, and wrap it up with a nice bow! No new work should start (besides easily doable FE tickets). This should be about getting things into shape for the transition.
+- Towards the end of the sprint, let's set up a meeting to review the backlog
+
+**Design**
+
+- If any design work that has been previously started is open, let's get that wrapped up (eg. something like the account settings updates). Otherwise, don't start new design tickets.
+- Make sure Sketch files are ready for hand-off.
+
+**For FE**
+
+- Wrap up any FE work we can (whether that is accessibility work or other tickets). I wouldn't start a lot of new work. Make sure everything from the last couple of sprints is closed out, and give FE a chance to review documentation to see if anything needs to be updated.
+
+**For everyone**
+
+This is a **top** priority, so please favor updated documentation over new tickets.
+
+- Review ALL documentation to figure out what needs to be updated (this will most likely be any design use cases that have changed based on recent FE changes)
+- Update any documentation that needs it
 
 ### Bad address indicator
 
