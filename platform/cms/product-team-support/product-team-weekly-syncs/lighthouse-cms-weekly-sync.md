@@ -14,6 +14,14 @@
 
 </details>
 
+## Monday, November 21, 2022 
+* v1 status check
+* Mental health phone numbers
+  * DS pursuing from J's latest report  
+* KB Articles for support AI>>Joshua to provide 1st draft
+* Support Country Code
+
+
 ## Monday, November 14, 2022 
 * v1 status check
   * Foucsed on latency investigation, will have some documentation, can provide status, what the issue was, no solidified date for when we can take the next step
