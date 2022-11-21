@@ -1,6 +1,6 @@
 # Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
-**Last update: June 22, 2022**
+**Last update: November 21, 2022**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
@@ -20,8 +20,13 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 
 ## Codes
-TBD
+
+N/A
 
 ## How to reproduce
-1. Log into staging with user (TBD)
+
+**Do not save any account information for this user.**
+
+1. Log into staging with vets.gov.user+82
 2. Navigate to Profile > Direct deposit
+3. Do not save any account information for this user.
