@@ -256,20 +256,20 @@ Below are some potential recommendations based on the usability test findings. A
 
 ## Beyond the home page (out of scope but can discuss with other teams)  
 
-### To DISCUSS with Sitewide CONTENT/IA
+### Consider suggestions and collaborate with Sitewide CONTENT/IA
 7. **Change the "mental health" link in the footer to go to the modernized mental health page** that the link in *Popular on VA.gov* goes to. 
 7. **Add "mental health" to the megamenu under health care** as another way to go there. 
-8. **Add "View or change dependent" to Family Member Benefits page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent". 
+8. **Add "View or change dependent" to the _Family Member Benefits_ page**, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent". *REQUESTED updates to top recommendations (Best Bets)*
 9. **Add "View disability rates" to megamenu under Disability**, as a search autocomplete suggestion, and a search "top recommendation".
 10. **Make clear on the disability application page that this form can be used to *increase your existing disability rating*** (i.e., add to heading "or increase your current rating").
 4. **Add to *Other search tools* a link to a new content page that contains _all_ education-related search tools**, including *GI Bill Comparison Tool* and *Yellow Ribbon*. 
 
-### To DISCUSS with other teams
+### Consider suggestions and collaborate with other teams
 13. **Fix the mobile version of the megamenu so that it always opens the same way, *without* the last option used already opened**. This issue was recently fixed on desktop, but the mobile version wasn't changed. _IN PROCESS WITH LAURA FLATTERY, who is following up on this issue and will add it to a ticket with other improvements to the header_
-2. To potentially address the low successful completion rate for the *Message your doctor* task, work with the Health Apartment team to **find a more intuitive way for people to manage VA health care from the VA.gov home page**, or just leave health care managing tasks to the Authenticated/My VA page after users sign in. _HEALTH APT TEAM WORKING ON_
-3. **Talk to the team that works on the *Veterans Crisis Line*** to share the following two findings: _FIND SOMEONE TO REACH OUT TO_
-     1. The red button in the top right of VA.gov pages wasn't seen by one screen magnifier user on a computer. Additional user research should be conducted with screen magnifier users to see if this issue affects others. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop screen like it does on mobile.
-     1. On a smartphone, opening the link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
+2. To potentially address the low successful completion rate for the *Message your doctor* task, **find more intuitive ways to help people manage their VA health care in collaboration with the Health Apartment, Content/IA, and Authenticated Experience teams**. Or leave the health care managing tasks to the Authenticated/My VA page after users sign in. _HEALTH APT TEAM WORKING ON_
+3. **Investigate issues with the *Veterans Crisis Line* (VCL) buttons in collaboration with Accessibility Specialists and the team that works on the VCL**: 
+     1. The red VCL button in the top right of VA.gov pages wasn't seen by one screen magnifier user on a computer. **Additional user research should be conducted with screen magnifier users** to see if this issue affects others. The button would likely be more visible if aligned with the left side of the page or if it extended all the way across the desktop screen like it does on mobile.
+     1. On a smartphone, opening the VCL link in the footer and then closing the dialog returns you to the top of the home page instead of the footer where they were.
 12. **Find and remove the two old disability compensation rate content pages from 2011 and 2014** so that they aren't found by site search. _DANIELLE THIERRY TO FOLLOW UP WITH VBA about this published content on TeamSite._
 13. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). _POTENTIALLY FOR ROLLOUT COORDINATION WITH OPIA_
 
