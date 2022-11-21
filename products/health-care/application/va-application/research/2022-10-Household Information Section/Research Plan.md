@@ -165,7 +165,7 @@ We will request partipants with critera that were not covered in the studies con
 | **_EDUCATION_**               |                        |                       |
 | Elementary                    |                        |                       |
 | Intermediate                  |                        |                       |
-| GED                           | 2                      | 2                     |
+| GED                           | 1                      | 1                     |
 | High School                   | 1                      | 1                     |
 | Some College                  | 1                      | 1                     |
 | Associate's                   |                        |                       |
@@ -246,10 +246,10 @@ We will request partipants with critera that were not covered in the studies con
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     3      |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
-|Attention-Deficit/Hyperactivity Disorder (ADHD)              |          2 |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
 |Autism                                                       |            |
 |Vertigo                                                      |            |
 |Aphasia                                                      |            |
@@ -258,7 +258,7 @@ We will request partipants with critera that were not covered in the studies con
 |Distractibility                                              |            |
 |Memory loss                                                  |            |
 |Reading difficulties                                         |            |
-|Low tolerance for cognitive overload                         |          3 |
+|Low tolerance for cognitive overload                         |            |
        
 
 
