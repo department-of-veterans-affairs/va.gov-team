@@ -6,7 +6,8 @@
 - How might we improve the experience of Veterans who are applying for VA health care online?
 
 ## Goal
-- Enable Veterans to access VA Health care easily with any device, at any time, with or without assistance
+- To provide an easy and convenient online path for Veterans to apply for VA health care benefits
+
  
 ## Desired User Outcomes
 - Veterans are comfortable and confident applying online
@@ -34,6 +35,9 @@
 ---
 ## Measuring Success
 
+<details>
+ <summar>Original KPIs and OKRs</summary>
+
 ### Key Performance Indicators (KPIs)
 
 * How many Veterans are looking at the How to Apply page?
@@ -59,31 +63,39 @@
 - Objective: More eligible Veterans apply for health care online
   - Key result: Number of applications increase
   - Key result: Proportion of applications submitted online vs. in person increases 
+ 
+ </details>
 ---
 ### New OKRs from 2022 Workshop
 #### Objective 1: Increase use of the VA Health Care program
-- Key result 1: Decrease number of applications that require additional review or revisions
-- Key result 2: Increase % of Veterans who successfully apply for benefits online
-   - As of 9/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted.  We are noticing a significant drop from September to October, and will continue to monitor for the cause.
+- *Key result 1: Increase % of Veterans who successfully apply for benefits online*
+   - As of 10/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted.  We are noticing a significant drop from September to October, and will continue to monitor for the cause.
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
 |10-10 EZ	|53.87%	|71.97%	|66.33%	|86.51%	|89.46%	|91.87%|63.40%|
 
+![image](https://user-images.githubusercontent.com/92328831/203115282-7e121e44-1516-41ab-9801-ade0a6f43d5f.png)
 
-
-- Key result 3: Increase % of Veterans who obtain approval for benefits
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
-- Key result 1: Decrease application completion time
-- Key result 2: Decrease application processing time (including follow-ups by customer support)
-- Key result 3: Increase number of application completions across multiple devices for ease of use
-- Key result 4: Decrease number of drop-off/exit rates while completing the application
+- Key result 1: Increase number of application completions across multiple devices for ease of use
+     - As of 10/2022, the percentage of device use across desktop, mobile and tablet devices have held steady for 7 months
+|Device	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|
+|-------|----|----|----|----|----|----|----|
+|Desktop	|71.0%	|70.30%	|70.7%	|71.3%	|73.5%	|72.3%	|72.3%|
+|Mobile|	27.6%	|28.10%	|27.9%	|27.0%	|24.9%	|26.2%|	26.3%|
+|Tablet|	1.4%	|1.50%	|1.4%|	1.6%	|1.6%	|1.5%	|1.4%|
 
-#### Objective 3: Provide meaningful support to those that need it
-- Key result 1: Increase % of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
-- Key result 2: Increase number of application completions in a single session
-   - As of 9/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
+![image](https://user-images.githubusercontent.com/92328831/203120872-32e70984-4be2-45a2-b438-f48c6c0f42ec.png)
+
+- Key result 2: Decrease number of drop-off/exit rates while completing the application
+
+
+
+#### Objective 3: Provide an effortless application completion process
+- Key result 1: Increase number of application completions in a single session
+   - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
@@ -93,9 +105,10 @@
 |% of 3 sessions|	17.91%	|12.63%|	10.85%|	7.81%	|7.94%	|8.27%|8.65%|
 |Totals	|11,903	|14,737	|14,065	|11,548	|10,673	|9,391	|10,277|
 
+![image](https://user-images.githubusercontent.com/92328831/203114564-29182e4a-56c4-45ff-933a-35a3f6906e89.png)
 
+![image](https://user-images.githubusercontent.com/92328831/203114674-ae09aff9-2c07-4552-a55a-d17ae81abffc.png)
 
-- Key result 3: Decrease number of abandoned applications
 ---
 
 ## Assumptions
