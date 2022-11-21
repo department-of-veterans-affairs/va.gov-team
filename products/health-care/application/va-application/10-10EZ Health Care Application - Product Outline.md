@@ -36,7 +36,7 @@
 ## Measuring Success
 
 <details>
- <summar>Original KPIs and OKRs</summary>
+ <summary>Original KPIs and OKRs</summary>
 
 ### Key Performance Indicators (KPIs)
 
@@ -65,7 +65,9 @@
   - Key result: Proportion of applications submitted online vs. in person increases 
  
  </details>
+ 
 ---
+
 ### New OKRs from 2022 Workshop
 #### Objective 1: Increase use of the VA Health Care program
 - *Key result 1: Increase % of Veterans who successfully apply for benefits online*
@@ -79,8 +81,9 @@
 
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
-- Key result 1: Increase number of application completions across multiple devices for ease of use
+- *Key result 1: Increase number of application completions across multiple devices for ease of use*
      - As of 10/2022, the percentage of device use across desktop, mobile and tablet devices have held steady for 7 months
+
 |Device	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|
 |-------|----|----|----|----|----|----|----|
 |Desktop	|71.0%	|70.30%	|70.7%	|71.3%	|73.5%	|72.3%	|72.3%|
@@ -89,8 +92,10 @@
 
 ![image](https://user-images.githubusercontent.com/92328831/203120872-32e70984-4be2-45a2-b438-f48c6c0f42ec.png)
 
-- Key result 2: Decrease number of drop-off/exit rates while completing the application
+- *Key result 2: Decrease number of drop-off/exit rates while completing the application*
+
      - As of 10/2022, the percentage of exit rates have been trending downward.  We are noticing a significant increase in October, and will continue to monitor.
+
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
 |-------|----|----|----|----|----|----|----|
 |10-10 EZ	|47.37%	|28.03%	|33.37%	|13.49%	|10.54%	|8.13%	|36.60%|
@@ -99,7 +104,7 @@
 
 
 #### Objective 3: Provide an effortless application completion process
-- Key result 1: Increase number of application completions in a single session
+- *Key result 1: Increase number of application completions in a single session*
    - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
 |Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
