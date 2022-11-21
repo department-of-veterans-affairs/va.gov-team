@@ -277,12 +277,18 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 - Review backlog with Samara (do this towards end of sprint)
 
+### Cerner updates
+
+- Launch these, if we have not already done so (assuming we are ready to do so based on our work/the new Drupal updates)
+
 ### Payments V2
+
+**Launch and documentation updates are #1 priority this sprint**
 
 - Launch to 25% (if not already done)
 - Launch to 50%
 - Launch to 100%
-- Update Documentation
+- Update Documentation 
   - Update product guide as needed (For PM, Design, FE)
   - Create design use cases and flows similar to what we did for on-site notifications
 
