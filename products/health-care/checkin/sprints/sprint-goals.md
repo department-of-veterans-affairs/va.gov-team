@@ -1,6 +1,6 @@
 # SPRINT GOALS
 
-## 11/20/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
+## 11/30/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
 
@@ -24,6 +24,9 @@
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
+- [Spanish Support - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43505)
+    - Add translations
+    - Send QA screenshots to SD
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (all)
     - Perform accessibility testing (all)
