@@ -297,6 +297,10 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Analytics request
 - Continue/finish QA use cases
 
+**FE**
+
+- Finish FE build, if not done
+
 ## Sprint 89 (12/14 - 12/27)
 
 ### PTO
