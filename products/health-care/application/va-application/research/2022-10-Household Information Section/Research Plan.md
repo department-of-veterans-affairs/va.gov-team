@@ -298,8 +298,6 @@ Tuesday, December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
 Wednesday, December 7, 2022  | 5pm - 7pm 
 Thursday, December 8, 2022  | 1:30pm - 6:30pm 
 Friday, December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
-
-------------------|--------------
 Monday, December 19, 2022 | 12pm-3pm 
 Tuesday, December 20, 2022 | 1:30pm-2:30pm and 4pm-7pm 
 Wednesday, December 21, 2022 | 3pm - 7pm 
