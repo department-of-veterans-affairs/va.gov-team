@@ -148,9 +148,8 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 # Implementation Info
 
 ## Status
-- Focused on launching an MVP of the form
-- Dark launch (only in staging): 05/29/2020 (completed)
-- Release (Program approval of all online changes - not just the form): 10/1/2020
+- Focused on improving the Facility Selection page and connecting with Facilities/Lighthouse API
+- Initial discovery work on clarifying Primary and Secondary roles and responsibilities
 
 ## Solution Narrative
 
