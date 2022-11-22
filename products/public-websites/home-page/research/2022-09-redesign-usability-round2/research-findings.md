@@ -274,8 +274,12 @@ Below are some potential recommendations based on the usability test findings. A
 13. Consider sharing feedback with OPIA about focusing on VA news (e.g., [VA closes gap in survivor benefits for LGBTQ+ Veterans and survivors](https://news.va.gov/109836/va-closes-gap-survivor-benefits-lgbtq-survivors/)) and not including non-news explanations of benefits (e.g., [What is the difference between VA Life Insurance and Service-Disabled Veterans Life Insurance?](https://news.va.gov/109922/difference-va-life-insurance-sdvi/)). _POTENTIALLY FOR ROLLOUT COORDINATION WITH OPIA_
 
 # Next Steps
-
-- Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
+- **Present results** to the Sitewide Public Websites team and any other interested teams
+- **Follow up with other teams** (Sitewide Content/IA, Health Apartment, Authenticated Experience, Veterans Crisis Line, and Accesssibility) about some of the findings and recommendations
+- **Monitor analytics and Medallia feedback** for the redesigned home page to inform future design iteration: 
+  - The new search box, *Create account* button, and engagement with both promos
+  - Task completion initiated from the home page
+  - Repeat usage of the redesigned experience via opt-in during soft launch before full launch
 
 # Further research needed
 1. Do **more usability testing with participants who don't have an account on VA.gov**. We'd like to learn about any expectations about having an account *vs.* not having one, and we'd like to see whether people know when to use the _Create account vs. Sign in_ buttons. We also want to get user feedback on using the *Create account* button, which didn't happen in this study because all participants already had an account on VA.gov. See if there's any confusion after the button is selected, especially with the modal that has _Sign in_ at the top and _Create an account_ farther down.
