@@ -258,12 +258,13 @@ We will request partipants with critera that were not covered in the studies con
 
 ### Screener
 - Will you be joining with a mobile device? [Must be true for 7 participants - see table above]
+- [Instructions] Mobile participants please join the meeting on your mobile device.
 
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+> Scheduled for November 28, 2022
 
-**December 6-21, 2022** 
-
+**December 6-14, 2022** 
 
 
 ### Prepare
@@ -272,42 +273,33 @@ We will request partipants with critera that were not covered in the studies con
 
 Desktop Prototype
 * Pilot participant email: Matt Long (matt.long@adhocteam.us)
-* Date and time of pilot session: 
+* Date and time of pilot session: Wednesday, November 30 at 2pm EST
 
-Desktop Prototype
+Mobile Prototype
 * Pilot participant email:  Lisa Zapson (lisa.zapson@adhocteam.us)
-* Date and time of pilot session: 
-
+* Date and time of pilot session: Thursday, December 1 at 1pm EST
 
 
 ### Research sessions
-* Planned dates of research: December 6-9, 2022 and December 19-21, 2022
-
+* Planned dates of research: December 6-14, 2022
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour 
-* Maximum Sessions per day: 2
+* Maximum Sessions per day: 3
 
 
 ### Availability
 
-Team Availability | Time (ET)
-------------------|--------------
-Tuesday, December 6, 2022  | 1:30pm - 2:30pm and 3:30pm - 4:30pm
-Wednesday, December 7, 2022  | 5pm - 7pm 
-Thursday, December 8, 2022  | 1:30pm - 6:30pm 
-Friday, December 9, 2022  | 12pm - 2 pm and 3pm-7pm 
-Monday, December 19, 2022 | 12pm-3pm 
-Tuesday, December 20, 2022 | 1:30pm-2:30pm and 4pm-7pm 
-Wednesday, December 21, 2022 | 3pm - 7pm 
-
-
-
-_Only use if necessary_ | Time (ET)
-------------------|--------------
-January 2023      | TBD
-TBD               | TBD
+| **Team Availability**        | **Time (ET)**          |
+| ---------------------------- | ---------------------- |
+| Tuesday, December 6, 2022    | 1:30pm - 4:30pm        |
+| Wednesday, December 7, 2022  | 1:30pm - 7pm           |
+| Thursday, December 8, 2022   | 1:30pm - 7pm           |
+| Friday, December 9, 2022     | 11am - 2pm and 3pm-7pm |
+| Monday, December 12, 2022    | 12pm-7pm               |
+| Tuesday, December 13, 2022   | 1:30pm - 7pm           |
+| Wednesday, December 14, 2022 | 1:30pm - 7pm           |
 
 
 	
