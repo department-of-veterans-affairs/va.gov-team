@@ -206,7 +206,7 @@ _Participant: So Hospitalized Treatments I would say you are not really making a
 
 This anchor reflects information organization around the HCP practice area or diagnosis participants referred to. For example, participants described organizing information by information produced in interactions with a general practitioner versus by that produced by an orthopedist, podiatrist, or other specialty. 
 
-_"Pretty much just separating it by type of doctor, specialty, so if you were looking for one specific thing, you can find it. 'Okay, I am looking for pain management.'...Separating out one specialty, by time period. It would make it a lot easier to find what I'm looking for."_ - Veteran, male, age 56, current MHV user
+_"Whatever area the doctor is treating is in, you could go to that specialty care tab and find the images, the doctor notes, the medication, I feel like it could all be in one spot. Maybe different parts of the body could have its own section._ - Veteran, female, age 40, MHV account
 
 Others described wanting to look for information relating to a particular diagnosis they had received, usually by specialists - e.g., a shoulder injury or traumatic brain injury. Because these diagnoses often overlapped with medical specialties, we consider them deviations from the same general category. 
 
@@ -214,13 +214,19 @@ Organizing by HCPs was also cited as an easy way to organize information. Howeve
 
 <img width="972" alt="image" src="https://user-images.githubusercontent.com/100814257/203360418-2bfb470a-7f53-4353-b351-6dadef72b540.png">
 
-**6. Time was a consistent theme across interviews. Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.** 
+**6. Time was a consistent theme across interviews.** 
 
 Labels: label 1, label 2 
 
+Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible. When asked, participants described expecting most recent information to be at the top of a page with less recent information further down. 
+
+Several participants described desiring that information be elevated that required an action on their part - e.g., schedule a follow-up visit or ask a question to a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.
+
 - Urgency/ to do example: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-04-Caregiver-10.md
 
-- Wants to put together appts/meds in own cateogry because want to look at regularly: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-07-Veteran-12.md
+At times, this manifested as explicit requests for reminders or cues to action: 
+
+_"I would say under my account if there was a medical history that would be good, maybe listing them out as up-to-date or over-due. Because I did go to an appointment once, and they said it looks like you are over-due for this and I was like what! So something that categorize what needs to be done, like this shot needs to be done this month. Something like that. That goes into…getting reminders about that. Like text reminders from the VA."_ - Veteran, female, age 40, MHV account
 
 **7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records. 
 
