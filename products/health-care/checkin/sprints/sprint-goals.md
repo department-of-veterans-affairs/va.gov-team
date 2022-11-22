@@ -1,8 +1,23 @@
 # SPRINT GOALS
 
+## 12/14/2022 - 12/27/2022 ---------------------- FUTURE -----------------------------
+
+#### Planned Releases -------------------- TENTATIVE ------------------------------
+
+#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+
+#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+
+#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Production Support]() 
+- CIE Tech Debt & Bugs
+    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
+
 ## 11/30/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
+- NONE
 
 #### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
@@ -11,6 +26,7 @@
 - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+- [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (Kelly, Zach, Ben, Lori)
     - Perform accessibility testing (Kelly, Zach)
@@ -30,12 +46,12 @@
 - [Production Support]() 
 - [Spanish Support - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43505)
     - Add translations
-    - Send QA screenshots to SD
+    - Send QA screenshots to SD (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (all)
     - Perform accessibility testing (all)
 - CIE Tech Debt & Bugs
-    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
+    - ??????
 
 
 ## 11/16/2022 - 11/29/2022 
