@@ -31,7 +31,7 @@ Because we don't want to whitelist valid operations per attribute on the model, 
   - Sticks with convention of other mobile endpoints.
 
 #### Cons
-  - Longer, hard to read urls for requests with multiple filter parameters. URLs can be 6000 characters long. Encoding special characters used in the filter query params will use some of that space, but it's unlikely that the 6000 character limit will be a problem.
+  - Longer, hard to read urls for requests with multiple filter parameters. URL length limits depend on browswers and webservers. Browswers are not relevant for our purposes, and popular webservers like nginx and apache support at least 4000 characters. Encoding special characters used in the filter query params will use some of that space, but it's unlikely that the 4000 character limit will be a problem.
   - Cannot easily support complex filtering requirements. Some operations could be created for more complex data types, such as arrays and hashes, but even simple equality operators could become problematically complex for non-primitive data types.
 
 #### Overview
