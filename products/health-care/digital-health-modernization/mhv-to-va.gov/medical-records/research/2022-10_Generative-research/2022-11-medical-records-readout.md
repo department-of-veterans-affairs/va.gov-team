@@ -146,7 +146,7 @@ _Phillip downloaded his medical records onto a thumb drive before leaving the mi
 ### Narrative to exemplify "Identify evidence that can be used to obtain benefits" purpose for using medical records
 _Ramona needed to file a claim for a service-related shoulder injury. She called the VA and had them email her complete medical records. Using all the keywords she could think of, Ramona went through and scrubbed the file for all things related to her shoulder injury, pulling out the relevant sections. She organized these sections and highlighted the magical words she knew were required to get her claim through - “injury most likely due to service”. She then submitted her claim with these sections as proof._
 
-**3. The most common categories participants used during the card sort included lab/test results (12 out of 15 participants), and separate categories for "non-body" health issuess - mental health, vision health, and dental health (10 out of 15 participants)**
+**3. The most common categories participants used during the card sort included lab/test results (12 out of 15 participants), and separate categories for "non-body" health issuess - mental health, vision health, and dental health (10 out of 15 participants).**
 
 Labels: label 1, label 2 
 
@@ -158,7 +158,7 @@ Lab/ test results were created by 12 out of 15 participants, representing the mo
 
    - _"They are a different section of the VA almost."_ Male Veteran, age 56, MHV account
 
-**4. An "About me/ Personal information" category was often created by participants, though the contents of this category differed. 
+**4. An "About me/ Personal information" category was often created by participants, though the contents of this category differed.** 
 
 Labels: label 1, label 2 
 
@@ -166,23 +166,55 @@ Some versions of this category included demographic information, ongoing monitor
 
 <img width="921" alt="image" src="https://user-images.githubusercontent.com/100814257/202789539-f350fbd1-1a4b-482c-81c5-6c23dc70877e.png">
 
-Purpose for this category varied. Some participants framed the category of providing key information to doctors about a patient. 
+The purpose of this category varied. Some participants framed the category as providing key information to doctors about a patient. 
 
    - _"[Personal information group is] anything about yourself - age, height, weight. Any information that a doctor needs to know before prescribing medication."_ Female Caregiver, age 39, no MHV account
 
 Others wanted the most pressing or current information to be centrally located - in this way, this category simultaneously functioned similar to a "to do list". 
 
-This category varied the most across interviews and explanations often seemed contradictory and incoherent, however, this category still existed in the majority (n=10) of interviews.
+This category varied the most across interviews and explanations often seemed contradictory and incoherent; however, this category still existed in the majority (n=10) of interviews. It is possible that a different interview guide would have led to participants distinguish more consistently between demographic information, current health status, and most pressing issues. This will be explored in concept testing. 
 
 
-**5. Most participants organized or described expecting medical record information to be organized in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area. 
+**5. Most participants organized or described expecting medical record information to be organized in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area.** 
 
 Labels: label 1, label 2 
 
-Location/facility/inpatient/outpatient example: R: Can you tell me the difference between Hospitalized Treatments and Appointments? P. So Hospitalized Treatments I would say you are not really making an appointment. I guess you could, but you are not going to see your primary care, you are going admitted to the hospital side of the VA instead of getting a well-check. That is my thought of that. - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-07-Veteran-12.md
+By "anchors," we mean something that participants organized information around or described expecting or wanting to find health record information in relation to. 
 
+### Appointments
+For example, approximately half (n=7) of participants described expecting to find notes, lab and test results, medications prescribed connected with the appointment in which these things were produced. 
 
-**6. Time was a consistent theme across interviews. Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records. 
+_"These could be a category called appointments, so individual appointments would be easier to find...lab test results could go under appointment information...whatever notes the doctor has left (about a visit)."_ - Veteran, male, age 70, MHV account
+
+Some distinguished between future and past appointments, expecting these to be separate. 
+
+_"I have appointments, which is just going to be sort of like the future case for things that are coming up."_ - Veteran, Veteran family member, Caregiver, male, age 37, MHV account
+
+<img width="1178" alt="image" src="https://user-images.githubusercontent.com/100814257/203352513-494eba9d-eef4-4b4c-83dd-0d2d37a0aa9a.png">
+
+### Location or Facility type
+
+A second anchor expressed by approximately a third of participants (n=6) related to the location or facility type in which a medical interaction occurs. Most often participants described expecting information to be organized by information produced in outpatient environments (e.g., checkups with a doctor) and those produced in inpatient environments (e.g., surgeries that results in hospital stays). 
+
+_Interviewer: Can you tell me the difference between Hospitalized Treatments and Appointments?_ 
+
+_Participant: So Hospitalized Treatments I would say you are not really making an appointment. I guess you could, but you are not going to see your primary care, you are going admitted to the hospital side of the VA instead of getting a well-check. That is my thought of that._ - Veteran, female, age 40, MHV account
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/203352990-6ab68de3-74cf-4683-a720-43c2bdf75011.png">
+
+### Practice area or diagnosis
+
+This anchor reflects information organization around the HCP practice area or diagnosis participants referred to. For example, participants described organizing information by information produced in interactions with a general practitioner versus by that produced by an orthopedist, podiatrist, or other specialty. 
+
+_"Pretty much just separating it by type of doctor, specialty, so if you were looking for one specific thing, you can find it. 'Okay, I am looking for pain management.'...Separating out one specialty, by time period. It would make it a lot easier to find what I'm looking for."_ - Veteran, male, age 56, current MHV user
+
+Others described wanting to look for information relating to a particular diagnosis they had received, usually by specialists - e.g., a shoulder injury or traumatic brain injury. Because these diagnoses often overlapped with medical specialties, we consider them deviations from the same general category. 
+
+Organizing by HCPs was also cited as an easy way to organize information. However, two participants with greater health burdens and regular interactions with health system argued that this would get confusing quickly, given that HCPs can leave practices or patients could forget the name of HCPs they are less familiar with.
+
+<img width="972" alt="image" src="https://user-images.githubusercontent.com/100814257/203360418-2bfb470a-7f53-4353-b351-6dadef72b540.png">
+
+**6. Time was a consistent theme across interviews. Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.** 
 
 Labels: label 1, label 2 
 
