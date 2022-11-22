@@ -146,9 +146,9 @@
 Note: 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
 - 8/23/2022: Medicare Claim number field added to the form
 - 10/11/2022: American Indian question added to the form
-- 10/31/2022: 10-10EZ Short Form launched 100%
+- 10/31/2022: 10-10EZ Short Form
      - Trending 30%-40% application submission being through the Short Form flow, and a 98% submission rate of total Short Form applications.
-- 11/1/2022: 10-10EZ Saved-in-progress email reminders launched 100%
+- 11/1/2022: 10-10EZ Saved-in-progress email reminders
 ---
 
 ## Solution Narrative
