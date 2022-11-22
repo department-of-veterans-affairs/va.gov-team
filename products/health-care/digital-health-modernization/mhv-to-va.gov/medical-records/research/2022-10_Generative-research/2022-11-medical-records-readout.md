@@ -218,11 +218,11 @@ Organizing by HCPs was also cited as an easy way to organize information. Howeve
 
 Labels: label 1, label 2 
 
-Participants expected information to be organized in relation to time -  most often with most recent information more easily accessible. When asked, participants described expecting most recent information to be at the top of a page with less recent information further down. 
+Participants expected time to inform the organization of information -  most often with most recent information more easily accessible. When asked, participants described expecting most recent information to be at the top of a page with less recent information further down. 
 
-Several participants described desiring that information be elevated that required an action on their part - e.g., schedule a follow-up visit or ask a question to a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.
+Several participants described desiring that information be elevated that required an action on their part - e.g., schedule a follow-up visit or ask a question to a healthcare provider. In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.
 
-- Urgency/ to do example: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-10-generative-research-interviews/2022-11-04-Caregiver-10.md
+_"When you're managing someone else's health, if you're waiting for a referral, approval, or something to take me to the next step. I just want to focus on what I have to do with dad. I don't want that information stuck in the middle of the chart - I want to reference it quickly. Like if the most recent visit's discharge summary prompted a referral or appointment. I want to have that."_ - Caregiver, female, age 57, no MHV account
 
 At times, this manifested as explicit requests for reminders or cues to action: 
 
