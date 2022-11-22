@@ -36,7 +36,7 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ### Outcome
-We will use the results from this research to establish a baseline for comparrison in other research studies (Household Section Optimization) specific to key tasks that come up frequently during research sessions. 
+We will use the results from this research to establish a baseline for comparrison in other research studies ([Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/192)) specific to key tasks that come up frequently during research sessions. 
 
 
 ### Research questions
@@ -47,7 +47,8 @@ We will use the results from this research to establish a baseline for comparris
 
 
 ### Hypotheses
-- The baseline study will confirm the findings and pain points from past studies are still consistently an issue with participants in this study. 
+- The baseline study 
+- will help establis the findings and pain points from past studies are still consistently an issue with participants in this study. 
 - The baseline study
 
 
@@ -58,8 +59,6 @@ We will use the results from this research to establish a baseline for comparris
 
 ### --
 Determine a list of tasks and standardize how they are asked repeatedly from research session to session to begin gauging sentiment over time with design and content iterations. 
-
-Each task will have a set of qualitative and quantitative data points that we will collect during the baseline session, then these same metrics can be used used when this task is asked during a future research study. 
 
 
 #### Post-Task Participant questions
@@ -104,7 +103,6 @@ The intended audience for this research Veterans and Service Members.
 We will recruit Veterans for this research using and leveraging Perigean to recruit participants. 
 
 
-
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
@@ -116,6 +114,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 - Cohort 1 = Assistive Tech. Ask 8, complete 5 
 - Cohort 2 = MVS, ask 15, complete 10
 - Cohort 3 = Match Household RESULTS of who participated - total 10, need 5 to complete this study 
+
 
 
 |                               | **Cohort 1**					     | **Cohort 2**				| **Cohort 3**  |
