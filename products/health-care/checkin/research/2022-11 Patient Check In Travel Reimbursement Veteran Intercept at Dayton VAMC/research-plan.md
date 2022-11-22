@@ -116,13 +116,13 @@ January 2022 - 4 day trip with 2 days at Dayton VA Medical Center.
 
 ## Team Roles
 
-Moderator: Ben Brasso [(ben.brasso@agile6.com)](mailto:(ben.brasso@agile6.com))
-Research guide writing and task development: Ben Brasso
-Participant recruiting & screening: Ben Brasso
-Project point of contact: Stephen Barrs (stephen.barrs@va.gov), Patrick Bateman (patrick.bateman@va.gov), Mark Dewey (mark.dewey@va.gov), Lori Pusey (lori.pusey@agile6.com) 
-Participants for pilot test: n/a 
-Note-takers: Kelly Smith (kelly.smith@civicactions.com) 
-Observers: n/a
+Moderator: Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
+Research guide writing and task development: Ben Brasso<br>
+Participant recruiting & screening: Ben Brasso<br>
+Project point of contact: Stephen Barrs [(stephen.barrs@va.gov)](mailto:stephen.barrs@va.go), Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov), Mark Dewey [(mark.dewey@va.gov)](mailto:mark.dewey@va.gov), Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile6.com)<br>
+Participants for pilot test: n/a <br>
+Note-takers: Kelly Smith [(kelly.smith@civicactions.com)](mailto:kelly.smith@civicactions.com)<br>
+Observers: n/a<br>
 
 
 
