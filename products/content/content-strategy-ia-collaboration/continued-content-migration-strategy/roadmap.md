@@ -25,9 +25,9 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
   
 ## Currently in progress
 
-- **Education rates content:** Aiming for completion in September 2022
-- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Starting to migrate pages (3 pages migrated this week). Aiming for completion in October 2022
-- **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in December 2022
+- **Education rates content:** Aiming for completion in November 2022
+- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Costs and billings section migrated in September 2022. Aiming for completion of full migration in January 2023.
+- **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in January 2023
 - **Regional offices:** Aiming for estimated completed by FY2023-Q2 for Pilot office, FY2023-Q4 for complete roll-out
 
 ## Next up
@@ -36,7 +36,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
 These are single pages that require a relatively low level of effort to migrate and are on the "top 1,000 urls" by pageviews list that is a focus of current accessibility efforts. Some have serious accessibility issues so prioritizing migration is a win for both migration and accessibility.
 
-We need to confirm with our VA partners, but I would anticipate that we could complete migration of these pages by December 2022.
+We need to confirm with our VA partners, but I would anticipate that we could complete migration of some of these pages by Q2 FY2023.
 
 - benefits.va.gov/gibill/isaksonroe/verification_of_enrollment.asp
 - benefits.va.gov/benefits/applying.asp
@@ -55,8 +55,7 @@ We need to confirm with our VA partners, but I would anticipate that we could co
 - benefits.va.gov/gibill/docs/wavechart.asp
 - benefits.va.gov/compensation/mailingaddresses.asp
 - va.gov/health/vetext_faqs.asp
-- va.gov/healthbenefits/vadip/
-- va.gov/healthbenefits/vadip/
+- va.gov/healthbenefits/vadip/ - will redirect no later than 11.30.22
 - va.gov/dental/dental-clinic-locations-finder.asp
 - Remaining life insurance pages already on board as slated for migration
 

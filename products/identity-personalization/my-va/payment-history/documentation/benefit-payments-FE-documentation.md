@@ -1,4 +1,5 @@
 # Benefit Payments Frontend Documentation
+Last updated: November 4, 2022
 
 ## When to show the ‘Benefit payments’ section
 We show this section for every LOA3 user.
@@ -35,7 +36,13 @@ Deposited on [date]
 
 Check mailed on [date]
 
-[View your payment history](https://www.va.gov/va-payment-history/payments)
+[Review your payment history](https://www.va.gov/va-payment-history/payments)
+
+#### **Visual specs**
+
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the benefit payments card.
+
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
 ---
 
@@ -50,18 +57,22 @@ Check mailed on [date]
 
 #### **Content**
 
-You don't have any recent payments to show.
+You have no recent payments to show.
 
 ---
 
 ### Manage direct deposit link
 
-![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153481-a47957ed-7357-48af-840b-13fff4137f49.png)
+![Screen Shot 2022-11-04 at 1 10 51 PM](https://user-images.githubusercontent.com/97965610/200035290-7f3f7332-d79f-4e0a-8984-f5f3cb67fc84.png)
 
 Use font awesome icon `dollar` for icon in link list
 
 **Show**
 - For all LOA3 users.
+
+**Positioning**
+- If a user has a payment card to show, this link appears on the righthand side on desktop and is always first in the link list.
+- If a user does not have a payment card to show, this link shows on the lefthand side on desktop and is always first in the link list.
 
 #### Content
 
@@ -69,19 +80,24 @@ Use font awesome icon `dollar` for icon in link list
 
 ---
 
-### View your payment history link
+### Review your payment history link
 
 - Use font awesome icon “user-check”
 
 **Show in link list**
 - If a user has not had a payment in the last 60 days but has in the past.
-![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153689-a6c0bb5e-357d-4a44-8c33-eb2cfdf54fde.png)
+
+![Screen Shot 2022-11-04 at 1 08 40 PM](https://user-images.githubusercontent.com/97965610/200034911-968063a5-6510-4194-8249-56232cfb013e.png)
 
 **Do NOT show in link list**
 - If a user has never received a payment.
 
+**Positioning**
+- If a user has a payment card to show, this link appears on the righthand side on desktop.
+- If a user does not have a payment card to show but has received payments in the past, this link shows on the lefthand side on desktop, below the "Manage your direct deposit" link.
+
 #### Content
-[View your payment history](https://www.va.gov/va-payment-history/payments/)
+[Review your payment history](https://www.va.gov/va-payment-history/payments/)
 
 ---
 
@@ -97,6 +113,8 @@ Only show a card for the most recent payment.
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+>**We can't access your payment history**
+
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
 - This should appear under the 'Benefit payments' header.
 

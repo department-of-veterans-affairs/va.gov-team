@@ -19,9 +19,9 @@ See the appointments on VA.gov [**research hub**](https://github.com/department-
 
 ## Content
 
-[**Appointments content brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md)
+[**Appointments content brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md)
 
-The [Sitewide Content Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content) aligns scheduling language across channels. 
+The [Sitewide Content Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content) aligns appointments language across touchpoints. 
 
 ## Touchpoints
 

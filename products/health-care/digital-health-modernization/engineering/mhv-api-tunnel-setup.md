@@ -7,19 +7,25 @@ This document describes the recommended setup for doing fullstack development of
 
 ## Prerequisites
 1. Developers will need AWS access, which can be requested by filing an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D) ticket in va.gov-team. 
-  * Developers should request "SSM Access to lower environment instances". The specific IAM policy needed is "SSMApplicationLowerEnvironmentAccess", which can be granted via membership in the "dsva-vfs-developers" group.
-  * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
+    * Developers should request "SSM Access to lower environment instances". The specific IAM policy needed is "SSMApplicationLowerEnvironmentAccess", which can be granted via membership in the "dsva-vfs-developers" group.
+    * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
 2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel. 
 
 ## Setup steps
 ### SSM Tunnel
 #### One Time Setup
-1.  Ensure AWS credentials are configured for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`. Note the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+1. [Install the `aws-cli`](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
+2. [Install the Session Manager plugin](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) for `aws-cli`. 
+3. [Configure AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html) for AWS CLI usage with appropriate entries in `~/.aws/config` and `~/.aws/credentials`.
+    * Note: the region for VA.gov is GovCloud west aka `us-gov-west-1`.
+    * An Access Key ID and Secret Access Key can be created by through the management page of your user in the [IAM console](https://console.amazonaws-us-gov.com/iamv2). 
+4.  Clone the [`devops` repository](https://github.com/department-of-veterans-affairs/devops/).
 
 #### Per-Session Setup
 The following steps need to be performed each development session, since the MFA session expires and the forward proxy instances periodically get redeployed with new instance IDs.  
 
-1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. _Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell._ It should print output like "AWS Session credentials saved. Will expire in 12 hours"
+1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
+   * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell. 
 2. From the same terminal, discover a forward proxy instance to tunnel to in whichever environment is desired, using this command `./utilities/ssm.sh fwdproxy <dev|staging>`. The command will print the available instances and prompt you to connect a shell session to one. You can Ctrl-C out of this command at this point as you don't need to connect, you just want to print the available instances.
 3. Run the following command to establish the SSM tunnel:
 ```

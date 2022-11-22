@@ -103,10 +103,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usability research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
 
 ##
 

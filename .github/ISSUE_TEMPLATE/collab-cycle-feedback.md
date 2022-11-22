@@ -32,6 +32,7 @@ assignees: ''
 - Update "Issue Title"
 - Link to collab cycle Request epic
 - Add your feedback
+- Remove the CC-Request label (only if you created the ticket using the New Issue link from the Collaboration Cycle Reviews board)
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
   - **Midpoint Review**: VFS PM, yourself (optional)

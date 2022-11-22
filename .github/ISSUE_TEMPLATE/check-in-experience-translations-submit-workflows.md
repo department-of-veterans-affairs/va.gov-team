@@ -1,15 +1,15 @@
 ---
-name: Check In Experience Send Workflows to State Department 
-about: For Sending Workflows to State Department 
-title: "[Product] Send Workflow documents to State Department"
+name: Check In Experience Send QA Screenshots to the State Department 
+about: For Sending QA Screenshots to the State Department 
+title: "[Product] Send QA Screenshots to the State Department"
 labels: product,HCE-Checkin
 assignees: ''
 
 ---
 
 ## Tasks
-- [ ] Create workflow documents that contain sceenshots for the Epic/feature
-- [ ] Submit documents to the State Department
+- [ ] Create workflow documents that contain screenshots for the Epic/feature
+- [ ] Submit documents to the Randi Hecht 
 
 ## Acceptance Criteria
-- [ ] Workflow documents have been submitted to Daniell Thierry and she will submit to the State Department
+- [ ] Workflow documents have been submitted to Randi Hecht for forwarding to the State Department

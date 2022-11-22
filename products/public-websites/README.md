@@ -4,10 +4,10 @@
 April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
 (Previously by [VSA Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites).)
 
-#### Slack
+### Slack
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
-#### Github / work tracking
+### Github / work tracking
 - [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?labels=%E2%AD%90%EF%B8%8F%20public%20websites)  (install Zenhub browser plugin)
 - Team label: `⭐️ Public Websites`
 
@@ -30,7 +30,7 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
 | [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | . |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
-| [Q&A - single](#qa---single) | [VA site search (using search.gov)](#va-site-search-using-searchgov) |  . |
+| [Q&A - single](#qa---single) | [On-site search (using search.gov)](#on-site-search-using-searchgov) |  . |
 | [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
 | [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
 
@@ -39,7 +39,7 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 # CMS content / functionality
 
 
-### Benefits Hub Landing Page
+## Benefits Hub Landing Page
 
 **What is:**
 
@@ -62,7 +62,7 @@ Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “m
 * [VFS Product Directory: Benefits Hubs](https://depo-platform-documentation.scrollhelp.site/getting-started/benefits-hubs)
 
 
-### Benefits Detail Page 
+## Benefits Detail Page 
 
 **What is:**
 
@@ -82,7 +82,7 @@ The content model is flexible to accommodate various types of content, using Dru
 * **Q3 2022 project:** to harden the content model: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9628](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9628) 
 
 
-### Campaign Landing Pages (CLP)
+## Campaign Landing Pages (CLP)
 
 **What is:**
 
@@ -108,11 +108,11 @@ A Drupal content type that can be used for short-lived marketing campaigns. Inte
 **More info:**
 * A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
 * [campaign-landing-page-templates & Docs - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
-* [CLP runbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/campaign-landing-pages.md) - team runbook for managing CLP requests
+* [CLP runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - team runbook for managing CLP requests
 * [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
-### Events List
+## Events List
 
 **What is:**
 
@@ -139,7 +139,7 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * [VFS Product Directory: Outreach Events Hub & Calendar](https://depo-platform-documentation.scrollhelp.site/getting-started/outreach-events-hub-and-calendar)
 
 
-### Event
+## Event
 
 **What is:**
 
@@ -168,7 +168,7 @@ Events may be single or recurring, and are either:
    * Event recurrences are tricky to manage in terms of listing / filtering logic, and Q3 2022, PW team is working to close out backlog of related bugs.
 
 
-### FAQ page
+## FAQ page
 
 **What is:**
 
@@ -185,7 +185,7 @@ A Drupal content type that is used to aggregate [Q&A nodes](tbd url) (jumplink).
 * COPE effort to make Q&A resuable on [Resources & Support ](tbd url)(jumplink)  = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
-### Find a form / VA Forms
+## Find a form / VA Forms
 
 **What is:**
 
@@ -194,7 +194,7 @@ Forms are a critical part of the Veteran experience for applying for benefits & 
 Forms are then findable from the “[Find a form](https://www.va.gov/find-forms/)” interface – a search / listing of VA Forms results.
 
 
-#### Forms DB import
+### Forms DB import
 
 The import uses Row ID as the unique identifier to map importing content to Drupal nodes. Some fields in Drupal may be customized from within Drupal after import, visible on each node within “Forms DB data” expander.
 * [VA Forms Content Flow Topic Dive](https://www.youtube.com/watch?v=CuPI8DB7aR0) - describes the import process in more detail
@@ -218,12 +218,12 @@ The Forms DB system has some recurring flaws:
 * Primary editors:  Forms managers update Form data outside the context of the CMS, in the “Forms database”. That content is migrated into Drupal and can be finessed in the CMS.
 
 **More info:**
+* [Forms Product outline & historical docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form)
 * [Triage runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#troubleshooting) for errors / defects
 ***Q3 2022 project:** to understand more about the Forms DB infrastructure, in an effort to help stabilize / reduce risk of downstream issues: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724) 
 * [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
 
-
-### Full-width Alert
+## Full-width Alert
 
 aka : Banner
 
@@ -262,7 +262,7 @@ You can read more about these alert types in the [VA Design System](https://desi
    * Initial build (Q2 2020): [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner) 
 
 
-### Promo Banner
+## Promo Banner
 
 **What is:**
 
@@ -285,7 +285,7 @@ You can read more about these promo types in the [VA Design System](https://desi
 * [Promo banner](https://design.va.gov/components/promo-banners): va.gov design system
 
 
-### Outreach Materials Library (Publication Listing Page) / Publications
+## Outreach Materials Library (Publication Listing Page) / Publications
 
 **What is:**
 Currently there is one Publication Listing Page, the Outreach Library, where all Publications appear.
@@ -299,7 +299,7 @@ Not modified since launch
 * Primary editors: Sitewide Content team
 
 
-### Q&A - single
+## Q&A - single
 
 **What is:**
 
@@ -321,7 +321,7 @@ Q&As may be used on Resources & Support pages, or FAQ pages, as an entity refere
 * **Q3 2022 project:**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
-### Resources and support Detail Page
+## Resources and support Detail Page
 
 **What is:**
 
@@ -340,7 +340,7 @@ A page that contains in-depth information about a single resource available to V
 * [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
 
 
-### Translations
+## Translations
 
 **What is:**
 
@@ -368,12 +368,12 @@ Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translate
 
 # Non-CMS content / products
 
-### Breadcrumbs
+## Breadcrumbs
 
 [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10308](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10308) 
 
 
-### Shadow / dark launches of content
+## Shadow / dark launches of content
 
 Sometimes content generated by the Sitewide Content team, other teams, or just portions of a page may need to “dark launch” meaning: not be available to all site users in production. We have options for how to manage dark launches: 
 
@@ -459,7 +459,7 @@ Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269
 
 
 
-### Global header / footer (aka Mega-menu)
+## Global header / footer (aka Mega-menu)
 
 **What is:**
 
@@ -476,33 +476,33 @@ VA.gov header and footer, within VA.gov context, including presentation of banne
 
 
 
-### Header / footer injection
+## Header / footer injection
 
 **What is:**
 
 The VA.gov modernization project will take years to bring alllllllll VA content into the main site. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the new header/ footer. This can be achieved by “injecting” it, using a set of Javascript / stylesheets, and a cookie.
 
-This will only work for standard TeamSites. 
+**This will only work for standard TeamSites.**
 
 [DEPO teamsite overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview) - explains the cookie mechanisms, and has notes on testing. 
 
 **Workflow:**
-1. **Requesting team: domains -** Team should provide the domain or list of domains where the users will land and see the header/footer injected. Once provided, our team can create tickets and schedule our work. \
+1. **Requesting team: domains -** Team should provide the domain or list of domains where the users will land and see the header/footer injected. Once provided, our team can create tickets and schedule our work. 
 
 2. **Requesting team: JS/CSS -** Add the listed set of scripts to TeamSite’s &lt;head> tag, described here: [https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration) 
-    1. Do _not_ include settings.js - that file is deprecated but docs are out of date \
+    1. Do _not_ include settings.js - that file is deprecated but docs are out of date 
 
-3. **PW: allowlists -**Our team will add the domains to several allowlists. This change will allow your team to test the injected header/footer. We'll let you know when our updates are deployed and your testing can begin. \
+3. **PW: allowlists** - Our team will add the domains to several allowlists. This change will allow your team to test the injected header/footer. We'll let you know when our updates are deployed and your testing can begin. 
 
-4. **Requesting team: Testing & style fixes -** Your team will test by setting a cookie in your browser. The main issues you may see are styling related, where styles from your site may affect the presentation of the header/footer. Those issues can/should be fixed by updating the CSS of your site / app (rather than by modifying styles for the header / footer globally). This is the bulk of your work, and if no style issues occur, it could potentially be a no-op \
+4. **Requesting team: Testing & style fixes -** Your team will test by setting a cookie in your browser. The main issues you may see are styling related, where styles from your site may affect the presentation of the header/footer. Those issues can/should be fixed by updating the CSS of your site / app (rather than by modifying styles for the header / footer globally). This is the bulk of your work, and if no style issues occur, it could potentially be a no-op 
  
 To test:
   1. Load the provided domain
   2. Open developer tools, Console
   3. Type `document.cookie = "proxyRewrite=true;"`, and hit Enter. This creates a cookie that you will then find under Application cookies in dev tools until you clear cookies.
-  4. Refresh the page, and injected header should load. \
+  4. Refresh the page, and injected header should load. 
 
-5. **PW: Production update -**When your testing / changes are complete & you're ready to launch: notify us. We'll make an additional code update to permanently set the cookie that controls injection. When that code change deploys, the header/footer will be live on your site.
+5. **PW: Production update** - When your testing / changes are complete & you're ready to launch: notify us. We'll make an additional code update to permanently set the cookie that controls injection. When that code change deploys, the header/footer will be live on your site.
 
 **Example content:**
 * URL: [https://ea.oit.va.gov/](https://ea.oit.va.gov/) - uses injected header/footer
@@ -512,12 +512,13 @@ To test:
 
 
 **More information:**
+* [Proxy-rewrite README](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) with implementation & testing details
 * 2019 audit of sites not using the global header megamenu: [va.gov-team#1877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1877), [va.gov-team#2394](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2394#issuecomment-543775751)
 * 2019 product brief on [header injection](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/64e5b99f39fad7551b08d5b4da7141b56128e0f4/VA.gov%20Relaunch%202018/Teamsite/ProductOutline.md)
 * [Veteran-facing legacy benefit pages on TeamSite: Retirement FAQs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Legacy-benefit-pages-retirement-FAQs-061919.pdf) 
 
 
-### Income limits web application
+## Income limits web application
 
 **What is:**
 
@@ -534,7 +535,7 @@ Veterans are eligible for benefits based on a complex matrix of factors includin
 * **Q3 2022 project:** [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
 
 
-### Offices
+## Offices
 
 **What is:**
 
@@ -547,8 +548,27 @@ The VA is comprised of multiple administrative offices, e.g. VHA, VEO, NCA, VBA,
 * This project was launched in ~Feb 2022, but is blocked by Salesforce &lt;>Lighthouse integration. 
 * Epic: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587) 
 
+## On-site search (using search.gov)
 
-### Non-facility Redirects
+**What is:**
+
+VA.gov uses search.gov as its engine. Public Websites owns that integration, and display of search results within the site. 
+
+**Example content:**
+* URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
+* Example issue: 
+
+**More info:**
+* A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
+* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
+* Design system: [Search input](https://design.va.gov/components/search-input)
+* Search.gov indexing documentation: https://search.gov/indexing/indexing-with-searchgov.html 
+* 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
+* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
+* [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
+
+
+## Non-facility Redirects
 
 **What is:**
 
@@ -562,8 +582,8 @@ Facilities team can handle redirects for Facility URLs / content.
 * Sitewide Content team vets the request – IA will approve the requested URLs
 * Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
 * Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
-* Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/releases/job/revproxy-vagov/ 
-  * Job is owned by the Platform team. In case of issue, open a #vfs-platform-support request
+* Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
+  * If you need offcycle deployment prior to Wed deploy: open a #vfs-platform-support request, Release Tools > Off-Cycle deployment. Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
 * PW verifies in prod, before closing the ticket
 
 
@@ -579,7 +599,7 @@ Facilities team can handle redirects for Facility URLs / content.
 * [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md) 
 
 
-### Unauthed React widgets
+## Unauthed React widgets
 
 **What is:**
 
@@ -607,7 +627,7 @@ Calls to action on these widgets point users to the Electronic Healthcare Record
 * Cerner cutovers have been complex and not additional facilities will move to Cerner in 2022. Cerner cutovers should resume in 2023.
 
 
-### VA.gov Homepage
+## VA.gov Homepage
 
 **What is:**
 
@@ -628,26 +648,7 @@ The homepage includes links to key traffic areas of the site. These links are re
 * [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
 
 
-### VA site search (using search.gov)
-
-**What is:**
-
-VA.gov uses search.gov as its engine. Public Websites owns that integration, and display of search results within the site. 
-
-**Example content:**
-* URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
-* Example issue: 
-
-**More info:**
-* A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)
-* [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
-* Design system: [Search input](https://design.va.gov/components/search-input)
-* 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
-* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
-* [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
-
-
-### Veterans Crisis Line modal
+## Veterans Crisis Line modal
 
 The Veterans Crisis Line is a critical feature of VA.gov. Public Websites supports it via the modal included in the global header. Most defects related to this modal functioning correctly (open, close, clickable CTAs, etc) are urgent priority.
 
@@ -655,14 +656,14 @@ The Veterans Crisis Line is a critical feature of VA.gov. Public Websites suppor
 
 
 
-### General VA.gov unauth UI
+## General VA.gov unauth UI
 
 **What is:**
 
 Catch-all for anything else within VA.gov that unauthenticated Veterans / caregivers can access / experience. 
 
 
-### Yellow-ribbon tool
+## Yellow-ribbon tool
 
 **What is:**
 
@@ -689,7 +690,7 @@ Listing of schools that participate in the Yellow Ribbon program. Data previousl
 Projects the previous PW team worked on, but no work remaining for our team (so far). 
 
 
-### Appeal Modernization Process
+## Appeal Modernization Process
 
 [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up) 
 
@@ -699,47 +700,45 @@ Projects the previous PW team worked on, but no work remaining for our team (so 
 * 508 defects: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647) 
 
 
-### Disability rating calculator
+## Disability rating calculator
 
 [https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities) 
 
 
-### Downtime messaging
+## Downtime messaging
 
-[https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366) 
+Governance / guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md
+Design system "Banner - Maintenance" component: https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--before-maintenance
 
+UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366) 
 
-### Harassment Reporting Tool
-
-
+## Harassment Reporting Tool
 
 * [Harassment Reporting Research--Landing page and poster (Mar 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/static-landing-page)
 * [Harassment Reporting Tool Research (incomplete)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/usability)
 
 
-### Higher-Level Review static landing page
+## Higher-Level Review static landing page
 
 [https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4139) 
 
 Static CMS page 
 
 
-### “How to apply” wizards
-
-
+## “How to apply” wizards
 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104)
 
 
-### React widgets governance
+## React widgets governance
 
 [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 
 E.g. add widgets to specific pages: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/17388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17388)
 
 
-### Other
+## Other
 
 Transformers for specific CMS fields / templates: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/16440#issuecomment-744686658](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16440#issuecomment-744686658) 
 

@@ -12,8 +12,8 @@ This document describes how our mobile/API-based OAuth partners can integrate wi
 1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
-### Postman Routes
-A Postman collection featuring the routes and variables required for PKCE interaction with the Sign in Service [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json).
+## Postman Collection
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md). This collection is set up for both web/cookie & API-based authentication.
 
 ### Sequence Diagram
 ![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/PKCE_Oauth.md)
@@ -173,6 +173,7 @@ A Postman collection featuring the routes and variables required for PKCE intera
 ```
 
 ## Revoke All Endpoint
+- This endpoint has not yet been implemented to take any action (it will not logout all endpoints) as of 9/28/22. We have the item on the roadmap with the current restriction around how this will feature will be presented to the user.
 - This endpoint expects a valid access token from the user to be present when calling the `revoke_all` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
 
 ## Revocation Endpoint
@@ -181,6 +182,5 @@ A Postman collection featuring the routes and variables required for PKCE intera
 ## Logging and Monitoring
 The following links will provide information about the SiS.
 
-- Applications logs related to the sign in service in Grafana Loki(https://grafana.vfs.va.gov/d/-q9Nn3unz/sign-in-service-logs?orgId=1&var-env=Loki%20(Staging))
-  - Switch the environment and timing to your preference
-- Sign in service errors in Sentry 
+- Applications logs related to the sign in service in [Datadog](https://vagov.ddog-gov.com/dashboard/3di-esj-7wy/identity-log-queries?index=%2A&tpl_var_deployment_env%5B0%5D=vagov-staging&from_ts=1664276154825&to_ts=1664290554825&live=true) (includes a few other identity related logs but provides examples of queries that can be run for SiS related information)
+- Sign in service [errors in Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=auto&project=4&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity+controller_name%3Asign_in&statsPeriod=30d)

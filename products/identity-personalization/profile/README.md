@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: August 19, 2022
+Last Updated: November 7, 2022
 
 ## Table of Contents
 
@@ -10,9 +10,9 @@ Last Updated: August 19, 2022
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Analytics](#analytics)
 - [Projects](#projects)
-- [Backend](#backend)
+- [Analytics](#analytics)
+- [Backend](#backend) 
 - [Frontend](#frontend)
 - [Design](#design)
 
@@ -31,6 +31,7 @@ Last Updated: August 19, 2022
 |Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+| John Cater | FE Engineer | john.cater@govcio.com |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
@@ -47,7 +48,7 @@ Currently, the VA.gov profile supports the following information:
 - [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
 - [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
 - [Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)
-- [Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data/README.md) (While the profile team built out the frontend, the Lighthouse team is responsible for the connected apps portfolio)
+- [Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps) (While the profile team built out the frontend, the Lighthouse team is responsible for the connected apps portfolio)
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
@@ -94,6 +95,10 @@ The profile gives us a place to present a consolidated view of what we know abou
 
 We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
 
+## Projects
+
+[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
+
 ## Analytics
 
 These are the GA dashboards we use to track profile analytics:
@@ -106,10 +111,6 @@ These are the GA dashboards we use to track profile analytics:
 - [Notification preferences GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
 - [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 - [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
-
-## Projects
-
-[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
 
 ## Backend
 
@@ -142,15 +143,23 @@ The following information is supported by **Lighthouse**:
 - Visit https://staging.va.gov/profile/
 - [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
-### Error Handling
+### Communication and Error Handling
+
+[This document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/communication.md) reviews the communication workflow for the Profile page in VA.gov and explains improvements that were made to reduce requests that result in 403 errors.
 
 - [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
 ## Frontend
 
+- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
+
 - [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
 
-- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
+- [Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/frontend_documentation.md)
+
+- [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/frontend_documentation.md)
+
+- [Connected Apps (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/connected_apps/frontend_documentation.md)
 
 - [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
 

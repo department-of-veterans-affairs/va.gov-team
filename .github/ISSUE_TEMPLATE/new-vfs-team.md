@@ -42,6 +42,8 @@ Add your team's practice and contact information below.
    - [ ] Benefit Tools
    - [ ] Lighthouse API
 
+- **Github team name:**
+
 - **Github team label:**
  
 - **Team launch date:**
@@ -64,7 +66,7 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] If an edit to your team's product page needs to be made, see the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide)
 
 ## ATO (Authorization to Operate) orientation
-- [ ] Reach out to Faith Owusu-Sekyere on Slack
+- [ ] Reach out to Faith Arthur on Slack
 - [ ] Request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
 

@@ -1,0 +1,303 @@
+COVID Facility Status - Editor Research
+Aligning national content with local operations
+
+Background & Goals
+2
+
+Project Background
+COVID Facility Status | July 2022
+
+
+
+May 2022 - VHA's Office of Health Transformation (OHT) introduced 3 levels of standard COVID-19 health protection guidelines
+VAMC editors in Drupal CMS select the current level for their locations (High, Medium, or Low) which then displays national language 
+Messaging is managed centrally by the VA.gov Content Team in coordination with OHT and the COVID Communication Task Force
+Some facilities expressed concern that their local policies don’t align with the national language. This resulted in some facilities not adopting the new messaging protocol
+July 2022 - We conducted interviews with VAMC editors
+
+COVID Facility Status - Feature Overview
+COVID Facility Status | July 2022
+
+
+
+Tied to a facility - shows up with that facility in multiple places on VA.gov
+Find a VA location results
+Facility page
+System all locations page
+System operating status page
+Collapsed by default - Veterans must expand to see language
+Related VAMC product features
+Facility operating status
+System operating status - Banner alerts
+
+
+Methodology
+
+Research Questions
+COVID Facility Status | July 2022
+
+
+
+What specific language is working or not working at the facility level? Why?
+What other COVID messages do PAOs want to convey to Veterans, that are not covered by the national language?
+How do PAOs decide on additional COVID messages about visitation they want to add to the website?
+What feedback have Veterans given about the COVID messages on the website?
+When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?
+
+Research participants: 6 editors
+COVID Facility Status | July 2022
+
+
+
+Location
+
+West
+Central
+East
+South
+Geographic Area Size and Type
+COVID Facility Status 
+(as of July 20, 2022)
+High
+Rural
+Urban
+S-M
+L
+Urban: more than 50K people
+L area: more than 100 miles from center to furthest facility
+
+Limitations
+COVID Facility Status | July 2022
+
+
+
+
+5 of the 6 editors we spoke with are relatively new to web editing role (< 1 year)
+Only have experienced High status - Medium and Low were thought experiments
+Limited direct insight into Veterans’ experience 
+
+As of Aug. 2, according to CMS, of 1062 facilities where COVID supplemental status set:
+High: 926
+Medium: 91
+Low: 45
+
+High Level Findings 
+
+High-level Findings 
+COVID Facility Status | July 2022
+
+
+
+The masking/distancing, screening and virtual care language generally works.
+“I think it’s fine the way it is. We try to keep it simple.” - P1
+“I understand what you're trying to do. It's hard to make blanket statements even inside of our facility, let alone across the country that apply to every situation.” - P3
+“I haven’t heard any positive or negative feedback about the wording.” - P5
+“[the language] didn’t directly conflict [with our policies], but it didn’t completely align. It left ambiguity.” - P2
+
+The masking/distancing, screening and virtual are language generally works for VAMCs. The broad nature of the visitor language however creates the potential for confusion, with the unintended consequence of a Veteran making a physical visit and being turned away.
+
+High-level Findings
+COVID Facility Status | July 2022
+
+
+
+2.	Because the national language is broader than local policies, there are discrepancies in communication with Veterans.
+“We want it to be consistent across all our channels that we’re putting this out on.” - P3 
+"[The national language] risked creating more confusion. It was a solution to a problem we didn’t have." - P2
+"Veterans didn't understand [the new messages] either. They were like 'So how is this different?' Our response was 'It's not.'” - P3
+
+From the VA design principles: The VA.gov customer experience should be consistent across tools, applications, and devices. A Veteran should be able to access the same content and user experience regardless of how they engage with their data.
+
+High-level Findings
+COVID Facility Status | July 2022
+
+
+
+3.	Because editors can’t customize the COVID language, they add additional details to a variety of other places on their websites
+“[It would be nice to have] the ability to pick and choose [language] that matches this level for your facility” - P4
+“In the banner at the top, I put a message about ‘check the operating status for each location’ and I put the link there.” - P1 
+“[Medical grade masks] is the part that we were trying to get on our banner.” - P2
+"I guess I could add something on the home page" - P5
+
+
+Facility Operating Status vs. COVID Facility Status
+COVID Facility Status | July 2022
+
+
+
+
+System Operating Status - Banner Alert
+COVID Facility Status | July 2022
+
+
+
+As of August 3, 2022, there were 71 system banner alerts with situation updates related to COVID.
+
+Language-specific Findings
+
+Masking/Distancing
+COVID Facility Status | July 2022
+
+
+
+National content (as of May 2022)
+High - Everyone must wear a mask and practice physical distancing
+Medium - Everyone must wear a mask
+Low - Everyone must wear a mask
+5 of the 6 said the language works
+1 said that a medical-grade mask is required at their facilities
+1 observed that community acceptance of masks differs from their facility’s protocol
+
+“Veterans get upset because in the community, masking has basically gone away for the most part.” - P4
+
+“You’ve combined two of them: everyone must wear a mask and practice physical distancing. We had those as separate items.” - P3
+
+
+
+Screening
+COVID Facility Status | July 2022
+
+
+
+National content (as of May 2022)
+High - We may screen you for COVID-19 symptoms at the entrance. 
+Medium - Please self-screen. If you've had any COVID-19 symptoms in the past 48 hours, call first unless you need care now. Check CoVID-19 symptoms on the CDC website
+Low - Same as medium
+6 of the 6 said the language does apply 
+“May” is the operative word
+2 facilities allows self-screening at level High
+No concerns about significant confusion for Veterans
+
+“We've gone down from where they stop you at the entrance and ask you all the questions.“ - P5
+
+"You can self screen at [our facility] even at level High." - P6
+
+[looking at medium and low] “Self-screen by the public? That's not gonna happen.” - P2
+
+Visitors
+COVID Facility Status | July 2022
+
+
+
+Only 2 of the 6 said the language works
+1 person is unsure
+3 people pointed out the way the language creates conflict
+
+“We do allow more than just approved visitors. This is where I wish we could [customize] because different VAs have different policies.” - P4
+
+“We’re hoping there isn't any confusion between what they see on the website which is not the same as what we are allowing at our facilities. If they go to the website and say ‘oh my gosh they’re at high and can only have approved visitors’ – we don't have that restriction.” - P4
+
+“If a veteran needs assistance, a person can come with them if they’re over the age of 16. Small children are not allowed.” - P6 
+
+“Visitation is actually more segmented based on what department you’re in” -P3
+National content (as of May 2022)
+High - Approved visitors only. Ask your care team who can visit
+Medium - Your care partner is welcome (no other visitors)
+Low - Visitors are welcome
+
+Virtual Care
+COVID Facility Status | July 2022
+
+
+
+National content (as of May 2022)
+High - Ask your team about phone or video appointment options
+Medium  - N/A
+Low - N/A
+4 of the 6 said language works
+1 person is unsure 
+1 person pointed out a possible conflict
+
+“We do not currently have that in any of our messaging. So that's actually a pretty good addition that we hadn't thought of.” - P3
+
+“We like to encourage virtual care, but it’s not 100% because of the high level.” - P1
+
+“We have phone and video appointments, but we are full open for face-to-face appointments with our Veterans… I didn't want people to think that all of a sudden, we were closing our doors and they couldn't come in.” - P4
+
+Conclusion
+
+Research Questions - Answered
+COVID Facility Status | July 2022
+
+
+
+What specific language is working or not working at the facility level?
+Masking =	    ✅✅✅✅✅⚠️
+Screening =   ✅✅✅✅✅✅
+Visitors = 	    ✅✅❌❌❌🤷
+Virtual Care = ✅✅✅✅⚠️🤷
+What other COVID messages do PAOs want to convey to Veterans, that are not covered by the national language?
+Masking = medical-grade mask required
+Screening = exact screening location, self-screening options, screening is or is not required (vs. “may be required”)
+Visitors = age restrictions, types of visitors allowed, policies for particular departments or floors
+Virtual care = clarity that this is in addition to physical visits
+
+
+Research Questions - Answered
+COVID Facility Status | July 2022
+
+
+
+How do PAOs decide on additional COVID messages about visitation they want to add to the website?
+Participants take direction on COVID messages from medical director, public affairs, and other facility leadership.
+What feedback have Veterans given about the COVID messages on the website?
+Some reports of questions about discrepancies in old/new policies. One PAO fielded questions via social media. Most participants do not have direct contact with Veterans.  
+When editors need to convey info about their facilities, how do they choose among facility status, COVID status, system operating status, and banner alerts?
+Approaches vary. Participants choose based on their own perception of what is the most visible. More research is needed.
+
+Recommendations
+COVID Facility Status | July 2022
+
+
+
+Remove the COVID facility status feature from the VAMC product
+Use the facility operating status for facility-specific restrictions
+Provide approved COVID-related messages that editors can customize
+Research and test solutions with editors before launching initiatives of this scale
+Do research with Veterans about the how the website prepares them for a visit
+i.e. “How would you figure out whether you can bring your kid to your visit?”
+Share research results with editors about how Veterans are using their sites
+
+
+Appendix
+
+Posters
+
+COVID Facility Status | July 2022
+
+
+
+The COVID level language also appears on physical signage on facility entrances. 
+
+The language on the posters matches the national language used for COVID facility status on VA.gov.
+
+One participant noted that Veterans seeing the new signage in their lobby wondered aloud if the facility’s COVID protocols had changed. They had not.
+
+"From a communications standpoint, Veterans didn’t understand it either. They had no idea. They were like, so how is this different? And our response is, 'it’s not.'" 
+
+
+
+COVID status messaging Rollout
+
+COVID Facility Status | July 2022
+
+
+
+3 people mentioned friction created by the rollout of COVID status messaging
+
+“It was hard at first to get leadership to give me direction… I don’t know if our leadership knew in advance. I got the notices from you guys" - P5
+
+“It felt like a public affairs plan put in place waiting to figure out what the operational friction was going to be.” - P2
+
+“Leadership didn't understand what the change was when this came out.” - P3
+
+
+Adjacent messaging: COVID vaccines 
+COVID Facility Status | July 2022
+
+
+
+All participants used the system alert to link to COVID vaccine information. 
+Most of these vaccine pages were updated prior to February 2022
+1 participant dismissed the alert and did not see this page for several months
+Introduction developed in 2021 written in future tense and may not reflect current operations

@@ -22,7 +22,7 @@ Last Updated September 1, 2022
  
  ### Roles
 
-[Please refere to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles).
+[Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles).
 
 Additionally, we work in partnership with VANotify and VA Profile on this work. Additional partners include:
 
@@ -58,9 +58,9 @@ Currently we support the following notifications:
 
 |Notification Group|Item|
 |--------|-----------|
-|Health Care|- Appointment Reminders <br />- Prescription Shipping|
-|Health Care| - Applications, claims, decision reviews, and appeals|
-| Financial | - Payments (future)|
+|Your health care|Appointment reminders|
+|Your health care|Prescription shipment and tracking updates|
+|Applications, claims, decision reviews, and appeals|Board of Veterans' Appeals hearing reminder|
 
      
 ## User Outcomes
@@ -113,8 +113,6 @@ For previous OKRs/KPIs:
 Additional details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/backend_documentation.md)
 
 ### Error Handling
-
-- _Coming soon!_
 
 ## Frontend
 

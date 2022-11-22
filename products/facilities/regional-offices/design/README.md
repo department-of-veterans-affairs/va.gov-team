@@ -51,6 +51,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
   - What are the questions Veterans want answered by calling the phone number(s)?
   - Prepare for your visit
     - What to bring (or is this in services? or both?)
+      - [DD214](https://www.va.gov/records/get-military-service-records/) has come up in research
     - What else do Veterans need in order to be prepared for a visit (e.g. link to find a form?)
 - Services
     - Is the service delivery the same across all locations nationally or locally nuanced?
@@ -59,6 +60,8 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
  - Events 
     - Are these National? Local? Hybrid? And what is the maintenance load?
+ - Subscribe to updates   
+    - Will this use GovDelivery?
  - Spotlights 
     - Are these National? Local? Hybrid? And what is the maintenance load?
  - Leadership profiles (is this really MVP or fast-follow?)

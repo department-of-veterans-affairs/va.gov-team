@@ -1,4 +1,4 @@
-# PTEMS-QA End-to-end testing
+# Shared-Support-QA End-to-end testing
 
 ## Who should read this?
 
@@ -17,16 +17,16 @@ End-to-end (e2e) testing on VA.gov specifically means automated browser testing.
 
 ### Platform's basic documentation
 
-If you're brand-new to E2E testing, be sure to read [Platform's basic End-to-end testing][platform-e2e] docs.  This PTEMS-specific documentation here _supplements_ that information.
+If you're brand-new to E2E testing, be sure to read [Platform's basic End-to-end testing][platform-e2e] docs.  This Shared-Support-specific documentation here _supplements_ that information.
 
 ### Regression testing
 
 Currently, regression testing is implicitly handled using the automated unit and e2e tests that are maintained as part of development work.  Going forward, Platform-QA may formally require regression-test reports for Midpoint and Staging Reviews.
 
 
-## PTEMS-specific help
+## Shared-Support-specific help
 
-While e2e tests are regularly reviewed by code-reviewers in pull-requests, PTEMS-QA will also help validate & improve the tests as capacity allows.  Anytime you have a question/issue coding e2e tests, feel free to reach out to PTEMS-QA for guidance.
+While e2e tests are regularly reviewed by code-reviewers in pull-requests, Shared-Support-QA will also help validate & improve the tests as capacity allows.  Anytime you have a question/issue coding e2e tests, feel free to reach out to Shared-Support-QA for guidance.
 
 ### E2E best practices
 

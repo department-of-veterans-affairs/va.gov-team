@@ -54,11 +54,11 @@ DONE in 2021:
 Beth Potts (Beth.Potts@va.gov) and Danielle Thierry (Danielle.Thierry@va.gov)
 
 #### Content team
-Project manager: Randi Hecht (r.hecht@bloomworks.digital) <br>
-Managing editor: Laura Willwerth (l.willwerth@bloomworks.digital) <br>
-Copy editor: Megan Zehnder (m.zehnder@bloomworks.digital) <br>
-Content writer: Aliyah Blackmore (a.blackmore@bloomworks.digital) <br>
-Content writer: Katherine Fung (k.fung@bloomworks.digital)
+Project manager: Randi Hecht <br>
+Managing editor: Laura Willwerth <br>
+Copy editor: Megan Zehnder <br>
+Content writer: Aliyah Blackmore <br>
+Content writer: Katherine Fung
 
 ### How we work 
 **Slack channel:** va-sitewide-content-ia <br> 
@@ -69,7 +69,6 @@ Content writer: Katherine Fung (k.fung@bloomworks.digital)
 
 **Office hours:** This a weekly opportunity for designers and product managers to get input from the Digital Experience content leads at any stage of product development. Collaboration on content needs will range from content strategy to help with specific messaging. Office hours can be used to work through issues that have come up in the designers’ suite meetings.
 
-ON HOLD WITH BRIEFS UNTIL PRODUCT WORK TRANSITIONS AWAY FROM OCTO PRODUCT OWNERS TO CONTENT TEAM <br>
 **[Content Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-template.md):** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
 
 **[Intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E):** Open a ticket to request specific content support. Use the Sitewide Content and IA Intake Form template.

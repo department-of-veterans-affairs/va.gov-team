@@ -13,7 +13,7 @@ __Not changed:__ Rubric for display hierarchy is still a) Emergency banner, b) S
 
 __1. Home Page Emergency banner__
 
-- Ability to publish: OPIA-only via DEPO (Public Websites). 
+- Ability to publish: OPIA-only via OCTODE (Public Websites). 
 - OPIA can publish on VA.gov homepage-only via an update to a file on GitHub.  This file is then PR'ed by a front end engineer on Public Websites, merged by platform after review and then deployed with the daily afternoon content build.   If the file needs to be deployed more immediately or during off-hours (evenings, weekends), the process requires Platform approval for an out-of-band deployment.
   - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
   - Requires PR review by FE engineer -- must be approved within 15m
@@ -21,7 +21,7 @@ __1. Home Page Emergency banner__
   - OPIA has templated content, but do not typically use
   - Public Websites must ask permission to fix mistakes (typos, broken links)
   - Can include dismissable function (this is an option in the template) -- up to OPIA
-- DEPO needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
+- OCTODE needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
 - VISNs can publish across all VAMC pages.
 - VAMCs can publish on their VAMC pages only. 
 - Yellow.
@@ -34,10 +34,10 @@ Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree
 
 Client Application Documentation: https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/
 
-Code: https://github.com/department-of-veterans-affairs/vets-website/blob/a8d3585472654ede09ba52213946e45ccb8fb35a/src/platform/site-wide/banners/config/maintenanceBanner.js#L6
+Code: https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/site-wide/banners/config/maintenanceBanner.js
 
-- Not in CMS; Public Website (Nick & Kelson) trigger
-- Ability to publish: DEPO.
+- Not in CMS; Public Websites trigger
+- Ability to publish: OCTODE.
 - Sitewide, including VAMC products. 
 - 2 states: In advance of downtime; and during downtime. 
 - Yellow for advance; red for during.
@@ -52,7 +52,7 @@ __3. Veteran action needed banner__
 - Use Cases: 
   - Learn about vaccinations, sign up for notifications
   - IRS deadline for benefits declarations
-- Ability to publish: DEPO.
+- Ability to publish: OCTODE.
 - Ability to configure for sitewide or specific nodes, including VAMC products and/or homepage. 
 - Yellow [@RYAN - do you recommend this one always be yellow or always blue (per original recommendation below)? ] 
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
@@ -60,7 +60,7 @@ __3. Veteran action needed banner__
 
 __4. Product for alerts to enable governance within the CMS__
 
- - DEPO and VISNs must have the ability to see what other products are currently displaying a banner alert.
+ - OCTODE and VISNs must have the ability to see what other products are currently displaying a banner alert.
  - Can we create a dashboard that allows publishers to see how many alerts are on any given product.
  - Can we prevent a user via the system from adding more than the maximum number of alerts to any given product in a way that is informative to the publisher (e.g. Add Alert to Homepage, Benefits hubs, but Cannot add to Erie Health System due to an add exceeding the maximum number of alerts (3) possible?)
  - Certain products (e.g. VAMCs and Facility sites) should always have one alert 'reserved' for a facility/health system to provide information to veterans at that specific facility.
@@ -86,7 +86,7 @@ This type of banner is to be used only for emergency communications -- e.g., nat
 
 OPIA has direct access to publish these in real time via GitHub. These cannot be pushed to lower level pages via OPIA. 
 
-__Note:__ At DEPO discretion the same banner message can be published on lower level VA.gov nodes via the CMS. The Drupal driven message can be configured for all or specific nodes and can be configured to be dismissable once or every session. 
+__Note:__ At OCTODE discretion the same banner message can be published on lower level VA.gov nodes via the CMS. The Drupal driven message can be configured for all or specific nodes and can be configured to be dismissable once or every session. 
 
 
 ## Sitewide system maintenance banner alert (i.e., "downtimes")
@@ -97,7 +97,7 @@ This is a new type of banner to be used for communicating system downtimes that 
 - The body text will be standardized text for 1) advance notice 2) and during downtime. 
 - The banner will automatically go away after the downtime window.
 - The sitewide system maintenance banner should be configured to appear sitewide across all VA.gov pages (minus medical center products).
-- Message must have a specifiec expiration date and must disappear automatically on expiry. 
+- Message must have a specific expiration date and must disappear automatically on expiry. 
 
 __Design notes:__
 1. The icon runs inline with the type to help utilize space
@@ -118,9 +118,9 @@ It's not an "emergency" and it's not a "system maintenance," but it warrants mor
 
 __Note 1:__ OPIA should have direct access to publish this type of Veteran-facing actionable content banner in real time [via GitHub or Drupal - TBD?]. These cannot be pushed to lower level pages by OPIA. 
 
-__Note 2:__ At DEPO discretion, the same banner message can be published on lower level VA.gov nodes via the CMS. The Drupal driven message should be publishable for all or specific nodes. 
+__Note 2:__ At OCTODE discretion, the same banner message can be published on lower level VA.gov nodes via the CMS. The Drupal driven message should be publishable for all or specific nodes. 
 
-__Note 3:__ DEPO global ux content admin should have the ability to publish this type of banner via the CMS, on all or specific nodes, including the homepage. [TBD/TBC Drupal permissions capability]
+__Note 3:__ OCTODE global ux content admin should have the ability to publish this type of banner via the CMS, on all or specific nodes, including the homepage. [TBD/TBC Drupal permissions capability]
 
 - The header text for this type of banner should be customizable with a limit of 50 characters with spaces.
 - The body text will be customizable with a limit of ~200~ 300 characters with spaces.

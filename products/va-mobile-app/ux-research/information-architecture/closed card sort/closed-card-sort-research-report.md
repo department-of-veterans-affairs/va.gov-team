@@ -350,11 +350,13 @@ This research does not include the perspectives of the following marginalized Ve
 
 [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
  
-[VA Mobile App - Closed card sort recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
+[2022 - VA Mobile App - Information Architecture User Research - Closed Card Sort Findings - internal team](https://docs.google.com/presentation/d/1AE5NqYmpVuxVxNMh71WNadVL6yHiC9YCpWCP84_PMO0/edit#slide=id.g11e2a70868c_0_304)
 
- [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
 
 ## Tools used for Synthesis
+[2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
+ 
+[Closed card sort - Optimal sort](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/53516949-eb96-4b85-b493-bda8794844c4#/t/results/overview)
 
 [Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
 

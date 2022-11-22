@@ -1,4 +1,5 @@
-# Onsite Notifications - Coming Soon!
+# Onsite Notifications
+Launched to 100% of VA.gov users on 10/24/2022
 
 ## Points of Contact
 
@@ -67,7 +68,7 @@ We will implement this first version with DMC's existing debt notification.
         - If no contact info is found, do not proceed with the email/SMS notification
 ### Technical Overview
 
-- When a notification with onsite_notification enabled is triggered, VA Notify will call the va.gov API for the onsite notification endpoint: /v0/onsite_notifications with template_id and va_profile_id
+- When a notification with onsite_notification enabled is triggered, VA Notify will call the vets-api for the onsite notification endpoint: /v0/onsite_notifications with template_id and va_profile_id
 - va.gov is using the VA Notify template_id to determine what onsite notification to display in the site
 
 ### Out of Scope
@@ -78,5 +79,7 @@ We will implement this first version with DMC's existing debt notification.
 - Retry process
 
 ### Measuring Success
+- Analytics Page here: https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/_u.dateOption=last7days/
 - AE will be tracking link clicks to the debt page
 - AE will be tracking the # of dismisses
+

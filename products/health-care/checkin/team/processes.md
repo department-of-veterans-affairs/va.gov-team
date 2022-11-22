@@ -93,8 +93,21 @@
         - Notify approvers in the UX or Engineering channels that the ticket is ready to be validated
         - Close the ticket once all reviews have been completed
     - Reviewer will
+        - Use appropriate test cases in TestRail to validate features
         - Add a comment to the ticket when their review is complete
         - Post in the thread, if there is one, that their review is complete
+
+## Testing
+- Manual Testing
+    - Test new features
+        - UX/Product creates test cases before development
+        - Engineers will have access to test cases during development
+        - Validators will use test cases to test new features
+        - Midpoint/Staging review folks will use the test cases to understand how to test our application
+    - Regression testing
+        - Once per month, a team member will do test runs in staging for all test cases that apply to currently-released features
+- Automated Testing
+    - Engineers decide what needs a Cypress test
 
 ## Releasing
 - Epics 
@@ -117,6 +130,9 @@
         - Create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
         - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
+
+## VSignals
+[Process for analyzing VSignal data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/README.md)
 
 ## Business Stakeholder Feedback
 - UX will generate 3 presentation links in VA Sketch Cloud for Business Stakeholders to access
@@ -142,8 +158,25 @@
         - Include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
-    -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Mark Dewey
-    -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley, Mark Dewey, erica.williams@va.gov and angela.wilt@va.gov
+    -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel 
+            - Patrick Bateman
+            - Stephen Barrs
+            - Shawn Adams
+            - Anita Middleton
+            - Mark Dewey
+    -   VA email  
+            - Patrick Bateman
+            - Stephen Barrs
+            - Shawn Adams
+            - Anita Middleton
+            - Dore Mobley
+            - Mark Dewey
+            - erica.williams@va.gov 
+            - angela.wilt@va.gov
+            - Joanna.Warden@va.gov
+            - Richard.Mastal@va.gov
+            - Deborah.Dixon1@va.gov
+            - Kelly.Giddens@va.gov.
 
 
 ## Diagram of All Team Processes

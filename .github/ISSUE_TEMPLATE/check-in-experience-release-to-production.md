@@ -2,20 +2,22 @@
 name: Check In Experience Release Feature to Production Task
 about: For Check In Experience Task to release to production
 title: "Release to Production"
-labels: HCE-Checkin, ux, frontend
+labels: HCE-Checkin, ux, frontend, product, design
 assignees: ''
 ---
 
 ## ENGINEERING TASKS
-- [ ] Merge code to main branch on day of release or flip a feature flag
+- [ ] Merge code to main branch (or flip the feature flag) on day of release
 - [ ] Conduct prod or staging validation, if necessary
+   - [ ] Needed
+   - [ ] Not needed
 
 ## RESEARCH TASKS
-- [ ] Push updated Product Guides to Git
+- [ ] Push updated Product Guides to Git, if necessary
 
 ## DESIGN TASKS
-- [ ]  Merge final wireframes to Abstract main branch
-- [ ]  Merge Sketch files to VA Sketch cloud
+- [ ]  Merge final wireframes to Abstract main branch, if necessary
+- [ ]  Merge Sketch files to VA Sketch cloud, if necessary
 
 ## PRODUCT TASKS
 - [ ] Create release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)

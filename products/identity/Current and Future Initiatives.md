@@ -56,6 +56,7 @@ Within the VA and its associated properties such as MHV, there is a need to roll
 
 **What's Next**
 - Once the existing solution is decoupled from Cerner (by the OCC Team), we should evaluate it for implementation in the sign-in service
+- We will likely need to do some work in support of the system being utilized by IAM in the interim
 
 ### [VA Identity Asset Identification and Improvement](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/47224)
 _Current Status:_ Evaluating potential assets we feel would be improved by being owned by the Identity team.  

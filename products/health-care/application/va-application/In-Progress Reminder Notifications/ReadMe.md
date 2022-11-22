@@ -14,7 +14,6 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 ## Desired User Outcomes
 - Shorten the time the application remains "in progress"
-- Fewer expired applications
 - More returns and submissions of saved applications
 
 ## Undesired User Outcomes
@@ -24,7 +23,6 @@ The reminders will encourage the Veteran to submit the application in order to r
 - Veterans are reminded of in progress applications and return to complete them
 
 ## Undesired Business Outcomes
-- Confusion on submission status that leads to more expired applications
 - Emails being ignored or sent to Spam/Junk folders without being read
 
 ---
@@ -32,33 +30,24 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 ### Objective: Veterans return to successfully submit their in-progress applications.
 
-
-**Key Result 1:** Reduce the number of In-Progress or Expired applications 
-
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
-
-| KPI/Metric  | Baseline | Target | Post-Launch
-|----------------|----------------|----------------|----------------|
-|Reduce # of apps in progress over 7 days| TBD | TBD | TBD|
-|Reduce # of Expired applications| TBD | TBD | TBD|
-
-
-**Key Result 2:** Increase the number of In-Progress applications that are submitted within 7 days of starting it.
+**Key Result 1:** Increase the percentage of In-Progress applications, as a result of the email link, 25% of clicked-thru emails will submit their application.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | Post-Launch
+| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
-|Increase # of Saved In Progress applications submitted| TBD | TBD | TBD|
+|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | 57 submissions, 10% |
 
 
-**Key Result 3:** Increase the number of returning applicants as a result of the email link
+**Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | Post-Launch
+| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch
 |----------------|----------------|----------------|----------------|
-|# of Click-thrus on email link | N/A | TBD | TBD |
+|% of Click-thrus on email link | N/A | 25% of sent emails | 565 email links clicked, 31% |
+|# of emails sent | N/A | 95% delivery rate| 1,825 emails sent, 98% email delivery rate |
+
 
 ---
 
@@ -92,14 +81,23 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ### Timeline 
 - June 6, 2022: Launched to 25% of in-progress application population
+- June 9, 2022: Pulled back on the launch, reminders no longer sent to applicants
+     - Concerned that there is no way for the Veteran to Opt-out of receiving the multiple emails.  They could get at least 4 emails, and if they accessed and re-saved the application, the clock would reset, resulting in another 4+ emails.
+     - There is potential to annoy/bother the Veterans, especially when they do not want the reminder and cannot stop it.
+- Oct 6, 2022: Met with VA Notify Strike team to discuss proposal to send only one reminder at 7 days of inactivity.
+     - If the form is accessed and saved, without submission, it will reset the 7-ay clock
+     - The VA Notify Strike team researched the last 4 months of email engagement and found the most engagement was done with the 7-day email.
+     > (The open rate was 71% is now 91%; the click rate was 28% is now 51%; the conversion rate was 3.5% is now 7.5%)!
+     - The team agrees that this addresses our concerns and would like to launch the reminder emails again
+     - The VA Notify Strike team will let us know the next launch window
+- Oct 24, 2022: VA Notify Strike team re-launched Saved-In-Progress Reminder emails at 4pm
+- Nov 1, 2022: Saved-In-Progress reminder emails are at 100%
 
 
 ---
    
 ## Screenshots
 No UI Changes.  See this [Sample email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/In-Progress%20Reminder%20Notifications/Content%20From%20VA%20Notify/Content%20sample.md) for the proposed template from VA Notify
-
-### After
 
 ---
 
@@ -109,7 +107,7 @@ No UI Changes.  See this [Sample email](https://github.com/department-of-veteran
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): 
+- GitHub Label(s): 10-10ez notifications
 - Slack channel: 1010-health-apps
 - Product POCs: Heather Justice, Mark Fallows
 

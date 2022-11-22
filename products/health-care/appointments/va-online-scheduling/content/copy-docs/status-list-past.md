@@ -1,4 +1,4 @@
-# Status List - Past Copy Doc (35458) 
+# Status List - Past Copy Doc 
 
 ---
 
@@ -26,11 +26,10 @@ Select a date range
 
 {Past 3 months, All of {current year}, All of {prior year}, {5 months prior} - {3 months prior}, {8 months prior} - {6 months prior}, {11 months prior} - {9 months prior}}
 
-(CTA) Update (** might be removed, TBD)
 ```
 **APPOINTMENT LIST CARDS**
 
-#### Display past VA booked appointments/canceled VA booked appointments
+#### Display past VA booked appointments
 ```
 {appointment date}
 
@@ -41,7 +40,7 @@ Select a date range
 **Empty State**
 Messaging when there are no appointments in the list.
 
-#### Your appointments (Confirmed)
+#### Past appointments
 ```
 You don't have any past appointments
 

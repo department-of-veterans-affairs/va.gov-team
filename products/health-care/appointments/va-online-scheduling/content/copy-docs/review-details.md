@@ -75,7 +75,7 @@ Make sure the information is correct. Then submit your request. If you need to u
 
 **PAGE CONTENT**
 
-```
+```diff
 VA APPOINTMENT
 
 {type of care}
@@ -95,7 +95,8 @@ How to be seen               Edit
 Your contact details         Edit
 {email address}
 {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH47728 @@
 ```
 
 **PROGRESS BUTTONS**

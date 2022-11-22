@@ -1,15 +1,33 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 
+## Team Members
+- Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
+- Delivery Manager - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
+- UX Research - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
+- UX/UI Design
+  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
+  - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)
+  - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
+- Frontend Engineers
+  - [Adrian Rollett](https://dsva.slack.com/team/U01B3JUHLF5)
+  - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
+  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
+- Backend Engineers
+  - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
+  - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+
 ## Product 
-- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+- [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
 - [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
+- [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 
 ## Backlog & Roadmap
 - [Priorities](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661259690010/d8a74b136b1ed8727b2d08fdf55298aa1ffeafab?sender=ud3aa760e30b39bcf436d4473)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [CHIP/VSE/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
+- [VSE/PCI/API/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
 ## Production Wireframes in VA Sketch Cloud
 - [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
@@ -39,7 +57,9 @@
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
 - [Training Environment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/training-environment)
 - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/playbook)
+- [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 
-## Service Now Knowledge Articles
+## Service Now Knowledge Articles (KAs) for Support
+- [Patient Check-in](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
 - [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
-- [Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
+- [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)

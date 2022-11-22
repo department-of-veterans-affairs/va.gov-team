@@ -1,6 +1,23 @@
+# UX Research: January 2022-present
+The goals of our UX research for 2022 were: 
+- Better understand who is using the VA mobile app & why
+- Understand pain points experienced by users who are blind or have low vision
+- Lay groundwork to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as of interest on our roadmap.
+- Identify usability obstacles for new features
 
-# UX Research: Jan 2021-present
-The goals of our UX research January 2021 and forward have been: 
+## Activites and Output
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
+| **February 2022** |  IA Research: Closed Card Sort | Understand how veterans think about the current and possible future content in the VA mobile app, confirm what the high-level information architecture categories should be in the VA mobile app| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)|
+| **September 2022** |  IA & Navigation: Usability Study Findings | Evaluate the usability of the proposed navigation pattern and information architecture (based on the Closed Card Sort findings) using a series of tasks the participants will be asked to complete | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md)|
+| **Summer 2022** |  Concept Testing | Evaluate the usability of the proposed Appointment Scheduler feature |  |
+| **Fall 2022** |  Concept Testing | Evaluate the usability of the proposed Prescription Refill feature |  |
+| **November 2022** |  Usability Testing | Test usability of the app with users who are blind or low vision | In progress soon |
+
+
+
+# UX Research: January-December 2021
+The goals of our UX research for 2021 were: 
 - Identify usability obstacles
 - Identify issues and bugs present in the mobile app build once users have signed in with their own credentials
 - In Summer 2021 we are moving into usability testing
@@ -12,10 +29,8 @@ The goals of our UX research January 2021 and forward have been:
 | **March 2021** |  Usability testing of Secure Messaging high-fi prototype | Understand usability obstacles, ask questions, and get feedback on an MVP secure messaging feature, inform the approach of Secure Messaging in the MVP | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/secure-messaging/round-1/research-summary.md)|
 | **March-May 2021** |  Co-branding research | Understand the impact of MHV branding on Veterans perception of the MVP mobile app | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/Co-branding%20research/co-branding-research-report--may-2021.pdf)|
 | **April-May 2021** |  User Acceptance Testing | Find issues and bugs in live code app with users signed in with their own credentials | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
-| **Summer 2021** |  Usability Testing | Test usability of the app with users who are blind or low vision | In progress soon |
 | **November 2021** |  IA Research: Open Card Sort | Understand how Veterans categorize features and items| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)|
 | **December 2021** |  Rx Refill Research | Understand how Veterans interact with the Rx Refill app| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/rx-refill-app)|
-| **February 2022** |  IA Research: Closed Card Sort | Understand how veterans think about the current and possible future content in the VA mobile app, confirm what the high-level information architecture categories should be in the VA mobile app| In progress |
 
 
 # UX Research: March-December 2020

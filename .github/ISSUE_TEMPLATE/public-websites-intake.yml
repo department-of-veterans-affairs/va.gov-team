@@ -23,6 +23,29 @@ body:
           Our team works in 2-week sprints, and new tickets will be refined before being assigned in future sprints. If your request is time-critical, please be clear about user testing / launch schedules in your description. Urgent sprint injections will require approval from PW PO, Dave Conlon.
 
           # Intake information
+  - type: checkboxes
+    id: fe-needs
+    attributes:
+      label: Indicate if you need front-end engineering support for 
+      options:
+        - label: Content audit
+        - label: Implementation of REACT sign-in widgets
+        - label: Support for UAT testing or phased roll out of app/tool landing page
+        - label: Something else
+  - type: textarea
+    id: customer-request
+    attributes:
+      label: Describe your request
+      description: How can Public Websites help you? Describe the tool, feature, or functionality you are working on, and the help you need.
+    validations:
+      required: true
+  - type: textarea
+    id: customer-timing
+    attributes:
+      label: Time constraints / launch deadlines  
+      description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization. Describe any planned launch timing. Link to launch plan, if it exists. Please note anything driving timing, e.g. outside contractors, internal executive deadlines, or whether timing is preferred but can be flexible. 
+    validations:
+      required: true
   - type: input
     id: customer-name
     attributes:
@@ -61,28 +84,6 @@ body:
     attributes:
       label: Other launch decision makers
       description: Will additional stakeholders make launch decisions for this effort? Please list github handle(s) or email address(es).
-  - type: textarea
-    id: customer-request
-    attributes:
-      label: Describe your request
-      description: How can Public Websites help you? Describe the tool, feature, or functionality you are working on, and the help you need.
-    validations:
-      required: true
-  - type: textarea
-    id: customer-timing
-    attributes:
-      label: Time constraints / launch deadlines  
-      description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization. Describe any planned launch timing. Link to launch plan, if it exists. Please note anything driving timing, e.g. outside contractors, internal executive deadlines, or whether timing is preferred but can be flexible. 
-    validations:
-      required: true
-  - type: checkboxes
-    id: fe-needs
-    attributes:
-      label: Indicate if you need front-end engineering support for 
-      options:
-        - label: Implementation of REACT sign-in widgets
-        - label: Support for UAT testing or phased roll out of app/tool landing page
-        - label: Something else
   - type: textarea
     id: fe-supporting-info
     attributes:

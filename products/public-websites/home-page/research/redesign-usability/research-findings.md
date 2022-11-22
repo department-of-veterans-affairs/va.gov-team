@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 08/31/2022 (updated 09/19/2022)
+Date: 08/31/2022 (updated 09/28/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -223,9 +223,9 @@ For the 4 most problematic tasks, below are the primary reasons why they were di
 
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
-File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
-Add a spouse (review/update dependents) | **Couldn't find by browsing** (tried megamenu, benefit hubs > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
-Compare education benefits by school | **Didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad
+File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating")
+Add a spouse (review/update dependents) | **Couldn't find by browsing** (7 of 19 tried megamenu or benefit hubs > Family member benefits), 1 didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, as a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+Compare education benefits by school | 5 of 19 **didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad
 Check current disability compensation rates | **Couldn't find by searching** (tried "disability pay") **OR browsing** (tried megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
 
 Participants struggled with some of the other tasks, too, as shown in the table below:
@@ -359,8 +359,8 @@ We heard some pain points about VA in general, which is included below but not a
      3. Add "mental health" to the megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist", "counselor", and "therapy".
      4. Add "Update contact info" to the Records benefit hub.
      5. Add "View or change dependent" to Family Member Benefits page, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent".
-     6. Add "View disability rates" to megamenu under Disability, as an search autocomplete suggestion, and a search "top recommendation".
-     7. Make clear on the disability application page that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
+     6. Add "View disability rates" to megamenu under Disability, as a search autocomplete suggestion, and a search "top recommendation".
+     7. Make clear on the [disability application page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) that this form can be used to increase your *existing* disability rating (i.e., add to heading "or increase your current rating").
      8. Change link in megamenu to GI Bill Comparison Tool to make it look more like a hyperlink instead of an ad.
 
 8. **Fix the two accessibility issues with the VA Benefits and Health Care megamenu on desktop** *(discussed with Josh Kim and Laura Flannery)*:

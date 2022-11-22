@@ -33,13 +33,19 @@ Follow these content style best practices:
 
 | Word or phrase | Notes/reasoning |
 | -------------- | --------------- |
-|                |                 |
+| Supplemental Claim | Always headline capped |
 |                |                 |
 |                |                 |
 |                |                 |
 |                |                 |
 |                |                 |
 
+
+## Incremental updates to standard form language
+
+## Things to revisit after related updates
+
+The content team is working on the static page
 
 ## Research findings
 

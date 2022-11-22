@@ -2,57 +2,57 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** _date tk_
-- **UAT Go/No go:** _date tk_
+- **Desired date range or test duration:** week of 9/12/22
+- **UAT Go/No go:** 9/14/22
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
-- **Start UAT**: _
-    - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
-- **Desired number of users:** _provide summary_
-- **How you'll recruit the right production test users:** 
-    - _tk_
-- **How you'll conduct the testing:** 
-    - _tk_
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-    - _tk_
-- **Link to Research plan for UAT**: 
-   - Research plan for onsite notifications MVP UAT (doc tk)
-   - Conversation guide for onsite notifcations MVP UAT (doc tk)
+   - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
+- **[Internal test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/internal-testing-plan.md)**
 
 ### Results/Issues:
-- **Number of users:** __
-- **List of bugs/issues found:** ___
+- **Number of users:** 5 internal users
+- **List of bugs/issues found:** 0
+- **[Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/UAT/Onsite-notifications-internal-UAT-findings.md)**
 
 ## Phase II: Staged Rollout 
 
 ### Planning
 **Launch Go/No go:** 
-- Completed mm/dd/yyyy
+- Completed 09/23/22 _however team determined we are not ready for lunch given challenges with GA at this time. Will revisit status early next week (9/26) after consulting with analytics team._
+- **Update 10/12**: Team resolved GA issues with assistance from analytics team, resumed go/no-go checklist on 10/12 and determined launch readiness - good to go!
 - Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
 - [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
 
-**Desired date range for phased rollout:** 
-- 25% of users (1 week), Dates ____: [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288)
-- 50% of users (1 week), Dates ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
-- If all goes well, then go to 100% of users ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
+**Desired date range for phased rollout:** 9/26/2022 - 10/11/2022
+
+**Phased rollout:** 
+_Dates subject to change_
+|Launch % |Time Frame | Planned Date Range | Ticket | 
+|-------|-----------|-----------|------|
+| Launch to 25% | 1 week | week of 09/26/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
+| Launch to 50% | 1 week | week of 10/03/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 100% | 1 week | week of 10/11/2022 |[#43300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43300) |
+
+
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-_Link to analytics_
+[Onsite Notifications brief: Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#measuring-success)
+- [Onsite Notifications GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/_u.date00=20220912&_u.date01=20221012/) Captures success GETs (loads on My VA) when users have notifications, and when they don't have notifications, as well tracking on dismissals of notifications, and clicks on the "Manage your VA debt" link from within the notification.
 
 
 ## Go Live!
 ### Planning:
-- _Desired date for 25%: mm/dd/yyyy_
-- Actual date for 25%: mm/dd/yyyy
-
-- _Desired date for 100%: mm/dd/yyyy_
-- Actual date for 100%: mm/dd/yyyy
+|Launch % |_Desired Date_ | Actual Date | Ticket |
+|-------|-----------|-----------|----------|
+| Launch to 25% | _09/26/2022_ | 10/13/2022 | [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288) |
+| Launch to 50% | _10/03/2022_ | 10/17/2022 | [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293) |
+| Launch to 100% | _10/11/2022_ | 10/24/2022 | [#43300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43300)|
 
  
-### 1-week results:
-Analytics results for week 1:
+### 1-week (at 100%) results:
+Analytics results for week 1 (10/24 - 10/31):
 
-### 1-month results:
-Analytics results for month 1:
+### 1-month (at 100%) results:
+Analytics results for month 1 (10/24 - 11/24):
 
 ## Post-launch Questions 
 

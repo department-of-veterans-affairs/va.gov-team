@@ -23,6 +23,10 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Includes VA and community care appointments
 - Display 13 months of canceled booked appts
 
+
+#### Community care appointments
+- Veteran can cancel through VAOS.
+
 ### Past Appointments
 - Includes VA and community care appointments
 - Does not display canceled booked appts
@@ -30,6 +34,9 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 ### Pending appointments
 - Includes VA and community care requests
 - Show canceled requests 120 days back
+
+#### Community care requests
+- Veteran cannot cancel through VAOS.
 
 ## New appointment flow
 
@@ -44,7 +51,13 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### Community care eligibility check
 
-- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care
+- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
+    - Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
+    - Audiology (for either routine exam or hearing aid support)
+    - Optometry 
+    - Podiatry (currently only available for Community Care)
+    - Nutrition services
+
 - A user is eligibility if two checks pass:
     - The user is registered at a site that is marked as accepting community care requests
     - The community care eligibility api says that they're eligible for the type of care they chose
@@ -58,7 +71,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### VA facilities page
 
-- Facilities are shown on this page if
+- Facilities are shown on this page if:
     - They are associated with a VistA site where the user is registered, and
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
 - If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address
@@ -132,6 +145,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.
 - The calendar starts on the current month
 - The earliest date allowed for scheduling is 5 days after the current day
+    - If the 5th calendar day falls on a weekend (Saturday or Sunday), the following business day would be the next available date. Example: If the user is logged in on a Monday and trying to book an appointment request, slots would be available from the following Monday. 
 - The latest date allowed for scheduling is 120 days after the current date
 - Once preferred times are chosen, then:
     - For community care requests, they're sent to the community care preferences page

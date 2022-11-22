@@ -1,6 +1,6 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: Sep 15, 2022
+Last Updated: Oct 28, 2022
 
 ### Communications
 
@@ -15,33 +15,57 @@ Last Updated: Sep 15, 2022
 |Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
 |Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
 |Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
-|Robyn Singleton| Core Team Researcher| robyn.singleton@adhocteam.us |
+|Robyn Singleton| Core Team Researcher|robyn.singleton@adhocteam.us |
 |Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
 |Eric Voshall|Core Team Engineer|eric.voshall@adhocteam.us |
 |----|----|-----|
+|Matthew Bain| MHV Program Manager | matthew.bain@va.gov |
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
 |Lichelle Bain| MHV Team Product Manager| lichelle.nichols@bylight.com |
 |Arienne Walters | MHV User Experience Specialist | arienne.walters@bylight.com |
 |Alexia Wunder | MHV Team Designer | alexia.wunder@bylight.com |
 |Jessica Robertson | MHV Team Designer | jessica.robertson@bylight.com |
-|Mike Moyer| MHV Team Engineer | mike.moyer@va.gov |
-|Kolby Balch| MHV Team Engineer | kolby.balch@va.gov |
-|Roberto Rodriguez| MHV Team Engineer | roberto.rodriguez@bylight.com |
-|Matthew Bain| MHV Team Engineer | matthew.bain@va.gov |
+|Mike Moyer| MHV Team Lead Engineer | mike.moyer@va.gov |
 |Oleksii Morgun| MHV Team FE Engineer | oleksii.morgun@va.gov |
+|Kolby Balch| MHV Team Engineer | kolby.balch@va.gov |
+|Roberto Rodriguez| MHV Team Engineer | roberto.rodriguezrenteria@va.gov |
+|Matthew Wright| MHV Team Engineer | matthew.wright8@va.gov |
+|Victoria Saleem| MHV Team FE Engineer | victoria.saleem@va.gov |
 |Aaron Read| MHV Team QA Automation Lead | aaron.read@va.gov |
-|Damjan| MHV Team QA Automation | Damjan.petrovski@bylight.com |
 |Ally Ali|MHV Team Analytics | ally.ali@bylight.com |
 
+## Stakeholders
+
+|Name|Role|Email|
+|----|----|-----|
+|Patty Henry|VA Product Owner|Patricia.Henry@va.gov|
+|Carnetta Scruggs|TBD|Carnetta.Scruggs@va.gov|
+|Theresa Hancock|Diretor, VCHIO|Theresa.Hancock@va.gov|
+
+## Naming Convention Contacts
+|Name|Role|Email|
+|----|----|-----|
+|Tracy Martin|TBD|TBD|
+|Donna Alexander|Cerner|TBD|
+|Colleen Berding|EHRM Patient Portal|TBD|
+|Stacy L. Swanson|VHA CRH lead|TBD|
+|Dawn Smith|IVC (formerly OVAC)|TBD|
+|Mia Powers-Higgins|IVC|TBD|
+|TBD|Clinical resource hub coordinator|TBD|
+|Name|Role|Email|
 
 ## Overview
 Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
 ## Problem Statement
-Secure Messaging on VA.gov was researched and developed > 15 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  When originally developed, it was purposefully designed not to be an email system, but recent usability studies show that most users expect it to behave like other email applications they are familiar with, such as Gmail and Outlook.  Furthermore, some of the rationale and decisions that drove the MHV secure messaging design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
+In addition to the inefficiency and confusion of sending Veterans to multiple sites across the VA to manage their needs, Secure Messaging on VA.gov was researched and developed > 15 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  When originally developed, it was purposefully designed not to be an email system, but recent usability studies show that most users expect it to behave like other email applications they are familiar with, such as Gmail and Outlook.  Furthermore, some of the rationale and decisions that drove the MHV secure messaging design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.  
 
 ## Opportunities
 How might we leverage user-centered design strategies, modern tech, and VA.gov design system and components to create a more intutive, user-friendly, and performant secure messaging experience that exists today?
+
+-Extensive research and user interviews (including stakeholder interviews) have been conducted to learn about Veteran pain points and expectations
+-VA.gov Design Library standards have been applied to the designs to ensure consistent experiences across VA.gov
+-Usability testing and modifications have been made (and are being made continuously to fine tune the experience
  
 ## User Outcomes
 ### Desired User Outcomes
@@ -116,6 +140,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
+-Veterans will prefer interacting with one experience (VA.gov) rather than multiple
+
+
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
@@ -131,17 +158,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
 - Initiative | [Link to Initiative Brief](#)
-
---- 
+- Some possible future features have been identified as candidates to be built in the future.  These will be vetted with product owners and researched prior to prioritizing. Examples:
+  -Previewing a downloaded file on screen prior to actually downloading
+  -Improved handling of messages when folders are deleted
+  -The ability to mass delete and move messages from various message list sections of the applications
+  -Allowing an attachment to be saved to a draft message
+  -Allowing 'Undo' actions in the application
+  -Adding the number of unread messages in each folder to the side navigation panel
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan -- TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+  -This product will be released in the new Phase 0 to Phase 5 approach.  Phase 0 includes only invited users who have the link and can authenticate into messaging.  As additional phases are ready, proper communication and coordination will be completed.
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Q1 2023 with Phase 0
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*

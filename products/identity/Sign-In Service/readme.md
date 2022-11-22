@@ -1,4 +1,4 @@
-# Sign-in-Service (SiS)
+# Sign-in Service (SiS)
 
 ## Overview
 The VA.gov Sign-in Service was created to solve several shortcomings identified with the existing solutions.  Our new service should reduce the number of redirects users experience, reduce login latency, and provide a more cost-effective solution to th VA while increasing transparency for login issues.
@@ -62,7 +62,7 @@ Web based apps will not require the use of an introspection endpoint because the
 ```
 
 ## Postman Collection
-- SiS features a [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) that provides routes for both cookie-based & API-based authentication.
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md).
 
 ## Endpoints
 - [`/authorize` - Authorize](endpoints/authorize.md)

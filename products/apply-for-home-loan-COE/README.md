@@ -12,15 +12,15 @@
 - Team Name: eBenefits
 - GitHub Label: vsa-ebenefits
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
-- Product POCs: Matt Self, Sabrina Mohamed & Jason Wolf
-- Stakeholders: Kelli Deinarowicz, Ken Lancaster
+- Product POCs: Matt Self & Sade Ragsdale
+- Stakeholders: Kelli Deinarowicz
 
 #### Team Members
-Jason Wolf
-James Adams
-Jesse Cohn
-Micah Chiang
-Kathleen Crawford
+- Sade Ragsdale
+- Robin Garrison
+- Eugene Lynch
+- Jerek Shoemaker
+- Scott Meyers
 
 ---
 

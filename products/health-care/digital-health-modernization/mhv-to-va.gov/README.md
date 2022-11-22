@@ -1,21 +1,28 @@
-# My HealtheVet to VA.gov Program Outline
-The MHV to VA.gov Program consists of several different projects, each with their own discrete product outlines:
+# My Health*e*Vet to VA.gov Initiative Outline
+The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
+  - [Health Apartment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) - working name for the area of VA.gov that will ultimately house the tools being incorporated from MyHealth*e*Vet.
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
   - Pharmacy
   - Newsletter
+  - Community Care
+  - Appointments
+
+# GitHub Roadmap
+- [Top-level Roadmap (all teams)](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
 
 # GitHub Project boards
-- [Top Level View (all MHV to VA.gov teams)](https://app.zenhub.com/workspaces/myhealth-shared-board-62619a987d74510018ecc546/board?repos=133843125)
+- [Top Level View (all MHV to VA.gov teams)](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 - [Secure Messaging - Core Team](https://app.zenhub.com/workspaces/myhealth-octo-secure-messaging-614de421e25eb20013d1ee70/board?repos=133843125)
 - [Secure Messaging - MHV Team](https://app.zenhub.com/workspaces/myhealth-secure-messaging-migration-625d8e7aa8f28c002003aefe/board?repos=133843125)
 - [Medical Records - Core Team](https://app.zenhub.com/workspaces/myhealth-octo-medical-records-62e98e7a18446f858064d979/board?repos=133843125)
-- Medical Records - MHV Team
+- [Medical Records - MHV Team](https://app.zenhub.com/workspaces/myhealth-medical-records-mhv-team-6329b3f89e197c9e1bcce22d/board)
 - Pharmacy - Core Team
 - Pharmacy - MHV Team
 - Newsletter - Core Team
+- Community Care - Core Team
+- Appointments - Core Team
 
 # Planning and Resources
-- [Roadmap 2022-2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654267191658/a7ae924cbc7804fc93e4a71660f43ac45845c330?sender=u71ad98f94f5263595f9a4390)
-- [Draft timeline and resource mapping 2022-2024 (WIP)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659099203513/d910f86d5692651834f14b70d18016c3e2ebeb35?sender=u71ad98f94f5263595f9a4390)
+- [Roadmap 2022-2024](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
 

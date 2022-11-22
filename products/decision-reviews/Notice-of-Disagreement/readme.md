@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: [#benefits-team-1](https://dsva.slack.com/archives/C5AGLBNRK) formerly #vsa-claims-appeals
 - Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/decision-reviews/board-appeal/
 - Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf

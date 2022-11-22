@@ -1,4 +1,5 @@
 # Outstanding Debts Frontend Documentation
+Last updated: October 26, 2022
 
 ## When to show the ‘Outstanding debts’ section
 We show this section for every LOA3 user.
@@ -18,21 +19,23 @@ We show this section for every LOA3 user.
 
 #### **Content**
 
-(**$XX.XX**)
+**X overpayment debts**
 
-[XX] outstanding debts
-
-Last updated [date]
+Updated on [date]
 
 [Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt)
 
 **Content sources**
 
-- Total debt amount is pulled from the [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
+- Number of overpayment debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
-- Number of outstanding debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
+- Last updated date should be the most recent date that any overpayment debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
 
-- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
+#### **Visual specs**
+
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the debt card.
+
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
 ---
 
@@ -43,39 +46,43 @@ Last updated [date]
 
 **Show**
 
-- If a user has copays in the debt portal that do not equal 0.
+- If a user has copay statements in the debt portal that do not equal 0.
 
 **Do NOT Show**
 
-- If a user has no copays in the debt portal or their copays equal 0.
+- If a user has no copay statements in the debt portal or their copay statement totals equal 0.
 
 #### **Content**
 
-(**$XX.XX**)
+**X copay bills**
 
-[X] copay bills
+Updated on [date]
 
-Due by [date]
-
-[Manage your VA bills](https://www.va.gov/manage-va-debt/your-debt)
+[Manage your VA bills](https://www.va.gov/manage-va-debt/summary/copay-balances)
 
 **Content sources**
 
-- Total copay amount is pulled from the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
+- Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances) and is the total number of statements that the user has. The user will have one statement per facility that they have any outstanding copays for. This should be plural if there is more than one copay statement; singular if there is only one.
 
-- Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances). This should be plural if there is more than one copay; singular if there is only one.
+- Last updated date should be the most recent date that any copay statement has been updated on the [copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
 
-- Due by date should be the soonest date that any outstanding copay bill is due in the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
+#### **Visual specs**
 
----
+Use the [card component](https://design.va.gov/components/card) in the VA design system for the copay card.
 
-### If a user has outstanding debt(s) AND copay bill(s)
-
-- Show both cards and always show the debts card first, then the copays card below it.
+The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
 ---
 
-### If a user has no outstanding debts or copay bills
+### If a user has overpayment debt(s) AND copay bill(s)
+
+- Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom.
+
+![Screen Shot 2022-11-18 at 1 10 58 PM](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png)
+
+---
+
+### If a user has no overpayment debts or copay bills
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/05DF131D-F900-4770-A3D3-D3F4FAA23FD3)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A2F44369-D9B0-41F6-99FE-F41269378DA9)
@@ -87,7 +94,9 @@ Due by [date]
 
 #### Content
 
-You have no outstanding debts or copay bills.
+You have no overpayment debts or copay bills.
+
+[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
 
 ---
 
@@ -95,7 +104,19 @@ You have no outstanding debts or copay bills.
 
 **Show**
 
-- If a user has no copays or debts in the debt portal or all of their copays and debts equal 0.
+- If a user has no overpayment debts in the debt portal or all of their overpayment debts equal 0.
+
+**Do NOT show**
+
+- If a user has overpayment debts in the debt portal that do not equal 0.
+
+**Positioning**
+
+- This link shows on the righthand side on desktop if the user has a copay card or an overpayment debt card to show in the section.
+- This link appears on the lefthand side on desktop if the user does not have any copays or debt cards to show. This includes if there is a copay or debt API error *and* no copay or debt card to show.
+- If there is a debt API error in the section *and* the user has a copay card to show, this link appears on the righthand side on desktop.
+
+### Content
 
 [Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
 
@@ -107,9 +128,11 @@ You have no outstanding debts or copay bills.
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+>**We can't access some of your financial information**
+
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list if the debt API fails or the user doesn't have debt.
-- If the debt API fails but the user has an outstanding copay, show an error and show a card for copays. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
-- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
-- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
+- If the debt API fails but the user has a copay bill to show, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
+- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. In this case, the "Learn about VA debt" link does not appear. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
+- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. In this case, the secondary link should appear on the lefthand side on desktop, below the error. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
 

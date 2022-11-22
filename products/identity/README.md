@@ -62,15 +62,15 @@ User paths for any product involving identity and personal information should be
 
 ### Potential Product Risk Profiles
 
-### High risk - LOA3 (ID proofing required)
+### High risk - LOA3/IAL2 (ID proofing required)
 
-- **Pro:** able to use most sensitive and extensive user data
+- **Pro:** able to access all known personal user data for the given user
 - **Con:** least accessible to full userbase
 
-### Low risk - LOA1 (login required)
+### Low risk - LOA1/IAL1 (login required)
 
 - **Pro:** able to display some information about user
-- **Con:** can't leverage more sensitive user data records as this user account type is not secure
+- **Con:** can't leverage more sensitive user data records as this user account type is not verified
 
 ### No risk - No login required
 
@@ -81,4 +81,4 @@ LOA3 users are more trusted, and will often have more information and access to 
 
 LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
 
-Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).
+Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).

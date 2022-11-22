@@ -13,7 +13,7 @@
 To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
 
 ### Team Vision:
-A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
+Create a seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
 
 ### Team North Stars:
 - Improve the experience of Veterans and those that care for them in applying for care-related benefts 
@@ -32,11 +32,11 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman
-- DEPO Engineering Lead: Stephen Barrs
+- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman, Katherine Lawyer
+- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
 - Team Product Manager: Heather Justice
 - Team Associate Product Manager: Mark Fallows
-- UX/Research: Dené Gabaldón
+- Sr. UX/Design Research: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
@@ -89,9 +89,9 @@ Create, review, estimate, and prioritize backlog items.
      - Product: Either 1010-ez or 1010-cg
 - EZ initiative labels
      - 1010-short-form
-     - 10-10ez notifications
+     - 10-10ez-notifications
      - household-info-redesign
-     - American Indian
+     - American-Indian
      - sigi
      - facilities-1010
 - CG initiative labels

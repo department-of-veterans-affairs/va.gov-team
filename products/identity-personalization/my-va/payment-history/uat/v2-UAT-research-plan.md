@@ -46,7 +46,7 @@ Remote, via Zoom
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/v2-UAT-conversation-guide.md) 
 
 ## Recruitment	
-Our intended audience for this research is mainly BIPOC Veterans, LGBTQ+ Veterans, assistive tech users, and Veterans with cognitive disabilities who have payments and debt with VA. We'll use Perigean to recruit them.
+Our intended audience for this research is mainly BIPOC Veterans, assistive tech users, and Veterans with cognitive disabilities who have payments and debt with VA. We'll use Perigean to recruit them.
 
 We are focusing our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
@@ -62,11 +62,11 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |                |Moderated   |
 |----------------|:----------:|
 |***SEX***       |            |
-|*Various*       |            |
+|*Various*       |      6     |
 |Male            |            |
 |Female          |      6     |
 |***LGBTQ+***    |            |
-|*Various*       |      4     |
+|*Various*       |            |
 |Gay             |            |
 |Lesbian         |            |
 |Bisexual        |            |
@@ -78,13 +78,13 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Two-Spirit      |            |
 |       ---      |     ---    |   
 |***RACE***      |            |             
-|*Various*       |      2     |
-|Black           |      4     |       
+|*Various*       |      6     |
+|Black           |      2     |       
 |White           |            |             
-|Latinx          |      2     |                      
-|Asian           |      2     |              
-|Native          |      1     |          
-|Pacific Islander|      1     |            
+|Latinx          |      1     |                      
+|Asian           |      1     |              
+|Native          |            |          
+|Pacific Islander|            |            
 |       ---      |     ---    |     
 |***AGE***       |            |
 |*Various*       |      8     |
@@ -119,13 +119,13 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |Pub Hlth Corps  |            |
 |       ---      |     ---    |
 |***EDUCATION*** |            |
-|*Various*       |      4     |
+|*Various*       |            |
 |Elementary      |            |
 |Intermediate    |            |
 |GED             |            |
-|High School     |      4     |
-|Some College    |      2     |
-|Associate's     |      2     |
+|High School     |      2     |
+|Some College    |            |
+|Associate's     |            |
 |Bachelors       |            |
 |Masters         |            |
 |Professional    |            |
@@ -133,11 +133,11 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |       ---      |     ---    |
 |***RESIDENCE*** |            |
 |*Various*       |            |
-|Urban           |      6     |
-|Rural           |      6     |
+|Urban           |            |
+|Rural           |      4     |
 |       ---      |     ---    |
 |***HARDWARE***  |            |
-|*Various*       |      12    |
+|*Various*       |      6     |
 |Desktop         |            |
 |Laptop          |            |
 |Smartphone      |      6     |
@@ -162,15 +162,6 @@ We are focusing our recruitment criteria on the marginalized groups we didn't sp
 |IAL1            |      X     |
 |IAL2            |            |
 |IAL3            |            |
-
----
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
 
 ---
 
@@ -248,16 +239,16 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-Q4 2022
+December 2022
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
+* Pilot participant email: heather@adhocteam.us
 * Date and time of pilot session: 
-  * TBD
+  * Monday, November 14, 2022 at 4:00pm-4:30pm
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+Thursday November 17 - Wednesday November 23
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -266,23 +257,24 @@ Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-|  |  |	
-|  |  |
-|  |  |
-|  |  |
+| Thursday, November 17 | 9am-5pm |	
+| Friday, November 18 | 9am-5pm |
+| Monday, November 21 | 9am-5pm |
+| Tuesday, November 22 | 9am-5pm |
+| Wednesday, November 23 | 9am-1pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
 - Moderator: Angela Agosto, angela.agosto@adhocteam.us
+	- Back up moderator: Liz Lantz, liz.lantz@adhocteam.us
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto
-- Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Participant(s) for pilot test: Heather Catalano
+- Note-takers: None (will use Zoom transcription)
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us
   - erica.sauve@adhocteam.us
   - taylor.mitchell@gcio.com
-  - liz.lantz@adhocteam.us

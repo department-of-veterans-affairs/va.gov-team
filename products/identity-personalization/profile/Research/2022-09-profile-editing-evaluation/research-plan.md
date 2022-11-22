@@ -28,7 +28,7 @@ The findings from this research will help our team understand how well our curre
 
 ### Research questions
 1. What challenges do people encounter related to in-line editing, especially address information and notification preferences?
-2. How easily can people navigate the address validation flow?
+2. How easily can people understand and navigate address validation?
 3. Do people encounter any usability hurdles with updating notification settings?
 
 ### Hypothesis
@@ -231,7 +231,7 @@ Our recruitment will focus on people with cognitive disabilities, and people who
 
 ### Additional instructions  
 ALL participants need to:
-  - be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device
+  - ~be willing to log into *their own* VA.gov account and share over Zoom in a web browser window on their device~ Update: we will have participants log into a staging account.
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session
 

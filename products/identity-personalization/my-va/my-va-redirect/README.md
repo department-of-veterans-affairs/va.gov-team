@@ -1,5 +1,6 @@
 # My VA Redirect Initiative Brief
-Last updated: September 8, 2022
+
+**Last updated: October 14, 2022**
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)
@@ -30,14 +31,14 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 **KPI**
 We do not see an increase in clicks back to the homepage from My VA, as measured by where the homepage ranks releative to other pages for next clicks.
 
-| |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+| |1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/6 - 10/12)| 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|TBD|TBD|
+|Rank of the homepage as a next click from My VA|#7|#7|#6|#6|#6|TBD|
 
 **KPI** 
 We do not see an increase in percentage of users exiting VA.gov entirely from My VA.
 
-||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)|  1 month post-launch to 100% (10/6 - 10/12)| 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Exits from VA.gov from My VA|6.1%|5.7%|6.01%|5.72%|TBD|TBD|
 
@@ -47,14 +48,14 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: We see a 25% increase or greater for clicks into the following links:
 
-|Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
+|Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/6 - 10/12)|  # of clicks 3 months post-launch to 100% (12/6 - 12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim ("view details")|21,041|29,622|29,265|52,218|TBD|TBD|
-|Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|TBD|TBD|
-|Schedule and view your appointments|1,950|2,694|3,136|5,146|TBD|TBD|
-|View your messages|6,704|10,432|12,035|22,114|TBD|TBD|
-|Refill and track prescriptions|4,063|6,734|8,556|16,510|TBD|TBD|
-|View your payment history|17,107|28,115|18,796|29,365|TBD|TBD|
+|View claim ("view details")|21,041|29,622|29,265|52,218|53,074|TBD|
+|Manage all claims and appeals ("check your claim or appeal status")|20,359|32,265|35,643|72,042|78,661|TBD|
+|Schedule and view your appointments|1,950|2,694|3,136|5,146|5,069|TBD|
+|View your messages|6,704|10,432|12,035|22,114|21,172|TBD|
+|Refill and track prescriptions|4,063|6,734|8,556|16,510|15,830|TBD|
+|View your payment history|17,107|28,115|18,796|29,365|28,827|TBD|
 
 #### [Searches initiated from My VA](https://va-gov.domo.com/page/1167851935)
 
@@ -62,21 +63,21 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating, rating, or disability (whichever appears first)|26|39|28|25|TBD|TBD|
-|Claim or Claims (whichever appears first)| 23| 23 |16|12|TBD|TBD|
-|Payment or payment history (whichever appears first)|5|12|17|20|TBD|TBD|
+|Disability rating, rating, disability letter, or disability (whichever appears first)|26|39|28|25|27|TBD|
+|Claim or Claims (whichever appears first)| 23| 23 |16|12|13|TBD|
+|Payment or payment history (whichever appears first)|5|12|17|20|18|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
 **KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|4|4|3|2|TBD|TBD|
-|Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|TBD|TBD|
-|GI bill|9|10|14|19|TBD|TBD|
+|DD214|4|4|3|2|3|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|2|2|2|3|2|TBD|
+|GI bill|9|10|14|19|23|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -84,21 +85,21 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating, rating, or disability (whichever appears first)|5|8|12|16|TBD|TBD|
-|Claim or Claims (whichever appears first)|25|26|33|30|TBD|TBD|
-|Payment or payment history (whichever appears first)|7|11|34|31|TBD|TBD|
+|Disability rating, rating, disability letter, or disability (whichever appears first)|5|8|12|16|18|TBD|
+|Claim or Claims (whichever appears first)|25|26|33|30|30|TBD|
+|Payment or payment history (whichever appears first)|7|11|34|31|25|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/6 - 10/12)|Rank 3 months post-launch to 100% (12/6 - 12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|15|12|5|4|TBD|TBD|
-|Letter, letters, or benefit letter (whichever appears first)|18|17|9|7|TBD|TBD|
-|GI bill|24|25|39|34|TBD|TBD|
+|DD214|15|12|5|4|4|TBD|
+|Letter, letters, or benefit letter (whichever appears first)|18|17|9|7|17|TBD|
+|GI bill (or related terms)|24|25|39|34|29 ("Chapter 35")|TBD|
 
 #### Medallia feedback
 
@@ -146,16 +147,13 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-> TBD
+- [Collab cycle for Auth Exp My VA -- My VA Redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42582)
+- [My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223) feature work epic
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) TK
+* [Release Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/launch-materials/my-va-redirect-release-plan.md)
 
 #### Initiative Launch Dates
 - Monday, 8/29/22 - 25%

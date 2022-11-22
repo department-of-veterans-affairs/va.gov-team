@@ -48,15 +48,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 |------------- |---------|-------|-------------- |
 |Medicare Claim # field | N/A | 100% | TBD|
 
-
-**Key Result #2:** Reduce follow-up requests for additional information
-
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
-
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Follow-up requests for Medicare info | TBD|TBD | TBD|
-
 ---
 
 ## Discovery

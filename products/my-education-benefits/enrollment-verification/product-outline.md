@@ -1,24 +1,23 @@
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+The Enrollment Verification application will allow participants of the GI Bill to confirm their education enrollment information monthly. Monthly enrollment confirmation is a requirement to continue receiving education payments from the GI Bill.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-There are several challenges that can arrise when students are enrolled in a program that they are using their VA education benefits. Making sure that a student is receiving the correct benefits while enrolled in a program is critical for overall GI Bill Program compliance, efficiency, and service delivery to veterans and their families. Today, there is no process in place for a student to verify that the active enrollment information VA has on record is accurate.
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Making sure that a student is receiving the correct benefits while enrolled in a program is critical for overall GI Bill Program compliance, efficiency, and service delivery to veterans and their families. Today, there is no process in place online for a student to verify that the active enrollment information VA has on record is accurate.
 
 How might we create a transparent and efficient way for veterans to review and confirm their current enrollment information that VA is using to determine the benefit they are receiving? 
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-- Veterans and their families should be able to: 1) View their current enrollment information 2) Indicate if their enrollment information is correct or has changed on a regular basis 3) Have clear steps on what to do or who to contact to correct any issues with their enrollment information
+- A student required to verify their enrollment verification every month would benefit from an application that lets them:
+  -  View their current enrollment information 
+  -  Indicate if their enrollment information is correct or has changed on a regular basis
+  -   Have clear steps on what to do or who to contact to correct any issues with their enrollment information
+- With this problem solved, the student would be able to complete their required monthly enrollment verification conveniently at VA.gov, as opposed to having to call or send responses via phone texts.
 
 ## Undesired User Outcomes
-
+- That students fail to send enrollment verification responses and end up with their payments put on hold.
 
 ## Desired Business Outcomes
 

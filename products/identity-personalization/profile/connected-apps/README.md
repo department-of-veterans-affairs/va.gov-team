@@ -4,14 +4,14 @@ Last Updated September 6, 2022
      
 ## Table of Contents
 
-- [POCs](#)
+- [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
 - [Projects](#projects)
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design and UX](#design)
+- [Design and UX](#design-and-ux)
 
 
 ## POCs
@@ -49,11 +49,13 @@ The Lighthouse team keeps their documentation for this feature in Confluence. If
 
 ### How to Access and Test
 
+See [profile product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test) and [profile staging users and test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile.md) for information on how to test connected apps
+
 ## Frontend
 
 ## Design and UX
-- Add Sketch files
-- Add use cases
+- [Sketch files](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases)
 
 ### Flow diagrams
-- Add a flow diagram
+- [View and disconnect apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)

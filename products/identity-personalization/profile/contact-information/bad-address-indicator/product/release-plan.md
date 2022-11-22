@@ -7,17 +7,17 @@
 - **Desired date range or test duration:**  Sept 2022
 - **Desired number of users:**  Internal team will test since we won't be able to recruit for this very specific scenario.
 - **How you'll recruit the right production test users:** n/a
-- **How you'll conduct the testing:** n/a
+- **How you'll conduct the testing:** Zoom meeting with internal team members production accounts (VA Profile marked as "BAI" in advance)
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** n/a
 **Link to Research plan for UAT:** n/a
-- **Research Plan** n/a
-- **Conversation Guide** n/a
+- **Research Plan** [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/research-plan.md) 
+- **Conversation Guide**  [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/uat/conversation-guide.md). 
 
 ### Results
-- **Number of users:** 
-- **Number of bugs identified / fixed:** 
-- **Types of errors logged: 
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?
+- **Number of users:** 8
+- **Number of bugs identified / fixed:** 0
+- **Types of errors logged: 0
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? n/a
 
 
 ## Phase II: Staged Roll-out
@@ -34,7 +34,7 @@
 
 - Link clickthroughs from Alerts are successfully directing users to the intended pages with no errors 
 - No P0's (launch-blockers) found
-- Approval from the GO/NO GO call (add link)
+- Approval from the GO/NO GO call 
 
 # Go Live!
 

@@ -2,274 +2,204 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Benefits Team 1
 
-Date: 09/17/2022
+Date: 09/29/2022
 
 Skyler Schain · skyler@coforma.io
 
-[Research Report PDF] (link here)
-
-<br>
-
-**Jump to:**
-
-[Hypotheses and conclusions](insert link to section)
-
-[Key findings](insert link to section)
-
-[Recommendations](insert link to section)
-
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
-
-<br>
 
 # Research Goals
 Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience. Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.
 
-For this research, we tested the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. The purpose was to ensure that the feature as designed is usable and accessible.
+For this research, we tested the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. The purpose was to ensure that the feature as designed is usable by Veterans across a range of demographics and form factors.
 
 
 # Research Questions
 
 * Understand more about the decision letter user journey
 * Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
-* Understand Veterans' mental model for letters generally, including both benefit letters and "claim letters" (inbound communication from the VA pertaining to a Veterans' claims and appeals
+* Understand Veterans' mental model for letters generally, including both benefit letters and "claim letters" (inbound communication from the VA pertaining to a Veterans' claims and appeals).
 
 # Methodology 
 
-We conducted [x] remote moderated usability sessions via Zoom. Participants were tasked with finding and accessing their decision letter via VA.gov and the Claim Status Tool. 
+We conducted 10 remote moderated usability sessions via Zoom. Participants were tasked with finding and accessing their decision letter via VA.gov and the Claim Status Tool. 
 
-[x/y] participants were accessed the prototype via mobile device. [x/y] participants accessed the prototype via desktop. 
+5/10 participants were accessed the prototype via mobile device. 5/10 participants accessed the prototype via desktop. 
 
-Half of the participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. The other half started with Task 2, whcih prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
+Some participants started with Task 1, which prompted them to find out about an unknown claim decision from the VA.gov homepage. Some started with Task 2, which prompted them to find the decision letter for a known claim decision from the VA.gov homepage. With these tasks, we tested the navigation flows designed to allow access to decision letters and claim decisions.
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. When prompted to look for an update to their claim decision, participants will navigate to the Claim Status Tool, and from there they will find the decision letter and download it. 
+- **TRUE.** 10/10 participants successfully navigated to the decision letter via the Claim Status Tool when prompted to find the decision letter related to their disability compensation claim. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+2. When prompted to find a copy of a disability claim they'd already received (Task 2), participants will navigate to Records from the VA.gov homepage to access the decision letter from there. 
+- **FALSE.** None of the participants (3/10) who were prompted with this task navigated to Records from the home page. They all navigated to the Claim Status Tool and got to the decision letter that way. 
 
-_Hypothesis statement_
+3. Participants will be able to identify the decision letter in the list of letters in the Claim Letters page based on the date. 
+- **TRUE.** 10/10 participants mentioned the date or the fact that it was "the most recent one" in explaining how they knew to click on the correct link to access the decision letter. (The date matched the "claim closed on" date listed in the Claim Status Tool). 
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+4. Participants will understand the difference between Claim Letters and Benefit Letters based on the way we explain them in the UI. 
+- **MAYBE TRUE.** From the Download VA Letters page, 4/10 participants tried to access the claim letters via the "View Benefit Letters" button, although this took them to the Benefit Letters page. This might have been due to the lack of discoverability of the Claim Letters entrypoint, which in most cases was hidden below the fold. 
 
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Core task of accessing Decision Letters via the Claim Status Tool was very successful.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.
 
-1. Finding one
+3. On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough.
 
-2. Finding two
+4. Navigation from the Download VA letters page back to the claim letter page was tricky for some participants.
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+5. Participants mostly understood the use cases for benefit letters and claim letters, although some found it hard to articulate the difference between them.
 
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
+**1. Core task of accessing Decision Letters via the Claim Status Tool was very successful.**
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+Users were able to navigate to the list of decision letters and download their decision letter with minimal usability issues.
 
+> _"Oh that's definitely a 5 (out of 5)...everything is self-explanatory." (P17)_
 
-**Finding 1**
+> _"I actually thought it moved along pretty quickly." (P19)_
 
-Labels: label 1, label 2 
+> Average score of 4.8 (out of 5) from participants.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+**2. The date and recency sorting in the Claim letters list was crucial for participants to understand which letter was their claim decision letter.**
 
-Brief description
+Date and recency sorting helped users understand which letter to click to get their decision letter. This is not a fully reliable signifier, since dates can be variable, but it's a good starting point. Going forward, any addiitonal metadata about the letter we can surface to the user will further improve usability. 
 
-> _Supporting data: Quote here_
+> _"We're talking about 8 September, and the ones below are different dates." (P8)_
 
-> _Supporting data: Quote here_
+> _(Why did you click on that letter?) "Because it's the most recent." (P10)_
 
+**3. On the Download VA Letters page, the Claim Letters entrypoint was not discoverable enough**
 
-**Finding 2**
+Participants who scrolled below the fold and discovered the Claim letters page understood that it took them to the list of letters, and were able to find their way back to the page when prompted. 
 
-Labels: label 1, label 2 
+Those who did not scroll far enough to see the Claim letters entrypoint were confused about how to return to that page, and some thought Benefit letters would take them back to the Claim letters list.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+**4. Some participants got confused about the difference between Benefit Letters and Claim Letters when navigating**
 
-Brief description
+> When prompted to navigate to the list of decision letters from this page, 4/10 participants clicked on “View benefit letters”
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+> A few participants went looking for the claim letters page in the left nav but couldn’t find it
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+**Participants expected that the "Claim Letters" page would have development letters, decision letters, and other communications related to their claims.**
+
+> _“Different letters in reference to my claim.” - P2_
+
+> _“They would be earlier claims. Other letters in the past have been related to education benefits and that kind of thing – not sure if these are all related to compensation and pension.” - P8_
+
+> _“Any other letters that are in reference to my VA claim.” - P10_
+
+**Veterans used a variety of terms to describe the differences between benefit letters and claim letters.**
+
+We asked Veterans to describe the difference in their own words.
+
+> _“(Claim letters) is for getting access to an archived copy of a claim letter that I’ve actually received in the mail.” - P8_
+
+> _“With (benefit letters) you have proof that you’re a Veteran and what benefits you have access to.” - P17_
+
+> _“(Claim letters) was a letter from the VA to me, whereas (benefit letters) is a letter the website is generating that supports me.” - P19_
+
+**A few Veterans expressed that it would be nice not to have to navigate to the Claim Letters page to get the decision letter**
+
+We would like to remedy this in future versions, but are limited by technical constraints
+
+> _"Nothing was missing, it was just too many steps to go through to get to (the decision letter)." (P12)_
 
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* For this MVF, house the Claim Letters URL within CST, since most users associated the page contents with claims and appeals information and most participants navigated to CST to find their decision letters. (There are also product and technical reasons for going this route).
+    
+* Beyond MVF, continue exploring how to pair decision letters with their specific claims, to further simplify the user journey.
+    * One participant (P12) in particular was dissatisfied with the experience due to the number of clicks it took to get to the decision. From observing the other participants, it was clear that reducing the total steps would have made for an even clearer and better experience. 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Beyond MVF, consider how this user journey connects to the appeals journeys and try to construct an intuitive pathway for users to appeal claims once they see their decision letter.
 
-
-# Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* Consider how this feature would work on the mobile app.
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+Mural board, Google Spreadsheet
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- 5 mobile-first users of VA.gov.
+- 5 Veterans aged 55-64+
+- 5 Black Veterans
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Male: 6 
+* Female: 4 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Smart phone: 5
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 45-54: 2
+* 55-64: 2
+* 65+: 6
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 1
+* Master's degree: 5
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* White: 5
+* Black: 4
+* Prefer not to answer: 1
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+[Recruitment Checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=744554771)
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability
+* Rural
+* Other than honorable
+* Immigrant origina
+* Expat (living abroad)
+* Hispanic
+* Biracial
+* Asian
+* Native
+* LGBTQ+
+* Assistive tech users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="915" alt="Screen Shot 2022-09-30 at 2 58 23 PM" src="https://user-images.githubusercontent.com/95102058/193338559-4f7581c6-bf28-4567-8d9d-6bf3c00f8717.png">
+
+

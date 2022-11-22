@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-Last updated July 14, 2022
+**Last updated**: November 10, 2022
 
 ### Communications
 
@@ -9,14 +9,21 @@ Last updated July 14, 2022
 
 ### Roles
 
+#### On-site notifications team
+
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Erica Sauve | Associate Product Manager | erica.sauve@adhocteam.us|
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Angela Agosto | Designer| angela.agosto@adhocteam.us|
-|Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
+|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
+|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
+|Angela Agosto |Designer| angela.agosto@adhocteam.us |
+|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+
+
+#### Partners
+
+|Name|Role|Email|
+|----|----|-----|
 |Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
 |Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 
@@ -73,7 +80,9 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Projects
 
-- [On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp)
+|Project| Launch date|
+|-------|------------|
+|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp)| Launch completed October 24, 2022|
 
 ## Backend
 
@@ -101,14 +110,30 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Frontend
 
+### Overview
+
 - The frontend connects to VANotify via an API we set up.
 - Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
-- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
+- If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
+
+### When are the notifications fetched from the server?
+
+The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
+
+* If there are any notifications, that are not dismissed, we show the notifications.
+* If there are no notifications we do not show the section.
+* If there is an error on the backend preventing notifications from appearing, then we do not display the Notifications section on the page.
+* If there is an error when the user attempts to dismiss the notification, we show an error.
+
+### If a user dismisses a notification
+
+When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
+
 
 ## Design
 
-- Add Sketch files
-- Add use cases
+- [Sketch file](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/use-cases)
 
 ### Before
 
@@ -117,3 +142,5 @@ Currently, there is only one notification to test (2022). In the future, there m
 ![My VA 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
 ### After
+
+![My VA desktop inline notifications](https://user-images.githubusercontent.com/97965610/199740911-2331edf4-2e37-4081-a0fb-2a82817e75f7.jpg)

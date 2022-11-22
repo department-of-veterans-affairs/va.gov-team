@@ -3,7 +3,7 @@ Content + Localization Team's Documents
 # Engineering and Architecture
 
 ## Frontend
-Translations are handled almost entirely within the frontend during static page generation. During static page generation, [createI18Select()](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/static-pages/static-pages-entry.js#:~:text=import-,createI18Select,-from%20%27./i18Select/createI18Select) is called to initialize the translation menu links that appear at the top of a translated page.
+Translations are handled almost entirely within the browser. During page load, [createI18Select()](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/static-pages/static-pages-entry.js#:~:text=import-,createI18Select,-from%20%27./i18Select/createI18Select) is called to initialize the translation menu links that appear at the top of a translated page. This process includes a check of the current url and looks for a suffix (i.e. `-esp`) indicating the language of the current page, and selects the appropriate language in the translation menu.
 
 ![image](https://user-images.githubusercontent.com/221539/179070768-21246fb5-5d37-4dfb-939e-8e4a09c99c8d.png)
 

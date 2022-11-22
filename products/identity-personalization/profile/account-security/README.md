@@ -1,6 +1,6 @@
 # Account Security Product Outline
 
-Last Updated September 1, 2022
+_Last updated October 26, 2022_
      
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Last Updated September 1, 2022
 - [Analytics](#analytics)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design and UX](#design)
+- [Design and UX](#design-and-ux)
 
 
 ## POCs
@@ -28,6 +28,8 @@ Account security is a section of the profile where users can do the following:
 - Find a link to their sign in service (eg. ID.me) to change their email address
 
 Once these tasks are done, users can see that they've been completed. Otherwise, there aren't any other tasks that are part of account security at this time.
+
+For more information on signing in see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md).
 
 ## User Problem Statement
 
@@ -53,7 +55,9 @@ There is no singular backend that supports this section. Largely, this section i
 ### Services
 
 - We check DS Logon, MHV, ID.me, and Login.gov to determine whether a user has verified their identity or not, and whether or not to show them the full profile or only show them Account security with a prompt to verify their identity.
-- We also check these services to see if 2FA has been set up. **Tom should verify this**
+- We also check these services to see if 2FA has been set up.
+
+See [BE Documentation for Profile: Account Security](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md) document for more information the responsiblity of the backend API.
 
 ### How to Access and Test
 

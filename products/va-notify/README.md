@@ -78,13 +78,12 @@ ________________________________________________________________________________
 
 
 ## Technical Onboarding Guide
-* [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
+Checkout our [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20Notify%20Playbook.pdf) for detailed onboarding information.
 * Staging URL: https://staging.api.notifications.va.gov
 * Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
 * Templating guides: 
-  * https://design.va.gov/patterns/email_template
-  * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
-  * https://notification.canada.ca/templates
+  * https://design.va.gov/templates/email
+  
 
 ![](images/technical.png)
 

@@ -127,7 +127,7 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 463 | STG/CARDIO/3 | | M-F 8AM - 330PM | Yes |
 | 464 | STG/ECHO/3 | | M-F 8AM - 330PM | Yes |
 | 478 | STG/ECHO/5 | | M-F 8AM - 330PM | Yes |
-| 485 | STG/ECHO/6       | | M-F 8AM - 330PM | Yes |
+| 485 | STG/ECHO/6       | | M-F 8AM - 330PM | No |
 | 449 | STG/ENDROCRINE/1 | | M-F 8AM - 330PM | Yes |
 | 500 | STG/MH/8 | | M-F 8AM - 330PM | Yes |
 | 525 | STG/SLEEP LAB | | M-Su 3PM - 2030PM | Yes |
@@ -175,7 +175,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 25  | Three, Patient | 1935-04-07 | Paras |
 | 229 | Four, Patient | 1935-04-07 | Andy |
 | 231 | Five, Patient | 1935-04-07 | Justin |
-| 418 | Six, Patient | 1935-04-07 | Chris Wilmsen |
+| 418 | Six, Patient | 1935-04-07 | Peyton |
 | 253 | Seven, Patient | 1935-04-07 | Carl |
 | 3   | Eight, Patient | 1935-04-07 | Stephen |
 | 8   | Ten, Patient | 1935-04-07 | QA Team |
@@ -184,11 +184,11 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews |
 | 271 | Fourteen, Patient | 1935-04-07 | Kristen |
 | 723 | Twentysix, Patient | 1935-04-07 | Adrian |
-| 366 | Twentyeight, Patient | 1935-04-07 | Dan |
+| 366 | Twentyeight, Patient | 1935-04-07 | John |
 | 350 | Twentynine, Patient | 1935-04-07 | Gaurav |
 | 391 | Thirty, Patient | 1935-04-07 | Lori |
 | 384 | Thirtyone, Patient | 1935-04-07 | Kanchana |
-| 140 | Thirtytwo, Patient | 1935-04-07 | Nira |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras |
 | 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
 | 217 | Nine,Patient | 1935-04-07 | Charley |
@@ -201,11 +201,11 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach |
 | 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben |
 | 569 | Fotrythree,Patient | 1935-04-07 | Brian |
-| ? | Fotryfour,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| ? | Fotryfive,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| ? | Fotrysix,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| ? | Fotryseven,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| ? | Fotryeight,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews |
 
 **Station 442**
 

@@ -12,9 +12,76 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-### 9/20/2022 (FUTURE)
-- Updated Pre-Check-in and Check-in to require the use of the Veteran's date of birth instead of their last 4 when performing identity verification (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). Please note that we will be releasing this change to 10% of users initially, while the other 90% will verify their identity using their last 4. If everything looks good we will increase the number of users accessing this feature by 20% per business day until we have reached 100%.
+### 11/15/2022
+- Updated the react modal to use the web-component version; currently only affects the Privacy Act Statement modal pop-up; no noticeable changes to Veterans
+    - [Ticket 49554](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
+
+### 11/08/2022
+- Updated error message in the info box when identity verification fails (Pre-Check-in & eCheck-in) to "We’re sorry. We couldn’t find an account that matches that last name or date of birth. Please try again."
+    - [Ticket 48721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48721)
+
+### 11/07/2022
+- Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow. Now, when they reload the application at any point before completing the workflow, they will return to where they left off, instead of the start of the workflow, and their answers to any previously-asked questions will be retained
+    - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
+
+### 11/03/2022
+- Changed the content of the "Go to another appointment" link in eCheck-in to say "Back to today's appointments" to be clearer to Veterans
+    - [Ticket 47443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47443)
+
+### 11/02/2022
+- Tagalog Language Support - New feauture to allow Veterans to view eCheck-in and Pre-Check-in page content translated to Tagalog 
+    - [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)
+
+### 10/31/2022
+- Fixed a bug where the footer was not displayed on the "See Staff" page
+    - [Ticket 48099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48099)
+- Fix 2 UI component alignments bugs
+    - [Ticket 48110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48110)
+
+### 10/28/2022
+- Fixed a bug where the Confirmation page would display an incorrect title when using the application translated to Spanish
+    - [Ticket 48414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48414)
+
+### 10/18/2022
+- Updated content in the "Need help?" footer of eCheck-in pages to include clearer instructions for the Veteran
+    - Confirmation page
+       - ![image](https://user-images.githubusercontent.com/86678742/196749400-07289e20-b43e-4e78-b910-f2d610749b9e.png)
+    - Non-confirmation pages 
+        - ![image](https://user-images.githubusercontent.com/86678742/196749473-1de0ae08-9ae3-421d-8f43-ed506689433f.png)
+    - [Ticket 47827](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47827) 
+
+### 10/12/2022
+- Updated eCheck-in and Pre-Check-in to require the use of the Veteran's date of birth instead of their last 4 when verifying their identity (detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/lorota-security-updates.md)). 
+    - We have currently released to 30% of Veteran and will monitor the metrics as we increase the availability as follows:
+         - Monday 10/17 - 50%
+         - Tuesday 10/18 - 70%
+         - Wednesday 10/19 - 90%
+         - Thursday 10/20 - 100%
     - [Epic 39193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+
+### 10/11/2022
+- Updated eCheck-in to display a message to Veterans who successfully check-in to see a staff member if they have been waiting in the waiting room for more than 15 minutes
+    - [Epic 47114](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47114)
+
+### 10/05/2022
+- Fixed a bug for the date-of-birth component that resulted in an endless validation loop; no changes to the front end
+    - [Epic 47467](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47467)
+
+### 10/04/2022
+- As part of the security updates for Pre-Check-in & eCheck-in, a LoROTA entry is deleted after 3 failed identity verification attempts; no changes to the front end
+    - [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) 
+
+### 9/29/2022
+- Changed Pre-Check-in to allow Veterans to get an error message prior to verifying their identity when using an expired Pre-Check-in link
+    - [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
+
+### 9/27/2022 
+- Change to allow the VA to manually trigger a PageDuty outage for the Pre-Check-in and Check-in applications individually. End users would see a maintenance message when an outage has been triggered. 
+    - [Epic 46120](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46120)
+
+### 9/26/2022 
+- Updated Pre-Check-in to display the error message that indicates Pre-Check-in is no longer available for an appointment (because the LoROTA entry was deleted) before the Veteran verifies their identity instead of after.
+    - [Epic 46117](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
 
 ### 9/14/2022
 - Addded additional Spanish-translated content

@@ -15,15 +15,16 @@ Describe the issue background and scope
 ## Tasks
 - [ ] Conduct Unit tests 
 - [ ] Run E2E tests covering current code and regression
-- [ ] All axe checks pass
-- [ ] Deploy to Staging behind feature flag
+- [ ] Notify PM if this needs to be deployed to Staging behind feature flag
+  
 
 ## Acceptance Criteria
 - [ ] Complete all unit testing
 - [ ] End-to-end tests showing 0 violations
+- [ ] All axe checks pass
 - [ ] Notify Product Manager that the change is ready to be validated on Staging
 - [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
-- [ ] Deploy changes to Production using feature flag
+- [ ] Confirm PM has opened a new ticket to deploy changes to Production using feature flag, if needed
 
 ## Validation
 - Who can validate this ticket? (FE, BE, Design, PM)?
@@ -43,3 +44,4 @@ Describe the issue background and scope
 - Assign to a Profile team member
 - Associate with an Epic if applicable
 - If creating for yourself: estimate work if enough info exists to do so
+

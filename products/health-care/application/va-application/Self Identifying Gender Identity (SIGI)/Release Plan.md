@@ -3,7 +3,7 @@
 ## Phase 1: UAT
 
 ### Planning
-- UAT Go/No Go: No UAT Planned, this is an addition of one single-selection question that is not required*.
+- UAT Go/No Go: No UAT Planned, this is an addition of one single-selection question that is not required.
 - Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Self%20Identifying%20Gender%20Identity%20(SIGI)/Readiness%20Checklist.md)
 - Desired date range or test duration: N/A
 - Desired number of users: N/A
@@ -22,29 +22,30 @@
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: 11/21/2022
-- Desired date range: TBD
+- Launch Go / No Go: 12/19/2022
+- Desired date range: 11/19/2022 - 12/29/2022
 - How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
 - Success criteria to be reviewed prior to advancing rollout to the next stage
      - No production errors, or unable to advance to next page
      - Minimal to No increase in Dropoff rates
+     - Check in with Joshua Faulkner for successfull end-to-end processing
 - Links to [Domo dashboards](https://va-gov.domo.com/page/447193050)
 
 #### Phased Rollout
 - 25% of users
-  - Dates: 11/21/2022
+  - Dates: 12/19/2022
 - 50% of users
-  - Dates: 11/28/2022
+  - Dates: 12/22/2022
 - 75% of users
-  - Date: 12/05/2022
+  - Date: 12/26/2022
 - 100% of users
-  - Date: 12/12/2022
+  - Date: 12/29/2022
 
 
 ## Phase 3: Go Live!
 
 ### Planning
-- Planned date: 12/12/2022
+- Planned 100% date: 12/29/2022
 - Actual date: TBD
 ___
-- *: We may change this to a required question.
+

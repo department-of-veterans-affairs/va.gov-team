@@ -1,0 +1,19 @@
+name: Infrastructure stale issues
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checks for stale pr
+        uses: actions/stale@v6
+        with:
+          repo-token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          days-before-issue-stale: 90
+          days-before-issue-close: -1
+          any-of-issue-labels: devops, operations
+          stale-issue-label: stale
+          stale-issue-message: This issue is stale. If it is no longer valid, please close issue. Otherwise please update

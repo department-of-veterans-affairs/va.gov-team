@@ -11,11 +11,11 @@ assignees: ''
 Update various product artifacts, as necessary, based on the feature release.
 
 ## Tasks
-- [ ] Update the PCI Product Guide, including content and screenshots
-- [ ] Update the CI Product Guide, including content and screenshots
-- [ ] Update the Poster
-- [ ] Update user flow diagrams, as necessary
-- [ ] Send updated screenshots to Danielle Thierry for the Resources & Support (R&S) articles in VA.gov
+- [ ] Update the Pre-Check-in Product Guide, including content and screenshots, if necessary
+- [ ] Update the eCheck-in Product Guide, including content and screenshots, if necessary
+- [ ] Update the Poster, if necessary
+- [ ] Update user flow diagrams, if necessary
+- [ ] Send updated screenshots to Danielle Thierry for the Resources & Support (R&S) articles in VA.gov, if necessary
 
 ## Acceptance Criteria
 - [ ] Product Guides are up-to-date and ready to be pushed to production (content & screenshots)

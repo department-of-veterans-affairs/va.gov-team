@@ -5,7 +5,7 @@
 Reduce time taken in completing the 10-10EZ application and increase the number of overall submissions.
 
 **Related/Associated product(s)**
-- Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
+- Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
 Veterans are either not completing the application due to additional information that is required but may not be necessary; or may not be completing due to the amount of time required to complete the application.
@@ -35,25 +35,26 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 *Using last 6 months (Jan-June 2022) to calculate Baselines*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Application starts per Month | 20.8k | TBD | TBD |
-| Avg. Submissions per Month | 13.7k | TBD | TBD |
-| Pct. Applications Completed | 66% | TBD | TBD |
+| Avg. Application starts per Month | 12,974k | 2,546 | TBD |
+| Avg. Submissions per Month | 4,196k | 1,900 | TBD |
+| Pct. Applications Completed | 32.3% | 74.6% | TBD |
 
 **Key Result 2:** Reduce Sesssions / Time taken to complete application 
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Sessions per Submission | 1.38 | TBD | TBD |
-| Avg. Single sessions per Month | 8,103 | TBD | TBD |
-| Avg. 2 sessions per Month | 2,857 | TBD | TBD |
-| Avg. 3 or more sessions per Month | 1,764 | TBD | TBD |
+| Avg. Sessions per Submission | 1.52 | 1.50 | TBD |
+| Avg. Single sessions per Month | 8,103 | 1,289 | TBD |
+| Avg. 2 sessions per Month | 2,857 | 393 | TBD |
+| Avg. 3 or more sessions per Month | 1,764 | 191 | TBD |
 
 **Key Result 3:** Reduce abandoned applications
 
-*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Service info/household information section (viewers of Service Information page minus views of Medicaid/Medicare page, then determine %)*
-| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
-| ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Applications Abandoned per month | 3,724 (22,346 total) | TBD | TBD |
-| Pct. Applications Abandoned per month | 19.5% | TBD | TBD |
+*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Basic info/Household info section (viewers of Basic Information page minus views of Medicaid/Medicare page, then determine %)*
+| KPI / Metric |Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| ------------ | ------------------ | ------------------- |------------------- |
+| Avg. Applications Abandoned per month |2,185 6mo. avg | 469 | TBD |
+| Pct. Applications Abandoned per month |16.8% of 12,974 6mo. avg started| 18.4% of 2,546 started | TBD |
+| Pct. Section Abandon compared to total abandoned| 52% of 4,203 6mo. avg total |73% of 646 total | TBD|
 
 ---
 
@@ -97,6 +98,10 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - 7/27/2022 - 100%
   - 7/29/2022 - 0% - disabled feature toggle due to [production issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/7-29-22%20-%20Prod%20Issue%20with%20Short%20Form.md)
   - 9/19/2022 - 5% (ES deployed their fix on 9/17)
+  - 10/17/2022 - 25%
+  - 10/24/2022 - 50%
+  - 10/26/2022 - 75%
+  - 10/31/2022 - 100%
 
 ---
    

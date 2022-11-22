@@ -5,8 +5,6 @@
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-08-Decision-Letter-Download/conversation-guide.md)
 
-[Recordings](https://drive.google.com/drive/folders/1YDcN3CuxWYMYnQWk3-_B1KvGMuZGirIT)
-
 [Mural notes](https://app.mural.co/t/coforma8350/m/coforma8350/1662487211577/ab780c3bc19ef6985d5781a76de1ae23b056cd0d?sender=uf0ac39cb9487bbab2ebe3184) 
 
 
@@ -54,10 +52,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 - On desktop, many participants looked at the left nav when prompted to find their way back to the Claim Letters page
 
 
-**Participants who were familiar with Benefit Letters understood the difference between Benefit Letters and Claim Letters. For those less familiar, the distinction was less clear.**
+**Most participants had no problem with the distinction between benefit letters and claim letters pages.**
 
-- Although they found it difficult to clearly articulate the difference, participants who were familiar with Benefit Letters from past experience weren't confused by the separate of Benefit Letters and Claim Letters. They understood the different use cases for them both.
-- Other participants stated that they'd prefer to see all the letters on the same page.
+- Although they found it difficult to clearly articulate the difference, most participants weren't bothered by the separation of Benefit Letters and Claim Letters. They understood the different use cases for them both.
+- A couple participants stated that they'd prefer to see all the letters on the same page.
 
 > "The decision letters are letters from the VA to me, whereas (Benefit Letters) are letters...that the website is generating that supports me." (P19)
 
@@ -67,7 +65,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **Other findings/reflections**
 
 - Most participants correctly guessed that Claim Letters page would include decision letters and development letters (other letters related to gathering evidence or updates about the claim).
-- The main value proposition of the Claim Letters page for many participants was that it serves as an archive. They felt reassured knowing they could access critical documents in this one place whenever they needed, especially if/when they misplaced the physical copies. This supports our design approach of creating a repository within Records for these types of letters.
+- The main value proposition of the Claim Letters page for many participants was that it serves as an archive. They felt reassured knowing they could access critical documents in this one place whenever they needed, especially if/when they misplaced the physical copies.
 - A couple participants mentioned the mobile app, one participant in particular (P12) said that he primarily uses the mobile app and would expect to be able to find this more easily there. We should connect with the mobile app team to ensure that this functionality is available wherever Veterans need it.
 - Only one participant explicitly critiqued the design for having "too many steps" (P12). But it was clear from observing that a better user experience would involve fewer steps to get to the actual decision letter. Given technical constraints, this MVF approach works but we should continue to explore how we can overcome those constraints to provide an optimal user experience.
 - A few participants mentioned that they would use the decision letter for an appeal (P19 mentioned that they would do this immediately). Beyond the MVF, we should explore how we might connect the Claim Letters page to the appeals flows in an intuitive and cohesive way.

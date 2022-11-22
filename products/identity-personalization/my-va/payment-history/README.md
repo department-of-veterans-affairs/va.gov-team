@@ -1,6 +1,6 @@
 # Feature: Payment and debt info on the My VA dashboard
 
-Last updated June 16, 2022
+Last updated September 26, 2022
 
 ### Communications
 
@@ -37,36 +37,91 @@ Prior to this initial launch, we were made aware of some usability problems with
 
 ## Measuring Success
 
+### MVP: Adding payments and debts to My VA (October 2021 - May 2022)
+
+<details>  <summary>MVP</summary>  
+
 These stats are for the MVP effort to add payment and debt info to My VA.
+ 
+**Note that we launched the My VA redirect in September 2022, which significantly increased all interactions on My VA** 
 
 ### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
 
-**Key result**: Increase overall clicks into payment history and debt information by 10%.
-
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Q3 2022| Post-launch: Q4 2022|
+**Key result**: Gather baseline metrics for clicks into payment history and debt information on My VA.
+ 
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| 1.9 mil (visits to the url)|TBD|TBD|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| 170k|TBD|TBD|
-|Clicks to manage direct deposit ("[Manage your direct deposit](https://va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
-|Clicks to request travel reimbursement ("[Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
+|Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| N/A|140,469|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| N/A|40,313|TBD|
+|Clicks to manage direct deposit ("[Manage your direct deposit](https://va.gov/profile/direct-deposit)")|N/A|39,567|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Q3 2022| Post-launch: Q4 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
-|Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
-|Search rank for "direct deposit” from My VA| #2, #6|TBD|TBD|
+|Search rank for "payment” or "payment history" from My VA (whichever comes first)| #1|#3|TBD|
+|Search rank for "debt” or "debt management" from My VA (whichever comes first)| #5 |#11|TBD|
+|Search rank for "direct deposit” from My VA (whichever comes first)|#3|#10|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Q3 2022| Post-launch: Q4 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history"| #6|TBD|TBD|
-|Search rank for "debt” or "debt management"| #23|TBD|TBD|
-|Search rank for "direct deposit”| #7, #17|TBD|TBD|
+|Search rank for "payment” or "payment history" (whichever comes first)| #5|#15|TBD|
+|Search rank for "debt” or "debt management" (whichever comes first)| #8|#12|TBD|
+|Search rank for "direct deposit” (whichever comes first)| #2|#9|TBD|
+
+</details>
+
+### V2: Updating payments and debts to address usability issues (May 2022 - current)
+
+<details>  <summary>V2</summary>    
+
+### Objective: Bring greater differentiation and more equal weight to debts and payments (payments over emphasized and debts de-emphasized in V1).
+ 
+**Key result: Increase clicks into "Manage your VA debt" CTA on My VA by 10%.**
+ 
+[My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
+ 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Clicks into "Manage your VA debt" CTA on My VA|TBD|TBD|TBD|
+ 
+**Key result: Increase pageviews for the debt tool overall by 10%** 
+
+[Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Pageviews of the debt summary page|TBD|TBD|TBD| 
+
+### Objective: Elevate copays to My VA.
+ 
+**Key result: Establish baseline metric for clicks into copay CTA from My VA.**
+
+[My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)  
+ 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Clicks into copay CTA|N/A|TBD|TBD|
+
+**Key result: Increase pageviews for the copay tool overall by 10%** 
+ 
+- **Note**: Confirm this URL is correct once we have copay users in staging.
+ 
+[Pageviews for /manage-va-debt/summary/copay-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fcopay-balances~2F/)
+ 
+|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|----------|-------------|---------------|-------------------|
+|Pageviews of the copay summary page|TBD|TBD|TBD|  
+ 
+</details>
 
 ## Projects
 
@@ -202,8 +257,13 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 #### Key Dates
  
 - April 2022: Collab cycle kickoff, design iterations, design intent
-- May 2022: Design updates
-- June 2022: User research
+- May 2022: Design 
+- June 2022: Temporary hold; Midpoint review prep
+- July 2022: Midpoint review; Research
+- Aug 2022: FE documentation; FE build begins
+- Sept 2022: Finish FE build; UAT planning
+- Oct 2022: QA; Analytics request; Staging review; UAT
+- Nov 2022: Launch
  
 </details> 
 
@@ -220,6 +280,8 @@ Include information here on when payment information shows on My VA.
 
 - Payment information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
 - Debt information comes from the Debt Management Center (DMC).
+
+[This document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/communication.md) reviews the communication workflow for the MyVA page explains improvements that were made to reduce payment history requests that result in 403 errors.
 
 ## Design and UX
 

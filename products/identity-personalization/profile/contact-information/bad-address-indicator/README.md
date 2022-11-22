@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: August 5, 2022
+Last Updated: October 27, 2022
 
 ### Communications
 
@@ -62,22 +62,17 @@ When mail is sent to a veteran and then returned to the VA, the address is marke
 
 There are going to be two phases of bad address updates, which will happen asynchronously:
 
-#### Email notifications
-
-We are working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. **This email will go out before the UI updates are completed on VA.gov.** The current plan:
-
-- VA Profile wants to pilot an initial email that's sent to 10K of 300K users with the bad address indicator.
-- We will track analytics, and then scale the email and send to more users.
-
-Once this email is sent out to the people who currently have the bad address indicator, VA Profile will also send out an email to user for whom the bad address indicator is newly added going forward.
-
-**Anticipated launch date**: Early summer 2022
-
 #### VA.gov UI updates
 
-We are also working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
+We are working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
 
-**Anticipated launch date**: Late summer 2022
+**Launch date**: 100% as of 10/24
+
+#### Email notifications
+
+We are also working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. This email will not be ready at the same time as the UI updates. Instead, we will launch the UI updates first, gather metrics, and then launch the email notification once VA Profile has integrated with VANotify and is ready to do so. 
+
+**Anticipated launch date**: tbd
 
 ### Key dates
 
@@ -86,14 +81,54 @@ We are also working on UI updates to VA.gov to show an alert in the VA.gov profi
 - March 2022: Design intent
 - April 2022: Mostly on hold in favor of other project work
 - May 2022: Resume project; High fidelity mocks; Discussions with VA Profile on email notifications
+- June 2022: Midpoint review
+- July 2022: Research
+- August 2022: QA
+- September 2022: UAT
+- October 13, 2022: Launch to 25%
+- October 17, 2022: Launch to 50%
+- October 24, 2022: Launch to 100%
 
 ## Measuring success
 
 Our main objective is to reduce the amount of mail returned to the VA. However, we don't have access to metrics on returned mail, so we can use the bad address indicator and number of address updates as proxies and assume if fewer people have the bad address indicator and more people are updating their addresses, less mail will be returned to the VA. 
 
-### Metrics to track once the initial email blast goes out to 10K people
+### Metrics to track once the UI updates go out
 
-#### Objective: Reduce number of people with the bad address indicator
+<details>  <summary>UI updates</summary>  
+
+### Objective: Prompt people who visit the profile and have a bad address to update their address.
+  
+**Please update all dates to reflect the actual dates for pre-launch and post-launch.**
+
+**Key result #1**: Establish baseline metrics for how many people see the bad address prompt.
+
+|KPI/metric|Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
+|----------|-------------|---------------|
+|# of views of the bad address prompt on Personal Info| TBD|TBD|TBD|
+|# of views of the bad address prompt on Contact Info|TBD|TBD| 
+
+**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase).
+
+|KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
+|----------|-------------|---------------|---------------|
+|Mailing address updates| 26,349|TBD|TBD|
+  
+**Key result #3**: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
+
+Note: we need to get these numbers from VA Profile.  
+  
+|KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
+|----------|-------------|---------------|---------------|
+|# of people with the bad address indicator|TBD|TBD|TBD|  
+
+</details>
+
+### Metrics to track once the email notification goes out
+
+<details>  <summary>Bad address email</summary>  
+
+### Objective: Reduce number of people with the bad address indicator
 
 **Key Result #1** -- Establish baseline metric for what % of 10K people receiving this email update their mailing address (we will determine this by seeing how many of them have the bad address indicator removed)
 
@@ -129,14 +164,13 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 |----------|-------------|---------------|-------------------|
 |Number/% of mailing address updates|?|?|?|
 
-### Metrics to track once the UI updates go out
-
-TBD
+</details>
 
 ## Design
 
 - [Sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B84818F9-2AB7-42E8-BFFD-0C0949B020A3/canvas)
-- Need use case documentatio
+- [Use case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
+- [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ) 
 
 ### Before
 
@@ -148,4 +182,4 @@ TBD
 
 ## Backend
 
-- Need backend documentation
+- [Backend documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)

@@ -13,8 +13,8 @@ Public Websites team supports the modernized, unauthenticated veteran experience
 - Program Management: Clarence Maeng (@cmaeng)
 - Product Management: Wes Rowe (@wesrowe)
 - Delivery Management: Jill Adams (@jilladams)
-- Design: Florence McCafferty (@fmccaf1)
-- FE Engineering: Ryan Koch (@ryguyk), Allison Lu (@allisonlu), Josh Mills (@jtmst)
+- Design:TBD
+- FE Engineering: Ryan Koch (@ryguyk), Josh Mills (@jtmst), Bryan Paronto (@apisandipas)
 - Drupal Engineering: Daniel Sasser (@dsasser), Christia Troyer (@chri5tia)
 
 

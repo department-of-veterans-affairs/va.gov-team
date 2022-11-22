@@ -10,21 +10,178 @@
     - From VAST
     - To Lighthouse
   - Retiring VBA Facilities db, Making CMS source of truth
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, Kevin Walsh, David Shannon.
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, David Shannon, Jay Darnell.
 
 </details>
 
-## Monday, September 21, 2022
-## Documenation / KB meeting - 
-* David AI - review doc from Josh
-* Master taxonomy
-* Current  mapping, Intenrnal LH Service ID -> CMS display name 
-                                          -> ATC dispaly name 
- * If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2
- * Would requrie creating a new ID and mapping to this new broken out service 
+## Monday, November 21, 2022 
+* v1 status check
+* Mental health phone numbers
+  * DS pursuing from J's latest report  
+* KB Articles for support AI>>Joshua to provide 1st draft
+* Support Country Code
+
+
+## Monday, November 14, 2022 
+* v1 status check
+  * Foucsed on latency investigation, will have some documentation, can provide status, what the issue was, no solidified date for when we can take the next step
+  * When unblocked, will need to re-sync timelines
+  * Two categories:
+    * Several issues are complete, in holding pattern, could be ready to go once we assess any changes of the landscape
+    * Other items require discussion - 3 Slack threads, content model changes 
+      * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709 <- waiting to be unblocked 
+* Stale Vet Center data - LH will manage, no Facilities action SORTED/CONFIMRED - staged, ready when unblocked
+  * Long term, intent will be for CMS to own the canonical URL, and the flip of the switch - facility page will be replaced by detail page  - for all facilities 
+  * Will not host the URL file  
+  * Post v1? with v1? 
+  * Had a history of flawed/broken URLs - LH team will still want to validate URLs 
+* Mental health phone numbers
+  * In slack Excel sheet
+  * Archived items remvoed, and removed any item where LH and CMS number was the only nubmer we had and was identical
+  * Now we have a list of services where the editor has added an additional number
+  * 2nd tab - unfiltered list 
+  * AI>>DS to bring to Dave C  
+* Support Country Code
+* KB Articles for support AI>>Joshua to provide 1st draft
+
+
+
+
+## Monday, November 7, 2022 
+_NO MEETING _
+
+## Monday, October 31, 2022 :jack_o_lantern:
+_NO MEETING _
+
+
+## Monday, October 24, 2022
+* v1 status check
+   * No change, still on code freeze, investagting latency, what are the criteria to live the freeze?   
+   * What caused latency, how to set up safeguards, where to generate alerst 
+   * After that we should be able to push through v1 changes, batches are waiting, but will take some cycles, can't push all at once
+   * Plan is to push a change, test/asess for a few days, push next change
+* URL Updates - Staleness applies to Vet Centers 
+  * THere are 3 new sites that did not have URLs in API - making ~30 total
+  * Randi notifies that new URLs are ready - been able to get last 4 sets into API 
+  * Are we properly sending people to new Vet Center facility pages?
+  * What is the logic for when FL returns a Facility page vs a Detail page 
+  * https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+  * Detail page still exists - Veterans will still get the detail page. 
+* Sandbox data 
+  * Sandbox data will be more synthetic
+  * 1. Sandbox data as Facilities reads from env
+  * 2. What environment - that is not prod - does Facilities use to push?
+  * Facilities can push to an existing sandbox -  need to continue conversation around expanding this? 
+  * We do some of this on occasion - should this be default behavior, should there be another env? 
+  * Make sure that any changes CMS is making - we need and env to assure that any changes to push - are not just done in prod 
+* Supporting a country code - email sent, AI>> Joshua to check 
+* KB articles in support of v1 AI>> Joshua to author draft send to David S 
+* Mental health phone numbers
+  * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
+  * AI>> Jay to filter existing list, remove anything where the results are fields migrated in directly, only want to see the 'non migrated' fields 
+  * AI>> DS to create ticket 
+    * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11338
+  * THEN, Is there a nuance to the delta , for example is one  data source giving and extenstion the other doesn't
+* Once v1 is ready, are we ready to start pushing CAPs - where did we agree on payload - LH team still has to set up new endpoint (simliar to standard CMS pushes), set up data structure to inject whatever we agree upon, then assure that everything is working
+  * LOE - likely be a couple sprints
+  * What cycles can move while in code freeze? 
+  * Is there an optty in next couple mondays to figure out payload? come to concesus
+  * Jay proposed 3 payload discusssions in Slack 
+    * CAPS https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+    * Cover other 2 if time allows 
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664375519019619
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664383503541379 
+
+
+## Monday, October 17, 2022
+Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
+* v1 status check
+  * Still holding pattern
+  * Were able to remediate the escalated issue "MIM" -> stopped the produciton issue, currently stable.  Still investigating why this occured in the first place.  Have yet to resolve/detrmine underlying issue. 
+* URL Updates - Staleness is only applied to Vet Centers 
+  * Code freeze causes inablity to get in latest URL updates (from Randi?) probably about 30 va.gov URLs that are pointed to old sites rather than new fancy ones.
+  * What woudl it take to find a workaround? 
+  * Either way this needs to be first issue addressed 
+  * It's unclear on who is receiving a URL from LH? or where that is exposed? Need to have a converstaion with Max - waht pain is this pain causing today?
+  * DS>>AI Post to Slack on this issue 
+  * Redircts from Teamsite is a manual process 
+* DS>> AI Add Max to LH meeting 
+* Sandbox data - James and Dave C had a discussion
+  * No updates this past week
+  * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
+  * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
+* Status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * No changes  
+* KB/documentation for editors in support of v1
+  * Josh to provide 1st draft 
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. Is this related to ATC - one of the times brought up was relatd to VAST - this is not Service Data.. perhaps intersted in hosting ATC data ? Actively going back on discuussions on how data flow is looking, want to take next steps to set up meetings to get ATC, LH, Facilites aligned .
+* Supporting country code 
+   * Any update from Josh/James sync?
+   * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
+   * BISL meeting? On todo list
+   * Josh sent an email. JOSH>>AI Needs to respond 
+*  Mental health phone numbers
+   * Jay posted spreadsheet - what's the next step? 
+   * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
+   * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+   * DS>>AI Follow up- find Slack thread? Emails from Elena? Elena is 100% comfortable letting CMS be SoT  
+   * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
+
+## Monday, October 3, 2022
+* v1 status check
+  * Have not seen the issue since last Thursday. If issue is not seen in prod by end of day Tues the code freeze MAY be lifted. Still trying to identify the root cause.
+  * 
+
+* Sandbox data - James and Dave C had a discussion
+  * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
+  * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * Started SLACK threads on 3 tickets. Distilled it down and started conversation for when we can get staarted on them. 
+* David S met with Josh and Joe - notes below 
+  * Talk to some editors, describe the problem, how would an editor fix this issue. Coordinate with JHL to update facilities. David is looking into this. Will have to see where he is on this when he gets back.
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. 
+* Supporting country code 
+   * Any update from Josh/James sync?
+   * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
+   * BISL meeting? On todo list
+*  Mental health phone numbers
+   * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
+   * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+
+
+
+## Monday, September 26, 2022
+* v1 status check
+  * Internal latency on one of the endpoints impacting some consumers of data. Occurs between 2:50 and 3:00 ET Mon-Thur
+  * Escalated - Major Incident Management Team within the VA. Currently LH is in a code freeze until this is figured out.
+  * This will block LH from ingesting additional data from CMS
+  * How much pain would it cause to pause CMS updating FAPI for a period of time?
+  * Jay - looks like maybe a 3-5 pt ticket to add in to our work
+
+* Sandbox data - James and Dave C had a discussion
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+* David S met with Josh and Joe - notes below 
+  * There is a lot of prep/change managment work around how we will need to prep editors
+  * Where do we expect an editor to look for answers/calif when they see a descrepancy
+  * To what extent do we refactor existing KBs?  
+* Supporting country code 
+   * Any update from Josh/James sync?
+*  Mental health phone numbers
+   * We didnt get to this last week  
+
+## Wed September 21, 2022
+### Documenation / KB meeting - 
+* DS>> AI - Review problem summary/description doc from Josh
+* LH manages taxonomy ID differences by internally mapping
+* Current  mapping, Internal LH Service ID maps to  CMS display name and can map another value to ATC display name 
+ * For instance, If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2, Would requrie creating a new ID and mapping to this new broken out service 
  * For example Mental Health
    * ATC has 3 services mapped to single Mental Health ID - LH is doing the mapping arrangement 
-   * That mapping needs to be coordinated across all 
+   * That mapping needs to be coordinated across all sources: CMS, ATC
+ * David shared links of many current KBs in the meeting agenda
+ * From an editor's perspective, if they saw something odd or believed there was a mistake with service info, where would they look (would they search the KB?)
+ * Even in advance of that, how to educate VAMC editors to prepare for v1
+ * 
                         
 
 ## Monday, September 19, 2022

@@ -1,33 +1,33 @@
 # VA.gov profile roadmap
 
-**Updated August 26, 2022**
+**Updated October 26, 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| QA|
-|Forms system updates | FE implementation|
 |Notification preferences: Integration MHV prefs| Planning |
 |Documentation updates| Ongoing|
-|Accessibility audit| Planning|
+|Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
+|Forms system updates |**On hold**|
 
 
 ### Projected timelines for current projects & enhancements
 
 |Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022|
 |----|----|----|----|----|
-|**Bad address indicator** | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
 |**Integrate military info through VA Profile**| - | Update integration | Launch if not already done |- |
-|**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
 |**Notification preferences: Integration MHV prefs**| - | - | Planning | Work TBD |
 |**Documentation updates**| - | Direct deposit docs | Docs for all other profile sections | - |
 |**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |
+|**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
+
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|Launched completed October 24, 2022|
 |[Restricted character set for address fields to certain alphabetic and alphanumeric characters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45400)| August 2022|
 |[Re-integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme) |August 2022|
 |[Modal that asks if you want to update your mailing address when you update your home address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33732)| July 2022|

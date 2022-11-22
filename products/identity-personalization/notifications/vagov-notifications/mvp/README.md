@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated August 29, 2022
+**Last updated: October 24, 2022 - key dates updated**
 
 ### Communications
 
@@ -61,17 +61,21 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ## Measuring success
 
+- [Analytics information for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/analytics-documentation.md)
+
 ### Objective: Meet user need/expectation by elevating debt informtion to user dashboard.
 
 **Key result**: Increase overall clicks into debt information by 10%.
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+**Update dates based on actual launch dates before filling out information**
+
+|KPI/metric|Baseline: [one month pre-launch: 9/13/22 - 10/12/22] |Post-launch: [one-month post launch to 100%: 10/25 - 11/24]| Post-launch: [second month post-launch to 100%: 11/25 - 12/24]|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| 158k|TBD|TBD|
+|Clicks to view all debts (from the payment info section, "You have n oustanding debts. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt)")| 26,501|TBD|TBD|
 
 **Key result**: Establish baseline metric for how many people click the debt notification from My VA. Goal: 20K clicks/quarter.
 
-|KPI/metric|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
 |----------|---------------|-------------------|
 |Clicks of debt notification on My VA|TBD|TBD|
 
@@ -104,7 +108,7 @@ The following is needed for the MVP build:
 - [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/design/)
 - Technical documentation
 - How to access and test
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-release-plan.md)
 
 ## Key dates
 
@@ -119,6 +123,10 @@ The following is needed for the MVP build:
 - June 2022: VANotify fixes some issues; Begin trying to get end-to-end testing to work
 - July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
 - August 2022: Completed final collab cycle reviews; Awaiting launch after My VA redirect launch
+- September 2022: Fixing final analytics issues before launch
+- October 13, 2022: Launch to 25%
+- October 17, 2022: Launch to 50%
+- October 24, 2022: Launch to 100%
 
 ## Backend
 
@@ -168,7 +176,7 @@ If you have a debt notification added to My VA and it doesn't show up, this coul
 
 ## Design
 
-- Add Sketch files
+- [Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
 
 ### Before
 

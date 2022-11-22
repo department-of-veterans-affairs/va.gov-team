@@ -67,3 +67,4 @@
 | Disability | [Combat-Related Special Compensation (CRSC)](https://www.va.gov/resources/combat-related-special-compensation-crsc/) | Download the CRSC form (PDF) | |
 | Disability | [Non-compensable disability](https://www.va.gov/resources/non-compensable-disability/) | Check your VA disability rating | File for a VA disability increase |
 | Pension | [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) | Apply for Veterans Pension benefits | Learn about VA Survivors Pension |
+| Careers and employment benefits hub | [O*NET Interest Profiler career assessment](https://www.va.gov/resources/onet-interest-profiler-career-assessment) | Go to the O*NET Interest Profiler |
