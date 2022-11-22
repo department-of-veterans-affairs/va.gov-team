@@ -4,10 +4,10 @@ Cindy Merrill [cindy.merrill@adhocteam.us], Sitewide Home Page team
 
 Date: 11/22/2022
 
-- [Research plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/research-plan.md))
-- [Conversation guide]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md))
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
 
-This research summary of four interviews conducted is the result of a partial synthesis process.
+This research summary is the result of a partial synthesis process. After the first four research sessions were conducted, we realized that we weren't getting the data that we needed. This research study had been planned a while ago to be broad discovery research on eligibility for VA health care, whereas now more focused research was desired to inform the design process for a new income limits wizard. In addition, the participants recruited didn't fit the criteria that we requested in the research plan, and even if they did, they were in priority categories that didn't consider eligibility and income limits. We cancelled the rest of the research sessions, and this topline report is a summary of what we learned.
 
 # Introduction
 The purpose of this research was to **learn about Veteran use cases for determining eligibility for VA health care**.
@@ -37,7 +37,7 @@ We talked to **4 Veterans**.
 - X except one had VA health care
 
 # PRELIMINARY Findings
-1.  
+1.  We didn't talk to the  
 
 # PRELIMINARY Recommendations 
 1. 
