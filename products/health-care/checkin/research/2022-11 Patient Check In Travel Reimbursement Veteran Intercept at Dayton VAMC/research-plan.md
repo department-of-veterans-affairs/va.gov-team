@@ -28,7 +28,6 @@ As a result of that work, the Modernized Check-In Experience Team began developi
 
 The travel reimbursement feature within the PCI application will be piloted in late November or early December with Dayton VA Medical Center clinics that have eCheck-in enabled.    
 
-
 - [Low-fidelity user flow (Sketch)](https://www.sketch.com/s/42a478e7-cb38-49e5-9500-9b21182873da/a/kaPaz5A)
 - [Detailed user flow (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)
 - [Prototype (Sketch)](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6)
@@ -48,7 +47,7 @@ This research plan maps to the following moment within the Veteran journey:
 
 ## Research Goals 
 
-The purpose of this research is to get feedback from Veterans on the new travel reimbursement feature in eCheck-in on ease of use and what, if any, expectations were unmet, specifically around travel reimbursement tasks.  
+The purpose of this research is to **get feedback from Veterans on the new travel reimbursement feature in eCheck-in** on ease of use and what, if any, expectations were unmet, specifically around travel reimbursement tasks.  
 
 ### Research Questions
 
