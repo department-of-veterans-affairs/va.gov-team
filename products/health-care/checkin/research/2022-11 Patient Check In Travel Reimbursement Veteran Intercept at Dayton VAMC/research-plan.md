@@ -61,3 +61,68 @@ The purpose of this research is to get feedback from Veterans on the new travel 
 1. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) and check-in on the confirmation pages?  
 1. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim during check in? E.g., edit the address, upload receipts, file later, etc.  
 
+#### Secondary Questions 
+
+7. What’s most confusing or difficult about the mobile check in process (including pre-check-in)? 
+8. What would Veterans change or add, if anything, to make the mobile check in process easier?
+9. Would Veterans be more likely to complete mobile check in by responding to 1 or 2 text messages versus the current experience?  
+
+### Hypothesis 
+
+#### Primary
+
+1. Veterans will think filing a travel reimbursement claim during check in is easy, but those that aren’t eligible may think it’s neither easy nor difficult.  
+1. Veterans will be able to review and answer each of the travel reimbursement claim eligibility questions in a short amount of time.  
+1. Veterans will think it’s easy and convenient to file a travel reimbursement claim while checking in for their appointment. 
+1. Veterans will be pleasantly surprised at how few steps are required to file a travel reimbursement claim within the PCI application. 
+1. Veterans will think the status of their travel reimbursement claim and check-in on the confirmation pages are easy to understand, but would like to see more definiteness or plain language around why their claim couldn’t be submitted and how to check the status of their claim. 
+1. Veterans will have suggestions for supporting other travel types and other travel reimbursement tasks. E.g., edit the address, upload receipts, file later, file for other appointments, etc.  
+
+#### Secondary
+
+7. Veterans will identify the most confusing or difficult aspects of mobile check in to be the scanning the QR code and texting VA step and the perception that they thought they already completed check in by completing pre-check-in (e.g., not understanding the steps involved in the PCI workflow).  
+8. Veterans will recommend removing the scanning the QR code and texting VA step of the PCI workflow. 
+9. Some Veterans will prefer responding to 1 or 2 text messages to check in for their appointment, while other Veterans will feel they already receive too many VA text messages. 
+
+## Method
+
+This research will be conducted as a Veteran intercept during the check in process at Dayton VA Medical Center clinics that have eCheck-in enabled. 
+
+We will work with Dayton VA Medical Center Health Administration Services (HAS) staff to determine the best approach for Veteran intercepts.    
+
+Our goal is to intercept at least 5 Veterans each at no fewer than 5 clinics that would like to check in for their appointment using eCheck-In and file a travel reimbursement claim. After assisting those Veterans through the eCheck-in process (and confirming with clinic staff that they’re checked in), we will ask them a few questions to get feedback on the new travel reimbursement feature in Patient Check-In. 
+
+1 or 2 researchers will be conducting this research. 
+
+### Location 
+
+Dayton VA Medical Center
+
+### Research Materials
+
+Conversation guide
+Low-fidelity user flow (Sketch)
+Detailed user flow (Mural)
+Prototype (Sketch)
+Detailed workflow (Mural)
+
+## Recruitment 
+
+n/a
+
+## Timeline 
+
+January 2022 - 4 day trip with 2 days at Dayton VA Medical Center. 
+
+## Team Roles
+
+Moderator: Ben Brasso [(ben.brasso@agile6.com)](mailto:(ben.brasso@agile6.com))
+Research guide writing and task development: Ben Brasso
+Participant recruiting & screening: Ben Brasso
+Project point of contact: Stephen Barrs (stephen.barrs@va.gov), Patrick Bateman (patrick.bateman@va.gov), Mark Dewey (mark.dewey@va.gov), Lori Pusey (lori.pusey@agile6.com) 
+Participants for pilot test: n/a 
+Note-takers: Kelly Smith (kelly.smith@civicactions.com) 
+Observers: n/a
+
+
+
