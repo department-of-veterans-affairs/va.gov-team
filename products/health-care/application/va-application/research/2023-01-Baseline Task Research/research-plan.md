@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, November 2022
+# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. 
@@ -97,8 +97,8 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-
 The intended audience for this research Veterans and Service Members. 
+
 
 ### Recruitment approach
 We will recruit Veterans for this research using and leveraging Perigean to recruit participants. 
@@ -289,6 +289,8 @@ We will be testing what is currently approved in the staging environment.
 * Session length: 1 hour (Cohort 1, 1 1/2 hours)
 * Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 3
+
+
 
 ### Availability
 Team Availability | Time (ET)
