@@ -36,7 +36,7 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ### Outcome
-We will use the results from this research to esablish a baseline for comparrison in future research studies (Household Section Optimization) specific to key tasks that come up frequently during research sessions. 
+We will use the results from this research to establish a baseline for comparrison in other research studies (Household Section Optimization) specific to key tasks that come up frequently during research sessions. 
 
 
 ### Research questions
@@ -87,9 +87,9 @@ Remote: Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Baseline%20Task%20Research/Conversation%20Guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/Conversation%20Guide.md)
 - [Task Wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
-- [Task List and Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Baseline%20Task%20Research/tasks-metrics.md)
+- [Task List and Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/tasks-metrics.md)
 - [Link to staging](https://staging.va.gov/health-care/apply/application/introduction)
 
 
@@ -115,7 +115,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |     20?          |        |             |          |              | 
+|      28       |     20           |     15 |             |          |        5      | 
 
 
 **Primary criteria (must-haves)**
@@ -129,11 +129,13 @@ Write any recruitment criteria for experience or scenarios as screener questions
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
+
+
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 
-November - December 2022
+mid-January 2023
 
 
 ### Prepare
@@ -145,7 +147,7 @@ We will be testing what is currently approved in the staging environment.
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: November - December 2022
+* Planned dates of research: January 2023
 
 ### Length of sessions
 * Session length: 1 hour
