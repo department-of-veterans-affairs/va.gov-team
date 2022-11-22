@@ -87,8 +87,8 @@ Remote: Zoom
 ### Research materials
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/Conversation%20Guide.md)
-- [Task Wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
-- [Task List and Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/tasks-metrics.md)
+- [Task wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
+- [Task list and metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/tasks-metrics.md)
 - [Link to staging](https://staging.va.gov/health-care/apply/application/introduction)
 
 
@@ -205,6 +205,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | IAL2                          |                                                    |                                          |                                                                                                     |
 | IAL3                          |                                                    |                                          |                                                                                                     |
 |                               |                                                    |                                          |                                                                                                     |
+
 ---
 **Identity Assurance Levels**
 
@@ -217,9 +218,6 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ---
 
 `Assistive Tech and Cognitive Impairment will apply across cohorts`
-
-
-
 |                                                               | **Participants** |
 | ------------------------------------------------------------- | ---------------- |
 | **ASSISTIVE TECH**                                            |                  |
