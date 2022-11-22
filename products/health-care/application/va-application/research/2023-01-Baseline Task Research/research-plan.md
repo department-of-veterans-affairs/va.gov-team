@@ -108,13 +108,17 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      32       |     20           |     16 |             |          |        4      | 
+|      32       |     20           |     14 |             |      2   |        4      | 
 
 
 ### Criteria Table 
 
+- Cohort 1 = Assistive Tech. Ask 8, complete 5 
+- Cohort 2 = MVS, ask 15, complete 10
+- Cohort 3 = Match Household RESULTS of who participated - total 10, need 5 to complete this study 
 
-|                               | **Cohort 1 (Assistive Tech) - ask 8, complete 5** | **Cohort 2 (Mix) - ask 14, complete 10** | **Cohort 3 (match Household RESULTS of who participated - total 10, need 5 to complete this study** |
+
+|                               | **Cohort 1**					     | **Cohort 2**				| **Cohort 3**  |
 | ----------------------------- | -------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **_SEX_**                     |                                                    |                                          |                                                                                                     |
 | Male                          |                                                    |                                          |                                                                                                     |
@@ -202,11 +206,66 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | IAL2                          |                                                    |                                          |                                                                                                     |
 | IAL3                          |                                                    |                                          |                                                                                                     |
 |                               |                                                    |                                          |                                                                                                     |
+---
+**Identity Assurance Levels**
+
+- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
+
+- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
+
+- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
+
+---
+
+`Assistive Tech and Cognitive Impairment will apply across cohorts`
 
 
 
-
-
+|                                                               | **Participants** |
+| ------------------------------------------------------------- | ---------------- |
+| **ASSISTIVE TECH**                                            |                  |
+| Font resizing/larger                                          | 2                |
+| Screen reader                                                 | 4                |
+| Braille terminal                                              |                  |
+| Speech recognition sftw                                       |                  |
+| Speech generating device                                      |                  |
+| Speech to text                                                |                  |
+| High contrast mode                                            | 1                |
+| Alternative keyboard                                          |                  |
+| Alternative mouse or stylus                                   |                  |
+| Keyboard only navigation (no mouse usage)                     | 1                |
+| Switch access, head pointer, or eye tracking                  |                  |
+| Joystick                                                      |                  |
+| Teletypewriter or telecommunication device for the deaf (TTY) |                  |
+| Closed captions                                               |                  |
+| Amplified telephone                                           |                  |
+| Hearing aid                                                   |                  |
+| Cochlear implant                                              |                  |
+| Cane, walker, guide animal, or other walking aid              |                  |
+| Wheelchair                                                    |                  |
+| Prosthetics                                                   |                  |
+| Wearable tech (not prosthetic)                                |                  |
+| Augmentive and alternative communication device               |                  |
+| Sign language interpreter                                     |                  |
+| Speech-to-speech transliterator                               |                  |
+| Visual aids                                                   |                  |
+| Writing on paper                                              |                  |
+| Typing with phone or tablet and showing it to others          |                  |
+| Caregiver                                                     |                  |
+| \---                                                          | \---             |
+| **COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES**       | 3                |
+| Traumatic Brain Injury (TBI)                                  |                  |
+| Post-Traumatic Stress Disorder (PTSD)                         |                  |
+| Attention-Deficit/Hyperactivity Disorder (ADHD)               |                  |
+| Autism                                                        |                  |
+| Vertigo                                                       |                  |
+| Aphasia                                                       |                  |
+| Dyslexia                                                      |                  |
+| Dyscalculia                                                   |                  |
+| Distractibility                                               |                  |
+| Memory loss                                                   |                  |
+| Reading difficulties                                          |                  |
+| Low tolerance for cognitive overload                          |                  |
 
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -227,7 +286,7 @@ We will be testing what is currently approved in the staging environment.
 * Planned dates of research: January 2023
 
 ### Length of sessions
-* Session length: 1 hour
+* Session length: 1 hour (Cohort 1, 1 1/2 hours)
 * Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 3
 
@@ -254,7 +313,7 @@ TBD         | TBD
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
 - Participant(s) for pilot test: 
-- Note-takers: Perigean
+- Note-takers: Perigean & 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
