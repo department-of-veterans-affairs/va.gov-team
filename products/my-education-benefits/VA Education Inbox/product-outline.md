@@ -75,6 +75,31 @@ Application is under development slated for January 2023 release.
    
 ## Application flow and Screenshots
 
+### Scenario 1: No letters present
+1) Logged in claimant reaches VA Education Inbox navigating to "Education and training" -> "Manage your benefits" -> "Check your VA education inbox"
+
+2) No decision letter is found. Claimant is shown page advising there are no letters available:
+<img alt="VA Education Inbox no letters page" src="./screenshots/va-education-inbox-no-letter.png" height="400"> 
+
+### Scenario 2: Approval letter present
+1) Logged in claimant reaches VA Education Inbox navigating to "Education and training" -> "Manage your benefits" -> "Check your VA education inbox"
+
+2) A decision letter is found. Claimant is shown page advising there is a letter available:
+<img alt="VA Education Inbox letter found page" src="./screenshots/va-education-letter-found.png" height="400"> 
+
+3) Claimant clicks letter link and gets approval letter in pdf form.
+<img alt="VA Education Inbox approval letter" src="./screenshots/va-education-letter-approved-pdf.png" height="400"> 
+
+### Scenario 2: Disallowance letter present
+1) Logged in claimant reaches VA Education Inbox navigating to "Education and training" -> "Manage your benefits" -> "Check your VA education inbox"
+
+2) A decision letter is found. Claimant is shown page advising there is a letter available:
+<img alt="VA Education Inbox letter found page" src="./screenshots/va-education-letter-found.png" height="400"> 
+
+3) Claimant clicks letter link and gets disallowance letter in pdf form.
+<img alt="VA Education Inbox disallowance letter" src="./screenshots/va-education-letter-denied-pdf.png" height="400"> 
+
+
 ---
 
 #### Communications
