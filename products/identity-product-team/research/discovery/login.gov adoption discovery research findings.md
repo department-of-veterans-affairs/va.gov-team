@@ -1,14 +1,12 @@
-[TO UPDATE]
-
 # Login.gov Adoption Discovery Research Findings
 
-**Office of the CTO - Digital Experience (OCTO-DE), Identity Product Team
+Office of the CTO - Digital Experience (OCTO-DE), Identity Product Team
 
 Date: 11/23/2022
 
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-*Update with link to research readout deck
+*[Update with link to research readout deck once it's moved to Github]*
 
 <br>
 
@@ -27,34 +25,43 @@ Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara 
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
 
-_Then, describe your goals for this research_
+Through our research, we hoped to explore how the VA can most successfully migrate existing users, and onboard new user to Login.gov (which is a compliant, single sign-on credentialing platform). While Login.gov does currently exist, our research hopes to uncover the best ways to support Veterans, non-Veteran roles, and VA staff in this transition.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+### How this research maps to the Veteran journey
+1. Attending to health needs: How can we proactively intervene at this stage to make sure Veterans are able to create a Login.gov account they will use to access My HealtheVet going forward?
+2. Managing my declining health: How can we help Veterans who are aging and managing their declining health have clear and technically-feasible options to transition their access to My HealtheVet to Login.gov and ID.me?
 
-
+### Goals
+1. Understand how we can intervene to ensure that new generations of Veterans use Login.gov or ID.me to access My HealtheVet from the start.
+2. Understand what in-person support will enable Veterans to create and use a Login.gov account to access My HealtheVet.
+3. Understand how the greatest number of Veterans can use multi-factor authentication options, including security keys.
+4. Understand how setting up and maintaining shared access might work for Veterans and non-Veterans.
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* When should proactive intervention encourage the creation of a Login.gov account?
+* What do Veterans find important or beneficial when choosing a login credential?
+* How do we communicate the need to migrate to Login.gov to access services?
+* How do we support Veterans and non-Veterans after they set up Login.gov?
+* When people in-person proof and migrate their account, what issues arise for them?
+* What resources or workflows will help with issues during in-person proofing & migration?
+* How do Veterans understand the process of choosing and using a MFA method?
+* Which MFA options will allow more Veterans to migrate to Login.gov?
+* How can MFA support non-Veterans who need access to parts of a Veterans’ information?
+* Which non-Veteran users would Veterans choose to set up access for, when and why?
+* How do non-Veterans imagine shared access to work for themselves and non-Veterans?
 
 ## Methodology 
 
-_Brief description of method chosen_
+1. Scenario Validation: We presented Veterans with a scenario showing a potential approach to creating a Login.gov account and accessing My HealtheVet. This helped us evaluate whether Veteran finds a particular solution is useful, clear, appropriate or concerning.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+2. Service Prototype Testing: We used this method alongside scenarios, walking Veterans through a service prototype of how they would in-person proof, set up multi-factor authentication and secure a Login.gova account at a VA facility. This helped us evaluate the workflow and support needed.
 
+3. Intercepts: We ran contextual intercepts with Veterans where we shared various stimuli, like, an email or a login screen. This helped us clarifying content and tone-of-voice of messaging, in particular, and reach Veterans who don’t yet have a My HealtheVet or Login.gov account.
 
-## Hypotheses and Conclusions
+## Hypotheses and Conclusions [TO UPDATE]
 
 _Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
@@ -65,7 +72,7 @@ _Hypothesis statement_
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
-## Key Findings
+## Key Findings [TO UPDATE]
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
@@ -85,8 +92,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 7. Finding seven
 
-
-## Details of Findings 
+## Details of Findings [TO UPDATE]
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
@@ -133,12 +139,12 @@ Brief description
 > _Supporting data: Quote here_
 
 
-## Additional Insights
+## Additional Insights [TO UPDATE]
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-## Recommendations
+## Recommendations [TO UPDATE]
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
@@ -148,17 +154,17 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 
 
-## Next Steps
+## Next Steps [TO UPDATE]
 
 _Next steps here. Include owners if appropriate._
 
 
-## Further research needed
+## Further research needed [TO UPDATE]
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
-## Appendix
+## Appendix [TO UPDATE]
 
 [Research plan](link here)
 
@@ -167,29 +173,29 @@ _If there are demographics that were not included in this study or you discovere
 [Interview transcripts](link here)
 
 
-## Tools used for Synthesis
+## Tools used for Synthesis [TO UPDATE]
 
 e.g. mural boards, etc.  
 
 
-## Pages and applications used
+## Pages and applications used [TO UPDATE]
 
 Link to prototypes or pages that were tested
 
 
-## Other supporting documents created
+## Other supporting documents created [TO UPDATE]
 
 e.g. user flows, personas, etc.
 
 
-## Secondary research
+## Secondary research [TO UPDATE]
 
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to 
+## Who we talked to [TO UPDATE]
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
@@ -270,7 +276,7 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 
-## Underserved groups we haven’t talked to 
+## Underserved groups we haven’t talked to [TO UPDATE]
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
