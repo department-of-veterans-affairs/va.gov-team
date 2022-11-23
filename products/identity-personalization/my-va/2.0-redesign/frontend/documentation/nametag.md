@@ -22,11 +22,11 @@
 
 **State 1: Legal/full name end point loads**
 
-- Show nametag with user's name, military branch and branch name, and disability rating
+- Show nametag with user's name, military branch and branch name, and disability rating.
 
 **State 2: Legal/full name end point does NOT load**
 
-- Do not display name tag
+- Do not display nametag.
 
 ----
 
@@ -34,11 +34,11 @@
 
 **State 1: User has branch of service available**
 
-- Show nametag with user's name, military branch, and disability rating
+- Show nametag with user's name, military branch, and disability rating.
 
 **State 2: User does NOT have a branch of service**
 
-- Show nametag with user's name only
+- Show nametag with user's name only.
 
 **State 3: Error state - Profile information/legal name loads, but military information is not available or military information call fails**
 
@@ -60,7 +60,7 @@
 
 - Show nametag with name and branch of service
 
-**Error state: We can not connect to the disability endpoint / unable to retrieve disability rating**
+**State 3: Error state - We can not connect to the disability endpoint / unable to retrieve disability rating**
 
 - Show nametag with name, branch service, and no disability rating, but link to disability overview page. In the event the disability endpoint is down, we can degrade gracefully and show a generic "View disability rating" link instead of the customized link with the rating. We realize this means that some people who do not have a disability rating may see that link, and that is OK.
 
@@ -70,12 +70,12 @@
 
 **State 1: Error state - Not in MPI**
 
-- Do not display nametag
+- Do not display nametag.
 
 **State 2: Error state - MPI connection error**
 
-- Do not display nametag
+- Do not display nametag.
 
 **State 3: Fiduciary flag / marked as incompetent**
 
-- Show nametag with user's name only
+- Show nametag with user's name only.
