@@ -6,7 +6,7 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 - EE/E&E = Eligibility and Enrollment
 - HEC = Heathcare Enrollment Services
 - HCA - Health Care Application (AKA 10-10EZ)
-- ...
+- ..
 
 ### Development
 - 7/29/22 - The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
@@ -21,4 +21,9 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 
 
 ### Miscellaneous
-- ...
+- Military History - Prefilled data
+     - Military history is prefilled for authenticated Veterans.
+     - This information is pulled from the VA.gov Profile
+     - The VA.gov Profile pulls this information from the VA Profile (different team/system)
+     - The VA Profile pulls the information from the DoD DEERS and VADIR repository
+     - Technical specs and details can be found in this [VA.gov Profile Backend document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
