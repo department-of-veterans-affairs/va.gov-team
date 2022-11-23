@@ -166,7 +166,8 @@ Banners
  - (-) would create an escape route preventing data and feedback collection
  - (+/-) banners are less prominent 
  - (-) banner blindness
-Modal
+
+ Modal
  - (-) stacking risk presents usability and accessibility concerns 
  - (+) prominent display
  - (+) making it dismissible will manage annoyance factor and various user flows
