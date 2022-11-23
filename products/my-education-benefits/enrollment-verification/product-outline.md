@@ -83,7 +83,7 @@ Application is under development slated for January 2023 release.
    
 ## Application flow and Screenshots
 
-### Veriying enrollmets are valid.
+### Veriying enrollments are valid.
 The following is the flow of the application for a claimant with enrollments and they indicate the enrollment is valid.
 
 1) Logged out claimant navigates to Enrollment Verification through navigation menu and reaches enrollment verification page.
@@ -104,7 +104,7 @@ The following is the flow of the application for a claimant with enrollments and
 6) When submitting the enrollment is correct, they are they are taken back to the enrollment months list, and the current month will show as verified.
 <img alt="Enrollment Verification enrollment months verified" src="./screenshots/ev-payments-continue.png" height="400"> 
 
-### Marking enrollmets as incorrect.
+### Marking enrollments as incorrect.
 The following is the flow of the application for a claimant with enrollments and they indicate the enrollment is incorrect.
 
 1) Logged out claimant navigates to Enrollment Verification through navigation menu and reaches enrollment verification page.
