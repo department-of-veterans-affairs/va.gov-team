@@ -1,0 +1,4 @@
+## Grooming Notes from 11/23
+
+1. #49963 -  Fiduciary flag, fiduciary covers incompetent, deceased, or fiduciary that blocks the profile. If any of these are true then the profile will be blocked. If we want analytics to track that, it's not possible right now. But we could check if the vet is flagged as incompetent, deceased, or fiduciary. We are not sure what the difference is between incompetent and fiduciary - Sharon will confirm with Samara if is ok to track these scenarios separately since we can’t track them as just one flag. May want to come up with a term for when a profile is blocked, (fiduciary does not seem to cover all these scenarios).
+2. #49843 - remove this and combine it with #46195 since John will be working on updating TTY code anyway, John will let us know in the comments if he finds any additional locations where the 800# is being used
