@@ -8,22 +8,6 @@ Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara 
 
 *[Update with link to research readout deck once it's moved to Github]*
 
-<br>
-
-**Jump to:**
-
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
-
-[Key findings](#key-findings)
-
-[Recommendations](#recommendations)
-
-[Who we talked to](#who-we-talked-to)
-
-[Further research needed](#further-research-needed)
-
-<br>
-
 ## Research Goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
 
@@ -92,7 +76,7 @@ When people in-person proof and migrate their account, what issues arise for the
 - Veterans will be open to other trusted VA roles who can verify (e.g., nurse at doc appt).
 
 What resources or workflows will help with issues during in-person proofing & migration?
-- 
+- Need to add
 
 How do Veterans understand the process of choosing and using a MFA method?
 - For compliant identity proofing, MFA is required.
@@ -111,17 +95,16 @@ How can MFA support non-Veterans who need access to parts of a Veterans’ infor
 - Because the person being cared for can see that their caretaker is using the security key.
 
 Which non-Veteran users would Veterans choose to set up access for, when and why?
-- 
+- Need to add
 
 How do non-Veterans imagine shared access to work for themselves and non-Veterans?
-- 
+- Need to add
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
 _Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
 
 ## Key Findings [TO UPDATE]
 
