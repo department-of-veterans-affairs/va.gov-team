@@ -18,6 +18,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 ## User problem statements 
 
+- **As a Veteran, I want only one sign-on to access all VA products and services.**
 - **As a Veteran, I want to be able to receive in-person help for signing up for Login.gov and identity proofing which will ease the transition from using legacy credentials while maintaining my access to services.**
 - **As a new Veteran, I want to be given a modern, easy to use credential and be fully identity proofed before leaving active duty.**
 - **As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.**
@@ -25,6 +26,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 ## Business goals 
 
+- One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
 - Veteran users that cannot identity proof through Login.gov will be able to visit an MHV Coordinator to do so or have a remote video option.
 - Veteran users that are already visiting MHV coordinators regularly will be guided to create a Login.gov account and proof in person with coordinators.
 - Military personnel will be able to proof in person as part of the TAP curriculum and will have a proofed Login.gov account before they transition off active duty.
