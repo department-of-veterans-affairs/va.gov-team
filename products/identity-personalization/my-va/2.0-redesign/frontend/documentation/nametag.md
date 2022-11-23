@@ -76,6 +76,6 @@
 
 - Do not display nametag
 
-**State 3: Fiduciary Flag**
+**State 3: Fiduciary flag / Marked as incompetent**
 
 - Show nametag with user's name only
