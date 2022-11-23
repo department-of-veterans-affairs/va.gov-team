@@ -21,7 +21,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 - **As a Veteran, I want to be able to receive in-person help for signing up for Login.gov and identity proofing which will ease the transition from using legacy credentials while maintaining my access to services.**
 - **As a new Veteran, I want to be given a modern, easy to use credential and be fully identity proofed before leaving active duty.**
 - **As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.**
-- **As a Veteran, I struggle with using Multi-Factor Authentication. Could security keys be provided as an alternative method.
+- **As a Veteran, I struggle with using Multi-Factor Authentication. Could security keys be provided as an alternative method.**
 
 ## Business goals 
 
