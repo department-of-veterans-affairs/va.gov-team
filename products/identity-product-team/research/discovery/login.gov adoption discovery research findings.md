@@ -1,14 +1,14 @@
 [TO UPDATE]
 
-# Login.gov Adoption Discovery Research Findings 
+# Login.gov Adoption Discovery Research Findings
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Identity Product Team
 
-Date: MM/DD/YYYY
+Date: 11/23/2022
 
-[Designer 1] [email], [Designer 2] [email]
+Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+*Update with link to research readout deck
 
 <br>
 
