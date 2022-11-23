@@ -65,22 +65,22 @@ We talked to **4 Veterans**. All had VA health care from having applied once.
 7.  NONE of the 4 participants we talked to had met the intended screening criteria of having recently enrolled in health care, currently in the process of applying for health care or interested in applying, or receiving health care and having recently experienced a change in dependents, income or location. 
 8.  NONE of the 4 participants had applied for VA health care *in the last 3 months*, which was another recruiting criterion. All had been enrolled in VA health care for at least a year (some much longer), but they all had decent recall about the process.
      
-# Recommendations 
-1. If we want to learn more about how Veterans think about eligibility for VA health care in terms of income limits, we need to narrow our recruiting criteria to focus on Veterans in the [VA priority groups](https://www.va.gov/health-care/eligibility/priority-groups/) for which income is considered. We would need to talk with Veterans who weren't sure going in whether they would be eligible for VA health care.
-2. We should talk to some who don't currently have health care benefits because we didn't get this perspective at all in this study.
-3. If we reuse any of these screening questions, revise as follows to make them more clear:
+# Recommendations for recruiting
+1. If we want to learn more about how Veterans think about eligibility for VA health care in terms of income limits, we need to **narrow our recruiting criteria to focus on Veterans in the [VA priority groups](https://www.va.gov/health-care/eligibility/priority-groups/) for which income is considered**. We would need to talk with Veterans who weren't sure going in whether they would be eligible for VA health care.
+2. We should **talk to some people who don't currently have health care benefits** because we didn't get this perspective at all in this study.
+3. If we reuse any of the **screening questions** from this study, **revise** as follows to make them more clear:
 
-1. *(For everyone)* How often do you go online to access VA benefits and services?
+Screening Question #1. *(For everyone)* How often do you go online to access VA benefits and services?
      1. At least once a month *(recruit 3)*
      1. Once a year or less *(recruit 3)*
      1. Never *(recruit 3)*
      
-2. (For everyone) Are you currently receiving VA health care benefits?
+Screening Question #2. (For everyone) Are you currently receiving VA health care benefits?
      4. Yes *(skip to screening question #3)*
      5. No *(skip to screening question #5)*
      6. I don't know *(disqualify)*
 
-7. *(For Cohort 3 only)* Since receiving VA health care benefits, have you experienced any of the following *in the past 3 months*?
+Screening Question #7. *(For Cohort 3 only)* Since receiving VA health care benefits, have you experienced any of the following *in the past 3 months*?
      1. A change in number of dependents *(recruit 1-5 for Cohort 3)*
      1. A change in annual income *(recruit 1-5 for Cohort 3)*
      1. A change in geographic area *(recruit 1-5 for Cohort 3)*
