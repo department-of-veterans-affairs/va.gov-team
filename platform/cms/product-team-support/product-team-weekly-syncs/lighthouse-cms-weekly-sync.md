@@ -14,12 +14,17 @@
 
 </details>
 
-## Monday, November 21, 2022 
+## Monday, November 28, 2022 
 * v1 status check
+* ATC data for Specialty Care Urgent vs Primary Care Urgent vs Urgent care??  [slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1664207051125879)
 * Mental health phone numbers
   * DS pursuing from J's latest report  
 * KB Articles for support AI>>Joshua to provide 1st draft
 * Support Country Code
+ 
+
+## Monday, November 21, 2022 
+_No Meeting_
 
 
 ## Monday, November 14, 2022 
@@ -43,8 +48,6 @@
   * AI>>DS to bring to Dave C  
 * Support Country Code
 * KB Articles for support AI>>Joshua to provide 1st draft
-
-
 
 
 ## Monday, November 7, 2022 
