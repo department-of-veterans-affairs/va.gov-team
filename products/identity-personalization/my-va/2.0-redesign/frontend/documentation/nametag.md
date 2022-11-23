@@ -8,13 +8,13 @@
 
 **Show**
 
-- If someone is LOA3 (except when there are MPI errors or legal name endpoint does not load - use cases listed below)
+- If someone is LOA3 (except when there are MPI errors or legal name endpoint does not load - use cases listed below).
 
 **Do not show**
 
-- If someone is LOA1
-- Legal/full name endpoint does not load
-- Profile encounters MPI errors
+- If someone is LOA1.
+- Legal/full name endpoint does not load.
+- Profile encounters MPI errors.
 
 ## States
 
