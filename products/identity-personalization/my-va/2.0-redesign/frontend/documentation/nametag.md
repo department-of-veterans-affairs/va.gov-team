@@ -66,7 +66,7 @@
 
 ----
 
-### Identity verification & fiduciary flag (Account security)
+### Identity verification & fiduciary flag/marked as incompetent (Account security)
 
 **State 1: Error state - Not in MPI**
 
@@ -76,6 +76,6 @@
 
 - Do not display nametag
 
-**State 3: Fiduciary flag / Marked as incompetent**
+**State 3: Fiduciary flag / marked as incompetent**
 
 - Show nametag with user's name only
