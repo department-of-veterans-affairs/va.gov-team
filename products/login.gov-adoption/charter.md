@@ -82,7 +82,7 @@ Please review `needs-grooming` tickets within your discipline (determined by the
 
 #### Issue creation
 
-You can create issues for yourself or the team throughout the sprint. We'll use grooming to get tickets ready to go before they are put in the "Current Sprint" column on our Zenhub board.
+You can create issues for yourself or the team throughout the sprint. We'll use grooming to get tickets ready to go before they are put in the "Current Sprint" column on our [Zenhub](https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/board) board.
 
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 - Estimate
