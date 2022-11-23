@@ -8,8 +8,6 @@ Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara 
 
 *[Update with link to research readout deck once it's moved to Github]*
 
-<br>
-
 ## Research Goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
 
