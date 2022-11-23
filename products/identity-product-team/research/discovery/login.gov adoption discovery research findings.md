@@ -61,9 +61,60 @@ Through our research, we hoped to explore how the VA can most successfully migra
 
 3. Intercepts: We ran contextual intercepts with Veterans where we shared various stimuli, like, an email or a login screen. This helped us clarifying content and tone-of-voice of messaging, in particular, and reach Veterans who don’t yet have a My HealtheVet or Login.gov account.
 
-## Hypotheses and Conclusions [TO UPDATE]
+## Hypotheses and Conclusions [WIP]
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+When should proactive intervention encourage the creation of a Login.gov account?
+- Veterans go through extensive proofing when they apply for healthcare and get their VHIC.
+- When Veterans get their photo for VHIC they should proactively set up their Login.gov accounts.
+- Many Veterans choose to use in-person proofing to upgrade their MHV account to premium.
+- Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.
+- Combining with an appointment reminder will make it convenient for Veterans.
+
+What do Veterans find important or beneficial when choosing a login credential?
+- We should communicate that Login.gov is a portal, not a destination.
+- A metaphor, like master key, will enable comprehension.
+- Messaging around safety and security will encourage adoption.
+- Veteran's need to be reassured that there will be no gap in their ability to access MHV.
+
+How do we communicate the need to migrate to Login.gov to access services?
+- Messaging around safety and security will encourage adoption.
+- Adding a deadline will set expectation that setting up login.gov is not optional (deferred).
+- Combining with an appointment reminder will make it convenient for Veterans.
+- Access to services outside of the VA will be another selling point.
+
+How do we support Veterans and non-Veterans after they set up Login.gov?
+- First few steps in the login flow are confusing (particularly being redirected back to VA.gov).
+- People need support in-person.
+
+When people in-person proof and migrate their account, what issues arise for them?
+- Only part of the process needs to be in-person.
+- ID verification as an in-person option will decrease login.gov abandonment.
+- Veterans will be open to other trusted VA roles who can verify (e.g., nurse at doc appt).
+
+What resources or workflows will help with issues during in-person proofing & migration?
+- 
+
+How do Veterans understand the process of choosing and using a MFA method?
+- For compliant identity proofing, MFA is required.
+- "MFA" may be unfamiliar, but messaging it will help reinforce security.
+- Veterans are unfamiliar with MFA and the process.
+- Frustration or struggle to use MFA, leads to aversion of using VA digital services & MHV.
+
+Which MFA options will allow more Veterans to migrate to Login.gov?
+- Current MFA options present challenges to Veterans with technology issues or disabilities.
+- Security keys might be easier for Veterans to use.
+- Security keys can be useful for homeless Veterans, to access services at a library, for example.
+- People are encouraged to set up more than one option, and a security key could be a backup option.
+
+How can MFA support non-Veterans who need access to parts of a Veterans’ information?
+- Security keys will provide benefits for managing caregiver access security.
+- Because the person being cared for can see that their caretaker is using the security key.
+
+Which non-Veteran users would Veterans choose to set up access for, when and why?
+- 
+
+How do non-Veterans imagine shared access to work for themselves and non-Veterans?
+- 
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
