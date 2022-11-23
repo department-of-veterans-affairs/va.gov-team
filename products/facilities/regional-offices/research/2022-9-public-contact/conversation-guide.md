@@ -83,8 +83,10 @@ We are speaking with Public Contact staff like youself from these 7 different lo
   * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
 
 **Service List**
+
 Okay, now I'm going to share my screen and show you a list of services. (Begin sharing screen). Can you see that?
 So this is a list of 16 services that are shown on VA.gov as available at different VA Benefit Offices. I want to go through them one-by-one to get your thoughts on them.
+
 * How does this service compare to the services you listed? 1-to-1 match? Or is this really multiple services?
 * Is this available at your facility?
 * Are there other terms or phrases that Veterans use to describe this service?
