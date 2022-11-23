@@ -6,8 +6,8 @@
 
 VA will deliver self-service tools on par with top private sector companies and will have the best online experience in the Federal Government. Every digital service will be customized to the individual using it. Interacting with VA digital services will feel like navigating TurboTax, not filling out a form.
 
-Our Vision: Every Veteran is guaranteed access to self-service benefits and accurate data
-Our Mission: Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families
+**Our Vision:** Every Veteran is guaranteed access to self-service benefits and accurate data
+**Our Mission:** Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families
 
 This will be achieved through multiple initiatives:
 - in-person proofing capabilities at VAMCs
