@@ -61,7 +61,7 @@ VA.gov environment will be able to communicate with VA-Profile and the Digital G
 ## Go-to-market Strategy
 How are Veterans and others using this product going to know it exists?
 
-Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+Veterans will be informed about Transfer of Entitlement (TOE) Form through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
 
 What marketing, outreach, or communications are necessary for this product to be successful?
 
