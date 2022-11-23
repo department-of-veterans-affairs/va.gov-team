@@ -51,8 +51,8 @@ Name & Link to slack or teams profile
 
 
 ## Procuct Documentation
-- TODO: Roadmap 
-- TODO: Objectives & Key Results
+- [Roadmap](./product/roadmap.md) 
+- [Objectives & Key Results](./product/OKRS.MD)
 - TODO: Product Guide 
 
 ## Research and Studies
@@ -68,6 +68,6 @@ Name & Link to slack or teams profile
     - Ben Willaims
     
 - Key BTSSS Team Members
- - Michelle Ortiz (BTSSS PM, BAH)
- - Abi Bruce, (Claims API PM, BAH) 
- - Lesley Brown (Lead Engineer for Claims API and BTSSS System, BAH)
+  - Michelle Ortiz (BTSSS PM, BAH)
+  - Abi Bruce, (Claims API PM, BAH) 
+  - Lesley Brown (Lead Engineer for Claims API and BTSSS System, BAH)
