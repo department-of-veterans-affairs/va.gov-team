@@ -34,7 +34,7 @@ The CEDAR IDIQ will connect VA employees with industry partners to deliver high-
 
 ## What we work on
 
-### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product%20outline.md)
+### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product-outline.md)
 
 ### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/roadmap)
 
