@@ -2,7 +2,7 @@
 
 Cindy Merrill [cindy.merrill@adhocteam.us], Sitewide Home Page team
 
-Date: 11/22/2022
+Date: 11/28/2022
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
