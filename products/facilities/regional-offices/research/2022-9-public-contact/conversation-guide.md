@@ -16,6 +16,7 @@
  
 **5-10 min before session:**
 
+* Open word doc with list of VBA Services
 * Sign into Zoom
   * Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
   * Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
@@ -69,7 +70,7 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 * Is this facility a stand-alone building, or is it in a shared building?
 * Is it easy to get to? Are there any quirks for parking or finding your way inside the building that might make it hard for people to get to? 
 * What days and hours is this office open? 
-* In your own words, how would you describe this office to someone unfamiliar with the VA?
+* In your own words, how would you describe this office to a beneficiary unfamiliar with the VA?
 * What different services does this location offer for Veterans?
 * Are there any services this facility offers that are unique compared to other benefits offices?
 * Are there any benefit services you know of that this facility doesn't offer? 
@@ -80,6 +81,13 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 * Conversely, [these services] seem broad, are there sevices that are more speicifc to different benefit types?   
 * You mentioned this facility is open [these days], are all these different services available any time it's open?
   * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
+
+**Service List**
+Okay, now I'm going to share my screen and show you a list of services. (Begin sharing screen). Can you see that?
+So this is a list of 16 services that are shown on VA.gov as available at different VA Benefit Offices. I want to go through them one-by-one to get your thoughts on them.
+* How does this service compare to the services you listed? 1-to-1 match? Or is this really multiple services?
+* Are there other terms or phrases that Veterans use to describe this service?
+* Is anthing missing from this list?
 
 ## Common Tasks - 15 min
 
@@ -92,6 +100,7 @@ This next group of questions is about common tasks Veterans try to accomplish at
 **Per task**
 * Can this task be accomplished other ways (phone, web)?
   * If so, why do Veterans do this task in-person?
+  * If not, do you think that it would be 'simple' for Veterans to do in a different way? (elaborate)
 * How complicated is this task?
 * How do you assist Veterans in this task?
 * Thinking about what makes your location different than other Regional Offices around the country, is there anything about this task that you think is unique to your region? Is it more common? Does it require additional support?
@@ -118,7 +127,9 @@ This next section of questions is about the typical Veteran experience visiting 
 
 Lastly, I want to talk about all the things Veterans might need or want to know in advance of visitng the office. 
 
-* Thinking about the different tasks that we've talked about today, how many of them could be completed if a Veteran just walks in to the office emptyhanded? How many of them might require them to have filled out forms in advance?
+* Thinking about the different tasks that we've talked about today, how many of them could be completed if a Veteran just walks in to the office empty-handed? 
+  * How many of them might require them to have filled out forms in advance?
+  * Or do they need to be sure to have a copy of something with them (e.g. License, DD-214, birth certificate, Marriage license, etc.)
 * (Follow up on any tasks from earlier that might have unique requirements)
 * How would a Veteran know they need to do that in advance? Could they have found that information on the website?
 * Most common thing Veterans are missing? 
