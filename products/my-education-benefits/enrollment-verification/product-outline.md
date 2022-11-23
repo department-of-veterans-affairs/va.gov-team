@@ -81,11 +81,49 @@ Application is under development slated for January 2023 release.
 
 ---
    
-## Screenshots
+## Application flow and Screenshots
 
-### Before
+### Veriying enrollmets are valid.
+The following is the flow of the application for a claimant with enrollments and they indicate the enrollment is valid.
 
-### After
+1) Logged out claimant navigates to Enrollment Verification through navigation menu and reaches enrollment verification page.
+<img alt="Enrollment Verification Intro Page logged out" src="./screenshots/ev-intro-page-logged-out.png" height="400"> 
+
+2) Claimant logs in and reaches page. A button inviting to verify enrollments is presented:
+<img alt="Enrollment Verification Intro page logged in" src="./screenshots/ev-intro-page-logged-in.png" height="400"> 
+
+3) When pressing button, claimant is presented with list of months for verification. In this case they need to verify the current month.
+<img alt="Enrollment Verification enrollment list page" src="./screenshots/ev-missing-enrollments.png" height="400"> 
+
+4) When selecting to verify this month's enrollments, they are presented with an enrollment list. They can select that the information is either correct or incorrect. In this case they will select it is correct.
+<img alt="Enrollment Verification this month's enrollments" src="./screenshots/ev-verify-enrollment-page1.png" height="400"> 
+
+5) When selecting to certify the enrollment as correct, they are presented with a final submission screen. In this case they will press "Submit Verification"
+<img alt="Enrollment Verification: submit correct enrollment page" src="./screenshots/ev-verify-enrollment-yes-page2.png" height="400"> 
+
+6) When submitting the enrollment is correct, they are they are taken back to the enrollment months list, and the current month will show as verified.
+<img alt="Enrollment Verification enrollment months verified" src="./screenshots/ev-payments-continue.png" height="400"> 
+
+### Marking enrollmets as incorrect.
+The following is the flow of the application for a claimant with enrollments and they indicate the enrollment is incorrect.
+
+1) Logged out claimant navigates to Enrollment Verification through navigation menu and reaches enrollment verification page.
+<img alt="Enrollment Verification Intro Page logged out" src="./screenshots/ev-intro-page-logged-out.png" height="400"> 
+
+2) Claimant logs in and reaches page. A button inviting to verify enrollments is presented:
+<img alt="Enrollment Verification Intro page logged in" src="./screenshots/ev-intro-page-logged-in.png" height="400"> 
+
+3) When pressing button, claimant is presented with list of months for verification. In this case they need to verify the current month.
+<img alt="Enrollment Verification enrollment list page" src="./screenshots/ev-missing-enrollments.png" height="400"> 
+
+4) When selecting to verify this month's enrollments, they are presented with an enrollment list. They can select that the information is either correct or incorrect. In this case they will select it is incorrect.
+<img alt="Enrollment Verification this month's enrollments" src="./screenshots/ev-verify-enrollment-page1.png" height="400"> 
+
+5) When selecting to indicate the enrollment is incorrect, they are presented with a final submission screen and with a warning indicating that this will put their education payments on pause. They will press "Submit Verification"
+<img alt="Enrollment Verification: submit incorrect enrollment page" src="./screenshots/ev-verify-enrollment-no-page2.png" height="400"> 
+
+6) When submitting the enrollment is incorrect, they are they are taken back to the enrollment months list. The current month will show as incorrect and a message is presented stating that their payments are on pause and they need to call their SCO.
+<img alt="Enrollment Verification enrollment month list with message stating payemtns are in pause" src="./screenshots/ev-payments-paused.png" height="400"> 
 
 ---
 
