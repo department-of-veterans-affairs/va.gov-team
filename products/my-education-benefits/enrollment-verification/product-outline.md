@@ -11,9 +11,9 @@ How might we create a transparent and efficient way for veterans to review and c
 ## Desired User Outcomes
 
 - A student required to verify their enrollment verification every month would benefit from an application that lets them:
-  -  View their current enrollment information 
-  -  Indicate if their enrollment information is correct or has changed on a regular basis
-  -   Have clear steps on what to do or who to contact to correct any issues with their enrollment information
+  -  View their current enrollment information.
+  -  Indicate on a regular basis if their enrollment information is correct or has changed.
+  -  Have clear steps on what to do or who to contact to correct any issues with their enrollment information.
 - With this problem solved, the student would be able to complete their required monthly enrollment verification conveniently at VA.gov, as opposed to having to call or send responses via phone texts.
 
 ## Undesired User Outcomes
@@ -30,77 +30,54 @@ How might we create a transparent and efficient way for veterans to review and c
 - Higher satisfaction among students with their education benefit delivery
 
 ## Undesired Business Outcomes
+- Underpayment or cancellation of student's benefits
+- Elevated inquiries to VA staff about enrollment confirmation
+- Frustration by students trying to fullfill the requirement of confirming their enrollments
 
-
----
-## Measuring Success
-
-
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
-
----
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain current enrollments and to submit confirmation for these enrollments.
+
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-- Our initial designs are targetted towards: 
-    - enhancing the existing statement of benefits page to provide a clear status on whether you are up to date on your enrollment verification.
-    - adding a page where a student can review and verify their enrollment information as required and view the payments that are associated with each verification
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
---- 
+*What are you going to build now, and why have you decided to start there?*
+- Enhance the existing statement of benefits page to provide a clear status on whether you are up to date on your enrollment verification.
+- Adding a page where a student can review and verify their enrollment information as required and view the payments that are associated with each verification
+*Why this solution / approach over other solutions / approaches?*
+- Enrollment confirmation on VA.gov is the next logical step in addition to voice call or text messages to confirm enrollments.
+*What have you explicitly decided to not include in this initial set of functionality, and why?*
+- N/A
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- There are no immediate plans to change the application further.    
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+How are Veterans and others using this product going to know it exists?
+
+Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+
+What marketing, outreach, or communications are necessary for this product to be successful?
+
+- GI Bill Student Newsletter and SCO Newsletter blog posts
+- VAntage Point blog
+- Social media posts
+- benefits.VA.gov website updates (including a potential DGIB campaign landing page)
+- Email comms
+- Product Features video walking users through the new My Education Benefits experience
+- Media Outreach
+- Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
-  - December 2021 / January 2022
-- *Actual Launch Date* 
-  - TBD
-- *What date will you evaluate impact after launch?*
-  - TBD
+  - January 2023
+
 ---
 
 ## Solution Narrative
-
-### Current Status
+Application is under development slated for January 2023 release.
 
 ### Key Decisions
+- Backend services will live on DGIB environment. The application will use Local vets-api endpoints that will serve proxies that generate jwt tokens to communicate with DGIB services. 
 
 ---
    
@@ -116,11 +93,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+Team Name: My Education Benefits
+GitHub Label: @department-of-veterans-affairs/my-education-benefits
+Slack channel: education-benefits
+Product POCs: Cesar Santiago (tech lead), Audra Ayotte(Businesss Lead), Leelah Holmes (Design Lead)
+Stakeholders: Tammy Hurley, Eddie Ricks, Ricardo Da Silva
 
 </details>
 
@@ -128,10 +105,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+Cesar Santiago: Tech Lead
+Audra Ayotte: HCD Lead
+Leelah Holmes: Design Lead
  
 </details>
 
@@ -140,6 +116,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+Education Service | Veterans Benefits Administration
  
 </details>
