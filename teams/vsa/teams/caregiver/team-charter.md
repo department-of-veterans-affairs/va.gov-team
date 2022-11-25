@@ -10,13 +10,13 @@
 ## Guideposts
 
 ### Team Mission Statement:
-To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
+To provide an easy and convenient path for Veterans and Caregivers to apply for care-related benefits
 
 ### Team Vision:
-Create a seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
+Create an effortless online experience that allows Veterans and Caregivers to easily apply for, track, and update care-related benefits
 
 ### Team North Stars:
-- Improve the experience of Veterans and those that care for them in applying for care-related benefts 
+Improve the experience of Veterans and Caregivers when applying for care-related benefits 
 
 ## What we work on:
 
@@ -87,14 +87,14 @@ Create, review, estimate, and prioritize backlog items.
 - All tickets should include:
      - 1010-team
      - Product: Either 1010-ez or 1010-cg
-- EZ initiative labels
+- EZ initiative labels (examples)
      - 1010-short-form
      - 10-10ez-notifications
      - household-info-redesign
      - American-Indian
      - sigi
      - facilities-1010
-- CG initiative labels
+- CG initiative labels (examples)
      - legal-rep
      - MuleSoft
      - 1010 primary/secondary
