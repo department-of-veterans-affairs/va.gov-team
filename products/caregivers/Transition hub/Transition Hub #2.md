@@ -113,31 +113,37 @@ This table includes links to the individual feature directory.
 
 
 
-## Our team March 2022 team roster
+## Our team TBD team roster
 
-- Sharon Kasimow | sharon.Kasimow@va.gov -- Team product manager
-- Dené Gabaldón | dene.gabaldon@va.gov -- UX designer/researcher
-- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
-- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
-- Lihan Li | lihan@adhocteam.us -- Backend engineer
+- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
+- Mark Fallows | mark.fallows@va.gov / mark.fallows@adhocteam.us - Associate Product Manager
+- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
+- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
+- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
 ## VA relationships
 
-- Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
-- Christopher Froehlich | Christopher.Froehlich@va.gov -- Product owner
+- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
+- Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
+- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
+- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 **Caregiver Program Business Unit Team**
-- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
-- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
-- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
-- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
-- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
-- Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
-- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling
+- Matt Brown | Matthew.Brown4@va.gov  - Assoc. Director (leads the relationship between the program and VA.gov)
+- Marla Clayton |marla.clayton@va.gov - Technical Project Manager
+- Tiffany Puckett | Tiffany.Puckett@va.gov  - Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  - Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  - Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov - Health System Specialist
+- Rebecca (Becca) Bixler | rebecca.bixler@va.gov - Health System Specialist
+
 
 **CARMA team**
-- Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
+- Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
@@ -148,7 +154,14 @@ This table includes links to the individual feature directory.
 
 - Touchbase with Va.gov & Platform Team for Caregivers
    - Caregivers business team, CARMA team, and VA.gov team meet
-   - Depending on the current projects we meet once a week or every other week for ~1 hour
+   - Depending on the current projects we meet once a week or every other week for ~1 hour on Fridays
+   - Tham- manages the agenda, work with her to share topics
+   - 10-10 team responsible to track and share metrics for total online applications submitted - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true) source
+
+![image](https://user-images.githubusercontent.com/92328831/204030100-c83dca4c-b5e2-4b86-9049-2a396c35d5ae.png)
+
+![image](https://user-images.githubusercontent.com/92328831/204030164-84173342-3963-4d75-910a-4530ce29c1d1.png)
+
 
 
 
