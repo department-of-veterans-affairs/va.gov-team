@@ -144,6 +144,11 @@ This table includes links to the individual feature directory and the latest ite
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
+- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
+- Christopher Froehlich | Christopher.Froehlich@va.gov -- Digital Services Expert, IT
+- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
+- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
+- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD
