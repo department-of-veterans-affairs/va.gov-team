@@ -88,25 +88,20 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 
 ## Roadmap
 
-**Past**
-- Locked MPI (name, SSN, DOB fields were previously editable) when logged in
 
 **Now**
-- Short form for 50% or greater service-connected disability
+- Improve UX of Household information section
 
 **Next**
-- Short form for combat status Veterans
-- Evaluate if some questions can be removed for all applicants 
-- Improve UX of Household information section
-- Facility selection redesign
-- Add Medicare claim number
-
+- Update address design to align with design system and add option for Veterans abroad address and homeless consideration
+- Redesign screener at application start for unauthenticated users
 
 **Future**
+- Short form for combat status Veterans
+- Evaluate if some questions can be removed for all applicants 
+- Facility selection redesign
 - Improve Military history section
-- Redesign screener at application start for unauthenticated users
-- Update address design to align with design system and add option for Veterans abroad address and homeless consideration
-- Notifications: In-progress reminders and Confirmation Email/text
+- Notifications: Confirmation Email/text
 - Multilingual 
 
 
@@ -118,12 +113,8 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
-| [Short form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20form.md) | Formally called "auto-qualify"| In development|
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-| [SIGI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/SIGI.md) | Self-identified gender identity | In staging-ON HOLD |
-| [American Indian question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/American%20Indian.md) | N/A | In staging-ON HOLD |
-| [Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Notifications.md) | Email notifications for in progress reminders and application submission | In discovery |
-| [Medicare claim number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Medicare%20claim%20number.md) | N/A | In discovery |
+
 
 <br>
 
@@ -150,7 +141,6 @@ This table includes links to the individual feature directory and the latest ite
 **HEC (Health Eligibility Center) Program Team**
 - Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
-- Dionne Dent-Lockett  | dionne.dent-lockett@va.gov  --  Director, HEC
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
@@ -166,7 +156,8 @@ This table includes links to the individual feature directory and the latest ite
 
 - 10-10EZ Online Application Update
    - HEC team and VA.gov team meet
-   - We meet every other week for ~1 hour
+   - We meet every other week for ~1 hour on Wednesdays
+   - Tarsha is main POC for agenda
 
 
 
