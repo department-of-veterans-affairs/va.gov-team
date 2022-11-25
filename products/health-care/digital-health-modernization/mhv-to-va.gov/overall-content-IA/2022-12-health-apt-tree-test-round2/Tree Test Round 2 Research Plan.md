@@ -29,7 +29,8 @@ We will have two sets of key tasks for Veterans, families/caregivers. We will no
 - Evaluate the location of health care benefits programs (mental and dental care) as core health care information
 - Evaluate “My Health” as a replacement label for the manage benefits spoke/section of the health care hub
 - Evaluate whether users can easily manage their health with the categories under “My Health”
-- Evaluate whether the logged in experience for family members and caregivers is sufficient to help manage Veterans’ health on their behalf.
+- Evaluate whether family members and caregivers can navigate the information architecture to get and apply for benefits themselves.
+- Evaluate whether family members and caregivers can find information and manage Veterans' health on their behalf. 
 
 ## Outcome
 
