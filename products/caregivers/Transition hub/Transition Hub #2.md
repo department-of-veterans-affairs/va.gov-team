@@ -44,7 +44,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Online-10-10CG-Product-Guide.docx)
-- [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/10-10CG%20-%20Things%20to%20Know.md)(various points of information we learned since the last transition in April 2022)
+- [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/10-10CG%20-%20Things%20to%20Know.md) (various points of information we learned since the last transition in April 2022)
 
 
 <br>
@@ -58,7 +58,9 @@ Team vision: An effortless online experience that allows Veterans and their Care
 
 
 **Analytics**
-- Analytics dashboard: [Domo](https://va-gov.domo.com/page/1905395623?userId=1492182741) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
+- Analytics dashboard: 
+     - [Domo](https://va-gov.domo.com/page/447193050) (consolidated forms dashboard)
+     - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
 - [Backend Stats on DataDog Dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team?from_ts=1648597677333&to_ts=1649202477333&live=true) (need Datadog credentials)
 
