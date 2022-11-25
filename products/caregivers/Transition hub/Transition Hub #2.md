@@ -62,7 +62,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
      - [Domo](https://va-gov.domo.com/page/447193050) (consolidated forms dashboard)
      - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
-- [Backend Stats on DataDog Dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team?from_ts=1648597677333&to_ts=1649202477333&live=true) (need Datadog credentials)
+- [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 
 **Engineering**
