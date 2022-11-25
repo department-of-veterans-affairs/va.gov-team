@@ -102,11 +102,11 @@ Team vision: An effortless online experience that allows Veterans and their Care
 ### Features and initiatives we worked on
 This table includes links to the individual feature directory.
 
-| Feature (Github link) | AKA | Status |
+| Feature (Github link) | Notes | Status |
 | :--- | :--- | :--- |
-| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10EZ use | In design |
-| [Language Translation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20Language%20Translation)| N/A|Content ticket created|
-| [Primary/Secondary Caregiver clarification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Primary%20vs%20Secondary%20Clarification) | N/A | not started yet|
+| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also considering design for 10-10EZ use, Connecting to Facilities/Lighthouse API | In design |
+| [Language Translation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20Language%20Translation)| State Dept translates, ~2-3 month ETA |Content ticket created|
+| [Primary/Secondary Caregiver clarification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Primary%20vs%20Secondary%20Clarification) | Currently, Roles & Resp are on separate pages | not started yet|
 
 
 <br>
