@@ -42,9 +42,10 @@ Can Veterans and their families/caregivers navigate proposed changes to VA.gov a
 
 ## Hypothesis
 
-- Veterans who have health care benefits account will go to My Health directly for finding information and managing health.
-- Grouping all health care benefits programs will help Veterans and caregivers and families easily find benefits information for their needs.
-- Viewing different categories for health history can help Veterans quickly locate their health information.
+- Veterans who have health care benefits account will go to My Health directly for finding information and managing health instead of browsing on VA.gov.
+- Grouping and prioritizing all health care benefits programs (such as mental health and dental insurance) will help Veterans and caregivers and families easily find benefits information for their needs.
+- Viewing popular categories for medical records instead of downloading the full records can help Veterans quickly locate their health information.
+- Families and caregivers might prefer to find their benefits under family hub.
  
 ## Method & Tools
 
