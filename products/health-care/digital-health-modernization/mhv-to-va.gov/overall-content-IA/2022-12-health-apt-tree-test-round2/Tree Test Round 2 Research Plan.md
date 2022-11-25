@@ -57,8 +57,7 @@ How many people we need to send emails to?
 
 ### Research Materials
 
-Tasks
-Links
+Tasks[Link to Optimal Workshop](url goes here)
 
 ## Participants and recruitment
 
