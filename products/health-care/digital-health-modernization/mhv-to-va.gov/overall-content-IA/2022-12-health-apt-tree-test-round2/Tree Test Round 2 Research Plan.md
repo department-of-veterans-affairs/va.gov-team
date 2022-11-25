@@ -49,7 +49,7 @@ Can users navigate proposed changes to VA.gov and to find information and comple
 
 This phase of the research is designed to validate the refined information architecture and to see if the key tasks can be completed successfully by participants.
 
-###### IA Tree Tests (remote, unmoderated)
+### IA Tree Tests (remote, unmoderated)
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, ? tasks for a Veteran and ? tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed.
 We would like to get complete responses from at least 50 Veterans.
