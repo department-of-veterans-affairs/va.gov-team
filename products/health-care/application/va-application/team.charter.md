@@ -11,13 +11,13 @@
 ## Guideposts
 
 ### Team Mission Statement:
-To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
+To provide an easy and convenient path for Veterans to apply for VA health care benefits
 
 ### Team Vision:
-A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
+Create an effortless online experience that allows Veterans to easily apply for, track, and update VA health care benefits
 
 ### Team North Stars:
-- Improve the experience of Veterans and those that care for them in applying for care-related benefts 
+Improve the experience of Veterans when applying for VA health care benefits
 
 ## What we work on:
 
@@ -189,7 +189,6 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 **HEC (Health Eligibility Center) Program Team**
 - Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
-- Dionne Dent-Lockett  | dionne.dent-lockett@va.gov  --  Director, HEC 
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
