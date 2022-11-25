@@ -45,7 +45,7 @@ Can users navigate proposed changes to VA.gov and to find information and comple
 - Grouping all health care benefits programs will help Veterans and caregivers and families easily find benefits information for their needs.
 - Viewing different categories for health history can help Veterans quickly locate their health information.
  
-## Method
+## Method & Tools
 
 This phase of the research is designed to validate the refined information architecture and to see if the key tasks can be completed successfully by participants.
 
@@ -55,6 +55,11 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 We would like to get complete responses from at least 50 Veterans.
 How many people we need to send emails to?
 
-## Research Materials
+### Research Materials
+
 Tasks
-Link to Appendix
+Links
+
+## Participants and recruitment
+
+## Timeline
