@@ -90,7 +90,7 @@
 |Mobile|	27.6%	|28.10%	|27.9%	|27.0%	|24.9%	|26.2%|	26.3%|
 |Tablet|	1.4%	|1.50%	|1.4%|	1.6%	|1.6%	|1.5%	|1.4%|
 
-![image](https://user-images.githubusercontent.com/92328831/204040110-5250180f-5f11-4311-9f56-788fe2f30d0f.png)
+![image](https://user-images.githubusercontent.com/92328831/204040574-122b928a-5d9d-418a-bb5b-8fe4e72f755c.png)
 
 
 - *Key result 2: Decrease number of drop-off/exit rates while completing the application*
