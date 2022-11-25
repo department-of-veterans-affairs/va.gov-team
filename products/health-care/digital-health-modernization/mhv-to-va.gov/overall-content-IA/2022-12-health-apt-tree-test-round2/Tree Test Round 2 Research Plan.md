@@ -38,7 +38,7 @@ We will use the insights from this research to validate and refine the informati
 
 ## Research Questions
 
-Can users navigate proposed changes to VA.gov and to find information and complete key tasks as they get and/or manage their VA health care benefits?
+Can Veterans and their families/caregivers navigate proposed changes to VA.gov and to find information and complete key tasks as they get and/or manage their VA health care benefits?
 
 ## Hypothesis
 
