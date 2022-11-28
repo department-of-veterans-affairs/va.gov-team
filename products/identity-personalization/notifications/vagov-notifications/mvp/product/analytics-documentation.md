@@ -14,3 +14,6 @@
 5. **API Request-PATCH dismiss on-site notification-successful** : Successful dismissal of notifications
 <img width="572" alt="Screen Shot 2022-10-31 at 13 17 08" src="https://user-images.githubusercontent.com/97113607/199069037-a4566190-16b7-4d5e-ad7e-35ab85fe7bc1.png">
 
+### Manage VA Debt - Oustanding Debts section
+
+To view clicks on "Manage Your VA Debt" from the Outstanding debts section in GA, go to events and search for Navigation - Alert Box - Link Click - warning -- (not set) - Manage Your VA Debt
