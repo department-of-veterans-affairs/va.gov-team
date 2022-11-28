@@ -52,11 +52,13 @@ The purpose of this research is to gain insight into user needs and goals relate
 ### Data collection
 We conducted remote interviews with Zoom. These interviews included questions about user needs and goals related to medical records, what users expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews also included a moderated card sorting activity. 
 
-### Sample
-Describe demographics
-
 ### Data analysis
-Describe
+We had three sets of data to analyze: observer notes organized in a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666625596260/90fc2a6158fd66770cd596c2c8c28b5602cee416?invited=true&sender=u7de68ed54bc434b67b630908), results from the open ended card sort in Optimal Workshop, and interview transcripts. We triangulated across these different data types to arrive at findings. 
+
+First, we reviewed the Mural board notes and grouped like items. Next, we reviewed the card sort results and wrote notes about how ideas were categorized. Based on these activities, we drafted hypothesis findings. Next, we reviewed transcripts, constantly comparing comments across and within transcripts to identify recurring patterns and useful or interesting outliers. We wrote notes throughout this constant comparison, confirming, invalidating, and/or hypothesis findings. 
+
+To create the narratives: 
+We drew from multiple interviews to create composite narratives around use cases. These narratives are not meant to be all encompassing; their purpose, rather, is to provide a storied context for the use cases. 
 
 ## Hypotheses and Conclusions
 
@@ -232,12 +234,7 @@ _"I would say under my account if there was a medical history that would be good
 
 Labels: label 1, label 2 
 
-
-
-
-## Additional Insights
-
-AT cognitive interviewing + findings
+_Pathology results:_ 
 
 
 ## Appendix
