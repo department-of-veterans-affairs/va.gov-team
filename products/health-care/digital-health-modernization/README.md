@@ -4,7 +4,7 @@
 
 ## Core Team
 ### Current as of 11/16/2022
-- Leila Rassey - Product Owner
+- Leila Rassi - Product Owner
 - Lauren Alexanderson - Sponsor
 - Coulton Bunney - OCTO Design Lead
 - Marci McGuire - Product Manager
