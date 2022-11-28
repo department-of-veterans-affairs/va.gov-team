@@ -13,6 +13,8 @@ This will be achieved through multiple initiatives:
 - in-person proofing capabilities at VAMCs (VA Medical Centers)
 - transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing”
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
+- Messaging to increase proactive login.gov adoption
+- Providing support with a human touch to facilitate the migration
 
 ### Vision
 
