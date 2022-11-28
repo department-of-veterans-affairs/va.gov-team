@@ -56,12 +56,12 @@ For the context of this session, you are applying for health care using the onli
 I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 - [Send link to prototype in Zoom chat]
+   - [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
+   - [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318) 
 - [If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent]
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 
-- [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
-- [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 
 
 
@@ -131,6 +131,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 ## Primary Task 2: Marital status and spouse information - 5 minutes
 - (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
+
 - For this scenario, pretend you are currently married and complete the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
@@ -148,7 +149,6 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - (When selected yes) Complete the questions about your first dependent.
 
 - For this testing scenario, imagine you have multiple children. How would you add them to this application?
-
 
 
 **Participant questions:**
@@ -215,7 +215,6 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 [Study Specific]
 
 - Thinking back on the question about the first page you saw and you rated it a [x on a scale of 1-5 (1 being non very poorly and 5 being very well)], would you keep or change that rating after going through this prototype? Why?
-
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
 - Did you feel there was not enough explanation given for the questions, too much or was just about right?
 - Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
