@@ -1,6 +1,6 @@
 # Product outline for IA and navigation on VA.gov
 
-**Last Updated: November 17, 2022**
+**Last Updated: November 28, 2022**
 
 ## Table of Contents
 
@@ -76,7 +76,13 @@ Undesired user outcomes for veterans (including soon-to-be veterans), those invo
 
 ### Desired business outcomes
 
+- Users are able to easily complete tasks, regardless of whether they start in a logged-in or logged-out state.
+- The primary focus of our IA and navigation remains on the overall veteran experience and does not get overtaken by business needs and wants.
+
 ### Undesired business outcomes
+
+- Our IA and navigation continues to reflect OCTO teams are set up, not how users want to expect to move through information.
+- We keep thinking of unauth and auth experiences as two separate experiences instead of two halves of the same experience.
 
 ## Projects & Initiatives
 
