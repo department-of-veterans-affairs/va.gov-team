@@ -52,7 +52,7 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Do you currently have health care benefits from the VA?
-- If yes, what is your memory/recollection of the application process?
+- [If yes] What is your memory/recollection of the application process?
 
 
 ## Task: [Start Application] - 3 minutes
@@ -60,7 +60,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
-- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
 - Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
@@ -77,14 +77,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
-- [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled?]
+- [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
 
 ## Task: [Sign in - where/when in process - Authenticated] - 3 minutes 
 - [Provide staging sign in credentials?]
 - Do you have and use a VA.gov profile account? 
-- Where on the site do you usually sign in at? 
+- Where on the site / when during your visit to the website do you usually sign in at? When you first arrive or when you find the task you want complete?
 
 ### Things to watch for:
 - [Does the participant comment if signing in is the very first thing they do on VA.gov?]
@@ -137,7 +137,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Does the participant enter a discharge date that is in the future or that was very recent?]
 
 
 ---
