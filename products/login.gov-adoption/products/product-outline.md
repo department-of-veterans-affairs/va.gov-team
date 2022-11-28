@@ -16,16 +16,7 @@
 
 Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion.The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. (for more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md). This product outline goes into detail around the goals, thinking, and metrics that guide our work.  
 
-## User problem statements 
-
-- **As a Veteran, I want only one sign-on to access all VA products and services.**
-- **As a Veteran, I want to be able to receive in-person help for signing up for Login.gov and identity proofing which will ease the transition from using legacy credentials while maintaining my access to services.**
-- **As a new Veteran, I want to be given a modern, easy to use credential and be fully identity proofed before leaving active duty.**
-- **As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.**
-- **As a Veteran, I struggle with using Multi-Factor Authentication and remembering passwords.**
-
-## Business goals 
-
+## Product vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
 - Veteran users that cannot identity proof through Login.gov will be able to visit an MHV Coordinator to do so or have a remote video option.
 - Veteran users that are already visiting MHV coordinators regularly will be guided to create a Login.gov account and proof in person with coordinators.
@@ -33,6 +24,18 @@ Currently there are multiple ways to sign on and access VA services. These login
 - Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
 - All users will be migrated from legacy MHV and DS Logon credentials, although this may not completely occur within this task orders Period of Performance (PoP).
 - Pilot use of fast identity online (FIDO) security keys for users that struggle with Multi-factor Authentication (MFA)
+
+## Desired user outcomes
+- A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying.
+- For MHV users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy MHV credential and maintain their access to services.
+- For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
+
+## Desired business outcomes
+- Increase the speed of implementation of the CX EO, “the deprecation of outdated and duplicative credentials” represented by MHV and DS Logon.
+- Increased security of MFA and compliance with National Institute of Standards and Technology (NIST) guidance for Identity
+- The VA will no longer have to pay for DS Logon, MHV will not have to devote personnel to maintaining their credential
+- Reduced fraud
+- Increased user satisfaction
 
 ## Questions 
 
