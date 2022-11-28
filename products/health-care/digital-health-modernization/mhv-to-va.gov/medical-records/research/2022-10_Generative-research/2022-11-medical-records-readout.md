@@ -234,8 +234,19 @@ _"I would say under my account if there was a medical history that would be good
 
 Labels: label 1, label 2 
 
-_Pathology results:_ 
+_Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
 
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/100814257/204381386-275ee103-5738-4bf7-bc74-175583fd03b8.png">
+
+_Pre-visit summary or After-visit summary:_ Responses were not consistent, though most participants understood pre-visit to happen before a visit and after-visit to happen after a visit. Participants were unclear or inconsistent on what information those documents included, and some did not understand how they differed from Admission or Discharge summaries. 
+
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/100814257/204380721-771b81ff-67d1-4941-a6c2-72e0d173c6e1.png">
+
+_Admission summary or Discharge summary:_ Only four participants were probed on these terms. Amongst these participants, Admission and Discharge summaries were associated with a hospital, rather than a clinical visit. 
+
+<img width="385" alt="image" src="https://user-images.githubusercontent.com/100814257/204381348-4c98347b-04c8-4de9-a4c2-dd5118e6989c.png">
+
+_Encounter notes:_ The term "encounter notes" elicited the most negative reactions amongst participants (n=7). Four out of the seven associated encounter notes with mental health in ways that alarmed them. One described an encounter as an interaction between a psychiatrist and someone having a PTSD episode. 
 
 ## Appendix
 
