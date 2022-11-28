@@ -32,12 +32,12 @@ For more on our vision and mission, see the [Team charter](https://github.com/de
 
 ## Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
-- Veteran users that cannot identity proof through Login.gov will be able to visit an MHV Coordinator to do so or have a remote video option.
+- Veteran users that can't identity proof online will be able to visit an MHV Coordinator to do so or have a remote video option.
 - Veteran users that are already visiting MHV coordinators regularly will be guided to create a Login.gov account and proof in person with coordinators.
 - Military personnel will be able to proof in person as part of the TAP curriculum and will have a proofed Login.gov account before they transition off active duty.
 - Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
 - All users will be migrated from legacy MHV and DS Logon credentials, although this may not completely occur within this task orders Period of Performance (PoP).
-- Pilot use of fast identity online (FIDO) security keys for users that struggle with Multi-factor Authentication (MFA)
+- Pilot use of fast identity online (FIDO) security keys for users that struggle with MFA (multi-factor authentication)
 
 ## User Problem Statements 
 - As a Veteran, I want only one sign-on to access all VA products and services.
