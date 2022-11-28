@@ -57,7 +57,7 @@ Round 3
 ![Desktop Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/desktop%20round%203.PNG)
 ![Desktop Create account Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/desktop%20create%20account.PNG)
  
- </details)
+ </details>
  
 This iteration adds a modal for opting-in to the redesigned user experience. Content input was provided to convey the full-functionality of the redesigned page, a CTA to provide feedback, and expectation about the per-session nature of the opt-in (i.e. "Try the new homepage", "No,maybe next time").
 
