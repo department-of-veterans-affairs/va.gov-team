@@ -1,12 +1,16 @@
-# DRAFT VAOS Service Integration - Release Plan
+# VAOS & Acheron Service Integration - Release Plan
 
-Work for the vaos service integration is broken up into 4 toggles:
+Work for the vaos service integration is controlled by 8 feature flag toggles:
+- Update the filtering logic from 24 months to 36 months for a given clinic in the direct appointment schedule flow (va_online_filter36_vats)
+- Toggle for the Acheron service changes (va_online_scheduling_acheron_service)
+- Toggle for VAOS direct scheduling & appointment request clinic filtering (va_online_scheduling_clinic_filter)
+- Toggle for new mobile facility service v2 endpoints (va_online_scheduling_facilities_service_v2)
 - Community Care appointments (va_online_scheduling_vaos_service_cc_appointments)
-- Facilities (va_online_scheduling_facilities_service_v2)
 - Request-related services (va_online_scheduling_vaos_service_requests)
 - VA VistA-based appointments (va_online_scheduling_vaos_service_va_appointments)
+- Toggle for tickets with the label vaos-v2-next will be behind this flag (va_online_scheduling_vaos_v2_next)
 
-For this launch, the rollout of each toggle will happen concurrently in order to avoid requests being routed to different systems at the same time.
+For this launch, the rollout of each toggle will happen concurrently in order to avoid requests being routed to different systems at the same time.  Currently, Community Care and VA Requests are sent to VARDB and processed via Scheduling Manager.  Once the feature flags above are enabled Community Care requests will be routed to HSRM for processing and VA Requests will be routed to VistA for processing using VSE GUI.  Direct Scheduled appointments will continue to be created and stored in VistA but will be done so using the new Acheron Service instead of the existing VIA service.
 
 ---
 
@@ -14,6 +18,8 @@ For this launch, the rollout of each toggle will happen concurrently in order to
 All of the following are required before VAOS frontend enables the toggles for integration with the VAOS service:
 - [ ] HSRM is launched and live in Production, and ready to manage appointment requests
 - [ ] VAOS Service is launched and live in Production, and ready to accept scheduling and appointment transactions
+- [ ] Acheron Service is launched and live in Production, and ready to accept scheduling and appointment transactions
+- [ ] VSE GUI is patched and live in Production, and ready to manage appointment requests in VistA
 - [ ] Business Stakeholders approved Veteran-facing launch
 - [ ] VAOS Product Owner approved Veteran-facing launch
 
