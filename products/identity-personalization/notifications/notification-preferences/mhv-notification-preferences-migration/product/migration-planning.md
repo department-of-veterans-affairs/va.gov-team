@@ -94,6 +94,20 @@ This would involve us moving notification preferences over one at a time as they
 - Users would temporarily have to go to MHV to set preferences while a feature was live on VA.gov (eg. setting a secure messaging preference on MHV while the secure messaging feature is live on VA.gov) until the feature was fully retired on MHV.
 - This does not get around the problem of turning off MHV preferences one at a time. This would create an experience where users would have to go back and forth between VA.gov and MHV to set different preferences based on what is supported on each platform (eg. setting secure messaging alerts on VA.gov and prescription notifications on MHV).
 
+### VA.gov to integrate with MHV backend first, then work on the VA Profile integration over time
+
+#### Pros
+
+- Users could use either VA.gov or MHV frontends, and preferences would save in the same place.
+- We could still move preferences to the VA Profile backend one at a time.
+- We would have flexibility in how we add preferences to the VA.gov frontend, either one at a time or all at once, and we could do this any time.
+- This does not require additional changes to MHV beyond work that is already required (ie. MHV will need to coordinate with us on this work).
+
+#### Cons
+
+- VA.gov is effectively responsible for two integrations -- one to MHV, then reintegrating everything through VA Profile.
+- I don't have a sense of technical complexity for integrating with MHV, and because of contract switches, we won't have anyone to do technical discovery on this until the new year.
+
 ## Recommendations
 
 There's no perfect solution with how we approach the notification migration. However, this is what I think we should prioritize:
