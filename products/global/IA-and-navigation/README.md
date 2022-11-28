@@ -88,8 +88,7 @@ Undesired user outcomes for veterans (including soon-to-be veterans), those invo
 
 |Project or Initiative| Launch or completion date|
 |---------------------|--------------------------|
-|Health apartment card sort (get link to documentation)| |
-|Wayfinding research (get link to documentation)| |
+|[Health hub moderated tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%203%20-%20First%20click/HH_ResearchFindings.pdf)| September 2022 |
 
 ## Analytics
 
