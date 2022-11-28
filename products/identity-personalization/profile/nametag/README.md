@@ -79,7 +79,7 @@
 
 ----
 
-### Blocked Profile - fiduciary flag/marked as incompetent/deceased
+### Blocked Profile - fiduciary/marked as incompetent/deceased
 
 - Show nametag with all available user data. 
 - Same as standard LOA3 use cases. 
