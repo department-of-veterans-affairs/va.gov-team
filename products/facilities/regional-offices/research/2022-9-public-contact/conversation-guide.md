@@ -71,6 +71,12 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 * Is it easy to get to? Are there any quirks for parking or finding your way inside the building that might make it hard for people to get to? 
 * What days and hours is this office open? 
 * In your own words, how would you describe this office to a beneficiary unfamiliar with the VA?
+*	Percentage of appointments vs walk-ins?
+*	Typical wait times?
+*	Busier days or time?
+*	Common frustrations? Complaints?
+*	How Veterans usually arrive at the facility? (drive, public transit?) 
+*	How long does it take for a Veteran to travel to a facility
 * What different services does this location offer for Veterans?
 * Are there any services this facility offers that are unique compared to other benefits offices?
 * Are there any benefit services you know of that this facility doesn't offer? 
@@ -114,17 +120,6 @@ This next group of questions is about common tasks Veterans try to accomplish at
 * For instance are there tasks they want to complete that they can't?
 * Any common sources of confusion or frustration?
 * How frequently are these problems encountered?
-
-## Veteran Experience - 5 minutes
-
-This next section of questions is about the typical Veteran experience visiting this facility. So regardless of what task they want to accomplish, what might any visitor encounter.
-
-*	Percentage of appointments vs walk-ins?
-*	Typical wait times?
-*	Busier days or time?
-*	Common frustrations? Complaints?
-*	How Veterans usually arrive at the facility? (drive, public transit?) 
-*	How long does it take for a Veteran to travel to a facility
 
 ## Veteran Preparation - 5 minutes
 
