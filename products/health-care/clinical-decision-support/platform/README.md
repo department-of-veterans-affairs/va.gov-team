@@ -26,8 +26,6 @@ Link to Jira if applicable:
 ### Team Members
 OCTO-DE/DEPO:
 - Shane Elliott (VA OCTO)
-- Dr. Stefany Y Holguin (VA OCTO, PIF, Product)
-- Varoon Mathur (VA OCTO, PIF, Data)
 
 Program Management:
 - Jeremy Stitz (ThoughtWorks/TW)
@@ -41,16 +39,17 @@ Design & Research:
 Engineering:
 - Phil Herbert (TW, Tech Lead)
 - Filip Fafara (TW, Domain Principal)
-- Frances Henshall (TW, Developer)
-- Ellis Crawford (TW, Developer)
-- Becca Vasil (TW, Developer)
+- Sarah Cnota (TW, Developer)
+- Ashley Gentles (TW, Developer)
+- Daniel Olson (TW, Developer)
+- Mae Duphorne (TW, Developer)
 - Nitheesha Karnati (TW, Quality Analyst)
 
 ### What We're Working On
 •	The CDSP platform team conducted engagements with 11 different teams across the VA and identified three potential use cases for development and/or integration efforts. Those use cases include:
 
 o	Virtual Care Manager
-	Pending prioritization and level of effort by team
+	Pending prioritization
 
 o	STORM – Opioid management
 	Exploring UI design work to improve visibility of STORM w/CPRS
