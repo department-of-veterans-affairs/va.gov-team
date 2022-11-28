@@ -54,7 +54,7 @@ This work relates to these OCTO (Office of the Chief Technology Officer) objecti
 - Veterans can decide the best CSP for their needs
 - Veterans and their families can apply for all benefits online
 
-### North star objectives
+### OCTO North Star objectives
 
 We need to:
 - increase the usage and throughput of VA services 
