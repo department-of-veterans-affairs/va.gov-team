@@ -28,7 +28,7 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ## Research Goals	
-**1. Obtain a qualitative baseline for tasks within the application to use in comparrison during future studies and iterations.**
+**1. Obtain a qualitative baseline for tasks within the application to use in comparrison with future studies and iterations.**
 
 **2. Overall, what is easy or difficult to complete within the form and why.**
 
@@ -49,7 +49,7 @@ We will use the results from this research to establish a baseline for comparris
 ### Hypotheses
 - The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
 - The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
-- The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context being unclear. 
+- The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context. 
 - 
 
 
@@ -79,11 +79,9 @@ Determine a list of tasks and standardize how they are asked repeatedly from res
 - How likely are you to recommend this online application process to another Veteran? [Scale of 0 - 10]
 
 
-#### Post-Test Participant ( ) 
-
-
 ### Location
 Remote: Zoom
+
 
 ### Research materials
 For moderated usability tests: 
