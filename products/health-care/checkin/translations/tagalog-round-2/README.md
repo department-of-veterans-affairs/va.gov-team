@@ -11,3 +11,7 @@
 ## QA Files Sent to Randi on 11/21/2022
 - [Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf)
 
+## QA Comments Received from Randi on 11/28/2022
+- [LS-2022-0118394-LQM-REV-11.22.22_Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/tagalog-round-2/LS-2022-0118394-LQM-REV-11.22.22_Tagalog%20-%20Round%202_2022-11-21_20-22-54.pdf)
+
+
