@@ -52,7 +52,7 @@ The goal of ongoing IA and navigation work is to keep VA.gov organized and navig
 We have opportunities to:
 
 - Treat IA and navigation like any other product, and do continual work and maintenance in this space so our site remains organizable and navigable.
-- Rethink how we approach prioritizing logged-in flows and navigation through the health apartment work.
+- Rethink how we approach prioritizing task-based flows and navigation through the health apartment work.
 - Work more collaboratively across unauth and auth experiences, to consider flows through both instead of considering them as two separate experiences.
 
 ## User outcomes
