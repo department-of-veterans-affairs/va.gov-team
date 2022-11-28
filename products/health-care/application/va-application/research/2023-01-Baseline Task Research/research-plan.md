@@ -49,7 +49,7 @@ We will use the results from this research to establish a baseline for comparris
 ### Hypotheses
 - The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
 - The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
-- 
+- The baseline study will show that the current household information section is 
 
 
 ## Method	
@@ -57,7 +57,7 @@ We will use the results from this research to establish a baseline for comparris
 - Post-task and post-testing participant questions
 
 
-### --
+### Baseline Measurement
 Determine a list of tasks and standardize how they are asked repeatedly from research session to session to begin gauging sentiment over time with design and content iterations. 
 
 
@@ -96,7 +96,7 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-The intended audience for this research Veterans and Service Members. 
+The intended audience for this research Veterans, Service Members and Caregivers. 
 
 
 ### Recruitment approach
@@ -268,7 +268,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 
-mid-January 2023
+January 2023
 
 
 ### Prepare
