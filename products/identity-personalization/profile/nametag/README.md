@@ -9,7 +9,7 @@
 **Show**
 
 - If someone is LOA3 (except when there are MPI errors or legal name endpoint does not load - use cases listed below).
-- If someone is LOA3 but the Profile is blocked (fiduciary flag/marked as incompetent/deceased)
+- If someone is LOA3 but the Profile is blocked (fiduciary flag/marked as incompetent/deceased).
 
 **Do not show**
 
