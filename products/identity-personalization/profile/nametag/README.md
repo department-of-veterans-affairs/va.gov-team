@@ -9,6 +9,7 @@
 **Show**
 
 - If someone is LOA3 (except when there are MPI errors or legal name endpoint does not load - use cases listed below).
+- If someone is LOA3 but the Profile is blocked (fiduciary flag/marked as incompetent/deceased)
 
 **Do not show**
 
@@ -76,6 +77,9 @@
 
 - Do not display nametag.
 
-**State 3: Blocked Profile (fiduciary flag/marked as incompetent/deceased)**
+----
 
-- Show nametag with all available user data.
+### Blocked Profile (fiduciary flag/marked as incompetent/deceased)
+
+- Show nametag with all available user data. 
+- Same as standard LOA3 use cases. 
