@@ -146,10 +146,10 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 ## Primary Task 3: Adding dependents - 5 minutes
 - Now that you have completed your spouse's information, please answer the question on this page and proceed. 
 - (When selected yes) Complete the questions about your first dependent.
-- For this scenario, you have multiple children. How would you add them to this application?
 
-[**Participant prompt info if needed**]
-- [Two children. Billy is 14 years old and Sarah is 19.]
+- For this testing scenario, imagine you have multiple children. How would you add them to this application?
+
+
 
 **Participant questions:**
 - What worked well for you?
