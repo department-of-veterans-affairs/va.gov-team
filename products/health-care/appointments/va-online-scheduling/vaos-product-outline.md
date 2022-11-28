@@ -34,28 +34,26 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 ### Objectives / Key results (OKRs) / Key Performance Indicators (KPIs)
 
-Google Data Studio - VAOS OKRs
-https://datastudio.google.com/reporting/c5241d40-3786-4b4a-bdda-247c5e32fc60/page/p_qpdl4337qc
+[Google Data Studio - VAOS OKRs](https://datastudio.google.com/reporting/c5241d40-3786-4b4a-bdda-247c5e32fc60/page/p_qpdl4337qc)
 
-## OBJECTIVE 1: Increase appointments successfully requested or scheduled.
+### OBJECTIVE 1: Increase appointments successfully requested or scheduled.
 - **KR** - Increase completion rate to 50% or above (previous baseline was 35% for initial rollout)
   - **KPI** - Converion Rate - Number of appointments started and completed
 - **KR** - Increase scheduling submission success rate to 99%
   - **KPI** - Submission Rate - Number of appointments successfully sumbmitted
 
-## OBJECTIVE 2: Increase number of Online transactions. 
+### OBJECTIVE 2: Increase number of Online transactions. 
 - **KR** - Increase number of scheduling transactions by x%
   - **KPI** - New appointment transactions (VA Request/VA Direct/CC Request)
   - **KPI** - Canceled appointments
 - **KR** - Increase number of appointment pageviews by x%
   - **KPI** - All Pageviews (Upcoming/Past/Requested/Canceled/VA Details/CC Details)
 
-## OBJECTIVE 3: Improve the usability of VA Online Scheduling.
+### OBJECTIVE 3: Improve the usability of VA Online Scheduling.
 - **KR** - Increase number of users who access VA online scheduling by x%
   - **KPI** - Number of Veterans who log in / access VAOS
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
