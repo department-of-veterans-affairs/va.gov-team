@@ -8,31 +8,17 @@ Does the feature you are working on moderately or significantly affect the Veter
 - _YES_
 
 Does the feature you are working on change the structure of the underlying data?
-- _YES - links and promo content on the existing/current homepage is hard coded on the front end but will draws from Drupal as the source of truth in the redesigned experience_
+- _YES - links and promo content on the existing/current homepage is hard coded on the front end but will draw from Drupal as the source of truth in the redesigned experience_
 
 Does the feature's backend or downstream interactions change? 
-- _NO_
+- _YES - The frontend will call Drupal for the information_
 
 Is this a brand new experience for a Veteran?
 - _NO_
 
-The team should develop this plan in parallel with the development of the feature your team is creating.
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
-
----
-
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
-
-| Toggle name | Description | Issue
+| Feature Toggle name | Description | Issue
 | ----------- | ----------- | ----------- |
 | [_TBD_] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
 |[_feature_homepage_v2: FEATURE_HOMEPAGE_V2_] | CMS feature flag/config setting controls the new homepage design deployment to Prod | [#10965](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10965)
@@ -50,172 +36,46 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
-## Step 3: Soft launch
-Rather than a staged roll-out, the redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch.
-
-Two options were evaluated during a design, accessibility and implementation discussion
-
-- a banner, allowing a user to move between the existing and new experiences
-- a pop-up modal allowing a user to "opt in" to the new experience. The modal was determined to be the preferred approach.
-
-<details>
-<summary> Pros/cons for banners and modals </summary>
-
-Banners
- - (+) avoid the risk of stacking modals
- - (-) could unintentionally introduce user distrust 
- - (-) would create an escape route preventing data and feedback collection
- - (+/-) banners are less prominent 
- - (-) banner blindness
-Modal
- - (-) stacking risk presents usability and accessibility concerns 
- - (+) prominent display
- - (+) making it dismissible will manage annoyance factor and various user flows
-</details>
-
-**Expected behavior**
-
-- The redesigned experience modal is presented only on the VA.gov homepage.
-- A Veteran or beneficiary can interact with the modal to agree or decline to use the redesigned homepage.
-- The modal offering the redesigned homepage experience displays only once within a user's session.
-- Regardless of previous opt-in or decline, the modal will be presented during the user's next session (which includes the homepage).
-- If the Veteran or beneficiary opts-in to the redesigned homepage experience, the redesigned page opens in the same window and tab.
-- The Veteran or beneficiary can return to the current homepage by using the VA logo and/or back button. The breadcrumb may also be an option, depending on the page.
-- Focus management and experience via keyboard, voice or screenreader will follow patterns established by other modals in use across VA.gov.
-
-_Acceptable known risk: Veterans or beneficiaries who opt-in to the redesigned experience may not be able to easily return to the redesigned page after navigating to deeper content pages. The user may be able to return to the redesigned page using the back button. This user will have another opportunity to opt-in from the homepage during the next VA.gov session._
-
-- This modal will use an existing pattern and the engineering team will conduct [Discovery for the soft launch modal](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/11587) to resolve any pending implementation questions. 
-
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
+> The opt-in modal will be governed by a [feature toggle - #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653). We will monitor the deployment for unexpected behavior. By turning off the modal, we can prevent Veterans and beneficiaries from being directed to the redesigned experience.  
 
-> The opt-in modal will be governed by a feature toggle. We will monitor the deployment for unexpected behavior. By turning off the moda, we can prevent the redesigned user experience from being "advertised" or redirecting users to the page. 
-> [Create flipper for exposing the modal on live homepage #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653)
 > [VA-CMS Incident Response Procedure Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: Moderated production testing during Soft launch period
+
+Rather than a staged roll-out, the redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. Two options were evaluated during a design, accessibility and implementation discussion. The modal was chosen as the preferred approach over a banner. 
+
+More information about this soft launch is available in the [Launch planning section of the initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#soft-launch). 
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
-#### Results
-
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
-
-### Phase II: Staged Rollout (also known as unmoderated production testing)
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
-
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
-
-### Stage A: Canary
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Desired date range or test duration: _Beginning mid-December 2022_ 
+- Desired number of users: [_TBD_]
+- How you'll recruit the right production test users: _via Opt-in_
+- How you'll conduct the testing: _by monitoring analytics and feedback scores_
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: _opt-in modal displayed on existing/current homepage_ 
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:[Cutover criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) 
+- Links to the dashboard(s) showing "success criteria" metrics: [_TBD_] with link to dashboards (example: Google Analytics dashboard)
+- Who is monitoring the dashboard(s)?: _Michelle Middaugh_
 
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Metrics at this stage (per your "success criteria"):[Cutover criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) 
 
-### Stage B: 25% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage C: 50% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+|	Metric	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number / % of users)	|	Target  | Soft launch measurement   |
+|	---	|	---	|	---	|	--- 
+| Veteran/beneficiary views | | ||
+|	Use of authenticated experience	|	3,701,932 / 41.44%	|	50% | |
+|	"Message your doctor or get a health care message" task completion | 587,173 / 6.57% 	|	 | |
+|	"Download your benefit letters" task completion |	508,591 / 5.71%	|	 | |
+|"Apply for education benefits" task completion  | 198,762 / 2.22%		|	 | |
+|	User engagement - promo content #1  |	6 / <0.01%	|Increased | |		
+|	User engagement - promo content #2 | 	0 / 0%		|Increased	 | |	
+|	User engagement - promo content #3 | 	6 / <0.01% | Increased | | 
+| Satisfaction score | | new homepage satisfaction scores are equivalent or better than existing page		|	 | |
+ 
 
 ## Post Launch metrics
 
@@ -223,10 +83,18 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+|	Metric	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number / % of users)	|	Target  | 1 week  |
+|	---	|	---	|	---	|	--- 
+| Veteran/beneficiary views | | ||
+|	Use of authenticated experience	|	3,701,932 / 41.44%	|	50% | |
+|	"Message your doctor or get a health care message" task completion | 587,173 / 6.57% 	|	 | |
+|	"Download your benefit letters" task completion |	508,591 / 5.71%	|	 | |
+|"Apply for education benefits" task completion  | 198,762 / 2.22%		|	 | |
+|	User engagement - promo content #1  |	6 / <0.01%	|Increased | |		
+|	User engagement - promo content #2 | 	0 / 0%		|Increased	 | |	
+|	User engagement - promo content #3 | 	6 / <0.01% | Increased | | 
+| Satisfaction score | | new homepage satisfaction scores are equivalent or better than existing page		|	 | |
+
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -234,10 +102,18 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-month results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+|	Metric	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number / % of users)	|	Target  | 1 month  |
+|	---	|	---	|	---	|	--- 
+| Veteran/beneficiary views | | ||
+|	Use of authenticated experience	|	3,701,932 / 41.44%	|	50% | |
+|	"Message your doctor or get a health care message" task completion | 587,173 / 6.57% 	|	 | |
+|	"Download your benefit letters" task completion |	508,591 / 5.71%	|	 | |
+|"Apply for education benefits" task completion  | 198,762 / 2.22%		|	 | |
+|	User engagement - promo content #1  |	6 / <0.01%	|Increased | |		
+|	User engagement - promo content #2 | 	0 / 0%		|Increased	 | |	
+|	User engagement - promo content #3 | 	6 / <0.01% | Increased | | 
+| Satisfaction score | | new homepage satisfaction scores are equivalent or better than existing page		|	 | |
+
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
