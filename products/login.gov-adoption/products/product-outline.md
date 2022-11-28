@@ -24,7 +24,7 @@ Additionally, there is not a unified definition for each of the non-Veteran cust
 Top-level strategic priorities:
 - messaging to increase proactive Login.gov adoption
 - transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing”
-- providing support with a human touch to facilitate the migration – in-person proofing capabilities at VAMCs (VA Medical Centers)
+- providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
 - shared access for non-Veteran users on VA.gov
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
 
