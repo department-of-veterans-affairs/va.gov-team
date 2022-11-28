@@ -60,8 +60,8 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 
-[Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
-[Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
+- [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
+- [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 
 
 
@@ -213,6 +213,9 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
 
 [Study Specific]
+
+- Thinking back on the question about the first page you saw and you rated it a [x on a scale of 1-5 (1 being non very poorly and 5 being very well)], would you keep or change that rating after going through this prototype? Why?
+
 - What are your thoughts on the order of the questions as they were presented in the prototype? Did anything surprise you?
 - Did you feel there was not enough explanation given for the questions, too much or was just about right?
 - Do you have multiple dependents and if so, is there an application experience, good or bad, that stands out in your mind you can tell us more about?
