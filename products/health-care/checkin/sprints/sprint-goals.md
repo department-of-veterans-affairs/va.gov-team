@@ -44,15 +44,17 @@
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
-- [Spanish Support - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43505)
-    - Add translations
-    - Send QA screenshots to SD (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (all)
     - Perform accessibility testing (all)
+- [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Implement the new simplified header & footer
 - CIE Tech Debt & Bugs
-    - ??????
-
+    - [Update Staging Tool to Honor the Change in the Early Guardrail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49968)
+    - [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
+    - [[SPIKE] Brainstorm Delivering Login/General Errors Up the Chain to Staff-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44360)
+    - [Remove LoROTA api_key from vets-api config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49533)    - 
+    
 
 ## 11/16/2022 - 11/29/2022 
 
