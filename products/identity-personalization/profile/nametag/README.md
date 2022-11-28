@@ -67,7 +67,7 @@
 
 ----
 
-### Identity verification & blocked Profile (Account security)
+### Identity verification (Account security)
 
 **State 1: Error state - Not in MPI**
 
@@ -79,7 +79,7 @@
 
 ----
 
-### Blocked Profile (fiduciary flag/marked as incompetent/deceased)
+### Blocked Profile - fiduciary flag/marked as incompetent/deceased
 
 - Show nametag with all available user data. 
 - Same as standard LOA3 use cases. 
