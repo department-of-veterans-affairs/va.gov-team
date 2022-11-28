@@ -77,7 +77,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 |KPI/metric|Post-launch: [one-month post launch to 100%]| Post-launch: [second month post-launch to 100%]|
 |----------|---------------|-------------------|
-|Clicks of debt notification on My VA|TBD|TBD|
+|Clicks of debt notification on My VA| 3,881 |TBD|
 
 ## Solution approach
 
