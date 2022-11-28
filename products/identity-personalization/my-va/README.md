@@ -72,7 +72,7 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 
 ### "Nametag"
 
-- The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
+- The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's full name as well as military branch and disability rating, if applicable.
 - **Backend system**: MPI for full name; eMIS for military information.
 
 ### Disability rating
