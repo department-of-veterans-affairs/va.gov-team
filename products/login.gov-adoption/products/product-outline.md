@@ -14,7 +14,7 @@
 
 ## Overview
 
-Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion.The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. (for more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/charter.md). This product outline goes into detail around the goals, thinking, and metrics that guide our work.  
+Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion.The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. (for more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md). This product outline goes into detail around the goals, thinking, and metrics that guide our work.  
 
 ## User problem statements 
 
