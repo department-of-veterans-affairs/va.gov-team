@@ -10,11 +10,10 @@ VA will deliver self-service tools on par with top private sector companies and 
 <br>**Our Mission:** Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families
 
 This will be achieved through multiple initiatives:
-- in-person proofing capabilities at VAMCs (VA Medical Centers)
+- messaging to increase proactive login.gov adoption
 - transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing”
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
-- messaging to increase proactive login.gov adoption
-- providing support with a human touch to facilitate the migration
+- providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
 
 ### Vision
 
