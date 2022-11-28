@@ -23,7 +23,7 @@ Content here will grow over time. Below are links to our currently-available doc
 
 [Manual-UI Testing process](manual-ui-testing-process.md) (for Platform Staging Reviews)
 
-[Capacity & Tasks](ptems-qa-tasks-capacity.md)
+[Capacity & Tasks](qa-tasks-capacity.md)
 
 [Test Cases](ptems-qa-test-cases.md)
 
