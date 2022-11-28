@@ -20,6 +20,8 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 Additionally, there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
+Finally, the TAP curriculum is out-of-date when it comes to login for VA services and benefits. It should be updated to remove DS Logon and encourage users to use Login.gov from the start.
+
 ## Priorities
 Top-level strategic priorities:
 - messaging to increase proactive Login.gov adoption
