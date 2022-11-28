@@ -1,4 +1,25 @@
 # Health apartment biweekly design sync
+## 2022-11-28
+
+## Attendees
+- 
+
+## Agenda
+   - MR discovery research readout 
+   - Questions
+
+
+## Notes
+
+**MR discovery research readout** 
+- Robyn and Jonathan presented reserach in meeting (research conducted by Coulton Bunny and Jenny Wang) 
+
+- Alex - Asked if it was always 36 hour hold 
+- Yes, it is 
+
+- Alex - Make sure you really examine the APIs and all the use cases 
+
+# Health apartment biweekly design sync
 ## 2022-10-31
 
 ## Attendees
