@@ -4,9 +4,10 @@
 
 ### Table of contents
 - [Overview](#overview)
-- [Product vision](#product-vision)
+- [Priorities](#priorities)
+- [Vision](#vision)
 - [User problem statements](#user-problem-statements) 
-- [Desired User Outcomes](#desired-user-outcomes)
+- [Desired user outcomes](#desired-user-outcomes)
 - [Business goals](#business-goals) 
 - [Questions](#questions) 
 - [Assumptions](#assumptions) 
@@ -19,17 +20,17 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 Currently, there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
-This will be achieved through multiple initiatives:
+## Priorities
+Top-level strategic priorities:
 - messaging to increase proactive login.gov adoption
 - transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing”
 - providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
-- 
+- shared access for non-Veteran customers on VA.gov
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
-
 
 For more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
 
-## Product Vision
+## Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
 - Veteran users that cannot identity proof through Login.gov will be able to visit an MHV Coordinator to do so or have a remote video option.
 - Veteran users that are already visiting MHV coordinators regularly will be guided to create a Login.gov account and proof in person with coordinators.
