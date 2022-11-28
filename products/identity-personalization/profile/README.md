@@ -52,7 +52,7 @@ Currently, the VA.gov profile supports the following information:
 
 [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag): The VA.gov Profile shares the nametag with My VA.
 - The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
-- **Backend system:** MPI for full name; eMIS for military information.
+- **Backend system:** MPI for full name; eMIS for military information; EVSS for disability rating (disability rating parent tool: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)).
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
