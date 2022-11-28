@@ -47,9 +47,9 @@ We will use the results from this research to establish a baseline for comparris
 
 
 ### Hypotheses
-- The baseline study 
-- will help establis the findings and pain points from past studies are still consistently an issue with participants in this study. 
-- The baseline study
+- The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
+- The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
+- 
 
 
 ## Method	
