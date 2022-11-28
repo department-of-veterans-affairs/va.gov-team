@@ -50,6 +50,9 @@ Our mission is to:
 This work relates to these OCTO (Office of the Chief Technology Officer) objectives:
 - Veterans can manage their health services online
 - Veterans and their families trust the security accuracy and relevancy of VA.gov
+- Veterans can manage their account to a consolidated login
+- Veterans can decide the best CSP for their needs
+- Veterans and their families can apply for all benefits online
 
 ### North star objectives
 
