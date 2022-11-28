@@ -15,13 +15,24 @@ This will be achieved through multiple initiatives:
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
 - providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
 
-### Vision
+### Product Vision
 
 The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive. VA needs a streamlined way for Veterans to sign-in and securely access products and services.
 
-We will work towards:
-- one sign-on to access all products and services
-- Veteran choice of a “public” or “private” credential option for VA.gov
+**Vision**
+
+- One sign-on to access all products and services.
+- Veteran choice of “public” or “private” credential option for VA.gov
+
+**How**
+- Use human-centered design to consolidate ways to sign on to VA.gov
+- Migrate users to their choice of Login.gov and ID.me; robust, compliant credential solutions
+
+**Why**
+- Users are frustrated and confused because they must go to multiple websites for benefits
+- Multiple ways to sign on adds to the confusion
+- Current sign on options have usability, security, and compliance issues
+
 
 ### Mission 
 
