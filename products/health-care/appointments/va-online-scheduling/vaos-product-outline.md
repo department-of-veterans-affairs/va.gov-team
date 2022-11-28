@@ -1,23 +1,25 @@
-# VAOS Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
+# VA Online Scheduling (VAOS) Product Outline
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.  VAOS allows veterans to view upcoming and past appointments, directly schedule appointments, requests VA and Community Care appointments, and cancel appointments.
+
+The VAOS applicatoin running on VA.gov was released to Veterans in March 2020 through a phased rollout.  The tool was gradually released until 100 percent of veterans were using VAOS on VA.gov.  As of March 18, 2021 the VAOS application is fully availale to all veterans on VA.gov.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- VAOS is the first place veterans go to view and manage their VA appointments
+- Reduce confusion and simplify the appointment scheduling process for veterans
+- Create a seemless and positive experience for any Veteran who wants to schedule an appointment online
 
 ## Undesired User Outcomes
 
+- Veterans require knowledge of VA processes and rules in order to use VAOS
+- Veterans encounter dead ends and can't complete scheduling tasks using VAOS
+- Veterans require assistance or are frustrated when using VAOS
 
 ## Desired Business Outcomes
 
@@ -30,30 +32,30 @@
 ---
 ## Measuring Success
 
+### Objectives / Key results (OKRs) / Key Performance Indicators (KPIs)
 
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+Google Data Studio - VAOS OKRs
+https://datastudio.google.com/reporting/c5241d40-3786-4b4a-bdda-247c5e32fc60/page/p_qpdl4337qc
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+## OBJECTIVE 1: Increase appointments successfully requested or scheduled.
+- **KR** - Increase completion rate to 50% or above (previous baseline was 35% for initial rollout)
+  - **KPI** - Converion Rate - Number of appointments started and completed
+- **KR** - Increase scheduling submission success rate to 99%
+  - **KPI** - Submission Rate - Number of appointments successfully sumbmitted
+
+## OBJECTIVE 2: Increase number of Online transactions. 
+- **KR** - Increase number of scheduling transactions by x%
+  - **KPI** - New appointment transactions (VA Request/VA Direct/CC Request)
+  - **KPI** - Canceled appointments
+- **KR** - Increase number of appointment pageviews by x%
+  - **KPI** - All Pageviews (Upcoming/Past/Requested/Canceled/VA Details/CC Details)
+
+## OBJECTIVE 3: Improve the usability of VA Online Scheduling.
+- **KR** - Increase number of users who access VA online scheduling by x%
+  - **KPI** - Number of Veterans who log in / access VAOS
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
-
----
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
