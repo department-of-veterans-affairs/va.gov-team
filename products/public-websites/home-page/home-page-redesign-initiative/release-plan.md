@@ -8,7 +8,7 @@ Does the feature you are working on moderately or significantly affect the Veter
 - _YES_
 
 Does the feature you are working on change the structure of the underlying data?
-- _YES - links and promo content on the existing/current homepage is hard coded on the front end but will draw from Drupal as the source of truth in the redesigned experience_
+- _YES - links and promo content on the existing/current homepage are hard coded on the front end but will draw from Drupal as the source of truth in the redesigned experience_
 
 Does the feature's backend or downstream interactions change? 
 - _YES - The frontend will call Drupal for the information_
