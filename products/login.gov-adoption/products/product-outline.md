@@ -18,7 +18,7 @@
 ## Overview
 Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
 
-Currently, there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
+Additionally, there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
 ## Priorities
 Top-level strategic priorities:
