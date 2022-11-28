@@ -20,10 +20,11 @@
   * Have a fix in, API has been stable for several weeks
   * Working to identify addtional monitoring
   * Ready to start making changes - have 4 or 5 branches ready to add
-  * Looking at Q1  
+  * Once branches are merged over next few weeks, looking at Q1 for v1 roll out  
 * Next week: Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
 * Mental health phone numbers
   * DS pursuing from J's latest report  
+  * Question is out: _What is the legal requirement if any?_
 * ATC data for Specialty Care Urgent vs Primary Care Urgent vs Urgent care??  [slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1664207051125879)
   * Seems to be a confusing UI text label issue 
 * KB Articles for support AI>>Joshua to provide 1st draft
