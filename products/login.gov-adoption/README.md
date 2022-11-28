@@ -1,4 +1,4 @@
-# Login.gov adoption at a glance
+# Login.gov Adoption at a glance
 
 **Last updated November 23, 2022**
 
