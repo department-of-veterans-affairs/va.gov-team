@@ -1,6 +1,6 @@
-# Login.gov adoption product outline 
+# Login.gov Adoption Product Outline 
 
-**Updated Nov 22, 2022**
+**Updated Nov 28, 2022**
 
 ### Table of contents
 - [Overview](#overview)
@@ -22,13 +22,13 @@ Additionally, there is not a unified definition for each of the non-Veteran cust
 
 ## Priorities
 Top-level strategic priorities:
-- messaging to increase proactive login.gov adoption
+- messaging to increase proactive Login.gov adoption
 - transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing”
-- providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
-- shared access for non-Veteran customers on VA.gov
+- providing support with a human touch to facilitate the migration – in-person proofing capabilities at VAMCs (VA Medical Centers)
+- shared access for non-Veteran users on VA.gov
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
 
-For more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
+For more on our vision and mission, see the [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
 
 ## Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
