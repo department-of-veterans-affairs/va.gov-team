@@ -108,7 +108,7 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new 'RED LIGHT URGENT' work request, contact the Product Manager and ask for help to work it into the sprint.
  
-#### Team Norms
+## Team Norms
 
 ### Shared principles
 
