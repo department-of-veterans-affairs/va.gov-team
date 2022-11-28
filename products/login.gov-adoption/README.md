@@ -9,7 +9,7 @@
 
 ## General team overview
 
-### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/charter.md)
+### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
 ### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product-outline.md)
 
 ### Discovery team
