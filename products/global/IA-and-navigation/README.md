@@ -59,7 +59,18 @@ We have opportunities to:
 
 ### Desired user outcomes
 
+Veterans (including soon-to-be veterans), those involved in their care or benefit management, and those who receive benefits as a result of their relationship to a veteran should be able to:
+
+- Learn about new benefits they do not currently receive.
+- Manage existing benefits.
+- Get help if they are having trouble.
+
 ### Undesired user outcomes
+
+Undesired user outcomes for veterans (including soon-to-be veterans), those involved in their care or benefit management, and those who receive benefits as a result of their relationship to a veteran include:
+
+- Not being able to easily complete a task on VA.gov.
+- Not being able to get help when they need it.
 
 ## Business outcomes
 
