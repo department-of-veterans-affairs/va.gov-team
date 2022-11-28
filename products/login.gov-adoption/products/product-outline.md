@@ -28,7 +28,7 @@ Top-level strategic priorities:
 - shared access for non-Veteran users on VA.gov
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
 
-For more on our vision and mission, see the [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
+For more on our product vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
 
 ## Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
