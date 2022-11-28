@@ -18,7 +18,7 @@ Evidence of this problem includes:
      - Anecdotal evidence of duplicated applications, which cause additional review by CSC and Veterans are asked to re-apply
      - The overall abandonment rate for the 10-10CG is 32% over 4 months, compared to 23% for the 10-10EZ.  
           - We see a significant exit rate within the first Secondary Caregiver section, between the Identification (name, address) and the Contact info (Phone, email) pages. 
-          - There is a monthly average of 550+ applications (31%) that start the Secondary Caregiver section, but then exit the application before completing and moving on to the next section.  
+          - There is a monthly average of 550+ applications (31%) that start the Secondary Caregiver section, but then exit the application.  
           - This exit rate makes up about 12-13% of total applications started.
 
 ## Why is this work important to prioritize at this time/over other work?
