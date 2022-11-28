@@ -27,7 +27,12 @@ Unlike most features moving over to VA.gov, notification preferences will need t
 
 MHV features are moving over 1-by-1 to VA.gov. This presents a challenge with notification preferences: we'll likely only need to support 1 or maybe 2 new preferences at a time as features migrate (eg. having a secure messages alert preference once the secure messaging feature is live). However, in MHV, notification preferences are a whole feature, so we'll need to decide between moving all preferences over or having to retire one preference at a time.
 
+<details>
+  <summary>Click to expand for screenshot of MHV preferences</summary>
+
 ![MHV notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/MHV%20notification%20settings.jpeg)
+
+</details>
 
 ### The MHV team will have to help with this work
 
