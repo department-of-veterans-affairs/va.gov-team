@@ -47,9 +47,9 @@ Currently there are multiple ways to sign on and access VA services. These login
 ### Requirements
 
 - Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#vision).
-- Our work will put veterans first.
-- Our work will consider the full veteran experience — from logged out to logged in, from online to offline.
-- When we know information about veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
+- Our work will put Veterans first.
+- Our work will consider the full Veteran experience — from logged out to logged in, from online to offline.
+- When we know information about Veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
 - We will work to grow the design system so it better accomodates authenticated tools, flows, and use cases.
 
 ### Constraints
@@ -66,10 +66,10 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 Creating a cohesive logged-in experience will:
 
-- Help veterans complete tasks more quickly.
-- Increase veteran satisfaction with the VA.
+- Help Veterans complete tasks more quickly.
+- Increase Veteran satisfaction with the VA.
 - Reduce the need for multiple touchpoints (other VA websites; VA call centers).
-- Help veterans get benefits more quickly.
+- Help Veterans get benefits more quickly.
 
 ## KPIs 
 
