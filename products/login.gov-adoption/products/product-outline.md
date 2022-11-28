@@ -48,8 +48,9 @@ For more on our vision and mission, see the [Team charter](https://github.com/de
 
 ## Desired User Outcomes
 - A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying.
-- For MHV users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy MHV credential and maintain their access to services.
+- For Veteran users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy credentials and maintain their access to services.
 - For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
+- For Non-Veteran users, they will be provided with access to Vets' shared account data via their own accounts, which will allow them to provide superior care and support.
 
 ## Business Goals
 - Increase the speed of implementation of the CX EO, “the deprecation of outdated and duplicative credentials” represented by MHV and DS Logon.
@@ -57,6 +58,7 @@ For more on our vision and mission, see the [Team charter](https://github.com/de
 - The VA will no longer have to pay for DS Logon, MHV will not have to devote personnel to maintaining their credential
 - Reduced fraud
 - Increased user satisfaction
+- Unified definitions across administrations for each user role that we can apply to VA.gov
 
 ## Questions 
 
@@ -97,6 +99,7 @@ Creating a cohesive logged-in experience will:
 
 ## KPIs 
 
+- TBD 
 We can measure we have moved in the right direction by measuring logins on VA.gov, CSP usage, and Login.gov adoption counts.
 
 
