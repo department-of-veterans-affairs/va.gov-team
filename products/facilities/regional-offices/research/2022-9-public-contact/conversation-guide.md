@@ -31,12 +31,7 @@ When the participant is ready, turn on your camera and begin session with the in
 
 Thanks for joining us today. My name is Dave, I am a web designer for the VA. How are you doing today?
 
-My colleague [Blake/Jordan] is also with us to take notes as we talk.
-
-There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
-
-* *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
-* "These are my colleagues Adam, Brenda, and Chris. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk."
+My colleague [Blake/Jordan] is also with us to take notes as we talk. My colleague [NAME] is also here to listen in. I'm going to ask them to wave hello and then they will turn off their cameras to limit distractions while we talk.
 
 Today we're going to talk about VA Benefit Offices. We're trying to learn about Veterans' experiences with visiting these locations so we can build better websites for them.
 
@@ -48,6 +43,8 @@ Before we start, a few things I want to mention:
 *   **If for any reason and at any time you want to stop the session, please let me know.**
 *   This session will be recorded to ensure that I capture your opinions accurately. When we present the results of this research, none of your comments will be attributed to you directly. Are you comfortable if I record my screen and audio as we talk today?
     * If yes: Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.
+
+Just to confirm, are you comfortable if I record this session?
 
 ## Warm-up Questions - 2 min 
 
