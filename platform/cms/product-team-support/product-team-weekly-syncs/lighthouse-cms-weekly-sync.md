@@ -16,11 +16,20 @@
 
 ## Monday, November 28, 2022 
 * v1 status check
-* ATC data for Specialty Care Urgent vs Primary Care Urgent vs Urgent care??  [slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1664207051125879)
+  * Joshua - think we've identifed cauuse of latency, working on final post mortem notes, appears to be overall volume increase.
+  * Have a fix in, API has been stable for several weeks
+  * Working to identify addtional monitoring
+  * Ready to start making changes - have 4 or 5 branches ready to add
+  * Looking at Q1  
+* Next week: Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
 * Mental health phone numbers
   * DS pursuing from J's latest report  
+* ATC data for Specialty Care Urgent vs Primary Care Urgent vs Urgent care??  [slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1664207051125879)
+  * Seems to be a confusing UI text label issue 
 * KB Articles for support AI>>Joshua to provide 1st draft
-* Support Country Code
+  * Joshua provided, DS to review for next week's meeting, chat in Slack as necessary  
+* Support Country Code -> DS to move to Q1 
+  * Joshua put out request for some Country code to be added  
  
 
 ## Monday, November 21, 2022 
