@@ -47,7 +47,7 @@ Veterans and their Caregivers can quickly and easily submit the Caregiver applic
 
 
 |2022 Month|Total Applications|% with Primary|% with Secondary|
-|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+|------------|------------|------------|------------|------------|------------|
 |July|4,727|4,689|728| 99%|15%|
 |August|5,613|5,564|970|99%|17%|
 |September|6,961|6,911|1,186|99%|17%|
