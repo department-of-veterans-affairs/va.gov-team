@@ -7,7 +7,7 @@ Date: 11/28/2022
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
 
-This research summary is the result of a partial synthesis process. After the first four research interviews were conducted, we realized that we weren't getting the data that we now need. This research study was planned a while ago as broad discovery research on eligibility for VA health care, but now more focused research was desired to inform the design of a new income limits wizard. In addition, the participants recruited didn't fit the criteria that we requested in the research plan, and even if they had, they were in priority groups for which eligibility and income limits are not considered. We cancelled the 10 remaining interviews, and this topline report is a summary of what we learned from the four interviews.
+This research study was initially planned as broad discovery research on eligibility for VA health care. Following the first four research interviews, we realized the recruitment criteria did not identify participants who could provide the information needed to inform the design of a new income limits wizard as desired. We cancelled the 10 remaining interviews, and this topline report is a summary of what we learned from the four interviews.
 
 # Introduction
 The purpose of this research was to **learn about Veteran use cases for determining eligibility for VA health care**.
