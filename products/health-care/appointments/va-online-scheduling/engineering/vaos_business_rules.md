@@ -34,6 +34,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 ### Pending appointments
 - Includes VA and community care requests
 - Show canceled requests 120 days back
+- Sorted by date/time the request was created. Most recent requests appear at the top of the list.
 
 #### Community care requests
 - Veteran cannot cancel through VAOS.
