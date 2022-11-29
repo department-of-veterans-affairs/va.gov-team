@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Updated October 26, 2022**
+**Updated November 29, 2022**
 
 ## Current projects & enhancements
 
@@ -27,6 +27,7 @@
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Add DD214 link to military info page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48782)| November 22, 2022|
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|Launched completed October 24, 2022|
 |[Restricted character set for address fields to certain alphabetic and alphanumeric characters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45400)| August 2022|
 |[Re-integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme) |August 2022|
