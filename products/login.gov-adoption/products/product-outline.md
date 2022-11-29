@@ -107,7 +107,6 @@ Creating a cohesive logged-in experience will:
 
 ## KPIs 
 
-- TBD 
-We can measure we have moved in the right direction by measuring logins on VA.gov, CSP usage, and Login.gov adoption counts.
+- TBD ...We can measure we have moved in the right direction by measuring logins on VA.gov, CSP usage, and Login.gov adoption counts.
 
 
