@@ -49,11 +49,11 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 **Key result**: Gather baseline metrics for clicks into payment history and debt information on My VA.
  
-|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022 **Note: This is post the My VA redirect, which greatly increased traffic on My VA**|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| N/A|140,469|TBD|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| N/A|40,313|TBD|
-|Clicks to manage direct deposit ("[Manage your direct deposit](https://va.gov/profile/direct-deposit)")|N/A|39,567|TBD|
+|Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| N/A|140,469|391,684|
+|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| N/A|40,313|68,202|
+|Clicks to manage direct deposit ("[Manage your direct deposit](https://va.gov/profile/direct-deposit)")|N/A|39,567|81,339|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
@@ -61,17 +61,17 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 |KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history" from My VA (whichever comes first)| #1|#3|TBD|
-|Search rank for "debt” or "debt management" from My VA (whichever comes first)| #5 |#11|TBD|
-|Search rank for "direct deposit” from My VA (whichever comes first)|#3|#10|TBD|
+|Search rank for "payment” or "payment history" from My VA (whichever comes first)| #1|#3|#13|
+|Search rank for "debt” or "debt management" from My VA (whichever comes first)| #5 |#11|#25|
+|Search rank for "direct deposit” from My VA (whichever comes first)|#3|#10|#14|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
 |KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history" (whichever comes first)| #5|#15|TBD|
-|Search rank for "debt” or "debt management" (whichever comes first)| #8|#12|TBD|
-|Search rank for "direct deposit” (whichever comes first)| #2|#9|TBD|
+|Search rank for "payment” or "payment history" (whichever comes first)| #5|#15|#20|
+|Search rank for "debt” or "debt management" (whichever comes first)| #8|#12|#25|
+|Search rank for "direct deposit” (whichever comes first)| #2|#9|#12|
 
 </details>
 
