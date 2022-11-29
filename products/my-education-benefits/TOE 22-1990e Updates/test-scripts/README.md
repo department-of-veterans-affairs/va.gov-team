@@ -1,8 +1,7 @@
 ## Testing documentation
 
 ### Test scripts
-These are the test scripts that testers of the MEB follow for testing the UI and they have been exported from JIRA. The test scripts are:
-TBD
+These are the [test scenarios](./TOE-jira-test-plan.docx) that for enrollment verification testers. They have been exported from JIRA.
 
 ### Defect report
 - This is the list of [bugs](./TOE-bugs.csv) found during testing.
