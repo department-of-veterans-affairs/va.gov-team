@@ -118,9 +118,17 @@ This is a list of the current initiatives in progress or on the road map.
 
 ### Before
 
+- Original VAOS Appointment List view
+
+![image](https://user-images.githubusercontent.com/97117349/204657147-4b134465-356c-45fa-9c6e-e3045a32e0f1.png)
+
+- VAOS Appointment List view on VA.gov
+
 ![VAOS Old Appt List](https://user-images.githubusercontent.com/97117349/204638371-6fd63913-d86d-4ed4-8185-dcee9b18279d.png)
 
 ### After
+
+- Current VAOS Appointment List view
 
 ![VAOS Updated Appt List](https://user-images.githubusercontent.com/97117349/204637467-58add092-59da-491e-9119-7d5659f7459c.png)
 
