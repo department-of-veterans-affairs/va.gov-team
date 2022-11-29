@@ -41,16 +41,16 @@ Measuring Success
 -   Number of Veteran successfully connecting their PGD accounts to VA
 -   Time and effort to onboard a new device type
 
-### Objectives and Key Results (OKRs)
+### Objectives and Key Results (OKRs) [last updated 29 Nov 2022]
 
--   Design and document first iteration of MVP and post-MVP technical architecture by end of Q1 
--   Validate problem statement by interviewing at least 12 clinicians and 12 Veterans by end of Q1
--   Set up CI/CD pipeline and deploy non-prod data ingest to VA cloud by early Q2
--   Have a functioning consent flow integrated with VA.gov by end of Q2 in staging
--   Publish first draft of vendor integration playbook through early vendor integrations by end of Q2
--   Build interface that enables clinicians to view basic Veteran PGD by early Q3
--   Designs for a sustainable rapid integration framework that will support future vendors or devices by end of Q3
--   Complete initial Discovery on at least eight digital health products by end of Q3
+-   Design and document first iteration of MVP and post-MVP technical architecture by end of Q1  --> DONE
+-   Validate problem statement by interviewing at least 12 clinicians and 12 Veterans by end of Q1 --> DONE
+-   Set up CI/CD pipeline and deploy non-prod data ingest to VA cloud by early Q2 --> ON TRACK
+-   Have a functioning consent flow integrated with VA.gov by end of Q2 in staging --> DONE
+-   Publish first draft of vendor integration playbook through early vendor integrations by end of Q2 --> OFF TRACK. Moved from Q2 to Q3 during Aug RAG review, need to reprioritized. 
+-   Build interface that enables clinicians to view basic Veteran PGD by early Q3 --> ON TRACK.  Dev, Test, and Prod clinician UI Power BI reports completed. Need to point PBI reports in Test & Prod to Staging & Prod HDAP Data Lake.
+-   Designs for a sustainable rapid integration framework that will support future vendors or devices by end of Q3 --> DONE
+-   Complete initial Discovery on at least eight digital health products by end of Q3 --> IN PROGRESS/ON TRACK. Need addl vendors and/or devices.
 
 * * * * *
 
@@ -87,7 +87,7 @@ Our initial users will be care team members at various sites who actively engage
 Launch Dates
 ------------
 
-We are planning to launch in 2022.
+UPDATE: We are planning to launch in FY 2023, JAN.
 
 * * * * *
 
