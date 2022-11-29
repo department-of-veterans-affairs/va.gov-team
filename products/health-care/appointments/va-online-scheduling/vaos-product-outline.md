@@ -82,12 +82,10 @@ This is a list of the current initiatives in progress or on the road map.
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+- Original launch March 2020 (phased rollout)
+- March 18, 2021 - Enabled for 100% of veterans
+- July 29, 2022 - VAOS Service Community Care workflow in production (feature flags disabled)
+- December 1, 2022 - VAOS Service VA Request workflow in production (feature flags disabled)
 
 ---
 
@@ -97,9 +95,12 @@ This is a list of the current initiatives in progress or on the road map.
 
 ### Key Decisions
 
+[Key Decisions FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/decisions/decisions-faq.md)
 ---
    
 ## Screenshots
+
+[User Flow Diagram](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=sCpR1vUgIXPWrNMx-1)
 
 ### Before
 
@@ -111,10 +112,10 @@ This is a list of the current initiatives in progress or on the road map.
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: VAOS - VA Online Scheduling
+- GitHub Label: VAOS
+- Slack channel: [#vaos-team](https://dsva.slack.com/archives/CMNQT72LX), [#vaos-eng](https://dsva.slack.com/archives/CSCD0B1V3), [#vaos-alerts](https://dsva.slack.com/archives/C016QB6T340), [#vaos-engineering](https://dsva.slack.com/archives/C023EFZPX4K), 
+- Product POCs: [Jeff Roof - Sr. Product Manager](https://dsva.slack.com/archives/D02UD9VS3JP), [Leah De La Costa - Associate Product Manager](https://dsva.slack.com/archives/D02UF0RKQRK)
 - Stakeholders: 
 
 </details>
