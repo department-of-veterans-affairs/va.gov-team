@@ -1,6 +1,6 @@
 # Feature: Payment and debt info on the My VA dashboard
 
-Last updated September 26, 2022
+**Last updated: November 29, 2022**
 
 ### Communications
 
@@ -243,7 +243,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
  </details>
  
  
-### V2: Updating payments and debts to address usability issues (May 2022 - current)
+### V2: Updating payments and debts to address usability issues (May 2022 - December 2022)
 
 <details>  <summary>V2</summary>  
  
@@ -263,7 +263,9 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Aug 2022: FE documentation; FE build begins
 - Sept 2022: Finish FE build; UAT planning
 - Oct 2022: QA; Analytics request; Staging review; UAT
-- Nov 2022: Launch
+- Nov 29, 2022: Launch to 25%
+- Dec X, 2022: Launch to 50%
+- Dec X, 2022: Launch to 100%
  
 </details> 
 
