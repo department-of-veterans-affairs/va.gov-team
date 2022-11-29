@@ -12,8 +12,11 @@ When an account is blocked, we show an alert on the account security page. The o
 ## UX
 - When a user with a blocked account navigates to profile, they’ll only see the Account Security page; no other pages in profile are available from the profile navigation menu.
 - If they click a URL that leads directly to any specific page under `/profile/` they're redirected to `/profile/account-security`.
+- Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system
+- Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 - [Desktop mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/vqA79n/a/PG4Pm2j)
 - [Mobile mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/g09lryk)
+
 
 ## How to reproduce
 1. Log into staging with any of the following users:
