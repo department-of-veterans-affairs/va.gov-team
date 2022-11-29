@@ -1,4 +1,5 @@
 ## Midpoint Review Notes - November 28, 2022
+
 #### [Collab Cycle Ticket #47766](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/47766)
 
 **Design**
