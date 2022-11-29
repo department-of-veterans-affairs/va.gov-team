@@ -17,7 +17,7 @@ The application can be found at [https://staging.va.gov/education/verify-school-
 
 ### QA Test plan
 - [QA Test plan and test resultsTBD]
-- [Axe tool results](./axeDt-reports.zip) (zip file file download)
+- [Axe tool results](./test-scripts/axeDt-reports.zip) (zip file file download)
 
 ### Test Reports
 TBD
