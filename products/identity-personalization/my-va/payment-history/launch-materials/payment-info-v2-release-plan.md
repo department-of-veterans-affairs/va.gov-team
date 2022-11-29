@@ -30,17 +30,17 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 
 ### Results:
 - **Number of users:**
-     - n scheduled, n completed 
+     - 12 scheduled, 6 completed (1 pilot, 4 standard sessions, 1 internal user to validate copays)
 - **Number of bugs identified / fixed:**
-     - n
+     - 0
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
+     - none
 
 ## Phase II: Staged Rollout
 
 ### Planning
 **Launch Go/No-go:** 
-- Completed mm/dd/yyyy
+- Completed 11/29/2022
 - Launch go/no-go ticket: [#47236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47236)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/launch-materials/payment-history-v2-launch-readiness.md)
 
@@ -60,16 +60,16 @@ This initiative is also commonly referred to as "payment info v2" or "payment hi
 ## Go Live!
 
 ### Planning:
-|Launch % |Desired Date | Actual Date | 
+|Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 11/29/2022 | mm/dd/yyyy |
+| Launch to 25% | 11/29/2022 | _11/29/2022_ |
 | Launch to 50% | 12/6/2022 | mm/dd/yyyy |
 | Launch to 100% | 12/13/2022 | mm/dd/yyyy |
 
 [**v2 success metrics**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---current)
  
 ### 1-week results (at 100%):
-- **Number of unique users:**
+- **Number of unique users :**
      - ...
 - **Any issues with VA handling/processing?**
      - ...
