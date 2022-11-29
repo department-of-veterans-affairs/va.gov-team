@@ -65,20 +65,20 @@
 ## 11/16/2022 - 11/29/2022 
 
 #### Planned Releases 
-- [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
+- RELEASED [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - RELEASE DATE IS PLANNED FOR 11/29
 
 #### Analytics Sprint Goals
-- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen) 
-- [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
-- [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
-- [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
-- [Investigate low pre-check-in completion percentages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49704) (Adrian)    
-- [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
+- DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen) 
+- ROLLOVER [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
+- ROLLOVER [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
+- ROLLOVER [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
+- DONE [Investigate low pre-check-in completion percentages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49704) (Adrian)    
+- ROLLOVER [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
   
 #### UX Sprint Goals 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Update product artifacts (Kelly)
+    - DONE Update product artifacts (Kelly)
     - DONE Let Randi know so she can publish the resource page (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update product artifacts (get them ready but do not publish) (Kelly)
@@ -86,27 +86,26 @@
     - Add GA Events (Ben)
 - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) (Kelly)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Start final wireframes (Zach/Kelly)
+    - DONE Start final wireframes (Zach/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - Convert Research Plan to remote study (Ben)
-    - Start conversation guide (Ben)
-    - Define Content for SMS Confirmation Message with Claim Number
+    - DONE Start conversation guide (Ben)
+    - DONE Define Content for SMS Confirmation Message with Claim Number
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Hold design intent review 
+    - DONE Hold design intent review 
 
 #### Engineering Sprint Goals 
-- [Production Support]() 
+- DONE [Production Support]() 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete 
-    - Ensure that eCheck-in check-in times honor the new early guardrail
+    - DONE Ensure that pre-checkin messages are shown at the correct time after PCI/API work is complete 
+    - DONE Ensure that eCheck-in check-in times honor the new early guardrail
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Wire up FE and BE
+    - DONE Wire up FE and BE
     - Perform functional testing (all)
     - Perform accessibility testing (all)
 - CIE Tech Debt & Bugs
     - DONE Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
-    - [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
-    - [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
+    - DONE [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
+    - DONE [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
     - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
     - [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
     - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
