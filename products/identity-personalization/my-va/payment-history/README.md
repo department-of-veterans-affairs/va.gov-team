@@ -46,10 +46,12 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 **Note that we launched the My VA redirect in September 2022, which significantly increased all interactions on My VA** 
 
 ### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
+ 
+ [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
 
 **Key result**: Gather baseline metrics for clicks into payment history and debt information on My VA.
  
-|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022 **Note: This is post the My VA redirect, which greatly increased traffic on My VA**|
+|KPI/metric|Baseline: Q1 2022|Post-launch: May - July 2022| Post-launch: Aug - Oct 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| N/A|140,469|391,684|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| N/A|40,313|68,202|
