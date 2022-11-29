@@ -2,9 +2,9 @@
 ---
 
 ## Overview
-VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.  VAOS allows veterans to view upcoming and past appointments, directly schedule appointments, requests VA and Community Care appointments, and cancel appointments.
+VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.  VAOS allows veterans to view upcoming, pending and past and canceled appointments, directly schedule appointments, submit a request for VA and Community Care appointments, and cancel appointments/requests.
 
-The VAOS applicatoin running on VA.gov was released to Veterans in March 2020 through a phased rollout.  The tool was gradually released until 100 percent of veterans were using VAOS on VA.gov.  As of March 18, 2021 the VAOS application is fully availale to all veterans on VA.gov.
+The VAOS application running on VA.gov was released to Veterans in March 2020 through a phased rollout.  The tool was gradually released until 100 percent of Veterans were using VAOS on VA.gov.  As of March 18, 2021 the VAOS application is fully availale to all Veterans on VA.gov.
 
 ## Problem Statement
 A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
