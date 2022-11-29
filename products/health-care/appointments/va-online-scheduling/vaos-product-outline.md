@@ -115,7 +115,9 @@ This is a list of the current initiatives in progress or on the road map.
 - Team Name: VAOS - VA Online Scheduling
 - GitHub Label: vaos
 - Slack channel: [#vaos-team](https://dsva.slack.com/archives/CMNQT72LX), [#vaos-eng](https://dsva.slack.com/archives/CSCD0B1V3), [#vaos-alerts](https://dsva.slack.com/archives/C016QB6T340), [#vaos-engineering](https://dsva.slack.com/archives/C023EFZPX4K), 
-- Product POCs: [Jeff Roof, Sr. Product Manager](https://dsva.slack.com/archives/D02UD9VS3JP), [Leah De La Costa, Associate Product Manager](https://dsva.slack.com/archives/D02UF0RKQRK)
+- Product POCs: 
+  - [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP), Sr. Product Manager 
+  - [Leah De La Costa](https://dsva.slack.com/archives/D02UF0RKQRK), Associate Product Manager
 - Stakeholders: 
 
 </details>
@@ -125,6 +127,7 @@ This is a list of the current initiatives in progress or on the road map.
 <details>
  
  - DEPO Lead: 
+   - [Kay Lawyer](https://dsva.slack.com/archives/D0386DE3B8C), Health Products- Office of CTO
  - PM: 
    - [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
    - [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
