@@ -14,7 +14,7 @@ TBD
 - The application can be accessed directly at https://education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e
 
 ### Testing accounts
-- To get access to accounts that have matching records on DGIB so you can test MEB, please contact Cesar Santiago at VA.gov slack channel.
+- To get access to accounts that have matching records on DGIB so you can test TOE, please contact Cesar Santiago at VA.gov slack channel.
 
 ### Testing contacts
 - MEB Lead: Cesar Santiago @ VA.gov Slack channel
