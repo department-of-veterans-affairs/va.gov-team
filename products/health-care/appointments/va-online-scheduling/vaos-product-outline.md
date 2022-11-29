@@ -66,7 +66,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+This is a list of the current initiatives in progress or on the road map.
 
 - VAOS Service Integration | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/vaos-service-integration/vaos-service-integration-initiative-brief.md)
 - Appointment List Redesign | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/ininitiative-brief-appointment-list.md)
