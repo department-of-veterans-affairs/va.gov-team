@@ -122,7 +122,7 @@ This is a list of the current initiatives in progress or on the road map.
 
 ![image](https://user-images.githubusercontent.com/97117349/204657147-4b134465-356c-45fa-9c6e-e3045a32e0f1.png)
 
-- VAOS Appointment List view on VA.gov
+- Initial VAOS Appointment List view on VA.gov
 
 ![VAOS Old Appt List](https://user-images.githubusercontent.com/97117349/204638371-6fd63913-d86d-4ed4-8185-dcee9b18279d.png)
 
