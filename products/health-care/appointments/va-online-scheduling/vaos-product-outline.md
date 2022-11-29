@@ -42,6 +42,8 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - **KR** - Increase scheduling submission success rate to 99%
   - **KPI** - Submission Rate - Number of appointments successfully sumbmitted
 
+![image](https://user-images.githubusercontent.com/97117349/204655179-8bf2953d-c740-44b7-a13d-a3e495b2cdba.png)
+
 ### OBJECTIVE 2: Increase number of Online transactions. 
 - **KR** - Increase number of scheduling transactions by x%
   - **KPI** - New appointment transactions (VA Request/VA Direct/CC Request)
@@ -49,9 +51,13 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - **KR** - Increase number of appointment pageviews by x%
   - **KPI** - All Pageviews (Upcoming/Past/Requested/Canceled/VA Details/CC Details)
 
+![image](https://user-images.githubusercontent.com/97117349/204655496-5842fc70-fc1b-449a-b6b9-0075e681a66d.png)
+
 ### OBJECTIVE 3: Improve the usability of VA Online Scheduling.
 - **KR** - Increase number of users who access VA online scheduling by x%
   - **KPI** - Number of Veterans who log in / access VAOS
+
+![image](https://user-images.githubusercontent.com/97117349/204655641-26b05c32-a5b9-4868-b1de-021eec8399d8.png)
 
 #### Baseline KPI Values
 
