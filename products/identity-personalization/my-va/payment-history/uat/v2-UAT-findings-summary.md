@@ -1,0 +1,33 @@
+# Payment Info v2 UAT Findings Summary
+
+## Who we talked to
+* Completed veteran session demographics:
+	* 72yo white man, desktop, urban, no AT
+	* 78yo white man, desktop, rural, screen reader user
+	* 63yo white woman, mobile, rural, no AT
+	* 46yo white woman, mobile, urban, no AT
+* 4 out of 15 were completed sessions
+
+## Research Questions and Outcomes
+1. Does the functionality work as expected?
+  * Yes. 4 out of 4 users said the information displayed for their debts and payments was accurate and all links went to the expected places.
+  
+2. Are Veterans able to take action on their payment or debt information without any usability hurdles?
+  * Yes. 4 out of 4 users were able to use the action links as intended. This includes our one screen reader user who was easily able to tell where there was an actionable link.
+  
+3. Has the elimination of red and green colors decreased the scannability of the page?
+  * No. 4 out of 4 users noticed the debts and payments sections and were able to tell the difference between them without the use of color.
+  
+4. Is any of the copy confusing to users?
+  * No. We didn't hear any participants say they were confused about debt, overpayments, benefit payments, or any other new terminology in these sections. We did have one user who couldn't complete the session who didn't associate copays as debts, which we have heard in the past from roughly half of the veterans we have talked to. 
+
+## Bugs
+* None
+
+## Other findings
+
+**Research study setup**
+* We encountered a lot of issues with no-shows, users who could not successfully log in to VA.gov, and users who were LOA1.
+* Although about 25% no-shows are expected in a given study, there are reasons for the unsuccessful logins and LOA1 users:
+  * The criteria that a user must be able to log in to VA.gov during the session was not communicated to participants in the survey *or* the confirmation email. This was an oversight on Perigean's part and should be included in both the survey and email communications. Most of the veterans who joined the session were not aware ahead of time that they would be required to log in during the session.
+  * The criteria that a user must have an identity verified account on VA.gov was not communicated to participants in the survey or the confirmation email. Perigean misunderstood that criteria in the research plan
