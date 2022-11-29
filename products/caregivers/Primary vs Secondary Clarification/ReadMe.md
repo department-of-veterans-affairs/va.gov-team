@@ -51,7 +51,7 @@ Veterans and their Caregivers can quickly and easily submit the Caregiver applic
 |July|4,727|4,689|728| 99%|15%|
 |August|5,613|5,564|970|99%|17%|
 |September|6,961|6,911|1,186|99%|17%|
-|October|14,661|14,556|2,343|99%|16%|
+|October|14,658|14,553|2,340|99%|16%|
 
 ## Related 
 - [10-10CG Form - product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
