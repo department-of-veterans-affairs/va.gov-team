@@ -761,7 +761,7 @@ You must select at least one issue, so we can process your request.
 
 Error handling for not adding any evidence :
 
-#### You haven’t uploaded any evidence
+#### You haven’t added any evidence
 
 You must provide at least one type of evidence to file for a Supplemental Claim.
 
