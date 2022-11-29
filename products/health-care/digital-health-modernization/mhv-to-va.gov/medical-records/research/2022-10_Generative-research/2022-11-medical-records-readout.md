@@ -105,8 +105,6 @@ _Hypothesis 4:_ Some Veterans and Caregivers will want to be able to view and sh
 
 **1. Participants used a range of terms to refer to medical records, such as "Health history," "Health record", "Chart", and "Portal," in addition to "Medical records." Some also used the term "My" in conjunction with other options - e.g., "My Chart," "My Health Record," "My Health History."**
 
-Labels: label 1, label 2 
-
 The most common term used was "health record" or "medical record," followed by "health history" and "patient portal." 
 
 Participants consistently argued that the same term should be used for online records as paper-based records. 
@@ -115,8 +113,6 @@ Participants consistently argued that the same term should be used for online re
 
 
 **Electronic medical records can be viewed, downloaded, or shared. Participants described wanting to access their medical records for the following reasons:**
-
-Labels: label 1, label 2 
 
 ### Medical Record Use Cases
 |View, Download, or Share|     Purpose for medical records       |              Use case              |
@@ -150,8 +146,6 @@ _Ramona needed to file a claim for a service-related shoulder injury. She called
 
 **3. The most common categories participants used during the card sort included lab/test results (12 out of 15 participants), and separate categories for "non-body" health issuess - mental health, vision health, and dental health (10 out of 15 participants).**
 
-Labels: label 1, label 2 
-
 Lab/ test results were created by 12 out of 15 participants, representing the most consistent category. They were most often called "labs/tests" or "test results" by participants, and almost always included "Pathology results" (a category that is currently separate from labs/test results in Blue Button reports). Almost half of these participants (5 out of 12) created a separate category for images, which included radiology results and images, MRI results, and ultrasound results. 
 
    - _"So it looks like there's tests, blood tests, and I think that seems like an easy one to start. So I'm going to pull in blood sugar, blood tests, antibody tests, okay. And then I'm thinking is there anything like a test? SO I would kind of think like ultrasound results would be kinda similar...I guess its different but like tests will have like a result from that. An ultrasound is maybe not a test but they seem similar enough so I maybe kepe it in this box."_ Male Veteran, age 34, MHV account
@@ -161,8 +155,6 @@ Lab/ test results were created by 12 out of 15 participants, representing the mo
    - _"They are a different section of the VA almost."_ Male Veteran, age 56, MHV account
 
 **4. An "About me/ Personal information" category was often created by participants, though the contents of this category differed.** 
-
-Labels: label 1, label 2 
 
 Some versions of this category included demographic information, ongoing monitoring information like vitals, allergies and immunizations, and a "shapshot" of current health, issues, and treatments. Others contained only some of this information. 
 
@@ -177,9 +169,7 @@ Others wanted the most pressing or current information to be centrally located -
 This category varied the most across interviews and explanations often seemed contradictory and incoherent; however, this category still existed in the majority (n=10) of interviews. It is possible that a different interview guide would have led to participants distinguish more consistently between demographic information, current health status, and most pressing issues. This will be explored in concept testing. 
 
 
-**5. Most participants organized or described expecting medical record information to be organized in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area.** 
-
-Labels: label 1, label 2 
+**5. Most participants organized or described expecting medical record information to be organized in relation to one of three "anchors": by appointments; by the location or type of facility; or by practice area.**
 
 By "anchors," we mean something that participants organized information around or described expecting or wanting to find health record information in relation to. 
 
@@ -218,8 +208,6 @@ Organizing by HCPs was also cited as an easy way to organize information. Howeve
 
 **6. Time was a consistent theme across interviews.** 
 
-Labels: label 1, label 2 
-
 Participants expected time to inform the organization of information -  most often with most recent information more easily accessible. When asked, participants described expecting most recent information to be at the top of a page with less recent information further down. 
 
 Several participants described desiring that information be elevated that required an action on their part - e.g., schedule a follow-up visit or ask a question to a healthcare provider. In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.
@@ -231,8 +219,6 @@ At times, this manifested as explicit requests for reminders or cues to action:
 _"I would say under my account if there was a medical history that would be good, maybe listing them out as up-to-date or over-due. Because I did go to an appointment once, and they said it looks like you are over-due for this and I was like what! So something that categorize what needs to be done, like this shot needs to be done this month. Something like that. That goes into…getting reminders about that. Like text reminders from the VA."_ - Veteran, female, age 40, MHV account
 
 **7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records. 
-
-Labels: label 1, label 2 
 
 _Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
 
