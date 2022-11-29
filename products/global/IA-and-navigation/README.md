@@ -41,9 +41,9 @@ VA.gov is responsible for a large quantity of information, and it is critical th
 
 ### Problems
 
-- The current IA and navigation largely caters to logged-out, unauthenticated flows and content. This makes it hard for users who need to manage their benefits to find where and how to do this.
-- Figuring how all of MyHealtheVet fits into VA.gov means there will be some major changes to IA and navigation, and how we approach this has to not only consider the health user experience, but also how this will affect management of other benefits.
-- IA and navigation needs to work for multiple audiences, including audiences that are not veterans, service members, families, and caregivers. This can sometimes cause organization friction since our team wants to prioritize the veteran experience over business or organizational wants and needs.
+- The current IA and navigation largely caters to logged-out, unauthenticated flows and content. This makes it hard for users who need to manage their health and benefits to complete tasks.
+- Figuring out how all of MyHealtheVet fits into VA.gov means there will be some major changes to IA and navigation, and how we approach this has to not only consider the health user experience, but also how this will affect management of other benefits.
+- IA and navigation needs to work for multiple audiences, including audiences that are not veterans, service members, families, and caregivers. This can sometimes cause organizational friction since our team wants to prioritize the veteran experiences over business wants and needs.
 
 ### Opportunities
 
