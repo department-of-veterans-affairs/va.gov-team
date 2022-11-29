@@ -43,6 +43,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - **KPI** - Submission Rate - Number of appointments successfully sumbmitted
 
 ![image](https://user-images.githubusercontent.com/97117349/204655179-8bf2953d-c740-44b7-a13d-a3e495b2cdba.png)
+![Flow Conversion Rate](https://user-images.githubusercontent.com/97117349/204656384-bc7c5212-fc5a-4ff4-bc95-cb0e0625e618.png)
 
 ### OBJECTIVE 2: Increase number of Online transactions. 
 - **KR** - Increase number of scheduling transactions by x%
@@ -52,12 +53,14 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - **KPI** - All Pageviews (Upcoming/Past/Requested/Canceled/VA Details/CC Details)
 
 ![image](https://user-images.githubusercontent.com/97117349/204655496-5842fc70-fc1b-449a-b6b9-0075e681a66d.png)
+![Scheduling Transactions (YoY) (1)](https://user-images.githubusercontent.com/97117349/204656660-3c847f71-11af-4057-8031-e53eeb076eee.png)
 
 ### OBJECTIVE 3: Improve the usability of VA Online Scheduling.
 - **KR** - Increase number of users who access VA online scheduling by x%
   - **KPI** - Number of Veterans who log in / access VAOS
 
 ![image](https://user-images.githubusercontent.com/97117349/204655641-26b05c32-a5b9-4868-b1de-021eec8399d8.png)
+![Web Users (YoY)](https://user-images.githubusercontent.com/97117349/204656749-bb31340d-4418-4ef6-a6db-54c6f9f3da10.png)
 
 #### Baseline KPI Values
 
