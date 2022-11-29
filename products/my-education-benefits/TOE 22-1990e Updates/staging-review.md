@@ -16,7 +16,7 @@ The application can be found at https://staging.va.gov/education/survivor-depend
 
 ### QA Test plan
 - [QA Test plan and test resultsTBD]
-- Axe tool [TBD](Axe-Report-MEB-All-Pages.html) (Html file download)
+- [Axe tool results](./axeDt-reports.zip) (zip file file download)
 
 ### Test Reports
 TBD
