@@ -9,22 +9,27 @@
 * 4 out of 15 were completed sessions
 
 ## Research Questions and Outcomes
-1. Does the functionality work as expected?
+**1. Does the functionality work as expected?**
   * Yes. 4 out of 4 users said the information displayed for their debts and payments was accurate and all links went to the expected places.
   
-2. Are Veterans able to take action on their payment or debt information without any usability hurdles?
-  * Yes. 4 out of 4 users were able to use the action links as intended. This includes our one screen reader user who was easily able to tell where there was an actionable link.
+**2. Are Veterans able to take action on their payment or debt information without any usability hurdles?**
+  * Yes. 4 out of 4 users were able to use the action links as intended. This includes our one screen reader user who was able to tell where there was an actionable link in both sections.
   
-3. Has the elimination of red and green colors decreased the scannability of the page?
+**3. Has the elimination of red and green colors decreased the scannability of the page?**
   * No. 4 out of 4 users noticed the debts and payments sections and were able to tell the difference between them without the use of color.
   
-4. Is any of the copy confusing to users?
+**4. Is any of the copy confusing to users?**
   * No. We didn't hear any participants say they were confused about debt, overpayments, benefit payments, or any other new terminology in these sections. We did have one user who couldn't complete the session who didn't associate copays as debts, which we have heard in the past from roughly half of the veterans we have talked to. 
 
 ## Bugs
 * None
 
 ## Other findings
+
+**Content feedback**
+* We made a decision to **eliminate dollar amounts for debts and copays** since we learned that the only data being used in the combined debt portal currently is the most recent statement balance, which may not reflect some paymens already made. We didn't want to cause confusion by sharing a dollar amount that may not be accurate to a Veteran's current situation so the debt and copay cards now say the number of debts and/or copays that a veteran has.
+	* We can now confidently say **this was the correct choice** given the data limitations because all participants said the debt information looked accurate to them and they didn't have any questions or confusion about it. 
+* We have also made some **changes to terminology** in the debt section as instructed by the content team and wanted to make sure those words were not confusing to Veterans in testing. We now refer to debts as "overpayment debts" and that made sense to all 4 participants and they didn't have any questions about what the debt was for or whether it was valid.
 
 **Research study setup**
 * We encountered a lot of issues with no-shows, users who could not successfully log in to VA.gov, and users who were LOA1.
