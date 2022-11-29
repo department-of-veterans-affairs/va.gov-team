@@ -5,9 +5,7 @@ These are the test scripts that testers of the MEB follow for testing the UI and
 TBD
 
 ### Defect report
-- This is the list of found during testing.
-TBD
-
+- This is the list of [bugs](./TOE-bugs.csv) found during testing.
 
 ### 508 Testing
 - [Axe tool results](./axeDt-reports.zip) (zip file file download)
