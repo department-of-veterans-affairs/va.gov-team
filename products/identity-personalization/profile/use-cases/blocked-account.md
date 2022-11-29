@@ -17,6 +17,13 @@ When an account is blocked, we show an alert on the account security page. The o
 - [Desktop mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/vqA79n/a/PG4Pm2j)
 - [Mobile mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/g09lryk)
 
+## Codes
+
+PPIU API   control information | PPIU conversion from [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html) | [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html)   EBenefitsAddressUpdateWebService | [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html) definition
+-- | -- | -- | --
+isCompetentIndicator | True if incompetentInd is not ‘Y’ | incompetentInd | incompetentInd – whether the Veteran   is incompetent or not
+noFiduciaryAssignedIndicator | True if fiduciaryInd is not ‘Y’ | fiduciaryInd | fiduciaryInd – whether the record has   a Fiduciary or not
+notDeceasedIndicator | True if deathDtInd is not ‘Y’ | deathDtInd | deathDtInd – a DEATH_DT was found on   the PERSON record
 
 ## How to reproduce
 1. Log into staging with any of the following users:
