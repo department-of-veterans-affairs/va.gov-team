@@ -740,3 +740,79 @@ You don’t need to do anything unless we send you a letter asking for more info
 If you requested a decision review, and haven’t heard back from us yet, please don’t request another review. Call us at 800-827-1000.
 
 **_[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)_**
+
+---
+
+## Error Messaging
+
+### Error alerts
+
+Error handling for PDF upload errors (be sure we help them recover):
+
+#### The PDF you uploaded is too large
+
+You will need to break down the file into individual pages or use a PDF reader to save an optimized version. 
+
+Error handling for not adding an issue:
+
+#### You haven't selected an issue
+
+You must select at least one issue, so we can process your request.
+
+Error handling for not adding any evidence :
+
+#### You haven’t uploaded any evidence
+
+You must provide at least one type of evidence to file for a Supplemental Claim.
+
+Error handling for not authorizing release of medical records :
+
+#### You didn't authorize the release of medical records
+
+You must authorize the release of medical records in order for us to get records directly from your doctor. Otherwise, you will need to upload your private medical records.
+
+### Inline errors
+
+missingIssue: You must add the name of an issue
+
+uniqueIssue: You must enter a unique condition name
+
+maxLength: You can enter a maximum of 140 characters
+
+invalidDate: You must provide a valid date
+
+missingDecisionDate: You must enter a decision date
+
+invalidDateRange: (min, max) => You must enter a year between {max}
+
+pastDate: You must add a past decision date
+
+newerDate: You must add an issue with a decision date less than a year old
+
+### Inline errors we've already worked on:
+
+invalidDate: You must provide a date
+
+contestedIssue: The start date must be in the future
+
+endDateBeforeStart: The end date must be in the future
+
+endDateBeforeStart: The end date must be after the start date
+
+contestedIssue: You must select an eligible issue
+
+evidenceMissing: You must include at least one type of supporting evidence
+
+evidenceLocationMissing: You must add a treatment location
+
+evidenceLocationMaxLength: You can enter a maximum of 255 characters
+
+evidenceIssuesMissing: You must select one or more conditions (double-check)
+
+missingEmail: You must provide an email address
+
+missingPhone: You must provide a home or mobile phone number
+
+missingAddress: You must provide an address
+
+missingPrimary: You must choose a primary phone number
