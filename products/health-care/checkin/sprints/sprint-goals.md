@@ -28,6 +28,9 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (Kelly, Zach, Ben, Lori)
     - Perform accessibility testing (Kelly, Zach)
+    - Update product artifacts (get them ready but do not publish) (Kelly)
+    - Update design artifacts (get them ready but do not publish) (Zach)
+    - Add GA Events (Ben)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
     - Present recommendation to Patrick
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
@@ -97,8 +100,8 @@
     - DONE Ensure that eCheck-in check-in times honor the new early guardrail
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - DONE Wire up FE and BE
-    - Perform functional testing (all)
-    - Perform accessibility testing (all)
+    - ROLLOVER Perform functional testing (all)
+    - ROLLOVER Perform accessibility testing (all)
 - CIE Tech Debt & Bugs
     - DONE Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
     - DONE [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
@@ -106,7 +109,7 @@
     - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
     - [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
     - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
-    - [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
+    - ROLLOVER [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
 
 ## 11/02/2022 - 11/15/2022    
 
