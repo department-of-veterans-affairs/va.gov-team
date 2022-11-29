@@ -218,7 +218,7 @@ At times, this manifested as explicit requests for reminders or cues to action:
 
 _"I would say under my account if there was a medical history that would be good, maybe listing them out as up-to-date or over-due. Because I did go to an appointment once, and they said it looks like you are over-due for this and I was like what! So something that categorize what needs to be done, like this shot needs to be done this month. Something like that. That goes into…getting reminders about that. Like text reminders from the VA."_ - Veteran, female, age 40, MHV account
 
-**7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records. 
+**7. Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
 
 _Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
 
