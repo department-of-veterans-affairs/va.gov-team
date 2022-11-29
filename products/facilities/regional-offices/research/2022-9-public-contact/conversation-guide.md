@@ -73,17 +73,28 @@ We are speaking with Public Contact staff like youself from these 7 different lo
 *	Busier days or time?
 *	Common frustrations? Complaints?
 *	How Veterans usually arrive at the facility? (drive, public transit?) 
-*	How long does it take for a Veteran to travel to a facility
+*	How long does it take for a Veteran to travel to a facility?
+
+**Services and Tasks**
 * What different services does this location offer for Veterans?
 * Are there any services this facility offers that are unique compared to other benefits offices?
 * Are there any benefit services you know of that this facility doesn't offer? 
   * Where would you refer a veteran for help with that service?
+* What are the top 3 tasks that you see Veterans completing here?
+* Are there any tasks that are infrequent, maybe you've only heard about one or twice since working here?
 
-**Per Service**
+**Per Service / Task**
 * You listed [service, service, service] which all sound pretty specific to that benefit types. Are there services that apply across different benefit types?
 * Conversely, [these services] seem broad, are there sevices that are more speicifc to different benefit types?   
 * You mentioned this facility is open [these days], are all these different services available any time it's open?
   * If not, what are the factors for when something is available? Is there a staff member who only comes once a week, etc. 
+* Can this task be accomplished other ways (phone, web)?
+  * If so, why do Veterans do this task in-person?
+  * If not, do you think that it would be 'simple' for Veterans to do in a different way? (elaborate)
+* How complicated is this task?
+* How do you assist Veterans in this task?
+* Thinking about what makes your location different than other Regional Offices around the country, is there anything about this task that you think is unique to your region? Is it more common? Does it require additional support?
+* What does success look like for this task?
 
 **Service List**
 
@@ -94,23 +105,6 @@ So this is a list of 16 services that are shown on VA.gov as available at differ
 * Is this available at your facility?
 * Are there other terms or phrases that Veterans use to describe this service?
 * Is anthing missing from this list?
-
-## Common Tasks - 15 min
-
-This next group of questions is about common tasks Veterans try to accomplish at this facility.
-
-* What are some of the common tasks that you see Veterans completing here?
-* Are there any tasks that are infrequent, maybe you've only heard about one or twice since working here?
-* (Use list generated from these 2 questions to cycle through the next set of questions)
-
-**Per task**
-* Can this task be accomplished other ways (phone, web)?
-  * If so, why do Veterans do this task in-person?
-  * If not, do you think that it would be 'simple' for Veterans to do in a different way? (elaborate)
-* How complicated is this task?
-* How do you assist Veterans in this task?
-* Thinking about what makes your location different than other Regional Offices around the country, is there anything about this task that you think is unique to your region? Is it more common? Does it require additional support?
-* What does success look like for this task?
 
 **Pain Points**
 * Are there any common pain points that you see with Veterans? 
