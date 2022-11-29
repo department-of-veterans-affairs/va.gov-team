@@ -9,7 +9,7 @@ Last uploaded: November 29, 20222
 - [PATIENT.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/10116256/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 
-## Pre-Check-In[Uploading PATIENT.CHECK-IN_PRODUCT_GUIDE.docx…]()
+## Pre-Check-In
 
 
 Last uploaded: November 29, 2022
