@@ -49,6 +49,8 @@
     - Perform accessibility testing (all)
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Implement the new simplified header & footer
+- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
+    - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
 - CIE Tech Debt & Bugs
     - [Update Staging Tool to Honor the Change in the Early Guardrail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49968)
     - [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
