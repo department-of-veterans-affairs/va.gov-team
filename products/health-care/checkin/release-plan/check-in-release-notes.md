@@ -12,6 +12,16 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 11/28/2022
+- Fixed a bug where the link to the VA account was not being displayed for Tagalog
+    - [Ticket 50015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50015)
+
+### 11/23/2022
+- Updated Pre-Check-in to save the Veterans progress through the workflow. Now, when they reload the application at any point before completing the workflow, they will return to where they left off, instead of the start of the workflow, and their answers to any previously-asked questions will be retained
+    - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
+- Added additional Spanish translations
+    - [Ticket 48348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48348)
+
 ### 11/15/2022
 - Updated the react modal to use the web-component version; currently only affects the Privacy Act Statement modal pop-up; no noticeable changes to Veterans
     - [Ticket 49554](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49554)
@@ -21,7 +31,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
     - [Ticket 48721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48721)
 
 ### 11/07/2022
-- Updated eCheck-in and Pre-Check-in to save the Veterans progress through the workflow. Now, when they reload the application at any point before completing the workflow, they will return to where they left off, instead of the start of the workflow, and their answers to any previously-asked questions will be retained
+- Updated eCheck-in to save the Veterans progress through the workflow. Now, when they reload the application at any point before completing the workflow, they will return to where they left off, instead of the start of the workflow, and their answers to any previously-asked questions will be retained
     - [Ticket 47829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47829)
 
 ### 11/03/2022
