@@ -1,15 +1,16 @@
 ## Staging Review
 
 ### Staging location
-The application can be found at https://staging.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e
+The application can be found at [https://staging.va.gov/education/verify-school-enrollment/](https://staging.va.gov/education/verify-school-enrollment/)
 
 ### Content Brief
-- [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/toe) 
-- Product description and screenshots can be found in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/TOE%2022-1990e%20Updates/TOE%20Product%20Outline.md)
-- [Staging link](https://staging.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e)
+- [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/enrollment-verification) 
+- Product description and screenshots can be found in the [Product Outline]- Product description and screenshots can be found in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/enrollment-verification/product-outline.md)
+
+- [Staging link]([https://staging.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e](https://staging.va.gov/education/verify-school-enrollment/))
 
 ### Test info
-- Test User information, passwords and tasks [TBD](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md)
+- Test User information, passwords and tasks - TBD, to be communicated offline.
 
 ### Github ticket
 - Link to the Github ticket that shows the work for creating and/or updating any relevant static content pages and entry points for this project
