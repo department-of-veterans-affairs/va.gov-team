@@ -5,7 +5,7 @@ These are the test scripts that testers of the MEB follow for testing the UI and
 TBD
 
 ### Defect report
-- This is [the list of bugs](./Enrollment-verification-bugs.csv)found during testing.
+- This is [the list of bugs] (./Enrollment-verification-bugs.csv)found during testing.
 TBD
 
 
