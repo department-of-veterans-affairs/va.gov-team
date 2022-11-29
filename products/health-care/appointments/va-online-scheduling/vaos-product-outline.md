@@ -93,18 +93,27 @@ This is a list of the current initiatives in progress or on the road map.
 
 ### Current Status
 
+- VA Online Scheduling is live on the VA.gov platform and enables veterans to directly schedule appointments for services like primary care and mental health.  For appointments that can't be directly scheduled, veterans can make requests for appointments to the VA and Community Care.  The VAOS team is ccompleting the transition over to the new VAOS Service, which will route VA requests to VistA and Community Care requests to HSRM.  This will allow decomissioning of Scheduling Manager once all old requests have been processed.  Once this trasition is complete, the next step will be to route direct scheduled appointments through Acheron to VistA.
+- The VAOS team is also working on updating the appointment list view.  This work will make it easier for veterans to understand what appointments they have scheduled and whether they are in person, an online video session or a telephone call.  This work is slated to be completed and launched during Q1-2023.
+- The next projects on the schedule for VAOS are Provider Based Scheduling, Multi-modailty Scheduling and Rescheduling of appointments.  The VAOS team is in the research and design phase for these intiatives.
+
 ### Key Decisions
 
-[Key Decisions FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/decisions/decisions-faq.md)
+- [Key Decisions FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/decisions/decisions-faq.md)
+- [VAOS Business Rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md)
 ---
    
 ## Screenshots
 
-[User Flow Diagram](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=sCpR1vUgIXPWrNMx-1)
+- [User Flow Diagram](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=sCpR1vUgIXPWrNMx-1)
 
 ### Before
 
+![VAOS Old Appt List](https://user-images.githubusercontent.com/97117349/204638371-6fd63913-d86d-4ed4-8185-dcee9b18279d.png)
+
 ### After
+
+![VAOS Updated Appt List](https://user-images.githubusercontent.com/97117349/204637467-58add092-59da-491e-9119-7d5659f7459c.png)
 
 ---
 
