@@ -89,17 +89,17 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 **When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage your VA debt" CTA on My VA|TBD|TBD|TBD|
+|Clicks into "Manage your VA debt" CTA on My VA|25,712|TBD|TBD|
  
 **Key result: Increase pageviews for the debt tool overall by 10%** 
 
 [Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
 
-|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the debt summary page|TBD|TBD|TBD| 
+|Pageviews of the debt summary page|35,495|TBD|TBD| 
 
 ### Objective: Elevate copays to My VA.
  
@@ -109,7 +109,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 **When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
 |Clicks into copay CTA|N/A|TBD|TBD|
 
@@ -119,9 +119,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 [Pageviews for /manage-va-debt/summary/copay-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fcopay-balances~2F/)
  
-|KPI/metric|Baseline: October 2022|Post-launch: [Tentative Nov 2022]| Post-launch: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the copay summary page|TBD|TBD|TBD|  
+|Pageviews of the copay summary page|10,365|TBD|TBD|  
  
 </details>
 
