@@ -60,7 +60,7 @@ Retiring
 Research goals
 --------------
 
-1.  Test screenreader usability for appointment list redesign proof of concept
+Test screenreader usability for appointment list redesign proof of concept
 
 ### Outcome
 
