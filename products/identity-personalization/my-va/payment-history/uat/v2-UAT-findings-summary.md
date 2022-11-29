@@ -26,13 +26,23 @@
 
 ## Other findings
 
-**Content feedback**
+### Content feedback
 * We made a decision to **eliminate dollar amounts for debts and copays** since we learned that the only data being used in the combined debt portal currently is the most recent statement balance, which may not reflect some paymens already made. We didn't want to cause confusion by sharing a dollar amount that may not be accurate to a Veteran's current situation so the debt and copay cards now say the number of debts and/or copays that a veteran has.
 	* We can now confidently say **this was the correct choice** given the data limitations because all participants said the debt information looked accurate to them and they didn't have any questions or confusion about it. 
 * We have also made some **changes to terminology** in the debt section as instructed by the content team and wanted to make sure those words were not confusing to Veterans in testing. We now refer to debts as "overpayment debts" and that made sense to all 4 participants and they didn't have any questions about what the debt was for or whether it was valid.
 
-**Research study setup**
+### Research study setup
 * We encountered a lot of issues with no-shows, users who could not successfully log in to VA.gov, and users who were LOA1.
+	* 4 out of 15 were no-shows
+	* 1 out of 15 signed on but had to reschedule
+	* 1 out of 15 could not connect to audio and dropped off
+	* 2 out of 15 tried to log in during the session but were unsuccessful
+	* 2 out of 15 were LOA1 so we ended the session
 * Although about 25% no-shows are expected in a given study, there are reasons for the unsuccessful logins and LOA1 users:
   * The criteria that a user must be able to log in to VA.gov during the session was not communicated to participants in the survey *or* the confirmation email. This was an oversight on Perigean's part and should be included in both the survey and email communications. Most of the veterans who joined the session were not aware ahead of time that they would be required to log in during the session.
-  * The criteria that a user must have an identity verified account on VA.gov was not communicated to participants in the survey or the confirmation email. Perigean misunderstood that criteria in the research plan
+  * The criteria that a user must have an identity verified account on VA.gov was not communicated to participants in the survey or the confirmation email. Perigean misunderstood that criteria in the research plan and did not include it in the survey or email to Veterans.
+
+**Recommendations** 
+* Any must-have criteria should be outlined in the screener questions in the research plan, even if they are already outlined in the recruitment criteria table as well.
+* We should ask to see the Calendly survey and the screener email before it is sent out to participants.
+* If possible, it would be helpful to have a short kick-off call with Perigean before participants are recruited so both parties are clear on the requirements and what we are trying to accomplish in the sessions.
