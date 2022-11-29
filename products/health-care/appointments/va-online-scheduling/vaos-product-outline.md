@@ -113,9 +113,9 @@ This is a list of the current initiatives in progress or on the road map.
 <details>
 
 - Team Name: VAOS - VA Online Scheduling
-- GitHub Label: VAOS
+- GitHub Label: vaos
 - Slack channel: [#vaos-team](https://dsva.slack.com/archives/CMNQT72LX), [#vaos-eng](https://dsva.slack.com/archives/CSCD0B1V3), [#vaos-alerts](https://dsva.slack.com/archives/C016QB6T340), [#vaos-engineering](https://dsva.slack.com/archives/C023EFZPX4K), 
-- Product POCs: [Jeff Roof - Sr. Product Manager](https://dsva.slack.com/archives/D02UD9VS3JP), [Leah De La Costa - Associate Product Manager](https://dsva.slack.com/archives/D02UF0RKQRK)
+- Product POCs: [Jeff Roof, Sr. Product Manager](https://dsva.slack.com/archives/D02UD9VS3JP), [Leah De La Costa, Associate Product Manager](https://dsva.slack.com/archives/D02UF0RKQRK)
 - Stakeholders: 
 
 </details>
@@ -126,8 +126,18 @@ This is a list of the current initiatives in progress or on the road map.
  
  - DEPO Lead: 
  - PM: 
+   - [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
+   - [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
  - Engineering:
+   - [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
+   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
+   - [Ryan Shaw](https://dsva.slack.com/team/U039WSSQKS4)
+   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
+   - [Jennie McGibney](https://dsva.slack.com/team/UMLH49T7G)
+   - [Tony Williams](https://dsva.slack.com/team/UMBGJ37EK)
  - Research/Design: 
+   - [Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9)
+   - [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
  
 </details>
 
