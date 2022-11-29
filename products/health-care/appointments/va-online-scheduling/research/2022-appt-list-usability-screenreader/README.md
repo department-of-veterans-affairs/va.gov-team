@@ -1,10 +1,10 @@
-Appointment list redesign usability
-The VAOS team is redesigning the appointments list with intent to:
+# Appointment list redesign screenreader usability 
+The VAOS team is testing screenreader usability for the newly designed appointment list proof of concept. The intention of this is to:
 
-Give desktop users a better experience - ie: print view
-Increase scanability of appointment list.
-Provide more pertinant information (What, Where, When, Why, How)
-Help veterans better distinguish between the type of appoointments
-Resources
-Research plan
-Conversation Guide
+* Ensure screenreader users can effectively navigate the appointment list.
+* Identify what/how screenreader should read out information. 
+
+
+### Resources
+* [Research plan]()
+* [Conversation Guide]()
