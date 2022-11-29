@@ -1,5 +1,7 @@
 # Nametag specs
 
+**Last updated: November 29, 2022**
+
 ## Sketch Mockups
 
 - [Desktop & Mobile](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
@@ -8,12 +10,12 @@
 
 **Show**
 
-- If someone is LOA3 (except when there are MPI errors or legal name endpoint does not load - use cases listed below).
+- If someone is LOA3 (identity verified), except when there are MPI errors or legal name endpoint does not load (use cases listed below).
 - If someone is LOA3 but the Profile is blocked (fiduciary flag/marked as incompetent/deceased).
 
 **Do not show**
 
-- If someone is LOA1.
+- If someone is LOA1 (not identity verified).
 - Legal/full name endpoint does not load.
 - Profile encounters MPI errors.
 
@@ -23,6 +25,7 @@
 
 **State 1: User has a disability rating**  
 
+- We can only detect a disability rating if a user is LOA3 (identity verified). We can not detect if they have one if they are LOA1 (not identity verified).
 - Show nametag with name, branch of service, and disability rating as a percentage value. 
 - Include the total disability rating **if** someone has one.
 - The disability rating should link to the [the disability rating tool](https://www.va.gov/disability/view-disability-rating/rating).
