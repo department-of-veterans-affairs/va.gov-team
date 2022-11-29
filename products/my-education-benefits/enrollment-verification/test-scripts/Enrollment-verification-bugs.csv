@@ -1,0 +1,4 @@
+﻿Issue Type,Issue key,Summary,Status,Updated,Reporter,Component/s,Custom field (Severity),Created,Priority
+Bug,SA-14310,Internal: Future enrollments being shown,DONE,Nov/18/22,Ewaz Farang,MyEducationBenefits,2-High,May/16/22,Medium
+Bug,SA-26596,Internal: Enrollment Verification changes not reflected on LTS,DONE,Oct/6/22,Cesar Santiago,MyEducationBenefits,2-High,Sep/23/22,Medium
+Bug,SA-33870,Internal: LTS UI not reflecting changes in DB,DONE,Nov/19/22,Matt Allen,MyEducationBenefits,3-Medium,Nov/4/22,Medium
