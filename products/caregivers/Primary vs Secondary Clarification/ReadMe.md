@@ -77,15 +77,7 @@ Data source - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-he
 |------------- |---------|-------|-------------- |-------------- |
 |Section Exit rates | 13% | TBD | TBD|TBD|
 
-
-#### **Key Result #2:** Reduce duplicate applications (Can CG Contact Center (CSP) get us this info?)
-
-| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|Application duplicates | TBD  | TBD | TBD | TBD |
-
-
-#### **Key Result #3:** Increased Trust in VA services
+#### **Key Result #2:** Increased Trust in VA services
 
 Data source - Medallia survey results: October 2021 - September 2022
 Data source - Contact Center feedback?
@@ -107,13 +99,23 @@ Data source - Contact Center feedback?
 |Trust in VA Commitment to Veterans - Rating 4 | 14%  | TBD | TBD | TBD |
 |Trust in VA Commitment to Veterans - Rating 5 | 25%  | TBD | TBD | TBD |
 
+
+### Objective: Update the 10-10CG to clarify the required information when changing or adding a Primary or Secondary caregivers
+
+#### **Key Result #1:** Reduce duplicate applications (Pending CG Contact Center (CSP) get us this info)
+
+| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Application duplicates | TBD  | TBD | TBD | TBD |
+
+
 ---
 
 ## Discovery
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - There is a Risk that the content changes will not be sufficient, and applicants will still have difficulty determining the difference between the Primary and Secondary Caregiver roles and benefits
+  - There is a risk that the content changes will not be sufficient, and applicants will still have difficulty determining the difference between the Primary and Secondary Caregiver roles and benefits
   - There is a risk that the clarification will not improve the abandonment rate and/or duplicate applications
 - **Usability Risks** (can people figure out how to use it):
   - There is a risk that, due to lack of clarity, applicants may not know how to complete the application accurately
