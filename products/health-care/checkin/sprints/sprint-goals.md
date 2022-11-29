@@ -50,6 +50,7 @@
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (all)
     - Perform accessibility testing (all)
+    - Create GA Events for the Various API Responses that are Returned from BTSSS
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Implement the new simplified header & footer
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
