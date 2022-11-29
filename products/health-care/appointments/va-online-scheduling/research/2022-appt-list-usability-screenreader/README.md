@@ -7,4 +7,4 @@ The VAOS team is testing screenreader usability for the newly designed appointme
 
 ### Resources
 * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appt-list-usability-screenreader/Research-plan.md)
-* [Conversation Guide]()
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appt-list-usability-screenreader/conversation-guide.md)
