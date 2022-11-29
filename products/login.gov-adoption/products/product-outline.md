@@ -9,6 +9,7 @@
 - [User problem statements](#user-problem-statements) 
 - [Desired user outcomes](#desired-user-outcomes)
 - [Business goals](#business-goals) 
+- [Potential MVP features and Epics](#potential-mvp-features-and-epics)
 - [Questions](#questions) 
 - [Assumptions](#assumptions) 
 - [Requirements and constraints](#requirements-and-constraints)  
@@ -61,6 +62,11 @@ For more on our product vision and mission, see the [team charter](https://githu
 - Reduced fraud
 - Increased user satisfaction
 
+## Potential MVP features and Epics
+- Veterans visiting VAMCs will be able to complete sign up for a Login.gov account. 
+- MHV coordinators or VHIC Associates will be able to verify a Veteran’s identity through an in-person visit or remotely through video.
+- Service members going through TAP can sign up for a Login.gov account and proof in-person as part of the process.
+- Outreach to existing users that they’ll need to choose a new credential.
 
 ## Questions 
 
