@@ -1,6 +1,6 @@
 # Product outline for IA and navigation on VA.gov
 
-**Last Updated: November 28, 2022**
+**Last Updated: November 29, 2022**
 
 ## Table of Contents
 
