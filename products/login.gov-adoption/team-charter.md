@@ -1,4 +1,4 @@
-# Login.com Adoption Team Charter
+# Login.gov Adoption Team Charter
 
 **Last updated Nov 27, 2022**
 
@@ -15,7 +15,7 @@ This will be achieved through multiple initiatives:
 - pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
 - providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
 
-### Product Vision
+### Product vision
 
 The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive. VA needs a streamlined way for Veterans to sign-in and securely access products and services.
 
@@ -26,7 +26,7 @@ The fragmented sign-in experience is confusing for Veterans and non-Veterans fac
 
 **How**
 - Use human-centered design to consolidate ways to sign on to VA.gov
-- Migrate users to their choice of Login.gov and ID.me; robust, compliant credential solutions
+- Migrate users to their choice of Login.gov or ID.me; robust, compliant credential solutions
 
 **Why**
 - Users are frustrated and confused because they must go to multiple websites for benefits
@@ -45,7 +45,7 @@ Our mission is to:
 - support VA’s digital modernization strategy to solve tough technology challenges facing VA
 
 
-### OCTO Objectives
+### OCTO objectives
 
 This work relates to these OCTO (Office of the Chief Technology Officer) objectives:
 - Veterans can manage their health services online
@@ -54,7 +54,7 @@ This work relates to these OCTO (Office of the Chief Technology Officer) objecti
 - Veterans can decide the best CSP for their needs
 - Veterans and their families can apply for all benefits online
 
-### OCTO North Star objectives
+### OCTO north star objectives
 
 We need to:
 - increase the usage and throughput of VA services 
@@ -73,7 +73,7 @@ We need to:
 
 This is a daily team meeting at 10:30am ET. We use this meeting to share updates about what we did yesterday, what we will do today, and any blockers. It helps us start the day in alignment.
 
-### Sprint Planning
+### Sprint planning
 
 This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts 1-2 hours. We use this meeting to outline team and member focus, goals for sprint.
 
@@ -81,7 +81,7 @@ This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts 1-2 ho
 
 This is a bi-weekly meeting on the 1st Thursday of every sprint. It last 1 hour and happens before sprint planning. We use this meeting to review accomplishments from the previous sprint and what we can improve for the next (or future) sprints.
 
-### Grooming
+### Refinement
 
 Thi is a bi-weekly meeting on the 2nd Thursday of every sprint. It lasts 1 hour. We use this meeting to assess and update workloads for the remainder of sprint and loosely discuss next/future sprint(s). To do this, we walk through each team member's Zenhub tickets to make sure tickets are ready to be discussed by sprint planning. By the end of grooming:
 - 100% of tickets have are associated with an epic.
@@ -90,13 +90,13 @@ Thi is a bi-weekly meeting on the 2nd Thursday of every sprint. It lasts 1 hour.
 - 100% of tickets are appropriately labeled.
 - At least 2 sprints out, 5 tickets tentatively assigned to those iterations.
 
-We each review `needs-grooming` tickets within our associated discipline (determined by the right GitHub label e.g. `frontend`) before grooming.
+We each review `needs-grooming` tickets within our associated discipline (determined by the right GitHub label e.g. `frontend`) before refinement.
 
-## Issue Documentation
+## Issue documentation
 
 ### Issue creation
 
-You can create issues for yourself or the team throughout the sprint. We'll use grooming to get tickets ready to go before they are put in the "Current Sprint" column on our [Zenhub](https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/board) board.
+You can create issues for yourself or the team throughout the sprint. We'll use refinement to get tickets ready to go before they are put in the "Current Sprint" column on our [Zenhub](https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/board) board.
 
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 - Estimate
@@ -109,7 +109,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
   
 ### Estimation
 
-Estimation is based on a few factors: how long something will take to complete, risk, level of effort (LOE), and complexity. We have found [this scale](https://www.scalablepath.com/blog/agile-points-explained-fibonacci-sequence/) to be helpful in estimating tickets.
+Estimation is based on a few factors: how long something will take to complete, risk, Level of Effort (LOE), and complexity. We have found [this scale](https://www.scalablepath.com/blog/agile-points-explained-fibonacci-sequence/) to be helpful in estimating tickets.
 
  - 1 - Easy task, work is known, can be executed quickly   
  - 2 - Mostly known, doable
@@ -123,7 +123,7 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new 'RED LIGHT URGENT' work request, contact the Product Manager and ask for help to work it into the sprint.
  
-## Team Norms
+## Team norms
 
 ### Shared principles
 
@@ -146,4 +146,3 @@ If there is a new 'RED LIGHT URGENT' work request, contact the Product Manager a
 - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 - [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
-
