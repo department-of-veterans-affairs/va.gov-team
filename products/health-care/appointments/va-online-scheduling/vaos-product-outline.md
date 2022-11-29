@@ -68,8 +68,12 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
-
+- VAOS Service Integration | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/vaos-service-integration/vaos-service-integration-initiative-brief.md)
+- Appointment List Redesign | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/ininitiative-brief-appointment-list.md)
+- Reschedule Appointments | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/reschedule-appointments/reschedule-appointments-initiative-brief.md)
+- Appointment Detail Improvements | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-details.md)
+- Improve Community Care and Request Appointment Flow | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/cc-request-flow.md)
+- Update API Domain | [Link to Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/domain-api-update.md)
 --- 
 
 ## Launch Strategy
