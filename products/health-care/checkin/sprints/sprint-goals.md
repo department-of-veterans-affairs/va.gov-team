@@ -40,6 +40,8 @@
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Finish conversation guide (Ben)
     - [SPIKE] Determine feasibility of url shortener expansion
+- [Combine Pre-Check-in & Check-in into One User Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - Attend design sprint
 - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
@@ -51,6 +53,8 @@
     - Implement the new simplified header & footer
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
     - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
+- [Combine Pre-Check-in & Check-in into One User Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - Attend design sprint
 - CIE Tech Debt & Bugs
     - [Update Staging Tool to Honor the Change in the Early Guardrail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49968)
     - [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
