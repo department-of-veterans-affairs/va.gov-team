@@ -13,6 +13,8 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 11/28/2022
+- Changed the early guardrail for the check-in window from 30 minutes to 45 minutes. Veterans will now be able to use eCheck-in to check-in for their VA health appoiuntment starting as early as 45 minutes before their appointment time up to 15 minutes after their appointment time.
+    - [Epic 49261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49261) 
 - Fixed a bug where the link to the VA account was not being displayed for Tagalog
     - [Ticket 50015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50015)
 
