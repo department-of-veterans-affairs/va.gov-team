@@ -1,0 +1,8 @@
+﻿Issue Type,Issue key,Summary,Status,Affects Version/s,Updated,Reporter,Component/s,Component/s,Custom field (Severity),Created,Priority
+Bug,SA-34092,INTERNAL: TOE - Updating Review page information will cause the form data to be lost ,DONE,dgi-4.0,Nov/18/22 9:24 PM,ewa.farhang,MyEducationBenefits,,3-Medium,Nov/04/22 8:05 PM,Medium
+Bug,SA-30436,INTERNAL: TOE - VA profile does not prefilled on TOE your information page ,DONE,dgi-4.0,Nov/14/22 8:00 PM,ewa.farhang,MyEducationBenefits,,2-High,Oct/18/22 5:20 PM,Medium
+Bug,SA-30062,INTERNAL: TOE - Mobile View shows drop boxes far above the drop box location,DONE,dgi-4.0,Nov/14/22 7:55 PM,ewa.farhang,MyEducationBenefits,,3-Medium,Oct/17/22 6:01 PM,Lowest
+Bug,SA-30045,INTERNAL: MEB -TOE UI validation for Direct Deposit - Page collapses after clicking cancel Button ,DONE,dgi-4.0,Nov/14/22 7:54 PM,ewa.farhang,MyEducationBenefits,,3-Medium,Oct/17/22 5:45 PM,Medium
+Bug,SA-29586,INT - TOE Application Submission Page Keeps Spinning Not Returning Result,DONE,,Nov/15/22 4:01 PM,muy.wusiman,MyEducationBenefits,,1-Critical,Oct/14/22 2:40 PM,High
+Bug,SA-29119,INTERNAL: MEB - TOE not polling for final claim status,DONE,dgi-4.0,Nov/14/22 7:53 PM,ces.santiago,MyEducationBenefits,,3-Medium,Oct/12/22 5:55 PM,Lowest
+Bug,SA-29095,INT - Not Able to Submit TOE Application,DONE,,Nov/17/22 6:31 PM,sus.sharma,MyEducationBenefits,,1-Critical,Oct/12/22 4:18 PM,High
