@@ -23,11 +23,17 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Better trust and satisfaction with the VA. 
+- More appointments scheduled and requested online, reducing support costs for phone-based bookings. 
+- More maintainable solution by in-house teams over the long-term.
+- Decrease the number of appointments that result in no-shows
 
 ## Undesired Business Outcomes
 
+- Increase in Help Desk support related to scheduling appointments through VAOS
+- Veterans being booked for incorrect appointment type
+- Errors in date or time of booked appointments
+- Increase in number of no-show appointments
 
 ---
 ## Measuring Success
@@ -65,14 +71,16 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 #### Baseline KPI Values
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Providing veterans with a self service appointment scheduling application will:
+  - Decrease the amount of time veterans spend making an appointment
+  - Provide more accurate information in a timely manner resulting in fewer no-shows
+  - Increase veteran satisfaction with the VA and the appointment scheduling process 
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- VAOS is currently updating the core services used for requesting and scheduling appointments within the VA.  This involves replacing old services used today with modern architecture.  The new VAOS and Acheron service will allow retirement of old technology, such as Scheduling Manager, and reduce the number of systems that the scheduling staff needs to work with.
+- The initial release will update the appointment request workflow for VA and Community Care requests.  Direct Scheduled appointments will be addressed soon after the initial release of the new VAOS Service and Acheron.
+- Besides eliminating old technology, the new VAOS Service and Acheron form the foundation for connectivity to modern healthcare systems.  The updated services more closely adhere to the FHIR interface standard.  This is important as we connect with other systmes, such as Cerner, and develop new workflows, such as provider based scheduling.
 
 ### Initiatives
 This is a list of the current initiatives in progress or on the road map.
