@@ -729,7 +729,7 @@ Month XX, XXXX
 - Issue
 - Issue
 
-BUTTON: Print this page
+BUTTON: Print this page </br>
 LINK: Download your completed claim (PDF)
 
 ## What to expect next
