@@ -56,8 +56,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Task: [Start Application] - 3 minutes
-- Scenario: You are interested in applying for VA health care and arrive at this page. 
-- Please explain what you see and what you would do next. 
+- For this session today, we are going to work through the scenario that you are interested in applying for VA health care. 
+- You arrive at this page. Please explain what you see and what you would do next. 
 
 **Participant questions:**
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
@@ -164,7 +164,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: Marital status and spouse information - 3 minutes
 - (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
-- (If selected Married/Separated for Marital Status) Continue completing all the questions about your spouse and please remember to think aloud.  
+- [If selected Married/Separated for Marital Status] Continue completing all the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
@@ -178,8 +178,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: Adding dependents - 5 minutes
 - Now that you have completed your spouse's information, please answer the question on this page and proceed. 
-- (When selected yes) Complete the questions about your first dependent.
-- For this scenario, you have multiple children. How would you add them to this application?
+- [If selected yes] Complete the questions about your first dependent.
+- [If the participant has multiple dependents] Since you have multiple dependents, how would you add them to this application?
 
 **Participant questions:**
 - What worked well for you?
@@ -291,9 +291,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 [NPS Question]
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
 
-- Question 1
-- Question 2
-
+- Thinking back on the question about the first page you saw and you rated it a [x on a scale of 1-5 (1 being non very poorly and 5 being very well)], would you keep or change that rating after going through this application? Why?
+- Did any of the questions stand out to you as unnecessary?
+- Did anything seem to be missing?
 
 - Any questions for me? 
 
