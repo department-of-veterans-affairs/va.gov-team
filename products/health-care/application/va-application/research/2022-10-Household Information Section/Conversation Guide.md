@@ -20,10 +20,10 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [Jessica/Nick] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
-- If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
-- If participant consents, admit observers. 
-   - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+> - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
+> - If participant consents, admit observers. 
+>   - Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+>   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
 **Today we're going to talk about the VA health care application, but specifically are looking to get your feedback on the section of the form that asks about your household information.**
 
@@ -63,7 +63,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 
 
 ## Task: Start application - 5 minutes
-- Scenario: You are interested in applying for health care and arrive at this page. 
+- For this study, you are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
