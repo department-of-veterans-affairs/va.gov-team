@@ -63,7 +63,7 @@ Tasks[Link to Optimal Workshop](url goes here)
 
 ## Participants and recruitment
 
-Ask Perigean to recruit 189 people using the cohorts below in order to get at least 25-50 completes for each tree. Ideally, we would like to have:
+Ask Perigean to recruit 189 people using the cohorts below in order to get at least 25-50 completes. Ideally, we would like to have:
 
 * 1/7 of recruited participants Veterans' family members or caregivers who help a Veteran manage their VA health care (21)
 * 6/7 of participants are Veterans (162)
