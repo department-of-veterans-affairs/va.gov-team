@@ -3,7 +3,6 @@ This directory contains information specific to overall content and IA strategy,
 
 This directory contains information specific to overall content and IA strategy, and how the Health Apartment will fit into VA.gov's IA and navigation.
 
-## Contents
 ### IA testing - Round 1
 - Test 1: Veteran unmoderated tree test:  
   - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/2022%20Health%20Hub%20Tree%20Test%20research%20plan.md)
@@ -23,7 +22,10 @@ This directory contains information specific to overall content and IA strategy,
   - [Trees tested](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/health-apartment-trees-r1.xlsx)
 
 
-#
+### IA testing - Round 2
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/Tree%20Test%20Round%202%20Research%20Plan.md)
+- Recruiting
+- Results
 
 ### Past research reports
 
