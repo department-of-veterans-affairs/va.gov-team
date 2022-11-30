@@ -59,6 +59,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
    - [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdm)
    - [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318) 
 - [If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent]
+- [Remind participant to close all personal info before sharing their screen]
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 
