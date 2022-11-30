@@ -67,8 +67,7 @@
 ## 11/16/2022 - 11/29/2022 
 
 #### Planned Releases 
-- RELEASED [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
-    - RELEASE DATE IS PLANNED FOR 11/29
+- RELEASED ON 11/28 [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)    
 
 #### Analytics Sprint Goals
 - DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569) (Kristen) 
@@ -76,16 +75,16 @@
 - ROLLOVER [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 - DONE [Verify pre-checkin usage for telephone appointments (using CDW)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46574) (Lori)    
 - DONE [Investigate low pre-check-in completion percentages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49704) (Adrian)    
-- ROLLOVER [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
+- DONE [Set up Error Log monitors in Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49181) (Kanchana)
   
 #### UX Sprint Goals 
 - [Change Check-in Window from 30 to 45 Minutes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49261)
     - DONE Update product artifacts (Kelly)
     - DONE Let Randi know so she can publish the resource page (Lori)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Update product artifacts (get them ready but do not publish) (Kelly)
-    - Update design artifacts (get them ready but do not publish) (Zach)
-    - Add GA Events (Ben)
+    - ROLLOVER Update product artifacts (get them ready but do not publish) (Kelly)
+    - ROLLOVER Update design artifacts (get them ready but do not publish) (Zach)
+    - ROLLOVER Add GA Events (Ben)
 - [Update Product Guides for Bug Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49466) (Kelly)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - DONE Start final wireframes (Zach/Kelly)
@@ -108,9 +107,9 @@
     - DONE Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
     - DONE [[FE] Data persistence for pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49406)    
     - DONE [Text input error text doesn't change languages when toggling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44471)
-    - [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
-    - [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
-    - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
+    - ROLLOVER [Clean Up Phone Feature Flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43557)
+    - ROLLOVER [Investigate how to log issues in Sentry as debug vs. error level](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40517)
+    - ROLLOVER [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
     - ROLLOVER [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
 
 ## 11/02/2022 - 11/15/2022    
