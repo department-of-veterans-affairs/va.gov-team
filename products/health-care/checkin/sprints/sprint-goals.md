@@ -34,12 +34,12 @@
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
     - Present recommendation to Patrick
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Update final wireframes to include legal links
     - Content IA collab cylcle work
     - Address Platform feedback & update final wireframes
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Finish final wireframes (Zach/Kelly)
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - Finish conversation guide (Ben)
     - [SPIKE] Determine feasibility of url shortener expansion
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Attend design sprint
@@ -48,12 +48,13 @@
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Update error message when the API is down
     - Complete integration testing
     - Perform functional testing (all)
     - Perform accessibility testing (all)
     - Create GA Events for the Various API Responses that are Returned from BTSSS
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Implement the new simplified header & footer
+    - Spike on how to implement the new simplified header & footer
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
     - [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
     - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
