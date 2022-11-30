@@ -41,9 +41,9 @@ Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will
 - Review/revise release plan as needed
 - Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
 - Goals and exit criteria have been established for next phase
-- Communications have been posted/sent
 - Gate review is conducted
 - Outcome of gate review is documented
+- Communications have been posted/sent
   
 ## Phase 1: "Try Me"
 - Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.” 
