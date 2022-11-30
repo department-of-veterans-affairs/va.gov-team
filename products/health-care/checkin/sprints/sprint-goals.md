@@ -1,5 +1,6 @@
 # SPRINT GOALS
 
+__________________________________________________________________________________________________________________________________________________________
 ## 12/14/2022 - 12/27/2022 ---------------------- FUTURE -----------------------------
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
@@ -17,6 +18,7 @@
 - CIE Tech Debt & Bugs
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
+__________________________________________________________________________________________________________________________________________________________
 ## 11/30/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
 
 #### Planned Releases -------------------- TENTATIVE ------------------------------
@@ -61,10 +63,11 @@
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Attend design sprint
 - CIE Tech Debt & Bugs
+    - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
     - [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
-    - [Remove LoROTA api_key from vets-api config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49533)     
-    
+    - [Remove LoROTA api_key from vets-api config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49533)      
 
+__________________________________________________________________________________________________________________________________________________________
 ## 11/16/2022 - 11/29/2022 
 
 #### Planned Releases 
@@ -113,6 +116,7 @@
     - ROLLOVER [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
     - ROLLOVER [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
 
+__________________________________________________________________________________________________________________________________________________________
 ## 11/02/2022 - 11/15/2022    
 
 #### Planned Releases   
@@ -157,7 +161,8 @@
     - DONE [[SPIKE] CHECK-IN: Explore if we Display Appointments for Which Check-in is NOT Enabled](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48101) 
     - ROLLOVER Bug identitifed during Sprint Review (appt list doesn't refresh on go back) - PCI/API [Ticket](https://github.com/department-of-veterans-affairs/chip/issues/1296#issuecomment-1301103519) to monitor and verify that it fixes our bug
     - DONE [Deprecate day-of demographics flag](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/49485)
-    
+
+__________________________________________________________________________________________________________________________________________________________
 ## 10/19/2022 - 11/01/2022
 
 #### Planned Releases  
@@ -206,7 +211,7 @@
     - DONE [Fix Skipped Test](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/48376)
     - DONE Get rid of the Medalia button (submitted a ticket, still waiting for it to be removed)
 
-    
+__________________________________________________________________________________________________________________________________________________________    
 ## 10/05/2022 - 10/18/2022
 
 #### Planned Releases 
@@ -256,7 +261,7 @@
 - CIE Tech Debt & Bugs
     - DONE ADDED AFTER PLANNING Comment Out "Go to another appointment" Link
 
-
+__________________________________________________________________________________________________________________________________________________________
 ## 9/21/2022 - 10/04/2022
 
 #### Planned Releases 
@@ -300,6 +305,7 @@
 - DONE Tech Debt
     - Review & Merge Yarn Workspaces PR
 
+__________________________________________________________________________________________________________________________________________________________
 ## 9/7/2022 - 9/20/2022
 
 #### NOTE
@@ -354,6 +360,7 @@
     - DONE Configure manual trigger in PagerDuty 
 - DONE [Ignore traffic from Synthetic monitor when reporting to StatsD](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46021) 
 
+__________________________________________________________________________________________________________________________________________________________
 ## 8/24/2022 - 9/06/2022
 
 #### Planned Releases 
@@ -404,6 +411,7 @@
    - DONE [Append a URL Param for Error Type](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45777)
    - Use as necessary if, and only when, all Sprint goals are completed
 
+__________________________________________________________________________________________________________________________________________________________
 ## 8/10/2022 - 8/23/2022
 
 #### Planned Releases 
@@ -459,6 +467,7 @@
    - As many as can fit in the Sprint
 
 
+__________________________________________________________________________________________________________________________________________________________
 ## 7/27/2022 - 8/9/2022
 
 #### Planned Releases 
@@ -524,7 +533,8 @@
     - [Incorrect spacing on alert when pre-checkin is completed](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39462)
     - [Brainstorm Delivering Login/General Errors Up the Chain to Staff-Facing Applications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44360)
         - Investigate & discuss with team
-    
+ 
+__________________________________________________________________________________________________________________________________________________________
 ## 7/13/2022 - 7/26/2022
 
 #### Planned Releases 
@@ -568,7 +578,8 @@
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
     - [Update List Semantics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44145)
     - [Investigate users starting on the bottom of page after login](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42684)
-        
+
+__________________________________________________________________________________________________________________________________________________________
 ## 6/29/2022 - 7/12/2022
 
 #### R&D Sprint Goals
@@ -623,6 +634,7 @@
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     -  **Release ~7/12**
 
+__________________________________________________________________________________________________________________________________________________________
 ## 6/15/2022 - 6/28/2922
 
 #### Sprint Goals
