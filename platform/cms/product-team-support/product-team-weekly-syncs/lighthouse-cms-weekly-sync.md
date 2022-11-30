@@ -14,6 +14,11 @@
 
 </details>
 
+## Monday, December 5, 2022 
+* v1 status check
+* Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+* Poorly labled "Urgent Care" for ATC data on a System page [11709](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11709) 
+
 ## Monday, November 28, 2022 
 * v1 status check
   * Joshua - think we've identifed cauuse of latency, working on final post mortem notes, appears to be overall volume increase.
