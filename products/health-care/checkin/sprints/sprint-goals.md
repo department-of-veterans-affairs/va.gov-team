@@ -19,17 +19,17 @@ ________________________________________________________________________________
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
 __________________________________________________________________________________________________________________________________________________________
-## 11/30/2022 - 12/13/2022 ---------------------- FUTURE -----------------------------
+## 11/30/2022 - 12/13/2022 
 
-#### Planned Releases -------------------- TENTATIVE ------------------------------
+#### Planned Releases
 - NONE
 
-#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Analytics Sprint Goals 
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
 - [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
 - [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 
-#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+#### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Perform functional testing (Kelly, Zach, Ben, Lori)
     - Perform accessibility testing (Kelly, Zach)
@@ -46,8 +46,9 @@ ________________________________________________________________________________
     - Finish final wireframes (Zach/Kelly) (needs to be ready for development)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Attend design sprint
+- Determine feasibility of url shortener expansion
 
-#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Engineering Sprint Goals 
 - [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Update error message when the API is down
