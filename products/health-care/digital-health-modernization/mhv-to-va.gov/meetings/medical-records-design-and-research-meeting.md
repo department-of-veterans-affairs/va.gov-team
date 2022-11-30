@@ -1,5 +1,29 @@
 # Medical Records: design and research sync
 
+## 2022-11-30 
+
+## Attendees
+- Lexi Wunder
+- Jonathan Nelson
+- Jenny Wang
+- Bobby Bailey
+- Anne Costello 
+- Robyn Singleton 
+
+## Agenda
+- How to include ByLight folks in data mapping and strategy.
+    - @Marci and @Jenny Wang can speak to the current data mapping work.
+
+- List of handoff artifacts and timelines that is thinking through
+- 
+
+## Notes
+
+- Marci and Jenny walked through the background of the MR domains, fields, capabilities 
+    - Wellness reminder and EKG not included in 13 domins that Coulton and Jenny listed 
+
+
+
 ## 2022-11-9 
 
 ## Attendees
