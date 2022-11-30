@@ -1,4 +1,4 @@
-# Research Plan for Disagreement Pathways Workstream
+# Disagreement Pathways Research Proposal
 Benefits Team 1
 
 Nov 2022
