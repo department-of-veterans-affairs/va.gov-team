@@ -49,7 +49,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever had to complete forms before that asked for various information on your family and your income?   
 
 
-## Setup - 5 minutes
+## Setup - 7 minutes
 
 For the context of this session, you are applying for health care using the online apllication found on VA.gov. I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 
@@ -62,7 +62,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 - [Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu]
 
 
-## Task: Start application - 5 minutes
+## Task: Start application - 8 minutes
 - For this study, you are interested in applying for health care and arrive at this page. 
 - Please explain what you see and what you would do next. 
 
@@ -77,7 +77,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 
 
 
-## Task: Veteran information - 5 minutes
+## Task: Veteran information - 10 minutes
 - Could you please complete this section of the form and talk aloud about what you see/would do.
 
 **Participant questions:**
@@ -163,7 +163,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 
 ## Primary Task 4: Editing and removing a dependent - 3 minutes
 - You realized you answered the birth date question incorrectly and you need to go back and fix it. How would you go about doing that?
-- Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
+- Now for this scenario, just imagine you added a dependent twice and now need to fix that in the application. How would you go about taking a dependent off of this application?
 
 ### Things to watch for:
 - [Does the participant clearly see the buttons to edit and delete dependents?]
