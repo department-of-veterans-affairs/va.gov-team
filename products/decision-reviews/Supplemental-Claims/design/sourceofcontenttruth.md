@@ -708,38 +708,43 @@ document type
 
 ---
 
-## Confirmation
+Confirmation
 
-**You've successefully submitted your request**
+## Thank you for filing a Supplemental Claim
 
-We’ll review your request. We may contact you for more information or other documents. Please print this page for your records.
+When we've completed our review, we'll mail you a decision packet with the details of our decision.
 
-**File a Supplemental Claim (Form 20-0995)**
+## Your information for this claim
 
-for HECTOR ALLEN
+### Your name
 
-**Date submitted**
+HECTOR ALLEN
+
+### Date you filed your claim
 
 Month XX, XXXX
 
-**Issue(s) for review
+### Issue(s) for review
 
 - Issue
 - Issue
 
-**_Print this for your records_**
+BUTTON: Print this page
+LINK: Download your completed claim (PDF)
 
-### After you request a decision review
+## What to expect next
 
-When we've completed your review, we'll mail you a decision packet that includes details about our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+If we need more information, we'll send you a letter that tells you what other information you'll need to submit. And we'll contact you if we schedule an exam for you.
 
-### What should I do while I wait?
+When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
 
-You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+### What to do if you have questions now
 
-If you requested a decision review, and haven’t heard back from us yet, please don’t request another review. Call us at 800-827-1000.
+You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-**_[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)_**
+**Note:** If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
+
+[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)
 
 ---
 
