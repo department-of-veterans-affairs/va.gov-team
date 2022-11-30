@@ -4,7 +4,7 @@
 
 Based on the previous tree test findings, the team iterated on the information architecture for the health hub and health apartment. As the team considers how to properly include the Health Apartment on VA.gov to ensure Veterans and Caregivers to get and manage their health care benefits, this research will help inform decisions on the information architecture of the health apartment and how it links to the broader VA.gov structure.
 
-Link to tree test findings
+[Link to previous tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA)
 
 ## OCTO Objectives
 
