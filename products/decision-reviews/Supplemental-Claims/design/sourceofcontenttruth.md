@@ -489,10 +489,8 @@ IF PRIVATE  medical records:
 
 **Do you want to limit the information we can request?**
 
-- [ ] I want to limit my consent for VA to retrieve certain information from my private medical provider(s).
-
-Describe the limitation (for example, you want to release only treatment dates or a type of disability.)
-400 characters max (* Required
+If you want to limit the information the VA retrieves from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability.)
+400 characters max
 
 *text input field
 
