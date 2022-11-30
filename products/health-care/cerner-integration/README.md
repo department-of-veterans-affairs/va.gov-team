@@ -25,3 +25,14 @@ This is a folder for the Cerner integration work.
 # Requesting Access to Cerner Environments
 Placeholder 
 - C1941 Access
+
+# Fundamental Documents
+
+[VA.gov Health Products: Cerner API Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/files/10126803/2020-January-Cerner.API.Documentation.Revision.1.docx)
+
+# Cerner Integration Points
+
+## Covid-19 Patient Manager
+- Create CPM FHIR app deployed as a Cerner mPage component 
+- Integrated CPM within Provider Workflow mPages
+- Reads Cerner vital signs, specific labs, imaging using FHIR Observation 
