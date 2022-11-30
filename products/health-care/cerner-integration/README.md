@@ -2,6 +2,9 @@
 
 This is a folder for the Cerner integration work. 
 
+ ![image](https://user-images.githubusercontent.com/72028011/204892453-26fb3347-cc14-4bb0-8853-9833501dcd7d.png)
+
+
 # Cerner Integration Status
 
 | Product  | Status |
