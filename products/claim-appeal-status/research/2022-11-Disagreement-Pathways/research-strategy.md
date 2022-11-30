@@ -1,4 +1,4 @@
-# Disagreement Pathways Research Proposal
+# Disagreement Pathways Research Strategy
 Benefits Team 1
 
 Nov 2022
