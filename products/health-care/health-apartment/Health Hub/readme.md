@@ -10,8 +10,7 @@
 ## Product research
 
 - [Comparative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20Comparative%20research%20vF.pdf)
-- [Research plan #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/2022%20Health%20Hub%20Tree%20Test%20research%20plan.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/veteran-tree-test-findings.md) - [raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/Raw%20data%20files)
-- [Research plan #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Research%20Plan%202%20v2022-08-09.md), [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Conversation%20Guide%20v2022-08-09.md) and synthesis #2- [research notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Perigean%20notes) [Research Findings #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%203%20-%20First%20click/HH_ResearchFindings.pdf)
+Research files for tree testing moved to here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1
 
 ## Communications
 
