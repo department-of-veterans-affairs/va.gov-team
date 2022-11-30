@@ -2,7 +2,9 @@
 Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will follow the same process defined below:
 
 ## To enter Phase 0:
-- All critical and major defects addressed, minor and cosmetic prioritized and added to backlog
+- Defect characterization is established
+- All critical and major defects addressed
+- Minor and cosmetic defects have been prioritized and added to backlog
 - Product has been thoroughly documented
 	- Decisions
 	- Discovery
