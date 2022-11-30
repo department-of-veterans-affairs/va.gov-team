@@ -94,9 +94,9 @@ This is a list of the current initiatives in progress or on the road map.
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- VAOS is live in production and available to all veterans.  Once a veteran signs in to VA.gov a link to VAOS is shown on their homepage along with their next upcoming appointment.
+- The integration to VAOS Service and Acheron will be the next launch by the VAOS team.
+- [VAOS & Acheron Service Integration Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/vaos-service-integration/vaos-service-integration-release-plan.md)
 
 ## Launch Dates
 - Original launch March 2020 (phased rollout)
