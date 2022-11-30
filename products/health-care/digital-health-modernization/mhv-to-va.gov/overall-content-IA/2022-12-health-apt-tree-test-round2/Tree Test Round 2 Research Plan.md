@@ -79,5 +79,33 @@ Ask Perigean to recruit 189 people using the cohorts below in order to get at le
     * Cognitive disorder
     * _Candidates may meet several secondary criteria so long as a minimum number of identified underserved Veteran populations identified in spreadsheet are represented in the data pool._
 
-
 ## Timeline
+
+### Prepare
+
+We’ll finalize key tasks for Veternas and family members and caregivers, research plan, and recruitment plan by December 7. 
+
+### Research sessions
+
+The tree tests will be open for two weeks, with the starting date December 12.
+
+### Length of session
+
+This is an asynchronous online test. Participants are expected to spend 15 - 20 minutes. 
+
+## Team roles
+
+Research guide writing and task development: Mikki, Danielle, Robyn, Jenny 
+
+Participant recruiting & screening: Perigean
+
+Project point of contact: Mikki 
+
+## Appendix A: Tasks
+
+### Tasks 
+
+The prioritized tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
+
+[Link to trees]()
+
