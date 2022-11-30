@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-**Last updated: October 24, 2022 - key dates updated**
+**Last updated: November 28, 2022 - one month post-launch metrics update **
 
 ### Communications
 
