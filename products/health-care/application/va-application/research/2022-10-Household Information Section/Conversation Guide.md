@@ -67,7 +67,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 - Please explain what you see and what you would do next. 
 
 **Participant questions:**
-- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why?
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
 - Can you tell us more about what you would have to do in preparation for filling out this application?
 
 ### Things to watch for:
@@ -88,6 +88,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
+- [Gender identity - version in staging]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
@@ -109,7 +110,7 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 
 
 ## Primary Task 1: Financial disclosure question - 3 minutes
-- Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
+- Begin completing this section of the health care application. 
 - Talk through what you see and what the content means to you.
 
 **Participant questions:**
