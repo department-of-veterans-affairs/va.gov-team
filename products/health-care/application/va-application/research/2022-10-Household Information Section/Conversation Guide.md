@@ -56,7 +56,7 @@ For the context of this session, you are applying for health care using the onli
 I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 - [Send link to prototype in Zoom chat]
-   - [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159041819?mode=chdfm)
+   - [Desktop Prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257?mode=chdfm)
    - [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318?mode=chdfm) 
 - [If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent]
 - [Remind participant to close all personal info before sharing their screen]
