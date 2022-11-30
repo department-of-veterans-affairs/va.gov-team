@@ -1,0 +1,186 @@
+name: Accessibility Testing
+description: Complete required accessibility testing prior to your Staging review.
+title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
+labels: ["a11y-testing"]
+assignees:
+  - briandeconinck
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 1. Introduction
+  - type: markdown
+    attributes:
+      value: |
+        This issue template will help walk you through [required foundational accessibility testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
+        
+        It's okay if you can't complete all of the steps, or if you identify problems but aren't able to fix them. Try to do as much as you can. Tell us what you're able to do, what you found, and if you have any questions or concerns heading into your review.
+        
+        ### Why we ask VFS teams to do accessibility testing
+        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document the testing you've already done and helps organize your conversation with the accessibility specialist completing the staging review.
+                
+        ### Why we ask who's doing each test
+        We want to be able to sing your praises, not blame or shame. We also want to know who to talk to if we have questions about anything you found when testing. But if you're not comfortable sharing who did each test, that's totally okay.
+  - type: markdown
+    attributes:
+      value: |
+        ## 2. Before you begin
+  - type: checkboxes
+    id: product-info
+    attributes:
+      label: Product information
+      options:
+        - label: Team name, product name, and feature name have been added to the title of this issue.
+          required: true
+        - label: Product label and feature label (if applicable) have been added to this issue.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## 3. Use of color and color contrast
+  - type: markdown
+    attributes:
+      value: |
+        Color must not be the only way information is communicated, and all elements must have sufficient contrast against the page background and neighboring elements. Multiple tools exist for testing use of color and color contrast, but we recommend checking color pairings with [WhoCanUse](https://www.whocanuse.com/) and reviewing your product with the [Colorblindly extension for Google Chrome](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg). 
+        
+        We recommend that designers make accessible color choices before any code is written, and then double-check colors prior to staging review.
+
+        [Learn more about testing for color and color contrast](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Colortests) or [watch a color and color contrast testing demo](https://www.youtube.com/watch?v=ReLtfiZlSCo).
+  - type: input
+    id: color-tester
+    attributes:
+      label: Who completed the use of color and color contrast test?
+      description: Enter their GitHub username(s) to tag them in this ticket.
+  - type: checkboxes
+    id: color-checks
+    attributes:
+      label: Use of color and color contrast checks
+      options:
+        - label: All text of 20px or smaller has a 4.5:1 contrast ratio to its background (or better)
+        - label: All text of 20px or larger has a 3:1 contrast ratio to its background (or better)
+        - label: Non-text elements have a 3:1  contrast ratio to their background and to neighboring elements (or better)
+        - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
+        - label: Any charts, maps, infographics, and tables convey all information without only relying on color
+        - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
+  - type: textarea
+    id: color-notes
+    attributes:
+      label: How did color testing go?
+      description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+  - type: markdown
+    attributes:
+      value: |
+        ## 4. Automated testing with axe by Deque
+  - type: markdown
+    attributes:
+      value: |
+        [axe by Deque Systems](https://www.deque.com/axe/) is our required automated testing tool, and is available as a [free browser extension for Chrome, Firefox, and Edge](https://www.deque.com/axe/browser-extensions/). Although automated testing can't detect all accessibility issues, axe is very good at detecting certain common problems in your code.
+        
+        With the axe DevTools browser extension installed:
+        1. Right click on the page you're testing.
+        2. Select "Inspect" to open your browser's developer tools.
+        3. Select the "axe DevTools" tab.
+        4. Select "Scan all of my page" to run axe.
+        
+        We recommend that front-end engineers test using axe as part of their daily development to catch and resolve issues while coding, and then complete a comprehensive page-by-page scan prior to staging review.
+        
+        [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Axescansindailydevelopment.1) or [watch an axe DevTools demo](https://www.youtube.com/watch?v=WOBTHDDTytg).
+        
+        axe must also be integrated into your product's [end-to-end testing with Cypress](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). See also [Writing an end-to-end test](https://depo-platform-documentation.scrollhelp.site/developer-docs/writing-an-end-to-end-test) and [Accessibility testing helper functions](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-testing-helper-functions).
+  - type: input
+    id: axe-tester
+    attributes:
+      label: Who completed the axe scans?
+      description: Enter their GitHub username(s) to tag them in this ticket.
+  - type: checkboxes
+    id: axe-checks
+    attributes:
+      label: axe checks
+      options:
+        - label: Each page has been scanned using axe (results shared below)
+        - label: axe is integrated into your end-to-end testing
+  - type: textarea
+    id: axe-issues
+    attributes:
+      label: axe DevTools scan results
+      description: Share any unresolved issues detected by axe, organized by URL tested. You don't have to tell us about anything that's not part of your product.
+  - type: textarea
+    id: axe-notes
+    attributes:
+      label: How did axe testing go?
+      description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+  - type: markdown
+    attributes:
+      value: |
+        ## 5. Content zoom and reflow
+  - type: markdown
+    attributes:
+      value: |
+        All page elements must be readable and usable at 200%, 300%, and 400% zoom. That means:
+        - No functionality has been hidden or removed from the page. (Example: a button that is visible on desktop but hidden on a mobile device will likely be hidden at high zoom.)
+        - Nothing overlaps. (Example: text getting covered up by other elements.)
+        - No horizontal scrolling. (Exceptions: data tables, charts, and images.)
+        
+        To test content zoom and resizing, set your browser width to 1280 pixels and use `Ctrl +` or `Cmd +` to zoom in to 200%, 300%, and 400%.
+        
+        We recommend that designers think about how content will resize and reflow in high-zoom situations prior to handing off to engineers. High-fidelity prototypes at high zoom aren't required, but designers may want to create low-fi wireframes for complex page layouts. Once coded, content zoom and reflow should be tested prior to staging review.
+        
+        [Learn more about testing content zoom and reflow](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Contentresizecheck) or [watch a content zoom and resizing demo](https://www.youtube.com/watch?v=cO6wJK2Mp5U).
+  - type: input
+    id: zoom-tester
+    attributes:
+      label: Who completed the content zoom and reflow test?
+      description: Enter their GitHub username(s) to tag them in this ticket.
+  - type: checkboxes
+    id: zoom-checks
+    attributes:
+      label: Content zoom and reflow checks
+      options:
+        - label: All page elements are readable and usable at 200% zoom 
+        - label: All page elements are readable and usable at 300% zoom
+        - label: All page elements are readable and usable at 400% zoom
+  - type: textarea
+    id: zoom-notes
+    attributes:
+      label: How did content zoom and reflow testing go?
+      description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+  - type: markdown
+    attributes:
+      value: |
+        ## 6. Keyboard navigation
+  - type: markdown
+    attributes:
+      value: |
+        All pages and user flows must be navigable using a keyboard, including form controls and inputs, links, buttons, etc. To test keyboard navigation, press [Tab] to move focus to the next element that can receive keyboard focus and [Shift] + [Tab] to move focus to the previous element. Interactive elements should respond to [expected keys for that type of element](https://webaim.org/techniques/keyboard/#testing).
+        
+        We recommend that designers think about [Tab] order while creating prototypes, and that they annotate their prototypes whenever [Tab] order isn't clear. As the product is coded, front-end engineers should do regular keyboard navigation spot checks and complete a comprehensive test prior to staging review.
+        
+        [Learn more about keyboard navigation testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review#Keyboard-navigation-check) or [watch a keyboard navigation testing demo](https://www.youtube.com/watch?v=YvPEK1Y08uM).
+  - type: input
+    id: keyboard-tester
+    attributes:
+      label: Who completed the keyboard navigation test?
+      description: Enter their GitHub username(s) to tag them in this ticket.
+  - type: checkboxes
+    id: keyboard-checks
+    attributes:
+      label: Keyboard navigation checks
+      options:
+        - label: Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus
+        - label: Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys
+        - label: All elements under focus have a visible focus indicator
+        - label: The order of [Tab] stops made sense and was appropriate for completing tasks
+  - type: textarea
+    id: keyboard-notes
+    attributes:
+      label: How did keyboard testing go?
+      description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+  - type: markdown
+    attributes:
+      value: |
+        ## 7. Additional findings
+  - type: textarea
+    id: additional-findings
+    attributes:
+      label: Do you have any other results to share?
+      description: If you've tested using screen readers, mobile devices, or any other tools, tell us about any issues that you've identified. See the information about [advanced accessibility testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Advancedaccessibilitytests(recommended)) on Platform website.
