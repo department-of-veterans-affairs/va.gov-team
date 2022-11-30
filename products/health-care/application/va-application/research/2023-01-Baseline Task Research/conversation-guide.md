@@ -72,7 +72,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Task: [Pre-check & pre-populated info - Unathenticated] - 3 minutes 
--  (You clicked continue on the intro page), can you please explain what you would do from here? 
+-  [Participant clicked continue without signing in on the intro page], can you please explain what you would do from here? 
 
 
 ### Things to watch for:
@@ -125,18 +125,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Step 3 of 6: Military service]
 
 ## Task: [Dates] - 3 minutes
-- Continue completing the application - step 3 - providing your military service information.
+- Continue completing the application and answer the fileds about your military service information.
 
 ### Things to watch for:
 - [Does the participant understand the questions and content through these sections?]
-- [Does the participant comment that the questions are too intrusive?]
+- [Does the participant comment that the questions are too intrusive or the VA should have this information?]
 
 
 ## Task: [Upload a file] - 3 minutes
 - Can you please complete the instruction on this page.
 
 ### Things to watch for:
-- [Does the participant understand meaning of xyz?]
+- [Does the participant understand the use of upload file/document?]
 - [Does the participant enter a discharge date that is in the future or that was very recent?]
 
 
@@ -144,7 +144,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Step 4 of 6: Household information]
 
 ## Task: Financial disclosure - 3 minutes
-- Begin completing this section of the health care application that is titled Step 4 of 6 Household information. 
+- Begin completing this section of the health care application. 
 - Talk through what you see and what the content means to you.
 
 **Participant questions:**
