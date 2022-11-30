@@ -118,7 +118,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant select a disability rating that results in the short form flow?]
 - [Does the particpant select an option that results in the VA pension question page?]
 
-{If selected a rating of above 50% and directed to short form flow, skip to [TASK INSURANCE INFORMATION].}
+{If selected a rating of above 50% and directed to short form flow, skip to [TASK INSURANCE INFORMATION](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/conversation-guide.md#task-insurance-information---5-minutes).}
 
 
 ---
