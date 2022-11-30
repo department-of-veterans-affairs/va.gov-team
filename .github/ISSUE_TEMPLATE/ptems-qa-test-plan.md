@@ -1,11 +1,13 @@
 ---
-name: PTEMS-QA Test Plan
-about: For PTEMS Application Teams to request QA Test Plan to be developed during Build
+name: Shared-Support-QA Test Plan
+about: For VA.gov Application Teams to request QA Test Plan to be developed during Build
   Phase of development.  Open this ticket AT LEAST 4 WEEKS (2 SPRINTS) BEFORE expected
   Platform Staging Review.
-title: "[Product/Feature] PTEMS-QA Test Plan"
-labels: Shared Support Team, QA, PTEMS, qa-test-plan
-assignees: tlei123
+title: "[Product/Feature] Shared-Support-QA Test Plan"
+labels: Shared Support Team, QA, qa-test-plan
+assignees:
+- tlei123
+- eflaherty
 
 ---
 
@@ -14,11 +16,11 @@ assignees: tlei123
 - Add yourself to Assignees
 - Fill-out sections below.]
 
-**See also**: Relevant [PTEMS-QA Manual-UI Testing process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-ui-testing-process.md) for details.
+**See also**: Relevant [Shared-Support-QA Manual-UI Testing process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-ui-testing-process.md) for details.
 
 ## Product/Feature summary
 
-\[Provide brief summary of product/feature to be tested on Staging by PTEMS-QA. Also, be sure to include links to the Product/Feature Outline, Epic, Pre-Launch Checklist, and Design tickets/artifacts.]
+\[Provide brief summary of product/feature to be tested on Staging by Shared-Support-QA. Also, be sure to include links to the Product/Feature Outline [or Initiative Brief], Epic, and Design artifacts.]
 
 - Product/Feature Outline: \[provide link]
 - Product/Feature Epic: \[provide link]
@@ -33,13 +35,13 @@ Design/Research:
 Content/IA: 
 Front-end: 
 Back-end: 
-QA: Tze-chiu Lei
+QA: Tze-chiu Lei [@tlei123] / Erian Flaherty [@eflaherty]
 
 ## Proposed use-cases and Staging test-accounts
 
 \[Provide specific Use Cases (all the different interactive user-flows and data-specific states) to be tested.  Use **[this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)** -- copy the template's markdown into a new .md file inside your Product folder [next to Product Outline file], then start updating.
 
-IMPORTANT for authenticated products (requiring sign-in): Staging test-users must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+**IMPORTANT** for authenticated products (requiring sign-in): Staging test-users must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
 
 Link to **Use Cases doc**: \[provide link]
 
@@ -52,7 +54,7 @@ Link to **Use Cases doc**: \[provide link]
 
 ## Definition of Done
 
-- [ ] Product references provided by Product Team.
+- [ ] Product references provided by Application Team.
 - [ ] Use Cases provided.
 - [ ] For authenticated products, Staging test-accounts and mock-data set up for Use Cases above.
 - [ ] Test Cases [in TestRail] finalized based on Use Cases above.
