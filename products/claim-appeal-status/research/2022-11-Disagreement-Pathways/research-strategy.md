@@ -51,7 +51,7 @@ In 2017, Congress passed the [Appeals Modernization Act](https://www.benefits.va
 - Research: How are Veterans experiencing this journey today? (Choosing a disagreement pathway)
 - Research: What are the disagreement pathways that are most likely to be successful for veterans?
 
-## Open questions
+## Open Questions
 - How do Veterans determine which disagreement pathway is best for them?
 - Technical discovery: What is available in CorpDB to be leveraged by teams like ours? Map the data schema.
 - Should we be explicitly encouraging Veterans to seek representation/support?
