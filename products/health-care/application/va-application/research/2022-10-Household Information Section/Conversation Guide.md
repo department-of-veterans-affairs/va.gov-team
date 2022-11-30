@@ -103,7 +103,7 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 
 ## Task: VA benefits & military service - 3 minutes
-- Continue on through the questions asking about your information and please talk aloud about your impression of what you see each page.
+- Continue on through the questions asking about your information and please talk aloud about your impression of what you see on each page.
 - [Participant continues answering questions under sections part 2 VA benefits and 3 Military service]
 
 ### Things to watch for:
@@ -131,9 +131,9 @@ I'm going to ask you to open a prototype from a link I'll post in the chat and h
 
 
 ## Primary Task 2: Marital status and spouse information - 5 minutes
-- (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
+- (After particpant clicks continue on disclosure page) Proceed with the application and answer the next question. 
 
-- For this scenario, pretend you are currently married and complete the questions about your spouse and please remember to think aloud.  
+- For this scenario/prototype, pretend you are currently married and complete the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
