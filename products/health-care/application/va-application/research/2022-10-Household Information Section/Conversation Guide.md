@@ -88,7 +88,6 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
-- [Gender identity - version in staging]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
