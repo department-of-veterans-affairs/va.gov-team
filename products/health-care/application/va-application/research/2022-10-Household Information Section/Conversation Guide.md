@@ -133,7 +133,6 @@ Just a reminder - it'll be very helpful if you think out loud and share what's o
 
 ### Things to watch for:
 - [Does the participant make any comments about this page happening after the financial disclosure page?]
-- [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
 - [Does the participant comment on the second spouse page with the two lived with/address questions?]
 - [Does the participant comment the question is intrusive or that they would skip and/or answer untruthfully?]
 
