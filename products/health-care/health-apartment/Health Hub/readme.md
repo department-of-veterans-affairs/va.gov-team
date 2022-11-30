@@ -10,7 +10,7 @@
 ## Product research
 
 - [Comparative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20Comparative%20research%20vF.pdf)
-Research files for tree testing moved to here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1
+- Research files for tree testing moved to here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1
 
 ## Communications
 
