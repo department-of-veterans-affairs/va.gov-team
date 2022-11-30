@@ -776,48 +776,98 @@ Error handling for not authorizing release of medical records :
 
 You must authorize the release of medical records in order for us to get records directly from your doctor. Otherwise, you will need to upload your private medical records.
 
+Error handling for form submission error:
+
+#### Please try again later
+
+We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Please save your application, and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7.
+
 ### Inline errors
 
-missingIssue: You must add the name of an issue
+Issues
 
-uniqueIssue: You must enter a unique condition name
+    contestedIssue: You must select an eligible issue
 
-maxLength: You can enter a maximum of 140 characters
+    missingIssue: You must add the name of an issue
 
-invalidDate: You must provide a valid date
+    uniqueIssue: You must enter a unique condition name
 
-missingDecisionDate: You must enter a decision date
+    maxLength: You can enter a maximum of 140 characters
 
-invalidDateRange: (min, max) => You must enter a year between {max}
+    invalidDate: You must provide a valid date
 
-pastDate: You must add a past decision date
+    missingDecisionDate: You must enter a decision date
 
-newerDate: You must add an issue with a decision date less than a year old
+    invalidDateRange: (min, max) => You must enter a year between {min} and {max}
+
+    pastDate: You must add a past decision date
+
+    newerDate: You must add an issue with a decision date less than a year old
+
+Decisions
+
+    pastDate: 'You must add a past decision date',
+    
+    newerDate: 'You must add a more recent decision date',
+  
+VA evidence
+
+    pastDate: 'You must add a past location date',
+    
+    newerDate: 'You must add a more recent location date',
+    
+    missing: 'You must include at least one type of supporting evidence',
+    
+    locationMissing: 'You must add a treatment location',
+    
+    locationMaxLength: 'You can enter a maximum of 255 characters',
+    
+    issuesMissing: 'You must select one or more conditions (double-check)',
+    
+    unique: 'You must add a unique location entry',
+
+Private evidence
+
+    facilityMissing: 'You must add a provider or facility name',
+    
+    authorizationRequiredError: 'You need to acknowledge this release of information',
+      
+    country: 'You must choose a country',
+    
+    street: 'You must enter a street address',
+    
+    city: 'You must enter a city name',
+    
+    state: 'You must choose a state',
+    
+    postal: 'You must enter a postal code',
+    
+    overMaxLength: max => `You can enter a maximum of ${max} characters`,
 
 ### Inline errors we've already worked on:
 
-invalidDate: You must provide a date
+    invalidDate: You must provide a date
 
-contestedIssue: The start date must be in the future
+    startDateInPast: The start date must be in the future
 
-endDateBeforeStart: The end date must be in the future
+    endDateBeforeStart: The end date must be in the future
 
-endDateBeforeStart: The end date must be after the start date
+    endDateBeforeStart: The end date must be after the start date
 
-contestedIssue: You must select an eligible issue
+    contestedIssue: You must select an eligible issue
 
-evidenceMissing: You must include at least one type of supporting evidence
+    evidenceMissing: You must include at least one type of supporting evidence
 
-evidenceLocationMissing: You must add a treatment location
+    evidenceLocationMissing: You must add a treatment location
 
-evidenceLocationMaxLength: You can enter a maximum of 255 characters
+    evidenceLocationMaxLength: You can enter a maximum of 255 characters
 
-evidenceIssuesMissing: You must select one or more conditions (double-check)
+    evidenceIssuesMissing: You must select one or more conditions (double-check)
 
-missingEmail: You must provide an email address
+    missingEmail: You must provide an email address
 
-missingPhone: You must provide a home or mobile phone number
+    missingPhone: You must provide a home or mobile phone number
 
-missingAddress: You must provide an address
+    missingAddress: You must provide an address
 
-missingPrimary: You must choose a primary phone number
+    missingPrimary: You must choose a primary phone number
