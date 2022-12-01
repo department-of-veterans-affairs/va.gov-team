@@ -778,7 +778,7 @@ Form submission error:
 
 #### Please try again later
 
-We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Please save your application, and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress reference ID is [InProgressForm]. 
+We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Your application has been saved. Come back and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress reference ID is [InProgressForm]. 
 
 ### Inline errors
 
