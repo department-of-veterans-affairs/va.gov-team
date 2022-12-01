@@ -754,31 +754,31 @@ PDF upload errors (be sure we help them recover):
 
 #### The PDF you uploaded is too large
 
-You will need to break down the file into individual pages or use a PDF reader to save an optimized version. 
+You'll need to create smaller files with individual pages or use a PDF reader to save an optimized version.
 
 Not adding an issue:
 
 #### You haven't selected an issue
 
-You must select at least one issue, so we can process your request.
+You must select at least 1 issue so we can process your request.
 
 Not adding any evidence:
 
 #### You haven’t added any evidence
 
-You must provide at least one type of evidence to file for a Supplemental Claim.
+You must provide at least 1 type of evidence to file for a Supplemental Claim.
 
-Not authorizing release of medical records :
+Not authorizing release of medical records:
 
-#### You didn't authorize the release of medical records
+#### You didn't authorize the release of your medical records
 
-You must authorize the release of medical records in order for us to get records directly from your doctor. Otherwise, you will need to upload your private medical records.
+You must authorize the release of your medical records so we can get them directly from your doctor. Or, you can go back and choose to upload your private medical records.
 
 Form submission error:
 
-#### Please try again later
+#### Your decision review request didn’t go through
 
-We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Your application has been saved. Come back and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress reference ID is [InProgressForm]. 
+We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your application. If you're still having trouble submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
 
 ### Inline errors
 
