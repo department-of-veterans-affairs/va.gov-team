@@ -1,9 +1,10 @@
-
-
-
-
-
-
+---
+name: 508 Accessibility Issue
+about: Describe an issue related to Section 508 Accessibility Standards
+title: ''
+labels: 508/Accessibility
+assignees: ''
+---
 
 ---
 
