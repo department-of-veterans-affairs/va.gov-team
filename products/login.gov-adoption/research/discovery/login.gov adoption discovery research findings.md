@@ -45,133 +45,200 @@ Through our research, we hoped to explore how the VA can most successfully migra
 
 3. Intercepts: We ran contextual intercepts with Veterans where we shared various stimuli, like, an email or a login screen. This helped us clarifying content and tone-of-voice of messaging, in particular, and reach Veterans who don’t yet have a My HealtheVet or Login.gov account.
 
-## Hypotheses and Conclusions [WIP]
+## Hypotheses and Conclusions (Work in Progress)
 
-When should proactive intervention encourage the creation of a Login.gov account?
-- Veterans go through extensive proofing when they apply for healthcare and get their VHIC.
-- When Veterans get their photo for VHIC they should proactively set up their Login.gov accounts.
-- Many Veterans choose to use in-person proofing to upgrade their MHV account to premium.
-- Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.
-- Combining with an appointment reminder will make it convenient for Veterans.
+Rubric: _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
-What do Veterans find important or beneficial when choosing a login credential?
-- We should communicate that Login.gov is a portal, not a destination.
-- A metaphor, like master key, will enable comprehension.
-- Messaging around safety and security will encourage adoption.
-- Veteran's need to be reassured that there will be no gap in their ability to access MHV.
+### When should proactive intervention encourage the creation of a Login.gov account?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Because Veterans go through extensive proofing when they apply for healthcare and get their VHIC, when they get their photo for a VHIC, Veterans should proactively set up their Login.gov accounts.|Definitely True:|
+|Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium. This is another opportunity for Veterans to proactively set up their Login.gov accounts.|Definitely True:|
+|Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.|Definitely True:|
+|Combining with an appointment reminder will make it convenient for Veterans.|Definitely True: Bundling identity proofing with other appointments makes it more convenient for Veterans. In their reminder, Veterans need reassurance about what to bring, why they're identity proofing and that it won't effect their existing appointment at the VA.|
 
-How do we communicate the need to migrate to Login.gov to access services?
-- Messaging around safety and security will encourage adoption.
-- Adding a deadline will set expectation that setting up login.gov is not optional (deferred).
-- Combining with an appointment reminder will make it convenient for Veterans.
-- Access to services outside of the VA will be another selling point.
+### What do Veterans find important or beneficial when choosing a login credential?
+|Hypothesis|Conclusion|
+|:---|:---|
+|We should communicate that Login.gov is a portal, not a destination.|Likely False:|
+|A metaphor, like 'master key,' will make it easier to understand the benefits of a better login credential.|Definitely False:|
+|Messaging around safety and security will encourage adoption.|Likely False:|
+|Veteran's need to be reassured that there will be no gap in their ability to access My HealtheVet.|Definitely True:|
 
-How do we support Veterans and non-Veterans after they set up Login.gov?
-- First few steps in the login flow are confusing (particularly being redirected back to VA.gov).
-- People need support in-person.
+### How do we communicate the need to migrate to Login.gov to access services?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Messaging around safety and security will encourage adoption.|Likely False:|
+|Adding a deadline will set expectation that setting up Login.gov is not optional (deferred).|Likely True:|
+|Access to services outside of the VA will be another selling point for Login.gov|Definitely True:|
 
-When people in-person proof and migrate their account, what issues arise for them?
-- Only part of the process needs to be in-person.
-- ID verification as an in-person option will decrease login.gov abandonment.
-- Veterans will be open to other trusted VA roles who can verify (e.g., nurse at doc appt).
+### How do we support Veterans and non-Veterans after they set up Login.gov?
+|Hypothesis|Conclusion|
+|:---|:---|
+|The first few steps in the login flow are confusing (particularly being redirected back to VA.gov).|Definitely True:|
+|People need support in-person.|Definitely True:|
 
-What resources or workflows will help with issues during in-person proofing & migration?
-- Need to add
+### When people in-person proof and migrate their account, what issues arise for them?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Only part of the process needs to be in-person, which can be confusing for Veterans.|Likely True:|
+|ID verification as an in-person option will decrease login.gov abandonment.|Definitely True:|
+|Veterans will be open to other trusted VA roles who can verify (e.g., nurse at doc appt).|Likely True:|
 
-How do Veterans understand the process of choosing and using a MFA method?
-- For compliant identity proofing, MFA is required.
-- "MFA" may be unfamiliar, but messaging it will help reinforce security.
-- Veterans are unfamiliar with MFA and the process.
-- Frustration or struggle to use MFA, leads to aversion of using VA digital services & MHV.
+### What resources or workflows will help with issues during in-person proofing & migration?
+|Hypothesis|Conclusion|
+|:---|:---|
+| | |
 
-Which MFA options will allow more Veterans to migrate to Login.gov?
-- Current MFA options present challenges to Veterans with technology issues or disabilities.
-- Security keys might be easier for Veterans to use.
-- Security keys can be useful for homeless Veterans, to access services at a library, for example.
-- People are encouraged to set up more than one option, and a security key could be a backup option.
+### How do Veterans understand the process of choosing and using a MFA method?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Veterans are unfamiliar with MFA and the process.|Likely False:|
+|Messaging about MFA will help reinforce security.|Likely True:|
+|Frustration or struggle to use MFA, leads to aversion of using VA digital services & My HealtheVet.|Likely False:|
 
-How can MFA support non-Veterans who need access to parts of a Veterans’ information?
-- Security keys will provide benefits for managing caregiver access security.
-- Because the person being cared for can see that their caretaker is using the security key.
+### Which MFA options will allow more Veterans to migrate to Login.gov?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Current MFA options present challenges to Veterans with technology issues or disabilities.|Likely True:|
+|Security keys might be easier for Veterans to use.|Likely False:|
+|Security keys can be useful for homeless Veterans, to access services at a library for example.|Not enough information:|
+|People are encouraged to set up more than one option, and a security key could be a backup option.|Definitely True:|
 
-Which non-Veteran users would Veterans choose to set up access for, when and why?
-- Need to add
+### How can MFA support non-Veterans who need access to parts of a Veterans’ information?
+|Hypothesis|Conclusion|
+|:---|:---|
+|Security keys will provide benefits for managing caregiver access security.|Likely True:|
+|It helps that the person being cared for can see that their caretaker is using the security key.|Likely True:|
 
-How do non-Veterans imagine shared access to work for themselves and non-Veterans?
-- Need to add
+### Which non-Veteran users would Veterans choose to set up access for, when and why?
+|Hypothesis|Conclusion|
+|:---|:---|
+| | |
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+### How do non-Veterans imagine shared access to work for themselves and non-Veterans?
+|Hypothesis|Conclusion|
+|:---|:---|
+| | |
 
-_Hypothesis statement_
+## Key Findings
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+1. Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.
 
-## Key Findings [TO UPDATE]
+2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if they're benefits' tasks are at risk, or, they understand how their actions affect fellow Veterans.
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+3. Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+4. Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.
 
-1. Finding one
+5. Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.
 
-2. Finding two
+6. Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.
 
-3. Finding three
+7. Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.
 
-4. Finding four
+## Details of Findings [Work in Progress]
 
-5. Finding five
+**Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.**
 
-6. Finding six
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
 
-7. Finding seven
+The fear of losing access to My HealtheVet and the hassle of trying to set up a new credential takes a toll on Veterans, especially if they don't understand why it's necessary. Veterans aren't buying Login.gov, so rather than selling it to them they need clarity about what it is they need to do. Transparency around government decisions and spending serves more than satisfying a curiosity, it instills trust and supports people to embrace change.
 
-## Details of Findings [TO UPDATE]
+> "If Login.gov is the preferred method, the VA has to say that and stop providing options." Participant 9, Veteran Interview
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+> "They could use the money they are using for Login.gov to help Veterans [instead]." Participant 4, Veteran Interview
 
+> “We're good at following orders, we ran into gunfire." Participant 1, Veteran Interview
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+<br>
 
+**Veterans see security as the VA's responsibility, but they're motivated to be more careful if they're benefits' tasks are at risk, or, they understand how their actions affect fellow Veterans.**
 
-**Finding 1**
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
 
-Labels: label 1, label 2 
+Veterans expect that a government website will be secure regardless of what MFA option they use – they feel it's the VA's responsibility to make things secure, not theirs. While they might have trust concerns about the government, they tend to overestimate its online security. So, someone hacking your account is abstract and less concerning, but, the risk of not being able to access their doctors and prescriptions through My HealtheVet is concrete and worrisome.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Veterans are eager to share information that will benefit other Veterans – positive and negative experiences alike can have a ripple effect and impact adoption. This also means that, when thinking about security, Veterans are often more motivated by concerns about fellow Veterans' data, than they are about their own.
 
-Brief description
+> "I understand that they are trying to be secure, but I also know that when it comes to the Internet, nothing is under lock." Participant 4, Veteran Interview
 
-> _Supporting data: Quote here_
+> "They've put enough security measures in place to ensure the person logging on is secure." Participant 8, Veteran Interview
 
-> _Supporting data: Quote here_
+<br>
 
+**Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans**
 
-**Finding 2**
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
 
-Labels: label 1, label 2 
+Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Moving between on- and offline touch points creates confusion, so Veterans need reassurance about what to bring, why they're identity proofing and that it won't effect their existing appointment at the VA.
 
-Brief description
+> "I would set up Login.gov at the end of my appointment, while I'm here. I'd rather get more done in a single period." Participant 6, Veteran Intercept
 
-> _Supporting data: Quote here_
+> "I'm unsure if they want me to bring ID, then they want me to use my password and username? If I don't click yes, then I'm worried I wouldn't be able to go to my appointment." Participant 3, Veteran Interview
 
-> _Supporting data: Quote here_
+<br>
 
+**Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task**
 
-**Finding 3**
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
 
-Labels: label 1, label 2 
+Veterans aren't looking for a login upgrade, their current option is always going to be preferred to an unknown method requiring set up. If Login.gov is the only option available, it's far more clear to Veterans that they need to switch. Veterans gravitate towards whichever login option is familiar or appears to be the most direct route for the task they need to complete.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> "I seem to press 'My HealtheVet' more often than not. I think it's because that is where I'm going. It feels more direct, like it's getting me right in." Participant 10, Veteran Interview
 
-Brief description
+> "If you keep presenting me with those same options every time, just out of habit, I'm going to keep doing what I've been doing." Participant 7, Veteran Interview
 
-> _Supporting data: Quote here_
+<br>
 
-> _Supporting data: Quote here_
+**Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices**
 
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
+
+When Veterans choose an MFA option, they consider ease of set up and use, and intrusiveness. While biometrics can first feel like a violation, it's embraced over time as an easy, familiar option.
+
+The most commonly chosen MFA options, like face, touch, text and codes, are instant but less secure. And while security keys are easy to use in principle and more secure, Veterans see them as unfamiliar and aren't interested in learning something new. On top of this, ingrained responsibility for government-issued property undermines the perception that security keys are easy.
+
+> "I'm old, using something new makes me feel old and dumb." Participant 26, Veteran Intercept
+
+> "My personal concern is not being able to use my own device resulting in not being able to have the password securely generated and stored in my password manager. I do not want to have to write this password down." Participant 7, Veteran Interview
+
+<br>
+
+**Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information**
+
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
+
+Shared access asks Veterans to consider who they trust and who will take care of them in the future, which can evolve or change over time. With more complex care situations, caretakers recognize the need for nuanced permissions when accessing a Veterans' information. Veterans and their support systems find it important that a Veteran is able to grant and revoke shared access and see exactly what has been accessed by others.
+
+> "I would feel fine about [giving access] to my wife. She's the pilot and I'm the copilot. It would be convenient." Participant 18, Veteran Intercept
+
+> "What if I'm going through a divorce and they use my medical records against me? 75% of my disability is PTSD. In court, it could be used against me in terms of childcare rights. But there is a need regardless, if I'm blind or can't print out a prescription." Participant 3, Veteran Interview
+
+<br>
+
+**Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential**
+
+Labels: AUD: Veterans, SPG: Cognitive Consideration, PRDT: Login.gov, PRDT: Login, BNFT: Healthcare, VETJNY: Taking care of themselves
+Veteran, RESRCH: Generative (discovery), RESRCH: Evaluative, RESRCH: Interviews, RESRCH: In-person
+
+Many older Veterans want to be empowered to try and do things online themselves, but we should recognize that their troubleshooting skills may be limited. Rather than needing to fully understand the problem or technology, Veterans would benefit from having a sherpa, a person or artifact, that can guide them through the steps in a way that makes sense to them.
+
+Knowing that quality, dedicated help is available makes Veterans more willing to try to create a new credential on their own, and see the process to the end. Even technologically challenged Veterans see benefits in My HealtheVet services, they just need a trusted intermediary who can assist them to set up and learn how to use it.
+
+> "Plenty of people use MFA and have issues. My parents would be a great example of technologically challenged people that need help – but usually they just have to learn how to do it a few times, get used to it and then they are fine." Participant 12, Veteran Intercept
+
+> "The lady at the desk here is already busy, she has to check in more people and get them set up with healthcare. She doesn't have time to help me set up Login.gov, then people would be waiting. But maybe there if there's someone else in a different room..." Participant 6, Veteran Intercept
+
+<br>
 
 ## Additional Insights [TO UPDATE]
 
