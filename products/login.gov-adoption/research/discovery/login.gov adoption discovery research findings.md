@@ -6,7 +6,7 @@ Date: 11/23/2022
 
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-*[Link to research readout deck to be added]*
+*[Link to research readout deck will be added]*
 
 ## Research goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
@@ -47,77 +47,47 @@ Through our research, we hoped to explore how the VA can most successfully migra
 
 ## Hypotheses and conclusions
 
-**When should proactive intervention encourage the creation of a Login.gov account?**
 |Hypothesis|Conclusion|
 |:---|:---|
+|**When should proactive intervention encourage the creation of a Login.gov account?** | |
 |Veterans go through extensive proofing when they apply for healthcare, so they should proactively set up their Login.gov accounts when getting their VHIC.|Definitely True|
 |Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium, so they should proactively set up their Login.gov accounts when they upgrade to Premium.|Definitely True|
 |Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.|Definitely True|
 |Combining with an appointment reminder will make it convenient for Veterans.|Definitely True|
-
-**What do Veterans find important or beneficial when choosing a login credential?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**What do Veterans find important or beneficial when choosing a login credential?**| |
 |Messaging around safety and security will increase adoption.|Likely False|
 |Veteran's need to be reassured that there will be no gap in their ability to access My HealtheVet.|Definitely True|
 |Access to services outside of the VA will be the biggest selling point for Login.gov.|Likely False|
-
-**How do we communicate the need to migrate to Login.gov to access services?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**How do we communicate the need to migrate to Login.gov to access services?**| |
 |Using metaphors, like a 'master key' or describing Login.gov as a 'portal' not a destination, will make it easier for Veterans to understand the benefits of Login.gov.|Definitely False|
 |Adding a deadline will set expectation that setting up Login.gov is not optional.|Likely True|
-
-**How do we support Veterans and non-Veterans after they set up Login.gov?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**How do we support Veterans and non-Veterans after they set up Login.gov?**| |
 |The first few steps in the login flow are confusing, particularly being redirected back to VA.gov and cause drop-offs.|Definitely True|
 |People need in-person support to learn how to use Login.gov.|Definitely True|
-
-**When people in-person proof and migrate their account, what issues arise for them?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**When people in-person proof and migrate their account, what issues arise for them?**| |
 |Veterans need a reminder to help them bring the right identification before they do in-person proofing.|Definitely True|
 |Veterans feel uncomfortable giving their ID to a VA staff member who is not familiar to them.|Definitely False|
 |Veterans feel insecure learning that a VA staff member knows that they're eligible for in-person proofing because they can see it in their records.|Definitely False|
-
-**What resources or workflows will help with issues during in-person proofing & migration?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**What resources or workflows will help with issues during in-person proofing & migration?**| |
 |Making it clear what to bring to an appointment will help Veterans succeed with in-person proofing.|Definitely True|
 |Veterans will be open to doing in-person proofing while they wait for another appointment, or after an appointment, as long it's clear that it is optional.|Definitely True|
 |Veterans will be open to other trusted VA roles who can verify (such as a nurse at a doctor's appointment) especially if it makes it more convenient for them.|Likely True|
-
-**How do Veterans understand the process of choosing and using a multi-factor authentication method?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**How do Veterans understand the process of choosing and using a multi-factor authentication method?**| |
 |Veterans are unfamiliar with the multi-factor authentication process and how to do it.|Likely False|
 |Frustration or issues using multi-factor authentication leads to an aversion of using VA digital services & My HealtheVet.|Likely False|
-
-**Which multi-factor authentication options will allow more Veterans to migrate to Login.gov?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**Which multi-factor authentication options will allow more Veterans to migrate to Login.gov?**| |
 |Current multi-factor authentication options present challenges to Veterans with technology issues or disabilities.|Likely True|
 |Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Definitely True|
 |Security keys might be easier for Veterans to use.|Likely True|
 |A security key could be a useful backup option, if Veterans are encouraged to set up more than one multi-factor authentication option.|Definitely True|
 |Security keys can be useful for homeless Veterans, to access services at a library for example.|Not enough information|
-
-**How can MFA support non-Veterans who need access to parts of a Veterans’ information?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**How can MFA support non-Veterans who need access to parts of a Veterans’ information?**| |
 |Security keys will provide benefits for managing caregiver access security.|Likely True|
 |It helps that the person being cared for can see that their caretaker is using the security key.|Likely True|
-
-**Which non-Veteran users would Veterans choose to set up access for, when and why?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**Which non-Veteran users would Veterans choose to set up access for, when and why?**| |
 |Veterans will choose to set up access for their caretakers or family members if they're currently being cared for.|Definitely True|
 |If Veterans are not currently being cared for or don't need assistance yet, they will need to be convinced of reasons to set up shared access.|Definitely True|
-
-**How do non-Veterans imagine shared access to work for themselves and non-Veterans?**
-|Hypothesis|Conclusion|
-|:---|:---|
+|**How do non-Veterans imagine shared access to work for themselves and non-Veterans?**| |
 |Veterans will need to grant different levels of access to different people, depending on their relationships to them and what information they want them to see.|Definitely True|
 |Veterans will need reminders about who they have set up shared access for, so they can make changes and remove access when it's no longer relevant or safe.|Definitely True|
 |Veterans and those who want to be given shared access to Veterans' information will understand that this means they also need to set up a Login.gov credential.|Definitely False|
