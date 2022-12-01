@@ -1,7 +1,5 @@
 # Login.gov Adoption at a glance
 
-**Last updated November 23, 2022**
-
 ## Where to find us 
 
 - GitHub Label: login.gov-adoption  
