@@ -137,9 +137,9 @@ Rubric: _("Maybe True", “Likely True”, “Definitely True”, “Likely Fals
 
 7. Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.
 
-## Details of Findings [Work in Progress]
+## Details of Findings
 
-**Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.**
+**1. Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -156,7 +156,7 @@ Veterans aren't buying Login.gov, so rather than selling it to them they need cl
 
 <br>
 
-**Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.**
+**2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -173,7 +173,7 @@ Veterans are eager to share information that will benefit other Veteran, so thei
 
 <br>
 
-**Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.**
+**3. Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `MHV: Appointments`,`VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -190,7 +190,7 @@ Moving between online and offline touchpoints can create confusion – but clari
 
 <br>
 
-**Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.**
+**4. Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -203,7 +203,7 @@ Veterans will choose whichever login credential is most familiar, or appears to 
 
 <br>
 
-**Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.**
+**5. Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -218,7 +218,7 @@ Ingrained responsibility for government-issued property undermines the perceptio
 
 <br>
 
-**Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.**
+**6. Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.**
 
 Labels: `AUD: Veterans`, `AUD: Caregivers`,`PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -235,7 +235,7 @@ With more complex care situations, caretakers recognize the need for nuanced per
 
 <br>
 
-**Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.**
+**7. Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.**
 
 Labels: `AUD: Veterans`, `AUD: Contact Center`, `PRDT: Login.gov`, `PRDT: Login`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -256,12 +256,12 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 <br>
 
-## Additional Insights [TO UPDATE]
+## Additional Insights [TO WRITE]
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-## Recommendations [TO UPDATE]
+## Recommendations [TO WRITE]
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
@@ -276,33 +276,32 @@ _Put together initial recommendations here based on your findings along with sup
 _Next steps here. Include owners if appropriate._
 
 
-## Further research needed [TO UPDATE]
+## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+In the Appendix, we also note which underserved groups this study did not recruit for and recommend additional research studies with these Veterans in the future.
 
+## Appendix
 
-## Appendix [TO UPDATE]
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/login.gov%20adoption%20discovery%20research%20plan.md)
 
-[Research plan](link here)
+[Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/conversation%20guides)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
-
-## Tools used for Synthesis [TO UPDATE]
-
-e.g. mural boards, etc.  
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/interview%20transcripts)
 
 
-## Pages and applications used [TO UPDATE]
+## Synthesis tools user
+
+[Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1666383277526/3e1070d153ce32dc1ba7163fa99cc5f1c2414dd0)
+
+
+## Pages and applications used
 
 Link to prototypes or pages that were tested
 
 
 ## Other supporting documents created [TO UPDATE]
 
-e.g. user flows, personas, etc.
+[Service blueprint](add link)
 
 
 ## Secondary research [TO UPDATE]
@@ -312,96 +311,55 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to [TO UPDATE]
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+## Who we talked to [TO FINISH]
 
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 caregivers, but we did not collect intercepts' demographic data.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+- Veterans: 10
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+- Male: 3
+- Female: 8
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
+- 25-34: 1
+- 35-44: 2
+- 45-54: 1
+- 55-64: 6
+- 65-74: 1
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+- High school degree or equivalent: 1
+- Some college (no degree): 1
+- Associate's degree, trade certificate, or vocational training: 1
+- Bachelor's degree: 4
+- Master's degree: 3
+- Unknown: 1
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+- Urban: 9
+- Rural: 2
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+- White: 9
+- Black: 2
+- Hispanic: 0
+- Biracial: 1 (Native and White)
+- Asian: 0
+- Native: 1
+
+Disability and Assistive Technology:
+- Cognitive disability: 3
+
+**Recruitment criteria** [MOVE FROM RESEARCH PLAN]
 
 
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+## Underserved groups we haven’t talked to
 
+Our findings may not include the perspectives of the following underserved Veteran groups, Veterans with a cognitive disability, who identify as Native or who identify as LGBTQ+. And we don’t have data on whether Veterans included in our study have mobile devices, were other than honorable, or, are of immigrant origin.
 
-## Underserved groups we haven’t talked to [TO UPDATE]
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+We recommend studies with these underserved groups in the future, including in particular, unhoused Veterans.
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
