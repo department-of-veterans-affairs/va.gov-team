@@ -271,7 +271,7 @@ The tree tests will be open for two weeks, with the starting date December 12.
 This is an asynchronous online test. Participants are expected to spend 15 - 20 minutes. 
 
 ### Data collection
-* Planned dates of research: **date - date**
+Planned dates of research: **12/12/2022 - whenever we receive roughly 50 completed tests**
 
 
 ## Team Roles	
