@@ -53,6 +53,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 For the context of this session, you are applying for health care using the online apllication found on VA.gov. I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 
+[Confirm with participant whether they're using desktop/laptop or mobile device]
+
 Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 - [Send link to prototype in Zoom chat]
