@@ -63,6 +63,14 @@ Currently there is not a unified definition for each of the non-Veteran customer
 ### User problem statements
 - As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
 ###
+
+## [#3 - Account Migration (Inherited Proofing)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/inherited%20proofing)
+As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
+### Desired user outcomes
+- Eligible users should be able to easily move their verified identity from DS Logon to Login.gov.
+### User problem statements
+- As a VA.gov user I want to use modern, secure Credential Service Providers (CSPs) So that I can ensure that my information is safe when accessing VA services.
+###
 ## Requirements and Constraints 
 
 ### Requirements
