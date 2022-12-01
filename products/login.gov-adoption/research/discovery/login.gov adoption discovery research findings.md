@@ -227,8 +227,6 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 > "I would walk away at this point unless someone is walking through it on my phone with me." Participant 7, Veteran Interview
 
-<br>
-
 ## Additional insights
 
 Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
@@ -257,12 +255,10 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 * Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.
 * Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.
 
-
 ## Next steps
 
 * Develop a roadmap and implementation for this program of work
 * Plan future research studies to build on learnings
-
 
 ## Further research
 
@@ -284,13 +280,12 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 ## Pages and applications used
 
-*[Link to prototypes to be added]*
+[Research stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/research%20stimuli)
 
 ## Other supporting documents created
 
-*[Link to service blueprint to be added]*
-*[Link to research readout deck to be added]*
-*[Link to sprint demo deck with insights to be added]*
+*[Link to service blueprint will be added]*
+*[Link to research readout deck will be added]*
 
 ## Secondary research
 
@@ -308,6 +303,8 @@ To gain a deeper understanding of the challenges with credential service provide
 * Stephania Griffin: Privacy VHA
 * 1 working session about Non-Veteran user roles
 * 2 focus groups with MHV Coordinators
+
+In our [Sprint Demo decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/presentations/sprint%20demos) there are specific insights from these expert interviews. These interviews informed our research plan and conversation guide for this discovery.
 
 ## Who we talked to
 
