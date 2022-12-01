@@ -250,10 +250,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener for Veterans
 
-1. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
-    - Yes, I have used an online patient portal in the past 12 months *(go onto additional screener questions)* 
+1. Are you enrolled in VA healthcare and have used MyHealtheVet tool in the last 12 months to manage your health care online? MyHealtheVet tool is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications.
+    - Yes to both.(eligible)
     - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
-  
+    - 
 ### Screener for Family members /Caregivers
 
 
@@ -277,7 +277,7 @@ Planned dates of research: **12/12/2022 - whenever we receive roughly 50 complet
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Research lead:	Jenny Wang (email)
+- Research lead:	Jenny Wang (yizhen.wang@va.gov)
 - Research support: Robyn Singleton (robyn.singleton@adhocteam.us)
 
 ## Approvals
