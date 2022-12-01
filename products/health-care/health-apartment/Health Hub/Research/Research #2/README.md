@@ -1,0 +1,2 @@
+**Final docs and findings related to IA/tree testing efforts have been moved to the Digital Health Modernization folder.**  
+Files remaining in this directory are draft and older versions.  Please reference [final files in the digital health modernization folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1).
