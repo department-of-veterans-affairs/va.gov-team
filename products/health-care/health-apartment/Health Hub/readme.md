@@ -10,7 +10,9 @@
 ## Product research
 
 - [Comparative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20Comparative%20research%20vF.pdf)
-- Research files for tree testing moved to here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1
+
+**Final docs and findings related to IA/tree testing efforts have been moved to the Digital Health Modernization folder.**  
+Files remaining in this directory are draft and older versions.  Please reference [final files in the digital health modernization folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1).
 
 ## Communications
 
