@@ -261,19 +261,19 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 ## Additional insights
 
-* Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
+Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
 
 > "I use ID.me because I get shopping kickbacks. There's an incentive with ID.me, but I don't really see a benefit when it comes to Login.gov." Participant 5, Veteran Interview
 
-* Frustrating past experience with helplines, in general, makes Veterans hesitant to call a helpline for support with Login.gov.
+Frustrating past experience with helplines, in general, makes Veterans hesitant to call a helpline for support with Login.gov.
 
 > "The people [on one helpline] are not compassionate, they give me generic answers that aren't useful. They can be condescending, rude, talking over me, and argue." Participant 10, Veteran Interview
 
-* People expect identity proofing in-person to take around 5 to 10 minutes.
+People expect identity proofing in-person to take around 5 to 10 minutes.
 
 > "You keeping me longer at my appointment is keeping me away from making more money. If I'm expecting an appointment to already be 2 hours long, 2.5 hours is not acceptable. Because I have to go back to work."
 
-* Once Veterans are logged in, they find immense value in My HealtheVet, as a useful, convenient and easy to use service.
+Once Veterans are logged in, they find immense value in My HealtheVet, as a useful, convenient and easy to use service.
 
 > "All I need to do is message people and refill prescriptions, which is really helpful on the My HealtheVet app while on-the-go."
 
@@ -287,14 +287,13 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 |Help Veterans become familiar with Login.gov by making it an obvious default.|Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.|
 |Recommend MFA options that are appropriate and meet each Veterans' specific needs.|Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.|
 |Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.|Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.|
-|Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.
-Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.|
+|Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.|Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.|
 
 
 ## Next steps
 
-- Develop a roadmap and implementation for this program of work.
-- Plan future research studies to build on learnings.
+- Develop a roadmap and implementation for this program of work
+- Plan future research studies to build on learnings
 
 
 ## Further research needed
@@ -378,12 +377,6 @@ Disability:
 - Cognitive disability: 2
 
 **Recruitment criteria**
-
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20|16|20|||| 
-
-#### Criteria breakdown  
 
 |                |Migration: 13 total|Procative: 7 total|
 |----------------|:----------:|:------:|
