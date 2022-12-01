@@ -13,7 +13,7 @@ With this research effort, we seek to better understand this user journey and id
 In 2017, Congress passed the [Appeals Modernization Act](https://www.benefits.va.gov/REPORTS/ama/#:~:text=The%20Veteran%20Appeals%20Improvement%20and,handling%20disagreements%20with%20VA's%20decisions.), which was intended to improve the speed and favorability of VA claims and appeals. The process before that is referred to internally as the “legacy appeals” process. The new process introduces Higher Level Review, Supplemental Claim, and Board Appeal as options for Veterans in the appeals process. 
 
 ### Current Appeals Flow
-![Appeals Flows Desk Research_2022-11-30_20-46-42](https://user-images.githubusercontent.com/95102058/204904665-57d4b49a-b384-4f85-9ae9-2b0b06e12c71.png)
+![Appeals Flows Desk Research_2022-12-01_22-05-48](https://user-images.githubusercontent.com/95102058/205169093-d5a28b69-347e-4c9b-904f-85d967b1a49b.png)
 
 ## Previous Research
 - [Research on Appeals with VSOs](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/appeals/discovery/VSOs-Interviews/Discovery-Research-VSOs%20(1).pdf) (2020)
