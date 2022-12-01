@@ -1,11 +1,10 @@
-# Login.gov Adoption Team Charter
+# Login.gov Adoption team charter
 
 ## What we strive for
 
 The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive. VA needs a streamlined way for Veterans to sign-in and securely access products and services.
 
 **Vision**
-
 - One sign-on to access all products and services.
 - Veteran choice of “public” or “private” credential option for VA.gov
 
