@@ -50,7 +50,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
 - Basic location information 
   - How important to the Veteran is the relationship of "child" locations to the RO?
   - Do facilities have separate mailing addresses for claims from their physical address for appointments?
-    - https://www.benefits.va.gov/whiteriverjunction/ 
+    - Example - https://www.benefits.va.gov/whiteriverjunction/ 
   - Do Veterans understand the different types of facilities (or does that matter?)
   - What are the questions Veterans want answered by calling the phone number(s)?
   - Prepare for your visit
@@ -63,11 +63,11 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - Is there an online version of this tool?
     - Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
     - Is there a need to provide performance data on claims (similar to wait times at VAMCs?)
-      - https://www.benefits.va.gov/REPORTS/detailed_claims_data.asp 
+      - Example - https://www.benefits.va.gov/REPORTS/detailed_claims_data.asp 
  - Events 
     - Are these National? Local? Hybrid? And what is the maintenance load?
     - How to account for recurring outreach events which take place at VAMCs / Vet Centers?
-      - https://www.benefits.va.gov/ROPHOENIX/index.asp 
+      - Example - https://www.benefits.va.gov/ROPHOENIX/index.asp 
     - [Event examples from audit](https://app.mural.co/t/vagov6717/m/vagov6717/1660588245137/17e30f1f578bfeb51b90c051e7f5124e57a835e5?wid=0-1660766378091)
  - Subscribe to updates   
     - Will this use GovDelivery?
@@ -76,7 +76,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
  - Veteran Service Organizations (VSOs) located at that facility
     - Is this critical path or fast-follow?
     - Might these be listed as a Service at the facility?
-    - https://www.va.gov/disability/get-help-filing-claim/
+    - Related - https://www.va.gov/disability/get-help-filing-claim/
  - How might we (or do we?) detect and re-use content from co-located VHA facilities to prevent duplication
     - Photos
     - Facility names
@@ -84,10 +84,10 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
 
 #### Likely out of MVP Scope
 - Leadership profiles
-  - https://www.benefits.va.gov/ROANCHORAGE/leadership.asp
+  - Example - https://www.benefits.va.gov/ROANCHORAGE/leadership.asp
 - Work status for employees
-  - https://www.benefits.va.gov/ROANCHORAGE/work-status.asp 
+  - Example - https://www.benefits.va.gov/ROANCHORAGE/work-status.asp 
 - Translated version of pages
-  - https://benefits.va.gov/sanjuan/es/
+  - Example - https://benefits.va.gov/sanjuan/es/
 
 **Product sitemap:** https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9
