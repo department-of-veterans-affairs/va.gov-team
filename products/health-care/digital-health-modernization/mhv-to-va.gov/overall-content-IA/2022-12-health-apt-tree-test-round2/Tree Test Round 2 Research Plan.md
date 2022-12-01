@@ -67,25 +67,29 @@ Tasks[Link to Optimal Workshop](url goes here)
 ## Recruitment
 
 ### Recruitment approach
+
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) on a [folder on the sensitive repo](set up and link). 
 
 ## Recruitment criteria
+
 We will schedule a total of 70 participants for a completion rate of 50 tree tests.  
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |               | 
+|     54        |        40-50     |   18   |      18     |    18    |               | 
 
 ### Criteria Table
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |            |        |        |        |        |        |        |        |        |        |         |
+|Male            |            |        |   9    |        |        |        |        |        |        |        |         |
+|Female          |            |   9    |        |   3    |   3    |    3   |   3    |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |  2     |  2     |    2   |   2    |   2    |    2   |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
 |Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
@@ -97,7 +101,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |    3   |     3  |    3   |    5   |    9   |   0    |        |        |        |         |
 |Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
@@ -106,7 +110,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |    9   | 9      |   9    |    9   |  9     |   9    |        |        |        |         |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
@@ -120,14 +124,14 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |            |  9     |   9    |    9   |   9    |    0   |    0   |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
 |Pension         |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
 |***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |   9    |   9    |    9   |   9    |   9    |   9    |        |        |        |         |
 |Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
 |Army            |            |        |        |        |        |        |        |        |        |        |         |
 |Navy            |            |        |        |        |        |        |        |        |        |        |         |
@@ -139,10 +143,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
-|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |            |        |        |        |        |        |        |        |        |        |         |
-|High School     |            |        |        |        |        |        |        |        |        |        |         |
+|Elementary      |            |        |   1    |        |   1    |        |    1   |        |        |        |         |
+|Intermediate    |            |   1    |        |   1    |        |   1    |        |        |        |        |         |
+|GED             |            |        |   1    |        |   1    |        |    1   |        |        |        |         |
+|High School     |            |   1    |        |   1    |        |    1   |        |        |        |        |         |
 |Some College    |            |        |        |        |        |        |        |        |        |        |         |
 |Associate's     |            |        |        |        |        |        |        |        |        |        |         |
 |Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
@@ -182,6 +186,76 @@ What demographics, experience, and scenarios do you need participants to meet to
 |IAL2            |            |        |        |        |        |        |        |        |        |        |         |
 |IAL3            |            |        |        |        |        |        |        |        |        |        |         |
 
+---
+**Identity Assurance Levels**
+
+- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
+
+- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
+
+- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
+
+---
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
+|Font resizing/larger                                         |            |
+|Screen reader                                                |            |
+|Braille terminal                                             |            |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|            |
+|Closed captions                                              |            |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |            |
+|Sign language interpreter                                    |            |
+|Speech-to-speech transliterator                              |            |
+|Visual aids                                                  |            |
+|Writing on paper                                             |            |
+|Typing with phone or tablet and showing it to others         |            |
+|Caregiver                                                    |            |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|*Various*                                                    | 1-2 per cohort|
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |            |
+       
+
+### Screener for all participants
+
+### Screener for Veterans
+
+1. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
+    - Yes, I have used an online patient portal in the past 12 months *(go onto additional screener questions)* 
+    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
+  
+### Screener for Family members /Caregivers
+
 
 ## Timeline
 
@@ -219,3 +293,71 @@ The prioritized tasks, linked to our testing objective, were carefully curated s
 
 [Link to trees]()
 
+## Appendix B: Recruitment email {#appendix-b-recruitment-email}
+
+
+```
+Subject: Participate in research with VA
+Hello,
+The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
+We are looking for Veterans who are interested in participating in an online activity to help us understand your preferences.
+What will I be doing in this activity?
+You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
+How long is the activity?
+The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
+Interested in participating?
+Please reply to this email to receive the activity link and a participation code.
+```
+
+
+
+## Appendix C: Recruitment email (for caregiver and family cohort)
+
+
+```
+Subject: Participate in research with VA
+Hello,
+The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
+We are looking for caregivers of Veterans who are interested in participating in an online activity to help us understand your preferences.
+What will I be doing in this activity?
+You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
+How long is the activity?
+The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
+Interested in participating?
+Please reply to this email to receive the activity link and a participation code.
+```
+
+
+
+## Appendix D:  Email to recruited participant (cohort A-G)
+
+```
+Hello,
+
+Thank you for agreeing to take part in this study. This activity shouldn't take more than 15 minutes to complete. You can complete the study using a tablet, phone, or computer.
+
+This study is anonymous. None of the information or feedback you share will be directly attributed to you. 
+
+Instructions:
+You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above. There are no wrong answers.
+
+Click this <<link>> to begin the study.
+```
+
+
+
+## Appendix E:  Email to recruited participant (cohort H-N)
+
+
+```
+Hello,
+Thank you for agreeing to take part in this study. This activity shouldn't take more than 15 minutes to complete. You can complete the study using a tablet, phone, or computer.
+
+This study is anonymous. None of the information or feedback you share will be directly attributed to you. 
+
+Instructions:
+You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above. There are no wrong answers.
+
+Click this <<link>> to begin the study.
