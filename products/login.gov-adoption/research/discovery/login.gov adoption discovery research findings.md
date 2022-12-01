@@ -354,11 +354,11 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 
 ||Migration: 13 total|Proactive: 7 total|
 |----------------|:----------:|:------:|
-|***GENDER***    |            |        |
+|**GENDER**    |            |        |
 |*Various*       |      4     |   1    |
 |Male            | 2 minimum  |2 minimum|
 |Female          |  7 minimum |    4   |
-|***LGBTQ+***    |            |        |
+|**LGBTQ+**    |            |        |
 |*Various*       | 1 minimum  |1 minimum|
 |Gay             |            |        |
 |Lesbian         |            |        |
@@ -370,7 +370,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Queer           |            |        |
 |Two-Spirit      |            |        |
 |       ---      |     ---    |   ---  |       
-|***RACE***      |            |        |              
+|**RACE**      |            |        |              
 |*Various*       |      5     |    3   |
 |Black           |      2     |   1    |             
 |White           |            |        |                 
@@ -379,7 +379,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Native          |      1     |        |               
 |Pacific Islander|      1     |   1    |                 
 |       ---      |     ---    |   ---  | 
-|***AGE***       |            |        |
+|**AGE**       |            |        |
 |*Various*       |      2     |    2   |
 |18-24 yo        |      1     |        |
 |25-34 yo        |      1     |        |
@@ -387,7 +387,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |45-54 yo        |      1     |   1    |
 |55+ yo          |      7     |   4    |
 |      ---       |     ---    |   ---  |
-|***BENEFITS***  |            |        |
+|**BENEFITS**  |            |        |
 |*Various*       |       4    |    2   |
 |*No Ben/Ser Exp*|       0    |    0   |
 |Disability      |            |        |
@@ -400,7 +400,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Memorialization |            |        |
 |Pension         |            |        | 
 |       ---      |     ---    |   ---  |     
-|***BRANCH***    |            |        |
+|**BRANCH**    |            |        |
 |*Various*       |      3     |   2    |
 |Marine Corps    |      2     |    1   |
 |Army            |      2     |    1   |
@@ -411,7 +411,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Nat. Guard      |      2     |    1   |
 |Pub Hlth Corps  |            |        |
 |       ---      |     ---    |   ---  |
-|***EDUCATION*** |            |        |
+|**EDUCATION** |            |        |
 |*Various*       |     4      |   1    |
 |Elementary      |            |        |
 |Intermediate    |            |        |
@@ -424,45 +424,43 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Professional    |  1 maximum |1 maximum|
 |Doctoral        |  1 maximum |   0    |
 |       ---      |     ---    |   ---  |
-|***RESIDENCE*** |            |        |
+|**RESIDENCE** |            |        |
 |*Various*       |      4     |    1   |
 |Urban           |      2     |    2   |
 |Rural           |     7      |    4   |
 |       ---      |     ---    |   ---  |
-|***HARDWARE***  |            |        |
+|**HARDWARE**  |            |        |
 |*Various*       |     6      |   4    |
 |Desktop         |            |        |
 |Laptop          |            |        |
 |Smartphone      |     5      |   3    |
 |Tablet          |     2      |   1    |
 |       ---      |     ---    |   ---  |
-|***WEBSITE***   |            |        |
+|**WEBSITE**   |            |        |
 |*Various*       |            |        |
 |VA.gov(has acct)|            |        |
 |VA.gov(no acct) |            |        |
 |MyHealtheVet    |            |        |
 |Ebenefits       |            |        |
 |       ---      |      ---   |   ---  |
-|***LOGIN***     |            |        |
+|**LOGIN**     |            |        |
 |*Various*       |     13     |  7     |
 |DS Logon        |            |        |
 |My HealtheVet   |            |        |
 |ID.me           |     0      |   0    | 
 |Login.gov       |     0      |   0    |
 |       ---      |      ---   |   ---  |
-|***ID PROOF***  |            |        |
+|**ID PROOF**  |            |        |
 |*Various*       |     13     |    7   |
 |IAL1            |            |        |
 |IAL2            |            |        |
 |IAL3            |     0      |   0    |
 
----
-
 #### Assistive Tech and Cognitive Impairment will apply across cohorts
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |            | 
+|**ASSISTIVE TECH**                                        |            | 
 |*Various*                                                    |            |
 |Font resizing/larger                                         |            |
 |Screen reader                                                |      0     |
@@ -493,7 +491,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |Typing with phone or tablet and showing it to others         |      0     |
 |Caregiver                                                    |      7     |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|**COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES**  |            |
 |*Various*                                                    |     20     |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
