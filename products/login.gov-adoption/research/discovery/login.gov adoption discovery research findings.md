@@ -456,7 +456,7 @@ We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 c
 |IAL2            |            |        |
 |IAL3            |     0      |   0    |
 
-#### Assistive Tech and Cognitive Impairment will apply across cohorts
+Assistive Tech and Cognitive Impairment will apply across cohorts:
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
