@@ -277,26 +277,24 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 
 > "All I need to do is message people and refill prescriptions, which is really helpful on the My HealtheVet app while on-the-go."
 
-## Recommendations (work in progress)
+## Recommendations
 
-|Recommendation|Evidence|
-|:---|:---|
-|Explain the the need for setting up Login.gov, to make Veterans more likely to adopt it.| Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.|
-|Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.|Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.|
-|Make it easy to bundle identity proofing with existing appointments or schedule in-person proofing without needing to fail first.|Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.|
-|Help Veterans become familiar with Login.gov by making it an obvious default.|Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.|
-|Recommend MFA options that are appropriate and meet each Veterans' specific needs.|Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.|
-|Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.|Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.|
-|Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.|Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.|
+* Explain the the need for setting up Login.gov, to make Veterans more likely to adopt it.
+* Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.
+* Make it easy to bundle identity proofing with existing appointments or schedule in-person proofing without needing to fail first.
+* Help Veterans become familiar with Login.gov by making it an obvious default.
+* Recommend multi-factor authentication options that are appropriate and meet each Veterans' specific needs.
+* Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.
+* Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.
 
 
 ## Next steps
 
-- Develop a roadmap and implementation for this program of work
-- Plan future research studies to build on learnings
+* Develop a roadmap and implementation for this program of work
+* Plan future research studies to build on learnings
 
 
-## Further research needed
+## Further research
 
 We recommend further research is done to understand which method multi-factor authentication methods will best support less technologically-savvy Veterans, Veterans who are unhoused, and Veterans with more severe cognitive disabilities.
 
@@ -310,7 +308,6 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/interview%20transcripts)
 
-
 ## Synthesis tools used
 
 [Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1666383277526/3e1070d153ce32dc1ba7163fa99cc5f1c2414dd0)
@@ -319,20 +316,28 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 *[Link to prototypes to be added]*
 
-
 ## Other supporting documents created
 
 *[Link to service blueprint to be added]*
 *[Link to research readout deck to be added]*
 *[Link to sprint demo deck with insights to be added]*
 
+## Secondary research
 
-## Secondary research (TO DO)
+To gain a deeper understanding of the challenges with credential service providers and proofing across VA services, we spoke with several experts:
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+* Carnetta Scruggs: MHV
+* Sonja Skinner: MHV
+* VSP Team: Account Migration
+* Dr. Carla Hill: TAP
+* Melissa Rebstock: VBA, VBO
+* Dr. Berkowitz: Data and Ethics
+* Matt Baum: Health Data Security
+* Laurie Baker: VBA, VACO
+* Danny Reed: VHIC
+* Stephania Griffin: Privacy VHA
+* 1 working session about Non-Veteran user roles
+* 2 focus groups with MHV Coordinators
 
 ## Who we talked to
 
