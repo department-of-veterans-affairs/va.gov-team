@@ -19,36 +19,115 @@ The fragmented sign-in experience is confusing for Veterans and non-Veterans fac
 
 ## What we work on
 
-### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product-outline.md)
+### [Product Outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
 
 ### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/roadmap)
 
 ## Workflow and cadences
 
-### Stand-up: People & product check-ins
+### Daily Standup:
 
-This is a daily team meeting at 10:00 am ET. We use this meeting to share updates about what we did yesterday, what we will do today, and any blockers. It helps us start the day in alignment.
+Time boxed ceremony where each team member answers the following questions:
+* What did I do yesterday?
+* What will I do today?
+* What impediments or blockers do I have that prevent me from completing my work?
 
-### Sprint planning
+Daily Standups:
 
-This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts up to 4 hours. We use this meeting to outline team and member focus, dicuss and estimate user stories, and set goals for sprint.
+* Short and focused (15 min maximum)
+* Replaces the need for other status meetings
+* Facilitated by the PM (Scrum Master)
+* Occurs daily at the same time
+* Performed by the Team, for the Team
 
-### Refinement
+Purpose:
+* Report task progress
+* Report and remove impediments
 
-Thi is a bi-weekly meeting on the 2nd Thursday of every sprint. It lasts up to 2 hours. We use this meeting to assess and update workloads for the remainder of sprint and loosely discuss next/future sprint(s). To do this, we walk through each team member's Zenhub tickets to make sure tickets are ready to be discussed by sprint planning. By the end of refinement:
+__*The outcome of Daily Standup is to allow all Team members to have clarity into work being done, aiding collaboration*__ 
+
+### Sprint Planning: 
+
+This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts up to 4 hours. We use this meeting to outline team and member focus, dicuss and estimate user stories, and set goals for sprint. This meeting is attended by the Product Team, PM, DSVA Lead, and the VA Product Owner 
+
+Prior to Sprint Planning
+* User Stories should be estimated using Story Points 
+* Capacity Planning (explained below) should be done
+* DSVA lead or Product Owner describes the highest priority User Stories and their business value
+* Team gets final clarification on User Stories and pulls them from the Backlog column into the Current Sprint Column as well as assigning them to the Sprint Milestone
+* Tasks are created and estimated
+ * Tasks are the indivual steps that need to be performed within a Story
+* Scrum Master (PM) ensures Team is not over or under committed
+* Team commits to completing the now defined Sprint Backlog
+
+__*The outcome of a Sprint Planning meeting is a Team accepted Sprint Backlog*__
+
+Capacity Planning: 
+An activity held in preparation for Sprint Planning to:
+
+* Determine max amount of hours each Team member has available to complete work within a Sprint 
+* Ensure the Team does not take on more work than is reasonable
+* Determine a realistic work schedule for the Team
+* Account for external commitments, such as out-of-office time and outside projects
+* Receive input provided by the Team
+
+
+### Backlog Refinement:
+
+Thi is a bi-weekly meeting on the 2nd Thursday of every sprint where the Product Owner and PM groom the Backlog (description below), along with available members of the Product Team. It lasts up to 2 hours. We use this meeting to assess and update workloads for the remainder of sprint and loosely discuss next/future sprint(s). To do this, we walk through each team member's Zenhub tickets to make sure tickets are ready to be discussed by sprint planning. By the end of refinement:
 - 100% of tickets have are associated with an epic.
 - 100% of tickets have acceptance criteria.
 - 100% of tickets are appropriately labeled.
 
 We each review `needs-grooming` tickets within our associated discipline (determined by the right GitHub label e.g. `frontend`) before refinement.
 
-### Sprint review 
+* Grooming may include the following:
+  * Adding items
+  * Removing Items
+  * Changing Priority
+  * Breaking down Epics and User Stories
+  * Changing Acceptance Criteria
+* These meetings occur throughout the project within a sprint
+
+__*The outcome of a Backlog Refinement meeting is a Prioritized Backlog for work in future Sprints.*__
+
+
+What is a Backlog? 
+A continuously prioritized list of functional and non-functional project requirements, features, defects, and work items
+Purpose: 
+* Provides insight into project vision and focus
+* Displays priority and effort for each requirement
+* Used to communicate customer needs between Team, Customers, and Stakeholders
+
+Benefits:
+* Allows for long term planning and the ability to identify risks early
+* Single repository for requirements
+* Provides Team direction by prioritization 
+* Constantly inspected and adapted to reflect current customer needs
+
+### Sprint Review: 
 
 This is a bi-weekly meeting on the 2nd Wednesday of every sprint during which the team shows what was accomplished, while the stakeholders provide feedback. It is timeboxed to 2 hours. We use this meeting to review completed work and determine whether additional changes are needed.  
 
-### Retro
+Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads, and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.
 
-This is a bi-weekly meeting on the 2nd Wednesday of every sprint. It is timeboxed at 1.5 hours. We use this meeting to review our processes and identify opportunities to improve them.
+[Additional guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/vsa-sprint-demo.md#sprint-demo)
+
+* Held at the end of each Sprint to inspect completed work 
+
+### Sprint Retrospective:
+
+This is a bi-weekly meeting on the 2nd Wednesday of every sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. It is timeboxed at 1.5 hours. 
+
+* Retrospective discussion points:
+  * What went well?
+  * What did not go well?
+  * What action items are we tracking to help with improvements?
+
+__*The outcome of a Sprint Retrospective meeting is a Team determining and committing to 1-3 actionable items to improve during the next Sprint.*__
+
+
+[Agile Ceremony Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/agile-checklist.md)
 
 ## Issue documentation
 
