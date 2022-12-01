@@ -281,6 +281,8 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
+We recommend further research is done to understand how less technologically-savvy Veterans choose a multi-factor authentication method and which methods would best support them. We recommend this study also includes research with unhoused Veterans, so we can learn which multi-factor authentication methods will support them best.
+
 In the Appendix, we also note which underserved groups this study did not recruit for and recommend additional research studies with these Veterans in the future.
 
 ## Appendix
@@ -292,7 +294,7 @@ In the Appendix, we also note which underserved groups this study did not recrui
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/interview%20transcripts)
 
 
-## Synthesis tools user
+## Synthesis tools used
 
 [Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1666383277526/3e1070d153ce32dc1ba7163fa99cc5f1c2414dd0)
 
