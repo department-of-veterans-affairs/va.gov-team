@@ -1,6 +1,6 @@
 # Direct Deposit Use Cases
 
-**Last updated:** June 30, 2022
+**Last updated:** December 1, 2022
 
 Direct deposit use case documentation is available in this directory.
 
@@ -27,7 +27,6 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 ## Edge cases
 
 ### Flags 
-- [LOA3 user logs in and has a fiduciary/incompetent/deceased flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fiduciary.md) 
 - [LOA3 ID.me or Login.gov user tries to update their bank information, but they have a fraud or identity theft flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fraud.md)
 
 ### Validation
