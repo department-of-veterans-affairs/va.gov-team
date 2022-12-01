@@ -46,7 +46,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 
 ### Requirements
 
-- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/charter.md#vision).
+- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#vision).
 - Our work will put veterans first.
 - Our work will consider the full veteran experience — from logged out to logged in, from online to offline.
 - When we know information about veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
