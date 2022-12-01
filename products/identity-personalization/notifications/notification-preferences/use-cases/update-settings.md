@@ -5,7 +5,7 @@
 LOA3 users who sign in, go to the profile, and click into the notification settings page will be able to opt in or out of notifications available to them.
 
 ## UX
-* Users will see all notification preferences regardless of their benefits, with the exception of the health care preferences. Only health care recipients see the health care notification preferences.  
+* Users will see some notification preferences based on their benefits (e.g. health care preferences). Other notifications are available for all users (e.g. Appeals notifications).  
 * We display the contact information where notifications will be sent at the top of the page, along with a link to update that information.
 * Users can choose between “notify” or “don’t notify” for each notification.
 * [Desktop mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/09JgE8y)
