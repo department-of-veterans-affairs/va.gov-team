@@ -6,7 +6,7 @@ Date: 11/23/2022
 
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-*[Update with link to research readout deck once it's moved to Github]*
+*[Link to research readout deck to be added]*
 
 ## Research goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
@@ -122,7 +122,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |Veterans will need reminders about who they have set up shared access for, so they can make changes and remove access when it's no longer relevant or safe.|Definitely True|
 |Veterans and those who want to be given shared access to Veterans' information will understand that this means they also need to set up a Login.gov credential.|Definitely False|
 
-## Key Findings
+## Key findings
 
 1. Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.
 
@@ -261,12 +261,11 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 ## Additional Insights [TO WRITE]
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+* Additional Insight 1
 
+> Quote
 
 ## Recommendations [TO WRITE]
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Recommendation 1
     * _Supporting evidence_
@@ -276,12 +275,13 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps [TO UPDATE]
 
-_Next steps here. Include owners if appropriate._
+* Next step 1
+   * _Owner_
 
 
 ## Further research needed
 
-We recommend further research is done to understand how less technologically-savvy Veterans choose a multi-factor authentication method and which methods would best support them. We recommend this study also includes research with unhoused Veterans, so we can learn which multi-factor authentication methods will support them best.
+We recommend further research is done to understand which method multi-factor authentication methods will best support less technologically-savvy Veterans, Veterans who are unhoused, and Veterans with more severe cognitive disabilities.
 
 In the Appendix, we also note which underserved groups this study did not recruit for and recommend additional research studies with these Veterans in the future.
 
@@ -357,8 +357,171 @@ Race:
 Disability and Assistive Technology:
 - Cognitive disability: 3
 
-**Recruitment criteria** [MOVE FROM RESEARCH PLAN]
+**Recruitment criteria**
 
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20|16|20|||| 
+
+***Update: We worked with Perigean and were able to recruit 10 Veterans for scheduled interviews.***
+
+#### Criteria breakdown  
+
+|                |Migration: 13 total|Procative: 7 total|
+|----------------|:----------:|:------:|
+|***SEX***       |            |        |
+|*Various*       |     4      |  1     |
+|Male            | 2 minimum  |2 minimum|
+|Female          | 7 minimum  |   4    |
+|***LGBTQ+***    |            |        |
+|*Various*       | 1 minimum  |1 minimum|
+|Gay             |            |        |
+|Lesbian         |            |        |
+|Bisexual        |            |        |
+|Asexual         |            |        |
+|Transgender     |            |        |
+|Non-Binary      |            |        |
+|Gender-fluid    |            |        |
+|Queer           |            |        |
+|Two-Spirit      |            |        |
+|       ---      |     ---    |   ---  |       
+|***RACE***      |            |        |              
+|*Various*       |      5     |    3   |
+|Black           |      2     |   1    |             
+|White           |            |        |                 
+|Latinx          |      2     |    1   |                         
+|Asian           |      2     |   1    |            
+|Native          |      1     |        |               
+|Pacific Islander|      1     |   1    |                 
+|       ---      |     ---    |   ---  | 
+|***AGE***       |            |        |
+|*Various*       |      2     |    2   |
+|18-24 yo        |      1     |        |
+|25-34 yo        |      1     |        |
+|35-44 yo        |      1     |        |
+|45-54 yo        |      1     |   1    |
+|55+ yo          |      7     |   4    |
+|      ---       |     ---    |   ---  |
+|***BENEFITS***  |            |        |
+|*Various*       |       4    |    2   |
+|*No Ben/Ser Exp*|       0    |    0   |
+|Disability      |            |        |
+|Education       |            |        |   
+|Employment      |            |        |
+|Finances        |            |        |
+|Healthcare      |      9     |   5    |
+|Housing         |            |        |
+|Life Insurance  |            |        |
+|Memorialization |            |        |
+|Pension         |            |        | 
+|       ---      |     ---    |   ---  |     
+|***BRANCH***    |            |        |
+|*Various*       |      3     |   2    |
+|Marine Corps    |      2     |    1   |
+|Army            |      2     |    1   |
+|Navy            |      2     |    1   |
+|Air Force       |      2     |    1   |
+|Space Force     |            |        |
+|Coast Guard     |            |        |
+|Nat. Guard      |      2     |    1   |
+|Pub Hlth Corps  |            |        |
+|       ---      |     ---    |   ---  |
+|***EDUCATION*** |            |        |
+|*Various*       |     4      |   1    |
+|Elementary      |            |        |
+|Intermediate    |            |        |
+|GED             |     3      |   2    |
+|High School     |     3      |   2    |
+|Some College    |     3      |   2    |
+|Associate's     |  1 maximum |1 maximum|
+|Bachelors       |  1 maximum |1 maximum|
+|Masters         |  1 maximum |   0    |
+|Professional    |  1 maximum |1 maximum|
+|Doctoral        |  1 maximum |   0    |
+|       ---      |     ---    |   ---  |
+|***RESIDENCE*** |            |        |
+|*Various*       |      4     |    1   |
+|Urban           |      2     |    2   |
+|Rural           |     7      |    4   |
+|       ---      |     ---    |   ---  |
+|***HARDWARE***  |            |        |
+|*Various*       |     6      |   4    |
+|Desktop         |            |        |
+|Laptop          |            |        |
+|Smartphone      |     5      |   3    |
+|Tablet          |     2      |   1    |
+|       ---      |     ---    |   ---  |
+|***WEBSITE***   |            |        |
+|*Various*       |            |        |
+|VA.gov(has acct)|            |        |
+|VA.gov(no acct) |            |        |
+|MyHealtheVet    |            |        |
+|Ebenefits       |            |        |
+|       ---      |      ---   |   ---  |
+|***LOGIN***     |            |        |
+|*Various*       |     13     |  7     |
+|DS Logon        |            |        |
+|My HealtheVet   |            |        |
+|ID.me           |     0      |   0    | 
+|Login.gov       |     0      |   0    |
+|       ---      |      ---   |   ---  |
+|***ID PROOF***  |            |        |
+|*Various*       |     13     |    7   |
+|IAL1            |            |        |
+|IAL2            |            |        |
+|IAL3            |     0      |   0    |
+
+---
+
+#### Assistive Tech and Cognitive Impairment will apply across cohorts
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
+|Font resizing/larger                                         |            |
+|Screen reader                                                |      0     |
+|Braille terminal                                             |      0     |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|      0     |
+|Closed captions                                              |      0     |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |      0     |
+|Sign language interpreter                                    |      0     |
+|Speech-to-speech transliterator                              |      0     |
+|Visual aids                                                  |            |
+|Writing on paper                                             |      0     |
+|Typing with phone or tablet and showing it to others         |      0     |
+|Caregiver                                                    |      7     |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
+|*Various*                                                    |     20     |
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |            |
 
 ## Underserved groups we haven’t talked to
 
