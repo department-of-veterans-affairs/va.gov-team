@@ -24,7 +24,7 @@ There are no flags associated with this feature, but an account can be blocked b
 There are no validation use cases for this feature.
 
 ### System
-- [Something has gone wrong and VA.gov can’t match user information with our records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/system-cant-access-records.md)
+- [Something has gone wrong and VA.gov can’t match user information with our records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/system-cant-match-user-information.md)
 - [Something has gone wrong and MPI could not connect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/system-cant-access-records.md)
 
 ## Flow diagrams
