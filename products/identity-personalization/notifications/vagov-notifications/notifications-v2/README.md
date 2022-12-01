@@ -9,7 +9,7 @@ Last updated September 30, 2022
 
 ### Roles
 
-[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
+[Please see the on-site notifications product outline for the current team][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications#product-outline-on-site-notifications-ie-personalized-notifications-that-show-on-vagov))]
 
 ### Table of Contents
 
