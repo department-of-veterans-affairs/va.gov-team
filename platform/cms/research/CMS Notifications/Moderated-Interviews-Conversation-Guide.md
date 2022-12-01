@@ -7,7 +7,7 @@
 
 ## **Day of the session**
 
-10-15 min before the session:
+**10-15 min before the session:**
 
 
 
@@ -16,7 +16,7 @@
     * Share a summary of participant demographic info
     * Share Zoom link
 
-5-10 min before the session:
+**5-10 min before the session:**
 
 
 
