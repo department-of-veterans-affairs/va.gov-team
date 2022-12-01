@@ -132,7 +132,7 @@
 - GA: Drop off / Exit % by page
 
 
-## Task: [Insurance information] - 5 minutes
+## Task: [Insurance information] 
 **Data gathered from studies:**
 - Participant questions
 - Quotes
@@ -142,7 +142,7 @@
 - GA: Time on section
 - GA: Drop off / Exit % by page
 
-## Task: [Review page] - 3 minutes
+## Task: [Review page] 
 
 **Data gathered from studies:**
 - Participant questions 
@@ -150,5 +150,15 @@
 - Quotes
 - Observer ratings
 
-## Task: [Confirmation page] - 3 minutes
+## Task: [Confirmation page] 
+**Data gathered from studies:**
+- Participant questions
+- Quotes
+- Observer ratings
+
+
+## Task: [Post-Test Questions] 
+**Data gathered from studies:**
+- NPS Rating
+- Revist earlier prepared rating given on introduction page
 
