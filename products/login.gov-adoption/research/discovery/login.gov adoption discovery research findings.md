@@ -60,7 +60,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |:---|:---|
 |Messaging around safety and security will increase adoption.|Likely False|
 |Veteran's need to be reassured that there will be no gap in their ability to access My HealtheVet.|Definitely True|
-|Access to services outside of the VA will be a selling point for Login.gov.|Definitely True|
+|Access to services outside of the VA will be the biggest selling point for Login.gov.|Likely False|
 
 **How do we communicate the need to migrate to Login.gov to access services?**
 |Hypothesis|Conclusion|
@@ -259,24 +259,42 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 <br>
 
-## Additional Insights [TO WRITE]
+## Additional insights
 
-* Additional Insight 1
+* Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
 
-> Quote
+> "I use ID.me because I get shopping kickbacks. There's an incentive with ID.me, but I don't really see a benefit when it comes to Login.gov." Participant 5, Veteran Interview
 
-## Recommendations [TO WRITE]
+* Frustrating past experience with helplines, in general, makes Veterans hesitant to call a helpline for support with Login.gov.
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+> "The people [on one helpline] are not compassionate, they give me generic answers that aren't useful. They can be condescending, rude, talking over me, and argue." Participant 10, Veteran Interview
+
+* People expect identity proofing in-person to take around 5 to 10 minutes.
+
+> "You keeping me longer at my appointment is keeping me away from making more money. If I'm expecting an appointment to already be 2 hours long, 2.5 hours is not acceptable. Because I have to go back to work."
+
+* Once Veterans are logged in, they find immense value in My HealtheVet, as a useful, convenient and easy to use service.
+
+> "All I need to do is message people and refill prescriptions, which is really helpful on the My HealtheVet app while on-the-go."
+
+## Recommendations (work in progress)
+
+|Recommendation|Evidence|
+|:---|:---|
+|Explain the the need for setting up Login.gov, to make Veterans more likely to adopt it.| Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.|
+|Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.|Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.|
+|Make it easy to bundle identity proofing with existing appointments or schedule in-person proofing without needing to fail first.|Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.|
+|Help Veterans become familiar with Login.gov by making it an obvious default.|Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.|
+|Recommend MFA options that are appropriate and meet each Veterans' specific needs.|Perceived ease of use and paradoxical views about security inform Veterans' multi-factor authentication choices.|
+|Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.|Veterans don't think to set up shared access until life altering events make it necessary for others to have access to their information.|
+|Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.
+Having humanized, contextualized and dedicated help available motivates Veterans to set up and continue to use a credential.|
 
 
-## Next Steps [TO UPDATE]
+## Next steps
 
-* Next step 1
-   * _Owner_
+- Develop a roadmap and implementation for this program of work.
+- Plan future research studies to build on learnings.
 
 
 ## Further research needed
@@ -298,25 +316,26 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 [Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1666383277526/3e1070d153ce32dc1ba7163fa99cc5f1c2414dd0)
 
-
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+*[Link to prototypes to be added]*
 
 
-## Other supporting documents created [TO UPDATE]
+## Other supporting documents created
 
-[Service blueprint](add link)
+*[Link to service blueprint to be added]*
+*[Link to research readout deck to be added]*
+*[Link to sprint demo deck with insights to be added]*
 
 
-## Secondary research [TO UPDATE]
+## Secondary research (TO DO)
 
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to [TO FINISH]
+## Who we talked to
 
 We interviewed 10 participants. We also intercepted another 24 Veterans, and 2 caregivers, but we did not collect intercepts' demographic data.
 
@@ -324,38 +343,39 @@ Audience segment:
 - Veterans: 10
 
 Gender:
-- Male: 3
-- Female: 8
+- Male: 8
+- Female: 2
 
 Age:
-- 25-34: 1
+- 25-34: 0
 - 35-44: 2
-- 45-54: 1
-- 55-64: 6
-- 65-74: 1
+- 45-54: 2
+- 55-64: 2
+- 65-74: 3
+- 75-84: 1
 
 Education:
 - High school degree or equivalent: 1
-- Some college (no degree): 1
-- Associate's degree, trade certificate, or vocational training: 1
-- Bachelor's degree: 4
+- Some college (no degree): 3
+- Associate's degree, trade certificate, or vocational training: 0
+- Bachelor's degree: 2
 - Master's degree: 3
-- Unknown: 1
+- Doctoral degree: 1
 
 Geographic location:
-- Urban: 9
-- Rural: 2
+- Urban: 7
+- Rural: 3
 
 Race:
-- White: 9
-- Black: 2
-- Hispanic: 0
-- Biracial: 1 (Native and White)
-- Asian: 0
-- Native: 1
+- White: 7
+- Black: 3
+- Hispanic: 2
+- Biracial: 3
+- Asian: 1
+- Native: 0
 
-Disability and Assistive Technology:
-- Cognitive disability: 3
+Disability:
+- Cognitive disability: 2
 
 **Recruitment criteria**
 
@@ -363,13 +383,11 @@ Disability and Assistive Technology:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |20|16|20|||| 
 
-***Update: We worked with Perigean and were able to recruit 10 Veterans for scheduled interviews.***
-
 #### Criteria breakdown  
 
 |                |Migration: 13 total|Procative: 7 total|
 |----------------|:----------:|:------:|
-|***SEX***       |            |        |
+|***GENDER***       |            |        |
 |*Various*       |     4      |  1     |
 |Male            | 2 minimum  |2 minimum|
 |Female          | 7 minimum  |   4    |
@@ -529,5 +547,6 @@ Our findings may not include the perspectives of the following underserved Veter
 
 We recommend studies with these underserved groups in the future, including in particular, unhoused Veterans.
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+[VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1092692997)
+
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/VA%20recruitment%20checker.png)
