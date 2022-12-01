@@ -121,7 +121,7 @@ Gain a better understanding of how notifications could fit into the editor's cur
 
 **Background:**
 
-Is our thought that if the VA can notify editors of relevant information that fits into your established workflow, it will make using the CMS more efficient.
+It is our thought that if the VA can notify editors of relevant information that fits into your established workflow, it will make using the CMS more efficient.
 
 We are currently exploring a few different ways to achieve this. Email notifications, notifications within the CMS, or a combination of both. We are also open to hearing your suggestions if you have them.
 
