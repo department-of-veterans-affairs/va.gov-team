@@ -1,8 +1,8 @@
 ---
-name: 508 Accessibility Issue
-about: Describe an issue related to Section 508 Accessibility Standards
+name: Platform Identity Epic Template
+about: Template used to create a new Epic
 title: ''
-labels: 508/Accessibility
+labels: Identity
 assignees: ''
 ---
 
