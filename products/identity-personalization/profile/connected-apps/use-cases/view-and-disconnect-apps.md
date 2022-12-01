@@ -1,5 +1,5 @@
 # Connected apps: User views and disconnects apps
-**Last updated:** September 30, 2022
+**Last updated:** December 1, 2022
 
 - Once users have verfied their identity, users can view and disconnect apps.
 
@@ -43,6 +43,6 @@ See [profile staging users and test cases](https://github.com/department-of-vete
 
 ### View Connected apps
 1. Go [staging.va.gov/profile/account-security](staging.va.gov/profile/account-security)
-2. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+2. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) except vets.gov.user+36.
 3. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
 4. Select Connected apps in the sidebar menu.
