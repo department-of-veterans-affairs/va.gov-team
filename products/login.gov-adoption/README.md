@@ -10,7 +10,7 @@
 ## General team overview
 
 ### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
-### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product-outline.md)
+### [Product outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
 
 ### Discovery team
 August - December 2022
