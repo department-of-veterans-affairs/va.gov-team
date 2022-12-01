@@ -17,7 +17,8 @@
 ## Monday, December 5, 2022 
 * v1 status check
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
-* Poorly labled "Urgent Care" for ATC data on a System page [11709](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11709) 
+* Erroneous CLOSE status, where'd it come from?
+  * Swirt confirmed it was never CLOSED in CMS https://dsva.slack.com/archives/C02BTJTDFTN/p1669743015670409 
 
 ## Monday, November 28, 2022 
 * v1 status check
