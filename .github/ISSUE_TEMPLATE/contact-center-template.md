@@ -13,13 +13,12 @@ assignees: ''
 [TICKET NUMBER]
 
 **Issue Veteran is experiencing:**
-<!-- 
-   Provide any information to help describe the issue, but DO NOT include any PII, PHI, or any personal information about the Veteran. 
--->
+
+<!-- Provide any information to help describe the issue, but DO NOT include any PII, PHI, or any personal information about the Veteran. -->
 
 ## Resolutions attempted
 
-<!-- Make a note any recommendations passed back to the contact center team -->
+<!-- Make a note of any recommendations passed back to the contact center team. -->
 
 ## Support provided
 
