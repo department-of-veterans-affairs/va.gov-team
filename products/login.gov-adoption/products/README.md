@@ -24,7 +24,7 @@ For more on our product vision and mission, see the [team charter](https://githu
 
 ## Product outlines 
 
-## [#1 - There can only be one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product%20name%201)
+## [#1 - There can only be one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
 Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
 ### Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
@@ -53,7 +53,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 - Outreach to existing users that they’ll need to choose a new credential.
 ##
 
-## [#2 - The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/product%20name%202)  
+## [#2 - The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur)  
 Currently there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA. VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 ### Vision
 - Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
