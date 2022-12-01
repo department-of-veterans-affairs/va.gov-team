@@ -9,7 +9,7 @@
 
 ### Roles
 
-[Please see the on-site notifications product outline for the current team][https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications#product-outline-on-site-notifications-ie-personalized-notifications-that-show-on-vagov))]
+[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications#product-outline-on-site-notifications-ie-personalized-notifications-that-show-on-vagov)
 
 ### Table of Contents
 
