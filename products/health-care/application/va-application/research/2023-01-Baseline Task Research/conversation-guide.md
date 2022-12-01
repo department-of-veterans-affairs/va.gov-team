@@ -1,10 +1,12 @@
-# [DRAFT] Conversation Guide for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
+# [DRAFT] Conversation Guide for 1010 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
 
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-- [ ] Confirm staging sign in credentials for participant to use
+- [ ] Confirm staging sign in credentials for participant to use and add below:
+    - [ ] Username:
+    - [ ] Password:
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -163,7 +165,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Task: Marital status and spouse information - 3 minutes
-- (After particpant clicks continue on disclosure page) Proceed with the application with answering the next question. 
+- [After particpant clicks continue on disclosure page] Proceed with the application with answering the next question. 
 - [If selected Married/Separated for Marital Status] Continue completing all the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
@@ -201,7 +203,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant clearly see the buttons to edit and delete dependents?]
-- [Does the participant easily make their edit and continue on without getting hung up?]
+- [Does the participant easily make their edit and continue on without getting hung-up?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
@@ -209,7 +211,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: Annual Income - 5 minutes
 - Read through and complete the questions on this page. Please talk aloud about the questions and information presented to you here.
-- (continue) Complete your spouse's income information.
+- [Continue] Complete your spouse's income information.
 - In real life, how long would it take you to gather and make sure you were entering the correct information here?
 
 **Participant questions:**
@@ -282,7 +284,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant seem unclear on what happens next?]
-- [Does the participant have positive or negative 
+- [Does the participant feel confident that they know what the next steps in the process are?]
+- [Does the participant have positive or negative reaction to the confirmation page?]
 
 
 
