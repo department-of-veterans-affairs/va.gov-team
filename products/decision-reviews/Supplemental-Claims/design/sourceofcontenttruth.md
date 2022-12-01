@@ -750,35 +750,35 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 
 ### Error alerts
 
-Error handling for PDF upload errors (be sure we help them recover):
+PDF upload errors (be sure we help them recover):
 
 #### The PDF you uploaded is too large
 
 You will need to break down the file into individual pages or use a PDF reader to save an optimized version. 
 
-Error handling for not adding an issue:
+Not adding an issue:
 
 #### You haven't selected an issue
 
 You must select at least one issue, so we can process your request.
 
-Error handling for not adding any evidence :
+Not adding any evidence:
 
 #### You haven’t added any evidence
 
 You must provide at least one type of evidence to file for a Supplemental Claim.
 
-Error handling for not authorizing release of medical records :
+Not authorizing release of medical records :
 
 #### You didn't authorize the release of medical records
 
 You must authorize the release of medical records in order for us to get records directly from your doctor. Otherwise, you will need to upload your private medical records.
 
-Error handling for form submission error:
+Form submission error:
 
 #### Please try again later
 
-We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Please save your application, and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7.
+We’re sorry. Your application didn’t go through. We’re working to fix the problem, but it may take us a while. Please save your application, and try again tomorrow. If this continues to occur, please call the VA.gov help desk at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress reference ID is [InProgressForm]. 
 
 ### Inline errors
 
