@@ -12,20 +12,20 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
  
 ## Desired User Outcomes
 
-A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying. 
-For MHV users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy MHV credential and maintain their access to services. 
-For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
+- A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying. 
+- For MHV users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy MHV credential and maintain their access to services. 
+- For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
-Increase the speed of implementation of the CX EO, “the deprecation of outdated and duplicative credentials” represented by MHV and DS Logon. 
-Increased security of MFA and compliance with National Institute of Standards and Technology (NIST) guidance for Identity
-The VA will no longer have to pay for DS Logon, MHV will not have to devote personnel to maintaining their credential
-Reduced fraud
-Increased user satisfaction
+- Increase the speed of implementation of the CX EO, “the deprecation of outdated and duplicative credentials” represented by MHV and DS Logon. 
+- Increased security of MFA and compliance with National Institute of Standards and Technology (NIST) guidance for Identity
+- The VA will no longer have to pay for DS Logon, MHV will not have to devote personnel to maintaining their credential
+- Reduced fraud
+- Increased user satisfaction
 
 ## Undesired Business Outcomes
 
@@ -110,9 +110,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
+- Team Name: Login.gov Adoption Team
+- GitHub Label: login.gov-adoption
+- Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
 - Product POCs:
 - Stakeholders: 
 
@@ -122,10 +122,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: John Rahaghi
+ - PM: Elizabetth Koch
+ - Engineering: Steve Dickson
+ - Research/Design: Tyler Gindraux
  
 </details>
 
