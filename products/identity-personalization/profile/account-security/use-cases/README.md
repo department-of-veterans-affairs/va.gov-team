@@ -1,6 +1,6 @@
 # Account Security Use Cases
 
-**Last updated:** November 29, 2022
+**Last updated:** December 1, 2022
 
 If the user is not LOA3, or has a blocked account, the only thing they can access in profile is the Account Security section. Within Account security, they can access 2-factor authentication and a link to their sign in service. They cannot view terms and conditions.
 
