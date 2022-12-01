@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-Create a shared access platform to support proxy access and give Veterans the ability to voluntarily grant full or partial access to their VA data and services to their loved ones and those who care for them. Veterans needs to be able to manage the level and duration of access.
+Non-Veteran users need to be able to sign-in and access the products and services they need for their specific roles. We aim to create a shared access platform to support proxy access and give Veterans the ability to voluntarily grant full or partial access to their VA data and services to their loved ones and those who care for them. Veterans needs to be able to manage the level and duration of access.
 
 ## Problem Statement
 
