@@ -120,8 +120,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Login.gov Adoption Team
 - GitHub Label: login.gov-adoption
 - Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
-- Product POCs:
-- Stakeholders: 
+- Product POCs: Elizabeth Koch
+- Stakeholders: John Rahaghi
 
 </details>
 
@@ -129,8 +129,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: John Rahaghi
- - PM: Elizabetth Koch
+ - DEPO Lead: 
+ - PM: Elizabeth Koch
  - Engineering: Steve Dickson
  - Research/Design: Tyler Gindraux
  
@@ -141,6 +141,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+-GSA/Login.gov
+-VSP Identity Team
+-eBen
+-MHV
  
 </details>
