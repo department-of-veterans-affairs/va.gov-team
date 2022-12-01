@@ -247,18 +247,20 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 
 ## Recommendations
 
-* Explain the the need for setting up Login.gov, to make Veterans more likely to adopt it.
+* Explaining the need for Login.gov set up through consistent, contextual reminders will make Veterans more likely to adopt it.
 * Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.
-* Make it easy to bundle identity proofing with existing appointments or schedule in-person proofing without needing to fail first.
+* Make it easy to bundle identity proofing with existing appointments, help Veterans schedule in-person proofing without needing to fail first and create a dedicated interfaces for VA staff to do identity proofing.
+* Online asynchronous processes and in-person support with clear transitions between them will be necessary for migrating Veterans to Login.gov.
 * Help Veterans become familiar with Login.gov by making it an obvious default.
 * Recommend multi-factor authentication options that are appropriate and meet each Veterans' specific needs.
 * Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.
-* Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step of the process.
+* Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step and reaching out to those who are struggling.
 
 ## Next steps
 
 * Develop a roadmap and implementation for this program of work
 * Plan future research studies to build on learnings
+<br> *[Link to research readout deck will be added]*
 
 ## Further research
 
@@ -285,7 +287,7 @@ In the Appendix, we also note which underserved groups this study did not recrui
 ## Other supporting documents created
 
 *[Link to service blueprint will be added]*
-*[Link to research readout deck will be added]*
+<br> *[Link to research readout deck will be added]*
 
 ## Secondary research
 
