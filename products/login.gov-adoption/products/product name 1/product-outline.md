@@ -3,7 +3,14 @@
 ---
 
 ## Overview
-*One sign-on to access all products and services, with a choice between a public or private credential option.*
+Currently, there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
+
+- One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
+- All users will be migrated from legacy MHV and DS Logon credentials.
+- Veteran users who can't identity proof online can visit VAMCs to do so or have a remote video option.
+- Veteran users who are already visiting VAMCs regularly will be guided to create a Login.gov account and proof in person with coordinators.
+- Military personnel will be able to proof in person as part of the TAP curriculum and will have a proofed Login.gov account before they transition off active duty.
+
 
 ## Problem Statement
 The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive. VA needs a streamlined way for Veterans to sign-in and securely access products and services. 
