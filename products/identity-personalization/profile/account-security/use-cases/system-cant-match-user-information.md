@@ -1,5 +1,5 @@
 # Account security: VA.gov can’t match user information with our records
-**Last updated: September 22, 2022**
+**Last updated: December 1, 2022**
 
 For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the account security section, we will show an error if there are issues matching records to user information. If we are having issues matching a user's information, there’s no action a user can take to correct this. The appearance of the alert will prompt the process of fixing it.
 
