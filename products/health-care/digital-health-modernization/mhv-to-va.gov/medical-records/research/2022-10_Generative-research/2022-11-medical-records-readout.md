@@ -6,7 +6,7 @@ Date: 11/28/2022
 
 Robyn Singleton [robyn.singleton@adhocteam.us], Jonathan Nelson [jonathan.nelson@adhocteam.us]
 
-[Research readout](link here)
+Research readout: [Medical Records Discovery and Generative Research.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10136184/Medical.Records.Discovery.and.Generative.Research.pdf)
 
 <br>
 
