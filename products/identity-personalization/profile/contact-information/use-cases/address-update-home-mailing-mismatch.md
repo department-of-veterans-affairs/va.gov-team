@@ -1,5 +1,5 @@
 # Contact information: Home address is updated but does not match Mailing address
-**Last updated July 25, 2022**
+**Last updated:** December 1, 2022
 
 If a user updates their Home address and it does not match their Mailing address, they will be prompted to review and update their Mailing address. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
@@ -51,5 +51,5 @@ Within the modal dialog flow, the same API calls and error handing from standard
 
 ## Staging users
 - Any staging test user with a mailing address can be used to test this feature ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)).
-- During active development **vets.gov.user+36@gmail.com** was the main user that was used.
+- During active development **vets.gov.user+36@gmail.com** was the main user that was used, but as of 12/1/22 we can't use this user to test this use case.
 
