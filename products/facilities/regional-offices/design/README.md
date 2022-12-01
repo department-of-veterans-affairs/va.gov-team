@@ -19,17 +19,18 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
 
 #### What we know already/solid bets:
 - Some Top tasks
-  - Make an appointment
+  - Make an appointment (VERA)
   - Ask VA (AVA) funnel
 - Basic location information 
   - Address, link to directions
+    - Need to account for room number/floor, as benefits offices are not always whole building
   - Photo of facility
   - Contact info e.g. phone, contact centers (what are the questions Veterans want answered by calling the phone number(s)?)
   - Operating status
   - Prepare for your visit
     - Parking
     - Public transit
-    - What to bring (or is this in services?)
+    - What to bring (regardless of service)
  - Other Locations (photo, location, hours, contact, services)
  - Services
     - Location of service at that facility
@@ -37,6 +38,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - Contact info for that service (if different than facility)
     - How a Veteran can make an appointment for that service
     - Is there an online version of the service/tool
+    - What to bring (for this service)
  - Events
  - Subscribe to updates
  - Spotlights
@@ -46,7 +48,9 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
 - Top tasks (needs add'l research)
   - What else is available (e.g. Talk to someone online?) and do Veterans want that?
 - Basic location information 
-  - How important to the Veteran is the relationship of "child" locations to the RO
+  - How important to the Veteran is the relationship of "child" locations to the RO?
+  - Do facilities have separate mailing addresses for claims from their physical address for appointments?
+    - https://www.benefits.va.gov/whiteriverjunction/ 
   - Do Veterans understand the different types of facilities (or does that matter?)
   - What are the questions Veterans want answered by calling the phone number(s)?
   - Prepare for your visit
@@ -58,16 +62,32 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - How do we elaborate on the taxonomy structure to better explain the services
     - Is there an online version of this tool?
     - Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
+    - Is there a need to provide performance data on claims (similar to wait times at VAMCs?)
+      - https://www.benefits.va.gov/REPORTS/detailed_claims_data.asp 
  - Events 
     - Are these National? Local? Hybrid? And what is the maintenance load?
+    - How to account for recurring outreach events which take place at VAMCs / Vet Centers?
+      - https://www.benefits.va.gov/ROPHOENIX/index.asp 
+    - [Event examples from audit](https://app.mural.co/t/vagov6717/m/vagov6717/1660588245137/17e30f1f578bfeb51b90c051e7f5124e57a835e5?wid=0-1660766378091)
  - Subscribe to updates   
     - Will this use GovDelivery?
  - Spotlights 
     - Are these National? Local? Hybrid? And what is the maintenance load?
- - Leadership profiles (is this really MVP or fast-follow?)
-    - Is a list of Veteran Service Organizations (VSOs) located at that facility important (I bet it is, what do we need to know. Is this critical path or fast-follow?)
-- How might we (or do we?) detect and re-use content from co-located VHA facilities to prevent duplication
-  - Photos
-  - Facility names
+ - Veteran Service Organizations (VSOs) located at that facility
+    - Is this critical path or fast-follow?
+    - Might these be listed as a Service at the facility?
+    - https://www.va.gov/disability/get-help-filing-claim/
+ - How might we (or do we?) detect and re-use content from co-located VHA facilities to prevent duplication
+    - Photos
+    - Facility names
+
+
+#### Likely out of MVP Scope
+- Leadership profiles
+  - https://www.benefits.va.gov/ROANCHORAGE/leadership.asp
+- Work status for employees
+  - https://www.benefits.va.gov/ROANCHORAGE/work-status.asp 
+- Translated version of pages
+  - https://benefits.va.gov/sanjuan/es/
 
 **Product sitemap:** https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9
