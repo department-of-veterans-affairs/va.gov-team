@@ -12,7 +12,7 @@ assignees: ''
 
 In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. Add any context or use cases to support.
 
-## Desired User Outcomes
+## Desired User Outcomes/Business Use Case
 
 Why would a user want to use this?
 With this problem solved, what should users be able to do/achieve that they couldn't before?
