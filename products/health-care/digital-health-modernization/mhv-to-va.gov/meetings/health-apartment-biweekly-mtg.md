@@ -1,5 +1,53 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+## 2022-12-01 
+
+### Standup/Updates related to work tracks
+
+- MHV app migrations
+	- Jonathan - timeline for MR design work
+		- How does that line up with bringing in the ByLight team
+		- Target of getting most domains built in VA.gov and online by October 2023
+		- Me: One struggle is how the APIs may impact the design, and another is how we will do concept testing
+			- Timing and October timeline for having Medical Records in VA.gov and possibly Cerner data integrated we want to work backward from that.
+			- Do we know what the hard handoff date will be to start building Medical Records?  
+			- We have all these applications - and would love to have them in Phase 1 or Phase 2.  Ambitious, but we also have to balance that we are at the stage where everyone is asking about this.
+			- Secure messaging is going to go out first 
+			- Records and Appointments will have a better chance of Integrating with Cerner data sooner.
+			- We can potentially
+		- Robyn: While Jonathan and Bobby are - the documentation around the data can be happening
+		- Do we have a best guess of when development needs to start for this to be completed by October
+	- Robyn - presentations
+	- Jasmine - communications plan
+- Health apartment live?
+		- Jenny - trying to finish the research plan for the IIA tree testing
+		- Mikki - research plan for tree test
+- Cerner data integration
+	- Several meeting coming up with Intermountain
+- Support Identity changes
+	- Blocked
+	- Lauren - they have been in discussion with Shawn Hidenbrook about where the service for the terms & conditions will live.  Originally mobile team owned that, but since we are scaling, it will probably be re-homed.  Will matter less for Phase 0, but will matter for everything else.
+
+
+## Other Topics
+
+- Appointments
+	- VAOS - is transitioning to the new backend service, and new stuff will be added to that including ability to submit travel claims.  Charles W has asked Lauren to start talking to the team where the MHV appointments feature fits into the rollout.  This is a little different.  In this case, Appointments already lives on VA.gov.  At some point, we need to identify the plan for transitioning the MHV appointment features and pointing to the VA.gov appointment.  We probably shouldn't have that discussion now; both appointment teams are not here to defend themselves.  We d
+- Leila return
+	- Lauren will stay involved and divide and conquer with Leila
+	- She's been dealing with a family health emergency
+	- First day back will be PI planning
+	- She will go to Secure Messaging and Medical Records
+		- Help her along, and what she needs to do 
+	- Lauren will go to Account Experience
+- PI planning
+	- Want to make sure we are in sync
+- Testing approach for Medical Records domains; related timeline and Perigean contracts considerations
+		- We can do as much testing as we want but Lauren will confirm
+- API-constrained design (existing API) and design-driven API design (new API) and how each of those scenarios may play out with regard to timeline
+- Presentation next Monday
+	- Robyn - they were asked to present generative research next Monday.  Yesterday's presentation was nice because it was a more holistic
+
 ## 2022-11-21
 
 ### Discussion Notes
