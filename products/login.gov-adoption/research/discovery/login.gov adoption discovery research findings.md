@@ -96,7 +96,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 
 1. Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.
 
-2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.
+2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if they feel at risk of not being able to access their benefits, or, they understand how their actions affect fellow Veterans.
 
 3. Bundling identity proofing with other appointments, and moving it the beginning or end of the account set up process, makes it more convenient for Veterans.
 
@@ -127,7 +127,7 @@ Veterans aren't buying Login.gov, so rather than selling it to them they need cl
 
 <br>
 
-**2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if their at risk for not being able to access their benefits, or, they understand how their actions affect fellow Veterans.**
+**2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if they feel at risk of not being able to access their benefits, or, they understand how their actions affect fellow Veterans.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
