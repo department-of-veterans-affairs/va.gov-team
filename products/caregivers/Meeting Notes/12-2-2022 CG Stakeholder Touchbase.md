@@ -35,7 +35,7 @@
      - Patrick: Not a technical challenge, however agree this is not ideal
 
 
-#### Notes from 11/18/22 Meeting (keeping here since we have outstanding questions)
+### Notes from 11/18/22 Meeting (keeping here since we have outstanding questions)
 - **Duplicate info entered on applications**
      - Application is considered duplicate info, even if there is new information too
      - Scenario:
