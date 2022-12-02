@@ -185,6 +185,8 @@ Perceived ease of use drives Veterans' multi-factor authentication choices –  
 
 Ingrained responsibility for government-issued property undermines the perception that a security key from the VA would an easy and low-stress MFA option. And while biometrics can at first feel like a violation, through repeated exposure it's increasingly embraced as an easy option requiring no memory. When choosing a multi-factor authentication option, Veterans weigh intrusiveness against ease of setup and continued use.
 
+> “We've all experienced the ‘oh, my God, where's my rifle!?’ Veterans aren’t going to want to be accountable for [a security key] since there's too much ingrained trauma there.” Participant 7, Veteran Interview
+
 > "I'm old, using something new makes me feel old and dumb." Participant 26, Veteran Intercept
 
 > "My personal concern is not being able to use my own device resulting in not being able to have the password securely generated and stored in my password manager. I do not want to have to write this password down." Participant 7, Veteran Interview
@@ -225,7 +227,7 @@ Building on familiar paradigms and offering proactive support to make the Vetera
 
 > "The lady at the desk here is already busy, she has to check in more people and get them set up with healthcare. She doesn't have time to help me set up Login.gov, then people would be waiting. But maybe there if there's someone else in a different room..." Participant 6, Veteran Intercept
 
-> "I would walk away at this point unless someone is walking through it on my phone with me." Participant 7, Veteran Interview
+> "“I would walk away at this point unless someone is walking through [help with my password] on the phone with me." Participant 7, Veteran Interview
 
 ## Additional insights
 
