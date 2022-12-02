@@ -37,13 +37,14 @@ Currently there are multiple ways to sign on and access VA services. These login
 - A Veteran user  will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy credentials and maintain their access to services.
 - For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
 ### User problem statements
-- As a Veteran, I want only one sign-on to access all VA products and services.
-- As a Veteran, I want to be able to receive in-person help for signing up for Login.gov and identity proofing.
-- As a new Veteran, I want to be given a modern, easy-to-use credential before leaving active duty.
-- As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
-- As a Veteran, I struggle with using Multi-Factor Authentication and remembering passwords.
+- As a Veteran, I need only one sign-on to access all VA products and services, so that I can have less complication
+- As a Veteran, I need to be able to receive in-person help for signing up for Login.gov and identity proofing, so I can obtain access easier.
+- As a new Veteran, I need a modern, easy-to-use credential before leaving active duty, so I can access all my benefits.
+- As a Veteran, I need to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
+- As a Veteran, I need Multi-Factor Authentication setup so I can access VA.gov. 
 - As a Veteran, I need to understand Login.gov and its benefits, so that I know why I should set up Login.gov as my primary or additional credential.
-- As a Veteran, I need to understand how to set up Login.gov, so that I can try and set up Login.gov on my own termsAs a Veteran, I need to know where to go for help if I face an issue while setting up Login.gov, so that I can finish setting up Login.gov.
+- As a Veteran, I need to understand how to set up Login.gov, so that I can try and set up Login.gov on my own terms
+- As a Veteran, I need to know where to go for help if I face an issue while setting up Login.gov, so that I can finish setting up my account.
 
 
 ### Potential MVP features and epics
