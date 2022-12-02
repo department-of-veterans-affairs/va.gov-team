@@ -72,17 +72,17 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ## Recruitment criteria
 
-We will schedule a total of 70 participants for a completion rate of 50 tree tests.  
+We will schedule a total of 108 (54 Veterans and 54 family members/caregivers) participants for a completion rate of 100 tree tests.  
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|     54        |        40-50     |   18   |      18     |    18    |               | 
+|     108        |        90-100   |   54   |      27     |    27    |               | 
 
 ### Criteria Table
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
+|                |Moderated   |Cohort 1 Veterans|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
