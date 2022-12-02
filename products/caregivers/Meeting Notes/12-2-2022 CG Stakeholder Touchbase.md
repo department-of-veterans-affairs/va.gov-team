@@ -35,7 +35,7 @@ Eligibility Widget
 - Patrick: Not a technical challenge, but not a fan of this either
 
 
-
+#### Notes from 11/18/22 Meeting (keeping here since we have outstanding questions)
 - **Duplicate info entered on applications**
      - Application is considered duplicate info, even if there is new information too
      - Scenario:
