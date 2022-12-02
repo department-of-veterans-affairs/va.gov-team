@@ -47,11 +47,12 @@ A web UI is available (for staging only) [here](https://vigilant-couscous-ab7fb4
 - Create check-in/pre-check-in links
 - view and reset demographics confirmations
 - clear a test patient's insurance flag
+- update a test patient's phone number
 
 Guidelines for use:
 
 - please use the test patient assigned to you or a person that is not currently on the team if you need to add appointments for additional patients
-- if you receive an error message regarding your cell phone number when creating a check-in or pre-check-in link, you can ask an engineer for help or use the [Update Phone Number](#putPatient) endpoint to set your phone number
+- if you receive an error message regarding your cell phone number when creating a check-in or pre-check-in link, update the phone number associated with your patient
 - for questions or if you encounter any errors, post in the #check-in-experience-engineering channel and tag the front end team
 
 ## Network access
