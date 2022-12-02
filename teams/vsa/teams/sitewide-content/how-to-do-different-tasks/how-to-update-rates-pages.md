@@ -38,4 +38,5 @@ Every year, the Sitewide Content team needs to update various rates pages with n
 
 ## Resources
 [Rate pages update table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rate-page-update-audit.md_)
+
 [Editorial calendar](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/editorial-calendar)
