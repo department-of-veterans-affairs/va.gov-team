@@ -5,7 +5,7 @@
 ### Notifications
 - No changes/new analytics needed
 
-### Claims and Appeals
+### Claims and appeals
 Current Analytics: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
@@ -51,13 +51,13 @@ Potential links to track:
 <img width="625" alt="Screen Shot 2022-12-01 at 10 42 52" src="https://user-images.githubusercontent.com/97113607/205096447-a06a31e9-4394-47aa-a350-921f4fc13429.png">
 
 
-### Outstanding Debts
+### Outstanding debts
 - No changes/new analytics needed
 
-### Benefit Payments
+### Benefit payments
 - No changes/new analytics needed
 
-### Education and Training
+### Education and training
 This is a new section to My VA, here are the potential links to track:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
