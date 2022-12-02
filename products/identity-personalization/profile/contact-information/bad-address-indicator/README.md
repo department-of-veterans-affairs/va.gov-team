@@ -112,7 +112,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|Mailing address updates| 26,349|23,482|TBD|
+|Mailing address updates| 24,965|23,482|TBD|
   
 **Key result #3**: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
 
