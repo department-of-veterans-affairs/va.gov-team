@@ -3,6 +3,7 @@
 ### Notes
 
 - **Facilities questions**
+     - Question as it appears online today:  "Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services."
      - How can we ask this question differently to get the information needed?
           - The information needed is the facility with Caregiver Support for application processing and supporting the Caregiver.
           - Today, we provide the list of Caregiver support facilities to select from, but the question asks about the Veteran’s preferred facility, so it could be misleading
@@ -16,21 +17,23 @@
      - Feedback received indicates confusion on the state where the preferred facility is located, especially when they live near the border between states
           - Applicants may not realize that the facility is actually located in another state
      - Options to consider
-          - Salesforce API expose to us and maybe use it for facility search by zip code
+          - Salesforce API exposed to VA.gov and maybe use it for facility search by zip code
           - FUTURE: Consider CARMA as source, integrated with LH API
           - City field as optional?
           - Facilities field with type ahead?
+     - **AI Bhagat & team**: Demo VAMC search from CARMA in next touchbase
+
 
 - Review page 
-     - There has been an uptick in mistakes
-     - Looking for ways to reduce this before submitting
+     - There has been an uptick in mistakes on applications
+     - Looking for ways to reduce this before the application is submitted
      - Can we expand the Review page sections, instead of showing condensed as default?
-          - **AI 10-10 Health Apps team**: Reply with findings 
+          - **AI 10-10 Health Apps team**: Team will research technical feasibility, design and accessibility concerns.  Reply to audience with findings
      - Required fields must be valid and correct
      - Business is looking at doing cheatsheets & video on how to complete the form accurately
 
 - Eligibility Widget
-     - Click into Eligibility widget first before starting (like a checklist or something?)?
+     - Is it possible to create an Eligibility widget to access first before starting the application (like a checklist or something?)?
      - Matt Brown: Not ideal
      - Patrick: Not a technical challenge, however agree this is not ideal
 
