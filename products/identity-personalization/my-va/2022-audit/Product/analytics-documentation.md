@@ -53,7 +53,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
-| N/A | Apply for VA health care | N/A | `Navigation - Link List - Health care - Apply for VA health care`| N/A |
+| N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
 | N/A | Send a secure message to your health care team | N/A | `Navigation - Link List - Health care - Send a secure message to your health care team` | N/A |
 | Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
