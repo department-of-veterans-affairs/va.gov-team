@@ -46,6 +46,7 @@ _"Resources for product team developing these products"_
 - [VA Platform Collab Cycle Information](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) 
 - [Platform Deployment Policies](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html) (incl. Code Freezes)
 - [External Service Integrations](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1889599494/External+Service+Integrations)
+- [Frequent Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/frequent_contacts.md)
 
 
 
