@@ -21,7 +21,7 @@
           - City field as optional?
           - Facilities field with type ahead?
 
-- Review page condesed IDEA from BECCA
+- Review page 
      - There has been an uptick in mistakes
      - Looking for ways to reduce this before submitting
      - Can we expand the Review page sections, instead of showing condensed as default?
