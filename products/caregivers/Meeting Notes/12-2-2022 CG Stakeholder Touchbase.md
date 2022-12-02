@@ -6,33 +6,33 @@
      - How can we ask this question differently to get the information needed?
           - The information needed is the facility with Caregiver Support for application processing and supporting the Caregiver.
           - Today, we provide the list of Caregiver support facilities to select from, but the question asks about the Veteran’s preferred facility, so it could be misleading
-Why should we continue down the path of asking for the Veteran’s preferred facility, but do not actually need that information?
-The PDF generated will show the Caregiver support facility, which could cause more confusion
-Can we simply rephrase the question, asking for the applicants to select
-The Caregiver support facility of their choice?
-The closest one to their home or Veteran’s preferred facility?
-Can we ask them to select the Veteran’s preferred facility and display the associated Caregiver support facility so that they know what information is being captured?
-Select Veterans Preferred Facility
-[display CG facility] Here is the Caregiver support facility where a Caregiver Support Coordinator will review this application
-- Confused on the state where the pref facility is located, especially when they are on the border
-- Salesforce API expose to us and maybe use it for facility search by zip code
-- FUTURE: Consider CARMA as source, integrated with LH API
-- City field as optional?
-- Facilities with type ahead?
+               - The PDF generated will show the Caregiver support facility, which could cause more confusion
+          - Can we simply rephrase the question, asking for the applicants to select
+               - The Caregiver support facility of their choice?
+               - The closest one to their home or Veteran’s preferred facility?
+          - Can we ask them to select the Veteran’s preferred facility and display the associated Caregiver support facility so that they know what information is being captured?
+               - Select Veterans Preferred Facility
+               - [display CG facility] Here is the Caregiver support facility where a Caregiver Support Coordinator will review this application
+     - Feedback received indicates confusion on the state where the preferred facility is located, especially when they live near the border between states
+          - Applicants may not realize that the facility is actually located in another state
+     - Options to consider
+          - Salesforce API expose to us and maybe use it for facility search by zip code
+          - FUTURE: Consider CARMA as source, integrated with LH API
+          - City field as optional?
+          - Facilities field with type ahead?
 
+- Review page condesed IDEA from BECCA
+     - There has been an uptick in mistakes
+     - Looking for ways to reduce this before submitting
+     - Can we expand the Review page sections, instead of showing condensed as default?
+          - **AI 10-10 Health Apps team**: Reply with findings 
+     - Required fields must be valid and correct
+     - Business is looking at doing cheatsheets & video on how to complete the form accurately
 
-Review page condesed IDEA from BECCA
-- Uptick in mistakes
-- Looking for ways to reduce this before submitting
-- Expand Review page, instead of showing condensed
-- Required fields must be valid and correct
-- Looking at doing cheatsheets & video on how to complete the form accurately
-- Heather: Reply with findings 
-
-Eligibility Widget
-- Click into Eligibility widget first before starting (like a checklist or something?)?
-- Matt Brown: Not a fan of this
-- Patrick: Not a technical challenge, but not a fan of this either
+- Eligibility Widget
+     - Click into Eligibility widget first before starting (like a checklist or something?)?
+     - Matt Brown: Not ideal
+     - Patrick: Not a technical challenge, however agree this is not ideal
 
 
 #### Notes from 11/18/22 Meeting (keeping here since we have outstanding questions)
