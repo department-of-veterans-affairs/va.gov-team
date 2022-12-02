@@ -13,7 +13,8 @@
   * Yes. 4 out of 4 users said the information displayed for their debts and payments was accurate and all links went to the expected places.
   
 **2. Are Veterans able to take action on their payment or debt information without any usability hurdles?**
-  * Yes. 4 out of 4 users were able to use the action links as intended. This includes our one screen reader user who was able to tell where there was an actionable link in both sections.
+  * Yes. 4 out of 4 users were able to use the action links as intended. This includes our one screen reader user who was able to tell where there was an actionable link in both sections. 
+  * The screen reader user at first missed the "Manage your VA debt" link even though the screen reader read it to him, but was able to find it when he went back through the section.
   
 **3. Has the elimination of red and green colors decreased the scannability of the page?**
   * No. 4 out of 4 users noticed the debts and payments sections and were able to tell the difference between them without the use of color.
