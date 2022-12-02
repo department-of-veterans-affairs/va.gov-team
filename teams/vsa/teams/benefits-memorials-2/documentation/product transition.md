@@ -1,35 +1,6 @@
-# VSA Debt Resolution Product Transition Document
-
-<br>
-
->**Team Transition Document | March 2022**
->
-> The purpose of this transition document is to outline the current state of Debt Resolution product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 
 
-## Table of Contents
-- [Product Context](#product-context)
-- [Product Portfolio](#product-portfolio)
-- [Product Roadmap](#product-roadmap)
-- [Team Artifacts](#team-artifacts)
-- [Product Documentation](#product-documentation)
-
-<br>
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-<br>
-
-## Product Context 
-The Debt Resolution team is focused on making VA.gov the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. Our mission is to help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
-
-
-<br>
-
- ---
- 
-<br>
 
  
 ## Product Portfolio
