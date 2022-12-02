@@ -282,9 +282,9 @@ We will be testing what is currently approved in the staging environment.
 * Planned dates of research: January 2023
 
 ### Length of sessions
-* Session length: 1 hour (Cohort 1, 1 1/2 hours)
+* Session length: 1 hour (Cohort 1, 2 hours)
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 
 
@@ -306,7 +306,7 @@ TBD         | TBD
 	
 	
 ## Team Roles	
-- Moderator: Jessica Stump (jessica.stump@adhocteam.us)	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us) and Nick Osmanski (nick.osmanski@amida.com)	
 - Research guide writing and task development: Moderator	
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
@@ -315,3 +315,6 @@ TBD         | TBD
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
+
