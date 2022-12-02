@@ -22,6 +22,7 @@ assignees:
 
 \[Provide brief summary of product/feature to be tested on Staging by Shared-Support-QA. Also, be sure to include links to the Product/Feature Outline [or Initiative Brief], Epic, and Design artifacts.]
 
+- Entry URL (in Staging or Drupal-preview): \[provide link]
 - Product/Feature Outline: \[provide link]
 - Product/Feature Epic: \[provide link]
 - Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
@@ -35,7 +36,7 @@ Design/Research:
 Content/IA: 
 Front-end: 
 Back-end: 
-QA: Tze-chiu Lei [@tlei123] / Erian Flaherty [@eflaherty]
+QA: Tze-chiu Lei [@tlei123] / Erin Flaherty [@eflaherty]
 
 ## Proposed use-cases and Staging test-accounts
 
