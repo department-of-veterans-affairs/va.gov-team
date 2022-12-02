@@ -30,8 +30,10 @@ alt Vet has supporting document(s)
   vets-website<--vets-api: File
 end
 alt Vet needs to upload additional supporting documents
-  vets-website->vets-api:<align:center>Supporting documents\nPOST /v0/claim_attachments</align>
-  vets-api->S3:<align:center>Upload documents\n</align>
-  note over vets-api:Reference to S3 documents stored in\nDB, as persistent_attachments
+  vets-website->vets-api:<align:center>Supporting documents\nPOST /v0/document_upload</align>
+  loop for each file uploaded
+  vets-api->LGY:<align:center>Upload supporting document\nPOST /document</align>
+  vets-api<--LGY:Response
+  end
   vets-website<--vets-api: Response
 end
