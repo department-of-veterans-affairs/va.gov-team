@@ -58,11 +58,43 @@ _"Resources for product team developing these products"_
   - [**Detailed Roadmap (spreadsheet)**](tbd): Detailed overview of roadmap
 <br>
 </br>
+
+# PRODUCT STATUS SUMMARY: _Now/Next/Later_
+As of: _December 1, 2022_
+
+|**Product**        |**Now**   |**Next**                   | **Later**        
+|-----------------------|------------------------------|----------|------------------|
+|[Medical Device Reordering Tool (mDOT)|Launched & in productions; resolving fixes as needed|Maintenance|No future development plans|
+|Financial Status Report (FSR) for VBA|Launched & In production|Updating as we build out Combined FSR|Last with Combined FSR release|
+|Medical Copays (MCP)|Launched and In production|Maintenance|MCP 2.0 Enhancements|
+|Combined VA Debt Portal|Launched and In production|Maintenance|Enhance based on user feedback|
+|Combined FSR|Launched and In production|Maintenance; enhance analytic tracking|Integrate streamlined waiver|
+|Streamlined Waiver|Design development|Build and Deliver|TBD|
+
 </br>
 </br>
 </br>
 </br>
 </br>
+
+# PRODUCT PORTFOLIO
+
+|**Product Folder**        |**Product Outline** |**KPIs**         |**GitHub Epic**                        
+|-----------------------|------------------------------|----------|------------------|
+|[Medical Device Reordering Tool (mDOT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)       |TBD       | [mDOT KPI Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)   |TBD       
+|[Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp) |TBD |[Debt Portal DOMO](https://va-gov.domo.com/page/74130670?userId=1724393873)|TBD |
+|[Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)  |[FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)      |[~FSR DOMO~](https://va-gov.domo.com/page/447193050) Currently pulling data from GA |[#14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439) |
+|[Medical Copays (MCP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)  |[MCP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)      |TBD |[#31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352) | 
+|[Combined VA Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  |[Combined Portal Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md)      |TBD  |[#36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) |
+|[Combined FSR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  |[Combined FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/product_outline.md)      |TBD |[#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)|
+
+
+
+
+
+
+
+
 </br>
 </br>
 </br>
