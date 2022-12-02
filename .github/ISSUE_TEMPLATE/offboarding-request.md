@@ -51,5 +51,7 @@ Please provide the following information about the individual being offboarded:
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
  - [ ] Bot (`va-bot`, `va-vfs-bot`, and `va-vsp-bot`) user GitHub account(s) YubiKey(s) removed
    > This is rare. See [documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members) for current users and removal process.
+ - [ ] Sketch editor access removed (if applicable. Check [Sketch settings](https://www.sketch.com/workspace/c99d3e96-7c23-4210-b173-92a2b73a8788/settings/people))
+ - [ ] Removed from Monday Design Meeting invite
 
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins, @department-of-veterans-affairs/platform-design
