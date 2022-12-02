@@ -1,4 +1,4 @@
-# VA blog with VEO
+# News.VA.gov blog with VEO
 29 November 2022
 
 ## Goal: What do we need to do?
