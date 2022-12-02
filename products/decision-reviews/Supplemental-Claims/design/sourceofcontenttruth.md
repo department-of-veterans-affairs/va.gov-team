@@ -359,6 +359,16 @@ Add another location
 
 **_CONTINUE_**
 
+**BACK MODAL** : Occurs when the information is partially filled out for an additional location
+
+**Do you want to keep this location?**
+
+We’ve saved your current information.
+
+**_Yes_**
+
+**_No, remove this location_**
+
 ----------------------------------------------
 
 ## STEP 3 of 4: New and relevant evidence
@@ -479,6 +489,16 @@ Year
 
 **_CONTINUE_**
 
+**BACK MODAL** : Occurs when the information is partially filled out for an additional location
+
+**Do you want to keep this location?**
+
+We’ve saved your current information.
+
+**_Yes_**
+
+**_No, remove this location_**
+
 ----------------------------------------------
 
 ## STEP 3 of 4: New and relevant evidence
@@ -489,8 +509,7 @@ IF PRIVATE  medical records:
 
 **Do you want to limit the information we can request?**
 
-If you want to limit the information the VA retrieves from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability.)
-400 characters max
+If you want to limit what we can request from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability.) 
 
 *text input field
 
@@ -778,7 +797,7 @@ Form submission error:
 
 #### Your decision review request didn’t go through
 
-We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your application. If you're still having trouble submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
+We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your in-progress request. If you're still having trouble submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
 
 ### Inline errors
 
