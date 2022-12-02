@@ -22,7 +22,7 @@ Current Analytics:
 
 
 
-### Healthcare
+### Health care
 Potential links to track: 
 
 | **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
@@ -70,7 +70,7 @@ This is a new section to My VA, here are the potential links to track:
 <img width="591" alt="Screen Shot 2022-12-01 at 11 32 13" src="https://user-images.githubusercontent.com/97113607/205107835-cb009bb5-2a2e-40b7-9aa5-d598a6735f52.png">
 
 
-### Saved Applications
+### Saved applications
 Previously the "Apply for Beenfits" section:
 
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
