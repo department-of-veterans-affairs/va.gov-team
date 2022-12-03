@@ -81,15 +81,17 @@ We will schedule a total of 108 (54 Veterans and 54 family members/caregivers) p
 ### Criteria Table
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+Cohord 1-6: Veterans
+Cohort 7-12: Family members/Caregivers
 
-|                |Moderated   |Cohort 1 Veterans|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
-|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
+|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|Cohort 11|Cohort 12|
+|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |            |        |   9    |        |        |        |        |        |        |        |         |
-|Female          |            |   9    |        |   3    |   3    |    3   |   3    |        |        |        |         |
+|Male            |            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |
+|Female          |            |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |  2     |  2     |    2   |   2    |   2    |    2   |        |        |        |         |
+|*Various*       |            |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2   |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
 |Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
 |Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
@@ -101,7 +103,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |            |    3   |     3  |    3   |    5   |    9   |   0    |        |        |        |         |
+|*Various*       |            |    3   |     3  |    3   |    3   |    3   |   3    |   3    |    3   |   3    |   3     |
 |Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
@@ -110,12 +112,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |    9   | 9      |   9    |    9   |  9     |   9    |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
