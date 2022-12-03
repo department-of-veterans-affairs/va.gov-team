@@ -4,9 +4,7 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-- [ ] Confirm staging sign in credentials for participant to use and add below:
-    - [ ] Username:
-    - [ ] Password:
+
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -22,8 +20,8 @@ Slack for real-time feedback from observers.
 - When the participant is ready, begin the session with the following intro
 
 
-## Intro - 5 minutes
-Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
+## Intro - 7 minutes
+Thanks for joining us today! My name is [Jessica/Nick] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
 > - If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.
@@ -57,7 +55,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [If yes] What is your memory/recollection of the application process?
 
 
-## Task: [Start Application] - 3 minutes
+## Task: [Start Application] - 5 minutes
 - For this session today, we are going to work through the scenario that you are interested in applying for VA health care. 
 - You arrive at this page. Please explain what you see and what you would do next. 
 
@@ -73,30 +71,29 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Observer ratings of start application task completion using rating criteria]
 
 
-## Task: [Pre-check & pre-populated info - Unathenticated] - 3 minutes 
+## Task: [Pre-check & pre-populated info] - 3 minutes 
 -  [Participant clicked continue without signing in on the intro page], can you please explain what you would do from here? 
+
+- [Participant clicked sign in and opens pop-up] 
+- Is this how you would normally proceed and do you have a VA.gov profile account? 
+- How often do you say you sign in?
+- Where on the site / when during your visit to the website do you usually sign in at?
+- Since this is in the staging environment, having you sign in won't work. Can you please close this window and go back to link that lets you complete the application without having to sign in. 
 
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
+- 
 - [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
-
-## Task: [Sign in - where/when in process - Authenticated] - 3 minutes 
-- [Provide staging sign in credentials?]
-- Do you have and use a VA.gov profile account? 
-- Where on the site / when during your visit to the website do you usually sign in at? When you first arrive or when you find the task you want complete?
-
-### Things to watch for:
-- [Does the participant comment if signing in is the very first thing they do on VA.gov?]
 
 ---
 [Step 1 of 6: Veteran information]
 
 
 ## Task: [Complete Veteran Information Section] - 5 minutes
-- Could you please complete this section of the form and talk aloud about what you see and what you would do?
+- Could you please complete this section of the form and talk aloud about what the questions and information mean to you and what you would do?
 
 **Participant questions:**
 - What worked well for you?
@@ -106,7 +103,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
-- [(New gender identity question when added) content on page, interaction with additional info content, comment on order or labels of choices]
 
 ---
 [Step 2 of 6: VA benefits]
@@ -240,8 +236,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 ---
 [Step 5 of 6: Insurance information]
 
-## Task: Insurance information - 5 minutes
+## Task: Insurance information - 7 minutes
 - Please explain what this section of the form means to you as you work through answering the questions.
+
+[VA Facilities page]
+- What is your impression of this page? Why?
+
 
 **Participant questions:**
 - What worked well for you?
@@ -252,6 +252,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Things to watch for:
 - [Does the participant understand this question or are they confused and need additional context?]
 - [Do the medicaid and medicare questions cause pause or confuse the participant?]
+- [How does the participant prefer to search and/or sort facilities?]
+- [Does the participant interact with the additional links on the facilities page?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
@@ -289,7 +291,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 
 [NPS Question]
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
@@ -301,7 +303,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Any questions for me? 
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
