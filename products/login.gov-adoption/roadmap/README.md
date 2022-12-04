@@ -6,7 +6,7 @@
 
 |Project|Status|
 |----|----|
-|DS Logon Sunset|Discovery|
+|CSP Account Migrations|Discovery|
 |In-person proofing|Discovery|
 |NVUR/Shares Access Platform|Discovery|
 
