@@ -1,4 +1,4 @@
-# Login.gov Adoption Team roadmap
+# Login.gov adoption team roadmap
 
 [Roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/836/views/1)
 
