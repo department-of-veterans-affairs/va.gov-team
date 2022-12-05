@@ -37,6 +37,7 @@
 - TestRail 
      - Test cases
      - Test plans
+- Accessibility Testing
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
@@ -101,6 +102,7 @@
 - [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
+     - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 - [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Review findings with the team
      - [ ] Create tickets for work to be completed before launch
