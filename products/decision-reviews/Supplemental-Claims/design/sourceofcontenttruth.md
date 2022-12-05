@@ -771,25 +771,25 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 
 PDF upload errors (be sure we help them recover):
 
-#### The PDF you uploaded is too large
+#### We couldn't upload your PDF
 
-You'll need to create smaller files with individual pages or use a PDF reader to save an optimized version.
+Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
 
 Not adding an issue:
 
-#### You haven't selected an issue
+#### You'll need to select an issue
 
-You must select at least 1 issue so we can process your request.
+You must select at least 1 issue before you can continue filling out your request.
 
 Not adding any evidence:
 
-#### You haven’t added any evidence
+#### You'll need to add supporting evidence
 
-You must provide at least 1 type of evidence to file for a Supplemental Claim.
+You must provide at least 1 type of supporting evidence before you can continue filling out your request.
 
 Not authorizing release of medical records:
 
-#### You didn't authorize the release of your medical records
+#### You'll need to authorize the release of your medical records
 
 You must authorize the release of your medical records so we can get them directly from your doctor. Or, you can go back and choose to upload your private medical records.
 
@@ -797,7 +797,9 @@ Form submission error:
 
 #### Your decision review request didn’t go through
 
-We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your in-progress request. If you're still having trouble submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
+We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your in-progress request. 
+
+If you're still having trouble tomorrow submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
 
 ### Inline errors
 
@@ -805,49 +807,49 @@ Issues
 
     contestedIssue: You must select an eligible issue
 
-    missingIssue: You must add the name of an issue
+    missingIssue: You must add an issue
 
-    uniqueIssue: You must enter a unique condition name
+    uniqueIssue: You must enter a condition name you haven't already entered (Is the use case here that they've already entered PTSD and they enter that again? I edited with that assumption, but we should revisit this one if that's not the use case!)
 
     maxLength: You can enter a maximum of 140 characters
 
-    invalidDate: You must provide a valid date
+    invalidDate: You must provide a valid date (What do we mean by this? A date in the past? But I see that below... I'd like to be more specific that "valid.")
 
     missingDecisionDate: You must enter a decision date
 
     invalidDateRange: (min, max) => You must enter a year between {min} and {max}
 
-    pastDate: You must add a past decision date
+    pastDate: You must add a decision date that's in the past
 
-    newerDate: You must add an issue with a decision date less than a year old
+    newerDate: You must add an issue with a decision date that's less than a year old
 
 Decisions
 
-    pastDate: 'You must add a past decision date',
+    pastDate: 'You must add a decision date that's in the past',
     
     newerDate: 'You must add a more recent decision date',
   
 VA evidence
 
-    pastDate: 'You must add a past location date',
+    pastDate: 'You must add a past location date', (I'm not understanding this one. What does it mean?) 
     
-    newerDate: 'You must add a more recent location date',
+    newerDate: 'You must add a more recent location date', (This one too--what does it mean?)
     
-    missing: 'You must include at least one type of supporting evidence',
+    missing: 'You must include at least 1 type of supporting evidence',
     
-    locationMissing: 'You must add a treatment location',
+    locationMissing: 'You must enter a treatment location',
     
     locationMaxLength: 'You can enter a maximum of 255 characters',
     
-    issuesMissing: 'You must select one or more conditions (double-check)',
+    issuesMissing: 'You must select 1 or more conditions (double-check)',
     
-    unique: 'You must add a unique location entry',
+    unique: 'You must enter a location you haven't already entered', (same question as above--is this accurate the way I've edited?)
 
 Private evidence
 
     facilityMissing: 'You must add a provider or facility name',
     
-    authorizationRequiredError: 'You need to acknowledge this release of information',
+    authorizationRequiredError: 'You'll need to acknowledge this release of information', (this one seemed like it needed to be gentler language so I varied from "must" here)
       
     country: 'You must choose a country',
     
@@ -873,13 +875,13 @@ Private evidence
 
     contestedIssue: You must select an eligible issue
 
-    evidenceMissing: You must include at least one type of supporting evidence
+    evidenceMissing: You must include at least 1 type of supporting evidence
 
     evidenceLocationMissing: You must add a treatment location
 
     evidenceLocationMaxLength: You can enter a maximum of 255 characters
 
-    evidenceIssuesMissing: You must select one or more conditions (double-check)
+    evidenceIssuesMissing: You must select 1 or more conditions (double-check)
 
     missingEmail: You must provide an email address
 
