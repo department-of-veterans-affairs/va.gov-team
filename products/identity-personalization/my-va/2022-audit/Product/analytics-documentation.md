@@ -59,7 +59,7 @@ More information on notifications analytics can be found [here](https://github.c
 | Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
 | Request travel reimbursement | N/A | `Navigation - Link List - Health care - Request travel reimbursement` | N/A | #16 |
 | Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | `Navigation-Link List-Health care - Get your VA medical records and lab and test results`| #21 |
-| View your messages | Review your messages | `Navigation - Alert Box - Link click - warning -- (not set) - view your messages`| `Navigation-Link List-Health care-Review your messages`| #14 |
+| View your messages | Review your messages | `Navigation - Alert Box - Link click - warning -- (not set) - view your messages`| TBD | #14 |
 
 <details>
   <summary>No Healthcare (New version):</summary>
