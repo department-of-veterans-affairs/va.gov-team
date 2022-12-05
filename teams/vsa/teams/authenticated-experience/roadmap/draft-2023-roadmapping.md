@@ -46,6 +46,14 @@ Potential projects and work for our team includes:
 
 - Research and/or design work with Mikki around creating a more holistic logged-in experience
 
+### What we know now
+
+Via a biweekly sync with Mikki on 11/30:
+
+- The next step with IA work is the wayfinding research that's happening through the health apartment effort. This will be heavily informed by Mikki's treejack testing she did earlier this year.
+- Wayfinding research will need to be a cross-team effort. Mikki's vision includes building a prototype that reconciles the homepage, My VA, and health landing pages to see where and how people expect to find information and where they get confused. This may involve someone from our team needing to mockup or modify designs. Unclear to me if our team would need to be involved in moderating research or not.
+- I think this has potential for work for our team in Q1CY2023.
+
 ## Enhance Veterans' personalized online experience
 
 ### Work that is happening now and will continue into the new year
