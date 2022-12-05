@@ -5,7 +5,7 @@
 ### Notifications
 - No changes/new analytics needed, however here are the current analytics tracked for onsite notifications:
 
-| **Link** | **GA Tag** | **Ranking (Month of Nov - Full month)** |
+| **Link** | **GA Event** | **Ranking (Month of Nov - Full month)** |
 | ---- | ---- | ----- |
 | Manage your VA debt | `Dashboard - Navigation - View Link from Notifications` | #49 |
 
@@ -24,7 +24,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Claims and appeals
 - Current Analytics: 
 
-| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Ranking (Month of Nov)** |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need updated event | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked |
 | View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs updated event | #2 |
@@ -51,7 +51,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Health care
 - Potential links to track: 
 
-| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Ranking (Month of Nov)** |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
@@ -105,7 +105,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Outstanding debts
 - No changes/new analytics needed, here are the current analytics tracked:
 
-| **Link** | **GA Tag** | **Ranking (Month of Nov)** |
+| **Link** | **GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | 
 | Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` | #27 |
 | Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` | #73 (new link) |
@@ -131,7 +131,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Benefit payments
 - No changes/new analytics needed, here are the current analytics tracked:
 
-| **Link** | **GA Tag** | **Note** | **Ranking (Month of Nov)** |
+| **Link** | **GA Event** | **Note** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- |
 | Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two tags for payment history, it looks like the first one is what is being tracked now with Payments V2 | #4 |
 | Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   | #25 | 
@@ -147,7 +147,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Education and training
 - This is a new section to My VA, here are the potential links to track:
 
-| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking (Month of Nov)** |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May need to change the tag since it is under a new section | #24 |
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
@@ -165,7 +165,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Saved applications
 - Previously the "Apply for Benefits" section:
 
-| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking (Month of Nov)** |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15 | 
 | Continue your application | Same as old one | `Dashboard - Navigation - Continue Button - `| TBD | #22 |
@@ -183,7 +183,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### LOA1 Users
 - Here are the current links for LOA1:
 
-| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
 | Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this event? | Need to verify that this is the right event, I do not see any events being tracked in Staging |
