@@ -728,10 +728,16 @@ Static CMS page
 
 
 ## “How to apply” wizards
+They are currently four (5) urls where in-content "How to Apply" wizards exist:
+https://www.va.gov/education/eligibility
+https://www.va.gov/education/how-to-apply
+https://www.va.gov/disability/eligibility
+https://www.va.gov/disability/how-to-file-claim
+https://www.va.gov/decision-reviews/higher-level-review/
 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104)
-
+* [Discharge Update wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update) - product brief is unrelated but another similar product also owned by Public Websites.
 
 ## React widgets governance
 
