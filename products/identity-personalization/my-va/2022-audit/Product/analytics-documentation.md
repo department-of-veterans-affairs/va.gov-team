@@ -1,13 +1,13 @@
 ## My VA Audit - Anayltics Review
 
-### Updated on December 2, 2022
+### Updated on December 5, 2022
 
 ### Notifications
 - No changes/new analytics needed, however here are the current analytics tracked for onsite notifications:
 
-| **Link** | **GA Tag** |
-| ---- | ---- |
-| Manage your VA debt | `Dashboard - Navigation - View Link from Notifications` |
+| **Link** | **GA Tag** | **Ranking (Month of Nov - Full month)** |
+| ---- | ---- | ----- |
+| Manage your VA debt | `Dashboard - Navigation - View Link from Notifications` | #49 |
 
 [Link to onsite notifications dashboard in GA](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/) 
 
@@ -24,11 +24,11 @@ More information on notifications analytics can be found [here](https://github.c
 ### Claims and appeals
 - Current Analytics: 
 
-| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
+| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need new tag/updated tag | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked |
-| View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs new tag/updated tag | also unsure of where this is coming from but it is the #2 interaction |
-| N/A | Learn how to file a claim | N/A | Needs new tag | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link |
+| Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need updated event | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked |
+| View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs updated event | #2 |
+| N/A | Learn how to file a claim | N/A | Needs new event | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
@@ -51,7 +51,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Health care
 - Potential links to track: 
 
-| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Interaction Ranking** |
+| **Old Link** | **New Link** | **Old GA Tag** | **New GA tag** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
@@ -105,11 +105,11 @@ More information on notifications analytics can be found [here](https://github.c
 ### Outstanding debts
 - No changes/new analytics needed, here are the current analytics tracked:
 
-| **Link** | **GA Tag** |
-| ---- | ---- |
-| Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` |
-| Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` |
-| Learn about VA debt | `Navigation - Link List - Learn about VA debt - Learn about VA debt` |
+| **Link** | **GA Tag** | **Ranking (Month of Nov)** |
+| ---- | ---- | ---- | 
+| Manage your VA debt | `Dashboard - Navigation - View Link - Manage your VA debt` | #27 |
+| Manage your VA bills | `Dashbord - Navigation - View Link - Manage your VA bills` | #73 (new link) |
+| Learn about VA debt | `Navigation - Link List - Learn about VA debt - Learn about VA debt` | #45 |
 
 <details>
   <summary>Outstanding debts section (has debts):</summary>
@@ -131,10 +131,10 @@ More information on notifications analytics can be found [here](https://github.c
 ### Benefit payments
 - No changes/new analytics needed, here are the current analytics tracked:
 
-| **Link** | **GA Tag** | **Note** |
-| ---- | ---- | --- |
-| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two tags for payment history, it looks like the first one is what is being tracked now with Payments V2 |
-| Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   |
+| **Link** | **GA Tag** | **Note** | **Ranking (Month of Nov)** |
+| ---- | ---- | ---- | ---- |
+| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two tags for payment history, it looks like the first one is what is being tracked now with Payments V2 | #4 |
+| Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   | #25 | 
 
 <details>
   <summary>Benefit Payments section:</summary>
@@ -147,7 +147,7 @@ More information on notifications analytics can be found [here](https://github.c
 ### Education and training
 - This is a new section to My VA, here are the potential links to track:
 
-| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
+| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
 | Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May need to change the tag since it is under a new section | #24 |
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
@@ -165,9 +165,9 @@ More information on notifications analytics can be found [here](https://github.c
 ### Saved applications
 - Previously the "Apply for Benefits" section:
 
-| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
+| **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15| 
+| What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15 | 
 | Continue your application | Same as old one | Do not see any GA events for this | ---- | ---- |
 | Learn how to apply for VA Health care | Link has been moved to Health care section | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
 | Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
