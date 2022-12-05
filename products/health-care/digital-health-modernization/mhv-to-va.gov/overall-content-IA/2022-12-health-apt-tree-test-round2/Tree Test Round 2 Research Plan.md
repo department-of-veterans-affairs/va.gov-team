@@ -250,13 +250,47 @@ Cohort 7-12: Family members/Caregivers
 
 ### Screener for all participants
 
+1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
+    - During the session, are willing to share over Zoom a web browser window on their device
+    - Have a working microphone on their device
+    - Have Zoom downloaded to their device prior to the session and know how to share their screen
+
+2. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
+    - Yes, I have used an online patient portal in the past 12 months *(go onto additional screener questions)* 
+    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
+
+3. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
+    - Yes *(go onto additional screener questions, follow instructions there to recruit a total of 16 participants. Of these 16, 10 will be Veterans and 6 will be Caregivers)* 
+    - No *(recruit 8; Of these 8, 6 will be Veterans and 2 will be Caregivers)*
+
+
 ### Screener for Veterans
 
-1. Are you enrolled in VA healthcare and have used MyHealtheVet tool in the last 12 months to manage your health care online? MyHealtheVet tool is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications.
-    - Yes to both.(eligible)
-    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
-    - 
-### Screener for Family members /Caregivers
+4. *(If answered yes to Screener question 3 for all participants)* Do you have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 5)*
+    - No *(recruit 2)*
+
+5. *(If yes to Screener question 4)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
+    - Premium *(go onto Screener question 6)
+    - Basic *(recruit 4)*
+
+6.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
+    - Yes *(recruit 4)*
+    - No *(not eligible)*
+
+### Screener for Family memebers/Caregivers
+
+4. *(If answered yes to Screener question 3 for all participants)* Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 5)*
+    - No *(recruit 2)*
+
+5. *(If yes to Screener question 4)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
+    - Yes *(go onto Screener question 6)
+    - No *(recruit 2)*
+
+6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+    - Yes *(recruit 2)*
+    - No *(not eligible)*
 
 
 ## Timeline
