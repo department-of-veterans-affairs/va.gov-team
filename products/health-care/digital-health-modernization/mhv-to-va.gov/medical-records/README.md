@@ -32,7 +32,7 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
 ## User Outcomes
 ### Desired User Outcomes
 
-- Users have a medical records application whose function is...
+- Users have a medical records application whose function is more consistent with their mental models
 - Users are able to perform most, if not all, of the functions provided in a typical medical records application
 - Users no longer need to move between two different web sites (VA.gov and MHV) to perform various health care-related tasks
 - User confidence and satisfaction increase as a result of a more consistent, reliable, and performant application
