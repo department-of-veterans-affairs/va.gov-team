@@ -1,4 +1,4 @@
-# Product Outline
+# Outline
 
 ---
 
