@@ -1,4 +1,4 @@
-# Login.gov Adoption Product Outline 
+# Login.gov adoption outline 
 
 ### Table of contents
 - [Overview](#overview)
