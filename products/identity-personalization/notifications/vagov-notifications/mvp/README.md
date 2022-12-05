@@ -67,7 +67,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 [On-site notifications report](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/)
 
-**Key result**: Establish baseline metric for how many people click the debt notification from My VA. Goal: 5K clicks/month.
+**Key result**: Establish baseline metrics.
 
 |KPI/metric|Post-launch: One-month post launch to 100%: 10/25 - 11/24| Post-launch: Second month post-launch to 100%: 11/25 - 12/24|Post-launch: Third month post-launch to 100%: 12/25 - 1/24|
 |----------|---------------|-------------------|-------------------|
