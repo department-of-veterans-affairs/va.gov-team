@@ -24,6 +24,7 @@
 * Do Not Disturb ON so no notifications
 * Make sure everyone is muted except me and the participant
 * SLACK WINDOW for real-time feedback and questions from observers
+* Open Microsoft Teams in case of no-show
 
 When the participant is ready, turn on your camera and begin session with the intro
 
