@@ -169,7 +169,7 @@ More information on notifications analytics can be found [here](https://github.c
 | ---- | ---- | ---- | ---- | ---- |
 | What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15| 
 | Continue your application | Same as old one | Do not see any GA events for this | ---- | ---- |
-| Learn how to apply for VA Health care | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | Confirm no action is needed | #35 |
+| Learn how to apply for VA Health care | Link has been moved to Health care section | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
 | Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
 
 <details>
