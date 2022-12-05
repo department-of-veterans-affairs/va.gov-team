@@ -1,5 +1,5 @@
 # Military Information Use Cases
-**Last updated:** August 19, 2022
+**Last updated:** December 5, 2022
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
