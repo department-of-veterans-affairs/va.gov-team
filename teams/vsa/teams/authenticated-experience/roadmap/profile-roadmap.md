@@ -7,7 +7,6 @@
 |Project|Status|
 |----|----|
 |Notification preferences: Integration MHV prefs| Planning |
-|Documentation updates| Ongoing|
 |Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
 
 ### Projected timelines for current projects & enhancements
