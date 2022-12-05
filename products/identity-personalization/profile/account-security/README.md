@@ -49,6 +49,7 @@ As a user I need to:
 - [GA dashboard for account security](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 
 ## Backend
+[Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md)
 
 There is no singular backend that supports this section. Largely, this section is a frontend that links off to various tools depending on whether the user has verified their identity or set up 2FA, or what sign-in service they use.
 
@@ -56,8 +57,6 @@ There is no singular backend that supports this section. Largely, this section i
 
 - We check DS Logon, MHV, ID.me, and Login.gov to determine whether a user has verified their identity or not, and whether or not to show them the full profile or only show them Account security with a prompt to verify their identity.
 - We also check these services to see if 2FA has been set up.
-
-See [BE Documentation for Profile: Account Security](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md) document for more information the responsiblity of the backend API.
 
 ### How to Access and Test
 
