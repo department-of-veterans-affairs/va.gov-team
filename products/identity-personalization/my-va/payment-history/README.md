@@ -266,7 +266,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Sept 2022: Finish FE build; UAT planning
 - Oct 2022: QA; Analytics request; Staging review; UAT
 - Nov 29, 2022: Launch to 25%
-- Dec X, 2022: Launch to 50%
+- Dec 5, 2022: Launch to 50%
 - Dec X, 2022: Launch to 100%
  
 </details> 
