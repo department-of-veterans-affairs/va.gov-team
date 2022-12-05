@@ -5,11 +5,9 @@ These are [the test scenarios](./Enrollment-verification-jira-test-plan.docx) th
 
 ### Defect report
 - This is [the list of bugs](./Enrollment-verification-bugs.csv) found during testing.
-TBD
-
 
 ### 508 Testing
-- TBD
+- Axe Reports [here](./axeDt-reports_EnrollmentVerfication.zip)(zip file)
 
 ### Test URL
 - The application can be accessed directly at https://staging.va.gov/education/verify-school-enrollment/
