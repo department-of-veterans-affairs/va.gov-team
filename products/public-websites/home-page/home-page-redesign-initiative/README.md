@@ -64,7 +64,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - [Sketch file](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/a/PGEaJDr) | March 2022
 - [Sketch file - Round 2](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/DD9CFAD9-2A54-41AB-9149-DD1BAC2EB1AF/canvas) | October 2022
 - [Sketch file - Round 3](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/EAD305BC-3082-4F81-ADEC-C2486F7B6BEF/canvas) | November 2022
-- Summary of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
+- [Summary of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
 
 ## Contacts
 
