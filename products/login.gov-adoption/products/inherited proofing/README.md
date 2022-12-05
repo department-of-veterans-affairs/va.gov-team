@@ -1,4 +1,4 @@
-# DS Logon Inherited Proofing Product Outline
+# Inherited proofing outline
 
 ## Overview
 
