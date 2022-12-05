@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Updated November 29, 2022**
+**Updated December 5 2022**
 
 ## Current projects & enhancements
 
@@ -9,19 +9,13 @@
 |Notification preferences: Integration MHV prefs| Planning |
 |Documentation updates| Ongoing|
 |Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
-|Forms system updates |**On hold**|
-
 
 ### Projected timelines for current projects & enhancements
 
-|Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022|
-|----|----|----|----|----|
-|**Integrate military info through VA Profile**| - | Update integration | Launch if not already done |- |
-|**Notification preferences: Integration MHV prefs**| - | - | Planning | Work TBD |
-|**Documentation updates**| - | Direct deposit docs | Docs for all other profile sections | - |
-|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |
-|**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
-
+|Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022| Q1 2023|
+|----|----|----|----|----|----|
+|**Notification preferences: Integration MHV prefs**| - | - | Intake with MHV | Strategy with health apartment; Determine approach |TBD|
+|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |TBD|
 
 ## Completed projects & enhancements
 
