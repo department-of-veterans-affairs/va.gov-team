@@ -133,7 +133,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Link** | **GA Tag** | **Note** |
 | ---- | ---- | --- |
-| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two potential tags for payment history, it looks like the first one is what is being tracked now with Payments V2 |
+| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two tags for payment history, it looks like the first one is what is being tracked now with Payments V2 |
 | Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   |
 
 <details>
@@ -186,7 +186,7 @@ More information on notifications analytics can be found [here](https://github.c
 | **Old Link** | **New Link** | **Old GA tag** | **New GA tag** | **Ranking** |
 | ---- | ---- | ---- | ---- | ---- |
 | Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
-| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this tag? | Need to verify that this is the right tag |
+| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this event? | Need to verify that this is the right event |
 
 
 <details>
