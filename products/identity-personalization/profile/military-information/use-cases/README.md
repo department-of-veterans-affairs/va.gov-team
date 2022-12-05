@@ -21,6 +21,8 @@ This feature has no validation use cases, since it is read only.
 
 ### System
 - [Something has gone wrong and VA.gov can’t display any military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/system-cant-display-military-info.md)
+- [VA.gov can't match information to service records - user is not in DEERs or has no military service history]
+- VA.gov can't show military information because user is not a Veteran
 
 ## Flow diagrams
 - [High-level user flow with screenshots](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/v/nqRRpz/a/l1LzOgv/r/EYLLpY)
