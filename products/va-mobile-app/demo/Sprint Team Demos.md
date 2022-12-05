@@ -4,7 +4,7 @@
 **Demo Sprint 59 12/5/22**
 
 - Demo Topic(s)
- - Blind & Low Vision Research Readout
+   - Blind & Low Vision Research Readout (Liz)
 
 
 **Demo Sprint 58 11/24/22**
