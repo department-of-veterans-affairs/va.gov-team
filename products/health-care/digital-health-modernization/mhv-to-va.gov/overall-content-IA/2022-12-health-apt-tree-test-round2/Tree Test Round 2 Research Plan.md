@@ -121,12 +121,12 @@ Cohort 7-12: Family members/Caregivers
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|            |        |        |        |        |        |  9     |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |  9     |   9    |    9   |   9    |    0   |    0   |        |        |        |         |
+|Healthcare      |            |  9     |   9    |    9   |   0    |    0   |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -172,13 +172,13 @@ Cohort 7-12: Family members/Caregivers
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |   9    |   9    |    9   |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |     9  |    9   |    9   |   0    |   0    |   0    |        |        |        |         |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
