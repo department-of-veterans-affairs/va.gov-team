@@ -41,4 +41,7 @@
 | QA  | requested |[Redesigned VA.gov homepage PTEMS-QA Test Plan #50147](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/50147)
 | Staging review | scheduled for December 15, 2022 | [Sitewide homepage - Redesigned homepage#49802](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/49802)
 | Update to homepage DOMO | Requested | [Analytics KPI dashboard update request for Sitewide homepage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49618)
+| Accessibility Testing for Sitewide Homepage, Redesigned VA.gov homepage | in progress | [#50360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50360)
+| Readiness Review | approved | [Sitewide Homepage, Redesigned VA.gov homepage] [#646](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/646)
+| Contact Center Review | in progress | [#50075](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50075)
 
