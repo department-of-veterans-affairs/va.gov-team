@@ -7,13 +7,13 @@ These are the [test scenarios](./VA-Education-Inbox-jira-test-plan.docx) that fo
 - This is [the list of bugs](./Letters-bugs.csv) found during testing.
 
 ### 508 Testing
-- [Axe tool results](./axeDt-reports.zip) (zip file file download)
+- [Axe tool results](./axeDt-reports_educationLetters.zip) (zip file file download)
 
 ### Test URL
 - The application can be accessed directly at https://education/download-letters
 
 ### Testing accounts
-- To get access to accounts that have letters on DGIB so you can test VA Education Inbox, please contact Cesar Santiago at VA.gov slack channel.
+- To get access to accounts that have letters on DGIB so you can test VA Education Inbox, please contact Cesar Santiago at VA.gov slack channel so they can be staged prior to testing.
 
 ### Testing contacts
 - MEB Lead: Cesar Santiago @ VA.gov Slack channel
