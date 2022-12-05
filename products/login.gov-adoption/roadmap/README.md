@@ -6,17 +6,21 @@
 
 |Project|Status|
 |----|----|
-|CSP Account Migrations|Discovery|
+|Legacy Credential Service Provider (CSP) account migrations (inherited proofing)|Discovery|
 |In-person proofing|Discovery|
-|NVUR/Shares Access Platform|Discovery|
+|Non-Veteran User Roles (NVUR) - shared access platform|Discovery|
+|MFA security keys pilot|Discovery|
+|TAP curriculum review & recommendations|Discovery|
 
 ### Projected timelines for current projects
 
 |Project|Q4 2022|Q1 2023|Q2 2023|Q3 2023
 |----|----|----|----|----|
-|**CSP Account Migrations**|Research;UX & Design explorations|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
-|**In-person proofing**|Research;UX & Design explorations|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
-|**NVUR/Shares Access Platform**|-|Research;UX & Design explorations |-|Pre-launch tasks and reviews; Launch|
+|**Legacy Credential Service Provider (CSP) account migrations (inherited proofing)**|Research;UX & Design explorations|TBD| TBD|-|
+|**In-person proofing**|Research;UX & Design explorations|TBD| TBD|TBD|
+|**Non-Veteran User Roles (NVUR) - shared access platform**|-|Research;UX & Design explorations |TBD|TBD|
+|**MFA security keys pilot**|-|Research;UX & Design explorations |TBD|TBD|
+|**TAP curriculum review & recommendations**|-|Research;UX & Design explorations |TBD|TBD|
 
 ## Completed projects
 
