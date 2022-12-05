@@ -1,6 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 1/14/20 — see change history below
+Last update: 12/5/22 — see change history below
 
 ---
 
@@ -60,7 +60,7 @@ _How does this work technically?_
 - If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS _and_ the redirect is added to the devops repo
 
 _What team is responsible?_
-- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
+- Work is routed from VSP to Sitewide Public Websites team for implementation (label ticket with `⭐️ Public Websites`). Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
 
 _Any other notes_
 - Level of difficulty: low
@@ -76,7 +76,7 @@ _How does this work technically?_
 - N/A
 
 _What team is responsible?_
-- VSP Ops and VSA Public Websites to provide expertise if this comes up because it shouldn’t need to exist.
+- VSP Ops and Public Websites to provide expertise if this comes up because it shouldn’t need to exist.
 
 _Any other notes_
 - The previous list of this type of redirects have been re-implemented server-side (October/November 2019). 
@@ -107,7 +107,7 @@ _When to do this?_
 
 _How does this work technically?_
 - [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (This is a list of domains that load our header/footer, but is not comprehensive of domains that load our JavaScript).
-- [Client-side redirects file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/redirects/disabilityRedirects.json)
+- [Client-side redirects file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json)
 
 1. A request comes in for benefits.va.gov
 2. The page at benefits.va.gov is returned to the user's browser
@@ -119,7 +119,7 @@ _How does this work technically?_
    - Otherwise, do nothing. Just let the page render as usual.
 
 _What team is responsible?_
-- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
+- Work is routed from VSP to Public Websites team for implementation (label ticket with `⭐️ Public Websites`). Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
 
 _Any other notes_
 - This is not ideal, as it depends on our JavaScript running correctly in order for a user to be redirected properly. It also depends on the legacy page staying live. Should be considered temporary solution.
@@ -143,6 +143,10 @@ _Any other notes_
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+
+_12/5/22 - VSA Public Websites team has transitioned to Sitewide Public Websites team as of April 2022. 
+Randi Hecht and Joni Chan are now vetting redirect requests for Sitewide Content as of Q3 2022.
+Fix broken link to Client-side redirects file._
 
 _1/13/20 — Megan made some tweaks for clarification._
 
