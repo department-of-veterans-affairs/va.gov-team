@@ -55,11 +55,11 @@ More information on notifications analytics can be found [here](https://github.c
 | ---- | ---- | ---- | ---- | ---- |
 | N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
-| Send a secure message to your health care team | Send a secure message to your health care team | Need to verify - `Modal - Click - warning - Your session will end in - (not set) - Send a secure message to your health care team` | `Navigation - Link List - Health care - Send a secure message to your health care team` | #60 |
+| Send a secure message to your health care team | Send a secure message to your health care team | Need to verify - `Navigation - Link List - Health care - View your messages` | `Navigation - Link List - Health care - Send a secure message to your health care team` | #7 |
 | Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
 | Request travel reimbursement | N/A | `Navigation - Link List - Health care - Request travel reimbursement` | N/A | #16 |
 | Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | `Navigation-Link List-Health care - Get your VA medical records and lab and test results`| #21 |
-| View your messages | Review your messages | `Navigation-Link List-Health care-View your messages`| `Navigation-Link List-Health care-Review your messages`| #7 |
+| View your messages | Review your messages | `Navigation - Alert Box - Link click - warning -- (not set) - view your messages`| `Navigation-Link List-Health care-Review your messages`| #14 |
 
 <details>
   <summary>No Healthcare (New version):</summary>
