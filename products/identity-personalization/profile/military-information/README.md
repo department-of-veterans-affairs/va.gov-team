@@ -27,6 +27,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Period start dates
 - Period end dates
 - Multiple periods of service, if applicable
+- Link to information on how to request records (DD214)
 
 ## User problem statements
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
