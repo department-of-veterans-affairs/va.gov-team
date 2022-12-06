@@ -75,7 +75,7 @@ Determine a list of tasks and standardize how they are asked repeatedly from res
 - 3 = Most of the task was completed with little difficulty
 - 4 = All parts of the task were completed with no difficulty 
 
-#### Post-Test NPS Question ( ) 
+#### Post-Test NPS Question
 - How likely are you to recommend this online application process to another Veteran? [Scale of 0 - 10]
 
 
@@ -263,11 +263,21 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | Reading difficulties                                          |                  |
 | Low tolerance for cognitive overload                          |                  |
 
+
+## Screeener questions
+
+
+
+
 ## Timeline
 > Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 
 January 2023
+
+* Kickoff call requested
+* Preferred date/time: 
+
 
 
 ### Prepare
@@ -302,10 +312,10 @@ TBD         | TBD
 	
 	
 ## Team Roles	
-- Moderators: Jessica Stump (jessica.stump@adhocteam.us) 	
-- Research guide writing and task development: Moderator	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us) and Nick Osmanski (nick.osmanski@amida.com)	
+- Research guide writing and task development:	Jessica Stump (jessica.stump@adhocteam.us)
 - Participant recruiting & screening: Perigean
-- Project point of contact: 	
+- Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant(s) for pilot test: 
 - Note-takers: Perigean & 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
