@@ -7,9 +7,9 @@ How you'll recruit the right production test users: We’ll be using personal an
 How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
 How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
 ### Results:  
-- Number of users: x  
-- Number of bugs identified / fixed: x/x   
-- Types of errors logged:
+- Number of users: 7  
+- Number of bugs identified / fixed: 5/5  
+- Types of errors logged: general usability issues
 
  
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
