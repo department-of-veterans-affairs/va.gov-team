@@ -98,7 +98,7 @@ We will be conducting a pilot session with internal members of the VFS team in p
 - Date and time of pilot session: Dec 8, 2022 at 9 AM Central
 
 ### Research sessions
-Spanning Sprint 73 & 74 we will be conducting research sessions Monday through Thursday with one morning session and one afternoon session each day. This will allow for plenty of available timeslots to fit the schedules of our research participants.
+Spanning Sprint 73 & 74 we will be conducting research sessions Monday through Thursday from Dec 12 -22 with one morning session and one afternoon session each day. This will allow for plenty of available timeslots to fit the schedules of our research participants.
 
 - Morning Sessions: 11 AM - 11:30 AM Central
 - Afternoon Sessions: 2 PM - 2:30 PM Central
