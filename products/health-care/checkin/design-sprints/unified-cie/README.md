@@ -1,5 +1,5 @@
 # MURAL
-[Spring Design mural](https://app.mural.co/t/vfscie8528/m/vfscie8528/1669731782910/5095a4e5369ea68631e36d9a6cb2ae243e238ac9?sender=ud3aa760e30b39bcf436d4473)
+[Sprint Design mural](https://app.mural.co/t/vfscie8528/m/vfscie8528/1669731782910/5095a4e5369ea68631e36d9a6cb2ae243e238ac9?sender=ud3aa760e30b39bcf436d4473)
 
 # INTERVIEWS
 - [Stephen Barrs Interview Recording](https://us06web.zoom.us/rec/share/LBXVecQyC_bag0h_eTlPmT1M4OwgXX_HdgMSvldcRnHx_UZ0AexlBWj96CccgBJb.n7rSjzc5FjQHNaK2)
