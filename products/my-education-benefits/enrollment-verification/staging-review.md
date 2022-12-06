@@ -12,7 +12,7 @@ The application can be found at https://staging.va.gov/education/verify-school-e
 - Test User information, passwords and tasks [TBD](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md)
 
 ### Github ticket
-- Link to the Github ticket that shows the work for creating and/or updating any relevant static content pages and entry points for this project
+- To get access to accounts that have letters on DGIB so you can test VA Education Inbox, please contact Cesar Santiago at VA.gov slack channel so they can be staged prior to testing.
 
 ### QA Test plan
 - [QA Test plan and test resultsTBD]
