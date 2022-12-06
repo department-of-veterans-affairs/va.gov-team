@@ -39,7 +39,7 @@ Now that we've established the initial infrastructure for VA.gov to leverage VAN
 
 ### Governance
 
-Potential issues we'll tackle include:
+This effort has two main pillars, one of which is how do we manage the process of adding notifications over time? Potential issues we'll tackle include:
 
 #### Intake
 
@@ -55,7 +55,7 @@ We need to work with VANotify to figure out what we need to manage on-site notif
 
 ### Adding new onsite notifications to VA.gov
 
-Potential issues we'll tackle include:
+The other pillar to this effort is actually adding new onsite notifications. Potential issues we'll tackle include:
 
 #### What notifications to add to VA.gov in V2
 
