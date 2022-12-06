@@ -10,10 +10,10 @@ The application can be found at [https://staging.va.gov/education/verify-school-
 - [Staging link][https://staging.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e](https://staging.va.gov/education/verify-school-enrollment/)
 
 ### Test info
-- Test User information, passwords and tasks - TBD, to be communicated offline.
+- To get access to accounts that have letters on DGIB so you can test VA Education Inbox, please contact Cesar Santiago at VA.gov slack channel so they can be staged prior to testing.
 
 ### Github ticket
-- Link to the Github ticket that shows the work for creating and/or updating any relevant static content pages and entry points for this project
+- N/A
 
 ### QA Test plan
 - [QA Test plan](./test-scripts/TOE-jira-test-plan.docx)
