@@ -1,7 +1,7 @@
 # Military information: VA.gov can’t match military information to service records
 **Last updated: December 5, 2022**
 
-For LOA3 users who sign in, go to the profile, and click into the military information section, we will show a consolidated error if we are not able to access or match military information to service records because the user is not in DEERs or does not have a military service history. 
+For LOA3 users who sign in, go to the profile, and click into the military information section, we will show a consolidated error if we are not able to access or match military information to service records. This may happen if the user is not in DEERS (we can't find their Department of Defense (DoD) ID) or does not have a military service history. 
 
 If the user thinks this is a mistake, they can apply for a correction.
 
