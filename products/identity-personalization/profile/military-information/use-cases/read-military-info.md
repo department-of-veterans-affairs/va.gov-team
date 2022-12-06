@@ -39,6 +39,7 @@ This page isn’t editable.
 *  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/VrJq5jr) 
 *  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
 
+View this [Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1670342254856829) for more information on the difference between these alerts. 
 
 ## Codes
 N/A
