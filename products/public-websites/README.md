@@ -729,11 +729,12 @@ Static CMS page
 
 ## “How to apply” wizards
 They are currently four (5) urls where in-content "How to Apply" wizards exist:
-https://www.va.gov/education/eligibility
-https://www.va.gov/education/how-to-apply
-https://www.va.gov/disability/eligibility
-https://www.va.gov/disability/how-to-file-claim
-https://www.va.gov/decision-reviews/higher-level-review/
+
+* https://www.va.gov/education/eligibility
+* https://www.va.gov/education/how-to-apply
+* https://www.va.gov/disability/eligibility
+* https://www.va.gov/disability/how-to-file-claim
+* https://www.va.gov/decision-reviews/higher-level-review/
 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104)
@@ -763,4 +764,4 @@ Transformers for specific CMS fields / templates: [https://github.com/department
 * How to apply wizards: 508 defect: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/12211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12211)
 * [Mobile Inconsistency: Resources & Support Search](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22868) va.gov-team #22868
 * CLP 508 - [https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020)
-* [Custom urls for media (especially PDFs and documents)](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1398) #1398
+* [Custom urls for media (especially PDFs and documents)](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1398) #139* 8
