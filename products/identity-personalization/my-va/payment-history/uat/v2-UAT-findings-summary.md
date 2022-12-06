@@ -47,3 +47,4 @@
 * Any must-have criteria should be outlined in the screener questions in the research plan, even if they are already outlined in the recruitment criteria table as well.
 * We should ask to see the Calendly survey and the screener email before it is sent out to participants.
 * If possible, it would be helpful to have a short kick-off call with Perigean before participants are recruited so both parties are clear on the requirements and what we are trying to accomplish in the sessions.
+* Ask Perigean to follow up with participants before sessions to verify that they are able to meet the technical requirements (i.e. They have Zoom downloaded, can screen share, can log in to VA.gov for the session, have an identity-verified account, etc.)
