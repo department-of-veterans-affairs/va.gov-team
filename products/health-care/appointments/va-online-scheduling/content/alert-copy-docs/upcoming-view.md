@@ -5,7 +5,7 @@
 ## Upcoming Appointments
 
 
-#### VVS (Vista Scheduling Services) is down and in person apppointent(s) is not available in VAOS app
+#### VVS (Vista Scheduling Services) is down and in person apppointents are not available in VAOS app
 ```
 (H1) We can't display in-person VA appointments
 
