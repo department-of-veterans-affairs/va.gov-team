@@ -93,16 +93,21 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 - What does VANotify currently support?
 
+#### Scaling notifications without overwhelming My VA
+
+- Can we add any new notifications without potentially overwhelming My VA?
+
 #### Notification center
 
-- Do we need one?
-- How do we make this feel that it's not redundant to My VA?
+- What makes something a notification center?
+- Is there an in between step between what we have now and a notification center?
+- Do we need a notification center now?
 - If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
 - If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
 
 #### Increasing interactions
 
-- What would increase interactions with the notification preferences feature? And is this important enough to tackle in V2?
+- What would increase interactions with the notifications feature? And is this important enough to tackle in V2?
 
 ## Problem Statement
 
