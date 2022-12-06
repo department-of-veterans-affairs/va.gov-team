@@ -59,6 +59,6 @@ The following provides a description of the different termination reason codes:
 - "W" Not Applicable
 
 ## Design and UX
-- [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
+- [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
 - [High-level user flow with screenshots](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/v/nqRRpz/a/l1LzOgv/r/EYLLpY)
