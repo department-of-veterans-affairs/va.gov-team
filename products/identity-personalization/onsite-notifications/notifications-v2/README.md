@@ -111,6 +111,7 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 - If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
 - How do we do discovery on this without being too leading? We're already pretty sure that users will respond positively to a notification center, so how can we determine this is the right path without being too self-fulfilling?
 - How do people across VA.gov feel about a notification center? How would this affect the navigation? How would this affect other teams?
+- Have other teams talked to users about how they expect to see notifications on VA.gov (eg. has this come up through health apartment research at all? Or VAOS? Or the mobile app? etc etc)
 
 #### Increasing interactions
 
