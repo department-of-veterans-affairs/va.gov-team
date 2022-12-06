@@ -9,7 +9,7 @@
 
 **10-15 min before the session:**
 
-
+* Log into CAG to access Outlook and Teams and check and see if there are any messages from the participant. 
 
 * Post participant number and [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)
     * @mention team members
@@ -178,6 +178,8 @@ Gain a better understanding of what types of notifications would help editors to
 ## Thank You and Closing - 2 minutes
 
 * _Ask any additional follow-up questions from #feedback-backchannel_
+* Ask our research participant if there’s anyone else they know that they would recommend us to talk to.
+* Ask if they can introduce us to them or if we can CC them on an email for credibility on contact.
 * That's the end of my list of questions. Is there anything we talked about today that you have additional thoughts you want to share?
 
 We appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works for editors such as yourself and the veterans that you serve.
