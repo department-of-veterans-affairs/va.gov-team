@@ -22,7 +22,7 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) |  [Appeal Modernization Process](#appeal-modernization-process) |
 | [Benefits Detail Page](#benefits-detail-page) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | Discharge update wizard |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
 | [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [FAQ Page](#faq-page) | [Offices](#offices) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
