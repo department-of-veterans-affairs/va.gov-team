@@ -1,7 +1,7 @@
 # [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA Health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA healthcare easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -296,23 +296,21 @@ TBD         | TBD
 TBD         | TBD
 
 
-_Only use if necessary_ | Time (ET)
-------------------|--------------
-TBD         | TBD
-TBD         | TBD
 
 
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
 	
 	
 ## Team Roles	
-- Moderators: Jessica Stump (jessica.stump@adhocteam.us) and Nick Osmanski (nick.osmanski@amida.com)	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us) 	
 - Research guide writing and task development: Moderator	
 - Participant recruiting & screening: Perigean
 - Project point of contact: 	
 - Participant(s) for pilot test: 
 - Note-takers: Perigean & 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+
+
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
