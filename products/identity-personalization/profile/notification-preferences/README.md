@@ -93,8 +93,7 @@ For previous OKRs/KPIs:
 
 |Projects|Launch date|
 |--------|-----------|
-|[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md#measuring-success)| Nov 2021|
-|[Notification Communications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/communications-permissions-mvp-definition.md)| July 2021|
+|[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md)| Nov 2021|
 
 ## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)
