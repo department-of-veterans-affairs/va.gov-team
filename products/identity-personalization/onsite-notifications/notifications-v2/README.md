@@ -1,6 +1,6 @@
 # Project outline: Scaling on-site notifications (On-site notifications V2)
 
-**Last updated December 7, 2022**
+**Last updated: December 7, 2022**
 
 ### Communications
 
