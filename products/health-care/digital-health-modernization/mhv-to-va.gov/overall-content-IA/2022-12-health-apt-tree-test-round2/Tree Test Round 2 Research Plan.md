@@ -123,13 +123,13 @@ Cohort 7-12: Family members/Caregivers
 |55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |   1    |   1    |        |        |        |        |         |
 |*No Ben/Ser Exp*|            |        |        |        |        |        |  9     |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |  9     |   9    |    9   |   0    |    0   |        |        |        |        |         |
+|Healthcare      |            |  9     |   9    |    9   |    0   |  0     |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -181,7 +181,7 @@ Cohort 7-12: Family members/Caregivers
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |     9  |    9   |    9   |   0    |   0    |   0    |        |        |        |         |
+|MyHealtheVet    |            |     9  |    9   |    9   |        |        |        |        |        |        |         |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
@@ -236,7 +236,7 @@ Cohort 7-12: Family members/Caregivers
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    | 1-2 per cohort|
+|*Various*                                                    | 1-2 for cohort 1-6, 0 for cohort 7-12|
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -291,7 +291,7 @@ Cohort 7-12: Family members/Caregivers
     - Yes *(go onto Screener question 6)
     - No *(recruit 2)*
 
-6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months to help manage a Veterna's VA health care? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
     - Yes *(recruit 2)*
     - No *(not eligible)*
 
