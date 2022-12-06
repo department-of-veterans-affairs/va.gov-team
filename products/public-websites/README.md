@@ -22,13 +22,12 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) |  [Appeal Modernization Process](#appeal-modernization-process) |
 | [Benefits Detail Page](#benefits-detail-page) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Downtime messaging](#downtime-messaging) |
-| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [Event](#event) | [Income limits web application](#income-limits-web-application) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [FAQ Page](#faq-page) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) |  | [React widgets governance](#react-widgets-governance)|
-| [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | . |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | Discharge update wizard |
+| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
+| [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [FAQ Page](#faq-page) | [Offices](#offices) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) |  | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [React widgets governance](#react-widgets-governance)|| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
 | [Q&A - single](#qa---single) | [On-site search (using search.gov)](#on-site-search-using-searchgov) |  . |
 | [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
@@ -706,6 +705,13 @@ Projects the previous PW team worked on, but no work remaining for our team (so 
 
 [https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities) 
 
+## Discharge update wizard
+https://www.va.gov/discharge-upgrade-instructions/questions
+
+**More info:**
+* vets.gov-team repo: [discharge tool issues](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=label%3A%22discharge+tool%22+)
+* [Discharge Update wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
+
 
 ## Downtime messaging
 
@@ -727,8 +733,9 @@ UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/
 Static CMS page 
 
 
-## “How to apply” wizards
-They are currently four (5) urls where in-content "How to Apply" wizards exist:
+## “How to apply” / Benefit wizards
+
+There are currently four (5) urls where in-content "How to Apply" wizards exist:
 
 * https://www.va.gov/education/eligibility
 * https://www.va.gov/education/how-to-apply
@@ -736,9 +743,10 @@ They are currently four (5) urls where in-content "How to Apply" wizards exist:
 * https://www.va.gov/disability/how-to-file-claim
 * https://www.va.gov/decision-reviews/higher-level-review/
 
+More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
 * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104)
-* [Discharge Update wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update) - product brief is unrelated but another similar product also owned by Public Websites.
+
 
 ## React widgets governance
 
