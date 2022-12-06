@@ -13,6 +13,10 @@ How you'll give the test users access to the product in production w/o making it
 
  
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
+- changed the end point attribute used to generate "subject" of the document
+- removed "ratings decision" document type from the listview
+- fixed listview to show items in reverse chronological order
+- changed the end point attribute used to generate the date the document was created
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
 ### Planning 
