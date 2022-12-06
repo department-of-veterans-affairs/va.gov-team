@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-Last Updated: August 19, 2022
+Last Updated: December 6, 2022
 ### Table of Contents
 
 - [POCs](#pocs)
