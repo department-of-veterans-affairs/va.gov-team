@@ -50,7 +50,6 @@ We will use the results from this research to establish a baseline for comparris
 - The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
 - The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
 - The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context. 
-- 
 
 
 ## Method	
