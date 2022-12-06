@@ -236,7 +236,7 @@ Cohort 7-12: Family members/Caregivers
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    | 1-2 for cohort 1-6, 0 for cohort 7-12|
+|*Various*                                                    | 1-2 for cohort 1-6 and 0 for cohort 7-12|
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
