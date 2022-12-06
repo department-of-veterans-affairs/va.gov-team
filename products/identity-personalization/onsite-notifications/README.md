@@ -76,7 +76,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Measuring success
 
-- Initial metrics will be tracked as part of the [on-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success).
+- Initial metrics will be tracked as part of the [on-site notifications MVP]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#measuring-success)).
 
 ## Projects
 
