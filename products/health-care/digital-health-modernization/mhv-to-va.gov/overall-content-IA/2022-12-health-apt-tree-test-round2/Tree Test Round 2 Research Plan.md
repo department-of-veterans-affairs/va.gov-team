@@ -370,7 +370,7 @@ Please reply to this email to receive the activity link and a participation code
 
 
 
-## Appendix D:  Email to recruited participant (cohort A-G)
+## Appendix D:  Email to recruited participant 
 
 ```
 Hello,
@@ -384,19 +384,3 @@ You will be asked to find a certain item and presented with a list of links. Cli
 
 Click this <<link>> to begin the study.
 ```
-
-
-
-## Appendix E:  Email to recruited participant (cohort H-N)
-
-
-```
-Hello,
-Thank you for agreeing to take part in this study. This activity shouldn't take more than 15 minutes to complete. You can complete the study using a tablet, phone, or computer.
-
-This study is anonymous. None of the information or feedback you share will be directly attributed to you. 
-
-Instructions:
-You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above. There are no wrong answers.
-
-Click this <<link>> to begin the study.
