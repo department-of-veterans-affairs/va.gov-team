@@ -3,7 +3,7 @@
 
 For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
 
-If they don't have a DoD ID, they'll see an alert instead of a service history.
+If they don't have a DoD ID, do not have a service history, or are a non-veteran, they'll see an alert instead of a service history.
 
 This page isn’t editable.
 
@@ -26,7 +26,7 @@ This page isn’t editable.
 *  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
 
 ### User does not have a service history
-* If the user does not have a service history, the service history array will be empty. The user will see an alert on the page telling them we can't access their military information.
+* If the user does not have a service history, the service history array will be empty. The user will see an alert on the page telling them we can't access their military information. _**Note:** A user can have a DoD ID but no military service._
 * The additional info component is not displayed.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
 *  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
