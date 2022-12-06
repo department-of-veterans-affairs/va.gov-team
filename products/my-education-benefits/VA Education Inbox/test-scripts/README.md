@@ -8,6 +8,7 @@ These are the [test scenarios](./VA-Education-Inbox-jira-test-plan.docx) that fo
 
 ### 508 Testing
 - [Axe tool results](./axeDt-reports_educationLetters.zip) (zip file file download)
+- Accessibility Review [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50417)
 
 ### Test URL
 - The application can be accessed directly at https://education/download-letters
