@@ -35,7 +35,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a staging site that is a fully functioning demo tool.**  Since it's a staging environment, none of your actions will affect your actual VA information or benefits. You won't actually be submitting an application during this session.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -49,15 +49,16 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we begin the session, let’s start with a few warm-up questions.
 
 - Do you currently have health care benefits from the VA?
 - [If yes] What is your memory/recollection of the application process?
 
 
+
 ## Task: [Start Application] - 5 minutes
 - For this session today, we are going to work through the scenario that you are interested in applying for VA health care. 
-- You arrive at this page. Please explain what you see and what you would do next. 
+- You arrive at this page. Please explain what you the content on this page means to you and what you would do next. 
 
 **Participant questions:**
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
@@ -69,6 +70,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ## Task: [Pre-check & pre-populated info] - 3 minutes 
@@ -83,7 +89,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [Does the participant click on the sign in link on this page?]
-- 
 - [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
@@ -143,7 +148,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: Financial disclosure - 3 minutes
 - Begin completing this section of the health care application. 
-- Talk through what you see and what the content means to you.
+- Talk through what what the content means to you and what you would do.
 
 **Participant questions:**
 - What worked well for you?
@@ -194,7 +199,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Task: Editing and removing a dependent - 3 minutes
-- You realized you answered the birth date question incorrectly (oops) and you need to go back and fix it. How would you go about doing that?
+- You realized you answered the birth date question incorrectly and you need to go back and fix it. How would you go about doing that?
 - Now for this scenario, just imagine you added a dependent twice and now need to remove them from the list. How would you remove a dependent from this application?
 
 ### Things to watch for:
@@ -281,7 +286,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Task: Confirmation Page - 3 minutes
 
 - What are your thoughts on this page after you submitted your application?
-- Is this what you would expect or what are your expectations from here?
+- Is this what you would expect or if not, what are your expectations from here?
 
 
 ### Things to watch for:
