@@ -78,6 +78,11 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 ## Questions
 
+#### General
+
+- What can we get done in 3 months before Samara's maternity leave?
+- What would be appropriate to work on while Samara is on leave?
+
 #### Intake
 
 - What is VANotify's current intake process? Can we piggyback off of this?
@@ -104,6 +109,8 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 - Do we need a notification center now?
 - If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
 - If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
+- How do we do discovery on this without being too leading? We're already pretty sure that users will respond positively to a notification center, so how can we determine this is the right path without being too self-fulfilling?
+- How do people across VA.gov feel about a notification center? How would this affect the navigation? How would this affect other teams?
 
 #### Increasing interactions
 
