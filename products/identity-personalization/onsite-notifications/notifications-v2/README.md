@@ -66,7 +66,7 @@ We need to work with VANotify to figure out how to scale this feature, both in t
 
 #### How do we increase interactions with notifications?
 
-For the MVP, we didn't add any indicators that someone has a new notification until they get to My VA. 
+For the MVP, we didn't add any indicators that someone has a new notification until they get to My VA. We may want to explore how to get more people to notifications to increase visibility and access to the tool.
 
 ## Questions
 
