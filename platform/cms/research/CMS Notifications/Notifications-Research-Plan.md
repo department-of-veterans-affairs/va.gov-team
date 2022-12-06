@@ -67,8 +67,8 @@ We will use semi-structured interviews to conduct generative research.
 Remote via Zoom
 
 ### Research materials  
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/CMS%20Notifications/Moderated-Interviews-Conversation-Guide.md) (Coming next sprint)
-- Email mockup (Coming next sprint)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/CMS%20Notifications/Moderated-Interviews-Conversation-Guide.md)
+- [Email mockup (In Progress)](https://www.figma.com/file/fQl2Y2k9MDA2dc0xViC645/6102-Notification-Email?node-id=0%3A1&t=5Qj9ESLGr4oy8qnG-1)
 
 ## Recruitment	
 
@@ -92,13 +92,13 @@ CMS editors at Vet Centers and VAMC Facilities are the intended audience of this
 * No editors from the same facility
 
 ### Prepare
-We will be conducting a pilot session with internal members of the VFS team in preparation for our interviews with actual editors. This will allow time for feedback and any necessary adjustments to research materials before starting our research sessions in sprint 73 (December 5-16, 2022)
+We will be conducting a pilot session with internal members of the VFS team in preparation for our interviews with actual editors. This will allow time for feedback and any necessary adjustments to research materials before starting our research sessions in sprint 73 and 74.
 
 - Pilot participant: Bentley Hensel (bentley.hensel@civicactions.com) 
-- Date and time of pilot session: Nov 30, 2022 at 3 PM Central
+- Date and time of pilot session: Dec 8, 2022 at 9 AM Central
 
 ### Research sessions
-During Sprint 73 (December 5-16, 2022) we will be conducting research sessions Monday through Thursday with one morning session and one afternoon session each day. This will allow for plenty of available timeslots to fit the schedules of our research participants.
+Spanning Sprint 73 & 74 we will be conducting research sessions Monday through Thursday with one morning session and one afternoon session each day. This will allow for plenty of available timeslots to fit the schedules of our research participants.
 
 - Morning Sessions: 11 AM - 11:30 AM Central
 - Afternoon Sessions: 2 PM - 2:30 PM Central
@@ -114,7 +114,7 @@ These people will be serving in each role.
 - Participant recruiting & screening: Blake Organ, Erika Washburn
 - Project point of contact: Blake Organ
 - Participant(s) for pilot test: Blake Organ, Bentley Hensel, Dave Pickett, Erika Washburn, Jordan Wood
-- Observers: Members from the Sitewide CMS Team and Facility Team. Potentially members from VHA Digital Media and Dave Conlon.
+- Observers: Members from the Sitewide CMS Team, and Facility Team, and Platform CMS dev team. Potentially members from VHA Digital Media and Dave Conlon.
 - Note-takers: Dave Pickett, Jordan Wood
 
 
