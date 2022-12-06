@@ -4,7 +4,7 @@
 # INTERVIEWS
 - [Stephen Barrs](https://us06web.zoom.us/rec/share/LBXVecQyC_bag0h_eTlPmT1M4OwgXX_HdgMSvldcRnHx_UZ0AexlBWj96CccgBJb.n7rSjzc5FjQHNaK2)
     - Passcode: &N9xI+V2
-- [Kay Lawner](https://us06web.zoom.us/rec/share/5kO3zBCZ3BKEkb1sZqKiJ0PKuaV8UDi4cZ9WQf98l7-h9TmtA9mTABHWPzJHGMf_.6MP7F9ftqDLnDDcj?startTime=1670344201000)
+- [Kay Lawyer](https://us06web.zoom.us/rec/share/5kO3zBCZ3BKEkb1sZqKiJ0PKuaV8UDi4cZ9WQf98l7-h9TmtA9mTABHWPzJHGMf_.6MP7F9ftqDLnDDcj?startTime=1670344201000)
     - Passcode: a5e9g#v6
 - [Shawn Adams]()
 
