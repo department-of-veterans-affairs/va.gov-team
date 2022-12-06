@@ -1,6 +1,6 @@
 # Project outline: Scaling on-site notifications (On-site notifications V2)
 
-Last updated September 30, 2022
+**Last updated December 7, 2022**
 
 ### Communications
 
@@ -9,7 +9,7 @@ Last updated September 30, 2022
 
 ### Roles
 
-[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications#product-outline-on-site-notifications-ie-personalized-notifications-that-show-on-vagov)
+[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#readme)
 
 ### Table of Contents
 
@@ -28,7 +28,7 @@ Last updated September 30, 2022
 
 ## Overview
 
-[The on-site notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#readme) is set to launch in October 2022. This functionality does the following:
+[The on-site notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) is set to launch in October 2022. This functionality does the following:
 
 - Integrates VA.gov and VANotify, so that VANotify can tell VA.gov when to show an on-site alert to a user.
 - Elevates a single, action-oriented alert on My VA for when a user has had a new debt added to their account. Users can click for more information or dismiss the alert.
@@ -106,6 +106,7 @@ TBD
 ## Key dates
 
 - September 2022: Initial on-site notifications V2 planning
+- October - December 2022: V2 work on hold due to MVP launch and lull due to contract switch-over
 
 ## Backend
 
