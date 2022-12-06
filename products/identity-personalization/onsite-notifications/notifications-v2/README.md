@@ -64,6 +64,10 @@ As part of this work, we should figure out how we can make implementing new on-s
 
 We need to work with VANotify to figure out how to scale this feature, both in terms of a governance, testing, and launch process, but also figuring out how and what we need to manage on-site notifications in the VANotify self-service tool.
 
+#### How do we increase interactions with notifications?
+
+For the MVP, we didn't add any indicators that someone has a new notification until they get to My VA. 
+
 ## Questions
 
 **Notification center**
