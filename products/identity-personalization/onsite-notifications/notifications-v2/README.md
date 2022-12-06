@@ -78,12 +78,31 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 ## Questions
 
-**Notification center**
+#### Intake
+
+- What is VANotify's current intake process? Can we piggyback off of this?
+- Is VANotify's intake process tied to VA Profile's intake process in any way?
+- Do we need a separate intake process?
+
+#### Speeding up development time
+
+- How can we reduce the time to test a new notification (even if this is not reduced time overall, but reduced effort on our team's part)?
+- What development is required to add a new notification now that the MVP exists (ask backend)?
+
+#### Adding new notifications to VA.gov
+
+- What does VANotify currently support?
+
+#### Notification center
 
 - Do we need one?
 - How do we make this feel that it's not redundant to My VA?
 - If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
 - If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
+
+#### Increasing interactions
+
+- What would increase interactions with the notification preferences feature? And is this important enough to tackle in V2?
 
 ## Problem Statement
 
