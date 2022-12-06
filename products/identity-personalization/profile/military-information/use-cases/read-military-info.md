@@ -29,8 +29,8 @@ This page isn’t editable.
 * If the user does not have a service history, the service history array will be empty. The user will see an alert on the page telling them we can't access their military information.
 * The additional info component is not displayed.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/4aQveZd) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/agE3Vxr) 
+*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
+*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/52vgV88) 
 
 ### User is not a Veteran
 * If the user is confirmed to be a non-Veteran, they will see an informational alert on the page telling them they don't have any military information.
