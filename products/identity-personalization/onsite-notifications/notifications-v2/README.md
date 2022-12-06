@@ -35,36 +35,44 @@
 
 Now that we've established the initial infrastructure for VA.gov to leverage VANotify's functionality, we are ready to determine next steps for scaling this feature.
 
-### Potential problems we'll tackle
+## Problems
 
-#### What notifications can we add?
+### Governance
+
+Potential issues we'll tackle include:
+
+#### Intake
+
+Over time, we need a process for determining what gets added to the on-site notifications feature. This might piggyback off of VANotify's intake process. Ideally, we will work with VANotify to implement a process that considers on-site notifications from the beginning as teams are adding new email/text notifications.
+
+#### Speeding up development time
+
+Understandably, the MVP required a lot of thinking, planning, iterating, and testing. While we weren't working on the feature full time for a whole year, it did take us about a year to go from our original planning meetings to launch. This is obviously unsustainable -- we shouldn't need to take a year to launch every on-site notification. As part of this work, we should figure out how we can make implementing new on-site notifications a relatively low-lift over time. 
+
+#### Updates to the VANotify platform
+
+We need to work with VANotify to figure out what we need to manage on-site notifications in the VANotify self-service tool.
+
+### Adding new onsite notifications to VA.gov
+
+Potential issues we'll tackle include:
+
+#### What notifications to add to VA.gov in V2
 
 There are a couple factors that go into what we can or might add to the on-site notifications feature:
 
 - **Type of notification**: For on-site notifications, we are prioritizing action-oriented alerts. We have heard repeatedly in user research that the most important information for people is if VA needs them to take action on something, so we want to make sure these kinds of alerts are elevated above others. Second, we would prioritize alerts where VA has taken an action, but no action is required by the user (eg. VA has made a payment to a user). Currently, we are not prioritizing suggestions, and we have no plans to show "confirmation" information (eg. confirming a user has submitted an application).
 - **VANotify support**: We can only support on-site notifications for which VANotify already offers text or email notification support. We can not support a notification if it's not in VANotify, no matter how useful that alert might be.
 
-#### How do we scale on-site notifications without overwhelming My VA?
+#### Scaling on-site notifications without overwhelming My VA
 
-In our MVP approach, we show our singular "You have a new debt" notification on My VA. At this point, a notification center didn't make sense since we were starting with one notification.
+In our MVP approach, we show our singular "You have a new debt" notification on My VA. At this point, a notification center didn't make sense since we were starting with one notification. However, we now have the opportunity to add more than one notification to this feature, but we don't want to overwhelm the other content on My VA.
 
-However, we now have the opportunity to add more than one notification to this feature, but we don't want to overwhelm the other content on My VA.
-
-#### Do we need a notification center? If so, when?
+#### Determining when to add a notification center
 
 There is an assumption that, eventually, we'll build a notification center that will co-exist with My VA. Is this a fair assumption? How do we validate this? And when is the right time to switch from showing notifications on My VA to showing notifications in a notification center?
 
-#### How can we scale this feature over time so our team isn't having to put in so much development time?
-
-Understandably, the MVP required a lot of thinking, planning, iterating, and testing. While we weren't working on the feature full time for a whole year, it did take us about a year to go from our original planning meetings to launch. This is obviously unsustainable -- we shouldn't need to take a year to launch every on-site notification.
-
-As part of this work, we should figure out how we can make implementing new on-site notifications a relatively low-lift over time. We will need to work with VANotify to implement a process that considers on-site notifications from the beginning as teams are adding new email/text notifications.
-
-#### What do we need from VANotify over time?
-
-We need to work with VANotify to figure out how to scale this feature, both in terms of a governance, testing, and launch process, but also figuring out how and what we need to manage on-site notifications in the VANotify self-service tool.
-
-#### How do we increase interactions with notifications?
+#### How to increase interactions with notifications
 
 For the MVP, we didn't add any indicators that someone has a new notification until they get to My VA. We may want to explore how to get more people to notifications to increase visibility and access to the tool.
 
@@ -111,6 +119,7 @@ TBD
 
 - September 2022: Initial on-site notifications V2 planning
 - October - December 2022: V2 work on hold due to MVP launch and lull due to contract switch-over
+- January 2023: Project discovery; Scope V2
 
 ## Backend
 
