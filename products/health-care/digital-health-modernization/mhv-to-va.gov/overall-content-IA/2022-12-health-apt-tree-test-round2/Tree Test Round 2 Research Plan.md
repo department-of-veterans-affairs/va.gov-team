@@ -72,52 +72,55 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ## Recruitment criteria
 
-We will schedule a total of 108 (54 Veterans and 54 family members/caregivers) participants for a completion rate of 100 tree tests.  
+We will schedule a total of 108 (54 Veterans and 54 family members/caregivers) participants for a completion rate of 80 tree tests.  
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|     108        |        90-100   |   54   |      27     |    27    |               | 
+|     108       |        80        |   54   |      27     |    27    |               | 
 
 ### Criteria Table
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
 Cohord 1-6: Veterans
+
 Cohort 7-12: Family members/Caregivers
+
 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|Cohort 11|Cohort 12|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|
-|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |
-|Female          |            |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |
-|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2   |        |        |        |         |
-|Gay             |            |        |        |        |        |        |        |        |        |        |         |
-|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
-|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
-|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
-|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
-|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
-|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
-|Queer           |            |        |        |        |        |        |        |        |        |        |         |
-|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |            |    3   |     3  |    3   |    3   |    3   |   3    |   3    |    3   |   3    |   3     |
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
+|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Male            |            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |     1   |     1   |
+|Female          |            |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |         |         |
+|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|*Various*       |            |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2   |        |        |        |         |         |         |
+|Gay             |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Asexual         |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Transgender     |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Queer           |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |         |         |       
+|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |         |         |             
+|*Various*       |            |    3   |     3  |    3   |    3   |    3   |   3    |   3    |    3   |   3    |   3     |    3    |   3     |
+|Black           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
+|White           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
+|Latinx          |            |        |        |        |        |        |        |        |        |        |         |         |         |            
+|Asian           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
+|Native          |            |        |        |        |        |        |        |        |        |        |         |         |         |           
+|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |         |         |            
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |  ---    | ---     |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |
+|55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
@@ -144,11 +147,11 @@ Cohort 7-12: Family members/Caregivers
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Elementary      |            |        |   1    |        |   1    |        |    1   |        |        |        |         |
-|Intermediate    |            |   1    |        |   1    |        |   1    |        |        |        |        |         |
-|GED             |            |        |   1    |        |   1    |        |    1   |        |        |        |         |
-|High School     |            |   1    |        |   1    |        |    1   |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |        |         |
+|Elementary      |            |        |        |        |   1    |        |        |        |        |        |  1      |        |         |
+|Intermediate    |            |        |        |   1    |        |   1    |        |        |        |   1    |         |   1    |         |
+|GED             |            |        |   1    |        |        |        |    1   |        |   1    |        |         |        |    1    |
+|High School     |            |   1    |        |        |        |        |        |   1    |        |        |         |        |         |
 |Some College    |            |        |        |        |        |        |        |        |        |        |         |
 |Associate's     |            |        |        |        |        |        |        |        |        |        |         |
 |Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
