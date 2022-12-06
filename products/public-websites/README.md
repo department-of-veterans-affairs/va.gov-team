@@ -33,6 +33,11 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
 | [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
 
+The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
+
+* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
+
+
 ---
 
 # CMS content / functionality
