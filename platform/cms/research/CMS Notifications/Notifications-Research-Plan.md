@@ -68,7 +68,7 @@ Remote via Zoom
 
 ### Research materials  
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/CMS%20Notifications/Moderated-Interviews-Conversation-Guide.md)
-- [Email mockup (In Progress)](https://www.figma.com/file/fQl2Y2k9MDA2dc0xViC645/6102-Notification-Email?node-id=0%3A1&t=5Qj9ESLGr4oy8qnG-1)
+- [Email mockup](https://www.figma.com/file/fQl2Y2k9MDA2dc0xViC645/6102-Notification-Email?node-id=0%3A1&t=5Qj9ESLGr4oy8qnG-1)
 
 ## Recruitment	
 
