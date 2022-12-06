@@ -708,10 +708,12 @@ Projects the previous PW team worked on, but no work remaining for our team (so 
 ## Discharge update wizard
 https://www.va.gov/discharge-upgrade-instructions/questions
 
+The discharge update wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview. 
+
 **More info:**
 * vets.gov-team repo: [discharge tool issues](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=label%3A%22discharge+tool%22+)
 * [Discharge Update wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
-
+* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
 ## Downtime messaging
 
