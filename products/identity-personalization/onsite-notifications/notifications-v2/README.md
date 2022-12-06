@@ -14,8 +14,8 @@
 ### Table of Contents
 
 - [Overview](#overview)
+- [Problems](#problems)
 - [Questions](#questions)
-- [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -108,8 +108,6 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 #### Increasing interactions
 
 - What would increase interactions with the notifications feature? And is this important enough to tackle in V2?
-
-## Problem Statement
 
 ## User outcomes
 
