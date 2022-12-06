@@ -63,9 +63,12 @@ Via a biweekly sync with Mikki on 11/30:
 ### Work that is definitely happening but hasn't started
 
 - Scaling on-site notifications (Notifications V2)
+- Continued maintenance and expansion of notification preferences. Projects include:
+  - Migrating MHV notifications to VA.gov
+  - Adding eBenefits notifications
+  - 1095B work
 
 ### Potential projects that we may or may not work on
 
-- Ongoing maintenance and updates to notification preferences, either health apartment-related or not
 - Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval
 - Adding new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959))
