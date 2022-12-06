@@ -88,6 +88,7 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 - What is VANotify's current intake process? Can we piggyback off of this?
 - Is VANotify's intake process tied to VA Profile's intake process in any way?
 - Do we need a separate intake process?
+- What is a "deliverable" for creating an intake process? How we do we implement something that people will actually do and that's effective?
 
 #### Speeding up development time
 
@@ -104,7 +105,7 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 #### Notification center
 
-- What makes something a notification center?
+- What makes something a notification center? Is this "just" a separate page? Something else?
 - Is there an in between step between what we have now and a notification center?
 - Do we need a notification center now?
 - If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
