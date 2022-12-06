@@ -6,10 +6,15 @@
     - Passcode: &N9xI+V2
 - [Kay Lawyer](https://us06web.zoom.us/rec/share/5kO3zBCZ3BKEkb1sZqKiJ0PKuaV8UDi4cZ9WQf98l7-h9TmtA9mTABHWPzJHGMf_.6MP7F9ftqDLnDDcj?startTime=1670344201000)
     - Passcode: a5e9g#v6
-- [Shawn Adams]()
+- [Shawn Adams](https://us06web.zoom.us/rec/share/0od4RNND2AJ4Rjtp1EQ_qj69VMz50w3DcpuFXABg8iHX9JrpgI3lsFeYgCrJYUeQ.yUM53FviritbJ7Zk)
+    - Passcode: WnL+6fLH
 
 # DAY 1
+- [Day 1 Activities](https://us06web.zoom.us/rec/share/Z3xAZp528dmZ_LNn6t-2b0EFp2j4KoX38AZDN8K1XNXn4iG4AQDJoJ0GyHvR1NuU.4fVUbktxxQQ9XgJj)
+    - Passcode: h3..Eu!.
 
 # DAY 2
+- [Day 2 Activities]()
 
 # DAY 3
+- [Day 3 Activities]()
