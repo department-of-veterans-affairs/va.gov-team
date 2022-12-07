@@ -13,6 +13,7 @@
 - For each section, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information].
 - Clicking the edit button will put the section into edit mode and reveal the necessary fields.
 - [Desktop mock-up, add preferred name and gender identity](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3)
+- [Mobile mock-up, add preferred name and gender identity](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)
 
 ### Editing information
 - If someone has already saved a preferred name and gender identity, they can edit this information at any time. Clicking the edit button will put the section into edit mode and reveal the necessary fields.
