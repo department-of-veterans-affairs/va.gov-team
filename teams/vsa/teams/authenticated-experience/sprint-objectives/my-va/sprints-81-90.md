@@ -322,7 +322,27 @@ If you all have time, you can move on to the following, but they are otherwise p
 - Liz: 12/23 - 12/27
 - Samara: 12/26 - 12/27
 
-## Sprint 90 (12/28 - 1/10)
+### General
+
+- Onboarding tickets
+  - At least for new frontend developer
+  - Potentially for more/all folks depending on contract outcomes
+
+### If some people are continuing, we can do the following...
+
+- Finish payments & debts documentation, if not already done
+- QA prep for My VA audit (I forget what has already been done here)
+- Preliminary meeting for onsite notifications V2
+
+Other notes:
+
+- FE work for the My VA audit is going to be on hold until a new FE dev starts, so this means we can't move forward usability research on the project. Assuming Angela is still on the team, it would be a light sprint for her.
+
+-----
+
+Going to start renumbering sprints with new contract
+
+## Sprint 1 (12/28 - 1/10)
 
 ### PTO
 
