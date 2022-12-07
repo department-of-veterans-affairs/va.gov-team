@@ -66,7 +66,6 @@ Via a biweekly sync with Mikki on 11/30:
 - Continued maintenance and expansion of notification preferences. Projects include:
   - Migrating MHV notifications to VA.gov
   - Adding eBenefits notifications
-  - 1095B work
 
 ### Potential projects that we may or may not work on
 
