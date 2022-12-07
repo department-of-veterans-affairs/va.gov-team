@@ -51,11 +51,11 @@ N/A
 
 ### User does not have DoD ID
 1. Go staging.va.gov/profile/military-information
-2. Log in with vets.gov.user+86 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. ???
 
 ### User does not have a service history
 1. Go staging.va.gov/profile/military-information
-2. Log in with vets.gov.user+86 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Log in with vets.gov.user+111 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
 ### User is not a Veteran
 1. Go staging.va.gov/profile/military-information
