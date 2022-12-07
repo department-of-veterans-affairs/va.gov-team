@@ -92,24 +92,25 @@ Before we dive in, I’d like to learn about your work in general.
         * **If they are familiar**, ask:
             * “How did you hear about VA Directive 6102?”.
             * How does 6102 guide your work on updating the website?
+            * How have you stayed compliant with 6102 in the past?
 
 
 
 
 
 ## First Task - 5 minutes
-Gain a better understanding of what pain points editors are currently experiencing when receiving relevant information or action items.
+Gain a better understanding of how editors are currently receiving information or action items from VA when updates are needed on the website and what pain points they are experiencing when receiving this type of information.
 
 **Questions:**
-* When updates are needed on the website, who or what is currently notifying you that updates are needed?
-* Explain the differences between what types of information you are getting from people at the following levels of leadership.
-    * Your facility
-    * Regional leadership (VISN)
-    * National directive (VHA Digital Media)
 * Think of the last time you made an update to the website. Walk me through the process of what it is like when you currently receive a notice that updates are needed to the website.
     * What was the change you needed to make?
     * How did you learn that this change needed to be made?
     * Where did the direction come from?
+* Explain the differences between what types of information you are getting from people at the following levels of leadership.
+    * Your facility
+    * Regional leadership (VISN)
+    * National directive (VHA Digital Media)
+* When updates are needed on the website, who or what is currently notifying you that updates are needed?
 * What pain points are you currently experiencing when receiving information or action items from the VA about updates needed in the CMS?
 
 
@@ -140,6 +141,8 @@ We are currently exploring a few different ways to achieve this. Email notificat
     * Notifications within the CMS
     * A combination of both
         * If they answer with this, ask “If you had to choose one over the other, which fits into your workflow better?”
+    * Other (Microsoft Teams, SMS, ect.)
+    
 
 
 
@@ -154,6 +157,8 @@ Show Mockup(s)
 * Does this email let you know which tasks would be a higher priority over other tasks?
 * Is this email easy to read? Is there too much information on it?
 * How likely are you to take action on this email?
+* What would drive you to take action on this email?
+* Who else on your team should receive this email?
 
 
 
