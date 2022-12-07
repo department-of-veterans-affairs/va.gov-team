@@ -22,7 +22,7 @@ To help Veterans and beneficiaries
 
 ## See also 
 
-- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#timeline)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md#timeline)
 - [Product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#product-artifacts)
 - [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
