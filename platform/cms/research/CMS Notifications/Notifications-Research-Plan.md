@@ -35,16 +35,18 @@ This research supports the following [OCTO objectives](https://github.com/depart
 
 ### What we're trying to learn:
 
+- Gain a better understanding of the general workflow of CMS editors when making updates in the CMS.
 - Gain a better understanding of how notifications could fit into the editors current workflow.
 - Gain a better understanding of what types of notifications would help editors to better serve veterans.
-- Gain a better understanding of what pain points editors are currently experiencing when receiving relevant information or action items.
+- Gain a better undersanding of how editors are currently receiving information or action items from VA when updates are needed on the website.
+- Gain a better understanding of the pain points editors are currently experiencing when receiving that information and those action items.
 
 ### Outcome
 The results of this research will be used to develop a future direction for how to inform CMS editors about any relevant information or action items and provide an easy way to directly access the content in order to act on the notification.
 
 ### Research questions
 * How familiar are editors with VA Directive 6102?
-* What pain points are editors currently experiencing when receiving information or action items from the VA about updates needed in the CMS?
+* How are editors currently receiving information or action items from VA when updates are needed on the website?
 * Which notification format would be most effective in driving editors to take action within the CMS?
   * Email Notifications
   * Notifications within the CMS
@@ -54,6 +56,7 @@ The results of this research will be used to develop a future direction for how 
 ### Hypothesis
 * Editors are familiar with Directive 6102.
 * Editors are juggling many competing priorities and only work on their websites when there is a pressing need.
+* Editors aren't logging into the CMS without being prompted to do so.
 * Notifications can help editors become 6102 compliant.
 * Too many notifications will defeat the purpose of having them and we should be judicious with the use of them.
 * Our prototype email conveys all the information an editor needs to fix outdated content.
