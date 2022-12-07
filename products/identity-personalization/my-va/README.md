@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 25, 2022**
+**Last updated: December 7, 2022**
 
 ### Communications
 
@@ -81,7 +81,7 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 - **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
 - **Backend system**: EVSS
 
-### Notifications (Staging Only)
+### Notifications
 
 - This section will display any recent notifications for the veteran
 - Currently, only debt notifications are active but eventually we plan to add more
@@ -99,13 +99,19 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 - This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
 - **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
 
-### Benefit payments and debts
+### Outstanding debts
 
-- This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
+- This section shows someone's most recent debts and copays.
+- **Parent tools**: [Manage your VA debt]https://staging.va.gov/manage-va-debt/summary/)
+- Benefits- team 2 is responsible for debts and copays. Their Slack room is #benefits-team-2.
+- **Backend system**: DMDC for debts; Not sure for copays
+
+### Benefit payments
+
+- This section shows someone's most recent payment within the last 30 days if they have one. 
 - There is also a link to update direct deposit information.
-- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
-- Benefits- team 2 is responsible for debts and copays their Slack room is #benefits-team-2
-- BGS team is respoinsible for managaging payments
+- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts.
+- Benefits- team 1 is responsible for payment history. Their Slack room is #benefits-team-1.
 - **Backend system**: BGS
 
 ### Apply for benefits
