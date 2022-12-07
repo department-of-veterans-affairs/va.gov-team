@@ -2,6 +2,35 @@
 
 ### This is a draft document which is not ready to be shared with the team. Information in here may change drastically as we gather details from other teams.
 
+## Q1 CY2023 (January - March)
+
+### My VA and Onsite Notifications team
+
+#### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
+
+This work is carrying over from Q4 CY2022. We are making some major improvements to UX and accessibility on My VA by making it so all sections show all the time, improving consistency, and removing some overly-nuanced personalization that made the page more complex without adding enough value.
+
+**Expected launch date**: Late March/Early April 2023.
+
+#### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
+
+The onsite notifications MVP launched in October 2022, and we are now ready to scale this feature. While we're still scoping this work, we'll likely tackle overall governance and adding at least 1 new notification.
+
+**Expected launch date**: We are still scoping this work, so launches will depend on final scope. I'd at least like us to launch something in the first three months of the year, even if that means dividing this work into phases that extend beyond Q1.
+
+### Profile team
+
+## Q2 CY2023 (April - June)
+
+Samara's maternity leave!! I'll be out most of this quarter.
+
+## Q3 CY2023 (July - September)
+## Q4 CY2023 (October - December)
+
+
+---------------
+
+
 The following are the priorities that were discussed at the October 2022 OCTO offsite for 2023 that will or might require work from the authenticated experience team:
 
 ## Integrate health portal features into VA.gov
