@@ -53,7 +53,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
+| N/A | Apply for VA health care | TBD |  | N/A |
 | Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
 | Send a secure message to your health care team | Send a secure message to your health care team | Need to verify - `Navigation - Link List - Health care - View your messages` | `Navigation - Link List - Health care - Send a secure message to your health care team` | #7 |
 | Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
@@ -149,7 +149,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May want to update the tag since it is under a new section/renamed | #24 |
+| N/A | Learn how to apply for VA educational benefits | TBD | N/A | N/A |
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
 | N/A | Check your BI Bill Statement of Benefits | N/A | TBD | N/A |
 
@@ -169,8 +169,6 @@ More information on notifications analytics can be found [here](https://github.c
 | ---- | ---- | ---- | ---- | ---- |
 | What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15 | 
 | Continue your application | Same as old one | `Dashboard - Navigation - Continue Button - `| Do we want to update this at all? | #22 |
-| Learn how to apply for VA Health care | Link has been moved to Health care section | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
-| Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
 
 <details>
   <summary>Saved applications section:</summary>
@@ -187,6 +185,10 @@ More information on notifications analytics can be found [here](https://github.c
 | ---- | ---- | ---- | ---- | ---- |
 | Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this event? | Need to verify that this is the right event, I do not see any events being tracked in Staging |
+| N/A | Apply for VA health care | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | should be updated? Moved from Apply for benefits section | #35 |
+| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May want to update the tag since it is under a new section/renamed | #24 |
+| Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
+| Learn how to apply for VA Health care | Link has been moved to Health care section | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
 
 
 <details>
