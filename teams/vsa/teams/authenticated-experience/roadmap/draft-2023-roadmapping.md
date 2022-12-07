@@ -20,6 +20,10 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 ### Profile team
 
+TBD, but likely finishing up accessibility work, adding email as a channel to notification preferences (may require research/exploration).
+
+Also potential for this team to get involved in Mikki's wayfinding research work.
+
 ## Q2 CY2023 (April - June)
 
 Samara's maternity leave!! I'll be out most of this quarter.
