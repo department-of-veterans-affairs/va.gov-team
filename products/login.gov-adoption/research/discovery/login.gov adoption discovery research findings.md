@@ -162,9 +162,11 @@ Moving between online and offline touchpoints can create confusion – but clari
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
+Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task.
 
-Moving between online and offline touchpoints can create confusion – but clarity on what to bring, why you’re identity proofing and how it won't affect your existing appointments or accounts, helps put Veterans at ease.
+If you’re logging in to access My HealtheVet, it’s common to choose My HealtheVet because it seems like it will be a faster route to services, even if you have a proofed Login.gov credential too.
+
+And familiarity is also important for Veterans who struggle with passwords, which is a major source of hassle for most.
 
 > "I seem to press 'My HealtheVet' more often than not. I think it's because that is where I'm going. It feels more direct, like it's getting me right in." Participant 10, Veteran Interview
 
