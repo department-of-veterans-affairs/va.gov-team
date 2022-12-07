@@ -13,6 +13,22 @@
 
 
 ## Sprint 1 (12/28 - 1/10)
+
+### PTO
+
+- Sharon:
+- Erica: 12/28 - 12/30
+- Liz: 12/28 - 12/30
+- Christina: 12/28 - 12/30
+- Adam:
+- John:
+- Tom:
+- Samara: 12/28 - 12/30
+
+### Bad address indicator
+
+- PM: [Add 2-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
+
 ## Sprint 2 (1/11 - 1/24)
 ## Sprint 3 (1/25 - 2/7)
 ## Sprint 4 (2/8 - 2/21)
