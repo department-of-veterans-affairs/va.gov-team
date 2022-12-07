@@ -47,7 +47,7 @@ N/A
 ## How to reproduce
 ### User has DoD ID
 1. Go staging.va.gov/profile/military-information
-2. Log in with vets.gov.user+11 or vets.gov.user+36 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Log in with vets.gov.user+11 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
 ### User does not have DoD ID or does not have military service history
 1. Go staging.va.gov/profile/military-information
@@ -55,4 +55,4 @@ N/A
 
 ### User is not a Veteran
 1. Go staging.va.gov/profile/military-information
-2. Log in with vets.gov.user+10 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+2. Log in with vets.gov.user+10 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
