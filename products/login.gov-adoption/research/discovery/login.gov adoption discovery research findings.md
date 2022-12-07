@@ -200,7 +200,7 @@ Veterans don't think to set up shared access until life altering events make it 
 
 With more complex care situations, caretakers recognize the need for nuanced permissions when accessing a Veterans' information. Veterans and their support systems find it important that a Veteran is able to grant and revoke shared access and see exactly what has been accessed by others.
 
-> “It depends on my trust in the person who I give access, what I would give them access to. My husband could have full access, but my children, would be able to see my medications only.” Participant 15, Veteran Intercept
+> “It depends on my trust in the person who I give access, what I would give them access to. My husband could have full access, but my children, would be able to see my medications only.” Participant 15, Veteran Interview
 
 > "I would feel fine about [giving access] to my wife. She's the pilot and I'm the copilot. It would be convenient." Participant 18, Veteran Intercept
 
@@ -213,19 +213,15 @@ With more complex care situations, caretakers recognize the need for nuanced per
 Labels: `AUD: Veterans`, `AUD: Contact Center`, `PRDT: Login.gov`, `PRDT: Login`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-Knowing that quality, dedicated help is available makes Veterans more willing to try to set up and continue to use a new credential. 
+Veterans want us to respect their independence, which means making it easy to navigate set up on their own terms. Although Veterans are generally competent and familiar with login and setup processes, they have limited troubleshooting skills. So if something goes wrong, it’s hard to figure out what’s happened or how to fix it.
 
-Many older Veterans are highly competent and familiar account creation and MFA. They want to be empowered to do things online themselves, but may have limited troubleshooting skills. Rather than requiring Veterans to be able to diagnosis their problem to find a solution, Veterans want a person or artifact, that will speak their language and can guide them through the steps in a way that makes sense to them.
-
-Even technologically challenged Veterans see benefits in My HealtheVet services, they just need a trusted intermediary who can assist them to set up and learn how to use it.
-
-Building on familiar paradigms and offering proactive support to make the Veteran feel smarter than the system will lower frustration and result in high successful account set up and adoption.
+Knowing that quality, dedicated help is available makes Veterans more willing to try to set up and continue to use a new credential.
 
 > "Plenty of people use MFA and have issues. My parents would be a great example of technologically challenged people that need help – but usually they just have to learn how to do it a few times, get used to it and then they are fine." Participant 12, Veteran Intercept
 
-> "The lady at the desk here is already busy, she has to check in more people and get them set up with healthcare. She doesn't have time to help me set up Login.gov, then people would be waiting. But maybe there if there's someone else in a different room..." Participant 6, Veteran Intercept
+> "The lady at the desk here is already busy, she has to check in more people and get them set up with healthcare. She doesn't have time to help me set up Login.gov, then people would be waiting." Participant 6, Veteran Intercept
 
-> "“I would walk away at this point unless someone is walking through [help with my password] on the phone with me." Participant 7, Veteran Interview
+> “I would walk away at this point unless someone is walking through [my password issues] on the phone with me." Participant 8, Veteran Interview
 
 ## Additional insights
 
