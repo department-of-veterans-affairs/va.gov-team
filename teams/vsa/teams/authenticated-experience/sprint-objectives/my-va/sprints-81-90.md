@@ -9,7 +9,7 @@
 - [Sprint 87](#sprint-87-1116---1129)
 - [Sprint 88](#sprint-88-1130---1213)
 - [Sprint 89](#sprint-89-1214---1227)
-- [Sprint 90](#sprint-90-1228---110)
+- [Sprint 1](#sprint-1-1228---110)
 
 ## Sprint 81 (8/24 - 9/6) 
 
