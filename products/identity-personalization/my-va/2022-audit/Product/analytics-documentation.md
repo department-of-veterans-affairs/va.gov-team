@@ -149,7 +149,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May need to change the tag since it is under a new section | #24 |
+| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May want to update the tag since it is under a new section/renamed | #24 |
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
 | N/A | Check your BI Bill Statement of Benefits | N/A | TBD | N/A |
 
