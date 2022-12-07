@@ -1,6 +1,6 @@
 ## My VA Audit - Anayltics Review
 
-### Updated on December 5, 2022
+### Updated on December 7, 2022
 
 ### Notifications
 - No changes/new analytics needed, however here are the current analytics tracked for onsite notifications:
@@ -198,3 +198,8 @@ More information on notifications analytics can be found [here](https://github.c
   
   </details>
 
+
+### Dec 7, 2022 Mtg Notes
+
+- We've decided that for this initial analytics request we will submit a request only for new analytics to be implemented, i.e. any new links that were added from the audit. 
+- In the future we can submit a request to update any naming/updating of GA events for consistency and accuracy.
