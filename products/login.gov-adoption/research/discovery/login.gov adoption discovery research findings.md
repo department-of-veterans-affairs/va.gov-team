@@ -243,14 +243,14 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 
 ## Recommendations
 
-* Explaining the need for Login.gov set up through consistent, contextual reminders will make Veterans more likely to adopt it.
+* Explain the need for Login.gov set up through consistent, contextual reminders and emphasizing ease and help.
 * Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.
-* Make it easy to bundle identity proofing with existing appointments, help Veterans schedule in-person proofing without needing to fail first and create dedicated interfaces for VA staff to do identity proofing.
-* Online asynchronous processes and in-person support with clear transitions between them will be necessary for migrating Veterans to Login.gov.
+* Make it easy to bundle identity proofing with existing appointments.
+* Provide in-person support with account creation and use, including identity proofing in-person.
 * Help Veterans become familiar with Login.gov by making it an obvious default.
 * Recommend multi-factor authentication options that are appropriate and meet each Veterans' specific needs.
-* Encourage Veterans to set up shared access earlier and help them review it often so they stay in control of their information.
-* Ensure Veterans don't fall through the cracks by providing dedicated, supportive help at every step and reaching out to those who are struggling.
+* Encourage Veterans to set up shared access early and help them review it often so they stay in control of their information.
+* Provide dedicated, supportive help at every step and reaching out to those who are struggling.
 
 ## Next steps
 
