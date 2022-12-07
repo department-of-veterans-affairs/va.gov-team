@@ -49,9 +49,7 @@ Currently, the VA.gov profile supports the following information:
 - [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
 - [Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)
 - [Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps) (While the profile team built out the frontend, the Lighthouse team is responsible for the connected apps portfolio)
-- [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag): The VA.gov Profile shares the nametag with My VA. The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
-
-**Backend system:** MPI for full name; eMIS for military information; EVSS for disability rating (disability rating parent tool: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)).
+- [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag#readme): The VA.gov Profile shares the nametag with My VA. The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
