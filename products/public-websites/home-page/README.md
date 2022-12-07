@@ -26,6 +26,8 @@ To help Veterans and beneficiaries
 - [Product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#product-artifacts)
 - [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
+- [Product-Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov-Product-Guide-12.2022.pdf)
+- [Issue response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/issue-response-plan.md)
 - [Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#contacts)
 - [Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#stakeholders)
 
