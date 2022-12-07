@@ -34,7 +34,7 @@
   </details>
   
 ### Education and training
-- This is a new section to My VA, here are the potential links to track:
+- This is a new section to My VA, here are the new links to track:
 
 | **Link** | **GA Event** | Notes|
 | ---- | ---- | ---- | 
