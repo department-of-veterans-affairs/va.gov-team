@@ -26,7 +26,13 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 TBD, but likely finishing up accessibility work, adding email as a channel to notification preferences (may require research/exploration).
 
-Also potential for this team to get involved in Mikki's wayfinding research work.
+### Either team
+
+#### Wayfinding research
+
+**OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
+
+As part of the health apartment migration, Mikki will be conducting wayfinding research. Mikki's vision includes building a prototype that reconciles the homepage, My VA, and health landing pages to see where and how people expect to find information and where they get confused. This may involve someone from our team needing to mockup or modify designs. Unclear to me if our team would need to be involved in moderating research or not.
 
 ## Q2 CY2023 (April - June)
 
@@ -35,71 +41,54 @@ Samara's maternity leave!! I'll be out most of this quarter.
 ## Q3 CY2023 (July - September)
 ## Q4 CY2023 (October - December)
 
-
 ---------------
 
+## Work that's happening, but we are not sure when
 
-The following are the priorities that were discussed at the October 2022 OCTO offsite for 2023 that will or might require work from the authenticated experience team:
+### My VA and Onsite Notifications team
 
-## Integrate health portal features into VA.gov
+#### Incorporating health features into My VA as MHV features are migrated to VA.gov
 
-Potential projects and work for our team includes:
+**OCTO objective**: Integrate health portal features into VA.gov
 
-- Incorporating notification preferences for health features that will be integrated in 2023
-  - Potential features: Secure messaging and medical records
-- Updating My VA to accommodate new features
-  - This could be as small as updating links, or as big as adding new modules
+This could be as small as updating links, or as big as adding new modules as features move over from MHV. I believe initial features/updates might include secure messaging and medical records.
 
-### What we know now
+#### Adding a new user role/experience to VA.gov
 
-It is unlikely that we will need to launch any changes to the notification preferences section of the profile until Q4 CY2023 at the earliest. [From Lauren via Slack on 10/26/22](https://dsva.slack.com/archives/C02BTDTEPNH/p1666797451568699?thread_ts=1666728785.285899&cid=C02BTDTEPNH):
+**OCTO objective**: Improve the Veteran login experience
 
-> I would love to be in a place where both appointments and medical records are in phase 2 by this time next year. Stretch goal - pharmacy and secure messages in Phase 0 or 1.
+It is likely we'll start work on a new user role experience in VA.gov before the end of the calendar year, though unlikely within the first half of 2023 [Slack](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E). This will likely require updates to My VA.
 
-So, while we don't want to wait to start development until then, we likely won't need to work on this in Q1 CY2023. This is something that the team should start visiting with VA Profile and MHV no later than CY Q2 2023 so that preferences are ready and waiting for when they are needed.
+### Profile team
 
-## Improve the Veteran login experience
+#### [Incorporating MHV notification preferences into the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)
 
-Potential projects and work for our team includes:
+**OCTO objective**: Integrate health portal features into VA.gov
 
-- Updating both the profile and My VA to account for a delegate experience.
+We are currently determining the strategy for migrating notification preferences, which will determine on what timeline this work happens. Work may happen sooner rather than later if we opt to integrate with MHV first before VA Profile; It may happen later in the year, or even in 2024, if MHV needs to integrate with VA Profile before we do from the VA.gov interface.  
 
-### What we know now
+#### Adding a new user role/experience to VA.gov
 
-[Via Slack on 10/26/22 and 10/27/22](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E):
+**OCTO objective**: Improve the Veteran login experience
 
-- There is a product team that is tasked with helping to define what a delegate is and broad requirements for managing that on VA.gov.
-- Each VA.gov team is responsible for updating and maintaining their sections accordingly, though the main product team will act as coordinators and liaisons with whoever is helping them define the delegate use case.
-- Timing on this is unclear. Definition is in its early phases, so I don't anticipate we'll work on this in the first couple of quarters of CY2023.
+It is likely we'll start work on a new user role experience in VA.gov before the end of the calendar year, though unlikely within the first half of 2023 [Slack](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E). This will likely require updates to the VA.gov profile.
+  
+#### Adding eBenefits notification preferences into VA.gov 
 
-Meeting with John Rahagi on 11.7.22:
+**OCTO objective**: Enhance Veterans' personalized online experience
 
-- Confirmed that it is unlikely our team will work on this in first two CY quarters of 2023, so I am not considering this in our first-quarter roadmap.
-- Check back in on this before maternity leave in case work needs to start while I am out.
+In partnership with VANotify (leading this work) and VA Profile, we have been talking to eBenefits stakeholders about consolidating and moving over a bunch of benefit recommendation emails supported on eBenefits to VANotify. Preferences would be stored in VA Profile and need to be viewable and editable from VA.gov.
 
-## Refresh the VA.gov homepage and information architecture
+#### Additional potential projects
 
-Potential projects and work for our team includes:
+- Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval.
+- Adding new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959)).
+- Investigating if the profile should have a way to view dependent information.
 
-- Research and/or design work with Mikki around creating a more holistic logged-in experience
+### Either team
 
-### What we know now
+#### General authenticated IA/navigation work
 
-Via a biweekly sync with Mikki on 11/30:
+**OCTO objective**: Refresh the VA.gov homepage and information architecture
 
-- The next step with IA work is the wayfinding research that's happening through the health apartment effort. This will be heavily informed by Mikki's treejack testing she did earlier this year.
-- Wayfinding research will need to be a cross-team effort. Mikki's vision includes building a prototype that reconciles the homepage, My VA, and health landing pages to see where and how people expect to find information and where they get confused. This may involve someone from our team needing to mockup or modify designs. Unclear to me if our team would need to be involved in moderating research or not.
-- I think this has potential for work for our team in Q1CY2023.
-
-## Enhance Veterans' personalized online experience
-
-### Work that is definitely happening, but it's unclear when it will start
-
-- Continued maintenance and expansion of notification preferences. Projects include:
-  - Migrating MHV notifications to VA.gov
-  - Adding eBenefits notifications
-
-### Potential projects that we may or may not work on
-
-- Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval
-- Adding new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959))
+The wayfinding research mentioned above is only the first step in a larger effort to improve the overall experience of navigating VA.gov, especially for logged-in users trying to get to tools and tasks. We don't know what the entirety of this work will look like now, but we can anticipate our team and others being involved to support Mikki in this work.
