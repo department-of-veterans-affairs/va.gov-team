@@ -1,5 +1,5 @@
 # Personal information: User needs to add or update personal information
-**Last updated:** August 23, 2022
+**Last updated:** December 7, 2022
 
 - Users can view their full name and birth date from this section. They can also view and edit their preferred name and gender identity.
 - For preferred name and gender identity:
