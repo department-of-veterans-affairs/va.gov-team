@@ -123,8 +123,6 @@ Veterans aren't buying Login.gov, so rather than selling it to them they need cl
 
 > "They could use the money they are using for Login.gov to help Veterans [instead]." Participant 4, Veteran Interview
 
-> “We're good at following orders, we ran into gunfire." Participant 1, Veteran Interview
-
 <br>
 
 **2. Veterans see security as the VA's responsibility, but they're motivated to be more careful if they feel at risk of not being able to access their benefits, or, they understand how their actions affect fellow Veterans.**
@@ -132,11 +130,11 @@ Veterans aren't buying Login.gov, so rather than selling it to them they need cl
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-While Veterans might distrust the government, they tend to overestimate its online security and  feel it's the responsibility of the VA to make sure things are secure, not theirs. 
+While Veterans might distrust the government, they tend to overestimate its online security and feel it's the responsibility of the VA to make sure things are secure, not theirs.
 
-Many Veterans perceive little risk around their medical information being hacked, but are deeply worried about not being able to access their doctors and prescriptions through My HealtheVet. While someone hacking your account is abstract and, therefore, less concerning, the risk of not being able to access My HealtheVet to complete a healthcare task is worrisome.
+Many Veterans perceive little risk around their medical information being hacked, but are concerned about not being able to access their doctors and prescriptions through My HealtheVet.
 
-Veterans are eager to share information that will benefit other Veteran, so their experiences can have a ripple effect and impact adoption, good or bad. This also means that, when thinking about security, Veterans are often more motivated by concerns about fellow Veterans' data, than they are about their own.
+When considering their data concerns, Veterans are often more motivated by concerns about fellow Veterans' data, than they are about their own.
 
 > "I understand that they are trying to be secure, but I also know that when it comes to the Internet, nothing is under lock." Participant 4, Veteran Interview
 
@@ -151,13 +149,11 @@ Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Inter
 
 Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
 
-While Veterans appreciate bundling tasks with appointments, bundling communications causes confusion and fear around doing something wrong.
-
 Moving between online and offline touchpoints can create confusion – but clarity on what to bring, why you’re identity proofing and how it won't affect your existing appointments or accounts, helps put Veterans at ease.
 
 > "I would set up Login.gov at the end of my appointment, while I'm here. I'd rather get more done in a single period." Participant 6, Veteran Intercept
 
-> "I'm unsure if they want me to bring ID, then they want me to use my password and username? If I don't click yes, then I'm worried I wouldn't be able to go to my appointment." Participant 3, Veteran Interview
+> "If I don't [decide to identity proof], then I'm worried I wouldn't be able to go to my [healthcare] appointment." Participant 3, Veteran Interview
 
 <br>
 
@@ -166,9 +162,9 @@ Moving between online and offline touchpoints can create confusion – but clari
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-Veterans will choose whichever login credential is most familiar, or appears to be the most direct route to completing a task. If Login.gov is the only option available for accessing valued services, Veterans will use it, but they’d like to know the reason for the changing requirements.
+Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
 
-Passwords play a role in choosing what's familiar, too. Because remembering passwords is a major roadblock for Veterans. Those who have the most success using new logins long-term, are those who expect to forget passwords, and find workarounds that don’t rely on memory.
+Moving between online and offline touchpoints can create confusion – but clarity on what to bring, why you’re identity proofing and how it won't affect your existing appointments or accounts, helps put Veterans at ease.
 
 > "I seem to press 'My HealtheVet' more often than not. I think it's because that is where I'm going. It feels more direct, like it's getting me right in." Participant 10, Veteran Interview
 
