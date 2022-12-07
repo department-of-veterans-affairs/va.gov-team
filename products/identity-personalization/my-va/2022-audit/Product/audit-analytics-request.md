@@ -18,6 +18,17 @@
   
   </details>
 
+### Health care
+
 | Link | GA Event | Notes |
 | ---- | ---- | ---- |
 | Apply for VA health care | Needs new event | None |
+
+
+<details>
+  <summary>No Healthcare (New version):</summary>
+  <br>
+  
+<img width="638" alt="Screen Shot 2022-12-01 at 10 40 25" src="https://user-images.githubusercontent.com/97113607/205095672-20189d4c-9793-4b63-b904-0b5888f1e76e.png">
+  
+  </details>
