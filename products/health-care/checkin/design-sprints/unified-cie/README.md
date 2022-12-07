@@ -14,7 +14,8 @@
     - Passcode: h3..Eu!.
 
 # DAY 2
-- [Day 2 Recording]()
+- [Day 2 Recording](https://us06web.zoom.us/rec/share/nNf0IcfkKC40rLALXi3lzP2VwpZjK7O0VXIZ_h80cqic9FDMMqjphwaO7lmNRvP9.xidLFvDXrSly_Cj6)
+    - Passcode: P5j&vHZ*
 
 # DAY 3
 - [Day 3 Recording]()
