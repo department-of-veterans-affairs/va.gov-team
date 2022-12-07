@@ -8,11 +8,15 @@
 
 #### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 
+**OCTO objective**: Enhance Veterans' personalized online experience
+
 This work is carrying over from Q4 CY2022. We are making some major improvements to UX and accessibility on My VA by making it so all sections show all the time, improving consistency, and removing some overly-nuanced personalization that made the page more complex without adding enough value.
 
 **Expected launch date**: Late March/Early April 2023.
 
 #### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
+
+**OCTO objective**: Enhance Veterans' personalized online experience
 
 The onsite notifications MVP launched in October 2022, and we are now ready to scale this feature. While we're still scoping this work, we'll likely tackle overall governance and adding at least 1 new notification.
 
@@ -89,13 +93,8 @@ Via a biweekly sync with Mikki on 11/30:
 
 ## Enhance Veterans' personalized online experience
 
-### Work that is happening now and will continue into the new year
+### Work that is definitely happening, but it's unclear when it will start
 
-- Persistently showing all sections of My VA and simplifying personalized logic (aka My VA audit updates)
-
-### Work that is definitely happening but hasn't started
-
-- Scaling on-site notifications (Notifications V2)
 - Continued maintenance and expansion of notification preferences. Projects include:
   - Migrating MHV notifications to VA.gov
   - Adding eBenefits notifications
