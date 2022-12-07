@@ -3,7 +3,7 @@
 
 For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
 
-If they don't have a DoD ID, do not have a service history, or are a non-veteran, they'll see an alert instead of a service history.
+If they don't have a DoD ID, don't have a service history, or are a non-veteran, they'll see an alert instead of a service history.
 
 This page isn’t editable.
 
