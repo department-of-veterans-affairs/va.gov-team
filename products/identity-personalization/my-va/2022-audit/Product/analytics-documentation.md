@@ -149,7 +149,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| N/A | Learn how to apply for VA educational benefits | TBD | N/A | N/A |
+| N/A | Learn how to apply for VA educational benefits | N/A | TBD | N/A |
 | N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
 | N/A | Check your BI Bill Statement of Benefits | N/A | TBD | N/A |
 
@@ -186,8 +186,8 @@ More information on notifications analytics can be found [here](https://github.c
 | Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
 | How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this event? | Need to verify that this is the right event, I do not see any events being tracked in Staging |
 | Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May want to update the tag since it is under a new section/renamed | #24 |
-| Learn how to file a disability claim | Link has been removed | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | Confirm no action is needed | #32 |
-| Learn how to apply for VA Health care | Link has been moved to Health care section | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
+| Learn how to file a disability claim | same as old one | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | N/A | #32 |
+| Learn how to apply for VA health care | same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
 
 
 <details>
