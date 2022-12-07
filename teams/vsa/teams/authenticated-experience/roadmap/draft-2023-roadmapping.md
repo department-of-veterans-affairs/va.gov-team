@@ -32,7 +32,7 @@ TBD, but likely finishing up accessibility work, adding email as a channel to no
 
 **OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
 
-As part of the health apartment migration, Mikki will be conducting wayfinding research. Mikki's vision includes building a prototype that reconciles the homepage, My VA, and health landing pages to see where and how people expect to find information and where they get confused. This may involve someone from our team needing to mockup or modify designs. Unclear to me if our team would need to be involved in moderating research or not.
+As part of the health apartment migration, Mikki will be conducting wayfinding research to better determine how health features fit into VA.gov's navigation. This will likely include testing a prototype that reconciles the homepage, My VA, and the health landing pages to assess expectations and confusion. This may involve a designer from our team working on mockups, building a prototype, and/or potentially moderating research.
 
 ## Q2 CY2023 (April - June)
 
