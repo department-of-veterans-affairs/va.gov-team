@@ -330,7 +330,7 @@ If you all have time, you can move on to the following, but they are otherwise p
 
 ### If some people are continuing, we can do the following...
 
-- Finish payments & debts documentation, if not already done. ALso, make sure My VA product outline is up to date re: the new updates.
+- Finish payments & debts documentation, if not already done. Also, make sure My VA product outline is up to date re: the new updates.
 - QA prep for My VA audit (I forget what has already been done here).
 - Preliminary meeting for onsite notifications V2.
 
