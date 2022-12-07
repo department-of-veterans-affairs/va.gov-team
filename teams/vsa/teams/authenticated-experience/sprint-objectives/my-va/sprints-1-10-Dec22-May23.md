@@ -9,7 +9,7 @@
 - [Sprint 7](#sprint-7-322---44)
 - [Sprint 8](#sprint-8-45---418)
 - [Sprint 9](#sprint-9-419---52)
-- [Sprint 1-](#sprint-9-53---516)
+- [Sprint 10](#sprint-10-53---516)
 
 
 ## Sprint 1 (12/28 - 1/10)
