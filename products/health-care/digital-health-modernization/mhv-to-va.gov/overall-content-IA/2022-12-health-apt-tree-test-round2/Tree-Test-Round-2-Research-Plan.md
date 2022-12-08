@@ -275,16 +275,16 @@ Cohort 7-12: Family members/Caregivers
     - Yes *(eligible)*
     - No *(not eligible)*
     
-4. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 5)*
+5. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+    - Yes *(go on to additional Screener question 6)*
     - No *(not eligible)*
 
-5. *(If yes to Screener question 4)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 6)
-    - No *(recruit 2)*
+6. *(If yes to Screener question 5)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
+    - Yes *(go onto Screener question 7)
+    - No *(not eligible)*
 
-6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months to help manage a Veterna's VA health care? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
-    - Yes *(recruit 2)*
+7. *(If yes to Screener question 6)* Have you used any features on My HealtheVet (MHV) within the last 12 months to help manage a Veterna's VA health care? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
+    - Yes *(eligible)*
     - No *(not eligible)*
 
 
