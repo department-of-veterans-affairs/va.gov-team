@@ -18,4 +18,5 @@
     - Passcode: P5j&vHZ*
 
 # DAY 3
-- [Day 3 Recording]()
+- [Day 3 Recording](https://us06web.zoom.us/rec/share/_gI5FLKMA5S83ElGAzJCOTzlbRXB2fbuT8ULnllsaZ8O-z4kiqzM-JHgi3xmJdNI.YylibhlG7CJBcg6b)
+    - Passcode: +5HDh*Xr
