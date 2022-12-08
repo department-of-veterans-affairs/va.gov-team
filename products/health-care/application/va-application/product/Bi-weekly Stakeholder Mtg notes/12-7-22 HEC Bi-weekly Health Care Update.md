@@ -1,5 +1,7 @@
 # December 7, 2022 HEC Bi-weekly Health Care application update
 
+**Note:** We have not had a stakeholder meeting since 10/26/22, as there were no agenda items and attendance was low around the Thanksgiving holiday week.
+
 ### 12/7/22 Agenda Items
 - Household section optimization research sessions being held 12/6 thru 12/14
      - HEC stakeholders encouraged to join if available (several folks have decided to join us!)
