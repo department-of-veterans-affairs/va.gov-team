@@ -8,7 +8,7 @@
 
 | Link | GA Event | Notes |
 | ---- | ---- | ---- |
-| Learn how to file a claim | Needs new GA event | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link |
+| Learn how to file a claim | Needs new GA event | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link, we also want to use "Dashboard" not "Profile" |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
