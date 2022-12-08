@@ -19,6 +19,13 @@
      - **What counts as "Property" income? Rentals? Sales?**
           - Yes, any income from property that is owned.
 
+- SIGI - _On Hold for Online Application_
+     - We have disabled SIGI in Staging
+     - We are not releasing in Production until further notice
+     - The paper form already has the question on it
+     - The Enrollment system (ES) has deployed their changes to accept the values our online form will send
+
+FYI - not discussed, just an update here
 - In-progress Notification emails
      - Rolled out 100% on Nov 1st
 
