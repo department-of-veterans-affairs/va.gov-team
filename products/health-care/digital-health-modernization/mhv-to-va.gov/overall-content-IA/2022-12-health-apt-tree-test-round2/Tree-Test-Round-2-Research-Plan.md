@@ -62,7 +62,20 @@ Data collection will be remote and conducted using Optimal Workshop.
 
 ### Research Materials
 
-Tasks[Link to Optimal Workshop](url goes here)
+**Tree test links**
+
+Cohort 1 - 
+Cohort 2 -
+Cohort 3 -
+Cohort 4 - 
+Cohort 5 - 
+Cohort 6 - 
+Cohort 7 - 
+Cohort 8 - 
+Cohort 9 - 
+Cohort 10 - 
+Cohort 11 - 
+Cohort 12 - 
 
 ## Recruitment
 
@@ -291,7 +304,7 @@ Please list the people who will be serving in each role.
 - Research support: Robyn Singleton (robyn.singleton@adhocteam.us)
 
 ## Approvals
-- Reviewed and approved by Mikki Northuis (IA specialist) on (date)
+- Reviewed and approved by Mikki Northuis (IA Lead) on 12/8/22
 - Reviewed and approved by Shane Strassberg on (date)
 
 
@@ -301,7 +314,35 @@ Please list the people who will be serving in each role.
 
 The prioritized tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
 
-[Link to trees]()
+**Veteran tasks**
+As a Veteran, you want to know if you qualify for VA health care
+You’re a Veteran who wants to enroll in VA health care.
+As a Veteran, you want to know if you can get dental benefits through VA.
+You want to know what types of services and support you can get for your mental health needs.
+You want to find out the costs for VA health care services.
+You want to know if VA will pay for you to get health care outside of VA. 
+As a Veteran with VA health care, you want to send your VA health records to a non-VA provider.
+You want to check how much you owe for your last medical visit and pay your bill. 
+You need to request a refill for a prescription you get from VA by mail.
+You need to set up an appointment with your VA primary care provider.  
+You want to find the results of a recent blood test.
+You drove to your VA primary care appointment and want to get paid back for the cost of gas.
+
+**Family/Caregiver tasks**
+As a family member or caregiver of a Veteran, you want to know if the Veteran qualifies for VA health care.
+You're the spouse or caregiver of a Veteran and you want to know if you can get health care through VA. 
+As a family member or caregiver, you want to know if you can get dental benefits through VA. 
+You want to know what types of services and support you can get for your mental health needs.
+As a family member or caregiver of a Veteran, you want to find out the Veteran's cost for health care services.
+As a family member or caregiver of a Veteran, you want to know if VA will pay for the Veteran to get health care outside of VA.
+As a family member or caregiver of a Veteran, you want to send their VA health records to a non-VA provider.
+As a family member or caregiver of a Veteran, you want to check how much the Veteran owes for their last medical visit and pay the bill.
+The Veteran in your family needs to request a refill for a prescription they get from VA by mail.
+As a family member or caregiver of a Veteran, you want to help them set up an appointment with their VA primary care provider. 
+As a family member or caregiver of a Veteran, you want to find the results of one of their recent blood tests. 
+You drove the Veteran in your family to a VA primary care appointment at VA and want to get paid back for the cost of gas.
+
+[Link to trees](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/H2-tree-test.xlsx)
 
 ## Appendix B: Recruitment email (for Veteran cohorts)
 
