@@ -93,8 +93,6 @@ We will schedule a total of 108 (54 Veterans and 54 family members/caregivers) p
 
 ### Criteria Table
 
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
 Cohord 1-6: Veterans
 
 Cohort 7-12: Family members/Caregivers
