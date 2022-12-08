@@ -1,4 +1,5 @@
 # Login.gov Adoption: Research overview
+<br>
 
 |Study|End date|Materials|Readout|
 |:--|:--|:--|:--|
