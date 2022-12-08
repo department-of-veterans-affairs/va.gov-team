@@ -175,7 +175,7 @@ Cohort 7-12: Family members/Caregivers
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |   9    |   9    |    9   |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |   9    |   9    |    9   |        |        |        |        |        |        |       9 |    9   |       9 |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
