@@ -25,8 +25,8 @@
      - The paper form already has the question on it
      - The Enrollment system (ES) has deployed their changes to accept the values our online form will send
 
-FYI - not discussed, just an update here
-- In-progress Notification emails
+
+- In-progress Notification emails (FYI - not discussed, just an update here)
      - Rolled out 100% on Nov 1st
 
         
