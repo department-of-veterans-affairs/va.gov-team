@@ -11,27 +11,29 @@ vets-api->LGY:<align:center>Check status of vet's COE application\nGET /applicat
 vets-api<--LGY:<align:center>HTTP status (e.g. 200, indicating that vet\nhas not submitted a COE application yet),\ncreate date, status (e.g. SUBMITTED)</align>
 vets-website<--vets-api: Application status (e.g. AVAILABLE), Reference #
 
-vets-website->vets-api:<align:center>Fetch supporting documents\nGET /coe/documents</align>
-vets-api->LGY:<align:center>Fetch supporting documents\nGET /documents</align>
-vets-api<--LGY:Files
-vets-website<--vets-api: Files
+vets-website->vets-api:<align:center>Fetch notification letters\nGET /coe/documents</align>
+vets-api->LGY:<align:center>Fetch documents\nGET /documents</align>
+vets-api<--LGY:All documents in the LGY correspondence folder
+note over vets-api:<align:center>Filter documents to notification letters only</align>
+vets-website<--vets-api:Notification letters
 
 note over vets-website:<align:center>Status page CTAs dependent on COE status.\nSee Product Guide, pg. 22, for list of statuses.</align>
 alt Status is ELIGIBLE or AVAILABLE
-  vets-website->vets-api: <align:center>Download COE application\nGET /v0/coe/download_coe</align>
+  vets-website->vets-api:<align:center>Download COE application\nGET /v0/coe/download_coe</align>
   vets-api->LGY:<align:center>Fetch COE application\nGET /documents/coe/file</align>
   vets-api<--LGY:PDF
   vets-website<--vets-api: PDF
 end
-alt Vet has supporting document(s)
-  vets-website->vets-api:<align:center>Download supporting document\nGET /v0/coe/document_download/:id</align>
-  vets-api->LGY:<align:center>Fetch supporting document\nGET /document/:id/file</align>
-  vets-api<--LGY:File
-  vets-website<--vets-api: File
+alt Vet has notification letter(s)
+  vets-website->vets-api:<align:center>Download notification letter\nGET /v0/coe/document_download/:id</align>
+  vets-api->LGY:<align:center>Fetch notification letter\nGET /document/:id/file</align>
+  vets-api<--LGY:Notification letter
+  vets-website<--vets-api:Notification letter
 end
 alt Vet needs to upload additional supporting documents
   vets-website->vets-api:<align:center>Supporting documents\nPOST /v0/document_upload</align>
   loop for each file uploaded
+note over vets-api:Tag document as an "[ATTACHMENT]"
   vets-api->LGY:<align:center>Upload supporting document\nPOST /document</align>
   vets-api<--LGY:Response
   end
