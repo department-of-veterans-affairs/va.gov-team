@@ -36,6 +36,7 @@ Immunizations represent vaccines obtained during service and after service.
 **Accessibility considerations:**
 
 
+**Where do immunizations fit within IA?**
 
 
 ## Questions to answer
