@@ -21,16 +21,18 @@ Veteran tasks fit in the following key points in the Veteran journey:
 
 ## Research Goals
 
-The goal of this research is to gather qualitative insights on the information architecture for the health hub and the health apartment that was modified based on the previous tree testing. We will be looking to better understand how labeling, and organization of the menus impact users’ ability to successfully complete tasks.
+The goal of this research is to gather quantitative insights on the information architecture for the health hub and the health apartment that was modified based on the previous tree testing. We will be looking to better understand how labeling and organization of the menus impact users’ ability to successfully complete tasks.
 
-We will have two sets of key tasks for Veterans, families/caregivers. We will not only test the information architecture of the health care hub and health apartment, but also test the deeper structure of the site navigation, such as the left navigation.
+We will have two sets of key tasks for Veterans and families/caregivers. We will not only test the information architecture of the health care hub and health apartment, but also test the deeper structure of the site navigation, such as the left navigation.
 
-- Evaluate the usability of navigation in and between get health care benefits and My Health sections
+In these tree tests, we will aim to:
+
+- Evaluate the usability of navigation in and between the "get health care benefits" and "My Health" sections
 - Evaluate the location of health care benefits programs (mental and dental care) as core health care information
-- Evaluate “My Health” as a replacement label for the manage benefits spoke/section of the health care hub
+- Evaluate “My Health” as a replacement label for the "Manage Benefits" spoke/section of the health care hub
 - Evaluate whether users can easily manage their health with the categories under “My Health”
-- Evaluate whether family members and caregivers can navigate the information architecture to get and apply for benefits themselves.
-- Evaluate whether family members and caregivers can find information and manage Veterans' health on their behalf. 
+- Evaluate whether family members and caregivers can navigate the information architecture to get and apply for benefits themselves
+- Evaluate whether family members and caregivers can find information and manage Veterans' health on their behalf 
 
 ## Outcome
 
@@ -38,14 +40,14 @@ We will use the insights from this research to validate and refine the informati
 
 ## Research Questions
 
-Can Veterans and their families/caregivers navigate proposed changes to VA.gov and to find information and complete key tasks as they get and/or manage their VA health care benefits?
+Can Veterans and their families/caregivers navigate proposed changes to the information architecture of VA.gov in order to find information and complete key tasks as they get and/or manage their VA health care benefits?
 
 ## Hypothesis
 
 - Veterans who have health care benefits account will go to My Health directly for finding information and managing health instead of browsing on VA.gov.
 - Grouping and prioritizing all health care benefits programs (such as mental health and dental insurance) will help Veterans and caregivers and families easily find benefits information for their needs.
-- Viewing popular categories for medical records instead of downloading the full records can help Veterans quickly locate their health information.
-- Families and caregivers might prefer to find their benefits under family hub.
+- Viewing popular categories for medical records instead of downloading the full records will help Veterans quickly locate their health information.
+- Families and caregivers will prefer to find their benefits under family hub.
  
 ## Method
 
@@ -54,8 +56,6 @@ This phase of the research is designed to validate the refined information archi
 ### IA Tree Test (remote, unmoderated)
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, ? tasks for a Veteran and ? tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed.
-We would like to get complete responses from at least 50 Veterans.
-How many people we need to send emails to?
 
 ### Location
 Data collection will be remote and conducted using Optimal Workshop. 
@@ -300,7 +300,7 @@ Cohort 7-12: Family members/Caregivers
 
 ### Prepare
 
-We’ll finalize key tasks for Veternas and family members and caregivers, research plan, and recruitment plan by December 7. 
+We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by December 7. 
 
 ### Research sessions
 
@@ -334,53 +334,63 @@ The prioritized tasks, linked to our testing objective, were carefully curated s
 
 ## Appendix B: Recruitment email {#appendix-b-recruitment-email}
 
-
-```
 Subject: Participate in research with VA
+
 Hello,
+
 The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
 We are looking for Veterans who are interested in participating in an online activity to help us understand your preferences.
-What will I be doing in this activity?
+
+_What will I be doing in this activity?_
+
 You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+
 There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
-How long is the activity?
+
+_How long is the activity?_
+
 The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
 Interested in participating?
+
 Please reply to this email to receive the activity link and a participation code.
-```
 
 
 
 ## Appendix C: Recruitment email (for caregiver and family cohort)
 
-
-```
 Subject: Participate in research with VA
+
 Hello,
+
 The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
+
 We are looking for caregivers of Veterans who are interested in participating in an online activity to help us understand your preferences.
-What will I be doing in this activity?
+
+_What will I be doing in this activity?_
+
 You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+
 There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
-How long is the activity?
+
+_How long is the activity?_
+
 The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
 Interested in participating?
+
 Please reply to this email to receive the activity link and a participation code.
-```
 
 
 
 ## Appendix D:  Email to recruited participant 
 
-```
 Hello,
 
 Thank you for agreeing to take part in this study. This activity shouldn't take more than 15 minutes to complete. You can complete the study using a tablet, phone, or computer.
 
 This study is anonymous. None of the information or feedback you share will be directly attributed to you. 
 
-Instructions:
+_Instructions:_
+
 You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above. There are no wrong answers.
 
 Click this <<link>> to begin the study.
-```
