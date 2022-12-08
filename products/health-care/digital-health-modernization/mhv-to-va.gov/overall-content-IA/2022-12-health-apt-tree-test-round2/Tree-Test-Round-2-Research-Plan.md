@@ -303,7 +303,7 @@ The prioritized tasks, linked to our testing objective, were carefully curated s
 
 [Link to trees]()
 
-## Appendix B: Recruitment email {#appendix-b-recruitment-email}
+## Appendix B: Recruitment email (for Veteran cohorts)
 
 Subject: Be part of a new VA online research activity
 
@@ -318,13 +318,13 @@ The Department of Veterans Affairs is conducting research to learn how you get a
 - You can complete this activity on a smartphone, laptop, or any device with an Internet connection.
 - We're not testing your abilities. We're testing changes to our website.
 
-If you'd like to take part in this activity, reply to this email. We'll send you a link and a participation code to get started.
+If you'd like to take part in this activity, reply to this email. We'll send you a link and a participant code to get started.
 
 Thank you for your interest in VA research.
 
 
 
-## Appendix C: Recruitment email (for caregiver and family cohort)
+## Appendix C: Recruitment email (for caregiver and family cohorts)
 
 Subject: Be part of a new VA online research activity
 
@@ -339,7 +339,7 @@ Here's what to know about this activity:
 - You can complete this activity on a smartphone, laptop, or any device with an Internet connection.
 - We're not testing your abilities. We're testing changes to our website.
 
-If you'd like to take part in this activity, reply to this email. We'll send you a link and a participation code to get started.
+If you'd like to take part in this activity, reply to this email. We'll send you a link and a participant code to get started.
 
 Thank you for your interest in VA research.
 
