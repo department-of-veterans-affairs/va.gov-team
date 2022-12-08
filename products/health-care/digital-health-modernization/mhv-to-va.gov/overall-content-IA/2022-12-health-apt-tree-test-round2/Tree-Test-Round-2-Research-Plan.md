@@ -263,23 +263,18 @@ Cohort 7-12: Family members/Caregivers
     - Yes *(not eligible)*
     - No *(eligible)*
 
+### Screener for Cohort 7-9
 
-### Screener for Veterans
+3. Are you a family memeber of a Veteran?
+    - Yes *(eligible)*
+    - No *(not eligible, but eligible for cohort 10-12)*
+    
+### Screener for Cohort 10-12
 
-3. *(If answered yes to Screener question 3 for all participants)* Do you have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 5)*
-    - No *(recruit 2)*
-
-4. *(If yes to Screener question 4)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
-    - Premium *(go onto Screener question 6)
-    - Basic *(not eligible)*
-
-5.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
-    - Yes *(recruit 4)*
+4. Are you a care giver for a Veteran?
+    - Yes *(eligible)*
     - No *(not eligible)*
-
-### Screener for Family memebers/Caregivers Cohort 10-12
-
+    
 4. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
     - Yes *(go on to additional Screener question 5)*
     - No *(not eligible)*
