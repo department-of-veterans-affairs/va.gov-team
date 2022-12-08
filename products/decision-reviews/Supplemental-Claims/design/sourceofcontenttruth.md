@@ -800,6 +800,12 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 
 ### Error alerts
 
+Not enough PII to proceed with form:
+
+#### We are missing personal information required for this form
+
+You need to provide some personal information before you can fill out this form. Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
 PDF upload errors (be sure we help them recover):
 
 #### We couldn't upload your PDF
