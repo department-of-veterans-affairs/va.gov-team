@@ -181,7 +181,7 @@ Cohort 7-12: Family members/Caregivers
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |     9  |    9   |    9   |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |     9  |    9   |    9   |        |        |        |        |        |        |       9 |    9   |       9 |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
