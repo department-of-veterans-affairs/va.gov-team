@@ -34,3 +34,4 @@ Identify opportunities to improve the experience for those applying to Supplemen
 - What are the policy requirements for terminal illness flash?
 
 ## Related Resources
+[VA information page on PACT](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
