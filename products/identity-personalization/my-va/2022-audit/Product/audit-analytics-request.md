@@ -20,9 +20,9 @@
 
 ### Health care
 
-| Link | GA Event | Notes |
-| ---- | ---- | ---- |
-| Apply for VA health care | Needs new event |   |
+| Link | URL | GA Event | Notes |
+| ---- | ---- | ---- | ---- |
+| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Needs new GA event | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging  |
 
 
 <details>
