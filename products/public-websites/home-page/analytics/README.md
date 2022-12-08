@@ -10,10 +10,10 @@ The following pages are available in the Analytics > redesign folder.
    - _user transactions with specific tools by benefit category - data from VA.gov Performance Dashboard, 05/2022_
 
 - [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/benefit-utilization-data.md)
-   -_Receipient/beneficiary numbers by benefit category for FY 2020 and 2021_
+   - _Receipient/beneficiary numbers by benefit category for FY 2020 and 2021_
 
 - [Banner and alert interaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/banner-and-alert-events.md) 
    - _data on interactions with sitewide alerts, warning alert boxes,and promo banners, covers 01/01/2021 - 07/14/2022_
    
-- [Event dictionary for metrics measuring the redesigned homepage, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/analytics-event-dictionary.md
+- [Event dictionary for metrics measuring the redesigned homepage, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/analytics-event-dictionary.md)
 
