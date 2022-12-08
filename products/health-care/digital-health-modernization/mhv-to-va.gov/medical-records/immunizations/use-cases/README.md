@@ -1,5 +1,5 @@
 
-## Example of documenting use cases ##
+## 🌟Example of documenting use cases ##
 
 # Immunizations Use Cases
 **Last updated:** Dec 1, 2023
