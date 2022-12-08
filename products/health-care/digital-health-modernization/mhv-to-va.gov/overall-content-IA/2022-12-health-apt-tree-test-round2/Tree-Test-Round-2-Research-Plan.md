@@ -251,41 +251,21 @@ Cohort 7-12: Family members/Caregivers
 |Low tolerance for cognitive overload                         |            |
        
 
-### Screener for Cohort 1 and 2
+### Screener for Cohort 1-3
 
-1. Have you used MyHealtheVet in the past 12 months to manage your health? 
-    - Yes, I have used MyHealtheVet in the past 12 months. *(eligible)*
-    - No, I have not used an online patient portal in the past 12 months *(not eligible for cohort 1 and 2, but recruit for cohort 3)* 
+1. Have you used MyHealtheVet in the past 12 months to manage your health?
+   - Yes, I have used MyHealtheVet in the past 12 months. (eligible for cohorts 1 and 2)
+   - No, I have not used an online patient portal MyHealtheVet in the past 12 months (not eligible for cohort 1 and 2, but recruit for cohort 3)
 
-### Screener for Cohort 3
+### Screener for Cohort 7-12
 
-2. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(not eligible)*
-    - No *(eligible)*
+2. Are you a family member or caregiver of a Veteran?
+   - Yes (eligible)
+   - No (not eligible)
 
-### Screener for Cohort 7-9
-
-3. Are you a family memeber of a Veteran?
-    - Yes *(eligible)*
-    - No *(not eligible, but eligible for cohort 10-12)*
-    
-### Screener for Cohort 10-12
-
-4. Are you a care giver for a Veteran?
-    - Yes *(eligible)*
-    - No *(not eligible)*
-    
-5. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 6)*
-    - No *(not eligible)*
-
-6. *(If yes to Screener question 5)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 7)
-    - No *(not eligible)*
-
-7. *(If yes to Screener question 6)* Have you used any features on My HealtheVet (MHV) within the last 12 months to help manage a Veterna's VA health care? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
-    - Yes *(eligible)*
-    - No *(not eligible)*
+3. Have you used any features on My HealtheVet (MHV) within the last 12 months to help manage a Veteran's VA health care? Features include messaging your a healthcare provider, refilling prescriptions, or looking at or downloading your health records.
+   - Yes, I have used MyHealtheVet in the past 12 months. (eligible for cohorts 10-12)
+   - No, I have not used MyHealtheVet in the past 12 months (not eligible 10-12, recruit for cohort 7-9)
 
 ## Timeline
 
