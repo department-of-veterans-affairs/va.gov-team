@@ -6,9 +6,9 @@
 
 ### Claims and appeals
 
-| Link | GA Event | Notes |
-| ---- | ---- | ---- |
-| Learn how to file a claim | Needs new GA event | Can see this with test user 10, I see `profile-navigation - view link - view learn how to file a claim` being tracked in Staging, but this is a new link, we also want to use "Dashboard" not "Profile" |
+| Link | URL | GA Event | Notes |
+| ---- | ---- | ---- | ---- |
+| Learn how to file a claim | https://staging.va.gov/disability/how-to-file-claim/ | Needs new GA event | Can see this with test user 10, I see `profile-navigation - view link - view learn how to file a claim` being tracked in Staging, but this is a new link, we also want to use "Dashboard" not "Profile" |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
