@@ -287,7 +287,6 @@ Cohort 7-12: Family members/Caregivers
     - Yes *(eligible)*
     - No *(not eligible)*
 
-
 ## Timeline
 
 ### Prepare
