@@ -329,7 +329,7 @@ Q&As may be used on Resources & Support pages, or FAQ pages, as an entity refere
 
 **What is:**
 
-A page that contains in-depth information about a single resource available to Veterans or other beneficiaries.
+A page that contains in-depth information about a single resource available to Veterans or other beneficiaries. Formerly called Learning Centers.
 
 **Example content:**
 * URL: [https://va.gov/resources/choosing-between-urgent-and-emergency-care](https://va.gov/resources/choosing-between-urgent-and-emergency-care) 
@@ -340,6 +340,7 @@ A page that contains in-depth information about a single resource available to V
 
 **More info:**
 * A6 program GDrive folder: [Resources and Support](https://drive.google.com/drive/u/1/folders/1uqKHA1Wq91yPB91TdWBWGz0CV7gE8kaM)
+* [Resources and Support product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
 * 2022 Sitewide Content research project around clarity of this content and how Editors in other areas might have challenges / need support: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) 
 * [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
 
