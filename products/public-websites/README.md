@@ -730,8 +730,10 @@ UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Harassment Reporting Tool
 
+* [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/product-outline.md)
 * [Harassment Reporting Research--Landing page and poster (Mar 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/static-landing-page)
 * [Harassment Reporting Tool Research (incomplete)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/usability)
+* [HRT Collab cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29178) -- includes context, diagrams, etc.
 
 
 ## Higher-Level Review static landing page
