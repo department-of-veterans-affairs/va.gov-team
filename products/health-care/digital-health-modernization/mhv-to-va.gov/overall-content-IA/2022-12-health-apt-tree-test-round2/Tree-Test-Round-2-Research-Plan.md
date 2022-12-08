@@ -123,13 +123,13 @@ Cohort 7-12: Family members/Caregivers
 |55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |   1    |   1    |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |  9     |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |  9     |   9    |    9   |    0   |  0     |        |        |        |        |         |
+|Healthcare      |            |  9     |   9    |    9   |    0   |  0     |  0     |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -181,7 +181,7 @@ Cohort 7-12: Family members/Caregivers
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |     9  |    9   |    9   |        |        |        |        |        |        |       9 |    9   |       9 |
+|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |        |         |
 |ID.me           |            |        |        |        |        |        |        |        |        |        |         |
 |Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
@@ -236,7 +236,7 @@ Cohort 7-12: Family members/Caregivers
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    | 1-2 for cohort 1-6 and 0 for cohort 7-12|
+|*Various*                                                    | 1-2 for cohort 1-6|
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
