@@ -23,6 +23,10 @@ Immunizations represent vaccines obtained during service and after service.
 - Comments
 - Series
 
+## Use Cases
+
+Can either include use case info here or link to another file - depends on how much info. 
+
 ## UX considerations
 
 ### Immunizations section
