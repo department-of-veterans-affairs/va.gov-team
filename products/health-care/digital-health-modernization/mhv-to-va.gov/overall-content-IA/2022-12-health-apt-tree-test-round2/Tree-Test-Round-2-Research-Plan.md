@@ -55,7 +55,7 @@ This phase of the research is designed to validate the refined information archi
 
 ### IA Tree Test (remote, unmoderated)
 
-Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, ? tasks for a Veteran and ? tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed.
+Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, 12 tasks for a Veteran and 12 tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed.
 
 ### Location
 Data collection will be remote and conducted using Optimal Workshop. 
