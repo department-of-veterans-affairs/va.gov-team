@@ -169,6 +169,11 @@ This is the personal information we have on file for you.
 
 **_CONTINUE_**
 
+_Error_
+
+#### We are missing personal information required for this form
+You need to provide some personal information before you can fill out this form. Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
 ---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
@@ -289,7 +294,7 @@ You'll need to submit or give us permission to gather medical evidence from a VA
 
 **_CONTINUE_**
 
-Error: You need to certify that you have reviewed the notice of evidence needed.
+_Error_: You need to certify that you have reviewed the notice of evidence needed.
 
 ----------------------------------------------
 
@@ -327,11 +332,11 @@ We’ll request your VA medical records from this facility
 
 Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
 
-Error: You must enter a VA facility
+_Error_: You must enter a VA facility
 
 Choose the conditions you received treatment for at this facility. (*Required)
 
-Error: You must choose a condition.
+_Error_ : You must choose a condition.
 
  
 First treatment date (you can estimate) (*Required)
@@ -438,6 +443,12 @@ I understand that VA may use information disclosed prior to revocation to decide
 
 **_CONTINUE_**
 
+_Edit_
+
+#### You'll need to authorize the release of your medical records
+
+You must authorize the release of your medical records so we can get them directly from your doctor. Or, you can go back and choose to upload your private medical records.
+
 ----------------------------------------------
 
 ## STEP 3 of 4: New and relevant evidence
@@ -515,7 +526,7 @@ If you want to limit what we can request from your private medical provider(s), 
 
 What does "limit my consent" mean? / expand
 
-If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. Limiting consent may add the time it takes us to get your private medical records.
+If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. It may take us longer to get your private medical records if you limit consent.
 
 **_BACK_**
 
@@ -550,6 +561,8 @@ We'll save your application every time you add or update information.
 
 **Upload your supporting evidence**(*Required)
 
+Evidence upload instructions / expand
+
 You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (sometimes called "lay statements" or "buddy statements"), and other types of evidence. We’ll prompt you to upload each document from your device. But you may need to scan your document first, then save each file as a PDF before you can upload it.
 
 You can do this one of 2 ways:
@@ -569,6 +582,12 @@ A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large f
 **_BACK_**
 
 **_CONTINUE_**
+
+_Error_
+
+#### We couldn't upload your PDF
+
+Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
 
 ----------------------------------------------
 
@@ -628,6 +647,14 @@ Date – Date
 
 Remove
 
+Do you want to limit the information requested?
+
+Edit
+
+Yes, I want to limit the information / No, I don't want to limit the information
+
+Remove
+
 You uploaded these documents:
 
 Edit
@@ -643,6 +670,11 @@ Remove
 **_BACK_**
 
 **_CONTINUE_**
+
+_Error_
+
+#### You haven't added any evidence
+You must provide at least one type of evidence to file for a Supplemental Claim.
 
 ----------------------------------------------
 
@@ -685,7 +717,6 @@ Edit
 I certify that I have reviewed the notice of evidence needed.
 
 Yes, I certify
-
 
 Supporting evidence types
 
