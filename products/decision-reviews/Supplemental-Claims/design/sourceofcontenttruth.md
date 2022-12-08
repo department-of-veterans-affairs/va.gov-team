@@ -215,7 +215,6 @@ We may need to contact you if we have questions about your Supplemental Claim. (
 
 *Error*: You need to choose a primary phone number.
 
----
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
@@ -240,6 +239,7 @@ If you don’t see your issue or decision listed here, it may not be in our syst
 **_BACK_**
 
 **_CONTINUE_**
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
@@ -254,6 +254,7 @@ Enter the date on your decision notice (the letter you received in the mail from
 **_BACK_**
 
 **_CONTINUE_**
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
