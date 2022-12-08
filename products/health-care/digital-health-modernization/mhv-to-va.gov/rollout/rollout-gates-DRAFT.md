@@ -14,6 +14,7 @@ Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will
 	- UI/UX
 	- Test cases
 	- User documentation
+- Monitoring has been set up (Datadog)
 - Support personnel have been trained
 - Contingency plan has been defined
 - Support/issue reporting process has been defined
