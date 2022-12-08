@@ -282,7 +282,7 @@ Cohort 7-12: Family members/Caregivers
 
 ### Prepare
 
-We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by December 7. 
+We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by December 9. 
 
 ### Research sessions
 
