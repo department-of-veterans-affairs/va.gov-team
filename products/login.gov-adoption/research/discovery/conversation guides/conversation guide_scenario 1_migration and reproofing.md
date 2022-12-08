@@ -156,7 +156,8 @@ The last step for setting up your login.gov account is to set up an additional s
 - [If yes] Walk me through how you use multi-factor authentication. Did you set it up yourself? Do you find it easy to do?
 - [If no] Have you ever heard of multi-factor authentication? Do you know its purpose?
 - How do you feel if I ask you to set up multi-factor authentication?
-- So, multi-factor authentication is an additional security check. And you can set it up a number of different ways.
+
+So, multi-factor authentication is an additional security check. And you can set it up a number of different ways.
 
 **Show screens**
 
@@ -171,7 +172,8 @@ Please take a look at this screen. Here are different options for setting up you
 - [If they don’t know] What would you do if you didn’t know what to choose?
 - If you could choose not to set up multi-factor authentication, would you? [If they would opt out] If I told you that choosing not to set up multi-factor authentication can make your personal information less secure, would you still choose not to set it up?
 - [If they are concerned about technical forms of MFA] Another option we have thought about, besides these ones, is doing this by mail. So, you would go onto you My HealtheVet account and request a code is mailed to you. 3-5 days later the code would arrive and you can use it to login. What do you think about this?
-- I want to a little bit more about one of these options. Security keys.
+
+I want to talk about one of these options in more detail. Security keys.
 
 **Show illustration**
 
