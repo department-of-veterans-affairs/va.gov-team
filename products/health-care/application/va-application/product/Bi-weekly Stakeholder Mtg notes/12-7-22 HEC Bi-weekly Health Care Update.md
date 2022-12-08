@@ -1,6 +1,8 @@
 # December 7, 2022 HEC Bi-weekly Health Care application update
 
 ### 12/7/22 Agenda Items
+- Household section optimization research sessions being held 12/6 thru 12/14
+     - HEC stakeholders encouraged to join if available (several folks have decided to join us!)
 - Questions from the Online Health Apps team on some of the data requested on the form
      - **Why do we ask for Mother's Maiden name?**
           - This is a Security Question, for additional authentication
