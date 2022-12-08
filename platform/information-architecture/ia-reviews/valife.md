@@ -48,7 +48,7 @@ Add | See list in https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8
 
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
-* None
+* There are two legacy pages to redirect to this new modernized page, per ticket [#50539](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50539)
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
