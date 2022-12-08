@@ -41,7 +41,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 
 ## Product artifacts
 - [Homepage redesign initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
-- [Homepage design iteration timeline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md)
+- [Homepage design iteration timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md)
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/discovery.md)
 - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/decision-log.md)
 - [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
