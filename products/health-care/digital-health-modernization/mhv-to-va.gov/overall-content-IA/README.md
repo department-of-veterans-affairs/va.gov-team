@@ -23,8 +23,8 @@ This directory contains information specific to overall content and IA strategy,
 *Please note: In the course of creating the overall results, multiple errors were found in the set-up of the Veteran and Caregiver tree tests that impacted some of the data.  The findings form those individual tests are still mostly accurate, but some task results did change drastically.  Utilize the overall results and task analysis for detailed findings.*
 
 ### IA testing - Round 2
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/Tree%20Test%20Round%202%20Research%20Plan.md)
-- Recruiting
+- [Research and recruiting plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/Tree-Test-Round-2-Research-Plan.md)
+- [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/H2-tree-test.xlsx)
 - Results
 
 
