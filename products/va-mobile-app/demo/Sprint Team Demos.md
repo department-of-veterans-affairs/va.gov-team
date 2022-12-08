@@ -5,6 +5,7 @@
 
 - Demo Topic(s)
    - Blind & Low Vision Research Readout (Liz)
+   - Encouraged Update (Jon)
 
 
 **Demo Sprint 58 11/24/22**
