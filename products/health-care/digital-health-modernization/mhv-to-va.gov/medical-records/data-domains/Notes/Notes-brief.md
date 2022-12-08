@@ -21,7 +21,7 @@ Can either include use case info here or link to another file - depends on how m
 
 ## UX considerations
 
-### Immunizations section
+### Notes section
 
 **When to show this section:**
 - When do users see notes section in flow?  
