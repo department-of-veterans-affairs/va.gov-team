@@ -305,63 +305,60 @@ The prioritized tasks, linked to our testing objective, were carefully curated s
 
 ## Appendix B: Recruitment email {#appendix-b-recruitment-email}
 
-Subject: Participate in research with VA
+Subject: Be part of a new VA online research activity
 
 Hello,
 
-The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
-We are looking for Veterans who are interested in participating in an online activity to help us understand your preferences.
+The Department of Veterans Affairs is conducting research to learn how you get and manage VA health care benefits. We'd like to invite you to take part in an online activity to help improve VA.gov for your fellow Veterans and their families.
 
-_What will I be doing in this activity?_
+**Here's what to know about this activity:**
 
-You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+- We’ll give you a series of tasks and a list of menu options. Each menu option represents a page on the VA.gov website. For each task, we'll ask you to click through the menu options to find the page that you think would have the information you need to complete the task. 
+- This self-guided activity usually takes about 10 to 15 minutes to complete. You can complete the activity at any time that's convenient for you.
+- You can complete this activity on a smartphone, laptop, or any device with an Internet connection.
+- We're not testing your abilities. We're testing changes to our website.
 
-There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
+If you'd like to take part in this activity, reply to this email. We'll send you a link and a participation code to get started.
 
-_How long is the activity?_
-
-The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
-Interested in participating?
-
-Please reply to this email to receive the activity link and a participation code.
+Thank you for your interest in VA research.
 
 
 
 ## Appendix C: Recruitment email (for caregiver and family cohort)
 
-Subject: Participate in research with VA
+Subject: Be part of a new VA online research activity
 
 Hello,
 
-The Department of Veterans Affairs is conducting research to learn how you get and manage health benefits offered by the VA.
+The Department of Veterans Affairs is conducting research to learn how you and the Veteran you care for get and manage VA health care benefits. We'd like to invite you to take part in an online activity to help improve VA.gov for your fellow caregivers of Veterans.
 
-We are looking for caregivers of Veterans who are interested in participating in an online activity to help us understand your preferences.
+Here's what to know about this activity:
 
-_What will I be doing in this activity?_
+- We’ll give you a series of tasks and a list of menu options. Each menu option represents a page on the VA.gov website. For each task, we'll ask you to click through the menu options to find the page that you think would have the information you need to complete the task. 
+- This self-guided activity usually takes about 10 to 15 minutes to complete. You can complete the activity at any time that's convenient for you.
+- You can complete this activity on a smartphone, laptop, or any device with an Internet connection.
+- We're not testing your abilities. We're testing changes to our website.
 
-You will be sent a link to an online activity in which you'll see a list of VA-related tasks. You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above.
+If you'd like to take part in this activity, reply to this email. We'll send you a link and a participation code to get started.
 
-There are no wrong answers. We would like to learn how you travel through the categories to complete the task.
-
-_How long is the activity?_
-
-The activity is self guided and should take you 15-20 minutes to complete. You can do this at any time that's convenient for you.
-Interested in participating?
-
-Please reply to this email to receive the activity link and a participation code.
+Thank you for your interest in VA research.
 
 
 
 ## Appendix D:  Email to recruited participant 
 
+[subject] Start your VA online research activity
+
 Hello,
 
-Thank you for agreeing to take part in this study. This activity shouldn't take more than 15 minutes to complete. You can complete the study using a tablet, phone, or computer.
+Thank you for agreeing to take part in this VA online research activity. 
 
-This study is anonymous. None of the information or feedback you share will be directly attributed to you. 
+This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
 
-_Instructions:_
+Your feedback. We won't share any information or feedback linked to your name or other personal details.
 
-You will be asked to find a certain item and presented with a list of links. Click through the list until you arrive at one that you think helps you complete the task. If you take a wrong turn, you can go back by clicking one of the links above. There are no wrong answers.
+**Here's your participant code:** [Add code]
 
-Click this <<link>> to begin the study.
+You'll need to enter this at the end of the activity.
+
+[link] Start the activity now
