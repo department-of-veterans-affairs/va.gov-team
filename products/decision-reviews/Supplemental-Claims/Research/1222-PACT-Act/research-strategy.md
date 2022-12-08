@@ -17,8 +17,8 @@ Identify opportunities to improve the experience for those applying to Supplemen
 - Discuss with VBA and PO
 
 ## Tasks
-[] Research: How are we identifying claims that qualify for PACT Act?
-[] Research: What do the veterans expect the application experience to be like if they qualify for the PACT Act?
+- [ ] Research: How are we identifying claims that qualify for PACT Act?
+- [ ] Research: What do the veterans expect the application experience to be like if they qualify for the PACT Act?
 
 ## Open questions
 - Is there a timing / prioritization that we need to be aware of? 
