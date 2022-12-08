@@ -179,9 +179,9 @@ And familiarity is also important for Veterans who struggle with passwords, whic
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-Perceived ease of use drives Veterans' multi-factor authentication choices –  they may want high-security in theory, but choose what they see as an easier option in practice.
+Perceived ease of use drives Veterans' security and multi-factor authentication choices. While they might say security is a priority, in practice, Veterans make choices based on ease of use.
 
-Ingrained responsibility for government-issued property undermines the perception that a security key from the VA would an easy and low-stress MFA option. And while biometrics can at first feel like a violation, through repeated exposure it's increasingly embraced as an easy option requiring no memory. When choosing a multi-factor authentication option, Veterans weigh intrusiveness against ease of setup and continued use.
+Ingrained responsibility for government-issued property undermines the perception that a security key from the VA would an easy and low-stress MFA option. And while biometrics can at first feel like a violation, through repeated exposure it's increasingly embraced as an easy option requiring no memory.
 
 > “We've all experienced the ‘oh, my God, where's my rifle!?’ Veterans aren’t going to want to be accountable for [a security key] since there's too much ingrained trauma there.” Participant 7, Veteran Interview
 
