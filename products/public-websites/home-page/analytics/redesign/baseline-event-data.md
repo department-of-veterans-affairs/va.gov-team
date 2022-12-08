@@ -28,6 +28,8 @@
 
 [Data visualizations](#data-visualizations) 
 
+[Other search tools](#other-search-tools)
+
 
 ## Event data 
 
