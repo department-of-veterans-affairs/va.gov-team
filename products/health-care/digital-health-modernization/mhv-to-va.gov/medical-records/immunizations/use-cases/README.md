@@ -1,4 +1,5 @@
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/use-cases
+
+## Example of documenting use cases ##
 
 # Immunizations Use Cases
 **Last updated:** Dec 1, 2023
