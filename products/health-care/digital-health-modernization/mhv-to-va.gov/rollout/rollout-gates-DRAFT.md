@@ -24,7 +24,7 @@ Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will
 - Analytics are in place to measure KPIs
 - Has been through user acceptance testing
 - Has been reviewed by stakeholders and they have acknowledged that requirements have been met
-- Has been reviewed by clinical SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
 - All phases of Collaboration Cycle have been completed
 - Gate review team has been established
 - Goals and exit criteria have been established for phase 0
