@@ -39,6 +39,9 @@ Immunizations represent vaccines obtained during service and after service.
 **Where do immunizations fit within IA?**
 
 
+**View vs. share vs. download considerations:**
+
+
 ## Questions to answer
 
 1. **UX:** Any language considerations? Do users prefer immunizations or vaccinations? What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
