@@ -72,9 +72,8 @@ Okay. You can get started by using the check in poster.
 
 ## Section 3: Product Feedback and Communication Preferences
 
-- Do you recall if you completed Pre-check-in for your appointment, which the VA would have texted you a link about 7 days ago? Why or why not?  
-- Overall, what’s most confusing or difficult about the mobile check in process (including Pre-check-in)?
-- And overall, what would you change or add, if anything, to make the mobile check in process easier (including Pre-check-in)?
+- Overall, what’s most confusing or difficult about the mobile check in process?
+- And overall, what would you change or add, if anything, to make the mobile check in process easier?
 - Do you think you’d be more likely to complete mobile check in by responding to 1 or 2 text messages versus the steps that you completed today? 
 - And finally, what is your preferred communication method when communicating with the VA about your health care? E.g., phone, text, email or mail. 
 
