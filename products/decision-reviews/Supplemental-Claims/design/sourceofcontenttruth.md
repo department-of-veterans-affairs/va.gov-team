@@ -305,7 +305,7 @@ _Error_: You need to certify that you have reviewed the notice of evidence neede
 
 We'll save your application every time you add or update information.
 
-**Would you like us to request your VA medical records for you?**
+**Would you like us to request your VA medical records for you?** (*Required)
 
 - [ ] Yes
 
@@ -385,7 +385,7 @@ We'll save your application every time you add or update information.
 
 [PRIVATE medical records:]
 
-**Would you like us to request your private medical records?**
+**Would you like us to request your private medical records?** (*Required)
 
 - [ ] Yes
 - [ ] No
@@ -446,7 +446,7 @@ I understand that VA may use information disclosed prior to revocation to decide
 
 **_CONTINUE_**
 
-_Edit_
+_Error_
 
 #### You'll need to authorize the release of your medical records
 
@@ -527,7 +527,7 @@ If you want to limit what we can request from your private medical provider(s), 
 
 *text input field
 
-What does "limit my consent" mean? / expand
+What does "limiting consent" mean? / expand
 
 If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. It may take us longer to get your private medical records if you limit consent.
 
@@ -541,16 +541,14 @@ If you choose to limit consent, you’re limiting the type or amount of informat
 
 We'll save your application every time you add or update information.
 
-** Do you want to upload your records or other documents to support your claim?
+**Do you want to upload your records or other documents to support your claim?** (*Required)
 
 - [ ] Yes
 - [ ] No
  
 Types of supporting evidence / expand
 
-Lay statements or other
-
-A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. But some claims—such as those for Posttraumatic Stress Disorder or military sexual trauma—could benefit from a lay or buddy statement.
+Supporting evidence can include private medical records or a buddy/lay statement. A buddy/lay statement is a written statement from family, friends, or coworkers to help support your claim. 
 
 **_BACK_**
 
@@ -562,11 +560,11 @@ A lay statement is a written statement from family, friends, or coworkers to hel
 
 We'll save your application every time you add or update information.
 
-**Upload your supporting evidence**(*Required)
+**Upload your supporting evidence** (*Required)
 
 Evidence upload instructions / expand
 
-You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting statements (sometimes called "lay statements" or "buddy statements"), and other types of evidence. We’ll prompt you to upload each document from your device. But you may need to scan your document first, then save each file as a PDF before you can upload it.
+You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting evidence like buddy/lay statements and other types of evidence. We’ll prompt you to upload each document from your device. But you may need to scan your document first, then save each file as a PDF before you can upload it.
 
 You can do this one of 2 ways:
 
@@ -598,9 +596,9 @@ Your PDF is too large to upload. You'll need to create smaller PDFs that have fe
 
 We'll save your application every time you add or update information.
 
-IF Supporting (lay) statements, other evidence or upload your documents
-
 **Upload your evidence**
+
+Evidence upload instructions / expand
 
 You’re adding this evidence
 
@@ -611,6 +609,12 @@ XKB
 Document type (*Required)
 
 ***_Remove_***
+
+• File types you can upload: PDF
+
+• Maximum file size: 100MB
+
+A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow Internet connection.
 
 ***_Upload another document_
 
@@ -626,7 +630,7 @@ We'll save your application every time you add or update information.
 
 **Summary**
 
-You’re requesting records from these VA locations:
+We’re requesting records from these VA locations:
 
 Edit
 
@@ -638,7 +642,7 @@ Date – Date
 
 Remove
 
-You’re requesting records from these private providers:
+We’re requesting records from these private medical providers:
 
 Edit
 
@@ -650,11 +654,11 @@ Date – Date
 
 Remove
 
-Do you want to limit the information requested?
+Do you want to limit the information we can request?
 
 Edit
 
-Yes, I want to limit the information / No, I don't want to limit the information
+Yes, I want to limit the information requested / No, I don't want to limit the information requested
 
 Remove
 
@@ -703,6 +707,12 @@ City
 
 State
 
+Primary phone number
+
+Edit
+
+Home/Mobile phone number
+
 **Issues for review**
 
 Edit
@@ -711,7 +721,15 @@ Issue
 
 Decision date
 
-**Supporting evidence**
+Opt In
+
+Edit
+
+I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
+
+Yes, I choose to opt in to the new process / No, I choose to stay in the old process
+
+**New and relevant evidence**
 
 Notice of Acknowledgment
 
@@ -721,19 +739,11 @@ I certify that I have reviewed the notice of evidence needed.
 
 Yes, I certify
 
-Supporting evidence types
-
-VA medical records
+Supporting evidence
 
 Edit
 
-Location name
-
-Condition
-
-Date – Date
-
-Private medical records
+We’re requesting records from these VA  locations:
 
 Location name
 
@@ -741,7 +751,19 @@ Condition
 
 Date – Date
 
-Supporting (lay) statements or other evidence
+We’re requesting records from these private medical providers:
+
+Location name
+
+Condition
+
+Date – Date
+
+Do you want to limit the information we can request?
+
+Yes, I want to limit the information requested
+
+You uploaded these documents:
 
 filename
 
@@ -785,7 +807,7 @@ LINK: Download your completed claim (PDF)
 
 ## What to expect next
 
-If we need more information, we'll send you a letter that tells you what other information you'll need to submit. And we'll contact you if we schedule an exam for you.
+If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam for you.
 
 When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
 
