@@ -133,7 +133,7 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Link** | **GA Event** | **Note** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- |
-| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history`, `Profile - Navigation - View Link - View Payment History` | I see two tags for payment history, it looks like the first one is what is being tracked now with Payments V2 | #4 |
+| Review your payment history | `Navigation - Link List - Benefit Payments - Review your payment history` | , `Profile - Navigation - View Link - View Payment History` was the event used for the Payment Info MVP, it was changed with V2 | #4 |
 | Manage your Direct Deposit information | `Navigation - Link List - Direct Deposit - Manage your direct deposit` |   | #25 | 
 
 <details>
@@ -147,11 +147,11 @@ More information on notifications analytics can be found [here](https://github.c
 ### Education and training
 - This is a new section to My VA, here are the potential links to track:
 
-| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
-| ---- | ---- | ---- | ---- | ---- |
-| N/A | Learn how to apply for VA educational benefits | N/A | TBD | N/A |
-| N/A | Compare GI Bill benefits by school | N/A | TBD | N/A |
-| N/A | Check your BI Bill Statement of Benefits | N/A | TBD | N/A |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** | Staging User (for testing) |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| N/A | Learn how to apply for VA educational benefits | N/A | `Navigation - Link List - Education and training - Learn how to apply for VA educational benefits` - this is showing in Staging | N/A | User 272 |
+| N/A | Compare GI Bill benefits by school | N/A | `Navigation - Link List - Education and training - Compare GI Bill benefits by school` | N/A | User 272 |
+| N/A | Check your BI Bill Statement of Benefits | N/A | `Navigation - Link List - Education and training - Check your GI Bill Statement of Benefits` | N/A | User 272 |
 
 <details>
   <summary>New Education and Training Section:</summary>
