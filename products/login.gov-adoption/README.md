@@ -40,3 +40,6 @@ December 2022 - 2023
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Content Strategist|Carl Dickson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
+|Sr. Product Manager|Anthony Levin-Decanini|TBD|
+|Full Stack Developer|TBD|TBD|
+|Full Stack Developer|TBD|TBD|
