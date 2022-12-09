@@ -22,9 +22,17 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 **Expected launch date**: We are still scoping this work, so launches will depend on final scope. I'd at least like us to launch something in the first three months of the year, even if that means dividing this work into phases that extend beyond Q1.
 
+#### Update claims section so it points to Lighthouse integration
+
+Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away in 2023 (need to confirm date), and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
+
 ### Profile team
 
 TBD, but likely finishing up accessibility work, adding email as a channel to notification preferences (may require research/exploration).
+
+#### Update direct deposit for comp & pen section so it points to Lighthouse integration
+
+Direct deposit for comp & pen information on VA.gov is currently supported by EVSS. However, EVSS is going away in 2023 (need to confirm date), and EVSS integrations are in the process of moving over to the Lighthouse platform. According to [Nichole Harris](https://dsva.slack.com/archives/C8R3JS8BU/p1670604479375849?thread_ts=1670603198.743219&cid=C8R3JS8BU), the direct deposit information is almost in their Sandbox and will hopefully be ready for their production environment in January 2023. At this point, we can start moving over our integration from EVSS to Lighthouse. We'll work closely with Lighthouse to get this funtionality updated, tested, and launched.
 
 ### Either team
 
@@ -39,6 +47,14 @@ As part of the health apartment migration, Mikki will be conducting wayfinding r
 Samara's maternity leave!! I'll be out most of this quarter.
 
 ## Q3 CY2023 (July - September)
+
+### Profile team
+
+#### Update direct deposit for edu section so it points to Lighthouse integration
+
+Direct deposit for edu information on VA.gov is currently supported by BGS. However, this is moving over to the Lighthouse platform. [According to Nichole Harris](
+https://dsva.slack.com/archives/C8R3JS8BU/p1670604479375849?thread_ts=1670603198.743219&cid=C8R3JS8BU), direct deposit for edu will be ready in their platform at the end of Q2. At this point, we can start moving over our integration from BGS to Lighthouse. We'll work closely with Lighthouse to get this funtionality updated, tested, and launched.
+
 ## Q4 CY2023 (October - December)
 
 ---------------
