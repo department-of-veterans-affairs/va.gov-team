@@ -38,7 +38,7 @@
 - This is a new section to My VA, here are the new links to track:
 
 | **Link** | **URL** | **GA Event** | **Notes** |
-| ---- | ---- | ---- | 
+| ---- | ---- | ---- | ---- |
 | Learn how to apply for VA educational benefits | https://www.va.gov/education/how-to-apply/ | `Navigation - Link List - Education and training - Learn how to apply for VA educational benefits` | This section was accidentally live for a few days in Prod so we already see GA activity for this |
 | Compare GI Bill benefits by school | https://va.gov/education/gi-bill-comparison-tool | `Navigation - Link List - Education and training - Compare GI Bill benefits by school` | This section was accidentally live for a few days in Prod so we already see GA activity for it. |
 | Check your BI Bill Statement of Benefits | https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/ | `Navigation - Link List - Education and training - Check your GI Bill Statement of Benefits` | I see this event being tracked in Staging, this section was also live in Prod accidentally for a few days so we can already see activity from it |
