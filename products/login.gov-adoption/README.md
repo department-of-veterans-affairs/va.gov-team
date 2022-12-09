@@ -41,5 +41,6 @@ December 2022 - 2023
 |Content Strategist|Carl Dickson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Sr. Product Manager|Anthony Levin-Decanini|TBD|
+|Sr.UX Designer/IxD|TBD|TBD|
 |Full Stack Developer|TBD|TBD|
 |Full Stack Developer|TBD|TBD|
