@@ -6,7 +6,8 @@ Date: 11/23/2022
 
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-*[Link to research readout deck will be added]*
+- [Discovery phase readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/2022.12.06%20-%20discovery%20sprint%208%20readout.pdf)
+- VA Platforms Monday research readout deck will be added soon
 
 ## Research goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
@@ -282,8 +283,9 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 ## Other supporting documents created
 
-*[Link to service blueprint will be added]*
-<br> *[Link to research readout deck will be added]*
+- [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/service%20blueprint_login.gov%20migration%20pathways.pdf)
+- [Discovery phase readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/2022.12.06%20-%20discovery%20sprint%208%20readout.pdf)
+- VA Platforms Monday research readout deck will be added soon
 
 ## Secondary research
 
