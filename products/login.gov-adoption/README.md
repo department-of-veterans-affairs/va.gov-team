@@ -10,6 +10,24 @@
 ### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
 ### [Product outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
 
+### Implementation team
+December 2022 - 2023
+
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
+|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
+|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
+|Content Strategist|Carl Dickson|carl@themostudio.com|
+|UX Designer|Carolyn Williams|carolyn@themostudio.com|
+|Senior Product Manager|Anthony Levin-Decanini|TBD|
+|Senior Interaction Designer|TBD|TBD|
+|Full Stack Developer|TBD|TBD|
+|Full Stack Developer|TBD|TBD|
+
 ### Discovery team
 August - December 2022
 
@@ -26,21 +44,3 @@ August - December 2022
 |Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-
-### Implementation team
-December 2022 - 2023
-
-|Role|Assigned|Contact|
-|:---:|:---:|:---:|
-|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
-|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
-|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
-|Content Strategist|Carl Dickson|carl@themostudio.com|
-|UX Designer|Carolyn Williams|carolyn@themostudio.com|
-|Sr. Product Manager|Anthony Levin-Decanini|TBD|
-|Sr.UX Designer/IxD|TBD|TBD|
-|Full Stack Developer|TBD|TBD|
-|Full Stack Developer|TBD|TBD|
