@@ -101,7 +101,7 @@ Cohort 7-12: Family members/Caregivers
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|Cohort 11|Cohort 12|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |         |         |
+|*Various*       |            |   6    |   6    |   6    |     6  |      6 |  6     |    8   |   8    |    8   |   8     |    8    |     8   |
 |Male            |            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |     1   |     1   |
 |Female          |            |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |         |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |         |         |
@@ -126,7 +126,7 @@ Cohort 7-12: Family members/Caregivers
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |         |         |            
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |  ---    | ---     |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |   5    |    5   |   5    |    5   |   5    |  5     |   5    |    5   |    5   |    5    |    5    |     5   |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
@@ -134,13 +134,13 @@ Cohort 7-12: Family members/Caregivers
 |55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |   9    |   9    |   9    |        |        |        |         |
 |*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
 |Disability      |            |        |        |        |        |        |        |        |        |        |         |
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |  9     |   9    |    9   |    0   |  0     |  0     |        |        |        |         |
+|Healthcare      |            |  9     |   9    |    9   |    X   |  X     |  X     |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -158,17 +158,17 @@ Cohort 7-12: Family members/Caregivers
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |        |         |
-|Elementary      |            |        |        |        |   1    |        |        |        |        |        |  1      |        |         |
-|Intermediate    |            |        |        |   1    |        |   1    |        |        |        |   1    |         |   1    |         |
-|GED             |            |        |   1    |        |        |        |    1   |        |   1    |        |         |        |    1    |
-|High School     |            |   1    |        |        |        |        |        |   1    |        |        |         |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
-|Professional    |            |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |   8    |   8    |    8   |   8    |   8    |    8   |   8    |    8   |   8    |    8    |   8    |     8   |
+|Elementary      |            |        |        |        |        |        |        |        |        |        |         |        |         |
+|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |        |         |
+|GED             |            |        |        |        |        |        |        |        |        |        |         |        |         |
+|High School     |            |        |        |        |        |        |        |        |        |        |         |        |         |
+|Some College    |            |  X     |   X    |    X   |   X    |  X     |   X    |    X   |   X    |   X    |   X     |    X   |   X     |  
+|Associate's     |            |  X     |   X    |    X   |   X    |   X    |   X    |    X   |   X    |  X     |   X     |    X   |   X     |
+|Bachelors       |            |  X     |   X    |    X   |   X    |  X     |   X    |    X   |   X    |  X     |   X     |    X   |   X     | 
+|Masters         |            | X      |   X    |    X   |   X    |  X     |   X    |    X   |   X    |    X   |   X     |    X   |   X     |
+|Professional    |            |  X     |   X    |    X   |   X    | X      |   X    |    X   |   X    |   X    |   X     |    X   |   X     |
+|Doctoral        |            |  X     |   X    |    X   |   X    |   X    |   X    |    X   |   X    | X      |   X     |    X   |   X     |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
@@ -284,9 +284,13 @@ Cohort 7-12: Family members/Caregivers
 
 We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by December 9. 
 
+### Kick off meeting with Perigean
+
+We request to have a kick off meeting with Perigean 12/12/2022 or as soon as possible.
+
 ### Research sessions
 
-The tree tests will be open for two weeks, with the starting date December 12.
+The tree tests will be open for two weeks, with the starting date December 19, 2022.
 
 ### Length of session
 
