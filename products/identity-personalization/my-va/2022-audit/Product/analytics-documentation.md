@@ -24,11 +24,11 @@ More information on notifications analytics can be found [here](https://github.c
 ### Claims and appeals
 - Current Analytics: 
 
-| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
-| ---- | ---- | ---- | ---- | ---- |
-| Unsure | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | Need updated event | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked |
-| View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | Needs updated event | #2 |
-| N/A | Learn how to file a claim | N/A | Needs new event | I see `profile-navigation - view link - learn how to file a claim` being tracked in Staging, but this is a new link |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** | Staging User (for testing) |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Manage all claims and appeals | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | `profile - navigation - view link - view manage claims and appeals` | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked | User 14 |
+| View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | No action needed now - could update the tag eventually to be consistent with naming | #2 | user 14 |
+| N/A | Learn how to file a claim | N/A | Needs new event | I see `profile-navigation - view link - view how to file a claim` being tracked in Staging | User 11 |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
