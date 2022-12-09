@@ -120,7 +120,7 @@ Note: we need to get these numbers from VA Profile.
   
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|# of people with the bad address indicator|TBD|TBD|TBD|  
+|# of people with the bad address indicator|554,093 (as of 10/12/22)|TBD|TBD|  
 
 </details>
 
