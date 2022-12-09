@@ -173,8 +173,8 @@ This is the personal information we have on file for you.
 
 _Error_
 
-#### We are missing personal information required for this form
-You need to provide some personal information before you can fill out this form. Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+#### We are missing some personal information
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ---
 ## Step 1 of 4: Veteran information
@@ -806,8 +806,7 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 Not enough PII to proceed with form:
 
 #### We are missing some personal information
-
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 PDF upload errors (be sure we help them recover):
 
