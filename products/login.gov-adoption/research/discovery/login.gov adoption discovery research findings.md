@@ -238,7 +238,7 @@ Frustrating past experience with helplines, in general, makes Veterans hesitant 
 
 > "The people [on one helpline] are not compassionate, they give me generic answers that aren't useful. They can be condescending, rude, talking over me, and argue." Participant 10, Veteran Interview
 
-People expect identity proofing in-person to take around 5 to 10 minutes.
+Veterans expect identity proofing in-person to take around 5 to 10 minutes.
 
 > "You keeping me longer at my appointment is keeping me away from making more money. If I'm expecting an appointment to already be 2 hours long, 2.5 hours is not acceptable. Because I have to go back to work."
 
