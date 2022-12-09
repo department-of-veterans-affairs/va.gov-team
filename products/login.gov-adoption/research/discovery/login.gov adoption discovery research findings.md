@@ -226,7 +226,7 @@ Knowing that quality, dedicated help is available makes Veterans more willing to
 
 ## Additional insights
 
-Passwords represent the biggest point of friction in ongoing use of a login credential. Veterans find passwords difficult to remember, particularly if they are required to update them often. They end up losing access to their My HealtheVet accounts (or having them deactivited) due to an inability to login.
+Passwords represent the biggest point of friction in ongoing use of a login credential. Veterans find passwords difficult to remember, particularly if they are required to update them often. They end up losing access to their My HealtheVet accounts (or having them deactivated) due to an inability to login.
 
 > "This is a problem I have with My HealtheVet, you can't use your previous password so you have to make [a new] one up. It's a big pain to reset and then try to remember. In fact, right now, I'm not sure of my password." Participant 12, Veteran Intercept
 
