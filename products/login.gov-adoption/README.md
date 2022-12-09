@@ -1,4 +1,4 @@
-# Login.gov Adoption at a glance
+# Login.gov Adoption at a glance 
 
 ## Where to find us 
 
