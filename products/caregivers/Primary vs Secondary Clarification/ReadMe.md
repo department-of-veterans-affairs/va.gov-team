@@ -118,6 +118,7 @@ Data source - Contact Center feedback?
 - **Value Risks** (will people use it): 
   - There is a risk that the content changes will not be sufficient, and applicants will still have difficulty determining the difference between the Primary and Secondary Caregiver roles and benefits
   - There is a risk that the clarification will not improve the abandonment rate and/or duplicate applications
+  - There is a risk that applicants will be overwhelmed by the amount of information displayed and will not read it, leading to continued inaccuracy or duplicative information.
 - **Usability Risks** (can people figure out how to use it):
   - There is a risk that, due to lack of clarity, applicants may not know how to complete the application accurately
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
