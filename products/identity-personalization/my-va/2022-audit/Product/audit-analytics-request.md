@@ -1,6 +1,6 @@
 ## My VA Audit Analytics Request
 
-### Updated on December 7, 2022
+### Updated on December 9, 2022
 
 ## Events to be tracked
 
