@@ -11,7 +11,7 @@
 
 Each PR on `vets-website` will run through an automated process which looks for code additions/modifications
 which could be considered bad for the platform.  If a potential issue is found, a bot will leave an
-automated comment and request a review from the **platform-release-tools**.
+automated comment and request a review from the **va-platform-cop-frontend**.
 
 ## Triggers
 
