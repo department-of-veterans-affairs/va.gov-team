@@ -11,11 +11,22 @@ ________________________________________________________________________________
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
 - [Content updates in sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50502)
+- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - ??
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Determine feasibility of url shortener expansion
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
+- [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Implement the new simplified header & footer
+- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
+    - Refactor error pages to make them less opaque
+    - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - ??????
+- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - SPIKE
 - CIE Tech Debt & Bugs
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
@@ -27,7 +38,7 @@ ________________________________________________________________________________
 
 #### Analytics Sprint Goals 
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
-- [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
+- DONE [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
 - DONE [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 
 #### UX Sprint Goals 
