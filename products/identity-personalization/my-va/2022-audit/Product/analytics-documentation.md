@@ -28,7 +28,7 @@ More information on notifications analytics can be found [here](https://github.c
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Manage all claims and appeals | Manage all claims and appeals | `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` | `profile - navigation - view link - view manage claims and appeals` | #1 interaction, this is a top interaction in GA but when clicking on "manage claims and appeals" in Staging I see the GA event `Profile-Navigation-view link - view manage claims and appeals` being tracked | User 14 |
 | View Claim? | Review Details | `Dashboard- Navigation- View Button - View Claim` | No action needed now - could update the tag eventually to be consistent with naming | #2 | user 14 |
-| N/A | Learn how to file a claim | N/A | Needs new event | I see `profile-navigation - view link - view how to file a claim` being tracked in Staging | User 11 |
+| N/A | Learn how to file a claim | N/A | I see `profile-navigation - view link - view how to file a claim` being tracked in Staging | N/A | User 11 |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
@@ -51,15 +51,15 @@ More information on notifications analytics can be found [here](https://github.c
 ### Health care
 - Potential links to track: 
 
-| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
-| ---- | ---- | ---- | ---- | ---- |
-| N/A | Apply for VA health care | N/A | TBD | N/A |
-| Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | #28 |
-| Send a secure message to your health care team | Send a secure message to your health care team | Need to verify - `Navigation - Link List - Health care - View your messages` | `Navigation - Link List - Health care - Send a secure message to your health care team` | #7 |
-| Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 |
-| Request travel reimbursement | N/A | `Navigation - Link List - Health care - Request travel reimbursement` | N/A | #16 |
-| Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | `Navigation-Link List-Health care - Get your VA medical records and lab and test results`| #21 |
-| View your messages | Review your messages | `Navigation - Alert Box - Link click - warning -- (not set) - view your messages`| TBD | #14 |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** | Staging User (for testing) |
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| N/A | Apply for VA health care | N/A | `Navigation - Link List - Health care - Apply for VA Health care` | N/A | User 272 |
+| Schedule and view your appointements | Schedule and manage your appointments | `Navigation - Link List - Heatlh care - Schedule and view your appointments`| `Navigation - Link List - Heatlh care - Schedule and manage your appointments` - this is showing in staging | #28 | User 15 |
+| Send a secure message to your health care team | Send a secure message to your health care team | `Navigation - Link List - Health care - View your messages` | N/A - we can update the tag eventually but no action needed at this time | #7 | User 15 |
+| Refill and track your prescriptions | N/A | `Navigation - Link List - Health care - Refill and track your prescriptions` | N/A | #9 | user 15 |
+| Request travel reimbursement | N/A | `Navigation - Link List - Health care - Request travel reimbursement` | N/A | #16 | user 15 |
+| Get your VA medical records| Get your VA medical records and lab and test results | `Navigation-Link List-Health care-Get your VA medical records` | No action needed right now but could eventually update the tag | #21 | user 15 |
+| View your messages | Review your messages | `Navigation - Alert Box - Link click - warning -- (not set) - view your messages` ? | `Navigation - Link List - Health care - Review your messages` - this is showing in staging | #14 | user 41 |
 
 <details>
   <summary>No Healthcare (New version):</summary>
