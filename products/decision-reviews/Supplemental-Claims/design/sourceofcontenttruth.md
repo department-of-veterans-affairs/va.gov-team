@@ -149,6 +149,8 @@ Privacy Act Statement
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 
+_Error_
+
 ---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
@@ -803,9 +805,9 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 
 Not enough PII to proceed with form:
 
-#### We are missing personal information required for this form
+#### We are missing some personal information
 
-You need to provide some personal information before you can fill out this form. Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 PDF upload errors (be sure we help them recover):
 
@@ -901,7 +903,7 @@ Private evidence
     
     overMaxLength: max => `You can enter a maximum of ${max} characters`,
 
-### Inline errors we've already worked on:
+Other
 
     invalidDate: You must provide a date
 
