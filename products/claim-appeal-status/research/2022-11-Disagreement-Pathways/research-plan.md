@@ -46,6 +46,8 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 - Is there anything else you would do at this point (doesn’t need to be on VA.gov)?
 
 
+<img width="216" alt="Screen Shot 2022-12-09 at 10 16 39 AM" src="https://user-images.githubusercontent.com/95102058/206734314-6ebfc15c-6a6c-4712-927a-f821f8069868.png">
+
 
 ### Hypothesis
 Our hypothesis includes a few elements: 
@@ -96,15 +98,18 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 We would like to recruit 20 Veterans with the goal of successfully completing at least 10 sessions. 
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+We are primarily looking for Veterans who have experience with the appeals process for disability compensation claims. Participants must be able to speak to their appeals process, so ideally it has happened in the last ~5 years, or they are curently in the process of appealing a claim. 
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+> Question for recruits: "In the last 10 years, have you appealed a disability compensation claim decision?"
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
+If possible, we would like some representation from the following underrepresented groups: 
+
+- Primarily mobile users
+- Veterans in a rural area
+- Veterans without a degree
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -113,11 +118,11 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
 - 1 hour sessions
