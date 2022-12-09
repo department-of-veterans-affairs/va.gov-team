@@ -103,8 +103,6 @@ We are primarily looking for Veterans who have experience with the appeals proce
 
 > Question for recruits: "In the last 10 years, have you appealed a disability compensation claim decision?"
 
-**Secondary criteria (nice-to-haves)**
-
 If possible, we would like some representation from the following underrepresented groups: 
 
 - Primarily mobile users
