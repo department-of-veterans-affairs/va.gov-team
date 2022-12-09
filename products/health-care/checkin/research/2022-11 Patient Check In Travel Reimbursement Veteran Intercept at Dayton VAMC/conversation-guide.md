@@ -57,16 +57,14 @@ Okay. You can get started by using the check in poster.
 
 *If they answered “Yes” to file a travel reimbursement claim:* 
 
-- And, how would you rate how easy or difficult it was to file a travel reimbursement claim during your check in on a scale of 1 to 5, where 1 it was difficult and 5 it was easy? 
-     - Why did you choose this rating?
-     - What would you change or add to make it easier for you? 
-- How would you rate how easy or difficult it was to understand what to do next after completing your check in (e.g., understanding the status of your travel reimbursement claim and your appointment check in) on a scale of 1 to 5, where 1 it was difficult and 5 it was easy?
-     - Why did you choose this rating? 
-     - What would you change or add to make it easier to understand? 
+- And, how easy or difficult was it to file a travel reimbursement claim during your check in?
+- Why did you choose this rating?
+- What would you change or add to make it easier for you? 
+- How easy or difficult was it to understand what to do next after completing your check in? E.g., understanding the status of your travel reimbursement claim and your appointment check in.
+- Why did you choose this rating?
+- What would you change or add to make it easier to understand? 
 - Was it clear or confusing to check in for an appointment and submit a travel reimbursement claim at the same time?
-- How would you rate how well or not so well filing a travel reimbursement claim during your appointment check in met your expectations on a scale of 1 to 5, where 1 it did not meet your expectations and 5 it did meet your expectations. 
-     - Why did you choose this rating? 
-- Would you change or add anything to improve filing a travel reimbursement claim during check in? E.g., edit the address, upload receipts, file later, etc.  
+- And, would you change or add anything to improve filing a travel reimbursement claim during the check in process? E.g., editting your address, uploading receipts, filing later, etc.  
 
 *If they answered “No” to file a travel reimbursement claim:*
 
