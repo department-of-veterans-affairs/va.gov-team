@@ -165,10 +165,10 @@ More information on notifications analytics can be found [here](https://github.c
 ### Saved applications
 - Previously the "Apply for Benefits" section:
 
-| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
-| ---- | ---- | ---- | ---- | ---- |
-| What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | Do we want to change the tag at all to be consistent with new section header? (Saved apps) | #15 | 
-| Continue your application | Same as old one | `Dashboard - Navigation - Continue Button - `| Do we want to update this at all? | #22 |
+| **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** | Staging User (for testing) |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| What Benefits does VA offer? | Same as old one | `Additional Info - Expand - What benefits does VA offer?` | No updates at this time but could eventually be changed to be consistent with naming | #15 | User 272 |
+| Continue your application | Same as old one | `Dashboard - Navigation - Continue Button - `| No updates at this time | #22 | User 272 |
 
 <details>
   <summary>Saved applications section:</summary>
@@ -183,9 +183,9 @@ More information on notifications analytics can be found [here](https://github.c
 
 | **Old Link** | **New Link** | **Current GA Event** | **New GA Event** | **Ranking (Month of Nov)** |
 | ---- | ---- | ---- | ---- | ---- |
-| Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A | #11 |
-| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | Should we update this event? | Need to verify that this is the right event, I do not see any events being tracked in Staging |
-| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | May want to update the tag since it is under a new section/renamed | #24 |
+| Verify your Identity | Same as old one | `Navigation - Alert Box - Link Click - continue - Verify your identity to access more VA.gov tools and features - (not set) - Verify your identity` | N/A - no updates at this time but could eventually be changed to have consistent naming | #11 |
+| How will Va.gov verify my identity? | Learn how to verify your identity on Va.gov | `Navigation - Jumplink Click - How to verify your identity on Va.gov` | May need a new event for this | Need to verify that we are not currently tracking this, I do not see any events being tracked in Staging |
+| Learn how to apply for VA educational benefits | Same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Education` | No action at this time - May want to update the tag eventually for consistent naming | #24 |
 | Learn how to file a disability claim | same as old one | `Dashboard - Navigation - View Link - Recommendations: File a disability claim` | N/A | #32 |
 | Learn how to apply for VA health care | same as old one | `Dashboard - Navigation - View Link - Recommendations: Apply Now for Health care` | N/A | #35 |
 
