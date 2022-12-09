@@ -52,7 +52,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |:---|:---|
 |***When should proactive intervention encourage the creation of a Login.gov account?*** | |
 |Veterans go through extensive proofing when they apply for healthcare, so they should proactively set up their Login.gov accounts when getting their VHIC.|Definitely True|
-|Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium, so they should proactively set up their Login.gov accounts when they upgrade to Premium.|Definitely True|
+|Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium, so MHV Coordinators should proactively guide the CSP selection of Login.gov while assisting.|Definitely True|
 |Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.|Definitely True|
 |Combining with an appointment reminder will make it convenient for Veterans.|Definitely True|
 |***What do Veterans find important or beneficial when choosing a login credential?***| |
@@ -78,13 +78,13 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |Frustration or issues using multi-factor authentication leads to an aversion of using VA digital services & My HealtheVet.|Likely False|
 |***Which multi-factor authentication options will allow more Veterans to migrate to Login.gov?***| |
 |Current multi-factor authentication options present challenges to Veterans with technology issues or disabilities.|Likely True|
-|Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Definitely True|
-|Security keys might be easier for Veterans to use.|Likely True|
+|Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Likely True|
+|Security keys might be easier for Veterans to use.|Not information information|
 |A security key could be a useful backup option, if Veterans are encouraged to set up more than one multi-factor authentication option.|Definitely True|
 |Security keys can be useful for homeless Veterans, to access services at a library for example.|Not enough information|
 |***How can MFA support non-Veterans who need access to parts of a Veterans’ information?***| |
 |Security keys will provide benefits for managing caregiver access security.|Likely True|
-|It helps that the person being cared for can see that their caretaker is using the security key.|Likely True|
+|It helps that the person being cared for can see that their caretaker is using the security key.|Not information information|
 |***Which non-Veteran users would Veterans choose to set up access for, when and why?***| |
 |Veterans will choose to set up access for their caretakers or family members if they're currently being cared for.|Definitely True|
 |If Veterans are not currently being cared for or don't need assistance yet, they will need to be convinced of reasons to set up shared access.|Definitely True|
@@ -226,6 +226,10 @@ Knowing that quality, dedicated help is available makes Veterans more willing to
 
 ## Additional insights
 
+Passwords represent the biggest point of friction in ongoing use of a login credential. Veterans find passwords difficult to remember, particularly if they are required to update them often. They end up losing access to their My HealtheVet accounts (or having them deactivated) due to an inability to login.
+
+> "This is a problem I have with My HealtheVet, you can't use your previous password so you have to make [a new] one up. It's a big pain to reset and then try to remember. In fact, right now, I'm not sure of my password." Participant 12, Veteran Intercept
+
 Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
 
 > "I use ID.me because I get shopping kickbacks. There's an incentive with ID.me, but I don't really see a benefit when it comes to Login.gov." Participant 5, Veteran Interview
@@ -234,7 +238,7 @@ Frustrating past experience with helplines, in general, makes Veterans hesitant 
 
 > "The people [on one helpline] are not compassionate, they give me generic answers that aren't useful. They can be condescending, rude, talking over me, and argue." Participant 10, Veteran Interview
 
-People expect identity proofing in-person to take around 5 to 10 minutes.
+Veterans expect identity proofing in-person to take around 5 to 10 minutes.
 
 > "You keeping me longer at my appointment is keeping me away from making more money. If I'm expecting an appointment to already be 2 hours long, 2.5 hours is not acceptable. Because I have to go back to work."
 
@@ -244,20 +248,20 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 
 ## Recommendations
 
-* Explain the need for Login.gov set up through consistent, contextual reminders and emphasizing ease and help.
-* Help Veterans understand their role in ensuring continued access to VA benefits online and protecting fellow Veterans data.
+* Explain the need for Login.gov setup through consistent, contextual reminders and emphasis on help and ease.
+* Help Veterans understand their role in ensuring continued access to VA services and protecting fellow Veterans.
 * Make it easy to bundle identity proofing with existing appointments.
 * Provide in-person support with account creation and use, including identity proofing in-person.
 * Help Veterans become familiar with Login.gov by making it an obvious default.
 * Recommend multi-factor authentication options that are appropriate and meet each Veterans' specific needs.
 * Encourage Veterans to set up shared access early and help them review it often so they stay in control of their information.
-* Provide dedicated, supportive help at every step and reaching out to those who are struggling.
+* Provide dedicated, supportive help at every step and reach out to those who struggle with setup or use.
 
 ## Next steps
 
-* Develop a roadmap and implementation for this program of work
+* Develop a roadmap and implementation plan for this program of work
 * Plan future research studies to build on learnings
-<br> *[Link to research readout deck will be added]*
+* [Link to research readout deck will be added]
 
 ## Further research
 

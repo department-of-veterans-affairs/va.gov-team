@@ -1,9 +1,9 @@
-# Login.gov Adoption at a glance
+# Login.gov Adoption at a glance 
 
 ## Where to find us 
 
 - GitHub Label: login.gov-adoption  
-- Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
+- DSVA Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
 
 ## General team overview
 
@@ -17,7 +17,7 @@ December 2022 - 2023
 |:---:|:---:|:---:|
 |DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
 |Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
@@ -41,6 +41,6 @@ August - December 2022
 |Senior UX Designer|Bri Mazzio|briana.mazzio@frog.co|
 |Senior Strategist|Marissa Klein|marissa.klein@frog.go|
 |Visual Designer|Paul Knipper|paul.knipper@frog.go|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
