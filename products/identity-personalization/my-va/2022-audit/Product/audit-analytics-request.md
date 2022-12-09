@@ -23,7 +23,9 @@
 
 | **Link** | **URL** | **GA Event** | **Notes** |
 | ---- | ---- | ---- | ---- |
-| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Needs new GA event | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging  |
+| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Needs new GA event | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging, can we confirm this is the right event? |
+| Schedule and manage your appointments | https://va.gov/health-care/schedule-view-va-appointments/appointments | `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | can we confirm this is the new event? This link previously existed but was renamed |
+| Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | `Navigation - Link List - Health care - Review your messages` | can we confirm this is the new event? This link previously existed but was renamed |
 
 
 <details>
@@ -48,5 +50,19 @@
   <br>
   
 <img width="591" alt="Screen Shot 2022-12-01 at 11 32 13" src="https://user-images.githubusercontent.com/97113607/205107835-cb009bb5-2a2e-40b7-9aa5-d598a6735f52.png">
+  
+  </details>
+  
+  ### LOA1 User 
+  
+  | **Link** | **URL** | **GA Event** | **Notes** |
+  | ---- | ---- | ---- | ---- |
+  | Learn how to verify your identity on Va.gov | https://www.va.gov/resources/verifying-your-identity-on-vagov/ | Unsure | This link previously existed however it was renamed and I cannot find any old or new events being tracked for this link. We may need to create one |
+  
+  <details>
+  <summary>New LOA1 Design:</summary>
+  <br>
+  
+<img width="520" alt="Screen Shot 2022-12-01 at 11 58 54" src="https://user-images.githubusercontent.com/97113607/205113785-a9874cbe-6e4d-411c-bf44-a26a4baea71b.png">
   
   </details>
