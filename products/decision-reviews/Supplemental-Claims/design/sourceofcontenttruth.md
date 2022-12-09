@@ -847,11 +847,11 @@ Issues
 
     missingIssue: You must add an issue
 
-    uniqueIssue: You must enter a condition name you haven't already entered (Is the use case here that they've already entered PTSD and they enter that again? I edited with that assumption, but we should revisit this one if that's not the use case!)
+    uniqueIssue: You must enter a condition you haven't already entered
 
     maxLength: You can enter a maximum of 140 characters
 
-    invalidDate: You must provide a valid date (What do we mean by this? A date in the past? But I see that below... I'd like to be more specific that "valid.")
+    invalidDate: You must provide a date that includes a month, day, and year
 
     missingDecisionDate: You must enter a decision date
 
@@ -869,9 +869,9 @@ Decisions
   
 VA evidence
 
-    pastDate: 'You must add a past location date', (I'm not understanding this one. What does it mean?) 
+    pastDate: 'You must add a past treatment date',
     
-    newerDate: 'You must add a more recent location date', (This one too--what does it mean?)
+    newerDate: 'You must add a more recent treatment date',
     
     missing: 'You must include at least 1 type of supporting evidence',
     
@@ -879,15 +879,15 @@ VA evidence
     
     locationMaxLength: 'You can enter a maximum of 255 characters',
     
-    issuesMissing: 'You must select 1 or more conditions (double-check)',
+    issuesMissing: 'You must select 1 or more conditions',
     
-    unique: 'You must enter a location you haven't already entered', (same question as above--is this accurate the way I've edited?)
+    unique: 'You must enter a location you haven't already entered',
 
 Private evidence
 
     facilityMissing: 'You must add a provider or facility name',
     
-    authorizationRequiredError: 'You'll need to acknowledge this release of information', (this one seemed like it needed to be gentler language so I varied from "must" here)
+    authorizationRequiredError: 'You'll need to authorize this release of information', (might be duplicate)
       
     country: 'You must choose a country',
     
