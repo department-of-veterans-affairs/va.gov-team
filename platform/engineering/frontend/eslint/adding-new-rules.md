@@ -72,7 +72,7 @@ All rules under review will always be considered to become enforced. However, ba
 
 ## Feedback
 
-VFS are encouraged to provide feedback from any rule that is under review. To do so, please use the tag `@platform-release-tools` or message any of the release tools team members in Slack and provide us with your feedback.
+VFS are encouraged to provide feedback from any rule that is under review. To do so, please use the tag `@va-platform-cop-frontend` or message any of the release tools team members in Slack and provide us with your feedback.
 
 ## Revision History
 

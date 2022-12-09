@@ -51,7 +51,7 @@ Support requests include every interaction you have with a VSF team member. Even
 
 ### Pull requests 
 
-Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/platform-release-tools more than 24 hours for a response. This includes follow-ups to reviews. 
+Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/va-platform-cop-frontend more than 24 hours for a response. This includes follow-ups to reviews. 
 
 ### Oncall support
 
