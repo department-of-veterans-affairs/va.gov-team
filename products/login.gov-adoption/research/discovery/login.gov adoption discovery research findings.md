@@ -52,7 +52,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |:---|:---|
 |***When should proactive intervention encourage the creation of a Login.gov account?*** | |
 |Veterans go through extensive proofing when they apply for healthcare, so they should proactively set up their Login.gov accounts when getting their VHIC.|Definitely True|
-|Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium, so they should proactively set up their Login.gov accounts when they upgrade to Premium.|Definitely True|
+|Many Veterans choose to use in-person proofing to upgrade their My HealtheVet account to Premium, so MHV Coordinators should proactively guide the CSP selection of Login.gov while assisting.|Definitely True|
 |Offering an in-person proofing option will increase the adoption of Login.gov for those who aren't able to set it up themselves online.|Definitely True|
 |Combining with an appointment reminder will make it convenient for Veterans.|Definitely True|
 |***What do Veterans find important or beneficial when choosing a login credential?***| |
@@ -78,13 +78,13 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |Frustration or issues using multi-factor authentication leads to an aversion of using VA digital services & My HealtheVet.|Likely False|
 |***Which multi-factor authentication options will allow more Veterans to migrate to Login.gov?***| |
 |Current multi-factor authentication options present challenges to Veterans with technology issues or disabilities.|Likely True|
-|Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Definitely True|
-|Security keys might be easier for Veterans to use.|Likely True|
+|Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Likely True|
+|Security keys might be easier for Veterans to use.|Not information information|
 |A security key could be a useful backup option, if Veterans are encouraged to set up more than one multi-factor authentication option.|Definitely True|
 |Security keys can be useful for homeless Veterans, to access services at a library for example.|Not enough information|
 |***How can MFA support non-Veterans who need access to parts of a Veterans’ information?***| |
 |Security keys will provide benefits for managing caregiver access security.|Likely True|
-|It helps that the person being cared for can see that their caretaker is using the security key.|Likely True|
+|It helps that the person being cared for can see that their caretaker is using the security key.|Not information information|
 |***Which non-Veteran users would Veterans choose to set up access for, when and why?***| |
 |Veterans will choose to set up access for their caretakers or family members if they're currently being cared for.|Definitely True|
 |If Veterans are not currently being cared for or don't need assistance yet, they will need to be convinced of reasons to set up shared access.|Definitely True|
@@ -225,6 +225,10 @@ Knowing that quality, dedicated help is available makes Veterans more willing to
 > “I would walk away at this point unless someone is walking through [my password issues] on the phone with me." Participant 8, Veteran Interview
 
 ## Additional insights
+
+Passwords represent the biggest point of friction in ongoing use of a login credential. Veterans find passwords difficult to remember, particularly if they are required to update them often. They end up losing access to their My HealtheVet accounts (or having them deactivited) due to an inability to login.
+
+> "This is a problem I have with My HealtheVet, you can't use your previous password so you have to make [a new] one up. It's a big pain to reset and then try to remember. In fact, right now, I'm not sure of my password." Participant 12, Veteran Intercept
 
 Veterans choose to use ID.me because it helps them get access to discounts and other retail benefits. 
 
