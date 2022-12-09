@@ -49,11 +49,10 @@ Before we start, I want to mention a couple things:
 - Do you think that Veterans would be more likely to complete mobile check in by responding to 1 or 2 text messages versus the steps that they complete today? 
 - What do you think the preferred communication method is for Veterans when communicating about their health care? E.g., phone, text, email or mail. 
 - And overall, what would you change or add, if anything, to make the Patient Check-In (including pre-check-in) easier for Veterans? 
-- What would you change or add, if anything, to make VSE easier to use? 
 - How often are Veterans found waiting, thinking they’re checked in, when they’re not? 
 - What could be the cause of Veterans thinking they’re checked in? 
 - Overall, what’s been working well about Patient Check-In for Veterans? 
-- And finally, what’s been working well for staff?
+- And, what’s been working well about Patient Check-In for staff?
 
 ### Closing - Less than 1 minute 
 
