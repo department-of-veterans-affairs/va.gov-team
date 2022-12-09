@@ -22,8 +22,8 @@ Mural Board: https://app.mural.co/t/departmentofveteransaffairs9999/m/department
 OCTO-DE/DEPO:
 - Shane Elliot (VA OCTO-DE Lead)
 
-Program Management:
-- Jeff Langworthy (Coforma)
+Project Management:
+- Adrian Carroll (Coforma)
  
 Product Management:
 - Malak Janus, née Melissa Adamaitis (Coforma)
