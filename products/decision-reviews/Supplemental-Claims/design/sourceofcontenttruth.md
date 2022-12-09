@@ -326,7 +326,7 @@ You have VA medical records if you were treated at a VA medical center or clinic
 
 We'll save your application every time you add or update information.
 
-[IF yes:]
+[IF yes: VA Medical Records]
 
 
 **Which VA facility treated you?**
@@ -383,7 +383,7 @@ We’ve saved your current information.
 
 We'll save your application every time you add or update information.
 
-[PRIVATE medical records:]
+[If YES: PRIVATE medical records]
 
 **Would you like us to request your private medical records?** (*Required)
 
@@ -458,9 +458,6 @@ You must authorize the release of your medical records so we can get them direct
 
 We'll save your application every time you add or update information.
 
-
-[IF Private  medical records:]
-
 **Where did you receive treatment?** 
 
 We’ll request your private medical records from this provider or hospital.
@@ -519,8 +516,6 @@ We’ve saved your current information.
 
 We'll save your application every time you add or update information.
 
-IF PRIVATE  medical records:
-
 **Do you want to limit the information we can request?**
 
 If you want to limit what we can request from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability.) 
@@ -559,6 +554,8 @@ Supporting evidence can include private medical records or a buddy/lay statement
 ## STEP 3 of 4: New and relevant evidence
 
 We'll save your application every time you add or update information.
+
+[If YES Upload supporting evidence:]
 
 **Upload your supporting evidence** (*Required)
 
