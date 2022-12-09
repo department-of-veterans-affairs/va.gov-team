@@ -62,7 +62,7 @@ December 2022 - 2023
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
-|Content Strategist|Carl Dickson|carl@themostudio.com|
+|Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 
 ### When we work together
