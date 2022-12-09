@@ -37,7 +37,7 @@ Before we start, I want to mention a couple things:
 ### Section 1: Travel Reimbursement 
 
 - What feedback have Veterans had, if any, on how easy or difficult it is to file a travel reimbursement claim during eCheck-in?
-- What type of questions have you received from Veterans about filing travel reimbursement within eCheck-in? 
+- What type of questions have you received from Veterans about filing travel reimbursement during eCheck-in? 
 - And, how has the addition of travel reimbursement within eCheck-in impacted your work, if any? 
 - Would you change or add anything to improve the process for Veterans filing a travel reimbursement claim within eCheck-in?  
 - Do you think it would be helpful to Veterans if MSAs could submit a travel reimbursement claim for their appointment through VistA Scheduling Enhancements (VSE)? 
@@ -45,10 +45,10 @@ Before we start, I want to mention a couple things:
 
 ### Section 2: Product Feedback and Communication Preferences
 
-- Overall, what’s been the most confusing or difficult part about Patient Check-In (including Pre-check-in) for Veterans?
+- Overall, what’s been the most confusing or difficult part about Patient Check-In (including pre-check-in) for Veterans?
 - Do you think that Veterans would be more likely to complete mobile check in by responding to 1 or 2 text messages versus the steps that they complete today? 
 - What do you think the preferred communication method is for Veterans when communicating about their health care? E.g., phone, text, email or mail. 
-- And overall, what would you change or add, if anything, to make the mobile check in process easier for Veterans (including Pre-check-in)? 
+- And overall, what would you change or add, if anything, to make the Patient Check-In (including pre-check-in) easier for Veterans? 
 - What would you change or add, if anything, to make VSE easier to use? 
 - How often are Veterans found waiting, thinking they’re checked in, when they’re not? 
 - What could be the cause of Veterans thinking they’re checked in? 
