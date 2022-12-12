@@ -28,7 +28,13 @@ Claims and appeals information on VA.gov is currently supported by EVSS. However
 
 ### Profile team
 
-TBD, but likely finishing up accessibility work, adding email as a channel to notification preferences (may require research/exploration).
+#### Continue accessibility updates
+
+Unless a more immediate priority comes up.
+
+#### Maybe? Notification prefs design and research around adding email as a channel
+
+We know this will need to happen eventually, just not sure when. We could potentially get ahead of this by doing some research if there is otherwise project downtime.
 
 #### Update direct deposit for comp & pen section so it points to Lighthouse integration
 
@@ -37,6 +43,10 @@ Direct deposit for comp & pen information on VA.gov is currently supported by EV
 #### Add QuickSubmit notification preference
 
 Quick Submit is a platform that supports the claims application process and allows users to upload documents. With regards to notifications, they need a preference that allows them to opt-in and out of notifications as to whether there is a new letter to view in the Quick Submit app. This is a text notification, so this should be easy for us to support with our existing VA Profile integration. We'll work with them to support this preferernce on VA.gov. 
+
+#### Maybe?? Military info discovery research
+
+Look into adding more robust military information to the profile. This could support PACT Act by elevating deployment location, though we won't have access to exposure data.
 
 ### Either team
 
