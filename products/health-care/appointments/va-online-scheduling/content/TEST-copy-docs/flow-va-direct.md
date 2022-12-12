@@ -100,61 +100,47 @@ TBD
 NEW APPOINTMENT
 ```
 
-### Multiple Clinics
-
 **PAGE HEADER**
 
 ```
 Choose a VA clinic
 ```
 
-**PAGE DESCRIPTION**
+**PAGE CONTENT**
+
+### State: Multiple Clinics
 
 ```
 In the last {number} months you’ve had {a/an} {type of care} appointment at the following {facility name} clinics:
-```
 
-**PAGE CONTENT**
-
-```
 Choose a clinic below or request a different clinic for this appointment. (*Required)
 
-- {Clinic name}
-- {Clinic name}
+(Option) {Clinic name}
+(Option) {Clinic name}
+(Option) {I need a different clinic}
 ```
 
----
-
-### Single Clinic
-
-**PAGE HEADER**
+### State: Single Clinic
 
 ```
-Make {a/an} (type of care} appointment at your last clinic
-```
-
-**PAGE DESCRIPTION**
-
-```
-Your last {type of care} appoinment was at {clinic name}:
+{Type of care} appoinments are available at {clinic name}:
 
 {facility name}
-
 {facility address}
 
-Main phone:
+Main phone: {phone number}(TTY: 711)
 
-{phone number}
-```
-
-**PAGE CONTENT**
-
-```
 Would you like to make an appointment at {clinic name}? (*Required)
 
-- Yes, make my appointment here
-- No, I need a different clinic
+(Option 1) Yes, make my appointment here
+(Option 2) No, I need a different clinic
 ```
+
+**NAVIGATION BUTTONS**
+
+```Back```
+
+```Continue```
 
 
 ## Choose a Desired Date
@@ -162,7 +148,9 @@ Would you like to make an appointment at {clinic name}? (*Required)
 
 **PAGE HEADER**
 
-```When do you want to schedule this appointment?```
+```
+When do you want to schedule this appointment?
+```
 
 **PAGE CONTENT**
 
@@ -186,23 +174,17 @@ NEW APPOINTMENT
 Choose a date and time
 ```
 
-**PAGE DESCRIPTION**
+**PAGE CONTENT**
+
+## State - Default
 
 ```
 Please select an available date and time from the calendar below. Appointment times are displayed in {time zone}.
-```
 
-**PAGE CONTENT**
 
 {Sunday-Saturday calendar}
-
-**PROGRESS BUTTONS**
-
-```Back```
-```Continue```
-
-
-#### Alert - Urgent Care - has slot
+```
+### State: Alert - Urgent Care - has slot
 
 ```
 Your appointment time
@@ -222,7 +204,7 @@ If you have an urgent medical need or need care right away:
 ```Request an earlier appointment OR Contact your local VA medical center```
 
 
-#### Alert - Urgent Care - no slot
+### State: Alert - Urgent Care - no slot
 
 ```
 We couldn't find an appointment for your selected date
@@ -236,7 +218,14 @@ If you have an urgent medical need or need care right away:
 - Call the Veterans Crisis hotline at 800-273-8255 and select 1 or
 - Go to your nearest emergency room or VA medical center
 ```
+
 ```Request an earlier appointment OR Contact your local VA medical center```
+
+
+**PROGRESS BUTTONS**
+
+```Back```
+```Continue```
 
 
 ## Reason for Appointment
@@ -285,17 +274,13 @@ NEW APPOINTMENT
 Confirm your contact information
 ```
 
-**PAGE DESCRIPTION**
-
-```
-We’ll use this information to contact you about your appointment. Any updates you make here will only apply to VA online appointment scheduling.
-```
-
 **PAGE CONTENT**
 
 ```
+We’ll use this information to contact you about your appointment. Any updates you make here will only apply to VA online appointment scheduling.
+
 Want to update your contact information for more VA benefits and services?
-Go to your VA profile
+(Link) Go to your VA profile
 
 Your phone number (*Required)
 
@@ -323,17 +308,13 @@ _in Page Content_
 Review your appointment details
 ```
 
-**PAGE DESCRIPTION**
+**PAGE CONTENT**
 
 ```
 You're scheduling a {type of care} appointment
 
 Make sure the information is correct. Then confirm your appointment. If you need to update any details, click Edit to go back to the screen where you entered the information. After you update your information, you'll need to go through the tool again to schedule your appointment.
-```
 
-**PAGE CONTENT**
-
-```
 VA APPOINTMENT
 
 {type of care}
