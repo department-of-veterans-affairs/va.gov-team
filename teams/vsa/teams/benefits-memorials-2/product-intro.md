@@ -503,7 +503,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
  - [SW Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_guide.md)
  
  **Design/Research:** 
- - [TBD]()
+ - [User Flow/Personas](https://miro.com/app/board/uXjVPGVVPXM=/?share_link_id=74837174266)
 
  
  **Engineering:** 
