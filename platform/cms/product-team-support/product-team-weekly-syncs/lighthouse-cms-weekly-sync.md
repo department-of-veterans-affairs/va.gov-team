@@ -14,11 +14,24 @@
 
 </details>
 
-## Monday, December 5, 2022 
+## Monday, December 12, 2022 
 * v1 status check
+  * About to lift code freeze
+  * Expanding database to address latency, considering putting in internal metrics to detect in the future
+  * Once green light is lifted - targeting this week - hopes to push through pipeline, 
+    * Step 1 - LH tells Facilites to push data - Fac team would refresh PR environment, 
+      Ie right now we only push Covid status.. we open that up and push to staging first, LH says 
+      https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4769
+      Facilites team - David, Jay, CHristian - assess issues that have waiting in the wings .
+    * What else is necessary to get v1 to go live (3 proposals to be discussed)  
+  * 4 or 5 staged groupings of code changes are waiting to go through, once the first one is pushed, have to work with Facilites team to flip the switch to push all the data, LH can handle the date, 
+  * Fac team has all data staged, ready to be pushed
+    * If not this week, then next year
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+  * Can't discuss with Adam absent - push to 19th
 * Erroneous CLOSE status, where'd it come from?
   * Swirt confirmed it was never CLOSED in CMS https://dsva.slack.com/archives/C02BTJTDFTN/p1669743015670409 
+* KBs to David, not addressed yet
 
 ## Monday, November 28, 2022 
 * v1 status check
