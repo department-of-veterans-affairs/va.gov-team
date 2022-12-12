@@ -45,10 +45,23 @@ What do people want to use their immunization records for:
 ### Immunizations section
 
 **When to show this section:**
-- When do users see immunization section in flow?  
+- When do users see immunization section in flow? 
+
+Bobby notes: should be close to meds/ allergies, because those are "together" conceptually in other patient portals. 
+Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
 **How to show this section:**
 - What should the screen look like? What information should be seen? What should be hidden? 
+
+1-2 things to show: 
+- Date received
+- Reactions
+
+Less important: 
+- Series
+- Facility name
+- Comments -> "View more" functionality
+    - Comments: if more than 50 characters, hide in "View More" functionality
 
 **Accessibility considerations:**
 
@@ -57,6 +70,7 @@ What do people want to use their immunization records for:
 
 
 **View vs. share vs. download considerations:**
+
 
 
 ## Questions to answer
@@ -71,4 +85,11 @@ What do people want to use their immunization records for:
 
 ## Additional notes
 
-- The legacy MHV allows users to contribute patient generated data (e.g., when users get a flu shot). This domain represents an opportunity to determine the role of patient-generated health data (PGHD). While incorporating PGHD is not feasible in the MVP, this represents a backlog feature in which we might enable integration with other systems to pull in data (e.g., from a CVS pharmacy where users obtain vaccines) or in which users might contribute data.  
+- The legacy MHV allows users to contribute patient generated data (e.g., when users get a flu shot). This domain represents an opportunity to determine the role of patient-generated health data (PGHD). While incorporating PGHD is not feasible in the MVP, this represents a backlog feature in which we might enable integration with other systems to pull in data (e.g., from a CVS pharmacy where users obtain vaccines) or in which users might contribute data. 
+- Differentiate between overdue and not overdue immunizations -> current Blue Button only shows when was last shot, but not what's overdue. This was requested by a couple participant as a useful feature. Would it be possible? -> technical implications? (ask Eric)
+- Separate immunizations into preventive records - flu, etc. Wonder if something missing - grouping immunizations into preventive care? Preventive care has overdue, not due; in Immunization section, has list of immunizations gotten. 
+    - Preventive care - ongoing (if overdue) - cues to action here
+    - Immunization - complete list of all immunizations
+    - Our suggestion: keep all immunizations together, but have section that flags overdue shots
+
+- Bobby: Gave too much info at once in previous work. Want to figure out 1-2 most important things. Inside page - have COVID, on COVID card, says when it was done. If need more details, click - see facility, etc. Less important info. When BB created - put emphasis on doctors, facilites, and veterans - not solely focus on Veterans. Veterans provided feedback but TMI. 
