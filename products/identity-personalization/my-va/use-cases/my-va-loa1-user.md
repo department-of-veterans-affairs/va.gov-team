@@ -4,9 +4,9 @@ Last updated: November 2, 2022
 A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov are immediately prompted to verify their identity on My VA. 
 
 ## UX
-- When an LOA1 user signs in, they are automatically redirected to My VA. Until they have verified their identity they will see ...
-- Desktop mock-up - _needs link_
-- Mobile mock-up - _needs link_
+- When an LOA1 user signs in, they are automatically redirected to My VA. Until they have verified their identity, they will see a prompt on My VA to verify their identity and a section called "Apply for VA Benefits."
+- [Desktop mock-up](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
+- [Mobile mock-up](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
 
 ## How to reproduce
 1. Log into staging with any LOA1 user. 
@@ -15,4 +15,4 @@ A user is considered "LOA1" when they log in to VA.gov and they have not verifie
    - DO NOT verify your identity on the ID.me side.  
    - Once created, log into Staging with that acct's email and password.
 2. Sign in with LOA1 credientials. 
-3. See the prompt on My VA to verify your identity. 
+3. See the prompt on My VA to verify your identity and a section to apply for VA benefits.
