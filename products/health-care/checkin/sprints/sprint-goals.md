@@ -9,12 +9,18 @@ ________________________________________________________________________________
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
-- [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
-- [Content updates in sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50502)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Fill out information for Design Intent
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - ??
+    - Create user flows
+    - Create wireframes
 - [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
     - Determine feasibility of url shortener expansion
+- CIE Tech Debt & Bugs
+    - [Content updates in sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50502)
+    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505)
+    - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743)
+    - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
@@ -24,7 +30,7 @@ ________________________________________________________________________________
     - Refactor error pages to make them less opaque
     - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - ??????
+    - SPIKE - Evaluate VAOS/Appt redesign to know if we can to percentage rollout
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - SPIKE
 - CIE Tech Debt & Bugs
