@@ -25,7 +25,7 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Implement the new simplified header & footer
+    - NOTE: I don't feel comfortable with the wireframes for this................
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
     - Refactor error pages to make them less opaque
     - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
