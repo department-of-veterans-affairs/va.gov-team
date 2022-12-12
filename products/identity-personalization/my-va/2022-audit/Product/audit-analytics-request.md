@@ -1,6 +1,6 @@
 ## My VA Audit Analytics Request
 
-### Updated on December 9, 2022
+### Updated on December 12, 2022
 
 ## Events to be tracked
 
@@ -57,7 +57,7 @@
   
   | **Link** | **URL** | **GA Event** | **Notes** |
   | ---- | ---- | ---- | ---- |
-  | Learn how to verify your identity on Va.gov | https://www.va.gov/resources/verifying-your-identity-on-vagov/ | Unsure | This link previously existed however it was renamed and I cannot find any old or new events being tracked for this link. We may need to create one |
+  | Learn how to verify your identity on Va.gov | https://www.va.gov/resources/verifying-your-identity-on-vagov/ | Unsure | This link previously existed however it was renamed and I cannot find any old or new events being tracked for this link. We may need to create one. |
   
   <details>
   <summary>New LOA1 Design:</summary>
