@@ -34,7 +34,10 @@ What do people want to use their immunization records for:
 - To prove you have been immunized (e.g., job requirements, travel requirements, COVID-specific requirements)
 - To identify, either alone or with an HCP, that you need or don't need an immunization (e.g., age-based immunizations; spacing between immunizations)
 
-**Use Cases**
+**Common Use Cases**
+
+
+**Edge Cases**
 
 
 ## UX considerations
