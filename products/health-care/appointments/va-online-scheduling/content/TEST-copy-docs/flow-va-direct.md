@@ -2,8 +2,6 @@
 
 ## Choose a VA Location
 
-### Multiple Facilities, Address on File
-
 **FORM TITLE**
 
 ```
@@ -16,89 +14,82 @@ NEW APPOINTMENT
 Choose a location
 ```
 
-**PAGE DESCRIPTION**
-
-```
-Here’s a list of VA facilities where you’re registered that offer {type of care} appointments. Locations closest to you are listed first.
-```
-
 **PAGE CONTENT**
 
-### Sorted by home address
+### State: Sorted by Home Address
 
 ```
-Facilities based on your home address:
+Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
 
-{User address}
+Sort facilities
 
-Or, use your current location
+(Dropdown box)
+(Option 1 - Default) By your home address
+(Option 2) By your current location
+(Option 3) Alphabetically
 
-Please select where you’d like to have your appointment. (*Required)
-```
-
-### Sorted by location
-
-```
-Facilities based on your location:
-
-Or, use your home address on file
-
-Please select where you’d like to have your appointment. (*Required)
-```
-
-
-### non-Cerner location
-```
+{Facility options}
 {Facility name}
-{Facility City, ST}
-{Distance} miles
+{City, ST}
+{####} miles
+(Link - Cerner sites only) Schedule online at My VA Health
+
+(Link) + {1-5} more locations
+
 ```
 
-### Cerner location
+### State: No Home Address on File
+
 ```
+Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
+
+Sort facilities
+
+(Dropdown box)
+(Option 1) By your current location
+(Option 2 - Default) Alphabetically
+
+Note: to show facilities near your home, add your residential address in your VA profile.
+
+{Facility options}
 {Facility name}
-{Facility City, ST}
-{Distance} miles
-Schedule online at My VA Health
+{City, ST}
+(Link - Cerner sites only)Schedule online at My VA Health
+
+(Link) + {1-5} more locations
 ```
 
-```
-+ {1-5} more locations
-```
----
-
-### Multiple Facilities, No Address on File
-
-**PAGE DESCRIPTION**
+### State: Can't Sort by Location
 
 ```
-Here's a list of VA locations where you’re registered that offer {type of care} appointments.
+Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
+
+Sort facilities
+
+(Dropdown box)
+(Option 1) By your home address
+(Option 2 - Selected) By your current location
+(Option 3) Alphabetically
+
+(Alert Box)
+(H)Your browser is blocked from finding your current location.
+
+Make sure your browser’s location feature is turned on.
+
+(Link) Retry searching based on current location
+(/Alert Box)
+
 ```
 
-**PAGE CONTENT**
+### State: Single Clinic
 
-```
-Please select where you’d like to have your appointment. (*Required)
-```
+TBD
 
-#### non-Cerner location
-```
-{Facility name}
-{Facility City, ST}
-```
+**NAVIGATION BUTTONS**
 
-#### Cerner location
-```
-{Facility name}
-{Facility City, ST}
-Schedule online at My VA Health
-```
+```Back```
 
-**PROGRESS BUTTONS**
-
-```BACK```
-
-```CONTINUE```
+```Continue```
 
 
 ## Choose a VA Clinic
@@ -183,8 +174,6 @@ Choose a date within the next 13 months for this appointment.
 
 ## Choose a Date
 
-### Direct
-
 **FORM TITLE**
 
 ```
@@ -252,8 +241,21 @@ If you have an urgent medical need or need care right away:
 
 ## Reason for Appointment
 
-(H1) Choose a reason for this appointment
+**FORM TITLE**
 
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Choose a reason for this appointment
+```
+
+**PAGE CONTENT**
+
+```
 Let us know why you’re making this appointment. (*Required)
 
 - This is a routine or follow-up visit.
@@ -267,6 +269,7 @@ Please provide any additional details you'd like to share with your provider abo
 - Call 911, or
 - Call the Veterans Crisis hotline at 800-273-8255 and select 1, or
 - Go to your nearest emergency room or VA medical center. (link) Find your nearest VA medical center
+```
 
 ## Contact Information
 
@@ -308,7 +311,7 @@ Your email address (*Required)
 ```BACK```
 ```CONTINUE```
 
-## Review Appointment Details Copy
+## Review Appointment Details
 
 **FORM TITLE**
 
