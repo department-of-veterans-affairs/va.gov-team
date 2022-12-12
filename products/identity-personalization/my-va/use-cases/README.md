@@ -11,9 +11,9 @@
 
 There are currently six sections on My VA for all LOA3 logged in users. These links go to the most recent use case documentation for each section:
 
-- [Claims and appeals use cases](Link TK)
-- [Health care use cases](Link TK)
-- [Outstanding debts use cases](Link TK)
-- [Benefit payments use cases](Link TK)
-- [Education and training use cases](Link TK)
-- [Saved applications use cases](Link TK)
+- [Claims and appeals use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases.md)
+- [Health care use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases.md)
+- [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases.md)
+- [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases.md)
+- [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases.md)
+- [Saved applications use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/saved-applications-use-cases.md)
