@@ -4,8 +4,9 @@
 **Demo Sprint 59 12/8/22**
 
 - Demo Topic(s)
-   - Blind & Low Vision Research Readout (Liz & Melissa)
+   - Blind & Low Vision Research Readout (Liz & Melissa) [Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10209931/VA.Mobile.App.Blind.and.Low.Vision.Research.Readout.pdf)
    - Encouraged Update (Jon)
+
 
 
 **Demo Sprint 58 11/24/22**
