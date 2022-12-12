@@ -432,4 +432,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Assistive Technology
 -
 
-_[insert screenshot of completed recruitment checker]_ ![VA-recruitment-checker](link - add image to github folder and link here with .png)
+[VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-09-usability_testing_2/recruitment_checker.png)
