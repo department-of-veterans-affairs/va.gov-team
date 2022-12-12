@@ -259,7 +259,6 @@ Once Veterans are logged in, they find immense value in My HealtheVet, as a usef
 
 * Develop a roadmap and implementation plan for this program of work
 * Plan future research studies to build on learnings
-* [Link to research readout deck will be added]
 
 ## Further research
 
