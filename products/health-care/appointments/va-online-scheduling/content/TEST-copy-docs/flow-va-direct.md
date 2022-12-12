@@ -176,7 +176,7 @@ Choose a date and time
 
 **PAGE CONTENT**
 
-## State - Default
+### State - Default
 
 ```
 Please select an available date and time from the calendar below. Appointment times are displayed in {time zone}.
