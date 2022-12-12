@@ -23,9 +23,9 @@
 
 | **Link** | **URL** | **GA Event** | **Notes** |
 | ---- | ---- | ---- | ---- |
-| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Needs new GA event | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging, can we confirm this is the right event? |
-| Schedule and manage your appointments | https://va.gov/health-care/schedule-view-va-appointments/appointments | `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | Can we confirm this is the new event? This link previously existed but was renamed |
-| Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | `Navigation - Link List - Health care - Review your messages` | Can we confirm this is the new event? This link previously existed but was renamed |
+| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Needs new GA event | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging, can we confirm this is the right event? Can be checked with User 272|
+| Schedule and manage your appointments | https://va.gov/health-care/schedule-view-va-appointments/appointments | `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | Can we confirm this is the new event? This link previously existed but was renamed. Can be cheked with user 15 |
+| Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | `Navigation - Link List - Health care - Review your messages` | Can we confirm this is the new event? This link previously existed but was renamed. Can be checked with user 41. |
 
 
 <details>
@@ -41,9 +41,9 @@
 
 | **Link** | **URL** | **GA Event** | **Notes** |
 | ---- | ---- | ---- | ---- |
-| Learn how to apply for VA educational benefits | https://www.va.gov/education/how-to-apply/ | `Navigation - Link List - Education and training - Learn how to apply for VA educational benefits` | This section was accidentally live for a few days in Prod so we already see GA activity for this |
-| Compare GI Bill benefits by school | https://va.gov/education/gi-bill-comparison-tool | `Navigation - Link List - Education and training - Compare GI Bill benefits by school` | This section was accidentally live for a few days in Prod so we already see GA activity for it. |
-| Check your BI Bill Statement of Benefits | https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/ | `Navigation - Link List - Education and training - Check your GI Bill Statement of Benefits` | I see this event being tracked in Staging, this section was also live in Prod accidentally for a few days so we can already see activity from it |
+| Learn how to apply for VA educational benefits | https://www.va.gov/education/how-to-apply/ | `Navigation - Link List - Education and training - Learn how to apply for VA educational benefits` | This section was accidentally live for a few days in Prod so we already see GA activity for this. Can be checked with user 272. |
+| Compare GI Bill benefits by school | https://va.gov/education/gi-bill-comparison-tool | `Navigation - Link List - Education and training - Compare GI Bill benefits by school` | This section was accidentally live for a few days in Prod so we already see GA activity for it. Can be checked with user 272.  |
+| Check your BI Bill Statement of Benefits | https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/ | `Navigation - Link List - Education and training - Check your GI Bill Statement of Benefits` | I see this event being tracked in Staging, this section was also live in Prod accidentally for a few days so we can already see activity from it. Can be checked with user 272.  |
 
 <details>
   <summary>New Education and Training Section:</summary>
@@ -57,7 +57,7 @@
   
   | **Link** | **URL** | **GA Event** | **Notes** |
   | ---- | ---- | ---- | ---- |
-  | Learn how to verify your identity on Va.gov | https://www.va.gov/resources/verifying-your-identity-on-vagov/ | Unsure | This link previously existed however it was renamed and I cannot find any old or new events being tracked for this link. We may need to create one. |
+  | Learn how to verify your identity on Va.gov | https://www.va.gov/resources/verifying-your-identity-on-vagov/ | Unsure | This link previously existed however it was renamed and I cannot find any old or new events being tracked for this link. We may need to create one. I have a Staging LOA1 account and can provide details to sign in if needed (Erica Sauve) |
   
   <details>
   <summary>New LOA1 Design:</summary>
