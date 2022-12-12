@@ -327,9 +327,9 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-09-usability_testing_2/conversation-guide.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/usabilitytesting/conversation-guide.md)
 
 [Interview transcripts](link here)
 
