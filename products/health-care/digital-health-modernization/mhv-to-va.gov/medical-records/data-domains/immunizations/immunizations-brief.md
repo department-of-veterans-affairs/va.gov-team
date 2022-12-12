@@ -25,7 +25,17 @@ Immunizations represent vaccines obtained during service and after service.
 
 ## Use Cases
 
-Can either include use case info here or link to another file - depends on how much info. 
+Things to think about that inform use cases: 
+- Immunizations are not domain that people need to monitor regularly (e.g., compared with medications)
+- Veterans and Caregivers might need to share their immunizations record with new HCPs to determine when they need booster shots
+- Some immunizations are one and done, others require regular or semi-regular boosters (e.g., flu shot; COVID shots; tetanus shots), others are age based (e.g., shingles shots)
+
+What do people want to use their immunization records for: 
+- To prove you have been immunized (e.g., job requirements, travel requirements, COVID-specific requirements)
+- To identify, either alone or with an HCP, that you need or don't need an immunization (e.g., age-based immunizations; spacing between immunizations)
+
+**Use Cases**
+
 
 ## UX considerations
 
