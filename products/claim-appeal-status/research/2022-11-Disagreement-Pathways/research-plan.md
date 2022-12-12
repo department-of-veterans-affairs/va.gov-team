@@ -17,10 +17,10 @@ This work supports the following OCTO Objectives:
 - Logged-in users have a personalized experience, with relevant and time-saving features=
 
 ### Veteran Journey
-This work touches on various aspects of the Veteran Journey. Whenever they are applying for disability compensation benefits – which for many Veterans can be throughout their lifetime – this feature would be relevant.
+This work touches on various aspects of the Veteran Journey. Whenever a Veteran is applying for disability compensation benefits, this feature would be relevant. For many Veterans, this can happen at any point along their life journey. 
 
 ## Research Goals	
-With this research, we are hoping to speak with Veterans who have engaged in – or are currently in the process of – the appeals process. We want to know more about what the pain points in this user journey are. We are also curious to find out more about whether these journeys can be fully self-service, given the complexity and high stakes nature of appeals. We know many Veterans rely on Veteran support networks and even legal assistance in these cases, and we are curious to see the extent to which VA.gov can instill trust and save time for Veterans when dealing with claim appeals and other "disagreement pathways."
+With this research, we are hoping to speak with Veterans who have engaged in – or are currently in the process of – the appeals process. We want to know more about what the pain points in this user journey are. We are also curious to find out more about whether these journeys can be fully self-service, given the complexity and high stakes nature of appeals. We know many Veterans rely on Veteran support networks and even legal assistance for claims appeals, and we want to understand whether VA.gov can instill trust and save time for Veterans when dealing with claim appeals and other "disagreement pathways."
 
 ### Outcome
 This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of appeals from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
