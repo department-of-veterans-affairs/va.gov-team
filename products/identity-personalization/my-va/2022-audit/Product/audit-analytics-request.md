@@ -9,7 +9,7 @@
 | Link | URL | GA Event | Notes |
 | ---- | ---- | ---- | ---- |
 | Learn how to file a claim | https://va.gov/disability/how-to-file-claim/ | This is a new link being added to My VA | Can see this with test user 10, I see `profile-navigation - view link - view learn how to file a claim` being tracked in Staging, we would prefer to use "Dashboard" not "Profile" if possible |
-| Manage all claims and appeals | https://www.va.gov/claim-or-appeal-status/ | `profile - navigation - view link - view manage claims and appeals` | I see this event in Staging, can we validate this will be the new event? the old one was: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` can test with user 14. Is is possible to keep the old event so we can have consistent historical tracking? |
+| Manage all claims and appeals | https://www.va.gov/claim-or-appeal-status/ | This link was renamed - `profile - navigation - view link - view manage claims and appeals` | I see this event in Staging, can we validate this will be the new event? the old one was: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` can test with user 14. Is is possible to keep the old event so we can have consistent historical tracking? |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
