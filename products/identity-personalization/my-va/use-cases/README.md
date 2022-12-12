@@ -1,5 +1,5 @@
 # My VA Use Cases
-**Last updated:** November 2, 2022
+**Last updated:** December 12, 2022
 
 ## Common Use Cases
 
@@ -9,21 +9,11 @@
 
 ### User logs in with LOA3 account
 
-- ...
+There are currently six sections on My VA for all LOA3 logged in users. These links go to the most recent use case documentation for each section:
 
-
-## Edge Cases
-
-### Flags
-- ...
-
-### Validation
-- ...
-
-### System
-
-- ...
-
-
-## Flow diagrams
-- ...
+- [Claims and appeals use cases](Link TK)
+- [Health care use cases](Link TK)
+- [Outstanding debts use cases](Link TK)
+- [Benefit payments use cases](Link TK)
+- [Education and training use cases](Link TK)
+- [Saved applications use cases](Link TK)
