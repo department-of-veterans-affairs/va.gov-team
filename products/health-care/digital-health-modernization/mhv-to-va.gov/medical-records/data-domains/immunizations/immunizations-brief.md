@@ -71,7 +71,9 @@ Less important:
 
 **View vs. share vs. download considerations:**
 
-
+Building out pdfs -> better to build as doing it? 
+- Need to confirm w/ pdf accessibility specialists - Shared Support folks
+- What does the VA use for creating pdfs
 
 ## Questions to answer
 
@@ -93,3 +95,6 @@ Less important:
     - Our suggestion: keep all immunizations together, but have section that flags overdue shots
 
 - Bobby: Gave too much info at once in previous work. Want to figure out 1-2 most important things. Inside page - have COVID, on COVID card, says when it was done. If need more details, click - see facility, etc. Less important info. When BB created - put emphasis on doctors, facilites, and veterans - not solely focus on Veterans. Veterans provided feedback but TMI. 
+
+- Share: use SM for sharing; is sharing with non-VA HCPs in scope? Or is that backlog feature, post MVP? Share directly to portal or via email? Need to talk to policy teams to determine implications/ limitations? Shouldn't use Google, etc. 
+        - Lexi: how are data shared via SM? (CCDA?) Lichelle might know as well. 
