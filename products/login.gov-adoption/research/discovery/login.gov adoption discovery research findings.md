@@ -7,7 +7,7 @@ Date: 11/23/2022
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
 - [Discovery phase readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/2022.12.06%20-%20discovery%20sprint%208%20readout.pdf)
-- VA Platforms Monday research readout deck will be added soon
+- [VA Platforms Monday research readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/VA%20platforms%20sync_login.gov%20adoption%20discovery%20research%20findings.pdf)
 
 ## Research goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
@@ -95,19 +95,19 @@ Through our research, we hoped to explore how the VA can most successfully migra
 
 ## Key findings
 
-1. Setting up a new credential is frustrating for Veterans if it’s made to seem like a choice or the need is unclear.
+1. Setting up a new credential is frustrating for Veterans if it's made to seem like a choice or the need is unclear.
 
-2. Veterans will choose whichever login credential is familiar, or, seems more direct to complete a task.
+2. Knowing humanized and dedicated support is available, motivates Veterans to setup and use a credential.
 
-3. Knowing humanized and dedicated support is available, motivates Veterans to setup and use a credential.
+3. Being identity proofed at another appointment, and, as the start or end to account setup, is more convenient for Veterans
 
 4. Veterans see security as the VA’s responsibility, but are motivated to be more careful if it puts their benefits access at risk, or they understand how their actions affect fellow Veterans.
 
-5. Perceived ease of use and complex views on security inform Veterans’ multi-factor authentication choices.
+5. Perceived ease of use and complex views on security inform Veterans' multi-factor authentication choices.
 
-6. Being identity proofed at another appointment, and, as the start or end to account setup, is more convenient for Veterans.
+6. Veterans will choose whichever login credential is most familiar, or, seems more direct to complete a task.
 
-7. Veterans don’t think to share access to their healthcare information until life altering events make it necessary.
+7. Veterans don't think to share access to their healthcare information until life altering events make it necessary.
 
 ## Details of Findings
 
@@ -126,24 +126,7 @@ And if Login.gov is the only option available for accessing valued services, Vet
 
 <br>
 
-**2. Veterans will choose whichever login credential is familiar, or, seems more direct to complete a task.**
-
-Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
-Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
-
-When Veterans gravitate towards familiarity. If they’re used to logging in to My HealtheVet using DS Logon, they will continue to do so, even after they’ve set up Login.gov.
-
-And in some cases, Veterans will choose a particular login credential because it appears to be the most direct route to completing a task.
-
-Familiarity also helps Veterans who struggle to remember their password, a common and major pain point.
-
-> "I seem to press 'My HealtheVet' more often than not. I think it's because that is where I'm going. It feels more direct, like it's getting me right in." Participant 10, Veteran Interview
-
-> "If you keep presenting me with those same options every time, just out of habit, I'm going to keep doing what I've been doing." Participant 7, Veteran Interview
-
-<br>
-
-**3. Knowing humanized and dedicated support is available, motivates Veterans to setup and use a credential.**
+**2. Knowing humanized and dedicated support is available, motivates Veterans to setup and use a credential.**
 
 Labels: `AUD: Veterans`, `AUD: Contact Center`, `PRDT: Login.gov`, `PRDT: Login`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
@@ -157,6 +140,21 @@ This means that knowing humanized, dedicated help is available throughout the jo
 > "The lady at the desk here is already busy, she has to check in more people and get them set up with healthcare. She doesn't have time to help me set up Login.gov, then people would be waiting." Participant 6, Veteran Intercept
 
 > “I would walk away at this point unless someone is walking through [my password issues] on the phone with me." Participant 8, Veteran Interview
+
+<br>
+
+**3. Being identity proofed at another appointment, and, as the start or end to account setup, is more convenient for Veterans.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `MHV: Appointments`,`VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
+
+Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
+
+Moving between online and offline touchpoints can create confusion – but clarity on what to bring, why you’re identity proofing and how it won't affect your existing appointments or accounts, helps put Veterans at ease.
+
+> "I would set up Login.gov at the end of my appointment, while I'm here. I'd rather get more done in a single period." Participant 6, Veteran Intercept
+
+> "If I don't [decide to identity proof], then I'm worried I wouldn't be able to go to my [healthcare] appointment." Participant 3, Veteran Interview
 
 <br>
 
@@ -192,18 +190,20 @@ Ingrained responsibility for government-issued property undermines the perceptio
 
 <br>
 
-**6. Being identity proofed at another appointment, and, as the start or end to account setup, is more convenient for Veterans.**
+**6. Veterans will choose whichever login credential is familiar, or, seems more direct to complete a task.**
 
-Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `MHV: Appointments`,`VETJNY: Taking care of themselves
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Generative (discovery)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: In-person`
 
-Setting up Login.gov alongside another VA appointment is a welcome convenience for Veterans, as long as it represents a definitive start or end to the process. But, if it creates another ongoing process then Veterans are less likely to see it through.
+When Veterans gravitate towards familiarity. If they’re used to logging in to My HealtheVet using DS Logon, they will continue to do so, even after they’ve set up Login.gov.
 
-Moving between online and offline touchpoints can create confusion – but clarity on what to bring, why you’re identity proofing and how it won't affect your existing appointments or accounts, helps put Veterans at ease.
+And in some cases, Veterans will choose a particular login credential because it appears to be the most direct route to completing a task.
 
-> "I would set up Login.gov at the end of my appointment, while I'm here. I'd rather get more done in a single period." Participant 6, Veteran Intercept
+Familiarity also helps Veterans who struggle to remember their password, a common and major pain point.
 
-> "If I don't [decide to identity proof], then I'm worried I wouldn't be able to go to my [healthcare] appointment." Participant 3, Veteran Interview
+> "I seem to press 'My HealtheVet' more often than not. I think it's because that is where I'm going. It feels more direct, like it's getting me right in." Participant 10, Veteran Interview
+
+> "If you keep presenting me with those same options every time, just out of habit, I'm going to keep doing what I've been doing." Participant 7, Veteran Interview
 
 <br>
 
