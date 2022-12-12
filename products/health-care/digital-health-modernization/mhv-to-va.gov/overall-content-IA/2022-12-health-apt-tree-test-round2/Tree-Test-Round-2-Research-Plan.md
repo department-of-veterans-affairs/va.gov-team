@@ -286,7 +286,7 @@ We’ll finalize key tasks for Veterans and family members and caregivers, resea
 
 ### Kick off meeting with Perigean
 
-We request to have a kick off meeting with Perigean 12/12/2022 or as soon as possible.
+We request to have a kick off meeting with Perigean 12/13/2022 or as soon as possible.
 
 ### Research sessions
 
