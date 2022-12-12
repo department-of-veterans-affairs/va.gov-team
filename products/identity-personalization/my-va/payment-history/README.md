@@ -267,7 +267,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Oct 2022: QA; Analytics request; Staging review; UAT
 - Nov 29, 2022: Launch to 25%
 - Dec 5, 2022: Launch to 50%
-- Dec X, 2022: Launch to 100%
+- Dec 12, 2022: Launch to 100%
  
 </details> 
 
@@ -312,6 +312,7 @@ Include information here on when payment information shows on My VA.
 <details>
   <summary><b>My VA after V2 updates to the payments section</b></summary>
 
-**Screenshot needed** 
+<img width="1060" alt="Screen Shot 2022-12-12 at 14 25 32" src="https://user-images.githubusercontent.com/97113607/207136017-a567dd73-cb1d-4023-877f-074085bef375.png">
+
  
  </details>  
