@@ -1,7 +1,5 @@
 # Migration planning
 
-Now that we have [defined both existing and needed MHV notifications]() and reviewed this list with the MHV team, we need to figure out our plan for migrating these over to VA.gov. Existing and new notifications include:
-
 **Existing notifications and notification preferences in MyHealtheVet**
 
 - Rx refill shipment notifications (note: there is a text notification supported through VEText that already has a preference in the VA.gov profile)
@@ -14,10 +12,11 @@ Now that we have [defined both existing and needed MHV notifications]() and revi
 **New notifications to develop as part of the health apartment**
 
 - Notification that lab and test results are ready/available
+- Additional notifications we may not have spoken about or scoped yet
 
 ## Considersations and challenges for migrating to VA.gov
 
-Specifically, these are challenges we need to consider in how we approach moving notification preferences from MHV to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; unknown timing of when this work needs to be done).
+Specifically, these are challenges we need to consider in how we approach moving notification preferences from MHV to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; timing; etc).
 
 ### MHV backend is currently not connected to VA Profile
 
@@ -25,7 +24,7 @@ Unlike most features moving over to VA.gov, notification preferences will need t
 
 ### MHV features are moving over 1-by-1 to VA.gov
 
-MHV features are moving over 1-by-1 to VA.gov. This presents a challenge with notification preferences: we'll likely only need to support 1 or maybe 2 new preferences at a time as features migrate (eg. having a secure messages alert preference once the secure messaging feature is live). However, in MHV, notification preferences are a whole feature, so we'll need to decide between moving all preferences over or having to retire one preference at a time.
+MHV features are moving over 1-by-1 to VA.gov. This presents a decision we'll need to make with notification preferences: do we move over all preferences at once, or move them over one at a time as health tools migrate to VA.gov?
 
 <details>
   <summary>Click to expand for screenshot of MHV preferences</summary>
@@ -34,9 +33,9 @@ MHV features are moving over 1-by-1 to VA.gov. This presents a challenge with no
 
 </details>
 
-### The MHV team will have to help with this work
+### Collaboration across VA.gov, MHV, VA Profile, and VANotify
 
-While my team will be responsible for work in our profile and leading coordination with VA Profile, the MHV team can't be totally uninvolved. They'll need to agree to our migration approach, work with VA Profile to make sure preferences are defined, work with VANotify to migrate actual notifications (though, to be clear, that can happen separately from migrating preferences), work with VA Profile to migrate existing preferences (assuming they want to), and implement UI updates to retire preferences either one at a time or all at once.
+There are many players in this space -- VA.gov, MHV, VA Profile (stores preferences), and VANotify (supports notifications). We'll all need to work together to make sure both the preferences and actual notifications fully migrate into each system.
 
 ## Recommendations on how to approach migrating notification preferences from MHV to VA.gov
 
