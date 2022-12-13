@@ -16,7 +16,7 @@ Choose a location
 
 **PAGE CONTENT**
 
-### State: Sorted by Home Address
+#### State: Sorted by Home Address
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -38,7 +38,7 @@ Sort facilities
 
 ```
 
-### State: No Home Address on File
+#### State: No Home Address on File
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -59,7 +59,7 @@ Note: to show facilities near your home, add your residential address in your VA
 (Link) + {1-5} more locations
 ```
 
-### State: Can't Sort by Location
+#### State: Can't Sort by Location
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -81,7 +81,7 @@ Make sure your browser’s location feature is turned on.
 
 ```
 
-### State: Single Clinic
+#### State: Single Clinic
 
 TBD
 
@@ -91,6 +91,7 @@ TBD
 
 ```Continue```
 
+---
 
 ## Choose a VA Clinic
 
