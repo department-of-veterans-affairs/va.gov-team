@@ -684,7 +684,7 @@ Remove
 _Error_
 
 #### You haven't added any evidence
-You must provide at least 1 type of supporting evidence to file for a Supplemental Claim.
+You must provide at least 1 type of supporting evidence before you can continue filling out your request.
 
 ----------------------------------------------
 
