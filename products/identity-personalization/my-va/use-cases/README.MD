@@ -24,4 +24,4 @@ There are currently six sections on My VA for all LOA3 logged in users. These li
 
 ### System can't connect to MPI
 
-- [There's an error because the system can't connect to MPI](Link)
+- [There's an error because the system can't connect to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI)
