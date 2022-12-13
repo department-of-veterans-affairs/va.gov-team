@@ -1,4 +1,4 @@
-# Education and Training Use Cases
+# My VA: Education and Training Use Cases
 
 **Last updated:** December 13, 2022
 
