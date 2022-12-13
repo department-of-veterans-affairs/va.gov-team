@@ -1,7 +1,7 @@
 # My VA Use Cases
 **Last updated:** December 12, 2022
 
-**This documentation is outlining work that is NOT currently live on My VA yet! Development work is slated for 2023.**
+**NOTE: This documentation is outlining work that is NOT currently live on My VA yet! Development work is slated for 2023.**
 
 ## Common Use Cases
 
