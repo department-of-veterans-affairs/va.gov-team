@@ -58,9 +58,9 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 
 
 ### Hypothesis
-Our hypothesis includes a few elements: 
+
 - We know from previous research that Veterans are frustrated with the amount of time the appeals process takes. We expect this to emerge as a major pain point. 
-- We know from previous research that Veterans often seek out assistance from Veteran Service Organizations (VSOs) or lawyers to assist them with their appeals. We have a hunch that a fully self-service experience will not instill the trust that Veterans need to feel satisfied in these high-stakes scenarios. That said, we are curious to test this hypothesis by taking them through a digital appeals flow with some asisstance from an "Appeals Survey," which is the design idea we'll test with the prototype.
+- We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing disagreement pathways. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
 - We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
 - We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
@@ -110,9 +110,9 @@ We would like to recruit 40 Veterans with the goal of successfully completing at
 
 We are primarily looking for Veterans who have experience with the appeals process for disability compensation claims. Participants must be able to speak to their appeals process, so ideally it has happened in the last ~5 years, or they are curently in the process of appealing a claim. 
 
-> Question for recruits: "In the last 10 years, have you appealed a disability compensation claim decision by submitting either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)?"
+> Question for recruits: "Have you ever you appealed a disability compensation claim decision by submitting either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)?"
 
-We would like to recruit at leaset 20 Veterans who worked with a Veteran Service Organization (VSO) in pursuing this disagreement pathway.
+We would like to recruit at least 20 Veterans who worked with a Veteran Service Organization (VSO) in pursuing this disagreement pathway.
 
 We would like some representation from the following underrepresented groups: 
 
