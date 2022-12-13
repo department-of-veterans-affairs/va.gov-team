@@ -20,20 +20,26 @@ This work supports the following OCTO Objectives:
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran is applying for disability compensation benefits, this feature would be relevant. For many Veterans, this can happen at any point along their life journey. 
 
 ## Research Goals	
-With this research, we are hoping to speak with Veterans who have engaged in the appeals process. We want to learn more about the pain points in this user journey. We are also curious to find out more about whether these journeys can be fully self-service, given the complexity and high stakes nature of appeals. We know many Veterans rely on Veteran support networks and even legal assistance for claims appeals, and we want to understand whether VA.gov can instill trust and save time for Veterans when dealing with claim appeals and other "disagreement pathways."
+With this research, we are hoping to speak with Veterans who have engaged in a disagreement pathway. We want to learn more about the pain points in this user journey. 
+
+We are also curious to find out more about whether these journeys can be fully self-service, given the complexity and high stakes nature of disagreement pathways. We want to understand more about the Veteran experience working with VSOs and third party legal reps, to understand whether working those third party reps lead to better Veteran outcomes overall. We want to identify which use cases are best for self-service, and which ones may rely on third party assistance. We want to figure out to what extent VA.gov can instill trust and save time for Veterans when dealing with claim appeals and other "disagreement pathways," or whether we should prioritize the VSO experience.
+
+We also want learn about new opportunities for Veterans to pursue disagreement pathways that have been enabled by the passage of the PACT Act.
 
 ### Outcome
-This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of appeals from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
+This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of disagreement pathways from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
 
 ### Research questions
 Part 1: General questions
-- Did you use VA.gov to file your appeal?
-- What were your main reasons for filing the appeal?
-- Did you consult a third party (Veteran rep, lawyer) when filing your appeal?
-- On a scale of 1-5, how would you have rated your appeals experience?
+- Did you use VA.gov to file your (DP type)?
+- What were your main reasons for filing the (DP type)?
+- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when (DP type)?
+- On a scale of 1-5, how would you have rated your experience submitted a (DP type)?
 - What were your biggest challenges with the process? 
 - Was there anything about the process that worked particularly well?
-- How did you feel about the appeals process result (or how do you feel so far, if it’s underway)?
+- How did you feel about the end result (or how do you feel so far, if it’s underway)?
+
+- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Is this helpful? 
 
 Part 2: Prototype
 
@@ -54,6 +60,7 @@ Our hypothesis includes a few elements:
 - We know from previous research that Veterans are frustrated with the amount of time the appeals process takes. We expect this to emerge as a major pain point. 
 - We know from previous research that Veterans often seek out assistance from Veteran Service Organizations (VSOs) or lawyers to assist them with their appeals. We have a hunch that a fully self-service experience will not instill the trust that Veterans need to feel satisfied in these high-stakes scenarios. That said, we are curious to test this hypothesis by taking them through a digital appeals flow with some asisstance from an "Appeals Survey," which is the design idea we'll test with the prototype.
 - We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
+- We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
 ## Methodology	
 As mentioned above, the research sessions will be broken into two parts: 
