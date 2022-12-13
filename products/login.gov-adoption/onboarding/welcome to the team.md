@@ -34,6 +34,24 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
 
 Learn more about the key priorities in [previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing).
 
+### Implementation team
+December 2022 - 2023
+
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
+|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
+|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
+|Content Strategist|Carl Dickson|carl@themostudio.com|
+|UX Designer|Carolyn Williams|carolyn@themostudio.com|
+|Senior Product Manager|Anthony Levin-Decanini|TBD|
+|Senior Interaction Designer|TBD|TBD|
+|Full Stack Developer|TBD|TBD|
+|Full Stack Developer|TBD|TBD|
+
 ### Discovery team
 August - December 2022
 
@@ -47,28 +65,13 @@ August - December 2022
 |Senior UX Designer|Bri Mazzio|briana.mazzio@frog.co|
 |Senior Strategist|Marissa Klein|marissa.klein@frog.go|
 |Visual Designer|Paul Knipper|paul.knipper@frog.go|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-
-### Implementation team
-December 2022 - 2023
-
-|Role|Assigned|Contact|
-|:---:|:---:|:---:|
-|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program Manager|Jay Tanner|jtanner@pluribusdigital.com|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
-|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
-|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
-|Content Strategist|Carl Dickerson|carl@themostudio.com|
-|UX Designer|Carolyn Williams|carolyn@themostudio.com|
 
 ### When we work together
 We collaborate between 8am - 5pm EST. Meetings should be scheduled during this time. We currently hold the following all-team ceremonies:
 - Standup (daily)
-- Pin up (daily)
 - Mid sprint review (bi-weekly)
 - Demo or sprint review (bi-weekly)
 - Retro (bi-weekly)
