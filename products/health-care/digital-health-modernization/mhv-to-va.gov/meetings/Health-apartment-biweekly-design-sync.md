@@ -1,8 +1,24 @@
 # Health apartment biweekly design sync
-## 2022-11-28
+## 2022-12-12
 
-## Attendees
-- 
+## Agenda
+   - SM Usability study research readout (Anne Costello) 
+   - Update on MR and invitation to Generative reserach readout Monday,Dec 19th) 
+
+
+## Notes
+
+**Secure Messaging usability research readout** 
+
+- Martha Wilkes 
+- expresses concerens over the solution around "In case of emergency" solution (modal for every message)
+   - Accessibility concerns using modals 
+   - Will you be setting a precedent that every/most actions on VA.gov have to be confirmed with a modal? 
+   - Martha stresses the importance to syncing with accessibility shared support 
+
+
+# Health apartment biweekly design sync
+## 2022-11-28
 
 ## Agenda
    - MR discovery research readout 
@@ -21,9 +37,6 @@
 
 # Health apartment biweekly design sync
 ## 2022-10-31
-
-## Attendees
-- 
 
 ## Agenda
 - Updates
