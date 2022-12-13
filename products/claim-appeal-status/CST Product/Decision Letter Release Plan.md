@@ -36,8 +36,8 @@ Length of time: one week
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Number of unique pageviews: 439
-- Number of letters downloaded: 972   
-- Metrics at this stage (per your "success criteria"):  
+- Number of letters downloaded: 972
+- Call Center Complaints: 0 
 - Types of errors logged: 1 Sentry error due to a VBMS service disruption not caused by our calls to service.
 
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?  
