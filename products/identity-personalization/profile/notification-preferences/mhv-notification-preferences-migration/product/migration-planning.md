@@ -37,7 +37,9 @@ MHV features are moving over 1-by-1 to VA.gov. This presents a decision we'll ne
 
 There are many players in this space -- VA.gov, MHV, VA Profile (stores preferences), and VANotify (supports notifications). We'll all need to work together to make sure both the preferences and actual notifications fully migrate into each system.
 
-## Top recommendation: MHV integrates its profile with VA Profile
+## Recommendations for migration approach
+
+### Top recommendation: MHV integrates its profile with VA Profile
 
 This would involve MHV integrating their notification preferences with VA Profile as soon as possible. Then, we could add preferences one-at-a-time to VA.gov as corresponding health tools move over to the site. 
 
@@ -51,9 +53,7 @@ This would involve MHV integrating their notification preferences with VA Profil
 
 - This requires development on MHV, and there are many competing priorities for people's time. This may not be a reasonable lift based on other priorities for the MHV team.
 
-## Other approaches if integrating MHV <> VA Profile is not possible
-
-### VA.gov conducts discovery on whether it makes sense to integrate with MHV backend first, then work on the VA Profile integration over time
+### If integrating MHV <> VA Profile is not possible: VA.gov conducts discovery on whether it makes sense to integrate with MHV backend first, then work on the VA Profile integration over time
 
 #### Pros
 
@@ -66,6 +66,8 @@ This would involve MHV integrating their notification preferences with VA Profil
 
 - VA.gov is effectively responsible for two integrations -- one to MHV, then reintegrating everything through VA Profile.
 - I don't have a sense of technical complexity for integrating with MHV, and because of contract switches, we won't have anyone to do technical discovery on this until the new year.
+
+
 
 ### Don't actually support preferences on VA.gov until phase 4 (MHV feature retirment) instead of phase 2
 
