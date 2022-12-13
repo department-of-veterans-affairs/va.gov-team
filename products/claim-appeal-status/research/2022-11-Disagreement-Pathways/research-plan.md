@@ -24,7 +24,7 @@ This work touches on various aspects of the Veteran Journey. Whenever a Veteran 
 ## Research Goals	
 With this research, we are hoping to speak with Veterans who have engaged in a disagreement pathway. We want to learn more about the pain points in this user journey. 
 
-We are also curious to find out more about whether these journeys can be fully self-service, given the complexity and high stakes nature of disagreement pathways. We want to understand more about the Veteran experience working with VSOs and third party legal reps, to understand whether working those third party reps lead to better Veteran outcomes overall. We want to identify which use cases are best for self-service, and which ones may rely on third party assistance. We want to figure out to what extent VA.gov can instill trust and save time for Veterans when dealing with claim appeals and other "disagreement pathways," or whether we should prioritize the VSO experience.
+We are also curious to find out more about which of these journeys can be fully self-service, given the complexity and high stakes nature of disagreement pathways. We want to understand more about the Veteran experience working with VSOs and third party legal reps, so that we can create an experience that guides Veterans to either self-service or VSO-supported options in the optimal way.
 
 We also want learn about new opportunities for Veterans to pursue disagreement pathways that have been enabled by the passage of the PACT Act.
 
