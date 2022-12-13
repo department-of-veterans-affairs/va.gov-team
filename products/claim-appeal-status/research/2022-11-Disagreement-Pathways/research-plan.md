@@ -14,7 +14,7 @@ This work supports the following OCTO Objectives:
 - Veterans and their families can apply for all benefits online
 - Logged-in users can easily track applications, claims, or appeals online
 - Veterans and their families can find a single, authoritative source of information
-- Logged-in users have a personalized experience, with relevant and time-saving features=
+- Logged-in users have a personalized experience, with relevant and time-saving features.
 
 ### Veteran Journey
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran is applying for disability compensation benefits, this feature would be relevant. For many Veterans, this can happen at any point along their life journey. 
