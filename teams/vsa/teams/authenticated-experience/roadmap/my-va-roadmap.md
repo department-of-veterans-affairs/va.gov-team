@@ -1,19 +1,18 @@
 # My VA roadmap
 
-**Last updated October 26, 2022**
+**Last updated: December 13, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2|QA|
+|Payments & Debts/copays V2|Launched to 100%|
 |My VA audit|FE build|
 
 ### Projected timelines for current projects
 
 |Project|Q1 2022|Q2 2022|Q3 2022|Q4 2022
 |----|----|----|----|----|
-|**Payments & Debts/copays V2**|-|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
 |**My VA audit**|-|Documentation; Determine next steps for My VA; |Update designs; Research; FE updates|Pre-launch tasks and reviews; Launch|
 
 ## Completed projects
