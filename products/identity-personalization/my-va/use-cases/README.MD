@@ -19,3 +19,9 @@ There are currently six sections on My VA for all LOA3 logged in users. These li
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
 - [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases)
 - [Saved applications use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/saved-applications-use-cases)
+
+## Edge Cases
+
+### System can't connect to MPI
+
+- [There's an error because the system can't connect to MPI](Link)
