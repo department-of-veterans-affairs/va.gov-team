@@ -1,0 +1,351 @@
+# VA Direct Schedule COVID Vaccine Appointment Copy
+
+## Plan Ahead
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+COVID-19 vaccine appointment
+```
+
+**PAGE CONTENT**
+
+```
+We can only schedule appointments for first vaccine doses online: 
+
+- If you get a vaccine that requires 2 doses, we’ll schedule your second appointment while you’re here for your first dose. 
+- If you’re eligible for a booster shot or additional dose, contact your VA health facility.
+
+Want to get your vaccine without an appointment?
+Find out how to get your vaccine at a VA walk-in clinic
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+---
+
+## Received first dose screener
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Have you received a COVID-19 vaccine?
+```
+
+**PAGE CONTENT**
+
+```
+If you've received the first dose of a vaccine that requires 2 doses, answer Yes.
+
+- Yes
+- No/I’m not sure
+
+```
+
+#### Error: No option selected
+
+Please select an answer
+
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+---
+
+## Vaccine - Choose Facility
+
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Choose a location
+```
+
+**PAGE CONTENT**
+
+```
+Here’s a list of VA facilities where you’re registered that offer COVID-19 vaccine appointments. Locations closest to you are listed first.
+
+Facilities based on your home address:
+
+{home address}
+
+Or, [use your current location]{link}
+
+Please select where you’d like to have your appointment. (*Required)
+
+{Facility Name}
+{facility address}
+{distance} miles
+
+{Facility Name}
+{facility address}
+{distance} miles
+
+...
+
++ {1-5} more locations
+```
+
+#### Error Validation
+
+```
+Please select a location for your appointment
+
+```
+
+#### Dead end: No Slots
+
+```
+We’re sorry. We couldn’t find any available slots for your appointment.
+
+Please call your medical facility:
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+
+---
+
+## Calendar
+
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Choose a date (*Required)
+```
+
+**PAGE CONTENT**
+
+```
+Appointment times are in {time zone}.
+
+Note: If your vaccine requires 2 doses, you’ll need to come back for your second dose 3 to 4 weeks after the date you select.
+
+{Sunday-Saturday calendar}
+
+```
+
+#### Error Validation
+
+```
+Please choose your preferred date and time for your appointment
+```
+
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+## Second Dose Info
+---
+
+## Current
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+When to plan for a second dose
+```
+
+**PAGE CONTENT**
+
+```
+If you get your first dose of a 2-dose vaccine on {date}, here’s when to plan to come back for your second dose.
+
+{H} Moderna
+Requires 2 doses
+Plan to return after {28 days after calendar date selection}
+
+{H} Pfizer
+Requires 2 doses
+Plan to return after {21 days after calendar date selection}
+
+{H} Johnson & Johnson
+1 dose only
+
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+---
+
+## Contact Info
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Confirm your contact information
+```
+
+**PAGE CONTENT**
+
+```
+We’ll use this information to contact you about your appointment. Any updates you make here will only apply to VA online appointment scheduling.
+
+Want to update your contact information for more VA benefits and services?
+Go to your VA profile
+
+Your phone number (*Required)
+
+{input field}
+
+Your email address (*Required)
+
+{input field)
+```
+
+#### Phone number - empty field
+
+```
+Please enter a phone number
+```
+
+#### Email address - empty field
+
+```
+Please enter an email address
+```
+
+#### Phone number - invalid entry
+
+```
+Please enter a valid 10-digit phone number (with or without dashes)
+```
+
+#### Email address - invalid entry
+
+```
+Please enter a valid email address
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+```CONTINUE```
+
+---
+
+## Review 
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Review your appointment details
+```
+
+**PAGE CONTENT**
+
+```
+Make sure the information is correct. Then confirm your appointment.
+
+{H} COVID-19 vaccine
+
+---
+
+{appointment date} at {appointment time}
+
+---
+
+{facility name}
+
+{clinic name}
+{clinic address}
+
+---
+
+Your contact details         [Edit]{Link}
+
+{email address}
+(phone number} 
+
+```
+
+**PROGRESS BUTTONS**
+
+```Confirm appointment```
+
+---
+
+## Confirmation Page
+
+See [confirmation states](appointment-details.md#confirmation-states) in the apoointment detail pages copy doc
+
+---
+
+
+
+
+
+
+
+
+
+
+
