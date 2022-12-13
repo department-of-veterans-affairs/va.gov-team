@@ -1,4 +1,4 @@
-# VA Appointment Request Flow
+# VA Appointment Request Copy
 
 ## Choose a Date
 
@@ -11,7 +11,7 @@ NEW APPOINTMENT
 **PAGE HEADER**
 
 ```
-Choose your preferred date and time for this appointment. You can request up to 3 dates. A scheduling coordinator will call you to schedule your appointment.
+Choose an appointment day and time
 ```
 
 **PAGE CONTENT**
@@ -60,9 +60,9 @@ Please provide any additional details you'd like to share with your provider abo
 {Input box}
 {###} characters remaining
 
-(H2) If you have an urgent medical need, please:
+(H) If you have an urgent medical need, please:
 - Call 911, or
-- Call the Veterans Crisis hotline at 800-273-8255 and select 1, or
+- Call the Veterans Crisis hotline at 988 and select 1, or
 - Go to your nearest emergency room or VA medical center. {Link} Find your nearest VA medical center
 ```
 
