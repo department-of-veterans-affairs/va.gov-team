@@ -32,8 +32,12 @@
 * Erroneous CLOSE status, where'd it come from?
   * Swirt confirmed it was never CLOSED in CMS https://dsva.slack.com/archives/C02BTJTDFTN/p1669743015670409 
 * KBs to David, not addressed yet
-* Mental Health - revisit next meeting or two
-* Caregiver support - larger converstaion about what to treat as SoT, David S to bring to Dave C
+* Mental Health - Started discussing and wanted to know next stesps
+  * dive further what we want that to look like? What is SOT
+  * VHADM has responded with explicit legislation citation - David fwd'd to James Costa 
+* Caregive Support Data - investigated internally hosted data file vs CMS data - distinct pattern of differences - is there an issue disinguishing between system data and facility data.
+  * Discuss with Dave C? Do we need JHL and Caregiver Support team members? AI>>DS bring to Dave C
+  *Agree upon SOT
 
 ## Monday, November 28, 2022 
 * v1 status check
