@@ -5,9 +5,9 @@
 For all of these use cases, the user must be LOA3 (identity verified).
 
 ## Common use cases
-- [Use case](Link)
-- [Use case](Link)
-- [Use case](Link)
+- [User has outstanding overpayment debts](Link)
+- [User has outstanding copays](Link)
+- [User does not have any outstanding VA debt](Link)
 
 ## Edge cases
 
@@ -15,7 +15,9 @@ For all of these use cases, the user must be LOA3 (identity verified).
 There are no flags associated with this feature.
 
 ### System
-- [Title of system error](Link)
+- [The debts API is down and we can't display any overpayment debt information](Link)
+- [The copays API is down and we can't display any copay information](
+- [Both the debts and copays APIs are down and we can't display information for either of them](
 
 ## Flow diagrams
 - [Title of flow diagram](Link)
