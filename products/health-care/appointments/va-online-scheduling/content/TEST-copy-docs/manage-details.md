@@ -10,7 +10,7 @@
 
 ---
 
-## Requests
+## REQUESTS
 
 ### VA Requests
 
@@ -104,7 +104,7 @@ Phone number: {phone number}
 
 ---
 
-### Canceled
+#### Canceled
 
 **PAGE HEADER**
 
@@ -256,7 +256,7 @@ Call {morning, afternoon, evening}
 
 ---
 
-## Appointment
+## APPOINTMENTS
 
 ### VA In-person
 
@@ -529,7 +529,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-### Telehealth
+### VA Telehealth
 
 #### Video at Home
 
@@ -1108,7 +1108,7 @@ You shared these details about your concern
 
 ---
 
-### Canceled
+#### Canceled
 
 **PAGE HEADER**
 
