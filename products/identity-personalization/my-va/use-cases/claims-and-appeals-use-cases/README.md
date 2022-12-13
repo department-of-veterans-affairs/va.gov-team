@@ -2,6 +2,8 @@
 
 **Last updated:** December 13, 2022
 
+**To be populated in 2023 when audit updates go live on My VA.**
+
 For all of these use cases, the user must be LOA3 (identity verified).
 
 ## Common use cases
