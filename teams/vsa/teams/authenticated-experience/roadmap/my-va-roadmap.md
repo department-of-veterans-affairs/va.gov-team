@@ -6,7 +6,6 @@
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2|Launched to 100%|
 |My VA audit|FE build|
 
 ### Projected timelines for current projects
@@ -20,7 +19,7 @@
 |Project|Launch/Completion date|
 |----|----|
 |[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
-|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launched to 100% on December 12, 2022|
+|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
 |[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
