@@ -45,5 +45,4 @@
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Should we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
-|Redirect from homepage to My VA at login| N/A | Winter 2022 | We will be evaluating this after the payment information section goes out. |
 |Update layout to put status updates separate from task links | N/A | Winter 2022 | We will evaluate this through a research effort. |
