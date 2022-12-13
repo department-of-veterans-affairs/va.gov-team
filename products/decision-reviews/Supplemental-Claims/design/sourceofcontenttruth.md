@@ -452,8 +452,10 @@ I understand that VA may use information disclosed prior to revocation to decide
 _Warning_
 
 #### Authorize your doctor to release your records or upload them yourself
+If you want us to request your private medical records from your doctor, you must authorize the release.
+[Check the box to authorize the release] JUMP LINK
 
-If you want us to request your private medical records from your doctor, you must check the box on this page to authorize the release. Or, go back a page and select **No** where we ask about private medical records. Then you can upload your records.
+Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
 [Go back to upload records]
 
 ----------------------------------------------
@@ -852,8 +854,10 @@ You must provide at least 1 type of supporting evidence before you can continue 
 Not authorizing release of medical records:
 
 #### Authorize your doctor to release your records or upload them yourself
+If you want us to request your private medical records from your doctor, you must authorize the release.
+[Check the box to authorize the release] JUMP LINK
 
-If you want us to request your private medical records from your doctor, you must check the box on this page to authorize the release. Or, go back a page and select **No** where we ask about private medical records. Then you can upload your records.
+Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
 [Go back to upload records]
 
 Form submission error:
