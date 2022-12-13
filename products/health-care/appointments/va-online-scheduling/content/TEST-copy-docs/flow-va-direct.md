@@ -23,18 +23,17 @@ Select a VA facility where you’re registered that offers {type of care} appoin
 
 Sort facilities
 
-(Dropdown box)
-(Option 1 - Default) By your home address
-(Option 2) By your current location
-(Option 3) Alphabetically
+{Option 1 - Default} By your home address
+{Option 2} By your current location
+{Option 3} Alphabetically
 
 {Facility options}
 {Facility name}
 {City, ST}
 {####} miles
-(Link - Cerner sites only) Schedule online at My VA Health
+{Link - Cerner sites only} Schedule online at My VA Health
 
-(Link) + {1-5} more locations
+{Link} + {1-5} more locations
 
 ```
 
@@ -45,18 +44,17 @@ Select a VA facility where you’re registered that offers {type of care} appoin
 
 Sort facilities
 
-(Dropdown box)
-(Option 1) By your current location
-(Option 2 - Default) Alphabetically
+{Option 1} By your current location
+{Option 2 - Default} Alphabetically
 
 Note: to show facilities near your home, add your residential address in your VA profile.
 
-{Facility options}
 {Facility name}
 {City, ST}
-(Link - Cerner sites only)Schedule online at My VA Health
+{Link - Cerner sites only} Schedule online at My VA Health
+...
 
-(Link) + {1-5} more locations
+{Link} + {1-5} more locations
 ```
 
 #### State: Can't Sort by Location
@@ -66,18 +64,17 @@ Select a VA facility where you’re registered that offers {type of care} appoin
 
 Sort facilities
 
-(Dropdown box)
-(Option 1) By your home address
-(Option 2 - Selected) By your current location
-(Option 3) Alphabetically
+{Option 1} By your home address
+{Option 2 - Selected} By your current location
+{Option 3} Alphabetically
 
-(Alert Box)
-(H)Your browser is blocked from finding your current location.
+{Alert Box}
+{H} Your browser is blocked from finding your current location.
 
 Make sure your browser’s location feature is turned on.
 
-(Link) Retry searching based on current location
-(/Alert Box)
+{Link} Retry searching based on current location
+{/Alert Box}
 
 ```
 
@@ -109,19 +106,20 @@ Choose a VA clinic
 
 **PAGE CONTENT**
 
-### State: Multiple Clinics
+#### State: Multiple Clinics
 
 ```
 In the last {number} months you’ve had {a/an} {type of care} appointment at the following {facility name} clinics:
 
 Choose a clinic below or request a different clinic for this appointment. (*Required)
 
-(Option) {Clinic name}
-(Option) {Clinic name}
-(Option) {I need a different clinic}
+{Option}{Clinic name}
+{Option}{Clinic name}
+...
+{Option}{I need a different clinic}
 ```
 
-### State: Single Clinic
+#### State: Single Clinic
 
 ```
 {Type of care} appoinments are available at {clinic name}:
@@ -143,6 +141,7 @@ Would you like to make an appointment at {clinic name}? (*Required)
 
 ```Continue```
 
+---
 
 ## Choose a Desired Date
 
@@ -161,6 +160,8 @@ Tell us the earliest day you’re available and we'll try to find the date close
 Choose a date within the next 13 months for this appointment.
 ```
 
+---
+
 ## Choose a Date
 
 **FORM TITLE**
@@ -177,7 +178,7 @@ Choose a date and time
 
 **PAGE CONTENT**
 
-### State - Default
+#### State: Default
 
 ```
 Please select an available date and time from the calendar below. Appointment times are displayed in {time zone}.
@@ -185,7 +186,7 @@ Please select an available date and time from the calendar below. Appointment ti
 
 {Sunday-Saturday calendar}
 ```
-### State: Alert - Urgent Care - has slot
+#### State: Alert - Urgent Care - has slot
 
 ```
 Your appointment time
@@ -205,7 +206,7 @@ If you have an urgent medical need or need care right away:
 ```Request an earlier appointment OR Contact your local VA medical center```
 
 
-### State: Alert - Urgent Care - no slot
+#### State: Alert - Urgent Care - no slot
 
 ```
 We couldn't find an appointment for your selected date
@@ -228,6 +229,7 @@ If you have an urgent medical need or need care right away:
 ```Back```
 ```Continue```
 
+---
 
 ## Reason for Appointment
 
@@ -248,10 +250,10 @@ Choose a reason for this appointment
 ```
 Let us know why you’re making this appointment. (*Required)
 
-- This is a routine or follow-up visit.
-- I have a new medical issue.
-- I have a concern or question about my medication.
-- My reason isn’t listed here.
+{Option} This is a routine or follow-up visit.
+{Option} I have a new medical issue.
+{Option} I have a concern or question about my medication.
+{Option} My reason isn’t listed here.
 
 Please provide any additional details you'd like to share with your provider about this appointment. (*Required)
 
@@ -260,6 +262,8 @@ Please provide any additional details you'd like to share with your provider abo
 - Call the Veterans Crisis hotline at 800-273-8255 and select 1, or
 - Go to your nearest emergency room or VA medical center. (link) Find your nearest VA medical center
 ```
+
+---
 
 ## Contact Information
 
@@ -281,7 +285,7 @@ Confirm your contact information
 We’ll use this information to contact you about your appointment. Any updates you make here will only apply to VA online appointment scheduling.
 
 Want to update your contact information for more VA benefits and services?
-(Link) Go to your VA profile
+{Link} Go to your VA profile
 
 Your phone number (*Required)
 
@@ -326,10 +330,10 @@ VA APPOINTMENT
 {facility name}
 {city, ST}
 
-{reason for appointment}     Edit
+{reason for appointment}     {Link}Edit
 {booking note}
 
-Your contact details         Edit
+Your contact details         {link}Edit
 {email address}
 {phone number}
 Call {morning, afternoon, evening}
@@ -339,9 +343,10 @@ Call {morning, afternoon, evening}
 
 ```Confirm appointment```
 
-## Confirmation Page
-
 ---
+
+## Confirmation Page
 
 See [confirmation states](appointment-details.md#confirmation-states) in the apoointment detail pages copy doc
 
+---
