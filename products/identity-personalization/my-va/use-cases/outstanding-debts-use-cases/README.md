@@ -1,4 +1,4 @@
-# Oitstanding Debts Use Cases
+# Outstanding Debts Use Cases
 
 **Last updated:** December 13, 2022
 
