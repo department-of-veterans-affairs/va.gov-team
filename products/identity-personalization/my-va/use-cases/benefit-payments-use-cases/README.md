@@ -1,4 +1,4 @@
-# Benefit Payments Use Cases
+# My VA: Benefit Payments Use Cases
 
 **Last updated:** December 13, 2022
 
