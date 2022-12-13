@@ -411,6 +411,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [GH Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/design/user-flows)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-plan.md)
 - [Conversation Guide ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-findings.md)
+
  
  **Engineering:** 
  - [TBD]()
