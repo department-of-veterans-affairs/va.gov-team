@@ -257,11 +257,19 @@ Let us know why you’re making this appointment. (*Required)
 
 Please provide any additional details you'd like to share with your provider about this appointment. (*Required)
 
+{Input box}
+{###} characters remaining
+
 (H2) If you have an urgent medical need, please:
 - Call 911, or
 - Call the Veterans Crisis hotline at 800-273-8255 and select 1, or
 - Go to your nearest emergency room or VA medical center. (link) Find your nearest VA medical center
 ```
+
+**PROGRESS BUTTONS**
+
+```Back```
+```Continue```
 
 ---
 
