@@ -1,5 +1,7 @@
 # Research Plan for Benefits Team 1, Disagreement Pathways
 
+##### Note: "Disagreement Pathway" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)
+
 ## Background
 Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which disagreement pathway to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
 
@@ -102,15 +104,17 @@ Our intended audience for this research is Veterans who have appealed – or are
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-We would like to recruit 20 Veterans with the goal of successfully completing at least 10 sessions. 
+We would like to recruit 40 Veterans with the goal of successfully completing at least 20 sessions. 
 
 **Primary criteria (must-haves)**
 
 We are primarily looking for Veterans who have experience with the appeals process for disability compensation claims. Participants must be able to speak to their appeals process, so ideally it has happened in the last ~5 years, or they are curently in the process of appealing a claim. 
 
-> Question for recruits: "In the last 10 years, have you appealed a disability compensation claim decision?"
+> Question for recruits: "In the last 10 years, have you appealed a disability compensation claim decision by submitting either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)?"
 
-If possible, we would like some representation from the following underrepresented groups: 
+We would like to recruit at leaset 20 Veterans who worked with a Veteran Service Organization (VSO) in pursuing this disagreement pathway.
+
+We would like some representation from the following underrepresented groups: 
 
 - Primarily mobile users
 - Veterans in a rural area
