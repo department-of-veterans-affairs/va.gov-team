@@ -7,7 +7,7 @@
 
 ### User logs in with LOA1 account
 
-- [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/my-va-loa1-user.md)
+- [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases)
 
 ### User logs in with LOA3 account
 
