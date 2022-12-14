@@ -116,7 +116,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
   
 **Key result #3**: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
 
-Source: these numbers come from VA Profile. Note that BAI address corrections are also made outside of va.gov/profile; they are included in the overall numbers shown below and account for the large volume of BAI updates compared to GA widget data.
+**Source: These numbers come from VA Profile. Note that BAI address corrections are also made outside of VA.gov; they are included in the overall numbers shown below and account for the large volume of BAI updates compared to GA widget data. Based on our other analytics, we can safely conclude that the VA.gov profile DID NOT have much of an impact on the drastic drop in bad addresses, and that this drop is likely due to address updates happening through medical facilities, regional offices, and other sources.**
   
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
