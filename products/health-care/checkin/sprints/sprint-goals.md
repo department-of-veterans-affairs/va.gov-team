@@ -22,8 +22,8 @@ ________________________________________________________________________________
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Create user flows and use cases and share with team to get feedback before end of sprint (Ben lead)
 - [Pre-Check-in: Add Link to VAOS to Cancel an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50714)
-    - Explore how we want to offer cancellation and whether full authentication needs to be involved
-    - Create final wireframe (with content) and present to team 
+    - Explore how we want to offer cancellation and whether full authentication needs to be involved (Kelly)
+    - Create final wireframe (with content) and present to team (Kelly)
 - CIE Tech Debt & Bugs
     - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Ya-Ching)
     - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Ben)
@@ -31,8 +31,8 @@ ________________________________________________________________________________
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
-- [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    -.Pending meeting    
+- [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Pending meeting, we will implement it
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - SPIKE - Evaluate VAOS/Appt redesign to know if we can to percentage rollout
     - SPIKE: Look into how we would link to VAOS and what info we would send them 
@@ -43,6 +43,7 @@ ________________________________________________________________________________
     - [SPIKE: What do we need to implement automatic maintenance window triggers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50757)
     - Refactor error pages to make them less opaque phase 2 (ticket)?
     - [Update e2e testing Error page class validationPageLoaded method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50614)
+    - 4 remove feature flag tickets for backend
 
 
 __________________________________________________________________________________________________________________________________________________________
