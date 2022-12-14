@@ -12,14 +12,14 @@ ________________________________________________________________________________
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Fill out information for Design Intent
+    - Fill out information for Design Intent (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Create user flows and use cases and share with team to get feedback before end of sprint (Ben lead)
 - [Pre-Check-in: Add Link to VAOS to Cancel an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50714)
     - Create final wireframe (with content) and present to team (Kelly)
 - CIE Tech Debt & Bugs
-    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Who???)
-    - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Who???)
+    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Zach)
+    - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Ben)
     - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) (Who???) 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
