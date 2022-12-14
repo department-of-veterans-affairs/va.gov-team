@@ -17,3 +17,5 @@ The following pages are available in the Analytics > redesign folder.
    
 - [Event dictionary for metrics measuring the redesigned homepage, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/analytics-event-dictionary.md)
 
+- [Link to task completion funnels in Google analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/IbJEBc4yRsWeCF93uP35fg)
+
