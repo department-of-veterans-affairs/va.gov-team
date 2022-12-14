@@ -90,7 +90,7 @@ Building out pdfs -> better to build as doing it?
 **UX:** 
 - Do users prefer immunizations or vaccinations? 
 - What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
-- Are there any opportunities to make pdfs more accessible? (Ask Tiffany, accessibility experts)
+- Are there any opportunities to make pdfs more accessible? (Ask Tiffany - @jonathanjnelson, accessibility experts)
 
 **Business/ Engineering:** 
 - Are we able to change the name of any data fields to make them more intuitive? 
