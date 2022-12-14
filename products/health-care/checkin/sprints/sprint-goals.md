@@ -33,12 +33,12 @@ ________________________________________________________________________________
     -.Pending meeting    
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - SPIKE - Evaluate VAOS/Appt redesign to know if we can to percentage rollout
+    - SPIKE: Look into how we would link to VAOS and what info we would send them 
     - Implement the new details feature
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - SPIKE: Look into how we would link to VAOS and what info we would send them
-- Automatically Trigger MW
-    - SPIKE: What do we need to implement automatic maintenance window triggers
+    - [SPIKE] - Unified check-in experience
 - CIE Tech Debt & Bugs
+    - [SPIKE: What do we need to implement automatic maintenance window triggers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50757)
     - Refactor error pages to make them less opaque phase 2 (ticket)?
     - [Update e2e testing Error page class validationPageLoaded method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50614)
 
