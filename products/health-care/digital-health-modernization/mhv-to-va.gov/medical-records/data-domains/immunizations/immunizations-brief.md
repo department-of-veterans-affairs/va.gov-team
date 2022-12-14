@@ -50,9 +50,7 @@ Additional features that people would like:
 **When to show this section:**
 - When do users see immunization section in flow? 
 
-Bobby notes: should be close to meds/ allergies, because those are "together" conceptually in other patient portals. 
 
-Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
 **How to show this section:**
 - What should the screen look like? What information should be seen? What should be hidden? 
@@ -82,13 +80,18 @@ Building out pdfs -> better to build as doing it?
     - Still goign to be using BB? Using functionality vs. branding? Domains in how pdf formatted - need to be redesigned. Not using BB branding/ playing down.  
     - Consideration is if someone wants to print off immunization-specific information/ other domain-specific information -> should probably enable
 
-Next steps: 
-- Who do we need to ask this question to? -> Eric (know where pdf is coming from?); accessibility expert (Tiffany/ Josh); Business (Lauren? - if any concerns/ need to be worried about; e.g., display certain things in pdfs vs. view online, because confidential - Carnetta, Bresha perhaps - possibly use during Design Review, or might need specific meeting)
-
 ## Questions to answer
 
-1. **UX:** Any language considerations? Do users prefer immunizations or vaccinations? What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
-2. **Business/ Engineering:** Are we able to change the name of any data fields to make them more intuitive? 
+**UX:** 
+    - Any language considerations? 
+    - Do users prefer immunizations or vaccinations? 
+    - What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
+    - Are there any opportunities to make pdfs more accessible? (Ask Tiffany, accessibility experts)
+
+**Business/ Engineering:** Are we able to change the name of any data fields to make them more intuitive? 
+    - Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
+    - Where do the pdfs "come" from? How are they created? (ask Eric)
+    
 
 **Who do we need to get feedback from?**
 
@@ -121,9 +124,13 @@ Next steps:
 - Sharing the VA Health Summary notes -> implications beyond immunizations: 
     - Intended to share w/ providers and others. Can share using email. 
 
-
 - Previewer: View as live on website - see if need preview/view in Medical Records before downloading report. Viewing = viewing in browswer. 
     - If displaying on website, why need previewer?
     - When download -> value of previewer is see what going to download before downloading. 
+
+Thoughts on where the Immunizations section should go: 
+Bobby notes: should be close to meds/ allergies, because those are "together" conceptually in other patient portals. 
+
+Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
 
