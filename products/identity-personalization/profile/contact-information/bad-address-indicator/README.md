@@ -101,7 +101,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
   
 **Please update all dates to reflect the actual dates for pre-launch and post-launch.**
 
-**Key result #1**: Establish baseline metrics for how many people see the bad address prompt.
+**Key result #1**: Establish baseline metrics for how many people see the bad address prompt (source: [GA Dashboard Widget](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20221024&_u.date01=20221123))
 
 |KPI/metric|Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|
