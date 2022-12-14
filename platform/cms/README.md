@@ -81,7 +81,7 @@ Documentation about the CMS lives in various places
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 
 ### CMS Program management
-- Clarence Maeng, Program Manager - Slack `@Clarence Maeng`
+- Stephen Smythe, Program Manager - Slack `@Stephen Smythe`
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
