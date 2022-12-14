@@ -45,6 +45,7 @@ Part 1: General questions
 
 Part 2: Prototype
 
+
 _Use the scenario from ppt’s own experience (i.e. “main reasons” in question #2)._
 
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
@@ -54,7 +55,7 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 - Is there anything else you would do at this point (doesn’t need to be on VA.gov)?
 
 
-<img width="216" alt="Screen Shot 2022-12-09 at 10 16 39 AM" src="https://user-images.githubusercontent.com/95102058/206734314-6ebfc15c-6a6c-4712-927a-f821f8069868.png">
+<img width="288" alt="Screen Shot 2022-12-14 at 10 26 51 AM" src="https://user-images.githubusercontent.com/95102058/207637416-9b2aead1-2211-4431-8d40-434799eee030.png">
 
 
 ### Hypothesis
