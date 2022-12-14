@@ -12,6 +12,8 @@ Immunizations represent vaccines obtained during service and after service.
 
 ## Relevant links
 
+[Decision log](link)
+
 [Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
 
 [Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
@@ -79,6 +81,10 @@ Less important:
 
 **Accessibility considerations:**
 
+- Need to create Accessibility brief/ document -> link here
+
+_Accessibility considerations specific to Immunizations:_
+- None identified so far
 
 **Where do immunizations fit within IA?**
 
@@ -100,7 +106,7 @@ Building out pdfs -> better to build as doing it?
 
 - Did not probe around language related to Immunizations -> need to either align with Mobile or confirm in testing whether should use term "Immunizations" or "Vaccines" (Mobile uses Vaccines)
 
-- Immunizations were most often grouped either in their own category (labeled "Immunizations," "Shots," "Shots/Immunizations" or "Vac"), in Personal info/About me-esque category ("Basic Health," Personal Health," "Current Status," "Chart," or "Ongoing Medical") or by medical specialty ("General Practitioner").
+- Immunizations were most often grouped either in their own category (labeled "Immunizations," "Shots," "Shots/Immunizations," "Vaxx" or "Vac"), in Personal info/About me-esque category ("Basic Health," Personal Health," "Current Status," "Chart," or "Ongoing Medical") or by medical specialty ("General Practitioner").
 
 <img width="1256" alt="image" src="https://user-images.githubusercontent.com/100814257/207725610-ad83e061-508b-41ed-ae02-58449b469179.png">
 
@@ -126,6 +132,12 @@ Building out pdfs -> better to build as doing it?
 
 **Who do we need to get feedback from?**
 - **Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
+
+
+## Lessons learned
+
+
+## Backlog of potential features
 
 
 ## Additional notes
