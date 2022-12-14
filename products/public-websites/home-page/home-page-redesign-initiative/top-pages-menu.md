@@ -1,8 +1,10 @@
 ## Rationale for links present at the time of the redesigned homepage launch 
 
-> The following documents the rationale for link selection using data period July 12 - September 1, 2022
+> The following documents the rationale for link selection using data period July 12 - September 1, 2022.
+> 
+> This list was originally labeled "Popular on VA.gov" but changed to "Top pages" in November 2022 since topics and content which appear here (i.e. disability claims or mental health) may not be well-represented using "popular" as a label
 
-### Links present in "Popular on VA.gov" menu for launch (WIP) 
+### Links present in "Top pages" menu for launch (WIP) 
 
 Check your claim or appeal status
 - Not a top task
