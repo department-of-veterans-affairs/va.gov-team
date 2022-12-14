@@ -1,7 +1,6 @@
 # SPRINT GOALS
 
 __________________________________________________________________________________________________________________________________________________________
-    - [Content updates in sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50502) (Kelly)
 
 
 ## 12/14/2022 - 12/27/2022 ---------------------- FUTURE -----------------------------
