@@ -1,6 +1,6 @@
-# Research Plan for Benefits Team 1, Decision Review Options
+# Research Plan for Benefits Team 1: Decision Review Options
 
-##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)
+##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182). In other files, these may also be referred to as "Disagreement Pathways."
 
 ## Background
 Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which decision review option to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
@@ -22,26 +22,26 @@ This work supports the following OCTO Objectives:
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran is applying for disability compensation benefits, this feature would be relevant. For many Veterans, this can happen at any point along their life journey. 
 
 ## Research Goals	
-With this research, we are hoping to speak with Veterans who have engaged in a disagreement pathway. We want to learn more about the pain points in this user journey. 
+With this research, we are hoping to speak with Veterans who have engaged in a decision review. We want to learn more about the pain points in this user journey. 
 
-We are also curious to find out more about which of these journeys can be fully self-service, given the complexity and high stakes nature of disagreement pathways. We want to understand more about the Veteran experience working with VSOs and third party legal reps, so that we can create an experience that guides Veterans to either self-service or VSO-supported options in the optimal way.
+We are also curious to find out more about which of these journeys can be fully self-service, given the complexity and high stakes nature of these reviews. We want to understand more about the Veteran experience working with VSOs and third party legal reps, so that we can create an experience that guides Veterans to either self-service or VSO-supported options in the optimal way.
 
-We also want learn about new opportunities for Veterans to pursue disagreement pathways that have been enabled by the passage of the PACT Act.
+We also want learn about new opportunities for Veterans to pursue decision reviews that have been enabled by the passage of the PACT Act.
 
 ### Outcome
-This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of disagreement pathways from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
+This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of decision review options from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
 
 ### Research questions
 Part 1: General questions
-- Did you use VA.gov to file your (DP type)?
-- What were your main reasons for filing the (DP type)?
-- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when (DP type)?
-- On a scale of 1-5, how would you have rated your experience submitted a (DP type)?
+- Did you use VA.gov to file your (decision review option)?
+- What were your main reasons for filing the (decision review option)?
+- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)?
+- On a scale of 1-5, how would you have rated your experience submitted a (decision review option)?
 - What were your biggest challenges with the process? 
 - Was there anything about the process that worked particularly well?
 - How did you feel about the end result (or how do you feel so far, if it’s underway)?
 
-- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Is this helpful? 
+- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] What do you think about this page? Is this helpful? 
 
 Part 2: Prototype
 
@@ -51,7 +51,7 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
 - [Indicating to the survey CTA] What do you think this is?
 - [Take ppt through the questions] What do you think of this?
-- [At the end] What did you think of that? Would you feel confident filing an appeal in this way?
+- [At the end] What did you think of that? Would you feel confident submitting a decision review in this way?
 - Is there anything else you would do at this point (doesn’t need to be on VA.gov)?
 
 
@@ -60,8 +60,8 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 
 ### Hypothesis
 
-- We know from previous research that Veterans are frustrated with the amount of time the appeals process takes. We expect this to emerge as a major pain point. 
-- We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing disagreement pathways. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
+- We know from previous research that Veterans are frustrated with the amount of time the decision review process takes. We expect this to emerge as a major pain point. 
+- We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing decision review options. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
 - We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
 - We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
@@ -69,7 +69,7 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 As mentioned above, the research sessions will be broken into two parts: 
 
 **Part 1: Semi-structured interviews** 
-In this fist part, the interviewer will ask the Veterans a series of questions with the goal of learning more about their appeals experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
+In this fist part, the interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
 
 **Part 2: Usability testing**
 We will be using a concept prototype for this, meaning we won't be looking for perfect usability. The goal is also generative: to explore whether this type of tool would be useful to Veterans, and also to see if there are any obvious gaps in its content that need to be filled in a subsequent iteration.
@@ -100,7 +100,11 @@ If recruiting outside of Perigean’s participant database:
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this research is Veterans who have appealed – or are in the process of appealing – a disability compensation claim decision.
+Our intended audience for this research is Veterans who have gone throughh a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
+
+- 20 ppts who have submitted a Supplemental Claim
+- 10 ppts who have submitted a Higher Level Review
+- 10 ppts who have submitted a Notice of Disagreement
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
@@ -109,17 +113,17 @@ We would like to recruit 40 Veterans with the goal of successfully completing at
 
 **Primary criteria (must-haves)**
 
-We are primarily looking for Veterans who have experience with the appeals process for disability compensation claims. Participants must be able to speak to their appeals process, so ideally it has happened in the last ~5 years, or they are curently in the process of appealing a claim. 
+We are primarily looking for Veterans who have experience with the decision review process for disability compensation claims. Participants must be able to speak to their process, so ideally it has happened in the last ~5 years, or they are curently in the process of a decision review.
 
-> Question for recruits: "Have you ever you appealed a disability compensation claim decision by submitting either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)?"
+> Question for recruits: "Have you ever submitted either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)?"
 
-We would like to recruit at least 20 Veterans who worked with a Veteran Service Organization (VSO) in pursuing this disagreement pathway.
+We would like to recruit at least 20 Veterans who worked with a Veteran Service Organization (VSO) in pursuing their decision review. 
 
-We would like some representation from the following underrepresented groups: 
+We would like representation from the following underrepresented groups: 
 
-- Primarily mobile users
-- Veterans in a rural area
-- Veterans without a degree
+- 10 Primarily mobile users
+- 10 Veterans in a rural area
+- 10 Veterans without a degree
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
