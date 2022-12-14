@@ -39,51 +39,19 @@ There are many players in this space -- VA.gov, MHV, VA Profile (stores preferen
 
 ### Prescription tracking differences 
 
-[Will add details later]
+VEText and MHV use different sources (Local vs. CMOP) to power their prescription notifications. This will need to be reconciled eventually so people are receiving comprehensive and accurate updates.
 
-## Recommendations for migration approach
+## Migration approach
 
-### Top recommendation: MHV integrates its profile with VA Profile
+### Step one: MHV integrates its profile with VA Profile
 
-This would involve MHV integrating their notification preferences with VA Profile as soon as possible. Then, we could add preferences one-at-a-time to VA.gov as corresponding health tools move over to the site. 
+- **Part A**: Fill out VA Profile intake form; get backend support for MHV notification preferences.
+- **Part B**: MHV integrates their frontend with the VA Profile backend.
 
-#### Pros
+### Step two: VA.gov provides support for MHV preferences
 
-- This would correspond to the phased health apartment strategy.
-- If needed, preferences could coexist on VA.gov and MHV at the same time until we are ready to turn off the feature on MHV.
-- This would allow for a seamless UX during the transition between MHV > VA.gov, as users could access either profile, data would save in the same backend (VA Profile).
+We'll need to figure out if we want to do this one-by-one in correspondence with the health apartment features moving into VA>gov, or if we want to support all preferences at once.
 
-#### Cons
+### Step three: Move MHV notifications over to VANotify platform
 
-- This requires development on MHV, and there are many competing priorities for people's time. This may not be a reasonable lift based on other priorities for the MHV team.
-
-#### Notes
-
-- No blockers for sending or retrieving data with VA Profile.
-- Would involve creating intake for VA Profile.
-- Re: developers connecting MHV to VA Profile or general involvement -- there are resource constraints. They are going to get very busy after increment 9, so it's not clear who could do this or when.
-- Also a matter of priority -- where do preferences fall in list of priorities?
-- Additional considerations around defaults and how those are set for new or existing users.
-- MHV next PI (10) starts in March.
-- Carnetta also wants to talk about contact info AND notification preferences with VA Profile.
-- Need to consolidate appointment reminders (may be getting notifications from multiple sources).
-- Next steps: (1) Confirm what MHV has already asked for in terms of VA Profile. (2) Fill out VA Profile intake form for notification preferences.
-
-
-
-
-
-
-### If integrating MHV <> VA Profile is not possible: VA.gov conducts discovery on whether it makes sense to integrate with MHV backend first, then work on the VA Profile integration over time
-
-#### Pros
-
-- Users could use either VA.gov or MHV frontends, and preferences would save in the same place.
-- We could still move preferences to the VA Profile backend one at a time.
-- We would have flexibility in how we add preferences to the VA.gov frontend, either one at a time or all at once, and we could do this any time.
-- This does not require additional changes to MHV beyond work that is already required (ie. MHV will need to coordinate with us on this work).
-
-#### Cons
-
-- VA.gov is effectively responsible for two integrations -- one to MHV, then reintegrating everything through VA Profile.
-- I don't have a sense of technical complexity for integrating with MHV, and because of contract switches, we won't have anyone to do technical discovery on this until the new year.
+This may happen concurrently with other parts of the process, but it is not necessary that it happen as preferences are built and supported. Preference work can still happen while the actual notifications are moved into the VANotify platform.
