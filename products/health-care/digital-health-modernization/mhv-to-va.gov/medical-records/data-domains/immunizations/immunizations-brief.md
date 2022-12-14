@@ -78,6 +78,12 @@ Less important:
 Building out pdfs -> better to build as doing it? 
 - Need to confirm w/ pdf accessibility specialists - Shared Support folks
 - What does the VA use for creating pdfs
+    - Are we needing to design a pdf? Or are they automatically generated? -> 
+    - Still goign to be using BB? Using functionality vs. branding? Domains in how pdf formatted - need to be redesigned. Not using BB branding/ playing down.  
+    - Consideration is if someone wants to print off immunization-specific information/ other domain-specific information -> should probably enable
+
+Next steps: 
+- Who do we need to ask this question to? -> Eric (know where pdf is coming from?); accessibility expert (Tiffany/ Josh); Business (Lauren? - if any concerns/ need to be worried about; e.g., display certain things in pdfs vs. view online, because confidential - Carnetta, Bresha perhaps - possibly use during Design Review, or might need specific meeting)
 
 ## Questions to answer
 
@@ -114,5 +120,10 @@ Building out pdfs -> better to build as doing it?
 
 - Sharing the VA Health Summary notes -> implications beyond immunizations: 
     - Intended to share w/ providers and others. Can share using email. 
+
+
+- Previewer: View as live on website - see if need preview/view in Medical Records before downloading report. Viewing = viewing in browswer. 
+    - If displaying on website, why need previewer?
+    - When download -> value of previewer is see what going to download before downloading. 
 
 
