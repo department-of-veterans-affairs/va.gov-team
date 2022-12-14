@@ -1,6 +1,6 @@
 # Notes: Data fields and UX considerations
 
-Last updated: December 8, 2022
+Last updated: December 14, 2022
 
 ## Purpose
 
@@ -12,8 +12,17 @@ To serve as a source of truth around data field requirements and specifications,
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 **Data field title:** 
+Clinical notes? Notes from your doctor? TBD - should probably test
 
 **Data fields to include:**
+- Date/Time
+- Note Title
+- Location
+- Signed by
+- Co-signed by
+- Date/time signed
+- Note
+
 
 ## Use Cases
 
@@ -32,7 +41,7 @@ Can either include use case info here or link to another file - depends on how m
 **Accessibility considerations:**
 
 
-**Where do immunizations fit within IA?**
+**Where do Notes fit within IA?**
 
 
 **View vs. share vs. download considerations:**
@@ -47,3 +56,5 @@ Can either include use case info here or link to another file - depends on how m
 
 
 ## Additional notes about Notes
+- Notes from Jenny: On BB, this is called "VA Notes", which includes all notes (progress notes, visit summary, procedure messages...). In CCDA, encounter notes, consultation notes and procedure notes are all separated.
+  - So this means we need to decide if we separate them out or keep them together and linked with the healthcare interaction/ occurrence to which they pertain. E.g., link notes with clinic visit, surgery/ procedure, etc. OR if we do it some other way? Has backend implications - need to liaise w/ both Jenny and Eric to understand better. 
