@@ -1,11 +1,11 @@
-# Research Plan for Benefits Team 1, Disagreement Pathways
+# Research Plan for Benefits Team 1, Decision Review Options
 
-##### Note: "Disagreement Pathway" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)
+##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182)
 
 ## Background
-Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which disagreement pathway to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
+Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which decision review option to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
 
-With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which disagreement pathway is right for them and a means to pursue that pathway, then we expect them to receive the full disability benefits they've earned on a faster timeline.
+With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which decision review option is right for them and a means to pursue that option, then we expect them to receive the full disability benefits they've earned on a faster timeline.
 
 See more: [Disagreement Pathways Research Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Disagreement-Pathways/research-strategy.md)
 
