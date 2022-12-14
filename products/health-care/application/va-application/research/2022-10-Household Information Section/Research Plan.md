@@ -321,5 +321,5 @@ Mobile Prototype
 - [Destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257)
 - [Mobile prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 - [Notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes)
-- [Synthesis notes Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1666894526417/3cd5fb1ef447104ac677305a840849e322956178?sender=u9b3a9c1b688c0e4bb4994314)
+- [Synthesis notes Mural board]
 - Research Findings
