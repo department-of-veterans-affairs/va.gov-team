@@ -1,4 +1,4 @@
-# CMS back-end style guide
+# CMS Style Guide
 How to write text that improves the usability of the VA.gov content management system and communications to users. This guide helps designers make good UX writing decisions when designing parts of the CMS interface and to help promote consistency across the application. 
 
 You might write a button label, some help text, or even a Knowledge Base article. Anything one of our users reads while using the CMS counts as UX writing and should follow the style outlined in this guide. 
