@@ -10,7 +10,7 @@ As a Veteran who uses VA online scheduling, I want to be self schedule or reques
 ## Desired Outcomes
 - Be able to direct schedule or request an appointment based on a selection of the provider 
 - Improve overall satisfaction (rating) of VA online scheduling
-- Improve retention rate of VA online scheduling homepage (dashboard)
+- Improve retention rate of VA online scheduling 
 
 ## Undesired Outcomes
 - 
