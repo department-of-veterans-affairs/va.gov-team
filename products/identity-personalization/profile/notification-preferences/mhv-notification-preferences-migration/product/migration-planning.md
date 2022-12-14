@@ -57,6 +57,23 @@ This would involve MHV integrating their notification preferences with VA Profil
 
 - This requires development on MHV, and there are many competing priorities for people's time. This may not be a reasonable lift based on other priorities for the MHV team.
 
+#### Notes
+
+- No blockers for sending or retrieving data with VA Profile.
+- Would involve creating intake for VA Profile.
+- Re: developers connecting MHV to VA Profile or general involvement -- there are resource constraints. They are going to get very busy after increment 9, so it's not clear who could do this or when.
+- Also a matter of priority -- where do preferences fall in list of priorities?
+- Additional considerations around defaults and how those are set for new or existing users.
+- MHV next PI (10) starts in March.
+- Carnetta also wants to talk about contact info AND notification preferences with VA Profile.
+- Need to consolidate appointment reminders (may be getting notifications from multiple sources).
+- Next steps: (1) Confirm what MHV has already asked for in terms of VA Profile. (2) Fill out VA Profile intake form for notification preferences.
+
+
+
+
+
+
 ### If integrating MHV <> VA Profile is not possible: VA.gov conducts discovery on whether it makes sense to integrate with MHV backend first, then work on the VA Profile integration over time
 
 #### Pros
