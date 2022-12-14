@@ -75,7 +75,7 @@ Documentation about the CMS lives in various places
 - Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
 
 ### Sitewide CMS Team
-- Erika Washburn, Product Manager - Slack `@Erika Washburn`
+- Erika Washburn, Lead Product Manager - Slack `@Erika Washburn`
 - Dawn Pruitt, Delivery Manager - Slack `@Dawn Pruitt`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
