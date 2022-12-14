@@ -9,7 +9,7 @@ For LOA3 users who sign in and have outstanding overpayment debts, we will show 
 * When a user has overpayment debts to show, they will *not* see a link to "Learn about VA debt."
 * This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Outstanding debts header on mobile.
 * Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-* [Desktop mockup]([https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZOEVYDG](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E5951AEA-0F34-4DE1-9C1F-EFD06B89483B) 
+* [Desktop mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZOEVYDG](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E5951AEA-0F34-4DE1-9C1F-EFD06B89483B)
 * [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FE1C40BC-5688-46E8-8E23-982C2BC71CE3)
 
 ## How to reproduce
