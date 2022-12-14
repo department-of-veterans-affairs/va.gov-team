@@ -42,7 +42,7 @@ NEW APPOINTMENT
 **PAGE HEADER**
 
 ```
-What's the closest city to you
+What's the closest city to you?
 ```
 
 **PAGE CONTENT**
@@ -183,10 +183,11 @@ Choose a preferred language
 
 **PAGE CONTENT**
 
+```
 Select your language preference for your community care provider. (*Required)
 
 {English, Chinese, French, German, Italian, Korean, Portuguese, Russian, Spanish, Tagalog (Filipino), Vietnamese, Other}
-
+```
 
 #### Language - no selection
 
