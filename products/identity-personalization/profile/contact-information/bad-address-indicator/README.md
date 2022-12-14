@@ -108,7 +108,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 |# of views of the bad address prompt on Personal Info| 226|TBD|TBD|
 |# of views of the bad address prompt on Contact Info|160|TBD| 
 
-**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase) ((source: [GA Dashboard Widget](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20221024&_u.date01=20221123)).
+**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase)(source: [GA Dashboard Widget](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20221024&_u.date01=20221123)).
 
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
