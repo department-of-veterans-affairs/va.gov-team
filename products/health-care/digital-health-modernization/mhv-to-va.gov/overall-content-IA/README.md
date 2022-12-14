@@ -2,7 +2,7 @@
 
 This directory contains information specific to overall content and IA strategy, and how the Health Apartment will fit into VA.gov's IA and navigation.
 
-### IA testing - Round 1
+### IA testing for MHV integration with VA.gov health care content - Round 1
 - Test 1: Veteran unmoderated tree test:  
   - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/2022%20Health%20Hub%20Tree%20Test%20research%20plan.md)
   - [Recruiting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/Research%20recruitment%20Cohort%20A%20to%20A2%206.16.2022.xlsx)
@@ -22,11 +22,9 @@ This directory contains information specific to overall content and IA strategy,
 
 *Please note: In the course of creating the overall results, multiple errors were found in the set-up of the Veteran and Caregiver tree tests that impacted some of the data.  The findings from those individual tests are still mostly accurate, but some individual task results did change drastically.  Utilize the overall results for high level findings, and the task analysis spreadsheet for detailed findings on individual tasks.*
 
-### IA testing - Round 2
+### IA testing for MHV integration with VA.gov health care content - Round 2
 - [Research and recruiting plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/Tree-Test-Round-2-Research-Plan.md)
 - [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/H2-tree-test.xlsx)
 - Results
-
-
 
 
