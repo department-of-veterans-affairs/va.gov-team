@@ -93,7 +93,7 @@ Building out pdfs -> better to build as doing it?
 
 - The legacy MHV allows users to contribute patient generated data (e.g., when users get a flu shot). This domain represents an opportunity to determine the role of patient-generated health data (PGHD). While incorporating PGHD is not feasible in the MVP, this represents a backlog feature in which we might enable integration with other systems to pull in data (e.g., from a CVS pharmacy where users obtain vaccines) or in which users might contribute data. 
 - Differentiate between overdue and not overdue immunizations -> current Blue Button only shows when was last shot, but not what's overdue. This was requested by a couple participant as a useful feature. Would it be possible? -> technical implications? (ask Eric)
-- Separate immunizations into preventive records - flu, etc. Wonder if something missing - grouping immunizations into preventive care? Preventive care has overdue, not due; in Immunization section, has list of immunizations gotten. 
+- In MyChart/Epic -> They separate immunizations into preventive records - flu, etc. Wonder if something missing - grouping immunizations into preventive care? Preventive care has overdue, not due; in Immunization section, has list of immunizations gotten. 
     - Preventive care - ongoing (if overdue) - cues to action here
     - Immunization - complete list of all immunizations
     - Our suggestion: keep all immunizations together, but have section that flags overdue shots
