@@ -10,6 +10,16 @@ To serve as a source of truth around data field requirements and specifications,
 
 Immunizations represent vaccines obtained during service and after service. 
 
+## Relevant links
+
+[Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
+
+[Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+
+[Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
+
+[Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
+
 ## Immunization data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
@@ -42,6 +52,7 @@ Additional features that people would like:
 
 **Edge Cases**
 
+Any edge cases for immunizations? 
 
 ## UX considerations
 
@@ -85,7 +96,22 @@ Building out pdfs -> better to build as doing it?
     - Still goign to be using BB? Using functionality vs. branding? Domains in how pdf formatted - need to be redesigned. Not using BB branding/ playing down.  
     - Consideration is if someone wants to print off immunization-specific information/ other domain-specific information -> should probably enable
 
-## Questions to answer
+### Research that relates to Immunizations
+
+- Did not probe around language related to Immunizations -> need to either align with Mobile or confirm in testing whether should use term "Immunizations" or "Vaccines" (Mobile uses Vaccines)
+
+- Immunizations were most often grouped either in their own category (labeled "Immunizations," "Shots," "Shots/Immunizations" or "Vac"), in Personal info/About me-esque category ("Basic Health," Personal Health," "Current Status," "Chart," or "Ongoing Medical") or by medical specialty ("General Practitioner").
+
+<img width="1256" alt="image" src="https://user-images.githubusercontent.com/100814257/207725610-ad83e061-508b-41ed-ae02-58449b469179.png">
+
+
+- Time was a consistent theme across interviews. Participants expected information to be organized in relation to time - most often with most recent information more easily accessible, particularly if a patient needed to do anything with information (e.g., schedule a follow-up visit, or ask a question for a healthcare provider). In this way, time intersected with urgency, in that some participants described wanting recent information that needed to be acted upon made immediately evident in health records.
+
+- What does this mean for Immunizations? 
+    - Time x urgency = need to flag when immunizations are due
+    - Unclear implications for organizing immunizations -> by age? Chronologically? 
+
+### Questions to answer
 
 **UX:** 
 - Do users prefer immunizations or vaccinations? 
