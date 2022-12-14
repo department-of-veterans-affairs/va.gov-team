@@ -37,6 +37,10 @@ MHV features are moving over 1-by-1 to VA.gov. This presents a decision we'll ne
 
 There are many players in this space -- VA.gov, MHV, VA Profile (stores preferences), and VANotify (supports notifications). We'll all need to work together to make sure both the preferences and actual notifications fully migrate into each system.
 
+### Prescription tracking differences 
+
+[Will add details later]
+
 ## Recommendations for migration approach
 
 ### Top recommendation: MHV integrates its profile with VA Profile
