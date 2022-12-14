@@ -71,6 +71,44 @@ Please select an answer
 
 ---
 
+### Alt Path: Dose Received, Can't Schedule Online
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+We can't schedule your second dose online
+```
+
+**PAGE CONTENT**
+
+```
+Call to schedule your second dose
+
+Here's what to know:
+- You must receive the same vaccine for both doses. 
+- We encourage you to go to the same location for both doses. But even if you got your first dose outside of VA, you can go to any VA facility that offers the same type of vaccine.
+
+Your facilities
+
+{Facility Name}
+{City, ST}
+{distance}
+Main phone: {phone number}
+TTY: 711
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+
+---
+
 ## Vaccine - Choose Facility
 
 
@@ -141,6 +179,52 @@ TTY: 711
 
 ---
 
+## Choose a clinic
+
+### Multiple Clinics Found
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Choose a clinic
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Facility name} clinics offer vaccine appointments at different times.
+```
+
+**PAGE CONTENT**
+
+```
+Choose where you’d like to get your vaccine. *Required)
+
+- {Clinic name}
+- {Clinic name}
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+```CONTINUE```
+
+
+---
+
+### Error Validation
+
+```
+Please select a clinic for your appointment
+```
+
+
 ## Calendar
 
 
@@ -180,10 +264,10 @@ Please choose your preferred date and time for your appointment
 
 ```CONTINUE```
 
-## Second Dose Info
 ---
 
-## Current
+## Second Dose Info
+
 
 **FORM TITLE**
 
