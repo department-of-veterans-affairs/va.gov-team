@@ -1,8 +1,8 @@
 ---
-name: TEVI Product Support Base Template
+name: VNCE Product Support Base Template
 about: This is a default template for the VEText/AVS Product Support Team to follow
   for support tasks
-title: Task at hand [MM/DD/YY]
+title: "[MM/DD/YY] Task at hand "
 labels: Product Support vt, VEText vt
 assignees: ''
 

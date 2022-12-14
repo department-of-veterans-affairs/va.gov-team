@@ -2,8 +2,8 @@
 name: MHV to VA.gov Content Task
 about: For MHV Core team to work with Sitewide Content team
 title: "[Content] MHV to VA.gov: [APP NAME]: Create Content"
-labels: my-health, design, content
-assignees: 'MarciMcGuire'
+labels: content, design, my-health
+assignees: MarciMcGuire
 
 ---
 
@@ -53,4 +53,4 @@ As a [role], I want to [what] so that I can [do something].
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

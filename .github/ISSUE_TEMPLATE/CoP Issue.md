@@ -23,4 +23,3 @@ _Links to support request, any additional context someone needs, how it was foun
 ## How to configure this issue
 - [ ] **Labeled with 'platform-cop'** 
 - [ ] **Labeled with Practice Area** (`platform-cop-backend`, `platform-cop-frontend`, `platform-cop-devops`)
-

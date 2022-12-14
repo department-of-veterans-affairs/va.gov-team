@@ -2,7 +2,7 @@
 name: Contact Center Issue
 about: For tracking T3 issues from Salesforce
 title: ''
-labels: contact-center, benefits-team-1
+labels: benefits-team-1, contact-center
 assignees: ''
 
 ---

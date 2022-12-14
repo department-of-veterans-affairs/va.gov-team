@@ -2,7 +2,7 @@
 name: Check In Experience Update TestRail Test Cases
 about: For Check In Experience to update our TestRail Test Cases
 title: "[UX][Product] Update Test Cases"
-labels: ux, product, HCE-Checkin
+labels: HCE-Checkin, product, ux
 assignees: ''
 
 ---

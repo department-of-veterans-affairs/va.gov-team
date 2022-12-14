@@ -1,11 +1,12 @@
 ---
 name: MHV to VA.gov Sprint Plan
 about: MHV to VA.gov Sprint Plan template
-title: "SPRINT XX - CORE TEAM"
+title: SPRINT XX - CORE TEAM
 labels: my-health
-assignees: 'MarciMcGuire'
+assignees: MarciMcGuire
 
 ---
+
 ## 🎯 SPRINT OBJECTIVES
 - [ ] Objective
 

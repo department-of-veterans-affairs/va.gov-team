@@ -2,8 +2,8 @@
 name: MHV to VA.gov TEST TEMPLATE
 about: For MHV to VA.gov Research Assets Task
 title: "[Practice Area] MHV to VA.gov: APP NAME: TASK NAME"
-labels: my-health, ux, research
-assignees: 'MarciMcGuire'
+labels: my-health, research, ux
+assignees: MarciMcGuire
 
 ---
 
@@ -51,4 +51,4 @@ assignees: 'MarciMcGuire'
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

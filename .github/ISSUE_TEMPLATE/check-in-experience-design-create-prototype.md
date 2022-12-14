@@ -2,7 +2,7 @@
 name: Check In Experience Create Prototype Task
 about: For Check In Experience to create prototype to test with end users
 title: "[Design] Create Prototype to Test with End Users"
-labels: ux, design, HCE-Checkin
+labels: design, HCE-Checkin, ux
 assignees: ''
 
 ---
@@ -16,6 +16,3 @@ As a [role], I want to [what] so that I can [do something].
 
 ## Acceptance Criteria
 - [ ] UI review meeting with product/UX team for feature capabilities
-
-
-

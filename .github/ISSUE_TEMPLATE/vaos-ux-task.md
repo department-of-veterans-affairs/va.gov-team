@@ -2,10 +2,11 @@
 name: VAOS UX Ticket / Task Template
 about: For filing standard VAOS UX requirements.
 title: ''
-labels: vaos-product-design, ux
+labels: ux, vaos-product-design
 assignees: ''
 
 ---
+
 ## Task Description
 
 

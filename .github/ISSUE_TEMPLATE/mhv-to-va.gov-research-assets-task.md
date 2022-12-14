@@ -2,7 +2,7 @@
 name: MHV to VA.gov Research Assets Task
 about: For MHV to VA.gov Research Assets Task
 title: "[Research] MHV to VA.gov: APP NAME: TASK NAME"
-labels: ux, research, my-health
+labels: my-health, research, ux
 assignees: ''
 
 ---
@@ -41,4 +41,4 @@ assignees: ''
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

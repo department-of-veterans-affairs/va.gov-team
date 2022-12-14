@@ -4,7 +4,7 @@ about: Submit a request to change a URL and/or implement a redirect for a URL. A
   for vanity URL requests.
 title: Redirect Request
 labels: Sitewide IA
-assignees: RLHecht, jilladams, heyjoni
+assignees: heyjoni, jilladams, RLHecht
 
 ---
 

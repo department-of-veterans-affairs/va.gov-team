@@ -2,7 +2,7 @@
 name: MHV to VA.gov Research Study Report Task
 about: MHV to VA.gov Research Study Report Tasking
 title: "[Research] MHV to VA.go: APP NAME: Create report"
-labels: ux, research, my-health
+labels: my-health, research, ux
 assignees: ''
 
 ---

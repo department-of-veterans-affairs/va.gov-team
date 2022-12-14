@@ -1,13 +1,11 @@
 ---
 name: Shared-Support-QA Test Plan
-about: For VA.gov Application Teams to request QA Test Plan to be developed during Build
-  Phase of development.  Open this ticket AT LEAST 4 WEEKS (2 SPRINTS) BEFORE expected
-  Platform Staging Review.
+about: For VA.gov Application Teams to request QA Test Plan to be developed during
+  Build Phase of development.  Open this ticket AT LEAST 4 WEEKS (2 SPRINTS) BEFORE
+  expected Platform Staging Review.
 title: "[Product/Feature] Shared-Support-QA Test Plan"
-labels: Shared Support Team, QA, qa-test-plan
-assignees:
-- tlei123
-- eflaherty
+labels: QA, qa-test-plan, Shared Support Team
+assignees: eflaherty, tlei123
 
 ---
 

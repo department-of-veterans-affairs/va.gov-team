@@ -2,7 +2,7 @@
 name: Authorized Experience Profile New Issue Template
 about: Basic template for creating Authorized Experience Profile team issues
 title: Practice Area | Profile | [Project]| [Issue Name]
-labels: needs-grooming, profile, vsa, sprint-planning, authenticated-experience
+labels: authenticated-experience, needs-grooming, profile, sprint-planning, vsa
 assignees: ''
 
 ---
@@ -44,4 +44,3 @@ Describe the issue background and scope
 - Assign to a Profile team member
 - Associate with an Epic if applicable
 - If creating for yourself: estimate work if enough info exists to do so
-

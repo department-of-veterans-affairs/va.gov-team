@@ -1,8 +1,8 @@
 ---
 name: OCTO Product Operations (Ops) Issue Template
 about: For the OCTO Product Ops team
-title: 
-labels: 
+title: ''
+labels: ''
 assignees: ''
 
 ---

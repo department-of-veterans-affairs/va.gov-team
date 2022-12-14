@@ -1,8 +1,8 @@
 ---
 name: MHV to VA.gov Research Interview Task
 about: MHV to VA.gov Research Interview Tasking
-title: "MHV to VA.gov: APP NAME: Conduct interviews"
-labels: ux, my-health
+title: 'MHV to VA.gov: APP NAME: Conduct interviews'
+labels: my-health, ux
 assignees: ''
 
 ---

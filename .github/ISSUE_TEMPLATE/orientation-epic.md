@@ -2,7 +2,7 @@
 name: Platform Orientation Template
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template [Your name here]
-labels: governance-team, analytics-insights, analytics-request
+labels: analytics-insights, analytics-request, governance-team
 assignees: ''
 
 ---
@@ -98,5 +98,3 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
 - [ ] New VFS team member has been added to the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
 - [ ] New VFS team member has been added to the vets.gov-write GitHub team
-
-
