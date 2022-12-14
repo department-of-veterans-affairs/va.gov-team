@@ -18,7 +18,7 @@
 
 Specifically, these are challenges we need to consider in how we approach moving notification preferences from MHV to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; timing; etc).
 
-### MHV backend is currently not connected to VA Profile
+### MHV is currently not connected to VA Profile
 
 Unlike most features moving over to VA.gov, notification preferences will need to change backends in addition to the frontend. VA.gov integrates with VA Profile for notification preferences, while MHV does not. This means that we can/should not have VA.gov supporting health preferences at the same time as MHV. Otherwise, we risk people setting one preference in one place or the other, and those preferences don't match. 
 
