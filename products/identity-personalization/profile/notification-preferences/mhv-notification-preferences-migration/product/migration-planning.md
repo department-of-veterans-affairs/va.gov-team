@@ -1,4 +1,6 @@
-# Migration planning
+# Migration plan
+
+## Notifications moving into VA.gov
 
 **Existing notifications and notification preferences in MyHealtheVet**
 
