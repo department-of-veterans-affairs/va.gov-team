@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: December 2, 2022
+Last Updated: December 14, 2022
 
 ### Communications
 
@@ -120,7 +120,8 @@ Note: we need to get these numbers from VA Profile.
   
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|# of people with the bad address indicator|554,093 (as of 10/12/22)|TBD|TBD|  
+|# of people with the bad address indicator|554,093 (as of 10/12/22)|448,551 (as of 11/23/22)
+|TBD|  
 
 </details>
 
