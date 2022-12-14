@@ -51,6 +51,7 @@ Additional features that people would like:
 - When do users see immunization section in flow? 
 
 Bobby notes: should be close to meds/ allergies, because those are "together" conceptually in other patient portals. 
+
 Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
 **How to show this section:**
