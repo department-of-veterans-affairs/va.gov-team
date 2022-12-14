@@ -18,7 +18,7 @@ This document will help all teams working on VA.gov understand when you should e
 General/support: [#cms-support](https://dsva.slack.com/channels/cms-support)
 For engineers: [#cms-engineering](https://dsva.slack.com/channels/cms-engineering)
 
-CMS product team members are also present in some product teams, including [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-sitewide-facilities). You can ping us there for product-specific questions. 
+CMS product team members are also present in some product teams, including [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vsa-sitewide-facilities](https://dsva.slack.com/channels/vsa-sitewide-facilities). You can ping us there for product-specific questions. 
 
 ## <a id="whentorequest"></a>When to check-in/collaborate with CMS team
 
