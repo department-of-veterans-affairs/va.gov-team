@@ -1,6 +1,6 @@
 # Immunization: Data fields and UX considerations
 
-Last updated: December 8, 2022
+Last updated: December 14, 2022
 
 ## Purpose
 
@@ -30,14 +30,14 @@ Things to think about that inform use cases:
 - Veterans and Caregivers might need to share their immunizations record with new HCPs to determine when they need booster shots
 - Some immunizations are one and done, others require regular or semi-regular boosters (e.g., flu shot; COVID shots; tetanus shots), others are age based (e.g., shingles shots)
 
+**Common Use Cases**
+
 What do people want to use their immunization records for: 
 - To prove you have been immunized (e.g., job requirements, travel requirements, COVID-specific requirements)
 - To identify, either alone or with an HCP, that you need or don't need an immunization (e.g., age-based immunizations; spacing between immunizations)
 
 Additional features that people would like: 
 - "Overdue" flag or "upcoming" flag for immunizations that patients need to receive (e.g., COVID booster, tetanus shot)
-
-**Common Use Cases**
 
 
 **Edge Cases**
