@@ -31,7 +31,6 @@ There’s a lot this guide won’t cover, especially when it comes to more gener
 **Styling**
 - Emphasis / bolded text
 - Italics
-- 
 
 **Specific words and phrases**
 - Log in - use to indicate an action. Example: “Log in with PIV”
