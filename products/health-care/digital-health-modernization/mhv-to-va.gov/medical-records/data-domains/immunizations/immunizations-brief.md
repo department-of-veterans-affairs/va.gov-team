@@ -102,3 +102,17 @@ Building out pdfs -> better to build as doing it?
 
 - Share: use SM for sharing; is sharing with non-VA HCPs in scope? Or is that backlog feature, post MVP? Share directly to portal or via email? Need to talk to policy teams to determine implications/ limitations? Shouldn't use Google, etc. 
         - Lexi: how are data shared via SM? (CCDA?) Lichelle might know as well. 
+        - Manual process -> send message saying thumbs up, or attach pdf. Message can become part of medical record - unclear if message copied/pasted into notes, or if push button on their end and added. But definitely goes into Notes. 
+
+- VHIE notes -> implications beyond immunizations: 
+    -  Opt Out: I choose not to electronically share my VA health record with my non-VA providers. I understand this means they may not have a complete view of my medical history which could put me at risk.
+    - Opt Back In: I choose to resume electronically sharing my VA health record with my non-VA providers so they may have a more complete view of my medical history.
+    - Beginning April 17, 2020, VA will seamlessly and securely share your electronic health record with community providers who are part of your care team through the Veterans Health Information Exchange (VHIE). This information helps all your providers: For more information on the benefits of sharing, visit the VHIE site before updating your preference https://www.va.gov/VHIE/
+
+- Questions related to VHIE:    
+    - Where to put this? Profile or in Medical Records section? 
+
+- Sharing the VA Health Summary notes -> implications beyond immunizations: 
+    - Intended to share w/ providers and others. Can share using email. 
+
+
