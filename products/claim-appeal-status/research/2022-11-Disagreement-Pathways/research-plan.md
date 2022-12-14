@@ -60,7 +60,6 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 
 ### Hypothesis
 
-- We know from previous research that Veterans are frustrated with the amount of time the decision review process takes. We expect this to emerge as a major pain point. 
 - We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing decision review options. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
 - We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
 - We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
@@ -69,7 +68,7 @@ _Use the scenario from ppt’s own experience (i.e. “main reasons” in questi
 As mentioned above, the research sessions will be broken into two parts: 
 
 **Part 1: Semi-structured interviews** 
-In this fist part, the interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
+The interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
 
 **Part 2: Usability testing**
 We will be using a concept prototype for this, meaning we won't be looking for perfect usability. The goal is also generative: to explore whether this type of tool would be useful to Veterans, and also to see if there are any obvious gaps in its content that need to be filled in a subsequent iteration.
