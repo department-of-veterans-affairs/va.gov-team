@@ -15,9 +15,9 @@ For all of these use cases, the user must be LOA3 (identity verified).
 There are no flags associated with this feature.
 
 ### System
-- [The debts API is down and we can't display any overpayment debt information](Link)
-- [The copays API is down and we can't display any copay information](
-- [Both the debts and copays APIs are down and we can't display information for either of them](
+- [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md)
+- [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md)
+- [Both the debts and copays APIs are down and we can't display information for either of them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debt-and-copay-error.md)
 
 ## Flow diagrams
 - [Title of flow diagram](Link)
