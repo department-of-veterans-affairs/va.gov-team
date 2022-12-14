@@ -58,15 +58,18 @@ Any edge cases for immunizations?
 
 ## UX considerations
 
-### Immunizations section
-
-**When to show this section:**
+### When to show Immunizations section
 - When do users see immunization section in flow? Idea as of 12/14/22 (subject to change): 
 
 ![image](https://user-images.githubusercontent.com/100814257/207696619-8f9b356b-6999-4d58-a33c-5e8d93491546.png)
 
+**Where do Immunizations fit within IA?**
 
-**How to show this section:**
+Ideas as of 12/14/22 (subject to change - currently being tested): 
+
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/100814257/207696991-74b4338f-9921-48bb-9809-161f7c5ed63a.png">
+
+### How to show Immunizations section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 1-2 things to show: 
@@ -79,20 +82,6 @@ Less important:
 - Comments -> "View more" functionality
     - Comments: if more than 50 characters, hide in "View More" functionality
 
-**Accessibility considerations:**
-
-- Need to create Accessibility brief/ document -> link here
-
-_Accessibility considerations specific to Immunizations:_
-- None identified so far
-
-**Where do immunizations fit within IA?**
-
-Ideas as of 12/14/22 (subject to change - currently being tested): 
-
-<img width="630" alt="image" src="https://user-images.githubusercontent.com/100814257/207696991-74b4338f-9921-48bb-9809-161f7c5ed63a.png">
-
-
 **View vs. share vs. download considerations:**
 
 Building out pdfs -> better to build as doing it? 
@@ -101,6 +90,13 @@ Building out pdfs -> better to build as doing it?
     - Are we needing to design a pdf? Or are they automatically generated? -> 
     - Still goign to be using BB? Using functionality vs. branding? Domains in how pdf formatted - need to be redesigned. Not using BB branding/ playing down.  
     - Consideration is if someone wants to print off immunization-specific information/ other domain-specific information -> should probably enable
+
+### Accessibility considerations:
+
+- Need to create Accessibility brief/ document -> link here
+
+_Accessibility considerations specific to Immunizations:_
+- None identified so far
 
 ### Research that relates to Immunizations
 
