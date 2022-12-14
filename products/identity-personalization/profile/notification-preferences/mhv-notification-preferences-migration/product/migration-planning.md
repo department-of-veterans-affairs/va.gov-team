@@ -14,7 +14,7 @@
 - Notification that lab and test results are ready/available
 - Additional notifications we may not have spoken about or scoped yet
 
-## Considersations and challenges for migrating to VA.gov
+## Considerations and challenges for migrating to VA.gov
 
 Specifically, these are challenges we need to consider in how we approach moving notification preferences from MHV to VA.gov. This is not an exhaustive list of challenges we'll face in the notifications work (eg. needing to integrate Cerner data; timing; etc).
 
