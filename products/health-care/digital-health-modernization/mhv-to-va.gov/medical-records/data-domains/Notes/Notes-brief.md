@@ -1,4 +1,4 @@
-# Labs/ Tests: Data fields and UX considerations
+# Notes: Data fields and UX considerations
 
 Last updated: December 14, 2022
 
@@ -22,7 +22,7 @@ To serve as a source of truth around data field requirements and specifications,
 
 [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
-## Labs/ Tests data fields
+## Notes data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 **Data field title:** Immunizations
@@ -44,14 +44,14 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## UX considerations
 
-### When to show Labs/ Tests section
+### When to show Notes section
 
 
-**Where do Labs/ Tests fit within IA?**
+**Where do Notes fit within IA?**
 
 
 
-### How to show Labs/ Tests section
+### How to show Notes section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 
@@ -66,7 +66,7 @@ To serve as a source of truth around data field requirements and specifications,
 _Accessibility considerations specific to Labs/ Tests:_
 
 
-### Research that relates to Labs/ Tests
+### Research that relates to Notes
 
 
 
