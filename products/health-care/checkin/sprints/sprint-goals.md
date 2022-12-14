@@ -22,9 +22,9 @@ ________________________________________________________________________________
     - Explore how we want to offer cancellation and whether full authentication needs to be involved
     - Create final wireframe (with content) and present to team 
 - CIE Tech Debt & Bugs
-    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Zach)
+    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Ya-Ching)
     - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Ben)
-    - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) (Who???) 
+    - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) (Kelly) 
 
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
