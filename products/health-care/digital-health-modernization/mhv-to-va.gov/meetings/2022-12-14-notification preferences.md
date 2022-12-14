@@ -4,6 +4,9 @@
 - Samara Strauss
 - Lauren Alexanderson
 - Liz Lantz
+- Carnetta Scruggs
+- Patty Henry
+- Marci McGuire
 
 ## Notes
 
