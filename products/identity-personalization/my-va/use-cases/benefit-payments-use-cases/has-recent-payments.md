@@ -1,4 +1,4 @@
-# My VA Outstanding Debts Use Case: User received a payment from VA in the last 60 days
+# My VA Benefit Payments Use Case: User received a payment from VA in the last 60 days
 **Last updated: December 14, 2022**
 
 For LOA3 users who sign in and have received a payment from VA in the last 60 days via direct deposit or paper check, we will show a card for their most recent payment in the Benefit Payments section on My VA.
