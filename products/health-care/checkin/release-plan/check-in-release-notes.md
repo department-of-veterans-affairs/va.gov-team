@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 12/14/2022
+- Refactored API calls to use a query builder for parameters; no user facing
+    - [Ticket 49082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49082)
+
 ### 11/28/2022
 - Changed the early guardrail for the check-in window from 30 minutes to 45 minutes. Veterans will now be able to use eCheck-in to check-in for their VA health appoiuntment starting as early as 45 minutes before their appointment time up to 15 minutes after their appointment time.
     - [Epic 49261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49261) 
