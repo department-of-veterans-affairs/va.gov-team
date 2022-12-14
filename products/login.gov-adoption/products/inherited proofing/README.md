@@ -20,7 +20,7 @@ Eligible users are unable to easily complete the migration process.
 
 ## Desired Business Outcomes
 
-It is a desire that all of eligible DS Logon users have migrated to Login.gov by September 1, 2023
+It is a desire that all of eligible DS Logon users have migrated to Login.gov by September 30, 2023
 
 ## Undesired Business Outcomes
 
@@ -47,7 +47,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 
 ---
-
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 - Users will be able to pass phone validation
