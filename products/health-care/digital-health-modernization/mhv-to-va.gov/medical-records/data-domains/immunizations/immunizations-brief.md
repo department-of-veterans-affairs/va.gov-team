@@ -48,8 +48,9 @@ Additional features that people would like:
 ### Immunizations section
 
 **When to show this section:**
-- When do users see immunization section in flow? 
+- When do users see immunization section in flow? Idea as of 12/14/22 (subject to change): 
 
+![image](https://user-images.githubusercontent.com/100814257/207696619-8f9b356b-6999-4d58-a33c-5e8d93491546.png)
 
 
 **How to show this section:**
@@ -69,6 +70,10 @@ Less important:
 
 
 **Where do immunizations fit within IA?**
+
+Ideas as of 12/14/22 (subject to change - currently being tested): 
+
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/100814257/207696991-74b4338f-9921-48bb-9809-161f7c5ed63a.png">
 
 
 **View vs. share vs. download considerations:**
