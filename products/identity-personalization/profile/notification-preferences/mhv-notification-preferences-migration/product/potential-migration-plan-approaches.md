@@ -1,3 +1,34 @@
+# Potential migration plan approaches
+
+### Top recommendation: MHV integrates its profile with VA Profile
+
+This would involve MHV integrating their notification preferences with VA Profile as soon as possible. Then, we could add preferences one-at-a-time to VA.gov as corresponding health tools move over to the site. 
+
+#### Pros
+
+- This would correspond to the phased health apartment strategy.
+- If needed, preferences could coexist on VA.gov and MHV at the same time until we are ready to turn off the feature on MHV.
+- This would allow for a seamless UX during the transition between MHV > VA.gov, as users could access either profile, data would save in the same backend (VA Profile).
+
+#### Cons
+
+- This requires development on MHV, and there are many competing priorities for people's time. This may not be a reasonable lift based on other priorities for the MHV team.
+
+### If integrating MHV <> VA Profile is not possible: VA.gov conducts discovery on whether it makes sense to integrate with MHV backend first, then work on the VA Profile integration over time
+
+#### Pros
+
+- Users could use either VA.gov or MHV frontends, and preferences would save in the same place.
+- We could still move preferences to the VA Profile backend one at a time.
+- We would have flexibility in how we add preferences to the VA.gov frontend, either one at a time or all at once, and we could do this any time.
+- This does not require additional changes to MHV beyond work that is already required (ie. MHV will need to coordinate with us on this work).
+
+#### Cons
+
+- VA.gov is effectively responsible for two integrations -- one to MHV, then reintegrating everything through VA Profile.
+- I don't have a sense of technical complexity for integrating with MHV, and because of contract switches, we won't have anyone to do technical discovery on this until the new year.
+
+
 ### Don't actually support preferences on VA.gov until phase 4 (MHV feature retirment) instead of phase 2
 
 This would involve us moving notification preferences over one at a time as they correspond to health apartment feature migration. However, instead of supporting preferences in phase 2 of the migration, we would wait until phase 4, when a feature is entirely turned off on MHV.
