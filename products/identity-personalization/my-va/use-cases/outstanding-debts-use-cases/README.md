@@ -6,7 +6,7 @@ For all of these use cases, the user must be LOA3 (identity verified).
 
 ## Common use cases
 - [User has outstanding overpayment debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/overpayment-debts.md)
-- [User has outstanding copays](Link)
+- [User has outstanding copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-debts.md)
 - [User does not have any outstanding VA debt](Link)
 
 ## Edge cases
