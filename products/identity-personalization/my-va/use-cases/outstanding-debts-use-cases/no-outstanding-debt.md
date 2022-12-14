@@ -15,4 +15,4 @@ For LOA3 users who sign in and do not have any outstanding VA debt, we will show
 * Log into staging.va.gov with a test user who has no outstanding debts.
 * Once logged in, you will be redirected to My VA.
 * Verify that you see text stating that you have no debts to show.
-* Verify that you see a link to "Learn about VA debt" directly below that text.
+* Verify that you see a link to "Learn about VA debt" directly below that text and that it links to the VA debt management page.
