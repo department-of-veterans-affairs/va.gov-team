@@ -1,4 +1,4 @@
-# My VA Outstanding Debts Use Case: User hasn't received a payment from VA in the last 60 days
+# My VA Benefit Payments Use Case: User hasn't received a payment from VA in the last 60 days
 **Last updated: December 14, 2022**
 
 For LOA3 users who sign in and have *not* received any payments from VA in the last 60 days, they will see text in the Benefit payments section stating that they have no recent payments to show as well as links to manage their direct deposit information and review their payment history.
