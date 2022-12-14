@@ -83,19 +83,19 @@ Building out pdfs -> better to build as doing it?
 ## Questions to answer
 
 **UX:** 
-    - Any language considerations? 
-    - Do users prefer immunizations or vaccinations? 
-    - What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
-    - Are there any opportunities to make pdfs more accessible? (Ask Tiffany, accessibility experts)
+- Any language considerations? 
+- Do users prefer immunizations or vaccinations? 
+- What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
+- Are there any opportunities to make pdfs more accessible? (Ask Tiffany, accessibility experts)
 
-**Business/ Engineering:** Are we able to change the name of any data fields to make them more intuitive? 
-    - Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
-    - Where do the pdfs "come" from? How are they created? (ask Eric)
+**Business/ Engineering:** 
+- Are we able to change the name of any data fields to make them more intuitive? 
+- Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
+- Where do the pdfs "come" from? How are they created? (ask Eric)
     
 
 **Who do we need to get feedback from?**
-
--**Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
+- **Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
 
 
 ## Additional notes
