@@ -24,7 +24,7 @@ It is a desire that all of eligible DS Logon users have migrated to Login.gov by
 
 ## Undesired Business Outcomes
 
-Eligible users are still utilizing DS Logon as a CSP after September 1, 2023
+Eligible users are still utilizing DS Logon as a CSP after September 30, 2023
 
 ---
 ## Measuring Success
