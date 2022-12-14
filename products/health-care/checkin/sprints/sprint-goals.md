@@ -15,6 +15,7 @@ ________________________________________________________________________________
 
 #### UX Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Adress Ben's comments on wireframes (Zach)
     - Fill out information for Design Intent (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - Create user flows and use cases and share with team to get feedback before end of sprint (Ben lead)
@@ -29,16 +30,16 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
 - [Production Support]() 
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    -.Pending meeting
-- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
-    - Refactor error pages to make them less opaque phase 2    
+    -.Pending meeting    
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - SPIKE - Evaluate VAOS/Appt redesign to know if we can to percentage rollout
+    - Implement the new details feature
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - SPIKE
+    - SPIKE: Look into how we would link to VAOS and what info we would send them
 - Automatically Trigger MW
-    - SPIKE
+    - SPIKE: What do we need to implement automatic maintenance window triggers
 - CIE Tech Debt & Bugs
+    - Refactor error pages to make them less opaque phase 2 (ticket)?
     - [Update e2e testing Error page class validationPageLoaded method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50614)
 
 
