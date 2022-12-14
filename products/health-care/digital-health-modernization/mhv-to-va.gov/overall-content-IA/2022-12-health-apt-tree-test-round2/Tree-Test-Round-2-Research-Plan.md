@@ -290,7 +290,7 @@ We request to have a kick off meeting with Perigean 12/13/2022 or as soon as pos
 
 ### Research sessions
 
-The tree tests will be open for two weeks, with the starting date December 19, 2022.
+The tree tests will be open for two weeks, with the starting date December 20, 2022.
 
 ### Length of session
 
@@ -307,7 +307,7 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Reviewed and approved by Mikki Northuis (IA Lead) on 12/8/22
-- Reviewed and approved by Shane Strassberg on (date)
+- Reviewed and approved by Shane Strassberg on 12/9/22
 
 
 ## Appendix A: Tasks
