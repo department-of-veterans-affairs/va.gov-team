@@ -63,7 +63,7 @@ To serve as a source of truth around data field requirements and specifications,
 
 - Need to create Accessibility brief/ document -> link here
 
-_Accessibility considerations specific to Labs/ Tests:_
+_Accessibility considerations specific to Notes:_
 
 
 ### Research that relates to Notes
