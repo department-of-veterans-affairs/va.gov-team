@@ -88,7 +88,6 @@ Building out pdfs -> better to build as doing it?
 ## Questions to answer
 
 **UX:** 
-- Any language considerations? 
 - Do users prefer immunizations or vaccinations? 
 - What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
 - Are there any opportunities to make pdfs more accessible? (Ask Tiffany, accessibility experts)
