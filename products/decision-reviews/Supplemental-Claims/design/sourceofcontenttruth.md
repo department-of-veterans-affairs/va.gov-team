@@ -898,6 +898,8 @@ Decisions
   
 VA evidence
 
+    requiredResponse: 'You must answer yes or no'
+    
     pastDate: 'You must add a past treatment date',
     
     newerDate: 'You must add a more recent treatment date',
@@ -913,6 +915,8 @@ VA evidence
     unique: 'You must enter a location you haven't already entered',
 
 Private evidence
+
+    requiredResponse: 'You must answer yes or no'
 
     facilityMissing: 'You must add a provider or facility name',
     
@@ -932,7 +936,9 @@ Private evidence
     
 Upload supporting evidence
 
-    You must provide a password to decrypt this file
+    requiredResponse: 'You must answer yes or no'
+
+    'You must provide a password to decrypt this file'
 
 Other
 
