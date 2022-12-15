@@ -1,4 +1,4 @@
-# Initiative outline: 20203 wayfinding research
+# Research outline: Wayfinding on VA.gov
 
 **Last Updated: December 15, 2022**
 
