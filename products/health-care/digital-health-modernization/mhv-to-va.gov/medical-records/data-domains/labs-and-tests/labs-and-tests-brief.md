@@ -22,10 +22,14 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
-## Labs/ Tests data fields
+## Labs and Tests categories and data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-**Data field title:** Immunizations
+### Labs and Tests categories
+- Hematology
+
+
+**Data field title:**
 
 **Data fields to include:**
 
