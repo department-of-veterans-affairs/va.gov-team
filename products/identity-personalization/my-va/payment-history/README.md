@@ -21,6 +21,7 @@
 - [How to Access and Test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Design and UX](#design-and-UX)
+- [Frontend](#frontend)
 
 ## Overview
 
@@ -316,3 +317,14 @@ Include information here on when payment information shows on My VA.
 
  
  </details>  
+ 
+ ## Frontend
+ 
+### Outstanding Debts
+
+- For the debts card we are pulling in debts from `/v0/debts`. We are then checking for approved deduction codes and filtering out debts with a zero balance. This is all based on the debt teams apis so our values match theirs.
+- For the copays card we are pulling in copays from `/v0/medical_copays`. We are then sorting the statements by date and getting the latest one by facility name because we were informed only the latest statement by facility is valid. We then filter out zero balances. A lot of the code here is pulled from the copays team.
+
+### Benefit Payments
+
+- The payments card is pulled from `/profile/payment_history`. We grab the last payment within the last 60 days. If there is no payment we show `You have no recent payments to show.`
