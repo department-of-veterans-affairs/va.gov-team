@@ -50,11 +50,11 @@ Quick Submit is a platform that supports the claims application process and allo
 
 ### Either team
 
-#### Wayfinding research
+#### Support wayfinding research
 
 **OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
 
-As part of the health apartment migration, Mikki will be conducting wayfinding research to better determine how health features fit into VA.gov's navigation. This will likely include testing a prototype that reconciles the homepage, My VA, and the health landing pages to assess expectations and confusion. This may involve a designer from our team working on mockups, building a prototype, and/or potentially moderating research.
+With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. With the addition of the health apartment, things are about to get extra complicated. We'll be working with Mikki to support research that aims to understand the problems with VA.gov's current structure and to figure out how to keep it manageable and navigable over time as it grows.
 
 ## Q2 CY2023 (April - June)
 
