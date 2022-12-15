@@ -10,7 +10,7 @@
 - [Goals](#goals)
 - [Project risks](#project-risks--challenges)
 - [Questions](#questions)
-- [Research Activities](#research-activities)
+- [Research activities](#research-activities)
 
 ---
 
