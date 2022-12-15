@@ -72,7 +72,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 **Objective 1: Improve save success rates by migrating to Lighthouse**.
 
-||Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
+|Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
 |------|------|-----|
 |TBD|TBD|TBD|
 
