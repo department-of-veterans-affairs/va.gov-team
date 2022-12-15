@@ -86,7 +86,7 @@ Undesired user outcomes for veterans (including soon-to-be veterans), those invo
 
 |Project or Initiative| Launch or completion date|
 |---------------------|--------------------------|
-|[Wayfinding research initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/README.md)| Starting in 2023|
+|[Wayfinding research initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/)| Starting in 2023|
 |[Health hub moderated tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%203%20-%20First%20click/HH_ResearchFindings.pdf)| September 2022 |
 
 ## Analytics
