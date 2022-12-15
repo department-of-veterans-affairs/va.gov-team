@@ -32,22 +32,53 @@ If you are new engineer that is just starting to work on the Profile application
 
 ### [Vets-Website Readme.md](https://github.com/department-of-veterans-affairs/vets-website/blob/main/README.md)
 
-The commands listed out in the main readme are lifesavers when you are looking to run tests, set up a mock server, or run the FE in 'watch' mode locally. Definitely fully familiarize yourself with the readme. Below are several commands that can help specifically within the Profile:
+The commands listed out in the main readme are lifesavers when you are looking to run tests, set up a mock server, or run the FE in 'watch' mode locally. Definitely familiarize yourself with the readme. Below are several commands that can help specifically within the Profile:
 
-- `yarn watch --env entry=profile` - starts webpack to watch just the profile code and recompile it anytime that changes are made. This does not do HMR or auto-refresh, but just watching the profile entry is much faster than just running `yarn watch` because recompiling all applications can take quite a while.
+``` bash
+yarn watch --env entry=profile
+```
 
-- `yarn mock-api --responses src/applications/personalization/profile/mocks/server.js` - when run from the main root of the vets-website repo, this will boot a mock server that will create responses for various endpoints that are needed to display the Profile.
-	- The mock api uses [mocker-api](https://github.com/jaywcjlove/mocker-api#usage) which is a thin wrapper around Express
-	- (optional) Some engineers may want to set up a .bashrc or .zshrc alias for commands like this so that they can be run quickly from any path in the terminal. An example for a .zshrc alias:
-		- ``` alias va-mock="cd /Users/username/repo/folder/va-gov/vets-website && yarn mock-api --responses /Users/username/repo/folder/va-gov/vets-website/src/applications/personalization/profile/mocks/server.js" ``` where your absolute file path to the repo is used in place of the dummy placeholder. A similar alias can be used for the `watch` command and is helpful when working locally.
+Starts webpack to watch just the profile code and recompile it anytime that changes are made. This does not do HMR or auto-refresh, but just watching the profile entry is much faster than just running `yarn watch` because recompiling all applications can take quite a while.
 
-- `yarn cy:open` - open Cypress with the interactive UI application to run individual e2e tests visually. This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
+---
 
-- `yarn cy:run --spec yarn cy:run --spec src/applications/personalization/profile/tests/e2e/**/*` - runs all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
+``` bash
+yarn mock-api --responses src/applications/personalization/profile/mocks/server.js
+```
 
-- `yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*` - runs all unit tests within the profile. A glob pattern can be substituted for single test file path as well.
+when run from the main root of the vets-website repo, this will boot a mock server that will create responses for various endpoints that are needed to display the Profile.
+- The mock api uses [mocker-api](https://github.com/jaywcjlove/mocker-api#usage) which is a thin wrapper around Express
+- (optional) Some engineers may want to set up a .bashrc or .zshrc alias for commands like this so that they can be run quickly from any path in the terminal. An example for a .zshrc alias:
+	- ``` alias va-mock="cd /Users/username/repo/folder/va-gov/vets-website && yarn mock-api --responses /Users/username/repo/folder/va-gov/vets-website/src/applications/personalization/profile/mocks/server.js" ``` where your absolute file path to the repo is used in place of the dummy placeholder. A similar alias can be used for the `watch` command and is helpful when working locally.
+
+---
+
+``` bash
+yarn cy:open
+``` 
+
+open Cypress with the interactive UI application to run individual e2e tests visually. This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
+
+---
+
+``` bash
+yarn cy:run --spec src/applications/personalization/profile/tests/e2e/**/*
+```
+
+runs all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
+
+---
+
+``` bash
+yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*
+``` 
+runs all unit tests within the profile. A glob pattern can be substituted for single test file path as well.
+
+---
 	
-- **Simulating the logged in status on FE:** When running a mock-api you will need to set a local storage value. Running `localStorage.setItem('hasSession', true)` in your browser devtools and then refreshing any `/profile` route, you should see the profile load as a logged in user with the mock api data reflected in the UI.
+**Simulating the logged in status on FE:** When running a mock-api you will need to set a local storage value. Running `localStorage.setItem('hasSession', true)` in your browser devtools and then refreshing any `/profile` route, you should see the profile load as a logged in user with the mock api data reflected in the UI.
+
+---
 
 ### [VA.gov | Design System](https://design.va.gov/)
 
