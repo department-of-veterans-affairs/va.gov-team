@@ -1,6 +1,6 @@
 # Direct deposit: user has set up direct deposit for one, but not both benefits
 
-**Last update: June 22, 2022**
+**Last update: December 14, 2022**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has only set up direct deposit for one benefit, they'll see different messages in each payment section of the page.
 
