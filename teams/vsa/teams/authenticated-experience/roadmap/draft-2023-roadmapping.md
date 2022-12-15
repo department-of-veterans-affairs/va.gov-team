@@ -1,7 +1,5 @@
 # Authenticated experience 2023 roadmapping
 
-### This is a draft document which is not ready to be shared with the team. Information in here may change drastically as we gather details from other teams.
-
 ## Q1 CY2023 (January - March)
 
 ### My VA and Onsite Notifications team
