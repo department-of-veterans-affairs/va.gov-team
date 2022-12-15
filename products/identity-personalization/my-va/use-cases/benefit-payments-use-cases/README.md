@@ -18,4 +18,4 @@ There are no flags associated with this feature.
 - [The payments API is down and we can't display any payment information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/payment-API-error.md)
 
 ## Flow diagrams
-- [Title of flow diagram](Link)
+- [User flow for benefit payments on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/9044E673-D5F9-4CD8-984B-ED95BA99714D)
