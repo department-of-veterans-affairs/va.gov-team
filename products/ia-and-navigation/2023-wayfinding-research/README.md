@@ -8,7 +8,7 @@
 - [Overview](#overview)
 - [Problems](#problems)
 - [Goals](#goals)
-- [Project risks](#project-risks)
+- [Project risks](#project-risks--challenges)
 - [Questions](#questions)
 - [Research Activities](#research-activities)
 - [Analytics](#analytics)
@@ -44,15 +44,48 @@ With the addition of so many tools to VA.gov since the original redesign, we hav
 
 ## Goals
 
+### Research goals
+
 - Understand what research has already been done, and establish what we already know about wayfinding issues and challenges on VA.gov.
 - Understand what issues veterans and other users have navigating the current VA.gov landscape.
 - Understand stakeholder expectations around navigation and navigation updates.
 - Work collaboratively across crews, so this work isn't silo'd.
 - Consider flows through full logged out > logged in states instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
 
-## Project risks
+### Experience goals
 
+We want to create:
 
+- A personalized experience for Veterans and family members/caregivers that allows them to easily find the right information and tools they need to complete tasks related to whereever they are in their journey .
+- An experience that surfaces what's important at the right time for visitors that have VA benefits and need to complete tasks related to managing their health and benefits at VA.
+- An experience that provides the right amount of information for people to quickly learn about and apply for VA benefits.
+
+## Project risks & challenges
+
+### This work requires cross-crew collaboration and alignment
+
+Wayfinding research will likely need to involve many crews, including account experience (My VA & profile teams; Mikki), Sitewide (Unauth home page, benefit hubs, R&S, header), and Health (My health).
+
+Additionall, any future updates to navigation would require all crews to be onboard and to work together: 
+
+- Auth - My VA, profile, notifications, chatbot
+- Sitewide - Unauth home, benefit hubs, R&S, header
+- Health - My health
+- Benefits - IA and labeling
+- Platform - design system
+- Mobile app - IA and labeling
+
+### People to work on this effort are limited
+
+When this work starts, Mikki will be the only personw who's full-time on this work, and she doesn't have a team. We need a team of folks to support this work, just like we do with any effort. This will require product, IA, design, research, and content all working together.
+
+### People still view IA/navigation as "unauth" and "auth"
+
+Though differences in logged out and logged in experiences are common across the web, our teams tend to treat these as totally separate experiences, making updates in silo'd ways that creates for a disjointed experience across VA.gov. We may face challenges in this work changing the culture/mindset around how people think about navigating VA.gov.
+
+### There's A LOT to think about when it comes to wayfinding
+
+VA.gov needs to cater to health care and benefits and multiple audiences. This site needs to do **a lot**. Scoping this work and breaking it down into manageable chunks may be challenging as a result.
 
 ## Questions
 
