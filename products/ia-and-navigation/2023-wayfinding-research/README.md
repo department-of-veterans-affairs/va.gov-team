@@ -99,6 +99,8 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ## Research activities
 
+- [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?sender=samarastrauss5703)
+
 Potential activities include:
 
 - Historical research review
