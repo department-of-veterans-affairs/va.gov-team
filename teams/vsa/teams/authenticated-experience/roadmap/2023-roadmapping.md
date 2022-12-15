@@ -52,7 +52,7 @@ Quick Submit is a platform that supports the claims application process and allo
 
 **OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
 
-With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. With the addition of the health apartment, things are about to get extra complicated. We'll be working with Mikki to support research that aims to understand the problems with VA.gov's current structure and to figure out how to keep it manageable and navigable over time as it grows.
+With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. Things are about to get extra complicated as the health apartment migrates into VA.gov. We'll be working with Mikki to support research that aims to understand the problems with VA.gov's current structure and to figure out how to keep it manageable and navigable over time as it grows.
 
 ## Q2 CY2023 (April - June)
 
