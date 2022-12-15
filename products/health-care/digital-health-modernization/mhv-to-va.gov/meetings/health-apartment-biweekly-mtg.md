@@ -55,12 +55,12 @@
 
 
 ### How often do we need/want to sync up with the Mobile team?
-	- Lauren had a thought - they're going to be a lot of meetings coming out of Tue re
-	- There's an internal OCTO cross-team meeting.  Rachael and Chris come to that for Mobile and we want to make sure
-	- Robyn - there are larger ongoing syncs, and then an immediate need to meet about immunizations so we know what they are doing. 
-	- Would a monthly sync with as-needed check-ins be enough? And we set up more as needed ad-hoc?
-	- Mikki - they had a bi-weekly half hour stand-up style meeting and synced on functionality, terminology, etc.  it worked pretty 
-	- Let's have a first meeting and then we'll decide on frequency
+- Lauren had a thought - they're going to be a lot of meetings coming out of Tue re
+- There's an internal OCTO cross-team meeting.  Rachael and Chris come to that for Mobile and we want to make sure
+- Robyn - there are larger ongoing syncs, and then an immediate need to meet about immunizations so we know what they are doing. 
+- Would a monthly sync with as-needed check-ins be enough? And we set up more as needed ad-hoc?
+- Mikki - they had a bi-weekly half hour stand-up style meeting and synced on functionality, terminology, etc.  it worked pretty 
+- Let's have a first meeting and then we'll decide on frequency
 
 ### Research goals for second tree test
 - Want to explore what are the deeper needs within the structure that we need to think about?
@@ -87,16 +87,16 @@
 	- Timing on delegates - up to John Rahagi; hopefully before Jan 2024
 
 ## Next steps from Tuesday
-	- Mural board - combine similar items, fill in gaps, get consensus from the stakeholders
-	- Come up with a strategy of who in this group needs to be in which things and when and Danielle and Jasmine function as one team with Gwen and ??? 
-	- Lauren had to give a presentation on the roadmap to the Under secretary of health.  Leila and Lauren will probably have to do more presentations. 
-	- How do we make sure everyone is included, but keep momentum going?
-	- Do we want EVERYONE on those design review meetings?
-	- Do we want a separate meeting for folks not already attending?
-	- Let's compile a list of existing meetings - also check with Bryan - they are going to have separate meeting
-		- Start a running dialog of meetings we are going to have
-		- Hypothesis of who should be at those
-	- A document that we can share out in a place where people can comment but not change
+- Mural board - combine similar items, fill in gaps, get consensus from the stakeholders
+- Come up with a strategy of who in this group needs to be in which things and when and Danielle and Jasmine function as one team with Gwen and ??? 
+- Lauren had to give a presentation on the roadmap to the Under secretary of health.  Leila and Lauren will probably have to do more presentations. 
+- How do we make sure everyone is included, but keep momentum going?
+- Do we want EVERYONE on those design review meetings?
+- Do we want a separate meeting for folks not already attending?
+- Let's compile a list of existing meetings - also check with Bryan - they are going to have separate meeting
+	- Start a running dialog of meetings we are going to have
+	- Hypothesis of who should be at those
+- A document that we can share out in a place where people can comment but not change
 	
 	
 ## Senate Veterans Affairs Committee (SVAC) in Congress Records Request for Information
