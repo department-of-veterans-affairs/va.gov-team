@@ -204,6 +204,10 @@ _Why would your business want this to exist?_
  
 </details>
 
+<details><summary>Addition of Onsite Notifications and Payments and debts V2</summary>
+ 
+ ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
+
 ## Front End
 
 - placeholder
