@@ -92,4 +92,5 @@ Screening Question #7. *(For Cohort 3 only)* Since receiving VA health care bene
 
 ## Tools used for Synthesis
 - [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/analysis/Income%20limits%20interviews%20notes%20%26%20data%20analysis.xlsx)
+- [Notes from research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app/research/notes)
 
