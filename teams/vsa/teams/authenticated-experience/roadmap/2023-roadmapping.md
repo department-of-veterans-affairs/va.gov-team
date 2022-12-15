@@ -108,8 +108,8 @@ In partnership with VANotify (leading this work) and VA Profile, we have been ta
 
 ### Either team
 
-#### General authenticated IA/navigation work
+#### Ongoing support of wayfinding research/IA and navigation updates
 
 **OCTO objective**: Refresh the VA.gov homepage and information architecture
 
-The wayfinding research mentioned above is only the first step in a larger effort to improve the overall experience of navigating VA.gov, especially for logged-in users trying to get to tools and tasks. We don't know what the entirety of this work will look like now, but we can anticipate our team and others being involved to support Mikki in this work.
+The wayfinding research mentioned above is part of a larger effort to improve the overall experience of navigating VA.gov, especially for logged-in users trying to get to tools and tasks. We don't know what the entirety of this work will look like now, but we can anticipate our team and others being involved to support Mikki in this work.
