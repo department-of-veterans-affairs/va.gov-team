@@ -11,11 +11,11 @@ ________________________________________________________________________________
 
 ## 12/14/2022 - 12/27/2022 
 
-#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Analytics Sprint Goals 
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
     - Evolve the trendline idea
 
-#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
+#### UX Sprint Goals 
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Adress Ben's comments on wireframes (Zach)
     - Fill out information for Design Intent (Ben)
@@ -29,7 +29,7 @@ ________________________________________________________________________________
     - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Ben)
     - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) (Kelly) 
 
-#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Engineering Sprint Goals 
 - [Production Support]() 
 - [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Pending meeting, we will implement it
