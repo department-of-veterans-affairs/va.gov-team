@@ -202,12 +202,6 @@ _Why would your business want this to exist?_
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
  
-</details> 
-
-<details><summary>Addition of onsite notifications and payments and debts V2</summary>
-
-<img width="354" alt="Screen Shot 2022-12-15 at 10 26 22" src="https://user-images.githubusercontent.com/97113607/207900198-e0345b2c-1c28-4bcb-91fd-99a3d464508d.png">
-
 </details>
 
 ## Front End
