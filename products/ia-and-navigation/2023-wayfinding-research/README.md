@@ -8,7 +8,7 @@
 - [Overview](#overview)
 - [Problems](#problems)
 - [Goals](#goals)
-- [Project risks](#project-risks--challenges)
+- [Project risks & challenges](#project-risks--challenges)
 - [Questions](#questions)
 - [Research activities](#research-activities)
 
