@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-Last Updated: December 14, 2022
+**Last Updated: December 15, 2022**
 
 ### Communications
 
@@ -15,6 +15,7 @@ Last Updated: December 14, 2022
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
+- [Goals](#goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Solution Approach](#solution-approach)
@@ -25,7 +26,16 @@ Last Updated: December 14, 2022
 
 ## Overview
 
+EVSS -- the VA backend that stores direct deposit for comp & pen, disability ratings, and more -- is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
+
 ## Problem Statement
+
+As a person that receives payments from VA, I want to be able to easily view and update my direct deposit information.
+
+## Goals
+
+- Migrate from EVSS to Lighthouse without any disruptions in service for veterans and other users.
+- See improvements in direct deposit save success rates, which are only about 90% currently.
 
 ## User outcomes
 
@@ -75,3 +85,10 @@ TBD
 ## Frontend
 
 ## Backend
+
+- We need to request OAuth credentials to sandbox. We'll also need production credentials.
+
+### How to test
+
+- Lighthouse is using accounts that are in test user dashboard, so we'll need to get ICNs of users from Nichole.
+- If we need to see additional use cases, Lighthouse can help us set those up.
