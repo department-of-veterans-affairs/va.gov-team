@@ -68,13 +68,13 @@ Samara's maternity leave!! I'll be out most of this quarter.
 
 ### My VA and Onsite Notifications team
 
-#### Incorporating health features into My VA as MHV features are migrated to VA.gov
+#### Incorporate health features into My VA as MHV features are migrated to VA.gov
 
 **OCTO objective**: Integrate health portal features into VA.gov
 
 This could be as small as updating links, or as big as adding new modules as features move over from MHV. I believe initial features/updates might include secure messaging and medical records.
 
-#### Adding a new user role/experience to VA.gov
+#### Add a new user role/experience to VA.gov
 
 **OCTO objective**: Improve the Veteran login experience
 
@@ -82,19 +82,19 @@ It is likely we'll start work on a new user role experience in VA.gov before the
 
 ### Profile team
 
-#### [Incorporating MHV notification preferences into the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)
+#### [Incorporate MHV notification preferences into the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)
 
 **OCTO objective**: Integrate health portal features into VA.gov
 
-We are currently determining the strategy for migrating notification preferences, which will determine on what timeline this work happens. Work may happen sooner rather than later if we opt to integrate with MHV first before VA Profile; It may happen later in the year, or even in 2024, if MHV needs to integrate with VA Profile before we do from the VA.gov interface.  
+We are currently in the early stages of migrating notification preferences from MHV to VA.gov. The first step is getting preferences into the VA Profile backend, ideally followed by MyHealtheVet integrating their frontend with VA Profile. Over the year, we'll figure out when to support these preferences in VA.gov, and we'll work with VANotify as the actual notifications migrate from MHV systems into VANotify. In its entirety, this work will likely span this year and beyond as health features are moved from MHV to VA.gov.
 
-#### Adding a new user role/experience to VA.gov
+#### Add a new user role/experience to VA.gov
 
 **OCTO objective**: Improve the Veteran login experience
 
 It is likely we'll start work on a new user role experience in VA.gov before the end of the calendar year, though unlikely within the first half of 2023 [Slack](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E). This will likely require updates to the VA.gov profile.
   
-#### Adding eBenefits notification preferences into VA.gov 
+#### Add eBenefits notification preferences into VA.gov 
 
 **OCTO objective**: Enhance Veterans' personalized online experience
 
