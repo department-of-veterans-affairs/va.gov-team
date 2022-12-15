@@ -123,6 +123,10 @@ _Accessibility considerations specific to Immunizations:_
 **Business/ Engineering:** 
 - Are we able to change the name of any data fields to make them more intuitive? 
 - Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
+    - Lauren: PHR includes random logic in it for formatting pdfs. Don't want to touch it right now. 
+    - Marci: Framework - if there's data, it gets put in. 
+    - Lauren: There's an alternative - a plain text file for accessibility purposes. 1095-B -> major thing that kept from going out bc the pdf was not remotely accessible. Factor that in - if going to be blocker. 
+    - Jonathan: 1010-CG: Option to download completed form - engineers made accessible. But was much shorter 
 - Where do the pdfs "come" from? How are they created? (ask Eric)
     
 
