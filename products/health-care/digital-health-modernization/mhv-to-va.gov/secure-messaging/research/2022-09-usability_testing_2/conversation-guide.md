@@ -412,11 +412,7 @@ Using the scale we showed earlier of 1 being very difficult to 5 being very easy
 
 Please click the “Next Screen” link at the bottom of the page. *Assist participant if necessary.*
 
-For this next task, I would like for you to explain what you are doing while you are doing it. Think of how game show contestants think out loud when they are making a decision and do the same.
-
-*Mobile:* When we go to the next screen, I would like you to tell me the first thing you notice, saying why you chose it like a game show contestant, then the second, and the third. For example, on this screen you might say, “I noticed the word wait because it is capitalized and at the beginning of the sentence.” Does that make sense?
-
-*Desktop:* When we go to the next screen, I would like you to use your mouse to point to the first thing you notice, saying why you chose it like a game show contestant, then the second, and the third. For example, on this screen you might say, “I noticed the word wait because it is capitalized and at the beginning of the sentence.” Does that make sense?
+Next we will have you look at a screen we designed for you to send a message to your doctor. Unlike our other tasks today, you won't need to actually click on anything.  We just need you to walk us through the page focusing on what you believe is important,  thinking aloud like a game show contestant so we can hear your thoughts about what you are looking at.
 
 Are you ready?
 
@@ -427,12 +423,6 @@ Okay, if you scroll down you will see a continue button. Go ahead and click it.
 -   Can you tell me why you clicked on [SECTION] first? What made you notice it first?
 -   Can you tell me why you clicked on [SECTION] second? What made you notice it second and not first?
 -   Can you tell me why you clicked on [SECTION] third? What made you notice it after the others?
-
-
-*If they didn't notice the emergency message, ask them to advance to the next screen.*
-
-*Prompt the participant to think out loud about what they notice if necessary.*
-
 
 *Continue with these questions as necessary.*
 
