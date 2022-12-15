@@ -11,7 +11,6 @@
 - [Project risks](#project-risks--challenges)
 - [Questions](#questions)
 - [Research Activities](#research-activities)
-- [Analytics](#analytics)
 
 ---
 
@@ -91,6 +90,9 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ## Research activities
 
-[List all activities completed as part of this effort, and link to outcomes/findings documents]
+Potential activities include:
 
-## Analytics
+- Historical research review
+- Comparative research with other sites (though we've done a lot of this in the past and may not need to repeat)
+- Stakeholder interviews
+- User research
