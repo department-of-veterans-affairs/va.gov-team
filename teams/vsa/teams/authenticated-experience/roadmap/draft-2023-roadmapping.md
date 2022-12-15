@@ -24,29 +24,29 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 #### Update claims section so it points to Lighthouse integration
 
-Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away in 2023 (need to confirm date), and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
+Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away, and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
 
 ### Profile team
 
-#### Continue accessibility updates
+#### Frontend: [Continue accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
 
-Unless a more immediate priority comes up.
+There are quite a few design updates that are complete and need to be implemented. We should wrap up frontend implementation on these tickets ahead of moving on to other work.
 
-#### Maybe? Notification prefs design and research around adding email as a channel
-
-We know this will need to happen eventually, just not sure when. We could potentially get ahead of this by doing some research if there is otherwise project downtime.
-
-#### [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
+#### Backend: [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
 
 Direct deposit for comp & pen information on VA.gov is currently supported by EVSS. However, EVSS is going away in 2023 (need to confirm date), and EVSS integrations are in the process of moving over to the Lighthouse platform. According to [Nichole Harris](https://dsva.slack.com/archives/C8R3JS8BU/p1670604479375849?thread_ts=1670603198.743219&cid=C8R3JS8BU), the direct deposit information is almost in their Sandbox and will hopefully be ready for their production environment in January 2023. At this point, we can start moving over our integration from EVSS to Lighthouse. We'll work closely with Lighthouse to get this funtionality updated, tested, and launched.
 
-#### Add QuickSubmit notification preference
+**Expected launch date**: Assuming this is just a backend effort, this can likely launch before the end of Q1 CY2023.
+
+#### Research/Design: Adding email as a channel to notification preferences
+
+We'll eventually need to add email as a channel for notification preferences, we're just not sure when. Liz has created some preliminary mockups that need to be refined and tested in order to to determine whether this approach is usable and scalable long-term. 
+
+#### Low lift: Add QuickSubmit notification preference
 
 Quick Submit is a platform that supports the claims application process and allows users to upload documents. With regards to notifications, they need a preference that allows them to opt-in and out of notifications as to whether there is a new letter to view in the Quick Submit app. This is a text notification, so this should be easy for us to support with our existing VA Profile integration. We'll work with them to support this preferernce on VA.gov. 
 
-#### Maybe?? Military info discovery research
-
-Look into adding more robust military information to the profile. This could support PACT Act by elevating deployment location, though we won't have access to exposure data.
+**Expected launch date**: Before the end of Q1 CY2023.
 
 ### Either team
 
@@ -61,13 +61,6 @@ As part of the health apartment migration, Mikki will be conducting wayfinding r
 Samara's maternity leave!! I'll be out most of this quarter.
 
 ## Q3 CY2023 (July - September)
-
-### Profile team
-
-#### Update direct deposit for edu section so it points to Lighthouse integration
-
-Direct deposit for edu information on VA.gov is currently supported by BGS. However, this is moving over to the Lighthouse platform. [According to Nichole Harris](
-https://dsva.slack.com/archives/C8R3JS8BU/p1670604479375849?thread_ts=1670603198.743219&cid=C8R3JS8BU), direct deposit for edu will be ready in their platform at the end of Q2. At this point, we can start moving over our integration from BGS to Lighthouse. We'll work closely with Lighthouse to get this funtionality updated, tested, and launched.
 
 ## Q4 CY2023 (October - December)
 
