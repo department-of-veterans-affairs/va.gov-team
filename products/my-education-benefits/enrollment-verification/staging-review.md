@@ -4,7 +4,7 @@
 The application can be found at https://staging.va.gov/education/verify-school-enrollment/
 
 ### Content Brief
-- [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/toe) 
+- [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/enrollment-verification) 
 - Product description and screenshots can be found in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/TOE%2022-1990e%20Updates/TOE%20Product%20Outline.md)
 - [Staging link](https://staging.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e)
 
