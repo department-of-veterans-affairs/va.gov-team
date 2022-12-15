@@ -1,6 +1,6 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: December 14, 2022
+Last updated: December 15, 2022
 
 ## Purpose
 
@@ -8,7 +8,7 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
-
+Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports, and self-reported test results, such as blood sugar. 
 
 ## Relevant links
 
