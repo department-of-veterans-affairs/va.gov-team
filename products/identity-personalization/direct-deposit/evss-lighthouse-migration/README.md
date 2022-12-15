@@ -11,6 +11,12 @@
   
 [This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
+#### Lighthouse team
+
+|Name|Role|Email|
+|----|----|-----|
+|Nichole Harris|Lighthouse PM|harris_nichole@bah.com or Nichole.Harris@va.gov|
+
 ### Table of Contents
 
 - [Overview](#overview)
