@@ -88,6 +88,12 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ## Questions
 
+- What work is happening across other teams that could effect the navigation (eg. notifications work, health apartment, etc)?
+- What are the known problems for users around navigation (eg. reliance on homepage quick links)?
+- How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
+- What requirements do outside stakeholders put on VA.gov re: the navigation?
+- What are the immediate plans for integrating the health apartment into the navigation?
+
 ## Research activities
 
 Potential activities include:
