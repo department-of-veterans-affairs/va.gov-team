@@ -260,6 +260,11 @@ Enter the date on your decision notice (the letter you received in the mail from
 
 **_CONTINUE_**
 
+_Error_
+
+#### You'll need to select an issue
+You must select at least 1 issue before you can continue filling out your request.
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
