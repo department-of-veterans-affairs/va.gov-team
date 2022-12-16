@@ -119,6 +119,8 @@ These are the GA dashboards we use to track profile analytics:
 
 You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
 
+The [Onboarding for BE Engineers](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile_onboarding_backend.md) document is available to help get BE engineers up to speed quickly.
+
 The following information comes from **VA Profile**:
 
 - Personal information
