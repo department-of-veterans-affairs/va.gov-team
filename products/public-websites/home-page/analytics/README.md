@@ -21,4 +21,4 @@ The following pages are available in the Analytics > redesign folder.
 
 - [DOMO: Site-wide Homepage: Content Engagement KPIs](https://va-gov.domo.com/page/80919003) - data from new home page will be added to this dashboard post-launch
 
-- Data on searches from homepage are available in [VA.gov Search KPI DOMO Dashboard](https://va-gov.domo.com/page/1964748112)(using "VA homepage" under Search scope filter)
+- Data on searches from homepage are available in [VA.gov Search KPI DOMO Dashboard](https://va-gov.domo.com/page/1964748112) (_using "VA homepage" under Search scope filter_)
