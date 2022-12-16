@@ -17,11 +17,11 @@ We were provided with the following information about the [508 accessibility pag
 
 To flesh the above out, we pulled the following data: 
 
-Between January 1 and November 17, 2022, the *accessibility link in the footer of modernized va.gov pages was clicked 26,005.*
+Between January 1 and November 17, 2022, the **accessibility link in the footer of modernized va.gov pages was clicked 26,005.**
 
-Of those clicks, *18,123 of them were triggered from a mobile device.*
+Of those clicks, **18,123 of them were triggered from a mobile device.**
 
-This means that *about 46% of all traffic to the 508 accessibility page came through the footer link.*
+This means that **about 46% of all traffic to the 508 accessibility page came through the footer link.**
 
 *** 
 
