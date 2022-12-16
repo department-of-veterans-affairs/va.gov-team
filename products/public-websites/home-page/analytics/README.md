@@ -1,6 +1,6 @@
 ## README - Analytics
 
-The following pages are available in the Analytics > redesign folder. 
+The following pages are available in the [Analytics > redesign folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/analytics/redesign). 
 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/baseline-event-data.md) 
    - _unique mobile and desktop events on the VA.gov home page, 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022_
