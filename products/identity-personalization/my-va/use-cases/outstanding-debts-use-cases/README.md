@@ -21,4 +21,4 @@ There are no flags associated with this feature.
 - [Both the debts and copays APIs are down and we can't display information for either of them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debt-and-copay-error.md)
 
 ## Flow diagrams
-- [Title of flow diagram](Link)
+- [Outstanding debts user flow](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/AF7FAC16-CD87-4E4F-B7C3-C3498AEA9FD8)
