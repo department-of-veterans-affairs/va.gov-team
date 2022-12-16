@@ -60,9 +60,8 @@ This first group of findings relates to [research questions](https://github.com/
 
 > “Survivors’ benefits is a big one.” - P2
 
-**Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them (in so far as they surfaced in the interviews). Here’s a sneak peek at a relational table of benefits, tasks, and whether a Regional Office can help:
+**Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them. There’s a sneak peek in the appendix.
 
-![benefitchart](https://user-images.githubusercontent.com/51967950/208009144-270f148a-59bf-4d55-b94a-492027d03447.png)
 
 #### 2 - Public Contact staff primarily assist with the benefit of _disability compensation_
 
@@ -159,3 +158,5 @@ This second group of findings relates to research question 4:
 ### Top 3 services
 
 ### Service matrix sneak peek
+
+![benefitchart](https://user-images.githubusercontent.com/51967950/208009144-270f148a-59bf-4d55-b94a-492027d03447.png)
