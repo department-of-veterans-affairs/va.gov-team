@@ -21,7 +21,7 @@ Between January 1 and November 17, 2022, the **accessibility link in the footer 
 
 Of those clicks, **18,123 of them were triggered from a mobile device.**
 
-This means that **about 46% of all traffic to the 508 accessibility page came through the footer link.**
+The 508 page received 56,290 page views, this means that **about 46% of all traffic to the 508 accessibility page came through the footer link.**
 
 *** 
 
