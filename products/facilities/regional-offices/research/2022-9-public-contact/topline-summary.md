@@ -45,14 +45,12 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-
 #### Finding #1
 
 - More details on Finding #1
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
-
 
 #### Finding #2
 
@@ -61,14 +59,12 @@ This first group of findings relates to research questions 1 & 2:
 
 > Quote (if relevant)
 
-
 #### Finding #3
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
-
 
 #### Finding #4
 
@@ -77,13 +73,14 @@ This first group of findings relates to research questions 1 & 2:
 
 > Quote (if relevant)
 
-
 #### Finding #5
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
+
+- - -
 
 ### Veteran Experience at Facility
 
@@ -97,14 +94,12 @@ This second group of findings relates to research question 3:
 
 > Quote (if relevant)
 
-
 #### Finding #7
 
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
-
 
 #### Finding #8
 
@@ -119,6 +114,8 @@ This second group of findings relates to research question 3:
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
+
+- - -
 
 ### Veteran Preparation
 
@@ -139,6 +136,8 @@ This second group of findings relates to research question 4:
 
 > Quote (if relevant)
 
-## Introduction
+- - -
+
+## Appendix
 
 ### Top 3 services
