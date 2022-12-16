@@ -48,13 +48,13 @@ This first group of findings relates to [research questions](https://github.com/
 - **Documents** (e.g. award letter, commissary letter, DD-214)
 - **Beneficiary** (e.g. survivors, military retirees, caregivers)
 
-> “Top three would be compensation, education, and pension.” - P3
+> Top three would be compensation, education, and pension. - P3
 
-> “Filing a claim is a big one, and then checking the status.” - P12
+> Filing a claim is a big one, and then checking the status. - P12
 
-> “Most folks are looking for the tax letter.” - P5
+> Most folks are looking for the tax letter. - P5
 
-> “Survivors’ benefits is a big one.” - P2
+> Survivors’ benefits is a big one. - P2
 
 **Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them. There’s a sneak peek in the appendix.
 
@@ -144,7 +144,7 @@ This second group of findings relates to [research question](https://github.com/
 - Focus on compensation can lead to busy times on the 1st day of the month & tax season
 - Mondays & lunch time also cited as busier days / times
 
-> “We also see a lot of rush the first of the month, especially if they don't get their paycheck.” - P12
+> We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
 
 ### 9 - Most services are consistently available during normal operating hours 
 
@@ -167,7 +167,7 @@ This third group of findings relates to [research question](https://github.com/d
 - eBenefits registration = 2 forms of ID
 - Adding/removing dependant = birth certificate, social security cards,  marriage certificates, divorce decrees
 
->  "They need to have an extra copy, because we're not going to copy the medical records while they wait." - P4
+>  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
 ### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect timing
 
