@@ -79,7 +79,7 @@ Quick Submit is a platform that supports the claims application process and allo
 
 ### Either team
 
-#### Support wayfinding research
+#### [Support wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/README.md)
 
 **OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
 
