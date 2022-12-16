@@ -1,4 +1,4 @@
-# Notification settings: Product outline
+# Product outline: Notification settings
 
 **Last Updated: December 16, 2022**
 
