@@ -4,7 +4,7 @@
 > 
 > This list was originally labeled "Popular on VA.gov" but changed to "Top pages" in November 2022 since topics and content which appear here (i.e. disability claims or mental health) may not be well-represented using "popular" as a label
 
-Data on searches from homepage are available in [VA.gov Search KPI DOMO Dashboard](https://va-gov.domo.com/page/1964748112) (_using "VA homepage" under Search scope filter_
+Data on searches from homepage are available in [VA.gov Search KPI DOMO Dashboard](https://va-gov.domo.com/page/1964748112) (_using "VA homepage" under Search scope filter_)
 
 ### Links present in "Top pages" menu for launch (WIP) 
 
