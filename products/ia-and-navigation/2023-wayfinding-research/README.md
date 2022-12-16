@@ -95,7 +95,10 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
 - What technical constraints exist around the navigation (eg. Drupal)?
-- What are the immediate plans for integrating the health apartment into the navigation?
+- What are the immediate plans for integrating the health apartment into the navigation? 
+- How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
+- How do people reconcile the content hubs vs. resources & support?
+- How do people navigate between My Health and other benefit tools?
 
 ## Research activities
 
