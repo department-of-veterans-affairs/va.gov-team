@@ -1,20 +1,12 @@
 <!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
 
-**This is a template, PLEASE MAKE A COPY**
-
-# [Research Name] Topline Summary
+# VBA Public Contact Staff Research - Topline Summary
 
 
-[link research plan]()
-
-[link conversation guide]()
-
-[link interview transcripts]()
-
-
+* [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/conversation-guide.md)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
-
 
 **The goal of this document is:**
 
