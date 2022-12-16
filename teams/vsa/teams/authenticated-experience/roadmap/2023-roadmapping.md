@@ -95,4 +95,4 @@ Samara's maternity leave!! I'll be out most of this quarter.
 
 ## Q3 - Q4 CY2023 (July - December)
 
-We'll determine what we'll be working on at this point as it gets closer.
+We'll determine what we'll be working on as we get closer to summer.
