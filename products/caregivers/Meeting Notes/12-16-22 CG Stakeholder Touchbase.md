@@ -40,8 +40,8 @@
      - Can we call MPI for approved caregiver?
           - Don't want to block if it is approved, but can we check for matching info in same position?
      - **Opportunity** We could add some info to the form about this
-     - **Do we know the volume of applications that are considered duplicate?**
-     - **Pending CG Team review**
+     - Do we know the volume of applications that are considered duplicate?
+          - **Pending CG Team review**
  
 - **Additional questions are pending CG team review and response:**
      - Do we know the ratio or volume or applications that are approved vs declined?  
