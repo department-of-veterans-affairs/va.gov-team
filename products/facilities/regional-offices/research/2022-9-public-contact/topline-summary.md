@@ -41,7 +41,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ### Services, Benefits, & Tasks
 
-This first group of findings relates to research questions 1 & 2: 
+This first group of findings relates to [research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md#research-questions) 1 & 2: 
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
