@@ -14,13 +14,11 @@
   - 6 [Mismatched expectations and reality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#6---a-common-source-of-veteran-frustration-is-a-mismatch-between-their-expectations-of-what-they-can-accomplish-at-a-regional-benefit-office-and-the-reality) 
   - 7 [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#7---there-is-little-standardization-in-how-regional-benefit-offices-handle-appointments)
   - 8 [Wait times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#8---wait-times-at-regional-benefit-offices-are-primarily-affected-by-facility-location-and-staffing-but-there-are-also-predictable-busier-times)
-  - 9 Service availability
-- Veteran Preparation
-  - 10 What to Bring
-  - 11 Security checkpoints
-- Appendix
-  - Top three services 
-  - Service matrix sneak peek
+  - 9 [Service availability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#9---most-services-are-consistently-available-during-normal-operating-hours)
+- [Veteran Preparation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#findings---veteran-preparation)
+  - [10 What to Bring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#10---having-a-valid-photo-id-and-a-dd-214-is-helpful-regardless-of-service)
+  - [11 Security checkpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#11---some-regional-benefit-offices-are-located-in-federal-buildings-with-security-checkpoints-which-can-affect-veteran-total-travel-time)
+- [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#appendix)
 
 ## Introduction
 
@@ -164,7 +162,70 @@ This second group of findings relates to research question 4:
 
 ## Appendix
 
-### Top 3 services
+### Top 3 services from 12 participants
+
+<table>
+  <tr>
+   <td><strong>Service</strong>
+   </td>
+   <td><strong>Count</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>apply for benefits / file a claim
+   </td>
+   <td>9
+   </td>
+  </tr>
+  <tr>
+   <td>compensation / payment 
+   </td>
+   <td>6
+   </td>
+  </tr>
+  <tr>
+   <td>get a [benefit / award / tax] letter
+   </td>
+   <td>6
+   </td>
+  </tr>
+  <tr>
+   <td>determine eligibility / understand options
+   </td>
+   <td>4
+   </td>
+  </tr>
+  <tr>
+   <td>check claim status
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>survivor’s benefits
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>general form support
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>education
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>pension
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
 
 ### Service matrix sneak peek
 
