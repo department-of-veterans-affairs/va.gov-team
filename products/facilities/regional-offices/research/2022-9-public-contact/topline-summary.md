@@ -2,6 +2,27 @@
 
 # VBA Public Contact Staff Research - Topline Summary
 
+**Table of Contents**
+- Introduction
+- Initial Findings
+  - Services, Benefits, & Tasks
+    - 1. Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
+    - 2. Public Contact staff primarily assist with the benefit of disability compensation
+    - 3. Public Contact staff primarily assist with the task of applying for benefits 
+    - 4. Providing beneficiaries official documents is a significant function of Regional Benefit Offices
+    - 5. There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
+  - Veteran Experience at Facility
+    - 6. A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality 
+    - 7. There is little standardization in how Regional Benefit Offices handle appointments
+    - 8. Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
+    - 9. There is little to no variation in service availability during normal operating hours
+  - Veteran Preparation
+    - 10. Having a valid photo ID and a DD-214 is helpful regardless of service
+    - 11. Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
+- Appendix
+  - Top three services 
+
+## Introduction
 
 * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md)
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/conversation-guide.md)
@@ -11,14 +32,18 @@ This topline summary is a high level, top of mind summary of trends found in the
 **The goal of this document is:**
 
  - To make sure everyone who observed the study is in alignment with the perceived findings
- - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+ - To gain insight from team/stakeholders and determine specific directions to pursue as we analyze the data
  - To jump start synthesis by quickly organizing high level themes 
 
 - - - 
 
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
+### Services, Benefits, & Tasks
+
+This first group of findings relates to research questions 1 & 2: 
+1. What benefit-related services are offered at these facilities?
+2. What do Veterans typically try to accomplish during an in-person facility visit?
 
 
 **Finding #1**
