@@ -108,5 +108,3 @@ Slack is the main form of communication used internally within the VA.gov organi
 - modules/test_user_dashboard
 
 > A useful VSCode extension, [favorites](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-favorites), will allow you to favorite these files and display them in a “favorite” tab to allow quick navigation.
-
-
