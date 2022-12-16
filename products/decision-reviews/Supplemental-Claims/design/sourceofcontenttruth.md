@@ -688,7 +688,7 @@ You must provide at least 1 type of supporting evidence before you can continue 
 
 ----------------------------------------------
 
-## Step 4 of 4: REVIEW & SUBMIT
+## Step 4 of 4: Review
 
 We’ll save your application every time you add or update information.
 
