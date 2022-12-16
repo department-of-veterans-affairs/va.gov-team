@@ -9,25 +9,25 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 - Integrate the health protal features into VA.gov
 - Improve the veteran login experience
 
-## 500 foot view: What this means for work on our team
+## 500 foot view: Authenticated experience team goals
 
-### Expanding onsite notifications
+### Expand onsite notifications
 
 Now that our MVP has launched, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov features. We know from countless user research efforts that the #1 thing people expect to see when they log in is personalized action items and updates, so scaling and elevating onsite notifications is a must. We''ll be spending the year figuring out our governance process, exploring a notification center, and, of course, adding new notifications.
 
-### Expanding notification preferences
+### Expand notification preferences
 
 For the profile, the notification preferences section is currently our biggest focus. We've got a lot of work coming down the pipeline, including incorporating preferences from MHV and eBenefits, as well as working with VANotify and VA Profile to add new preferences as other notifications are added. By year's end, I could see us adding 5 new preferences, if partners continue adding new notifications at the pace they did in 2022.
 
-### Improving IA and navigation for tasks and tools
+### Improve IA and navigation for tasks and tools
 
 One of our most important efforts this year will be working with Mikki and teams across OCTO to find areas for improvement with regards to navigating to tools and tasks. Right now, important tasks and tools are buried within content, and we regularly see users struggle to find tasks that aren't directly linked from the homepage or My VA. We'll review previous research, determine a strategy for moving forward, and hopefully start making and measuring improvements before year's end.
 
-### Supporting the health apartment migration
+### Support the health apartment migration
 
 There are plenty of opportunities for us to collaborate as MHV health features move into VA.gov. Our largest effort will be supporting the migration of MHV notification preferences into VA.gov. Additionally, we'll update the My VA dashboard as health features move over.
 
-#### Adding a new user role to VA.gov
+#### Add a new user role to VA.gov
 
 Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
 
