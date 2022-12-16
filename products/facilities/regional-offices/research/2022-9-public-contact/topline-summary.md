@@ -4,7 +4,6 @@
 
 **Table of Contents**
 - [Introduction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#introduction)
-
 - [Services, Benefits, & Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#services-benefits--tasks)
   - [1 Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
   - 2 Primarily benefit = disability compensation
@@ -38,7 +37,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - - - 
 
-## Services, Benefits, & Tasks
+## Findings - Services, Benefits, & Tasks 
 
 This first group of findings relates to [research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md#research-questions) 1 & 2: 
 1. What benefit-related services are offered at these facilities?
@@ -96,7 +95,7 @@ This first group of findings relates to [research questions](https://github.com/
 
 - - -
 
-## Veteran Experience at Facility
+## Findings - Veteran Experience at Facility
 
 This second group of findings relates to research question 3: 
 3. INSERT QUESTION
@@ -131,7 +130,7 @@ This second group of findings relates to research question 3:
 
 - - -
 
-## Veteran Preparation
+## Findings - Veteran Preparation
 
 This second group of findings relates to research question 4: 
 4. INSERT QUESTION
