@@ -122,10 +122,6 @@ OKRs and KPIs TBD.
 
 - This may happen concurrently with other parts of the process, but it is not necessary that it happen as preferences are built and supported. Preference work can still happen while the actual notifications are moved into the VANotify platform.
 
-### Requirements
-
-TBD
-
 ### Key dates
 
 - February 2022: Begin MHV profile audit
