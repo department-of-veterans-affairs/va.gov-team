@@ -106,8 +106,9 @@ This first group of findings relates to [research questions](https://github.com/
 
 ## Findings - Veteran Experience at Facility
 
-This second group of findings relates to research question 3: 
-3. INSERT QUESTION
+This second group of findings relates to [research question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md#research-questions) 3:
+
+3. What is the typical Veteran experience when visiting these facilities?
 
 ### 6 - A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality
 
@@ -141,8 +142,9 @@ This second group of findings relates to research question 3:
 
 ## Findings - Veteran Preparation
 
-This second group of findings relates to research question 4: 
-4. INSERT QUESTION
+This third group of findings relates to [research question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md#research-questions) 4: 
+
+4. What do Veterans need to know or do to be adequately prepared for a visit?
 
 ### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
 
