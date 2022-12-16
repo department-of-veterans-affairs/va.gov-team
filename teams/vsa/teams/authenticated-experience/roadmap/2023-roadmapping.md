@@ -93,6 +93,6 @@ With the addition of so many tools to VA.gov since the original redesign, we hav
 
 Samara's maternity leave!! I'll be out most of this quarter.
 
-## Q3 - Q4 CY2023 (July - December)
+### Q3 - Q4 CY2023 (July - December)
 
 We'll determine what we'll be working on as we get closer to summer.
