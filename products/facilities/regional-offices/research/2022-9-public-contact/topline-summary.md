@@ -3,10 +3,10 @@
 # VBA Public Contact Staff Research - Topline Summary
 
 **Table of Contents**
-- Introduction
-- Initial Findings
-  - Services, Benefits, & Tasks
-    - 1 Service categories
+- [Introduction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#introduction)
+- [Initial Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#initial-findings)
+  - [Services, Benefits, & Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#services-benefits--tasks)
+    - [1 Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
     - 2 Primarily benefit = disability compensation
     - 3 Public Contact staff primarily assist with the task of applying for benefits 
     - 4 Providing beneficiaries official documents is a significant function of Regional Benefit Offices
