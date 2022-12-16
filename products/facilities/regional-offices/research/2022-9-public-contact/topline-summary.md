@@ -4,23 +4,24 @@
 
 **Table of Contents**
 - [Introduction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#introduction)
-- [Initial Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#initial-findings)
-  - [Services, Benefits, & Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#services-benefits--tasks)
-    - [1 Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
-    - 2 Primarily benefit = disability compensation
-    - 3 Public Contact staff primarily assist with the task of applying for benefits 
-    - 4 Providing beneficiaries official documents is a significant function of Regional Benefit Offices
-    - 5 There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
-  - Veteran Experience at Facility
-    - 6 A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality 
-    - 7 There is little standardization in how Regional Benefit Offices handle appointments
-    - 8 Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
-    - 9 There is little to no variation in service availability during normal operating hours
-  - Veteran Preparation
-    - 10 Having a valid photo ID and a DD-214 is helpful regardless of service
-    - 11 Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
+
+- [Services, Benefits, & Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#services-benefits--tasks)
+  - [1 Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
+  - 2 Primarily benefit = disability compensation
+  - 3 Public Contact staff primarily assist with the task of applying for benefits 
+  - 4 Providing beneficiaries official documents is a significant function of Regional Benefit Offices
+  - 5 There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
+- Veteran Experience at Facility
+  - 6 A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality 
+  - 7 There is little standardization in how Regional Benefit Offices handle appointments
+  - 8 Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
+  - 9 There is little to no variation in service availability during normal operating hours
+- Veteran Preparation
+  - 10 Having a valid photo ID and a DD-214 is helpful regardless of service
+  - 11 Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
 - Appendix
   - Top three services 
+  - Service matrix sneak peek
 
 ## Introduction
 
@@ -37,15 +38,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - - - 
 
-## Initial Findings
-
-### Services, Benefits, & Tasks
+## Services, Benefits, & Tasks
 
 This first group of findings relates to [research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/research-plan.md#research-questions) 1 & 2: 
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-#### 1 - Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
+### 1 - Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
 
 - **Benefit** (e.g. compensation, home loans, VR&E)
 - **Task** (e.g. file a claim, check claim status, 1-on-1 interview)
@@ -63,7 +62,7 @@ This first group of findings relates to [research questions](https://github.com/
 **Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them. There’s a sneak peek in the appendix.
 
 
-#### 2 - Public Contact staff primarily assist with the benefit of _disability compensation_
+### 2 - Public Contact staff primarily assist with the benefit of _disability compensation_
 
 - Public Contact staff have end-to-end insight into the disability compensation process: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
@@ -74,21 +73,21 @@ This first group of findings relates to [research questions](https://github.com/
 
 > “It’s usually tied around ‘Where is my money?’” - P2
 
-#### Finding #3
+### Finding #3
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #4
+### Finding #4
 
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #5
+### Finding #5
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
@@ -97,33 +96,33 @@ This first group of findings relates to [research questions](https://github.com/
 
 - - -
 
-### Veteran Experience at Facility
+## Veteran Experience at Facility
 
 This second group of findings relates to research question 3: 
 3. INSERT QUESTION
 
-#### Finding #6
+### Finding #6
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #7
+### Finding #7
 
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #8
+### Finding #8
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #9
+### Finding #9
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
@@ -132,19 +131,19 @@ This second group of findings relates to research question 3:
 
 - - -
 
-### Veteran Preparation
+## Veteran Preparation
 
 This second group of findings relates to research question 4: 
 4. INSERT QUESTION
 
-#### Finding #10
+### Finding #10
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-#### Finding #11
+### Finding #11
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
