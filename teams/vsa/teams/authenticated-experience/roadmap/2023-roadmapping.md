@@ -1,6 +1,39 @@
-# Authenticated experience 2023 roadmapping
+# Authenticated experience: 2023 goals & roadmap
 
-## Q1 CY2023 (January - March)
+## Goals
+
+### 1,000 foot view: Support the 2023 OCTO objectives
+
+In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The authenticated experience team will primarily support the following objectives:
+
+- Enhance veterans' personalized online experience
+- Refresh the VA.gov homepage and information architecture
+- Integrate the health protal features into VA.gov
+- Improve the veteran login experience
+
+### 500 foot view: What this means for work on our team
+
+#### Expanding onsite notifications
+
+Now that our MVP has launched, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov features. We know from countless user research efforts that the #1 thing people expect to see when they log in is personalized action items and updates, so scaling and elevating onsite notifications is a must. We''ll be spending the year figuring out our governance process, exploring a notification center, and, of course, adding new notifications.
+
+#### Expanding notification preferences
+
+For the profile, the notification preferences section is currently our biggest focus. We've got a lot of work coming down the pipeline, including incorporating preferences from MHV and eBenefits, as well as working with VANotify and VA Profile to add new preferences as other notifications are added. By year's end, I could see us adding 5 new preferences, if partners continue adding new notifications at the pace they did in 2022.
+
+#### Improving IA and navigation for tasks and tools
+
+One of our most important efforts this year will be working with Mikki and teams across OCTO to find areas for improvement with regards to navigating to tools and tasks. Right now, important tasks and tools are buried within content, and we regularly see users struggle to find tasks that aren't directly linked from the homepage or My VA. We'll review previous research, determine a strategy for moving forward, and hopefully start making and measuring improvements before year's end.
+
+#### Supporting the health apartment migration
+
+There are plenty of opportunities for us to collaborate as MHV health features move into VA.gov. Our largest effort will be supporting the migration of MHV notification preferences into VA.gov. Additionally, we'll update the My VA dashboard as health features move over.
+
+#### Adding a new user role to VA.gov
+
+Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
+
+## Q1 CY2023 (January - March) Roadmap
 
 ### My VA and Onsite Notifications team
 
@@ -54,62 +87,12 @@ Quick Submit is a platform that supports the claims application process and allo
 
 With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. Things are about to get extra complicated as the health apartment migrates into VA.gov. We'll be working with Mikki to support research that aims to understand the problems with VA.gov's current structure and to figure out how to keep it manageable and navigable over time as it grows.
 
-## Q2 CY2023 (April - June)
+## The rest of the year
+
+### Q2 CY2023 (April - June)
 
 Samara's maternity leave!! I'll be out most of this quarter.
 
-## Q3 CY2023 (July - September)
+## Q3 - Q4 CY2023 (July - December)
 
-## Q4 CY2023 (October - December)
-
----------------
-
-## Work that's happening, but we are not sure when
-
-### My VA and Onsite Notifications team
-
-#### Incorporate health features into My VA as MHV features are migrated to VA.gov
-
-**OCTO objective**: Integrate health portal features into VA.gov
-
-This could be as small as updating links, or as big as adding new modules as features move over from MHV. I believe initial features/updates might include secure messaging and medical records.
-
-#### Add a new user role/experience to VA.gov
-
-**OCTO objective**: Improve the Veteran login experience
-
-It is likely we'll start work on a new user role experience in VA.gov before the end of the calendar year, though unlikely within the first half of 2023 [Slack](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E). This will likely require updates to My VA.
-
-### Profile team
-
-#### [Incorporate MHV notification preferences into the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)
-
-**OCTO objective**: Integrate health portal features into VA.gov
-
-We are currently in the early stages of migrating notification preferences from MHV to VA.gov. The first step is getting preferences into the VA Profile backend, ideally followed by MyHealtheVet integrating their frontend with VA Profile. Over the year, we'll figure out when to support these preferences in VA.gov, and we'll work with VANotify as the actual notifications migrate from MHV systems into VANotify. In its entirety, this work will likely span this year and beyond as health features are moved from MHV to VA.gov.
-
-#### Add a new user role/experience to VA.gov
-
-**OCTO objective**: Improve the Veteran login experience
-
-It is likely we'll start work on a new user role experience in VA.gov before the end of the calendar year, though unlikely within the first half of 2023 [Slack](https://dsva.slack.com/archives/G9TV2B50E/p1666828006560949?thread_ts=1666795077.350119&cid=G9TV2B50E). This will likely require updates to the VA.gov profile.
-  
-#### Add eBenefits notification preferences into VA.gov 
-
-**OCTO objective**: Enhance Veterans' personalized online experience
-
-In partnership with VANotify (leading this work) and VA Profile, we have been talking to eBenefits stakeholders about consolidating and moving over a bunch of benefit recommendation emails supported on eBenefits to VANotify. Preferences would be stored in VA Profile and need to be viewable and editable from VA.gov.
-
-#### Additional potential projects
-
-- Adding "pronouns" and "sexual orientation" to the VA.gov profile **if** those fields get PRA approval.
-- Adding new fields to the military information section of the profile to support PACT Act ([Details](https://dsva.slack.com/archives/G03HQ55DC/p1667569982198959)).
-- Investigating if the profile should have a way to view dependent information.
-
-### Either team
-
-#### Ongoing support of wayfinding research/IA and navigation updates
-
-**OCTO objective**: Refresh the VA.gov homepage and information architecture
-
-The wayfinding research mentioned above is part of a larger effort to improve the overall experience of navigating VA.gov, especially for logged-in users trying to get to tools and tasks. We don't know what the entirety of this work will look like now, but we can anticipate our team and others being involved to support Mikki in this work.
+We'll determine what we'll be working on at this point as it gets closer.
