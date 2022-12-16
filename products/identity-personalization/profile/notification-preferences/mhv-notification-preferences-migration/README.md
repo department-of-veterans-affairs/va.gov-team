@@ -114,7 +114,7 @@ OKRs and KPIs TBD.
 - [Initial migration plan notes shared with MHV (December 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/product/migration-plan.md)
 - In phase on of the migration, we will work with VA Profile to support the MHV notification preferences. Then, MHV has agreed to connect their frontend to the VA Profile backend. This will allow us to have significant flexibility in when we incorporate preferences into the VA.gov interface.
 
-**Migration phase two: VA.gov pulls in MHV preferences from VA Profile
+**Migration phase two: VA.gov pulls in MHV preferences from VA Profile**
 
 - Once preferences are supported in VA Profile, and MHV has connected to VA Profile, we can incorporate preferences into VA.gov any time. We'll need to figure out if we want to do this one-by-one in correspondence with the health apartment features moving into VA.gov, or if we want to support all preferences at once.
 
