@@ -8,16 +8,16 @@
   - 1 [Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
   - 2 [Primary benefit = disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#2---public-contact-staff-primarily-assist-with-the-benefit-of-disability-compensation)
   - 3 [Primary task = applying for benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#3---public-contact-staff-primarily-assist-with-the-task-of-applying-for-benefits) 
-  - 4 Providing official documents
-  - 5 Tasks require physical presence?
-- Veteran Experience at Facility
-  - 6 Mismatched expectations and reality 
-  - 7 There is little standardization in how Regional Benefit Offices handle appointments
-  - 8 Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
-  - 9 There is little to no variation in service availability during normal operating hours
+  - 4 [Providing official documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#4---providing-beneficiaries-official-documents-is-a-significant-function-of-regional-benefit-offices)
+  - 5 [Physical presence is optional](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#5---there-are-few-if-any-tasks-that-require-a-veteran-to-be-physically-present-at-regional-benefit-office)
+- [Veteran Experience at Facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#findings---veteran-experience-at-facility)
+  - 6 [Mismatched expectations and reality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#6---a-common-source-of-veteran-frustration-is-a-mismatch-between-their-expectations-of-what-they-can-accomplish-at-a-regional-benefit-office-and-the-reality) 
+  - 7 [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#7---there-is-little-standardization-in-how-regional-benefit-offices-handle-appointments)
+  - 8 [Wait times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#8---wait-times-at-regional-benefit-offices-are-primarily-affected-by-facility-location-and-staffing-but-there-are-also-predictable-busier-times)
+  - 9 Service availability
 - Veteran Preparation
-  - 10 Having a valid photo ID and a DD-214 is helpful regardless of service
-  - 11 Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
+  - 10 What to Bring
+  - 11 Security checkpoints
 - Appendix
   - Top three services 
   - Service matrix sneak peek
@@ -132,7 +132,7 @@ This second group of findings relates to research question 3:
 
 > Quote (if relevant)
 
-### Finding #9
+### 9 - Most services are consistently available during normal operating hours 
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
