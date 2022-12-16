@@ -6,8 +6,8 @@
 - Introduction
 - Initial Findings
   - Services, Benefits, & Tasks
-    - 1 Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
-    - 2 Public Contact staff primarily assist with the benefit of disability compensation
+    - 1 Service categories
+    - 2 Primarily benefit = disability compensation
     - 3 Public Contact staff primarily assist with the task of applying for benefits 
     - 4 Providing beneficiaries official documents is a significant function of Regional Benefit Offices
     - 5 There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
@@ -45,7 +45,7 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-#### #1 Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
+#### 1 - Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
 
 - **Benefit** (e.g. compensation, home loans, VR&E)
 - **Task** (e.g. file a claim, check claim status, 1-on-1 interview)
@@ -53,21 +53,27 @@ This first group of findings relates to research questions 1 & 2:
 - **Beneficiary** (e.g. survivors, military retirees, caregivers)
 
 > “Top three would be compensation, education, and pension.” - P3
+
 > “Filing a claim is a big one, and then checking the status.” - P12
+
 > “Most folks are looking for the tax letter.” - P5
+
 > “Survivors’ benefits is a big one.” - P2
 
-Note: One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them (in so far as they surfaced in the interviews). Here’s a sneak peek at a relational table of benefits, tasks, and whether a Regional Office can help:
+**Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them (in so far as they surfaced in the interviews). Here’s a sneak peek at a relational table of benefits, tasks, and whether a Regional Office can help:
 
 ![benefitchart](https://user-images.githubusercontent.com/51967950/208009144-270f148a-59bf-4d55-b94a-492027d03447.png)
 
+#### 2 - Public Contact staff primarily assist with the benefit of _disability compensation_
 
-#### Finding #2
+- Public Contact staff have end-to-end insight into the disability compensation process: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
+- 6/12 participants listed compensation in the top three most common services
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+> “90% of the Veterans coming in are concerned about ‘What’s my percentage and how much money am I getting?’” - P7
 
-> Quote (if relevant)
+> “Everyone understands that… this is where the money begins. Anything for money, they’re coming in.” - P5
+
+> “It’s usually tied around ‘Where is my money?’” - P2
 
 #### Finding #3
 
@@ -151,3 +157,5 @@ This second group of findings relates to research question 4:
 ## Appendix
 
 ### Top 3 services
+
+### Service matrix sneak peek
