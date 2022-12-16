@@ -17,7 +17,7 @@
   - 9 [Service availability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#9---most-services-are-consistently-available-during-normal-operating-hours)
 - [Veteran Preparation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#findings---veteran-preparation)
   - 10 [What to Bring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#10---having-a-valid-photo-id-and-a-dd-214-is-helpful-regardless-of-service)
-  - 11 [Security checkpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#11---some-regional-benefit-offices-are-located-in-federal-buildings-with-security-checkpoints-which-can-affect-veteran-total-travel-time)
+  - 11 [Security checkpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#11---some-regional-benefit-offices-are-located-in-federal-buildings-with-security-checkpoints-which-can-affect-timing)
 - [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#appendix)
 
 ## Introduction
