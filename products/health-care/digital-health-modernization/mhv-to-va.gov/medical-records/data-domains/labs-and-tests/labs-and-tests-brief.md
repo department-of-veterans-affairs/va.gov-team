@@ -58,11 +58,13 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 
 ### How to show Labs/ Tests section
-- What should the screen look like? What information should be seen? What should be hidden? 
+- The landing page for Labs and Tests should list  
 
 
 **View vs. share vs. download considerations:**
-
+- When download is offered, we must provide the option to download an accessible document along with PDF
+- View means the user can open and view a document on their screen once it has been generated
+- The size of some health records are prohibitive to displaying them quickly on-screen
 
 
 ### Accessibility considerations:
@@ -79,20 +81,26 @@ _Accessibility considerations specific to Labs/ Tests:_
 ## Questions to answer
 
 **UX:** 
+- Do users expect to find blood sugar, cholesteral (lipid panel) and blood clotting times in their vitals or in their labs and tests?
+- Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 
 
 **Business/ Engineering:** 
-
+- Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
+- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports
     
 
 **Who do we need to get feedback from?**
- 
+ - Business - Patty Henry
+ - Technical - TBD
 
 
 ## Lessons learned
 
 
 ## Backlog of potential features/ Ideas Parking Lot
-
+- Connect lab results with a specific visit or encounter
+- Connect pathology results with a specific procedure
+- Generate files that are compatible with common PHR systems so that they can be uploaded to another provider's system
 
 ## Additional notes
