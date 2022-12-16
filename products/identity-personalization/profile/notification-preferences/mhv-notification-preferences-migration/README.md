@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-Last updated: October 5, 2022 
+**Last updated: December 16, 2022**
 
 ### Communications
 
@@ -98,11 +98,29 @@ OKRs and KPIs TBD.
 
 ## Solution approach
 
-**Phase one: Definition, scoping, and planning - Fall 2022**
+**Discovery - Spring 2022**
+
+- Liz conducted a comparative analysis of the VA.gov and MHV profiles, assessed the MHV "Personal Information" section, conducted stakeholder interviews to assess expectations and needs, and conducted user research.
+- [Initial MHV profile discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research)
+
+**Definition, scoping, and planning - Fall 2022**
 
 - We are engaging biweekly with the MHV team in order to define their notifications and notification preferences. This includes both existing notifications and notifications they are planning to add.
 - Once we have a clear definition of what they have and what they would like to add, we will regroup with the health apartment team (eg. Lauren, Coulton, etc) to talk about a roadmap for these notifications & preferences. We hypothesize that we'll move over and incorporate notifications and preferences as related features (eg. secure messaging) are integrated into VA.gov.
 - We will also talk to the health apartment about a migration strategy, and whether or not we think MHV should integrate with VA Profile, or we should simply retire notification preferences on MHV when we turn them on on VA.gov.
+
+**Migration phase one: Get preferences into VA Profile; Connect MHV to the VA Profile backend - First half of 2023**
+
+- [Initial migration plan notes shared with MHV (December 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/product/migration-plan.md)
+- In phase on of the migration, we will work with VA Profile to support the MHV notification preferences. Then, MHV has agreed to connect their frontend to the VA Profile backend. This will allow us to have significant flexibility in when we incorporate preferences into the VA.gov interface.
+
+**Migration phase two: VA.gov pulls in MHV preferences from VA Profile
+
+- Once preferences are supported in VA Profile, and MHV has connected to VA Profile, we can incorporate preferences into VA.gov any time. We'll need to figure out if we want to do this one-by-one in correspondence with the health apartment features moving into VA.gov, or if we want to support all preferences at once.
+
+**Migration phase three: Move MHV notifications over to VANotify platform**
+
+- This may happen concurrently with other parts of the process, but it is not necessary that it happen as preferences are built and supported. Preference work can still happen while the actual notifications are moved into the VANotify platform.
 
 ### Requirements
 
@@ -114,6 +132,7 @@ TBD
 - April 2022: Complete MHV profile audit findings report
 - June 2022: Share audit findings with MHV team
 - August 2022: Began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form
+- December 2022: MHV agrees to integrate their notification preferences with VA Profile; Initial notification preferences intake is submitted to VA Profile
 
 ## Backend
 
