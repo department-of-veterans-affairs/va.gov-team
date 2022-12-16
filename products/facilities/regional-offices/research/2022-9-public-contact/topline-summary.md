@@ -45,12 +45,22 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-#### Finding #1
+#### #1 Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
+- **Benefit** (e.g. compensation, home loans, VR&E)
+- **Task** (e.g. file a claim, check claim status, 1-on-1 interview)
+- **Documents** (e.g. award letter, commissary letter, DD-214)
+- **Beneficiary** (e.g. survivors, military retirees, caregivers)
 
-> Quote (if relevant)
+> “Top three would be compensation, education, and pension.” - P3
+> “Filing a claim is a big one, and then checking the status.” - P12
+> “Most folks are looking for the tax letter.” - P5
+> “Survivors’ benefits is a big one.” - P2
+
+Note: One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them (in so far as they surfaced in the interviews). Here’s a sneak peek at a relational table of benefits, tasks, and whether a Regional Office can help:
+
+![benefitchart](https://user-images.githubusercontent.com/51967950/208009144-270f148a-59bf-4d55-b94a-492027d03447.png)
+
 
 #### Finding #2
 
