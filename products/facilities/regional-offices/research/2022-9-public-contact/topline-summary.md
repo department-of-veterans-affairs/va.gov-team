@@ -122,10 +122,12 @@ This second group of findings relates to [research question](https://github.com/
 
 > People are being told they can get every type of benefit done here at the regional office, and you know we simply can't. - P8
 
+> On any given day at least one of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
+
 > We get a lot of veterans coming in and they think that we can update their DD-214 and we can't. - P4
 
 > They think we do the Veteran ID cards - P2
-> 
+
 > If the person is looking for a VSO, they end up in the wrong place - P5
 
 ### 7 - There is little standardization in how Regional Benefit Offices handle appointments
@@ -167,12 +169,9 @@ This third group of findings relates to [research question](https://github.com/d
 
 >  "They need to have an extra copy, because we're not going to copy the medical records while they wait." - P4
 
-### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
+### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect timing
 
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+> Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
 
 - - -
 
