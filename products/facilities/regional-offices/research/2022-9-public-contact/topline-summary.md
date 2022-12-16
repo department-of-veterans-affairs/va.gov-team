@@ -7,11 +7,11 @@
 - [Services, Benefits, & Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#findings---services-benefits--tasks)
   - 1 [Service categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#1---services-at-regional-benefit-offices-can-be-meaningfully-categorized-in-at-least-four-distinct-ways)
   - 2 [Primary benefit = disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#2---public-contact-staff-primarily-assist-with-the-benefit-of-disability-compensation)
-  - 3 Public Contact staff primarily assist with the task of applying for benefits 
-  - 4 Providing beneficiaries official documents is a significant function of Regional Benefit Offices
-  - 5 There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
+  - 3 [Primary task = applying for benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/topline-summary.md#3---public-contact-staff-primarily-assist-with-the-task-of-applying-for-benefits) 
+  - 4 Providing official documents
+  - 5 Tasks require physical presence?
 - Veteran Experience at Facility
-  - 6 A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality 
+  - 6 Mismatched expectations and reality 
   - 7 There is little standardization in how Regional Benefit Offices handle appointments
   - 8 Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
   - 9 There is little to no variation in service availability during normal operating hours
@@ -87,14 +87,17 @@ This first group of findings relates to [research questions](https://github.com/
 
 > For education benefits we can't provide specific information to the customer. So we would have to refer them to an Education Call Center like Muskogee. - P3
 
-### Finding #4
+### 4 - Providing beneficiaries official documents is a significant function of Regional Benefit Offices
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+- 6/12 participants listed “get a [benefit/award/tax] letter” as one of the top three most common services
+- Sometimes they are printing new copies of documents that beneficiaries previously received
+- Other times, a new document is being created
 
-> Quote (if relevant)
+> “To get qualified for those funds from the City… they usually need that letter. The no-benefits letter, or the benefits letter.” - P5
 
-### Finding #5
+> “If they are a certain percentage, they get a letter where they can go to the commissaries on base and shop. We provide those letters.” - P4
+
+### 5 - There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
@@ -108,21 +111,21 @@ This first group of findings relates to [research questions](https://github.com/
 This second group of findings relates to research question 3: 
 3. INSERT QUESTION
 
-### Finding #6
+### 6 - A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-### Finding #7
+### 7 - There is little standardization in how Regional Benefit Offices handle appointments
 
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-### Finding #8
+### 8 - Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
@@ -143,14 +146,14 @@ This second group of findings relates to research question 3:
 This second group of findings relates to research question 4: 
 4. INSERT QUESTION
 
-### Finding #10
+### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
-### Finding #11
+### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect Veteran total travel time
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
