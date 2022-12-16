@@ -15,6 +15,10 @@
   - (3) Watchful waiting 
 - Users viewing homepage July 1 - October 31, 2022 = 8,933,445
 
+- [Link to task completion funnels in Google analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/IbJEBc4yRsWeCF93uP35fg)
+- [Reference for baselines from user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md)
+
+
 |	Metric	| Rationale | Measured by	| Baseline (Completion rate on existing homepage) - July 1 - October 31, 2022 (Number/% of users)	|	Target  | Importance   |
 |	---	|	---	|	---	|	--- |--- |---	|
 | Veteran/beneficiary views | Percent of VA.gov users who choose to view/use the new homepage (_and return to use, if possible to track_) | Sufficient use for analytics and feedback | 1,552,661 sessions with homepage interactions in October 2022 | 150,000 users or 30 days post-launch (see more info about this determination below the table) | Critical |
@@ -35,8 +39,6 @@
   - 190,661 users the first week
   - 231,517 users the second week
 
-[Reference for baselines from user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md)
- 
 The feedback and analytics collected on the redesign version may not be a representative sample because 
   - Access to the redesigned page will be based on user "opt-in" from the existing homepage, making the data subject to selection bias and/or status quo bias. Feedback collected across VA.gov also has this potential selection bias so the comparison of results with the existing homepage should still be valid. 
   - Data indicates that Veterans and beneficiaries with login accounts tend to skip the homepage so they will not see the modal announcement or be able to provide feedback on the new homepage. Other Veterans visiting VA.gov with a specific task in mind may be less inclined to view the new homepage during that visit or to take time to complete a feedback survey. These factors may lead to data which disproportionally represents new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
