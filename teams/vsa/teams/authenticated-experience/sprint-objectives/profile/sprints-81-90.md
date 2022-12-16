@@ -385,7 +385,7 @@ This is a **top** priority, so please favor updated documentation over new ticke
 - Erica: 12/26 - 12/27
 - Liz: 12/23 - 12/27
 - Christina: 12/26 - 12/27
-- Adam:
+- Adam: 12/21 - 12/23
 - John:
 - Tom: 12/26 - 12/27
 - Samara: 12/26 - 12/27
@@ -411,7 +411,7 @@ Going to start renumbering sprints with the new contract.
 - Erica: 12/28 - 12/30
 - Liz: 12/28 - 12/30
 - Christina: 12/28 - 12/30
-- Adam:
+- Adam: 12/28
 - John:
 - Tom:
 - Samara: 12/28 - 12/30
