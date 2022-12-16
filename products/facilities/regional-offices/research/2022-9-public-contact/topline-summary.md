@@ -61,23 +61,31 @@ This first group of findings relates to [research questions](https://github.com/
 **Note:** One of the things I’m working on for the full report is a comprehensive list of the terms in these four categories and mapping important relationships between them. There’s a sneak peek in the appendix.
 
 
-### 2 - Public Contact staff primarily assist with the benefit of _disability compensation_
+### 2 - Public Contact staff primarily assist with the benefit of disability compensation
 
-- Public Contact staff have end-to-end insight into the disability compensation process: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
+- Public Contact staff have end-to-end insight into the disability compensation process
+- Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
 
-> “90% of the Veterans coming in are concerned about ‘What’s my percentage and how much money am I getting?’” - P7
+> 90% of the Veterans coming in are concerned about "What’s my percentage and how much money am I getting?" - P7
 
-> “Everyone understands that… this is where the money begins. Anything for money, they’re coming in.” - P5
+> Everyone understands that… this is where the money begins. Anything for money, they’re coming in. - P5
 
-> “It’s usually tied around ‘Where is my money?’” - P2
+> It’s usually tied around "Where is my money?" - P2
 
-### Finding #3
+### 3 - Public Contact staff primarily assist with the task of applying for benefits 
 
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
+- 9/12 participants listed “applying for benefits / filing a claim” as one of the top three most common services
+- They are able to assist beneficiaries in applying for a wide range of benefits
+- They have to refer beneficiaries elsewhere for support on follow-up tasks
 
-> Quote (if relevant)
+> We're there to help Veterans fill out applications. - P9
+
+> Probably filing new claims, you know, on the VA Form 21-526 EZ. Honestly, I could probably print 20 copies and go almost the whole week. - P10
+
+> I can hand them an application to fill out. But PMC [Pension Management Center] would be the one process and handle it. - P5
+
+> For education benefits we can't provide specific information to the customer. So we would have to refer them to an Education Call Center like Muskogee. - P3
 
 ### Finding #4
 
