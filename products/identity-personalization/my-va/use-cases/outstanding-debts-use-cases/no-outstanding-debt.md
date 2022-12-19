@@ -11,7 +11,7 @@ For LOA3 users who sign in and do not have any outstanding VA debt, we will show
 * [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A2F44369-D9B0-41F6-99FE-F41269378DA9)
 
 ## How to reproduce
-* Find a staging user who has no outstanding debts in the [outstanding debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section).
+* Find a staging user who has no outstanding debts in the [outstanding debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section), or inquire with **benefits team 2** in slack (`#benefits-team-2`) for test users with no outstanding overpayment debts or copay debts.
 * Log into staging.va.gov with a test user who has no outstanding debts.
 * Once logged in, you will be redirected to My VA.
 * Verify that you see text stating that you have no debts to show.
