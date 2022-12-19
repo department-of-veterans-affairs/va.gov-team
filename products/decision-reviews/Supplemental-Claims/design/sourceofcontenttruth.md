@@ -458,7 +458,7 @@ _Warning_
 
 #### Authorize your doctor to release your records or upload them yourself
 If you want us to request your private medical records from your doctor, you must authorize the release.
-[Check the box to authorize the release] JUMP LINK
+[Check the box to authorize] JUMP LINK
 
 Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
 [Go back to upload records]
