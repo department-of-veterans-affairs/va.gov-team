@@ -1,6 +1,6 @@
 # My VA roadmap
 
-**Last updated: December 13, 2022**
+**Last updated: December 19, 2022**
 
 ## Current projects
 
@@ -18,6 +18,7 @@
 
 |Project|Launch/Completion date|
 |----|----|
+|[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
 |[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
 |[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
 |[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
