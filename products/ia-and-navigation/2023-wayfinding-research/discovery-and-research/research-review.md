@@ -8,4 +8,5 @@
 |[Health hub moderated tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%203%20-%20First%20click/HH_ResearchFindings.pdf)| September 2022 |
 |[Homepage redesign round 1 testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md)|August 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)|September 2021|
+|[Baseline homepage/wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md)|May 2021|
 |[My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)| June 2020|
