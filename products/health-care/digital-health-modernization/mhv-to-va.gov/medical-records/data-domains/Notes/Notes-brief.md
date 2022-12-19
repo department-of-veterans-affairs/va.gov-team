@@ -8,7 +8,11 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
+This is called VA Notes today on MHV Blue Button and VA Health Summary. They include all completed VA progress, telehealth, and consult notes including primary care, specialty care, mental health, social work, nursing notes, and Secure Messaging interactions that have been saved as notes. Physicians, nurses, consultants, therapists and other members of the health care team record their notes in your medical record. 
 
+Members of the health care team may use VA Notes to record your health condition and the care provided to you. The notes may include medical facts, clinical findings, health progress, opinions and treatment plans. It may also track your response to the care that was provided. Most importantly, it serves as a way for members of your health care team to share information about you.
+
+There are also clinican notes, which includes progress note, procedure note, and encounter note. Things like Admission and discharge summary are also notes from doctors. We need to define what should go in to notes and what to label this domain. 
 
 ## Relevant links
 
@@ -25,13 +29,24 @@ To serve as a source of truth around data field requirements and specifications,
 ## Notes data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-**Data field title:** Immunizations
+**Data field title:** Notes (VA Notes on Blue Button Report)
 
 **Data fields to include:**
 
+- Date/time
+- Note title
+- Location
+- Signed by 
+- Co-signed by 
+- Date/time signed 
+- Note
 
 ## Use Cases
 
+Notes are not just for patients, but a way for health care members to be informed about patients' health journey. 
+
+- Procedure note: to read about what happened with the procedure and if anything needs to follow up 
+- Progress note: to read about your health journey and see what's changed. 
 
 **Common Use Cases**
 
