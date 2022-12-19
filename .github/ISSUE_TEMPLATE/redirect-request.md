@@ -20,7 +20,13 @@ assignees: heyjoni, jilladams, RLHecht
 - [ ] We need a custom vanity URL (complete vanity URL section)
 
 ### Implementation date
-When does this request need to be live: 
+When does this request need to be live?
+Choose one:
+- [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
+- [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 
+- [ ] Any day after an earliest possible date. **EARLIEST DATE:**
+- [ ] During a specific date range: ***EARLIEST DATE TO LATEST DATE:***
+- [ ] No hard timing requirements, publish when possible.
 
 ### Redirects 
 Current URL  |  Redirect Destination or New URL
