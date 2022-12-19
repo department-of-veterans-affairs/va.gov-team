@@ -3,9 +3,8 @@
 **_SIGNED OUT_**
 
 
-## CHOOSE BENEFIT TYPE
-
-### Is this the form I need?
+## Is this the form I need?
+ 
 Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and have new and relevant evidence to submit. 
 
 Answer this question to get started:
@@ -21,6 +20,11 @@ If you don't think this is the right form for you, find out about the other deci
 
 << Learn about choosing a decision review option
 
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+---
+
 ## Filing if your Supplemental Claim isn't for a disability
 We can accept online Supplemental Claims only for disability claims at this time. For other types of claims, you'll need to fill out and submit VA Form 20-0995 by mail or in person.
 
@@ -30,10 +34,8 @@ Find the address for mailing your form (text link)
 
 [Download VA Form 20-0995 (PDF)](https://www.va.gov/find-forms/about-form-20-0995/)
 
-*error*
-You must choose a claim type.
-
 ---
+
 ## File a Supplemental Claim
 VA Form 20-0995
 
@@ -66,11 +68,11 @@ Here’s what you’ll need to apply:
 - The name and address of any medical facility you'd like us to request your records from. 
 - The dates you were treated at that private medical facility. 
 
-Types of Evidence (expand)
+Types of Evidence (expand) \
 - Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse.
 - Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse.
 
-### 3. Start your Supplemental Claim
+#### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
@@ -85,7 +87,6 @@ Here's how signing in now helps you:
 - You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it.
 
 **Sign in to start your claim**
-
 
 Respondent burden: 15 minutes
 
@@ -127,11 +128,12 @@ Here’s what you’ll need to apply:
 - The name and address of any medical facility you'd like us to request your records from. 
 - The dates you were treated at that private medical facility. 
 
-Types of Evidence (expand)
+Types of Evidence (expand) \
+
 - Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse
 - Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse
 
-### 3. Start your Supplemental Claim
+#### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
@@ -217,8 +219,6 @@ We may need to contact you if we have questions about your Supplemental Claim. (
 **_BACK_**
 
 **_CONTINUE_**
-
-*Error*: You need to choose a primary phone number.
 
 ----------------------------------------------
 
@@ -343,11 +343,7 @@ We’ll request your VA medical records from this facility
 
 Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
 
-_Error_: You must enter a VA facility
-
 Choose the conditions you received treatment for at this facility. (*Required)
-
-_Error_ : You must choose a condition.
 
  
 First treatment date (you can estimate) (*Required)
@@ -874,6 +870,10 @@ We’re sorry. We’re working to fix the problem, but it may take us a while. P
 If you're still having trouble tomorrow submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
 
 ### Inline errors
+
+Introduction
+
+    You must choose a claim type.
 
 Issues
 
