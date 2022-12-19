@@ -14,7 +14,7 @@ For LOA3 users who sign in and have outstanding copay debts, we will show a card
 * [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/DAB1B489-950A-4378-B784-0E4980F44A1E)
 
 ## How to reproduce
-* Find a staging user who has copay debts in the [outstanding debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section).
+* Find a staging user who has copay debts in the [outstanding debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section),  or inquire with benefits team 2 in slack (`#benefits-team-2`) for test users with outstanding copay debts.
 * Log into staging.va.gov with a test user who has outstanding copay debts.
 * Once logged in, you will be redirected to My VA.
 * Verify that you see a card for copay debts under the "Outstanding debts" header.
