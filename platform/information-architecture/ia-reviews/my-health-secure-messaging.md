@@ -22,7 +22,7 @@
 ## <a name="flows">User/Page flows</a>
 For phase 0, people will enter the tool via email invite only. There will be no entry points within VA.gov.
 
-The secure messaging tool will follow the upcoming My Health portal’s left navigation when it launches. In the meantime, it will have its own left nav.
+The secure messaging tool will live within the My Health portal when My Health launches. In the meantime, secure messaging will be a standalone.
 User flow provided by product team: https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/p/6FFCD430-73CB-4B8E-9853-A026EFCFA024/canvas
 
 ## <a name="map">IA structure, URLS and breadcrumbs</a>
