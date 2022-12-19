@@ -20,7 +20,7 @@
 - [Meeting Notes](#notes)
 
 ## <a name="flows">User/Page flows</a>
-People will enter this tool through the static page http://www.va.gov/health-care/secure-messaging/. From there, people land on the messaging tool and navigate to other pages/views within the tool.
+For phase 0, people will enter the tool via email invite only. There will be no entry points within VA.gov.
 
 The secure messaging tool will follow the upcoming My Health portal’s left navigation when it launches. In the meantime, it will have its own left nav.
 User flow provided by product team: https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/p/6FFCD430-73CB-4B8E-9853-A026EFCFA024/canvas
@@ -28,12 +28,12 @@ User flow provided by product team: https://www.sketch.com/s/77fd8aec-67b1-446d-
 ## <a name="map">IA structure, URLS and breadcrumbs</a>
 Page-level specifications, like page titles (H1), URL, and breadcrumb. 
 
-**Important:** Please confirm page names and H1s with Sitewide Content team. URL parameters will also need further discussion with Sitewide IA before URLs are coded.
+**Important:** Please confirm page names and H1s with Sitewide Content team. Please let Sitewide IA know when the URL parameters are determined by engineers. 
 
 Secure messages tool landing page:
 * **H1/Page title**: Messages (confirm this with Sitewide Content. Last string in URL and breadcrumb would match the actual name)
 * **URL structure**: https://www.va.gov/my-health/messages
-* **Breadcrumb**: VA.gov home > Health care > Use secure messaging > Messages 
+* **Breadcrumb**: None for phase 0.
 
 **Note on breadcrumb:** This breadcrumb does not match the actual placement of this tool within the IA, instead it is intentionally utilizing a false hierarchy to ensure each segment provides a visitor with valid landing pages that match how they can access the tool in the initial phases.  This breadcrumb will need to be updated once the My health landing page is launched.
 
@@ -44,7 +44,7 @@ Subsequent pages/views within the messages tool will use this structure:
 
 * **H1/Page title**: Check with Sitewide Content
 * **URL structure**: https://www.va.gov/my-health/messages
-* **Breadcrumb**: All landing pages will use the overarching message breadcrumb: Va.gov home > Health care > Use secure messaging > Messages
+* **Breadcrumb**: There will be no breadcrumbs for phase 0. 
 
 ### Third-level pages (detail views and results views)
 
@@ -99,7 +99,7 @@ For more information, see the Redirect Request Process.
 ## <a name="notes">Additional Notes/Recommendations</notes>
 ### Required:
 * Confirm H1s for each view with Sitewide Content.
-* Have engineers sync with Sitewide IA on final URLS for individual pages/views. 
+* The core URLs are provided in this doc. Engineers will determine final URLs with parameters and will notify Sitewide IA of those parameters.
 * Have accessibility review next design iteration and coded prototype before moving to staging.
 ### Recommended:
 * Test landing page on messages home to determine usefulness of content.
