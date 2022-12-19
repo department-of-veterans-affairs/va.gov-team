@@ -14,7 +14,7 @@
 - [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
 - Education and training use cases (content and link to come in 2023)
-- 
+- Saved applications use cases (content and link to come in 2023)
 
 ## Edge Cases
 
