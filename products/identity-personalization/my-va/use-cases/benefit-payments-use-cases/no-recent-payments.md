@@ -16,8 +16,8 @@ For LOA3 users who sign in and have *not* received any payments from VA in the l
 
 ### User has never received payments from VA
 
-* If a logged in LOA3 user has not received a payment from VA in the last 60 days, they will text in this section that says "You have no recent payments to show."
-* If a user has never received any payments from VA, they will see a link to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile.
+* If a logged in LOA3 user has never received a payment from VA, they will text in this section that says "You have no recent payments to show."
+* They will also see a link to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile.
 * [Desktop mockup for no payments ever](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B0DF2025-E29C-48D0-8230-6BC8D2FAA5EA)
 * [Mobile mockup for no payments ever](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FE8BFAEA-9A71-4AB6-A35F-9BE18A63B3CF)
 
