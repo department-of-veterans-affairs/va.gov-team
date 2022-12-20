@@ -1,4 +1,4 @@
-# My VA and Onsite Notifications Sprint Objectives: Sprints 1 – 10 (1.4.23 - 5.16.23)
+# My VA and Onsite Notifications Sprint Objectives: Sprints 1 – 10 (1.4.23 - 5.23.23)
 
 - [Sprint 1](#sprint-14---117)
 - [Sprint 2](#sprint-2-118---131)
