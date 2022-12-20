@@ -1,6 +1,6 @@
-# Research outline: Wayfinding on VA.gov
+# Research outline: Finding tools and tasks on VA.gov
 
-**Last Updated: December 15, 2022**
+**Last Updated: December 20, 2022**
 
 ## Table of Contents
 
@@ -46,10 +46,12 @@ With the addition of so many tools to VA.gov since the original redesign, we hav
 ### Research goals
 
 - Understand what research has already been done, and establish what we already know about wayfinding issues and challenges on VA.gov.
-- Understand what issues veterans and other users have navigating the current VA.gov landscape.
+- Understand what issues veterans and other users have navigating to tools and task in the current VA.gov landscape.
 - Understand stakeholder expectations around navigation and navigation updates.
+- Understand what work is happening re: IA and navigation on other teams, so that we don't do competing or conflicting work.
 - Work collaboratively across crews, so this work isn't silo'd.
-- Consider flows through full logged out > logged in states instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
+- Consider task flows through full logged out > logged in states instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
+- Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
 
 ### Experience goals
 
@@ -80,7 +82,7 @@ When this work starts, Mikki will be the only personw who's full-time on this wo
 
 ### People still view IA/navigation as "unauth" and "auth"
 
-Though differences in logged out and logged in experiences are common across the web, our teams tend to treat these as totally separate experiences, making updates in silo'd ways that creates for a disjointed experience across VA.gov. We may face challenges in this work changing the culture/mindset around how people think about navigating VA.gov.
+Though differences in logged out and logged in experiences are common across the web, our teams tend to treat these as totally separate experiences, making updates in silo'd ways that creates for a disjointed experience across VA.gov. We've become a team that is updating the site in a way that reflects how we're set up as a "business" and how we've defined our own products, not necessarily how users expect to holistically navigate. 
 
 ### There's A LOT to think about when it comes to wayfinding
 
@@ -90,15 +92,19 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 [This is not an exhaustive list, and we should expand on it]
 
-- What work is happening across other teams that could effect the navigation (eg. notifications work, health apartment, etc)?
-- What are the known problems for users around navigation (eg. reliance on homepage quick links)?
+- What work is happening across other teams that could effect the navigation (eg. notifications work, sitewide work, health apartment, etc)?
+- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)?
 - How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
 - What technical constraints exist around the navigation (eg. Drupal)?
 - What are the immediate plans for integrating the health apartment into the navigation? 
 - How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
-- How do people reconcile the content hubs vs. resources & support?
+- Do people utilize the content hubs and resources & support when they are completing tasks? If so, how?
 - How do people navigate between My Health and other benefit tools?
+- How are we defining tasks and tools? Is applying a task/tool?
+- Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
+- What tasks do people come to do? What do people expect to do signed in vs. signed out?
+- How do we reconcile VA.gov and mobile app so they feel like a unified experience?
 
 ## Research activities
 
