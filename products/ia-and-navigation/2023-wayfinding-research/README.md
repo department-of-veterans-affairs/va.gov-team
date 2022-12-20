@@ -110,6 +110,7 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - How will people navigate between My Health and other benefit tools?
 - How do we reconcile VA.gov and mobile app so they feel like a unified experience?
 - How does getting help/customer support fit into the overall experience of completing tasks/finding tools?
+- What role do notifications play in helping people navigate to tools and tasks?
 
 ### Technical considerations
 
