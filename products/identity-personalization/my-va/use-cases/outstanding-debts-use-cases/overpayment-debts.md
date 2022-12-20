@@ -6,7 +6,7 @@ For LOA3 users who sign in and have outstanding overpayment debts, we will show 
 ## UX
 * Any logged in LOA3 user can see the Outstanding Debts section on My VA.
 * If a logged in LOA3 user has any outstanding overpayment debts in the combined debt portal, they will see a card in this section that tells them how many overpayment debts they have and the date this information was last updated, as well as a link to "Manage your VA debt" which links to the debts page of the combined debt portal.
-* When a user has overpayment debts to show, they will *not* see a link to "Learn about VA debt."
+* When a user has overpayment debts to show, they will *not* see a link to "Learn about VA debt." [This link only shows when a user does not have overpayment debts to show.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/no-outstanding-debt.md)
 * This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Outstanding debts header on mobile.
 * Uses the [card component](https://design.va.gov/components/card) from the VA design system.
 * [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E5951AEA-0F34-4DE1-9C1F-EFD06B89483B)
