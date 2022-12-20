@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: December 7, 2022**
+**Last updated: December 20, 2022**
 
 ### Communications
 
@@ -180,8 +180,8 @@ _Why would your business want this to exist?_
 
 ## Design
 
-- Link sketch files
-- Link to use cases
+- [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
+- [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 - Link to flows
 
 ### Screenshots
