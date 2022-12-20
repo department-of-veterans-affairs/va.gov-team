@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-Last Updated September 6, 2022
+**Last updated: September 6, 2022**
      
 ## Table of Contents
 
