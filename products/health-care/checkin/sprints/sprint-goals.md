@@ -13,11 +13,17 @@ ________________________________________________________________________________
 
 #### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - ??????
+    - Figure out how to implement feedback from the collab cycle review
+    - Implement metrics
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - ????
-- [Pre-Check-in: Add Link to VAOS to Cancel an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50714)
-    - ?????
+    - Update the user flows and discuss proposed updates to user flows with team + stakeholders
+    - Incorporate feedback based on discussion
+- Travel Reimbursement
+    - Wilkes-Barre Planning
+    - Update Design Artifacts for Release - Travel pay (#47488)
+- Tech Debt
+    - End of Interactions (#49521)
+    - Change VA sign in content in pre check in (#50876)
 
 #### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - [Production Support]() 
