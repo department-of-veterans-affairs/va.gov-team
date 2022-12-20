@@ -9,7 +9,7 @@
 - [Sprint 87](#sprint-87-1116---1129)
 - [Sprint 88](#sprint-88-1130---1213)
 - [Sprint 89](#sprint-89-1214---1227)
-- [Sprint 1](#sprint-1-1228---110)
+- [Sprint 90](#sprint-90-1228---110)
 
 ## Sprint 81 (8/24 - 9/6) 
 
@@ -385,25 +385,12 @@ This is a **top** priority, so please favor updated documentation over new ticke
 - Erica: 12/26 - 12/27
 - Liz: 12/23 - 12/27
 - Christina: 12/26 - 12/27
-- Adam: 12/21 - 12/23
+- Adam:
 - John:
 - Tom: 12/26 - 12/27
 - Samara: 12/26 - 12/27
 
-### General
-
-- Create onboarding tickets (TBD for whom and what roles)
-
-### If some people continue...
-
-- Review accessibility work to determine what is still outstanding for build and design; Continue work.
-- Discuss next steps with notification preferences re: adding email as a channel.
-
------
-
-Going to start renumbering sprints with the new contract.
-
-## Sprint 1 (12/28 - 1/10)
+## Sprint 90 (12/28 - 1/10)
 
 ### PTO
 
@@ -411,7 +398,7 @@ Going to start renumbering sprints with the new contract.
 - Erica: 12/28 - 12/30
 - Liz: 12/28 - 12/30
 - Christina: 12/28 - 12/30
-- Adam: 12/28
+- Adam:
 - John:
 - Tom:
 - Samara: 12/28 - 12/30
