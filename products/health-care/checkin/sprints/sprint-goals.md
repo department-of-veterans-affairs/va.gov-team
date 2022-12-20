@@ -1,8 +1,12 @@
 # SPRINT GOALS
 
 __________________________________________________________________________________________________________________________________________________________
+## Future stuff 
 
-## 12/28/2022 - 1/3/2022 ---------------------- FUTURE/TENTATIVE -----------------------------
+- CIE Tech Debt & Bugs    
+    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
+    
+## 12/28/2022 - 1/10/2022 ---------------------- FUTURE/TENTATIVE -----------------------------
 
 #### Planned Releases ---------------------- FUTURE/TENTATIVE -----------------------------
 - NONE
@@ -26,13 +30,23 @@ ________________________________________________________________________________
     - Change VA sign in content in pre check in (#50876)
 
 #### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
-- [Production Support]() 
+- [Production Support]
+    - perform prod support
+    - Automate the day-end summaries
+    - Review recent past incidents to find gaps in alerting
+
 - [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Implement new design
+    - Implement new design/build header and footer (#49890)
+
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Implement the new details feature
+    - Implement the new details feature (#45319- asynch discuss how to break this down after wireframe review)
+    - Unified check-in experience (#50683)
+
 - CIE Tech Debt & Bugs    
-    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
+    - Refactor and reduce HOC useage (#49081)
+    - Spike- Visual Regression
+    - Add use case to Cypress (#47178)
+    - Allow creating appointments for dev (station 500) (#50925)
 
 __________________________________________________________________________________________________________________________________________________________
 
