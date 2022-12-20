@@ -92,19 +92,24 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 [This is not an exhaustive list, and we should expand on it]
 
+### OCTO/Stakeholders
+
 - What work is happening across other teams that could effect the navigation (eg. notifications work, sitewide work, health apartment, etc)?
-- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)?
 - How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
-- What technical constraints exist around the navigation (eg. Drupal)?
+
+### Users needs/VA.gov
+
+- How are we defining tasks and tools? Is applying a task/tool?
+- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)?
+- Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
+- What tasks do people come to do? What do people expect to do signed in vs. signed out?
 - What are the immediate plans for integrating the health apartment into the navigation? 
 - How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
 - Do people utilize the content hubs and resources & support when they are completing tasks? If so, how?
-- How do people navigate between My Health and other benefit tools?
-- How are we defining tasks and tools? Is applying a task/tool?
-- Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
-- What tasks do people come to do? What do people expect to do signed in vs. signed out?
+- How will people navigate between My Health and other benefit tools?
 - How do we reconcile VA.gov and mobile app so they feel like a unified experience?
+- What technical constraints exist around the navigation (eg. Drupal)?
 
 ## Research activities
 
