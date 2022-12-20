@@ -6,21 +6,7 @@ Background
 
 VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
 
-<!-- Explain why we're doing this iterative research process - what we want to accomplish, at a high level, with this redesign -->
-
-The VA Online Scheduling and MyHealtheVet teams worked together to identify gaps between scheduling features in the two products. They completed an analysis [to identify gaps](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&wdOrigin=OFFICECOM-WEB.MAIN.SEARCH&ct=1656340079030&action=default&mobileredirect=true) between the two products. Then, the VAOS team [tested a design concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md) that would meet the needs identified in the gap analysis.
-
-<!-- ^^ Add info about the usability study you completed -->
-
-The VAOS team also wants to evaluate potential changes to the appointment details page content and navigation.
-
-<!-- ^^ This doesn't really connect to anything that introduced it. Maybe move to the beginning of this section, and add the other goals of this work. -->
-
-Building on those activities, this research will evaluate:
-
--   The screenreader usability of the redesigned appointment list
-
-<!-- ^^ This doesn't need to be a separate bullet since there's only one item -->
+The VA Online Scheduling team has worked to evaluate the usability of the existing appointment list. A redesign of the appointment list was created based on the [feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md) during Veteran research sessions. The usability of the redesign was then tested with Veterans and the findings were incorporated in updated designs. The VA Online scheduling team now seeks feedback from Veterans using screenreaders to validate the changes made to the appointment list for low and non-sighted Veterans. 
 
 Also see [Product's initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/product-outline-appointment-list-2022.md).
 
@@ -67,28 +53,21 @@ Retiring
 Research goals
 --------------
 
-Test screenreader usability for appointment list redesign proof of concept
-
-<!-- ^^Testing is what we're doing, but it's not the goal. We want to make the appointments list easy to navigate for screenreader users -->
+The goal of this research is to improve navigation for Veterans using screenreaders.
 
 ### Outcome
 
 We will use the findings to:
 
--   Finalize designs and update the appointments list. 
-
-<!-- We will finalize the designs, but the outcome should be a list that's easy for screenreader users to navigate. -->
-
+-   Provide an appointment list that is easy for screenreader users to navigate.
 
 ### Hypotheses
 
 <!-- "The appointment list screenreader" I'm not sure what you mean here. Maybe "When a Veteran uses a screenreader to navigate the appointments list"? -->
-The appointment list screenreader will:
--   Effectively deliver necessary appointment information to the Veteran.
--   Deliver information to the Veteran in appropriate order.
--   Be easy to navigate.
+When Veterans use a screenreader on the appointment list:
 
-<!-- ^^ Rewrite these from the perspective of the Veteran; what will they be able to do? -->
+-   They will be able to easily navigate their appointments easily.
+-   They will be able to find the information they need to attend/join their appointments
 
 ### Research Questions
 
@@ -96,13 +75,12 @@ The appointment list screenreader will:
 
 **Evaluate screenreader usability and value of the appointment list redesign.**
 
+* Have/do you use a tool like this to manage appointments?
 * Does the information for each appointment make sense?
 * Can Veterans differentiate between appointments?
 * Can Veterans navigate to Past appointments?
 * Can Veterans navigate to Pending appointments?
-* What can Veterans navigate from the appointments list?
-
-<!-- The last bullet doesn't make sense to me, maybe flesh that out a bit -->
+* What can you do next on these pages?
 
 Method
 ------
@@ -118,7 +96,7 @@ Remote, over Zoom.
 For moderated usability test 
 - [Conversation guide]() TBA
 
-- [Staging Link]() 
+- [Staging Link]() TBA
 
 
 Recruitment
@@ -126,32 +104,18 @@ Recruitment
 
 ### Recruitment approach
 
-Perigean will recruit 5 total participants for this study.
-
-<!-- Double this, or make it 12. We can close the study once we get 5. -->
+Perigean will recruit 12 total participants for this study.
 
 ### Recruitment criteria
 
 **Primary criteria**
 
 -  5 participants that regularly use a screenreader.
-
-
-<!-- Other studies have struggled to find screenreader users. Write a specific screener question Perigean can send along when they're recruiting folks. I would look at what other studies have done, and list specific screenreader tools. -->
-
-**Secondary criteria:**
-
-- At least 1 veteran with a cognitive disabilty
-- At least 1 LGBTQ+ Veteran
-- At least 1 Native Veteran
-
-We will ask for Perigean support in recruiting and taking notes.
-
-<!-- We'll be lucky if we get 5 screenreader users. I'd remove all the secondary criteria (just say "none") -->
+ 
+ Screener Question: Do you use a screenreader to assist with webpage navigation?
 
 Timeline
 --------
-
 
 ### Prepare
 
