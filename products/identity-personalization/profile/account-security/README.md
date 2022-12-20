@@ -1,6 +1,6 @@
 # Account Security Product Outline
 
-_Last updated October 26, 2022_
+**Last updated: October 26, 2022**
      
 ## Table of Contents
 
