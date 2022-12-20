@@ -101,7 +101,8 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 ### Users needs/VA.gov
 
 - How are we defining tasks and tools? Is applying a task/tool?
-- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)?
+- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
+- What actually works better with eBenefits and MHV re: navigation?
 - Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
 - What tasks do people come to do? What do people expect to do signed in vs. signed out?
 - What are the immediate plans for integrating the health apartment into the navigation? 
