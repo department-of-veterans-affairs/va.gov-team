@@ -2,14 +2,38 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 12/28/2022 - 1/3/2022 ---------------------- FUTURE -----------------------------
+## 12/28/2022 - 1/3/2022 ---------------------- FUTURE/TENTATIVE -----------------------------
 
-- CIE Tech Debt & Bugs
+#### Planned Releases ---------------------- FUTURE/TENTATIVE -----------------------------
+- NONE
+
+#### Analytics Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+   - Evolve the trendline idea
+
+#### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - ??????
+- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - ????
+- [Pre-Check-in: Add Link to VAOS to Cancel an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50714)
+    - ?????
+
+#### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+- [Production Support]() 
+- [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Implement new design
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Implement the new details feature
+- CIE Tech Debt & Bugs    
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
 
 __________________________________________________________________________________________________________________________________________________________
 
 ## 12/14/2022 - 12/27/2022 
+
+#### Planned Releases
+- NONE
 
 #### Analytics Sprint Goals 
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
