@@ -109,6 +109,10 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - Do people utilize the content hubs and resources & support when they are completing tasks? If so, how?
 - How will people navigate between My Health and other benefit tools?
 - How do we reconcile VA.gov and mobile app so they feel like a unified experience?
+- How does getting help/customer support fit into the overall experience of completing tasks/finding tools?
+
+### Technical considerations
+
 - What technical constraints exist around the navigation (eg. Drupal)?
 
 ## Research activities
