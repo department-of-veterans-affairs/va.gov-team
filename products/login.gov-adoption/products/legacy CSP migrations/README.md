@@ -1,4 +1,4 @@
-# Inherited proofing outline
+# Grandfathering / Inherited proofing outline
 
 ## Overview
 
