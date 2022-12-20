@@ -30,7 +30,7 @@ ________________________________________________________________________________
     - Change VA sign in content in pre check in (#50876)
 
 #### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
-- [Production Support]
+- Production Support
     - perform prod support
     - Automate the day-end summaries
     - Review recent past incidents to find gaps in alerting
