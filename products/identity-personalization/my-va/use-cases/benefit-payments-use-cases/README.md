@@ -2,6 +2,10 @@
 
 **Last updated:** December 14, 2022
 
+## Overview of Benefit Payments
+
+* Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out on the first of every month via direct deposit or paper check.
+* This feature on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show.
 * For all of these use cases, the user must be LOA3 (identity verified).
 * [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
 
