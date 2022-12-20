@@ -10,7 +10,7 @@ argParser.add_argument("-d", "--date", help="Date")
 args = argParser.parse_args()
 
 startdate = args.date + 'T00:00:00-05:00'
-enddate = args.date + 'T18:00:00-05:00'
+enddate = args.date + 'T20:00:00-05:00'
 
 configuration = Configuration()
 
