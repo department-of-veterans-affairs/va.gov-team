@@ -1,6 +1,6 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: December 15, 2022
+Last updated: December 20, 2022
 
 ## Purpose
 
