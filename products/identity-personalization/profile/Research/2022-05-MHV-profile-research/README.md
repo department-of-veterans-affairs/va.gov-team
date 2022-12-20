@@ -114,6 +114,7 @@ In the second two sprints, we’ll conduct these activities to work toward [rese
 We’ll use time in the 5th sprint to finalize our report and recommendations.
 
 ## Research artifacts
-- MHV user interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews)
-- MHV coordinator interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-coordinator-interviews)
-- [Meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/meeting-notes)
+- [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/stakeholder-interviews.md)
+- [MHV profile vs. VA.gov profile comparison](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/comparison/findings.md)
+- [MHV user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/mhv-user-interviews/topline-summary.md)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md)
