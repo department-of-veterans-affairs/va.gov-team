@@ -55,6 +55,15 @@
 
 ### My VA audit
 
+**PM**
+
+- Finalize QA prep (not sure what is still left to do on this)
+
+**Design**
+
+- Research recruiting
+- Conduct research
+
 ## Sprint 2 (1/18 - 1/31)
 ## Sprint 3 (2/1 - 2/14)
 ## Sprint 4 (2/15 - 2/28)
