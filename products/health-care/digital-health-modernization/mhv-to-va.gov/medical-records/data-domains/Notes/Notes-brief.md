@@ -77,12 +77,23 @@ Two ways:
 
 
 ### How to show Notes section
-- What should the screen look like? What information should be seen? What should be hidden? 
+What should the screen look like? What information should be seen? What should be hidden? 
 
+VA Notes on Blue Button Report: 
 
+<img width="864" alt="Screenshot 2022-12-21 at 12 00 59 PM" src="https://user-images.githubusercontent.com/65574620/208992987-9b3bd638-fb83-4dca-8a9a-6fccbc25c1f6.png">
+
+What are important to show: 
+- Type of clinical notes
+- Title of the notes
+- Date/time received
+- Clinician's name
 
 **View vs. share vs. download considerations:**
 
+- View: How much notes is it helpful for users to view without overwhelming them on the screen? 
+- Share: Do users share all notes or individual note? Who do they share it with? 
+- Download: Currently users need to download and open the report in PDF in order to view notes. Question is that if there is a need to download. 
 
 
 ### Accessibility considerations:
@@ -100,9 +111,14 @@ _Accessibility considerations specific to Notes:_
 
 **UX:** 
 
+- How do we group notes? 
+- What information do they want most readily available about notes? 
+- Are we redesign PDFs or do we want to display notes on the screen? 
+- What notes do users find the most useful?
+- Do users have different purposes for view/share/download? 
+
 
 **Business/ Engineering:** 
-
     
 
 **Who do we need to get feedback from?**
