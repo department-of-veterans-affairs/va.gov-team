@@ -43,31 +43,42 @@ There are also clinican notes, which includes progress note, procedure note, and
 
 ## Use Cases
 
-Notes are not just for patients, but a way for health care members to be informed about patients' health journey. 
+Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. What notes are important and useful for patients to access, and what are not?  
 
 - Procedure note: to read about what happened with the procedure and if anything needs to follow up 
 - Progress note: to read about your health journey and see what's changed. 
+- Outpatient encounter notes
+- Consult notes 
+- History & physical notes
+- Discharge summary notes
+- Surgical procedure notes
+- Clinical procedure notes
 
 **Common Use Cases**
 
-
-
+What do people want to use their notes for: 
+- To read about what doctors say about their procedures or any hospital stays
+- To be informed about their health 
 
 **Edge Cases**
-
 
 
 ## UX considerations
 
 ### When to show Notes section
 
+<img width="1018" alt="Screenshot 2022-12-21 at 11 39 45 AM" src="https://user-images.githubusercontent.com/65574620/208989547-b6767929-9706-402b-a243-18db0d5663e6.png">
 
 **Where do Notes fit within IA?**
 
+Two ways: 
+Home > My Health > Health history > Clinical notes
+Home > My Health > Clinical notes
 
 
 ### How to show Notes section
 - What should the screen look like? What information should be seen? What should be hidden? 
+
 
 
 **View vs. share vs. download considerations:**
