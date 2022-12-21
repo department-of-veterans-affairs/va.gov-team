@@ -36,9 +36,7 @@
 
 **BE**
 
-- BE technical discovery
-  - Scope project with Tom
-  - Is any design work needed? What about frontend work? Do we need to update our analytics at all?
+- Discovery -- Migrating direct deposit for comp & pen integration to Lighthouse #51103
 
 ### Notification preferences
 
