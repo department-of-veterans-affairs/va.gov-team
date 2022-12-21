@@ -38,7 +38,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-> The opt-in modal will be governed by a [feature toggle - #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653). We will monitor the deployment for unexpected behavior. By turning off the modal, we can prevent Veterans and beneficiaries from being directed to the redesigned experience.  
+The opt-in modal will be governed by a feature toggle, `va_home_preview_modal`. We will monitor the deployment for unexpected behavior. By turning off the modal, we can prevent Veterans and beneficiaries from being directed to the redesigned experience.  
 
 > [VA-CMS Incident Response Procedure Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
@@ -50,14 +50,14 @@ More information about this soft launch is available in the [Launch planning sec
 
 #### Planning
 
-- Desired date range or test duration: _Beginning mid-December 2022_ 
-- Desired number of users: [_TBD_]
+- Desired date range or test duration: _start Jan 4, 2023_ 
+- Desired number of users: _duration 30 days or 1.5M visitors opting in to viewing the new homepage, whichever comes sooner_
 - How you'll recruit the right production test users: _via Opt-in_
 - How you'll conduct the testing: _by monitoring analytics and feedback scores_
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: _opt-in modal displayed on existing/current homepage_ 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: _N/A_ 
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:[Cutover criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) 
 - Links to the dashboard(s) showing "success criteria" metrics: [_TBD_] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: _Michelle Middaugh_
+- Who is monitoring the dashboard(s)?: _Wes Rowe_
 
 #### Results
 
