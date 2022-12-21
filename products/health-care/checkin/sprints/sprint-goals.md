@@ -18,12 +18,12 @@ ________________________________________________________________________________
 #### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Figure out how to implement feedback from the collab cycle review
-    - Implement metrics
+    - Implement metrics (#51109)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - Update the user flows and discuss proposed updates to user flows with team + stakeholders
-    - Incorporate feedback based on discussion
-- Travel Reimbursement
-    - Wilkes-Barre Planning
+    - Update the user flows and discuss proposed updates to user flows with team + stakeholders (#51111)
+    - Incorporate feedback based on discussion (#51112)
+- [Travel Reimbursement] (https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40265#:~:text=gov%2Dteam%2340265-,Travel%20Reimbursement%20%2D%20MVP,-loripusey)
+    - Wilkes-Barre Planning (#51110)
     - Update Design Artifacts for Release - Travel pay (#47488)
 - Tech Debt
     - End of Interactions (#49521)
