@@ -43,7 +43,13 @@ The opt-in modal will be governed by a feature toggle, `va_home_preview_modal`. 
 
 ### Phase I: Moderated production testing during Soft launch period
 
-Rather than a staged roll-out, the redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. Two options were evaluated during a design, accessibility and implementation discussion. The modal was chosen as the preferred approach over a banner. 
+We are throttling introduction of the homepage redesign using two methods:
+- Soft-launch via modal
+- Staged roll-out of soft-launch modal
+
+Soft-launch modal – The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. Two options were evaluated during a design, accessibility and implementation discussion. The modal was chosen as the preferred approach over a banner. 
+
+Staged roll-out – we are implementing a mechanism to display the modal to a set % of visitors – initially 25%, then incrementing to 50%, 75%, and 100%. Since traffic is not authenticated, the Flipper audience % mechanism won't work. We are instead re-implementing a probablistic mechanism that was first used by the Chatbot team to stage their roll-out.
 
 More information about this soft launch is available in the [Launch planning section of the initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#soft-launch). 
 
