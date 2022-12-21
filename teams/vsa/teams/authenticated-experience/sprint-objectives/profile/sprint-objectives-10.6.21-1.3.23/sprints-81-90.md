@@ -388,7 +388,7 @@ This is a **top** priority, so please favor updated documentation over new ticke
 - Adam: 12/21 - 23
 - John:
 - Tom: 12/26 - 12/27
-- Samara: 12/26 - 12/27
+- Samara: 12/21, 12/23 - 12/27
 
 ## Sprint 90 (12/28 - 1/10)
 
@@ -400,7 +400,7 @@ This is a **top** priority, so please favor updated documentation over new ticke
 - Christina: 12/28 - 12/30
 - Adam: 12/28
 - John:
-- Tom:
+- Tom: 12/30
 - Samara: 12/28 - 12/30
 
 ### Bad address indicator
