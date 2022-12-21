@@ -24,6 +24,29 @@
 
 - PM: [Add 2-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
 
+### Accessibility updates
+
+**FE**
+
+Continue work
+
+### Direct deposit
+
+**BE**
+
+- BE technical discovery
+  - Scope project with Tom
+  - Is any design work needed? What about frontend work? Do we need to update our analytics at all?
+
+### Notification preferences
+
+**Design**
+
+- Begin research plan for adding email channel #51007
+- Finish research plan for adding email channel #50999
+- Create conversation guide for adding email channel #51000
+- Create prototype with new channels for usability testing #51001
+
 ## Sprint 2 (1/18 - 1/31)
 ## Sprint 3 (2/1 - 2/14)
 ## Sprint 4 (2/15 - 2/28)
