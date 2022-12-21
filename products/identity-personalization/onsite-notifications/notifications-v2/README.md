@@ -136,13 +136,11 @@ TBD
 
 ## Solution approach
 
-### Product
+### In scope
 
-### VANotify requirements
+### Out of scope
 
-**Needs**
-
-**Out of scope**
+- Designing and building a notification center.
 
 ## Key deliverables
 
