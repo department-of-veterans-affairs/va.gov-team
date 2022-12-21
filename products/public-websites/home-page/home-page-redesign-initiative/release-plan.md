@@ -20,8 +20,7 @@ Is this a brand new experience for a Veteran?
 
 | Feature Toggle name | Description | Issue
 | ----------- | ----------- | ----------- |
-| [_TBD_] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
-|[_feature_homepage_v2: FEATURE_HOMEPAGE_V2_] | CMS feature flag/config setting controls the new homepage design deployment to Prod | [#10965](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10965)
+| [va_home_preview_modal] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
 
 ## Step 2: Validation
 
