@@ -13,6 +13,13 @@
 
 ## Sprint 1 (1/4 - 1/17)
 
+### General
+
+- Onboard new delivery manager [#50964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50964)
+- Onboard new PM (pending hiring) [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+- Onboard new designer [#50956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50956)
+- Onboard new FE developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
+
 ### Bad address indicator
 
 - PM: [Add 2-month stats to project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md#objective-prompt-people-who-visit-the-profile-and-have-a-bad-address-to-update-their-address)
