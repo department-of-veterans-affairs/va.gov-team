@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: December 15, 2022**
+**Last Updated: December 21, 2022**
 
 ### Communications
 
@@ -98,7 +98,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 - We need to request OAuth credentials to sandbox. We'll also need production credentials.
 
+### Key documentation
+
+- [Developer.va.gov documents](https://developer.va.gov/explore/benefits/docs/direct-deposit-management?version=current)
+- [Request Sandbox Access](https://developer.va.gov/onboarding/request-sandbox-access)
+- [Max.gov API docs](https://community.max.gov/pages/viewpage.action?pageId=2286748585)
+
 ### How to test
 
-- Lighthouse is using accounts that are in test user dashboard, so we'll need to get ICNs of users from Nichole.
-- If we need to see additional use cases, Lighthouse can help us set those up.
+- [Sandbox Test Accounts for Direct Deposit Management API](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/direct_deposit_test_accounts.md)
