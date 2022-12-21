@@ -16,6 +16,7 @@
 
 ### General
 
+- Onboard new delivery manager [#50964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50964)
 - Onboard new frontend developer [#50643](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50643)
 
 ### Payments V2
