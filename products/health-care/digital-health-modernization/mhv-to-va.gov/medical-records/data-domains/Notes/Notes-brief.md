@@ -119,7 +119,9 @@ _Accessibility considerations specific to Notes:_
 
 
 **Business/ Engineering:** 
-    
+- What are the different types of notes and what are they used for? 
+- Are there notes patients have and don't have access to? 
+- Can we take notes out of PDF format and display content on the screen? 
 
 **Who do we need to get feedback from?**
  
