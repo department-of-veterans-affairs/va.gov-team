@@ -14,9 +14,45 @@
 
 ## Sprint 1 (1/4 - 1/17)
 
-### On-site notifications
+### General
 
-- PM: [Update 2-month stats for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success)
+- Onboard new frontend developer [#50643](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50643)
+
+### Payments V2
+
+**PM**
+
+- [Update 1-month post-launch stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/README.md#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---october-2022)
+
+### Onsite notifications
+
+*MVP*
+
+**PM**
+
+- [Update 2-month stats for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp#measuring-success)
+
+*V2*
+
+**Goal**: Team discovery and kickoff
+
+**PM & team**
+
+- Meeting: Team kickoff for our team (not collab cycle)
+  - What is in scope? What is out of scope?
+  - What can we accomplish in 3 months (pre-Samara's maternity leave)? 6 months?
+- Meeting: Start talking to VANotify about this effort
+  - Ask about their intake process for new notifications
+- Meeting: Start discuss notification center concept
+  - A notification center is out of scope for V2, but we may want to incorporate discovery for a notification center into V2
+  - What do we need to answer to determine if this is the right path? How do we do this without being too leading in research?
+- Figure out what relevant notifications VANotify supports now
+
+**FE**
+
+- Determine development level for adding new notifications
+
+### My VA audit
 
 ## Sprint 2 (1/18 - 1/31)
 ## Sprint 3 (2/1 - 2/14)
