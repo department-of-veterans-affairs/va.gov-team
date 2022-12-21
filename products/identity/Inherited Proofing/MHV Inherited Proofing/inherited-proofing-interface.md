@@ -255,14 +255,23 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 ## Callback
 * After login.gov completes inherited proofing successfully, expectation is to call callback described in `redirect_uri` parameter from `/authenticate`
 *  As described above, `redirect_uri` can be one of:
-	* `localhost:3000/inherited_proofing/callback`
-	* `https://api.va.gov/inherited_proofing/callback`
-	* `https://staging-api.va.gov/inherited_proofing/callback`
-	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback`
-	* `https://dev-api.va.gov/inherited_proofing/callback`
+	* `localhost:3000/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://staging-api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://dev-api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+* Call must be made with the same `auth_code` that was used in "User Attributes" call, this time included as a URL parameter instead of a JWT. This code is again used to validate that the incoming request matches to the user that initiated the inherited proofing flow in the "Auth" call.
+
+| Name       | Description                             | Value Type                                              |
+|------------|-----------------------------------------|---------------------------------------------------------|
+| AUTH_CODE  | 32 character hexadecimal random string from the `authorize` call  |  String, REQUIRED    |
 
 ### Error Responses
 The following error responses all implement the `:bad_request`/`400` error code.
+* `AuthCodeMissingError`: the `auth_code` URL parameter was not included or is blank
+* `AuthCodeInvalidError`: the `auth_code` passed does not match an existing vets-api Redis cache stored for validation purposes
+* `InvalidUserError`: the currently-authenticated user's uuid does not match the saved user uuid in the stored Redis cache
+* `InvalidCSPError`: the currently-authenticated user's CSP that was used to log into their session does not match the saved user CSP in the stored Redis cache
 * `PreviouslyVerifiedError`: A record of the user having gone through the inherited_proofing process successfully has been found
 
 ## Testing
