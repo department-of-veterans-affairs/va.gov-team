@@ -26,8 +26,6 @@
 - [Business Outcomes](#business-outcomes)
 - [Solution Approach](#solution-approach)
 - [Measuring Success](#measuring-success)
-- [Design](#design)
-- [Frontend](#frontend)
 - [Backend](#backend)
 
 ## Overview
@@ -81,18 +79,6 @@ As a person that receives payments from VA, I want to be able to easily view and
 |Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
 |------|------|-----|
 |TBD|TBD|TBD|
-
-## Design
-
-- Sketch files
-- Use cases
-- User flows
-
-### Before
-
-### After
-
-## Frontend
 
 ## Backend
 
