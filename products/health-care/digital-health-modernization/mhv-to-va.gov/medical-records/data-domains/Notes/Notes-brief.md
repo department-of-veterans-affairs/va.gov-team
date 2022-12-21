@@ -72,8 +72,8 @@ What do people want to use their notes for:
 **Where do Notes fit within IA?**
 
 Two ways: 
-Home > My Health > Health history > Clinical notes
-Home > My Health > Clinical notes
+- Home > My Health > Health history > Clinical notes
+- Home > My Health > Clinical notes
 
 
 ### How to show Notes section
