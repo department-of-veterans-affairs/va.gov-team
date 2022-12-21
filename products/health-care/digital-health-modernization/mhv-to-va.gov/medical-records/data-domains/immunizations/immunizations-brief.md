@@ -100,6 +100,8 @@ _Accessibility considerations specific to Immunizations:_
 
 ### Research that relates to Immunizations
 
+[Health Records: Medications, Allergies, and Immunizations Research Findings] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/health-record/research-findings.md)
+
 - Did not probe around language related to Immunizations -> need to either align with Mobile or confirm in testing whether should use term "Immunizations" or "Vaccines" (Mobile uses Vaccines)
 
 - Immunizations were most often grouped either in their own category (labeled "Immunizations," "Shots," "Shots/Immunizations," "Vaxx" or "Vac"), in Personal info/About me-esque category ("Basic Health," Personal Health," "Current Status," "Chart," or "Ongoing Medical") or by medical specialty ("General Practitioner").
