@@ -1,6 +1,6 @@
 # Project outline: Scaling onsite notifications (Onsite notifications V2)
 
-**Last updated: December 7, 2022**
+**Last updated: December 22, 2022**
 
 ### Communications
 
@@ -109,11 +109,11 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 - What makes something a notification center? Is this "just" a separate page? Something else?
 - Is there an in between step between what we have now and a notification center?
-- Do we need a notification center now?
 - If we need one, when is the right time to go from showing notifications on My VA to a notification center? Is there a right number or type of notifications to make this feature feel useful?
 - If users don't see common notifications in a notification center yet because VANotify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
 - How do we do discovery on this without being too leading? We're already pretty sure that users will respond positively to a notification center, so how can we determine this is the right path without being too self-fulfilling?
-- How do people across VA.gov feel about a notification center? How would this affect the navigation? How would this affect other teams?
+- What are OCTO stakeholders expectations around how we elevate notifications on VA.gov? 
+- How would a notification center affect the navigation? How would this affect other teams?
 - Have other teams talked to users about how they expect to see notifications on VA.gov (eg. has this come up through health apartment research at all? Or VAOS? Or the mobile app? etc etc)
 
 #### Increasing interactions
