@@ -10,6 +10,7 @@
 - [Goals](#goals)
 - [Project risks & challenges](#project-risks--challenges)
 - [Questions](#questions)
+- [Scope](#scope)
 - [Research activities](#research-activities)
 
 ---
@@ -120,6 +121,12 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 ### Technical considerations
 
 - What technical constraints exist around the navigation (eg. Drupal)?
+
+## Scope
+
+### In scope
+
+### Out of scope
 
 ## Research activities
 
