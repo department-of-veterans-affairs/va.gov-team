@@ -54,11 +54,14 @@ Notes are not just for patients, but also a way for health care members to be in
 - Surgical procedure notes
 - Clinical procedure notes
 
+Note what's in BB and what's in Health Summary
+
 **Common Use Cases**
 
 What do people want to use their notes for: 
 - To read about what doctors say about their procedures or any hospital stays
 - To be informed about their health 
+- To support disability claims 
 
 **Edge Cases**
 
