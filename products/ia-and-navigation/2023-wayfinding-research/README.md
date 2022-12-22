@@ -115,6 +115,7 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - How does getting help/customer support fit into the overall experience of completing tasks/finding tools?
 - What role do notifications play in helping people navigate to tools and tasks?
 - Are there different expectations around how to navigate tasks from a logged in or logged out state? Or do people expect the navigation to be relatively similar from state to state?
+- Is there a difference in what people come to do on the site that can be clearly divided into logged in and logged out tasks? Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
 
 ### Technical considerations
 
