@@ -1,4 +1,4 @@
-# Project outline: Scaling on-site notifications (On-site notifications V2)
+# Project outline: Scaling onsite notifications (Onsite notifications V2)
 
 **Last updated: December 7, 2022**
 
@@ -28,7 +28,7 @@
 
 ## Overview
 
-[The on-site notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. This functionality does the following:
+[The onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. This functionality does the following:
 
 - Integrates VA.gov and VANotify, so that VANotify can tell VA.gov when to show an on-site alert to a user.
 - Elevates a single, action-oriented alert on My VA for when a user has had a new debt added to their account. Users can click for more information or dismiss the alert.
@@ -43,15 +43,15 @@ This effort has two main pillars, one of which is how do we manage the process o
 
 #### Intake
 
-Over time, we need a process for determining what gets added to the on-site notifications feature. This might piggyback off of VANotify's intake process. Ideally, we will work with VANotify to implement a process that considers on-site notifications from the beginning as teams are adding new email/text notifications.
+Over time, we need a process for determining what gets added to the onsite notifications feature. This might piggyback off of VANotify's intake process. Ideally, we will work with VANotify to implement a process that considers onsite notifications from the beginning as teams are adding new email/text notifications.
 
 #### Speeding up development time
 
-Understandably, the MVP required a lot of thinking, planning, iterating, and testing. While we weren't working on the feature full time for a whole year, it did take us about a year to go from our original planning meetings to launch. This is obviously unsustainable -- we shouldn't need to take a year to launch every on-site notification. As part of this work, we should figure out how we can make implementing new on-site notifications a relatively low-lift over time. 
+Understandably, the MVP required a lot of thinking, planning, iterating, and testing. While we weren't working on the feature full time for a whole year, it did take us about a year to go from our original planning meetings to launch. This is obviously unsustainable -- we shouldn't need to take a year to launch every on-site notification. As part of this work, we should figure out how we can make implementing new onsite notifications a relatively low-lift over time. 
 
 #### Updates to the VANotify platform
 
-We need to work with VANotify to figure out what we need to manage on-site notifications in the VANotify self-service tool.
+We need to work with VANotify to figure out what we need to manage onsite notifications in the VANotify self-service tool.
 
 ### Adding new onsite notifications to VA.gov
 
@@ -59,12 +59,12 @@ The other pillar to this effort is actually adding new onsite notifications. Pot
 
 #### What notifications to add to VA.gov in V2
 
-There are a couple factors that go into what we can or might add to the on-site notifications feature:
+There are a couple factors that go into what we can or might add to the onsite notifications feature:
 
 - **Type of notification**: For on-site notifications, we are prioritizing action-oriented alerts. We have heard repeatedly in user research that the most important information for people is if VA needs them to take action on something, so we want to make sure these kinds of alerts are elevated above others. Second, we would prioritize alerts where VA has taken an action, but no action is required by the user (eg. VA has made a payment to a user). Currently, we are not prioritizing suggestions, and we have no plans to show "confirmation" information (eg. confirming a user has submitted an application).
-- **VANotify support**: We can only support on-site notifications for which VANotify already offers text or email notification support. We can not support a notification if it's not in VANotify, no matter how useful that alert might be.
+- **VANotify support**: We can only support onsite notifications for which VANotify already offers text or email notification support. We can not support a notification if it's not in VANotify, no matter how useful that alert might be.
 
-#### Scaling on-site notifications without overwhelming My VA
+#### Scaling onsite notifications without overwhelming My VA
 
 In our MVP approach, we show our singular "You have a new debt" notification on My VA. At this point, a notification center didn't make sense since we were starting with one notification. However, we now have the opportunity to add more than one notification to this feature, but we don't want to overwhelm the other content on My VA.
 
