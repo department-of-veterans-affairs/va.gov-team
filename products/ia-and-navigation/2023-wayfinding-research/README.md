@@ -99,24 +99,29 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
 
-### Users needs/VA.gov
+### Signing in to VA.gov
 
-- How are we defining tasks and tools? Is applying a task/tool?
-- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
-- What actually works better with eBenefits and MHV re: navigation?
 - Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
-- Do our patterns work to prompt people to sign in on VA.gov? How could that be improved?
+- Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
+
+### Tasks & tools
+
 - What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form or process; managing an individual's benefits)?
+- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
 - What tasks do people come to do? What do people expect to do signed in vs. signed out?
+- What role do notifications play in helping people navigate to tools and tasks?
+- Are there different expectations around how to navigate tasks from a logged in or logged out state? Or do people expect the navigation to be relatively similar from state to state?
+- Is there a difference in what people come to do on the site that can be clearly divided into logged in and logged out tasks? Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
+
+### Reconciling various VA properties/pages
+
+- What actually works better with eBenefits and MHV re: navigation?
 - What are the immediate plans for integrating the health apartment into the navigation? 
 - How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
 - Do people utilize the content hubs and resources & support when they are completing tasks? If so, how?
 - How will people navigate between My Health and other benefit tools?
 - How do we reconcile VA.gov and mobile app so they feel like a unified experience?
 - How does getting help/customer support fit into the overall experience of completing tasks/finding tools?
-- What role do notifications play in helping people navigate to tools and tasks?
-- Are there different expectations around how to navigate tasks from a logged in or logged out state? Or do people expect the navigation to be relatively similar from state to state?
-- Is there a difference in what people come to do on the site that can be clearly divided into logged in and logged out tasks? Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
 
 ### Technical considerations
 
