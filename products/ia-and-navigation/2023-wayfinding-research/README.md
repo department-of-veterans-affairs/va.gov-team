@@ -101,17 +101,18 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ### Signing in to VA.gov
 
-- Why do people sign in to VA.gov? When? What prompts them to? Where on the site (analytics)?
+- Why do people sign in to VA.gov? When? What prompts them to? Where on the site?
 - Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
 
 ### Tasks & tools
 
 - What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form or process; managing an individual's benefits)?
+- Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
+- What tasks do people come to do? What do people do signed in vs. signed out?
 - What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
-- What tasks do people come to do? What do people expect to do signed in vs. signed out?
-- What role do notifications play in helping people navigate to tools and tasks?
-- Are there different expectations around how to navigate tasks from a logged in or logged out state? Or do people expect the navigation to be relatively similar from state to state?
-- Is there a difference in what people come to do on the site that can be clearly divided into logged in and logged out tasks? Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
+- What role do notifications play in helping people navigate to tools and tasks? *This is likely out of scope for this effort, as we can likely answer this in onsite notifications research*.
+- Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.
+
 
 ### Reconciling various VA properties/pages
 
