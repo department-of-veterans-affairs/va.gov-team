@@ -111,7 +111,7 @@ n/a
 
 ## Timeline 
 
-January 2022 - 4 day trip with 2 days at Wilkes-Barre Health Care System. 
+February 2022 - 4 day trip with 2 days at Wilkes-Barre Health Care System. 
 
 ## Team Roles
 
