@@ -1,6 +1,6 @@
 # Research outline: Finding tools and tasks on VA.gov
 
-**Last Updated: December 20, 2022**
+**Last Updated: December 22, 2022**
 
 ## Table of Contents
 
