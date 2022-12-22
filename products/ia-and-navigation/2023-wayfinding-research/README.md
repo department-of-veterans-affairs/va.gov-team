@@ -96,6 +96,7 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - What work is happening across other teams that could effect the navigation (eg. notifications work, sitewide work, health apartment, etc)?
 - How do OCTO stakeholders think about VA.gov site navigation? What are some stated and unstated assumptions they have?
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
+- How will OFCIO work impact our work? How can we impact them?
 
 ### Signing in to VA.gov
 
