@@ -92,11 +92,13 @@ What are important to show:
 - Date/time received
 - Clinician's name
 
-**View vs. share vs. download considerations:**
+**View vs. share vs. download vs. print considerations:**
 
 - View: How much notes is it helpful for users to view without overwhelming them on the screen? 
 - Share: Do users share all notes or individual note? Who do they share it with? 
+  important* write more
 - Download: Currently users need to download and open the report in PDF in order to view notes. Question is that if there is a need to download. 
+- Print: 
 
 
 ### Accessibility considerations:
@@ -115,15 +117,16 @@ _Accessibility considerations specific to Notes:_
 **UX:** 
 
 - How do we group notes? 
+- What to call notes?
 - What information do they want most readily available about notes? 
 - Are we redesign PDFs or do we want to display notes on the screen? 
-- What notes do users find the most useful?
-- Do users have different purposes for view/share/download? 
+- What notes do users find the most useful? Analytics? check VA Progress notes requested, what is progress notes? 
+- Do users have different purposes for view/share/download/print? 
 
 
 **Business/ Engineering:** 
 - What are the different types of notes and what are they used for? 
-- Are there notes patients have and don't have access to? 
+- Are there any notes for clinians that patients don't have access to? 
 - Can we take notes out of PDF format and display content on the screen? 
 
 **Who do we need to get feedback from?**
