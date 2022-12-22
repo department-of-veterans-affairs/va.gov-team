@@ -91,8 +91,6 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ## Questions
 
-[This is not an exhaustive list, and we should expand on it]
-
 ### OCTO/Stakeholders
 
 - What work is happening across other teams that could effect the navigation (eg. notifications work, sitewide work, health apartment, etc)?
