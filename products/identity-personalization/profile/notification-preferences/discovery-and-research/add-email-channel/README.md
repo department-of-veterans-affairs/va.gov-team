@@ -29,3 +29,9 @@ Currently, the existing notification preferences we support all happen to only u
 3. How do we keep the page usable and scannable as we add more notifications with more channels?
 
 ## Research artifacts
+
+- Research outline
+- Conversation guide
+- Prototype
+- Topline summary
+- Final summary and recommendations
