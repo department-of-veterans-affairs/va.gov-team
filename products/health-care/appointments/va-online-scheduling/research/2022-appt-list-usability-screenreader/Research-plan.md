@@ -75,12 +75,12 @@ When Veterans use a screenreader on the appointment list:
 
 **Evaluate screenreader usability and value of the appointment list redesign.**
 
-* Have/do you use a tool like this to manage appointments?
+* How do Veterans typically manage their appointments?
 * Does the information for each appointment make sense?
 * Can Veterans differentiate between appointments?
 * Can Veterans navigate to Past appointments?
 * Can Veterans navigate to Pending appointments?
-* What can you do next on these pages?
+* What can Veterans do on the pages?
 
 Method
 ------
