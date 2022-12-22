@@ -20,6 +20,12 @@ Currently, the existing notification preferences we support all happen to only u
 
 ## Research goals
 
+1. Determine usable and scalable approach for adding email as a channel.
+
 ## Research questions
+
+1. How do we clearly differentiate between email and text? Is copy enough?
+2. How do we balance text and email when they both exist as a channel for one notification?
+3. How do we keep the page usable and scannable as we add more notifications with more channels?
 
 ## Research artifacts
