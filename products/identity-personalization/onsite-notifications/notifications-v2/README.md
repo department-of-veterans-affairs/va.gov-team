@@ -72,6 +72,8 @@ In our MVP approach, we show our singular "You have a new debt" notification on 
 
 There is an assumption that, eventually, we'll build a notification center that will co-exist with My VA. Is this a fair assumption? How do we validate this? And when is the right time to switch from showing notifications on My VA to showing notifications in a notification center?
 
+For V2, **we will not be adding a notification center**, but we may want to consider overall notification center discovery as part of the scope of V2.
+
 #### How to increase interactions with notifications
 
 For the MVP, we didn't add any indicators that someone has a new notification until they get to My VA. We may want to explore how to get more people to notifications to increase visibility and access to the tool.
