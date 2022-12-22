@@ -119,7 +119,7 @@ Wilkes-Barre Health Care System
 
 ### Research Materials
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-11%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Dayton%20VAMC/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre/conversation-guide.md)
 - [Low-fidelity user flow (Sketch)](https://www.sketch.com/s/42a478e7-cb38-49e5-9500-9b21182873da/a/kaPaz5A)
 - [Detailed user flow (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)
 - [Prototype (Sketch)](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6)
