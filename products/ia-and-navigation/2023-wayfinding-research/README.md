@@ -112,7 +112,7 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 - What tasks do people come to do? What do people do signed in vs. signed out?
 - What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
 - What role do notifications play in helping people navigate to tools and tasks? *This is likely out of scope for this effort, as we can likely answer this in onsite notifications research*.
-- **Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.**
+- **Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.** I think this could be a potentially useful area of focus, since a big question is whether we need a truly disctinct and separate logged-in portal/nav similiar to how most health or banking sites operate, or if we do not need differences in a logged out/logged in experience to be that stark.
 
 
 ### Reconciling various VA properties/pages
