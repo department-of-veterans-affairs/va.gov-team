@@ -106,6 +106,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * [Raymond G Murphy VAMC in Albuquerque](https://www.va.gov/new-mexico-health-care/locations/raymond-g-murphy-department-of-veterans-affairs-medical-center/)
   * From the [Albuquerque RO teamsite](https://www.benefits.va.gov/albuquerque/): 
   * > In addition, we have staff at the Raymond G. Murphy VA Medical Center on Tuesdays/Wednesdays/Thursdays from 8am-3:30pm. They are located in the Eligibility department by the main entrance. 
+* Regardless of the specific facility type, these can collectively be considered **Public Contact Offices**
 
 ## Hypotheses and Conclusions
 
@@ -116,26 +117,26 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * The typical Veteran experience at Regional Benefit Offices is generally positive
   * PARTIALLY TRUE - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
 
-
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+**Services, benefits, & tasks**
+1. Services at Public Contact Offices can be**categorized** in at least four distinct ways: benefits, tasks, documents, beneficiaries
+2. Public Contact staff primarily assist with the **benefit** of disability compensation
+3. Public Contact staff primarily assist with the **task** of applying for benefits
+4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
+5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Offices
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+**Veteran experience**
 
-1. Finding one
+6. A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
+7. There is little standardization in how Public Contact Offices handle **appointments**
+8. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing
+9. Most services are consistently available during **normal operating hours**
 
-2. Finding two
+**Veteran preparation**
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+10. Having a valid photo ID and a DD-214 is helpful regardless of service
+11. Some Public Contact Offices are located in Federal buildings with security checkpoints, which can affect timing
 
 
 ## Details of Findings 
