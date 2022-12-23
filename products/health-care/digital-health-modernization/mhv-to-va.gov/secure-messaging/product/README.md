@@ -1,6 +1,6 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: Oct 28, 2022
+Last Updated: Dec 21, 2022
 
 ### Communications
 
