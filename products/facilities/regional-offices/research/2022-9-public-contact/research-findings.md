@@ -40,14 +40,14 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ## Research Questions
 
-1. What benefit-related **services are offered** at these facilities?
+1. What benefit-related **services** are offered at these facilities?
    * How do services differ by benefit types? 
    * Are any services shared across benefit types (e.g. updating contact info)?
    * Are all services available consistently throughout the week?
    * Do any services require referrals to other facilities?
    * Are there any services unique to this region/facility?
 
-2. What do Veterans typically **try to accomplish** during an in-person facility visit?
+2. What **tasks** do Veterans typically try to accomplish during an in-person facility visit?
    * What are the most common tasks they complete?
    * What are the least common tasks?
    * Can these tasks be accomplished other ways (phone, web)?
