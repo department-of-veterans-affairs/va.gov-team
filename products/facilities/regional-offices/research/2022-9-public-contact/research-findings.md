@@ -99,9 +99,9 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 ### Facilities Represented
 * 6 Regional Benefit Offices
   * [Albuquerque](https://www.va.gov/find-locations/facility/vba_340)
-  * [Anchorage](https://www.va.gov/find-locations/facility/vba_463) located inside a VAMC
+  * [Anchorage](https://www.va.gov/find-locations/facility/vba_463) (located inside a VAMC)
   * [Boston](https://www.va.gov/find-locations/facility/vba_301)
-  * [Houston](https://www.va.gov/find-locations/facility/vba_362) located on a VAMC campus
+  * [Houston](https://www.va.gov/find-locations/facility/vba_362) (located on a VAMC campus)
   * [National Capital Region](https://www.va.gov/find-locations/facility/vba_372)
   * [San Juan](https://www.va.gov/find-locations/facility/vba_355)  
 * 2 Satellite Offices
@@ -116,11 +116,11 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 ## Hypotheses and Conclusions
 
 * The existing VBA service taxonomy does not accurately reflect the breadth of benefit-related tasks that can be accomplished at Regional Benefit Offices
-  * TRUE - The current taxonomy has clear omissions, misleading terms, and lacks nuance
+  * **TRUE** - The current taxonomy has clear omissions, misleading terms, and lacks nuance
 * A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
-  * NOT ENOUGH INFORMATION - This would depend on implementation and should be evaluated during usability testing
+  * **NOT ENOUGH INFORMATION** - This would depend on implementation and should be evaluated during usability testing
 * The typical Veteran experience at Regional Benefit Offices is generally positive
-  * PARTIALLY TRUE - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
+  * **PARTIALLY TRUE** - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
 
 - - -
 
