@@ -1,3 +1,5 @@
+# Shawn Adams Interview - 2019-09-20
+
 ## Resident clinics
 - how many veterans are seen by attending vs. resident physicians?
   - Sizable minority, if not majority
