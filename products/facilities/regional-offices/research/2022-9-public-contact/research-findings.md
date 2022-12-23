@@ -81,7 +81,10 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ### Participants
 * Spoke to 12 participants total representing the 7 MVP regions
-* Length of time working for the VA ranged from 2 years - 21 years
+* Length of time working for the VA 
+  * 2 - 9 years = 7
+  * 10 - 19 years = 3
+  * 20+ years = 2
 * Job titles included:
   * Legal Administrative Specialist = 5
   * Veteran Service Representative = 3
