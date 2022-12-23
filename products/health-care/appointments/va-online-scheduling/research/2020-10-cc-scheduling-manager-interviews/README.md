@@ -1,0 +1,1 @@
+This was a collaborative research project with the Facilities team. [Go to the study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
