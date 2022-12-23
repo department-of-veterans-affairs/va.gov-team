@@ -12,20 +12,19 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 **Table of Contents**
 
-Background
-* [Research Goals](#research-goals)
-* [Research Questions](#research-questions)
-* [Hypotheses and conclusions](#hypotheses-and-conclusions)
-* [Methodology](#methodology)
-
-Findings
-* [Key findings](#key-findings)
-* [Details of Findings](#details-of-findings)
-* Additional Insights
-
-Next Steps
-* [Recommendations](#recommendations)
-* [Further research needed](#further-research-needed)
+* Background
+  * [Research Goals](#research-goals)
+  * [Research Questions](#research-questions)
+  * [Methodology](#methodology)
+  * [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* Results
+  * [Key findings](#key-findings)
+  * [Details of Findings](#details-of-findings)
+  * [Additional Insights](#additional-insights)
+  * [Recommendations](#recommendations)
+  * [Next Steps](#next-steps)
+  * [Further research needed](#further-research-needed)
+* [Appendix](#appendix)
 
 <br>
 
@@ -225,22 +224,22 @@ _If there are demographics that were not included in this study or you discovere
 [Interview transcripts](link here)
 
 
-## Tools used for Synthesis
+### Tools used for Synthesis
 
 e.g. mural boards, etc.  
 
 
-## Pages and applications used
+### Pages and applications used
 
 Link to prototypes or pages that were tested
 
 
-## Other supporting documents created
+### Other supporting documents created
 
 e.g. user flows, personas, etc.
 
 
-## Secondary research
+### Secondary research
 
 Include any secondary research you may have. 
 
