@@ -19,9 +19,9 @@ _Once you've presented your research readout to your team, if you have a deck, i
   * [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * Results
   * [Key findings](#key-findings)
-  * Details of Findings
-  * Details of Findings
-  * Details of Findings
+  * [Details of Findings - Services, Benefits, & Tasks](#details-of-findings---services-benefits--tasks)
+  * Details of Findings - Veteran Experience at Facility
+  * Details of Findings - Veteran Preparation
   * [Additional Insights](#additional-insights)
   * [Recommendations](#recommendations)
   * [Next Steps](#next-steps)
@@ -223,15 +223,71 @@ Labels: label 1, label 2
 
 > Sometimes they want it in their hands. - P2
 
-## Details of Findings - Veteran Experience at Facility
+## Details of Findings - Veteran experience at facility
 This second group of findings relates to research question 3:
 
 3. What is the typical Veteran experience when visiting these facilities?
 
+### 6 - A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality
+
+- VR&E staff are totally siloed from Public Contact staff
+- These issues are heightened when a Regional Benefit Office is co-located with a VAMC
+- Veterans conflate VSOs and VA
+
+> People are being told they can get every type of benefit done here at the regional office, and you know we simply can't. - P8
+
+> On any given day at least one of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
+
+> We get a lot of veterans coming in and they think that we can update their DD-214 and we can't. - P4
+
+> They think we do the Veteran ID cards - P2
+
+> If the person is looking for a VSO, they end up in the wrong place - P5
+
+### 7 - There is little standardization in how Regional Benefit Offices handle appointments
+
+- Appointment only = National Captial Region 
+- Certain days & hours for walk-in, otherwise appointment only = Anchorage
+- Mostly walk-in, but some appointments 
+- New Orleans is totally virtual, but has kiosks on-site
+
+### 8 - Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
+
+- Many locations reported very short wait times (10 min or less)
+- Offices co-located with a VAMC expressed very high wait times (over an hour) due to high demand and limited staff
+- Focus on compensation can lead to busy times on the 1st day of the month & tax season
+- Mondays & lunch time also cited as busier days / times
+
+> We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
+
+### 9 - Most services are consistently available during normal operating hours 
+
+- Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
+- Guam has 2 hours every Monday morning where VBMS is down for maintenance
+- Some staff serve multiple locations (Saipan has two different offices, one person does outreach day at a VAMC) but the service availability is the same for the days that particular location is open 
+
+## Findings - Veteran Preparation
+
+This third group of findings relates to research question 4: 
+
+4. What do Veterans need to know or do to be adequately prepared for a visit?
+
+### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
+
+- Civilian medical records can be helpful for supplemental claims
+- Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
+- eBenefits registration = 2 forms of ID
+- Adding/removing dependant = birth certificate, social security cards,  marriage certificates, divorce decrees
+
+>  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
+
+### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect timing
+
+> Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
+
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 
 ## Recommendations
 
