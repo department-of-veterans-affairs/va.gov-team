@@ -153,7 +153,7 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-### 1 - Services at Regional Benefit Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries
+### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries
 
 Labels: label 1, label 2 
 
