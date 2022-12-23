@@ -131,7 +131,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 2. Public Contact staff primarily assist with the **benefit** of disability compensation
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
-5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Offices
+5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Office
 
 **Veteran experience**
 
@@ -153,14 +153,14 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-### 1 - Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
+### 1 - Services at Regional Benefit Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries
 
 Labels: label 1, label 2 
 
-- **Benefit** (e.g. compensation, home loans, VR&E)
-- **Task** (e.g. file a claim, check claim status, 1-on-1 interview)
+- **Benefits** (e.g. compensation, home loans, VR&E)
+- **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
 - **Documents** (e.g. award letter, commissary letter, DD-214)
-- **Beneficiary** (e.g. survivors, military retirees, caregivers)
+- **Beneficiaries** (e.g. survivors, military retirees, caregivers)
 
 > Top three would be compensation, education, and pension. - P3
 
@@ -200,7 +200,7 @@ Labels: label 1, label 2
 
 > For education benefits we can't provide specific information to the customer. So we would have to refer them to an Education Call Center like Muskogee. - P3
 
-### 4 - Providing beneficiaries official documents is a significant function of Regional Benefit Offices
+### 4 - Providing beneficiaries official documents is a significant function of Public Contact Offices
 
 Labels: label 1, label 2 
 
@@ -212,7 +212,7 @@ Labels: label 1, label 2
 
 > If they are a certain percentage, they get a letter where they can go to the commissaries on base and shop. We provide those letters. - P4
 
-### 5 - There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
+### 5 - There are few (if any) tasks that require a Veteran to be physically present at a Public Contact Office
 
 Labels: label 1, label 2 
 
@@ -232,7 +232,7 @@ This second group of findings relates to research question 3:
 
 3. What is the typical Veteran experience when visiting these facilities?
 
-### 6 - A common source of Veteran frustration is a mismatch between their expectations of what they can accomplish at a Regional Benefit Office and the reality
+### 6 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
 - VR&E staff are totally siloed from Public Contact staff
 - These issues are heightened when a Regional Benefit Office is co-located with a VAMC
@@ -248,14 +248,14 @@ This second group of findings relates to research question 3:
 
 > If the person is looking for a VSO, they end up in the wrong place - P5
 
-### 7 - There is little standardization in how Regional Benefit Offices handle appointments
+### 7 - There is little standardization in how Public Contact Offices handle appointments
 
 - Appointment only = National Captial Region 
 - Certain days & hours for walk-in, otherwise appointment only = Anchorage
 - Mostly walk-in, but some appointments 
 - New Orleans is totally virtual, but has kiosks on-site
 
-### 8 - Wait times at Regional Benefit Offices are primarily affected by facility location and staffing, but there are also predictable busier times
+### 8 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed very high wait times (over an hour) due to high demand and limited staff
@@ -287,7 +287,7 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 11 - Some Regional Benefit Offices are located in Federal buildings with security checkpoints, which can affect timing
+### 11 - Some Public Contact Offices are located in Federal buildings with security checkpoints
 
 > Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
 
