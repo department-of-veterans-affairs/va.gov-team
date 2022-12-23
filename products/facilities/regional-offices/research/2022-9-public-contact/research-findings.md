@@ -6,10 +6,6 @@ Date: 12/23/2022
 
 Dave Pickett dave.pickett@civicactions.com 
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
-
-<br>
-
 **Table of Contents**
 
 * Background
@@ -31,7 +27,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
   * [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
 
-<br>
+- - -
 
 ## Research Goals
 
@@ -126,6 +122,8 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * The typical Veteran experience at Regional Benefit Offices is generally positive
   * PARTIALLY TRUE - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
 
+- - -
+
 ## Key Findings
 
 **Services, benefits, & tasks**
@@ -146,6 +144,8 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 10. Having a valid photo ID and a DD-214 is helpful regardless of service
 11. Some Public Contact Offices are located in Federal buildings with security checkpoints, which can affect timing
+
+- - -
 
 ## Details of Findings - Services, Benefits, & Tasks 
 
@@ -291,6 +291,8 @@ This third group of findings relates to research question 4:
 
 > Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
 
+- - -
+
 ## Additional Insights
 
 ### Top 3 services from 12 participants
@@ -358,6 +360,8 @@ This third group of findings relates to research question 4:
   </tr>
 </table>
 
+- - -
+
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
@@ -377,6 +381,7 @@ _Next steps here. Include owners if appropriate._
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
+- - -
 
 ## Appendix
 
