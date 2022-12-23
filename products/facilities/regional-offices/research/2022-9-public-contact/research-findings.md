@@ -81,8 +81,12 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ### Participants
 * Spoke to 12 participants total representing the 7 MVP regions
-* ADD LENGTH OF TIME in role and with VA
-* ADD titles
+* Length of time working for the VA ranged from 2 years - 21 years
+* Job titles included:
+  * Legal Administrative Specialist = 5
+  * Veteran Service Representative = 3
+  * Coach = 2
+  * "in public contact" = 2
 
 ### Facilities Represented
 * 6 Regional Benefit Offices
@@ -102,13 +106,12 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+* The existing VBA service taxonomy does not accurately reflect the breadth of benefit-related tasks that can be accomplished at Regional Benefit Offices
+  * TRUE - The current taxonomy has clear omissions, misleading terms, and lacks nuance
+* A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
+  * NOT ENOUGH INFORMATION - This would depend on implementation and should be evaluated during usability testing
+* The typical Veteran experience at Regional Benefit Offices is generally positive
+  * PARTIALLY TRUE - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
 
 
 ## Key Findings
@@ -235,85 +238,20 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
 
 
-Gender:
-* Male: x 
-* Female: x 
 
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
 
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
 
 
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
 
 
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
 
 
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
 
 
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
 
 
 ## Underserved groups we haven’t talked to 
