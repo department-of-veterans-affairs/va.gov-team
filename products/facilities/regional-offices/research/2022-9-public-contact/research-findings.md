@@ -76,9 +76,23 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ## Methodology 
 
-_Brief description of method chosen_
+* Semi-structured interviews 
+* Remote via Zoom
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+### Participants
+* Spoke to 12 participants total representing the 7 MVP regions
+* Spoke to staff from 6 Regional Offices
+  * Albuquerque
+  * Anchorage
+  * Boston
+  * Houston
+  * National Capital Region
+  * San Juan  
+* Spoke to staff from 2 Satellite Offices
+  * Guam
+  * Saipan
+* Spoke to staff from 1 VAMC outreach office
+  * VAMC Albuquerque?
 
 
 ## Hypotheses and Conclusions
