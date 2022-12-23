@@ -1,14 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# VBA Public Contact Staff Research Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), VBA Regional Office, Facilities**
 
-# [Study] Research Findings 
+Date: 12/23/2022
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+Dave Pickett dave.pickett@civicactions.com 
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -29,25 +25,54 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+7 Veteran Benefit Administration (VBA) Regional Office (RO) facilities will be involved in the launch of the Minimal Viable Product (MVP) for publishing VBA facility information in Drupal starting in early 2023.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+The MVP will give the designated CMS editors a basic set of functionality to publish information about their facility operations on VA.gov so Veterans can successfully plan their next visit and perform other key tasks.
 
+The Public Contact staff at these facilities provide front-line support to Veterans. We interviewed a sample of Public Contact staff to better understand the Veteran experience and service delivery models at the MVP Regional Office sites.  
 
+Our goal was to understand from the perspectives of the Public Contact staff:
+
+- **Service delivery model** for the facility (or group of facilities) for a geographic area
+- **Common tasks** Veterans attempt to complete during in-person visits
+- The **typical Veteran experience** (successes, expectations, frustrations, complaints) at these facilities
 
 ## Research Questions
 
-_Research questions here_
+1. What benefit-related **services are offered** at these facilities?
+   * How do services differ by benefit types? 
+   * Are any services shared across benefit types (e.g. updating contact info)?
+   * Are all services available consistently throughout the week?
+   * Do any services require referrals to other facilities?
+   * Are there any services unique to this region/facility?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+2. What do Veterans typically **try to accomplish** during an in-person facility visit?
+   * What are the most common tasks they complete?
+   * What are the least common tasks?
+   * Can these tasks be accomplished other ways (phone, web)?
+     * If so, why do Veterans do this task in-person?
+   * How complicated are these common tasks?
+   * How do Public Contact Staff assist Veterans in these tasks?
+   * Any regionally specific needs (e.g. state or region specific support, translation)?
+   * Any problems?
+     * Tasks unable to complete
+     * Tasks that Veterans usually get hung up on
+     * Frustrations expressed by Veterans
+     * How frequently are these problems encountered?
 
+3. What is the **typical Veteran experience** when visiting these facilities?
+   *	Typical wait times?
+   *	Busier days or time?
+   *	Appointments vs walk-ins?
+   *	Common frustrations? Complaints?
+   *	How Veterans usually arrive at the facility? (drive, public transit?) 
+   *	How long does it take for a Veteran to travel to a facility
 
-* Question 
-* Question
-* Question
+4. What do Veterans need to know or do to be adequately **prepared** for a visit?
+   * Does this differ by service? 
+   * Could they have found that information on the website?
+   * Most common thing Veterans are missing?
 
 ## Methodology 
 
