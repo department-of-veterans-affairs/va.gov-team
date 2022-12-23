@@ -90,7 +90,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * [San Juan](https://www.va.gov/find-locations/facility/vba_355)  
 * Spoke to staff from 2 Satellite Offices
   * [Guam](https://www.va.gov/find-locations/facility/vba_459h)
-  * Saipan (no presence in Facility Locator)
+  * Saipan ([no presence in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12112))
 * Spoke to staff from 1 VAMC outreach office
   * VAMC Albuquerque?
 
