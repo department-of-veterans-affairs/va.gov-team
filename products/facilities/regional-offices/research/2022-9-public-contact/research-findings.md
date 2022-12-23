@@ -19,7 +19,9 @@ _Once you've presented your research readout to your team, if you have a deck, i
   * [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * Results
   * [Key findings](#key-findings)
-  * [Details of Findings](#details-of-findings)
+  * Details of Findings
+  * Details of Findings
+  * Details of Findings
   * [Additional Insights](#additional-insights)
   * [Recommendations](#recommendations)
   * [Next Steps](#next-steps)
@@ -143,52 +145,88 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 11. Some Public Contact Offices are located in Federal buildings with security checkpoints, which can affect timing
 
 
-## Details of Findings 
+## Details of Findings - Services, Benefits, & Tasks 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+This first group of findings relates to research questions 1 & 2: 
+1. What benefit-related services are offered at these facilities?
+2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-**Finding 1**
+### 1 - Services at Regional Benefit Offices can be meaningfully categorized in at least four distinct ways
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- **Benefit** (e.g. compensation, home loans, VR&E)
+- **Task** (e.g. file a claim, check claim status, 1-on-1 interview)
+- **Documents** (e.g. award letter, commissary letter, DD-214)
+- **Beneficiary** (e.g. survivors, military retirees, caregivers)
 
-Brief description
+> Top three would be compensation, education, and pension. - P3
 
-> _Supporting data: Quote here_
+> Filing a claim is a big one, and then checking the status. - P12
 
-> _Supporting data: Quote here_
+> Most folks are looking for the tax letter. - P5
 
+> Survivors’ benefits is a big one. - P2
 
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
+### 2 - Public Contact staff primarily assist with the benefit of disability compensation
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- Public Contact staff have end-to-end insight into the disability compensation process
+- Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
+- 6/12 participants listed compensation in the top three most common services
 
-Brief description
+> 90% of the Veterans coming in are concerned about "What’s my percentage and how much money am I getting?" - P7
 
-> _Supporting data: Quote here_
+> Everyone understands that… this is where the money begins. Anything for money, they’re coming in. - P5
 
-> _Supporting data: Quote here_
+> It’s usually tied around "Where is my money?" - P2
 
+### 3 - Public Contact staff primarily assist with the task of applying for benefits 
+
+Labels: label 1, label 2 
+
+- 9/12 participants listed “applying for benefits / filing a claim” as one of the top three most common services
+- They are able to assist beneficiaries in applying for a wide range of benefits
+- They have to refer beneficiaries elsewhere for support on follow-up tasks
+
+> We're there to help Veterans fill out applications. - P9
+
+> Probably filing new claims, you know, on the VA Form 21-526 EZ. Honestly, I could probably print 20 copies and go almost the whole week. - P10
+
+> I can hand them an application to fill out. But PMC [Pension Management Center] would be the one process and handle it. - P5
+
+> For education benefits we can't provide specific information to the customer. So we would have to refer them to an Education Call Center like Muskogee. - P3
+
+### 4 - Providing beneficiaries official documents is a significant function of Regional Benefit Offices
+
+Labels: label 1, label 2 
+
+- 6/12 participants listed “get a [benefit/award/tax] letter” as one of the top three most common services
+- Sometimes they are printing new copies of documents that beneficiaries previously received
+- Other times, a new document is being created
+
+> To get qualified for those funds from the City… they usually need that letter. The no-benefits letter, or the benefits letter. - P5
+
+> If they are a certain percentage, they get a letter where they can go to the commissaries on base and shop. We provide those letters. - P4
+
+### 5 - There are few (if any) tasks that require a Veteran to be physically present at Regional Benefit Office
+
+Labels: label 1, label 2 
+
+- During the COVID lockdown, any services that previously required an in-person visit were modified to have virtual option
+- There seem to be lingering perceptions that in-person visits are required 
+- Some beneficiaries prefer in-person (homeless, non-English speakers, older Veterans)
+- Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
+
+> No, no, there really isn't. Everything can almost be done online. - P8
+
+> Sometimes they want it in their hands. - P2
+
+## Details of Findings - Veteran Experience at Facility
+This second group of findings relates to research question 3:
+
+3. What is the typical Veteran experience when visiting these facilities?
 
 ## Additional Insights
 
@@ -247,30 +285,3 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
