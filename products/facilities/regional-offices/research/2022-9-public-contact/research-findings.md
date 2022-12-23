@@ -81,16 +81,16 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ### Participants
 * Spoke to 12 participants total representing the 7 MVP regions
-* Spoke to staff from 6 Regional Offices
-  * Albuquerque
-  * Anchorage
-  * Boston
-  * Houston
-  * National Capital Region
-  * San Juan  
+* Spoke to staff from 6 Regional Benefit Offices
+  * [Albuquerque](https://www.va.gov/find-locations/facility/vba_340)
+  * [Anchorage](https://www.va.gov/find-locations/facility/vba_463)
+  * [Boston](https://www.va.gov/find-locations/facility/vba_301)
+  * [Houston](https://www.va.gov/find-locations/facility/vba_362)
+  * [National Capital Region](https://www.va.gov/find-locations/facility/vba_372)
+  * [San Juan](https://www.va.gov/find-locations/facility/vba_355)  
 * Spoke to staff from 2 Satellite Offices
-  * Guam
-  * Saipan
+  * [Guam](https://www.va.gov/find-locations/facility/vba_459h)
+  * Saipan (no presence in Facility Locator)
 * Spoke to staff from 1 VAMC outreach office
   * VAMC Albuquerque?
 
