@@ -10,17 +10,22 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 <br>
 
-**Jump to:**
+**Table of Contents**
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+Background
+* [Research Goals](#research-goals)
+* [Research Questions](#research-questions)
+* [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* [Methodology](#methodology)
 
-[Key findings](#key-findings)
+Findings
+* [Key findings](#key-findings)
+* [Details of Findings](#details-of-findings)
+* Additional Insights
 
-[Recommendations](#recommendations)
-
-[Who we talked to](#who-we-talked-to)
-
-[Further research needed](#further-research-needed)
+Next Steps
+* [Recommendations](#recommendations)
+* [Further research needed](#further-research-needed)
 
 <br>
 
