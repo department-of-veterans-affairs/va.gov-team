@@ -81,19 +81,23 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 ### Participants
 * Spoke to 12 participants total representing the 7 MVP regions
-* Spoke to staff from 6 Regional Benefit Offices
+* ADD LENGTH OF TIME in role and with VA
+
+### Facilities Represented
+* 6 Regional Benefit Offices
   * [Albuquerque](https://www.va.gov/find-locations/facility/vba_340)
-  * [Anchorage](https://www.va.gov/find-locations/facility/vba_463)
+  * [Anchorage](https://www.va.gov/find-locations/facility/vba_463) located inside a VAMC
   * [Boston](https://www.va.gov/find-locations/facility/vba_301)
-  * [Houston](https://www.va.gov/find-locations/facility/vba_362)
+  * [Houston](https://www.va.gov/find-locations/facility/vba_362) located on a VAMC campus
   * [National Capital Region](https://www.va.gov/find-locations/facility/vba_372)
   * [San Juan](https://www.va.gov/find-locations/facility/vba_355)  
-* Spoke to staff from 2 Satellite Offices
+* 2 Satellite Offices
   * [Guam](https://www.va.gov/find-locations/facility/vba_459h)
   * Saipan ([no presence in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12112))
-* Spoke to staff from 1 VAMC outreach location 
+* 1 VAMC outreach location (part-time)
   * [Raymond G Murphy VAMC in Albuquerque](https://www.va.gov/new-mexico-health-care/locations/raymond-g-murphy-department-of-veterans-affairs-medical-center/)
-> From the [Albuquerque RO teamsite](https://www.benefits.va.gov/albuquerque/): In addition, we have staff at the Raymond G. Murphy VA Medical Center on Tuesdays/Wednesdays/Thursdays from 8am-3:30pm. They are located in the Eligibility department by the main entrance. 
+  * From the [Albuquerque RO teamsite](https://www.benefits.va.gov/albuquerque/): 
+  * > In addition, we have staff at the Raymond G. Murphy VA Medical Center on Tuesdays/Wednesdays/Thursdays from 8am-3:30pm. They are located in the Eligibility department by the main entrance. 
 
 ## Hypotheses and Conclusions
 
