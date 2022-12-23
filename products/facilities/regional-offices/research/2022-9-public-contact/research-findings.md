@@ -143,7 +143,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 **Veteran preparation**
 
 10. Having a valid photo ID and a DD-214 is helpful regardless of service
-11. Some Public Contact Offices are located in Federal buildings with security checkpoints, which can affect timing
+11. Some Public Contact Offices are located in Federal buildings with security checkpoints
 
 - - -
 
@@ -234,6 +234,8 @@ This second group of findings relates to research question 3:
 
 ### 6 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
+Labels: label 1, label 2 
+
 - VR&E staff are totally siloed from Public Contact staff
 - These issues are heightened when a Regional Benefit Office is co-located with a VAMC
 - Veterans conflate VSOs and VA
@@ -250,12 +252,16 @@ This second group of findings relates to research question 3:
 
 ### 7 - There is little standardization in how Public Contact Offices handle appointments
 
+Labels: label 1, label 2 
+
 - Appointment only = National Captial Region 
 - Certain days & hours for walk-in, otherwise appointment only = Anchorage
 - Mostly walk-in, but some appointments 
 - New Orleans is totally virtual, but has kiosks on-site
 
 ### 8 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
+
+Labels: label 1, label 2 
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed very high wait times (over an hour) due to high demand and limited staff
@@ -265,6 +271,8 @@ This second group of findings relates to research question 3:
 > We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
 
 ### 9 - Most services are consistently available during normal operating hours 
+
+Labels: label 1, label 2 
 
 - Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
@@ -280,6 +288,8 @@ This third group of findings relates to research question 4:
 
 ### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
 
+Labels: label 1, label 2 
+
 - Civilian medical records can be helpful for supplemental claims
 - Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
 - eBenefits registration = 2 forms of ID
@@ -288,6 +298,8 @@ This third group of findings relates to research question 4:
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
 ### 11 - Some Public Contact Offices are located in Federal buildings with security checkpoints
+
+Labels: label 1, label 2 
 
 > Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
 
