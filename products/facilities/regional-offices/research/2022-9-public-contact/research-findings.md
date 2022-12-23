@@ -16,11 +16,13 @@ _Once you've presented your research readout to your team, if you have a deck, i
   * [Research Goals](#research-goals)
   * [Research Questions](#research-questions)
   * [Methodology](#methodology)
+    * [Participants](#participants)
+    * [Facilities Represented](#facilities-represented) 
   * [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * Results
   * [Key findings](#key-findings)
   * [Details of Findings - Services, Benefits, & Tasks](#details-of-findings---services-benefits--tasks)
-  * Details of Findings - Veteran Experience at Facility
+  * [Details of Findings - Veteran Experience at Facility](#details-of-findings---veteran-experience-at-facility)
   * Details of Findings - Veteran Preparation
   * [Additional Insights](#additional-insights)
   * [Recommendations](#recommendations)
@@ -266,7 +268,7 @@ This second group of findings relates to research question 3:
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
 - Some staff serve multiple locations (Saipan has two different offices, one person does outreach day at a VAMC) but the service availability is the same for the days that particular location is open 
 
-## Findings - Veteran Preparation
+## Details of Findings - Veteran Preparation
 
 This third group of findings relates to research question 4: 
 
