@@ -82,6 +82,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 ### Participants
 * Spoke to 12 participants total representing the 7 MVP regions
 * ADD LENGTH OF TIME in role and with VA
+* ADD titles
 
 ### Facilities Represented
 * 6 Regional Benefit Offices
