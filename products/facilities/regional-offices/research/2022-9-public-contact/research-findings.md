@@ -120,7 +120,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 ## Key Findings
 
 **Services, benefits, & tasks**
-1. Services at Public Contact Offices can be**categorized** in at least four distinct ways: benefits, tasks, documents, beneficiaries
+1. Services at Public Contact Offices can be **categorized** in at least four distinct ways: benefits, tasks, documents, beneficiaries
 2. Public Contact staff primarily assist with the **benefit** of disability compensation
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
