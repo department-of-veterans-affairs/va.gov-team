@@ -19,12 +19,13 @@ _Once you've presented your research readout to your team, if you have a deck, i
     * [Participants](#participants)
     * [Facilities Represented](#facilities-represented) 
   * [Hypotheses and conclusions](#hypotheses-and-conclusions)
-* Results
+* Findings
   * [Key findings](#key-findings)
   * [Details of Findings - Services, Benefits, & Tasks](#details-of-findings---services-benefits--tasks)
   * [Details of Findings - Veteran Experience at Facility](#details-of-findings---veteran-experience-at-facility)
-  * Details of Findings - Veteran Preparation
+  * [Details of Findings - Veteran Preparation](#details-of-findings---veteran-preparation)
   * [Additional Insights](#additional-insights)
+* Next Steps
   * [Recommendations](#recommendations)
   * [Next Steps](#next-steps)
   * [Further research needed](#further-research-needed)
@@ -146,7 +147,6 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 10. Having a valid photo ID and a DD-214 is helpful regardless of service
 11. Some Public Contact Offices are located in Federal buildings with security checkpoints, which can affect timing
 
-
 ## Details of Findings - Services, Benefits, & Tasks 
 
 This first group of findings relates to research questions 1 & 2: 
@@ -225,6 +225,8 @@ Labels: label 1, label 2
 
 > Sometimes they want it in their hands. - P2
 
+- - -
+
 ## Details of Findings - Veteran experience at facility
 This second group of findings relates to research question 3:
 
@@ -268,6 +270,8 @@ This second group of findings relates to research question 3:
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
 - Some staff serve multiple locations (Saipan has two different offices, one person does outreach day at a VAMC) but the service availability is the same for the days that particular location is open 
 
+- - -
+
 ## Details of Findings - Veteran Preparation
 
 This third group of findings relates to research question 4: 
@@ -289,7 +293,70 @@ This third group of findings relates to research question 4:
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+### Top 3 services from 12 participants
+
+<table>
+  <tr>
+   <td><strong>Service</strong>
+   </td>
+   <td><strong>Count</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>apply for benefits / file a claim
+   </td>
+   <td>9
+   </td>
+  </tr>
+  <tr>
+   <td>compensation / payment 
+   </td>
+   <td>6
+   </td>
+  </tr>
+  <tr>
+   <td>get a [benefit / award / tax] letter
+   </td>
+   <td>6
+   </td>
+  </tr>
+  <tr>
+   <td>determine eligibility / understand options
+   </td>
+   <td>4
+   </td>
+  </tr>
+  <tr>
+   <td>check claim status
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>survivor’s benefits
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>general form support
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>education
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>pension
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
 
 ## Recommendations
 
