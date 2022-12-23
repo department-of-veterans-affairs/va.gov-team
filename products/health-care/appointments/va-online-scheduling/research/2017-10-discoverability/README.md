@@ -1,0 +1,1 @@
+[Go to the 2017 Discoverability Research in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2017-10-discoverability)

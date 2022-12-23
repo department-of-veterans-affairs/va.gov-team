@@ -1,0 +1,1 @@
+[Go to the 2022 Provider-based Multi-modality scheduling discovery research in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2022-12-provider-based-multi-modality-scheduling-discovery)
