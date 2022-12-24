@@ -478,4 +478,36 @@ _If there are demographics that were not included in this study or you discovere
 * tech support | ebenefits | VA.gov
 * translate language
 
+### Documents mentioned
+
+**Documents you can get at VBA**
+* award letter
+* benefit letter | no-benefit letter
+* certificate of eligibility
+* commissary letter
+* DD-214
+* disability rating
+* medical records (VA)
+* medical records (military)
+* property tax letter
+* tax letters
+
+**Documents to bring to VBA**
+* DD-214
+* death certificate
+* discharge paperwork
+* first notice of death
+* funeral bill
+* marriage certificate
+* medical records (civilian)
+* medical records (military)
+* medical records (VA)
+* picture ID (not expired)
+
+**Information to bring to VBA**
+* date of birth (dependant)
+* date of birth (Veteran)
+* effective date
+* social security number (dependant)
+* social security number (Veteran)
 
