@@ -161,7 +161,7 @@ Labels: label 1, label 2
 - **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
 - **Documents** (e.g. award letter, commissary letter, DD-214)
 - **Beneficiaries** (e.g. survivors, military retirees, caregivers)
-- See the [appendix](#other-supporting-documents-created) for full lists of terms
+- See the [appendix](#appendix) for full lists of terms
 
 > Top three would be compensation, education, and pension. - P3
 
@@ -348,15 +348,7 @@ _If there are demographics that were not included in this study or you discovere
 
 [Interview transcripts](link here)
 
-
-### Tools used for Synthesis
-
-e.g. mural boards, etc.  
-
-
-### Other supporting documents created
-
-#### Top 3 services from 12 participants
+### Top 3 services from 12 participants
 
 <table>
   <tr>
@@ -421,7 +413,7 @@ e.g. mural boards, etc.
   </tr>
 </table>
 
-#### Benefits mentioned
+### Benefits mentioned
 
 **National Benefits**
 * aid and attendance
@@ -464,11 +456,26 @@ e.g. mural boards, etc.
 * toll road pass
 * welcome home bonus
 
-### Secondary research
+### Tasks mentioned
 
-Include any secondary research you may have. 
+**Benefit Specific Tasks**
+* 1-on-1 interview
+* add/remove dependent
+* appeal hearing
+* apply for benefit | file a claim
+* check status of claim
+* determine eligibility for benefit
+* file a supplemental claim | increase disability rating
+* get copy of paperwork
+* learn about benefit | benefit orientation
+* resolve payment issue | check tracing
+* understand claim decision
+* update direct deposit
+* update personal info (address, phone #, etc)
 
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+**General Support Tasks**
+* assistance completing a form
+* tech support | ebenefits | VA.gov
+* translate language
 
 
