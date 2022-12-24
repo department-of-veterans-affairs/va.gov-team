@@ -15,16 +15,13 @@ Dave Pickett dave.pickett@civicactions.com
     * [Participants](#participants)
     * [Facilities Represented](#facilities-represented) 
   * [Hypotheses and conclusions](#hypotheses-and-conclusions)
-* Findings
+* Findings & Recommendations
   * [Key findings](#key-findings)
   * [Details of Findings - Services, Benefits, & Tasks](#details-of-findings---services-benefits--tasks)
   * [Details of Findings - Veteran Experience at Facility](#details-of-findings---veteran-experience-at-facility)
   * [Details of Findings - Veteran Preparation](#details-of-findings---veteran-preparation)
   * [Additional Insights](#additional-insights)
-* Next Steps
   * [Recommendations](#recommendations)
-  * [Next Steps](#next-steps)
-  * [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
   * [Top 3 services](#top-3-services-from-12-participants)
   * [Benefits list](#benefits-mentioned)
@@ -140,15 +137,15 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 **Veteran experience**
 
-6. A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
-7. There is little standardization in how Public Contact Offices handle **appointments**
-8. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing
-9. 
+6. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
+7. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
+8. There is little standardization in how Public Contact Offices handle **appointments**
+9. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing 
 
 **Veteran preparation**
 
 10. Having a valid **photo ID and a DD-214** is helpful regardless of service
-11. Public Contact Offices often **stop taking new clients 30 min prior to the official closing time**
+11. Public Contact Offices often **stop taking clients** prior to the official closing time
 
 - - -
 
@@ -326,13 +323,13 @@ This third group of findings relates to research question 4:
 
 ## Additional Insights
 
-**XX - eBenefits registration is a declining service**
+**12 - eBenefits registration is a declining service**
 
 > We do some of that. But I only have one person that can do it - P9
 
 > We used to, but it's slowly dying in our office - P12
 
-**XX - "Insurance claim help and financial counseling" is not a single service**
+**13 - "Insurance claim help and financial counseling" is not a single service**
 
 > We assist with the insurance claim... but not financial counseling - P3
 
@@ -340,52 +337,36 @@ This third group of findings relates to research question 4:
 
 > We refer them to the number for Philadelphia for the insurance Office - P12
 
-**XX - Parking can be a challenge for offices in dense urban locations**
+**14 - Parking can be a challenge for offices in dense urban locations**
 
 > It's very expensive to park. You gotta pay a minimum of twenty-eight dollars. - P5
  
 > Parking is expensive or hard to find or both. We have free parking, but it's a block away - P11
 
-**XX - Some Public Contact Offices are located in Federal buildings with security checkpoints**
+**15 - Some Public Contact Offices are located in Federal buildings with security checkpoints**
 
 > They go through security as soon as they come through the door. That's a little hiccup for most of them. - P11
 
 > Plus they have to go through security. So you know, if they show up at like 4:00, and then security, we're gone by the time they get here like at 4:15, 4:30. - P8
 
-**XX - Most services are consistently available during normal operating hours** 
+**16 - Most services are consistently available during normal operating hours** 
 
 - Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
 
-**XX - Busy times?**
-
-- Focus on compensation can lead to busy times on the 1st day of the month & tax season
-- Mondays & lunch time also cited as busier days / times
-
-> We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
->
 - - -
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-- - -
+* Update the VBA Service taxonomy to accurately reflect the services avaialable at Regional Offices
+  * Include information about which services require making an appointment or bringing additional documents
+  * Reroute Veterans for services that can't be handled at a RO (e.g. checking status of pension claim)
+  * Explore ways to connect benefit service information across VA.gov so Veterans can choose their preferred service modality (online, virtual, in-person)
+* Involve stakeholders from VR&E in MVP planning so we can accurately route Veterans to appointment tools for those services
+* Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
+* Clearly indicate the distinction between virtual and in-person appointments
+* Ensure Veterans can easily tell if a RO require appointments or not
+* Indicate the last available appointment time in addition to the nomral operating hours
 
 ## Appendix
 
