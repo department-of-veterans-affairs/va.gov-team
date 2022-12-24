@@ -371,12 +371,6 @@ This third group of findings relates to research question 4:
 
 ## Appendix
 
-[Research plan](link here)
-
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
 ### Top 3 services from 12 participants
 
 <table>
