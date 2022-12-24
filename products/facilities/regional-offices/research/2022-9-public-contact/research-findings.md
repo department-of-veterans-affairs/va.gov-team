@@ -219,6 +219,7 @@ This first group of findings relates to research questions 1 & 2:
 - Some beneficiaries prefer in-person (homeless, non-English speakers, older Veterans)
 - Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
 - Some regions lack reliable internet access
+- Veterans sometimes show up in-person for virtual appointments
 
 > We get a lot of the older veterans. The younger veterans who are computer savvy... they can do it online. - P8
 
@@ -227,6 +228,8 @@ This first group of findings relates to research questions 1 & 2:
 > Sometimes they want it in their hands. - P2
 
 > A lot of the state does not even have accessible internet. - P9
+
+> They'll show up and tell the guards, "I have a 10 o'clock appointment." And they go, "No, that is virtual" - P10
 
 - - -
 
@@ -237,37 +240,64 @@ This second group of findings relates to research question 3:
 
 ### 6 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
+- Veterans expect Public Contact Offices to assist with every benefit service
 - VR&E staff are totally siloed from Public Contact staff
-- These issues are heightened when a Regional Benefit Office is co-located with a VAMC
-- Veterans conflate VSOs and VA
+- Veterans are mistakenly directed to Public Contact Offices for tech support
 
-> People are being told they can get every type of benefit done here at the regional office, and you know we simply can't. - P8
+> A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way into the regional office to be told that that service is not provided." - P12
 
-> On any given day at least one of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
+> On any given day at least 1 of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
+
+> People having problems with their VA.gov accounts. They are sending them to the regional office to get them fixed. We do not do that. - P8
+
+> The help desk for the website sends them to the Regional Office. We have no access or training to make any changes to allow them into the website. - P11
+
+### 7 - Veterans sometimes conflate the VBA with the VA, VSOs, and other agencies  
+
+- Veterans expect the three branches to be "one VA"
+- Veterans conflate VSOs and the VBA due to them both handling benefit claims
+- Veterans aren't always sure what is overseen by the VA vs the military
+- This confusion is heightened when a VBA office is co-located with other agencies
+
+> But I think the biggest thing is veterans coming in just thinking you're just one VA "How come you don't know this? How come You're not communicating?" - P9
+
+> "I reported my divorce to the hospital. How come you don't know?" - P11
+
+> We had to keep referring them to the National Cemetery. This office doesn't have the authority to exhume a body from a cemetery grave. - P12
+
+> They think we do the Veteran ID cards. - P2
+
+> If the person is looking for a VSO, they end up in the wrong place. - P5
+
+> They'll schedule an appointment to come talk to us about an appeal. Something where we can't represent them or tell them which lanes to use. It's got to be with their Veteran Service Officer. And that's who they think they're scheduling it with. - P7
 
 > We get a lot of veterans coming in and they think that we can update their DD-214 and we can't. - P4
 
-> They think we do the Veteran ID cards - P2
+> Wanting to come over here to deal with their retired pay issues from the military. - P7
 
-> If the person is looking for a VSO, they end up in the wrong place - P5
-
-### 7 - There is little standardization in how Public Contact Offices handle appointments
+### 8 - There is little standardization in how Public Contact Offices handle appointments
 
 - Appointment only = National Captial Region 
 - Certain days & hours for walk-in, otherwise appointment only = Anchorage
-- Mostly walk-in, but some appointments 
-- New Orleans is totally virtual, but has kiosks on-site
+- Walk-in only = outreach site Raymond G Murphy VAMC in Albuquerque
+- Other locations expressed a mix of appointment and walk-ins
 
-### 8 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
+> We've been getting probably thirty forty percent with VERA. - P5
+
+> 90% walk in and then about 10% appointments. - P12
+
+### 9 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
 
 - Many locations reported very short wait times (10 min or less)
-- Offices co-located with a VAMC expressed very high wait times (over an hour) due to high demand and limited staff
-- Focus on compensation can lead to busy times on the 1st day of the month & tax season
-- Mondays & lunch time also cited as busier days / times
+- Offices co-located with a VAMC expressed higher wait times due to high demand and limited staff
 
-> We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
+> I would say, you know at most somebody will have to wait 5 or 10 min - P9
 
-### 9 
+> We don't typically have wait times unless we're down to one counselor. - P3
+
+> It's extremely busy and Veterans typically wait 30 min to an hour to see one of us. - P11
+
+> Unfortunately we've lost so many people to promotions, retirement, whatever. If they don't have an appointment, we might not be able to see them. We're gonna try and get them in, but they have to understand it might be a couple of hours. - P2
 
 - - -
 
@@ -286,7 +316,11 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 11 - Public Contact Offices often stop taking new clients 30 min prior to the official closing time
+### 11 - Public Contact Offices often stop taking new clients prior to the official closing time
+
+> I say 8:00 to 3:00, so people at least will get up here by 3:30, and we can serve them properly. - P8
+
+> I try not to schedule anybody after 2:30. With traffic you invariably have people that will get there at 3:00. I'm still able to take them if they get there at 3:00. - P10
 
 - - -
 
@@ -306,9 +340,17 @@ This third group of findings relates to research question 4:
 
 > We refer them to the number for Philadelphia for the insurance Office - P12
 
+**XX - Parking can be a challenge for offices in dense urban locations**
+
+> It's very expensive to park. You gotta pay a minimum of twenty-eight dollars. - P5
+ 
+> Parking is expensive or hard to find or both. We have free parking, but it's a block away - P11
+
 **XX - Some Public Contact Offices are located in Federal buildings with security checkpoints**
 
-> Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
+> They go through security as soon as they come through the door. That's a little hiccup for most of them. - P11
+
+> Plus they have to go through security. So you know, if they show up at like 4:00, and then security, we're gone by the time they get here like at 4:15, 4:30. - P8
 
 **XX - Most services are consistently available during normal operating hours** 
 
@@ -317,6 +359,11 @@ This third group of findings relates to research question 4:
 
 **XX - Busy times?**
 
+- Focus on compensation can lead to busy times on the 1st day of the month & tax season
+- Mondays & lunch time also cited as busier days / times
+
+> We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
+>
 - - -
 
 ## Recommendations
