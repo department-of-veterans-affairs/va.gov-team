@@ -26,6 +26,11 @@ Dave Pickett dave.pickett@civicactions.com
   * [Next Steps](#next-steps)
   * [Further research needed](#further-research-needed)
 * [Appendix](#appendix)
+  * [Top 3 services](#top-3-services-from-12-participants)
+  * [Benefits list](#benefits-mentioned)
+  * [Tasks list](#tasks-mentioned)
+  * [Documents list](#documents-mentioned)
+  * Beneficiaries list
 
 - - -
 
