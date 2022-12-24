@@ -220,13 +220,13 @@ This first group of findings relates to research questions 1 & 2:
 - Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
 - Some regions lack reliable internet access
 
-> We get a lot of the older veterans. The younger veterans who are computer savvy... they can do it online - P8
+> We get a lot of the older veterans. The younger veterans who are computer savvy... they can do it online. - P8
 
 > I can't think of anything really physically where they would need to come in to the office. - P12
 
 > Sometimes they want it in their hands. - P2
 
-> A lot of the state does not even have accessible internet - P9
+> A lot of the state does not even have accessible internet. - P9
 
 - - -
 
@@ -313,6 +313,8 @@ This third group of findings relates to research question 4:
 **XX - Some Public Contact Offices are located in Federal buildings with security checkpoints**
 
 > Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
+
+**XX - Busy times?**
 
 - - -
 
