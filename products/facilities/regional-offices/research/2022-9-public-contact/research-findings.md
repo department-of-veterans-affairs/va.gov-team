@@ -30,7 +30,7 @@ Dave Pickett dave.pickett@civicactions.com
   * [Benefits list](#benefits-mentioned)
   * [Tasks list](#tasks-mentioned)
   * [Documents list](#documents-mentioned)
-  * Beneficiaries list
+  * [Beneficiaries list](#beneficiaries-mentioned)
 
 - - -
 
