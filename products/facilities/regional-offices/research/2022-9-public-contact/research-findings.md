@@ -143,7 +143,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 6. A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 7. There is little standardization in how Public Contact Offices handle **appointments**
 8. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing
-9. Most services are consistently available during **normal operating hours**
+9. 
 
 **Veteran preparation**
 
@@ -267,11 +267,7 @@ This second group of findings relates to research question 3:
 
 > We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
 
-### 9 - Most services are consistently available during normal operating hours 
-
-- Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
-- Guam has 2 hours every Monday morning where VBMS is down for maintenance
-- Some staff serve multiple locations (Saipan has two different offices, one person does outreach day at a VAMC) but the service availability is the same for the days that particular location is open 
+### 9 
 
 - - -
 
@@ -313,6 +309,11 @@ This third group of findings relates to research question 4:
 **XX - Some Public Contact Offices are located in Federal buildings with security checkpoints**
 
 > Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
+
+**XX - Most services are consistently available during normal operating hours** 
+
+- Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
+- Guam has 2 hours every Monday morning where VBMS is down for maintenance
 
 **XX - Busy times?**
 
