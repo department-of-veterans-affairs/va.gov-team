@@ -367,6 +367,7 @@ This third group of findings relates to research question 4:
 * Clearly indicate the distinction between virtual and in-person appointments
 * Ensure Veterans can easily tell if a RO require appointments or not
 * Indicate the last available appointment time in addition to the nomral operating hours
+* Consider use cases for Regional Offices, Satellite Offices & Outreach sites
 
 ## Appendix
 
