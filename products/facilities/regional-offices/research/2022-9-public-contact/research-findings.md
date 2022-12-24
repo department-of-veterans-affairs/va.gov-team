@@ -147,8 +147,8 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 **Veteran preparation**
 
-10. Having a valid photo ID and a DD-214 is helpful regardless of service
-11. Some Public Contact Offices are located in Federal buildings with security checkpoints
+10. Having a valid **photo ID and a DD-214** is helpful regardless of service
+11. Public Contact Offices often **stop admiting Veterans prior to the official closing time**
 
 - - -
 
@@ -290,17 +290,29 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 11 - Some Public Contact Offices are located in Federal buildings with security checkpoints
-
-Labels: label 1, label 2 
-
-> Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
+### 11 - Public Contact Offices often stop admiting Veterans prior to the official closing time
 
 - - -
 
 ## Additional Insights
 
+**XX - eBenefits registration is a declining service**
 
+> We do some of that. But I only have one person that can do it - P9
+
+> We used to, but it's slowly dying in our office - P12
+
+**XX - "Insurance claim help and financial counseling" is not a single service**
+
+> We assist with the insurance claim... but not financial counseling - P3
+
+> I've never heard of financial counseling - P8
+
+> We refer them to the number for Philadelphia for the insurance Office - P12
+
+**XX - Some Public Contact Offices are located in Federal buildings with security checkpoints**
+
+> Plus they have to go through security. So you know, if they show up at like four, and then security, we're gone by the time they get here like at 4:15, 4:30 - P8
 
 - - -
 
