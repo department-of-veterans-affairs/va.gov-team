@@ -222,10 +222,15 @@ Labels: label 1, label 2
 - There seem to be lingering perceptions that in-person visits are required 
 - Some beneficiaries prefer in-person (homeless, non-English speakers, older Veterans)
 - Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
+- Some regions lack reliable internet access
 
-> No, no, there really isn't. Everything can almost be done online. - P8
+> We get a lot of the older veterans. The younger veterans who are computer savvy... they can do it online - P8
+
+> I can't think of anything really physically where they would need to come in to the office. - P12
 
 > Sometimes they want it in their hands. - P2
+
+> A lot of the state does not even have accessible internet - P9
 
 - - -
 
