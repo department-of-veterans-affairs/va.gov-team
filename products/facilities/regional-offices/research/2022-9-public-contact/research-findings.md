@@ -314,7 +314,48 @@ Labels: label 1, label 2
 
 ## Additional Insights
 
-### Top 3 services from 12 participants
+
+
+- - -
+
+## Recommendations
+
+_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+
+* Recommendation 1
+    * _Supporting evidence_
+* Recommendation 2
+    * _Supporting evidence_
+
+
+## Next Steps
+
+_Next steps here. Include owners if appropriate._
+
+
+## Further research needed
+
+_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+
+- - -
+
+## Appendix
+
+[Research plan](link here)
+
+[Conversation guide](link here)
+
+[Interview transcripts](link here)
+
+
+### Tools used for Synthesis
+
+e.g. mural boards, etc.  
+
+
+### Other supporting documents created
+
+#### Top 3 services from 12 participants
 
 <table>
   <tr>
@@ -379,52 +420,48 @@ Labels: label 1, label 2
   </tr>
 </table>
 
-- - -
+#### Benefits mentioned
 
-## Recommendations
+**National Benefits**
+* aid and attendance
+* burial | burial reimbursement | flag
+* caregiver program
+* CHAMP-VA
+* commissary | commissary and exchange privileges | patronage expansion directive
+* compensation | disability compensation | disability rating
+* concurrent retirement and disability payment | CRDP
+* debt management
+* dependency & indemnity compensation | DIC
+* disability housing grants
+* education | chapter 35 | GI bill 
+* financial counseling | fiduciary services
+* foreign medical policy
+* health care
+* home health care 
+* home loans
+* homeless veterans support | housing support | HUD-VASH
+* IDES
+* life insurance
+* military sexual trauma | MST
+* pension (Veteran)
+* pension (military retiree)
+* pension (survivor)
+* pre-discharge | Benefits Delivery at Discharge | BDD
+* special monthly compensation
+* "survivor benefits"
+* transition | TAP
+* VR&E | education and career counseling | voc rehab
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-- - -
-
-## Appendix
-
-[Research plan](link here)
-
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
-
-### Tools used for Synthesis
-
-e.g. mural boards, etc.  
-
-
-### Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-### Other supporting documents created
-
-e.g. user flows, personas, etc.
-
+**State & Local Benefits**
+* annuity
+* compensation (state) | chapter 115 
+* driver's license
+* hunting & fishing license
+* license plate
+* public transit benefits
+* reduced taxes (property, home sale)
+* toll road pass
+* welcome home bonus
 
 ### Secondary research
 
