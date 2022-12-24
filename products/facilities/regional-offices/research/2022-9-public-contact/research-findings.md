@@ -148,7 +148,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 **Veteran preparation**
 
 10. Having a valid **photo ID and a DD-214** is helpful regardless of service
-11. Public Contact Offices often **stop admiting Veterans prior to the official closing time**
+11. Public Contact Offices often **stop taking new clients 30 min prior to the official closing time**
 
 - - -
 
@@ -290,7 +290,7 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 11 - Public Contact Offices often stop admiting Veterans prior to the official closing time
+### 11 - Public Contact Offices often stop taking new clients 30 min prior to the official closing time
 
 - - -
 
