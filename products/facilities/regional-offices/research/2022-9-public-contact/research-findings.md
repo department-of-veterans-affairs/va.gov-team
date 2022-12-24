@@ -212,6 +212,8 @@ Labels: label 1, label 2
 
 > If they are a certain percentage, they get a letter where they can go to the commissaries on base and shop. We provide those letters. - P4
 
+> Requesting a letter, like an award letter. That's pretty pretty common. - P11
+
 ### 5 - There are few (if any) tasks that require a Veteran to be physically present at a Public Contact Office
 
 Labels: label 1, label 2 
