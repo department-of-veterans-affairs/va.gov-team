@@ -161,6 +161,7 @@ Labels: label 1, label 2
 - **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
 - **Documents** (e.g. award letter, commissary letter, DD-214)
 - **Beneficiaries** (e.g. survivors, military retirees, caregivers)
+- See the [appendix](#other-supporting-documents-created) for full lists of terms
 
 > Top three would be compensation, education, and pension. - P3
 
