@@ -158,9 +158,7 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries
-
-Labels: label 1, label 2 
+### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries 
 
 - **Benefits** (e.g. compensation, home loans, VR&E)
 - **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
@@ -178,8 +176,6 @@ Labels: label 1, label 2
 
 ### 2 - Public Contact staff primarily assist with the benefit of disability compensation
 
-Labels: label 1, label 2 
-
 - Public Contact staff have end-to-end insight into the disability compensation process
 - Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
@@ -191,8 +187,6 @@ Labels: label 1, label 2
 > It’s usually tied around "Where is my money?" - P2
 
 ### 3 - Public Contact staff primarily assist with the task of applying for benefits 
-
-Labels: label 1, label 2 
 
 - 9/12 participants listed “applying for benefits / filing a claim” as one of the top three most common services
 - They are able to assist beneficiaries in applying for a wide range of benefits
@@ -208,8 +202,6 @@ Labels: label 1, label 2
 
 ### 4 - Providing beneficiaries official documents is a significant function of Public Contact Offices
 
-Labels: label 1, label 2 
-
 - 6/12 participants listed “get a [benefit/award/tax] letter” as one of the top three most common services
 - Sometimes they are printing new copies of documents that beneficiaries previously received
 - Other times, a new document is being created
@@ -221,8 +213,6 @@ Labels: label 1, label 2
 > Requesting a letter, like an award letter. That's pretty pretty common. - P11
 
 ### 5 - There are few (if any) tasks that require a Veteran to be physically present at a Public Contact Office
-
-Labels: label 1, label 2 
 
 - During the COVID lockdown, any services that previously required an in-person visit were modified to have virtual option
 - There seem to be lingering perceptions that in-person visits are required 
@@ -247,8 +237,6 @@ This second group of findings relates to research question 3:
 
 ### 6 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
-Labels: label 1, label 2 
-
 - VR&E staff are totally siloed from Public Contact staff
 - These issues are heightened when a Regional Benefit Office is co-located with a VAMC
 - Veterans conflate VSOs and VA
@@ -265,16 +253,12 @@ Labels: label 1, label 2
 
 ### 7 - There is little standardization in how Public Contact Offices handle appointments
 
-Labels: label 1, label 2 
-
 - Appointment only = National Captial Region 
 - Certain days & hours for walk-in, otherwise appointment only = Anchorage
 - Mostly walk-in, but some appointments 
 - New Orleans is totally virtual, but has kiosks on-site
 
 ### 8 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
-
-Labels: label 1, label 2 
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed very high wait times (over an hour) due to high demand and limited staff
@@ -284,8 +268,6 @@ Labels: label 1, label 2
 > We also see a lot of rush the first of the month, especially if they don't get their paycheck. - P12
 
 ### 9 - Most services are consistently available during normal operating hours 
-
-Labels: label 1, label 2 
 
 - Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
@@ -300,8 +282,6 @@ This third group of findings relates to research question 4:
 4. What do Veterans need to know or do to be adequately prepared for a visit?
 
 ### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
-
-Labels: label 1, label 2 
 
 - Civilian medical records can be helpful for supplemental claims
 - Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
@@ -498,16 +478,20 @@ _If there are demographics that were not included in this study or you discovere
 * tax letters
 
 **Documents to bring to VBA**
+* birth certificate
 * DD-214
 * death certificate
 * discharge paperwork
+* divorce decrees
 * first notice of death
 * funeral bill
 * marriage certificate
 * medical records (civilian)
 * medical records (military)
 * medical records (VA)
+* social security cards
 * picture ID (not expired)
+* two forms of ID
 
 **Information to bring to VBA**
 * date of birth (dependant)
