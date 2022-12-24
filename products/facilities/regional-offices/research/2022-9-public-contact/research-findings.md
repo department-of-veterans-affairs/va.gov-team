@@ -361,13 +361,13 @@ This third group of findings relates to research question 4:
 * Update the VBA Service taxonomy to accurately reflect the services avaialable at Regional Offices
   * Include information about which services require making an appointment or bringing additional documents
   * Reroute Veterans for services that can't be handled at a RO (e.g. checking status of pension claim)
-  * Explore ways to connect benefit service information across VA.gov so Veterans can choose their preferred service modality (online, virtual, in-person)
+  * Explore ways to connect benefit service information across VA.gov
 * Involve stakeholders from VR&E in MVP planning so we can accurately route Veterans to appointment tools for those services
 * Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
 * Clearly indicate the distinction between virtual and in-person appointments
-* Ensure Veterans can easily tell if a RO require appointments or not
+* Ensure Veterans can easily tell if a facility allows walk-ins or not
 * Indicate the last available appointment time in addition to the nomral operating hours
-* Consider use cases for Regional Offices, Satellite Offices & Outreach sites
+* Consider use cases for Regional Offices, Satellite Offices, & Outreach sites
 
 ## Appendix
 
