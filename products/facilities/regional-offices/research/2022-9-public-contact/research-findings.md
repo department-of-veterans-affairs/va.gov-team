@@ -516,3 +516,12 @@ _If there are demographics that were not included in this study or you discovere
 * social security number (dependant)
 * social security number (Veteran)
 
+### Beneficiaries mentioned
+* active duty
+* caregiver
+* dependent | spouse | child
+* disabled Veteran (50%, 100%)
+* homeless Veteran
+* military retiree
+* survivor | widow
+* Veteran
