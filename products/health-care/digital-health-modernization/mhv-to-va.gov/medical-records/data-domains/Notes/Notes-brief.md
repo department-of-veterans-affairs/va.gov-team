@@ -15,6 +15,7 @@ Members of the health care team may use VA Notes to record your health condition
 There are also clinican notes, which includes progress note, procedure note, and encounter note. Things like Admission and discharge summary are also notes from doctors. We need to define what should go in to notes and what to label this domain. 
 
 What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)
+
 After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
 - A list of medical problems or symptoms 
 - What you told your provider, also called the "history"
