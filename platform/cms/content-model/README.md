@@ -2,9 +2,4 @@
 
 Dashed lines and circles represent work that is not in production VA.gov CMS.
 
-The latest version of the content model can be found in [this whimsical](https://whimsical.com/PyatLZVHkA8QPxzuAqUEe8).
-
-## January 28 2020
-
-- added various listing page content types (work in progress)
-- added Upcoming products 2021 section
+The latest version of the content model can be found in [this Mural](https://app.mural.co/t/vagov6717/m/vagov6717/1658937741729/88cc653ce1bed251e60940c147867eb061496070?sender=ud7d3055567694e54f0133356).
