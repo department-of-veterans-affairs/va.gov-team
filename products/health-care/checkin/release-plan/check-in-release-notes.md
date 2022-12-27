@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 12/23/2022
-- Updated Pre-Check-in reference to "VA account" to say "VA.gov profile" instead
+- Updated Pre-Check-in content "VA account" when instructing Veterans on where to update their information to now say "VA.gov profile"
     - [Ticket 50875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50875)
 
 ### 12/19/2022
