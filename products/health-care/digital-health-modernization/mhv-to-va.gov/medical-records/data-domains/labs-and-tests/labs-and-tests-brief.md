@@ -14,11 +14,11 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
 
-[Use cases and user flows]
+## Use cases and user flows
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
-- [Use cases in GitHub]
+- [Use cases in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/uses-cases.md)
 
-[Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+[Medical Records Comparative Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
 
 [Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
 
@@ -28,10 +28,49 @@ Labs and Tests represent health information that may be categorized as lab work 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 ### Labs and Tests categories
-- Hematology
-
+- VA Chemistry/Hematology
+- VA Labaratory Results
+- VA Pathology Reports
+- VA Radiology Reports
+- VA Electrocardiogram History
+- Vitals + Readings (add/edit/delete)
+      - Blood sugar
+      - Cholesterol (Lipids profile)
+      - International normalized ratio
 
 **Data field title:**
+  - VA Chemistry/Hematology
+          - Date/Time collected
+          - Specimen
+          - Location
+
+VA Laboratory Results
+o LabTest:
+o LabType:
+o Specimen:
+o Date/TimeCollected:
+o OrderingProvider:
+o OrderingLocation:
+o CollectedLocation:
+o TestName:
+o Result:
+o Units:
+o Status:
+o PerformingLocation:
+o Interpretation:
+o Comments:
+o PerformingLocationName/Address:
+• VA Pathology Reports
+o Source: VA (BlueButton is only showing this)
+• VA Radiology Reports
+o Source: VA (BlueButton is only showing this)
+• VA Electrocardiogram (EKG) History
+o Source: VA (BlueButton is only showing this)
+
+- Vitals + Readings (add/edit/delete)
+      - Blood sugar
+      - Cholesterol (Lipids profile)
+      - International normalized ratio
 
 **Data fields to include:**
 
