@@ -46,11 +46,6 @@ Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
 1. **Media library** (videos, images, PDFs)
 
-Products in the queue
-1. **Cemetery**
-1. **Regional Office**
-
-
 ## A guide to CMS Documentation 
 
 Documentation about the CMS lives in various places
