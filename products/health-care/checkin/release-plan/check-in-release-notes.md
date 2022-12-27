@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 12/23/2022
+- Updated Pre-Check-in reference to "VA account" to say "VA.gov profile" instead
+    - [Ticket 50875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50875)
+
 ### 12/19/2022
 - Updated the error message a Veteran receives when attempting to use Pre-Check-in on the day of their appointment to check-in after the check-window; message now says "We're sorry. Pre-check-in is no longer available for your appointment time. Ask a staff member for help to check -in.
     - [Ticket 50083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50083)
