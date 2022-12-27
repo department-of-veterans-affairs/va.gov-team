@@ -14,6 +14,16 @@ Members of the health care team may use VA Notes to record your health condition
 
 There are also clinican notes, which includes progress note, procedure note, and encounter note. Things like Admission and discharge summary are also notes from doctors. We need to define what should go in to notes and what to label this domain. 
 
+What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)
+After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
+- A list of medical problems or symptoms 
+- What you told your provider, also called the "history"
+- Vital signs and physical observations or measurements, such as blood pressure, weight, or heart and lung exams
+- Test results such as blood or urine tests, or X-ray reports
+- Your provider's views of your health problems, called "Assessment" or "Impression" 
+- The recommended treatment plan, called "Plan"
+- Suggested follow up needed, such as tests or referrals to a specialist
+
 ## Relevant links
 
 [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
@@ -43,16 +53,16 @@ There are also clinican notes, which includes progress note, procedure note, and
 
 ## Use Cases
 
-Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. What notes are important and useful for patients to access, and what are not?  
+Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from after visit summary? 
 
-- Procedure note: to read about what happened with the procedure and if anything needs to follow up 
-- Progress note: to read about your health journey and see what's changed. 
-- Outpatient encounter notes
-- Consult notes 
-- History & physical notes
-- Discharge summary notes
-- Surgical procedure notes
-- Clinical procedure notes
+- Procedure note (VA Note in BB): to read about what happened with the procedure and if anything needs to follow up 
+- Progress note (VA Note in BB): to read about your health journey and see what's changed. 
+- Outpatient encounter notes (VA Health Summary)
+- Consult notes (VA Health Summary)
+- History & physical notes (VA Health Summary)
+- Discharge summary notes (VA Health Summary)
+- Surgical procedure notes (VA Health Summary)
+- Clinical procedure notes (VA Health Summary)
 
 Note what's in BB and what's in Health Summary
 
@@ -70,7 +80,7 @@ What do people want to use their notes for:
 
 ### When to show Notes section
 
-<img width="1018" alt="Screenshot 2022-12-21 at 11 39 45 AM" src="https://user-images.githubusercontent.com/65574620/208989547-b6767929-9706-402b-a243-18db0d5663e6.png">
+<img width="1218" alt="Screenshot 2022-12-27 at 1 22 23 PM" src="https://user-images.githubusercontent.com/65574620/209723625-906b9f26-1a71-472a-81e1-947e822e6fef.png">
 
 **Where do Notes fit within IA?**
 
@@ -95,10 +105,9 @@ What are important to show:
 **View vs. share vs. download vs. print considerations:**
 
 - View: How much notes is it helpful for users to view without overwhelming them on the screen? 
-- Share: Do users share all notes or individual note? Who do they share it with? 
-  important* write more
+- Share: Do users share all notes or individual note? Who do they share it with? How do they share it currently, through secure messaging? What's the ideal way of sharing notes? 
 - Download: Currently users need to download and open the report in PDF in order to view notes. Question is that if there is a need to download. 
-- Print: 
+- Print: What is print feature like? Is it simply a print button to print the whole list of notes? How would users print individual notes? 
 
 
 ### Accessibility considerations:
@@ -115,22 +124,24 @@ _Accessibility considerations specific to Notes:_
 ## Questions to answer
 
 **UX:** 
-
 - How do we group notes? 
 - What to call notes?
 - What information do they want most readily available about notes? 
 - Are we redesign PDFs or do we want to display notes on the screen? 
 - What notes do users find the most useful? Analytics? check VA Progress notes requested, what is progress notes? 
 - Do users have different purposes for view/share/download/print? 
+- Talk to whoever works on after visit summary, and see how different it notes from after visit summary
 
 
-**Business/ Engineering:** 
-- What are the different types of notes and what are they used for? 
-- Are there any notes for clinians that patients don't have access to? 
+**Engineering:** 
 - Can we take notes out of PDF format and display content on the screen? 
 
+**SMEs:** 
+- What are the different types of notes and what are they used for? 
+- Are there any notes for clinians that patients don't have access to? 
+
 **Who do we need to get feedback from?**
- 
+Ask Lauren A., Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, and Patty who we need to reach out to regarding notes.
 
 
 ## Lessons learned
