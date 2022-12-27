@@ -8,19 +8,18 @@
 
 ## Steps
 
-1. **Add the UX writing label as early as possible in planning**
-- Team members add the dark red colored UX writing label to GitHub issues as a part of any of the following:
+1. **Contact the Sitewide CMS team via slack as early as possible in the development process**
+- Examples of development that may need UX writing assistance:
   - A spike or planned design work
   - New features or new functionality 
   - Existing functionality + planned design work 
-- UX writing lead is responsible for proactively adding labels in grooming and planning sessions
 
 2. **Break out the work**
 - Label epics and stories in a way that helps plan and track the work:
   - Add an associated [UX writing task issue](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/.github/ISSUE_TEMPLATE/cms-ux-writing.md) 
 
 3. **Get clear on the context**
-- A UX writer and others will start collaborating by getting clear on the following:
+- A UX team member and others will start collaborating by getting clear on the following:
   - When/where users will see the changes
   - What users might need to know about the new functionality
   - Does the change need a product release note?
