@@ -12,8 +12,9 @@ Last uploaded: November 29, 20222
 ## Pre-Check-In
 
 
-Last uploaded: November 29, 2022
+Last uploaded: December 27, 2022
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/10116276/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/10309680/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/10116278/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/10309669/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
+
