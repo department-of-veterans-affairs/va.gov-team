@@ -27,21 +27,17 @@ ________________________________________________________________________________
     - Update Design Artifacts for Release - Travel pay (#47488)
 - Tech Debt
     - End of Interactions (#49521)
-    - Change VA sign in content in pre check in (#50876)
 
 #### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - Production Support
     - perform prod support
     - Automate the day-end summaries
     - Review recent past incidents to find gaps in alerting
-
 - [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Implement new design/build header and footer (#49890)
-
+    - Start to implement new design/build header and footer (#49890)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Implement the new details feature (#45319- asynch discuss how to break this down after wireframe review)
     - Unified check-in experience (#50683)
-
 - CIE Tech Debt & Bugs    
     - Refactor and reduce HOC useage (#49081)
     - Spike- Visual Regression
