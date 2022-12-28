@@ -3,15 +3,12 @@
 Last updated: December 20, 2022
 
 ## Purpose
-
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
 
 ## Description of domain
-
 Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports, and self-reported test results, such as blood sugar. 
 
 ## Relevant links
-
 [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
 
 ## Use cases and user flows
@@ -27,60 +24,59 @@ Labs and Tests represent health information that may be categorized as lab work 
 ## Labs and Tests categories and data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-### Labs and Tests categories
+### Labs and Tests categories | data sources
+- VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
+- VA Pathology Reports | Includes Surgical Pathology, Cytology, Electron Microscopy | Data source: Blue Button 
+- VA Radiology Reports | Blue Button
+- VA Electrocardiogram History | Blue Button
+
+
+
+
+VA Laboratory Results: Chemistry/Hematology/Microbiology
+VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscop
+
+### Result Types and Corresponding Fields:
 - VA Chemistry/Hematology
-- VA Labaratory Results
+  - Date/Time collected
+  - Specimen
+  - Location
+
+- VA Laboratory Results
+    - LabTest
+    - LabType
+    - Specimen
+    - Date/TimeCollected
+    - OrderingProvider
+    - OrderingLocation
+    - CollectedLocation
+    // Below fields may be repeated depending on the various values the test measures
+    - TestName (examples: 
+    - Result
+    - Units
+    - Status
+    - PerformingLocation
+    - Interpretation
+    - Comments
+    - PerformingLocationName/Address
+
 - VA Pathology Reports
-- VA Radiology Reports
-- VA Electrocardiogram History
-- Vitals + Readings (add/edit/delete)
-      - Blood sugar
-      - Cholesterol (Lipids profile)
-      - International normalized ratio
 
-**Data field title:**
-  - VA Chemistry/Hematology
-          - Date/Time collected
-          - Specimen
-          - Location
 
-VA Laboratory Results
-o LabTest:
-o LabType:
-o Specimen:
-o Date/TimeCollected:
-o OrderingProvider:
-o OrderingLocation:
-o CollectedLocation:
-o TestName:
-o Result:
-o Units:
-o Status:
-o PerformingLocation:
-o Interpretation:
-o Comments:
-o PerformingLocationName/Address:
-• VA Pathology Reports
-o Source: VA (BlueButton is only showing this)
-• VA Radiology Reports
-o Source: VA (BlueButton is only showing this)
-• VA Electrocardiogram (EKG) History
-o Source: VA (BlueButton is only showing this)
+- VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.
+    - 
 
-- Vitals + Readings (add/edit/delete)
-      - Blood sugar
-      - Cholesterol (Lipids profile)
-      - International normalized ratio
+-  VA Electrocardiogram (EKG) History - Note these are no longer updated, but historic records are available.
+    - Procedure/Test Name
+    - Date/Time Exam Performed
+    - Ordering Location
 
-**Data fields to include:**
 
 
 ## Use Cases
 
 
 **Common Use Cases**
-
-
 
 
 **Edge Cases**
@@ -90,10 +86,10 @@ o Source: VA (BlueButton is only showing this)
 ## UX considerations
 
 ### When to show Labs/ Tests section
-
+Labs and tests should be visible to any user who has logged in and has VA health records.
 
 **Where do Labs/ Tests fit within IA?**
-
+TBD
 
 
 ### How to show Labs/ Tests section
