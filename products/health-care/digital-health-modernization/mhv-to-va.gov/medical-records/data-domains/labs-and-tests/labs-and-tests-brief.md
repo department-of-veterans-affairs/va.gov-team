@@ -27,7 +27,6 @@ Labs and Tests represent health information that may be categorized as lab work 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 
-
 ### Labs and Tests categories | data sources
 - VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
 - VA Pathology Reports | Includes Surgical Pathology, Cytology, Electron Microscopy | Data source: Blue Button 
@@ -112,6 +111,7 @@ _Accessibility considerations specific to Labs/ Tests:_
 - Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 - A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
 - Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images.
+- Q: What is the expected timing for adding in self-entered test data?  
 
 **Business/ Engineering:** 
 - Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
