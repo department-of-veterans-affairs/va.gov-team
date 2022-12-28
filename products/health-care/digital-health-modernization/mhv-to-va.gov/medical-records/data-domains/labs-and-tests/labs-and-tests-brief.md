@@ -22,7 +22,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
 ## Labs and Tests categories and data fields
-- [Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF)
+- [Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF).
 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
@@ -57,12 +57,13 @@ VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscop
     // Below fields may be repeated depending on the various values the test measures
     - TestName (examples: 
     - Result
+    - Flag
     - Units
     - Status
     - PerformingLocation
     - Interpretation
     - Comments
-    - PerformingLocationName/Address
+    - PerformingLocationName/Address - there could be multiple performing locations for one panel.
 
 - VA Pathology Reports
 
