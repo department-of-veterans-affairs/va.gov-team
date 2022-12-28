@@ -124,7 +124,7 @@ _Accessibility considerations specific to Notes:_
 
 Cards that related to clinical notes included: Encounter notes, Admission summary, After visit summary, Discharge summary, Pre-visit summary, Treatment plan, and Progress notes. Below is a screenshot of how participants grouped these cards in relation to the [anchors described in the Generative Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md).
 
-<img width="711" alt="image" src="https://user-images.githubusercontent.com/100814257/209850375-598dfd82-c9ee-4970-98f5-23ac3a9e2ba1.png">
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/100814257/209850951-0892af7c-0a7d-423d-a9cb-17ec7428e927.png">
 
 
 **Participants had a range of interpretations for what might be included in different types of notes.**
