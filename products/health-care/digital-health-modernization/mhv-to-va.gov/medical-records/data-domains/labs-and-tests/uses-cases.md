@@ -5,10 +5,10 @@ For all of these use cases, the user must have an MHV account and be logged in, 
 
 ## Common use cases
 ### User is not logged in
-
+- User will need to log in with one of the accepted methods.  Once logged in, they can select the naviation option for labs and tests, and will be presented with a landing page.
 
 ### User is logged in
-
+- When a a user is logged in and selects the naviation option for labs and tests, they will be presented with a landing page.
 
 ### User needs their health history to apply for disability benefits
 
