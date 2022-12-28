@@ -78,7 +78,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 ## <a name="notes">Additional Notes/Recommendations</notes>
 ### Required:
 * Confirm H1s for each view with Sitewide Content.
-* The core URLs are provided in this doc. Engineers will determine final URLs with parameters and will notify Sitewide IA of those parameters.
+* The core URLs are provided in this doc. Engineers will determine URLs of sub-pages - sub-directories or parameters.  Please let Sitewide IA know the URLs of additional pages. 
 * Have accessibility review next design iteration and coded prototype before moving to staging.
 ### Recommended:
 * Test landing page on messages home to determine usefulness of content.
