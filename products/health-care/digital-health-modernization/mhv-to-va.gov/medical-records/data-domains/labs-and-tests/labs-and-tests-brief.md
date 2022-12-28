@@ -1,6 +1,6 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: December 20, 2022
+Last updated: December 28, 2022
 
 ## Purpose
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
@@ -22,7 +22,11 @@ Labs and Tests represent health information that may be categorized as lab work 
 [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
 ## Labs and Tests categories and data fields
+- [Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF)
+
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
+
+
 
 ### Labs and Tests categories | data sources
 - VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
@@ -63,7 +67,7 @@ VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscop
 - VA Pathology Reports
 
 
-- VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.
+- VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
     - 
 
 -  VA Electrocardiogram (EKG) History - Note these are no longer updated, but historic records are available.
