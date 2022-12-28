@@ -28,14 +28,10 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 
 ### Labs and Tests categories | data sources
-- VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
-- VA Pathology Reports | Includes Surgical Pathology, Cytology, Electron Microscopy | Data source: Blue Button 
-- VA Radiology Reports | Blue Button
-- VA Electrocardiogram History | Blue Button
-
-
-VA Laboratory Results: Chemistry/Hematology/Microbiology
-VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscope
+#### VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
+#### VA Pathology Reports | Includes Surgical Pathology, Cytology, Electron Microscopy | Data source: Blue Button 
+#### VA Radiology Reports | Blue Button
+### VA Electrocardiogram History | Blue Button
 
 ### Result Types and Corresponding Fields:
 - VA Chemistry/Hematology
@@ -50,8 +46,7 @@ VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscope
     - Date/TimeCollected
     - OrderingProvider
     - OrderingLocation
-    - CollectedLocation
-    // Below fields may be repeated depending on the various values the test measures
+    - CollectedLocation  **Below fields may be repeated depending on the various values the test measures**
     - TestName (examples: 
     - Result
     - Flag
