@@ -16,7 +16,7 @@
 ## Who we are
 
 ### Implementation team
-December 2022 - 2023
+December 2022 - Present
 
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
