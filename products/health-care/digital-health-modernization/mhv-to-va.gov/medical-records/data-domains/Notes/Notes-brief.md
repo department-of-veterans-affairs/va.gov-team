@@ -1,6 +1,6 @@
 # Notes: Data fields and UX considerations
 
-Last updated: December 14, 2022
+Last updated: December 28, 2022
 
 ## Purpose
 
