@@ -198,6 +198,10 @@ Q: What is the expected timing for adding in self-entered test data?
 **Who do we need to get feedback from?**
  - Business - Patty Henry
  - Technical - TBD
+ - Main POCs: Michael Icardi (Pathologist) & Thomas Haugen (Chief, Pathology & Laboratory Medicine)
+ - POC for How Labs Display in the Portal: Leanne Walls & Theresa (Terry) Webber
+ - “Lab Enforcer” Group audits VA facilities including MHV. We don’t have a POC name, but will need to make sure that anything dealing with labs goes through this group
+ - VHA Pathology and Lab Office regarding the display of any lab or pathology test data or wording and VA policies, Lab accreditation requirements. MHV POCs: We worked with a team put together by Lahl, Dennis dennis.lahl@va.gov; Vantu, Quynh Quynh.Vantu@va.gov and the Director, Wang-rodriguez, Jessica Jessica.Wang-Rodriguez@va.gov
 
 
 ## Lessons learned
