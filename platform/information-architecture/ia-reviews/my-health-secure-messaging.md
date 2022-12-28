@@ -9,92 +9,71 @@
 
 **Feedback created:** 12/15/2022
 
-**Last update:** 12/19/2022
+**Last update:** 
+- 12/19/2022 - Joni completed documentation
+- 12/28/2022 - Mikki - added link to phased roll-out Mural, updated image of visual site map to represent full launch IA, simplified URL/breadcrumb info, other minor copy updates
 
 **On this page:**
 - [User/Page Flows](#flows)
 - [IA Structure, URLS and Breadcrumbs](#map)
 - [Changes to core navigation](#nav)
 - [Redirects](#redirects)
-- [Search Best Bets](#search)
 - [Meeting Notes](#notes)
 
 ## <a name="flows">User/Page flows</a>
-For phase 0, people will enter the tool via email invite only. There will be no entry points within VA.gov.
 
-The secure messaging tool will live within the My Health portal when My Health launches. In the meantime, secure messaging will be a standalone.
+- For phase 0, people will enter the tool via email invite only. There will be no entry points within VA.gov. Additional entry points will be added as the new tool is opened up to more visitors.  
+- The secure messaging tool will live within the My Health patient portal when it launches. In the meantime, secure messaging will be a standalone tool on VA.gov.
+- The phased launch and entry point requirements are documented in the [Phased roll-out - UX and flow impacts mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1667322271773/26b9a1c19e3d4f1dbcc1dba4e4218a56f0fbb75a)
+
 User flow provided by product team: https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/p/6FFCD430-73CB-4B8E-9853-A026EFCFA024/canvas
 
 ## <a name="map">IA structure, URLS and breadcrumbs</a>
 Page-level specifications, like page titles (H1), URL, and breadcrumb. 
 
-**Important:** Please confirm page names and H1s with Sitewide Content team. Please let Sitewide IA know when the URL parameters are determined by engineers. 
+**Site map when fully launched**
 
-Secure messages tool landing page:
-* **H1/Page title**: Messages (confirm this with Sitewide Content. Last string in URL and breadcrumb would match the actual name)
-* **URL structure**: https://www.va.gov/my-health/messages
-* **Breadcrumb**: None for phase 0.
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/716bcf0d-07db-4500-9f01-c97d24733742)
 
-**Note on breadcrumb:** This breadcrumb does not match the actual placement of this tool within the IA, instead it is intentionally utilizing a false hierarchy to ensure each segment provides a visitor with valid landing pages that match how they can access the tool in the initial phases.  This breadcrumb will need to be updated once the My health landing page is launched.
+<br>
+ 
+**Secure messages tool landing page:**
+- **H1**: TBD by Sitewide Content 
+- **URL**: https://www.va.gov/my-health/messages
+  - This is the canonical URL that will be used as the root for all consecutive pages within the messages tool. Additional sub-directories or parameters can be added to this as needed.  
+- **Breadcrumb**: VA.gov home > My health > Messages
+  - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-## Subsequent pages
-Subsequent pages/views within the messages tool will use this structure:
+**Folders/views of messages: Inbox, Drafts, Sent, Trash, custom folders**
+- **H1**: TBD by Sitewide Content 
+- **Breadcrumb**: VA.gov home > My health > Messages
+  - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-### Second-level pages within the messaging tool (Inbox, Drafts, Sent, Trash, My Folders, Message FAQ, and Compose.
+**Pages/sub-tasks: My folders, Compose, Message/conversation detail, Search results, Edit draft, Create folder**
+- **H1/page title:** TBD by Sitewide Content 
+- **Breadcrumb:** No breadcrumb, will include a "back" link to return to previous view
 
-* **H1/Page title**: Check with Sitewide Content
-* **URL structure**: https://www.va.gov/my-health/messages
-* **Breadcrumb**: There will be no breadcrumbs for phase 0. 
-
-### Third-level pages (detail views and results views)
-
-#### Conversation detail
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Search results
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Edit draft
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Compose new message
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Trash/archive conversation detail
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Individual custom folder
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
-
-#### Create custom folder
-* **H1/page title:** Check with Sitewide Content
-* **Breadcrumb:** Back link to return to previous view
 
 ## <a name="nav">Changes to core navigation (entry/exit points)</a>
-For this initial phase, there are no changes to the core navigation. More changes will be determined as secure messages becomes of the My Health portal in 2024.
 
-## Visual site map
- ![image](https://user-images.githubusercontent.com/34143147/207992999-1ce45be1-69e5-441d-b1e1-3d96f25a6034.png)
- <img width="468" alt="image" src="https://user-images.githubusercontent.com/34143147/207993014-766b089a-d49b-4348-bb96-ffce2336c82f.png">
- 
- ## <a name="links">Cross-linking</a>
- None at this time.
+**Phase 0**
+- There are no changes to the core navigation on VA.gov or MHV, all visitors will access the tool by direct link within an email only
+
+**Phase 1-5**
+- The entry point requirements will be defined as roll-out of this tool and the My health landing page progresses.
+
+
  
  ## <a name="redirects">Redirects</a>
- * The root URL for the messages tool (https://www.va.gov/my-health) will be temporarily redirected to https://www.va.gov/my-health/messages since the My Health portal won't exist yet.
  
- **Note:** When the My Health portal is ready, https://www.va.gov/my-health will point to it.
- Please submit a request for the redirect using the Redirect Request Issue Template at least 2 weeks in advance.
-For more information, see the Redirect Request Process.
+ * The root URL for the My health patient portal (https://www.va.gov/my-health) will need to be temporarily redirected to avoid 404 errors for anyone who attempts to hack the URL to that sub-directory.  
+ * This will likely be temporarily redirected back to the messages tool https://www.va.gov/my-health/messages/.
+ * This redirect will need to be reversed with the My health landing page is launched.
+ 
 
-## <a name="bets">Search best bets</a>
-* None
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+
+
 
 ## <a name="notes">Additional Notes/Recommendations</notes>
 ### Required:
