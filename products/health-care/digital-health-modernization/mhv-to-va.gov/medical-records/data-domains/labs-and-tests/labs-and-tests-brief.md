@@ -180,15 +180,15 @@ _Pathology results:_ Responses were not consistent. Amongst those asked (n=11), 
 ## Questions to answer
 
 **UX:** 
-- Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
+Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
 - A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
 
-- Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
+Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 - A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
 
-- Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
+Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
 
-- Q: What is the expected timing for adding in self-entered test data?  
+Q: What is the expected timing for adding in self-entered test data?  
 
 **Business/ Engineering:** 
 - Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
