@@ -26,3 +26,7 @@ vaos_Feb_1_sprint | 02/01/2023 | 02/28/2023 | #
 vaos_Feb_8_sprint | 02/08/2023 | 03/07/2023 | #
 vaos_Feb_15_sprint | 02/15/2023 | 03/14/2023 | #
 vaos_Feb_22_sprint | 02/22/2023 | 03/21/2023 | #
+
+## VAOS deployment details (vets-api)
+
+- The PR will be merged by 2 PM EST or the next business day by 2 PM EST 
