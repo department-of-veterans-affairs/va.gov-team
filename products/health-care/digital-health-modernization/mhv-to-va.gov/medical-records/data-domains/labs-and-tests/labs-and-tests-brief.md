@@ -27,11 +27,66 @@ Labs and Tests represent health information that may be categorized as lab work 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 
-### Labs and Tests categories | data sources
+### Labs and Tests 
 #### VA Labaratory Results | Includes Chemistry, Hematology, Microbiology | Data source: Blue Button Report source
-#### VA Pathology Reports | Includes Surgical Pathology, Cytology, Electron Microscopy | Data source: Blue Button 
-#### VA Radiology Reports | Blue Button
+##### Tests and Fields
+- Chemistry/Hematology
+  - Date/Time collected
+  - Specimen **Note - this can be a body structure or a sample
+  - Location
+  - LabTest **Example: Respiratory Pathogens Panel w SARS-CoV-2
+  - LabType **Example: Chemistry/Hematology
+  - Specimen **Example: Nasal mucus (substance)**
+  - Date/TimeCollected **Example: 03 Dec 2020 @ 1350**
+  - OrderingProvider **Example: SEGURA, JENNIFER**
+  - OrderingLocation. **Example: PORTLAND VA MEDICAL CENTER**
+  - CollectedLocation **Example (may be different from Ordering Location): PORTLAND VA MEDICAL CENTER**
+ **Note: Below fields through Performing Location may be repeated, depending on the various values the test measures**
+    - TestName **Example: MYCOPLASMA PNEUMONIAE, PCR**
+    - Result **Example: NOT DETECTED**
+    - Flag **Example: TBD; this is to be added**
+    - Units **Example mg/dL**
+    - Reference Range **Example: (1-240)**
+    - Status **Example: Final**
+    - Performing Location. **Example: PORTLAND VA MEDICAL CENTER 3710 SW US VETERANS HOSPTL RD , PORTLAND, OR 97239-2964**
+    - Interpretation  **Note these can be quite lengthyExample: DESIRABLE VALUE: <200 BORDERLINE VALUE: 201-239 ELEVATED VALUE: >240**
+    - Comments **Example: MHV transition to VDIF Hold Period Validation**
+    - PerformingLocationName/Address ** Note: There could be multiple performing locations for one panel.**
+
+- Microbiology
+  - Lab Test: 
+  - Lab Type
+  - Ordering Provider
+  - Site/Specimine
+  - Collection Sample
+  - Date/Time Collected
+  - Date/Time Completed
+  - Ordering Location
+  - Performing Location
+  - Collected Location
+  - Results **Note that this can be an entire report in and of itself.  See page 40 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)
+##### Data Source(s)
+- Blue Button
+##### Fields
+    
+#### VA Pathology Reports
+##### Examples
+- Surgical Pathology
+- Cytology
+- Electron Microscopy
+##### Data Source(s) 
+- Blue Button
+##### Fields
+#### VA Radiology Reports
+##### Examples
+##### Data Source(s)
+- Blue Button
+- VA Medical Images and Reports
+##### Fields
 ### VA Electrocardiogram History | Blue Button
+##### Examples
+##### Data Source(s)
+##### Fields
 
 ### Result Types and Corresponding Fields:
 - VA Chemistry/Hematology
