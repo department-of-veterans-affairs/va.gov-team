@@ -21,4 +21,4 @@ _What details are necessary to understand the work that this issue is tracking?_
 - [ ] _Epic assigned_
 - [ ] _Estimated (points assigned)_
 - [ ] _Sprint assigned (once planned)_
-- [ ] _Team member(s) assigned 
+- [ ] _Team member(s) assigned_ 
