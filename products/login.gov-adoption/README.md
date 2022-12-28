@@ -27,7 +27,7 @@ December 2022 - Present
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
-|Content Strategist|Carl Dickson|carl@themostudio.com|
+|Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Senior Interaction Designer|TBD|TBD|
 |Full Stack Developer|TBD|TBD|
