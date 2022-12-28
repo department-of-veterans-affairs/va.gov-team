@@ -1,4 +1,4 @@
-## VAOS deployment details 
+## VAOS deployment details (vets-website)
 
 The development team will do weekly deployment to production (turning on feature flag in production once a week):
 
@@ -20,9 +20,9 @@ The development team will do weekly deployment to production (turning on feature
 
 ### Feature Toggles for February 2023
 
-Feature Toggle| Release Date | Remove Toggle Date | GitHub Ticket 
+Feature Toggle| Release Date | Remove Toggle Date | GitHub Ticket to add 
 --- | --- | --- | ---
-vaos_Feb_1_sprint | 02/01/2023 | 02/28/2023 | #
+vaos_Feb_1_sprint | 02/01/2023 | 02/28/2023 | # 
 vaos_Feb_8_sprint | 02/08/2023 | 03/07/2023 | #
 vaos_Feb_15_sprint | 02/15/2023 | 03/14/2023 | #
 vaos_Feb_22_sprint | 02/22/2023 | 03/21/2023 | #
