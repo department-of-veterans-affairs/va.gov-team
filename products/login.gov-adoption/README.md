@@ -1,14 +1,19 @@
-# Login.gov Adoption at a glance 
+# Login.gov Adoption Team at a glance
 
 ## Where to find us 
 
 - GitHub Label: login.gov-adoption  
 - DSVA Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
 
-## General team overview
+## What we work on
 
-### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
-### [Product outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
+* [Products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
+
+## How we work
+
+* [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
+
+## Who we are
 
 ### Implementation team
 December 2022 - 2023
