@@ -153,6 +153,20 @@ _Accessibility considerations specific to Labs/ Tests:_
 
 ### Research that relates to Labs/ Tests
 
+**Findings from card sort**
+
+Cards included: 
+  - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
+  - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
+  - Vitals cards: Blood pressure, Height/weight, Vitals
+
+- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
+- Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
+- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time). 
+
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
+
+
 **Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
 
 It is possible that the technical language in the labs/ tests section may be confusing for some Veterans and Caregivers. For example: 
