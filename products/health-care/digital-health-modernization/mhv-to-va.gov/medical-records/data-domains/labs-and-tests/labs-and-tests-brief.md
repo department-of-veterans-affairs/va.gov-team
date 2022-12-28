@@ -45,6 +45,7 @@ Labs and Tests represent health information that may be categorized as lab work 
     - TestName **Example: MYCOPLASMA PNEUMONIAE, PCR**
     - Result **Example: NOT DETECTED**
     - Flag **Example: TBD; this is to be added**
+          - Example flags - high/low on different tests, specifically Chemistry/ Hematology tests (test panels/ blood work). No panels for Pathology, Microbiology, Radiology, so no flags. Flags represent a way of addressing accessibility issues - coloring or numbers are insufficient, ergo, flags. (Discussed 12/28/2022, input provided by Bobby Bailey.) 
     - Units **Example mg/dL**
     - Reference Range **Example: (1-240)**
     - Status **Example: Final**
@@ -147,10 +148,18 @@ TBD
 - Need to create Accessibility brief/ document -> link here
 
 _Accessibility considerations specific to Labs/ Tests:_
+- Need to add "Flags" to Chemistry/ Hematology section. See notes above. 
 
 
 ### Research that relates to Labs/ Tests
 
+**Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
+
+It is possible that the technical language in the labs/ tests section may be confusing for some Veterans and Caregivers. For example: 
+
+_Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/100814257/204381386-275ee103-5738-4bf7-bc74-175583fd03b8.png">
 
 
 ## Questions to answer
@@ -158,9 +167,12 @@ _Accessibility considerations specific to Labs/ Tests:_
 **UX:** 
 - Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
 - A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
+
 - Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 - A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
-- Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images.
+
+- Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
+
 - Q: What is the expected timing for adding in self-entered test data?  
 
 **Business/ Engineering:** 
