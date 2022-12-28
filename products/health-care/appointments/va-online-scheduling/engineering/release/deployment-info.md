@@ -30,3 +30,6 @@ vaos_Feb_22_sprint | 02/22/2023 | 03/21/2023 | # | #
 ## VAOS deployment details (vets-api)
 
 - The PR must be ready by 2 PM EST for a 3 PM EST deployment or the PR will be pushed out the next business day at 3 PM EST 
+
+## Reference 
+- [Platform Deployment Page](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/)
