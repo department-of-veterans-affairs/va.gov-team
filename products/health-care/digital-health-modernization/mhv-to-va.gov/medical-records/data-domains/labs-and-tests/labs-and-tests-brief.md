@@ -163,7 +163,7 @@ _Cards included:_
 _Findings:_
 - Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
 - Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
-- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time). 
+- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%). 
 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
 
