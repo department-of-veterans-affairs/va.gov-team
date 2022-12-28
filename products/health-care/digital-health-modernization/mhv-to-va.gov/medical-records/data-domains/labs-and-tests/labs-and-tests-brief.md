@@ -71,18 +71,6 @@ VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscop
     - Date/Time Exam Performed
     - Ordering Location
 
-
-
-## Use Cases
-
-
-**Common Use Cases**
-
-
-**Edge Cases**
-
-
-
 ## UX considerations
 
 ### When to show Labs/ Tests section
@@ -93,7 +81,7 @@ TBD
 
 
 ### How to show Labs/ Tests section
-- The landing page for Labs and Tests should list  
+- The landing page for Labs and Tests should list each category of test the user has available 
 
 
 **View vs. share vs. download considerations:**
@@ -116,9 +104,10 @@ _Accessibility considerations specific to Labs/ Tests:_
 ## Questions to answer
 
 **UX:** 
-- Do users expect to find blood sugar, cholesteral (lipid panel) and blood clotting times in their vitals or in their labs and tests?
+- Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
+  - After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
 - Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
-
+  - After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
 
 **Business/ Engineering:** 
 - Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
