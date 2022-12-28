@@ -114,6 +114,12 @@ Labs and Tests represent health information that may be categorized as lab work 
     - PerformingLocationName/Address - there could be multiple performing locations for one panel.
 
 - VA Pathology Reports
+  - Type of Report
+  - Specimen
+  - Date Obtained
+  - Performing Location
+  - Date Completed
+  - Name Report (example: Surgical Pathology Report).
 
 
 - VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
