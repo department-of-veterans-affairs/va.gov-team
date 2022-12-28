@@ -16,14 +16,14 @@ December 2022 - 2023
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
 |DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Program and Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
 |Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
-|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Content Strategist|Carl Dickson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
-|Senior Product Manager|Anthony Levin-Decanini|TBD|
 |Senior Interaction Designer|TBD|TBD|
 |Full Stack Developer|TBD|TBD|
 |Full Stack Developer|TBD|TBD|
