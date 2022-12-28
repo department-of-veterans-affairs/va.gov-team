@@ -35,10 +35,8 @@ Labs and Tests represent health information that may be categorized as lab work 
 - VA Electrocardiogram History | Blue Button
 
 
-
-
 VA Laboratory Results: Chemistry/Hematology/Microbiology
-VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscop
+VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscope
 
 ### Result Types and Corresponding Fields:
 - VA Chemistry/Hematology
@@ -109,10 +107,11 @@ _Accessibility considerations specific to Labs/ Tests:_
 ## Questions to answer
 
 **UX:** 
-- Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
-  - After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
-- Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
-  - After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
+- Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
+- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
+- Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
+- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
+- Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images.
 
 **Business/ Engineering:** 
 - Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
