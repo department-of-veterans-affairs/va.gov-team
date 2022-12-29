@@ -34,9 +34,8 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 ### Data Type: VA Labaratory Results
 #### Lab Type: Chemistry/Hematology
-##### Data Source
-- Blue Button Report data source
-##### Fields
+##### Data Source(s): Blue Button Report data source
+##### Fields:
   - Lab Test *Example: Respiratory Pathogens Panel w SARS-CoV-2*
   - Lab Type *Example: Chemistry/Hematology*
   - Specimen *Note - this may refer to a body structure (e.g., nasopharyngeal structure) or a substance (e.g., serum)*
@@ -57,18 +56,10 @@ Labs and Tests represent health information that may be categorized as lab work 
     - Comments *Example: MHV transition to VDIF Hold Period Validation*
     - Performing Location Name/Address ** Note: There could be multiple performing locations for one panel.**
 
-<hr>
 
-### Data Type: VA Pathology Reports
-#### Test Type: Surgical Pathology
-##### Data Source: Blue Button Report data source
-##### Fields
-
-#### Test Type
-Microbiology
-##### Data Source(s) 
-- Blue Button
-##### Fields
+#### Lab Type: Microbiology
+##### Data Source(s):  Blue Button
+##### Fields:
 - Lab Test *In examples I saw, this was not populated for Microbiology tests*
 - Lab Type *Example: Microbiology*
 - Ordering Provider *Example: STOLBURG, STEVEN*
@@ -81,11 +72,22 @@ Microbiology
 - Collected Location *Example: VA Roseburg Health Care System*  
 - Results **Note that this can be an entire report in and of itself.  See page 40 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)
 
-#### Test Type
-Cytology
-##### Data Source(s) 
-- Blue Button
-##### Fields
+<br>
+
+### Data Type: VA Pathology Reports: Surgical Pathology/Cytology/Electron Microscopy
+#### Lab Type: Surgical Pathology
+##### Data Source(s): Blue Button Report data source
+##### Fields: 
+- Type of Report *Example:Surgical Pathology *
+- Specimen *Example: NOSE*
+- Date Obtained *Example:12 Sep 2012  *
+- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
+- Date Completed *Example: 12 Sep 2012  *
+- Surgical Pathology Report *Example: See pages 86-88 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
+
+#### Lab Type: Cytology
+##### Data Source(s): Blue Button
+##### Fields:
 - Type of Report *Example:Cytology  *
 - Specimen *Example:BRONCHIAL W DESCRIPTION: The specimen consists of 17 ml sanguinous fluid. Two slides and one cell block are prepared.*
 - Date Obtained *Example:12 Sep 2012  *
@@ -93,30 +95,17 @@ Cytology
 - Date Completed *Example: 12 Sep 2012  *
 - Cytology Report *Examplesel: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
 
-#### Test Type
-Surgical Pathology
-##### Data Source(s) 
-- Blue Button
-##### Fields
-- Type of Report *Example:Surgical Pathology *
-- Specimen *Example: NOSE*
-- Date Obtained *Example:12 Sep 2012  *
-- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
-- Date Completed *Example: 12 Sep 2012  *
-- Surgical Pathology Report *Example: See pages 86-88 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
-##### Test Type
-Electron Microscopy
-###### Data Source(s) 
-- Blue Button
+
+##### Lab Type: Electron Microscopy
+###### Data Source(s): Blue Button
 ###### Fields
 -TBD
 
 <hr>
 
-#### Data Type: VA Radiology Reports (includes x-ray, MRI, mammogram, ultrasound
+#### Lab Type: VA Radiology Reports (includes x-ray, MRI, mammogram, ultrasound
 ##### Data Source(s)
 - Blue Button
-- VA Medical Images and Reports (for actual images)
 ##### Fields
 - Procedure/Test Name *Example: MRI BRAIN W/O CONTRAST*
 - Date/Time Exam Performed *Example: 21 Nov 2016 @ 0851*
@@ -127,6 +116,10 @@ Electron Microscopy
 - Clinical History *Example: *
 - Radiologist *Example: DUNCAN,TIMOTHY D*
 - Report *Examples: See page 95/96 and 97/98 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf) for short and long examples.*
+
+### Data Type: - VA Medical Images and Reports (for actual images) 
+*Note: images do not appear in Blue Button report, but can be requested for display if available**
+
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
 - Note: These are no longer being updated, but historical records are available
@@ -179,7 +172,7 @@ _Cards included:_
   - Vitals cards: Blood pressure, Height/weight, Vitals
 
 _Findings:_
-- Labs/ test category was the most common category made by participants for these cards, and roughly 52% of all cards were grouped in that category across the 13 participants
+- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
 - Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
 - Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%). 
 
