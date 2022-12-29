@@ -32,29 +32,29 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-### Data Type: VA Labaratory Results
+### Data Type: VA Laboratory Results
 #### Lab Type: Chemistry/Hematology
 ##### Data Source(s): Blue Button Report data source
 ##### Fields:
-  - Lab Test *Example: Respiratory Pathogens Panel w SARS-CoV-2*
-  - Lab Type *Example: Chemistry/Hematology*
-  - Specimen *Note - this may refer to a body structure (e.g., nasopharyngeal structure) or a substance (e.g., serum)*
-  - Date/Time Collected *Example: 03 Dec 2020 @ 1350*
-  - Ordering Provider *Example: SEGURA, JENNIFER*
-  - Ordering Location. **Example: PORTLAND VA MEDICAL CENTER**
-  - Collected Location **Example (may be different from Ordering Location): PORTLAND VA MEDICAL CENTER**
- **Note: Below fields through Performing Location may be repeated, depending on the various values the test measures**
-    - TestName **Example: MYCOPLASMA PNEUMONIAE, PCR**
-    - Result **Example: NOT DETECTED**
-    - Flag *Example: TBD; this is to be added*
-          - Example flags - high/low on different tests, specifically Chemistry/ Hematology tests (test panels/ blood work). No panels for Pathology, Microbiology, Radiology, so no flags. Flags represent a way of addressing accessibility issues - coloring or numbers are insufficient, ergo, flags. (Discussed 12/28/2022, input provided by Bobby Bailey.) 
-    - Units *Unit of measure used in test.  Example mg/dL*
-    - Reference Range *Example: (1-240)*
-    - Status *Example: Final*
-    - Performing Location. *Example: PORTLAND VA MEDICAL CENTER 3710 SW US VETERANS HOSPTL RD , PORTLAND, OR 97239-2964*
-    - Interpretation  *Note: these can be quite lengthy.  Typical example: DESIRABLE VALUE: <200 BORDERLINE VALUE: 201-239 ELEVATED VALUE: >240. Lengthy example: See page 19 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
-    - Comments *Example: MHV transition to VDIF Hold Period Validation*
-    - Performing Location Name/Address ** Note: There could be multiple performing locations for one panel.**
+- Lab Test *Example: Respiratory Pathogens Panel w SARS-CoV-2*
+- Lab Type *Example: Chemistry/Hematology*
+- Specimen *Note - this may refer to a body structure (e.g., nasopharyngeal structure) or a substance (e.g., serum)*
+- Date/Time Collected *Example: 03 Dec 2020 @ 1350*
+- Ordering Provider *Example: SEGURA, JENNIFER*
+- Ordering Location. *Example: PORTLAND VA MEDICAL CENTER*
+- Collected Location *Example (may be different from Ordering Location): PORTLAND VA MEDICAL CENTER* <br>
+**Note: Below fields through Performing Location may be repeated, depending on the various values the test measures** <br>
+- TestName *Example: MYCOPLASMA PNEUMONIAE, PCR*
+- Result *Example: NOT DETECTED*
+- Flag *Example: TBD; this is to be added*
+      - Example flags - high/low on different tests, specifically Chemistry/ Hematology tests (test panels/ blood work). No panels for Pathology, Microbiology, Radiology, so no flags. Flags represent a way of addressing accessibility issues - coloring or numbers are insufficient, ergo, flags. (Discussed 12/28/2022, input provided by Bobby Bailey.) 
+- Units *Unit of measure used in test.  Example mg/dL*
+- Reference Range *Example: (1-240)*
+- Status *Example: Final*
+- Performing Location. *Example: PORTLAND VA MEDICAL CENTER 3710 SW US VETERANS HOSPTL RD , PORTLAND, OR 97239-2964*
+- Interpretation  *Note: these can be quite lengthy.  Typical example: DESIRABLE VALUE: <200 BORDERLINE VALUE: 201-239 ELEVATED VALUE: >240. Lengthy example: See page 19 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
+- Comments *Example: MHV transition to VDIF Hold Period Validation*
+- Performing Location Name/Address ** Note: There could be multiple performing locations for one panel.**
 
 
 #### Lab Type: Microbiology
@@ -70,7 +70,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 - Ordering Location *Example: VA Roseburg Health Care System*  
 - Performing Location  *Example: VA Roseburg Health Care System*  
 - Collected Location *Example: VA Roseburg Health Care System*  
-- Results **Note that this can be an entire report in and of itself.  See page 40 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)
+- Results **Note that this field can be an entire report in and of itself. See page 40 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)**
 
 <br>
 
@@ -94,7 +94,6 @@ Labs and Tests represent health information that may be categorized as lab work 
 - Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207*
 - Date Completed *Example: 12 Sep 2012*
 - Cytology Report *Examplesel: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
-
 
 #### Lab Type: Electron Microscopy
 ##### Data Source(s): Blue Button
