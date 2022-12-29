@@ -123,16 +123,28 @@ _Accessibility considerations specific to Immunizations:_
 
 **UX:** 
 Q. Do users prefer immunizations or vaccinations? 
-   - A. Not sure, but there is preferred language by VA which what should be followed. 
+   - A. Not sure, but there is preferred language by VA which what should be followed. Language as follows: 
+
+Vaccine = actual shot/ product that you take to stimulate an immune response against a disease.
+
+Immunization is the process of becoming protected against a disease.
+
+Vaccination is the process of getting a vaccine to become protected against a disease.
+
+Use "vaccine" on modernized pages. 
+
+Slack conversation [found here](https://dsva.slack.com/archives/C03Q2UQL1AS/p1671656442359999).
+
     
-Q. What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
-    - A. Mobile did not answer most questions as they were more time constrained and trying to solve COVID immunization needs. TBD based on testing? 
+Q. What information do they want most readily accessible relating to their vaccines? (Has mobile answered any of those questions?)
+    - A. Mobile did not answer most questions as they were more time constrained and trying to solve COVID vaccination needs. TBD based on testing? 
     
-Q. Are there any opportunities to make pdfs more accessible? (Need to find new accessibility experts)
+Q. Are there any opportunities to make pdfs more accessible?
+    - A. Need to check with accessibility specialists. 
 
 **Business/ Engineering:** 
 Q. Are we able to change the name of any data fields to make them more intuitive? 
-    - A. Mobile pulled string of data - unable to customize. Might depend API, but possibly/probably no. 
+    - A. Mobile pulled string of data - unable to customize. Might depend on API, but possibly/probably no. 
 
 Q. Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
     - Lauren: PHR includes random logic in it for formatting pdfs. Don't want to touch it right now. 
@@ -144,8 +156,14 @@ Q. Do we need to design the pdf or are they automatically generated? What should
 
 **Who do we need to get feedback from?**
 
-Q. **Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
-    - A. Met w/ Mobile/Alex & Lauren in December; link in some notes. 
+_Mobile team:_ Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
+
+- Met w/ Mobile (Alex & Lauren) in December. 
+- Key takeaways: 
+    - Their primary focus was on showing you were vaccinated against COVID -> mostly interested in "View" functionality, not download, share, or print
+    - Recommended following up with Matt Hall, Miko, Ashley Matthews for more insights
+    - The information provided was what was produced by API. Some was structured but most was string and they were unable to add in any logic to make for better UX.  
+    - [Link to notes from meeting](https://docs.google.com/document/d/10C0NH72V6wigtXlmc2LSnJZfB6GbdtUFvQOf3LPsng0/edit?pli=1)
 
 
 ## Lessons learned
