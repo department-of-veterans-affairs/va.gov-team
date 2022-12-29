@@ -1,4 +1,4 @@
-# Research Plan for Health Apartment IA, November 2022
+# Research Plan for My health IA, January 2023
 
 ## Background
 
