@@ -27,4 +27,7 @@ This directory contains information specific to overall content and IA strategy,
 - [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/H2-tree-test.xlsx)
 - Results
 
-
+### IA testing focused on My health - January 2023
+- Research and recruiting plan
+- H2 tree and task list
+- Results
