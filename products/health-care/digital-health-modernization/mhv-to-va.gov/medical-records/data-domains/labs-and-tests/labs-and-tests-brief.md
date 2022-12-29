@@ -179,7 +179,7 @@ _Cards included:_
   - Vitals cards: Blood pressure, Height/weight, Vitals
 
 _Findings:_
-- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
+- Labs/ test category was the most common category made by participants for these cards, and roughly 52% of all cards were grouped in that category across the 13 participants
 - Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
 - Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%). 
 
