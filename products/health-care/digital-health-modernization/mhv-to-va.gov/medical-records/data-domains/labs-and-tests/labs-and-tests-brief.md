@@ -39,10 +39,10 @@ Labs and Tests represent health information that may be categorized as lab work 
   - Lab Test *Example: Respiratory Pathogens Panel w SARS-CoV-2*
   - Lab Type *Example: Chemistry/Hematology*
   - Specimen *Note - this may refer to a body structure (e.g., nasopharyngeal structure) or a substance (e.g., serum)*
-  - Date/TimeCollected *Example: 03 Dec 2020 @ 1350*
+  - Date/Time Collected *Example: 03 Dec 2020 @ 1350*
   - Ordering Provider *Example: SEGURA, JENNIFER*
   - Ordering Location. **Example: PORTLAND VA MEDICAL CENTER**
-  - Collecte Location **Example (may be different from Ordering Location): PORTLAND VA MEDICAL CENTER**
+  - Collected Location **Example (may be different from Ordering Location): PORTLAND VA MEDICAL CENTER**
  **Note: Below fields through Performing Location may be repeated, depending on the various values the test measures**
     - TestName **Example: MYCOPLASMA PNEUMONIAE, PCR**
     - Result **Example: NOT DETECTED**
