@@ -304,7 +304,7 @@ The prioritized tasks, linked to our testing objective, were carefully curated s
 - You want to know the name of the prescription that you stopped taking last summer for a skin condition.
 - You want to find the results of a recent MRI you had done.
 - You want to know what your blood pressure was the last time you had it taken by your primary care physician.
-- You want to know what your blood pressure was the last time you had it taken by your primary care physician.
+- You want to get a copy of your VA health records for your personal files.
 - You need to order new batteries for your hearing aid.
 - You recently lost your ID card for your Veteran health care and need to get a new one.
 
