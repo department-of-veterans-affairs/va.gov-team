@@ -27,7 +27,7 @@ In these tree tests, we will aim to:
 
 - Evaluate the findability of various information within the "My Health" structure
 - Evaluate if participants understand what to find under "Health history" vs "Medical records"
-- Gain insights on what information participants expect to find with an appointment vs with health history or medical records
+- Gain insights on what information participants expect to find with "Aappointments" vs "Health history" or "Medical records" sections
  
 
 ## Outcome
@@ -42,8 +42,8 @@ Can Veterans and their families/caregivers navigate the proposed information arc
 
 - Veterans will look for after visit summaries with the corresponding appointment
 - Veterans will know to look with "Health history" to find information on medical images and vitals
-- Veterans will look for historical prescription information under the "Prescriptions" section rather than in health history or medical records
-- Veterans will know what information is under health history versus medical records
+- Veterans will look for historical prescription information under the "Prescriptions" section rather than in "Health history" or "Medical records" sections
+- Veterans will know what information is under "Health history" versus "Medical records"
 - Veterans will be able to find general information about a Veteran's health care benefits under a "My health benefits"
 
  
