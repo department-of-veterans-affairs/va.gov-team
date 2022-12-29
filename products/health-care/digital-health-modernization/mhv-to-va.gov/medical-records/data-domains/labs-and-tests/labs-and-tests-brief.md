@@ -23,24 +23,22 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 
 ## Labs and Tests Data Hierarchy
-1. Data Type
-  1.1 - 1.n Test Type
-    1.1.1 - 1.1.n Fields
+1. Data Type<br>
+  1.1 - 1.n Lab Type<br>
+    1.1.1 - 1.1.n Lab Test
 
-## Data Types
+## Data Details
 - [Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF).
 
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-### Labs and Tests 
-#### Data Type: VA Labaratory Results
-##### Test Type
-- Chemistry/Hematology
-###### Data Source
+### Data Type: VA Labaratory Results
+#### Lab Type: Chemistry/Hematology
+##### Data Source
 - Blue Button Report data source
-###### Fields
-  - LabTest *Example: Respiratory Pathogens Panel w SARS-CoV-2*
-  - LabType *Example: Chemistry/Hematology*
+##### Fields
+  - Lab Test *Example: Respiratory Pathogens Panel w SARS-CoV-2*
+  - Lab Type *Example: Chemistry/Hematology*
   - Specimen *Note - this may refer to a body structure (e.g., nasopharyngeal structure) or a substance (e.g., serum)*
   - Date/TimeCollected *Example: 03 Dec 2020 @ 1350*
   - Ordering Provider *Example: SEGURA, JENNIFER*
@@ -57,20 +55,20 @@ Labs and Tests represent health information that may be categorized as lab work 
     - Performing Location. *Example: PORTLAND VA MEDICAL CENTER 3710 SW US VETERANS HOSPTL RD , PORTLAND, OR 97239-2964*
     - Interpretation  *Note: these can be quite lengthy.  Typical example: DESIRABLE VALUE: <200 BORDERLINE VALUE: 201-239 ELEVATED VALUE: >240. Lengthy example: See page 19 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
     - Comments *Example: MHV transition to VDIF Hold Period Validation*
-    - PerformingLocationName/Address ** Note: There could be multiple performing locations for one panel.**
+    - Performing Location Name/Address ** Note: There could be multiple performing locations for one panel.**
 
 <hr>
 
-#### Data Type: VA Pathology Reports
-##### Test Type: Surgical Pathology
-###### Data Source: Blue Button Report data source
-###### Fields
+### Data Type: VA Pathology Reports
+#### Test Type: Surgical Pathology
+##### Data Source: Blue Button Report data source
+##### Fields
 
-##### Test Type
+#### Test Type
 Microbiology
-###### Data Source(s) 
+##### Data Source(s) 
 - Blue Button
-###### Fields
+##### Fields
 - Lab Test *In examples I saw, this was not populated for Microbiology tests*
 - Lab Type *Example: Microbiology*
 - Ordering Provider *Example: STOLBURG, STEVEN*
@@ -83,27 +81,52 @@ Microbiology
 - Collected Location *Example: VA Roseburg Health Care System*  
 - Results **Note that this can be an entire report in and of itself.  See page 40 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)
 
-##### Test Type
+#### Test Type
 Cytology
-###### Data Source(s) 
+##### Data Source(s) 
 - Blue Button
-###### Fields
+##### Fields
+- Type of Report *Example:Cytology  *
+- Specimen *Example:BRONCHIAL W DESCRIPTION: The specimen consists of 17 ml sanguinous fluid. Two slides and one cell block are prepared.*
+- Date Obtained *Example:12 Sep 2012  *
+- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
+- Date Completed *Example: 12 Sep 2012  *
+- Cytology Report *Examplesel: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
 
-
+#### Test Type
+Surgical Pathology
+##### Data Source(s) 
+- Blue Button
+##### Fields
+- Type of Report *Example:Surgical Pathology *
+- Specimen *Example: NOSE*
+- Date Obtained *Example:12 Sep 2012  *
+- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
+- Date Completed *Example: 12 Sep 2012  *
+- Surgical Pathology Report *Example: See pages 86-88 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
 ##### Test Type
 Electron Microscopy
 ###### Data Source(s) 
 - Blue Button
 ###### Fields
+-TBD
 
 <hr>
 
-#### Data Type: VA Radiology Reports
-##### Examples
+#### Data Type: VA Radiology Reports (includes x-ray, MRI, mammogram, ultrasound
 ##### Data Source(s)
 - Blue Button
-- VA Medical Images and Reports
+- VA Medical Images and Reports (for actual images)
 ##### Fields
+- Procedure/Test Name *Example: MRI BRAIN W/O CONTRAST*
+- Date/Time Exam Performed *Example: 21 Nov 2016 @ 0851*
+- Ordering Location *Example: Portland OR VAMC*
+- Requesting Provider *Example: DOUGLAS,DAVID M*
+- Reason for Study *Example: *
+- Performing Location *Example: Portland OR VAMC PO BOX 1034, PORTLAND 97207*
+- Clinical History *Example: *
+- Radiologist *Example: DUNCAN,TIMOTHY D*
+- Report *Examples: See page 95/96 and 97/98 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf) for short and long examples.*
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
 - Note: These are no longer being updated, but historical records are available
