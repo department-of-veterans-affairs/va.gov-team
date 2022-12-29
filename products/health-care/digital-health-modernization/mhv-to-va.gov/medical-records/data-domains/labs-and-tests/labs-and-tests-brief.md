@@ -78,27 +78,27 @@ Labs and Tests represent health information that may be categorized as lab work 
 #### Lab Type: Surgical Pathology
 ##### Data Source(s): Blue Button Report data source
 ##### Fields: 
-- Type of Report *Example:Surgical Pathology *
+- Type of Report *Example:Surgical Pathology*
 - Specimen *Example: NOSE*
-- Date Obtained *Example:12 Sep 2012  *
+- Date Obtained *Example:12 Sep 2012*
 - Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
-- Date Completed *Example: 12 Sep 2012  *
-- Surgical Pathology Report *Example: See pages 86-88 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
+- Date Completed *Example: 12 Sep 2012*
+- Surgical Pathology Report *Example: See pages 86-88 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
 
 #### Lab Type: Cytology
 ##### Data Source(s): Blue Button
 ##### Fields:
-- Type of Report *Example:Cytology  *
+- Type of Report *Example:Cytology*
 - Specimen *Example:BRONCHIAL W DESCRIPTION: The specimen consists of 17 ml sanguinous fluid. Two slides and one cell block are prepared.*
-- Date Obtained *Example:12 Sep 2012  *
-- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207 *
-- Date Completed *Example: 12 Sep 2012  *
-- Cytology Report *Examplesel: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)  *
+- Date Obtained *Example:12 Sep 2012*
+- Performing Location *Example:Portland OR VAMC PO BOX 1034 PORTLAND 97207*
+- Date Completed *Example: 12 Sep 2012*
+- Cytology Report *Examplesel: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf)*
 
 
-##### Lab Type: Electron Microscopy
-###### Data Source(s): Blue Button
-###### Fields
+#### Lab Type: Electron Microscopy
+##### Data Source(s): Blue Button
+##### Fields
 -TBD
 
 <hr>
@@ -118,7 +118,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 - Report *Examples: See page 95/96 and 97/98 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf) for short and long examples.*
 
 ### Data Type: - VA Medical Images and Reports (for actual images) 
-*Note: images do not appear in Blue Button report, but can be requested for display if available**
+*Note: images do not appear in Blue Button report, but can be requested for display in the application if available. [Example screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-mri-image.pdf).*  
 
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
