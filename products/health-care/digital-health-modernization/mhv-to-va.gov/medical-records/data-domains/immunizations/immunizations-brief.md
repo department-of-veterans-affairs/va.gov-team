@@ -1,6 +1,6 @@
 # Immunization: Data fields and UX considerations
 
-Last updated: December 14, 2022
+Last updated: December 29, 2022
 
 ## Purpose
 
@@ -54,7 +54,7 @@ Additional features that people would like:
 
 **Edge Cases**
 
-Any edge cases for immunizations? 
+None identified to date.  
 
 ## UX considerations
 
@@ -91,9 +91,11 @@ Building out pdfs -> better to build as doing it?
     - Still goign to be using BB? Using functionality vs. branding? Domains in how pdf formatted - need to be redesigned. Not using BB branding/ playing down.  
     - Consideration is if someone wants to print off immunization-specific information/ other domain-specific information -> should probably enable
 
-### Accessibility considerations:
+If add download functionality (e.g., print button), requires engineering work to enable download functionaltiy that produces pdf. Print - getting similar result (print off, save if want - depending on browser) - does not require engineering lift. Probably one off engineering lift for every button. 
+- might have to add download button - unclear if people understand print = download if you want. 
+- Could explore this in testing - or might be dictated by business
 
-- Need to create Accessibility brief/ document -> link here
+### Accessibility considerations:
 
 _Accessibility considerations specific to Immunizations:_
 - None identified so far
@@ -118,13 +120,19 @@ _Accessibility considerations specific to Immunizations:_
 ## Questions to answer
 
 **UX:** 
-- Do users prefer immunizations or vaccinations? 
-- What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
-- Are there any opportunities to make pdfs more accessible? (Ask Tiffany - @jonathanjnelson, accessibility experts)
+Q. Do users prefer immunizations or vaccinations? 
+   - A. Not sure, but there is preferred language by VA which what should be followed. 
+    
+Q. What information do they want most readily accessible relating to their immunizations? (Has mobile answered any of those questions?)
+    - A. Mobile did not answer most questions as they were more time constrained and trying to solve COVID immunization needs. TBD based on testing? 
+    
+Q. Are there any opportunities to make pdfs more accessible? (Need to find new accessibility experts)
 
 **Business/ Engineering:** 
-- Are we able to change the name of any data fields to make them more intuitive? 
-- Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
+Q. Are we able to change the name of any data fields to make them more intuitive? 
+    - A. Mobile pulled string of data - unable to customize. Might depend API, but possibly/probably no. 
+
+Q. Do we need to design the pdf or are they automatically generated? What should we be concerned about re: pdfs? e.g., display certain things in pdfs vs. view online, because confidential (ask Carnetta, Bresha, Lauren - possibly during design review)
     - Lauren: PHR includes random logic in it for formatting pdfs. Don't want to touch it right now. 
     - Marci: Framework - if there's data, it gets put in. 
     - Lauren: There's an alternative - a plain text file for accessibility purposes. 1095-B -> major thing that kept from going out bc the pdf was not remotely accessible. Factor that in - if going to be blocker. 
@@ -133,7 +141,9 @@ _Accessibility considerations specific to Immunizations:_
     
 
 **Who do we need to get feedback from?**
-- **Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
+
+Q. **Mobile team:** Already done vaccines on mobile app; what lessons have they learned? How do our designs need to align with theirs? 
+    - A. Met w/ Mobile/Alex & Lauren in December; link in some notes. 
 
 
 ## Lessons learned
