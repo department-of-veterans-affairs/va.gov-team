@@ -252,7 +252,7 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |Low tolerance for cognitive overload                         |            |
        
 
-### Screener for Cohort 1-3
+### Screener 
 
 1. Have you used MyHealtheVet in the past 12 months to manage your health?
    - Yes, I have used MyHealtheVet in the past 12 months. (eligible for cohorts 1, 2, and 3)
