@@ -81,7 +81,7 @@ What do people want to use their notes for:
 
 ### When to show Notes section
 
-<img width="1218" alt="Screenshot 2022-12-27 at 1 22 23 PM" src="https://user-images.githubusercontent.com/65574620/209723625-906b9f26-1a71-472a-81e1-947e822e6fef.png">
+<img width="1590" alt="Screenshot 2022-12-29 at 10 43 26 PM" src="https://user-images.githubusercontent.com/65574620/210042256-a8b3ebb9-5c90-4b16-b3c1-d599821565e2.png">
 
 **Where do Notes fit within IA?**
 
