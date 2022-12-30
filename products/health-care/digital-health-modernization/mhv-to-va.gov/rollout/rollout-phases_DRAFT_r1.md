@@ -1,7 +1,9 @@
-# MHV to VA.gov Rollout Gates (draft)
+# MHV to VA.gov Rollout Gates (draft 2)
 Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will follow the same process defined below:
 
 ## To enter Phase 0:
+### Development
+###
 - Defect characterization is established
 - All critical and major defects addressed
 - Minor and cosmetic defects have been prioritized and added to backlog
