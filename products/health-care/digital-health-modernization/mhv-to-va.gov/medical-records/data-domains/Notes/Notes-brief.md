@@ -54,7 +54,7 @@ After an appointment or hospital stay, your provider and health care team write 
 
 ## Use Cases
 
-Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from after visit summary? 
+Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from [after visit summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)? 
 
 - Procedure note (VA Note in BB): to read about what happened with the procedure and if anything needs to follow up 
 - Progress note (VA Note in BB): to read about your health journey and see what's changed. 
