@@ -24,6 +24,7 @@ ________________________________________________________________________________
 - Travel Reimbursement
     - Wilkes-Barre Planning (#51110)
     - Update Design Artifacts for Release - Travel pay (#47488)
+    - [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314)
 - Tech Debt
     - End of Interactions (#49521)
 
