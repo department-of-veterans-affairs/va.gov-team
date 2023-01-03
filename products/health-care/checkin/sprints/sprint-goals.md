@@ -23,6 +23,8 @@ ________________________________________________________________________________
     - Implement metrics (#51109) (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
+    - [Start creating presentation for VA stakeholders](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178) (Ben)
+    - [Spike on VEText questions for Shane](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51180) (Kristen)
 - Travel Reimbursement
     - Wilkes-Barre Planning (#51110) (Ben)
     - Update Design Artifacts for Release - Travel pay (#47488) (Zach)
