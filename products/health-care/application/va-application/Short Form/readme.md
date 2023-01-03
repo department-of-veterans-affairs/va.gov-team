@@ -31,6 +31,15 @@ The introduction of the short form will remove questions that are not necessary 
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
+
+**Key Result 1:** Target 30% of total application submissions through Short Form flow
+
+| KPI / Metric | Post-launch October (phased launch) | Post-launch November | Post-launch December |
+| ------------ | ------------- | ------------------ | ------------------- |
+| Total applications submitted | 11,292 | 10,878 | 10,343 |
+| Short Form applications submitted | 961 | 3,421 | 3,114 |
+| Pct. Short Form Applications | 8.37% | 31.45% | 30.08% |
+
 **Key Result 1:** Increase number of application submissions
 *Using last 6 months (Jan-June 2022) to calculate Baselines*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
