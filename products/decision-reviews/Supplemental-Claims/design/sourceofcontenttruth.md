@@ -265,6 +265,9 @@ _Error_
 #### You'll need to select an issue
 You must select at least 1 issue before you can continue filling out your request.
 
+#### Sorry, we couldn’t find any eligible issues
+If you’d like to add an issue for review, please select “Add a new issue” to get started.
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
