@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: December 14, 2022
+**Last Updated: January 3, 2023**
 
 ### Communications
 
