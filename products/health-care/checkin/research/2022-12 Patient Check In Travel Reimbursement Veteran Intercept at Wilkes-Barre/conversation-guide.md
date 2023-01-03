@@ -83,7 +83,7 @@ Okay. You can get started by using the check in poster.
 
 *If they answered "Yes" to having the mobile app:* 
 
-- And, what would you think about checking in to your appointment on the mobile app? 
+- And, what would you think about checking in to your appointment on the mobile app versus how you checked in today? 
 
 ## Closing - Less than 1 minute 
 
