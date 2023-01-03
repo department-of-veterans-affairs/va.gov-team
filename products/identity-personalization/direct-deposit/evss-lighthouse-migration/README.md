@@ -1,11 +1,11 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: December 21, 2022**
+**Last Updated: January 3, 2023**
 
 ### Communications
 
 - **Github labels**: vsa-authenticated-exp; profile; direct-deposit
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#vfs-evss-service-migration](https://dsva.slack.com/channels/vfs-evss-service-migration)
 
 ### Roles  
   
