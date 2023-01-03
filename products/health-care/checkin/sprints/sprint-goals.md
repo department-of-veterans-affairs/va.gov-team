@@ -18,6 +18,8 @@ ________________________________________________________________________________
 #### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Figure out how to implement feedback from the collab cycle review
+         - [Design feedback around card component](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51409) (Zach) 
+         - [IA and design feedback around pagination](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51400) (Zach)
     - Implement metrics (#51109) (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
