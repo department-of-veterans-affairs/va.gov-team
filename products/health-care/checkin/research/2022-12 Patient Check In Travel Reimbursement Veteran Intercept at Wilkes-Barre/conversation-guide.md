@@ -81,7 +81,7 @@ Okay. You can get started by using the check in poster.
 
 - And, do you have the VA Health and Benefits Mobile app? 
 
-*If they answered "Yes" to having the mobile app: 
+*If they answered "Yes" to having the mobile app:* 
 
 - And, what would you think about checking in to your appointment on the mobile app? 
 
