@@ -103,6 +103,10 @@ Though we are focusing research on issues people have once they are signed in to
 - What are people's expectations for how they should be able to navigate to tasks when they are logged in if they can not rely on homepage or My VA links?
 - How similar should the navigation be from a logged out to logged in state? This isn't something we'd ask, but something we'd extrapolate from observations.
 
+### Reconciling various VA properties/pages
+
+- How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
+
 ------
 
 ### OCTO/Stakeholders
@@ -122,7 +126,6 @@ Though we are focusing research on issues people have once they are signed in to
 
 - What actually works better with eBenefits and MHV re: navigation?
 - What are the immediate plans for integrating the health apartment into the navigation? 
-- How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
 - Do people utilize the content hubs and resources & support when they are completing tasks? If so, how?
 - How will people navigate between My Health and other benefit tools?
 - How do we reconcile VA.gov and mobile app so they feel like a unified experience?
@@ -137,6 +140,12 @@ Though we are focusing research on issues people have once they are signed in to
 ### In scope
 
 ### Out of scope
+
+- Evaluating stakeholder requirements/opinions/expectations around navigation.
+- Evaluating technical constraints around updating navigation.
+- Testing UI mockups or prototypes of an ideal/potential logged-in state.
+- Evaluating specific questions around the health apartment.
+- Mocking up new navigation updates or patterns as part of our findings.
 
 ## Research activities
 
