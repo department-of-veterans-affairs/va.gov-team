@@ -75,7 +75,15 @@ Okay. You can get started by using the check in poster.
 - Overall, what’s most confusing or difficult about the mobile check in process?
 - And overall, what would you change or add, if anything, to make the mobile check in process easier?
 - Do you think you’d be more likely to complete mobile check in by responding to 1 or 2 text messages versus the steps that you completed today? 
-- And finally, what is your preferred communication method when communicating with the VA about your health care? E.g., phone, text, email or mail. 
+- And, what is your preferred communication method when communicating with the VA about your health care? E.g., phone, text, email or mail. 
+
+## Section 4: Mobile App
+
+- And, do you have the VA Health and Benefits Mobile app? 
+
+*If they answered "Yes" to having the mobile app: 
+
+- And, what would you think about checking in to your appointment on the mobile app? 
 
 ## Closing - Less than 1 minute 
 
