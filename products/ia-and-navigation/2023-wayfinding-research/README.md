@@ -1,4 +1,4 @@
-# Research outline: Identifying issues and challenges people have when they are signed in to VA.gov
+# Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
 **Last Updated: January 3, 2022**
 
@@ -47,13 +47,17 @@ We're aware of some high-level problems people broadly have completing tasks on 
 
 ### Research goals
 
+- Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
+- Understand what issues people have navigating to tools and tasks when they are logged in to VA.gov.
+- Understand what peoples' expectations are for navigating to tools and tasks when they are logged in to VA.gov.
+- Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
+- If applicable, extrapolate learnings to logged out flows as well instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
+
+### Process goals
+
 - Understand what research has already been done, and establish what we already know about wayfinding issues and challenges on VA.gov.
-- Understand what issues veterans and other users have navigating to tools and task in the current VA.gov landscape.
-- Understand stakeholder expectations around navigation and navigation updates.
 - Understand what work is happening re: IA and navigation on other teams, so that we don't do competing or conflicting work.
 - Work collaboratively across crews, so this work isn't silo'd.
-- Consider task flows through full logged out > logged in states instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
-- Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
 
 ### Experience goals
 
@@ -65,11 +69,9 @@ We want to create:
 
 ## Project risks & challenges
 
-### This work requires cross-crew collaboration and alignment
+### Insights may affect other teams, or VA.gov more broadly 
 
-Wayfinding research will likely need to involve many crews, including account experience (My VA & profile teams; Mikki), Sitewide (Unauth home page, benefit hubs, R&S, header), and Health (My health).
-
-Additionall, any future updates to navigation would require all crews to be onboard and to work together: 
+If our research suggests that more broad updates to the navigation need to happen, this obviously affects all crews. Everyone would need to be onboard and to work together to make and approve updates: 
 
 - Auth - My VA, profile, notifications, chatbot
 - Sitewide - Unauth home, benefit hubs, R&S, header
@@ -80,19 +82,13 @@ Additionall, any future updates to navigation would require all crews to be onbo
 
 ### People to work on this effort are limited
 
-When this work starts, Mikki will be the only personw who's full-time on this work, and she doesn't have a team. We need a team of folks to support this work, just like we do with any effort. This will require product, IA, design, research, and content all working together.
+When this work starts, Mikki will be the only person who's full-time on this work, and she doesn't have a team. We need a team of folks to support this work, just like we do with any effort. This will require product, IA, design, research, and content all working together.
 
 ### People still view IA/navigation as "unauth" and "auth"
 
-Though differences in logged out and logged in experiences are common across the web, our teams tend to treat these as totally separate experiences, making updates in silo'd ways that creates for a disjointed experience across VA.gov. We've become a team that is updating the site in a way that reflects how we're set up as a "business" and how we've defined our own products, not necessarily how users expect to holistically navigate. 
-
-### There's A LOT to think about when it comes to wayfinding
-
-VA.gov needs to cater to health care and benefits and multiple audiences. This site needs to do **a lot**. Scoping this work and breaking it down into manageable chunks may be challenging as a result.
+Though we are focusing research on issues people have once they are signed in to VA.gov, given that the navigation is almost entirely the same between unauth and auth states, we can not ignore the fact that these aren't entirely two separate and distinct experiences, as our team has historically treated them. We've become a team that is updating the site in a way that reflects how we're set up as a "business" and how we've defined our own products, not necessarily how users expect to holistically navigate. 
 
 ## Questions
-
-**Bold** = Samara's areas of interest for this research engagement.
 
 ### OCTO/Stakeholders
 
@@ -103,19 +99,18 @@ VA.gov needs to cater to health care and benefits and multiple audiences. This s
 
 ### Signing in to VA.gov
 
-- **Why do people sign in to VA.gov? When? What prompts them to? Where on the site?**
-- **Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?**
+- Why do people sign in to VA.gov? When? What prompts them to? Where on the site?**
+- Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
 
 ### Tasks & tools
 
-- **What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form; managing an individual's benefits)?**
-- **Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?**
+- What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form; managing an individual's benefits)?
+- Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
 - What tasks do people come to do? What do people do signed in vs. signed out?
 - What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
 - What role do notifications play in helping people navigate to tools and tasks? *This is likely out of scope for this effort, as we can likely answer this in onsite notifications research*.
-- **Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.** I think this could be a potentially useful area of focus, since a big question is whether we need a truly disctinct and separate logged-in portal/nav similiar to how most health or banking sites operate, or if we do not need differences in a logged out/logged in experience to be that stark.
-
-
+- Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.
+- 
 ### Reconciling various VA properties/pages
 
 - What actually works better with eBenefits and MHV re: navigation?
