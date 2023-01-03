@@ -120,8 +120,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
   
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|# of people with the bad address indicator|554,093 (as of 10/12/22)|448,551 (as of 11/23/22)
-|TBD|  
+|# of people with the bad address indicator|554,093 (as of 10/12/22)|448,551 (as of 11/23/22)|TBD|  
 
 </details>
 
