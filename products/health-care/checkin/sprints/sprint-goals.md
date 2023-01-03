@@ -24,7 +24,7 @@ ________________________________________________________________________________
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
 - Travel Reimbursement
-    - Wilkes-Barre Planning (#51110)
+    - Wilkes-Barre Planning (#51110) (Ben)
     - Update Design Artifacts for Release - Travel pay (#47488) (Zach)
     - [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314) (Kelly)
 - Tech Debt
