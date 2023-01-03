@@ -1,6 +1,6 @@
-# Research outline: Finding tools and tasks on VA.gov
+# Research outline: Identifying issues and challenges people have when they are signed in to VA.gov
 
-**Last Updated: December 22, 2022**
+**Last Updated: January 3, 2022**
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@
 
 ## Overview
 
-With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. Things are about to get extra complicated as the health apartment migrates into VA.gov. This research effort aims to understand the problems users' have with finding tasks and tools in VA.gov's current structure.
+We're aware of some high-level problems people broadly have completing tasks on VA.gov, eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates broader problems with the logged in experience -- are we effectively getting people into the logged in experience? What problems do people have when they log in? What are peoples expectations around how they navigate the logged in experience if links aren't on the homepage/My VA? This research effort aims to dive deeper into users' problems with and expectations around the logged in experience.
 
 ## Problems
 
@@ -41,6 +41,7 @@ With the addition of so many tools to VA.gov since the original redesign, we hav
 - Integrating MHV tools and experience are into VA.gov will result in an auth exp for health, but this does not consider applying for and managing other benefits.
 - We need to accommodate multiple audiences in this experience, including audiences that may be acting as a delegate to another account holder, families, caregivers, providers, school administrators, etc.
 - Web-based tools that allow visitors to complete tasks related to the benefits they have are organized by benefit, however some tools are applicable to multiple benefits or are not specific to any benefit.
+- People tend to rely heavily on the homepage top tasks or My VA links to navigate.
 
 ## Goals
 
