@@ -90,6 +90,21 @@ Though we are focusing research on issues people have once they are signed in to
 
 ## Questions
 
+### Signing in to VA.gov
+
+- Why do people sign in to VA.gov? When? What prompts them to? Where on the site?
+- Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
+
+### Tasks & tools
+
+- What tasks do people come to VA.gov to do? What tasks do they specifically intend to sign in to do?
+- What are the known problems for users around navigating to tasks and tools when they are logged in to VA.gov (eg. reliance on homepage or My VA quick links)? What's not working?
+- If people can not rely on quick links on the homepage or My VA to navigate, how do they get to tasks?
+- What are people's expectations for how they should be able to navigate to tasks when they are logged in if they can not rely on homepage or My VA links?
+- How similar should the navigation be from a logged out to logged in state? This isn't something we'd ask, but something we'd extrapolate from observations.
+
+------
+
 ### OCTO/Stakeholders
 
 - What work is happening across other teams that could effect the navigation (eg. notifications work, sitewide work, health apartment, etc)?
@@ -97,20 +112,12 @@ Though we are focusing research on issues people have once they are signed in to
 - What requirements do outside stakeholders put on VA.gov re: the navigation?
 - How will OFCIO work impact our work? How can we impact them?
 
-### Signing in to VA.gov
-
-- Why do people sign in to VA.gov? When? What prompts them to? Where on the site?**
-- Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
-
 ### Tasks & tools
 
 - What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form; managing an individual's benefits)?
 - Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
-- What tasks do people come to do? What do people do signed in vs. signed out?
-- What are the known problems for users around navigating to tasks and tools (eg. reliance on homepage quick links)? What's not working?
 - What role do notifications play in helping people navigate to tools and tasks? *This is likely out of scope for this effort, as we can likely answer this in onsite notifications research*.
-- Do people expect the navigation to be relatively similar from a logged out to logged in state? This isn't just about what would be easier on our existing site -- we already know the current nav buries tasks for signed in users -- but about what a preferred experience would be before and after authentication.
-- 
+ 
 ### Reconciling various VA properties/pages
 
 - What actually works better with eBenefits and MHV re: navigation?
