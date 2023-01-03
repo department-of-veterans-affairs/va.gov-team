@@ -18,15 +18,15 @@ ________________________________________________________________________________
 #### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Figure out how to implement feedback from the collab cycle review
-    - Implement metrics (#51109)
+    - Implement metrics (#51109) (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173)
+    - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
 - Travel Reimbursement
     - Wilkes-Barre Planning (#51110)
-    - Update Design Artifacts for Release - Travel pay (#47488)
+    - Update Design Artifacts for Release - Travel pay (#47488) (Zach)
     - [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314)
 - Tech Debt
-    - End of Interactions (#49521)
+    - End of Interactions (#49521) (Kelly)
 
 #### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
 - Production Support
