@@ -21,7 +21,6 @@ ________________________________________________________________________________
     - Implement metrics (#51109)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173)
-    - Incorporate feedback based on discussion (#51112)
 - [Travel Reimbursement] (https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40265#:~:text=gov%2Dteam%2340265-,Travel%20Reimbursement%20%2D%20MVP,-loripusey)
     - Wilkes-Barre Planning (#51110)
     - Update Design Artifacts for Release - Travel pay (#47488)
