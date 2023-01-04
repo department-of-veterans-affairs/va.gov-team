@@ -38,7 +38,7 @@
 
 ## Overview
 
-We're aware of some high-level problems people broadly have completing tasks on VA.gov, eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates broader problems with the logged in experience -- are we effectively getting people into the logged in experience? What problems do people have when they log in? What are peoples expectations around how they navigate the logged in experience if links aren't on the homepage/My VA? This research effort aims to dive deeper into users' problems with and expectations around the logged in experience.
+We're aware of some high-level problems people broadly have completing tasks on VA.gov, eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates broader problems with the logged in experience -- are we effectively getting people into the logged in experience? What problems do people have when they log in? What are peoples expectations around how they navigate the logged in experience if links aren't on the homepage/My VA? This research effort aims to dive deeper into users' problems with and expectations around navigating the logged in experience.
 
 ## Problems
 
@@ -122,6 +122,7 @@ Though we are focusing research on issues people have once they are signed in to
 
 ### In scope
 
+- Evaluating problems and expectations around navigation and IA in the logged in experience.
 - Conducting a research review to determine what existing problems and user expectations we already know of re: navigating VA.gov while logged in experience, and to determine what outstanding questions we still have.
 - Conducting an analytics review to help us understand how people move through the site while logged in.
 - Conducting a call center and Medallia data review to see what we can learn about problems people have finding tasks and tools.
@@ -134,6 +135,7 @@ Though we are focusing research on issues people have once they are signed in to
 - Testing UI mockups or prototypes of an ideal/potential logged-in state.
 - Evaluating specific questions around the health apartment.
 - Mocking up new navigation updates or patterns as part of our findings.
+- Capturing super specific problems with individual products (eg. login credentials, claim status tool, etc).
 
 ## Research artifcacts
 
