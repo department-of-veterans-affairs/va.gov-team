@@ -21,7 +21,7 @@ For the profile, the notification preferences section is currently our biggest f
 
 ### Improve IA and navigation for tasks and tools
 
-One of our most important efforts this year will be working with Mikki and teams across OCTO to find areas for improvement with regards to navigating to tools and tasks. Right now, important tasks and tools are buried within content, and we regularly see users struggle to find tasks that aren't directly linked from the homepage or My VA. We'll review previous research, determine a strategy for moving forward, and hopefully start making and measuring improvements before year's end.
+One of our most important efforts this year will be working with Mikki and teams across OCTO to find areas for improvement with regards to navigating to tools and tasks. Right now, important tasks and tools are buried within content, and we regularly see users struggle to find tasks that aren't directly linked from the homepage or My VA. To start, we'll conduct research around problems navigating the logged in experience, which will inform further work throughout the year.
 
 ### Support the health apartment migration
 
