@@ -38,7 +38,7 @@
 
 ## Overview
 
-We're aware of some high-level problems people broadly have completing tasks on VA.gov, eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates broader problems with the logged in experience -- are we effectively getting people into the logged in experience? What problems do people have when they log in? What are peoples expectations around how they navigate the logged in experience if links aren't on the homepage/My VA? This research effort aims to dive deeper into users' problems with and expectations around navigating the logged in experience.
+We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
 
 ## Problems
 
