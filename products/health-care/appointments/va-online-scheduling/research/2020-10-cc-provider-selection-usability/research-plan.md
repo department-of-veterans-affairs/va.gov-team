@@ -13,7 +13,7 @@
 	
 	Currently, veterans who want to use a specific provider have to first find them in the Facility Locator tool, copy the provider's contact information and paste it back into the scheduling tool.
 	
-	Additionally, the [Express Care research study of July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md) found that veterans struggled to find appointments in the current UI.
+	Additionally, the [Express Care research study of July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research/research-findings.md) found that veterans struggled to find appointments in the current UI.
 
 	The provider selection prototype is designed to support the following goals:
   	* Help veterans request community care appointments by letting them search for providers directly in VAOS.
@@ -113,11 +113,5 @@ Please list the people who will be serving in each role.
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
 ## Resources			
-- Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/conversation-guide-cc-discovery.md
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+- [Conversation guide](conversation-guide.md)
+- [Research plan](research-plan.md)

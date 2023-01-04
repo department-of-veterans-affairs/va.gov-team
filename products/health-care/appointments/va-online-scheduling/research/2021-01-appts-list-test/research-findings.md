@@ -4,7 +4,7 @@
 
 [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test)
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research2021-01-appts-list-test/research-plan.md)
+[Research plan](research-plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/conversation-guide.md)
 
@@ -219,7 +219,7 @@ The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip;
 
 ### Booking notes language wasn't clear
 
-We were surprised that few participants directly asked to see type of care in the context of their appointment. From [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments) we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear that it wasn't present because of the nature of the static prototype used in the study.
+We were surprised that few participants directly asked to see type of care in the context of their appointment. From [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-plan.md#participants-need-specific-information-to-identify-and-prepare-for-their-appointments) we believed this would be a pain point. Some participants noticed that “Primary care” was mentioned in the booking note, and commented that they were happy to see that information, not realizing that’s what they would have entered had it been their appointment. Our hypothesis is that they still found value in seeing type of care, and weren't clear that it wasn't present because of the nature of the static prototype used in the study.
 
 Along with the booking note, most Veterans showed some confusion when looking at the information they would have entered, such as time preferences on requests, or contact information.  
 

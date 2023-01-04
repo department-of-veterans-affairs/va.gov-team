@@ -79,7 +79,7 @@ Participants also reported frustration around slow or inconsistent communication
 *   Notifications that aren’t updated when the appointment has changed
 *   Lack of notification when an appointment was cancelled were a few examples mentioned
 
-As in the [July Express Care research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md), **some participants did not understand they were requesting an appointment** until close to the end of the prototype. When they did realize this, they were frustrated, indicating that they would prefer to schedule over the phone because it’s faster.
+As in the [July Express Care research](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research/research-findings.md), **some participants did not understand they were requesting an appointment** until close to the end of the prototype. When they did realize this, they were frustrated, indicating that they would prefer to schedule over the phone because it’s faster.
 
 #### Quotes
 

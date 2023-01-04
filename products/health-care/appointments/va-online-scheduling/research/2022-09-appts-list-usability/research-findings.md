@@ -68,13 +68,13 @@ Remote, over Zoom
 
 For moderated _desktop_ usability test
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
+- [Conversation guide](conversation-guide.md)
 - [Desktop prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
 
 For moderated _mobile_ usability test
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
-- [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
+- [Conversation guide](conversation-guide.md)
+- [Mobile prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
 
 # Hypotheses and Conclusions
@@ -228,7 +228,7 @@ We suggest adding a back link in place of the breadcrumb on the past and pending
 ### 1. The term pending was confusing for some participants.
 Some participants (4 of 10) were unable to locate “pending” appointments without intervention/assistance from the facilitator. After further explanation, they were all able to find the pending appointment, suggesting a discrepancy in naming. When asked how they interpreted the word “pending”, some (2 of 10) participants thought they were upcoming appointments, while one believed a pending appointment would mean an error in scheduling. 
 
-**Note**: In previous studies, the term “requests” caused confusion for participants. Bother “pending” and “request” are potentially problematic. [Link to github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion)
+**Note**: In previous studies, the term “requests” caused confusion for participants. Bother “pending” and “request” are potentially problematic. [Link to github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/research-findings.md#appointment-requests-continue-to-create-confusion)
 
 ### 2. Need a way to search or sort through past appointments. 
 participants were successful (9 of 10) in finding and clicking on the past appointments link. When asked to locate a specific appointment on the past appointments list, several participants wanted a way to filter or search through those appointments, by various data points. 
@@ -256,9 +256,9 @@ All requested demographics were met and no further testing will be needed for th
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-plan.md)
+[Research plan](research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
+[Conversation guide](conversation-guide.md)
 
 ## Tools used for Synthesis
 
@@ -273,8 +273,6 @@ All requested demographics were met and no further testing will be needed for th
 [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 

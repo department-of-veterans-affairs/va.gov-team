@@ -6,7 +6,7 @@ Background
 
 VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
 
-The VA Online Scheduling and MyHealtheVet teams worked together to identify gaps between scheduling features in the two products. They completed an analysis [to identify gaps](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&wdOrigin=OFFICECOM-WEB.MAIN.SEARCH&ct=1656340079030&action=default&mobileredirect=true) between the two products. Then, the VAOS team [tested a design concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md) that would meet the needs identified in the gap analysis.
+The VA Online Scheduling and MyHealtheVet teams worked together to identify gaps between scheduling features in the two products. They completed an analysis [to identify gaps](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&wdOrigin=OFFICECOM-WEB.MAIN.SEARCH&ct=1656340079030&action=default&mobileredirect=true) (VA Network) between the two products. Then, the VAOS team [tested a design concept](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md) that would meet the needs identified in the gap analysis.
 
 The VAOS team also wants to evaluate potential changes to the appointment details page content and navigation.
 
@@ -132,12 +132,12 @@ Remote, over Zoom.
 ### Research materials
 
 For moderated *desktop* usability test 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
+- [Conversation guide](conversation-guide.md)
 
 - [Desktop Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
 
 For moderated *tablet* usability test 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/Conversation-guide.md)
+- [Conversation guide](conversation-guide.md)
 
 - [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 

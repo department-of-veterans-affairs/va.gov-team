@@ -4,11 +4,11 @@ Research materials for the October/November study to learn about veteran prefere
 
 ## Project links
 
-* [Research plan](research-plan-cc-discovery.md)
+* [Research plan](research-plan.md)
 * [Prototype](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
-* [Conversation guide](conversation-guide-cc-discovery.md)
+* [Conversation guide](conversation-guide.md)
 * [Research Epic](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6236)
-* [Findings](findings.md)
+* [Findings](research-findings.md)
 
 ## Background
 
