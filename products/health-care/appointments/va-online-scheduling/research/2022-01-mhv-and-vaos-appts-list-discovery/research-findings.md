@@ -119,7 +119,7 @@ Participants indicated that these needs could also be met by providing "type of 
 
 When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This directs Veterans who can schedule at non-VAOS facilities to the appropriate scheduling portal.
 
-These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. The VAOS and Profile teams explored this issue in-depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
+These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. The VAOS and Profile teams explored this issue in-depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/research-findings.md#recommendations).department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/research-findings.md
 
 <kbd><img width="600" style="border:1px solid #ccc;" alt="A list of VA facilities with an option to schedule at each one" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png"></kbd>
 
@@ -155,9 +155,9 @@ Date and time was the first piece of information participants used to differenti
 > "Under the Medical Center Division, it does not tell me what clinic or what the appointment is about. Now I must find out because I do not know what appointment that clinic is for." - P10
 
 We saw similar findings in other studies: 
-* [2020 requests discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Requests%20discovery%20-%20report.md#appointment-list-and-details-pages-data)
+* [2021 requests discovery](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-11-request-clarification-research/research-findings.md#appointment-list-and-details-pages-data)
 * The Check-in Experience team's [MVP study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md#the-appointment-information-shown-was-sufficient-for-participants-to-understand-what-appointment-they-were-checking-in-for)
-* [2020 Community Care provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments)
+* [2020 Community Care provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#participants-need-specific-information-to-identify-and-prepare-for-their-appointments)
 
 ### Participants wanted to easily understand how and where they would attend their appointments
 
@@ -224,7 +224,7 @@ Additionally, this may have been due to an error in the concept. The upcoming ap
 
 > "I am not sure what pending could be unless it is an appointment you have tried to make, and you are waiting for the clerk to approve your appointment." - P10
 
-See also: findings from the [2021 appointments list research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion)
+See also: findings from the [2021 appointments list research](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/research-findings.md#appointment-requests-continue-to-create-confusion)
 
 # Additional Insights
 
@@ -367,8 +367,8 @@ Additionally, it may be helpful to use information from the appointment that the
 
 This research follows the gap analysis completed in collaboration with the MyHealtheVet team. These documents are available on the VA internal network:
 
-* [Gap analysis](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B6A5CFF66-F89C-4BC5-A39B-518FA6AD415C%7D&file=Appointments%20Features%20Description%20and%20Business%20Requirements.docx&action=default&mobileredirect=true)
-* [Recommendations](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&action=default&mobileredirect=true)
+* [Gap analysis](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B6A5CFF66-F89C-4BC5-A39B-518FA6AD415C%7D&file=Appointments%20Features%20Description%20and%20Business%20Requirements.docx&action=default&mobileredirect=true) (VA Network)
+* [Recommendations](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&action=default&mobileredirect=true) (VA Network)
 
 
 ## Who we talked to 
