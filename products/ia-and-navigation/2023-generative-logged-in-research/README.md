@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- [POCs](#pocs)
 - [Overview](#overview)
 - [Problems](#problems)
 - [Goals](#goals)
@@ -15,13 +14,11 @@
 
 ---
 
-### POCs
+### Roles & communications
 
 - **Slack channel**: [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia)
-
-#### Roles  
   
-Main team:  
+**Main team** 
   
 |Name|Role|Email|
 |----|----|-----|
@@ -29,7 +26,7 @@ Main team:
 |Chante Lantos-Swett|OCTO lead for account experience portfolio|chante.lantosswett@va.gov|
 |Samara Strauss |OCTO product lead for authenticated experiences|samara.strauss@va.gov|
 
-We'll also be consulting with the following people:
+**We'll also be consulting with the following people**
 
 |Name|Role|Email|
 |----|----|-----|
