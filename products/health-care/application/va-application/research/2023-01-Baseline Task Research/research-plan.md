@@ -292,14 +292,16 @@ We will be testing what is currently approved in the staging environment.
 
 
 ### Availability
-Team Availability | Time (ET)
-------------------|--------------
-TBD         | TBD
-TBD         | TBD
-TBD         | TBD
-
-
-
+| **Team Availability** | **Time (ET)** |
+| --------------------- | ------------- |
+| January 17, 2023      | 12pm - 8pm    |
+| January 18, 2023      | 1pm - 8pm     |
+| January 19, 2023      | 1pm - 8pm     |
+| January 20, 2023      | 12pm - 8pm    |
+| January 23, 2023      | 3pm - 8pm     |
+| January 24, 2023      | 12pm - 8pm    |
+| January 25, 2023      | 1pm - 8pm     |
+| January 26, 2023      | 1pm - 8pm     |
 
 
 	
