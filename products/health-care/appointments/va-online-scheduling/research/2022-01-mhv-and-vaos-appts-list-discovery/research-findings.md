@@ -8,19 +8,19 @@ Prepared by Peter Russo - peter.russo@adhocteam.us
 
 With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
-[Research Report slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf)
+[Research Report slide deck](Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf)
 
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#key-findings)
+[Key findings](#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#recommendations)
+[Recommendations](#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#who-we-talked-to)
+[Who we talked to](#who-we-talked-to)
 
 <br>
 
@@ -64,25 +64,25 @@ Aside from those points, participants were generally able to understand and use 
 
 **What will be confusing when transitioning from the MHV appointments list to VAOS?**
 
-1. [Participants were most confused that two different sites list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-were-most-confused-that-two-different-sites-list-their-appointments)
+1. [Participants were most confused that two different sites list their appointments](#participants-were-most-confused-that-two-different-sites-list-their-appointments)
 
-2. [Clinic names confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-names-confused-participants)
+2. [Clinic names confused participants](#clinic-names-confused-participants)
 
-3. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
+3. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](#some-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
 
 **What information do Veterans need in an appointments list to make it useful?**
 
-4. [Participants wanted to be able to easily differentiate appointments in VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos)
+4. [Participants wanted to be able to easily differentiate appointments in VAOS](#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos)
 
-5. [Participants wanted to easily understand how and where they would attend their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-easily-understand-how-and-where-they-would-attend-their-appointments)
+5. [Participants wanted to easily understand how and where they would attend their appointments](#participants-wanted-to-easily-understand-how-and-where-they-would-attend-their-appointments)
 
-6. [Participants wanted tools to help them contact their provider](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-tools-to-help-them-contact-their-provider)
+6. [Participants wanted tools to help them contact their provider](#participants-wanted-tools-to-help-them-contact-their-provider)
 
 **Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?**
 
-7. [Almost all participants responded positively to the proposed concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#almost-all-participants-responded-positively-to-the-proposed-concept)
+7. [Almost all participants responded positively to the proposed concept](#almost-all-participants-responded-positively-to-the-proposed-concept)
 
-8. [Some participants found the word "pending" confusing in the concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-found-the-word-pending-confusing-in-the-concept)
+8. [Some participants found the word "pending" confusing in the concept](#some-participants-found-the-word-pending-confusing-in-the-concept)
 
 # Details of Findings 
 
@@ -349,14 +349,14 @@ Additionally, it may be helpful to use information from the appointment that the
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/research-plan.md#research-questions)
+[Research plan](research-plan.md#research-questions)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
+[Conversation guide](conversation-guide.md)
 
 ## Tools used for Synthesis
 
 * [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1642806238395/f474bb89b28cb3b91472fa62130ee89e720e8cdd?sender=ub08ff1d80ee7bd38d6c02354) for initial capture
-* [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx) for final synthesis 
+* [Spreadsheet](Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx) for final synthesis 
 
 
 ## Pages and applications used
