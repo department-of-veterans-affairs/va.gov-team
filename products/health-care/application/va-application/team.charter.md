@@ -33,10 +33,10 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman
-- DEPO Engineering Lead: Stephen Barrs
+- DEPO Product Lead: Lauren Alexanderson
+- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
+- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
 - Team Product Manager: Heather Justice
-- Team Associate Product Manager: Mark Fallows
 - Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
@@ -53,15 +53,15 @@ Health Products
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 11am Eastern
-- 30 min
+- Every day @ 11:30am ET/8:30am PT
+- 15 min
 - 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Monday of every sprint week @ 3pm ET
+- Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
@@ -69,13 +69,13 @@ Outline work to be done this sprint in order to accomplish the team's goals
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 11:30ET
+- 1st Wednesday of every sprint @ 11:30 ET/8:30 PT
 - 30 min
 
-#### Grooming
+#### Refinement
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 10:00am
+- 2nd Wednesday of every sprint, 1pm ET/10am PT
 - 1 hour
 
 </p>
