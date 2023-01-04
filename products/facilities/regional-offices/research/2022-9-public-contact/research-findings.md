@@ -134,18 +134,19 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
 5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Office
+6. Public Contact staff provide a consistent set of services at multiple VBA facility types
 
 **Veteran experience**
 
-6. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
-7. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
-8. There is little standardization in how Public Contact Offices handle **appointments**
-9. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing 
+7. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
+8. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
+9. There is little standardization in how Public Contact Offices handle **appointments**
+10. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing 
 
 **Veteran preparation**
 
-10. Having a valid **photo ID and a DD-214** is helpful regardless of service
-11. Public Contact Offices often **stop taking clients** prior to the official closing time
+11. Having a valid **photo ID and a DD-214** is helpful regardless of service
+12. Public Contact Offices often **stop taking clients** prior to the official closing time
 
 - - -
 
@@ -228,6 +229,13 @@ This first group of findings relates to research questions 1 & 2:
 
 > They'll show up and tell the guards, "I have a 10 o'clock appointment." And they go, "No, that is virtual" - P10
 
+### 6 - Public Contact staff provide a consistent set of services at multiple VBA facility types
+
+- Point 1
+- point 2
+
+> Quote 1
+
 - - -
 
 ## Details of Findings - Veteran experience at facility
@@ -235,7 +243,7 @@ This second group of findings relates to research question 3:
 
 3. What is the typical Veteran experience when visiting these facilities?
 
-### 6 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
+### 7 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
 - Veterans expect Public Contact Offices to assist with every benefit service
 - VR&E staff are totally siloed from Public Contact staff
@@ -249,7 +257,7 @@ This second group of findings relates to research question 3:
 
 > The help desk for the website sends them to the Regional Office. We have no access or training to make any changes to allow them into the website. - P11
 
-### 7 - Veterans sometimes conflate the VBA with the VA, VSOs, and other agencies  
+### 8 - Veterans sometimes conflate the VBA with the VA, VSOs, and other agencies  
 
 - Veterans expect the three branches to be "one VA"
 - Veterans conflate VSOs and the VBA due to them both handling benefit claims
@@ -272,7 +280,7 @@ This second group of findings relates to research question 3:
 
 > Wanting to come over here to deal with their retired pay issues from the military. - P7
 
-### 8 - There is little standardization in how Public Contact Offices handle appointments
+### 9 - There is little standardization in how Public Contact Offices handle appointments
 
 - Appointment only = National Captial Region 
 - Certain days & hours for walk-in, otherwise appointment only = Anchorage
@@ -283,7 +291,7 @@ This second group of findings relates to research question 3:
 
 > 90% walk in and then about 10% appointments. - P12
 
-### 9 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
+### 10 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed higher wait times due to high demand and limited staff
@@ -304,7 +312,7 @@ This third group of findings relates to research question 4:
 
 4. What do Veterans need to know or do to be adequately prepared for a visit?
 
-### 10 - Having a valid photo ID and a DD-214 is helpful regardless of service
+### 11 - Having a valid photo ID and a DD-214 is helpful regardless of service
 
 - Civilian medical records can be helpful for supplemental claims
 - Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
@@ -313,7 +321,7 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 11 - Public Contact Offices often stop taking new clients prior to the official closing time
+### 12 - Public Contact Offices often stop taking new clients prior to the official closing time
 
 > I say 8:00 to 3:00, so people at least will get up here by 3:30, and we can serve them properly. - P8
 
@@ -323,13 +331,13 @@ This third group of findings relates to research question 4:
 
 ## Additional Insights
 
-**12 - eBenefits registration is a declining service**
+**13 - eBenefits registration is a declining service**
 
 > We do some of that. But I only have one person that can do it - P9
 
 > We used to, but it's slowly dying in our office - P12
 
-**13 - "Insurance claim help and financial counseling" is not a single service**
+**14 - "Insurance claim help and financial counseling" is not a single service**
 
 > We assist with the insurance claim... but not financial counseling - P3
 
@@ -337,19 +345,19 @@ This third group of findings relates to research question 4:
 
 > We refer them to the number for Philadelphia for the insurance Office - P12
 
-**14 - Parking can be a challenge for offices in dense urban locations**
+**15 - Parking can be a challenge for offices in dense urban locations**
 
 > It's very expensive to park. You gotta pay a minimum of twenty-eight dollars. - P5
  
 > Parking is expensive or hard to find or both. We have free parking, but it's a block away - P11
 
-**15 - Some Public Contact Offices are located in Federal buildings with security checkpoints**
+**16 - Some Public Contact Offices are located in Federal buildings with security checkpoints**
 
 > They go through security as soon as they come through the door. That's a little hiccup for most of them. - P11
 
 > Plus they have to go through security. So you know, if they show up at like 4:00, and then security, we're gone by the time they get here like at 4:15, 4:30. - P8
 
-**16 - Most services are consistently available during normal operating hours** 
+**17 - Most services are consistently available during normal operating hours** 
 
 - Occassionally certain staff members may be better equipped to perform certain services (MST interviews, homeless Veteran coordinator)
 - Guam has 2 hours every Monday morning where VBMS is down for maintenance
