@@ -26,8 +26,14 @@
 |Mikki Northuis| OCTO design lead for information architecture|michelle.northuis@va.gov|
 |Chante Lantos-Swett|OCTO lead for account experience portfolio|chante.lantosswett@va.gov|
 |Samara Strauss |OCTO product lead for authenticated experiences|samara.strauss@va.gov|
+
+We'll also be consulting with the following people:
+
+|Name|Role|Email|
+|----|----|-----|
 |Dave Conlon|OCTO lead for sitewide portfolio|david.conlon@va.gov|
-|Lauren Alexanderson|OCTO lead for health care portfolio|lauren.alexanderson@va.gov
+|Danielle Thierry| OCTO content lead|danielle.theirry@va.gov|
+|Lauren Alexanderson|OCTO lead for health care portfolio|lauren.alexanderson@va.gov|
 
 ---
 
