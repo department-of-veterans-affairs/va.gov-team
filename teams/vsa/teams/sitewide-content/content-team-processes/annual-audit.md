@@ -1,4 +1,4 @@
-# Annual content, IA, and accessibility audit for unauthenticated content pages
+# Annual content, IA, and accessibility audit for Drupal static content pages
 
 ## Process
 
