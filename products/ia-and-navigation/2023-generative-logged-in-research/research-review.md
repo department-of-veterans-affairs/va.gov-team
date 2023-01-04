@@ -1,6 +1,6 @@
 # Research review
 
-### Previous research to review
+## Previous research to review
 
 |Engagement|Conducted|
 |----------|---------|
@@ -13,3 +13,20 @@
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)|September 2021|
 |[Baseline homepage/wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md)|May 2021|
 |[My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)| June 2020|
+
+## Research review goals
+
+### Determine what we already know
+
+This includes:
+
+- Challenges with navigating the logged in experience that we're already well aware of (eg. people being reliant on homepage and My VA links).
+- Veteran top tasks that we've already seen demonstrated through research and analytics that we don't need to rehash (eg. health care and claims are the most popular tasks/tools on the site).
+- Known expectations around the logged in experience (eg. people expect it to be personalized).
+
+### Determine what we need more information on
+
+This includes:
+
+- Documenting any initial findings that maybe show in one or two reports, but we'd like to gather more information on.
+- Determining where we still have outstanding questions that have not been covered in any previous research.
