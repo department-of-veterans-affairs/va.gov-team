@@ -65,14 +65,6 @@ We're aware of some high-level problems people have navigating the logged in exp
 - Understand what work is happening re: IA and navigation on other teams, so that we don't do competing or conflicting work.
 - Work collaboratively across crews, so this work isn't silo'd.
 
-### Experience goals
-
-We want to create:
-
-- A personalized experience for Veterans and family members/caregivers that allows them to easily find the right information and tools they need to complete tasks related to whereever they are in their journey .
-- An experience that surfaces what's important at the right time for visitors that have VA benefits and need to complete tasks related to managing their health and benefits at VA.
-- An experience that provides the right amount of information for people to quickly learn about and apply for VA benefits.
-
 ## Project risks & challenges
 
 ### Insights may affect other teams, or VA.gov more broadly 
