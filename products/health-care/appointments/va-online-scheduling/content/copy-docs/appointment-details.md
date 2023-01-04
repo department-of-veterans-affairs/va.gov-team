@@ -1505,7 +1505,8 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH50990 @@
 ```
 
 ```Cancel request```
