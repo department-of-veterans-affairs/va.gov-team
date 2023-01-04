@@ -77,13 +77,13 @@ Quick Submit is a platform that supports the claims application process and allo
 
 **Expected launch date**: Before the end of Q1 CY2023.
 
-### Either team
+### Cross-portfolio
 
-#### [Support wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/README.md)
+#### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/README.md)
 
-**OCTO objectives**: Refresh the VA.gov homepage and information architecture; Integrate health portal features into VA.gov
+**OCTO objectives**: Refresh the VA.gov homepage and information architecture
 
-With the addition of so many tools to VA.gov since the original redesign, we have seen issues with IA/navigation arise around how people find tools and tasks. Things are about to get extra complicated as the health apartment migrates into VA.gov. We'll be working with Mikki to support research that aims to understand the problems with VA.gov's current structure and to figure out how to keep it manageable and navigable over time as it grows.
+We're aware of some high-level problems people broadly have completing tasks on VA.gov, eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates broader problems with the logged in experience -- are we effectively getting people into the logged in experience? What problems do people have when they log in? What are peoples expectations around how they navigate the logged in experience if links aren't on the homepage/My VA? We'll work with Mikki to dive deeper into users' problems with and expectations around navigating the logged in experience.
 
 ## The rest of the year
 
