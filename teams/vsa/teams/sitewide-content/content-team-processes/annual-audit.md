@@ -6,7 +6,7 @@
 - [ ] Notify SMEs that we'll be asking them to audit content in a specific site section. Ask SMEs to identify any additional SMEs who need to review content.
 
 ### 1 week prior to start of audit
-- [ ] Create an easy-to-use audit document customized for SMEs' use and easy collaboration.
+- [ ] Create an easy-to-use collaborative audit document customized for SMEs' use and easy collaboration.
 - [ ] Send SMEs collaborative audit document with instructions.
 - [ ] Set up an audit kickoff call.
 
@@ -16,10 +16,9 @@
 - [ ] 1 week into audit time period: Check in with SMEs on status and any questions.
 
 ### Post-audit
-- [ ] Hold meeting with SMEs to go over audit findings and next steps.
-- [ ] Create backlog tickets for associated work and determine timing for implementation.
+- [ ] Hold meeting with SMEs to go over audit findings, next steps, and prioritization of associated work.
+- [ ] Create backlog tickets for associated work and determine timing for implementation. 
 - [ ] Update roadmap with any upcoming changes, programs, or products within next year.
-
 
 ## Request for SMEs
 
