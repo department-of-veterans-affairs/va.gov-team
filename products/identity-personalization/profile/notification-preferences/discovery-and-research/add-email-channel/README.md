@@ -1,6 +1,6 @@
 # Research outline: Adding email as a channel
 
-**Last updated: December 22, 2022**
+**Last updated: January 4, 2022**
 
 ### Communications
 
@@ -21,12 +21,15 @@ Currently, the existing notification preferences we support all happen to only u
 ## Research goals
 
 1. Determine usable and scalable approach for adding email as a channel.
+2. Determine usable and scalable approach for adding more notification preferences to the page.
+3. Determine what level of information people need in order for them to decide whether they want to edit/update their preferences.
 
 ## Research questions
 
 1. How do we clearly differentiate between email and text? Is copy enough?
 2. How do we balance text and email when they both exist as a channel for one notification?
 3. How do we keep the page usable and scannable as we add more notifications with more channels?
+4. What level of information do people need in order for them to decide whether they want to edit/update their preferences?
 
 ## Research artifacts
 
