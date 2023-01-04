@@ -8,11 +8,11 @@ However, there are multiple issues with the existing application, which lacks:
 - Plain language
 - Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use
 
-How might we rebuild and modernize this application using clearly defined Veteran use cases to better align with Veterans' needs?
+We are rebuilding and modernizing this application, and would like to get user feedback on our designs.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/product-outline.md)
 
-[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/168)
+[Link to card in research repo]()
 
 ### OCTO Objectives 
 
@@ -46,19 +46,19 @@ There are many potential touchpoints between the Veteran and this application th
 5. Aging (Not listed in journey, but dealing with death of spouse)
 
 ## Research Goals	
-TBD
+The purpose of this research is to **get user feedback on the newly redesigned income limits application**.
 
 ### Outcome
-Learnings will inform...
+Learnings will help iterate the design of the application.
 
 ### Research questions
-- TBD
+- Are participants 
 
 ### Hypotheses
 - 
 
 ## Method	
-We will conduct **semi-structured interviews** to guide Veterans through a 
+We will conduct **usability testing** to guide Veterans through a click-through prototype. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. Plus, we would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them.
 
@@ -192,7 +192,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |            | 
+|***ASSISTIVE TECH***                                         |      0     | 
 |*Various*                                                    |            |
 |Font resizing/larger                                         |            |
 |Screen reader                                                |            |
@@ -316,14 +316,15 @@ We would like to have 15 total Veterans recruited, partitioned into **3 cohorts 
 ## Timeline
 
 ### Prepare
-- Pilot: **Oct 14 at 3 pm ET** with Christopher Keene (christopher.keene@adhocteam.us)
+- Pilot: **TBD at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Jan X-Y, 2023** 
+* Planned dates of research: **Jan TBD, 2023** 
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
+* Maximum sessions per day: 3
 
 ### Availability
 
@@ -331,7 +332,8 @@ Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Jan XX, 2023 | 12-1, 2-3, 5-6, 7-8 pm
 
-No more than 3 sessions per day please.
+NOTE: Request time slots for twice as many as participants requested
+
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
@@ -344,5 +346,5 @@ Please list the people who will be serving in each role.
 - Observers: Dave Pickett, Jordan Wood, Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com)
 
 ## Approvals
-- Dave Conlon (PO) on DATE TBD
-- Shane Strassberg on DATE TBD
+- Dave Conlon (PO) on FUTURE DATE TBD
+- Shane Strassberg on FUTURE DATE TBD
