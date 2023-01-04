@@ -2,7 +2,7 @@
 
 ## [WIP] Testing procedure. 
 
-1. Create Appointment in the appropriate VistA(s)
+1. Create Appointment in the CHYSHY VistA(s), using the clinincs RClinic1, RClinic2, RClini3
 2. Do the check in process
 3. Create claim during the check in process
 4. Clean up claim created for the user in the [BTSSS CRM](https://dvagov-btsss-qa.crm9.dynamics.com/main.aspx?appid=410c62d5-3681-4423-9170-6801d95cacbe&forceUCI=1&newWindow=true&pagetype=entitylist&etn=contact&viewid=00000000-0000-0000-00aa-000010001004&viewType=1039)
