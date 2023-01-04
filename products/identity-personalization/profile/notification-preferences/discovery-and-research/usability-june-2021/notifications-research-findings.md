@@ -4,7 +4,7 @@ VSA, Authenticated Experience
 
 Liz Lantz (liz.lantz@adhocteam.us), 07/02/2021
 
-View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/usability-june-2021/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/usability-june-2021/notifications-conversation-guide.md).
+View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-june-2021/notifications-research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-june-2021/notifications-conversation-guide.md).
 
 ## Research Goals
 
