@@ -111,6 +111,12 @@ Though we are focusing research on issues people have once they are signed in to
 - What are people's expectations for how they should be able to navigate to tasks when they are logged in if they can not rely on homepage or My VA links?
 - How similar should the navigation be from a logged out to logged in state? This isn't something we'd ask, but something we'd extrapolate from observations.
 
+### User types
+
+- We already know about what's important to veterans when they are logged in (eg. claims, health info, etc). What is important to other key user groups (eg. transitioning service members; families; caregivers)?
+- What problems with navigating the logged-in experience are shared among user groups? What problems are unique by user type?
+- What expectations with navigating the logged-in experience are shared among user groups? What expectations are unique by user type?
+
 ### Reconciling various VA properties/pages
 
 - How do users make sense of the homepage and My VA when they are logged in? Do they need both? (Note: My VA does not exist in a logged-out state)
@@ -118,6 +124,11 @@ Though we are focusing research on issues people have once they are signed in to
 ## Scope
 
 ### In scope
+
+- Conducting a research review to determine what existing problems and user expectations we already know of re: navigating VA.gov while logged in experience, and to determine what outstanding questions we still have.
+- Conducting an analytics review to help us understand how people move through the site while logged in.
+- Conducting a call center and Medallia data review to see what we can learn about problems people have finding tasks and tools.
+- Conducting user research to answer questions we haven't answered in other parts of our research, and to gain additional insight into problems and expecations people have with navigating VA.gov while logged in.
 
 ### Out of scope
 
