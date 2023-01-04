@@ -13,7 +13,7 @@ Documenting general IA/nav questions we have so we don't forget them. We talked 
 
 - What is a "task" on VA.gov? Do users define this as basically anything they come to do (eg. learn about eligibility; check payment status; etc)? How, if at all, does their definition differ from what we consider a task internally (eg. completing a form; managing an individual's benefits)?
 - Do people truly come to just "learn", or do they come to do a task (eg. apply) and learning (eg. reading about eligibility) is a by-product of that?
-- What role do notifications play in helping people navigate to tools and tasks? *This is likely out of scope for this effort, as we can likely answer this in onsite notifications research*.
+- What role do notifications play in helping people navigate to tools and tasks? 
  
 ## Reconciling various VA properties/pages
 
