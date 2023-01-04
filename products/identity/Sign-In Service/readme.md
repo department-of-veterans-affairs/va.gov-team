@@ -1,10 +1,10 @@
 # Sign-in Service (SiS)
 
 ## Overview
-The VA.gov Sign-in Service was created to solve several shortcomings identified with the existing solutions.  Our new service should reduce the number of redirects users experience, reduce login latency, and provide a more cost-effective solution to th VA while increasing transparency for login issues.
+The Sign-in Service was created to solve the shortcomings identified with the current VA.gov authentication solution. The new service provides a more reliable and faster user experience, increases the ability to iterate on enhancing user satisfaction, and provides a more cost-effective solution to the VA while increasing transparency for login issues.
 
 ### Our OAuth workflows
-Sign-in Service makes use of the PKCE, or `Proof Key for Code Exchange`, OAuth flow. PCKE makes use of a dynamically generated client secret to bridge the potential securty gap between user authentication and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). Sign-in Service is configured to serve both browser authentication from vets-website and mobile/API authentication for the VA mobile app and other third-party services. The two workflows are largely similar but have key differences on how they handle OAuth authentication.
+Sign-in Service makes use of the PKCE, or `Proof Key for Code Exchange`, OAuth flow. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authentication and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). Sign-in Service is configured to serve both browser authentication from vets-website and mobile/API authentication for the VA mobile app and other third-party services. The two workflows are largely similar but have key differences on how they handle OAuth authentication.
 - [Website / Cookie Authentication Guide](Sign-in-service_Web-OAuth.md)
 - [Mobile / API Authentication Guide](Sign-in-service_Mobile-OAuth.md)
 
