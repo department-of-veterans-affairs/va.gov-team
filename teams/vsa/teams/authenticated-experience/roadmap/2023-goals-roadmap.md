@@ -67,7 +67,7 @@ Direct deposit for comp & pen information on VA.gov is currently supported by EV
 
 **Expected launch date**: Assuming this is just a backend effort, this can likely launch before the end of Q1 CY2023.
 
-#### Research/Design: Adding email as a channel to notification preferences
+#### Research/Design: [Adding email as a channel to notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
 We'll eventually need to add email as a channel for notification preferences, we're just not sure when. Liz has created some preliminary mockups that need to be refined and tested in order to to determine whether this approach is usable and scalable long-term. 
 
