@@ -231,10 +231,14 @@ This first group of findings relates to research questions 1 & 2:
 
 ### 6 - Public Contact staff provide a consistent set of services at multiple VBA facility types
 
-- Point 1
-- point 2
+> I do the exact same thing that I do here. I just satellite at the hospital. - Albuquerque
 
-> Quote 1
+> We do have other clinics throughout the island. So, for for example, whoever is on the southern part, we have a clinic in that area. And actually we do have an employee that provides the same services that we do here. - San Juan
+
+>  You know it's not that they're against their local office. It's just they they feel that because DC is the powerhouse that they're going to get any more. But what they don't realize in many cases is ultimately the very Regional Office they left to come up and see me, it's gonna go back to. - DC
+
+> I work closely with the public contact step in Honolulu and we're on email daily. We meet weekly, sometimes multiple times weekly. So, no, there's there's not a disconnect between this satellite office and the regional office... I would make sure that they understand that I represent the Honolulu Regional Office, and that, any issues that require any type of escalation they know contact the Honolulu Regional Office Public Contact. - Saipan
+
 
 - - -
 
