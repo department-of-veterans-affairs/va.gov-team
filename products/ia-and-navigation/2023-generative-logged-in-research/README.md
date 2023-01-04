@@ -42,11 +42,12 @@ We're aware of some high-level problems people have navigating the logged in exp
 
 ## Problems
 
-- The current VA.gov experience largely caters to content, making it challenging for visitors that need to track and manage benefits and health care.
-- Integrating MHV tools and experience are into VA.gov will result in an auth exp for health, but this does not consider applying for and managing other benefits.
-- We need to accommodate multiple audiences in this experience, including audiences that may be acting as a delegate to another account holder, families, caregivers, providers, school administrators, etc.
-- Web-based tools that allow visitors to complete tasks related to the benefits they have are organized by benefit, however some tools are applicable to multiple benefits or are not specific to any benefit.
+- The current VA.gov experience caters to an unuathenticated content, which can bury tasks people need to complete.
 - People tend to rely heavily on the homepage top tasks or My VA links to navigate.
+- We aren't sure what motivates people to sign in, and when they do this in a given flow.
+- We don't have broader insights into problems and expectations people have navigating VA.gov when they are logged in.
+- OCTO has historically treated unauth and auth experiences as if they are two distinct experiences instead of two halves of one flow, which means the IA and navigation has developed in a silo'd manner that doesn't consider logged in users' needs and expectations.
+- People have historically viewed the My VA dashboard as *the* logged in experience, instead of thinking of things more holistically.
 
 ## Goals
 
