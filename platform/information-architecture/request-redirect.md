@@ -1,8 +1,14 @@
-# Redirects
+# Redirects IA Context & Workflow
 
 ## About redirects
 
-A redirect is a status code that is sent to person's browser to let it know that the page that's being requested has moved or is no longer available, and tells the browser what page/URL to render instead.   
+At the VA, redirects can be executed server-side or client-side. 
+
+A server-side redirect uses a status code that is sent to a browser to let it know that the page that's being requested has moved or is no longer available, and tells the browser what page/URL to render instead. 
+
+A client-side redirect is carried out using Javascript. This tends to apply to TeamSites that use the injected header & footer. In these cases, the requested page begins to load, and Javascript present on the page can check for any documented redirects for the current page. If one exists, the user will be redirected. 
+
+The page you are redirecting from, whether it is a TeamSite, and whether it has specific Javascript present, will determine how a redirect gets implemented. More details are available on [Redirect Implementation Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-client-side-redirects-for-subdomains-subdomainvagov).
 
 **A redirect serves 2 purposes:**
 1) It protects the user's experience by ensuring they are sent to a valid destination page rather than receiving a 404/page not found error
@@ -43,7 +49,7 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 - Communicate when redirect has been deployed to production so teams can validate
 
 ### Process
-1.	Create an issue using the [redirect request issue template]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=Sitewide+IA&template=redirect-request.md&title=Redirect+Request) at least 2 weeks prior to desired launch date**
+1.	Create an issue using the [redirect request issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2C+RLHecht&labels=Sitewide+IA%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=redirect-request.md&title=Redirect+Request) at least 2 weeks prior to desired launch date
 2.	IA will review and communicate any questions or changes, and assign over to the implementation team
 3.	Implementation team will review, size and schedule as appropriate, and notify the requesting team of any technical or timing issues.
 4.	Implementation team will implement the redirects in lower environments and validate
