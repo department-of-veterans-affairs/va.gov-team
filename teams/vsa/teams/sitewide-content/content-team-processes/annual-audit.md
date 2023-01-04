@@ -31,6 +31,7 @@ SMEs to review all identified content for the following:
 
 ## OCTO audit
 
-- Identify content that should move in position (i.e. from benefit hub to R&S). Create tickets in the backlog for implementation of these changes and share a schedule for implementation with SMEs.
-- Audit all content pages against the content pre-publication checklist for content design, plain language, and accessibility issues. Create tickets in the backlog for all issues and and share a schedule for implementation with SMEs.
-- Run and record grade level checks of each page for documentation. Determine if we need to address grade level. 
+- Identify content that should move in position (i.e. from benefit hub to R&S) based on the content placement criteria. 
+- Audit all content pages against the content pre-publication checklist for content design, plain language, and accessibility issues.
+- Audit all content pages against the IA checklist. 
+- Run and record grade level checks of each page for documentation. Determine if we need to address grade level.
