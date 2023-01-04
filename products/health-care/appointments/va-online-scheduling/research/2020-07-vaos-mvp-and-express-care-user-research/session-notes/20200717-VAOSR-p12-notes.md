@@ -68,8 +68,7 @@ Next, we're going to take a look at a webpage on VA.gov, it's ok if you haven't 
 
 **ASK VETERAN TO START SHARING SCREEN**
 
-Go to: [Schedule and View VA Appointments](https://www.va.gov/health-
-care/schedule-view-va-appointments/)
+Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedule-view-va-appointments/)
 
 - Take a look at this page and tell me what you see. Talk out loud as you are looking through the information. 
 

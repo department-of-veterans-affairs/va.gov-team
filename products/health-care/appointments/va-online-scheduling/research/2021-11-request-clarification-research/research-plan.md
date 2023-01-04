@@ -15,9 +15,9 @@ VA Online Scheduling allows Veterans to request and schedule health care appoint
 
 We've heard in previous research and user feedback that Veterans are generally confused by the concept of appointment requests in VAOS:
 
-[2019 Research](<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md#findings>)
+[2019 VAOS research](department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research/2020-july-VAOSR-EC-research-report.md#findings>)
 
-[2021 appts list usability](<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion>)
+[2021 appointments list usability test](department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/findings-report.md#appointment-requests-continue-to-create-confusion>)
 
 ### Assumptions
 
@@ -71,8 +71,8 @@ Remote, via Zoom.
 
 ### Research materials
 
--   [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/conversation-guide.md)
--   [Link to prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
+-   [Conversation guide](conversation-guide.md)
+-   [Prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
 
 Recruitment
 -----------
@@ -115,7 +115,7 @@ Monday-Friday
 Team Roles
 ----------
 
--   Moderator: Peter Russo - <peter.russo@adhocteam.us> - 510.529.9874
+-   Moderator: Peter Russo - <peter.russo@adhocteam.us>
 -   Research guide writing and task development: Peter Russo
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Peter Russo

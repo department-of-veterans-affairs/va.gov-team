@@ -4,8 +4,7 @@
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-
-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
 
 *In the Attendees section, make sure everyone except the participant is on mute*
 
@@ -67,8 +66,7 @@ Next, we're going to take a look at a webpage on VA.gov, it's ok if you haven't 
 
 **ASK VETERAN TO START SHARING SCREEN**
 
-Go to: [Schedule and View VA Appointments](https://www.va.gov/health-
-care/schedule-view-va-appointments/)
+Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedule-view-va-appointments/)
 
 - Take a look at this page and tell me what you see. Talk out loud as you are looking through the information. 
 

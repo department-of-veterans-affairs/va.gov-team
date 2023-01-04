@@ -2,7 +2,7 @@
 
 A collaborative study by VAOS (Peter Russo, peter.russo@adhocteam.us) and VSA, Authenticated Experience (Liz Lantz, liz.lantz@adhocteam.us), 07/01/2021
 
-View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-plan.md) and [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md).
+View the [research plan](research-plan.md) and [conversation guide](conversation-guide.md).
 
 ## Research Goals
 
@@ -12,7 +12,7 @@ The overall VAOS product goal for this work is to improve completion of the VA f
 
 We believe that if we surface only the facilities where the Veteran currently receives care, they will be able to find relevant facilities more easily and improve their chances of completing this step in the process.  
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-steps.png)  
+![](images/vaos-steps.png)  
 
 *Above: Chart showing facility selection page has the highest abandonment rate (33.11%) in the VAOS scheduling flow (data from request flow, April 1, 2021 - June 22, 2021)*
 
@@ -54,7 +54,7 @@ This study may not meet the needs of the following marginalized Veteran groups:
 - Transgender
 - Veterans Abroad
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-mvs-results.png" width="30%" />
+<img src="images/vaos-mvs-results.png" width="30%" />
 
 ## Key Findings
 
@@ -179,7 +179,7 @@ However, wayfinding between the facility list in VAOS and the profile proved cha
 > M: It looks like you wanted to hit continue.
 > P11: Yeah, instead of doing an extra step, I thought it would automatically pop up to show which ones you don't need, and then you would just be able to check [the facilities]. To me it's just an extra step that you have to go back to go forward to go forward.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-no-longer-go-to-facility-accordion.png" width="33%" />
+<img src="images/vaos-no-longer-go-to-facility-accordion.png" width="33%" />
 
 *Above: screenshot from prototype showing step in VAOS that sends users to profile to edit their facility list*
 
@@ -216,7 +216,7 @@ But even so, participants struggled to come up with a reason they would look for
 
 When shown a scenario where they would have to call to schedule, participants understood the facility didn't offer online scheduling, but most weren't sure why not. 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/vaos-call-to-schedule.png" width="33%" />
+<img src="images/vaos-call-to-schedule.png" width="33%" />
 
 *Above: screenshot of VAOS call to schedule page*
 
@@ -238,7 +238,7 @@ Only 2 of 8 participants easily navigated via the profile mobile menu.
 
 > "I saw it \[profile menu, after being guided by moderator\], but I thought it was what I was already looking at below." - P7
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/images/profile-mobile-menu.png" width="33%" />
+<img src="images/profile-mobile-menu.png" width="33%" />
 
 *Above: screenshot from prototype of profile mobile menu on profile landing page. Participants needed to open the menu to navigate to their facility list.*
 
@@ -375,12 +375,12 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 
 - [VAOS product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md)
 - [Profile preferred facilites product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
-- [Research plan]()
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/conversation-guide.md)
+- [Research plan](research-plan.md)
+- [Conversation guide](conversation-guide.md)
 - Prototypes
   - [Scenario 1](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)
   - [Scenario 2](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)
 - Synthesis Artifacts
-  - [Session data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/facilities-research-session-data.xlsx)
+  - [Session data](facilities-research-session-data.xlsx)
   - [Affinity Map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1623094588406/918ef3279e0fb661409656bdafe06aee2ee098e9)
-  - Presentation pdf (to come)
+  - [Presentation (PDF)](preferred-health-facilities-research-report.pdf)

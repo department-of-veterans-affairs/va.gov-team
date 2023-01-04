@@ -9,4 +9,4 @@ The VAOS team is redesigning the appointments list to:
 * [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/product-projects/homepage-refresh-initiative-2021.md)
 * [Research plan](research-plan.md)
 * [Conversation guide](conversation-guide.md)
-* [Findings report](report-out.md)
+* [Findings report](findings-report.md)

@@ -8,13 +8,13 @@ This user research and usability test focused on two products under the health c
 
 #### VAOSR
 
-The VAOSR MVP has been in production and live on [VA.gov](VA.gov) since March 2020. Since it's launch, the tool has provided users the ability to submit feedback as well as captured data through Google Analytics. From these data sources and based on the timing of the tool being accessible to users, DEPO's team determined another round of user research and usability testing with Veterans was necessary. 
+The VAOSR MVP has been in production and live on [VA.gov](https://www.va.gov) since March 2020. Since it's launch, the tool has provided users the ability to submit feedback as well as captured data through Google Analytics. From these data sources and based on the timing of the tool being accessible to users, DEPO's team determined another round of user research and usability testing with Veterans was necessary. 
 
 This research, in July 2020, focused on areas in the experience that we determined (through the aforementioned analytics and user feedback) are confusing or need iteration. Additionally, we wanted to collect general feedback and requests from Veterans for additional feature considerations for VAOSR, to be implemented in the future. This feedback from Veterans about feature requests is also helpful to validate current assumptions about DEPO's VAOSR product development backlog, to ensure the product is being designed with users, not for them. 
 
 #### Express Care
 
-In [May 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md), DEPO conducted user research and usability testing for a new care offering - Express Care. The research focused on understanding when, why, and how a Veteran seeks care that they deem "urgent", "immediate", and "now" through VA digital channels. This previous research also allowed us to learn from Veterans if they were aware of and would seek urgent, same-day, Telehealth care from VA for a COVID-19 screening, if they were experiencing symptoms.
+In [May 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-05-express-care-research/research-findings.md), DEPO conducted user research and usability testing for a new care offering - Express Care. The research focused on understanding when, why, and how a Veteran seeks care that they deem "urgent", "immediate", and "now" through VA digital channels. This previous research also allowed us to learn from Veterans if they were aware of and would seek urgent, same-day, Telehealth care from VA for a COVID-19 screening, if they were experiencing symptoms.
 
 The research conducted in July 2020 aimed to iterate on what we learned in the previous research study, in order to build and launch a product, immediately, on [VA.gov](VA.gov), incorporating feedback provided by users in the initial round of research, as well as new features and considerations from stakeholders. 
 
