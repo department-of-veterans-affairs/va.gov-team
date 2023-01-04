@@ -92,11 +92,6 @@ For moderated usability tests:
 
 	
 ## Recruitment	
-
-### Recruitment approach
-The intended audience for this research Veterans, Service Members and Caregivers. 
-
-
 ### Recruitment approach
 We will recruit Veterans for this research using and leveraging Perigean to recruit participants. 
 
@@ -104,105 +99,100 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      32       |     20           |     14 |             |      2   |        4      | 
+|      15       |     10           |     8  |             |      1   |        1      | 
 
 
 ### Criteria Table 
+|                               | **Cohort 1** |
+| ----------------------------- | ------------ |
+| **_SEX_**                     |              |
+| Male                          | 8            |
+| Female                        | 7            |
+| \---                          | \---         |
+| **_RACE_**                    |              |
+| Black                         | 3            |
+| White                         | 2            |
+| Latinx                        | 3            |
+| Asian                         | 2            |
+| Native                        | 3            |
+| Pacific Islander              | 2            |
+| \---                          | \---         |
+| **_AGE_**                     |              |
+| 18-24 yo                      | 1            |
+| 25-34 yo                      | 3            |
+| 35-44 yo                      | 3            |
+| 45-54 yo                      | 4            |
+| 55+ yo                        | 4            |
+| \---                          | \---         |
+| **_LGBTQ+_**                  |              |
+| Gay                           |              |
+| Lesbian                       |              |
+| Bisexual                      |              |
+| Asexual                       |              |
+| Transgender                   |              |
+| Non-Binary                    |              |
+| Gender-fluid                  |              |
+| Queer                         |              |
+| Two-Spirit                    |              |
+| \---                          | \---         |
+| **_BENEFITS_**                |              |
+| Education                     |              |
+| Employment                    |              |
+| Finances                      |              |
+| Healthcare                    |              |
+| Housing                       |              |
+| Memorialization               |              |
+| \---                          | \---         |
+| **_BRANCH_**                  |              |
+| Marine Corps                  |              |
+| Army                          |              |
+| Navy                          |              |
+| Air Force                     |              |
+| Space Force                   |              |
+| Coast Guard                   |              |
+| Nat. Guard                    |              |
+| Pub Hlth Corps                |              |
+| \---                          | \---         |
+| **_EDUCATION_**               |              |
+| Elementary                    |              |
+| Intermediate                  |              |
+| GED                           | 1            |
+| High School                   | 5            |
+| Some College                  | 5            |
+| Associate's                   | 4            |
+| Bachelors                     | 4            |
+| Masters                       |              |
+| Professional                  |              |
+| Doctoral                      |              |
+| \---                          | \---         |
+| **_RESIDENCE_**               |              |
+| Urban                         |              |
+| Rural                         |              |
+| \---                          | \---         |
+| **_HARDWARE_**                |              |
+| Desktop                       | 7            |
+| Laptop                        |              |
+| Mobile                        | 6            |
+| Tablet                        | 3            |
+| \---                          | \---         |
+| **_WEBSITE_**                 |              |
+| [VA.gov](http://VA.gov)       |              |
+| MyHealtheVet                  |              |
+| Ebenefits                     |              |
+| \---                          | \---         |
+| **_LOGIN_**                   |              |
+| DS Logon                      |              |
+| MyHealtheVet                  |              |
+| [ID.me](http://ID.me)         |              |
+| [Login.gov](http://Login.gov) |              |
+| \---                          | \---         |
+| **_ID PROOF_**                |              |
+| IAL1                          |              |
+| IAL2                          |              |
+| IAL3                          |              |
 
-- Cohort 1 = Assistive Tech. Ask 8, complete 5 
-- Cohort 2 = MVS, ask 15, complete 10
-- Cohort 3 = Match Household RESULTS of who participated - total 10, need 5 to complete this study 
 
 
-
-|                               | **Cohort 1**					     | **Cohort 2**				| **Cohort 3**  |
-| ----------------------------- | -------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **_SEX_**                     |                                                    |                                          |                                                                                                     |
-| Male                          |                                                    |                                          |                                                                                                     |
-| Female                        |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_RACE_**                    |                                                    |                                          |                                                                                                     |
-| Black                         |                                                    | 3                                        |                                                                                                     |
-| White                         |                                                    | 2                                        |                                                                                                     |
-| Latinx                        |                                                    | 3                                        |                                                                                                     |
-| Asian                         |                                                    | 2                                        |                                                                                                     |
-| Native                        |                                                    | 3                                        |                                                                                                     |
-| Pacific Islander              |                                                    | 2                                        |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_AGE_**                     |                                                    |                                          |                                                                                                     |
-| 18-24 yo                      |                                                    |                                          |                                                                                                     |
-| 25-34 yo                      |                                                    |                                          |                                                                                                     |
-| 35-44 yo                      |                                                    |                                          |                                                                                                     |
-| 45-54 yo                      |                                                    |                                          |                                                                                                     |
-| 55+ yo                        |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_LGBTQ+_**                  |                                                    |                                          |                                                                                                     |
-| Gay                           |                                                    |                                          |                                                                                                     |
-| Lesbian                       |                                                    |                                          |                                                                                                     |
-| Bisexual                      |                                                    |                                          |                                                                                                     |
-| Asexual                       |                                                    |                                          |                                                                                                     |
-| Transgender                   |                                                    |                                          |                                                                                                     |
-| Non-Binary                    |                                                    |                                          |                                                                                                     |
-| Gender-fluid                  |                                                    |                                          |                                                                                                     |
-| Queer                         |                                                    |                                          |                                                                                                     |
-| Two-Spirit                    |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_BENEFITS_**                |                                                    |                                          |                                                                                                     |
-| Education                     |                                                    |                                          |                                                                                                     |
-| Employment                    |                                                    |                                          |                                                                                                     |
-| Finances                      |                                                    |                                          |                                                                                                     |
-| Healthcare                    |                                                    |                                          |                                                                                                     |
-| Housing                       |                                                    |                                          |                                                                                                     |
-| Memorialization               |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_BRANCH_**                  |                                                    |                                          |                                                                                                     |
-| Marine Corps                  |                                                    |                                          |                                                                                                     |
-| Army                          |                                                    |                                          |                                                                                                     |
-| Navy                          |                                                    |                                          |                                                                                                     |
-| Air Force                     |                                                    |                                          |                                                                                                     |
-| Space Force                   |                                                    |                                          |                                                                                                     |
-| Coast Guard                   |                                                    |                                          |                                                                                                     |
-| Nat. Guard                    |                                                    |                                          |                                                                                                     |
-| Pub Hlth Corps                |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_EDUCATION_**               |                                                    |                                          |                                                                                                     |
-| Elementary                    |                                                    |                                          |                                                                                                     |
-| Intermediate                  |                                                    |                                          |                                                                                                     |
-| GED                           |                                                    |                                          |                                                                                                     |
-| High School                   |                                                    |                                          |                                                                                                     |
-| Some College                  |                                                    |                                          |                                                                                                     |
-| Associate's                   |                                                    |                                          |                                                                                                     |
-| Bachelors                     |                                                    |                                          |                                                                                                     |
-| Masters                       |                                                    |                                          |                                                                                                     |
-| Professional                  |                                                    |                                          |                                                                                                     |
-| Doctoral                      |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_RESIDENCE_**               |                                                    |                                          |                                                                                                     |
-| Urban                         |                                                    |                                          |                                                                                                     |
-| Rural                         |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_HARDWARE_**                |                                                    |                                          |                                                                                                     |
-| Desktop                       | 4                                                  | 7                                        |                                                                                                     |
-| Laptop                        |                                                    |                                          |                                                                                                     |
-| Mobile                        | 2                                                  | 6                                        |                                                                                                     |
-| Tablet                        | 2                                                  | 3                                        |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_WEBSITE_**                 |                                                    |                                          |                                                                                                     |
-| [VA.gov](http://VA.gov)       |                                                    |                                          |                                                                                                     |
-| MyHealtheVet                  |                                                    |                                          |                                                                                                     |
-| Ebenefits                     |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_LOGIN_**                   |                                                    |                                          |                                                                                                     |
-| DS Logon                      |                                                    |                                          |                                                                                                     |
-| MyHealtheVet                  |                                                    |                                          |                                                                                                     |
-| [ID.me](http://ID.me)         |                                                    |                                          |                                                                                                     |
-| [Login.gov](http://Login.gov) |                                                    |                                          |                                                                                                     |
-| \---                          | \---                                               | \---                                     | \---                                                                                                |
-| **_ID PROOF_**                |                                                    |                                          |                                                                                                     |
-| IAL1                          |                                                    |                                          |                                                                                                     |
-| IAL2                          |                                                    |                                          |                                                                                                     |
-| IAL3                          |                                                    |                                          |                                                                                                     |
-|                               |                                                    |                                          |                                                                                                     |
 
 ---
 **Identity Assurance Levels**
@@ -219,8 +209,8 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 |                                                               | **Participants** |
 | ------------------------------------------------------------- | ---------------- |
 | **ASSISTIVE TECH**                                            |                  |
-| Font resizing/larger                                          | 2                |
-| Screen reader                                                 | 4                |
+| Font resizing/larger                                          | 1                |
+| Screen reader                                                 | 2                |
 | Braille terminal                                              |                  |
 | Speech recognition sftw                                       |                  |
 | Speech generating device                                      |                  |
@@ -248,7 +238,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | Typing with phone or tablet and showing it to others          |                  |
 | Caregiver                                                     |                  |
 | \---                                                          | \---             |
-| **COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES**       | 3                |
+| **COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES**       | 2                |
 | Traumatic Brain Injury (TBI)                                  |                  |
 | Post-Traumatic Stress Disorder (PTSD)                         |                  |
 | Attention-Deficit/Hyperactivity Disorder (ADHD)               |                  |
@@ -264,6 +254,10 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 
 
 ## Screeener questions
+
+
+
+
 
 
 
@@ -291,7 +285,7 @@ We will be testing what is currently approved in the staging environment.
 * Planned dates of research: January 2023
 
 ### Length of sessions
-* Session length: 1 hour (Cohort 1, 2 hours)
+* Session length: 1 hour 
 * Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 4
 
