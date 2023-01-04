@@ -2,11 +2,11 @@
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
-    1. The VSignals reports that we receive are a query from all VSignals feedback containing the word check-in and travel pay.
+    1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
     2. If you need access to the OneDrive document and do not have it, message Ben.
     3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
 3. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment.
-    1.  The comment categories and some general guidelines for determining if a comments applies are as follows:
+    1.  The comment categories and general guidelines for determining if a comments applies are as follows:
         1. Mobile CI - Good and Mobile CI - Bad
         2. General Check-in - Good and General Check-in - Bad
             1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
@@ -16,11 +16,11 @@
         5. Travel Pay - Good and Travel Pay - Bad
         6. General Appointment Feedback
         7. Wait Times - Good and Wait Times - Bad
-    2. If a comment applies to an above category, then mark a 1 across from the comment in the corresponding column. Leave the column blank if the comment doesn't apply.
+    2. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply.
         2. If a new category is needed, it can be added as a new column.
 5. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
-    1. After completing the calculations, copy the last mm-dd-yyyyTrends tab. Name the new tab with the new date, then copy the percentage calculations into the table at the top of the trends tab.
-    2. You can now create a series of 2D line with markers graphs that show the percentage trend across the different reporting periods.
+    1. After completing the calculations, copy the last mm-dd-yyyyTrends tab. Name the new tab with the new date, then copy the percentage calculations into the table at the top of this new trends tab.
+    2. You can now create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
     3. Export the graphs, so they are ready to add to your final report.
 6. Calculate the number of comments within each category for each day of the 2 week reporting period. (Sample formulas can be viewed in Rows 2979 - 2994.)
     1. You can now created a series of 2D line with markers graphs that show the total comments for each day in the reporting period.
