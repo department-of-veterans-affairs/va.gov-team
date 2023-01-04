@@ -22,7 +22,7 @@ Web based apps will not require the use of an introspection endpoint because the
 3. Client calls the vets-api Sign-in-Service (SiS) OAuth `/authorize` endpoint with specific query parameters outlined in the [`/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) document
 4. Vets-api redirects to CSP website for user to enter credentials
 5. The CSP calls SiS API endpoint `/callback` to create an auth code
-6. SiS API redirects user to to [VA.gov](http://VA.gov) with a `code` query parameter
+6. SiS API redirects user to [VA.gov](http://VA.gov) with a `code` query parameter
 7. Client makes a call to the SiS API [`/token`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md) endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token, stored in cookies (web authentication) or returned as a JSON payload (mobile authentication). Web authentication will include an additional Info Token that tracks the expiry times of the other tokens.
 
     ```json
@@ -35,7 +35,6 @@ Web based apps will not require the use of an introspection endpoint because the
     }
     ```
 8. Client stores Access Token + Refresh Token
-    1. Still need to figure out the best secure option outline (Todo: @AGarcia-Clarity)
 9. Client uses Access Token in cookies (web authentication) or Bearer Authorization header (mobile) to hit the [`/introspect`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md) endpoint and receive user information
     
     ```json
@@ -49,7 +48,7 @@ Web based apps will not require the use of an introspection endpoint because the
         }
     }
     ```
-10. Once Access token reaches expiry client uses the Refresh token to get a new set of tokens (Refresh, Access, and potentially Anti-CSRF or Info) by hitting the [`/refresh`]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)) endpoint
+10. Once the Access token reaches expiry client uses the Refresh token to get a new set of tokens (Refresh, Access, and potentially Anti-CSRF or Info) by hitting the [`/refresh`]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)) endpoint
     
 ```json
   {
