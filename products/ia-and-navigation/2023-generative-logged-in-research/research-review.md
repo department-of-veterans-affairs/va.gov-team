@@ -28,5 +28,5 @@ This includes:
 
 This includes:
 
-- Documenting any initial findings that maybe show in one or two reports, but we'd like to gather more information on.
+- Documenting any initial findings that maybe show in one or two reports, but on which we'd like to gather more information.
 - Determining where we still have outstanding questions that have not been covered in any previous research.
