@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: January 3, 2022**
+**Last Updated: January 4, 2022**
 
 ## Table of Contents
 
