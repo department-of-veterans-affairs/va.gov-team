@@ -138,13 +138,12 @@ Though we are focusing research on issues people have once they are signed in to
 - Evaluating specific questions around the health apartment.
 - Mocking up new navigation updates or patterns as part of our findings.
 
-## Research activities
+## Research artifcacts
 
-- [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?sender=samarastrauss5703)
-
-Potential activities include:
-
+- [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?)
 - Historical research review
-- Comparative research with other sites (though we've done a lot of this in the past and may not need to repeat)
-- Stakeholder interviews
-- User research
+- Analytics review
+- Call center review
+- Medallia review
+- User research findings
+- Final research summary
