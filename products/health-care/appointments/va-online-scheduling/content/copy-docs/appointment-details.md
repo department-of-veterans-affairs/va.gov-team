@@ -32,7 +32,7 @@ The time and date of this appointment are still to be determined.
 
 **PAGE CONTENT**
 
-```diff
+```
 VA appointment
 {Facility name}
 {Facility address}
@@ -54,8 +54,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH47728 @@
 ```
 
 ```Cancel request```
@@ -86,7 +84,7 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
+```
 VA appointment
 {Facility name}
 {Facility address}
@@ -108,8 +106,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH47728 @@
 ```
 
 **PROGRESS BUTTONS**
@@ -1087,8 +1083,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
 ```
 
 ```Cancel request```
@@ -1134,8 +1128,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
 ```
 
 **PROGRESS BUTTONS**
@@ -1454,8 +1446,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH47728 @@
 ```
 
 ```Cancel request```
@@ -1507,8 +1497,6 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
 ```
 
 ```Cancel request```
