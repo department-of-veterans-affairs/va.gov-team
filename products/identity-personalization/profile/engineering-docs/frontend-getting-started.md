@@ -62,7 +62,7 @@ open Cypress with the interactive UI application to run individual e2e tests vis
 ---
 
 ``` bash
-yarn cy:run --spec src/applications/personalization/profile/tests/e2e/**/*
+yarn cy:run --spec "src/applications/personalization/profile/tests/e2e/**/*"
 ```
 
 runs all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
