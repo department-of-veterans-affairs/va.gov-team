@@ -3,7 +3,7 @@
 ## Background
 As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
-As a result, we conducted [an audit of My VA](https://app.mural.co/t/vsa8243/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396?sender=uce014850ef6c5a8303e70396) to document and evaluate the following:
+As a result, we conducted an audit of My VA in Mural to document and evaluate the following:
 - All of the states of each section of My VA
 - Whether all states are necessary
 - Where we can simplify without losing important personalization
@@ -116,7 +116,7 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 |Pension         |      2     |
 |       ---      |     ---    |
 |***BRANCH***    |            |
-|*Various*       |     12     |
+|*Various*       |     18     |
 |Marine Corps    |            |
 |Army            |            |
 |Navy            |            |
@@ -166,8 +166,8 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 |Login.gov       |            |
 |       ---      |      ---   |
 |***ID PROOF***  |            |
-|*Various*       |      16    |
-|IAL1            |       2    |
+|*Various*       |      18    |
+|IAL1            |       X    |
 |IAL2            |            |
 |IAL3            |            |
 
@@ -233,6 +233,12 @@ Our intended audience for this research is Veterans who use a variety of VA bene
  	* Do you have education, compensation, or pension debt with VA?
  	* Do you have health care related debt with VA, such as copays?
 
+(Answering yes to either of these questions would qualify the participant for the debt criteria.)
+
+4. Do you have an account on VA.gov and has your identity been verified? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified and you do not qualify for the study.
+
+(Answering yes would qualify the participant.)
+
 ### Additional instructions  
 ALL participants must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. They also need to:
   - be willing to log into their VA.gov account and share over Zoom in a web browser window on their device
@@ -241,16 +247,15 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
   - Have Zoom downloaded to their device prior to the session
 
 ## Timeline
-TBD
+Launch in Q1 2023
 
 ### Prepare
-TBD
 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: stephen.barrs@va.gov
+* Date and time of pilot session: Wednesday, January 11 at 4:00pm EST
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: January 17 - 23, 2023
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -260,10 +265,11 @@ TBD
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-|  |  |	
-|  |  |
-|  |  |
-|  |  |
+| Tuesday, January 17 | 9am-3:30pm, 4pm-5pm |	
+| Wednesday, January 18 | 9am-5pm |
+| Thursday, January 19 | 9am-5pm |
+| Friday, January 20 | 9am-5pm |
+| Monday, January 23 | 9am-5pm |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -272,11 +278,10 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto
-- Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Participant(s) for pilot test: Stephen Barrs
+- Note-takers: Will use Zoom transcription
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us
-  - erica.sauve@adhocteam.us
-  - taylor.mitchell@gcio.com
+  - berni.xiong@agile6.com
   - liz.lantz@adhocteam.us
