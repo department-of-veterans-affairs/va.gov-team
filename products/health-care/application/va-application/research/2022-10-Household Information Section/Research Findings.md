@@ -1,14 +1,16 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+<br>**[IN PROGRESS]**
 
 ---
 
-# [Study] Research Findings 
+# 10-10EZ Healthcare Application household information - Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Healthcare Application, Caregiver Team (10-10 Team)**
 
 Date: MM/DD/YYYY
 
-[Designer 1] [email], [Designer 2] [email]
+**Designers**
+* Jessica Stump (jessica.stump@adhocteam.us)
+* Nick Osmanski (nick.osmanski@amida.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -26,39 +28,59 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 [Further research needed](#further-research-needed)
 
-<br>
-
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+### Background
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+The household information section, step 4 out of 6 in the application progress flow, has been identified as a pain point through [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf) and [page analtyics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) indicating it is the area of the form with a high drop-off rate. Initial discovery of this problem space began with an [UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md) that included looking at usability best practices and competitive research lens, prior to starting design. The [propsed new flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas) and designs include rearranging the order of the questions, updating the content to plain language standards and design pattern updates around multiple responses (list and loop) used when adding dependents
 
+- Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
+The Health Care Application fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at the following stages:
+- Getting out
+- Starting up
+- Taking care of myself
+
+### Goals
+
+**1. Determine if the questions and additional information within the household information section is clear and actionable.**
+
+**2. Determine if the financial onboarding page content is helpful and understandable.**  
+
+**3. Optimize the order and flow of questions within the household information section.**
+
+These research goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
+- Key Result #3: Veterans feel prepared when they begin the Household section
+- Key Result #4: Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
 ## Research Questions
 
-_Research questions here_
+**Goal 1 - Clear and actionable**
+- Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
+- What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+**Goal 2 - Helpful and understandable content** 
+- Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
+- Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?
 
-
-* Question 
-* Question
-* Question
+**Goal 3 - Logical order**
+- Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
+- What struggles do participants encounter with the process of adding and editing multiple dependents?
+- Is there clear error recovery and easy editing ability when adding multiple entries for a question?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+A moderated usability study using an interactive prototype of the 10-10EZ Healthcare application. The study included separate versions of the prototype for desktop and mobile users.
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1) The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
+   - **Conclusion 1:**
+2) The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field.
+   - **Conclusion 2:**
+3) The updates to the multiple responses pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
+   - **Conclusion 3:**
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
