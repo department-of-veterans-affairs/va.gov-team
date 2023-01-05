@@ -121,7 +121,9 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ### After
 
 [Authenticated and UnAuthenticated workflow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
+
 [Screenshots of all screens](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1)
+
 ---
 
 #### Communications
