@@ -31,7 +31,8 @@ File for [benefit] or Apply for [benefit] and the VA paper form equivalency appe
 **4. A line of content letting applicant know that VA might contact them for more information or documents. <br>**
      
      **We may contact you if we need more information or documents.**
-     
+    
+
      
 **5. Informational blue box content** 
 
@@ -69,9 +70,9 @@ We should include a button that allows users to navigate back to VA.gov
 
 **8. Helpful content**
 
-![Need help](https://user-images.githubusercontent.com/97645218/210100961-a59b5bbe-43fe-4643-8195-1c006419425b.png)
-
 Helpful content will vary depending on the form. Use the H3 highlight for the title and always label it 'Need help?'. The content usually points the user to a number they can call if they need help with their form.
+
+![Need help](https://user-images.githubusercontent.com/97645218/210893601-8d325fed-da37-4c49-bfb1-80a5c87cdf5c.png)
 
 
 ------
