@@ -9,7 +9,6 @@ Based on the previous tree test findings, the team iterated on the information a
 ## OCTO Objectives
 
 This effort supports the following OCTO objectives:
-- Veterans and their caregiver/families can easily find information on benefits applications and apply for all benefits online
 - Veterans can manage their health services online
 - Logged in users have a personalized experience, with features that saves them time and energy in applying and managing benefits
 
@@ -21,13 +20,12 @@ Veteran tasks fit in the following key points in the Veteran journey:
 
 ## Research Goals
 
-The goal of this research is to gather quantitative insights on the information architecture for the proposed My health patient portal section of VA.gov.  We will be looking to better understand how labeling and organization of the menus impact users’ ability to successfully complete tasks.
+The goal of this research is to gather quantitative insights on the findability of more detailed and deeper tasks within the proposed IA of the My health patient portal experience.  
 
 In these tree tests, we will aim to:
 
 - Evaluate the findability of various information within the "My Health" structure
-- Evaluate if participants understand what to find under "Health history" vs "Medical records"
-- Gain insights on what information participants expect to find with "Aappointments" vs "Health history" or "Medical records" sections
+- Evaluate where participants look for information related to their health records between "Appointments", "Health history", and "Medical records"
  
 
 ## Outcome
@@ -36,24 +34,29 @@ We will use the insights from this research to validate and refine the informati
 
 ## Research Questions
 
-Can Veterans and their families/caregivers navigate the proposed information architecture of the My health patient portal in order to find information and complete key tasks as they manage their VA health care?
+Can Veterans navigate the proposed information architecture of the My health patient portal in order to find information and complete tasks related to managing their health?
 
-## Hypothesis
+## Hypotheses
 
-- Veterans will look for after visit summaries with the corresponding appointment
-- Veterans will know to look with "Health history" to find information on medical images and vitals
-- Veterans will look for historical prescription information under the "Prescriptions" section rather than in "Health history" or "Medical records" sections
-- Veterans will know what information is under "Health history" versus "Medical records"
-- Veterans will be able to find general information about a Veteran's health care benefits under a "My health benefits"
+- Veterans look for will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
+- Veterans will more easily find their after-visit sumaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
+- Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
+- Veterans will easily find historical prescription information under "Medications". 
+- Veterans will easily find information on radiology images and reports within the "Lab and test results" section. 
+- Veterans will easily find the vaccine history under the "Health history" section. 
+- Veterans will easily find basic health data within "Health history".
+- Veterans will easily find the option to download their health records under "Medical records". 
+- Veterans will easily find how to order hearing aid betteries under "Medical supplies".
+- Veterans will easily find how to get a VHIC under the "My health benefits" grouping. 
 
- 
+
 ## Method
 
-This phase of the research is designed to validate the refined information architecture and to see if the key tasks can be completed successfully by participants.
+This research is designed to validate a more detailed representation of the IA and user flow and to see if key tasks can be completed successfully by participants.
 
 ### IA Tree Test (remote, unmoderated)
 
-Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains 8 tasks. For each task, the participant will locate in the tree where a specific task can be completed.
+Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains 10 tasks. For each task, the participant will locate in the tree where a specific task can be completed.
 
 ### Location
 Data collection will be remote and conducted using Optimal Workshop. 
@@ -91,11 +94,11 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6
 |----------------|:------:|:------:|:------:|:------:|:------:|:------:
 |***SEX***       |        |        |        |        |        |        
-|*Various*       |   6    |   6    |   6    |     6  |      6 |  6     
+|*Various*       |   6    |    6   |   6    |   6    |    6   |  6     
 |Male            |        |        |        |        |        |        
 |Female          |   3    |    3   |   3    |   3    |    3   |   3    
 |***LGBTQ+***    |        |        |        |        |        |        
-|*Various*       |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2  
+|*Various*       |  1-2   |   1-2  |  1-2   |   1-2  |   1-2  |  1-2  
 |Gay             |        |        |        |        |        |        
 |Lesbian         |        |        |        |        |        |       
 |Bisexual        |        |        |        |        |        |        
@@ -121,7 +124,7 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |25-34 yo        |        |        |        |        |        |      
 |35-44 yo        |        |        |        |        |        |       
 |45-54 yo        |        |        |        |        |        |       
-|55+ yo          |     4  |    4   |    4   |    4   |   4    |   4    
+|55+ yo          |   4    |    4   |    4   |    4   |   4    |   4    
 |      ---       |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  
 |***BENEFITS***  |        |        |        |        |        |        
 |*Various*       |        |        |        |   9    |   9    |   9    
@@ -130,7 +133,7 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |Education       |        |        |        |        |        |       
 |Employment      |        |        |        |        |        |       
 |Finances        |        |        |        |        |        |        
-|Healthcare      |  9     |   9    |    9   |    X   |  X     |  X    
+|Healthcare      |  9     |   9    |    9   |    0   |  0     |  0  
 |Housing         |        |        |        |        |        |       
 |Life Insurance  |        |        |        |        |        |       
 |Memorialization |        |        |        |        |        |       
@@ -148,17 +151,17 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |Pub Hlth Corps  |        |        |        |        |        |       
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  
 |***EDUCATION*** |        |        |        |        |        |        
-|*Various*       |   8    |   8    |    8   |   8    |   8    |    8   
+|*Various*       |   9    |   9    |    9   |   9    |   9    |    9   
 |Elementary      |        |        |        |        |        |        
 |Intermediate    |        |        |        |        |        |        
 |GED             |        |        |        |        |        |       
 |High School     |        |        |        |        |        |       
-|Some College    |  X     |   X    |    X   |   X    |  X     |   X   
-|Associate's     |  X     |   X    |    X   |   X    |   X    |   X   
-|Bachelors       |  X     |   X    |    X   |   X    |  X     |   X    
-|Masters         | X      |   X    |    X   |   X    |  X     |   X   
-|Professional    |  X     |   X    |    X   |   X    | X      |   X   
-|Doctoral        |  X     |   X    |    X   |   X    |   X    |   X   
+|Some College    |        |        |        |        |        |       
+|Associate's     |  X     |        |        |    X   |        |       
+|Bachelors       |  X     |        |        |    X   |        |        
+|Masters         |  X     |        |        |    X   |        |       
+|Professional    |  X     |        |        |    X   |        |       
+|Doctoral        |  X     |        |        |    X   |        |       
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  
 |***RESIDENCE*** |        |        |        |        |        |        
 |*Various*       |        |        |        |        |        |        
@@ -173,10 +176,10 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |Tablet          |        |        |        |        |        |        
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   --- 
 |***WEBSITE***   |        |        |        |        |        |        
-|*Various*       |        |        |        |        |        |       
+|*Various*       |        |        |        |   9    |   9    |    9  
 |VA.gov(has acct)|        |        |        |        |        |        
 |VA.gov(no acct) |        |        |        |        |        |       
-|MyHealtheVet    |   9    |   9    |    9   |        |        |       
+|MyHealtheVet    |   9    |   9    |    9   |   0    |   0    |    0  
 |Ebenefits       |        |        |        |        |        |        
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  
 |***LOGIN***     |        |        |        |        |        |       
@@ -237,7 +240,7 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    | 1-2 for cohort 1-6|
+|*Various*                                                    | 0-1 per cohort |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
 |Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
@@ -264,15 +267,15 @@ We will invite a total of 54 participants for a completion rate of 40 tree tests
 
 ### Prepare
 
-We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by January 6. 
+We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by January 9. 
 
 ### Kick off meeting with Perigean
 
-We request to have a kick off meeting with Perigean 12/13/2022 or as soon as possible.
+We request to have a kick off meeting with Perigean as soon as possible.
 
 ### Research sessions
 
-The tree tests will be open for two weeks, with the starting date January 16, 2023.
+The tree tests will be open for 3 weeks, with the starting date January 16, 2023.
 
 ### Length of session
 
@@ -284,12 +287,13 @@ Planned dates of research: **01/16/23 - 1/27/23 - whenever we receive roughly 40
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Research lead:	Jenny Wang (yizhen.wang@va.gov)
-- Research support: Robyn Singleton (robyn.singleton@adhocteam.us)
+- Research lead:	Mikki Northuis (michelle.northuis@va.gov)
+- Research support: Jenny Wang (yizhen.wang@va.gov)
+
 
 ## Approvals
-- Reviewed and approved by Mikki Northuis (IA Lead) on 12/8/22
-- Reviewed and approved by Shane Strassberg on 12/9/22
+- Reviewed and approved by Mikki Northuis (IA Lead) on 
+- Reviewed and approved by Shane Strassberg on 
 
 
 ## Appendix A: Tasks
@@ -299,14 +303,17 @@ Please list the people who will be serving in each role.
 The prioritized tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
 
 **Veteran tasks**
-- You saw your primary care provider last month and want to review what was decided for next steps in your care.  
-- Your primary care doctor asked you to fill out some forms online before your visit next week.
+- You drove to see your VA primary care physician and want to get paid back for the cost of gas.
+- You saw your primary care provider last month and want to review what was decided for next steps in your care.  
+- You need to request a refill for a prescription you get from VA by mail.
 - You want to know the name of the prescription that you stopped taking last summer for a skin condition.
 - You want to find the results of a recent MRI you had done.
+- You need to know when you had your last tetanus shot.
 - You want to know what your blood pressure was the last time you had it taken by your primary care physician.
 - You want to get a copy of your VA health records for your personal files.
 - You need to order new batteries for your hearing aid.
 - You recently lost your ID card for your Veteran health care and need to get a new one.
+
 
 [Link to trees]()
 
@@ -346,6 +353,6 @@ We won't share any information or feedback linked to your name or other personal
 
 **Here's your participant code:** [Add code]
 
-You'll need to enter this at the start and the end of the activity.
+You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation. 
 
 [link] Start the activity now
