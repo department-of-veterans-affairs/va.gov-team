@@ -52,7 +52,7 @@
 
 ### PTO
 
-- Tom: 2/6 - 2/10
+- Tom: 2/6 - 2/10 (Lihan will backfill for Tom in case of emergency)
 
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
