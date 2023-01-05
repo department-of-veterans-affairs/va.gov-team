@@ -1,13 +1,13 @@
-# Disagreement Pathways Research Strategy
+# Decision Review Research Strategy
 Benefits Team 1
 
 Nov 2022
 
 ## Background
-Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which disagreement pathway to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
+Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which decision review option to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each option is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
 
 
-With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which disagreement pathway is right for them and a means to pursue that pathway, then we expect them to receive the full disability benefits they've earned on a faster timeline.”
+With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which decision review option is right for them and a means to pursue that pathway, then we expect them to receive the full disability benefits they've earned on a faster timeline.”
 
 ### Legacy vs. New Appeals Process
 In 2017, Congress passed the [Appeals Modernization Act](https://www.benefits.va.gov/REPORTS/ama/#:~:text=The%20Veteran%20Appeals%20Improvement%20and,handling%20disagreements%20with%20VA's%20decisions.), which was intended to improve the speed and favorability of VA claims and appeals. The process before that is referred to internally as the “legacy appeals” process. The new process introduces Higher Level Review, Supplemental Claim, and Board Appeal as options for Veterans in the appeals process. 
@@ -26,12 +26,12 @@ In 2017, Congress passed the [Appeals Modernization Act](https://www.benefits.va
 - **Phase 3.** We will validate our solution ideas from both a human-centered and technical perspective to ensure that our approaches solve the pain points and are technically feasible. 
 
 ## Goals
-1. Identify opportunities to improve the disagreement pathway  service journeys  for veterans.
-2. Identify opportunities to use the CST to help veterans choose the disagreement pathways that are right for them.
+1. Identify opportunities to improve the decision review service journeys  for veterans.
+2. Identify opportunities to use the CST to help veterans choose the decision review option that are right for them.
 
 ## Metrics 
 **Relevant OKRs**
-- On average, veterans determine which disagreement pathway to pursue, if any, within 20 business days of receiving a decision 
+- On average, veterans determine which decision review option to pursue, if any, within 20 business days of receiving a decision 
 - Raise CST’s average Medallia score to 4.5/5
 
 
@@ -42,17 +42,17 @@ In 2017, Congress passed the [Appeals Modernization Act](https://www.benefits.va
 - Solo vs VSO vs. private rep
 - Avg time waiting for for appeals decision
 - Solo vs VSO vs. private rep
-- %  of disagreement pathways pursued with VSO representation
-- % of disagreement pathways pursued with private non-VSO representation
+- %  of decision reviews pursued with VSO representation
+- % of decision reviews pursued with private non-VSO representation
 - Number of supplemental claims started via CST entry points
 - Number of HLRs filed via CST entry points
 
 ## Tasks
-- Research: How are Veterans experiencing this journey today? (Choosing a disagreement pathway)
-- Research: What are the disagreement pathways that are most likely to be successful for veterans?
+- Research: How are Veterans experiencing this journey today? (Choosing a decision review option)
+- Research: What are the decision review options that are most likely to be successful for veterans?
 
 ## Open Questions
-- How do Veterans determine which disagreement pathway is best for them?
+- How do Veterans determine which decision review is best for them?
 - Technical discovery: What is available in CorpDB to be leveraged by teams like ours? Map the data schema.
 - Should we be explicitly encouraging Veterans to seek representation/support?
 - Are there any scenarios for which a clean, fast solution exists? And can we help that subset of users act on that?
