@@ -209,8 +209,6 @@
 
 `can_access_id_card?`: boolean, checks if a veteran is LoA3, has an edipi, & and is one of `V1`/`V3`/`V6` for their title 38 status
 
-`identity_proofed?`: calls `loa3?`
-
 `can_access_vet360?`: boolen; checks for `loa3?`, `icn`, and `vet360_id`
 
 `served_in_military?`: boolean; checks for `edipi`, `veteran?`, and `military_person?`
