@@ -130,7 +130,7 @@ Though we are focusing research on issues people have once they are signed in to
 - Mocking up new navigation updates or patterns as part of our findings.
 - Capturing super specific problems with individual products (eg. login credentials, claim status tool, etc).
 
-## Research artifcacts
+## Research activities
 
 - [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?)
 - Mikki's existing task/tool inventory
