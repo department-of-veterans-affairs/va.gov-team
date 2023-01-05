@@ -75,7 +75,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023_01_Benefits_Portfolio_Offsite_Conversation_Guide.md)) 
 	
 ## Recruitment	
 
