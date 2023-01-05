@@ -10,6 +10,7 @@ American Indian Question
   - Waiting on the final go-ahead to do this
 - May be timing the removal to coincide with the removal from the paper form
 - Save in Progress can be managed by allowing saved applications to complete it; would only not show up for new applications
+
 SIGI
 - New options that are different from the current directive
   - Current directive will be updated to match these new options; no timeline on *when* it will be updated
