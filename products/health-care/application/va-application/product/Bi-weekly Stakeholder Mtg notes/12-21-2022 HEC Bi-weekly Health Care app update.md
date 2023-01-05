@@ -1,3 +1,7 @@
+# December 21, 2022 HEC Bi-weekly Health Care application update
+
+### 12/21/22 Agenda Items
+
 American Indian Question
 - Removal came down from VA leadership
   - New development has come up
