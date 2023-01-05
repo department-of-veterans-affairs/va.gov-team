@@ -65,7 +65,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 ### Research materials
 - [Link to conversation guide]()
 	
-## Recruitment--NEED TO UPDATE!
+## Recruitment--LIST REQUIRED CRITERIA AND REMOVE TABLE!
 ### Recruitment criteria
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
