@@ -33,15 +33,18 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson
-- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
-- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
-- Team Product Manager: Heather Justice
-- Sr. UX Design: Jessica Stump
-- UX/UI Design: Nick Osmanski
-- Front-End Engineering: Lisa Zapson
-- Front-end Engineering: Matt Long
-- Back-End Engineering: Lihan Li
+- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
+- Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
+- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
+- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
+- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
+- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
+- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
+- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
 ---
 
@@ -200,9 +203,9 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Thamaraiselvi (Tham) Kaliannan  | thamaraiselvi.kaliannan@va.gov -- PM, scheduling
 
 **CARMA team/MuleSoft.Salesforce team**
-- Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
+- Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
-- Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
+- Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
 - Mili Riddout | mili.riddout@salesforce.com - 
 
