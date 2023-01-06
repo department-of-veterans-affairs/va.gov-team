@@ -1,4 +1,4 @@
-# VSA 10-10CG (Care Giver) Transition Hub
+# 10-10CG (Care Giver) Transition Hub
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 <br>
 
@@ -71,6 +71,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
 - [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
 - [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
+- [Endpoints consumed & owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/Endpoints%20Information.md)
 
 **Initial discovery**
 - [Initial discovery Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery)
@@ -81,6 +82,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md)
 - [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
 - [Sprint Planning and Roadmap](https://docs.google.com/presentation/d/1ASalrxCcn-SXoNzz7ueIYQws97O6ROkXZznVch1mF-c/edit#slide=id.p1)
+- [Quarterly planning GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/847/views/1?layout=board)
 
 
 
@@ -90,36 +92,37 @@ Team vision: An effortless online experience that allows Veterans and their Care
 ## Roadmap
 
 **Now**
-- Improve UX of Primary/Secondary Caregiver selection
-- Facility selection redesign
-- Multilingual
+- Discovery on improving the Facility Selection page
+- Translate form into Spanish
 
 **Next**
-- Rewrite Introduction page
+- Improve UX of Primary/Secondary Caregiver selection
+- 10-10CG Baseline study
 
 **Future**
-- Pending Baseline research and workshops
-- 
+- Translate form into Tagalog
 
 
 ### Features and initiatives we worked on
 This table includes links to the individual feature directory.
 
-| Feature (Github link) | Notes | Status |
+| Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
-| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also considering design for 10-10EZ use, Connecting to Facilities/Lighthouse API | In design |
-| [Language Translation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20Language%20Translation)| State Dept translates, ~2-3 month ETA |Content ticket created|
-| [Primary/Secondary Caregiver clarification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Primary%20vs%20Secondary%20Clarification) | Currently, Roles & Resp are on separate pages | not started yet|
+| [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| In production |
+| [Mulesoft integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Mulesoft%20integration.md) | Mule in the Middle, Mulesoft Proxy | In production |
+| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also design for 10-10EZ consideration | In discovery |
+| [Form language Translation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20Language%20Translation) | N/A | With Content team (Danielle Thierry) |
+| [Primary/Secondary Caregiver selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) | Primary/Secondary clarification | In Discovery |
+| [10-10CG Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-01-Baseline%20Task%20Research) | N/A | Pending completion of 10-10EZ Baseline study |
 
 
 <br>
 
 
 
-## Our team TBD team roster
+## Our team 2023 team roster
 
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Mark Fallows | mark.fallows@va.gov / mark.fallows@adhocteam.us - Associate Product Manager
 - Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
 - Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
@@ -158,7 +161,7 @@ This table includes links to the individual feature directory.
 - Touchbase with Va.gov & Platform Team for Caregivers
    - Caregivers business team, CARMA team, and VA.gov team meet
    - Depending on the current projects we meet once a week or every other week for ~1 hour on Fridays
-   - Tham- manages the agenda, work with her to share topics
+   - Tham manages the agenda, work with her to share topics
    - 10-10 team responsible to track and share metrics for total online applications submitted - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true) source
 
 ![image](https://user-images.githubusercontent.com/92328831/204030100-c83dca4c-b5e2-4b86-9049-2a396c35d5ae.png)
