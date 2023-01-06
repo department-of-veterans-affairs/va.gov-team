@@ -136,7 +136,7 @@ This table includes links to the individual feature directory.
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **Caregiver Program Business Unit Team**
 - Matt Brown | Matthew.Brown4@va.gov  - Assoc. Director (leads the relationship between the program and VA.gov)
@@ -147,14 +147,12 @@ This table includes links to the individual feature directory.
 - Hollie-Lyn James | hollie.speer@va.gov - Health System Specialist
 - Rebecca (Becca) Bixler | rebecca.bixler@va.gov - Health System Specialist
 
-
 **CARMA team**
 - Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
-
-
+- Mili Riddout | mili.riddout@salesforce.com - 
 
 ### Recurring stakeholder meetings
 
