@@ -60,6 +60,7 @@ Include notes about which Platform process was in use when this feature was in d
 - Shawna Hein | shawna.hein@va.gov -- Design lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
+
 **Post March 2022 transition**
 - Heather Justice | Heather.justice@va.gov - Product Manager
 - Jessica Stump | jessica.stump@va.gov -- Sr. UX designer/researcher
