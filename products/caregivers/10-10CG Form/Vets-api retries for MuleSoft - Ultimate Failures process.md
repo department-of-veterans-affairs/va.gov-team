@@ -94,7 +94,6 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 - After 1 day of failed retries, any alerts will be posted to the Slack Channel **#health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
-     - Mark Fallows
      - Lihan Li
      - Lisa Zapson
      - Matt Long
