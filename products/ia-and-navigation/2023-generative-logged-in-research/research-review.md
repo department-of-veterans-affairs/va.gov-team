@@ -2,8 +2,6 @@
 
 ## Goals
 
-## Research review goals
-
 ### Determine what we already know
 
 This includes:
