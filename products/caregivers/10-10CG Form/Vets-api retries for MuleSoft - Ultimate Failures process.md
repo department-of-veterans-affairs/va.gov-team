@@ -83,7 +83,6 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
      - Once the 10-10 Health Apps team's review determines that the MuleSoft team needs to be involved, an update will be posted to the Slack channel **vecms-carma_vadotgov_development_external** and an email will be sent to the audience below:
           - Patrick Bateman
           - Heather Justice
-          - Mark Fallows
           - Lihan Li
           - Lisa Zapson
           - Matt Long
