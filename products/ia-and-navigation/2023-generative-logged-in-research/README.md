@@ -135,8 +135,7 @@ Though we are focusing research on issues people have once they are signed in to
 - [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?)
 - Mikki's existing task/tool inventory
 - [Research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/research-review.md)
-- Analytics review
-- Call center review
-- Medallia review
+- [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/analytics-review.md)
+- [Medallia and call center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/medallia-call-center-review.md)
 - User research findings
 - Final research summary
