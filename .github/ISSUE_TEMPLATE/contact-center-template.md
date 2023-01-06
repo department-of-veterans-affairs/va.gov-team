@@ -9,8 +9,12 @@ assignees: ''
 
 ## Description
 
-**Salesforce Ticket ID:** 
+**Salesforce ticket ID:** 
 [TICKET NUMBER]
+
+**Date issue reported:**
+
+**Application ID number, if provided:**
 
 **Issue Veteran is experiencing:**
 
@@ -23,3 +27,6 @@ assignees: ''
 ## Support provided
 
 <!-- How was this issue ultimately solved? -->
+
+### List related GitHub tickets here
+
