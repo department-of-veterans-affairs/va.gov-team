@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide for 1010 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
+# Conversation Guide for 1010 Team, Health Care Application (10-10EZ), Baseline Tasks (1), January 2023
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -46,15 +46,6 @@ Before we start, a few things I want to mention:
 
 
 ---
-
-## Warm-up Questions (Optional) - 5 minutes
-
-Before we begin the session, let’s start with a few warm-up questions.
-
-- Do you currently have health care benefits from the VA?
-- [If yes] What is your memory/recollection of the application process?
-
-
 
 ## Task: [Start Application] - 5 minutes
 - For this session today, we are going to work through the scenario that you are interested in applying for VA health care. 
@@ -121,7 +112,6 @@ Before we begin the session, let’s start with a few warm-up questions.
 - [Does the participant select a disability rating that results in the short form flow?]
 - [Does the particpant select an option that results in the VA pension question page?]
 
-{If selected a rating of above 50% and directed to short form flow, skip to [TASK INSURANCE INFORMATION](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/conversation-guide.md#task-insurance-information---5-minutes).}
 
 
 ---
