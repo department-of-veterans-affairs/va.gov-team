@@ -103,7 +103,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 
 
 ### Criteria Table 
-|                               | **Cohort 1** |
+|                               | **Single Study** |
 | ----------------------------- | ------------ |
 | **_SEX_**                     |              |
 | Male                          | 8            |
@@ -156,11 +156,11 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | **_EDUCATION_**               |              |
 | Elementary                    |              |
 | Intermediate                  |              |
-| GED                           | 1            |
+| GED                           | 2            |
 | High School                   | 5            |
 | Some College                  | 5            |
-| Associate's                   | 4            |
-| Bachelors                     | 4            |
+| Associate's                   | 2            |
+| Bachelors                     | 1            |
 | Masters                       |              |
 | Professional                  |              |
 | Doctoral                      |              |
@@ -173,7 +173,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | Desktop                       | 7            |
 | Laptop                        |              |
 | Mobile                        | 6            |
-| Tablet                        | 3            |
+| Tablet                        | 2            |
 | \---                          | \---         |
 | **_WEBSITE_**                 |              |
 | [VA.gov](http://VA.gov)       |              |
@@ -209,13 +209,13 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 |                                                               | **Participants** |
 | ------------------------------------------------------------- | ---------------- |
 | **ASSISTIVE TECH**                                            |                  |
-| Font resizing/larger                                          | 1                |
+| Font resizing/larger                                          |                  |
 | Screen reader                                                 | 2                |
 | Braille terminal                                              |                  |
 | Speech recognition sftw                                       |                  |
 | Speech generating device                                      |                  |
 | Speech to text                                                |                  |
-| High contrast mode                                            | 1                |
+| High contrast mode                                            |                  |
 | Alternative keyboard                                          |                  |
 | Alternative mouse or stylus                                   |                  |
 | Keyboard only navigation (no mouse usage)                     | 1                |
@@ -255,9 +255,8 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 
 ## Screeener questions
 
-
-
-
+- Are you currently eligible and receiving health care benefits from VA? {if yes, exclude from this study)
+- Do you have a service connected disability rating of over 50%? {If yes, exclude from this study)
 
 
 
@@ -269,7 +268,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 January 2023
 
 * Kickoff call requested
-* Preferred date/time: 
+* Preferred date/time: January 10, 2023 at 1pm EST
 
 
 
@@ -278,11 +277,11 @@ We will be testing what is currently approved in the staging environment.
 
 > A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email:
+* Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: January 2023
+* Planned dates of research: **January 16 - 27 2023**
 
 ### Length of sessions
 * Session length: 1 hour 
