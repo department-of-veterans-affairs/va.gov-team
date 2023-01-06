@@ -250,7 +250,7 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
 Launch in Q1 2023
 
 ### Prepare
-* **We would like to request a kickoff call with Perigean before recruiting begins.**
+* **We would like to request a kickoff call with Perigean before recruiting begins to align on research goals, recruitment criteria, and terminology for screener questions in the survey and emails that will be sent to Veterans.**
 	* Available times for kickoff call: 
 	* Monday, January 9, any time
 	* Tuesday, January 10 any time except 2-2:30pm EST
