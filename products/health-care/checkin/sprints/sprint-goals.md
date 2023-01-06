@@ -16,6 +16,9 @@ ________________________________________________________________________________
    - Evolve the trendline idea
 
 #### UX Sprint Goals  
+- Unified Check-In Experience
+- Staging Review Collab Cycle
+- Travel Reimbursement (currently blocked)
 #### Engineering Sprint Goals
 
 ---------------------- END OF FUTURE/TENTATIVE -----------------------------
