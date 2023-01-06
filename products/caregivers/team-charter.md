@@ -33,11 +33,11 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman
-- DEPO Engineering Lead: Stephen Barrs
+- DEPO Product Lead: Lauren Alexanderson
+- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
+- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
 - Team Product Manager: Heather Justice
-- Team Associate Product Manager: Mark Fallows
-- Sr UX Design: Jessica Stump
+- Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
