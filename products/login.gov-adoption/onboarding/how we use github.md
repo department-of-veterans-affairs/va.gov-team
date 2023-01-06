@@ -14,10 +14,10 @@ Working in Github is part of the VA.gov’s commitment to keeping things open. B
 
 ## How we use Github
 ### Where we work
-The CEDAR Identity Product Team (also referred to as the Login.gov Adoption Team) uses the [department-of-veterans-affairs](https://github.com/department-of-veterans-affairs) repository. Our work sits in the [identity-product-team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-product-team).
+The CEDAR Identity Product Team (also referred to as the Login.gov Adoption Team) uses the [department-of-veterans-affairs](https://github.com/department-of-veterans-affairs) repository. Our work sits in the [login.gov-adoption folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/).
 
 ### Access to Github
-When you’re onboarded to the VA, you’ll need to be given permission to access the [department-of-veterans-affairs](https://github.com/department-of-veterans-affairs) repository. When you join this project you should receive a [Welcome document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-product-team/onboarding/welcome%20to%20the%20team.md) which explains how to get access to this Github repository.
+When you’re onboarded to the VA, you’ll need to be given permission to access the [department-of-veterans-affairs](https://github.com/department-of-veterans-affairs) repository. When you join this project you should receive a [Welcome document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/welcome%20to%20the%20team.md) which explains how to get access to this Github repository.
 
 ### How we create or move work to Github
 We can work directly in Github, creating, writing and collaborating on documents there.
