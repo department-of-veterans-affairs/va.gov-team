@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, My VA Audit, October 2022
+# Research Plan for Authenticated Experience, My VA Audit, January 2023
 
 ## Background
 As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
@@ -250,6 +250,10 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
 Launch in Q1 2023
 
 ### Prepare
+* **We would like to request a kickoff call with Perigean before recruiting begins.**
+	* Available times for kickoff call: 
+	* Monday, January 9, any time
+	* Tuesday, January 10 any time except 2-2:30pm EST
 
 * Pilot participant email: stephen.barrs@va.gov
 * Date and time of pilot session: Wednesday, January 11 at 4:00pm EST
@@ -261,7 +265,7 @@ Launch in Q1 2023
 * Session length: 60 minutes
 * Buffer time between sessions: 30 minutes
 
-### Availability
+### Availability for sessions
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
