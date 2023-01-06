@@ -6,7 +6,6 @@
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
 5. [Team norms](#team-norms)
-6. [VA Relationships](#va-relationships)
 
 ## Guideposts
 
