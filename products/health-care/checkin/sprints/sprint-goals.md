@@ -6,16 +6,30 @@ ________________________________________________________________________________
 - CIE Tech Debt & Bugs    
     - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
     
-## 12/28/2022 - 1/10/2022 ---------------------- FUTURE/TENTATIVE -----------------------------
+## 1/11/2023 - 1/24/2022 ---------------------- FUTURE/TENTATIVE -----------------------------
 
-#### Planned Releases ---------------------- FUTURE/TENTATIVE -----------------------------
+#### Planned Releases 
 - NONE
 
-#### Analytics Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+#### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
    - Evolve the trendline idea
 
-#### UX Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+#### UX Sprint Goals  
+#### Engineering Sprint Goals
+
+---------------------- END OF FUTURE/TENTATIVE -----------------------------
+
+## 12/28/2022 - 1/10/2022
+
+#### Planned Releases 
+- NONE
+
+#### Analytics Sprint Goals
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+   - Evolve the trendline idea
+
+#### UX Sprint Goals  
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Figure out how to implement feedback from the collab cycle review
          - [Design feedback around card component](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51409) (Zach) 
@@ -33,7 +47,7 @@ ________________________________________________________________________________
     - End of Interactions (#49521) (Kelly)
     - [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
 
-#### Engineering Sprint Goals  ---------------------- FUTURE/TENTATIVE -----------------------------
+#### Engineering Sprint Goals
 - Production Support
     - perform prod support
     - Automate the day-end summaries
