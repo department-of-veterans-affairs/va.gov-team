@@ -78,9 +78,9 @@ If our research suggests that more broad updates to the navigation need to happe
 - Platform - design system
 - Mobile app - IA and labeling
 
-### People to work on this effort are limited
+### There is no centralized IA team
 
-When this work starts, Mikki will be the only person who's full-time on this work, and she doesn't have a team. We need a team of folks to support this work, just like we do with any effort. This will require product, IA, design, research, and content all working together.
+Right now, Mikki is being treated as a team of one who is responsible for too many IA/navigation-related tasks and projects. We are able to support this effort by working cross-team (Mikki, auth experience, call center team), but OCTO is not used to working in this way. There will be challenges around coordination across teams, making sure we have the right people to do the work, and potentially not having a single researcher who is involved the whole time.
 
 ### People still view IA/navigation as "unauth" and "auth"
 
