@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: January 4, 2022**
+**Last Updated: January 6, 2022**
 
 ## Table of Contents
 
@@ -128,7 +128,7 @@ Though we are focusing research on issues people have once they are signed in to
 - Testing UI mockups or prototypes of an ideal/potential logged-in state.
 - Evaluating specific questions around the health apartment.
 - Mocking up new navigation updates or patterns as part of our findings.
-- Capturing super specific problems with individual products (eg. login credentials, claim status tool, etc).
+- Capturing specific problems with individual products (eg. login credentials, claim status tool, etc).
 
 ## Research activities
 
