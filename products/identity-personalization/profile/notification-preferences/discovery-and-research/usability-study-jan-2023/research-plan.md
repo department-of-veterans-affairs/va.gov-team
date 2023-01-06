@@ -6,7 +6,8 @@ We know we will need to support additional channels and notifications within our
 
 In order to make this determination, we need to get our existing pattern in front of users, with all the notifications we’re aware of today. 
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md).
+- [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md).
+- [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel/README.md)
 
 ### OCTO Objectives 
 
@@ -18,7 +19,7 @@ This research supports the following 2023 OCTO objectives:
 VA notifications cover a broad spectrum of VA services, and managing settings is something Veterans may do at any stage from Starting Up through Aging.
 
 ## Research goals
-1. Understand how our single page, auto-save works for users when all known notifications are represented. 
+1. Learn how our single page, auto-save works for users when all known notifications are represented. 
 2. Learn what information needs to be surfaced make the current settings and options clear to people.
 
 ### Outcome
@@ -41,7 +42,9 @@ This will be a moderated usability study conducted remotely over Zoom.
 ### Research materials
 
 - Link to conversation guide to come
-- Link to prototype to come
+- [Prototype (complete contact info)](https://codepen.io/surfbird/full/MWBjzbL)
+- Link to prototype with missing contact info to come
+- Link to read/edit version of prototype to come
 	
 ## Recruitment	
 
@@ -54,32 +57,41 @@ We’ll use Perigean to recruit participants.
 We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 
 #### Primary criteria
-All participants:
+**All participants:**
 - Must be Veterans 
-- Have received health care services at a VA Medical Facility within the last 12 months
-- Have received a text message or email notification from VA
+- Have used My HealtheVet within the last 12 months
+- Have received a text message or email notification from VA within the last 12 months
 - Have an identified cognitive impairment
 
-Some participants:
+**Some participants:**
 - Must require screenreader software to use computers and mobile devices (recruit 4 participants total)
 - Must be over the age of 55 (recruit 8 participants in total)
+- Must be willing to join from a mobile device (recruit 6 in total)
+- Must be willing to join from a desktop device (recruit 6 in total)
 
 #### Screener questions to target criteria not captured in the recruitment sign-up survey:
-1. Have you received health care services at a VA medical facility (this could be at a VA clinic, hospital, or VA community care provider) in the last 12 months? 
+1. Have you signed into the My HealtheVet website at least once (this could be at a VA clinic, hospital, or VA community care provider) in the last 12 months? 
 - If yes, go to question 2. 
 - If no, disqualify
-2. 
+2. Have you received text messages or email notifications from VA within the last 12 months?
+- If yes, go to question 2. 
+- If no, disqualify
+3.  Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (Proceed to question 3a if yes, 3c if no)
 
+	 3a. Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+	
+	3b. Please list the name of the assistive technology or software you will use during the session.
 
+	3c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 6 mobile users)
 
 ## Timeline
 ### Prepare
-Our research artifacts, including the prototype, will be complete by January 17.
+Our research artifacts, including the prototype, will be complete by January 16.
 * Pilot participant email: TBD
 * Date and time of pilot session:  TBD
 
 ### Research sessions
-* Planned dates of research: Jan 25-30
+* Planned dates of research: Jan 19-24
 
 ### Length of sessions
 * Session length: 45 minutes
@@ -87,7 +99,7 @@ Our research artifacts, including the prototype, will be complete by January 17.
 * Maximum Sessions per day: 4
 
 ### Availability
-
+TBD
 	
 ## Team Roles	
 Please list the people who will be serving in each role.	
@@ -101,5 +113,5 @@ Please list the people who will be serving in each role.
 	- samara.strauss@va.gov
 	- adam.whitlock@adhocteam.us
 	- tom.harrison@adhocteam.us
-	- Florence
+	- florence.mccafferty@agile6.com 
 	- berni.xiong@agile6.com
