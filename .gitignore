@@ -3,12 +3,3 @@ scripts/node_modules
 scripts/repo-replace-url.log.csv
 scripts/repo-deprecation.log.csv
 .idea
-platform/cms/research/user-survey-results/CMS User Satisfaction - Q1 2021.pdf
-teams/vsa/teams/sitewide-content/GitHub_content_process (1).pdf
-platform/cms/accelerated_publishing/AP - Solution Options Matrix.pdf
-platform/cms/accelerated_publishing/content-build/content-build.pdf
-platform/cms/archive/governance-new-vagov/Drupal-sections-user-roles-permissions-042721.pdf
-platform/cms/archive/governance-new-vagov/stakeholder-user-interview-notes/BS-VHA-web-comms-interview-governance.pdf
-platform/*
-scripts/*
-teams/*
