@@ -17,8 +17,16 @@ ________________________________________________________________________________
 
 #### UX Sprint Goals  
 - Unified Check-In Experience
+    - Create presentation - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178
+    - Start wires - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174
+- Design consistency with VAOS
+    - Aria labels (for Brian) - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450
 - Staging Review Collab Cycle
-- Travel Reimbursement (currently blocked)
+- End of Interactions
+    - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
+    - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
+- Travel Reimbursement
+    - Edits to research plan - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482
 #### Engineering Sprint Goals
 
 ---------------------- END OF FUTURE/TENTATIVE -----------------------------
