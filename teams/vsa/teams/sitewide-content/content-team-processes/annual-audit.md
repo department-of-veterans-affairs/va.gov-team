@@ -35,5 +35,5 @@ SMEs to review all identified content for the following:
 - Identify content that should move in position (i.e. from benefit hub to R&S) based on the content placement criteria. 
 - Audit all content pages against the content pre-publication checklist for broken links, content design, plain language, and accessibility issues.
 - Audit all content pages against the IA checklist.
-- Audt all content against relevant content briefs and content style guide. Make any needed changes to content and flag any relevant additions needed to briefs or guide. 
+- Audit all content against relevant content briefs and content style guide. Make any needed changes to content and flag any relevant additions needed to briefs or guide. 
 - Run and record grade level checks of each page for documentation. Determine if we need to address grade level.
