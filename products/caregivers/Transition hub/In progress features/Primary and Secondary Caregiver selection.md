@@ -50,7 +50,7 @@ This table includes links to the individual design work products.
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37542)
+- The team has not yet begun the Collaboration Cycle, we are still in discovery
 
 
 <br>
