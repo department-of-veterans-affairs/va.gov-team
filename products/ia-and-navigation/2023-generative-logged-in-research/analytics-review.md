@@ -12,7 +12,7 @@
 
 Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting analytics that will help us address the following questions:
 
-### Sign in to VA.gov
+### Signing in to VA.gov
 
 - What percentage of users sign in to VA.gov in [selected time period]?
 - What are the [top ten?] popular pages for people to sign in on?
