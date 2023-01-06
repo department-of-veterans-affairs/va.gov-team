@@ -6,7 +6,7 @@ We know we will need to support additional channels and notifications within our
 
 In order to make this determination, we need to get our existing pattern in front of users, with all the notifications we’re aware of today. 
 
-- [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md).
+- [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md)
 - [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel/README.md)
 
 ### OCTO Objectives 
@@ -42,7 +42,7 @@ This will be a moderated usability study conducted remotely over Zoom.
 ### Research materials
 
 - Link to conversation guide to come
-- [Prototype (complete contact info)](https://codepen.io/surfbird/full/MWBjzbL)
+- [Prototype (complete contact info)](https://codepen.io/moose62712/pen/mdjOGga)
 - Link to prototype with missing contact info to come
 - Link to read/edit version of prototype to come
 	
