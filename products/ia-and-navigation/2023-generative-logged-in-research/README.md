@@ -93,7 +93,7 @@ Though we are focusing research on issues people have once they are signed in to
 - Why do people sign in to VA.gov? When? What prompts them to? Where on the site?
 - Are our patterns to prompt people to sign in effective? How could that be improved? What is confusing/overwhelming/doesn't meet expectations (outside of the known issues with the actual login credentials)?
 
-### Tasks & tools
+### Navigating to tasks & tools
 
 - What tasks do people come to VA.gov to do? What tasks do they specifically intend to sign in to do?
 - What are the known problems for users around navigating to tasks and tools when they are logged in to VA.gov (eg. reliance on homepage or My VA quick links)? What's not working?
