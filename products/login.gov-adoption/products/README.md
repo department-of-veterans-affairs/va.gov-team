@@ -3,7 +3,7 @@
 ### Table of contents
 - [Overview](#overview)
 - [Priorities](#priorities)
-- [Product outlines](iInitiatives)
+- [Product outlines](#initiatives)
 - [Potential MVP features and Epics](#potential-mvp-features-and-epics)
 - [Requirements and constraints](#requirements-and-constraints)  
 - [Value propositions](#value-propositions) 
