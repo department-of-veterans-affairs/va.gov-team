@@ -33,7 +33,7 @@ Currently, the existing notification preferences we support all happen to only u
 
 ## Research artifacts
 
-- Research outline
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-jan-2023/research-plan.md)
 - Conversation guide
 - Prototype
 - Topline summary
