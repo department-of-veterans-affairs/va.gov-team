@@ -82,7 +82,26 @@ Create, review, estimate, and prioritize backlog items.
 </details>
 
 #### Issue Etiquette
-Anyone on the team can create a user story. All are responsible for keeping them up to date.
+- Anyone on the team can create a(n) issue/ticket/story. 
+- All teammates are responsible for keeping them up to date.
+- Templates are available within the new issue/ticket/story during creation - Pick one you like!
+
+**Labels to use**
+- All tickets should include:
+     - 1010-team
+     - Product: Either 1010-ez or 1010-cg
+- EZ initiative labels (examples)
+     - 1010-short-form
+     - 10-10ez-notifications
+     - household-info-redesign
+     - American-Indian
+     - sigi
+     - facilities-1010
+- CG initiative labels (examples)
+     - legal-rep
+     - MuleSoft
+     - 1010 primary/secondary
+     - facilities-1010
 
 - We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
     - Clear acceptance criteria
@@ -92,42 +111,27 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - All components/steps have been accounted for in the epic
     - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- Naming convention for tickets/stories/tasks - Thoughts?
+- Naming convention for tickets/stories/tasks
     - [area of work] Epic/Initiative: Brief title of work to be done
     - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
 
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-10-10_ and what category it falls into (backend, front-end, research, design, product)
+**Epics** should include:
+   - Clear acceptance criteria
+   - Definition of done  
+   - A user story that reflects the benefit to a Veteran, Caregiver, or other user
+   - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+   - All components/steps have been accounted for in the epic
+   - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- For a task to go into the **"Backlog"** column, it must have the following:
+**Stories/Tickets** should include:
    - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
+   - Linked to another ticket or epic
+   - Includes:
+        - Description (what happened & why we need this ticket), 
+        - General tasks to perform
+        - Acceptance criteria (expected result)
 
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Be groomed by the team
-   - Estimate
-   - Sense of priority (relative to other tickets)
-   
-- During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
-- As they are worked, tickets get moved into **"In Progress"**
-
-- For a task to be in **"Blocked"** 
-   - An external dependency prevents the ticket from being completed
-   
-- For a task to be in **"Validate"** 
-   - All work related to the ticket is implemented
-   - Acceptance criteria have been met
-   - Work is accessible in a review instance and ready for internal team members to review
-
-- For a task to be **"Done"** 
-   - Internal validation has occured
-   - Merged to main/master
-   - Each ticket's last comment before closing should reflect when validation has occurred and by whom
-   - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
+- If there are new work requests or sudden changes, contact the Product Manager to assist in scheduling into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -143,7 +147,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
-- For anything considered a "release" or significant change, Tze (the VSA QA lead) will be responsible for QA
+- For anything considered a "release" or significant change, the QA lead will be responsible for QA
 - Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
@@ -208,5 +212,4 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 ### Recurring stakeholder meetings
 
 - 10-10EZ Online Application Update
-   - HEC team and VA.gov team meet
-   - We meet every other week for ~1 hour
+   - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
