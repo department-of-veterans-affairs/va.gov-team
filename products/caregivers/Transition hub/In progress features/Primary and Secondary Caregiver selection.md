@@ -1,4 +1,6 @@
-# VSA 10-10CG Primary/Secondary Caregiver selection hub
+# 10-10CG Primary/Secondary Caregiver selection hub
+
+**Updated 1/6/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
