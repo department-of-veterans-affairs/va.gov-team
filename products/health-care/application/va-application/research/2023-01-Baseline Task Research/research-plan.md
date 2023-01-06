@@ -42,9 +42,7 @@ We will use the results from this research to establish a baseline for comparris
 ### Research questions
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
-- What tasks have a range of participant reactions?
-- Are there common themes between participant cohorts?
-
+- How successufl are participants in completing the household information section questions?
 
 ### Hypotheses
 - The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
