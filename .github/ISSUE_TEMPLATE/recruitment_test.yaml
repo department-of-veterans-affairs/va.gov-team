@@ -8,7 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is an easy request form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
+        This is an easy request form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
+        In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
   - type: textarea
     id: ideal-session-count
     attributes:
@@ -103,8 +104,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Tracking your participants
-        (Option A), After submitting, Perigean will create a list of participants with dates in a github ticket and assign it to you.
-        (Option B), After submitting, you can make a copy of this participant tracker to keep a record on no shows, notes, and more. 
+        ## A couple more steps before you're done
+        - [ ] Add your team and study's labels to this ticket. This will help us track it in the research repo.
+        - [ ] If you requested for disabled Veterans, add the `accessibility` label to this ticket too.
+        - [ ] (Option A), After submitting, Perigean will create a list of participants with dates in a github ticket and assign it to you. (Option B), After submitting, you can make a copy of this participant tracker to keep a record on no shows, notes, and more. (NOTE to reviewers: which would be easier theoretically? I feel like it's option a, but would need to see if it's feasible first.)
     
      
