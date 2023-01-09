@@ -17,13 +17,13 @@
 
 
 PERMANENT ADDRESS AND CONTACT INFORMATION
-- Street Address:     4801 VETERANS DR
-- Work Phone Number:  -
-- City:               SAINT CLOUD
-- State:              MINNESOTA
-- Zip Code:           56303
-- County:             145
-- Country:            USA
+- Street Address:    
+- Work Phone Number:  
+- City:               
+- State:             
+- Zip Code:           
+- County:             
+- Country:           
 - Home Phone Number: 
 - Work Phone Number: 
 - Cell Phone Number:  
