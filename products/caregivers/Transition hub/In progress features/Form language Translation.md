@@ -48,7 +48,7 @@ Once we receive the translation back from the State Department, we will begin de
 - [Language translation folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20Language%20Translation)
 - [Language translation Epic](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/48572)
      - [#49840 ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49840) submitted to Content team for translation
-     - [Content Epic #50376 for tracking work to translate form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50376)
+     - [Content Epic #50376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50376) for tracking work to translate form
 
 
 
