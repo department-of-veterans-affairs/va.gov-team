@@ -4,6 +4,7 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - [ ] Add links to final prototypes to this conversation guide
 - [ ] Confirm note taker and assistive tech support availability
+- [ ] 
 
 
 ### Day of the session
@@ -37,7 +38,7 @@ Before we start, I want to confirm a few pieces of information that were shared 
 
 Thank you for confirming these things! Now, I have a few things about today I want to go over with you:
 
-- **This entire session should take about 30-45 minutes / (60-75 minutes for screenreaders).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30-45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -55,9 +56,9 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 
 ## First Task: Review first prototype  - 5 minutes / 10 minutes with assistive tech
 I’m going to send you a link to a prototype, and I’d like to get your feedback on it:
-- **Facilitator: Alternate which prototype you start with**
-	- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
-	- If starting with autosave mode, use this link: (need link)
+	- **Facilitator: Alternate which prototype you start with**
+		- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
+		- If starting with autosave mode, use this link: (need link)
 	 
 Talk to me about what you can do here. Don’t click on anything just yet, please.
 - What questions come up for you as you look at this page?
@@ -100,20 +101,17 @@ Take a look at this page.  What do you notice that is different from the other v
 - Is anything unclear or confusing?
 - - **For autosave**: What comments do they make about the lack of a save button?
 
-
 ### Things to watch for:
-
 - What is the participant’s reaction to this approach, vs the first one?
 - What questions do they ask? 
 - What is their reaction to the level of information presented?
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - up to 10 minutes
+That’s everything I wanted to review with you- thank you so much for your feedback. 
+- Do you have any other thoughts you’d like to share that you haven’t had a chance to talk about yet?
+- Any questions for me?
 
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -121,13 +119,5 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
-
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-
+In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.
