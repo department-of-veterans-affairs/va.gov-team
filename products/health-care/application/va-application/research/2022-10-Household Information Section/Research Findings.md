@@ -184,26 +184,29 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Research%20Plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Conversation%20Guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+Mural Board:
+Spreadsheet: 
 
 
 ## Pages and applications used
 
 Link to prototypes or pages that were tested
-
+Desktop Protoptype
+Mobile Prototype
 
 ## Other supporting documents created
+Sketch Designs
 
-e.g. user flows, personas, etc.
+Sketch Flows
 
 
 ## Secondary research
@@ -211,6 +214,11 @@ e.g. user flows, personas, etc.
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+
+
+[Link to audit prior to ]
+[2022 GA page data]
+
 
 
 ## Who we talked to 
@@ -273,25 +281,25 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
+* White: 1
+* Black: 3
+* Hispanic: 1
+* Biracial: 5
 * Asian: x
 * Native: x
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 5
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
