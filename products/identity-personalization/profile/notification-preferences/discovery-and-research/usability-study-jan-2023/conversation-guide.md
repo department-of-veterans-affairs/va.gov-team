@@ -55,9 +55,9 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 
 ## First Task: Review first prototype  - 5 minutes / 10 minutes with assistive tech
 I’m going to send you a link to a prototype, and I’d like to get your feedback on it:
-	- **Facilitator: Alternate which prototype you start with**
-		- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
-		- If starting with autosave mode, use this link: (need link)
+- **Facilitator: Alternate which prototype you start with**
+	- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
+	- If starting with autosave mode, use this link: (need link)
 	 
 Talk to me about what you can do here. Don’t click on anything just yet, please.
 - What questions come up for you as you look at this page?
