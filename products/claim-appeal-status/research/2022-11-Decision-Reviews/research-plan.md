@@ -45,8 +45,10 @@ Part 1: General questions
 
 Part 2: Concept prototype
 
-- Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
-- [Reviewing decision review options] What would you do next?
+- Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
+- [Show user [concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)] On a scale of 1-5, how helpful is this? 
+- Does this information help you decide which decision review option is right for you?
+- What would you do next?
 - What would you expect to happen if you filed a (decision review option) in this way? 
 - Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
