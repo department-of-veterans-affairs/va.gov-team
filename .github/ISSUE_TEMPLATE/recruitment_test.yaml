@@ -44,7 +44,6 @@ body:
     id: branch
     attributes:
       label: What branch should your participants be affiliated with?
-      multiple: false
       options:
         - Various											
         - Marine Corps											
@@ -59,7 +58,6 @@ body:
     id: technology
     attributes:
       label: What technology should the participant have experience with and use in the session?
-      multiple: false
       options:
         - Various											
         - Desktop											
@@ -71,7 +69,6 @@ body:
     attributes:
       label: Select your first primary equity category
       description: If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
-      multiple: false
       options:
         - LGBTQ+
         - Black
@@ -91,7 +88,6 @@ body:
     attributes:
       label: Select your second primary equity category
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
-      multiple: fale
       options:
         - LGBTQ+
         - Black
