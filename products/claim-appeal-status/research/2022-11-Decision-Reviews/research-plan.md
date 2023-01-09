@@ -1,6 +1,6 @@
 # Research Plan for Benefits Team 1: Decision Review Options
 
-##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182). In other files, these may also be referred to as "Disagreement Pathways."
+##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182).
 
 ## Background
 Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which decision review option to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
