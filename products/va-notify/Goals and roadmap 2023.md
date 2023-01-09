@@ -12,19 +12,27 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 
 ### Launch Comp & Pen Payment notifications
 
-As we wrap up Phase 1 of the VEText migration, we have some room to re-engage with the BIA team to resume work.  Our goal should be launch this in Q2 oft his calendar year.
+As we wrap up Phase 1 of the VEText migration, we have some room to re-engage with the BIA team to resume work.  
 
 ### Expand onsite notifications
 
 As we partner with the authenticated experience team, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov feature. We'll be investigating the best way to display this feature in SSUI and how best to support the authenticated experience team in adding new notifications.
 
-### Promote template from Staging to Prod
+### Promote templates from Staging to Prod
 
 We know from our customers that copy template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
 
+### Status and Callbacks for Twilio
 
+As we close out our VEText migration, we need a way to get status updates and callbacks from Twilio.
 
+### Support MHV on VA.gov Portal
 
+As MHV moves it's notification preferences into VA.gov we will start sending those notifications for MHV.  This work  may also include other notifications as needed to support the new portal
+
+### Phone Number Lookup/Validation
+
+VA Profile is in the process of adding a flag to the Veteran contact info to determine if the mobile number in the profile is an actual mobile number.  Our goal for this MVP is to integrate with this feature to check the flag before sending a text message.  This will allow us to avoid sending text messages to phone numbers that are not mobile numbers and save us and our business lines time and money.  
 
 ## 100 foot view: Q1 CY2023 (January - March) roadmap
 
