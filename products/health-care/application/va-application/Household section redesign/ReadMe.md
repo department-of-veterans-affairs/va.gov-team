@@ -49,7 +49,11 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-Overall exit rate for 2021 on the Financial Disclosure page was 14.4%.  Target a third reduction to 10%
+| Product KPI | 2021 | 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |-------------- |
+|Household section exit rate |14.4%|12.6% |8% | TBD |TBD |
+
+
 
 #### **Key Result #2:** Increase application submissions by 4%, and submissions within a single session by 5%
 This is based on a third of current exit rates converting to successful submissions
