@@ -2,10 +2,7 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-- [ ] Add links to final prototypes to this conversation guide
 - [ ] Confirm note taker and assistive tech support availability
-- [ ] 
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -19,8 +16,6 @@ Slack for real-time feedback from observers.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - Be clear on which prototype you are starting with
-	- Prototype A (LINK)
-	- Prototype B (LINK)
 - When the participant is ready, begin the session with the following intro*
 
 
@@ -58,7 +53,7 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 I’m going to send you a link to a prototype, and I’d like to get your feedback on it:
 	- **Facilitator: Alternate which prototype you start with**
 		- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
-		- If starting with autosave mode, use this link: (need link)
+		- If starting with autosave mode, use this link: [https://codepen.io/surfbird/full/gOjmPyj](https://codepen.io/surfbird/full/gOjmPyj)
 	 
 Talk to me about what you can do here. Don’t click on anything just yet, please.
 - What questions come up for you as you look at this page?
