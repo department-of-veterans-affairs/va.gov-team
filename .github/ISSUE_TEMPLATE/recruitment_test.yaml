@@ -1,5 +1,5 @@
-name: Recruitment Request (test)
-description: File a recruitment request to Perigean
+name: Easy Recruitment Request (test)
+description: Use an easy recruitment form to submit a request to Perigean. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
 title: "[Recruitment Request]: Insert name of your study here"
 labels: ["research"]
 assignees:
@@ -8,12 +8,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        OCTO works with Perigean, a small business, to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
+        This is an easy request form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location.
   - type: textarea
     id: ideal-session-count
     attributes:
       label: Ideally, how many participants do you want in your study?
-      description: "Replace the 0s with the amount you want from each group"
+      description: "Replace the 0s with the amount you want from each group. Perigean will recruit double your total ideal amount."
       value: |
         Veterans: 0
         Family Members: 0
@@ -23,10 +23,54 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: benefits-1
+    attributes:
+      label: What benefits or services should your participants have experience with?
+      description: You can select "various" for a mix of all below or "no benefits" if you're looking for folk without experience 
+      multiple: true
+      options:
+        - Various (a mix of all below)									
+        - No Benefits or Service Experience										
+        - Disability											
+        - Education											
+        - Employment											
+        - Finances											
+        - Healthcare											
+        - Housing											
+        - Life Insurance											
+        - Memorialization											
+        - Pension
+  - type: dropdown
+    id: branch
+    attributes:
+      label: What branch should your participants be affiliated with?
+      multiple: true
+      options:
+        - Various											
+        - Marine Corps											
+        - Army											
+        - Navy											
+        - Air Force											
+        - Space Force											
+        - Coast Guard											
+        - National Guard											
+        - Public Health Corps
+  - type: dropdown
+    id: technology
+    attributes:
+      label: What technology should the participant have experience with and use in the session?
+      multiple: true
+      options:
+        - Various											
+        - Desktop											
+        - Laptop											
+        - Smartphone											
+        - Tablet
+  - type: dropdown
     id: equity-1
     attributes:
       label: Select your first primary equity category
-      description: This ensures we're prioritizing the recruitment of underserved communities. If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
+      description: If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
       multiple: true
       options:
         - LGBTQ+
@@ -46,7 +90,7 @@ body:
     id: equity-2
     attributes:
       label: Select your second primary equity category
-      description: Try and pick a category that is more relevant to your research topic.
+      description: We strongly recommend selecting a second category to account for intersectionality in your research.
       multiple: true
       options:
         - LGBTQ+
@@ -60,5 +104,3 @@ body:
         - Cognitive disabilities
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
-    validations:
-      required: true
