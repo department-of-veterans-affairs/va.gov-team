@@ -18,25 +18,17 @@ As we wrap up Phase 1 of the VEText migration, we have some room to re-engage wi
 
 As we partner with the authenticated experience team, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov feature. We'll be investigating the best way to display this feature in SSUI and how best to support the authenticated experience team in adding new notifications.
 
-### Expand notification preferences
+### Promote template from Staging to Prod
 
-For the profile, the notification preferences section is currently our biggest focus. We've got a lot of work coming down the pipeline, including incorporating preferences from MHV and eBenefits, as well as working with VANotify and VA Profile to add new preferences as other notifications are added. By year's end, I could see us adding 5 new preferences, if partners continue adding new notifications at the pace they did in 2022.
+We know from our customers that copy template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
 
-### Improve IA and navigation for tasks and tools
 
-One of our most important efforts this year will be working with Mikki and teams across OCTO to find areas for improvement with regards to navigating to tools and tasks. Right now, important tasks and tools are buried within content, and we regularly see users struggle to find tasks that aren't directly linked from the homepage or My VA. To start, we'll conduct research around problems navigating the logged in experience, which will inform further work throughout the year.
 
-### Support the health apartment migration
 
-There are plenty of opportunities for us to collaborate as MHV health features move into VA.gov. Our largest effort will be supporting the migration of MHV notification preferences into VA.gov. Additionally, we'll update the My VA dashboard as health features move over.
 
-### Support addition of a new user role on VA.gov
+## 100 foot view: Q1 CY2023 (January - March) roadmap
 
-Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
-
-## 100 foot view: Q1 CY2023 (January - March) authenticated experience roadmap
-
-### My VA and Onsite Notifications team
+### Notify Team
 
 #### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 
@@ -58,7 +50,7 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away, and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
 
-### Profile team
+### Strike team
 
 #### Frontend: [Finish accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
 
