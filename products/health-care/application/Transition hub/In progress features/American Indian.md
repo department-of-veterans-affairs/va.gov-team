@@ -1,4 +1,4 @@
-# VSA 10-10EZ American Indian question hub
+# 10-10EZ American Indian question hub
 
 **In Production** as of 10/11/2023
 
