@@ -131,6 +131,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
       - **2/10** participants reported they would need help from their wife to complete the financial disclosure questions, and it would be a point where they would have to potentially pause
       - **4/10** participants felt deductible information would take a half hour or more to gather or that is was just asking a lot for a health care application
 5. **Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?**
+   - **1/10** participants stated that the option to decline to provide financial information should appear before the financial onboarding page
 6. **What struggles do participants encounter with the process of adding and editing multiple dependents?**
    - **8/10** participants could successfully edit and remove a dependent from the appllication
    - **6/10** participants said adding a dependent was overall clear and there is nothing they would change
