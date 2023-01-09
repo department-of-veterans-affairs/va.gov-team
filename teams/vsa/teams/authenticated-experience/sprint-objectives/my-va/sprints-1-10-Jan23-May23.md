@@ -68,8 +68,16 @@
 ## Sprint 2 (1/18 - 1/31)
 [#51089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51089)
 
+### General
+
+- Onboard Allison Lu [#50643](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50643)
+
 ## Sprint 3 (2/1 - 2/14)
 [#51090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51090)
+
+### Payments V2
+
+- [Update 2-month post-launch stats after Feb 11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/README.md#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---october-2022)
 
 ## Sprint 4 (2/15 - 2/28)
 [#51091](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51091)
