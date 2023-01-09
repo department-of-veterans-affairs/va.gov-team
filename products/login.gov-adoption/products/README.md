@@ -67,6 +67,12 @@ Currently there is not a unified definition for each of the non-Veteran customer
 
 ## [#3 - Account Migration (Grandfathering/Inherited Proofing)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)
 As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
+
+Grandfathering lets Veterans migrate without requiring them to re-proof right away.
+Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can used their Login.gov account to access VA services.
+Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services.
+The limited use of IAL1 accounts across agencies will provide incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by.
+
 ### Desired user outcomes
 - Eligible users should be able to easily move their verified identity from DS Logon to Login.gov.
 ### User problem statements
