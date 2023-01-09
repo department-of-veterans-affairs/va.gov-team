@@ -98,18 +98,22 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 1. **Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?**
    - *Start application*
    - *Veteran information*
-      - **6/10** participants answered that the questions were clear and there is nothing they would add/change to the Veteran Information section of the application
+      - **6/10** participants answered that the questions were clear and there is nothing they would add/change
    - *VA benefits / military service*
       - **6/10** participants found the VA benefits/military service questions to be clear and would not change anything
       - **4/10** participants reported that that some information needed to be read twice or that more clarifying information is needed
       - **3/10** participants commented on the process of uploading a document in general to being easy and simple
-      - **3/10** thought the process could be unclear and confusing for some
+      - **3/10** thought the process of uploading could be unclear and confusing for some
    - *Household information*
-      - **7/10** participants mentioned that questions in the dependents section could use more clarification - this ranged from more information on year (whole year, calendar year, etc), disabled dependents and support contributions
+      - **7/10** participants mentioned that questions in the dependents section could use more clarification
+      - **5/10** participants interacted with or had initial questions about who qualifies as a dependent
       - **6/10** participants commented on or interacted with the content around other eligibility factors or income guidelines
       - **3/10** participants commented that the spouse support question needed additional clarification and context.
    - *Income information*
-      - **3/10** participans suggested changes to the financial disclosure page, in needing more context or providing helpful links to more information
+      - **4/10** participants commented that the income page was clear and easy to understand
+      - **3/10** participans suggested changes to the financial disclosure page, in needing more context or providing helpful links
+      - **7/10** participants said extra explanation could be helpul for what counts as other income, business income, and how the gross and net are combined
+      - **4/10** participants felt more clarification was needed around what non-reimburable medical expenses are, costs before or after insurance, and spouse and child support payments
 2. **What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?**
 3. **Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?**
 4. **Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?**
