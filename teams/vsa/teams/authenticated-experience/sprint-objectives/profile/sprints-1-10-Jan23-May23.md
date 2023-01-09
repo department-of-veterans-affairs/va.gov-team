@@ -46,6 +46,32 @@
 - Create prototype with new channels for usability testing #51001
 
 ## Sprint 2 (1/18 - 1/31)
+
+**Still needed**
+
+- Work for Liz 1/16 - 1/20 while she is waiting for research recruiting (maybe help with IA research work?)
+- Work for Florence (is she fully onboarded)
+
+### Accessibility updates
+
+**FE - Adam**
+
+- Account security: Update designs to support 508 updates #51085
+- Determine tasks needed to complete 508 issue #19618 (Semantic Lists) #37041
+
+### Direct deposit
+
+**BE - Tom**
+
+- TBD on discovery this sprint; will determine Friday
+
+### Notification preferences
+
+**Design - Liz**
+
+- Research recruiting #51002
+- Conduct research #51003
+
 ## Sprint 3 (2/1 - 2/14)
 
 ### PTO
