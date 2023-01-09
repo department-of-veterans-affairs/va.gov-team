@@ -309,8 +309,8 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-[Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670614790707/7d9bfeebfc6ff21692ad756c74e395c1cef050cd?sender=uadf1ed7fe7c76f0914967329)
-Spreadsheet: 
+- [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670614790707/7d9bfeebfc6ff21692ad756c74e395c1cef050cd?sender=uadf1ed7fe7c76f0914967329)
+- [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes/HouseholdResearchSynthesis.xlsx)
 
 
 ## Pages and applications used
