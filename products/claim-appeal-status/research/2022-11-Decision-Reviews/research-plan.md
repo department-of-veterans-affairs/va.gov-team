@@ -43,14 +43,12 @@ Part 1: General questions
 
 - [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
-Part 2: Prototype
+Part 2: Concept prototype
 
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
 - [Reviewing decision review options] What would you do next?
 - What would you expect to happen if you filed a (decision review option) in this way? 
 - Is there anything else you would do at this point, either on VA.gov or elsewhere?
-
-<img width="432" alt="Screen Shot 2023-01-09 at 11 07 49 AM" src="https://user-images.githubusercontent.com/95102058/211353814-534a3cb4-f4c4-4cfc-9124-ae1821c5d982.png">
 
 
 ### Hypothesis
@@ -65,7 +63,7 @@ As mentioned above, the research sessions will be broken into two parts:
 **Part 1: Semi-structured interviews** 
 The interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
 
-**Part 2: Usability testing**
+**Part 2: Reaction to concept prototype** 
 We will be using a concept prototype for this, meaning we won't be looking for perfect usability. The goal is also generative: to explore whether this type of tool would be useful to Veterans, and also to see if there are any obvious gaps in its content that need to be filled in a subsequent iteration.
 
 ### Location
@@ -74,7 +72,7 @@ Remote on Zoom
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
-- [Prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)
+- [Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)
 	
 ## Recruitment	
 
