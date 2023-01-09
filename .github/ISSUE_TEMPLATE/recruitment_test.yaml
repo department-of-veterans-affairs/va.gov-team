@@ -26,7 +26,7 @@ body:
     id: benefits-1
     attributes:
       label: What benefits or services should your participants have experience with?
-      description: You can select "various" for a mix of all below or "no benefits" if you're looking for folk without experience 
+      description: You can select "various" for a mix of all below or "no benefits" if you're looking for folk without experience. You can also select multiple if all your participants must have experience with multiple benefits.
       multiple: true
       options:
         - Various (a mix of all below)									
@@ -44,7 +44,7 @@ body:
     id: branch
     attributes:
       label: What branch should your participants be affiliated with?
-      multiple: true
+      multiple: false
       options:
         - Various											
         - Marine Corps											
@@ -59,7 +59,7 @@ body:
     id: technology
     attributes:
       label: What technology should the participant have experience with and use in the session?
-      multiple: true
+      multiple: false
       options:
         - Various											
         - Desktop											
@@ -71,7 +71,7 @@ body:
     attributes:
       label: Select your first primary equity category
       description: If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
-      multiple: true
+      multiple: false
       options:
         - LGBTQ+
         - Black
@@ -91,7 +91,7 @@ body:
     attributes:
       label: Select your second primary equity category
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
-      multiple: true
+      multiple: fale
       options:
         - LGBTQ+
         - Black
