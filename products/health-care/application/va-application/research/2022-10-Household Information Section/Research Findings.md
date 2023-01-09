@@ -130,6 +130,10 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
       - **4/10** participants felt deductible information would take a half hour or more to gather or that is was just asking a lot for a health care application
 5. **Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?**
 6. **What struggles do participants encounter with the process of adding and editing multiple dependents?**
+   - **8/10** participants could successfully edit and remove a dependent from the appllication
+   - **6/10** participants said adding a dependent was overall clear and there is nothing they would change
+   - **5/10** participants said editing a dependent would be easier if they could review all their dependents information at once with responses instead of having to go through a series of all screens again
+   - **2/10** participants attempted to use the browser back button or missed the edit link initially
 7. **Is there clear error recovery and easy editing ability when adding multiple entries for a question?**
 
 
