@@ -23,7 +23,7 @@ This VET  [doesn’t keep up with his health](https://www.reddit.com/r/Veterans/
 ### Finding 4: There’s been some discrepancies surrounding the 10 year presumptive period.
 The confusion is whether or not a diagnosis has to be given within the 10 year period or if the illness must manifest itself within the 10 years of the vet being discharged. A screenshot was taken of a VET referencing two codes of regulations 8 CFR 3.303 and  [3.307 (c)](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR39056aee4e9ff13/section-3.307) 
 
-![](VjeMxrpiCWSQk1Sh7XP1AH5w2N1ZwWmG8O6khNOazmFv2eNLsJLdvuKLJKbbUMcHLx6qAyavjjDpsmwtoBrX2RmQK4BQ5fzgrJBKgcA364Doo82_KtS263yUjSX6gCQdn2d4QWImmc_im0_YVCKlF0ooUIoKGEf3CBk67SYtES7-ml9h5IApJlxOAmAeSg.png)
+![screenshot](VjeMxrpiCWSQk1Sh7XP1AH5w2N1ZwWmG8O6khNOazmFv2eNLsJLdvuKLJKbbUMcHLx6qAyavjjDpsmwtoBrX2RmQK4BQ5fzgrJBKgcA364Doo82_KtS263yUjSX6gCQdn2d4QWImmc_im0_YVCKlF0ooUIoKGEf3CBk67SYtES7-ml9h5IApJlxOAmAeSg.png)
 
 ### Finding 5: Dependents who were living in a war zone and had been exposed to Agent Orange, wondered if they would be able to benefit from PACT ACT.
  A user posted a concern about the inclusion of dependents who were living in a war zone ( [Guam during Vietnam](https://www.reddit.com/r/Veterans/comments/zel8rj/do_you_have_pact_act_questions/) ) and were exposed to Agent orange. They are wondering if they would be included in the PACT. A direct quote from the post is pasted below:
@@ -31,11 +31,16 @@ The confusion is whether or not a diagnosis has to be given within the 10 year p
 
 # Additional insights
 A few surprising posts were seen where people have evidence that PACT ACT ratings were made as early as 3rd quarter in 2022. Also, there’s been some suspicion about malicious acts by the rater to delay benefits for a particular VET he has been having issues with. In the thread, other VETs had experiences where they felt as though they were being treated unfairly.
-1 Though there was a wide understanding that PACT Act reviews would not be processed until the start of 2023, a VET  [received a letter with an upgraded rating back in August 2022 ](https://www.reddit.com/r/VeteransBenefits/comments/x489xv/i_was_finally_approved_for_my_claim_at_100_due_to/) citing the upgrade was because of the new PACT ACT.
-2 This VET believes his rating has been  [upgraded to 100% back in Sept 2022 due to PACT ACT](https://www.reddit.com/r/VeteransBenefits/comments/x489xv/i_was_finally_approved_for_my_claim_at_100_due_to/)  going into law. However, most posts in reddit says ratings will not occur until jan 2023
-3 In the comments responding to this thread, a  [VET believes his non-PACT related injuries are being submitted as PACT claims](https://www.reddit.com/r/VeteransBenefits/comments/z2ssk7/comment/iy6y41s/) . He believes this could be a malicious act from the rater. He has had his challenges with a particular rater, and the VET believes the rater passed his claims as PACT so it can be further delayed. 
+
+1. Though there was a wide understanding that PACT Act reviews would not be processed until the start of 2023, a VET  [received a letter with an upgraded rating back in August 2022 ](https://www.reddit.com/r/VeteransBenefits/comments/x489xv/i_was_finally_approved_for_my_claim_at_100_due_to/) citing the upgrade was because of the new PACT ACT.
+
+2. This VET believes his rating has been  [upgraded to 100% back in Sept 2022 due to PACT ACT](https://www.reddit.com/r/VeteransBenefits/comments/x489xv/i_was_finally_approved_for_my_claim_at_100_due_to/)  going into law. However, most posts in reddit says ratings will not occur until jan 2023
+
+3. In the comments responding to this thread, a  [VET believes his non-PACT related injuries are being submitted as PACT claims](https://www.reddit.com/r/VeteransBenefits/comments/z2ssk7/comment/iy6y41s/) . He believes this could be a malicious act from the rater. He has had his challenges with a particular rater, and the VET believes the rater passed his claims as PACT so it can be further delayed. 
 
 # Appendix
 Internal Resources: 
+
 1  [PACT Act and presumptive Veteran discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/cd9557e3a68a27b2bf37268afb54d5bc0c8d34ed/products/disability/abd-vro/2022-06-PACT-Act-presumptive-veterans/PACT-Act-research-report.md)  
+
 2  [2022-06 PACT Act / presumptive claims discovery research with veterans](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/136)  
