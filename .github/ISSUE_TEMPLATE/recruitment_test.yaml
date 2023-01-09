@@ -68,7 +68,7 @@ body:
     id: equity-1
     attributes:
       label: Select your first primary equity category
-      description: If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
+      description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
       options:
         - LGBTQ+
         - Black
@@ -100,3 +100,10 @@ body:
         - Cognitive disabilities
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
+  - type: markdown
+    attributes:
+      value: |
+      (Option A), After submitting, Perigean will create a list of participants with dates in a github ticket and assign it to you.
+      (Option B), After submitting, you can make a copy of this participant tracker to keep a record on no shows, notes, and more. 
+    
+     
