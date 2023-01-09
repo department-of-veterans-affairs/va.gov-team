@@ -1,4 +1,4 @@
-# VBA Public Contact Staff Research Research Findings 
+# VBA Public Contact Staff Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VBA Regional Office, Facilities**
 
