@@ -10,7 +10,6 @@ In order to make this determination, we need to get our existing pattern in fron
 - [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/README.md)
 
 ### OCTO Objectives 
-
 This research supports the following 2023 OCTO objectives:
 1. Enhance Veterans’ personalized online experience
 2. Integrate the health portal features into VA.gov
@@ -28,8 +27,8 @@ This research will help us determine if we need to change our editing model in t
 ### Research questions
 1. In our current auto-save pattern, how easily are people able to find and interact with relevant notifications when there are more than 4 notifications, and multiple channels?
 2. Does the auto-save functionality present any usability hurdles for people?
-3. Does a read/edit pattern make it easier than the auto-save pattern?
-4. What information do people need to know about a notification to quickly understand their current settings and options?
+3. Does a read/edit pattern make editing easier than the auto-save pattern?
+4. What level of information do people need in order for them to decide whether they want to edit/update their preferences?
 5. Are mobile and desktop views equally usable?
 
 ### Hypothesis
@@ -42,8 +41,8 @@ This will be a moderated usability study conducted remotely over Zoom.
 
 ### Research materials
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-jan-2023/conversation-guide.md)
-- [Autosave prototype](https://codepen.io/surfbird/full/gOjmPyj)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
+- [Autosave prototype](https://codepen.io/moose62712/full/mdjOGga)
 - [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 	
 ## Recruitment	
@@ -87,18 +86,23 @@ We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 ## Timeline
 ### Prepare
 Our research artifacts, including the prototype, will be complete by January 16.
-* Pilot participant email: TBD
-* Date and time of pilot session:  TBD
+* Pilot participant email: shane.strassberg@va.gov
+* Date and time of pilot session:  1/17/2023, 11am
 
 ### Research sessions
 * Planned dates of research: Jan 19-24
 
 ### Length of sessions
-* Session length: 45 minutes for non-screenreader, 75 minutes for screenreader sessions
+* Session length: 30-45 minutes
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 
 ### Availability
+All times are in eastern time:
+- Jan 19th, 9:30am-4:30pm
+- Jan 20, 8-4pm (no screenreader sessions before 9am)
+- Jan 23, 9:30am-5pm, 7:30pm-9pm (no screenreader sessions after 5pm)
+- January 24, 6:30am-7:30am, 10am-4pm, 7:30pm-9pm (no screenreader sessions after before 10am or after 5pm)
 
 	
 ## Team Roles	
