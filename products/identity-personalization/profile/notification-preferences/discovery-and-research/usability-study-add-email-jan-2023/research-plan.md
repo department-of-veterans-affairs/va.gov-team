@@ -111,8 +111,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Liz Lantz
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz
-- Accessibility specialist (for screenreader sessions only): TBD 
-- Participant(s) for pilot test:	TBD
+- Accessibility specialist (add to invites for screenreader sessions only): Josh Kim, josh.kim@adhocteam.us 
+- Participant(s) for pilot test:	Shane Strassberg
 - Note-takers: Perigean
 - Observers:	
 	- samara.strauss@va.gov
