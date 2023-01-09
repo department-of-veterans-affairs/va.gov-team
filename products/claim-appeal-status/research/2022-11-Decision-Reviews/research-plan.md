@@ -72,12 +72,9 @@ We will be using a concept prototype for this, meaning we won't be looking for p
 Remote on Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
+- [Prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)
 	
 ## Recruitment	
 
