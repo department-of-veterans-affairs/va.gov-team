@@ -7,7 +7,7 @@ Today, the process for appealing an unfavorable claims decision is complicated a
 
 With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which decision review option is right for them and a means to pursue that option, then we expect them to receive the full disability benefits they've earned on a faster timeline.
 
-See more: [Disagreement Pathways Research Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Disagreement-Pathways/research-strategy.md)
+See more: [Research Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-strategy.md)
 
 ### OCTO Objectives 
 
