@@ -95,19 +95,27 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. **Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?**
+   - Start application
+   - Veteran information
+   - VA benefits / military service
+   - Household information
+2. **What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?**
+3. **Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?**
+4. **Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?**
+   - Start application
+      - **7/10** participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them.
+   - VA benefits / military service
+      - **3/10** participants said they would scan the document with a printer to get a file to upload
+      - **4/10** said they would take a picture with their device to upload to the application. 
+      - One participant commented that this should be automated as this informaiton should be available already.
+   - Household information
+      - **3/10** participants commented on not wanting to, but having to or wanting to know more about why they need to disclose thier financial information.
+      - **2/10** participants reported they would need help from their wife to complete the financial disclosure questions, and it would be a point where they would have to potentially pause.
+      - **4/10** participants felt deductible information would take a half hour or more to gather or that is was just asking a lot for a health care application.
+5. **Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?**
+6. **What struggles do participants encounter with the process of adding and editing multiple dependents?**
+7. **Is there clear error recovery and easy editing ability when adding multiple entries for a question?**
 
 
 ## Details of Findings 
