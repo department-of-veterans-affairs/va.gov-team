@@ -72,6 +72,18 @@
 
 - Onboard Allison Lu [#50643](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50643)
 
+### My VA audit
+
+**Design**
+
+- Conduct research
+- Research write-up
+
+### Onsite notifications V2
+
+- Submit collab cycle kickoff ticket
+- Start on work that we've scoped for V2 (still TBD)
+
 ## Sprint 3 (2/1 - 2/14)
 [#51090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51090)
 
