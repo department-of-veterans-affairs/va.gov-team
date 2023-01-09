@@ -309,15 +309,16 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-Mural Board:
+[Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670614790707/7d9bfeebfc6ff21692ad756c74e395c1cef050cd?sender=uadf1ed7fe7c76f0914967329)
 Spreadsheet: 
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-Desktop Protoptype
-Mobile Prototype
+Link to prototypes or pages that were tested:
+
+- [Desktop Protoptype]
+- [Mobile Prototype]
 
 ## Other supporting documents created
 Sketch Designs
@@ -358,12 +359,6 @@ Gender:
 * Female: 4 
 
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
 Devices used during study: 
 * Desktop: 4 
 * Tablet: 1 (Desktop prototype provided) 
@@ -391,8 +386,6 @@ Education:
 
 
 Geographic location:
-* Urban: x
-* Rural: x
 * Unknown: 10
 
 
@@ -424,8 +417,8 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
+* LGBTQ+
+* Assistive Technology
 * Group 3
 
 _[insert screenshot of completed recruitment checker]_
