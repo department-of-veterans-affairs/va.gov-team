@@ -124,7 +124,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
   * **NOT ENOUGH INFORMATION** - This would depend on implementation and should be evaluated during usability testing
 * The typical Veteran experience at Regional Benefit Offices is generally positive
-  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities. Proximity to a VAMC (e.g. same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
+  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g. same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
 
 - - -
 
