@@ -13,6 +13,8 @@
 
 ## Sprint 1 (1/4 - 1/17)
 
+[#51107](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51107)
+
 ### General
 
 - Onboard Berni Xiong [#50964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50964)
@@ -46,6 +48,8 @@
 - Create prototype with new channels for usability testing #51001
 
 ## Sprint 2 (1/18 - 1/31)
+
+[#51626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51626)
 
 **Still needed**
 
