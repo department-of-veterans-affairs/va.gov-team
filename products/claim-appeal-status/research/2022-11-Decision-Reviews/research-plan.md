@@ -36,26 +36,21 @@ Part 1: General questions
 - Did you use VA.gov to file your (decision review option)?
 - What were your main reasons for filing the (decision review option)?
 - Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)?
-- On a scale of 1-5, how would you have rated your experience submitted a (decision review option)?
+- On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
 - What were your biggest challenges with the process? 
 - Was there anything about the process that worked particularly well?
 - How did you feel about the end result (or how do you feel so far, if it’s underway)?
 
-- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] What do you think about this page? Is this helpful? 
+- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
 Part 2: Prototype
 
-
-_Use the scenario from ppt’s own experience (i.e. “main reasons” in question #2)._
-
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
-- [Indicating to the survey CTA] What do you think this is?
-- [Take ppt through the questions] What do you think of this?
-- [At the end] What did you think of that? Would you feel confident submitting a decision review in this way?
-- Is there anything else you would do at this point (doesn’t need to be on VA.gov)?
+- [Reviewing decision review options] What would you do next?
+- What would you expect to happen if you filed a (decision review option) in this way? 
+- Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
-
-<img width="288" alt="Screen Shot 2022-12-14 at 10 26 51 AM" src="https://user-images.githubusercontent.com/95102058/207637416-9b2aead1-2211-4431-8d40-434799eee030.png">
+<img width="432" alt="Screen Shot 2023-01-09 at 11 07 49 AM" src="https://user-images.githubusercontent.com/95102058/211353814-534a3cb4-f4c4-4cfc-9124-ae1821c5d982.png">
 
 
 ### Hypothesis
@@ -82,30 +77,16 @@ Remote on Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
 	
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this research is Veterans who have gone throughh a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
+Our intended audience for this research is Veterans who have gone through a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
 
 - 20 ppts who have submitted a Supplemental Claim
 - 10 ppts who have submitted a Higher Level Review
 - 10 ppts who have submitted a Notice of Disagreement
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 We would like to recruit 40 Veterans with the goal of successfully completing at least 20 sessions. 
