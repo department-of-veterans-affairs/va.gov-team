@@ -221,17 +221,17 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6 
+* Female: 4 
 
 
 LGBTQ+:
@@ -241,35 +241,35 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 4 
+* Tablet: 1 (Desktop prototype provided) 
+* Smart phone: 5 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 2
+* 35-44: 3
+* 45-54: 2
+* 55-64: 2
+* 65+: 1
+* Unknown:0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 5
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 1
+* Master's degree: 0
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 10
 
 
 Race:
