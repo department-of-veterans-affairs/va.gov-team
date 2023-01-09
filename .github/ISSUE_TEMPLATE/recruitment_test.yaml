@@ -1,62 +1,64 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Recruitment Request (test)
+description: File a recruitment request to Perigean
+title: "[Recruitment Request]: Insert name of your study here"
+labels: ["research"]
 assignees:
-  - octocat
+  - joshkimux
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+        OCTO works with Perigean, a small business, to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
   - type: textarea
-    id: what-happened
+    id: ideal-session-count
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Ideally, how many participants do you want in your study?
+      description: "Replace the 0s with the amount you want from each group"
+      value: |
+        Veterans: 0
+        Family Members: 0
+        Caregivers: 0
+        Service Members: 0
+        Total: (Add all the above)
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: equity-1
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
+      label: Select your first primary equity category
+      description: This ensures we're prioritizing the recruitment of underserved communities. If conducting usability testing, we strongly recommend testing with disabled Veterans first, ideally on a mobile device.
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
+        - LGBTQ+
+        - Black
+        - Native
+        - Latina
+        - 55+ years old
+        - No college or higher education
+        - Rural
+        - Blind or low vision using a screen reader
+        - Cognitive disabilities
+        - Experiencing homelessness (custom request to Perigean)
+        - Only has access to a mobile device (custom request to Perigean)
+    validations:
+      required: true
+  - type: dropdown
+    id: equity-2
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Select your second primary equity category
+      description: Try and pick a category that is more relevant to your research topic.
+      multiple: true
       options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - LGBTQ+
+        - Black
+        - Native
+        - Latina
+        - 55+ years old
+        - No college or higher education
+        - Rural
+        - Blind or low vision using a screen reader
+        - Cognitive disabilities
+        - Experiencing homelessness (custom request to Perigean)
+        - Only has access to a mobile device (custom request to Perigean)
+    validations:
+      required: true
