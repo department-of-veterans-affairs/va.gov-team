@@ -35,7 +35,7 @@ Currently, the existing notification preferences we support all happen to only u
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
-- [Autosave prototype](https://codepen.io/moose62712/full/mdjOGga)
+- [Autosave prototype](https://codepen.io/surfbird/full/gOjmPyj)
 - [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 - Topline summary
 - Final summary and recommendations
