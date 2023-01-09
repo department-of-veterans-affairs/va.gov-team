@@ -76,11 +76,17 @@ A moderated usability study using an interactive prototype of the 10-10EZ Health
 ## Hypotheses and Conclusions
 
 1) The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
-   - **Conclusion 1:**
+   - **Conclusion 1: Maybe true**
+   - Most participants rated the introduction page favorably (giving it 4 or 5 out of 5 rating) in that it prepared them for the application, however some mentioned that they needed more context and help to be able to provide this information and some also mentioned not wanting to provide it at all, but having to.
+
 2) The content explaining the various financial areas (gross income, net and other) is easy to digest now that it is broken up into sections and placed in relation to the corresponding text field.
-   - **Conclusion 2:**
+   - **Conclusion 2: Maybe true**
+   - 	Some participants said the questions on the page about annual income were clear and easy to understand, but most gave an example of where extra explanation could be really helpful when answering these questions. 
+
 3) The updates to the multiple responses pattern to add and edit dependents has less cognitive load for the applicant and is easy for them to complete.
-   - **Conclusion 3:**
+   - **Conclusion 3: Not enough information**
+   - 	Most participants were successful with the task to add dependents to the form easily. This study used a prototype with limited functionality there was not enough information to determine if editing dependents information had less cognitive load. Most participants did mention it would be easier to review the dependent information when they were editing or a way to view all pages of information at once during editing. 
+
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
@@ -138,6 +144,14 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
    - **5/10** participants said editing a dependent would be easier if they could review all their dependents information at once with responses instead of having to go through a series of all screens again
    - **2/10** participants attempted to use the browser back button or missed the edit link initially
 7. **Is there clear error recovery and easy editing ability when adding multiple entries for a question?**
+
+
+
+
+
+
+
+
 
 
 ## Details of Findings 
