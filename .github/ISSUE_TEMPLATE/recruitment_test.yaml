@@ -103,6 +103,7 @@ body:
   - type: markdown
     attributes:
       value: |
+        ## Tracking your participants
         (Option A), After submitting, Perigean will create a list of participants with dates in a github ticket and assign it to you.
         (Option B), After submitting, you can make a copy of this participant tracker to keep a record on no shows, notes, and more. 
     
