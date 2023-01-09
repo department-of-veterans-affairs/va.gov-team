@@ -1,6 +1,6 @@
 # Research outline: Adding email as a channel
 
-**Last updated: January 4, 2022**
+**Last updated: January 9, 2022**
 
 ### Communications
 
@@ -33,8 +33,9 @@ Currently, the existing notification preferences we support all happen to only u
 
 ## Research artifacts
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-jan-2023/research-plan.md)
-- Conversation guide
-- Prototype
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
+- [Autosave prototype](https://codepen.io/moose62712/full/mdjOGga)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 - Topline summary
 - Final summary and recommendations
