@@ -106,17 +106,18 @@ We would like representation from the following underrepresented groups:
 - 10 Veterans without a degree
 
 ## Timeline
+Jan 23 – Feb 3
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: rocio@coforma.io
+* Date and time of pilot session: Thu, Jan 19
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: Jan 23 - Feb 3
 
 ### Length of sessions
 - 1 hour sessions
@@ -129,9 +130,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Skyler Schain
-- Research guide writing and task development (usually but not always same as moderator):	Skyler Schain
-- Participant recruiting & screening:	
+- Research guide writing and task development (usually but not always same as moderator: Skyler Schain
+- Participant recruiting & screening: Perigean
 - Project point of contact:	Skyler Schain, Jacob Worrell
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: Rocio de Santiago	
 - Note-takers:	
 - Observers: Jacob Worrell, Sarah Ortiz Shields, Sam Cormier, Jerek Shoemaker, Jared Cunha, Kevin Duensing, Josh Kim, Eva Floyd, Joe Sokohl
