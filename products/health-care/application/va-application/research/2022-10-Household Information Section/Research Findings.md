@@ -116,6 +116,8 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
       - **4/10** participants felt more clarification was needed around what non-reimburable medical expenses are, costs before or after insurance, and spouse and child support payments
 2. **What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?**
 3. **Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?**
+   - **7/10** participants said extra explanation could be helpul for what counts as other income, business income, and how the gross and net are combined
+   - **4/10** participants felt more clarification was needed around what non-reimburable medical expenses are, costs before or after insurance, and spouse and child support payments
 4. **Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?**
    - *Start application*
       - **7/10** participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them
