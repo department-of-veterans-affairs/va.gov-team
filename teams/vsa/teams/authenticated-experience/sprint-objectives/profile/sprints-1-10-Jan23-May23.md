@@ -15,10 +15,8 @@
 
 ### General
 
-- Onboard new delivery manager [#50964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50964)
-- Onboard new PM (pending hiring) [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
-- Onboard new designer [#50956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50956)
-- Onboard new FE developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
+- Onboard Berni Xiong [#50964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50964)
+- Onboard Florence McCafferty [#50956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50956)
 
 ### Bad address indicator
 
@@ -53,6 +51,13 @@
 ### PTO
 
 - Tom: 2/6 - 2/10 (Lihan will backfill for Tom in case of emergency)
+
+### General
+
+This is dependent on when these people are actually hired:
+
+- Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+- Onboard new full stack developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
 
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
