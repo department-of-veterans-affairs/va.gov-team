@@ -34,20 +34,20 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch (10/24-11/27)|
-|----------------|----------------|----------------|----------------|
-|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | 73 submissions, 10% |
+| KPI/Metric  | Baseline | Target | November '22|December '22|January 1-8 '23|
+|----------------|----------------|----------------|----------------|----------------|----------------|
+|% of Saved In Progress applications submitted| N/A | 25% of click-thrus | 77 submissions, 10% | 64 submissions, 9.5% | 14 submissions, 8.6% |
 
 
-**Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of opened emails will have a link click.
+**Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of sent emails will have a link click.
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| KPI/Metric  | Baseline | Target | 1 mo. Post-Launch (10/24-11/27)|
-|----------------|----------------|----------------|----------------|
-|% of Click-thrus on email link | N/A | 25% of sent emails | 756 email links clicked, 30% |
-|# of emails sent | N/A | 95% delivery rate| 2,510 emails sent, 98% email delivery rate |
-
+| KPI/Metric  | Baseline | Target |November '22|December '22|January 1-8 '23|
+|----------------|----------------|----------------|----------------|----------------|----------------|
+|# of emails sent | N/A | 95% delivery rate| 2,431 emails sent, 98% email delivery rate | 2,343 emails sent, 97.5% email delivery rate | 399 emails sent, 98% email delivery rate |
+|# of emails opened | N/A | N/A | 3,278 emails opened | 3,580 emails opened | 725 emails opened |
+|% of Click-thrus on email link | N/A | 25% of opened emails | 759 email links clicked, 23% of emails opened |670 email links clicked, 18.7% of emails opened |162 email links clicked, 22.3% of emails opened |
 
 ---
 
