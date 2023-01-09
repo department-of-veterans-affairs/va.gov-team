@@ -12,7 +12,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-## 01/06/2023
+### 01/06/2023
 -  Fixes the error message on the last name field so that it translates when you toggle the language. 
     - [Ticket 51440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51440)
 
