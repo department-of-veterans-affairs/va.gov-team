@@ -61,7 +61,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ## Measuring success
 
-- [Analytics information for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/analytics-documentation.md)
+- [Analytics information for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/product/analytics-documentation.md)
 
 ### Objective: Meet user need/expectation by elevating debt informtion to user dashboard.
 
