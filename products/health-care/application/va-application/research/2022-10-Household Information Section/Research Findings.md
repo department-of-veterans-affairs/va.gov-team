@@ -147,12 +147,13 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 
+--
 
 
 
 
 
-
+--
 
 ## Details of Findings 
 
@@ -205,6 +206,17 @@ Brief description
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
+
+**Insight A: Progress bar component**
+
+**Insight B: One-thing-per-page**
+
+Insight C: Need help footer
+
+Insight D: 
+Service dates - multiple responses
+
+Insight E: 
 
 ## Recommendations
 
