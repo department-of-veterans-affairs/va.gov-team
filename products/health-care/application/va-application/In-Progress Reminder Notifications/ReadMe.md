@@ -32,7 +32,12 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 **Key Result 1:** Increase the percentage of In-Progress applications, as a result of the email link, 25% of clicked-thru emails will submit their application.
 
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+Data sources
+- [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- [10-10EZ GA - Emails Opened](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open,analytics.eventLabel:10-10%20EZ%20Application%20Reminder/)
+- [10-10EZ GA - Links from email clicked-through](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20221023&_u.date01=20221031&_r.drilldown=analytics.pagePath:www.va.gov~2Fhealth-care~2Fapply~2Fapplication~2Fresume~2F&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.landingPagePath%22,%22PT%22,%22health-care~2Fapply~2Fapplication~2Fresume~2F%22,0%5D%5D&explorer-table.secSegmentId=analytics.campaign&explorer-segmentExplorer.segmentId=analytics.landingPagePath/)
+- [10-10EZ GA - Applications submitted from email link click](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230101&_u.date01=20230108&explorer-segmentExplorer.segmentId=analytics.campaign&explorer-table.plotKeys=%5B%5D&explorer-table.filter=1010EZ-SIP-reminder&_r.drilldown=analytics.eventLabel:hca--submission-successful/)
+
 
 | KPI/Metric  | Baseline | Target | November '22|December '22|January 1-8 '23|
 |----------------|----------------|----------------|----------------|----------------|----------------|
@@ -41,7 +46,6 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 **Key Result 2:** Increase the percentage of returning applicants as a result of the email link, 25% of sent emails will have a link click.
 
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target |November '22|December '22|January 1-8 '23|
 |----------------|----------------|----------------|----------------|----------------|----------------|
