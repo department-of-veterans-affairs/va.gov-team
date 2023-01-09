@@ -149,7 +149,62 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 --
 
+### Key Finding 1: Additional explanation needed
+There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
+- 6/10 interacted with or had questions on eligibility guidelines on the financial disclosure page (Disclosure Task)
+- 7/10 participants mentioned the dependent question could use more clarification (Add Dependents Task)
+- 5/10 interacted with who does VA consider a dependent or had questions on this topic (Add Dependents Task)
+- 7/10 participants said extra explanation could be helpful for what counts as income, business income and how gross and net are combined (Income Task)
+- 4/10 non-reimbursable medical expenses explanation is needed (Deductibles Task)
+
+
+### Key Finding 2: Document and information gathering 
+Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.
+
+
+- 7/10 participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them  (Start Application Task)
+- To upload a document on the military service page, 3/10 participants said they would scan the document with a printer to upload and 4/10 said they would take a picture with their device to upload to the application. (VA benefits/Military service - upload task)
+- One participant mentioned this should be automated as this information should be available already. (VA benefits/Military service - upload Task)
+- 2/10 participants reported they would need to pause for the income information and need help from their wife to complete. (Annual income Task)
+- 4/10 participants felt the deductible information would take a half hour or more to gather as it was asking a lot for a health care application (Deductibles Task)
+
+
+### Key Finding 3: Multiple responses and editing information 
+Most participants thought **adding a dependent was clear overall with nothing they would change or add**, overall participants were successful to complete adding dependents. 
+And most participants also mentioned **it would be easier if they could review all their dependent’s information at once when editing** instead of having to go through a series of screens again.
+
+- 8/10 participants could successfully edit and remove a dependent from the application
+- 6/10 said adding a dependent was overall clear and there is nothing they would change
+- 5/10 participants said editing a dependent would be easier if they could review all their dependents information at once with responses instead of having to go through a series of all screens again
+- 2/10 participants attempted to use the browser back button or missed the edit link initially
+
+
+### Key Finding 4: Spouse information and live with/address questions
+Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order. 
+- 8/10 participants said the initial spouse questions were clear and understandable.
+- 6/10 participants had to pause or had a change suggestion to the questions/pages around the if your spouse lived with you and had the same address. Some felt this was repetitive or asked in a confusing order. 
+- 3/10 participants commented that the spouse support question needed additional clarification and context.
+
+
+### Key Finding 5: Information was easy to understand and overall clear
+Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
+
+- 6/10 participants answered that the questions were clear and there is nothing they would add/change (Veteran Information Task)
+- 6/10 participants found the VA benefits/military service questions to be clear and would not change anything (VA benefits/Military Service Task)
+- 3/10 participants commented on the process of uploading a document in general to being easy and simple (VA benefits/Military Service Task)
+- 4/10 participants commented that the income page was clear and easy to understand (Income Task)
+
+
+### Key Finding 6: Logical order and error recovery
+Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
+Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
+
+
+- 8/10 participants commented in the post-task questions that the questions seemed to be in a clear order that is easy to understand. 
+- 1/10 participant stated the military service information should be earlier in the application (VA benefits/Military Service Task)
+- 1/10 participant stated that the option to decline to provide financial information should appear before the financial onboarding page (Financial Onboarding Task)
+- 1/10 participant stated that the order and transition on the page with multiple dependent cards to be disjointed. (Add Dependents Task)
 
 
 
@@ -163,15 +218,16 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Key Finding 1: Additional explanation needed**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
-> _Supporting data: Quote here_
+
+> _Supporting data: [P6-014] I guess this could be more clear, Like my initial look at it I thought veteran pension but is that disability or pension. I am not sure. It could be more specific. 
 
 > _Supporting data: Quote here_
 
@@ -208,15 +264,19 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 
 **Insight A: Progress bar component**
+- 
 
 **Insight B: One-thing-per-page**
+- 
 
-Insight C: Need help footer
+**Insight C: Need help footer**
+- 
 
-Insight D: 
-Service dates - multiple responses
+**Insight D:  Service dates - multiple responses**
+- 
 
-Insight E: 
+
+
 
 ## Recommendations
 
