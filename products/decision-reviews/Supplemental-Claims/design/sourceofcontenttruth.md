@@ -975,3 +975,228 @@ Other
     missingAddress: You must provide an address
 
     missingPrimary: You must choose a primary phone number
+    
+---
+
+## PACT Act Copy Changes
+
+---
+
+**_SIGNED OUT_**
+
+## Is this the form I need?
+ 
+Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and have new and relevant evidence to submit **or** if you have a condition that we now consider presumptive (such as under the PACT Act).
+
+Answer this question to get started:
+
+**What type of claim are you filing a Supplemental Claim for?** (*Required)
+
+- [ ] Disability compensation claim
+- [ ] Another type of claim (not a disability claim)
+
+**_Continue_**
+
+If you don't think this is the right form for you, find out about the other decision review options.
+
+<< Learn about choosing a decision review option
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+---
+
+**_SIGNED IN_**
+
+## File a Supplemental Claim
+
+If we denied your claim in the past, a Supplemental Claim may be an option for you. Learn when and how to file a Supplemental Claim and what to expect after you file.
+
+*Informational Alert*
+
+Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+
+Action Link: Start Your Claim
+
+### Follow these steps to get started
+
+If you don’t think this is the right form for you, you can go back to answer the questions again.
+
+LINK: Go back to the questions
+
+#### 1. Check your eligibility
+Make sure you meet our eligibility requirements for Supplemental Claims before you file.
+
+What are the eligibility requirements to file a Supplemental Claim? (Expand) \
+
+You can file a Supplemental Claim if you have new and relevant evidence that we didn't consider before, or you have a condition that we now consider presumptive (such as under the PACT Act). You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
+
+**Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
+
+[Learn more about fiduciary claims](https://www.va.gov/decision-reviews/fiduciary-claims/)
+
+[Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
+
+#### 2. Gather your information
+Here’s what you’ll need to apply: 
+
+**New evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you.
+
+**A change in legislation.** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you do not need to provide evidence to prove that your service caused the condition.
+
+**The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
+
+The name and address of any medical facility you'd like us to request your records from.
+
+The dates you were treated at that private medical facility.
+
+Types of Evidence (expand) \
+
+VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
+
+Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
+
+Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
+
+#### 3. Start your Supplemental Claim
+We’ll take you through each step of the process. It should take about 15 minutes.
+
+What happens after I apply? (expand) \
+
+You don’t need to do anything while you’re waiting unless VA contacts you asking for more information. If VA schedules exams for you, be sure not to miss them.
+
+Respondent burden: 15 minutes
+
+OMB Control #: 2900-0862
+
+Expiration date: 4/30/2024
+
+Privacy Act Statement
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+_Error_
+
+#### We're missing some of your personal information
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+
+---
+
+## STEP 3 of 4: New evidence
+
+We'll save your application every time you add or update information.
+
+_Informational alert:_
+
+### Filing for a presumptive condition
+
+If you are filing for a condition now considered presumptive under a new law or regulation (such as PACT Act), you can but do not need to include other types of new evidence.
+
+**Review and acknowledge this notice of evidence needed.**
+
+You’ll need to submit new evidence we haven’t reviewed before that’s related to the issue you’re claiming.
+
+We’ll look for evidence that shows both of these are true:
+
+You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), and
+
+An event, injury, or illness that happened while you were serving in the military caused this disability
+
+You'll need to submit or give us permission to gather medical evidence from a VA medical center, other federal facility, or your private health care provider.
+
+- [ ] I certify that I have reviewed the notice of evidence needed. (*Required)
+
+**_BACK_**
+
+**_CONTINUE_**
+
+_Error_: You need to certify that you have reviewed the notice of evidence needed.
+
+---
+
+## STEP 3 of 4: New evidence
+
+We'll save your application every time you add or update information.
+
+_Warning alert:_
+
+### You haven't added any evidence
+
+Unless you are filing for a presumptive condition covered under by new law or regulations (such as PACT Act), filing a Supplemental Claim without evidence may result in an incomplete request. We will reach out to you if more information is required.
+
+Action Link: Add more evidence
+
+**_BACK_**
+
+**_CONTINUE_**
+
+---
+
+## Step 4 of 4: Review
+
+We’ll save your application every time you add or update information.
+
+**Veteran information**
+
+Contact information
+
+Edit
+
+Home phone number
+
+Mobile phone number
+
+Email address
+
+Street address
+
+City
+
+State
+
+Primary phone number
+
+Edit
+
+Home/Mobile phone number
+
+**Issues for review**
+
+Edit
+
+Issue
+
+Decision date
+
+Opt In
+
+Edit
+
+I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
+
+Yes, I choose to opt in to the new process / No, I choose to stay in the old process
+
+**New and relevant evidence**
+
+Notice of Acknowledgment
+
+Edit
+
+I certify that I have reviewed the notice of evidence needed.
+
+Yes, I certify
+
+Supporting evidence
+
+Edit
+
+No evidence is attached.
+
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+- [ ] I have read and accepted the privacy policy. (*Required)
+
+**_Submit your claim_**
+
+**_Back_**
