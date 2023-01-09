@@ -1,4 +1,4 @@
-# Research plan for Authenticated Experience, Profile Notification Settings, January 2023
+# Research plan for Authenticated Experience, Add Email Notifications, January 2023
 `DRAFT`
 
 ## Background
@@ -7,7 +7,7 @@ We know we will need to support additional channels and notifications within our
 In order to make this determination, we need to get our existing pattern in front of users, with all the notifications we’re aware of today. 
 
 - [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md)
-- [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel/README.md)
+- [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/README.md)
 
 ### OCTO Objectives 
 
