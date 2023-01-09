@@ -26,25 +26,25 @@ VA notifications cover a broad spectrum of VA services, and managing settings is
 This research will help us determine if we need to change our editing model in the next design iteration of our notification settings feature.
 
 ### Research questions
-1. How easily are people able to find and interact with relevant notifications when there are more than 4 notifications, and multiple channels?
+1. In our current auto-save pattern, how easily are people able to find and interact with relevant notifications when there are more than 4 notifications, and multiple channels?
 2. Does the auto-save functionality present any usability hurdles for people?
-3. What information do people need to know about a notification to quickly understand their current settings and options?
-4. Is there a difference in usability between mobile and desktop?
+3. Does a read/edit pattern make it easier than the auto-save pattern?
+4. What information do people need to know about a notification to quickly understand their current settings and options?
+5. Are mobile and desktop views equally usable?
 
 ### Hypothesis
-1. The current design will allow people to understand their options and read through the list of notifications with relative ease.
+1. The auto-save design will allow people to understand their options and read through the list of notifications with relative ease.
 2. The auto-save function will cause minor confusion for some users because they want to be able press a button to confirm a change.
-3. Users will want to quickly understand whether a setting is turned on or off, and by what channel the notification will be sent (email or text) without having to click on something to see it.
+3. Users will want to quickly understand whether a setting is turned on or off, and by what channel the notification will be sent (email or text) without having to click on something to see it. This will be more intuitive with the auto-save pattern than the read/edit model.
 
 ## Methodology	
 This will be a moderated usability study conducted remotely over Zoom.
 
 ### Research materials
 
-- Link to conversation guide to come
-- [Prototype (complete contact info)](https://codepen.io/moose62712/pen/mdjOGga)
-- Link to prototype with missing contact info to come
-- Link to read/edit version of prototype to come
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-jan-2023/conversation-guide.md)
+- [Autosave prototype](https://codepen.io/moose62712/full/mdjOGga)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 	
 ## Recruitment	
 
@@ -94,12 +94,12 @@ Our research artifacts, including the prototype, will be complete by January 16.
 * Planned dates of research: Jan 19-24
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 minutes for non-screenreader, 75 minutes for screenreader sessions
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 
 ### Availability
-TBD
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role.	
@@ -107,6 +107,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Liz Lantz
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz
+- Accessibility specialist (for screenreader sessions only): TBD 
 - Participant(s) for pilot test:	TBD
 - Note-takers: Perigean
 - Observers:	
