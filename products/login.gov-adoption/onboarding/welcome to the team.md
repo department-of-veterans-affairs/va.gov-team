@@ -8,7 +8,7 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 - [ ] Confirm access to [VA CEDAR Identity Google Drive](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=share_link)
 - [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
 - [ ] Attend VA 101 primer
-- [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](mailto:elizabeth@bluetiger.digital)
+- [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](https://dsva.slack.com/team/U043UFQG98V)
 - [ ] Confirm you have access to the Digital Service @ VA Slack
 - [ ] Confirm you have access to VA Github
 - [ ] [Review guidance for new teams and team members ](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSTeammembers)
