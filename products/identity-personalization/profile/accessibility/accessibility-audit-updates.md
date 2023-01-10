@@ -69,6 +69,8 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 #### Field "headings" / lists (i.e. Mailing address and Home address)
 `508-defect-4`
+
+- [ ] **Status**: Unclear if any work happened on this
 -   Some changes are needed for the field names/headings
 -   Concern also raised during BAI pilot session with Angela
 -   **Recommendations:**
@@ -79,6 +81,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   **Next steps:** Needs team grooming
 
 #### Phone number screen reader improvement
+- [X] **Status**: Work completed in [#44534](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44534)
 - The phone number is not that accessible. The screen reader reads out the number as a regular number rather than a phone number. ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44534))
 - **Next steps:** Sprint planning
 
