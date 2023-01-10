@@ -465,9 +465,12 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
+* Rural 
+* Other than honorable discharge
+* Immigrant origin
+* Expat
 * LGBTQ+
 * Assistive Technology
-* Group 3
 
 _[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/RecruitementChecker-2022-12-HouseholdResearchStudy.png)
