@@ -182,6 +182,7 @@ And most participants also mentioned **it would be easier if they could review a
 
 ### Key Finding 4: Spouse information and live with/address questions
 Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order. 
+
 - 8/10 participants said the initial spouse questions were clear and understandable.
 - 6/10 participants had to pause or had a change suggestion to the questions/pages around the if your spouse lived with you and had the same address. Some felt this was repetitive or asked in a confusing order. 
 - 3/10 participants commented that the spouse support question needed additional clarification and context.
@@ -256,6 +257,8 @@ Most participants mentioned the process of gathering documents, one example the 
 > You need the dd214 so I would need to get that from the safe deposit box. I would be texting my wife for the financial parts. Finding insurance cards. 
  (P14-015) (Start Application Task)
 
+Research Question: Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?
+
 > This is a lot I guess. Getting all of these numbers to apply for benefits is a lot. I don’t know. This is asking too much for me. Some people just don’t know this kind of stuff. You are just paying the bills. A lot of people don’t know this stuff. I don’t remember how much I spent here and now that prices are going up and down I wouldn’t know. 
 (P5-025) (Deductibles Task)
 
@@ -277,6 +280,8 @@ Most participants thought **adding a dependent was clear overall with nothing th
 
 > I would say that this is what the standard should be – straightforward and very clear what you’re asking for. It’s legible and readable.”
 (P10-024) (Add Dependents Task)
+
+Research Question: What struggles do participants encounter with the process of adding and editing multiple dependents?
 
 > Like if I click edit, it should show these pages separately. Instead of me having to go through all of them again
 (P6-024) (Edit Dependents Task)
