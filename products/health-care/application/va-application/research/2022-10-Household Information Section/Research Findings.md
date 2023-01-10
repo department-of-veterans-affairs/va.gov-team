@@ -333,9 +333,9 @@ Most participants felt the order of questions flowed in a logical order and ther
 Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
 
 
-> I thought it flowed pretty good. (P11-027) (Post Interview Task)
+> I thought it flowed pretty good. (P11-027) (Post Task Interview)
 
-> Nothing to me seemed out of order. It started out with the service member information - it flowed good throughout the application process. I wouldn't change the order. (P13-036) (Post Interview Task)
+> Nothing to me seemed out of order. It started out with the service member information - it flowed good throughout the application process. I wouldn't change the order. (P13-036) (Post Task Interview)
 
 > Yeah, to me – because it could have been an accident, me hitting that [option to confirm choice in modal]. If it had cancelled it right away I could lose a bunch of information that I took my time to [enter]. It could be frustrating if that were to automatically cancel instead of asking. (P10-025) (Edit Dependents Task)
 
@@ -347,17 +347,27 @@ Those who interacted with the confirmation modal when removing a dependent from 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-Insight A: Progress bar component
-- 
+### Insight A: Progress bar component
 
-Insight B: One-thing-per-page
-- 
+Two participants commented on the utility of the progress bar, suggesting that they should be able to interact with it, or that it more accurately represent the number of steps in the form.
 
-Insight C: Need help footer
-- 
+> Yes. It shows the status, which is very nice, but also if I hovered over this with the mouse, it would show what that actually was. Or something – maybe right underneath this blue part. (P12-025) (Edit Dependents Task)
 
-Insight D:  Service dates - multiple responses
-- 
+> It would be nice if it had I guess 2 of 6 questions. I know it says the steps but a lot of time you go through serval pages until you reach the next step. Some way of knowing how long you will be doing it. (P14-017) (Veteran Information Task)
+
+### Insight B: One-thing-per-page
+
+Two participants commented of the frequency of clicking continue, and that there were too few fields on certain pages.
+
+> For me the steps and continue, it is annoying to have 6 steps I would prefer 2 or 3. You can fit more boxes on this page, like a lot more. 3 boxers is nothing. Clicking continue is more steps that I have to do. (P6-010) (Veteran Information Task)
+
+> In a desktop version or tablet version it is annoying because I am constantly clicking through. It makes me think the 6 bars are maybe only 3 because I don’t need to go through 20 pages to answer 4 questions. Same thing here, it is asking one question than going to the next page. I like a lot of tasks at one time. (P14-038) (Spouse Information Task)
+
+> Just the fact that you were constantly hitting continue after one question. That would be my only complaint, it is going to take a while and clicking next on every answer. Just a pet peeve thing, just let me answer the questions type of thing. (P14-068) (Post Task Interview)
+
+### Insight C: Need help footer
+
+### Insight D:  Service dates - multiple responses
 
 ## Recommendations
 
