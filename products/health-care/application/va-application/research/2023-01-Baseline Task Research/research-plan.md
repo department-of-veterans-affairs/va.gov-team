@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
+# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks (Round 1), January 2023
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing. 
@@ -104,14 +104,14 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 |                               | **Single Study** |
 | ----------------------------- | ------------ |
 | **_SEX_**                     |              |
-| Male                          | 8            |
-| Female                        | 7            |
+| Male                          | 7            |
+| Female                        | 8            |
 | \---                          | \---         |
 | **_RACE_**                    |              |
-| Black                         | 3            |
+| Black                         | 2            |
 | White                         | 2            |
 | Latinx                        | 3            |
-| Asian                         | 2            |
+| Asian                         | 3            |
 | Native                        | 3            |
 | Pacific Islander              | 2            |
 | \---                          | \---         |
@@ -208,7 +208,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | ------------------------------------------------------------- | ---------------- |
 | **ASSISTIVE TECH**                                            |                  |
 | Font resizing/larger                                          |                  |
-| Screen reader                                                 | 2                |
+| Screen reader                                                 |                  |
 | Braille terminal                                              |                  |
 | Speech recognition sftw                                       |                  |
 | Speech generating device                                      |                  |
@@ -216,7 +216,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | High contrast mode                                            |                  |
 | Alternative keyboard                                          |                  |
 | Alternative mouse or stylus                                   |                  |
-| Keyboard only navigation (no mouse usage)                     | 1                |
+| Keyboard only navigation (no mouse usage)                     |                  |
 | Switch access, head pointer, or eye tracking                  |                  |
 | Joystick                                                      |                  |
 | Teletypewriter or telecommunication device for the deaf (TTY) |                  |
@@ -266,7 +266,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 January 2023
 
 * Kickoff call requested
-* Preferred date/time: January 10, 2023 at 1pm EST
+* Preferred date/time: January 17, 2023 at 1pm EST
 
 
 
@@ -279,7 +279,7 @@ We will be testing what is currently approved in the staging environment.
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **January 16 - 27 2023**
+* Planned dates of research: **January 24 - February 2, 2023**
 
 ### Length of sessions
 * Session length: 1 hour 
@@ -291,15 +291,14 @@ We will be testing what is currently approved in the staging environment.
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| January 16, 2023      | 12pm - 8pm    |
-| January 17, 2023      | 12pm-8pm      |
-| January 19, 2023      | 1pm - 8pm     |
-| January 20, 2023      | 12pm - 8pm    |
 | January 23, 2023      | 3pm - 8pm     |
 | January 24, 2023      | 12pm - 8pm    |
 | January 25, 2023      | 1pm - 8pm     |
 | January 26, 2023      | 1pm - 8pm     |
 | January 27, 2023      | 1pm - 4pm     |
+| January 30, 2023      | 12pm - 4pm     |
+| January 31, 2023      | 1pm - 4pm     |
+| February 1, 2023      | 1pm - 4pm     |
 
 
 	
@@ -311,7 +310,7 @@ We will be testing what is currently approved in the staging environment.
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant(s) for pilot test: 
 - Note-takers: Perigean & 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us),   
 
 
 
