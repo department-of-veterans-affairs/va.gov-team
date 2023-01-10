@@ -2,7 +2,7 @@
 `DRAFT`
 
 ## Background
-We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
+We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know we need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
 
 In order to make this determination, we need to get our existing pattern in front of users, with all the notifications we’re aware of today. 
 
