@@ -64,7 +64,9 @@ _What team is responsible?_
 
 _Any other notes_
 - Level of difficulty: low
-- Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) is a diagram made by the CMS team in December 2019, showing the current redirect scenarios involving Drupal.
+- Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. 
+  - ![Redirect Drupla plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) 
+  - Diagram is a plan that is implemented in the CMS but not yet in nginx.
 - The Drupal-specific timing difficulties here will be addressed when VSP Ops works on their initiative to make Drupal the source of truth for redirects in 2020.
 
 ### 2) Client-side redirects within www.va.gov
