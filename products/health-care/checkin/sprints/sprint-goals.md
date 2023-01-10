@@ -38,6 +38,7 @@ ________________________________________________________________________________
     -  Evaluate and implement new testing artifacts as required for staging reviews
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - Begin testing
+    - Perform accessibility testing & create new artifact(s)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Finish detail pages & add aria labels
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
