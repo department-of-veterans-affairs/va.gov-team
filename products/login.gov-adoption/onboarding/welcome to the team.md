@@ -47,10 +47,10 @@ December 2022 - 2023
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
-|Senior Product Manager|Anthony Levin-Decanini|TBD|
+|Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
+|Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
+|Full Stack Developer|TBD|TBD|
 |Senior Interaction Designer|TBD|TBD|
-|Full Stack Developer|TBD|TBD|
-|Full Stack Developer|TBD|TBD|
 
 ### Discovery team
 August - December 2022
