@@ -16,6 +16,8 @@ ________________________________________________________________________________
    - Evolve the trendline idea
 
 #### UX Sprint Goals  
+- [New Accessibility Testing Artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/change-history#Changehistory-December1,2022)
+    -  Evaluate and implement new testing artifacts as required for staging reviews
 - Unified Check-In Experience
     - Create presentation - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178
     - Start wires - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174
@@ -29,6 +31,8 @@ ________________________________________________________________________________
     - Edits to research plan - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482
 
 #### Engineering Sprint Goals
+- [New Accessibility Testing Artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/change-history#Changehistory-December1,2022)
+    -  Evaluate and implement new testing artifacts as required for staging reviews
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - Are we unblocked to begin testing?
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
