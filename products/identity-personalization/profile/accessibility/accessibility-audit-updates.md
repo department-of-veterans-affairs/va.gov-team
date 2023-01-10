@@ -128,24 +128,34 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 -   Draft ticket created [#47272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47272)
 
 #### Name tag
+- [X] **Status**; Work completed in [#48263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48263)
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
 -   **Recommendations:**
 	-   Angela considers this like "basic information," which could be displayed right below the H1 under an H2 heading that says “basic information” 
 	-   Or for less priority, it could be at the bottom of the page
 	-   In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1
-	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
+	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on 
+
+#### Personal information
+**Status**: Partially complete
+- [X] Design completed in [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
+- [ ] FE work scheduled [#49651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
 	-   Ticket Created [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
 
 #### TTY (Direct Deposit)
+- [X] **Status**: Work completed in [#46195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46195)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **Next steps:** _Resolved?_
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-2`
 	-   [Related TTY ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46195)
 
-
 #### Account Security
+
+**Status**: Partially complete
+- [X] Design completed in [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299)
+- [ ] FE work in backlog [#51085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)
 -   If navigating by heading, it's easy to skip all main fields
 -   Headings can be changed to improve this page
 -   **Recommendations:**
