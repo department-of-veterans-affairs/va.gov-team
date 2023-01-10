@@ -86,7 +86,7 @@ Thanks for doing that, it’s so helpful for us to be able to hear your thoughts
 
 	- Facilitator: Share prototype link you did not use before	
 	- If second prototype is read/edit mode, use this link: [https://codepen.io/surfbird/full/dyjvybr](https://codepen.io/surfbird/full/dyjvybr)
-	- If second prototype is autosave, use this link: [https://codepen.io/moose62712/full/mdjOGga](https://codepen.io/moose62712/full/mdjOGga)
+	- If second prototype is autosave, use this link: [https://codepen.io/surfbird/full/vYaxzMW](https://codepen.io/moose62712/full/mdjOGga)
 
 Take a look at this page.  What do you notice that is different from the other view we looked at?
 - What questions come up for you as you review this?
