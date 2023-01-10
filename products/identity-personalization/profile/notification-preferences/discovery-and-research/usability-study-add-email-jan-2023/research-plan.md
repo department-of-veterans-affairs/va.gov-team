@@ -1,8 +1,7 @@
 # Research plan for Authenticated Experience, Add Email Notifications, January 2023
-`DRAFT`
 
 ## Background
-We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know we need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
+We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
 
 In order to make this determination, we need to get our existing pattern in front of users, with all the notifications we’re aware of today. 
 
@@ -64,7 +63,7 @@ We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 
 **Some participants:**
 - Must require screenreader software to use computers and mobile devices (recruit 4 participants total)
-- Must be over the age of 55 (recruit 8 participants in total)
+- Must be over the age of 55 (recruit 6 participants in total)
 - Must be willing to join from a mobile device (recruit 6 in total)
 - Must be willing to join from a desktop device (recruit 6 in total)
 
@@ -88,6 +87,12 @@ We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 Our research artifacts, including the prototype, will be complete by January 16.
 * Pilot participant email: shane.strassberg@va.gov
 * Date and time of pilot session:  1/17/2023, 11am
+
+* **We would like to request a kickoff call with Perigean before recruiting begins to align on research goals, recruitment criteria, and terminology for screener questions in the survey and emails that will be sent to Veterans.**
+	* Available times for kickoff call:
+	* Wednesday, January 11, between 12:30-3pm
+	* Thursday, January 12, between 10:30-11:30, or 1-4pm 
+	* Friday, January 13 between 11am-1pm
 
 ### Research sessions
 * Planned dates of research: Jan 19-24
