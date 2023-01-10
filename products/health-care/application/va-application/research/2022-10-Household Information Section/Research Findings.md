@@ -313,9 +313,13 @@ _List all labels that apply to this finding from the [research repository label 
 Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
 
 
-> _Supporting data: Quote here_
+> Not at all. Again it is clear to me and I am 74, I lose brain cells on a daily and its still good. (P4-004) (Veteran Information Task)
 
-> _Supporting data: Quote here_
+> So far so good. Its self-explanatory. (P7-005) (Veteran Information Task)
+
+> It is working pretty well. It flows pretty well is the way I would say it. It’s straightforward, do you have this, what is this and click here. It makes it easy to fill out. It is very straight forward. (P14-023) (VA Benefits / Miliary Service Task)
+
+> It seems simple enough, it is telling me the information they are going to need. (P6-018) (Financial Disclosure Task)
 
 
 **Key Finding 6: Logical order and error recovery**
