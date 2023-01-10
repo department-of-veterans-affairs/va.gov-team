@@ -106,6 +106,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 ### Issues that need more work
 
 #### Hubless spoke
+- [ ] **Status**: Unclear if we are going to work on this
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
 - Concerns presented by accessibility folks regarding current challenges due to the lack of a true landing page
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
@@ -115,6 +116,10 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 
 #### Address validation 
+
+**Status**: Partially complete
+- [X] Design complete in [#47272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47272) and [#48537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48537)
+- [ ] FE work in backlog [#49652](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49652)
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
 -   **Next steps:** Needs ticket + a11y defect level for prioritzation
