@@ -20,8 +20,8 @@ ________________________________________________________________________________
     -  Evaluate and implement new testing artifacts as required for staging reviews
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - Begin testing
-    - Q: what about accessibility testing?
-    - Q: what about staging review?
+    - Perform accessibility testing & create new artifact(s)
+    - Schedule a staging review
 - Design consistency with VAOS
     - Aria labels (for Brian) - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450
 - Unified Check-In Experience
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - Begin testing
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Where are we with this?
+    - Finish detail pages & add aria labels
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Test the vets-website PR with the content-build PR merged and document and submit the PR
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
