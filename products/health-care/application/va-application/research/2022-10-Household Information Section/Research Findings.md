@@ -290,9 +290,17 @@ _List all labels that apply to this finding from the [research repository label 
 Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order.
 
 
-> _Supporting data: Quote here_
+> Yeah so that’s understandable. It’s just like before when I filled out mine, so that’s good.” (P11-014)
 
-> _Supporting data: Quote here_
+> It’s good. I think it's fine. This is smooth compared to some of the things I had to fill out on VA stuff. This is simple. (P5-017)
+
+> If it were no than it could have meant they didn’t move in until married, so if you say you didn’t financially help them does that effect you? It leaves it up to how people want to look at it. (P7-020)
+
+> Did your spouse live with you - a little invasive whereas do you have the same address sounds better. It is a little less accusatory (P3-028)
+
+> Yes I understand them...Well the only thing I would – does the spouse live with you last year, what if it was only like 6 months?” (P11-015)
+
+> I feel like maybe I shouldn’t have to enter my address again. I would expect it to already generate the household information. (P10-022)
 
 
 **Key Finding 5: Information was easy to understand and overall clear**
