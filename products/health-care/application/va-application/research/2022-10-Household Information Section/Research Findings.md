@@ -75,7 +75,7 @@ A moderated usability study using an interactive prototype of the 10-10EZ Health
 
 ## Hypotheses and Conclusions
 
-1) The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the applicaiton.
+1) The financial information question is well received and the onboarding page provides the Veteran/applicant with the information they need to proceed easily through this section of the application.
    - **Conclusion 1: Maybe true**
    - Most participants rated the introduction page favorably (giving it 4 or 5 out of 5 rating) in that it prepared them for the application, however some mentioned that they needed more context and help to be able to provide this information and some also mentioned not wanting to provide it at all, but having to.
 
@@ -220,7 +220,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Key Finding 1: Additional explanation needed**
 
-Labels: label 1, label 2 
+Labels: [BNFT: Healthcare], [TREND: Content] 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
@@ -228,14 +228,19 @@ _List all labels that apply to this finding from the [research repository label 
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
 
+Research Question: Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?
+
 > I guess this could be more clear, Like my initial look at it I thought veteran pension but is that disability or pension. I am not sure. It could be more specific. [P6-014] (VA Benefits / Military Service Task)
 
 > Um, I guess maybe for these two put links to what they are (travel and copay) I wouldn’t know what they are or what I would need for those. The rest seems fine. [P6-019] (Financial Onboarding Task)
 
-> Where it says 'the financial information you will need', when it's asking for last year's gross income, before taxes and any other deductions - you could 'i.e. pay stub' something like that so service members know what they can use. Just to get their mind thinking 'oh ok I can use this' - something like that. [P13-019] (Financial Onboarding Task)
-
 > No. I assume this is for a dependent over the age of 18. I was asking for expenses because under 18 there are always expenses. I guess this is fine. I guess this is fine, I am just trying to read through the jargon is all
 [P5-018] (Adding Dependents Task)
+
+Research Question: Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
+
+> Where it says 'the financial information you will need', when it's asking for last year's gross income, before taxes and any other deductions - you could 'i.e. pay stub' something like that so service members know what they can use. Just to get their mind thinking 'oh ok I can use this' - something like that. [P13-019] (Financial Onboarding Task)
+
 
 
 **Key Finding 2: Document and information gathering**
