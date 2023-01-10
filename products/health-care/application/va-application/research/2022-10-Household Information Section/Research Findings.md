@@ -342,6 +342,8 @@ _List all labels that apply to this finding from the [research repository label 
 Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
 Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
 
+Research Question: Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
+
 
 > I thought it flowed pretty good. (P11-027) (Post Task Interview)
 
@@ -353,9 +355,6 @@ Those who interacted with the confirmation modal when removing a dependent from 
 
 
 ## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 
 ### Insight A: Progress bar component
 
@@ -377,21 +376,35 @@ Two participants commented of the frequency of clicking continue, and that there
 
 ### Insight C: Need help footer
 
+> So again, the fact that phone number is on the bottom of every page is great. Sometimes they give you that information on the first page and if you don't write it down.. wish I knew that number I was supposed to call. The fact that is provided on every page is really helpful too. (P14-060)(Annual Income Task)
+
+
 ### Insight D:  Service dates - multiple responses
+
+
+
+### Insight E:  Authenticated Path
+
+
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
+
 * Recommendation 1
     * _Supporting evidence_
+
 * Recommendation 2
     * _Supporting evidence_
+
 
 
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
+- Baseline usability study of current household information section in staging environment
+- 
 
 
 ## Further research needed
@@ -434,8 +447,8 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-[Link to audit prior to ]
-[2022 GA page data]
+- [Link to initial UX audit]
+- [2022 GA page data on this section]
 
 
 
