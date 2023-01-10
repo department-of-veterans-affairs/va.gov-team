@@ -31,8 +31,6 @@ We also want learn about new opportunities for Veterans to pursue decision revie
 ### Outcome
 This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of decision review options from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
 
-Important note: This study involves a concept prototype, which we will use to assess the value of a self-service experience for decision review options. These designs, however, are not meant to be shipped as-is. Before doing that, we will take them through a full platform review process.  
-
 ### Research questions
 Part 1: General questions
 - Did you use VA.gov to file your (decision review option)?
@@ -46,6 +44,8 @@ Part 1: General questions
 - [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
 Part 2: Concept prototype
+
+**Important note:** This concept prototype used in this study is purely conceptual, meant to assess the value of a self-service experience for decision review options. Before proceeding with implementation of any of these designs, we will take them through a full platform review process.  
 
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
 - [Show user [concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)] On a scale of 1-5, how helpful is this? 
