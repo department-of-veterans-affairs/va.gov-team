@@ -23,7 +23,7 @@ This VET  [doesn’t keep up with his health](https://www.reddit.com/r/Veterans/
 ### Finding 4: There’s been some discrepancies surrounding the 10 year presumptive period.
 The confusion is whether or not a diagnosis has to be given within the 10 year period or if the illness must manifest itself within the 10 years of the vet being discharged. A screenshot was taken of a VET referencing two codes of regulations 8 CFR 3.303 and  [3.307 (c)](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR39056aee4e9ff13/section-3.307) 
 
-![screenshot](VjeMxrpiCWSQk1Sh7XP1AH5w2N1ZwWmG8O6khNOazmFv2eNLsJLdvuKLJKbbUMcHLx6qAyavjjDpsmwtoBrX2RmQK4BQ5fzgrJBKgcA364Doo82_KtS263yUjSX6gCQdn2d4QWImmc_im0_YVCKlF0ooUIoKGEf3CBk67SYtES7-ml9h5IApJlxOAmAeSg.png)
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/pact-10-year-to-claim-discussion.png)
 
 ### Finding 5: Dependents who were living in a war zone and had been exposed to Agent Orange, wondered if they would be able to benefit from PACT ACT.
  A user posted a concern about the inclusion of dependents who were living in a war zone ( [Guam during Vietnam](https://www.reddit.com/r/Veterans/comments/zel8rj/do_you_have_pact_act_questions/) ) and were exposed to Agent orange. They are wondering if they would be included in the PACT. A direct quote from the post is pasted below:
