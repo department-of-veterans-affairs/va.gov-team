@@ -24,9 +24,13 @@ ________________________________________________________________________________
     - Schedule a staging review
 - Design consistency with VAOS
     - Aria labels (for Brian) - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450
+    - Add appt instructions to confirmation page in pre-check-in- https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51702
+    - Schedule a staging review
+    - Defend our experimental ticket with the design council!
 - Unified Check-In Experience
     - Create presentation - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178
     - Start wires - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174
+    - Get answers to VEText questions
 - End of Interactions
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
