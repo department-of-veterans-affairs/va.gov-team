@@ -88,66 +88,7 @@ A moderated usability study using an interactive prototype of the 10-10EZ Health
    - 	Most participants were successful with the task to add dependents to the form easily. This study used a prototype with limited functionality there was not enough information to determine if editing dependents information had less cognitive load. Most participants did mention it would be easier to review the dependent information when they were editing or a way to view all pages of information at once during editing. 
 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-
 ## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. **Are the questions worded and explained in a way that is clear and understandable to the Veterans/applicants or is additional context and explanation needed?**
-   - *Start application*
-   - *Veteran information*
-      - **6/10** participants answered that the questions were clear and there is nothing they would add/change
-   - *VA benefits / military service*
-      - **6/10** participants found the VA benefits/military service questions to be clear and would not change anything
-      - **4/10** participants reported that that some information needed to be read twice or that more clarifying information is needed
-      - **3/10** participants commented on the process of uploading a document in general to being easy and simple
-      - **3/10** thought the process of uploading could be unclear and confusing for some
-   - *Household information*
-      - **7/10** participants mentioned that questions in the dependents section could use more clarification
-      - **5/10** participants interacted with or had initial questions about who qualifies as a dependent
-      - **6/10** participants commented on or interacted with the content around other eligibility factors or income guidelines
-      - **3/10** participants commented that the spouse support question needed additional clarification and context.
-   - *Income information*
-      - **4/10** participants commented that the income page was clear and easy to understand
-      - **3/10** participans suggested changes to the financial disclosure page, in needing more context or providing helpful links
-      - **7/10** participants said extra explanation could be helpul for what counts as other income, business income, and how the gross and net are combined
-      - **4/10** participants felt more clarification was needed around what non-reimburable medical expenses are, costs before or after insurance, and spouse and child support payments
-2. **What is easy or difficult and why for the Veteran/applicant as they work through the household information questions?**
-3. **Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?**
-   - **7/10** participants said extra explanation could be helpul for what counts as other income, business income, and how the gross and net are combined
-   - **4/10** participants felt more clarification was needed around what non-reimburable medical expenses are, costs before or after insurance, and spouse and child support payments
-4. **Does the Veteran/applicant seem to struggle or indicate they have to pause and return to the application to get income information?**
-   - *Start application*
-      - **7/10** participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them
-   - *VA benefits / military service*
-      - **3/10** participants said they would scan the document with a printer to get a file to upload
-      - **4/10** said they would take a picture with their device to upload to the application
-      - One participant commented that this should be automated as this informaiton should be available already
-   - *Household information*
-   - *Income information*
-      - **3/10** participants commented on not wanting to, but having to or wanting to know more about why they need to disclose thier financial information
-      - **2/10** participants reported they would need help from their wife to complete the financial disclosure questions, and it would be a point where they would have to potentially pause
-      - **4/10** participants felt deductible information would take a half hour or more to gather or that is was just asking a lot for a health care application
-5. **Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?**
-   - **1/10** participants stated that the option to decline to provide financial information should appear before the financial onboarding page
-6. **What struggles do participants encounter with the process of adding and editing multiple dependents?**
-   - **8/10** participants could successfully edit and remove a dependent from the appllication
-   - **6/10** participants said adding a dependent was overall clear and there is nothing they would change
-   - **5/10** participants said editing a dependent would be easier if they could review all their dependents information at once with responses instead of having to go through a series of all screens again
-   - **2/10** participants attempted to use the browser back button or missed the edit link initially
-7. **Is there clear error recovery and easy editing ability when adding multiple entries for a question?**
-
-
-
---
 
 ### Key Finding 1: Additional explanation needed
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
@@ -206,9 +147,6 @@ Those who interacted with the confirmation modal when removing a dependent from 
 - 1/10 participant stated that the option to decline to provide financial information should appear before the financial onboarding page (Financial Onboarding Task)
 - 1/10 participant stated that the order and transition on the page with multiple dependent cards to be disjointed. (Add Dependents Task)
 
-
-
---
 
 ## Details of Findings 
 
