@@ -165,6 +165,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   Draft ticket created [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299)
 
 #### In-line error message when editing in profile
+- [X] **Status**: Work completed in [#46731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46731)
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
 -   Also does not tell screenreader about all the errors shown, just one. This is likely a form system problem, opened a bug assuming that's the case [#46731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46731)
 -   **Recommendations:**
@@ -174,6 +175,8 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   *Additional suggestion*: If an error summary is available, place focus on the heading within this area. Otherwise, if an error summary is not available, place focus within the first error field. Be sure to include descriptive error messages for screen readers and other users to determine what needs to be corrected.
 
 #### One-per-page editing
+- [X] **Status**: Work completed. We determined we are not moving to a one-thing-per-page model based on user research [#47136](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47136), [#47378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47378), and [#47381](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47381)
+- [Research report determining we do not need to move forward with one thing per page model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md)
 -   Consider moving from in-line editing to one-per-page editing
 -   Can one-per-page editing help with any of the above concerns?
 -   Some research has been done by other teams
