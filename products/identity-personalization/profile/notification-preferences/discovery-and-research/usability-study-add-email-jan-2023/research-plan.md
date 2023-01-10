@@ -1,4 +1,5 @@
 # Research plan for Authenticated Experience, Add Email Notifications, January 2023
+`DRAFT`
 
 ## Background
 We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
@@ -52,7 +53,7 @@ The audience for our research will be Veterans with VA health care with cognitiv
 We’ll use Perigean to recruit participants.
 
 ### Recruitment criteria
-We’d like to recruit 12 Veterans for a total of 6-8 completed sessions. The participants should be a mix of people who can join from desktop and mobile devices, mix of screenreader and non-screenreader users, and a variety of ages. Specifics follow.
+We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 
 #### Primary criteria
 **All participants:**
@@ -125,3 +126,5 @@ Please list the people who will be serving in each role.
 	- tom.harrison@adhocteam.us
 	- florence.mccafferty@agile6.com 
 	- berni.xiong@agile6.com
+	- beverly.nelson@va.gov
+	- melanie.jones@oddball.io 
