@@ -286,6 +286,8 @@ Research Question: Within the household information section (step 4) of the 10-1
 
 ### Insight A: Progress bar component
 
+Labels: [DSC: Progress Bars]
+
 Two participants commented on the utility of the progress bar, suggesting that they should be able to interact with it, or that it more accurately represent the number of steps in the form.
 
 > Yes. It shows the status, which is very nice, but also if I hovered over this with the mouse, it would show what that actually was. Or something – maybe right underneath this blue part. (P12-025) (Edit Dependents Task)
