@@ -160,8 +160,7 @@ There were a some areas of the application where participants mentioned examples
 
 
 ### Key Finding 2: Document and information gathering 
-Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.
-
+Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time.**
 
 - 7/10 participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them  (Start Application Task)
 - To upload a document on the military service page, 3/10 participants said they would scan the document with a printer to upload and 4/10 said they would take a picture with their device to upload to the application. (VA benefits/Military service - upload task)
@@ -189,7 +188,7 @@ Most participants thought the initial page of questions about their spouse were 
 
 
 ### Key Finding 5: Information was easy to understand and overall clear
-Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
+Most participants answered that areas of the form were **worded in a way that was clear and easy to understand** - such as the Veteran information questions and the VA benefits and military service questions. 
 
 - 6/10 participants answered that the questions were clear and there is nothing they would add/change (Veteran Information Task)
 - 6/10 participants found the VA benefits/military service questions to be clear and would not change anything (VA benefits/Military Service Task)
@@ -198,7 +197,7 @@ Most participants answered that areas of the form were worded in a way that was 
 
 
 ### Key Finding 6: Logical order and error recovery
-Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
+Most participants felt the order of **questions flowed in a logical order and there were only a couple of small recommendations for changes**.
 Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
 
 
@@ -214,16 +213,15 @@ Those who interacted with the confirmation modal when removing a dependent from 
 ## Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
 _To add images: ![text](link - add image to github folder and link here with .png)_
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+
 
 
 **Key Finding 1: Additional explanation needed**
 
-Labels: [BNFT: Healthcare], [TREND: Content] 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: [BNFT: Healthcare], [DSP: Contextual help], [TREND: Content] 
 
 
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
@@ -248,8 +246,6 @@ Research Question: Is there information missing that could help the Veteran/appl
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 
 Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.**
 
@@ -268,9 +264,7 @@ Research Question: Does the Veteran/applicant seem to struggle or indicate they 
 
 **Key Finding 3: Multiple responses and editing information**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: DSP: Form templates, label 2 
 
 
 Most participants thought **adding a dependent was clear overall with nothing they would change or add**, overall participants were successful to complete adding dependents. And most participants also mentioned **it would be easier if they could review all their dependent’s information at once when editing** instead of having to go through a series of screens again.
@@ -294,8 +288,6 @@ Research Question: What struggles do participants encounter with the process of 
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 
 Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order.
 
@@ -316,8 +308,6 @@ Most participants thought the initial page of questions about their spouse were 
 **Key Finding 5: Information was easy to understand and overall clear**
 
 Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 
 Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
@@ -381,10 +371,16 @@ Two participants commented of the frequency of clicking continue, and that there
 
 ### Insight D:  Service dates - multiple responses
 
+> Actually there's one thing I would give a suggestion to, just looking at service start date and service end date: some service members break in service, or they may have been reserve or national guard. I don't think there's a way to put that information in there too [multiple start/end dates]. Those are added up differently when it comes to your service - I don't know if there's a way the application can separate that if there's a break in service. (P13-014) (VA benefits/military service Task)
 
 
 ### Insight E:  Authenticated Path
 
+> “I like how it gives the option checking to see if I’ve applied to the VA health care before – with that button.”  (P10-002)
+
+> First I would sign in but I like to screen shot things so I know how to do it. (Reading Page) I notice to make sure you check eligibility; I was looking for a hyper link like when doing food stamps. This one has it on the bottom. (reading page) okay so far so good, save work and progress. So far so good. (P7-003)
+
+> I would do ‘create an account’ this first option here. (P12-003)
 
 
 ## Recommendations
