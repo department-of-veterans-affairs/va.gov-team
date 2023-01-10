@@ -36,7 +36,7 @@ ELIGIBILITY
 
 EMPLOYMENT
 - Employment Status:
- - Employer Name:     --
+- Employer Name: 
 
 ACTIVE INSURANCE            
 - Insurance Company:        
@@ -91,24 +91,24 @@ CIVIL GUARDIAN
 
 ## VA Profile
 
-- First Name: In the current VA.gov profile via MPI
-- Middle Name: In the current VA.gov profile via MPI
-- Last Name: In the current VA.gov profile via MPI
-- Religion: According to their documentation, this is in VA Profile, but we do not currently show in the profile
-- Ethnicity: According to their documentation, this is in VA Profile, but we do not currently show in the profile
+- First Name: 
+- Middle Name: 
+- Last Name:
+- Religion: In VA Profile,not shown 
+- Ethnicity: In VA Profile,not shown 
 - Date of Birth: In the current VA.gov profile via MPI
 - Place of Birth: This is not in VA Profile as far as I know
 - Age: : This is not in VA Profile as far as I know              
-- Gender: We show gender identity in the current VA.gov profile via VA Profile; we do not show "sex assigned at birth", and we removed an old (poorly named) "gender" field in 2022 that approximated sex assigned at birth. We have no plans to add that back and plan to only support gender identity.
-- Marital Status: According to their documentation, this is in VA Profile, but we do not currently show in the profile
-- Home and mailing address: In the current VA.gov profile via VA Profile
-- Home, work, cell phone: In the current VA.gov profile via VA Profile
+- Gender: We show gender identity in the current VA.gov profile via VA Profile; we do not show "sex assigned at birth
+- Marital Status:  In VA Profile,not shown 
+- Home and mailing address: 
+- Home, work, cell phone: 
 - Email address: In the current VA.gov profile via VA Profile
-- Insurance information: According to their documentation, VA Profile supports something called Health Coverage, but I am not sure if this is insurance information. We do not currently show this in the profile.
+- Insurance information: According to their documentation, VA Profile supports something called Health Coverage, not currently shown in the profile.
 - Primary Next of Kin: According to their documentation, VA Profile appears to support Next of Kin. We do not currently show this in the profile.
 - Emergency Contact: According to their documentation, VA Profile appears to support Next of Kin. We do not currently show this in the profile.
-- VA Guardian: According to their documentation, VA Profile supports something called "Special Authorities", but it is unclear to me if that includes guardianship info. We do not currently show this in the profile.
-- Civil Guardian: According to their documentation, VA Profile supports something called "Special Authorities", but it is unclear to me if that includes guardianship info. We do not currently show this in the profile.
+- VA Guardian: According to their documentation, VA Profile supports something called "Special Authorities", but it is unclear if that includes guardianship info. We do not currently show this in the profile.
+- Civil Guardian: According to their documentation, VA Profile supports something called "Special Authorities", but it is unclear if that includes guardianship info. We do not currently show this in the profile.
 
 
 
@@ -141,3 +141,76 @@ CIVIL GUARDIAN
 - Legacy location: MHV>Get Care>Care Givers>Providers & Physicians
 - Health insurance (company; ID number; primary checkbox; first/last name of insured; group number; start date; stop date; pre-approval phone number; health insurance company phone number; comments)
 - Legacy location: Get Care>My Coverage
+
+## DOD
+Regular Active Service
+
+- Service
+- Begin Date
+- End Date
+- Character of Service
+- Rank
+
+Reserve/Guard Association Periods
+
+- Service
+- Begin Date
+- End Date
+- Character of Service
+- Rank
+
+Reserve/Guard Activation Periods
+
+- Service
+- Begin Date
+- End Date
+- Activated Under (Title 10, 32, etc.)
+
+Deployment Periods
+- Service
+- Begin Date
+- End Date
+- Conflict
+- Location
+
+DoD MOS/Occupation Codes
+
+- Service
+- Begin Date
+- Enl/Off
+- Type
+- Service Occupation Code
+- DoD Occupation Code
+
+Military/Combat Pay Details
+
+- Service
+- Begin Date
+- End Date
+- Military Pay Type
+- Location
+
+Separation Pay Details
+
+- Service
+- Begin Date
+- End Date
+- Separation Pay Type
+
+Retirement Periods
+
+- Service
+- Begin Date
+- End Date
+- Retirement Type
+- Rank
+
+DoD Retirement Pay
+
+- Service
+- Begin Date
+- End Date
+- Disability Percent
+- Pay Stat
+- Termination Reason
+- Stop Pay Reason
