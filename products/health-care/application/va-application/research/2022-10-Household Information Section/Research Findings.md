@@ -248,9 +248,14 @@ _List all labels that apply to this finding from the [research repository label 
 Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.**
 
 
-> _Supporting data: Quote here_
+> You need the dd214 so I would need to get that from the safe deposit box. I would be texting my wife for the financial parts. Finding insurance cards. 
+ (P14-015) (Start Application Task)
 
-> _Supporting data: Quote here_
+> This is a lot I guess. Getting all of these numbers to apply for benefits is a lot. I don’t know. This is asking too much for me. Some people just don’t know this kind of stuff. You are just paying the bills. A lot of people don’t know this stuff. I don’t remember how much I spent here and now that prices are going up and down I wouldn’t know. 
+(P5-025) (Deductibles Task)
+
+> It would take more than an hour because I would need to do the math. Insurance, medical expenses and then when to the doctor this date then this date. It would take more than an hour and I don’t know if this app should take longer than an hour. 
+(P5-023) (Annual Income Task)
 
 
 **Key Finding 3: Multiple responses and editing information**
