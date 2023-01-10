@@ -49,6 +49,10 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - ⚠️ Moderate. Should be fixed in 1-3 sprints post-launch.
 
 #### Buttons are styled to look like links
+
+**Status**: Partially complete
+- [X] Design complete in [#48537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43095)
+- [ ] FE ticket is in backlog [#49652](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49652)
 -   In the address validation flow, we still have edit buttons that look like links in the alerts and next to the address entered by the user 
 -   ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43095#issuecomment-1228599039))
 -   _Consideration:_ This could be a non-issue if we move to a one thing per page flow for this UX
