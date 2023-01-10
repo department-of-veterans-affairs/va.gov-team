@@ -262,7 +262,7 @@ Launch in Q1 2023
 * Planned dates of research: January 17 - 23, 2023
 
 ### Length of sessions
-* Session length: 60 minutes
+* Session length: 60 minutes for sighted users; 90 minutes for screen reader users
 * Buffer time between sessions: 30 minutes
 
 ### Availability for sessions
