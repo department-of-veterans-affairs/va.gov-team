@@ -9,7 +9,7 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- Send out the link to the observer Mural board (LINK TO COME) to observers in the thread
+- Send out the link to the observer Mural board ([https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1673373506463/1612803cf5440529246a69f92f6bc1b00742f336?sender=ub868d471cfdb1c56cc0b4512](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1673373506463/1612803cf5440529246a69f92f6bc1b00742f336?sender=ub868d471cfdb1c56cc0b4512)) to observers in the thread
 
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
