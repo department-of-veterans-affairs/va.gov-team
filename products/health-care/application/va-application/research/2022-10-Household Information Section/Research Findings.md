@@ -225,7 +225,6 @@ Labels: label 1, label 2
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 
-
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
 
@@ -239,27 +238,76 @@ There were a some areas of the application where participants mentioned examples
 [P5-018] (Adding Dependents Task)
 
 
-
-**Finding 2**
+**Key Finding 2: Document and information gathering**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+
+Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.**
+
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
 
 
-**Finding 3**
+**Key Finding 3: Multiple responses and editing information**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+
+Most participants thought **adding a dependent was clear overall with nothing they would change or add**, overall participants were successful to complete adding dependents. And most participants also mentioned **it would be easier if they could review all their dependent’s information at once when editing** instead of having to go through a series of screens again.
+
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**Key Finding 4: Spouse information and live with/address questions**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+
+Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order.
+
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**Key Finding 5: Information was easy to understand and overall clear**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+
+Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
+
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**Key Finding 6: Logical order and error recovery**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+
+Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
+Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
+
 
 > _Supporting data: Quote here_
 
@@ -282,9 +330,6 @@ Insight C: Need help footer
 
 Insight D:  Service dates - multiple responses
 - 
-
-
-
 
 ## Recommendations
 
