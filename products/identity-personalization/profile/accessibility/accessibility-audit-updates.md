@@ -64,7 +64,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 #### Notification Settings: No announcement of the type of telephone number (mobile) being read aloud
 
-- **Status**: Work completed in [#46609](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) and [#49885](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49885)
+- [X] **Status**: Work completed in [#46609](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) and [#49885](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49885)
 -   [NEW 508-defect-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46609) - related to missing descriptive text within the Notification Settings content area. Near the top of the content, the Veteran’s mobile number is listed, followed by a link to update their mobile phone number. The text content listed beforehand does not truly indicate what type of phone number is being read aloud by screen readers. Users may be able to guess that this is their mobile number, but the lack of specific callout text may create confusion.
 
 #### Field "headings" / lists (i.e. Mailing address and Home address)
