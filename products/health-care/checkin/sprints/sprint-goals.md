@@ -18,16 +18,19 @@ ________________________________________________________________________________
 #### UX Sprint Goals  
 - [New Accessibility Testing Artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/change-history#Changehistory-December1,2022)
     -  Evaluate and implement new testing artifacts as required for staging reviews
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+    - Begin testing
+    - Q: what about accessibility testing?
+    - Q: what about staging review?
+- Design consistency with VAOS
+    - Aria labels (for Brian) - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450
 - Unified Check-In Experience
     - Create presentation - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178
     - Start wires - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174
-- Design consistency with VAOS
-    - Aria labels (for Brian) - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450
-- Staging Review Collab Cycle
 - End of Interactions
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
-- Travel Reimbursement
+- Travel Reimbursement - Enhancements
     - Edits to research plan - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482
 
 #### Engineering Sprint Goals
@@ -38,7 +41,7 @@ ________________________________________________________________________________
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Where are we with this?
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Where are we with this?
+    - Test the vets-website PR with the content-build PR merged and document and submit the PR
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
 
 ---------------------- END OF FUTURE/TENTATIVE -----------------------------
