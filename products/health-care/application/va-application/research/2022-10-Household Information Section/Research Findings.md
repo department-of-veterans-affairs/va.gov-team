@@ -316,6 +316,8 @@ Two participants commented of the frequency of clicking continue, and that there
 
 ### Insight E:  Authenticated Path
 
+Labels: [DSP: Signed out vs. signed in]
+
 > “I like how it gives the option checking to see if I’ve applied to the VA health care before – with that button.”  (P10-002)
 
 > First I would sign in but I like to screen shot things so I know how to do it. (Reading Page) I notice to make sure you check eligibility; I was looking for a hyper link like when doing food stamps. This one has it on the bottom. (reading page) okay so far so good, save work and progress. So far so good. (P7-003)
