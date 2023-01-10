@@ -148,7 +148,10 @@ Regular Active Service
 - Service
 - Begin Date
 - End Date
-- Character of Service
+- Character of Service : The Department of Defense (DoD) authorizes six characterizations of service for military service 
+members to receive on discharge: (1) Honorable; (2) Under Honorable Conditions (General); (3) 
+Under Other than Honorable Conditions; (4) Bad Conduct; (5) Dishonorable, and (6)
+Uncharacterized.
 - Rank
 
 Reserve/Guard Association Periods
@@ -156,7 +159,10 @@ Reserve/Guard Association Periods
 - Service
 - Begin Date
 - End Date
-- Character of Service
+- Character of Service :  The Department of Defense (DoD) authorizes six characterizations of service for military service 
+members to receive on discharge: (1) Honorable; (2) Under Honorable Conditions (General); (3) 
+Under Other than Honorable Conditions; (4) Bad Conduct; (5) Dishonorable, and (6)
+Uncharacterized.
 - Rank
 
 Reserve/Guard Activation Periods
