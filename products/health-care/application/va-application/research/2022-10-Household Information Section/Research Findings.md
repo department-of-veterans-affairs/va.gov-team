@@ -333,9 +333,13 @@ Most participants felt the order of questions flowed in a logical order and ther
 Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
 
 
-> _Supporting data: Quote here_
+> I thought it flowed pretty good. (P11-027) (Post Interview Task)
 
-> _Supporting data: Quote here_
+> Nothing to me seemed out of order. It started out with the service member information - it flowed good throughout the application process. I wouldn't change the order. (P13-036) (Post Interview Task)
+
+> Yeah, to me – because it could have been an accident, me hitting that [option to confirm choice in modal]. If it had cancelled it right away I could lose a bunch of information that I took my time to [enter]. It could be frustrating if that were to automatically cancel instead of asking. (P10-025) (Edit Dependents Task)
+
+> See sometimes, and I don’t want to make a wrong assumption here, if you click ‘remove’ it will just remove everything you put in there without even giving this additional information [the modal], which this does, which I appreciate. Very nice compared to what I’ve seen so far with the quality and user-friendliness overall. So I would hit ‘no, cancel’ since I’m given the option, and you should always be given the option. (P12-026) (Edit Dependents Task)
 
 
 ## Additional Insights
