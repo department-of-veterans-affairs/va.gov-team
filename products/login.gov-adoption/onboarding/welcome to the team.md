@@ -3,7 +3,7 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 
 ## Onboarding
 ### Your onboarding checklist
-- [ ] Schedule PIV Orientation  with Yvonne (<yvonne@mostudio.com>) to start onboarding
+- [ ] Schedule PIV Orientation with [Yvonne](https://dsva.slack.com/team/U0439K1MX61) to start onboarding
 - [ ] Confirm access to Slack channels (#va-identity-product-team & #cedar-identity-product-team)
 - [ ] Confirm access to [VA CEDAR Identity Google Drive](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=share_link)
 - [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
