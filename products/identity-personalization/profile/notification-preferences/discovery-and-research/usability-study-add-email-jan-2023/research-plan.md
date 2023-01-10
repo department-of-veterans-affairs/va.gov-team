@@ -52,7 +52,7 @@ The audience for our research will be Veterans with VA health care with cognitiv
 We’ll use Perigean to recruit participants.
 
 ### Recruitment criteria
-We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
+We’d like to recruit 12 Veterans for a total of 6-8 completed sessions. The participants should be a mix of people who can join from desktop and mobile devices, mix of screenreader and non-screenreader users, and a variety of ages. Specifics follow.
 
 #### Primary criteria
 **All participants:**
