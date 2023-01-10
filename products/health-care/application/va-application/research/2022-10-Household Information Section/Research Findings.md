@@ -120,7 +120,7 @@ And most participants also mentioned **it would be easier if they could review a
 
 
 ### Key Finding 4: Spouse information and live with/address questions
-Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order. 
+Most participants thought the **initial page of questions about their spouse were clear and understandable**, but some had to **pause or had questions regarding if their spouse lived with them or had the same address**, they felt the question was repetitive or a confusing order. 
 
 - 8/10 participants said the initial spouse questions were clear and understandable.
 - 6/10 participants had to pause or had a change suggestion to the questions/pages around the if your spouse lived with you and had the same address. Some felt this was repetitive or asked in a confusing order. 
