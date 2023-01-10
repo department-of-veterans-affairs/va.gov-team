@@ -268,9 +268,16 @@ _List all labels that apply to this finding from the [research repository label 
 Most participants thought **adding a dependent was clear overall with nothing they would change or add**, overall participants were successful to complete adding dependents. And most participants also mentioned **it would be easier if they could review all their dependent’s information at once when editing** instead of having to go through a series of screens again.
 
 
-> _Supporting data: Quote here_
+> No (nothing unclear, would not add anything) (P5-019) (Add Dependents Task)
 
-> _Supporting data: Quote here_
+> I would say that this is what the standard should be – straightforward and very clear what you’re asking for. It’s legible and readable.”
+(P10-024) (Add Dependents Task)
+
+> Like if I click edit, it should show these pages separately. Instead of me having to go through all of them again
+(P6-024) (Edit Dependents Task)
+
+> Go to edit and then you update the information and click continue. Then it take you back to this page right here. 
+(P5-020) (Edit Dependents Task)
 
 
 **Key Finding 4: Spouse information and live with/address questions**
