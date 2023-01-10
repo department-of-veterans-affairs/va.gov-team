@@ -1,5 +1,5 @@
 ---
-name: Authorized Experience Profile Phased Release Template
+name: Authenticated Experience Profile Phased Release Template
 about: Basic template for creating Authorized Experience Profile team phased releases
   using a feature flag
 title: Practice Area - Auth Profile - [Project] - [Project Name]
