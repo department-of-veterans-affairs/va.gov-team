@@ -39,7 +39,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 #### Direct deposit, routing and account number information is unclear to screen reader users
 
-- [ ] **Status**: Work completed in [#46614](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) and [#47003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47003)
+- [X] **Status**: Work completed in [#46614](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) and [#47003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47003)
 -   [NEW 508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46614) 
 -    related to focus management and screen reader announcement on the Direct Deposit Information content area. After clicking the **EDIT** button to edit direct deposit information for disability compensation and pension bank information, the focus is set to the routing number field. This causes screen reader users to miss the informative content that appears above it that includes an image and descriptive text noting to users where to find their bank's routing and account numbers. 
    -   There are also instances where after clicking the **EDIT** button, and then clicking on the expandable-collapsible area for "Where can I find these numbers?", the caption that should appear following the image is missing.
