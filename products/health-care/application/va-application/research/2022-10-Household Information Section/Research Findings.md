@@ -276,6 +276,12 @@ Research Question: Within the household information section (step 4) of the 10-1
 
 > Nothing to me seemed out of order. It started out with the service member information - it flowed good throughout the application process. I wouldn't change the order. (P13-036) (Post Task Interview)
 
+> I would do the relationship prior to the name. Then name, then SSN, DOB,. That’s how your brain works, spouse, child, stepchild. (P3-031) (Add Dependents Task)
+
+
+Research Question: Is there clear error recovery and easy editing ability when adding multiple entries for a question?
+
+
 > Yeah, to me – because it could have been an accident, me hitting that [option to confirm choice in modal]. If it had cancelled it right away I could lose a bunch of information that I took my time to [enter]. It could be frustrating if that were to automatically cancel instead of asking. (P10-025) (Edit Dependents Task)
 
 > See sometimes, and I don’t want to make a wrong assumption here, if you click ‘remove’ it will just remove everything you put in there without even giving this additional information [the modal], which this does, which I appreciate. Very nice compared to what I’ve seen so far with the quality and user-friendliness overall. So I would hit ‘no, cancel’ since I’m given the option, and you should always be given the option. (P12-026) (Edit Dependents Task)
@@ -298,6 +304,8 @@ Two participants commented on the utility of the progress bar, suggesting that t
 Two participants commented of the frequency of clicking continue, and that there were too few fields on certain pages.
 
 > For me the steps and continue, it is annoying to have 6 steps I would prefer 2 or 3. You can fit more boxes on this page, like a lot more. 3 boxers is nothing. Clicking continue is more steps that I have to do. (P6-010) (Veteran Information Task)
+
+> I wish a lot of these questions were more than one on a page. It would make it easier for me, because asking if they want to fill it out than one question next page and one question. A lot of the time my connection isn't great, so it takes a while for pages to load and slows down the process. (P14-033) (Spouse Information Task)
 
 > In a desktop version or tablet version it is annoying because I am constantly clicking through. It makes me think the 6 bars are maybe only 3 because I don’t need to go through 20 pages to answer 4 questions. Same thing here, it is asking one question than going to the next page. I like a lot of tasks at one time. (P14-038) (Spouse Information Task)
 
