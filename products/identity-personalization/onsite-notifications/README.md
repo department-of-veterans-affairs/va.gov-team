@@ -43,6 +43,21 @@
 
 VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. The authenticated experience team aims to cover information around the third and final pillar -- notifications that show to logged-in users on VA.gov.
 
+## Onsite notification criteria
+
+### In scope
+
+[This is reflective of the overall priorities for My VA and personalization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#opportunities--priorities).
+
+1. **Action items**: Our top priority for onsite notifications are any items that require a veteran to take action in order to move along a process. Examples might include alerting a veteran to an outstanding debt or copay that's due; alerting veterans to unread messages from their health care team; prompting Veterans to upload evidence to a disability claim; etc.
+2. **Communicate high-priority benefit status & updates that don’t require action**: Our second priority is to communicate know high-priority updates that are generally important to people but don't necessarily require them to take any action. Examples might include an update to a claim; prescription shipment; a direct deposit payment to their account, etc.
+
+### Out of scope
+
+- **Benefit suggestions**: Currently, onsite notifications should not be used as a place to surface benefit suggestions. In the event VA.gov is able to support eligibility information, we need to think about if and how onsite notifications might fit into this.
+- **Organizational announcements**: Onsite notifications should be personalized, so organization-wide announcements, emergency or otherwise, are out of scope.
+- **Confirmation messages**: We do not need to show onsite notifications that confirm an action a person just took (eg. submitting a form).
+
 ## Problem Statement
 
 - As a customer of the VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
