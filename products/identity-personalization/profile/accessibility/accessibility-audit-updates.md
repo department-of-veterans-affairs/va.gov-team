@@ -111,7 +111,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
 - Concerns presented by accessibility folks regarding current challenges due to the lack of a true landing page
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
-- [Slack thread](https://design.va.gov/patterns/forms/sub-task)
+- [Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1651153191682419)
 - **Next steps:** Needs ticket + a11y defect level, team grooming
 	-   *Shared Support - a11y defect level suggestion*: More assessment/research needed
 
