@@ -224,12 +224,20 @@ Labels: label 1, label 2
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
+
+
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
 
-> _Supporting data: [P6-014] I guess this could be more clear, Like my initial look at it I thought veteran pension but is that disability or pension. I am not sure. It could be more specific. 
+> I guess this could be more clear, Like my initial look at it I thought veteran pension but is that disability or pension. I am not sure. It could be more specific. [P6-014] (VA Benefits / Military Service Task)
 
-> _Supporting data: Quote here_
+> Um, I guess maybe for these two put links to what they are (travel and copay) I wouldn’t know what they are or what I would need for those. The rest seems fine. [P6-019] (Financial Onboarding Task)
+
+> Where it says 'the financial information you will need', when it's asking for last year's gross income, before taxes and any other deductions - you could 'i.e. pay stub' something like that so service members know what they can use. Just to get their mind thinking 'oh ok I can use this' - something like that. [P13-019] (Financial Onboarding Task)
+
+> No. I assume this is for a dependent over the age of 18. I was asking for expenses because under 18 there are always expenses. I guess this is fine. I guess this is fine, I am just trying to read through the jargon is all
+[P5-018] (Adding Dependents Task)
+
 
 
 **Finding 2**
@@ -263,16 +271,16 @@ Brief description
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-**Insight A: Progress bar component**
+Insight A: Progress bar component
 - 
 
-**Insight B: One-thing-per-page**
+Insight B: One-thing-per-page
 - 
 
-**Insight C: Need help footer**
+Insight C: Need help footer
 - 
 
-**Insight D:  Service dates - multiple responses**
+Insight D:  Service dates - multiple responses
 - 
 
 
