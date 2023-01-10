@@ -18,6 +18,8 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 - ❗️ Critical. Must be fixed before launch.
 
 #### Connected Apps
+
+- [X] **Status**: Work completed in [#37363](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37363)
 -   Screen reader user is not aware of most content
 	-   Headings can be changed to improve this page
 	-   **Recommendations:**
