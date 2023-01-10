@@ -34,11 +34,12 @@ ________________________________________________________________________________
 - [New Accessibility Testing Artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/change-history#Changehistory-December1,2022)
     -  Evaluate and implement new testing artifacts as required for staging reviews
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-    - Are we unblocked to begin testing?
+    - Begin testing
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Where are we with this?
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Where are we with this?
+- [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
 
 ---------------------- END OF FUTURE/TENTATIVE -----------------------------
 
