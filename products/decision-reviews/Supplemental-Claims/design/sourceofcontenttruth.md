@@ -1025,17 +1025,23 @@ If you don’t think this is the right form for you, you can go back to answer t
 LINK: Go back to the questions
 
 #### 1. Check your eligibility
-Make sure you meet our eligibility requirements for Supplemental Claims before you file.
-
-What are the eligibility requirements to file a Supplemental Claim? (Expand) \
-
-You can file a Supplemental Claim if you have new and relevant evidence that we didn't consider before, or you have a condition that we now consider presumptive (such as under the PACT Act). You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
+You can file a Supplemental Claim if you have new and relevant evidence that we didn't consider before, **or** you have a condition that we now consider presumptive (such as under the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)). You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
 
 [Learn more about fiduciary claims](https://www.va.gov/decision-reviews/fiduciary-claims/)
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
+
+What is a presumptive condition? (Expand) \
+
+For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+
+We consider a condition presumptive when it's established by law or regulation.
+
+If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+
+[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
