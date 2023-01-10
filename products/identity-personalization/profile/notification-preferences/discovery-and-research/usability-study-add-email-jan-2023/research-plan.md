@@ -41,7 +41,7 @@ This will be a moderated usability study conducted remotely over Zoom.
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
-- [Autosave prototype](https://codepen.io/moose62712/full/mdjOGga)
+- [Autosave prototype](https://codepen.io/surfbird/full/vYaxzMW)
 - [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 	
 ## Recruitment	
