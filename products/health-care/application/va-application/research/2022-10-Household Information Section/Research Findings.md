@@ -347,7 +347,12 @@ _Next steps here. Include owners if appropriate._
 ## Further research needed
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* Rural 
+* Other than honorable discharge
+* Immigrant origin
+* Expat
+* LGBTQ+
+* Assistive Technology
 
 ## Appendix
 
@@ -368,13 +373,13 @@ _If there are demographics that were not included in this study or you discovere
 
 Link to prototypes or pages that were tested:
 
-- [Desktop Protoptype]
-- [Mobile Prototype]
+- [Desktop Protoptype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257)
+- [Mobile Prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 
 ## Other supporting documents created
-Sketch Designs
+[Sketch Designs](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
 
-Sketch Flows
+[Sketch Flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/AE225764-D5BB-4CE6-9577-38E8F570392B/canvas)
 
 
 ## Secondary research
@@ -394,8 +399,6 @@ _Complete the demographic info below using information from the Perigean recruit
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to **10 participants.**
 
