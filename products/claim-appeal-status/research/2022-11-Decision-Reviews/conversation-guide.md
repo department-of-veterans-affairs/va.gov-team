@@ -1,15 +1,6 @@
 # Conversation Guide 
 
 ## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -30,16 +21,16 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Skyler Schain and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about decision review options on VA.gov.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [1 hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **This session will be broken into two parts.** In the first part, I'm just going to ask you some questions about your experience with VA claims. There are no right or wrong answers here, we just want to hear about your experience. In the second part, I'm going to show you a concept prototype. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
@@ -53,45 +44,54 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
+- Have you used VA.gov before?
+- If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
+- If no, how do you generally interact with the VA, if at all?
+- Have you ever filed an application for disability compensation (Form 526EZ) with the VA?
+- Have you ever pursued a decision review for a claim with the VA? This could have been a supplemental claim, a higher level review, or a board appeal?
+- Have you done either of these tasks on VA.gov? If not, how did you do it?
+
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+## First Task: General questions - 30 minutes
 
-- Step 1
-- Step 2
+"Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Did you use VA.gov to file your (decision review option)?
+- What were your main reasons for filing the (decision review option)?
+- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)?
+- On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
+- What were your biggest challenges with the process?
+- Was there anything about the process that worked particularly well?
+- How did you feel about the end result (or how do you feel so far, if it’s underway)?
+- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- What were the biggest pain points in the decision review process for the participant?
+- What type of third party consultation did the participant engage in? 
+- What other insights emerge about the decision review process?
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Concept design review - 20 minutes
 
-- Step 1
-- Step 2
+- [Show user [concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)]
+- Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
+- [View decision review options page] On a scale of 1-5, how helpful is this?
+- Does this information help you decide which decision review option is right for you?
+- What would you do next?
+- What would you expect to happen if you filed a (decision review option) in this way?
+- Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How helpful is the abbreviated version of the decision review options screen vs. the longer format page?
+- How comfortable do participants feel pursuing a decision review option at this point? How informed do they feel?
+- Do participants understand the differences between the decision review options? Do they understand which is most appropriate for their situation? 
+
 
 ## Post-Task Interview - X minutes
 
