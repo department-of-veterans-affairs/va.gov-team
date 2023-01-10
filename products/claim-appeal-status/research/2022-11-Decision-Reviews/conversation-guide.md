@@ -57,7 +57,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: General questions - 30 minutes
+## First Task: General questions - 20 minutes
 
 "Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of.
 
@@ -93,13 +93,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Do participants understand the differences between the decision review options? Do they understand which is most appropriate for their situation? 
 
 
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -112,7 +106,3 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
