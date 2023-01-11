@@ -88,7 +88,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 | access_token | Value returned by /token endpoint | String | [See Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) |
 | acr | The level of user authentication asked for. Web logins require IAL2/LoA3, no IAL1/LoA1 users will be returned | String | `ial2`, `loa3`, `min` |
 | authentication | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access_token | String | `Authorization: Bearer {{encoded_access_token}}` |
-| client_id | Determines cookie-based (web) or API-based (mobile) authentication | String | `web`, `mobile` |
+| client_id | Determines cookie-based (web) or API-based (mobile) authentication | String | `web`, `vaweb`, `mobile`, `vamobile` |
 | code | Authentication code provided by vets-api to be exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
 | code_challenge | Value created by vets-api and passed in param to login modal | Base64url | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
