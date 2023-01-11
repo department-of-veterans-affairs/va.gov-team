@@ -337,8 +337,13 @@ Labels: [DSP: Signed out vs. signed in]
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 -- Possible recommendations
-- Method for inputting multiple service periods (list & loop?)
+
+- Method for inputting multiple service periods
 - More context/info needed:
+   - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
+   - Annual/spouse income - severance pay inflating amount [P7-034]
+   - Deductible income - additional deductible expenses like child support/ spousal support? [P7-036][P10-031]
+   - Deductible income - more context about insurance needed? [P10-032]
 
 --
 
