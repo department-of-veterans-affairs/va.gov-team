@@ -69,7 +69,7 @@ In February 2022, we were informed that the service through which the VA.gov pro
 
 |Field name|% of successful retrievals in first month after launch: August 18 - September 17, 2022| Second month after launch: September 18 - October 17, 2022| Third month after launch: October 18 - November 17, 2022|
 |----------|------------|------------|------------|
-|Military information|100%|100%|100%|
+|Military information|98%|98%|98%|
 
 ## Solution approach
 
