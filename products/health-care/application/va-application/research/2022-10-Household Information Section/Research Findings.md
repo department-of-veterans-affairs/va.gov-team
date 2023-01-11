@@ -354,33 +354,40 @@ Labels: [DSP: Signed out vs. signed in]
 - Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
 - Refinement to multiple response pattern when editing dependent information [Key Finding 3]
 - Consider switching financial onboarding page & yes/no question: yes/no should come before onboarding
-- 
-- Consider how to only ask for information when it is needed, following short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits. 
+
+- Possible further research - are there any other scenarios where applicant is not already in short-form flow AND does not need to provide financial information information?  How to only ask for information when it is needed and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits? 
 
 
 --
-[Draft refined list of recommendations]
+[Draft refined list]
 
-* Content refinements, additional context and links added
-    * _Supporting evidence_
+* **Content review - adding more context where needed**
+   - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
+   - Annual/spouse income - severance pay inflating amount [P7-034]
+   - Deductible income - additional deductible expenses like child support/ spousal support? [P7-036][P10-031]
+   - Deductible income - more context about insurance needed? [P10-032]
+   - Income/deductible pages in general - context on whether your income level can affect benefits, if so, how? [P13-032][P5-015]
+   - Deductible income - examples of non-reimbursable medical expenses? [P13-033][P14-064]
+   - Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
 
+* **Multiple responses edit flow**
+   - Refinement to multiple response pattern when editing dependent information [Key Finding 3]
 
-* Multiple responses edit flow
-    * _Supporting evidence_
+* **Multiple service periods**
+   - Method for inputting multiple service periods [P10-014][P13-014]
+   - Questions: What information is needed to be exact or an estimate? What is helpful for enrollment process systems?
 
-
-* Recommendation 2
-    * _Supporting evidence_
-
+* **Questions per page and order or questions**
+   - Consider combining pages with only one field/task on them [Insight B]
+   - Consider switching financial onboarding page & yes/no question: yes/no should come before onboarding
 
 
 ## Next Steps
-
 - Baseline usability study of current household information section - [research study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/212) 
 - Follow up with VA team about information specifics
    - How are service periods used, and is it necessary for the accuracy of multiple service periods?
 - Content review
-- Multiple responses pattern, edit flow design 
+- Multiple responses pattern, edit flow design refinements
 
 
 ## Further research needed
