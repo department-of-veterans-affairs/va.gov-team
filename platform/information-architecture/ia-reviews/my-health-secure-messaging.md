@@ -12,6 +12,7 @@
 **Last update:** 
 - 12/19/2022 - Joni completed documentation
 - 12/28/2022 - Mikki - added link to phased roll-out Mural, updated image of visual site map to represent full launch IA, simplified URL/breadcrumb info, other minor copy updates
+- 1/11/2023 - Mikki - updated sitemap to represent core pages in structure, dynamic views, and sub-task flows;  updated breadcrumbs for My folders and Advanced Search pages
 
 **On this page:**
 - [User/Page Flows](#flows)
@@ -33,23 +34,28 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 
 **Site map when fully launched**
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/716bcf0d-07db-4500-9f01-c97d24733742)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6dd9131b-94eb-46e8-8cd5-2eb7be928f7c)
 
 <br>
  
-**Secure messages tool landing page:**
+**Messages tool landing page:**
 - **H1**: TBD by Sitewide Content 
 - **URL**: https://www.va.gov/my-health/messages
   - This is the canonical URL that will be used as the root for all consecutive pages within the messages tool. Additional sub-directories or parameters can be added to this as needed.  
 - **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Main Folders/views of messages: Inbox, Drafts, Sent, Trash, My folders, Advanced search**
+**Pages: My folders, Advanced search
 - **H1**: TBD by Sitewide Content 
 - **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Sub-pages/sub-tasks: A user's custom folder, Compose, Message/conversation detail, Search results from any view, Advanced search results, Edit draft, Create folder**
+**Dynamic views of messages: Inbox, Drafts, Sent, Trash
+- **H1**: TBD by Sitewide Content 
+- **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
+  - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
+
+**Sub-tasks: A user's custom folder, Compose, Message/conversation detail, Search results from any view, Advanced search results, Edit draft, Create folder**
 - **H1/page title:** TBD by Sitewide Content 
 - **Breadcrumb:** No breadcrumb, will include a "back" link to return to previous view
 
