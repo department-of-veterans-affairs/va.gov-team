@@ -76,7 +76,15 @@
 - Research recruiting #51002
 - Conduct research #51003
 
-### IA work?
+### Military info discovery
+
+**Design - Florence**
+
+This all depends on Florence having Github access.
+
+- Florence to familiarize with the military information section of the profile, and military info in general
+- Research plan
+- Conversation guide (stretch goal)
 
 ## Sprint 3 (2/1 - 2/14)
 
