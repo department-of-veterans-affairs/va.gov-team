@@ -14,12 +14,12 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 Seth Eheart - Program Manager
 
 ### Product & Data
-Matt Hall - Product Leadership
-Adam Bischoff - Product
-Meko Hong - Product
-Kelly Lein - Product
-Stacy Blackwood - Product
-Chloe Brown - Data
+- Matt Hall - Product Leadership
+- Adam Bischoff - Product
+- Meko Hong - Product
+- Kelly Lein - Product
+- Stacy Blackwood - Product
+- Chloe Brown - Data
 
 ### UX
 - Jennifer Ecker - UX Leadership
