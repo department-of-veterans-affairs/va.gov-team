@@ -6,14 +6,14 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Healthcare Application, Caregiver Team (10-10 Team)**
 
-Date: MM/DD/YYYY
+Date: January 2023 (Research sessions conducted in December 2022)
 
 **Designers**
 * Jessica Stump (jessica.stump@adhocteam.us)
 * Nick Osmanski (nick.osmanski@amida.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
-[Draft PLACEHOLDER](https://docs.google.com/presentation/d/1HAr3-AONIXgdW7mT_fcKv7LNRvpbYwueKtHAiMxNMkk/edit?usp=sharing)
+- [DRAFT PLACEHOLDER](https://docs.google.com/presentation/d/1HAr3-AONIXgdW7mT_fcKv7LNRvpbYwueKtHAiMxNMkk/edit?usp=sharing)
 
 <br>
 
@@ -49,6 +49,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 **2. Determine if the financial onboarding page content is helpful and understandable.**  
 
 **3. Optimize the order and flow of questions within the household information section.**
+
 
 These research goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
 - Key Result #3: Veterans feel prepared when they begin the Household section
@@ -314,10 +315,13 @@ Two participants commented of the frequency of clicking continue, and that there
 
 ### Insight C: Need help footer
 
+A couple participants commented on the global footer with contact information that was on all pages as a helpful resource and that it was nice to not have these numbers provided only at the beginning of the application, but along they way so they are there when needed. 
+
 > So again, the fact that phone number is on the bottom of every page is great. Sometimes they give you that information on the first page and if you don't write it down.. wish I knew that number I was supposed to call. The fact that is provided on every page is really helpful too. (P14-060)(Annual Income Task)
 
 
 ### Insight D:  Service dates - multiple responses
+A couple participants commented that there could be multiple service dates, breaks in service, or service with different branches. Clarification around what to put here or the ability to add multiple service dates would help with this question. 
 
 > Actually there's one thing I would give a suggestion to, just looking at service start date and service end date: some service members break in service, or they may have been reserve or national guard. I don't think there's a way to put that information in there too [multiple start/end dates]. Those are added up differently when it comes to your service - I don't know if there's a way the application can separate that if there's a break in service. (P13-014) (VA benefits/military service Task)
 
@@ -355,9 +359,15 @@ Labels: [DSP: Signed out vs. signed in]
 
 
 --
+[Draft refined list of recommendations]
 
-* Recommendation 1
+* Content refinements, additional context and links added
     * _Supporting evidence_
+
+
+* Multiple responses edit flow
+    * _Supporting evidence_
+
 
 * Recommendation 2
     * _Supporting evidence_
@@ -366,11 +376,11 @@ Labels: [DSP: Signed out vs. signed in]
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
 - Baseline usability study of current household information section - [research study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/212) 
 - Follow up with VA team about information specifics
    - How are service periods used, and is it necessary for the accuracy of multiple service periods?
+- Content review
+- Multiple responses pattern, edit flow design 
 
 
 ## Further research needed
