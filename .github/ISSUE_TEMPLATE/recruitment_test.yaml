@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         This is an easy request form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
+        |
         In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
   - type: textarea
     id: ideal-session-count
