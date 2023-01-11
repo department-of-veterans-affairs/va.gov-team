@@ -41,15 +41,15 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 - **H1**: TBD by Sitewide Content 
 - **URL**: https://www.va.gov/my-health/messages
   - This is the canonical URL that will be used as the root for all consecutive pages within the messages tool. Additional sub-directories or parameters can be added to this as needed.  
-- **Breadcrumb**: VA.gov home > My health > Messages
+- **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Folders/views of messages: Inbox, Drafts, Sent, Trash, custom folders**
+**Main Folders/views of messages: Inbox, Drafts, Sent, Trash, My folders, Advanced search**
 - **H1**: TBD by Sitewide Content 
-- **Breadcrumb**: VA.gov home > My health > Messages
+- **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Pages/sub-tasks: My folders, Compose, Message/conversation detail, Search results, Edit draft, Create folder**
+**Sub-pages/sub-tasks: A user's custom folder, Compose, Message/conversation detail, Search results from any view, Advanced search results, Edit draft, Create folder**
 - **H1/page title:** TBD by Sitewide Content 
 - **Breadcrumb:** No breadcrumb, will include a "back" link to return to previous view
 
