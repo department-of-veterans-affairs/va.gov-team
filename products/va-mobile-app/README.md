@@ -11,7 +11,7 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 - Martha Wilkes (part time design and accessibility)
 
 ### Program Management
-Seth Eheart - Program Manager
+- Seth Eheart - Program Manager
 
 ### Product & Data
 - Matt Hall - Product Leadership
