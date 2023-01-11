@@ -71,7 +71,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Curious why we require this? [Check out our introduction to inclusive research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md). For the time being, we aim to limit requests to 2 as recruitment may become significantly delayed or difficult with too many required categories. 
+        Curious why we require this? [Check out our introduction to inclusive research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) For the time being, we aim to limit requests to 2 as recruitment may become significantly delayed or difficult with too many required categories. 
   - type: dropdown
     id: equity-1
     attributes:
