@@ -7,16 +7,21 @@
 |Project|Status|
 |----|----|
 |Notification preferences: Integration MHV prefs| Planning |
+|Accessibility audit| FE build |
 |Notification preferences: Adding email as a channel| Research|
 |Direct deposit for comp & pen EVSS > Lighthouse migration| Discovery|
-|Accessibility audit| FE build |
+
 
 ### Projected timelines for current projects & enhancements
 
-|Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022| Q1 2023|
+Quarters are by calendar year, not fiscal year.
+
+|Project| Q4 2022| Q1 2023|Q2 2023|Q3 2023|Q4 2023|
 |----|----|----|----|----|----|
-|**Notification preferences: Integration MHV prefs**| - | - | Intake with MHV | Strategy with health apartment; Determine approach |TBD|
-|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |Finish last updates|
+|**Notification preferences: Integration MHV prefs**| Define needs with MHV |VA Profile intake; Determine next steps|TBD|TBD|TBD|
+|**Accessibility audit and updates**| Design & frontend build |Frontend to finish last updates|-|-|-|
+|**Notification preferences: Adding email as a channel**| - |Research & finalizing design|TBD|TBD|TBD|
+|**Direct deposit for comp & pen EVSS > Lighthouse migration**| - |Discovery| BE build|Launch|-|-|
 
 ## Completed projects & enhancements
 
