@@ -1,5 +1,8 @@
 # Tech and Design sync: Notes
 
+_January 11, 2023_
+_Jonathan, Eric, Robyn_
+
 **Download - not major tech hurtle, just more work.** 
 
 - Click print -> browser handles it from there? 
