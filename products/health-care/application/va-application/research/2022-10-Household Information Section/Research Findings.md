@@ -349,7 +349,12 @@ _Put together initial recommendations here based on your findings along with sup
    - Deductible income - examples of non-reimbursable medical expenses? [P13-033][P14-064]
 - Consider combining pages with only one field/task on them [Insight B]
 - Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
-   
+- Refinement to multiple response pattern when editing dependent information [Key Finding 3]
+
+
+- Big picture thought placeholder - how to only ask for information when it is needed (thinking short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits). 
+
+
 --
 
 * Recommendation 1
