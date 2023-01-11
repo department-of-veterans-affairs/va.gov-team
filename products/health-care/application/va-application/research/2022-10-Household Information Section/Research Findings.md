@@ -182,7 +182,7 @@ Research Question: Is there information missing that could help the Veteran/appl
 
 **Key Finding 2: Document and information gathering**
 
-Labels: label 1, label 2 
+Labels: label 1, [PRDT: DD-214], [DSC: File input], [PRDT: income limits (?)]
 
 
 Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.**
@@ -352,7 +352,7 @@ _Put together initial recommendations here based on your findings along with sup
 - Refinement to multiple response pattern when editing dependent information [Key Finding 3]
 
 
-- Big picture thought placeholder - how to only ask for information when it is needed (thinking short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits). 
+- Placeholder - Consider how to only ask for information when it is needed (following short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits). 
 
 
 --
