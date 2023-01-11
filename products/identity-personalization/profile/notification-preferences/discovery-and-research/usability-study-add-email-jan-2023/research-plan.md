@@ -64,6 +64,7 @@ We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 - Must be over the age of 55 (recruit 6 participants in total)
 - Have an identified cognitive impairment (recruit 8 in total)
 - Must identify as other than Caucasian (recruit 6 in total)
+- Must identify as a gender other than male (recruit 6 in total)
 - Must be willing to join from a mobile device (recruit 6 in total)
 - Must be willing to join from a desktop device (recruit 6 in total)
 
