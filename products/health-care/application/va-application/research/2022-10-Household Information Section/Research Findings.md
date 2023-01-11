@@ -201,7 +201,7 @@ Research Question: Does the Veteran/applicant seem to struggle or indicate they 
 
 **Key Finding 3: Multiple responses and editing information**
 
-Labels: DSP: Form templates, label 2 
+Labels: [DSP: Form templates], [DSC: Experimental] 
 
 
 Most participants thought **adding a dependent was clear overall with nothing they would change or add**, overall participants were successful to complete adding dependents. And most participants also mentioned **it would be easier if they could review all their dependent’s information at once when editing** instead of having to go through a series of screens again.
@@ -223,7 +223,7 @@ Research Question: What struggles do participants encounter with the process of 
 
 **Key Finding 4: Spouse information and live with/address questions**
 
-Labels: label 1, label 2 
+Labels: label 1, [DSC: Address block] 
 
 
 Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order.
