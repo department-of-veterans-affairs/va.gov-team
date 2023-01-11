@@ -85,6 +85,11 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 
 ## Outstanding Concerns about Cerner's Ambulatory Visit Summary
 
-### PSR-1828527
-Patient safety issue with the data entry of CITC prescriptions in MMR. 
+### 1. Patient safety issue with the data entry of CITC prescriptions in MMR. 
+Information provided by Eric Spahn (PSR-1828527)
+
+> Assessment: If an order is placed in MMR the "SIG" component and textual rendition of the "sig" in the "sig instructions" does not by default translate into an accurate textual rendition of the dose and frequency in the ambulatory after visit summary AND medication list unless the following steps are taken manually by the adjudicating pharmacist 1) Pharmacist updates the separate frequency and route drops downs in MMR (not always applicable, e.g. Methadone 10mg tablets 30mg in AM and 10mg at bedtime is not an available frequency) or 2) the pharmacist uses the comments component to update the "communication field with textual rendition to support clear communication of the prescription does and frequency.
+> 1.	Pharmacist will enter new orders from Non-VA providers in outpatient pharmacy package (MMR). When entering the directions , in order for them to populate into powerchart and on the After Patient Summary the Frequency and Route need to be entered by pharmacist not just by typing the directions in the “SIG” field. Due to these areas not being populated, you end up with an After Patient Summary that has no directions for the patient. The patient is supposed to take the furosemide twice daily but on the summary it just says 40mg which may become an error if patient only took 40mg daily rather than 80mg daily. (All of this also relates to BRIDGE SUPPLIES or any other orders entered directly into MMR)
+> 2.	You can see the CCNRX information that populates when information is entered in MMR in Comments and then under Communication. This can be confusing for the patient and probably should be moved to one of the other fields that won’t show up on the After Patient Summary. Maybe the complete directions can be typed here so they will show up in MMR and on the Summary if the FREQUENCY and ROUTE fields won’t populate.
+
 
