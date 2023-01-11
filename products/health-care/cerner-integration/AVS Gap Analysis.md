@@ -38,51 +38,51 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 | Smoking Status   |   | X - O        |      |
 | Preferred Language   |    | X - O    |   |
 |||||
-| *Treatment Plan*    |                                   |              |                                                                                          |
+| *Treatment Plan*  |   |     |     |
 |||||
-| _Medications_                                                         |                                   |              |                                                                                          |
-| Full Medication List                                                | X                                 | X            | Medication details vary                                                   |
-| Lists changes to medications from visit                             |                                   | X            |                                                                                          |
+| _Medications_    |     |     |    |
+| Full Medication List     | X                                 | X            | Medication details vary     |
+| Lists changes to medications from visit     |    | X   |      |
 |||||
-| _Visit Information_                                                   |                                   |              |                                                                                          |
-| Visit Date                                                          | X                                 | X            |                                                                                          |
-| Facility Name                                                       |                                   | X            |                                                                                          |
-| Providers                                                           |                                   | X            |                                                                                          |
-| Diagnosis                                                           | X                                 | X            |                                                                                          |
-| Tests Performed (List of Labs, not results)                         | X                                 | X            |                                                                                          |
-| Procedures Performed (Procedure History)                            | X                                 | X - O        |                                                                                          |
-| Current Medication List (simple meds list)                          | X                                 | X            | AVS is Pocket Med List                                                                   |
-| Discharge Vitals                                                    | X                                 | X            |                                                                                          |
-| Lab Test Results                                                    | X                                 | X - O        | Optional for AVS - not defaulted                                                         |
-| Clinical Charts - line graphs of past year results for Vitals, Labs |                                   | X - O        | Optional for AVS - not defaulted                                                         |
-| Medications & Immunizations Administered (during visit)             | X                                 | X            |                                                                                          |
-| Immunizations administered over past year                           |                                   | X            |                                                                                          |
-| Active Allergies                                                    | X                                 | X            |                                                                                          |
-| Allergy Adverse Drug Reactions                                      |                                   | X            |                                                                                          |
-| Allergy - Documenting Facility                                      |                                   | X            |                                                                                          |
-| Ongoing Active Problems                                             | X                                 | X - O        |                                                                                          |
-| Clinical Reminders (due for a flu shot/colonoscopy)                 |                                   | X - O        | Optional                                                                                 |
+| _Visit Information_    |    |     |      |
+| Visit Date     | X      | X     |    |
+| Facility Name   |    | X    |      |
+| Providers   |     | X    |      |
+| Diagnosis    | X    | X    |      |
+| Tests Performed (List of Labs, not results)    | X    | X   |       |
+| Procedures Performed (Procedure History)   | X  | X - O        |    |
+| Current Medication List (simple meds list)    | X  | X  | AVS is Pocket Med List  |
+| Discharge Vitals    | X    | X            |     |
+| Lab Test Results   | X                                 | X - O        | Optional for AVS - not defaulted    |
+| Clinical Charts - line graphs of past year results for Vitals, Labs |   | X - O        | Optional for AVS - not defaulted     |
+| Medications & Immunizations Administered (during visit)    | X    | X    |   |
+| Immunizations administered over past year    |    | X  |        |
+| Active Allergies    | X     | X            |         |
+| Allergy Adverse Drug Reactions  | | X            |                     |
+| Allergy - Documenting Facility     |                                   | X            |                           |
+| Ongoing Active Problems     | X       | X - O        |                         |
+| Clinical Reminders (due for a flu shot/colonoscopy)  |    | X - O        | Optional   |
 |||||
-| *My VA Supplies*                                                      |                                   |              |                                                                                          |
-| List of prescribed supplies (locally and remotely prescribed)       |                                   | X            |                                                                                          |
+| *My VA Supplies* ||||
+| List of prescribed supplies (locally and remotely prescribed)  |   | X    |    |
 |||||
-| *Education Materials*                                                 |                                   |              |                                                                                          |
-| Free-text Patient Instructions                                      | X                                 | X            |                                                                                          |
-| Custom Patient Instructions (user saved free-text for re-use)       | X                                 | X            |                                                                                          |
-| Free-text Visit Notes                                               |                                   | X            |                                                                                          |
-| Education Leaflets - Elsevier                                       | X                                 |              |                                                                                          |
-| Education Leaflets - Krames on Demand                               |                                   | X            |                                                                                          |
+| *Education Materials*  ||||
+| Free-text Patient Instructions   | X     | X    |      |
+| Custom Patient Instructions (user saved free-text for re-use)  | X  | X   |      |
+| Free-text Visit Notes    |       | X            |        |
+| Education Leaflets - Elsevier     | X       |              |        |
+| Education Leaflets - Krames on Demand    |     | X   |  |
 |||||
-| *Included/Standard in all AVS*                                        |                                   |              |                                                                                          |
-| Common Emergency Awareness Tips                                     | X                                 |              |                                                                                          |
-| Heart Attack Signs                                                  | X                                 |              |                                                                                          |
-| VA Beneficiary Needing Help                                         | X                                 |              |                                                                                          |
-| Footer text (disclaimer statement)                                  | X                                 | X            |                                                                                          |
-| Custom section included in every AVS                                |                                   | X            | In development                                                                              |
+| *Included/Standard in all AVS*  ||||
+| Common Emergency Awareness Tips  | X  |  |  |
+| Heart Attack Signs  | X   |    |     |
+| VA Beneficiary Needing Help   | X  |    |  |
+| Footer text (disclaimer statement)  | X | X  |  |
+| Custom section included in every AVS   |   | X  | In development  |
 |||||
-| _Additional Functionality_                                            |                                   |              |                                                                                          |
-| Customize font size                                                 |                                   | X            |                                                                                          |
-| Clinical Services Information (Name, Loc, Phone, Hours)             |                                   | X - O        |                                                                                          |
+| _Additional Functionality_  ||||   
+| Customize font size    |   | X   |  |
+| Clinical Services Information (Name, Loc, Phone, Hours) |   | X - O |  |
 
 ## Outstanding Concerns about Cerner's Ambulatory Visit Summary
 
