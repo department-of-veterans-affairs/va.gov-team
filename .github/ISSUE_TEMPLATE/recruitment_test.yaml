@@ -138,11 +138,16 @@ body:
     attributes:
       value: |
         ## After submitting this ticket
-        
-        ### Your tasks
-        - [ ] Add your team and study's labels to this ticket. This will help us track it in the research repo.
-        - [ ] Once you know who will be on your team, fill out this roles form to inform us on who will be there. (need to create new form for this)
-        
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Your tasks
+      options:
+        - label: Add your team and study's labels to this ticket. This will help us track it in the research repo.
+        - label: Once you know who will be on your team, fill out this roles form to inform us on who will be there. (need to create new form for this)
+  - type: markdown
+    attributes:
+    value: |
         ### What will happen next
         - Perigean will create a participant tracker in github for you to use (can we restrict access to protect PII or ask for them to scrub PII completely and use IDs instead?)
         - ?? [add 
