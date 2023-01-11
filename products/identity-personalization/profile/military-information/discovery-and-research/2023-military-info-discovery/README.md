@@ -44,6 +44,8 @@ In order to determine if and how we might expant the military information sectio
 
 ## Project risks & challenges
 
+- It may be hard to glean what people actually need. We don't want to be too leading since people tend to say they want whatever is offered to them. We should aim to be as generative as possible.
+
 ## Questions
 
 ## Scope
