@@ -142,25 +142,18 @@ Most participants felt the order of **questions flowed in a logical order and th
 Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
 
 
-- 8/10 participants commented in the post-task questions that the questions seemed to be in a clear order that is easy to understand. 
+- 8/10 participants commented in the post-task questions that the questions seemed to be in a clear order that is easy to understand. (Post-task Questions)
 - 1/10 participant stated the military service information should be earlier in the application (VA benefits/Military Service Task)
 - 1/10 participant stated that the option to decline to provide financial information should appear before the financial onboarding page (Financial Onboarding Task)
 - 1/10 participant stated that the order and transition on the page with multiple dependent cards to be disjointed. (Add Dependents Task)
+- 8/10 could easily remove a dependent from the multiple list and 4 particpants commenting positively on confirmation modal (Edit Dependents Task)
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-_To add images: ![text](link - add image to github folder and link here with .png)_
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-
-
-
 **Key Finding 1: Additional explanation needed**
 
 Labels: [BNFT: Healthcare], [DSP: Contextual help], [TREND: Content]
-
 
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
 
@@ -271,9 +264,7 @@ Most participants answered that areas of the form were worded in a way that was 
 
 **Key Finding 6: Logical order and error recovery**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: label 1, [DSC: Modal] 
 
 
 Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
@@ -349,6 +340,7 @@ _Put together initial recommendations here based on your findings along with sup
 -- Possible recommendations
 
 - Method for inputting multiple service periods [P10-014][P13-014]
+   - Questions: What information is needed to be exact or an estimate? What is helpful for enrollment process systems?
 - More context/info needed:
    - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
    - Annual/spouse income - severance pay inflating amount [P7-034]
@@ -362,7 +354,8 @@ _Put together initial recommendations here based on your findings along with sup
 - Consider switching financial onboarding page & yes/no question: yes/no should come before onboarding
 
 
-- Placeholder - Consider how to only ask for information when it is needed (following short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits). 
+- Consider how to only ask for information when it is needed, following short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits. 
+
 
 
 --
@@ -378,7 +371,8 @@ _Put together initial recommendations here based on your findings along with sup
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
-- Baseline usability study of current household information section in staging environment
+
+- Baseline usability study of current household information section in staging environment 
 - Follow up with VA team about information specifics
    - How are service periods used, and is it necessary for the accuracy of multiple service periods?
 
@@ -434,8 +428,6 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
