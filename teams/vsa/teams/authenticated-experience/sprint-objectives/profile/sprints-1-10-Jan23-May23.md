@@ -73,8 +73,8 @@
 
 **Design - Liz**
 
-- Research recruiting #51002
 - Conduct research #51003
+- Topline summary #51004
 
 ### Military info discovery
 
