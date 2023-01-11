@@ -2,7 +2,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 1/11/2023 - 1/24/2022 ---------------------- TENTATIVE -----------------------------
+## 1/11/2023 - 1/24/2022 
 
 #### Planned Releases 
 - NONE
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-     - Evaluate and implement new testing artifacts as required for staging reviews
+     - [Evaluate and implement new testing artifacts as required for staging reviews](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51715)
     - [Begin integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49745)
     - [Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
     - [Begin accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)    
@@ -48,8 +48,13 @@ ________________________________________________________________________________
         - https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - [Use simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
-- Kanchana ticket???????
+    - [Build the New Simplified Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49890)
+- [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
 - ~[BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)~
+- CIE Tech Debt (filling if other sprint goals are blocked or finished)
+   - Configure production URL shortener to use www.va.gov as the hostname
+   - Refactor and reduce HOC useage (#49081)
+   - Improve testing and validation with staging and screenshots(visual regression testing) #50989
 
 ## 12/28/2022 - 1/10/2022
 
