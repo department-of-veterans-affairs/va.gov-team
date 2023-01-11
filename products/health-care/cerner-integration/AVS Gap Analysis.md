@@ -26,20 +26,20 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 | Date document generated  |    |  X | |
 | Patient Address    |    | X - O        | AVS Optional section   |
 |||||
-| _Follow up Instructions_                                              |                                   |              |                                                                                          |
-| Instructions from provider (free-text or auto-text)                 | X                                 | X            |                                                                                          |
-| Scheduled Follow-Up Appointments                                    | X                                 | X            | Existing AVS includes Vista, but working on Cerner appointments (Appts, Allergies, Meds) |
-| You Need to Complete the Following (e.g. Imaging)                   | X                                 | X            |                                                                                          |
-| Someone Will Contact You Regarding These Appointments (Referrals)   | X                                 | X            | AVS lists referrals under New Orders                                                     |
+| _Follow up Instructions_   |    |    |   |
+| Instructions from provider (free-text or auto-text)   | X   | X   |    |
+| Scheduled Follow-Up Appointments   | X    | X   | Existing AVS includes Vista, but working on Cerner appointments (Appts, Allergies, Meds) |
+| You Need to Complete the Following (e.g. Imaging)   | X   | X  |   |
+| Someone Will Contact You Regarding These Appointments (Referrals)   | X  | X | AVS lists referrals under New Orders |
 |||||
-| _Ongoing Care_                                                        |                                   |              |                                                                                          |
-| Primary Care Provider                                               |                                   | X            |                                                                                          |
-| Primary Care Team                                                   |                                   | X            |                                                                                          |
-| Smoking Status                                                      |                                   | X - O        |                                                                                          |
-| Preferred Language                                                  |                                   | X - O        |                                                                                          |
+| _Ongoing Care_      |  |   |   |
+| Primary Care Provider     |    | X  |    |
+| Primary Care Team   |    | X     |    |
+| Smoking Status   |   | X - O        |      |
+| Preferred Language   |    | X - O    |   |
 |||||
-| *Treatment Plan*                                                      |                                   |              |                                                                                          |
-|                                                                     |                                   |              |                                                                                          |
+| *Treatment Plan*    |                                   |              |                                                                                          |
+|||||
 | _Medications_                                                         |                                   |              |                                                                                          |
 | Full Medication List                                                | X                                 | X            | Medication details vary                                                   |
 | Lists changes to medications from visit                             |                                   | X            |                                                                                          |
@@ -78,7 +78,7 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 | Heart Attack Signs                                                  | X                                 |              |                                                                                          |
 | VA Beneficiary Needing Help                                         | X                                 |              |                                                                                          |
 | Footer text (disclaimer statement)                                  | X                                 | X            |                                                                                          |
-| Custom section included in every AVS                                |                                   | X            | In progress                                                                              |
+| Custom section included in every AVS                                |                                   | X            | In development                                                                              |
 |||||
 | _Additional Functionality_                                            |                                   |              |                                                                                          |
 | Customize font size                                                 |                                   | X            |                                                                                          |
