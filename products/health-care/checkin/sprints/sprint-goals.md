@@ -89,6 +89,8 @@ ________________________________________________________________________________
 - CIE Tech Debt & Bugs    
     - ROLLOVER Refactor and reduce HOC useage (#49081)
     - ???? Spike- Visual Regression
+    - DONE Refactor error pages to make them less opaque phase 2 (#45795)
+    - DONE Fix text input error so that it translates the error message #51440 
     - DONE Add use case to Cypress (#47178)
     - DONE Allow creating appointments for dev (station 500) (#50925)
 
@@ -129,7 +131,7 @@ ________________________________________________________________________________
     - [SPIKE] - Unified check-in experience
 - CIE Tech Debt & Bugs
     - [SPIKE: What do we need to implement automatic maintenance window triggers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50757)
-    - Refactor error pages to make them less opaque phase 2 (ticket)?
+    - ROLLOVER Refactor error pages to make them less opaque phase 2 (ticket)?
     - [Update e2e testing Error page class validationPageLoaded method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50614)
     - 4 remove feature flag tickets for backend
 
