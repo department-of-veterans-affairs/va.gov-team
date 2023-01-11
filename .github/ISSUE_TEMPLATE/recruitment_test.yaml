@@ -148,7 +148,7 @@ body:
     attributes:
       value: |
         ### What will happen next
-        - Perigean will create a participant tracker in github for you to use (can we restrict access to protect PII or ask for them to scrub PII completely and use IDs instead?)
+        - Perigean will create ?? ([could something like this make the process easier for Perigean and researchers?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51600))
         - ?? [add 
         
         ### For the future
