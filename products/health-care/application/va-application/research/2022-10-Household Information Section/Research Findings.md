@@ -13,6 +13,7 @@ Date: MM/DD/YYYY
 * Nick Osmanski (nick.osmanski@amida.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Draft PLACEHOLDER](https://docs.google.com/presentation/d/1HAr3-AONIXgdW7mT_fcKv7LNRvpbYwueKtHAiMxNMkk/edit?usp=sharing)
 
 <br>
 
