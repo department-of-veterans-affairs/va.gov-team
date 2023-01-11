@@ -14,8 +14,8 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - [Review platform updates to accessibility testing reqs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51719) 
     - [Update Release Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40314)
-    - [Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
-    - [Begin accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)
+    - ~[Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)~
+    - ~[Begin accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)~
     - ~Schedule a staging review (if we are far enough along)~
     - [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
@@ -27,6 +27,7 @@ ________________________________________________________________________________
     - [Create presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178)
     - [Start wireframes for option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174)
     - [Get answers to VEText questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51180)
+- [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
 - End of Interactions
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
@@ -47,7 +48,8 @@ ________________________________________________________________________________
         - https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - [Use simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
-- [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
+- Kanchana ticket???????
+- ~[BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)~
 
 ## 12/28/2022 - 1/10/2022
 
