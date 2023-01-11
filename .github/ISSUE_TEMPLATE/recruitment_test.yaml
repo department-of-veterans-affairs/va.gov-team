@@ -136,8 +136,7 @@ body:
       description: Not seeing a group you want to recruit? You can [reference this list of underserved communities based on the matrix of oppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) or write in your own. We can't guarantee we can recruit a custom category if it's not explicitly asked for in the [Veteran usability sign up form](https://veteranusability.us/), but Perigean can partner with your team to help.
   - type: markdown
     attributes:
-      value: |
-        ## After submitting this ticket
+      value: "## After submitting this ticket"
   - type: checkboxes
     id: tasks
     attributes:
