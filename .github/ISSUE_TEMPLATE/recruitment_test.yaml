@@ -1,5 +1,5 @@
 name: Easy Recruitment Request (test)
-description: Use an easy recruitment form to submit a request to Perigean. 
+description: Use a simplified form to submit a recruitment request to Perigean. 
 title: "[Recruitment Request]: Insert name of your study here"
 labels: ["research"]
 assignees:
@@ -65,6 +65,11 @@ body:
         - Laptop											
         - Smartphone											
         - Tablet
+  - type: markdown
+    attributes:
+      value: |
+      ## Select up to 2 equity categories
+      Curious why we require this? [Check out our introduction to inclusive research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md). For the time being, we aim to limit requests to 2 as recruitment may become significantly delayed or difficult with too many required categories. 
   - type: dropdown
     id: equity-1
     attributes:
@@ -80,6 +85,7 @@ body:
         - Rural
         - Blind or low vision using a screen reader
         - Cognitive disabilities
+        - Custom (use the open input field below)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
     validations:
@@ -99,8 +105,14 @@ body:
         - Rural
         - Blind or low vision using a screen reader
         - Cognitive disabilities
+        - Custom (use the open input field below)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
+  - type: input
+    id: equity-custom
+    attributes:
+      label: Use a custom equity category
+      description: Not seeing a group you want to recruit? You can [reference this list of underserved communities based on the matrix of oppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) or write in your own.
   - type: markdown
     attributes:
       value: |
