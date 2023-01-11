@@ -11,8 +11,8 @@
 ### Planning:
 - **UAT Go/No go**
   - Completed mm/dd/yyyy
-  - UAT readiness ticket **need link**
-  - UAT readiness checklist **need link**
+  - UAT readiness ticket:[#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
+  - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/my-va-audit-improvements-UAT-checklist.md)
 - **Desired date range or test duration:**
      - Weeks of mm/dd - mm/dd
 - **Desired number of users:** 
