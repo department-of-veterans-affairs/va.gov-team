@@ -82,9 +82,9 @@
 
 This all depends on Florence having Github access.
 
-- Florence to familiarize with the military information section of the profile, and military info in general
-- Research plan
-- Conversation guide (stretch goal)
+- Kickoff research and gather background info #51818
+- Write research plan #51821
+- Write conversation guide #51822
 
 ## Sprint 3 (2/1 - 2/14)
 
