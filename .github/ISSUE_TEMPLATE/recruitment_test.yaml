@@ -95,7 +95,7 @@ body:
   - type: dropdown
     id: equity-1
     attributes:
-      label: Select your first underrepresented group
+      label: First underrepresented group
       description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
       options:
         - LGBTQ+
@@ -115,7 +115,7 @@ body:
   - type: dropdown
     id: equity-2
     attributes:
-      label: Select your second underrepresented group
+      label: Second underrepresented group (optional, but recommended)
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
       options:
         - LGBTQ+
@@ -133,7 +133,7 @@ body:
   - type: input
     id: equity-custom
     attributes:
-      label: Use a custom equity category
+      label: Use a custom equity category (up to 2 max)
       description: Not seeing a group you want to recruit? You can [reference this list of underserved communities based on the matrix of oppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) or write in your own.
   - type: markdown
     attributes:
