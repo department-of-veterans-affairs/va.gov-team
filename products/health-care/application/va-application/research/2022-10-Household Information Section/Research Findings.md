@@ -159,7 +159,7 @@ _List all labels that apply to this finding from the [research repository label 
 
 **Key Finding 1: Additional explanation needed**
 
-Labels: [BNFT: Healthcare], [DSP: Contextual help], [TREND: Content] 
+Labels: [BNFT: Healthcare], [DSP: Contextual help], [TREND: Content]
 
 
 There were a some areas of the application where participants mentioned examples **where more information would be helpful for them to understand** what they were being asked.
@@ -177,6 +177,8 @@ Research Question: Are the questions worded and explained in a way that is clear
 Research Question: Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
 
 > Where it says 'the financial information you will need', when it's asking for last year's gross income, before taxes and any other deductions - you could 'i.e. pay stub' something like that so service members know what they can use. Just to get their mind thinking 'oh ok I can use this' - something like that. [P13-019] (Financial Onboarding Task)
+![Onboarding page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Onboarding.png)
+
 
 
 
