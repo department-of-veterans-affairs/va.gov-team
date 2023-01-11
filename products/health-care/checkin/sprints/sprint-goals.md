@@ -55,42 +55,42 @@ ________________________________________________________________________________
 - NONE
 
 #### Analytics Sprint Goals
-- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+- DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
    - Evolve the trendline idea
 
 #### UX Sprint Goals  
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Figure out how to implement feedback from the collab cycle review
-         - [Design feedback around card component](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51409) (Zach) 
-         - [IA and design feedback around pagination](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51400) (Zach)
-    - Implement metrics (#51109) (Ben)
+         - DONE [Design feedback around card component](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51409) (Zach) 
+         - DONE [IA and design feedback around pagination](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51400) (Zach)
+    - DONE Implement metrics (#51109) (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
-    - [Start creating presentation for VA stakeholders](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178) (Ben)
-    - [Spike on VEText questions for Shane](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51180) (Kristen)
+    - DONE [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
+    - ROLLOVER [Start creating presentation for VA stakeholders](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178) (Ben)
+    - ROLLOVER [Spike on VEText questions for Shane](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51180) (Kristen)
 - Travel Reimbursement
-    - Wilkes-Barre Planning (#51110) (Ben)
-    - Update Design Artifacts for Release - Travel pay (#47488) (Zach)
-    - [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314) (Kelly)
+    - ONGOING Wilkes-Barre Planning (#51110) (Ben)
+    - ROLLOVER Update Design Artifacts for Release - Travel pay (#47488) (Zach)
+    - DONE [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314) (Kelly)
 - Tech Debt
-    - End of Interactions (#49521) (Kelly)
-    - [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
+    - ROLLOVER End of Interactions (#49521) (Kelly)
+    - ROLLOVER [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
 
 #### Engineering Sprint Goals
-- Production Support
+- DONE Production Support
     - perform prod support
     - Automate the day-end summaries
     - Review recent past incidents to find gaps in alerting
 - [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Start to implement new design/build header and footer (#49890)
+    - ROLLOVER Start to implement new design/build header and footer (#49890)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Implement the new details feature (#45319- asynch discuss how to break this down after wireframe review)
-    - Unified check-in experience (#50683)
+    - ROLLOVER Implement the new details feature (#45319- asynch discuss how to break this down after wireframe review)
+    - ONGOING Unified check-in experience (#50683)
 - CIE Tech Debt & Bugs    
-    - Refactor and reduce HOC useage (#49081)
-    - Spike- Visual Regression
-    - Add use case to Cypress (#47178)
-    - Allow creating appointments for dev (station 500) (#50925)
+    - ROLLOVER Refactor and reduce HOC useage (#49081)
+    - ???? Spike- Visual Regression
+    - DONE Add use case to Cypress (#47178)
+    - DONE Allow creating appointments for dev (station 500) (#50925)
 
 __________________________________________________________________________________________________________________________________________________________
 
