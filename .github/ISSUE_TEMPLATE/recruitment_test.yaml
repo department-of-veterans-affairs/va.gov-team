@@ -132,7 +132,7 @@ body:
   - type: input
     id: equity-custom
     attributes:
-      label: Use a custom equity category (up to 2 max)
+      label: Request a custom underrepresented group (up to 2 max)
       description: Not seeing a group you want to recruit? You can [reference this list of underserved communities based on the matrix of oppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) or write in your own.
   - type: markdown
     attributes:
