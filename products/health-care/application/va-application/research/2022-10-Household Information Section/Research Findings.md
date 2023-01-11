@@ -103,6 +103,7 @@ There were a some areas of the application where participants mentioned examples
 
 ### Key Finding 2: Document and information gathering 
 Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.
+
 - 7/10 participants mentioned the process of gathering documents, specifically the DD214, and the time and steps that would take them  (Start Application Task)
 - To upload a document on the military service page, 3/10 participants said they would scan the document with a printer to upload and 4/10 said they would take a picture with their device to upload to the application. (VA benefits/Military service - upload task)
 - One participant mentioned this should be automated as this information should be available already. (VA benefits/Military service - upload Task)
@@ -246,7 +247,7 @@ Most participants thought the initial page of questions about their spouse were 
 
 **Key Finding 5: Information was easy to understand and overall clear**
 
-Labels: label 1, label 2 
+Labels: [TREND: Content]
 
 
 Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions.
