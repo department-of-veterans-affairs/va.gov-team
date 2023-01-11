@@ -14,7 +14,7 @@ To support the Patient Check-in Integration project with Cerner, the team would 
 The goal of this Gap Analysis is to provide the information needed for decision-making efforts. Any additional discoveries should be added here to provide a comprehensive resource.
 
 ## Data Points
-||Cerner's Ambulatory Visit Summary| CPRS AVS|Comments|
+||Cerner AVS| CPRS AVS|Comments|
 |---|:-:|:-:|---|
 | *Patient Demographics / Header* ||||
 | Name  | X | X | |
