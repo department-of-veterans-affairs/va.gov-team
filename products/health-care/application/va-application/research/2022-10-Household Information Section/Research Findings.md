@@ -339,7 +339,7 @@ _Put together initial recommendations here based on your findings along with sup
 -- Possible recommendations
 - Method for inputting multiple service periods (list & loop?)
 - More context/info needed:
-   - 
+
 --
 
 * Recommendation 1
