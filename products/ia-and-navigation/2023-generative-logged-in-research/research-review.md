@@ -38,6 +38,7 @@ Based on the questions posed in our [research outline](https://github.com/depart
 - What tasks do people come to complete (eg. we already know disability and health care info are primary, so worth reiterating and moving on quickly)?
 - What are other known insights around navigating the site/logged in experience?
 - What do we not know at this point? What would be helpful to get more information on?
+- How easy/hard is it to find tasks that require people to be logged in?
 
 ## Previous research to review
 
