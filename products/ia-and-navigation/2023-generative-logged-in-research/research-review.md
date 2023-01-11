@@ -17,6 +17,11 @@ This includes:
 - Documenting any initial findings that maybe show in one or two reports, but on which we'd like to gather more information.
 - Determining where we still have outstanding questions that have not been covered in any previous research.
 
+### Also include...
+
+- Where necessary, include context for specific tasks in case it's relevant to a finding.
+- If applicable, ow we can potentially explore findings (eg. homepage research was just about the homepage. How can we expand on it?)
+
 ## Questions to answer
 
 Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting data that will help us address the following questions:
