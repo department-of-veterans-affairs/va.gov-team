@@ -344,7 +344,10 @@ _Put together initial recommendations here based on your findings along with sup
    - Annual/spouse income - severance pay inflating amount [P7-034]
    - Deductible income - additional deductible expenses like child support/ spousal support? [P7-036][P10-031]
    - Deductible income - more context about insurance needed? [P10-032]
-
+   - Income/deductible pages in general - context on whether your income level can affect benefits? [P13-032]
+   - Deductible income - examples of non-reimbursable medical expenses? [P13-033][P14-064]
+- Consider combining pages with only one field/task on them [Insight B]
+   
 --
 
 * Recommendation 1
