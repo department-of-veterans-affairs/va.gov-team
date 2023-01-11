@@ -46,7 +46,7 @@ ________________________________________________________________________________
         - https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996
         - https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - [Test the vets-website PR with the content-build PR merged and document and submit the PR](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
+    - [Use simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
 
 ## 12/28/2022 - 1/10/2022
