@@ -21,7 +21,7 @@ This includes:
 
 ## Questions to answer
 
-Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting data that will help us address the following questions:
+Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), what information do we potentially have on the following? **It is ok if we can not answer all of these questions**. Part of this effort is to determine where there are still holes in our knowledge.:
 
 ### Signing in to VA.gov
 
