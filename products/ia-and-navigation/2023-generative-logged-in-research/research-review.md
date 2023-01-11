@@ -19,8 +19,8 @@ This includes:
 
 ### Also include...
 
-- Where necessary, include context for specific tasks in case it's relevant to a finding.
-- If applicable, ow we can potentially explore findings (eg. homepage research was just about the homepage. How can we expand on it?)
+- Where necessary, include context for specific tasks in case it's relevant to a finding (eg. phrasing in a task).
+- If applicable, how we can potentially explore findings further (eg. homepage research was just about the homepage. How can we expand on it?).
 
 ## Questions to answer
 
