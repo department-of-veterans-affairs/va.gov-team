@@ -48,16 +48,25 @@ In order to determine if and how we might expant the military information sectio
 
 ## Questions
 
+- What kind of military records do people need regular access to? And for what purposes?
+- What kind of personalized military information do people expect to see when they log in to a site like VA.gov?
+- How does the current military information section of the VA.gov profile meet peoples' needs? How could it be improved?
+- Are people familiar with the PACT Act? Do people expect to see personalized PACT Act information on VA.gov? If so, what would that look like?
+
 ## Scope
 
 ### In scope
 
-- 
+- User interviews.
+- Analytics review (if needed).
 
 ### Out of scope
 
-- 
+- Creating any mockups of proposed changes to military information.
+- Any code changes to military info.
 
 ## Research activities
 
-- TBD
+- Research plan
+- Conversation guide
+- Findings summary
