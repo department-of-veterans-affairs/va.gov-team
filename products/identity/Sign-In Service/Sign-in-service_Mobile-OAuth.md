@@ -85,7 +85,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 ## Parameters
 | Name                  | Description                                                                                                                                      | Value Type |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| application           | partner identifier, must be `vamobile` - no other values work at this time                                                               | String     |
+| client_id           | partner identifier, must be `mobile` or `vamobile` | String     |
 | code_challenge_method | Client specified, most common value is `S256`                                                                                                    | String     |
 | oauth                 | MUST be `true`, used in backend                                                                                                                  | Boolean    |
 | CSP                   | Values can be: `logingov`, `dslogon`, `mhv`, `idme`. All of which will be IAL2 or LOA3 calls, no LOA1 or IAL1 users will be returned to vamobile | String     |
