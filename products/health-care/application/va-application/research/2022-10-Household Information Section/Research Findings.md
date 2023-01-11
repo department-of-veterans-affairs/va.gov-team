@@ -385,7 +385,7 @@ Labels: [DSP: Signed out vs. signed in]
    - Consider combining pages with only one field/task on them [Insight B]
    - Consider switching financial onboarding page & yes/no question: yes/no should come before onboarding
 
-* **Further research**
+* **Additional research**
    - Are there any other scenarios where applicant is not already in short-form flow AND does not need to provide financial information information?  How to only ask for information when it is needed and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits?
    - Baseline research study mentioned in next steps 
 
