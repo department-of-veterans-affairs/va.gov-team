@@ -110,8 +110,6 @@ body:
         - Custom (use the open input field below)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
-    validations:
-      required: true
   - type: dropdown
     id: equity-2
     attributes:
