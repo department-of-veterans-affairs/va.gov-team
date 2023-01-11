@@ -65,6 +65,26 @@ body:
         - Laptop											
         - Smartphone											
         - Tablet
+  - type: dropdown
+    id: website
+    attributes:
+      label: What websites should the participant have experience with in the past?
+      options:
+        - Various											
+        - Authenticated experience with VA.gov (has an account)									
+        - Unauthenticated experience with VA.gov (doesn't have an account)											
+        - My Healthy Vet											
+        - eBenefits
+  - type: dropdown
+    id: login
+    attributes:
+      label: What logins should the participant have experience with in the past?
+      options:
+        - Various											
+        - DS Logon								
+        - My Healthy Vet										
+        - ID.me										
+        - Login.gov
   - type: markdown
     attributes:
       value: "## Select up to 2 equity categories"
@@ -118,9 +138,23 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## A couple more steps before you're done
+        ## After submitting this ticket
+        
+        ### Your tasks
         - [ ] Add your team and study's labels to this ticket. This will help us track it in the research repo.
-        - [ ] If you requested for disabled Veterans, add the `accessibility` label to this ticket too.
-        - [ ] (Option A), After submitting, Perigean will create a list of participants with dates in a github ticket and assign it to you. (Option B), After submitting, you can make a copy of this participant tracker to keep a record on no shows, notes, and more. (NOTE to reviewers: which would be easier theoretically? I feel like it's option a, but would need to see if it's feasible first.)
-    
-     
+        - [ ] Once you know who will be on your team, fill out this roles form to inform us on who will be there. (need to create new form for this)
+        
+        ### What will happen next
+        - Perigean will create a participant tracker in github for you to use (can we restrict access to protect PII or ask for them to scrub PII completely and use IDs instead?)
+        - ?? [add 
+        
+        ### For the future
+        - Spend some time thinking about which equity categories you selected to conduct research with. 
+          - Why did you select those categories?
+          - Which categories will you select next time?
+          - If you present your research out in the future, use this template to share your reflection on inclusive research efforts
+          - Need help? Reach out to the community and ask any questions at #inclusive-research
+        
+        
+        
+        
