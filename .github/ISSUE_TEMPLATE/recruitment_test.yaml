@@ -87,7 +87,7 @@ body:
         - Login.gov
   - type: markdown
     attributes:
-      value: "## Select up to 2 equity categories"
+      value: "## Select up to 2 underrepresented groups as primary criteria"
   - type: markdown
     attributes:
       value: |
@@ -95,7 +95,7 @@ body:
   - type: dropdown
     id: equity-1
     attributes:
-      label: Select your first primary equity category
+      label: Select your first underrepresented group
       description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
       options:
         - LGBTQ+
@@ -115,7 +115,7 @@ body:
   - type: dropdown
     id: equity-2
     attributes:
-      label: Select your second primary equity category
+      label: Select your second underrepresented group
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
       options:
         - LGBTQ+
