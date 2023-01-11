@@ -1,5 +1,4 @@
 # Research plan for Authenticated Experience, Add Email Notifications, January 2023
-
 ## Background
 We know we will need to support additional channels and notifications within our Notification settings section in the near future. We already know need to make some design updates related to the input type and have better separation of notification items (research finding), but we’re not sure how the current auto-save pattern will work for users as the list of notifications grows, and new channels are added.
 
@@ -59,11 +58,12 @@ We’d like to recruit 12 Veterans for a total of 6-8 completed sessions.
 - Must be Veterans 
 - Have used My HealtheVet within the last 12 months
 - Have received a text message or email notification from VA within the last 12 months
-- Have an identified cognitive impairment
 
 **Some participants:**
 - Must require screenreader software to use computers and mobile devices (recruit 4 participants total)
 - Must be over the age of 55 (recruit 6 participants in total)
+- Have an identified cognitive impairment (recruit 8 in total)
+- Must identify as other than Caucasian (recruit 6 in total)
 - Must be willing to join from a mobile device (recruit 6 in total)
 - Must be willing to join from a desktop device (recruit 6 in total)
 
