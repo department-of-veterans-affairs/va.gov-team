@@ -1,7 +1,6 @@
 # SPRINT GOALS
 
 __________________________________________________________________________________________________________________________________________________________
-## Future stuff 
 
 ## 1/11/2023 - 1/24/2022 ---------------------- TENTATIVE -----------------------------
 
@@ -50,8 +49,6 @@ ________________________________________________________________________________
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - [Test the vets-website PR with the content-build PR merged and document and submit the PR](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
-
----------------------- END OF FUTURE/TENTATIVE -----------------------------
 
 ## 12/28/2022 - 1/10/2022
 
