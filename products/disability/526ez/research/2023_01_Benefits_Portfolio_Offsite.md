@@ -27,26 +27,36 @@ Getting out / starting up / taking care of myself (applying for disability compe
 
 ## Research Goals	
 What are you trying to learn from this research? 
-- How do Veterans feel about VA when applying for disability benefits on VA.gov?
-- What are the biggest pain points Veterans experience when applying for disability benefits on VA.gov?
-- What do Veterans like about the experience of applying for disability benefits on VA.gov?
+This research is part of a larger, ongoing discovery effort to better understand the overall claimant experience. 
+- Understand how Veterans conceptualize and experience the claims process
+- Understand what frictions exist in the process that become burdensome for Veterans or sow mistrust.
+- Identify the biggest pain points or opportunities for more focused research and problem solving.
+- Build empathy so that teams align and focus on the mission.
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-- We will share our learnings with the teams we support that work on the disability benefits application tool on VA.gov. They will use these learnings to reduce the time it takes to apply for benefits on VA.gov.
+- The portfolio teams are taking a step back to look at the big picture claims experience to see where the greatest opportunities lie to improve that experience, with special attention to a) overall speed, from application to award; b) building Veteran trust; and c) potential impacts of automation on those experiences (positive, negative, and unexpected).
+- The team is expecting to build this body of knowledge over time, with quarterly visits to a geographical location that involves touchpoints with multiple stakeholders in the ecosystem, including claims processors and Veterans.
+- We will share our learnings with the teams we support that work on the disability benefits application tool on VA.gov and with teams who work on automations to support claims processors. They will use these learnings to identify opportunities to focus on, including where to take a deeper-dive into research.
 
 ### Research questions
 
-- How do Veterans feel about VA when applying for disability benefits on VA.gov?
-- What are the biggest pain points Veterans experience when applying for disability benefits on VA.gov?
-- What do Veterans like about the experience of applying for disability benefits on VA.gov?
+- How do Veterans describe the process of applying for benefits? In their mind, what were the steps of the process?
+- What was their experience at different points of the process? What did they do? What touchpoints did they have with the VA. How did they feel?
+- What parts of the claim process were positive, and why? What parts were negative, and why? 
+- What parts of the claim experience build trust with Veterans? What breaks it?
+- What motivated them to start the process? Are they glad they went through it?
+- What do they think needs the most improvement?
+
 
 Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-We intend to hear directly from Veterans about what it feels like to use one of our products to get access to a crucial benefit. Our hypothesis is that Veterans are skeptical going into the application process, but if we can make the process easier and quicker, we can help create feelings of trust and pride.
+Our hypothesis is that there will be significant areas of friction in the claims process that can be improved to make a faster, better claims experience that builds Veteran trust. 
+We expect that Veterans are skeptical going into the application process, but if we can make the process easier and quicker, we can help create feelings of trust and pride.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
@@ -64,8 +74,7 @@ Additional resources:
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-- We'd like to hold the research sessions at either Los Angeles Regional Office (11000 Wilshire Blvd, Los Angeles, CA 90024) or Greater Los Angeles Medical Center (11301 Wilshire Boulevard).
-- While we would prefer in-person sessions, we're open to remote: Zoom.
+- Remote sessions via Zoom
 - POC: Zach Goldfine (zachary.goldfine@va.gov)
 - No equipement besides our own laptops.
 
@@ -87,22 +96,39 @@ Before writing your recruitment criteria, be sure to review the following resour
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-- Veterans
-- Perigean
+- Audience: Veterans
+- Recruiter: Perigean
 
 
 Which inclusive research strategies are you leveraging for this study? Maximum variation sampling.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-- 3 Veterans
+- 4 Veterans
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-- The only necessary criterion: That each Veteran has applied for disability compensation benefits through VA.gov in the past 24 months (either in 2021 or 2022)
-- Ideally, we'd like to have those 3 Veterans be: 1 person with an identified cognitive disability, 1 person aged 55+, and 1 person of color
+- All participants should have completed a disability compensation benefits application for at least one new condition via VA.gov. Note: A new condition is one for which the Veteran has no rating; i.e., one they are claiming for the first time. A condition could be any health condition (asthma, hypertension, cancer, knee injury, etc.)
+	- 2 Veterans should have completed this application in the past 6 months
+	- 2 Veterans should have completed this application in the past 7-24 months
 
+**Demographics:**
+- All participants should live in the Los Angeles metro area
+- Even mix of genders
+- At least 2 are persons of color
+- At least 1 but no more than 2 persons are aged 55+
+- Mix of education levels attained but no more than 2 with college or higher degree
+- 1 person with an identified cognitive disability
+
+**Recruiting questions**
+1. Have you ever completed a claim or application for disability compensation benefits on va.gov? [answer YES to CONTINUE]
+2. When did you complete that application? [READ OPTIONS; Veteran may answer more than one option, but must answer either a or b to CONTINUE]
+	- a. In the past 6 months (since July 1, 2022) [RECRUIT 2]
+	- b. In the past 7-24 months (Between Jan 1, 2021 and June 30, 2022)[RECRUIT 2]
+	- c. More than 2 years ago (Before December 31, 2021) [If only answer, thank and DISCONTINUE]
+
+3. In that application, did you claim at least one NEW condition? A new condition is one that you have never claimed before and was not already service connected or denied. [answer YES to CONTINUE]
 
 
 **Secondary criteria (nice-to-haves)**
@@ -116,7 +142,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Prepare
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: zachary.goldfine@va.gov 
+* Pilot participant email: TBD 
 * Date and time of pilot session: January 23, 2023, 10 am ET
 
 ### Research sessions
@@ -125,7 +151,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 - Wednesday, January 25, 2023
 
 ### Length of sessions
-* Session length: < 1 hour
+* Session length: 45min-1 hour
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 2
 
@@ -140,7 +166,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator):	Zach Goldfine
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Zach Goldfine
-- Participant(s) for pilot test:	Zach Goldfine
+- Participant(s) for pilot test:	TBD
 - Note-takers: Steve Albers (Steve.Albers@va.gov)
 - Observers:	Matt Self (matthew.self2@va.gov), Emily Theis (emily.theis@va.gov), Premal Shah (premal.shah@va.gov)
 
