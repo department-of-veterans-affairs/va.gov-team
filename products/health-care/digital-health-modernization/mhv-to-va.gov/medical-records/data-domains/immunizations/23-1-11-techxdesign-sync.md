@@ -44,6 +44,7 @@ If do add download button on Details page -> some technical lift, but not super 
         - Eric: Probably more valuable on landing page than print. Not hidden behind print action. 
 
 - Insight on technical element of sort by time (for example)? 
+        
         - Eric: Not sure if things like that dictated by FHIR standard… Would need to investigate. 
 
 - FHIR specification - it says for immunizations, that the patient/status/date fields are supported
@@ -52,18 +53,20 @@ If do add download button on Details page -> some technical lift, but not super 
         - Not sure if Status could power that. 
 
 - Immunization recommendation status code: due, overdue, complete ->
+        
         - Eric going to track down if that appears somewhere; FHIR should support being able to indicate that a vaccine is overdue/ done. 
 
 **Sharing of individual records:** 
 - Mike wasn’t sure if can share individual records. Right now - can only share “whole” records
+        
         - Eric: Theoretically, if trying to share individual record w/ provider and their EHR system is able to accept FHIR resources/ records, should take in. FHIR operates under assumption that thing providing adheres to FHIR format. 
 Don’t see reason why sending an immunization from VA to elsewhere would be prevented. 
 
 **Next steps:** 
 
 1. Immunization recommendation status code to enable flagging overdue vaccines: due, overdue, complete ->
-  - Eric going to track down if that appears somewhere; FHIR should support being able to indicate that a vaccine is overdue/ done. 
+    - Eric going to track down if that appears somewhere; FHIR should support being able to indicate that a vaccine is overdue/ done. 
 
 2. Have to print - mean have to print from browser or having downloadable document, does that satisfy that? 
-Need copy of memo/ policy
-  - Still need to test w/ users
+    - Need copy of memo/ policy
+    - Still need to test w/ users
