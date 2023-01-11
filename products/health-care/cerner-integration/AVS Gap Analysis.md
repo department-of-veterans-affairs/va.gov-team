@@ -15,7 +15,7 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 
 ## Data Points
 ||Cerner's Ambulatory Visit Summary| CPRS AVS|Comments|
-|---|---|---|---|
+|---|:-:|:-:|---|
 | *Patient Demographics / Header* ||||
 | Name  | X | X | |
 | DOB  | X | X | |
