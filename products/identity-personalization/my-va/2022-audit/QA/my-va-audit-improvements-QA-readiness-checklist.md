@@ -1,8 +1,8 @@
 # Audit UX Improvements QA Readiness Checklist
 
-##  mm/dd/yyyy
+### Go/No-Go meeting:  mm/dd/yyyy
 
-## Decision: ____
+### Decision: ____
 
 ---
 
