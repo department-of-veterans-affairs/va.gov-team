@@ -247,7 +247,7 @@ Most participants thought the initial page of questions about their spouse were 
 Labels: label 1, label 2 
 
 
-Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions. 
+Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions.
 
 
 > Not at all. Again it is clear to me and I am 74, I lose brain cells on a daily and its still good. (P4-004) (Veteran Information Task)
@@ -338,7 +338,8 @@ _Put together initial recommendations here based on your findings along with sup
 
 -- Possible recommendations
 - Method for inputting multiple service periods (list & loop?)
-- 
+- More context/info needed:
+   - 
 --
 
 * Recommendation 1
