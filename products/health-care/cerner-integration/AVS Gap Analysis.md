@@ -37,7 +37,8 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 | Primary Care Team                                                   |                                   | X            |                                                                                          |
 | Smoking Status                                                      |                                   | X - O        |                                                                                          |
 | Preferred Language                                                  |                                   | X - O        |                                                                                          |
-| Treatment Plan                                                      |                                   |              |                                                                                          |
+|||||
+| *Treatment Plan*                                                      |                                   |              |                                                                                          |
 |                                                                     |                                   |              |                                                                                          |
 | _Medications_                                                         |                                   |              |                                                                                          |
 | Full Medication List                                                | X                                 | X            | Medication details vary                                                   |
