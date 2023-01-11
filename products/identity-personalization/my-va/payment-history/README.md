@@ -1,6 +1,6 @@
 # Feature: Payment and debt info on the My VA dashboard
 
-**Last updated: January 5, 2023**
+**Last updated: January 11, 2023 - updated feature overview section**
 
 ### Communications
 
@@ -275,7 +275,13 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 
 ## Feature Overview
 
-Include information here on when payment information shows on My VA.
+Authenticated and verified users will always see the Outstanding Debts and Benefit Payments sections on My VA. 
+
+The **Outstanding Debts** section on My VA gives the user an overview of their outstanding debts if there are any to show and links them to the combined debt portal. Outstanding debts encompasses overpayment debts and copay debts:
+- Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt.
+- A copay debt is an amount that a Veteran must pay for health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
+
+The **Benefit Payments** section on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show. Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out monthly via direct deposit or paper check. 
 
 ## How to Access and Test
 
