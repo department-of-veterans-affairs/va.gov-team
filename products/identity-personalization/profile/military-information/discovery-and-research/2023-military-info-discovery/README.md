@@ -34,7 +34,8 @@ In order to determine if and how we might expant the military information sectio
 
 ## Problems
 
-- It is unclear what information might be helpful to add, if anything, to the military information section of the VA.gov user profile. We have little understanding of users needs and expectations around this section since it's never been as high priority as work on other sections of the profile.
+- We have little understanding of users needs and expectations around the military information section of the VA.gov profile since it's never been as high priority as work on other sections of the profile. This makes it near impossible to figure out if we should update or expand the section in any way.
+- With the PACT Act passing, VA is looking for a way to surface related information to help veterans understand if they are eligible for expanded benefits.
 
 ## Goals
 
