@@ -72,7 +72,6 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Link to DD214 info from Military information section of the profile| Auth exp| 2020| "DD214" is a top search term from the profile, indicating people expect to find this information here. [Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11053) |
 |Enhanced statement of service | George Chewning | Summer 2021 | George and Samara agree that we need more research to determine what updates to military information on VA.gov would be the most useful. We are currently trying to determine how to get funding for this work. Potential research questions: (1) How do people use/when do people need their DD214 when interacting with the VA? (2) Are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)? (3) What military data would it be helpful to have on VA.gov to support predictive benefit eligibility?|
 
 ### Direct deposit requests
