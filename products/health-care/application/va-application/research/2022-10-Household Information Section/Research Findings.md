@@ -168,8 +168,7 @@ Research Question: Are the questions worded and explained in a way that is clear
 [P5-018] (Adding Dependents Task)
 
 --
-![Onboarding page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Onboarding.png)
---
+[Onboarding page image link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Onboarding.png)
 
 Research Question: Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
 
