@@ -108,9 +108,9 @@ body:
         - Rural
         - Blind or low vision using a screen reader
         - Cognitive disabilities
-        - Custom (use the open input field below)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
+        - None of the above (use the open input field below)
   - type: dropdown
     id: equity-2
     attributes:
@@ -126,9 +126,9 @@ body:
         - Rural
         - Blind or low vision using a screen reader
         - Cognitive disabilities
-        - Custom (use the open input field below)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
+        - None of the above (use the open input field below)
   - type: input
     id: equity-custom
     attributes:
