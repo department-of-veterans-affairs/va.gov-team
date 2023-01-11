@@ -89,9 +89,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
  
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch to 100%, and the second month post-launch to 100% based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: December 12, 2022 - January 11, 2023| Post-launch to 100%: January 12 - February 11, 2023|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
 |Clicks into "Manage your VA debt" CTA on My VA|25,712|28,417 (~10.5% increase)|TBD|
  
@@ -99,7 +99,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 [Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: December 12, 2022 - January 11, 2023| Post-launch to 100%: January 12 - February 11, 2023|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
 |Pageviews of the debt summary page|35,495|TBD|TBD| 
 
@@ -109,9 +109,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)  
  
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch to 100%, and the second month post-launch to 100% based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: December 12, 2022 - January 11, 2023| Post-launch to 100%: January 12 - February 11, 2023|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
 |Clicks into copay CTA|N/A|TBD|TBD|
 
@@ -121,7 +121,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 [Pageviews for /manage-va-debt/summary/copay-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fcopay-balances~2F/)
  
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: December 12, 2022 - January 11, 2023| Post-launch to 100%: January 12 - February 11, 2023|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
 |Pageviews of the copay summary page|10,365|TBD|TBD|  
  
