@@ -37,7 +37,7 @@ The household information section, step 4 out of 6 in the application progress f
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
-The Health Care Application fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at the following stages:
+The health care application fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) at the following stages:
 - Getting out
 - Starting up
 - Taking care of myself
@@ -52,7 +52,7 @@ The Health Care Application fits into the [Veteran journey](https://github.com/d
 
 
 These research goals support key results from the [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md#key-result-3-veterans-feel-prepared-when-they-begin-the-household-section):
-- Key Result #3: Veterans feel prepared when they begin the Household section
+- Key Result #3: Veterans feel prepared when they begin the household section
 - Key Result #4: Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
 ## Research Questions
@@ -72,7 +72,7 @@ These research goals support key results from the [initiative brief](https://git
 
 ## Methodology 
 
-A moderated usability study using an interactive prototype of the 10-10EZ Healthcare application. The study included separate versions of the prototype for desktop and mobile users.
+A moderated usability study using an interactive prototype of the 10-10EZ health care application. The study included separate versions of the prototype for desktop and mobile users.
 
 
 ## Hypotheses and Conclusions
