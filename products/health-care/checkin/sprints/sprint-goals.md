@@ -88,7 +88,7 @@ ________________________________________________________________________________
     - ONGOING Unified check-in experience (#50683)
 - CIE Tech Debt & Bugs    
     - ROLLOVER Refactor and reduce HOC useage (#49081)
-    - ???? Spike- Visual Regression
+    - ROLLOVER Improve testing and validation with staging and screenshots(visual regression testing) #50989
     - DONE Refactor error pages to make them less opaque phase 2 (#45795)
     - DONE Fix text input error so that it translates the error message #51440 
     - DONE Add use case to Cypress (#47178)
