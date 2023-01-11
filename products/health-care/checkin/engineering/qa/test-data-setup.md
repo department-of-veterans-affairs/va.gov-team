@@ -192,7 +192,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 140 | Thirtytwo, Patient | 1935-04-07 | Kelly |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras |
 | 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
-| 217 | Nine,Patient | 1935-04-07 | Charley |
+| 217 | Nine,Patient | 1935-04-07 | Christina |
 | 240 | Thirtyfive,Patient | 1935-04-07 | Michael K |
 | 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) |
 | 218 | Thirtyseven,Patient | 1935-04-07 | Patrick (OVAC) | 
