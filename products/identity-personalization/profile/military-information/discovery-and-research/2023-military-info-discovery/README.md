@@ -68,6 +68,7 @@ In order to determine if and how we might expant the military information sectio
 
 ## Research activities
 
+- Analytics review (if applicable)
 - Research plan
 - Conversation guide
 - Findings summary
