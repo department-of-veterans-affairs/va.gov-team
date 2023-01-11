@@ -188,7 +188,7 @@ Research Question: Is there information missing that could help the Veteran/appl
 Labels: label 1, [PRDT: DD-214], [DSC: File input], [PRDT: income limits (?)]
 
 
-Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.**
+Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.
 
 
 > You need the dd214 so I would need to get that from the safe deposit box. I would be texting my wife for the financial parts. Finding insurance cards. 
@@ -230,7 +230,7 @@ Research Question: What struggles do participants encounter with the process of 
 Labels: label 1, [DSC: Address block] 
 
 
-Most participants thought the initial page of questions about their spouse were clear and understandable, but some had to pause or had questions regarding if their spouse lived with them or had the same address, they felt the question was repetitive or a confusing order.
+Most participants thought the **initial page of questions about their spouse were clear and understandable**, but some had to **pause or had questions regarding if their spouse lived with them or had the same address**, they felt the question was repetitive or a confusing order.
 
 
 > Yeah so that’s understandable. It’s just like before when I filled out mine, so that’s good.” (P11-014)
@@ -251,7 +251,7 @@ Most participants thought the initial page of questions about their spouse were 
 Labels: [TREND: Content]
 
 
-Most participants answered that areas of the form were worded in a way that was clear and easy to understand - such as the Veteran information questions and the VA benefits and military service questions.
+Most participants answered that **questions of the form were worded in a way that was clear and easy to understand** - such as the Veteran information questions and the VA benefits and military service questions.
 
 
 > Not at all. Again it is clear to me and I am 74, I lose brain cells on a daily and its still good. (P4-004) (Veteran Information Task)
@@ -268,11 +268,10 @@ Most participants answered that areas of the form were worded in a way that was 
 Labels: label 1, [DSC: Modal] 
 
 
-Most participants felt the order of questions flowed in a logical order and there were only a couple of small recommendations for changes.
-Those who interacted with the confirmation modal when removing a dependent from the list appreciated that they were given the choice to confirm. 
+Most participants felt the order of **questions flowed in a logical order** and there were only a couple of small recommendations for changes.
+Those who interacted with the **confirmation modal when removing a dependent from the list appreciated** that they were given the choice to confirm. 
 
 Research Question: Within the household information section (step 4) of the 10-10EZ health care application, do the questions occur in an order that is logical to Veterans/applicants?
-
 
 > I thought it flowed pretty good. (P11-027) (Post Task Interview)
 
@@ -303,6 +302,9 @@ Two participants commented on the utility of the progress bar, suggesting that t
 
 ### Insight B: One-thing-per-page
 
+Labels: [DSP: Form templates]
+
+
 Two participants commented of the frequency of clicking continue, and that there were too few fields on certain pages.
 
 > For me the steps and continue, it is annoying to have 6 steps I would prefer 2 or 3. You can fit more boxes on this page, like a lot more. 3 boxers is nothing. Clicking continue is more steps that I have to do. (P6-010) (Veteran Information Task)
@@ -321,6 +323,8 @@ A couple participants commented on the global footer with contact information th
 
 
 ### Insight D:  Service dates - multiple responses
+Labels: [DSP: Multiple responses]
+
 A couple participants commented that there could be multiple service dates, breaks in service, or service with different branches. Clarification around what to put here or the ability to add multiple service dates would help with this question. 
 
 > Actually there's one thing I would give a suggestion to, just looking at service start date and service end date: some service members break in service, or they may have been reserve or national guard. I don't think there's a way to put that information in there too [multiple start/end dates]. Those are added up differently when it comes to your service - I don't know if there's a way the application can separate that if there's a break in service. (P13-014) (VA benefits/military service Task)
