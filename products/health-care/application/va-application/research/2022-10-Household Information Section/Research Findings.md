@@ -338,7 +338,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 -- Possible recommendations
 
-- Method for inputting multiple service periods
+- Method for inputting multiple service periods [P10-014][P13-014]
 - More context/info needed:
    - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
    - Annual/spouse income - severance pay inflating amount [P7-034]
