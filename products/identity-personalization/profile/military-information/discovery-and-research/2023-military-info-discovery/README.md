@@ -26,6 +26,10 @@
 
 ## Overview
 
+As of January 2023, the military information section of VA.gov only shows military branch(es), period(s) of service, service dates, information on how to fix data if it appears to be incorrect, and a link to the DD214. We have access to a lot more information [through our VA Profile integration](https://qa.vaprofile.va.gov:7005/profile-service/swagger-ui/index.html?configUrl=%2Fprofile-service%2Fv3%2Fapi-docs%2Fswagger-config&urls.primaryName=ProfileServiceV3#/Profile-v3) (note: you need to be on the VA network to view this link), but it is unclear what else we should surface here, if anything. We've never talked to veterans about this section of the profile, so we have little sense of whether it is meeting peoples needs and expectations.
+
+Furthermore, with passage of the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/), there is renewed internal interest internally to surface more about veterans' miltary histories on VA.gov. While VA Profile does not support military health information -- a key componenet of the PACT Act -- it is possible that we could get other information (eg. deployment location) that might be helpful in signaling to people that they should check out whether they are eligible for expanded disability benefits.
+
 ## Problems
 
 ## Goals
