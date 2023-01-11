@@ -3,6 +3,7 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - [ ] Confirm note taker and assistive tech support availability
+- [ ] Let Notetaker know if anything has changed in the conversation guide
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -15,7 +16,7 @@ Slack for real-time feedback from observers.
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
-- Be clear on which prototype you are starting with
+- Be clear on which prototype you are starting with, and let the notetaker know
 - When the participant is ready, begin the session with the following intro*
 
 
