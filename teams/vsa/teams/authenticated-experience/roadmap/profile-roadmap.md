@@ -1,20 +1,22 @@
 # VA.gov profile roadmap
 
-**Last updated: December 19, 2022**
+**Last updated: January 11, 2023**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
 |Notification preferences: Integration MHV prefs| Planning |
-|Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
+|Notification preferences: Adding email as a channel| Research|
+|Direct deposit for comp & pen EVSS > Lighthouse migration| Discovery|
+|Accessibility audit| FE build |
 
 ### Projected timelines for current projects & enhancements
 
 |Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022| Q1 2023|
 |----|----|----|----|----|----|
 |**Notification preferences: Integration MHV prefs**| - | - | Intake with MHV | Strategy with health apartment; Determine approach |TBD|
-|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |TBD|
+|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |Finish last updates|
 
 ## Completed projects & enhancements
 
