@@ -174,11 +174,18 @@ Research Question: Are the questions worded and explained in a way that is clear
 > No. I assume this is for a dependent over the age of 18. I was asking for expenses because under 18 there are always expenses. I guess this is fine. I guess this is fine, I am just trying to read through the jargon is all
 [P5-018] (Adding Dependents Task)
 
+--
+![Onboarding page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Onboarding.png)
+--
+
 Research Question: Is there information missing that could help the Veteran/applicant complete the annual income and deductible information questions?
 
 > Where it says 'the financial information you will need', when it's asking for last year's gross income, before taxes and any other deductions - you could 'i.e. pay stub' something like that so service members know what they can use. Just to get their mind thinking 'oh ok I can use this' - something like that. [P13-019] (Financial Onboarding Task)
-![Onboarding page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Onboarding.png)
 
+
+--
+![Income page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/images/4-HouseholdSection-Income.png)
+--
 
 
 
