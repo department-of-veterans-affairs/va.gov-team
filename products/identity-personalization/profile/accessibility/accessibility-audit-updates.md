@@ -73,13 +73,14 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 #### Field "headings" / lists (i.e. Mailing address and Home address)
 `508-defect-4`
 
-- [ ] **Status**: Unclear if any work happened on this
+- [ ] **Status**: As of January 10, 2023 this work has not been completed
 -   Some changes are needed for the field names/headings
 -   Concern also raised during BAI pilot session with Angela
 -   **Recommendations:**
-	-   It would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text
-	-   Same applies to Phone numbers and other similar fields in Profile
-- **_Possible contradictory item:_** Previously recommended to use unordered list and headings pattern ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618))
+	-   It would be better if "Mailing" were H3 instead of a list item, with paragraph text then used for the hint text
+	-   Same applies to Phone numbers and other similar fields across Profile that have a sub-section heading. This refers to the small, bold headings under the gray bar.
+	<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-section-label.png" width="400" />
+- ~**_Possible contradictory item:_** Previously recommended to use unordered list and headings pattern ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618))~ This is not a contradictory item, it's a separate issue.
  	- Accessibility concluded that it would be better to use an unordered list and headings pattern for the profile
 -   **Next steps:** Needs team grooming
 
