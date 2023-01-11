@@ -348,6 +348,7 @@ _Put together initial recommendations here based on your findings along with sup
    - Income/deductible pages in general - context on whether your income level can affect benefits? [P13-032]
    - Deductible income - examples of non-reimbursable medical expenses? [P13-033][P14-064]
 - Consider combining pages with only one field/task on them [Insight B]
+- Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
    
 --
 
