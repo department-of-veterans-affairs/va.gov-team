@@ -12,11 +12,11 @@ ________________________________________________________________________________
    
 #### UX Sprint Goals  
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-    - [Review platform updates to accessibility testing reqs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51719)- 
+    - [Review platform updates to accessibility testing reqs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51719) 
     - [Update Release Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40314)
     - [Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
     - [Begin accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)
-    - Schedule a staging review
+    - ~Schedule a staging review (if we are far enough along)~
     - [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - [Create additional aria labels for appt list page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450)
@@ -32,9 +32,8 @@ ________________________________________________________________________________
     - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
 
 #### Engineering Sprint Goals
-- [New Accessibility Testing Artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/change-history#Changehistory-December1,2022)
-    -  Evaluate and implement new testing artifacts as required for staging reviews
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+     - Evaluate and implement new testing artifacts as required for staging reviews
     - [Begin integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49745)
     - [Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
     - [Begin accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)    
