@@ -336,6 +336,10 @@ Labels: [DSP: Signed out vs. signed in]
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
+-- Possible recommendations
+- Method for inputting multiple service periods (list & loop?)
+- 
+--
 
 * Recommendation 1
     * _Supporting evidence_
