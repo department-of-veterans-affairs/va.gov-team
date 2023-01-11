@@ -45,6 +45,8 @@ ________________________________________________________________________________
     - Perform accessibility testing & create new artifact(s)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
     - Finish detail pages & add aria labels
+    - Add address component
+    - Start working on the vets-api code
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
     - Test the vets-website PR with the content-build PR merged and document and submit the PR
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
