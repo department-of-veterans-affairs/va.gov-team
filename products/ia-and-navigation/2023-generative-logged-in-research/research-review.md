@@ -15,12 +15,9 @@ This includes:
 This includes:
 
 - Documenting any initial findings that maybe show in one or two reports, but on which we'd like to gather more information.
+  - Where helpful, include context for specific tasks in case it's relevant to a finding (eg. if something was really specific around the homepage, put it in context).
+  - If applicable, include thoughts on how we can potentially explore findings further (eg. homepage research was just about the homepage. How can we expand on it?).
 - Determining where we still have outstanding questions that have not been covered in any previous research.
-
-### Also include...
-
-- Where necessary, include context for specific tasks in case it's relevant to a finding (eg. phrasing in a task).
-- If applicable, how we can potentially explore findings further (eg. homepage research was just about the homepage. How can we expand on it?).
 
 ## Questions to answer
 
@@ -34,11 +31,11 @@ Based on the questions posed in our [research outline](https://github.com/depart
 
 ### Navigating to tasks & tools
 
-- What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
+- What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)? 
+- How easy/hard is it to find tasks that require people to be logged in?
 - What tasks do people come to complete (eg. we already know disability and health care info are primary, so worth reiterating and moving on quickly)?
 - What are other known insights around navigating the site/logged in experience?
 - What do we not know at this point? What would be helpful to get more information on?
-- How easy/hard is it to find tasks that require people to be logged in?
 
 ## Previous research to review
 
