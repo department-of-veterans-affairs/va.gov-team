@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: December 12, 2022
+**Last Updated: January 11, 2023**
 
 ## Table of Contents
 
@@ -27,11 +27,12 @@ Last Updated: December 12, 2022
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@govcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
+|TBD |Product Manager|-|
+|Berni Xiong| Delivery Manager|berni.xiong@agile6.com|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Florence McCafferty| Designer |Florence.McCafferty@agile6.com|
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-| John Cater | FE Engineer | john.cater@govcio.com |
+|TBD| Full Stack Engineer |-|
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
