@@ -359,6 +359,7 @@ _Put together initial recommendations here based on your findings along with sup
 - Consider combining pages with only one field/task on them [Insight B]
 - Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
 - Refinement to multiple response pattern when editing dependent information [Key Finding 3]
+- Consider switching financial onboarding page & yes/no question
 
 
 - Placeholder - Consider how to only ask for information when it is needed (following short-form flow concept and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits). 
@@ -378,7 +379,8 @@ _Put together initial recommendations here based on your findings along with sup
 
 _Next steps here. Include owners if appropriate._
 - Baseline usability study of current household information section in staging environment
-- 
+- Follow up with VA team about information specifics
+   - How are service periods used, and is it necessary for the accuracy of multiple service periods?
 
 
 ## Further research needed
