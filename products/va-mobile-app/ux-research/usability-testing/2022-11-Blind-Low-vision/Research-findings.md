@@ -355,4 +355,5 @@ This research does not include the perspectives of the following marginalized Ve
 _List all groups in red from the spreadsheet_
 * Gay, lesbian, or bisexual,Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
 * Hispanic, Biracial, Native
+
 ![VA-recruitment-checker](https://user-images.githubusercontent.com/79866060/212181988-219e810d-73f4-4a68-937f-b8d5e152b001.png)
