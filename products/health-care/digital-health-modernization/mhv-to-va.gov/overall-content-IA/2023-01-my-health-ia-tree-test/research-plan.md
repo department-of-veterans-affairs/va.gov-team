@@ -38,15 +38,15 @@ Can Veterans navigate the proposed information architecture of the My health pat
 
 ## Hypotheses
 
-- Veterans look for will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
-- Veterans will more easily find their after-visit sumaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
+- Veterans will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
+- Veterans will more easily find their after-visit summaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
 - Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
 - Veterans will easily find historical prescription information under "Medications". 
-- Veterans will easily find information on radiology images and reports within the "Lab and test results" section. 
+- Veterans will easily find information on radiology images and reports within the "Test results" section. 
 - Veterans will easily find the vaccine history under the "Health history" section. 
 - Veterans will easily find basic health data within "Health history".
 - Veterans will easily find the option to download their health records under "Medical records". 
-- Veterans will easily find how to order hearing aid betteries under "Medical supplies".
+- Veterans will easily find how to order hearing aid batteries under "Medical supplies".
 - Veterans will easily find how to get a VHIC under the "My health benefits" grouping. 
 
 
