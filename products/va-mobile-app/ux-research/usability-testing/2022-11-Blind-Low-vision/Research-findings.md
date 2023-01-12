@@ -16,7 +16,7 @@ Melissa Lefevre (Melissa.lefevre@adhocteam.us) Liz Straghalis ( ) Brea Blackweld
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#recommendations)
 
-[Appendix]
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#appendix)
 
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/2022-11-Blind-Low-vision/Research-findings.md#who-we-talked-to)
 
@@ -100,8 +100,8 @@ Participants were asked to complete the series of tasks listed below.  This incl
 
 
 
-### Key Findings
-
+## Key Findings
+<br>
 
 
 1. Veterans using assistive technology navigated through the app fairly well, although new issues surfaced — and the experience wasn’t always smooth.
@@ -111,7 +111,7 @@ Participants were asked to complete the series of tasks listed below.  This incl
 
 
 ### Details of Findings
-
+<br>
 
 #### Key finding #1: 
 
@@ -169,8 +169,8 @@ Shortcut examples:
 * Tapping on areas of the screen where they would expect to find something.
 
 
-#### Additional Findings
-
+### Additional Findings
+<br>
 
 
 1. No braille on the walls at the local VAMC – needs to ask a family member to go along
@@ -188,7 +188,7 @@ Shortcut examples:
 * See all the benefits I’m eligible for
 * Renew my expired Veteran ID
 
-**Ideas:**
+**Ideas from participants:**
 
 
 * Find areas in the app where functional and easily interpreted icons can provide a visual cue in tandem with a label.
@@ -198,7 +198,7 @@ Shortcut examples:
 
 
 ### Team Learnings: Running AT Research
-
+<br>
 **Be flexible**
 
 
@@ -216,7 +216,10 @@ Shortcut examples:
 
 **Accessibility experts lead**
 
-We focused on accessibility from the very beginning of planning this research study and had either one or two accessibility specialists on our calls, and had them help flesh out our research plan.  Any questions that came up about AT logistics or how to run the study, we deferred to them. During sessions, we had an accessibility specialist and accessibility tech support person to help with screen reader hurdles. We held debriefs after each session, again with an accessibility specialist to chat through any issues or fill us in on something that might have come up that we were unfamiliar with, for example what a Merlin desktop document reader is etc. During note taking we had A11y specific note takers coding their notes with an A11y label, along with general note takers. When it came to synthesis, we had an A11y specific group and a general synthesis group so that they could really focus on A11y findings, insights, bugs etc. \
+* We focused on accessibility from the very beginning of planning this research study and had either one or two accessibility specialists on our calls, and had them help flesh out our research plan.  Any questions that came up about AT logistics or how to run the study, we deferred to them.
+* During sessions, we had an accessibility specialist and accessibility tech support person to help with screen reader hurdles. 
+* We held debriefs after each session, again with an accessibility specialist to chat through any issues or fill us in on something that might have come up that we were unfamiliar with, for example what a Merlin desktop document reader is etc. 
+* During note taking we had A11y specific note takers coding their notes with an A11y label, along with general note takers. When it came to synthesis, we had an A11y specific group and a general synthesis group so that they could really focus on A11y findings, insights, bugs etc. 
 
 
 
