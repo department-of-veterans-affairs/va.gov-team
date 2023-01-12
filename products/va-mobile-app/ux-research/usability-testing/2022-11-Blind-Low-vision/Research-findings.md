@@ -9,16 +9,16 @@ Melissa Lefevre (Melissa.lefevre@adhocteam.us) Liz Straghalis ( ) Brea Blackweld
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions]
 
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#key-findings)
+[Key Findings]
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#recommendations)
+[Recommendations]
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#appendix)
+[Appendix]
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#who-we-talked-to)
+[Who we talked to]
 
 <br>
 
