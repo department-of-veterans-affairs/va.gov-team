@@ -569,9 +569,9 @@ We'll save your application every time you add or update information.
 
 **Upload your supporting evidence** (*Required)
 
-Evidence upload instructions / expand
-
 You’ll need to upload new and relevant evidence for your Supplemental Claim. This may include supporting evidence like buddy/lay statements and other types of evidence. We’ll prompt you to upload each document from your device. But you may need to scan your document first, then save each file as a PDF before you can upload it.
+
+Evidence upload instructions / expand
 
 You can do this one of 2 ways:
 
