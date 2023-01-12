@@ -249,6 +249,10 @@ We focused on accessibility from the very beginning of planning this research st
 5. Using an accessibility-first approach for new feature builds
     1. Reach out to accessibility experts early on to drive research questions and strategy
 
+## Next Steps
+
+_Next steps here. Include owners if appropriate._
+
 
 
 ## Who we talked to 
@@ -262,14 +266,14 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **x participants.**
 
 Audience segment:
-* Veterans: x 
+* Veterans: 8 
 * Caregivers: x 
 * Family members of a Veteran: x  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6
+* Female: 2
 
 
 LGBTQ+:
@@ -281,7 +285,7 @@ LGBTQ+:
 Devices used during study: 
 * Desktop: x 
 * Tablet: x 
-* Smart phone: x 
+* Smart phone: 9 
 * Assistive Technology: x
 
 
@@ -289,14 +293,14 @@ Age:
 * 25-34: x
 * 35-44: x
 * 45-54: x
-* 55-64: x
+* 55-64: 2
 * 65+: x
 * Unknown: x
 
 
 Education:
 * High school degree or equivalent: x
-* Some college (no degree): x
+* Some college (no degree): 4
 * Associate's degree, trade certificate or vocational training: x
 * Bachelor's degree: x
 * Master's degree: x
@@ -306,26 +310,26 @@ Education:
 
 Geographic location:
 * Urban: x
-* Rural: x
+* Rural: 0
 * Unknown: x
 
 
 Race:
 * White: x
-* Black: x
+* Black: 3
 * Hispanic: x
 * Biracial: x
-* Asian: x
+* Asian: 1
 * Native: x
 
 
 Disability and Assistive Technology (AT):
 * Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* AT beginner: 3
+* AT advanced user: 6
+* Desktop screen reader: 2
+* Mobile screen reader: 6
+* Magnification/Zoom: 3
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
 * Hearing aids: x
 * Sighted keyboard: x
@@ -338,10 +342,6 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
-
+* Gay, lesbian, or bisexual,Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+* Hispanic, Biracial, Native
+![VA-recruitment-checker](https://user-images.githubusercontent.com/79866060/212181988-219e810d-73f4-4a68-937f-b8d5e152b001.png)
