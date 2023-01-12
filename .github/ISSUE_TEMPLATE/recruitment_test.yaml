@@ -46,6 +46,7 @@ body:
     id: branch
     attributes:
       label: What branch should your participants be affiliated with?
+      placeholder: Various (participants will collectively have a mix of all the options below)	
       options:
         - Various (participants will collectively have a mix of all the options below)												
         - Marine Corps											
