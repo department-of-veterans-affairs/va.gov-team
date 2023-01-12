@@ -24,6 +24,7 @@ body:
         Total: (Add all the above)
     validations:
       required: true
+      
   - type: dropdown
     id: benefits-1
     attributes:
@@ -42,8 +43,9 @@ body:
         - Life Insurance											
         - Memorialization											
         - Pension
-     validations:
+    validations:
       required: true
+      
   - type: dropdown
     id: branch
     attributes:
