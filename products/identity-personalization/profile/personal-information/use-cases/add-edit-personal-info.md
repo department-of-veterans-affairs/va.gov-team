@@ -1,12 +1,12 @@
 # Personal information: User needs to add or update personal information
-**Last updated:** December 7, 2022
+**Last updated:** January 12, 2023
 
 - Users can view their full name and birth date from this section. They can also view and edit their preferred name and gender identity.
 - For preferred name and gender identity:
   - If a user doesn’t have a preferred name or gender identity on file, they’ll see a prompt to add missing information.
   - They can use the “Edit” button to add or update their preferred name and gender identity.
   - Once they’ve added information, they can use the “Update” button to save the information.
-  - They cannot delete preferred name or gender identity once they've filled out these fields.
+  - They cannot delete preferred name or gender identity once they've filled out these fields, since the VA Profile API will not accept a null value for these fields.
 
 ## UX
 ### Adding information
@@ -31,7 +31,7 @@
 * If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/L0yrEzD))
 
 ### Removing information
-- Information cannot be removed for these sections once it is added.
+- Information cannot be removed for these sections once it is added, since the VA Profile API will not accept a null value for these fields.
 - If a user deletes information already saved in the Preferred name section and then clicks outside of the empty text input field, an in-line error message is displayed. ([Mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/jga1Lba))
 - In the Gender identity field, users can select "Prefer not to answer" if they do not wish to provide an answer. 
 
