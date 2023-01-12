@@ -52,7 +52,7 @@ body:
       label: What branch should your participants be affiliated with?
       options:
         - Various (participants will collectively have a mix of all the options below)
-        - None
+        - No affilitation with the options below
         - Marine Corps											
         - Army											
         - Navy											
@@ -69,7 +69,7 @@ body:
       label: What technology should the participant have experience with and use in the session?
       options:
         - Various (participants will collectively have a mix of all the options below)		
-        - None
+        - No experience with the options below
         - Desktop											
         - Laptop											
         - Smartphone											
@@ -82,7 +82,7 @@ body:
       label: What websites should the participant have experience with in the past?
       options:
         - Various (participants will collectively have a mix of all the options below)		
-        - None
+        - No experience with the options below
         - Authenticated experience with VA.gov (has an account)									
         - Unauthenticated experience with VA.gov (doesn't have an account)											
         - My Healthy Vet											
@@ -95,7 +95,7 @@ body:
       label: What logins should the participant have experience with in the past?
       options:
         - Various (participants will collectively have a mix of all the options below)		
-        - None
+        - No experience with the options below
         - DS Logon								
         - My Healthy Vet										
         - ID.me										
