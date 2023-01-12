@@ -185,7 +185,7 @@ Research Question: Is there information missing that could help the Veteran/appl
 
 **Key Finding 2: Document and information gathering**
 
-Labels: label 1, [PRDT: DD-214], [DSC: File input], [PRDT: income limits (?)]
+Labels: label 1, [PRDT: DD-214], [DSC: File input], [PRDT: income limits]
 
 
 Most participants mentioned the process of gathering documents, one example the DD214, and/or adding numbers correctly to complete the annual and deductibles section and that this process could be a **potential reason to pause the application or for it to take extra time**.
@@ -227,7 +227,7 @@ Research Question: What struggles do participants encounter with the process of 
 
 **Key Finding 4: Spouse information and live with/address questions**
 
-Labels: label 1, [DSC: Address block] 
+Labels: [DSC: Address block], [DSP: Contextual help], [TREND: Content]
 
 
 Most participants thought the **initial page of questions about their spouse were clear and understandable**, but some had to **pause or had questions regarding if their spouse lived with them or had the same address**, they felt the question was repetitive or a confusing order.
@@ -265,7 +265,7 @@ Most participants answered that **questions of the form were worded in a way tha
 
 **Key Finding 6: Logical order and error recovery**
 
-Labels: label 1, [DSC: Modal] 
+Labels: [DSC: Modal] 
 
 
 Most participants felt the order of **questions flowed in a logical order** and there were only a couple of small recommendations for changes.
@@ -343,28 +343,6 @@ Labels: [DSP: Signed out vs. signed in]
 
 ## Recommendations
 
--- Possible recommendations
-
-- Method for inputting multiple service periods [P10-014][P13-014]
-   - Questions: What information is needed to be exact or an estimate? What is helpful for enrollment process systems?
-- More context/info needed:
-   - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
-   - Annual/spouse income - severance pay inflating amount [P7-034]
-   - Deductible income - additional deductible expenses like child support/ spousal support? [P7-036][P10-031]
-   - Deductible income - more context about insurance needed? [P10-032]
-   - Income/deductible pages in general - context on whether your income level can affect benefits, if so, how? [P13-032][P5-015]
-   - Deductible income - examples of non-reimbursable medical expenses? [P13-033][P14-064]
-- Consider combining pages with only one field/task on them [Insight B]
-- Consider updating language: spouse "live with you" vs spouse "has same address" (latter is standard on other sites?) [P3-028]
-- Refinement to multiple response pattern when editing dependent information [Key Finding 3]
-- Consider switching financial onboarding page & yes/no question: yes/no should come before onboarding
-
-- Possible further research - are there any other scenarios where applicant is not already in short-form flow AND does not need to provide financial information information?  How to only ask for information when it is needed and how to not require Veterans to spend time and effort on questions if they don't impact the outcome of their benefits? 
-
-
---
-[Draft refined list]
-
 * **Content review - adding more context where needed**
    - Annual/spouse income - what if income is shared/combined with spouse? [P6-028]
    - Annual/spouse income - severance pay inflating amount [P7-034]
@@ -392,7 +370,7 @@ Labels: [DSP: Signed out vs. signed in]
 
 
 ## Next Steps
-- Baseline usability study of current household information section - [research study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/212) 
+- Usability study of current household information section content and flow that is live - [research study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/212) 
 - Follow up with VA team about information specifics
    - How are service periods used, and is it necessary for the accuracy of multiple service periods?
 - Content review
