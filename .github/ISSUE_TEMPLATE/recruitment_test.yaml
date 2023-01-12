@@ -1,5 +1,5 @@
 name: Easy Recruitment Request (test)
-description: Use a simplified form to submit a recruitment request to Perigean. 
+description: Use a form to submit a recruitment request with only primary criteria (criteria that applies to all participants) to Perigean. 
 title: "[Recruitment Request]: Insert name of your study here"
 labels: ["research"]
 assignees:
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is an easy request form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
+        This is a form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
         
         In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
   - type: textarea
@@ -28,10 +28,10 @@ body:
     id: benefits-1
     attributes:
       label: What benefits or services should your participants have experience with?
-      description: You can select "various" for a mix of all below or "no benefits" if you're looking for folk without experience. You can also select multiple if all your participants must have experience with multiple benefits.
+      description: Select "various" to recruit participants who collectively have a mix of all the benefits in the list. Select "No benefits" if you're looking for folk without experience. You can select multiple benefits or services if all your participants must have experience with multiple benefits.
       multiple: true
       options:
-        - Various (a mix of all below)									
+        - Various (participants will collectively have a mix of all the options below)									
         - No Benefits or Service Experience										
         - Disability											
         - Education											
@@ -47,7 +47,7 @@ body:
     attributes:
       label: What branch should your participants be affiliated with?
       options:
-        - Various											
+        - Various (participants will collectively have a mix of all the options below)												
         - Marine Corps											
         - Army											
         - Navy											
@@ -61,7 +61,7 @@ body:
     attributes:
       label: What technology should the participant have experience with and use in the session?
       options:
-        - Various											
+        - Various (participants will collectively have a mix of all the options below)												
         - Desktop											
         - Laptop											
         - Smartphone											
@@ -71,7 +71,7 @@ body:
     attributes:
       label: What websites should the participant have experience with in the past?
       options:
-        - Various											
+        - Various (participants will collectively have a mix of all the options below)												
         - Authenticated experience with VA.gov (has an account)									
         - Unauthenticated experience with VA.gov (doesn't have an account)											
         - My Healthy Vet											
@@ -81,7 +81,7 @@ body:
     attributes:
       label: What logins should the participant have experience with in the past?
       options:
-        - Various											
+        - Various (participants will collectively have a mix of all the options below)												
         - DS Logon								
         - My Healthy Vet										
         - ID.me										
