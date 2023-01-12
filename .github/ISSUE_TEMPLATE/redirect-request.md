@@ -4,7 +4,7 @@ about: Submit a request to change a URL and/or implement a redirect for a URL. A
   for vanity URL requests.
 title: Redirect Request
 labels: Sitewide IA, ⭐️ Public Websites, VA.gov frontend
-assignees: heyjoni, jilladams, RLHecht
+assignees: mnorthuis, jilladams, RLHecht
 
 ---
 
