@@ -42,12 +42,15 @@ body:
         - Life Insurance											
         - Memorialization											
         - Pension
+     validations:
+      required: true
   - type: dropdown
     id: branch
     attributes:
       label: What branch should your participants be affiliated with?
       options:
-        - Various (participants will collectively have a mix of all the options below)												
+        - Various (participants will collectively have a mix of all the options below)
+        - None
         - Marine Corps											
         - Army											
         - Navy											
@@ -63,31 +66,40 @@ body:
     attributes:
       label: What technology should the participant have experience with and use in the session?
       options:
-        - Various (participants will collectively have a mix of all the options below)												
+        - Various (participants will collectively have a mix of all the options below)		
+        - None
         - Desktop											
         - Laptop											
         - Smartphone											
         - Tablet
+    validations:
+      required: true
   - type: dropdown
     id: website
     attributes:
       label: What websites should the participant have experience with in the past?
       options:
-        - Various (participants will collectively have a mix of all the options below)												
+        - Various (participants will collectively have a mix of all the options below)		
+        - None
         - Authenticated experience with VA.gov (has an account)									
         - Unauthenticated experience with VA.gov (doesn't have an account)											
         - My Healthy Vet											
         - eBenefits
+    validations:
+      required: true
   - type: dropdown
     id: login
     attributes:
       label: What logins should the participant have experience with in the past?
       options:
-        - Various (participants will collectively have a mix of all the options below)												
+        - Various (participants will collectively have a mix of all the options below)		
+        - None
         - DS Logon								
         - My Healthy Vet										
         - ID.me										
         - Login.gov
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: "## Select up to 2 underrepresented groups as primary criteria"
@@ -101,6 +113,8 @@ body:
       label: First underrepresented group
       description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
       options:
+        - Blind or low vision using a screen reader
+        - Cognitive disabilities
         - LGBTQ+
         - Black
         - Native
@@ -108,17 +122,19 @@ body:
         - 55+ years old
         - No college or higher education
         - Rural
-        - Blind or low vision using a screen reader
-        - Cognitive disabilities
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
         - None of the above (use the open input field below)
+    validations:
+      required: true
   - type: dropdown
     id: equity-2
     attributes:
       label: Second underrepresented group (optional, but recommended)
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
       options:
+        - Cognitive disabilities
+        - Blind or low vision using a screen reader
         - LGBTQ+
         - Black
         - Native
@@ -126,11 +142,11 @@ body:
         - 55+ years old
         - No college or higher education
         - Rural
-        - Blind or low vision using a screen reader
-        - Cognitive disabilities
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
         - None of the above (use the open input field below)
+    validations:
+      required: true
   - type: input
     id: equity-custom
     attributes:
