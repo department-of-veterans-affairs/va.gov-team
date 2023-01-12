@@ -56,8 +56,8 @@ body:
         - Coast Guard											
         - National Guard											
         - Public Health Corps
-      validation:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: technology
     attributes:
