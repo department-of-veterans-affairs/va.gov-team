@@ -824,7 +824,7 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 
 **Note:** If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
 
-[Track the status of your claim or appeal](https://staging.va.gov/track-claims/your-claims)
+[Track the status of your claim](https://staging.va.gov/track-claims/your-claims)
 
 ---
 
