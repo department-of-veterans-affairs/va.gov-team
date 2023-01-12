@@ -93,4 +93,8 @@ Information provided by Eric Spahn (PSR-1828527)
 > 1.	Pharmacist will enter new orders from Non-VA providers in outpatient pharmacy package (MMR). When entering the directions , in order for them to populate into powerchart and on the After Patient Summary the Frequency and Route need to be entered by pharmacist not just by typing the directions in the “SIG” field. Due to these areas not being populated, you end up with an After Patient Summary that has no directions for the patient. The patient is supposed to take the furosemide twice daily but on the summary it just says 40mg which may become an error if patient only took 40mg daily rather than 80mg daily. (All of this also relates to BRIDGE SUPPLIES or any other orders entered directly into MMR)
 > 2.	You can see the CCNRX information that populates when information is entered in MMR in Comments and then under Communication. This can be confusing for the patient and probably should be moved to one of the other fields that won’t show up on the After Patient Summary. Maybe the complete directions can be typed here so they will show up in MMR and on the Summary if the FREQUENCY and ROUTE fields won’t populate.
 
+## Ongoing Support and Development
 
+AVS supports ongoing development and enhancements based on stakeholder feedback and requests. 
+
+Cerner's process for customization and development is limited to 1) the available functionality native to Cerner, 2) navigating the approval process for any EHR changes to the federal domains, and 3) securing the appropriate operational and technical resources.
