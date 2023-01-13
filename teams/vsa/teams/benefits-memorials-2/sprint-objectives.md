@@ -1,15 +1,6 @@
 # Benefits Team 2 - Sprint Objectives
 This is a high-level summary of the current goals and tasks in the current Sprint set forth by the [Debt Resolution Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md).
 
-### Guided by:
-- _"How will this help the Veteran, their dependents, and caregivers get the benefits they deserve?"_ 
-- Deliver value in every Sprint
-- Communicate and embrace transparency
-- Stay organized and help your future self and team
-- Measure outcomes where possible
-
-
-
 | Sprint |Priorities  |Points Planned| Points Accomplished|
 |--|--|--|--|
 | 91 (Jan 10- Jan 24) |[#51820](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51820) |37 points over 13 issues| TBD points over TBD issues|
