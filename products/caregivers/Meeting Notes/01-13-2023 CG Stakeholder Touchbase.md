@@ -46,4 +46,41 @@
      - Ruman - **Mili/Rama DTC created ticket to check on the load balance logs**
      - Updates will be posted on the same slack conversation - https://salesforcemyva.slack.com/archives/C042QS1RLP9/p1673474170681999 
 
+----------
 
+**Notes from Tham**
+
+Notes 
+
+- Ratio of applications approved vs declined
+     - Business have the data available - Tiffany to share with Heather along with monthly report.
+
+- Top trends on why people call into the support team,
+     - We are looking for topic trends regarding Veterans or Caregivers calling in that may pertain to the application process or information.
+          - Tiffany - Mistakes while filling in 10-10CG applications
+          - These are some examples which delays the process
+               - Need to use their primary/physical address - Location, PO
+               - Date of birth - Year or date flip over (may be a data entry or technical functionality)
+               - Wrong Name for role (in place of secondary CG , updating primary)
+               - Legal Name (nick names or short names), issues when correlating with MPI
+               - Signature field - should match with the legal name
+               - Non required field - details for Stipend team (bank)
+               - CSP team is working on Demo video on "how to fill 10-10CG"
+ 
+
+- Volumes on how many applications we get that have duplicated information (for example: applying to add a secondary cg, but including the primary cg info on the app unnecessarily, resulting in completing the app again without the primary cg info)
+     - Tiffany - can pull numbers per monthly and share with Heather
+     - Also application numbers, created in error (wrong name/role) - which creates a new application
+ 
+
+- Is it possible to pull a metrics report for Selection Initiative ?
+     - The incorrect routing and rerouting of applications, due to the Veteran's preferred facility selected. Is there a way to see/get the volume of these rerouted applications?
+
+     - Last update: 
+          - Ramesh/Ranga: I started to pull the metrics, but was not able to narrow down good filters to identify who initiated the change of MC. This one might be a little tricky to just pull using Salesforce reports.
+          - Heather: Like to get a data history
+          - AI Tham to do a quick reminder on the slack conversation
+
+- Mulesoft API error - slack conversation - 503 errors.
+     - Ruman - Mili/Rama DTC created ticket to check on the load balance unlocks
+     - Updates will be posted on the same slack conversation - https://salesforcemyva.slack.com/archives/C042QS1RLP9/p1673474170681999
