@@ -1,8 +1,8 @@
 # Shared Notes: Existing Notifications to Review for Onsite Notifications
 
-Shared document from VA Notify - converted to g doc available here.
+Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting around shared document from them (converted gdoc available [here](https://docs.google.com/spreadsheets/d/1E7JupFC2i6XUzlOxbWwTbIJZ6AxRUz-m/edit#gid=1231731113) - access available upon request).
 
-### Notes
+### Notes & Questions
 
 **1. What's the significance of the hidden rows?**
  Answer: 
