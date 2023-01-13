@@ -49,6 +49,6 @@ Based on the questions posed in our [research outline](https://github.com/depart
 |[Mobile app: Open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)| November 2021|  |
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)|September 2021|  |
 |[Baseline homepage/wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md)|May 2021|  |
-|[My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)| June 2020|  |
+|[My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)| June 2020| Yes |
 
 
