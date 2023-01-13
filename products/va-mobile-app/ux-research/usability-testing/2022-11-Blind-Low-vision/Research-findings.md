@@ -3,7 +3,7 @@
 
 Date: 1/11/23
 
-Melissa Lefevre (Melissa.lefevre@adhocteam.us) Liz Straghalis ( ) Brea Blackwelder ( )
+Melissa Lefevre (Melissa.lefevre@adhocteam.us) Liz Straghalis (liz.straghalis@adhocteam.us) Brea Blackwelder (brea.blackwelder@adhocteam.us) Angela Fowler (angela.fowler@adhocteam.us)
 
 <br>
 
@@ -252,9 +252,6 @@ Shortcut examples:
 5. Using an accessibility-first approach for new feature builds
     1. Reach out to accessibility experts early on to drive research questions and strategy
 
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
 
 ## Appendix
 
