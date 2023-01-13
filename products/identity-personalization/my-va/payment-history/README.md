@@ -97,11 +97,13 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 **Key result: Increase pageviews for the debt tool overall by 10%** 
 
-[Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
+  - Prior to Dec 17: [Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/)
+  - Post Dec 17, a new url was added for debt summary: [Pageviews for /manage-va-debt/summary/debt-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230112&_u.date01=20230113&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fdebt-balances~2F/)
+ 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023 (combine reports linked above)| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the debt summary page|35,495|TBD|TBD| 
+|Pageviews of the debt summary page|35,495| 82,036 (~131% increase)|TBD| 
 
 ### Objective: Elevate copays to My VA.
  
