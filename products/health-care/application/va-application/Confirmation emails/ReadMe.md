@@ -6,6 +6,7 @@ Inform Veterans when their submitted 10-10EZ application has been received by th
 
 **Related/Associated product(s)**
 - Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
+- Confirmation Email [Epic #40765](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/40765)
 
 ## Problem
 Currently, the confirmation email is sent by a Java Mail client, triggered once the Enrollment system receives the application from VA.gov.  The email process needs to move to the target state application VA Notify.
