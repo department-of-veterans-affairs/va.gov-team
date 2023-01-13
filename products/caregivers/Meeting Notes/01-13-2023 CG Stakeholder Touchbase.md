@@ -15,12 +15,12 @@
           - We can pull this 
           - Caveat - based on staff marking application properly according to policy
           - This could include when a primary is entered incorrectly on secondary role
-  ** - Tiffany will send with monthly volumes when I send my routine request**
+     - **Tiffany will send with monthly volumes when I send my routine request**
 
 - Do we know the ratio or volume or applications that are approved vs declined?  
      - We don't have visibility into this metric and wondered what the most common reasons for rejection, if there is a significant volume
      - Our question to ourselves would be Is there anything we can change that could help reduce the volume of rejected applications?
-**   - Tiffany will send with monthly volumes when I send my routine request**
+     - **Tiffany will send with monthly volumes when I send my routine request**
 
 - We are looking for topic trends regarding Veterans or Caregivers calling in that may pertain to the application process or information. 
      - One trend we are seeing from the survey data is that some people are confused, trying to apply to get a Caregiver assigned to them by VA, or trying to apply for a Caregiver job (as opposed to a Caregiver for a specific Veteran).
