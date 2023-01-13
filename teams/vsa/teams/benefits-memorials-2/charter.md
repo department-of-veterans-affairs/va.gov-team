@@ -50,7 +50,7 @@
 |Front End Engineer     |Brandyn Sullins                     |
 |Front End Engineer     |Aaron Ponce.                        |
 |Designer/Research      |Megan Gayle                         |
-|Researcher             |TBD                                 |
+|Researcher             |Charlotte Cesana                    |
 |Designer               |TBD                                 |
 
 </br>
