@@ -81,7 +81,7 @@ Currently, the confirmation email is sent by a Java Mail client, triggered once 
    
 ## Screenshots
 No UI Changes.  
-[Current email template from Java Mail client/Enrollment system]()
+[Current email template from Java Mail client/Enrollment system](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Confirmation%20emails/10-10EZ%20Confirmation%20Email%20from%20VES.md)
 
 
 
