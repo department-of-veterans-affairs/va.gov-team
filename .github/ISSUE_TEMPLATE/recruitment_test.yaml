@@ -10,12 +10,12 @@ body:
       value: |
         This is a form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
         
-        In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md).
+        In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md). [Numbers, not letters/x's]
   - type: textarea
     id: ideal-session-count
     attributes:
       label: Ideally, how many participants do you want in your study?
-      description: "Replace the 0s with the amount you want from each group. Perigean will recruit double your total ideal amount."
+      description: "Replace the 0s with the amount you want from each group. Perigean will recruit double your total ideal amount." [Should be 1/4 to 1/3]
       value: |
         Veterans: 0
         Family Members: 0
@@ -116,14 +116,14 @@ body:
       description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
       options:
         - Blind or low vision using a screen reader
-        - Cognitive disabilities
-        - LGBTQ+
         - Black
         - Native
         - Latina
         - 55+ years old
-        - No college or higher education
+        - High school equivalent or GED
         - Rural
+        - LGBTQ+ (custom request to Perigean)
+        - Cognitive disabilities (custom request to Perigean)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
         - None of the above (use the open input field below)
@@ -135,15 +135,15 @@ body:
       label: Second underrepresented group (optional, but recommended)
       description: We strongly recommend selecting a second category to account for intersectionality in your research.
       options:
-        - Cognitive disabilities
         - Blind or low vision using a screen reader
-        - LGBTQ+
         - Black
         - Native
         - Latina
         - 55+ years old
-        - No college or higher education
+        - High school equivalent or GED
         - Rural
+        - LGBTQ+ (custom request to Perigean)
+        - Cognitive disabilities (custom request to Perigean)
         - Experiencing homelessness (custom request to Perigean)
         - Only has access to a mobile device (custom request to Perigean)
         - None of the above (use the open input field below)
