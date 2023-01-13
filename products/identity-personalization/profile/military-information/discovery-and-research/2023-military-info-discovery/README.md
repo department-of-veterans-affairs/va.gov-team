@@ -1,6 +1,6 @@
 # Research outline: Expanding the military information section of the VA.gov profile
 
-**Last Updated: January 11, 2023**
+**Last Updated: January 13, 2023**
 
 ## Table of Contents
 
@@ -68,6 +68,7 @@ In order to determine if and how we might expand the military information sectio
 
 ## Research documents
 
+- [Discovery epic: #52006](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52006)
 - Analytics review (if applicable)
 - Research plan
 - Conversation guide
