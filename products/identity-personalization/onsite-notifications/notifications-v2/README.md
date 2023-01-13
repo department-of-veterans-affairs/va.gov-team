@@ -143,6 +143,7 @@ TBD
 **Tentative scope**
 
 - Define and document intake process with VANotify (potentially low lift)
+- Inventory existing notifications to figure out what onsite notification backlog looks like
 - Add 1 (maybe 2?) new onsite notifications
 - Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
 
