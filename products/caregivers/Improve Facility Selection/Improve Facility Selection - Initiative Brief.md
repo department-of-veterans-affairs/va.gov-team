@@ -153,7 +153,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Launch Planning
 ### Collaboration Cycle
 
-- Kickoff ticket #..
+- Kickoff ticket #51980
   - Design Intent
   - Research Review
   - IA Review
@@ -164,14 +164,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Incident Response Info
 - The 1010CG form is currently in production
-- We are calling a new API (API NAME NEEDED)
+- We are going to begin calling an existing API (Facilities API)
 - We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
-- 1010CG [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+- 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative - template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -199,7 +199,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: 10-10 Health Apps team
 - GitHub Label(s): cg-facilities
 - Slack channel: #1010-health-apps
-- Product POCs: Heather Justice, Mark Fallows
+- Product POCs: Heather Justice
 
 </details>
 
