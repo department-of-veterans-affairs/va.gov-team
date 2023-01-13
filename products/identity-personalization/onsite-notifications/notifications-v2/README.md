@@ -140,6 +140,12 @@ TBD
 
 ### In scope
 
+**Tentative scope**
+
+- Define and document intake process with VANotify (potentially low lift)
+- Add 1 (maybe 2?) new onsite notifications
+- Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
+
 ### Out of scope
 
 - Designing and building a notification center.
