@@ -30,7 +30,7 @@ What value does the mobile app provide blind users versus other products in the 
 
 
 # Research Questions
-*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants did NOT sign in during the sessions).*
+
 1. Are participants able to successfully navigate to key tasks in the app using assistive technology (keyboard, voice, and zoom/magnifier)?
   a. Which tasks, if any, do participants struggle with finding and where do participants expect to find those tasks?
   b. Which tasks, if any, do participants struggle completing? Where do they get stuck? 
