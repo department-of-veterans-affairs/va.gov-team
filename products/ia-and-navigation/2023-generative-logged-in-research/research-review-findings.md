@@ -1,18 +1,19 @@
 # Identifying issues and challenges people have finding tasks when they are signed in to VA.gov: Research Review Findings
 
 `DRAFT`
-
 Liz Lantz, Authenticated Experience
-
 January 15, 2023
 
-## Signing in to VA.gov
-### When do people sign in to VA.gov? 
-### Do they intend to sign in first thing, or only after finding a page that tells them they need to sign in?
-### Are people able to find prompts to sign in easily?
+## Background
+
+## Research questions and findings
+### Signing in to VA.gov
+#### When do people sign in to VA.gov? 
+#### Do they intend to sign in first thing, or only after finding a page that tells them they need to sign in?
+#### Are people able to find prompts to sign in easily?
 	
-## Navigating to tasks & tools
-### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
+### Navigating to tasks & tools
+#### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
 1. People get frustrated navigating links that are not relevant to them, or feel like the website is generic vs personalized to them.
 	- [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them)
 	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
@@ -22,7 +23,7 @@ January 15, 2023
 3. People have to reorient themselves on the homepage, since there isn’t a cohesive logged-in navigation.
 	- [My VA 2.0 2020 Analytics Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#most-people-start-directly-on-the-homepage-but-some-people-reorient-themselves-their-throughout-their-session)
 			
-### How easy/hard is it to find tasks that require people to be logged in?
+#### How easy/hard is it to find tasks that require people to be logged in?
 1. People are easily able to find tasks that require people to be logged in when:
 - they are linked from the homepage or My VA
 - They have succinct labels
@@ -35,7 +36,7 @@ January 15, 2023
 	- [Health Hub Tree Test Finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
 
 
-### What tasks do people come to complete?
+#### What tasks do people come to complete?
 **Note:** We already know disability and health care info are primary, so probably worth reiterating and moving on quickly.
 - Health care and disability tasks are most popular.  
 	- [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#health-care-and-disability-benefits-are-king)
@@ -47,7 +48,7 @@ January 15, 2023
 	- [Mobile App Open Card Sort, Finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
 
 
-### What are other known insights around navigating the site overall?
+#### What are other known insights around navigating the site overall?
 1. People will want information about getting benefits (vs managing) regardless of if they are logged in or not.
 	- Mission-critical “Get Benefits” content would benefit from multiple paths, elevation in the IA, and more direct navigation
 		- [Health Hub Tree Test Finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
@@ -65,19 +66,28 @@ January 15, 2023
 
 
 
-### What are other known insights around navigating the logged in experience/tasks you have to log into to do?
+#### What are other known insights around navigating the logged in experience/tasks you have to log into to do?
 1. People find it helpful to have all their tasks/links in one place, and when they log in. 
 	- [Action items discovery, finding 1 and 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
 	- In the [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-expect-a-mix-of-links-and-widgets-to-complete-tasks-from-their-homepage) we heard that people don’t mind a bunch of links if they take them to the right place
 2. It’s not intuitive for people to look under something called “My” for things they don’t have yet
 > While “My Health” provided an intuitive go-to location for “Manage” tasks, it was often not considered for “Get” content and tasks - [Health Hub Tree Test Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)
 
-	
+#### What do we not know at this point? 
 
-
-### What do we not know at this point? 
-
-### What would be helpful to get more information on?
+#### What would be helpful to get more information on?
 > “I rely on a good search box. HC has so many shades of gray which makes it difficult”
 - Quote from the [Health Hub Tree Test Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf); how important is search to navigation? Do people have different expectations around search when they’re logged in vs not?
 
+## Studies reviewed
+*  [Homepage redesign round 1 testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) 
+*  [Homepage redesign round 2 testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md) 
+*  [the Health apt Veteran unmod tree test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/veteran-tree-test-findings.md) 
+*  [Health apt Veteran moderated tree test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf) 
+*  [Health apt overall tree test results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/health-apartment-trees-r1.xlsx) 
+*  [VA mobile app: Usability/IA testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) 
+*  [Mobile app: Closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md) 
+*  [Mobile app: Open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md) 
+*  [Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md) 
+*  [Baseline homepage/wayfinding research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) 
+*  [My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md) 
