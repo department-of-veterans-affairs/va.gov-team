@@ -32,7 +32,33 @@ SMEs to review all identified content for the following:
 
 ## OCTO audit
 
+The OCTO audit will identify and create tickets to fix issues with these items for each content page:
+
+### URL
+- [ ] URL follows VA.gov URL standards
+- [ ] URL correctly represents the placement of the page in the IA of the site
+- [ ] URL includes primary keyword and aligns with the H1
+
+### Breadcrumb
+
+- [ ] The page displays a breadcrumb
+- [ ] The breadcrumb represents the same hierarchy as the URL
+- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly
+- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
+
+### Secondary navigation (where applicable)
+
+- [ ] The page is displayed as an option within the secondary nav
+- [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
+- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags
+
+### On this page component
+
+- [ ] The page has an "on this page" component if appropriate
+- [ ] 
+
 - Identify content that should move in position (i.e. from benefit hub to R&S) based on the content placement criteria. 
+- 
 - Audit all content pages against the content pre-publication checklist for broken links, content design, plain language, and accessibility issues.
 - Audit all content pages against the IA checklist.
 - Audit all content against relevant content briefs and content style guide. Make any needed changes to content and flag any relevant additions needed to briefs or guide. 
