@@ -1,7 +1,9 @@
 # Identifying issues and challenges people have finding tasks when they are signed in to VA.gov: Research Review Findings
 
 `DRAFT`
+
 Liz Lantz, Authenticated Experience
+
 January 15, 2023
 
 ## Signing in to VA.gov
