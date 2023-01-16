@@ -129,7 +129,6 @@ This table includes links to the individual feature directory and the latest ite
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
 - Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
 - Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
