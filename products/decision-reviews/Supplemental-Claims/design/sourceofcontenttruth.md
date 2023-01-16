@@ -986,7 +986,9 @@ Other
 
 ## Is this the form I need?
  
-Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and have new and relevant evidence to submit **or** if you have a condition that we now consider presumptive (such as under the PACT Act).
+Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and you meet at least 1 of these requirements:
+- You have new and relevant evidence to submit **or** 
+- You have a condition that we now consider presumptive (such as under the PACT Act).
 
 Answer this question to get started:
 
@@ -1010,22 +1012,24 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 ## File a Supplemental Claim
 
-If we denied your claim in the past, a Supplemental Claim may be an option for you. Learn when and how to file a Supplemental Claim and what to expect after you file.
+If we denied your claim in the past, a Supplemental Claim may be an option for you.
 
 *Informational Alert*
 
-Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. 
 
-Action Link: Start Your Claim
+You can save your application in progress and come back later to finish filling it out.
+
+Action Link: Start your claim
 
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, you can go back to answer the questions again.
-
-LINK: Go back to the questions
-
 #### 1. Check your eligibility
-You can file a Supplemental Claim if you have new and relevant evidence that we didn't consider before, **or** you have a condition that we now consider presumptive (such as under the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)). You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
+You can file a Supplemental Claim if you meet at least 1 of these requirements:
+- You have new and relevant evidence that we didn't consider before, **or** 
+- You have a condition that we now consider presumptive (such as under the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/))
+
+You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
 
@@ -1033,11 +1037,13 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
 
-What is a presumptive condition? (Expand) \
+If you don’t think this is the right form for you, you can go back to answer the questions again.
+
+LINK: Go back to the questions
+
+What's a presumptive condition? (Expand) \
 
 For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
-
-We consider a condition presumptive when it's established by law or regulation.
 
 If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
 
@@ -1047,14 +1053,13 @@ If you have a presumptive condition, you don’t need to prove that your service
 Here’s what you’ll need to apply: 
 
 **New evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you.
-
-**A change in legislation.** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you do not need to provide evidence to prove that your service caused the condition.
+**Note:** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you don't need to provide evidence to prove that your service caused the condition.
 
 **The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
 
-The name and address of any medical facility you'd like us to request your records from.
+**The name and address of any private medical facility you'd like us to request your records from.**
 
-The dates you were treated at that private medical facility.
+**The dates you were treated at that private medical facility.**
 
 Types of Evidence (expand) \
 
@@ -1069,7 +1074,7 @@ We’ll take you through each step of the process. It should take about 15 minut
 
 What happens after I apply? (expand) \
 
-You don’t need to do anything while you’re waiting unless VA contacts you asking for more information. If VA schedules exams for you, be sure not to miss them.
+You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
 
 Respondent burden: 15 minutes
 
