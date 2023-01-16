@@ -51,19 +51,12 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Last status |
 | :--- | :--- | :--- | 
-| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
-| Authenticated-immediate alert flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq) | Up-to-date |
-| Authenticated-self-report flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb) | Up-to-date |
-| Unathenticated-self-report flow  | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j)  | Up-to-date |
-| Full application flow/ less than 50% disability rating flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l) | Up-to-date |
-| Authenticated clickable prototype | [UXPin](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i) | Not source of truth |
-| Unathenticated clickable prototype | [UXPin](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i) | Not source of truth |
-| Design | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1) | Slight adjustments made in development |
+| Design - User Flows | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas) | Pending final review before starting development |
 
 <br>
 
 ### Engineering artifacts
-- [Short form use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/Short-form-use-cases.md)
+- [Household section use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
 
 <br>
 
