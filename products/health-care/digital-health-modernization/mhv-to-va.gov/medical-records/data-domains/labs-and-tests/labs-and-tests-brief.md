@@ -102,7 +102,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 <hr>
 
-#### Lab Type: VA Radiology Reports (includes x-ray, MRI, mammogram, ultrasound
+#### Lab Type: VA Radiology Reports (includes x-ray, MRI, CT mammogram, ultrasound)
 ##### Data Source(s): Blue Button
 ##### Fields
 - **Procedure/Test Name** *Example: MRI BRAIN W/O CONTRAST*
@@ -200,8 +200,8 @@ Q: Is there a technical reason why the imaging studies are not listed in the lab
 Q: What is the expected timing for adding in self-entered test data?  
 
 **Business/ Engineering:** 
-- Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
-- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports
+- Is there a business or technical reason we cannot show blood sugar, cholesterol (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
+- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports?
     
 
 **Who do we need to get feedback from?**
