@@ -118,7 +118,7 @@ This table includes links to the individual feature directory and the latest ite
 | [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Research in progress (Prototype created)|
 | 10-10EZ Baseline Study | N/A | Research starting Jan 2023 |
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-| Notiifcations: Confirmation Email | N/A | Pending ES roadmap schedule |
+| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule |
 | Short Form Expansion | Combat status | Pending further discussions with stakeholders |
 
 <br>
