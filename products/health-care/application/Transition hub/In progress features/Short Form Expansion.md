@@ -47,6 +47,7 @@ N/A
 
 ## Zenhub epics
 - [10-10EZ Short Form expansion](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/40760)
+- [10-10EZ Short Form Expansion Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Short%20Form/Short%20Form%20Expansion)
 
 
 <br>
