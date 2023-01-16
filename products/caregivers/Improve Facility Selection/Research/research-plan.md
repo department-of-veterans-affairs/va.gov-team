@@ -1,4 +1,15 @@
-# [DRAFT] Research Plan: 10-10CG facility selection redesign testing, 1010 Team, February 2023
+# [DRAFT] Research Plan: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
+
+
+
+## Background
+Briefly describe the background of your product. Consider:
+- What problem is your product trying to solve?
+- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+[Link to product brief](url goes here).
+
 
 ## Background
 This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the 1010 team.
@@ -10,17 +21,29 @@ During previous usability studies on this form (Research Findings: [February 202
 
 In addition, this question is asked to aid in routing the application to the appropriate local VA facility where there are Caregiver Support Staff located. 
 
-We have redesigned the facilities question to address these needs and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of the purpose of the question. 
+We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of the purpose of the question. 
 
 
-## Goals	
+### OCTO Objectives 
+
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+
+### Veteran Journey
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+Are there moments that matter? 
+
+
+## Research Goals	
 
 The goals of this user research are to:
-1. Determine whether or not this facility redesign is understandable 
-2. Determine whether or not this facility redesign makes it easier for the applicant to understand the
+1. Determine whether or not this facility question is understandable 
+2. Determine whether or not this facility question makes it clear for the applicant to know how the information is used
 3. Determine whether or not this facility redesign resolves the confusion trends listed above
 
-**Research questions**
+### Outcome
+
+
+### Research questions
 
 1. Are users able to navigate through facility selection without difficulty?
 2. Do users understand what they are selecting?
@@ -30,20 +53,18 @@ The goals of this user research are to:
 
 
 
-
-**Hypotheses**
-
+### Hypothesis
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
 - Filtering results by miles away
 - Not recognizing the name of the facility they are looking for
 
 
-## Method	
-**Task analysis**
+## Methodology	
 
-This will be a focused study on only the facility question. 
+**A/B/C comparrison usability and interview questions**
 
+This will be a focused study on only the facility question(s). The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
 
 A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Because the facility selection appears near the beginning of the flow, we will have the participant start at the beginning of the application, for context, and then complete specific tasks on the facility selection page, paying special attention to:
@@ -64,9 +85,35 @@ Participants will be encouraged to talk through their exploration of the prototy
 We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
 ****
 
+### Location
 
-## Participants and Recruitment	
+### Research materials
+
+
+## Recruitment	
+
+
+
+
+
+### Recruitment approach
 We would like to work with Perigean to recruit for 8-10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
+
+
+### Recruitment criteria
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|      15       |          8-10    |6       |  2          |   7      |               | 
+
+
+
+**Primary criteria (must-haves)**
+
+
+**Secondary criteria (nice-to-haves)**
+
+
+--
 
 **Must have for participants**
 
@@ -97,6 +144,26 @@ All participants must:
 - Race
 - Geography
 - Density (rural)
+
+--
+
+## Timeline
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+### Prepare
+When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+* Pilot participant email:
+* Date and time of pilot session: 
+
+### Research sessions
+* Planned dates of research:
+
+
+
+
+--
 
 
 ## When? 	
