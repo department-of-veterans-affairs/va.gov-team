@@ -422,7 +422,7 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-- [Link to initial UX audit]
+- [Link to initial UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md)
 - [2022 GA page data on this section]
 - [Medalia feedback]
 
