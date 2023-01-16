@@ -424,6 +424,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 - [Link to initial UX audit]
 - [2022 GA page data on this section]
+- [Medalia feedback]
 
 
 
