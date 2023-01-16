@@ -1,24 +1,24 @@
-# [DRAFT] Research Plan: VSA Caregiver, 10-10CG facility selection redesign usability testing and upload error message checkup, August 2021
+# [DRAFT] Research Plan: 10-10CG facility selection redesign testing, 1010 Team, February 2023
 
 ## Background
-This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the Caregivers team.
+This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the 1010 team.
 
 During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
 1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
-We have redesigned the page to address these needs and this research is on the usability of this redesign. 
+In addition, this question is asked to aid in routing the application to the appropriate local VA facility where there are Caregiver Support Staff located. 
 
-Additionally, we have recently released a new upload error message/flow. The usability of this error will be tested as a secondary goal of this research.
+We have redesigned the facilities question to address these needs and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of the purpose of the question. 
+
 
 ## Goals	
 
 The goals of this user research are to:
-1. Determine whether or not this facility redesign is usable 
-2. Determine whether or not this facility redesign is accessible
+1. Determine whether or not this facility redesign is understandable 
+2. Determine whether or not this facility redesign makes it easier for the applicant to understand the
 3. Determine whether or not this facility redesign resolves the confusion trends listed above
-4. Determine whether or not the error message on file upload is usable and easily worked through
 
 **Research questions**
 
@@ -27,7 +27,8 @@ The goals of this user research are to:
 3. Do users understand how the postal code was pre-populated?
 4. Can users easily change the text input and understand what choices are populated from that search?
 5. Do users understand "no facility found" error and can easily work through it?
-6. Can users easily work through an error message on file upload?
+
+
 
 
 **Hypotheses**
@@ -37,11 +38,13 @@ Our hypothesis is that users will be able to navigate through the facility selec
 - Filtering results by miles away
 - Not recognizing the name of the facility they are looking for
 
-Our hypothesis is that users will be able to navigate through file upload error messages relatively easily, but may have issues with the following:
-- Not understanding how to "fix" the file they are uploading
 
 ## Method	
 **Task analysis**
+
+This will be a focused study on only the facility question. 
+
+
 
 A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Because the facility selection appears near the beginning of the flow, we will have the participant start at the beginning of the application, for context, and then complete specific tasks on the facility selection page, paying special attention to:
 - Where does the participant think that the pre-populated postal code came from?
@@ -55,8 +58,11 @@ A task-based usability study will be conducted remotely with Zoom using the Peri
 
 Participants will be encouraged to talk through their exploration of the prototype.
 
-We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
 
+
+****
+We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
+****
 
 
 ## Participants and Recruitment	
@@ -106,18 +112,17 @@ TBD      | TBD EST
 TBD       | TBD EST
 
 
-
 Pilot Session: TBD | TBD EST 	
 
 ## Team Roles	
 	
-- Moderator: Dené Gabaldón (dene.gabaldon@adhocteam.us)	
+- Moderator: 	
 - Research guide writing and task development: Same as moderator
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Same as moderator
 - Participant(s) for pilot test:	TBD
-- Note-takers: TBD
-- Observers: Chris Dyer (chris.dyer@adhocteam.us), Daniel Nalbach (dnalbach@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
+- Note-takers: 
+- Observers:  
 	
 
 ## Resources	
