@@ -1,4 +1,4 @@
-# 10-10EZ Household Section Optimization hub
+# 10-10EZ Confirmation emails hub
 
 **Updated 1/16/2023**
 
