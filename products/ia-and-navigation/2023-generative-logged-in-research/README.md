@@ -54,11 +54,11 @@ While we've observed some high-level problems people have navigating VA.gov's lo
 
 ### Research goals
 
-- Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
 - Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
 - Understand what issues people have navigating to tools and tasks when they are logged in to VA.gov.
 - Understand what peoples' expectations are for navigating to tools and tasks when they are logged in to VA.gov.
 - If applicable, extrapolate learnings to logged out flows as well instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
+- Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
 
 ### Process goals
 
