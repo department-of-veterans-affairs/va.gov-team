@@ -100,3 +100,39 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 - 2 Asian participant
 - 2 Native participant
 - 2 LGBTQ+ participants
+
+## Timeline
+
+### Prepare
+- Pilots from 1/18 - 2/24/23, Emily Taylor, JB Walters
+
+### Research Sessions
+* Planned dates of **Jan 26 - Feb 2**
+
+### Length of sessions
+* Session length: 1 hour
+* Buffer time between sessions: 30 minutes
+
+### Availability
+
+Team Availability | Time Slots (ET)
+------------------|--------------
+Jan. 26, 2023 | 8:00 am - 12:30 pm; 1:30 - 3:00 pm; 4:30 - 5:30 pm
+Jan. 27, 2023 | 8:00 am - 12:00 pm; 3:00 - 5:30 pm
+Jan. 30, 2023 | 8:00 am - 11:00 am; 11:30 - 12:30 pm; 1:30 - 6:30 pm
+Jan. 31, 2023 | 8:00 am - 11:00 am; 11:30 - 12:30 pm; 1:30 - 6:30 pm
+Feb.  2, 2023 | 8:00 am - 12:30 pm; 1:30 - 3:00 pm; 4:30 - 5:30 pm
+
+## Team Roles	
+Please list the people who will be serving in each role. 	
+- Moderator:	Anne Costello (anne.costello@bylight.com)
+- Research guide writing and task development:	Anne Costello
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Anne Costello
+- Participants for pilot test:	Emily Taylor, JB Walters
+- Note-takers: Joel Calumpong
+- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Jessica Robertson (jessica.robertson@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
+
+## Approvals
+- Reviewed and approved by Shane Strassberg on (under review)
+
