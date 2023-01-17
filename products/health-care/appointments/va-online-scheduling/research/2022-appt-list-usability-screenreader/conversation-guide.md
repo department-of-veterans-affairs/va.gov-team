@@ -37,16 +37,22 @@
 
 _If no_ In the [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) let observers know that the participant does not want them observing. 
 
-_If yes_  Thank you. I'll admit them now.
+_If yes_ Thank you. I'll admit them now.
 
-    - [ ] Let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.
+ - [ ] Let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.
 
 A few things I want to mention about how today's session:
+
     - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the appointments feature and make it work better for everyone.
+    
     - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+    
     - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+    
     - We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a link on your device,and share your screen with us. 
+    
     - Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
+    
     - **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
 * Does that all make sense, and sound okay to you?
 * Great! Any questions before we continue?
@@ -58,13 +64,13 @@ _Start recording._
 
 ## Participant Tech Setup
 
-Next, I want to get our tech set up
+Next, I want to get our tech set up.
 
 - **We like to use transcription to improve our notes. However, this Zoom setting turns on Closed Captions in Zoom, which can be a problem for screenreaders. Would it be disruptive do have Closed Captions on?**
 
-   - If no, turn on transcription
+   - If no, turn on transcription.
 
-- **Would you prefer video on or off?**
+- Would you prefer video on or off?
   
 - What device are you using to attend the session today?
 
@@ -83,11 +89,16 @@ You will be interacting with a prototype on the web. In order to do that I'll ne
 
 - If participant can share their screen, walk them through screen sharing.
     -  [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
+    -  Make
 
 
-### If they can't share
+### If they can't share their screen
 
 Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have you "drive" and verbally walk me through what you are doing. Does that should alright?
+
+
+### If they can't share their audio
+????
 
 ### After prototype is open
 
@@ -102,7 +113,7 @@ Say you wanted to find out what health appointments you have scheduled for the n
 
 ## Task 2: Log in to VA.gov
 
-Next, you'll need to login using a test user. I've sent the test user login credentials to (your email/phone/the chat)
+PROMPT: Next, you'll need to login using a test user. I've sent the test user login credentials to (your email/phone/the chat)
 
 You'll use Login.gov to sign in 
   - Email address is [TBA] 
@@ -125,6 +136,7 @@ PROMPT: Tell me about some of the appointments you have coming up.
 
 - Does participant understand when appointment takes place? Especially for days with multiple appointments
 - Do they understand where it will take place?
+- Do they understand how/the modality?
 
 ## Task 4: Navigate to Pending Appointments
 You have requested some appointments that the VA hasn't confirmed yet. Can you find those from here?
