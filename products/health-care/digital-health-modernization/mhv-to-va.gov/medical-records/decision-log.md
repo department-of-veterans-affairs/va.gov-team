@@ -63,7 +63,7 @@ Please log key decisions related to the below practice areas, including date, wh
 ## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|  1/9/23    |                   |                        |           |
+|      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
