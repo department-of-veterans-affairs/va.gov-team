@@ -39,7 +39,7 @@
 
 ## Overview
 
-While we've observed some high-level problems people have navigating VA.gov's logged-in experience in various research studies (eg. people are reliant on homepage or My VA links), we've never conducted more research that is solely dedicated to this topic. This research effort aims to  do just that -- dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
+While we've observed some high-level problems people have navigating VA.gov's logged-in experience (eg. people are reliant on homepage and My VA links), we've never conducted research that is solely dedicated to this topic. To remedy this, we plan to conduct research in early 2023 that helps us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users' expecations, and what we might do to improve the overall experience. This work will help guide meaningful improvements to the logged-in IA and navigation in the coming year.
 
 ## Problems
 
