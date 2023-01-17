@@ -154,7 +154,7 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 _Error_
 
 #### We're missing some of your personal information
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ---
 ## Step 1 of 4: Veteran information
@@ -208,7 +208,7 @@ Note: Any changes you make here will also update your VA.gov profile
 ## STEP 1 of 4: Veteran Information
 We'll save your application every time you add or update information.
  
-**What is your primary phone number?**
+**What's your primary phone number?**
 
 We may need to contact you if we have questions about your Supplemental Claim. (*Required)
 
@@ -344,7 +344,7 @@ We'll save your application every time you add or update information.
 
 We’ll request your VA medical records from this facility
 
-Name of VA medical center, VA treatment facility, or Federal department or agency (*Required)
+Name of VA medical center, VA treatment facility, or federal department or agency (*Required)
 
 Choose the conditions you received treatment for at this facility. (*Required)
 
@@ -399,7 +399,7 @@ We'll save your application every time you add or update information.
 
 How do I know if I have private medical records / expand
 
-You have private medical records if you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 
 **_BACK_**
@@ -459,7 +459,7 @@ _Warning_
 If you want us to request your private medical records from your doctor, you must authorize the release.
 [Check the box to authorize] JUMP LINK
 
-Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
+Or, go back a page and select **No** where we ask about private medical records. Then you can upload your records.
 [Go back to upload records]
 
 ----------------------------------------------
@@ -687,7 +687,7 @@ Remove
 
 _Error_
 
-#### You haven't added any evidence
+#### You haven't uploaded any evidence
 You must provide at least 1 type of supporting evidence before you can continue filling out your request.
 
 ----------------------------------------------
@@ -835,7 +835,7 @@ You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 
 Not enough PII to proceed with form:
 
 #### We’re missing some of your personal information
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 PDF upload errors (be sure we help them recover):
 
@@ -1090,7 +1090,7 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 _Error_
 
 #### We're missing some of your personal information
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure we have your Social Security number and date of birth. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ---
 
@@ -1106,7 +1106,7 @@ If you're filing a claim for a condition that we now consider presumptive under 
 
 **Review and acknowledge this notice of evidence needed.**
 
-Unless you're filing a claim for a presumptive condition, you’ll need to submit new evidence. This evidence must be related to the issue you’re claiming, and it must be evidence we haven't reviewed before.
+Unless you're filing a claim for a presumptive condition, we encourage you to submit new evidence. This evidence must be related to the issue you’re claiming, and it must be evidence we haven't reviewed before.
 
 We’ll look for evidence that shows both of these are true:
 
@@ -1132,11 +1132,13 @@ We'll save your application every time you add or update information.
 
 _Warning alert:_
 
-### You didn't submit any evidence
+### We noticed you didn't upload evidence
 
-Unless you're filing a claim for a presumptive condition, you’ll need to submit new evidence.
+If you have a presumptive condition, you don’t need to submit new evidence with your claim. You can continue through this form.
 
-Action Link: Submit new evidence
+If you’re filing a claim based on new evidence, we encourage you to submit the evidence with your claim. But if you don't have the evidence now, you can still file your claim. We'll work with you to get the evidence.
+
+Action Link: Upload new evidence
 
 **_BACK_**
 
