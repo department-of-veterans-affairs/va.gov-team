@@ -113,6 +113,12 @@ Further exploration is needed for the technical feesability of this as well as h
 
 However, surfacing action items for users is one of the main takeaways from generative research. 
 
+## The hierarchy of the immunization detail page follows the Flagship Mobile App for consistency. 
+
+- Work with engineers to align on where the data is coming from and how that maps to the hierarchy on the page. 
+- To ensure the details page is clear and easy to scan during future usability study. 
+
+
 
 ## Research (How it tests)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
