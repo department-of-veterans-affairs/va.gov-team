@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: January 6, 2022**
+**Last Updated: January 17, 2022**
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@
 
 ## Overview
 
-We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
+We're aware of some high-level problems people have navigating the logged in experience on VA.gov (eg. if a link isn't on the homepage or My VA, people have trouble finding what they need). However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
 
 ## Problems
 
