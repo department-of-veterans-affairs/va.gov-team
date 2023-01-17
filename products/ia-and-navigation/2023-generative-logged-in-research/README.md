@@ -25,6 +25,7 @@
 |Mikki Northuis| OCTO design lead for information architecture|michelle.northuis@va.gov|
 |Chante Lantos-Swett|OCTO lead for account experience portfolio|chante.lantosswett@va.gov|
 |Samara Strauss |OCTO product lead for authenticated experiences|samara.strauss@va.gov|
+|Liz Lantz| Auth experience designer/researcher|liz.lantz@adhocteam.us|
 
 **We'll also be consulting with the following people**
 
