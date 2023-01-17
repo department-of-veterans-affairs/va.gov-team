@@ -36,9 +36,9 @@ The goals of this study are to:
 1. How will Veterans react to the new compose/reply/edit draft flow? Will the interstitial page be identified as a pain point?
 2. Does the new flow improve the likelihood that the safety message will be noticed and read? How much time do Veterans spend on the interstitial before advancing?
 3. Does the safety message help Veterans understand when secure messaging is not the appropriate communication method?
-  1. How do Veterans interpret "Do you need help now?"?
-  2. What circumstances do Veterans consider an urgent question?
-  3. How do Veterans describe someone who should connect with VCL rather than use Secure Messaging?
+  * How do Veterans interpret "Only use messages for non-urgent needs"?
+  * What circumstances do Veterans consider an urgent question?
+  * What circumstances do Veterans consider are best for connecting with the VCL rather than use Secure Messaging?
 4. Do Veterans value the links to 911, the VCL, VA facilities?
 
 ### Hypothesis
