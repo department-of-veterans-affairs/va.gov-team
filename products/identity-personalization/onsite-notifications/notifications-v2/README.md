@@ -144,8 +144,8 @@ TBD
 
 - Define and document intake process with VANotify (potentially low lift)
 - Inventory existing notifications to figure out what onsite notification backlog looks like
-- Add 1 (maybe 2?) new onsite notifications
-- **VERY MVP** Notification center (might be a link off from My VA to a page not in the nav, but that would be the extent)
+- **Start**: Add 1 (maybe 2?) new onsite notifications
+   - A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
 
 Potentially also, if time:
 
