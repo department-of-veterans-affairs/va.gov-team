@@ -6,6 +6,13 @@ Our project is part of the Digital Health Modernization strategy, which aims to 
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
+### OCTO Objectives
+This research supports the following OCTO objectives: 
+
+1. Veterans can manage their health services online
+2. Veterans and their families can find a single, authoritative source of information
+3. Logged-in users have a personalized experience, with relevant and time-saving features
+
 ### Veteran Journey
 
 This research fits into these points of a Veteran's Journey:
@@ -15,7 +22,7 @@ This research fits into these points of a Veteran's Journey:
 - Retiring
 - Aging
 
-### Research Goals
+## Research Goals
 
 The goals of this study are to:
 
@@ -44,27 +51,27 @@ _Hypothesis 3:_ The safety message will help Veterans understand when to seek mo
 
 _Hypothesis 4:_ Veterans will value the links to 911, and the VCL. There will be mixed reactions on the VA facilities link.
 
-### Method
+## Method
 
 We will conduct moderated usability testing interviews in which we will ask users to navigate the prototype, observe their behavior, and ask follow-up prompts as needed.
 
-### Location
+**Location**
 
 Data collection will be remote. We will use Zoom.
 
-### Research materials
+**Research materials**
 
 Conversation guide (to be linked)
 
 Prototype to be tested (to be linked)
 
-### Recruitment
+## Recruitment
 
 **Recruitment approach**
 
 We will partner with Perigean to recruit Veterans.
 
-**Recruitment criteria**
+## Recruitment criteria
 
 We will schedule a total of 24 Veterans for an expected completion rate of 18-20 usability tests.
 
@@ -76,17 +83,6 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 - At least 12 participants who are desktop users
 - At least 12 participants over the age of 64
 - At least 6 participants with cognitive disabilities
-
-**Screening questions for recruitment**
-
-1. What type of device will you be using to connect to Zoom?
-  1. Desktop/Laptop
-  2. Smartphone
-    1. Android
-    2. iPhone
-2. Have you shared your screen on Zoom using this device before?
-3. Are you comfortable having your camera on during the session?
-4. Are you comfortable allowing observers into the session?
 
 **Secondary criteria (nice-to-haves)**
 
@@ -101,12 +97,22 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 - 2 Native participant
 - 2 LGBTQ+ participants
 
+### Screening questions for recruitment
+
+1. What type of device will you be using to connect to Zoom?
+  * Desktop/Laptop?
+  * Smartphone: Android or iPhone?
+  * Tablet: Android or iPad?
+2. Have you shared your screen on Zoom using this device before?
+3. Are you comfortable having your camera on during the session?
+4. Are you comfortable allowing observers into the session?
+
 ## Timeline
 
 ### Prepare
 - Pilots from 1/18 - 2/24/23, Emily Taylor, JB Walters
 
-### Research Sessions
+### Research sessions
 * Planned dates of **Jan 26 - Feb 2**
 
 ### Length of sessions
