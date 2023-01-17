@@ -12,27 +12,25 @@ ________________________________________________________________________________
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
    
 #### UX Sprint Goals 
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
-   - Validate implementation
-   - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
-   - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
-   - Hold Staging Review
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
     - [Complete accessibility testing & create new QA artifact(s) & QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)    
     - Schedule staging review 
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
+   - [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
+   - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
+   - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
+   - Schedule Staging Review
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
    - [Create Metrics to Measure Success & Monitor After Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52056)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
    - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
-   - Hold Staging Review
+   - Schedule Staging Review
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - Next steps????
 
 #### Engineering Sprint Goals
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
-   - Attend Staging Review
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
     - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
@@ -40,8 +38,10 @@ ________________________________________________________________________________
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
     - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
     - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
+   - [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - Attend Staging Review
+   - ??????
 - [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
    - ???????
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
