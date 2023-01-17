@@ -4,8 +4,8 @@
 
 ## Background
 
-- [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md).
--[Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
+- [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- [Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
 
 ## Background
 This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team.
@@ -180,18 +180,22 @@ TBD      | TBD EST
 TBD       | TBD EST
 
 
-Pilot Session: TBD | TBD EST 	
+
+
 
 ## Team Roles	
-	
-- Moderator: 	
-- Research guide writing and task development: Same as moderator
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Same as moderator
-- Participant(s) for pilot test:	TBD
-- Note-takers: 
-- Observers:  
-	
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+- Moderator:	
+- Research guide writing and task development (usually but not always same as moderator):	
+- Participant recruiting & screening:	
+- Project point of contact:	
+- Participant(s) for pilot test:
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Note-takers:	
+- Observers:	
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
 
 ## Resources	
 - Project Brief: TBD
