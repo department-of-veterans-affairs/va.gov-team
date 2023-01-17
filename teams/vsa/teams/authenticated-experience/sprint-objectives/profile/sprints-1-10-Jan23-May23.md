@@ -107,6 +107,12 @@ This is dependent on when these people are actually hired:
 
 - Inventory all instances in which we use the "We can't load all the information..." error #51902
 
+### Accessibility
+
+**Design - Liz**
+
+- Update Sketch files to show error alert for when Legal Name does not load correctly #52064
+
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
 ## Sprint 6 (3/15 - 3/28)
