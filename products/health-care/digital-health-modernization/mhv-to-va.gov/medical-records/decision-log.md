@@ -46,6 +46,20 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
+## Consider designing an experience that allows users to view,  print/download, and share immunizations.
+
+**Other approaches considered:**  We also considered having a print functionality (leaving the sharing and downloading to the proposed “Medcial Records” section of the IA/expereince). Sharing an individual immunization may be more of an edge case. However, we wanted to surface and explore the possibility of electronically sharing individual records as it may be more of use case for “labs and tests.” 
+
+**Pro:** In generative research: Viewing, sharing, downloading/printing functionality was desired. 
+
+**Pro:** Provides autonomy and ownership of the records to the user. 
+
+**Con:** The workflow to electronically share may be confusing to users. It may be overcomplicating the experience by over engineering/designing the workflow. Keeping in mind, there will always be a place to download and electronically share your medical records in this expereince.  
+
+**Con:** There may be policy issues with sharing indivdual records. 
+
+
+
 ## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
@@ -68,17 +82,6 @@ Please log key decisions related to the below practice areas, including date, wh
 |      |                   |                         |           |
 |      |                   |                         |           |
 
-## Consider designing an experience that allows users to view,  print/download, and share immunizations.
-
-**Other approaches considered:**  We also considered having a print functionality (leaving the sharing and downloading to the proposed “Medcial Records” section of the IA/expereince). Sharing an individual immunization may be more of an edge case. However, we wanted to surface and explore the possibility of electronically sharing individual records as it may be more of use case for “labs and tests.” 
-
-**Pro:** In generative research: Viewing, sharing, downloading/printing functionality was desired. 
-
-**Pro:** Provides autonomy and ownership of the records to the user. 
-
-**Con:** The workflow to electronically share may be confusing to users. It may be overcomplicating the experience by over engineering/designing the workflow. Keeping in mind, there will always be a place to download and electronically share your medical records in this expereince.  
-
-**Con:** There may be policy issues with sharing indivdual records. 
 
 ## Does the immunizations experience need both a print and download feature? 
 
