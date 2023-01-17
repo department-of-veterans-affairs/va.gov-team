@@ -425,6 +425,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 - [Link to initial UX audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Research/Household-UX-Audit.md)
 - [Initiative Brief: Measuing Success Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Household%20section%20redesign#measuring-success)
 - [2022 GA page data on this section, time on page for household section pages, exit rate by page]
+- [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - [Medalia feedback]
 
 
