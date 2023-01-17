@@ -93,6 +93,20 @@ To date, we've decided on "vaccines" on modernized pages mainly for simplicity. 
 Please also see Design intent IA ticket[https://github.com/department-of-veterans-affairs/va.gov-team/issues/51712]
 
 
+## Does the immunizations experience need both a print and download feature? 
+
+Note: The legacy MHV is a download first experience and there will always be a place to download your medical records in the reiamigined expereince.  
+
+**Considerations** 
+- What is the best UX/Accesbility considerations? 
+  - Will users know they can download from "Print"?
+  - From Brian DeConick (accesability expect):
+    - I mentioned this in the meeting, but I've confirmed that the Print > Save as PDF browser workflow does not result in an accessible PDF, even if the source material is fully accessible. I don't have a strong opinion on including both Download and Print or just Download, but I don't think Print alone is going to be a viable option if the intention is to allow users to download a PDF copy for their own records.
+
+Please see Accessibility design intent feedback [https://github.com/department-of-veterans-affairs/va.gov-team/issues/51727]
+
+- Why have a download and print button for similar results? 
+
 
 ## Research (How it tests)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
