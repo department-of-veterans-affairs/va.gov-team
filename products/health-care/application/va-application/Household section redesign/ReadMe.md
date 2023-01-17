@@ -51,8 +51,13 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2021 | 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |-------------- |
-|Household section exit rate |14.4%|12.6% |8% | TBD |TBD |
-
+|Total Apps started |173,669|  | | TBD |TBD |
+|Household section |14.4% (23,803)|12.6% |8% | TBD |TBD |
+|Financial Disclosure |% (1,464)|% ()|% () | TBD |TBD |
+|Spouse Info |%|% |% | TBD |TBD |
+|Dependent info |%|% |% | TBD |TBD |
+|Annual Income |% (40,791)|% |% | TBD |TBD |
+|Deductible Expenses |% (9,704)|% |% | TBD |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
