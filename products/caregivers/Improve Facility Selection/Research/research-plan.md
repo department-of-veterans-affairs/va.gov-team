@@ -3,16 +3,12 @@
 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
-
+- [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md).
+-[Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
 
 ## Background
-This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the 1010 team.
+This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team.
 
 During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
 1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
@@ -40,6 +36,12 @@ The goals of this user research are to:
 2. Determine whether or not this facility question makes it clear for the applicant to know how the information is used
 3. Determine whether or not this facility redesign resolves the confusion trends listed above
 
+
+
+Understanding of question being asked and HOW / WHY this information will be used. EX: Asking for primary health facility for the purpose of application routing only. 
+
+
+
 ### Outcome
 
 
@@ -62,12 +64,14 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
-**A/B/C comparrison usability and interview questions**
+**A/B/C usability and interview questions**
 
 This will be a focused study on only the facility question(s). The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
 
-A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Because the facility selection appears near the beginning of the flow, we will have the participant start at the beginning of the application, for context, and then complete specific tasks on the facility selection page, paying special attention to:
+A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide).
+
+
 - Where does the participant think that the pre-populated postal code came from?
 - Can they clear the text input field?
 - Do they know what to input in the text field?
@@ -75,7 +79,7 @@ A task-based usability study will be conducted remotely with Zoom using the Peri
 - When the distance is automatically raised (if no results within specified distance), is this clear to the participant?
 - Can users successfully navigate past a "no results" error?
 - Can users successfully load more facilities if return is greater than 5?
-- Can users work through an error upon file upload?
+
 
 Participants will be encouraged to talk through their exploration of the prototype.
 
@@ -88,7 +92,9 @@ We will be testing with a coded form in staging on desktop and mobile. Remote ob
 ### Location
 
 ### Research materials
-
+- [Conversation Guide]()
+- Designs
+- Testing (TBD if coded prototypes or UXPin will be used]
 
 ## Recruitment	
 
@@ -157,21 +163,16 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email:
 * Date and time of pilot session: 
 
+
 ### Research sessions
 * Planned dates of research:
 
+### Length of sessions
+* Session length: 45 minutes
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 4
 
-
-
---
-
-
-## When? 	
-Desired Timeline: TBD
-
-Session length: 45 minutes. Please leave 15 minutes in between each session
-
-Notetaking: TBD
+### Availability
 	
 Team Availability | Time (EST)
 ------------------|--------------
@@ -197,4 +198,4 @@ Pilot Session: TBD | TBD EST
 - Convo Guide: TBD
 - Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)	
 - Synthesis: TBD
-- Read-Out/Results: TBD
+- Research Findings: TBD
