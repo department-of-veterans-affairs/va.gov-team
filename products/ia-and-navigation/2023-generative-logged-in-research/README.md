@@ -39,7 +39,7 @@
 
 ## Overview
 
-While we've observed some high-level problems people have navigating the logged-in experience on VA.gov (eg. people are reliant on homepage or My VA links), we've never conducted more holistic research that evaluates navigating the logged-in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
+While we've observed some high-level problems people have navigating VA.gov's logged-in experience in various research studies (eg. people are reliant on homepage or My VA links), we've never conducted more research that is solely dedicated to this topic. This research effort aims to  do just that -- dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
 
 ## Problems
 
