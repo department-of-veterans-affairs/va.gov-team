@@ -43,17 +43,17 @@ _If yes_ Thank you. I'll admit them now.
 
 A few things I want to mention about how today's session:
 
-    - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the appointments feature and make it work better for everyone.
+   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the appointments feature and make it work better for everyone.
     
-    - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+   - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
     
-    - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+   - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
     
-    - We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a link on your device,and share your screen with us. 
+   - We’ll talk together in the beginning, and then we will move to a part where I’ll ask you to open a link on your device,and share your screen with us. 
     
-    - Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
+   - Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
     
-    - **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
+   - **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
 * Does that all make sense, and sound okay to you?
 * Great! Any questions before we continue?
 * Ok, I'm going to hit the record button now. 
@@ -80,10 +80,10 @@ Next, I want to get our tech set up.
 
 You will be interacting with a prototype on the web. In order to do that I'll need you to navigate to a link, then log in with a test user.
 
-    - I have a link to the tool I'll ask you to navigate using the screenreader. **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
-    - If another method, confirm their contact number/email address.
-    - Send user [Staging Link]() 
-    - Send user Login credentials
+   - I have a link to the tool I'll ask you to navigate using the screenreader. **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
+   - If another method, confirm their contact number/email address.
+   - Send user [Staging Link]() 
+   - Send user Login credentials
     
 - Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
@@ -94,7 +94,7 @@ You will be interacting with a prototype on the web. In order to do that I'll ne
 
 ### If they can't share their screen
 
-Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have you "drive" and verbally walk me through what you are doing. Does that should alright?
+Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have you "drive" and verbally walk me through what you are doing. Does that sound alright?
 
 
 ### If they can't share their audio
