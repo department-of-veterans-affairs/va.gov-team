@@ -7,6 +7,7 @@ ________________________________________________________________________________
 
 #### Planned Releases 
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
+- Simplified VA Header
 
 #### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
@@ -39,14 +40,16 @@ ________________________________________________________________________________
     - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
     - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
     - [Complete accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
+   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114)
+   -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
+   -  [Incorporate the 3 new fields]()
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - Get footer approved
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
     - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
     - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
-   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
-   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114)
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - ??????
 - [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
    - ???????
 - [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
