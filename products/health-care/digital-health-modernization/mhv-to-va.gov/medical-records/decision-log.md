@@ -80,19 +80,6 @@ Please log key decisions related to the below practice areas, including date, wh
 
 **Con:** There may be policy issues with sharing indivdual records. 
 
-## Does the VA have any stance on the terms Vaccines or Immunizations? 
-
-**Danielle Thierry (OCTO content and translation lead) stated in Slack:**
-
-To date, we've decided on "vaccines" on modernized pages mainly for simplicity. The Veterans Health Library and public health site both go with   "Vaccines and immunization," as do the WHO and others. Both terms have high search volume so there's definitely an element of recognition for both and we've discussed that in the past as a potential option. Our current IA tree test for the health apartment has "vaccines" so we should get some data around that and we can continue to test further. 
-
-**Pro:** “VA Vaccine” is consistent with the with VA Flagship Mobile app 
-
-**Recommendation:** Continue working with the content and IA team to determine the best approach 
-
-Please also see Design intent IA ticket[https://github.com/department-of-veterans-affairs/va.gov-team/issues/51712]
-
-
 ## Does the immunizations experience need both a print and download feature? 
 
 Note: The legacy MHV is a download first experience and there will always be a place to download your medical records in the reiamigined expereince.  
@@ -163,6 +150,20 @@ However, surfacing action items for users is one of the main takeaways from gene
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
+
+## Does the VA have any stance on the terms Vaccines or Immunizations? 
+
+**Danielle Thierry (OCTO content and translation lead) stated in Slack:**
+
+To date, we've decided on "vaccines" on modernized pages mainly for simplicity. The Veterans Health Library and public health site both go with   "Vaccines and immunization," as do the WHO and others. Both terms have high search volume so there's definitely an element of recognition for both and we've discussed that in the past as a potential option. Our current IA tree test for the health apartment has "vaccines" so we should get some data around that and we can continue to test further. 
+
+**Pro:** “VA Vaccine” is consistent with the with VA Flagship Mobile app 
+
+**Recommendation:** Continue working with the content and IA team to determine the best approach 
+
+Please also see Design intent IA ticket[https://github.com/department-of-veterans-affairs/va.gov-team/issues/51712]
+
+
 
 ## Engineering
 | Date | Decision Maker(s) | Description of Decision | Rationale |
