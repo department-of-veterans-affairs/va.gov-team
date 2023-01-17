@@ -145,20 +145,23 @@ TBD
 - Define and document intake process with VANotify (potentially low lift)
 - Inventory existing notifications to figure out what onsite notification backlog looks like
 - Add 1 (maybe 2?) new onsite notifications
+- **VERY MVP** Notification center (might be a link off from My VA to a page not in the nav, but that would be the extent)
 
 Potentially also, if time:
 
-- Update the notification design (Design done; needs FE build and collab cycle
 - Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
   - **Note**: We will need an extra designer to do this.
 
 #### Out of scope
 
-- Designing and building a notification center.
+- Adding a notification center to the navigation
+- Update the notification design (Design done; needs FE build and collab cycle
 
 ### Q2 CY2023
 
 #### In scope
+
+- Update the notification design (Design done; needs FE build and collab cycle
 
 #### Out of scope
 
