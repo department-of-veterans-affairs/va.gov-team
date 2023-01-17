@@ -17,6 +17,7 @@ ________________________________________________________________________________
     - [Complete accessibility testing & create new QA artifact(s) & QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)    
     - Schedule staging review 
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
+   - [Create wireframe to Move icon inside the card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52106)
    - [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
    - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
    - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
@@ -39,7 +40,8 @@ ________________________________________________________________________________
     - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
     - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
-   - [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
+   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
+   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - ??????
 - [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
