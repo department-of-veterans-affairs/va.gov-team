@@ -1053,7 +1053,7 @@ If you have a presumptive condition, you don’t need to prove that your service
 Here’s what you’ll need to apply: 
 
 **New evidence.** You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you.
-**Note:** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you don't need to provide evidence to prove that your service caused the condition.
+**Note:** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you don't need to submit evidence to prove that your service caused the condition.
 
 **The decision date of any issue you want us to review.** You can ask us to review more than 1 issue.
 
@@ -1100,17 +1100,17 @@ We'll save your application every time you add or update information.
 
 _Informational alert:_
 
-### Filing for a presumptive condition
+### If you have a presumptive condition
 
-If you are filing for a condition now considered presumptive under a new law or regulation (such as PACT Act), you can but do not need to include other types of new evidence.
+If you're filing a claim for a condition that we now consider presumptive under a new law or regulation (like the PACT Act), you don't need to submit new evidence. But you do need to review and acknowledge this notice of evidence needed. 
 
 **Review and acknowledge this notice of evidence needed.**
 
-You’ll need to submit new evidence we haven’t reviewed before that’s related to the issue you’re claiming.
+Unless you're filing a claim for a presumptive condition, you’ll need to submit new evidence. This evidence must be related to the issue you’re claiming, and it must be evidence we haven't reviewed before.
 
 We’ll look for evidence that shows both of these are true:
 
-You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), and
+You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), **and**
 
 An event, injury, or illness that happened while you were serving in the military caused this disability
 
@@ -1122,7 +1122,7 @@ You'll need to submit or give us permission to gather medical evidence from a VA
 
 **_CONTINUE_**
 
-_Error_: You need to certify that you have reviewed the notice of evidence needed.
+_Error_: You need to certify that you've reviewed the notice of evidence needed.
 
 ---
 
@@ -1132,11 +1132,11 @@ We'll save your application every time you add or update information.
 
 _Warning alert:_
 
-### You haven't added any evidence
+### You didn't submit any evidence
 
-Unless you are filing for a presumptive condition covered under by new law or regulations (such as PACT Act), filing a Supplemental Claim without evidence may result in an incomplete request. We will reach out to you if more information is required.
+Unless you're filing a claim for a presumptive condition, you’ll need to submit new evidence.
 
-Action Link: Add more evidence
+Action Link: Submit new evidence
 
 **_BACK_**
 
@@ -1190,19 +1190,17 @@ Yes, I choose to opt in to the new process / No, I choose to stay in the old pro
 
 **New and relevant evidence**
 
-Notice of Acknowledgment
+Notice of evidence needed
 
 Edit
 
 I certify that I have reviewed the notice of evidence needed.
 
-Yes, I certify
-
-Supporting evidence
+New evidence
 
 Edit
 
-No evidence is attached.
+I didn't submit any evidence.
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
