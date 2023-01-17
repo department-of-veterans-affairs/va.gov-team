@@ -90,7 +90,7 @@ To date, we've decided on "vaccines" on modernized pages mainly for simplicity. 
 
 **Recommendation:** Continue working with the content and IA team to determine the best approach 
 
-Please also see Design intent IA ticket here 
+Please also see Design intent IA ticket[https://github.com/department-of-veterans-affairs/va.gov-team/issues/51712]
 
 
 
