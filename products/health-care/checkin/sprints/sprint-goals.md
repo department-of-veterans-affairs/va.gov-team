@@ -27,9 +27,12 @@ ________________________________________________________________________________
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
    - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
+   - Design Council Review (scheduled for 1/20/23)
    - Schedule Staging Review
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-   - Next steps????
+   - [Complete wireframes for option 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51174)
+   - [Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52127)
+   - Do the presentation to Stephen & Patrick
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
