@@ -110,9 +110,16 @@ Perigean will recruit 12 total participants for this study.
 
 **Primary criteria**
 
--  5 participants that regularly use a screenreader.
+-  12 participants that regularly use a screenreader.
+  - A mix of advanced and beginner screenreader users.
  
- Screener Question: Do you use a screenreader to assist with webpage navigation?
+ Screener Question: 
+ 
+ - Do you use a screenreader to assist with webpage navigation? (Yes/No)
+    - If Yes: What type of screenreader do you use?
+ - Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
+ - What device will you use to join the session? (Open text input for answer)
+ 
 
 Timeline
 --------
