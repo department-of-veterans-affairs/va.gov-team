@@ -1,6 +1,6 @@
 # Project outline: Scaling onsite notifications (Onsite notifications V2)
 
-**Last updated: December 22, 2022**
+**Last updated: January 17, 2022**
 
 ### Communications
 
@@ -138,18 +138,29 @@ TBD
 
 ## Solution approach
 
-### In scope
+### Q1 CY2023
 
-**Tentative scope**
+#### In scope
 
 - Define and document intake process with VANotify (potentially low lift)
 - Inventory existing notifications to figure out what onsite notification backlog looks like
 - Add 1 (maybe 2?) new onsite notifications
-- Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
 
-### Out of scope
+Potentially also, if time:
+
+- Update the notification design (Design done; needs FE build and collab cycle
+- Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
+  - **Note**: We will need an extra designer to do this.
+
+#### Out of scope
 
 - Designing and building a notification center.
+
+### Q2 CY2023
+
+#### In scope
+
+#### Out of scope
 
 ## Key deliverables
 
