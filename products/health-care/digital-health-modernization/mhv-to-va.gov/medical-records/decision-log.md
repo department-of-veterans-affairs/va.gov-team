@@ -107,6 +107,12 @@ Please see Accessibility design intent feedback [https://github.com/department-o
 
 - Why have a download and print button for similar results? 
 
+## Consider flagging “due” vaccines and make it easy to the user to schedule an appointment for a vaccine. 
+
+Further exploration is needed for the technical feesability of this as well as how we might make it easier to schedule vaccine appaointment. 
+
+However, surfacing action items for users is one of the main takeaways from generative research. 
+
 
 ## Research (How it tests)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
