@@ -1,9 +1,8 @@
 # Conversation guide for Authenticated Experience, Profile Notification Settings, Adding email as a channel
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-- [ ] Confirm note taker and assistive tech support availability
-- [ ] Let Notetaker know if anything has changed in the conversation guide
+- [ ] Confirm notetaker and assistive tech support availability
+- [ ] Let notetaker know if anything has changed in the conversation guide
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -51,7 +50,11 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## First Task: Review first prototype  - 5 minutes / 10 minutes with assistive tech
-I’m going to send you a link to a prototype, and I’d like to get your feedback on it:
+Great! Let’s go ahead and get started looking at the prototype. I’m going to have you share your screen.
+
+*Provide guidance on screen sharing if needed*
+
+Now, I’m going to send you a link to a prototype in the chat, and I’d like to get your feedback on it:
 	- **Facilitator: Alternate which prototype you start with**
 		- If starting with read/edit mode, use this link: [https://codepen.io/surfbird/full/PoBpwzO](https://codepen.io/surfbird/full/PoBpwzO)
 		- If starting with autosave mode, use this link: [https://codepen.io/surfbird/full/gOjmPyj](https://codepen.io/surfbird/full/gOjmPyj)
@@ -59,10 +62,9 @@ I’m going to send you a link to a prototype, and I’d like to get your feedba
 Talk to me about what you can do here. Don’t click on anything just yet, please.
 - What questions come up for you as you look at this page?
 - **If needed:** is anything confusing or unclear?
-- How would you update the settings if you didn’t want to get notifications?
-- And if you did want to get notifications? 
+- Show me how you would update your notifications settings from this page.
 - How do you feel about the amount of information you have for each notification? 
-	- Do you need any other information in order to make a decision about updating a notification setting?
+- Do you need any other information in order to make a decision about updating a notification setting?
 
 ### Things to watch for:
 - Does the participant understand the different notification items, and channels available to them?
@@ -87,28 +89,31 @@ Thanks for doing that, it’s so helpful for us to be able to hear your thoughts
 
 	- Facilitator: Share prototype link you did not use before	
 	- If second prototype is read/edit mode, use this link: [https://codepen.io/surfbird/full/dyjvybr](https://codepen.io/surfbird/full/dyjvybr)
-	- If second prototype is autosave, use this link: [https://codepen.io/surfbird/full/vYaxzMW](https://codepen.io/moose62712/full/mdjOGga)
+	- If second prototype is autosave, use this link: [https://codepen.io/surfbird/full/vYaxzMW](https://codepen.io/surfbird/full/vYaxzMW)
 
 Take a look at this page.  What do you notice that is different from the other view we looked at?
-- What questions come up for you as you review this?
--  How do you feel about the level of information you have for each notification on this version of the page? 
-	- Do you need any other information in order to make a decision about updating a notification setting?
-- Does one approach feel easier than the other?
-- Is anything unclear or confusing?
-- - **For autosave**: What comments do they make about the lack of a save button?
 
-### Things to watch for:
-- What is the participant’s reaction to this approach, vs the first one?
+- What questions come up for you as you review this?
+- **If needed:** is anything confusing or unclear?
+- Show me how you would update your notification settings with this approach.
+-  How do you feel about the level of information you have for each notification on this version of the page? 
+- Do you need any other information in order to make a decision about updating a notification setting?
+
+### Things to watch for
 - What questions do they ask? 
 - What is their reaction to the level of information presented?
+- **For autosave**: What comments do they make about the lack of a save button?
 
 ## Post-Task Interview - up to 10 minutes
 That’s everything I wanted to review with you- thank you so much for your feedback. 
+- We reviewed two different ways to update notification settings today. Does one approach work better for you than the other?
 - Do you have any other thoughts you’d like to share that you haven’t had a chance to talk about yet?
 - Any questions for me?
 
-## Thank-You and Closing - 2 minutes
+### Things to watch for:
+- What is the participant’s reaction to this approach, vs the first one?
 
+## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
