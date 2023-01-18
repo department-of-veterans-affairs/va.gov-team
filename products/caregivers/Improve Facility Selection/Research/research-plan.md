@@ -10,7 +10,7 @@
 This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team.
 
 During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
-1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
+1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff and not all possible locations)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
@@ -22,6 +22,8 @@ We have redesigned the facilities question to address the problem and this resea
 ### OCTO Objectives 
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+
+
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
@@ -36,7 +38,7 @@ Are there moments that matter?
 The goals of this user research are to:
 
 1. Determine what variation is the most understandable  
-2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used 
+2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process 
 3. Determine how applicants would prefer to search for and select a facility
 
 
@@ -60,6 +62,8 @@ Goal 2: Understand how information is used variation
 
 Goal 3: Search and selection process
 - Are users able to navigate through the facility selection without difficulty?
+- Can they clear the text input field?
+- Do they know what to input in the text field?
 - Can users easily use the search input and understand what choices are populated from that search?
 - Can users easily narrow their search or pick a location from multiple pages of options?
 - Is it clear on to reselect a facility if one is selected in error?
@@ -75,35 +79,8 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
-
-**A/B/C usability and interview questions**
-
-
-****
-We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
-****
-
-
-
-
-
+**A/B/C usability task analysis and interview questions**
 This will be a focused study on only the facility question(s). The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
-
-
-A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide).
-
-- Can they clear the text input field?
-- Do they know what to input in the text field?
-- Can they successfully filter by distance?
-- When the distance is automatically raised (if no results within specified distance), is this clear to the participant?
-- Can users successfully navigate past a "no results" error?
-- Can users successfully load more facilities if return is greater than 5?
-
-
-Participants will be encouraged to talk through their exploration of the prototype.
-
-
-
 
 
 ### Location
@@ -123,7 +100,7 @@ A remote task-based usability/moderated interview study will be conducted remote
 
 
 ### Recruitment approach
-We would like to work with Perigean to recruit for 8-10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
+We would like to work with Perigean to recruit for 10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
 
 
 ### Recruitment criteria
