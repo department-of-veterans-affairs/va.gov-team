@@ -38,19 +38,19 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. Health care hub page and left nav - www.va.gov/health-care/ - ADD LINK
+**1) Health care hub page and left nav - www.va.gov/health-care/ - ADD LINK**
   - Placement description: Add link to FMP static page within the "Get benefits" spoke, place after "After you apply" and before "Family and caregiver benefits"
   - Link label: TBD by Sitewide content
   - Link destination: www.va.gov/health-care/foreign-medical-program
   - Notes: link and teaser text
 
-2. Health care hub page and left nav- www.va.gov/health-care/ - ADD LINK
+**2) Health care hub page and left nav- www.va.gov/health-care/ - ADD LINK**
   - Placement description: Add link to File an FMP claim static page within the "Manage benefits" spoke, place after "Get reimbursed for travel page" and before "Get medical records"
   - Link label: TBD by Sitewide content
   - Link destination: www.va.gov/health-care/file-foreign-medical-claim
   - Notes: link and teaser text; the links in the "Manage benefits" section need to be rearranged to best accomodate this new option, see details below
 
-3. Health care hub "Manage benefits" section - MODIFY ORDER OF LINKS
+**3) Health care hub "Manage benefits" section - MODIFY ORDER OF LINKS**
   - Here is order of links for hub page (these are not accurate labels, just representing order)
     - Refill prescriptions
     - Secure messaging
