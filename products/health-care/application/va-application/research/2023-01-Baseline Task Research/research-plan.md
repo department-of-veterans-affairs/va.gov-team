@@ -82,7 +82,7 @@ Remote: Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/Conversation%20Guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/conversation-guide.md)
 - [Task wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
 - [Task list and metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/tasks-metrics.md)
 - [Link to staging](https://staging.va.gov/health-care/apply/application/introduction)
@@ -266,7 +266,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 January 2023
 
 * Kickoff call requested
-* Preferred date/time: January 17, 2023 at 1pm EST
+* Preferred date/time: January 20, 2023 at 12pm EST
 
 
 
@@ -279,7 +279,7 @@ We will be testing what is currently approved in the staging environment.
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **January 24 - February 2, 2023**
+* Planned dates of research: **January 25 - February 6, 2023**
 
 ### Length of sessions
 * Session length: 1 hour 
@@ -291,14 +291,15 @@ We will be testing what is currently approved in the staging environment.
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| January 23, 2023      | 3pm - 8pm     |
-| January 24, 2023      | 12pm - 8pm    |
 | January 25, 2023      | 1pm - 8pm     |
 | January 26, 2023      | 1pm - 8pm     |
 | January 27, 2023      | 1pm - 4pm     |
-| January 30, 2023      | 12pm - 4pm     |
+| January 30, 2023      | 12pm - 4pm    |
 | January 31, 2023      | 1pm - 4pm     |
-| February 1, 2023      | 1pm - 4pm     |
+| February 1, 2023      | 11am - 4pm    |
+| February 2, 2023      | 11am - 4pm    |
+| February 3, 2023      | 12pm - 4pm    |
+| February 6, 2023      | 12pm - 4pm    |
 
 
 	
