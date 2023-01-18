@@ -65,7 +65,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |------|-------------------|-------------------------|-----------|
 |    12/21/22  |      Jonathan Nelson  |   H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered)  |   
 |   12/21/22   |      Jonathan Nelson     |    Print functionality from the vaccine list view - Setting off a workflow to print one, some, or all of vaccines   |    It is important for users to download/print records for their own records (please see bellow for print and download discussion)|
-|    12/21/22  |       Jonathan Nelson            |        Surface Vaccine name and date of vaccine on list view with a link to "view details" - additionally,  this is similar to the Secure Messaging designs  and the Flagship mobile app  |  Surfacing the most relevant information will make the list scannable and  help Veterans find information quickly and efficiently.|
+|    12/21/22  |       Jonathan Nelson            |        Surface Vaccine name and date of vaccine on list view with a link to "view details" -   |  Surfacing the most relevant information will make the list scannable and help Veterans find information quickly and efficiently. Additionally,  this is similar to the Secure Messaging designs  and the Flagship mobile app|
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
