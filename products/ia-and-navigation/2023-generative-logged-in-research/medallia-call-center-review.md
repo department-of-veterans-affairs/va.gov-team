@@ -29,6 +29,10 @@
 - Pull data based on existing call center categories.
 - From there, do manual keyword analysis of feedback.
 
+### Findings
+
+- Create Github document with findings and recommendations in the 2023-generative-loggedin-research folder.
+
 ## Questions to answer
 
 **During what time period should we be pulling analytics?**
