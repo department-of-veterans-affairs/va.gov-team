@@ -88,7 +88,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
 
 ### Required criteria 
 - ALL don't have VA health care
-- ALL don't receive VA disability compensation for a service-connected disability rating of 50% or higher? 
+- ALL don't receive VA disability compensation for a service-connected disability rating of 50% or higher
 - ALL plan to use their smartphone for the session 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
