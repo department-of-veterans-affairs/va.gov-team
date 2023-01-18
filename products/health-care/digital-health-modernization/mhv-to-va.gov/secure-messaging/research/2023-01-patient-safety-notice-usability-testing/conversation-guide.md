@@ -134,7 +134,7 @@ Thank you for completing that. I have some follow up questions.
 
 - On a scale from 1 to 5 where 1 is very dissatisfied, 2 is moderately dissatisfied, 3 is neutral, 4 is moderately satisfied, and 5 is very satisfied, please rate the experience of reaching this page from the inbox. How did you decide on that score?
 - How do you feel about that page that we saw before this one, the one with Only use messages for non-urgent needs? What makes you say that?
-- Did you feel any confusion about seeing that page when you selected "Start a new message"? What makes you say that?
+- On a scale from 1 to 5 where 1 is very confusing, 2 is confusing, 3 is neutral, 4 is not really confusing, 5 is not at all confusing please rate your feelings about seeing that page when you selected "Start a new message"? How did you decide on that score?
 - How would you describe the purpose of that page?
 
 Thank you. Please scroll down and click "Send."
@@ -149,7 +149,7 @@ Thank you. Please scroll down and click "Send."
 
 We are going to spend some time on this screen.
 
-I will be asking you to share your understanding of the content on this page. I want you to remember that we aren't testing you, so if you are not sure, please let us know. Our goal is to make sure this page is understandable by Veterans who use secure messaging so your honest input today, whether positive or negative, will help us do that.
+Today we are testing whether the content of this page is clear. We are not testing you or your understanding. If something you see on this page is not clear, please say so, because it gives us the opportunity to improve the content for other Veterans like you.
 
 What questions can I answer before we get started?
 
@@ -170,7 +170,7 @@ If you would like to look at the other version, you can click on the word "don't
 The next line says If you think your life or health is in danger, call 911 or go to the nearest emergency room.
 
 - What do you think is meant by "life or health is in danger"?
-- Can you share an example of that?
+- Can you share an example of a time when someone’s life or health is in danger?
 - What do you think would happen if you clicked on that link that says, "Call 911"? What makes you say that?
 - Do you think this statement and link is valuable? What makes you say that?
 
@@ -181,7 +181,7 @@ Thank you. Let's move on to the next line.
 This one says, "If you feel hopeless and need to talk to someone right now, our Veterans Crisis Line offers confidential support anytime day or night."
 
 - What do you think is meant by "If you feel hopeless"
-- Can you share an example of that?
+- Can you share an example of someone feeling hopeless?
 - What do you think would happen if you clicked on that link that says, "Connect with the Veterans Crisis Line"? What makes you say that?
 
 Go ahead and click the link.
@@ -204,11 +204,8 @@ _[If no]: Thank you for letting me know. We can skip this part._
 
 _[If yes]:_
 
-- Person 1 feels overwhelmed with grief after losing their spouse. Should they send a message or connect with the Veterans Crisis Line?
-- Person 2 hasn't slept a solid night after leaving active service and doesn't leave their house. Should they send a message or connect with the Veterans Crisis Line?
-- Person 3 is angry that they were left on hold for 20 minutes with the help desk only to be told they had to call a different number. Should they send a message or connect with the Veterans Crisis Line?
-- Person 4 has lost interest in all that they love to do and nothing they do to try to relieve their emotional pain seems to help. Should they send a message or connect with the Veterans Crisis Line?
-- Person 5 struggles with anxiety and constantly worries that they will lose their new job. Should they send a message or connect with the Veterans Crisis Line?
+- Person 1 is angry that they were left on hold for 20 minutes with the help desk only to be told they had to call a different number. Should they send a message or connect with the Veterans Crisis Line?
+- Person 2 has lost interest in all that they love to do and nothing they do to try to relieve their emotional pain seems to help. Should they send a message or connect with the Veterans Crisis Line?
 
 Thank you for those answers.
 
@@ -223,16 +220,12 @@ Thank you for those answers.
 Let's look at the next line. This one says, "If you have an urgent question for your VA care team, call your VA health facility."
 
 - What do you think is meant by "If you have an urgent question"?
-- Can you share an example of that?
+- Can you share an example of an urgent question?
 - Do you think this statement and link is valuable? What makes you say that?
 
 I would like to share some situations like we did earlier, but these are medical. I am going to say them as if I were seeking your advice about whether I should use secure messaging. If you think I should use secure messaging, say yes. If not, say no.
 
 - I need to cancel an appointment scheduled for tomorrow.
-- I need help getting reimbursed for traveling to a community provider.
-- I have a rash on my neck that developed since starting a new medication yesterday.
-- My prescription has no refills and I have only a week's worth of doses left.
-- I found a lump on my neck.
 - I have outpatient surgery coming up in a few weeks and they want me to stop taking fish oil, but I forgot when to stop.
 
 If I were to use secure messaging, when should I expect a response? What makes you say that?
