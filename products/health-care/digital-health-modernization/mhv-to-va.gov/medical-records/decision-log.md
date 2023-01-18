@@ -64,7 +64,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |    12/21/22  |      Jonathan Nelson  |   H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered)  |   
-|      |                   |                         |           |
+|   12/21/22   |      Jonathan Nelson     |    Print functionality from the vaccine list view - Setting off a workflow to print one, some, or all of vaccines   |    It is important for users to download/print records for their own records (please see bellow for print and download discussion)|
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
