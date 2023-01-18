@@ -9,6 +9,9 @@ We’re aware of some high-level problems people have navigating the logged in e
 This research review is the first of 7 research activities we’ll do to dive deeper into users’ problems with and expectations around navigating VA.gov once they’re signed in.
 
 ## Research questions and findings
+
+[Initial list of research review goals and questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/research-review-goals-questions.md)
+
 ### Signing in to VA.gov
 The majority of the studies we looked at didn’t include findings around signing in to VA.gov that are relevant to this research (mentions of sign-in were usually around the actual sign in process, which isn’t in scope). Signing in came up in all 3 homepage research studies, but it would be helpful to get more information about this topic.
 
