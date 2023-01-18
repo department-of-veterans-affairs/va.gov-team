@@ -24,6 +24,11 @@
 - Where do I go?
 - (Common search terms in GA?)
 
+### Call center
+
+- Pull data based on existing call center categories.
+- From there, do manual keyword analysis of feedback.
+
 ## Questions to answer
 
 **During what time period should we be pulling analytics?**
