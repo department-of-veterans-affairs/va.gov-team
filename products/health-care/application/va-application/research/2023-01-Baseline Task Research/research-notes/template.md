@@ -4,11 +4,11 @@
 
 
 **Participant questions:**
-> - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? Why did you give it that rating?
 
 - 
 
-> - Can you tell us more about what you would have to do in preparation for filling out this application?
+- Can you tell us more about what you would have to do in preparation for filling out this application?
 
 
 
