@@ -14,9 +14,11 @@ Immunizations represent vaccines obtained during service and after service.
 
 [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
 
-Sketch files: Wire flow and low-fi screens (to link)
+Sketch files: [Wire flow](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/v84qOV8) and [low-fi screens](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/KvJb521)
 
-[Use cases and user flows (old - see Sketch files for updated versions)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
+[Use cases, potental IA and user flows (will need updating)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
+
+[Flow](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/09RJq32) 
 
 [Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
 
