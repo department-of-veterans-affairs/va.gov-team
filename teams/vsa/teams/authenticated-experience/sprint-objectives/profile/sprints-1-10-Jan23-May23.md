@@ -113,6 +113,10 @@ This is dependent on when these people are actually hired:
 
 - Update Sketch files to show error alert for when Legal Name does not load correctly #52064
 
+**FE - Adam**
+
+- Determine tasks needed to complete 508 issue #19618 (Semantic Lists) #37041
+
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
 ## Sprint 6 (3/15 - 3/28)
