@@ -123,7 +123,7 @@ See [Onsite Notification Technical Overview](https://github.com/department-of-ve
 
 Currently, there is only one notification to test (2022). In the future, there may be multiple notifications that need to be tested in different ways. 
 
-- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#how-to-test).
+- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#how-to-test).
 
 ## Frontend
 
