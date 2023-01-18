@@ -29,29 +29,41 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 Are there moments that matter? 
 
 
+
+
+
 ## Research Goals	
 
 The goals of this user research are to:
-1. Determine whether or not this facility question is understandable 
-2. Determine whether or not this facility question makes it clear for the applicant to know how the information is used
-3. Determine whether or not this facility redesign resolves the confusion trends listed above
 
-
-
-Understanding of question being asked and HOW / WHY this information will be used. EX: Asking for primary health facility for the purpose of application routing only. 
-
+1. Determine what variation is the most understandable  
+2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used 
+3. Determine how applicants would prefer to search for and select a facility
 
 
 ### Outcome
 
+The outcome of this study will help aid 
+
 
 ### Research questions
 
-1. Are users able to navigate through facility selection without difficulty?
-2. Do users understand what they are selecting?
-3. Do users understand how the postal code was pre-populated?
-4. Can users easily change the text input and understand what choices are populated from that search?
-5. Do users understand "no facility found" error and can easily work through it?
+Goal 1: Understand question being asked variation
+- Which variation (a, b or c) is easiest to understand and answer with little difficulty?
+- Which variation (a, b or c) results is the least amount of clarifying questions or information needed to complete?     
+
+
+Goal 2: Understand how information is used variation
+- Which variation (a, b or c) is easiest to understand what they are selecting and how it impacts the caregiver application process?
+- Do users understand the variations containing a confirmation screen after selection?
+
+
+
+Goal 3: Search and selection process
+- Are users able to navigate through the facility selection without difficulty?
+- Can users easily use the search input and understand what choices are populated from that search?
+- Can users easily narrow their search or pick a location from multiple pages of options?
+- Is it clear on to reselect a facility if one is selected in error?
 
 
 
@@ -64,15 +76,23 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
+
 **A/B/C usability and interview questions**
+
+
+****
+We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
+****
+
+
+
+
 
 This will be a focused study on only the facility question(s). The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
 
 A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide).
 
-
-- Where does the participant think that the pre-populated postal code came from?
 - Can they clear the text input field?
 - Do they know what to input in the text field?
 - Can they successfully filter by distance?
@@ -85,20 +105,21 @@ Participants will be encouraged to talk through their exploration of the prototy
 
 
 
-****
-We will be testing with a coded form in staging on desktop and mobile. Remote observers and note takers will be in attendance.
-****
+
 
 ### Location
 
+A remote task-based usability/moderated interview study will be conducted remotely with Zoom using the Perigean contract. 
+
+
+
 ### Research materials
 - [Conversation Guide]()
-- Designs
+- Designs: [Variation A](), [Variation B](), [Variation C]()
 - Testing (TBD if coded prototypes or UXPin will be used]
 
+
 ## Recruitment	
-
-
 
 
 
@@ -109,11 +130,13 @@ We would like to work with Perigean to recruit for 8-10 fulfilled remote session
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |          8-10    |6       |  2          |   7      |               | 
+|      15       |            10    |6       |  2          |   7      |               | 
 
 
 
 **Primary criteria (must-haves)**
+
+
 
 
 **Secondary criteria (nice-to-haves)**
@@ -184,16 +207,16 @@ TBD       | TBD EST
 
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: Jessica Stump (jessica.stump@adhocteam.us) 
+- Research guide writing and task development: Moderator	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Moderator
+- Participant(s) for pilot test: 
+- Note-takers: Perigean, 1010 Team
+- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+
+
+> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
 
 
