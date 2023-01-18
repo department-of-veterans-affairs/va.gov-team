@@ -66,7 +66,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |    12/21/22  |      Jonathan Nelson  |   H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered)  |   
 |   12/21/22   |      Jonathan Nelson     |    Print functionality from the vaccine list view - Setting off a workflow to print one, some, or all of vaccines   |    It is important for users to download/print records for their own records (please see bellow for print and download discussion)|
 |    12/21/22  |       Jonathan Nelson            |        Surface Vaccine name and date of vaccine on list view with a link to "view details" -   |  Surfacing the most relevant information will make the list scannable and help Veterans find information quickly and efficiently. Additionally,  this is similar to the Secure Messaging designs  and the Flagship mobile app|
-|   12/21/22   |       Jonathan Nelson            |           The hierarchy and content of the immunization detail page follows the Flagship Mobile App for consistency.   |     Users should have a similar experience (when possible) across the mobile app and website  |
+|   12/21/22   |       Jonathan Nelson            |           The hierarchy and content of the immunization detail page follows the Flagship Mobile App for consistency.   |     Users should have a similar experience (when possible) across the mobile app and website ("dosage" is coming from Lighthouse API - Unknown if we get from doage from PHR API  |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
@@ -103,7 +103,7 @@ Further exploration is needed for the technical feesability of this as well as h
 
 However, surfacing action items for users is one of the main takeaways from generative research. 
 
-## The hierarchy of the immunization detail page follows the Flagship Mobile App for consistency. 
+## The hierarchy of the immunization detail page and data displayed follows the Flagship Mobile App for consistency. 
 
 **Work with engineers to align on where the data is coming from and how that maps to the data displayed on the page**
 
