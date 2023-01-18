@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks (Round 1), January 2023
+# Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks (Round 1), January 2023
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing. 
