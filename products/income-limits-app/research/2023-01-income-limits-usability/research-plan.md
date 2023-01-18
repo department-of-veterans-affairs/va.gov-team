@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, Income Limits App, January 2023
+# Research Plan for Usability Testing, Income Limits App, February 2023
 
 ## Background
 An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
@@ -49,13 +49,28 @@ There are many potential touchpoints between the Veteran and this application th
 The purpose of this research is to **get user feedback on the newly redesigned income limits application**.
 
 ### Outcome
-Learnings will help iterate the design of the application.
+Learnings will help refine the design of the application.
 
 ### Research questions
-- Are participants 
+1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
+2. Do Veterans understand the questions in the app? Is anything unclear or confusing?
+3. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
+4. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
+5. How far do Veterans scroll down the app results page?
+6. Do Veterans understand deductions and how that affects their income? (Did they see the details below all the income thresholds?)
+7. After seeing the information presented in the app results page, what do Veterans want to do next? 
+8. Do Veterans understand the relevant year of income for their eligibility? 
+9. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it being part of the flow? *(if it is like that in the prototype)*
+10. Do Veterans expect a summary page for data entered?
+11. How do Veterans expect to "wayfind" to this app?
 
 ### Hypotheses
-- 
+1. Veterans will be able to answer the questions in the app for themselves.
+2. From the information presented in the app results page, Veterans will understand that the different income thresholds affect the health care benefits they might qualify for.
+3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
+4. After seeing the confirmation page with information entered, Veterans will have confidence in the accuracy of the results page.
+5. Veterans understand the difference between benefit year and income year. (Wes)
+6. Veterans understand that thresholds in the app are not final answers, and only by applying can they learn what benefits they're eligible for.
 
 ## Method	
 We will conduct **usability testing** to guide Veterans through a click-through prototype. 
@@ -66,178 +81,6 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - [Link to conversation guide]()
 	
 ## Recruitment--LIST REQUIRED CRITERIA AND REMOVE TABLE!
-### Recruitment criteria
-
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       15      |         12       |    12  |     0        |    0     |        0      | 
-
-### Criteria Table
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
-|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
-|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    10      |        |        |        |        |        |        |        |        |        |         |
-|Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |    5       |        |        |        |        |        |        |        |        |        |         |
-|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    2       |        |        |        |        |        |        |        |        |        |         |
-|Gay             |            |        |        |        |        |        |        |        |        |        |         |
-|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
-|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
-|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
-|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
-|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
-|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
-|Queer           |            |        |        |        |        |        |        |        |        |        |         |
-|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       | 15         |        |        |        |        |        |        |        |        |        |         |
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       | 10         |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |      5     |        |        |        |        |        |        |        |        |        |         |
-|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
-|Disability      |            |        |        |        |        |        |        |        |        |        |         |
-|Education       |            |        |        |        |        |        |        |        |        |        |         |    
-|Employment      |            |        |        |        |        |        |        |        |        |        |         |
-|Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |     10     |        |        |        |        |        |        |        |        |        |         |
-|Housing         |            |        |        |        |        |        |        |        |        |        |         |
-|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
-|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
-|Pension         |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
-|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
-|Army            |            |        |        |        |        |        |        |        |        |        |         |
-|Navy            |            |        |        |        |        |        |        |        |        |        |         |
-|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
-|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
-|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
-|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
-|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |     15     |        |        |        |        |        |        |        |        |        |         |
-|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
-|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |            |        |        |        |        |        |        |        |        |        |         |
-|High School     |            |        |        |        |        |        |        |        |        |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
-|Professional    |            |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      10    |        |        |        |        |        |        |        |        |        |         |
-|Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |      5     |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |            |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
-
----
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
-
----
-
-|                                                             |Participants| 
-|-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |      0     | 
-|*Various*                                                    |            |
-|Font resizing/larger                                         |            |
-|Screen reader                                                |            |
-|Braille terminal                                             |            |
-|Speech recognition sftw                                      |            |
-|Speech generating device                                     |            |
-|Speech to text                                               |            |
-|High contrast mode                                           |            |
-|Alternative keyboard                                         |            |
-|Alternative mouse or stylus                                  |            |
-|Keyboard only navigation (no mouse usage)                    |            |
-|Switch access, head pointer, or eye tracking                 |            |
-|Joystick                                                     |            |
-|Teletypewriter or telecommunication device for the deaf (TTY)|            |
-|Closed captions                                              |            |
-|Amplified telephone                                          |            |
-|Hearing aid                                                  |            |
-|Cochlear implant                                             |            |
-|Cane, walker, guide animal, or other walking aid             |            |
-|Wheelchair                                                   |            |
-|Prosthetics                                                  |            |
-|Wearable tech (not prosthetic)                               |            |
-|Augmentive and alternative communication device              |            |
-|Sign language interpreter                                    |            |
-|Speech-to-speech transliterator                              |            |
-|Visual aids                                                  |            |
-|Writing on paper                                             |            |
-|Typing with phone or tablet and showing it to others         |            |
-|Caregiver                                                    |            |
-|                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     3      |
-|*Various*                                                    |            |
-|Traumatic Brain Injury (TBI)                                 |            |
-|Post-Traumatic Stress Disorder (PTSD)                        |            |
-|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
-|Autism                                                       |            |
-|Vertigo                                                      |            |
-|Aphasia                                                      |            |
-|Dyslexia                                                     |            |
-|Dyscalculia                                                  |            |
-|Distractibility                                              |            |
-|Memory loss                                                  |            |
-|Reading difficulties                                         |            |
-|Low tolerance for cognitive overload                         |            |
-       
 
 ### Screener
 #### Overview
