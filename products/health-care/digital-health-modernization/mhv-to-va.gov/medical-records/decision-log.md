@@ -97,6 +97,8 @@ Please see Accessibility design intent feedback [https://github.com/department-o
 
 - Why have a download and print button for similar results? 
 
+**Recomendation**
+
 -  Because we are not having a “share” functionality wihin this flow - And based on accessbility feedback - we should strongly consider a download and print button/functionality  
 
 ## Consider flagging “due” vaccines and make it easy to the user to schedule an appointment for a vaccine. 
