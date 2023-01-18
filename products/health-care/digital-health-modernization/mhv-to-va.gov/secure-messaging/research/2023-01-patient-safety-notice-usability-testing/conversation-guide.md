@@ -132,7 +132,6 @@ _[When participant reaches "Compose message" page]:_ Stop.
 
 Thank you for completing that. I have some follow up questions.
 
-- On a scale from 1 to 5 where 1 is very dissatisfied, 2 is moderately dissatisfied, 3 is neutral, 4 is moderately satisfied, and 5 is very satisfied, please rate the experience of reaching this page from the inbox. How did you decide on that score?
 - How do you feel about that page that we saw before this one, the one with Only use messages for non-urgent needs? What makes you say that?
 - On a scale from 1 to 5 where 1 is very confusing, 2 is confusing, 3 is neutral, 4 is not really confusing, 5 is not at all confusing please rate your feelings about seeing that page when you selected "Start a new message"? How did you decide on that score?
 - How would you describe the purpose of that page?
