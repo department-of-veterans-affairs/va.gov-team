@@ -63,7 +63,7 @@ Only one study had insights into this question: the homepage redesign usability 
 
 
 #### What tasks do people come to complete?
-The  [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#health-care-and-disability-benefits-are-king) calls out health and disability tasks, seeing information about active benefits and downloading or looking for documents  as top tasks. Those findings were based on analytics and research conducted prior to that 202 study. 
+The  [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#health-care-and-disability-benefits-are-king) calls out health and disability tasks, seeing information about active benefits and downloading or looking for documents  as top tasks. Those findings were based on analytics and research conducted prior to that 2020 study. 
 
 Only one of the other studies reviewed included findings with qualitative data about people’s intentions on VA.gov - the rest had pre-determined tasks.  The Digital Health Modernization Generative Research Study 1 called out that participants used and valued the top 4 tools on My HealtheVet: pharmacy, appointments, messaging, and records ([Insight 6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-6-the-mhv-homepage-tools-reflect-users-top-health-care-tasks)).
 	
