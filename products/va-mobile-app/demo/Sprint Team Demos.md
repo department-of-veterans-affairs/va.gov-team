@@ -1,6 +1,13 @@
 # Sprint Team Demo
 
 
+**Demo Sprint 59 1/19/22**
+
+- Demo Topic(s)
+ - WIP Nav Changes (Kelly L)
+ - Staging endpoint status (Kelly L)
+ -  Intro to OKRs (Matt)
+
 **Demo Sprint 59 12/8/22**
 
 - Demo Topic(s)
