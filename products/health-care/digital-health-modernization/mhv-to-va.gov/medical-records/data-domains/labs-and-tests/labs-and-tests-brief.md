@@ -102,6 +102,12 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 <hr>
 
+### Data Type: - VA Medical Images (for actual images) and Reports 
+- *Note: images do not appear in Blue Button report, but can be requested for display in the web application if available. [Example screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-mri-image.pdf).*  
+- To see actual labs and test page on existing MHV site, log in with test user MHVVISN20 and go to https://www.myhealth.va.gov/mhv-portal-web/va-medical-images-and-reports
+- Includes radiography (x-ray), digital radiography, MRI, CT.  
+- There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
+
 #### Lab Type: VA Radiology Reports (includes x-ray, MRI, CT mammogram, ultrasound)
 ##### Data Source(s): Blue Button
 ##### Fields
@@ -115,9 +121,6 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Radiologist** *Example: DUNCAN,TIMOTHY D*
 - **Report** *Examples: See page 95/96 and 97/98 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf) for short and long examples.*
 
-### Data Type: - VA Medical Images and Reports (for actual images) 
-*Note: images do not appear in Blue Button report, but can be requested for display in the application if available. [Example screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-mri-image.pdf).*  To see actual labs and test page on existing MHV site, log in with test user MHVVISN20 and go to https://www.myhealth.va.gov/mhv-portal-web/va-medical-images-and-reports
-
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
 - Note: These are no longer being updated, but historical records are available
@@ -128,8 +131,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Date/Time Exam Performed** *Example:*
 - **Ordering Location** *Example:*
 
-#### Data Type: VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
-    - 
+
 
 
 
