@@ -311,7 +311,7 @@ We will be testing what is currently approved in the staging environment.
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant(s) for pilot test: 
 - Note-takers: Perigean & 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us),   
+- Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)   
 
 
 
