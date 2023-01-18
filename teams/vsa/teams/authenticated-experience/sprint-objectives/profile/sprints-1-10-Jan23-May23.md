@@ -117,6 +117,12 @@ This is dependent on when these people are actually hired:
 
 - Determine tasks needed to complete 508 issue #19618 (Semantic Lists) #37041
 
+### Military info research
+
+**Design - Florence**
+
+- [Research] Military info discovery: Write conversation guide #51822
+
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
 ## Sprint 6 (3/15 - 3/28)
