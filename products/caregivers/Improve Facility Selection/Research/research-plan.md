@@ -7,7 +7,6 @@
 - [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - [Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
 
-## Background
 This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team.
 
 During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
