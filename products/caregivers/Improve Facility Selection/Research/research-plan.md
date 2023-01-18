@@ -189,7 +189,7 @@ TBD       | TBD EST
 - Project point of contact: Moderator
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
