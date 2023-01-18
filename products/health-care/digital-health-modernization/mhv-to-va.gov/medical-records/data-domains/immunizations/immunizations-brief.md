@@ -12,7 +12,7 @@ Immunizations represent vaccines obtained during service and after service.
 
 ## Relevant links
 
-[Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+[Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
 
 Sketch files: [Wire flow](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/v84qOV8) and [low-fi screens](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/KvJb521)
 
