@@ -63,7 +63,7 @@ Please log key decisions related to the below practice areas, including date, wh
 ## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+|    12/21/22  |      Jonathan Nelson  |   H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered)  |   
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
@@ -136,7 +136,7 @@ However, surfacing action items for users is one of the main takeaways from gene
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |  12/21/22    |    Danielle Thierry (OCTO content and translation lead)   |   VA have any stance on the terms Vaccines or Immunizations                       |      we've decided on "vaccines" on modernized pages mainly for simplicity (see bellow for more info) |
-|  12/21/22  |      Jonathan Nelson           |       H1: VA Vaccines  | Follows VA Flagship app - Let’s the user know that these are just the VA vaccines (not DoD or self-entered)   |
+|  12/21/22  |      Jonathan Nelson           |       H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered) |
 |      |                 |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
