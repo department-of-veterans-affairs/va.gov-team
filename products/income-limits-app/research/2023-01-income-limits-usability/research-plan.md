@@ -135,7 +135,7 @@ Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Feb 20, 2023 | 12-1, 2-3, 5-6, 7-8 pm
 
-NOTE: Request time slots for twice as many as participants requested
+*NOTE: Request 20 time slots so twice as many as participants requested*
 
 
 ## Team Roles	
