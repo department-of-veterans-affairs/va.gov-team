@@ -3,8 +3,6 @@
 ## Goals
 
 - To understand what feedback we get in through Medallia or call center data around challenges people have navigating/finding tasks and tools on VA.gov, especially while signed in (**Note**: It is OK if we can't glean whether people are signed in or out).
-- To gather broad feedback on how login causes navigational issues.
-  - **Note**: We already know sign in causes major issues. We don't need a detailed report on issues with specific login credentials (eg. "DS Logon was down again!"), as credential issues are already being addressed by the identity team. However, broadly speaking, it's probably worth noting that login is a known issue in navigating VA.gov.
 
 **Out of scope**
 
@@ -39,11 +37,7 @@
 
 Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting data that will help us address the following questions:
 
-### Signing in to VA.gov
-
-- How many issues with sign in are tracked for [given time period]?
-- Are there tasks/tools (eg. claim status; health care info, etc) that people specifically mention trying to access when they are talking about issues with logging in? If so, what are those tasks/tools people are having trouble accessing because of sign in issues?
-
 ### Navigating to tasks & tools
 
 - What do people have trouble finding on VA.gov (eg. "I couldn't find X tool/info because it was buried.")?
+- When in a particular flow do people run into trouble with finding information?
