@@ -97,6 +97,8 @@ Though we are focusing research on issues people have once they are signed in to
 ### Navigating to tasks & tools
 
 - What tasks do people come to VA.gov to do? What tasks do they specifically intend to sign in to do?
+- What do people have trouble finding on VA.gov (eg. "I couldn't find X tool/info because it was buried.")?
+- When in a particular flow do people run into trouble with finding information?
 - What are the known problems for users around navigating to tasks and tools when they are logged in to VA.gov (eg. reliance on homepage or My VA quick links)? What's not working?
 - If people can not rely on quick links on the homepage or My VA to navigate, how do they get to tasks?
 - What are people's expectations for how they should be able to navigate to tasks when they are logged in if they can not rely on homepage or My VA links?
