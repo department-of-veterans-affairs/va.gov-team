@@ -135,8 +135,8 @@ However, surfacing action items for users is one of the main takeaways from gene
 ## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|  12/21/22    |    Danielle Thierry (OCTO content and translation lead)   |                         |           |
-|  12/21/22  |      Jonathan Nelson           |       H1: VA Vaccines  | Follows VA Flagship app - Let’s the user know that these are just the VA vaccines (not DoD or entered       |
+|  12/21/22    |    Danielle Thierry (OCTO content and translation lead)   |   VA have any stance on the terms Vaccines or Immunizations                       |      we've decided on "vaccines" on modernized pages mainly for simplicity (see bellow for more info) |
+|  12/21/22  |      Jonathan Nelson           |       H1: VA Vaccines  | Follows VA Flagship app - Let’s the user know that these are just the VA vaccines (not DoD or self-entered)   |
 |      |                 |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
