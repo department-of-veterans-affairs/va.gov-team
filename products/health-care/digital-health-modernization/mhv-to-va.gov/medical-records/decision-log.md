@@ -105,8 +105,23 @@ However, surfacing action items for users is one of the main takeaways from gene
 
 ## The hierarchy of the immunization detail page follows the Flagship Mobile App for consistency. 
 
-- Work with engineers to align on where the data is coming from and how that maps to the hierarchy on the page. 
-- To ensure the details page is clear and easy to scan during future usability study. 
+**Work with engineers to align on where the data is coming from and how that maps to the data displayed on the page**
+
+**VA Mobile app** 
+- Date
+- Type and Dosage ("dosage" is coming from Lighthouse API - Can we get from doage from PHR API?) 
+- Series Status
+- Provider
+- Reactions
+- Notes   
+  
+**Blue Button**
+- Date Received
+- Location
+- Reaction
+- Comments
+
+- Ensure the details page is clear and easy to scan during future usability study. 
 
 
 
