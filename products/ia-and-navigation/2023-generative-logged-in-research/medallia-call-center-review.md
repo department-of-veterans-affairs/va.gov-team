@@ -10,6 +10,20 @@
 
 - We do not need to capture data on issues people are having with specific tools. 
 
+## Methods
+
+### Medallia
+
+- Use automated text analysis to do a keyword search to help sift through data.
+- Let's start broad. If we aren't able to get helpful information, we may want to focus more closely on specific tools.
+
+#### Potential keywords to search
+
+- Navigation
+- Find/Can't find
+- Where do I go?
+- (Common search terms in GA?)
+
 ## Questions to answer
 
 **During what time period should we be pulling analytics?**
