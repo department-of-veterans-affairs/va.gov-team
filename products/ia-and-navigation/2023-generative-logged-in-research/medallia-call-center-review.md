@@ -10,6 +10,11 @@
 
 ## Methods
 
+### Time period
+
+- Please pull data from the last year to capture things that are cyclical in nature.
+- If this is unmanageable, let's talk about changing the window to the last 6 months.
+
 ### Medallia
 
 - Use automated text analysis to do a keyword search to help sift through data.
@@ -32,8 +37,6 @@
 - Create Github document with findings and recommendations in the 2023-generative-loggedin-research folder.
 
 ## Questions to answer
-
-**During what time period should we be pulling analytics?**
 
 Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting data that will help us address the following questions:
 
