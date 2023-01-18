@@ -90,18 +90,17 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
 - ALL don't have VA health care
 - ALL don't receive VA disability compensation for a service-connected disability rating of 50% or higher? 
 - ALL plan to use their smartphone for the session 
-- At least X people with a cognitive disability (e.g., TBI)
-- At least X people who are age 55 or older
-- At least X people 35 or under
-- ALL have a smartphone and are willing to complete their interview on it:
-  - During the session, are willing to share over Zoom a web browser window on their smartphone
-  - Have a working microphone on their smartphone
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 4 people who are age 55 or older
+- At least 2 people 35 or under
+- ALL have a smartphone and are willing to complete their session using it:
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
-
-- At least X people of color
-- At least X women
-- At least X people who don't have any degree or vocational training after high school (to include enlisted Veterans)
-- At least X people who live in a rural or remote area
+  - Willing to share over Zoom a web browser window on their smartphone
+  - Have a working microphone on their smartphone
+- At least 3 people of color
+- At least 2 women
+- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 2 people who live in a rural or remote area
 
 ### Screening Questions
 1. Do you have VA health care? 
@@ -110,7 +109,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
      1. I don't know *(disqualify)*
 
 1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? 
-     1. No  *(ask next screening question)*
+     1. No  *(RECRUIT)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
@@ -119,10 +118,11 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
 ## Timeline
 
 ### Prepare
-- Pilot: **TBD at X pm ET** with person (email address)
+- Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
+- Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Jan TBD, 2023** 
+* Planned dates of research: **Feb 20-24, 2023** 
 
 ### Length of sessions
 * Session length: 1 hour
@@ -133,7 +133,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Feb XX, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Feb 20, 2023 | 12-1, 2-3, 5-6, 7-8 pm
 
 NOTE: Request time slots for twice as many as participants requested
 
@@ -145,8 +145,8 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill	
 - Participant(s) for pilot test: TBD	
-- Note-takers: Perigean	
-- Observers: Dave Pickett, Jordan Wood, Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com)
+- Note-takers: Perigean	(and/or Jordan Wood?)
+- Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
 - Dave Conlon (PO) on FUTURE DATE TBD
