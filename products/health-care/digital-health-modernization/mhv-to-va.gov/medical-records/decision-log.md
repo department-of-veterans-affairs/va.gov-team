@@ -27,7 +27,7 @@ Please log key decisions related to the below practice areas, including date, wh
 ## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+|    1/12/23  |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
