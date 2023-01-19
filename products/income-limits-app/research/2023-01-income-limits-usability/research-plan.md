@@ -69,7 +69,7 @@ Learnings will help refine the design of the application.
 2. From the information presented in the app results page, Veterans will understand that the different income thresholds affect the health care benefits they might qualify for.
 3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
 4. After seeing the confirmation page with information entered, Veterans will have confidence in the accuracy of the results page.
-5. Veterans understand the difference between benefit year and income year. (Wes)
+5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
 6. Veterans understand that thresholds in the app are not final answers, and only by applying can they learn what benefits they're eligible for.
 
 ## Method	
