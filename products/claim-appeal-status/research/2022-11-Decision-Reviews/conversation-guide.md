@@ -76,7 +76,7 @@ _"Decision review option" will be different for each participant, depending on w
 ## Second Task: Concept design review - 20 minutes
 
 - [Send link to concept prototype]
-- Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
+- Let’s say you just received a decision for this claim here. And let's say you’re unhappy with the result. What would you do next?
 - [View decision review options page] Does this page provide you with enough information to proceed?
 - What would you do next?
 - What would you expect to happen if you filed a (decision review option) in this way?
