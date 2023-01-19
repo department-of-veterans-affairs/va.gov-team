@@ -68,19 +68,19 @@ This is a single study, and we are testing with a prototype
 |Female          |        10  |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
+|Black           |      4     |        |        |        |        |        |        |        |        |        |         |               
+|White           |      3     |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |      4     |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |      3     |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |      3     |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|      3     |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |      4     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
@@ -130,7 +130,7 @@ This is a single study, and we are testing with a prototype
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Mobile          |            |        |        |        |        |        |        |        |        |        |         |
+|Mobile          |     10     |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
@@ -197,7 +197,7 @@ This is a single study, and we are testing with a prototype
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
-|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |      2     |
 |Autism                                                       |            |
 |Vertigo                                                      |            |
 |Aphasia                                                      |            |
@@ -206,17 +206,17 @@ This is a single study, and we are testing with a prototype
 |Distractibility                                              |            |
 |Memory loss                                                  |            |
 |Reading difficulties                                         |            |
-|Low tolerance for cognitive overload                         |            |
+|Low tolerance for cognitive overload                         |     2      |
 
 
 ### Screener
-
-- Do you have access to the internet and can you screen share? [Yes]
-- Have you been denied a claim for disability in the last couple of years? [Yes]
-- Have you or someone on your behalf filed a Supplemental Claim before? [Ok if no]
-- Do you have new evidence or legislation that you think could prove your previously denied claim is now eligible? [Yes, but ok if unsure]
-- Do you think your claim is affected by the PACT Act? [Ok if no or unsure]
-
+- Can you share your screen on your device? [Must answer yes]
+- Have you been denied a claim for disability in the last couple of years? [Must answer yes]
+- Do you disagree with a previous decision about a claim you filed? [Must answer yes]
+- Do you have new evidence or legislation that you think could prove your previously denied claim is now eligible?  [50% must answer yes, OK if no or unsure]
+- Are you planning to file a supplemental claim? [50% ppt must answer yes, OK if no or unsure]
+- Have you or someone on your behalf filed a Supplemental Claim before? [OK if yes, no, or unsure]
+- Do you think your claim is affected by the PACT Act? [OK if yes, no, or unsure]
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
