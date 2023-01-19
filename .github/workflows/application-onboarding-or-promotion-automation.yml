@@ -16,6 +16,10 @@ on:
           - staging
           - sandbox
           - prod
+      application_branch:
+        description: Application branch
+        required: true
+        type: string
       maintainer_github_user:
         description: Maintainer GitHub username
         required: true
@@ -35,6 +39,10 @@ on:
         type: string
       application_environment:
         description: Application environment
+        required: true
+        type: string
+      application_branch:
+        description: Application branch
         required: true
         type: string
       maintainer_github_user:
@@ -108,7 +116,7 @@ jobs:
           add-paths: chart/values.yaml
           branch: "chore/${{ inputs.task }}-${{ inputs.application_name }}-${{ inputs.application_environment }}"
           commit-message: |
-            {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "task": "${{ inputs.task }}"}
+            {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "branch": "${{ inputs.application_branch }}", "task": "${{ inputs.task }}"}
           title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
           body: Automated PR triggered by issue ${{ github.event.issue.html_url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
           
