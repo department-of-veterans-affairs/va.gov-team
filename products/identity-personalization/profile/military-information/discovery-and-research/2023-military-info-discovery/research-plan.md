@@ -4,14 +4,14 @@
 - The product currently offers the following info for those signed-in individuals for whom this info is relevant and available: military branch(es), period(s) of service, service start and end dates, contact info for addressing incorrect military info, and a link to request a DD214 "and other military records."
 - We are capable of adding more information to this product, but we have unanswered questions about what users need from military info. The product is not new, but no discovery has yet been conducted to uncover answers about needs and usage of this information. 
 
-[Research outline]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery))
-[Product brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information))
+[Research outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery)
+
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
 
 ### OCTO Objectives 
 This research supports the following 2023 OCTO objectives:
-
-Enhance Veterans’ personalized online experience
-Increase the usage and throughput of VA services
+- Enhance Veterans’ personalized online experience
+- Increase the usage and throughput of VA services
 
 ### Veteran Journey
 The profile overall, and the military info section more specifically, are associated with a broad spectrum of veteran needs and access to services.  cover a broad spectrum of VA services, and managing settings is something Veterans may do at any stage from Starting Up through Aging.
@@ -20,7 +20,7 @@ The profile overall, and the military info section more specifically, are associ
 Given all the possible information that we could surface in military information, what would be most helpful to veterans?
 
 ### Outcome
-This research will inform the product team on what and how much military information should be populated in each veteran's profile, and what other possible questions should be addressed in that same location, i.e. how to change incorrect service information.
+This research will inform the product team on what and how much military information should be populated in each veteran's profile, and what other possible questions should be addressed in that same location, e.g. how to change incorrect service information.
 
 ### Research questions
 - When and why do veterans need access to military information?
@@ -37,14 +37,6 @@ This research will inform the product team on what and how much military informa
 ## Methodology	
 Semi-structured interviews that help us to understand what veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like. 
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
 ### Location
 Remote: Zoom
 
@@ -52,32 +44,34 @@ Remote: Zoom
 [Link to conversation guide](url goes here) 
 	
 ## Recruitment	
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Research participants will be Veterans recruited by Perigean.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+We'd like to recruit 12 Veterans for a total of 6-8 completed sessions.  
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+- Veteran (12)
+- Aged 50+ (6)
+- Race is black, hispanic, bi-racial, asian and/or native (6)
+- Gender is not male (6)
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+
+- Has a cognitive disability (3)
+- Lives rurally (3)
+- A mobile user (no personal computer) (3)
+- Other than honorable discharge ?
+- Immigrant origin ?
+- LGBTQ (3)
+- Uses assistive tech (3)
+
+Which of the following have you _yourself_ completed in the past year (between January 2022 and January 2023)?
+- Formally requested a correction to your military records (min of 2)
+- Requested service records to replace a missing military record (e.g. DD214) (min of 2)
+- Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (min of 2)
+- Applied for an upgrade of your discharge status (min of 2)
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
@@ -107,11 +101,10 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Florence McCafferty
-- Research guide writing and task development (usually but not always same as moderator):	Florence McCafferty
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Florence McCafferty
+- Moderator: Florence McCafferty, florence.mccafferty@agile6.com
+- Research guide writing and task development (usually but not always same as moderator): Florence McCafferty
+- Participant recruiting & screening: Perigean
+- Project point of contact: Florence McCafferty
 - Participant(s) for pilot test: ?
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	?
 - Note-takers: Perigean
 - Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
