@@ -133,18 +133,10 @@ Could you try to use this to find out if you're eligible for VA health care with
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. *(IF using a screen reader–ASK WHILE STILL ON A CONTENT PAGE, NOT HOME PAGE)* If you wanted to share your thoughts on this web page with the VA, how would you do it? *(Feedback button on bottom right of page that's not the home page / ___________)*
-     1. Have you *ever* done this before?
-     1. If so, how and when?
-     2. Could you please go back to the original web page you opened? How would you share your thoughts on this web page?
-     3. *(Want to see if screen reader users can/will use the Medallia feedback button)*
-
-Could you please go back to the original web page you opened?
-
-2. What worked *well* for you?
-4. What was *unclear or didn't work well* for you?
-5. What would you like to *change or add*?
-9. Is there anything else that we haven't talked about that you think I should know? 
+1. What worked *well* for you?
+1. What was *unclear or didn't work well* for you?
+1. What would you like to *change or add*?
+1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
