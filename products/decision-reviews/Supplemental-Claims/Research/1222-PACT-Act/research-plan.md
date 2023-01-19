@@ -211,11 +211,11 @@ This is a single study, and we are testing with a prototype
 
 ### Screener
 
+- Do you have access to the internet and can you screen share? [Yes]
 - Have you been denied a claim for disability in the last couple of years? [Yes]
 - Have you or someone on your behalf filed a Supplemental Claim before? [Ok if no]
 - Do you have new evidence or legislation that you think could prove your previously denied claim is now eligible? [Yes, but ok if unsure]
-- Do you have a presumptive condition, covered by the PACT Act? [Ok if no or unsure]
-- Do you have access to the internet and can you screen share? [Yes]
+- Do you think your claim is affected by the PACT Act? [Ok if no or unsure]
 
 
 ## Timeline
