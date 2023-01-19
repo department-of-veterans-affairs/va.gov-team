@@ -55,7 +55,7 @@ Learnings will help refine the design of the application.
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
 1. How do Veterans expect to "wayfind" this app?
 1. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-1. Do Veterans expect a summary page for data entered?
+1. Do Veterans expect a summary page that shows information entered?
 1. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
 1. Do Veterans understand the relevant year of income for their eligibility? 
 1. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
@@ -69,7 +69,7 @@ Learnings will help refine the design of the application.
 1. Veterans will be able to answer the questions in the app for themselves.
 2. From the information presented in the app results page, Veterans will understand how the different income thresholds affect the health care benefits they might qualify for, including if their income is higher than all of the thresholds.
 3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
-4. After seeing the confirmation page with information entered, Veterans will have confidence in the accuracy of the results page.
+4. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
 5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
 6. Veterans understand that thresholds in the app are not final answers, and only by applying can they learn what benefits they're eligible for.
 
