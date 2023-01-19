@@ -1,4 +1,4 @@
-# Grandfathering / Inherited proofing outline
+# DS Logon Grandfathering & MHV Inherited proofing outline
 
 ## Overview
 
