@@ -66,7 +66,7 @@ Learnings will help refine the design of the application.
 
 ### Hypotheses
 1. Veterans will be able to answer the questions in the app for themselves.
-2. From the information presented in the app results page, Veterans will understand that the different income thresholds affect the health care benefits they might qualify for.
+2. From the information presented in the app results page, Veterans will understand how the different income thresholds affect the health care benefits they might qualify for, including if their income is higher than all of the thresholds.
 3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
 4. After seeing the confirmation page with information entered, Veterans will have confidence in the accuracy of the results page.
 5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
