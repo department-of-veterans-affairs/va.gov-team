@@ -78,11 +78,7 @@ The outcome of this study will help aid in decisions around changes to make to t
 
 ### Hypothesis
 
-
 Our hypothesis is that users will understand 
--
-
-
 
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
