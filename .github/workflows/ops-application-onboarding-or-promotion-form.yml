@@ -45,6 +45,12 @@ jobs:
         run: |
           application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
           echo "::set-output name=application_environment::$(echo ${application_environment})"
+      
+      - name: Capture branch
+        id: get_app_branch
+        run: |
+          application_branch=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.branch')
+          echo "::set-output name=application_branch::$(echo ${application_branch})"
   
       - name: Capture maintainer
         id: get_maintainer
