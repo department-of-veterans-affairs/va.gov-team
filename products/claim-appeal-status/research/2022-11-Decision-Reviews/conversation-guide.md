@@ -80,6 +80,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [View decision review options page] Does this page provide you with enough information to proceed?
 - What would you do next?
 - What would you expect to happen if you filed a (decision review option) in this way?
+- [If they haven't already, prompt them to click into full Decision Review Options page] What do you think of this page? Does this page provide you with enough information to proceed?
 - Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
 ### Things to watch for:
