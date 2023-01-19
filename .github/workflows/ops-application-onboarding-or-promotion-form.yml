@@ -70,6 +70,7 @@ jobs:
     with:
       application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
       application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
+      application_branch: ${{ needs.onboard-or-promote.outputs.application_branch }}
       maintainer_github_user: ${{ needs.onboard-or-promote.outputs.maintainer_github_user }}
       task: ${{ needs.onboard-or-promote.outputs.task }}
     secrets: inherit
