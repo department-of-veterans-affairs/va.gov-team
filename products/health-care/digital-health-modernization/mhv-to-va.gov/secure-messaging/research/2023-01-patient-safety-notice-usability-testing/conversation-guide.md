@@ -79,7 +79,7 @@ _If yes:_ Thank you! We very much appreciate you talking with us today. Before w
 
 - **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototype.**  This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototype.**  This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be selectable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - **Are you comfortable if I record my screen and audio as we talk today?**  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   - If yes:  **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
@@ -110,8 +110,6 @@ _[If no, follow protocol for particular OS (Android/iOS)]_
 
 ## First Task: Interrupted Flow - 5 minutes 
 
-Our tasks today will be very simple, so please try to not get distracted by the other options on the page.
-
 I am going to give you a little bit of background and then instructions. It would be a big help if you could wait until I say "go" before beginning the task.
 
 Let's say you were just at your doctor's office, and you forgot to ask a question about one of your medications.
@@ -133,10 +131,9 @@ _[When participant reaches "Compose message" page]:_ Stop.
 Thank you for completing that. I have some follow up questions.
 
 - How do you feel about that page that we saw before this one, the one with Only use messages for non-urgent needs? What makes you say that?
-- On a scale from 1 to 5 where 1 is very confusing, 2 is confusing, 3 is neutral, 4 is not really confusing, 5 is not at all confusing please rate your feelings about seeing that page when you selected "Start a new message"? How did you decide on that score?
 - How would you describe the purpose of that page?
 
-Thank you. Please scroll down and click "Send."
+Thank you. Please go to the bottom of the page and select "Send."
 
 **Things to watch for:**
 
@@ -148,7 +145,7 @@ Thank you. Please scroll down and click "Send."
 
 We are going to spend some time on this screen.
 
-Today we are testing whether the content of this page is clear. We are not testing you or your understanding. If something you see on this page is not clear, please say so, because it gives us the opportunity to improve the content for other Veterans like you.
+Today we are testing whether the content of this page is clear. We are not testing you or your understanding. If something you read on this page is not clear, please say so, because it gives us the opportunity to improve the content for other Veterans like you.
 
 What questions can I answer before we get started?
 
@@ -158,9 +155,9 @@ Let's start at the top. What do you think is meant by "Only use messages for non
 
 - Can you share an example of something that is non-urgent?
 
-Would you please click on the word "only" for me? Tell me how you feel about the phrase now that it says, "Don't use messages for non-urgent needs"? What makes you say that?
+Would you please select the word "only" for me? Tell me how you feel about the phrase now that it says, "Don't use messages for non-urgent needs"? What makes you say that?
 
-If you would like to look at the other version, you can click on the word "don't" to go back.
+If you would like to look at the other version, you can select the word "don't" to go back.
 
 - Which wording do you think is more effective? What makes you say that?
 
@@ -170,8 +167,8 @@ The next line says If you think your life or health is in danger, call 911 or go
 
 - What do you think is meant by "life or health is in danger"?
 - Can you share an example of a time when someone’s life or health is in danger?
-- What do you think would happen if you clicked on that link that says, "Call 911"? What makes you say that?
-- Do you think this statement and link is valuable? What makes you say that?
+- What do you think would happen if you selected that link that says, "Call 911"? What makes you say that?
+- Do you think this statement and link is helpful? What makes you say that?
 
 Thank you. Let's move on to the next line.
 
@@ -180,19 +177,18 @@ Thank you. Let's move on to the next line.
 This one says, "If you feel hopeless and need to talk to someone right now, our Veterans Crisis Line offers confidential support anytime day or night."
 
 - What do you think is meant by "If you feel hopeless"
-- Can you share an example of someone feeling hopeless?
-- What do you think would happen if you clicked on that link that says, "Connect with the Veterans Crisis Line"? What makes you say that?
+- What do you think would happen if you selected that link that says, "Connect with the Veterans Crisis Line"? What makes you say that?
 
-Go ahead and click the link.
+Go ahead and select the link.
 
 Please tell me what you are looking at on this screen and any thoughts that come to mind.
 
 - If a Veteran came to this page and read "If you are a Veteran in crisis or concerned about one," and they were unsure about what that means. What might they do to get more information?
-- _[If the participant mentions the Veteranscrisisline.net]_ What do you think would happen if you clicked on that link? What makes you say that?
+- _[If the participant mentions the Veteranscrisisline.net]_ What do you think would happen if you selected that link? What makes you say that?
 
 When you are ready, please close this screen.
 
-- Do you think this statement about feeling hopeless and link is valuable? What makes you say that?
+- Do you think this statement about feeling hopeless and link is helpful? What makes you say that?
 
 I would like to share some situations in which someone may or may not need to use the Veterans Crisis Line instead of sending a message. After I read each one I would like you to tell me which would be more appropriate.
 
@@ -204,7 +200,7 @@ _[If no]: Thank you for letting me know. We can skip this part._
 _[If yes]:_
 
 - Person 1 is angry that they were left on hold for 20 minutes with the help desk only to be told they had to call a different number. Should they send a message or connect with the Veterans Crisis Line?
-- Person 2 has lost interest in all that they love to do and nothing they do to try to relieve their emotional pain seems to help. Should they send a message or connect with the Veterans Crisis Line?
+- Person 2 seems to have lost interest their favorite activities. Should they send a message or connect with the Veterans Crisis Line?
 
 Thank you for those answers.
 
@@ -220,7 +216,7 @@ Let's look at the next line. This one says, "If you have an urgent question for 
 
 - What do you think is meant by "If you have an urgent question"?
 - Can you share an example of an urgent question?
-- Do you think this statement and link is valuable? What makes you say that?
+- Do you think this statement and link is helpful? What makes you say that?
 
 I would like to share some situations like we did earlier, but these are medical. I am going to say them as if I were seeking your advice about whether I should use secure messaging. If you think I should use secure messaging, say yes. If not, say no.
 
@@ -236,7 +232,7 @@ If I were to use secure messaging, when should I expect a response? What makes y
 - Does the participant notice the Veterancrisisline.net link?
 - Does the participant notice "Your care team may take up to 3 days to reply."?
 - Does the participant understand when to seek more immediate help rather than use secure messaging.
-- Does the participant value the safety message and links provided?
+- Does the participant find the safety message and links provided helpful?
 
 ## Post-Task Interview - 5 minutes
 
