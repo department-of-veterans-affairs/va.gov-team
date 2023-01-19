@@ -1,9 +1,11 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for Community Care migration 
+**STATUS: DONE**
 
-**Team:** [Team name]
+**Team:** Sitewide Content and IA
 
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**IA Request:** 
+- Work epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/42043
+- IA ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52096
 
 **On this page:**
 - [Page structure](#map)
