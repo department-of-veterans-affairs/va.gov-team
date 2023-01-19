@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 10 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Ok, we're going to start with a few warm-up questions.
 
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
@@ -57,7 +57,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: General questions - 20 minutes
 
-"Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of.
+_"Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of._
 
 - Did you use VA.gov to file your (decision review option)?
 - What were your main reasons for filing the (decision review option)?
@@ -75,7 +75,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Concept design review - 20 minutes
 
-- [Show user [concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)]
+- [Send link to concept prototype]
 - Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
 - [View decision review options page] Does this page provide you with enough information to proceed?
 - What would you do next?
