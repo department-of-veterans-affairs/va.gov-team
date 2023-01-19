@@ -53,16 +53,17 @@ Learnings will help refine the design of the application.
 
 ### Research questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
-2. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-3. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
-4. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
-5. How far do Veterans scroll down the app results page?
-6. Do Veterans understand deductions and how that affects their income? (Did they see the details below all the income thresholds?)
-7. After seeing the information presented in the app results page, what do Veterans want to do next? 
-8. Do Veterans understand the relevant year of income for their eligibility? 
-9. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
-10. Do Veterans expect a summary page for data entered?
-11. How do Veterans expect to "wayfind" to this app?
+1. How do Veterans expect to "wayfind" this app?
+1. Do Veterans understand the questions in the app? Is anything unclear or confusing?
+1. Do Veterans expect a summary page for data entered?
+1. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
+1. Do Veterans understand the relevant year of income for their eligibility? 
+1. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
+1. How far do Veterans scroll down the app results page?
+1. Do Veterans understand deductions and how that affects their income? (Did they see the details below all the income thresholds?)
+1. After seeing the information presented in the app results page, what do Veterans want to do next? 
+1. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
+
 
 ### Hypotheses
 1. Veterans will be able to answer the questions in the app for themselves.
