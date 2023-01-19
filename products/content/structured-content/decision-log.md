@@ -18,7 +18,7 @@ Applications for structured content
 
 ## Decision log
 
-### 12/21 Workshop
+### 12/21/22 Workshop
 Danielle, Dave Conlon, Dave Pickett, Daniel Sasser, Wes
 
 Document under discussion: [Excel from August](https://dvagov-my.sharepoint.com/:x:/r/personal/danielle_thierry_va_gov/Documents/Benefits%20for%20content%20modeling%20work.xlsx?d=wb36115531f894fdc87f64ba53d27576e&csf=1&web=1&e=dPAc0R), **see tab "Modeled version (DJC)"**
@@ -40,14 +40,14 @@ Next steps:
 
 ### Gap; had trouble prioritizing this work
 
-### 8/22 mvp meeting
+### 8/22/22 mvp meeting
 Danielle, Steve Wirt, PW
 - We are unlikely to do any automated migration from old Hub content into content model
 - Next steps:
   - Use a spreadsheet as a "draft content model" – we can iterate there, ensure content and model fit real benefits
   - Danielle has begun an [Excel listing all benefits (sharepoint)](https://dvagov-my.sharepoint.com/:x:/r/personal/danielle_thierry_va_gov/Documents/Benefits%20for%20content%20modeling%20work.xlsx?d=wb36115531f894fdc87f64ba53d27576e&csf=1&web=1&e=dPAc0R) – Wes and Florence to modify columns to relfect MVP content model hypothesis and return it to Danielle to attempt entering all ~48 benfits into the spreadsheet
 
-### 8/17 Deep dive on Pattern Guide for benefit hubs
+### 8/17/22 Deep dive on Pattern Guide for benefit hubs
 (Wes, Florence)
 [Pattern guide](https://design.va.gov/patterns/benefit-applications#eligibility-hierarchy) used by Sitewide Content team to manage benefit hubs.
 
