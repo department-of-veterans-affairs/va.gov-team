@@ -66,7 +66,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What were your biggest challenges with the process?
 - Was there anything about the process that worked particularly well?
 - How did you feel about the end result (or how do you feel so far, if it’s underway)?
-- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
 ### Things to watch for:
 
