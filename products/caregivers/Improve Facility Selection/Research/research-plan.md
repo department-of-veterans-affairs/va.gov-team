@@ -1,7 +1,6 @@
 # [DRAFT] Research Plan: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
 
 
-
 ## Background
 
 - [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
@@ -58,19 +57,17 @@ The outcome of this study will help aid in decisions around changes to make to t
 
 ### Research questions
 
-Goal 1: Understandable
+**Goal 1: Understandable**
 - Which variation (a, b or c) is the easiest to understand and answer with little confusion?
 - Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
 - Which variation (a,b, or c) is the quickest to answer?    
 
 
-Goal 2: How information is used / impact to caregiver application process
+**Goal 2: How information is used / impact to caregiver application process**
 - Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
 - Do users understand the variations containing a confirmation screen after selection? Does this add additional confusion?
 
-
-
-Goal 3: Search and selection of facilities
+**Goal 3: Search and selection of facilities**
 - Are users able to navigate through the facility selection without difficulty?
 - Do they know what to input in the text field?
 - Can users easily use the search input and understand what choices are populated from that search?
@@ -81,10 +78,17 @@ Goal 3: Search and selection of facilities
 
 ### Hypothesis
 
+
+Our hypothesis is that users will understand 
+-
+
+
+
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
-- Filtering results by miles away
+- Filtering results by a filter they want
 - Not recognizing the name of the facility they are looking for
+- Understanding the difference between community and Caregiver support facilities
 
 
 
@@ -92,7 +96,7 @@ Our hypothesis is that users will be able to navigate through the facility selec
 ## Methodology	
 
 **A/B/C usability task analysis and interview questions**
-This will be a focused study on only the facility question(s). The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
+This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
 
 ### Location
@@ -121,39 +125,16 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 |      15       |            10    |6       |  2          |   7      |               | 
 
 
-
 **Primary criteria (must-haves)**
 
-
+- At least 4 people over the age of 55
+- At least 8 people who plan to use their mobile device for the session
+- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
 
 **Secondary criteria (nice-to-haves)**
 
-
---
-
-**Must have for participants**
-
-All participants must:
-
-- At least 5 Veterans
-- At least 3 POAs
-- At least 5 people who plan to use their computer for the session
-- At least 5 people who plan to use their smartphone for the session
-- At least 1 person who uses a screen reader
-- Have access to a laptop/desktop or smartphone/tablet and be willing to complete the test on said laptop/desktop/smartphone/tablet
-- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
-
-
-**Participant pool should strive for the following breakdown**
-
-- Age: 
-     - over age 55: 50%  
-     - age 18-30: 25%  
-     - age 31-50: 25%  
-
-
-**Participant pool should in diverse in**
+Participant pool should in diverse in
 - Branch of service
 - Gender (30% or more women)
 - Disability rating of 50% or higher representative of applicant demographics
@@ -162,7 +143,7 @@ All participants must:
 - Geography
 - Density (rural)
 
---
+
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -184,6 +165,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
+
 
 ### Availability
 	
