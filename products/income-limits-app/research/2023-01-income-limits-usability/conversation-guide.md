@@ -92,6 +92,8 @@ Let’s start with a few questions...
 
 1. Do you have VA health care? *(Yes / No / ______________________)*
 
+1. What have you heard about income eligibility for VA health care? 
+
 1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
 
 
@@ -138,7 +140,7 @@ How would you use this? Please talk me through what you would do, but not click 
 
 -*(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
 
--*(RECORD all comments and usability issues re the interactions on each screen of the prototype:)*
+-*(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
   - *Where/zipcode--*
   - *Number of dependents--*
   - *VA Aid and Attendance--*
@@ -148,11 +150,18 @@ How would you use this? Please talk me through what you would do, but not click 
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
 
+How is your income involved here?
+*Understand that it's your previous year's income that's relevant? yes / no*
+
 If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
 
 If your income last year was $25,000, what would that mean? *(RECORD)*
 
 What if your income was $100,000? *(RECORD)*
+
+*RECORD: any comments about benefits (in bullets)*
+
+*RECORD: any comments about deductions*
 
 ### Task 6: [What next]
 What would you do next? *(RECORD: apply for VA health care / go back / ________________)*
@@ -168,6 +177,7 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
+1. How or where would you expect to find this app that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
