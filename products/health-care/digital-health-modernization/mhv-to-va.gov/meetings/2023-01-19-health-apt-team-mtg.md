@@ -9,7 +9,9 @@
 - Lean Bannon
 - Martha Wilkes
 - Ryan Thurlwell
-- Patrick
+- Patrick Bateman
+- Leila Rassi
+- Marci McGuire
 
 ## Agenda
 Track-specific updates from each team member
