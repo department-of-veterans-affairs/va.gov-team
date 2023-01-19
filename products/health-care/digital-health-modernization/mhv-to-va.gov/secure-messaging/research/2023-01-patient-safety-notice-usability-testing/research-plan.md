@@ -115,7 +115,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 - Pilots from 1/18 - 2/24/23, Emily Taylor, JB Walters
 
 ### Research sessions
-* Planned dates of **Jan 26 - Feb 2**
+* Planned dates of **Jan 26 - Feb 7**
 
 ### Length of sessions
 * Session length: 1 hour
