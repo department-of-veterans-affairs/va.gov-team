@@ -55,8 +55,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever pursued a decision review for a claim with the VA? This could have been a supplemental claim, a higher level review, or a board appeal?
 - Have you done either of these tasks on VA.gov? If not, how did you do it?
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
 ## First Task: General questions - 20 minutes
 
 "Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of.
