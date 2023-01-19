@@ -103,20 +103,19 @@ I would like you first to share your screen with me--a web browser please. You m
 - *(refer to Screen sharing instructions above, if needed)*
 
 ### Task 1: [Wayfinding] 
-*(if they DON'T have VA health care)* Let's say that you're wondering if you qualify for VA health care.
+*(if they DON'T have VA health care)* Let's say that you're wondering if you're eligible for VA health care with your current income.
 
 *(if they already have VA health care)* Let's say that your income just changed, and you want to know whether you're still eligible for VA health care or if your benefits might change.
 
 How would you get started?
 
-- *RECORD what they do: *Google / VA.gov / words looking/searching for: _______________________*
+- *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
 
 ### Task 2: [Open prototype] 
 
-- 
-- I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
 
-While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/short-URL**
 - *(If dictate, skip the “http://” part)*
@@ -124,13 +123,12 @@ I'll have you start from a URL that I'm going to *[dictate/put into the Zoom cha
 
 Do you see the link? 
 
+What are your impressions of what you're looking at? *(RECORD)*
+
+Could you try to use this to find out if you're eligible for VA health care with your current income?
 
 
-### Task 1: [Message your doctor or get a health care message] 
 
-Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
-    - *Create account / Search / Other search tools / Popular on VA.gov > VA health care / Benefit hubs / Benefit promo (PACT Act) / VA News Promo (Pathfinder) / Header / Footer / Menu (on a phone)*
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
