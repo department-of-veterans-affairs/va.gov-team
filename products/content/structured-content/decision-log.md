@@ -32,8 +32,17 @@ Sub-categories among the 9 benefit areas
 - Education is a good example of complexity/categories
   - Main “about” page focuses on GI Bill, but links out to sub-pages about other benefits
 
-
 "Core benefits" = the 9 with Hub Landing Pages
+
+MVP thoughts:
+- Eligibility might be the first type of page in DT's content model (link above) that we take on
+  - Some benefits, especially the 9 main ones, tend to have dedicated eligibility pages
+  - In others, eligibility is a blue "blobby" area with all the details
+  - The eligibility content itself is not going to be hardened – it would be a blob in the CMS
+
+Next steps:
+- Build [Mural](https://app.mural.co/invitation/mural/vagov6717/1660845137501?sender=u907f83e01e35bb04de6f8139&key=96ac157c-b924-483d-96c7-8831613a101b) to look at patterns in existing Hub content
+- Github issue https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10242
 
 
 ### 8/4/22 – deeper dive with Content
