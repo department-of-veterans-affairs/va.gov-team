@@ -1,28 +1,26 @@
-# Research Plan for Authenticated Experience - Profile, Military Info Generative Research, January 2023
+# Research Plan for Authenticated Experience - Military Info, Profile - January 2023
 
 ## Background
-- Product: Military Info section of the profile
-- The product currently offers only the following info for those signed-in individuals for whom this info is relevant and available: military branch(es), period(s) of service, service start and end dates, contact info for addressing incorrect military info, and a link to request a DD214 "and other military records." 
-- The military info section of the product is not new, but no discovery has been completed in the past to learn how veterans use this product or how they'd hope or expect to use it. 
+- The product currently offers the following info for those signed-in individuals for whom this info is relevant and available: military branch(es), period(s) of service, service start and end dates, contact info for addressing incorrect military info, and a link to request a DD214 "and other military records."
+- We are capable of adding more information to this product, but we have unanswered questions about what users need from military info. The product is not new, but no discovery has yet been conducted to uncover answers about needs and usage of this information. 
 
 [Research outline]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery))
 [Product brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information))
 
 ### OCTO Objectives 
+This research supports the following 2023 OCTO objectives:
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Enhance Veterans’ personalized online experience
+Increase the usage and throughput of VA services
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The profile overall, and the military info section more specifically, are associated with a broad spectrum of veteran needs and access to services.  cover a broad spectrum of VA services, and managing settings is something Veterans may do at any stage from Starting Up through Aging.
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Given all the possible information that we could surface in military information, what would be most helpful to veterans?
 
 ### Outcome
-This research will inform the product team on what and how much military information should be populated in each veteran's profile, and what other questions should be answered in that same location, i.e. how to change incorrect service information.
+This research will inform the product team on what and how much military information should be populated in each veteran's profile, and what other possible questions should be addressed in that same location, i.e. how to change incorrect service information.
 
 ### Research questions
 - When and why do veterans need access to military information?
@@ -50,11 +48,8 @@ Additional resources:
 ### Location
 Remote: Zoom
 
-### Research materials
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
+### Research materials  
+[Link to conversation guide](url goes here) 
 	
 ## Recruitment	
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
