@@ -4,9 +4,9 @@
 **Demo Sprint 59 1/19/22**
 
 - Demo Topic(s)
- - WIP Nav Changes (Binny)
- - Staging endpoint status (Jayson)
- -  Intro to OKRs (Matt)
+  - WIP Nav Changes (Binny)
+  - Staging endpoint status (Jayson)
+  -  Intro to OKRs (Matt)
 - Demo Slides (placeholder)
 
 **Demo Sprint 59 12/8/22**
