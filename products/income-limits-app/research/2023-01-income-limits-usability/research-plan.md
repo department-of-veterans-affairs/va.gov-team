@@ -76,7 +76,7 @@ Learnings will help refine the design of the application.
 ## Method	
 We will conduct **usability testing** to guide Veterans through a click-through prototype. 
 
-Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. Plus, we would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them.
+Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 
 ### Research materials
@@ -85,7 +85,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions** using the criteria below. 
+Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below. 
 
 ### Required criteria 
 - ALL don't have VA health care
@@ -114,21 +114,23 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. What time zone are you in? *(RECORD)*
+1. What time zone are you located in?*(RECORD)*
 
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Available times for kickoff call (all in ET): 
-- Feb 3: 12-2:30 pm, 4-5 pm
-- Feb 6: 12-1 pm, 4:30-5:30 pm
-- Feb 7: 12-5 pm
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
+- **Feb 3**: 12-2:30 pm, 4-5 pm
+- **Feb 6**: 12-1 pm, 4:30-5:30 pm
+- **Feb 7**: 12-5 pm
 
 - Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
 - Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Feb 20-24, 2023** 
+* Planned dates of research: **Feb 17-27, 2023** 
+
+We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own timezone** (from a screener question).
 
 ### Length of sessions
 * Session length: 1 hour
@@ -139,10 +141,12 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Feb 20, 2023 | 12-1, 2-3, 5-6, 7-8 pm
-
-*NOTE: Request 20 time slots so twice as many as participants requested*
-
+Feb 17, 2023 | 12-1, 2-3, 5-6, 7-8 pm (backup)
+Feb 21, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
+Feb 22, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
+Feb 23, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
+Feb 24, 2023 | 12-1, 2-3, 5-6 pm (preferred)
+Feb 27, 2023 | 12-1 pm (backup)
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
