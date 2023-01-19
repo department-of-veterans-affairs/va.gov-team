@@ -309,7 +309,7 @@ We will be testing what is currently approved in the staging environment.
 - Research guide writing and task development:	Jessica Stump (jessica.stump@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: Christia Troyer ( )
 - Note-takers: Perigean & 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)   
 
