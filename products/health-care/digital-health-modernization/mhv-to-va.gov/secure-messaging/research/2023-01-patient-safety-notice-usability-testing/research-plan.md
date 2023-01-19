@@ -125,11 +125,11 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Jan. 26, 2023 | 8:00 am - 12:30 pm; 1:30 - 3:00 pm; 4:30 - 5:30 pm
 Jan. 27, 2023 | 8:00 am - 12:00 pm; 3:00 - 5:30 pm
 Jan. 30, 2023 | 8:00 am - 11:00 am; 11:30 - 12:30 pm; 1:30 - 6:30 pm
 Jan. 31, 2023 | 8:00 am - 11:00 am; 11:30 - 12:30 pm; 1:30 - 6:30 pm
 Feb.  2, 2023 | 8:00 am - 12:30 pm; 1:30 - 3:00 pm; 4:30 - 5:30 pm
+Feb.  3, 2023 | 8:00 am - 12:00 pm; 3:00 - 5:30 pm
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
