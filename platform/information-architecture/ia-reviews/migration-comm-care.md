@@ -58,3 +58,6 @@ https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/fmp_benefits_claims.asp |
 
 ## <a name="notes"></a>Meetings notes and background info
 
+1/19/2023
+- Scope originally included a "File a claim" page for filing for reimbursement through the FMP.  This task is primarily handled by providers, but can fall to the Veteran if the provider does not do it.  Given this is not  intended to be a Veteran-initiated task, it was opted to move that content into Resources and support. 
+- The file a claim capability will need to eventually be accountd for within the My health portal, and the R&S page may be moved at that time. 
