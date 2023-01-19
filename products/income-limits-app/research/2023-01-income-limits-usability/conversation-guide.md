@@ -129,19 +129,41 @@ Could you try to use this to find out if you're eligible for VA health care with
 - *(Click to start income limits app)*
 
 ### Task 3: [Intro page of app] 
-What is your impression of this page?
+What are your impressions of this page?
 What do you think you can do here?
 -*(RECORD all comments*)
 
-
 ### Task 4: [Answer questions in app] 
 How would you use this? Please talk me through what you would do, but not click anywhere yet.
--*(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter information, but it will jump to a new screen with some information already filled out. 
--*(RECORD all comments about the interactions on each entry screen of the prototype*)
-  - Where/zipcode--
-  - # of dependents--
-  - VA Aid and Attendance--
-  - VA Housebound benefits
+
+-*(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
+
+-*(RECORD all comments and usability issues re the interactions on each screen of the prototype:)*
+  - *Where/zipcode--*
+  - *Number of dependents--*
+  - *VA Aid and Attendance--*
+  - *VA Housebound benefits--*
+  - *Summary screen of information entered--*
+
+### Task 5: [Results screen]
+What are your impressions of this page? *(RECORD what they say)*
+
+If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
+
+If your income last year was $25,000, what would that mean? *(RECORD)*
+
+What if your income was $100,000? *(RECORD)*
+
+### Task 6: [What next]
+What would you do next? *(RECORD: apply for VA health care / go back / ________________)*
+
+### Task 7: [Check info entered]
+Now you want to check whether you entered your location correctly. How could you do that? 
+- *(RECORD: go back to summary screen / zip code entry screen / ________________)*
+
+### Task 8: [Change year]
+Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from then? What could you do?
+- *(RECORD: click on "income limits search" / _________________________________)*
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
