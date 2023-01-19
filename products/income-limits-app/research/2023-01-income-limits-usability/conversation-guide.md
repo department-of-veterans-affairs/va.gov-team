@@ -43,7 +43,7 @@ There are a few of my teammates who would like to observe this session and take 
 
 Could the observers please turn their cameras off now to save bandwidth? *(and leave their real names instead of "Observer")*
 
-Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do some specific tasks using a website that I will share with you.
+Today I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a website that I will share with you.
 
 Before we start, I want to go over a few things:
 
@@ -90,11 +90,31 @@ Let’s start with a few questions...
 
 1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
+1. Do you have VA health care? *(Yes / No / ______________________)*
+
+1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
+
+
 ## User Tasks
-Now I'm going to ask you to do a number of things that you may or may not have done before. 
+Now I'm going to ask you to do some things... 
 
 ### Screen sharing
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
+I would like you first to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
+- *(refer to Screen sharing instructions above, if needed)*
+
+### Task 1: [Wayfinding] 
+*(if they DON'T have VA health care)* Let's say that you're wondering if you qualify for VA health care.
+
+*(if they already have VA health care)* Let's say that your income just changed, and you want to know whether you're still eligible for VA health care or if your benefits might change.
+
+How would you get started?
+
+- *RECORD what they do: *Google / VA.gov / words looking/searching for: _______________________*
+
+### Task 2: [Open prototype] 
+
+- 
+- I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
 
 While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -104,22 +124,7 @@ I'll have you start from a URL that I'm going to *[dictate/put into the Zoom cha
 
 Do you see the link? 
 
-I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
-- *(refer to Screen sharing instructions above, if needed)*
 
-### IF/WHEN participant wants to sign in before doing a task...
-- How would you do that? *(RECORD: "Sign in" button in header / "Create account" button below header /* 
-  - *"Sign in or create an account" button on a content page > Sign in or Create account link / My VA button )*
-- *(If "Create account" button)...* 
-  - What are your impressions of what you see? 
-  - Is this what you expected? *(RECORD: Yes / No / Confusion / __________)*
-  - What would you do next? *(RECORD: colored sign-in button / Create an account link below / __________)*
-- *(If not currently on the home page)* Could you please go back to the original page you were on? How might you do that from here?
-- Do you have an account? *(Yes / No / ____________)*
-  - *(if No)* What do you think about **whether** you **need** an account?
-  - Why or why not?
-  - *(Given whether they already have an account, did they use the appropriate button/link to sign in vs. create an account? Yes / No )*
-- If you were on a public computer and didn't want to sign in, is there anything you could do from this web page?
 
 ### Task 1: [Message your doctor or get a health care message] 
 
