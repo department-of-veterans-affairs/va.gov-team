@@ -115,5 +115,7 @@ Our team needs to also understand / decide / propose whether the Benefit Detail 
 One content type = more conditional logic in the front end to manage
 Multiple content types = more templates to manage / more Drupal definitions / configs to manage
 
-
+Key documents that Danielle provided to get us started:
+- [Core benefit content page templates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/structured-content/core-benefit-content-page-templates.md)
+- [Content structure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/structured-content/core-benefit-content-structure.md)
 
