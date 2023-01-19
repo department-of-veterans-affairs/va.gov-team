@@ -275,11 +275,11 @@ We will be testing what is currently approved in the staging environment.
 
 > A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: 
-* Date and time of pilot session: 
+* Pilot participant email: Christia Troyer ( )
+* Date and time of pilot session: Monday, January 23 at 4pm ET
 
 ### Research sessions
-* Planned dates of research: **January 25 - February 6, 2023**
+* Planned dates of research: **January 27 - February 8, 2023**
 
 ### Length of sessions
 * Session length: 1 hour 
@@ -291,15 +291,16 @@ We will be testing what is currently approved in the staging environment.
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| January 25, 2023      | 1pm - 8pm     |
-| January 26, 2023      | 1pm - 8pm     |
-| January 27, 2023      | 1pm - 4pm     |
-| January 30, 2023      | 12pm - 4pm    |
-| January 31, 2023      | 1pm - 4pm     |
+| January 27, 2023      | 11am - 4pm    |
+| January 30, 2023      | 11am - 4pm    |
+| January 31, 2023      | 12pm - 4pm    |
 | February 1, 2023      | 11am - 4pm    |
 | February 2, 2023      | 11am - 4pm    |
-| February 3, 2023      | 12pm - 4pm    |
-| February 6, 2023      | 12pm - 4pm    |
+| February 3, 2023      | 11am - 4pm    |
+| February 6, 2023      | 11am - 4pm    |
+| February 7, 2023      | 12pm - 4pm    |
+| February 8, 2023      | 11am - 4pm    |
+
 
 
 	
