@@ -226,9 +226,9 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: Eva Floyd
-* Observer: Sade Ragsdale
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Observer: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
 * Planned dates of research:
