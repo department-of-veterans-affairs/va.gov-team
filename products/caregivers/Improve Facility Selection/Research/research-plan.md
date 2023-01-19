@@ -14,22 +14,31 @@ During previous usability studies on this form (Research Findings: [February 202
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
-In addition, this question is asked to aid in routing the application to the appropriate local VA facility where there are Caregiver Support Staff located. 
+In addition, there are concerns that this questions could be potentially misleading. The facility chosen is used to process the applicatioin  at the nearest Caregiver support facility but the question is worded in that it is asking for the Veteran's preferred facility. Also when community/child facilities are included with the new search API integration this could add confusion because the applicant and the PDF will refelct the parent/Caregiver support facility not necessarily the facilty answered with. 
 
-We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of the purpose of the question. 
+
+We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Increase:
+- Percent of applications submitted online
+- Completion rate of online transactions
 
+Decrease:
+- Time to successful complete and submit online transactions
+- Time to process online applications
 
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
-
+- Taking care of myself
+- Putting down roots
+- Aging
 
 
 
@@ -37,44 +46,47 @@ Are there moments that matter?
 
 The goals of this user research are to:
 
-1. Determine what variation is the most understandable  
-2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process 
-3. Determine how applicants would prefer to search for and select a facility
+1. Determine what question variation is the most understandable in the way it is asked.
+2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
+3. Determine how applicants would prefer to search for and select a facility from a list.
 
 
 ### Outcome
 
-The outcome of this study will help aid 
+The outcome of this study will help aid in decisions around changes to make to this question and how it impacts the caregiver application process and how it can help best minimize applications submitted with facility errors. 
 
 
 ### Research questions
 
-Goal 1: Understand question being asked variation
-- Which variation (a, b or c) is easiest to understand and answer with little difficulty?
-- Which variation (a, b or c) results is the least amount of clarifying questions or information needed to complete?     
+Goal 1: Understandable
+- Which variation (a, b or c) is the easiest to understand and answer with little confusion?
+- Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
+- Which variation (a,b, or c) is the quickest to answer?    
 
 
-Goal 2: Understand how information is used variation
-- Which variation (a, b or c) is easiest to understand what they are selecting and how it impacts the caregiver application process?
-- Do users understand the variations containing a confirmation screen after selection?
+Goal 2: How information is used / impact to caregiver application process
+- Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Do users understand the variations containing a confirmation screen after selection? Does this add additional confusion?
 
 
 
-Goal 3: Search and selection process
+Goal 3: Search and selection of facilities
 - Are users able to navigate through the facility selection without difficulty?
-- Can they clear the text input field?
 - Do they know what to input in the text field?
 - Can users easily use the search input and understand what choices are populated from that search?
 - Can users easily narrow their search or pick a location from multiple pages of options?
-- Is it clear on to reselect a facility if one is selected in error?
+- Is it clear how to reselect a facility if one is selected in error?
 
 
 
 ### Hypothesis
+
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
 - Filtering results by miles away
 - Not recognizing the name of the facility they are looking for
+
+
 
 
 ## Methodology	
