@@ -1132,13 +1132,13 @@ We'll save your application every time you add or update information.
 
 _Warning alert:_
 
-### We noticed you didn't upload evidence
+### We noticed you didn't add new evidence
 
 If you have a presumptive condition, you don’t need to submit new evidence with your claim. You can continue through this form.
 
 If you’re filing a claim based on new evidence, we encourage you to submit the evidence with your claim. But if you don't have the evidence now, you can still file your claim. We'll work with you to get the evidence.
 
-Action Link: Upload new evidence
+Action Link: Add more evidence
 
 **_BACK_**
 
@@ -1202,7 +1202,7 @@ New evidence
 
 Edit
 
-I didn't upload any evidence.
+I didn't add any evidence.
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
