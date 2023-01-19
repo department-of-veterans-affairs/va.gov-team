@@ -10,11 +10,13 @@ Record what considerations have contributed to the evolution of a "hardened" Ben
 
 As Veteran-facing presentation layers grow, keeping content in sync across more places has become difficult. The Drupal CMS is intended to provide that source of truth for Veteran-facing content. However, content must be structured to enable apps to pull the content they need. The current state, which does not serve this purpose, has the Benefit Hub pages themselves being the source of truth for benefits. Applications can't pull any particular aspect of that content for specific purposes.
 
-Applications for structured content
+Applications/consumers of structured content
 - Virgual agent (chatbot)
 - Facilities pages on VA.gov, which tell Veterans what services (benefits) they can receive at a given facility
 - Mobile app
 - Benefit hubs on VA.gov
+
+Public websites epic covering content design and general discovery for this work: [issue 9628 in va.gov-cms repo](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9628)
 
 ## Decision log
 
