@@ -60,7 +60,7 @@ Learnings will help refine the design of the application.
 6. Do Veterans understand deductions and how that affects their income? (Did they see the details below all the income thresholds?)
 7. After seeing the information presented in the app results page, what do Veterans want to do next? 
 8. Do Veterans understand the relevant year of income for their eligibility? 
-9. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it being part of the flow? *(if it is like that in the prototype)*
+9. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
 10. Do Veterans expect a summary page for data entered?
 11. How do Veterans expect to "wayfind" to this app?
 
