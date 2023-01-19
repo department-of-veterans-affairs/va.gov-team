@@ -1,7 +1,3 @@
-<br>**[IN PROGRESS]**
-
----
-
 # 10-10EZ Healthcare Application household information - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Healthcare Application, Caregiver Team (10-10 Team)**
