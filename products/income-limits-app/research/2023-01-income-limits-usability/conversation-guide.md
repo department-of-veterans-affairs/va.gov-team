@@ -125,10 +125,14 @@ Do you see the link?
 
 What are your impressions of what you're looking at? *(RECORD)*
 
-Could you try to use this to find out if you're eligible for VA health care with your current income?
+Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
+- *(Click to start income limits app)*
 
-
-
+### Task 3: [Answer questions in Income Limits app] 
+How would you use this? Please talk me through what you would do, but not click anywhere yet.
+-*(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter information, but it will jump to a new screen with some information already filled out. 
+-*(RECORD all comments about the interactions on each entry screen of the prototype*)
+  - 
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
