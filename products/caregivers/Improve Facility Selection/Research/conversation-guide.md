@@ -1,26 +1,70 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, 10-10CG facility selection redesign usability testing and error flow checkup, August 2021
+[DRAFT] Conversation Guide: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
 
-## Moderator Logistics
+## Moderator logistics
+### 2-3 days before the session
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- _Use #feedback-backchannel in Slack for real-time feedback from observers._
-- _Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel)._
-- _Make sure everyone except the participant and moderator are on mute._
-- _In the Audio section, tap the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked._
-- _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
-- _When the participant is ready, begin the session with the following intro._
+- Complete any project-specific setup tasks for this study (List them below)
 
-## Project-Specific Setup and Intro - 10 minutes
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
 
-Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of the health care application.
 
-- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- You'll be interacting with a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- Please talk aloud as you're looking through things. For example, say "now I'd click on this.. what's this?" This helps me understand what's going through your head while using the tool.
-- To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
-- If for any reason and at any time you want to stop the session, please let me know.
+### Day of the session
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-**Talk them through Zoom screen sharing and chat features.**
+
+
+### Starting the session
+
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your [screensharing setup] and share permissions for participants.
+- When the participant is ready, begin the session with the following intro*
+
+
+
+
+
+## Intro - 5 minutes
+
+Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+
+Today we're going to talk about [description of your project].
+
+Before we start, a few things I want to mention:
+
+- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
+   - If no: Use Slack to kindly ask the observers to leave the Zoom.
+   - If yes: Admit observers. 
+    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+*Start recording.*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+
+
+
+## Warm-up Questions (Optional) - X minutes
+
+Before we look at the website, let’s start with a few warm-up questions.
+
+
+
+
+
 
 
 **I'm going to send you a link in the chat.**
@@ -35,16 +79,12 @@ _TBD link_
 - [Share your screen]. Can you confirm if you can see my screen?
 
 
-**Recording Instructions**
 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording to the Cloud.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"** 
+## First Task: [TASK NAME] - X minutes
 
-Great. Now we're really ready to begin!
+
 
 ## Warm-up Questions - 5 minutes
 
