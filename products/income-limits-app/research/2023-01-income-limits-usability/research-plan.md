@@ -84,7 +84,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions** using the criteria below. Before recruitment starts, I would like to schedule a kickoff call with Perigean to discuss the recruiting criteria.
+Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions** using the criteria below. 
 
 ### Required criteria 
 - ALL don't have VA health care
@@ -118,6 +118,11 @@ Ask Perigean to recruit **10 Veterans** in order to get **7 completed sessions**
 ## Timeline
 
 ### Prepare
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Available times for kickoff call (all in ET): 
+- Feb 3: 12-2:30 pm, 4-5 pm
+- Feb 6: 12-1 pm, 4:30-5:30 pm
+- Feb 7: 12-5 pm
+
 - Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
 - Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
 
