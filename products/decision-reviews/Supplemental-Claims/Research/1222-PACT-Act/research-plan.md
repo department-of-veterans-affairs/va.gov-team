@@ -1,9 +1,9 @@
-# Research Plan for Benefits Team 1, Supplemental Claims PACT, 01-23
+# Research Plan for Benefits Team 1, Supplemental Claims, PACT, 01-23
 
 ## Background
 Starting in January 2023, Veterans filing claims for presumptive conditions that are PACT Act eligible are allowed to file a Supplemental Claim without including new evidence. To get a disability rating, Veterans must prove that their time in service caused their condition. For claims that fall under the PACT Act, we remove the burden of proof. Veterans with presumptive conditions can file a Supplemental Claim without providing evidence.
 
-[Link to product brief]
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/readme.md)
 
 ### OCTO Objectives 
 - [ ] Increase the usage and throughput of VA services
