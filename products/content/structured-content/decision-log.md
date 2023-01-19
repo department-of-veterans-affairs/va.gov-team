@@ -18,7 +18,40 @@ Applications for structured content
 
 ## Decision log
 
+### 12/21 Workshop
+Danielle, Dave Conlon, Dave Pickett, Daniel Sasser, Wes
 
+Document under discussion: [Excel from August](https://dvagov-my.sharepoint.com/:x:/r/personal/danielle_thierry_va_gov/Documents/Benefits%20for%20content%20modeling%20work.xlsx?d=wb36115531f894fdc87f64ba53d27576e&csf=1&web=1&e=dPAc0R), **see tab "Modeled version (DJC)"**
+
+MVP
+- For sub-benefit About pages, which are also eligibility pages, are we going to render the whole page from the CM for MVP, or just the Eligibility section? (8/19)
+  - Eventually we’ll want to do the whole page
+- Migration experience at high level – is editor UX added to the Benefit Detail edit screen, or are there new screens for entering Benefits and Eligibility info?
+  - No decision
+- Benefit category/Hub will be a one-to-many – i.e., a benefit can be associated with multiple categories/Hubs
+- "Pre-requisite benefit name" (col B in excel) is not MVP.
+  - Rationale: complicated, not broadly applicable, and unlikely to be leveraged by MVP consumers of the content model.
+- "Main benefit recipient(s)" - this field should re-use an audiences (or similar) taxonomy, e.g., Veterans, Family members, Caregivers
+
+Next steps:
+- Transfer the excel info into Airtable, which has more database-like capabilities that are helpful to testing model
+  - [Github issue for Airtable-ing](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12058)
+
+
+### Gap; had trouble prioritizing this work
+
+### 8/22 mvp meeting
+Danielle, Steve Wirt, PW
+- We are unlikely to do any automated migration from old Hub content into content model
+- Next steps:
+  - Use a spreadsheet as a "draft content model" – we can iterate there, ensure content and model fit real benefits
+  - Danielle has begun an [Excel listing all benefits (sharepoint)](https://dvagov-my.sharepoint.com/:x:/r/personal/danielle_thierry_va_gov/Documents/Benefits%20for%20content%20modeling%20work.xlsx?d=wb36115531f894fdc87f64ba53d27576e&csf=1&web=1&e=dPAc0R) – Wes and Florence to modify columns to relfect MVP content model hypothesis and return it to Danielle to attempt entering all ~48 benfits into the spreadsheet
+
+### 8/17 Deep dive on Pattern Guide for benefit hubs
+(Wes, Florence)
+[Pattern guide](https://design.va.gov/patterns/benefit-applications#eligibility-hierarchy) used by Sitewide Content team to manage benefit hubs.
+
+- Gathered examples of "blue box" eligibility content in [Mural](https://app.mural.co/invitation/mural/vagov6717/1660845137501?sender=u907f83e01e35bb04de6f8139&key=96ac157c-b924-483d-96c7-8831613a101b)
 
 ### 8/12/22 Workshop
 
