@@ -97,7 +97,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |     10           |     8  |             |      1   |        1      | 
+|      15       |     10           |     12 |             |          |        3      | 
 
 
 ### Criteria Table 
@@ -122,7 +122,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | 45-54 yo                      | 4            |
 | 55+ yo                        | 4            |
 | \---                          | \---         |
-| **_LGBTQ+_**                  |              |
+| **_LGBTQ+_**                  |  4           |
 | Gay                           |              |
 | Lesbian                       |              |
 | Bisexual                      |              |
@@ -164,8 +164,8 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | Doctoral                      |              |
 | \---                          | \---         |
 | **_RESIDENCE_**               |              |
-| Urban                         |              |
-| Rural                         |              |
+| Urban                         | 6            |
+| Rural                         | 9            |
 | \---                          | \---         |
 | **_HARDWARE_**                |              |
 | Desktop                       | 7            |
