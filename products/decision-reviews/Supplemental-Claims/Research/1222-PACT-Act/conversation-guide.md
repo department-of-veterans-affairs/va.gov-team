@@ -2,9 +2,13 @@
 ### [draft] 1.13.2023
 
 **Research and Design:** Eileen Chi
+
 **Moderator:** Eileen Chi
+
 **Product:** Sade Ragsdale  
+
 **Observers:** TBD
+
 ### Conversation Guide for Benefits Team 1 - Supplemental Claims, January 2023 
 1. Have link to prototype ready  [mobile](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=70%3A5676&scaling=contain&page-id=10%3A1697&starting-point-node-id=70%3A5676) 
 ### Starting the session
@@ -45,7 +49,8 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 
 ### Warm up 
-### Task goal: Confirm they qualify for the study, learn how they receive information from VA about claims, and how that's meeting their needs.
+_Goal: Confirm they qualify for the study, learn how they receive information from VA about claims, and how that's meeting their needs._
+
 Before we look at the prototype, I'd like to get a little background information from you:
 
 * First, tell me a little about yourself and your relationship to the VA.
@@ -57,8 +62,9 @@ Before we look at the prototype, I'd like to get a little background information
     * If not likely, tell me more about that.
 * What do you know about the PACT Act?
 
-### 1. Determine if the beginning of the process of filing a Supplemental Claim is clear and actionable. 
-### Task goal: Validate that users are clear where they are and the expectations of the form.
+### Task 1. Supplemental Claims Introduction
+_Goal: Validate that users are clear where they are and the expectations of the form._
+
 Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 * Send link to prototype in Zoom chat
@@ -85,8 +91,9 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 * Do any users know how to access more information or help if they don't understand something on the page?
 * Do any users struggle with locating the start claim CTA?
 
-### 2. Determine if the user sees or can successfully add the issues they need to appeal 
-### Task goal: Validate that the details displayed are the most important pieces of information for disability issues
+### Task 2. Veteran Information and Issues for review
+_Goal: Validate that the details displayed are the most important pieces of information for disability issues_
+
 Ok, great, let’s move on. Can you describe to me what you think this section is for? 
 
 * Imagine you are filing a Supplemental Claim for asthma. Please try to do that and talk aloud so we can hear your thought process. (probe as necessary)
@@ -97,8 +104,9 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
 * When users review the summary of their entries, do they understand how to edit/change it?
 * What do users expect to happen next, when they select continue?
 
-### 3. Validate that Veterans understand their duty to assist by providing evidence 
-### Task goal: Veterans understand and certify that they have read and understand the duty to assist and take action on it
+### Task 3. Review and acknowledge this notice of evidence needed
+_Goal: Veterans understand and certify that they have read and understand the duty to assist and take action on it_
+
 * Can you describe what you're being shown?
   * In your own words, what do you think the alert is telling you?
 * Can you describe what this page is for?
@@ -114,40 +122,32 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
     * If they choose not to check it?
 * What do they expect to happen when they continue?
 
-### 4a Validate that users understand the options they have for adding evidence
-### Task goal. Veterans understand where they are in the form, can choose a type of evidence to submit and successfully summarize the decisions they’ve made
+### Task 4a. New and relevant evidence
+_Goal. Veterans understand where they are in the form, can choose a type of evidence to submit and successfully summarize the decisions they’ve made_
+
 * Can you describe to me what you think this section is for?
     * What's standing out to you? 
 * Based on the choices, tell me what you think you can do?
 * Go ahead and choose no.
 
-
 **Things to watch out for:**
-* Do users understand what new and relevant evidence means?
-    * Where would they go to learn more?
-* Do they understand the relationship between issue, evidence and time in service?
-    * If yes, what type of evidence will successfully connect them?
-    * If not, how would they go about learning more?
 * Do they understand that VA will get VA evidence for them?
-    * If yes, why
-    * If no, why
 * Is it clear how the VA can assist in gathering private evidence?
-    * If yes, what is their understanding?
-* Do they understand how to upload evidence?
-    * If yes, how do they go about it?
-    * If not, how do they go about learning how to do it?
+* Do they understand what it means to upload evidence?
 * Is there any important information missing in this section?
+* Do they feel confident moving forward when clicking no?
 
-### 4b Validate that users understand the options they have for adding evidence
-### Task goal. Veterans understand where they are in the form and summarize the decisions they’ve made
+### Task 4b. New and relevant evidence: Evidence summary
+_Goal. Veterans understand where they are in the form and summarize the decisions they’ve made_
+
 * Can you describe to me, in your own words, what this page is telling you?
 * What would you do if you wanted to add more evidence? 
 * Is there anything you expect to see here that you don't? Is anything confusing?
 * What would you expect to happen next?
 
+### Task 5. Review and submit
+_Goal: Review the claim information that you’ve entered, understand how to change items_
 
-### 5. Validate that users have what they need to review and submit the claim 
-### Task goal: Review the claim information that you’ve entered, understand how to change items
 * What do you think you can do with this screen?
 * Go ahead and review your information.
     * How would you expect to edit?
@@ -167,11 +167,10 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
 ### Thank-You and Closing - 5 minutes 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Do you have any questions or last thoughts for me before we end the session?
 
-
 ### Emergency Exit
 **Out of questions:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
-**Blame technology:** I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+**Blame technology:** I am so sorry, but I just learned that the prototype is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
 
 **Backup Moderator:** This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
 
