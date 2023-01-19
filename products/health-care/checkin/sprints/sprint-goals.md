@@ -34,6 +34,8 @@ ________________________________________________________________________________
    - [Complete wireframes for option 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51174)
    - [Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52127)
    - Do the presentation to Stephen & Patrick
+- [PCI Screen Reader Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51619)
+   - [Change headings in check in and pre check in to better support screen readers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52173) 
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
