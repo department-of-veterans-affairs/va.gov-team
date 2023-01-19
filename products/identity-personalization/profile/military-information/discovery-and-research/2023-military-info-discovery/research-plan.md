@@ -5,8 +5,8 @@
 - The product currently offers only the following info for those signed-in individuals for whom this info is relevant and available: military branch(es), period(s) of service, service start and end dates, contact info for addressing incorrect military info, and a link to request a DD214 "and other military records." 
 - The military info section of the product is not new, but no discovery has been completed in the past to learn how veterans use this product or how they'd hope or expect to use it. 
 
-[Link to product brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information))
-[Link to research outline]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/README.md#research-outline-expanding-the-military-information-section-of-the-vagov-profile))
+[Research outline]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery))
+[Product brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information))
 
 ### OCTO Objectives 
 
