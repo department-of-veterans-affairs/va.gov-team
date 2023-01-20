@@ -61,7 +61,8 @@ _"Decision review option" will be different for each participant, depending on w
 
 - Did you use VA.gov to file your (decision review option)?
 - What were your main reasons for filing the (decision review option)?
-- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)?
+- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)? 
+- If yes, how did you get in touch with that third party?
 - On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
 - What were your biggest challenges with the process?
 - Was there anything about the process that worked particularly well?
@@ -80,7 +81,7 @@ _"Decision review option" will be different for each participant, depending on w
 - [View decision review options page] Does this page provide you with enough information to proceed?
 - What would you do next?
 - What would you expect to happen if you filed a (decision review option) in this way?
-- [If they haven't already, prompt them to click into full Decision Review Options page] What do you think of this page? Does this page provide you with enough information to proceed?
+- [Direct them to the "Connect with representative" link] Let's say you wanted some help deciding which decision review option to pursue. What do you think of this page?
 - Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
 ### Things to watch for:
