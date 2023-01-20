@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **bit.ly/short-URL (URL)** 
+- *Open a standalone browser window to web page:* **bit.ly/3whFCA2** (https://www.sketch.com/s/a8506c94-a5bd-4a69-91ff-fe06545f3126/prototype/a/F5B88AD4-2EA3-4235-A5B7-2661FF169AD4)
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -119,8 +119,7 @@ I have a web page that I'd like you to look at while you're sharing your screen 
 
 While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/short-URL**
-- *(If dictate, skip the “http://” part)*
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3whFCA2**
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -133,7 +132,8 @@ Could you try to use this to find out if you're eligible for VA health care with
 ### Task 3: [Intro page of app] 
 What are your impressions of this page?
 What do you think you can do here?
--*(RECORD all comments*)
+
+- *(RECORD all comments*)
 
 ### Task 4: [Answer questions in app] 
 How would you use this? Please talk me through what you would do, but not click anywhere yet.
@@ -151,7 +151,8 @@ How would you use this? Please talk me through what you would do, but not click 
 What are your impressions of this page? *(RECORD what they say)*
 
 How is your income involved here?
-*Understand that it's your previous year's income that's relevant? yes / no*
+
+*RECORD: Understand that it's your previous year's income that's relevant? yes / no*
 
 If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
 
@@ -171,7 +172,7 @@ Now you want to check whether you entered your location correctly. How could you
 - *(RECORD: go back to summary screen / zip code entry screen / ________________)*
 
 ### Task 8: [Change year]
-Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from then? What could you do?
+Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year? What could you do?
 - *(RECORD: click on "income limits search" / _________________________________)*
 
 ## Post-Task Interview - 10 minutes
