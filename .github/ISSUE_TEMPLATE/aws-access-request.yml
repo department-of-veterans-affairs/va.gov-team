@@ -48,11 +48,9 @@ body:
   - type: checkboxes
     attributes:
       label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process?
+      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
       options:
-      - label: | 
-        Check this box if you have an E-QIP transmittal date. 
-        If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm.
+      - label: Check this box if you have an E-QIP transmittal date.
     validations:
       required: true
   - type: input
