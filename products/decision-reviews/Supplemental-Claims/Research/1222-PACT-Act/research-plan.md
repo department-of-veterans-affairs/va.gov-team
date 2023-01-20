@@ -45,8 +45,8 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 ### Research materials
 
-- [Link to conversation guide]
-- [Link to prototype]
+- [Link to conversation guide (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
+- [Link to prototype (WIP)]
 
 ## Recruitment	
 
@@ -61,11 +61,11 @@ Our intended audience for this research is Veterans who have had their claims de
 ### Criteria Table 
 This is a single study, and we are testing with a prototype
 
-|                |Single Study|Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
+|                |   Target   | Actual |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort  9|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |        10  |        |        |        |        |        |        |        |        |        |         |
-|Female          |        10  |        |        |        |        |        |        |        |        |        |         |                                   
+|Male            |     14     |        |        |        |        |        |        |        |        |        |         |
+|Female          |      6     |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
 |Black           |      4     |        |        |        |        |        |        |        |        |        |         |               
@@ -78,9 +78,9 @@ This is a single study, and we are testing with a prototype
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |      4     |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
@@ -114,9 +114,9 @@ This is a single study, and we are testing with a prototype
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |            |        |        |        |        |        |        |        |        |        |         |
-|High School     |            |        |        |        |        |        |        |        |        |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
+|GED             |      4     |        |        |        |        |        |        |        |        |        |         |
+|High School     |      4     |        |        |        |        |        |        |        |        |        |         |
+|Some College    |     12     |        |        |        |        |        |        |        |        |        |         |
 |Associate's     |            |        |        |        |        |        |        |        |        |        |         |
 |Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
 |Masters         |            |        |        |        |        |        |        |        |        |        |         |
@@ -124,13 +124,13 @@ This is a single study, and we are testing with a prototype
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |            |        |        |        |        |        |        |        |        |        |         |
+|Urban           |      14    |        |        |        |        |        |        |        |        |        |         |
+|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Mobile          |     10     |        |        |        |        |        |        |        |        |        |         |
+|Mobile          |     12     |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
