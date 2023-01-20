@@ -97,3 +97,9 @@ Answer:
 2. What is the Admin notification? Does it require user action? Does it link anywhere?
 
 #### VA Insurance
+
+1. What is the Document Ready for Review notification? Does it require user action? Does it link anywhere?
+
+#### VBA Education
+
+1. What are the Email33 Enrollment Verification Monthly Attendance Verify notifications? Do they require user action? Do they link anywhere?
