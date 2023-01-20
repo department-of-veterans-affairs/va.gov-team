@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 01/20/2022
-- Fixed an accessibility error on the demographics list view
+- Fixed an accessibility error on the demographics list view (uses semantic markup for lists in lieu of aria labels)
     - [Ticket 51894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51894)
 
 ### 01/06/2023
