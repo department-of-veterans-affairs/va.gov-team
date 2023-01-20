@@ -129,7 +129,8 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 > While “My Health” provided an intuitive go-to location for “Manage” tasks, it was often not considered for “Get” content and tasks - [Health Hub Tree Test Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)
 3. Once people find a way of navigating that works for them, they tend to stick to it. Findings from both [round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) and [round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md) of the homepage redesign research support this. 
 
-#### What do we not know at this point? 
+## What do we not know at this point? 
+
 1. What do people without accounts do when they try to accomplish a task that requires one?
 - The [homepage redesign research (round 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#further-research-needed) calls this out as something to do more research on.
 2. What are expectations do people have who are *not* Veterans around a personalized va.gov experience?
@@ -137,8 +138,10 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 
 **Outstanding question**: How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
 
+## What would be helpful to get more information on?
 
-#### What would be helpful to get more information on?
+### Liz's recommendations
+
 1. More information about signing in will be useful.  While previous studies had a few insights related to our question, none of these studies really focused on learning about this.  Each of these questions were answered in one study
 	- When do people sign sign in to VA.gov?
 	- Do they they intend to sign in right way, or only after they encounter a CTA?
@@ -152,6 +155,19 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 4. What kind of learning curve will we need to account for when people need to use VA.gov to complete tasks typically done on My HealtheVet? 
 - The Digital Health Modernization Generative Research Study 1 ([Insight 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-3-veterans-and-caregivers-dont-go-to-vagov-to-do-health-tasks)) called out that participants struggled to complete health tasks that took them out of MHV, including scheduling appointments
 5. If we need more data to define the tasks people come to VA.gov to complete, we should do additional research to confirm the My VA 2.0 2020 research. The studies reviewed as part of this effort primarily included pre-determined tasks that don’t dig into what people are coming to VA.gov for when they’re not in a research session.
+
+### Summary of Samara's outstanding questions
+
+1. When do people login in a given flow (eg. right away, after finding a prompt in a content page, etc)?
+2. What sign in CTA(s) do people use (homepage, content page, main nav), and how easily they find these prompts?
+3. Does "sign in" or "create an account" make a difference?
+4. Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
+5. Is the problem with navigation the main nav, lengthy content pages (assume CTA is not on My VA or homepage), or both (or something else)?
+6. Does the homepage need to exist in a logged-in state? Can My VA replace it?
+7. Does "Get" and "Manage" delineation hold up when we add the layer of a visual navigation on top of a tree test? 
+8. What other wayfinding methods besides navigational terms should we consider (eg. alert indicators)?
+9. Is using the mobile app nav as a model for VA.gov a good idea? Given the inherent difference in these mediums, where is the line between how they should be similar and how they should and need to differ?
+10. How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
 
 ## Studies reviewed
 *  [Homepage redesign round 1 testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md) 
