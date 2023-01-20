@@ -46,6 +46,7 @@ body:
       validations:
         required: true
   - type: checkboxes
+    id: eqip-date
     attributes:
       label: E-QIP Transmittal Date
       description: Have you started your E-QIP process?
