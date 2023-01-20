@@ -64,4 +64,17 @@ Answer:
 **20. ....** 
 Answer: 
 
+ ### Samara's questions
  
+ We can combine these into the main list, but separating them for now until we have a chance to discuss and consolidate across our team.
+ 
+ #### Appeals notifications
+ 
+1. Do the Appeal decision mailed notifications link to anything? Or is it just a heads-up to look out for the mail?
+2. What does "Appeal docketed" mean? What kind of information does this link to, if any?
+3. Do the "hearing scheduled" notifications link to information, or include the scheduled date and time?
+4. Do the "Postponement of hearing" notifications link to information, or include the scheduled date and time?
+5. Do the "Privacy Act request pending" notifications require people to take action? If so, what?
+6. What is the "quarterly notification" from BVA?
+7. What is the "VSO IHP pending" notification? Does it require people to take action? If so, what?
+8. Is the "Withdraw of hearing" notification a confirmation? Also, who withdrew the hearing, the veteran or BVA? Or can that vary?
