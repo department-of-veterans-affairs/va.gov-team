@@ -13,7 +13,7 @@ body:
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
         6. When the issue is closed you will be notified and can continue with on-boarding setup
-        7. Verify that this request is for a user who has started the EQIP process. 
+        7. Verify that this request is for a user who has started the EQIP process.
   - type: dropdown
     id: cor-name
     attributes:
