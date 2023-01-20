@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
+# [DRAFT] Research Plan: 10-10CG facility selection usability a/b/c study, 1010 Team, February 2023
 
 
 ## Background
@@ -16,7 +16,9 @@ During previous usability studies on this form (Research Findings: [February 202
 In addition, there are concerns that this questions could be potentially misleading. The facility chosen is used to process the applicatioin  at the nearest Caregiver support facility but the question is worded in that it is asking for the Veteran's preferred facility. Also when community/child facilities are included with the new search API integration this could add confusion because the applicant and the PDF will refelct the parent/Caregiver support facility not necessarily the facilty answered with. 
 
 
-We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of this question. 
+
+
+We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c usability test to research the clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
@@ -45,28 +47,26 @@ Are there moments that matter?
 
 The goals of this user research are to:
 
-1. Determine what question variation is the most understandable in the way it is asked.
+1. Determine what facility question flow variation is the most understandable in the way it is asked.
 2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
 3. Determine how applicants would prefer to search for and select a facility from a list.
-4. Determine if the new facility search and selection process has any accessibility concerns. 
-
 
 ### Outcome
 
-The outcome of this study will help aid in decisions around changes to make to this question and how it impacts the caregiver application process and how it can help best minimize applications submitted with facility errors. 
+The outcome of this study will help aid in decisions around changes to make to this question and and how it can help best minimize applications submitted with facility errors. 
 
 
 ### Research questions
 
-**Goal 1: Understandable**
-- Which variation (a or b) is the easiest to understand and answer with little confusion?
-- Which variation (a or b) results is the least amount of clarifying questions or additional information needed to complete? 
-- Which variation (a or b) is the quickest to answer?    
+**Goal 1: Understandable content**
+- Which variation (a, b or c) is the easiest to understand and answer with little confusion?
+- Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
 
 
-**Goal 2: How information is used / impact to caregiver application process**
-- Which variation (a or b) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
-- Do users understand the variations containing a confirmation screen after selection? Does this add additional confusion?
+**Goal 2: Clear how this is used in caregiver application process**
+- Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Do users understand the variations (b and c) containing a confirmation screen after selection and does this add additional confusion?
+
 
 **Goal 3: Search and selection of facilities**
 - Are users able to navigate through the facility selection without difficulty?
@@ -93,12 +93,14 @@ Our hypothesis is that users will be able to navigate through the facility selec
 ## Methodology	
 
 **A/B/C usability task analysis and interview questions**
+
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
+
 
 
 ### Location
 
-A remote task-based usability/moderated interview study will be conducted remotely with Zoom using the Perigean contract. 
+A remote task-based usability study will be conducted remotely with Zoom using the Perigean contract. 
 
 
 
