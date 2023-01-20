@@ -6,7 +6,7 @@ An [existing application](https://www.va.gov/healthbenefits/apps/explorer/Annual
 However, there are multiple issues with the existing application, which lacks:
 - Reliably accurate data
 - Plain language
-- Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use
+- Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use.
 
 We are rebuilding and modernizing this application, and would like to get user feedback on our designs.
 
