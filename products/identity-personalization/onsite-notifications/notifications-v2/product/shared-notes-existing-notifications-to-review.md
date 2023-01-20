@@ -80,3 +80,20 @@ Answer:
 8. Is the "Withdraw of hearing" notification a confirmation? Also, who withdrew the hearing, the veteran or BVA? Or can that vary?
 
 #### Lighthouse
+
+1. What is the Notice of Disagreement?
+2. What is the Decision Review Request?
+3. What is the On Application Connect/Disconnect?
+
+#### QuickSubmit
+
+1. The following sound like confirmations, but are listed as "other". What are they?
+  - Account Activated
+  - Account Deactivated
+  - Approved Admin Request
+  - Denied Admin Request
+  - Failed Submission Email
+  - Profile Email Updated
+2. What is the Admin notification? Does it require user action? Does it link anywhere?
+
+#### VA Insurance
