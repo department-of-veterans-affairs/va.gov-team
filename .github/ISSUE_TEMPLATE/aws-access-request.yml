@@ -50,7 +50,9 @@ body:
       label: E-QIP Transmittal Date
       description: Have you started your E-QIP process?
       options:
-      - label: "Check this box if you have an E-QIP transmittal date. If not, do not submit this ticket. You will not be granted access without one. If you aren't sure, ask your Vendor Onboarding Representative."
+      - label: | 
+        Check this box if you have an E-QIP transmittal date. 
+        If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm.
     validations:
       required: true
   - type: input
