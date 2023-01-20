@@ -10,7 +10,7 @@ However, there are multiple issues with the existing application, which lacks:
 
 We are rebuilding and modernizing this application, and would like to get user feedback on our designs.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/product-outline.md)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app)
 
 [Link to card in research repo]()
 
