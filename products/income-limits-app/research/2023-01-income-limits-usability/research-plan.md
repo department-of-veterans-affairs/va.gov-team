@@ -130,7 +130,7 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 ### Research sessions
 * Planned dates of research: **Feb 17-27, 2023** 
 
-We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own timezone** (from a screener question).
+We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
 ### Length of sessions
 * Session length: 1 hour
