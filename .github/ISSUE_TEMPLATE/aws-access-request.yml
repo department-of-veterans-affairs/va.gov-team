@@ -13,7 +13,7 @@ body:
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
         6. When the issue is closed you will be notified and can continue with on-boarding setup
-        7. Verify that this request is for a user who has started the EQIP process.
+        7. "Verify that this request is for a user who has started the E-QIP process."
   - type: dropdown
     id: cor-name
     attributes:
@@ -45,15 +45,14 @@ body:
         - Other - please specify in 'Additional Notes'
       validations:
         required: true
-  - type: checkboxes
-    id: eqip-date
+ - type: checkboxes
     attributes:
-      label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process?
+      label: "E-QIP Transmittal Date"
+      description: "Has this user started their E-QIP process and have a submittal date? Please verify before submitting a request." 
       options:
-        - label: "Check this box if you have an E-QIP transmittal date. If not, do not submit this ticket. You will not be granted access without one. If you aren't sure, ask your Vendor Onboarding Representative."
-      validations:
-        required: true
+      - label: "I have verified that the user has an E-QIP transmittal date"
+    validations:
+      required: true
   - type: input
     id: requestor-name
     attributes:
