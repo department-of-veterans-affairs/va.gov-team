@@ -4,8 +4,8 @@ title: AWS access for [individual]
 labels: ['external-request', 'operations', 'ops-access-request']
 body:
   - type: markdown
-      attributes:
-      value: |
+    attributes:
+    value: |
         :wave: **_Instructions_**
         1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
         2. Change the **Title** to include target individual
