@@ -80,16 +80,16 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 
 ### Research materials
-- [Link to conversation guide]()
-- [Link to prototype in Sketch]()
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/conversation-guide.md)
+- [Link to prototype in Sketch](https://www.sketch.com/s/a8506c94-a5bd-4a69-91ff-fe06545f3126/prototype/a/F5B88AD4-2EA3-4235-A5B7-2661FF169AD4)
 	
 ## Recruitment
 
 Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below. 
 
 ### Required criteria 
-- ALL don't have VA health care
-- ALL don't receive VA disability compensation for a service-connected disability rating of 50% or higher
+- NONE have VA health care
+- NONE receive VA disability compensation for a service-connected disability rating of 50% or higher
 - ALL plan to use their smartphone for the session 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
@@ -100,7 +100,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
   - Have a working microphone on their smartphone
 - At least 3 people of color
 - At least 2 women
-- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 2 people who don't have any degree or vocational training after high school 
 - At least 2 people who live in a rural or remote area
 
 ### Screening Questions
@@ -114,7 +114,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. What time zone are you located in?*(RECORD)*
+1. What time zone are you located in? *(RECORD)*
 
 ## Timeline
 
