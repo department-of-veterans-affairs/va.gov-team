@@ -103,3 +103,15 @@ Answer:
 #### VBA Education
 
 1. What are the Email33 Enrollment Verification Monthly Attendance Verify notifications? Do they require user action? Do they link anywhere?
+
+#### VEText
+
+1. Are all of these now supported by VANotify?
+2. For the in-person and virtual hearing reminders, do these link anywhere? Or do they include appointment information?
+3. Does the prescription tracking notification link anywhere?
+4. What are the "Code Messages Templates"? Are these confirmation codes (eg. like 2-factor auth)?
+5. What is the prescription auto-response?
+6. What is the SMS API template?
+
+#### VA.gov
+
