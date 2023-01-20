@@ -16,7 +16,7 @@ This research review is the first of 7 research activities we’ll do to dive de
 There were two main goals for this review:
 
 1. **Determine what we already know** - This includes any known challenges with navigating the logged in experience (eg. people being reliant on homepage and My VA links); Veteran top tasks that we've already seen demonstrated through research and analytics; and known expectations around the logged in experience (eg. it should be personalized).
-2. **Determine what we need more information on** - This includes documenting any findings that we'd like to gather more information; including context for specific tasks in case it's relevant; documenting thoughts on how we can potentially explore findings further; and determining outstanding questions.
+2. **Determine what we need more information on** - This includes documenting any findings that we'd like to gather more information; documenting thoughts on how we can potentially explore findings further; and determining outstanding questions.
 
 ## Research questions and findings
 
