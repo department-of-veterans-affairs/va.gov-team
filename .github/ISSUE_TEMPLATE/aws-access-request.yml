@@ -44,7 +44,7 @@ body:
         - Accenture Federal Services - Alexa Elliot
         - Other - please specify in 'Additional Notes'
     validations:
-      required: true
+     required: true
    - type: checkboxes
     attributes:
       label: E-QIP Transmittal Date
