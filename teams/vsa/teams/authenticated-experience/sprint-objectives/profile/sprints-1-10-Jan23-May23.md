@@ -107,6 +107,10 @@ This is dependent on when these people are actually hired:
 
 - Inventory all instances in which we use the "We can't load all the information..." error #51902
 
+**BE - Tom**
+
+- Testing Vets-API Server from BRD to EKS #52354
+
 ### Accessibility
 
 **Design - Liz**
