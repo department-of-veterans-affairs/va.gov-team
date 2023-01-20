@@ -13,7 +13,7 @@ body:
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
         6. When the issue is closed you will be notified and can continue with on-boarding setup
-        7. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request. 
+        7. "Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request."
   - type: dropdown
     id: cor-name
     attributes:
@@ -129,7 +129,7 @@ body:
       - label: "Comment in this issue saying which roster the user is listed in."
   - type: checkboxes
     attributes: 
-      label: User must have an EQUIP date
+      label: User must have an E-QIP date
       description: This must be verified by access requestor before access will be assessed and granted
       options:
-      - label: "I have verified that the EQUIP process has begun and an EQUIP date exists for this Team member" 
+      - label: "I have verified that the E-QIP process has begun and an EQUIP date exists for this Team member" 
