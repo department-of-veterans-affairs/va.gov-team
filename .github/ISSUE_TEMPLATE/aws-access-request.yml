@@ -43,9 +43,9 @@ body:
         - Liberty IT -  Michael G. Lovejoy
         - Accenture Federal Services - Alexa Elliot
         - Other - please specify in 'Additional Notes'
-    validations:
-     required: true
-   - type: checkboxes
+      validations:
+        required: true
+  - type: checkboxes
       attributes:
         label: E-QIP Transmittal Date
         description: Have you started your E-QIP process?
