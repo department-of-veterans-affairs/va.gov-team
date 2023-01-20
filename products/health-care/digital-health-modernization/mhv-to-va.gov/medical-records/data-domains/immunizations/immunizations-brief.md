@@ -1,6 +1,6 @@
 # Immunization: Data fields and UX considerations
 
-Last updated: January 18, 2022
+Last updated: January 18, 2023
 
 ## Purpose
 
