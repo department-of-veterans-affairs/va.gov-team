@@ -29,7 +29,8 @@ ________________________________________________________________________________
    - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
    - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
    - Design Council Review (scheduled for 1/20/23)
-   - Schedule Staging Review
+   - Provide instructions for review environment prior to Staging Review
+   - Attend Staging Review
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - [Complete wireframes for option 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51174)
    - [Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52127)
@@ -49,6 +50,7 @@ ________________________________________________________________________________
    -  [Incorporate the 3 new fields]()
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - Get footer approved
+   - Attend Staging Review
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
     - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
     - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
