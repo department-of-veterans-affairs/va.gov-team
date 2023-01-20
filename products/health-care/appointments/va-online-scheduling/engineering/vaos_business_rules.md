@@ -25,7 +25,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 
 #### Community care appointments
-- Veteran can cancel through VAOS.
+- Veteran cannot cancel through VAOS.
 
 ### Past Appointments
 - Includes VA and community care appointments
@@ -37,7 +37,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Sorted by date/time the request was created. Most recent requests appear at the top of the list.
 
 #### Community care requests
-- Veteran cannot cancel through VAOS.
+-  Veteran can cancel through VAOS.
 
 ## New appointment flow
 

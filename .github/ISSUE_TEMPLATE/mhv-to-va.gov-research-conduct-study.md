@@ -2,7 +2,7 @@
 name: MHV to VA.gov Research Conduct Study Task
 about: For MHV to VA.gov to Conduct a Research Study
 title: "[Research] MHV to VA.gov: APP NAME: Conduct research study"
-labels: my-health, ux, research
+labels: my-health, research, ux
 assignees: ''
 
 ---

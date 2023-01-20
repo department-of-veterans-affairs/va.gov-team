@@ -322,7 +322,7 @@ For example:
 
 
 
-1. **Remove the “COVID-19 Vaccine” card from the top of the home screen. **
+1. **Remove the “COVID-19 Vaccine” card from the top of the home screen.**
 
 Since Veterans found it confusing and misleading, we recommend changing the name to “VA COVID-19 information” and reducing the visual hierarchy. 
 
@@ -340,13 +340,14 @@ Participants needed an explanation of what these items were and expressed confus
 * Consider bringing the Veteran’s name and disability rating to the homescreen to make completing the task of checking disability rating easier and make the app feel more personable by bringing pertinent information to the surface. 
 * Disability rating and claim status was of high importance for participants. 
 * Checking the status of a claim was a major pain point across the research. 
-3. **Create a way for “Benefits” to be easily accessible and consider an IA where they are grouped together. **
+* 
+3. **Create a way for “Benefits” to be easily accessible and consider an IA where they are grouped together.**
 
 Being able to check benefit balances and payment information was highly important. Veterans also grouped payment related items together. For this reason we suggest considering ways to surface these items in the IA or consider possibilities where they are discoverable. 
 
 
 
-4. **Consider changing the name of “profile” to something that more accurately represents the section of all of the Veteran’s personal and military information along with VA letters.**
+4. **Consider changing the name of “Profile” to something that more accurately represents the section of all of the Veteran’s personal and military information along with VA letters.**
 
 None of the participants created a category titled “Profile.” However, participants grouped most of the items that are currently in the profile together. Veterans expressed a need to have all of their personal information in one place.
 

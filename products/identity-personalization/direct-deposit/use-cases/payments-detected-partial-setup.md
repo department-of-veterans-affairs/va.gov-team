@@ -1,6 +1,6 @@
 # Direct deposit: user has set up direct deposit for one, but not both benefits
 
-**Last update: June 22, 2022**
+**Last update: December 14, 2022**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has only set up direct deposit for one benefit, they'll see different messages in each payment section of the page.
 
@@ -33,7 +33,7 @@ N/A
 ## How to reproduce
 
 ### Has set up compensation and pension direct deposit, but has not set up education payments
-1. Log into staging with Judy Morrison ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+1. Log into staging with Judy Morrison ([read VAOS staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md))
 2. Navigate to direct deposit
 3. You will see compensation and pension direct deposit set up, but not education
 
@@ -41,7 +41,7 @@ N/A
 No test user set up for this use case
 
 ### Has set up education direct deposit, and is not eligible for compensation or pension payments
-1. Log into staging with users 379, 380, 381, 382 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+1. Log into staging with users 379, 380, 381, 382 ([direct deposit staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md))
 2. Navigate to direct deposit
 3. You will see education direct deposit set up, and a message in compensation and pension payments reflecting they can't set up those payments.
 

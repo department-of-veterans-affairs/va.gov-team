@@ -4,7 +4,7 @@ about: Incoming style guide feedback and requests triaged by the Content & IA te
   This template is linked to from the VSP documentation style guide.
 title: Documentation Style Guide Request
 labels: documentation-style-guide, documentation-support
-assignees: gmaciolek
+assignees: ''
 
 ---
 

@@ -2,7 +2,7 @@
 name: MHV to VA.gov Conversation Guide Task
 about: For MHV to VA.gov Conversation Guide Task
 title: "[Research] MHV to VA.gov: APP NAME: Create Conversation Guide"
-labels: ux, research, my-health
+labels: my-health, research, ux
 assignees: ''
 
 ---

@@ -42,6 +42,10 @@ Veterans have evolved too - from never logging in to understanding that some tas
 ## Product artifacts
 - [Homepage redesign initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 - [Homepage design iteration timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md)
+- [Proposed content rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/homepage-content-rubric.md) _how content was chosen for the release version and how future content will be evaluated for placement in Popular links, Search tools menus, and promos on the homepage_
+- Launch artifacts
+  - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/release-plan.md)
+  - [Cutover determination](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) _information about the metrics which will determine when/if the redesign can replace the existing homepage in Production_
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/discovery.md)
 - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/decision-log.md)
 - [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
@@ -59,6 +63,11 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - [Sketch file - Round 2](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/DD9CFAD9-2A54-41AB-9149-DD1BAC2EB1AF/canvas) | October 2022
 - [Sketch file - Round 3](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/p/EAD305BC-3082-4F81-ADEC-C2486F7B6BEF/canvas) | November 2022
 - [Summary of changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/summary-of-changes.md#march-2022)
+
+## QA resources
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/use-cases.md) _expected behavior for the launched redesign version_
+- [Modal use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/modal-use-cases.md) _expected behavior specific to the modal used during the soft launch period_
+- [TestRail suite](https://dsvavsp.testrail.io/index.php?/projects/overview/56) _includes test cases, test run reports and regression plans_
 
 ## Contacts
 

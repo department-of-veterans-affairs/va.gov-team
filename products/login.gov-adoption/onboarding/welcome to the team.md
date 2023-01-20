@@ -3,21 +3,21 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 
 ## Onboarding
 ### Your onboarding checklist
-- [ ] Schedule PIV Orientation  with Yvonne (<yvonne@mostudio.com>) to start onboarding
-- [ ] Confirm access to MO Slack channel (#va-identity-product-team)
+- [ ] Schedule PIV Orientation with [Yvonne](https://dsva.slack.com/team/U0439K1MX61) to start onboarding
+- [ ] Confirm access to Slack channels (#va-identity-product-team & #cedar-identity-product-team)
 - [ ] Confirm access to [VA CEDAR Identity Google Drive](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=share_link)
 - [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
 - [ ] Attend VA 101 primer
-- [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](mailto:elizabeth@bluetiger.digital)
+- [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](https://dsva.slack.com/team/U043UFQG98V)
 - [ ] Confirm you have access to the Digital Service @ VA Slack
 - [ ] Confirm you have access to VA Github
 - [ ] [Review guidance for new teams and team members ](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSTeammembers)
 - [ ] [Complete the VA Platform orientation template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D)
-- [ ] Get access to [other tools](#_kw90587vdv76)
-- [ ] Schedule 1:1’s to meet your team
-- [ ] [Review previous research](https://drive.google.com/drive/folders/1YtZ6oU8ZqOw5leXeI6K4K2ZAWxaYiUSW?usp=sharing)
-- [ ] [Review previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing)
-- [ ] Add [contact information to Project Team tab](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
+- [ ] Get access to [other tools](#tools-we-use)
+- [ ] Schedule 1:1’s to meet your [team](#implementation-team)
+- [ ] [Review previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
+- [ ] [Review previous sprint demo decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/presentations/sprint%20demos)
+- [ ] Add [contact information to Project Team tab here](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
 
 ## CEDAR Identity Login.gov Adoption Project
 ### Background
@@ -34,6 +34,24 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
 
 Learn more about the key priorities in [previous sprint demo decks](https://drive.google.com/drive/folders/1AKzOpIZ8V9rCBxQap2jLuiC5WF5WVTBG?usp=sharing).
 
+### Implementation team
+December 2022 - 2023
+
+|Role|Assigned|Contact|
+|:---:|:---:|:---:|
+|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
+|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
+|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
+|Content Strategist|Carl Dickerson|carl@themostudio.com|
+|UX Designer|Carolyn Williams|carolyn@themostudio.com|
+|Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
+|Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
+|Full Stack Developer|TBD|TBD|
+|Senior Interaction Designer|TBD|TBD|
+
 ### Discovery team
 August - December 2022
 
@@ -47,28 +65,13 @@ August - December 2022
 |Senior UX Designer|Bri Mazzio|briana.mazzio@frog.co|
 |Senior Strategist|Marissa Klein|marissa.klein@frog.go|
 |Visual Designer|Paul Knipper|paul.knipper@frog.go|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
+|Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-
-### Implementation team
-December 2022 - 2023
-
-|Role|Assigned|Contact|
-|:---:|:---:|:---:|
-|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program Manager|Jay Tanner|jtanner@pluribusdigital.com|
-|Senior Product Manager|Elizabeth Koch|elizabeth@bluetiger.digital|
-|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
-|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
-|Content Strategist|Carl Dickerson|carl@themostudio.com|
-|UX Designer|Carolyn Williams|carolyn@themostudio.com|
 
 ### When we work together
 We collaborate between 8am - 5pm EST. Meetings should be scheduled during this time. We currently hold the following all-team ceremonies:
 - Standup (daily)
-- Pin up (daily)
 - Mid sprint review (bi-weekly)
 - Demo or sprint review (bi-weekly)
 - Retro (bi-weekly)

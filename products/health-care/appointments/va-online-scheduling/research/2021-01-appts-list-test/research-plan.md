@@ -4,9 +4,9 @@
 As a Veteran who uses VA online scheduling, I want to be able to manage all my appointments from a single place which includes preparing for upcoming appointments, printing specific details about appointments, reviewing past appointments, and rescheduling appointments.	
 
 ## Goals	
-The VA online scheduling home page displays all of a Veteran's upcoming VA and Community Care appointments. This list of appointments can become very long, which makes it difficult to scan the list and understand key important details about upcoming appointments, like the date, time, and location of a given appointment. This problem was identified during the [Express Care research in July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md).
+The VA online scheduling home page displays all of a Veteran's upcoming VA and Community Care appointments. This list of appointments can become very long, which makes it difficult to scan the list and understand key important details about upcoming appointments, like the date, time, and location of a given appointment. This problem was identified during the [Express Care research in July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research/research-findings.md).
 
-We believe that if we provide a "thumbnail" view of appointments, organized by month, that will give Veterans enough information to plan ahead for their appointments at a high level, as long as they can easily get the details for their individual appointments. This belief is based on the success of similar appointments work done by the VA Mobile team, as well as the success of a partial test of this functionality during the [Community Care research in December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery).
+We believe that if we provide a "thumbnail" view of appointments, organized by month, that will give Veterans enough information to plan ahead for their appointments at a high level, as long as they can easily get the details for their individual appointments. This belief is based on the success of similar appointments work done by the VA Mobile team, as well as the success of a partial test of this functionality during the [Community Care research in December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md).
 
 ## Research questions
 
@@ -80,15 +80,8 @@ The Pilot is scheduled for 01/19/21 at 3p.m. ET with Emily Waggoner
 - Participant(s) for pilot test: Emily Waggoner
 - Note-takers: Perigean
 - Observers:
-    - Lauren Earnest - lauren.ernest@adhocteam.us
+    - Lauren Ernest - lauren.ernest@adhocteam.us
 
 ## Resources	
-- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/product-projects/homepage-refresh-initiative-2021.md)
-- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/conversation-guide.md)
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/homepage-refresh/homepage-refresh-initiative-2021.md)
+- [Conversation guide](conversation-guide.md)

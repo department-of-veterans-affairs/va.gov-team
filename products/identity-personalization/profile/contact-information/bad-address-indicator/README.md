@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: December 2, 2022
+**Last Updated: January 3, 2023**
 
 ### Communications
 
@@ -101,26 +101,26 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
   
 **Please update all dates to reflect the actual dates for pre-launch and post-launch.**
 
-**Key result #1**: Establish baseline metrics for how many people see the bad address prompt.
+**Key result #1**: Establish baseline metrics for how many people see the bad address prompt (source: [GA Dashboard Widget](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20221024&_u.date01=20221123))
 
 |KPI/metric|Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|
-|# of views of the bad address prompt on Personal Info| 226|TBD|TBD|
-|# of views of the bad address prompt on Contact Info|160|TBD| 
+|# of views of the bad address prompt on Personal Info| 226|226|
+|# of views of the bad address prompt on Contact Info|160|167| 
 
-**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase).
+**Key result #2**: Determine if we see an increase in address updates as a result of this prompt (KPI = 10% increase)(source: [GA Dashboard Widget](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20221024&_u.date01=20221123)).
 
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|Mailing address updates| 24,965|23,482|TBD|
+|Mailing address updates| 24,965 unique events|23,482 unique events|22,756 unique events|
   
 **Key result #3**: Determine if we see a decrease in number of folks with the bad address indicator (KPI = 10% decrease).
 
-Note: we need to get these numbers from VA Profile.  
+**Note: These numbers come from VA Profile. Note that BAI address corrections are also made outside of VA.gov; they are included in the overall numbers shown below and account for the large volume of BAI updates compared to GA widget data. Based on our other analytics, we can safely conclude that the VA.gov profile DID NOT have much of an impact on the drastic drop in bad addresses, and that this drop is likely due to address updates happening through medical facilities, regional offices, and other sources.**
   
 |KPI/metric|Pre-launch: One month pre-launch to any users (9/13 - 10/12) | Post-launch: One month post-launch to 100% (10/24 - 11/23)| Post-launch: Second month post-launch to 100% (11/24 - 12/23)|
 |----------|-------------|---------------|---------------|
-|# of people with the bad address indicator|TBD|TBD|TBD|  
+|# of people with the bad address indicator|554,093 (as of 10/12/22)|448,551 (as of 11/23/22)|TBD|  
 
 </details>
 

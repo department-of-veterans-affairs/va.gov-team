@@ -4,7 +4,7 @@ about: Incoming documentation support requests triaged by the Platform Content &
   team.
 title: ''
 labels: documentation-support
-assignees: gmaciolek
+assignees: ''
 
 ---
 
@@ -39,4 +39,3 @@ assignees: gmaciolek
 - [ ] No
 
 ### Relevant URL: https://dsva.slack.com/archives/CL181NRJQ
-

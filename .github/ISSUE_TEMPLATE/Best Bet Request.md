@@ -2,7 +2,7 @@
 name: Best Bet Request
 about: Request to creation or change a best bet in VA.gov search results
 title: Best bet request for <topic>
-labels: Sitewide IA, sitewide content
+labels: sitewide content, Sitewide IA
 assignees: heyjoni
 
 ---
@@ -78,7 +78,4 @@ Please provide a brief description of the initiative and supporting information 
         > details about required change
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-***Note: These requests are handled by the Sitewide Content and IA team. Reach out via Slack #sitewide-content-ia with any questions.*** 
-
-
-
+***Note: These requests are handled by the Sitewide Content and IA team. Reach out via Slack #sitewide-content-ia with any questions.***

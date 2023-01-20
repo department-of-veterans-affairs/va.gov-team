@@ -1,6 +1,6 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: Oct 28, 2022
+Last Updated: Dec 21, 2022
 
 ### Communications
 
@@ -25,7 +25,7 @@ Last Updated: Oct 28, 2022
 |Arienne Walters | MHV User Experience Specialist | arienne.walters@bylight.com |
 |Alexia Wunder | MHV Team Designer | alexia.wunder@bylight.com |
 |Jessica Robertson | MHV Team Designer | jessica.robertson@bylight.com |
-|Mike Moyer| MHV Team Lead Engineer | mike.moyer@va.gov |
+|Mike Moyer| MHV Team Lead Engineer | michael.moyer@va.gov |
 |Oleksii Morgun| MHV Team FE Engineer | oleksii.morgun@va.gov |
 |Kolby Balch| MHV Team Engineer | kolby.balch@va.gov |
 |Roberto Rodriguez| MHV Team Engineer | roberto.rodriguezrenteria@va.gov |

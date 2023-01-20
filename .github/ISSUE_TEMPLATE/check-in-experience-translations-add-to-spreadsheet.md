@@ -2,7 +2,7 @@
 name: Check In Experience Add Content to Translation Spreadsheet
 about: For adding content to the "Next Rount" translation spreadsheet
 title: "[UX] Add Content for this Epic to the Next Round of Translations Spreadsheet"
-labels: ux,HCE-Checkin
+labels: HCE-Checkin, ux
 assignees: ''
 
 ---

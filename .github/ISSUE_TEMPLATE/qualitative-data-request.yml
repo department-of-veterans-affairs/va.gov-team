@@ -3,13 +3,15 @@ description: Please use this form to request qualitative (textual) data for tier
 title: "Qualitative Data Request"
 labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
-  - ianMcCullough-ob
+  - ianMcCullough-ob, ATMiddleton
 body:
   - type: markdown
     attributes:
       value: |
           ## What this form is for
           The Contact Center Team is responsible for tier 2/3 support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns.
+          
+          *Please allow 5 business days for delivery.*
   - type: dropdown
     id: data-request-type
     attributes:
@@ -54,8 +56,19 @@ body:
     id: product-urls
     attributes:
       label: Product URL(s) and/or term(s)
-      description: Please provide the root directory(ies) for your product(s). If providing specific terms to search for, please include those terms as well as common alternate spellings.
-      placeholder: "URLs: va.gov/find-locations, va.gov/./location  Terms: facility, facilities, community care provider"
+      description: Please provide the root directory(ies) for your product(s). If you want ONLY the URL listed, please specifiy. Otherwise, any URLs that live under the path provided will be exported as well. If providing specific terms to search for, please include those terms as well as common alternate spellings.
+      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider"
+    validations:
+      required: true
+  - type: dropdown
+    id: data-delivery
+    attributes:
+      label: File Delivery Format
+      description: Please specifify how you would like your data to be delievered.
+      options:
+        - All in one file, on one tab
+        - One file, different tab for each term/URL
+        - One file for each term/URL
     validations:
       required: true
   - type: input
@@ -66,6 +79,7 @@ body:
       placeholder: johndoe@va.gov
     validations:
       required: true
+      
   - type: textarea
     id: add-assignee-labels
     attributes:

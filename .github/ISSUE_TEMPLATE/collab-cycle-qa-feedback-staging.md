@@ -3,7 +3,7 @@ name: QA Collab Cycle Feedback for Staging
 about: Staging feedback template for Collaboration Cycle reviewers to provide QA feedback
   to VFS teams
 title: QA Standards - VFS Team - VFS Product
-labels: collab-cycle-feedback, QA, QA-standards, Staging
+labels: collab-cycle-feedback, QA, Staging
 assignees: ''
 
 ---

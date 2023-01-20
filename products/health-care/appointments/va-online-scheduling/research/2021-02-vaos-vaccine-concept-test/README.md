@@ -1,0 +1,1 @@
+[Go to the 2021 Vaccine Concept Test in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test)

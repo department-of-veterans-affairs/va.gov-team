@@ -1,16 +1,44 @@
-# How UX writing and help desk collaborate on the CMS Team
+# How Sitewide CMS, UX writing, and help desk collaborate on the CMS Team
 
 ## Shared goals
-The UX writing and help desk areas of the CMS project both focus on making it easier for our users to use the CMS through clear communication, helpful documentation and resources, and good design. 
+The UX, Sitewide CMS team, and help desk areas of the CMS project both focus on making it easier for our users to use the CMS through clear communication, helpful documentation and resources, and good design. 
 These goals show up in the following activities:
 - **Communicaitons**, such as announcements 
-- **Help content**, such as user guides or trainings available in the CMS Help Center
+- **Help content**, such as user guides or trainings available in the CMS Knowledge Base
 - **UX research**, such as identifying areas where the language we use for our product is misaligned with our users's mental models
 
 ## Roles and responsibilities
-UX writing and helpdesk will collaborate to meet our shared goals in a variety of ways, and may variously lead, support, or stay informed on different initiatives.
+UX, Sitewide CMS, and helpdesk will collaborate to meet our shared goals in a variety of ways, and may variously lead, support, or stay informed on different initiatives.
 
-### CMS announcements
+### Help content
+
+**Content design for Knowledge Base**
+- Responsible: UX writer, Product Managers, Accessibility Lead
+- Supporting: Help desk
+
+**Maintaining help content**
+- Responsible: UX writer, Product Managers, Accessibility Lead
+- Supporting: Help desk, training
+
+**Writing help guide content**
+- Responsible: UX writer, Product Managers, Accessibility Lead
+- Supporting: Help desk, training
+
+**Sharing help content**
+- Responsible: Help desk, training
+- Supporting: UX writer, Product Managers, Accessibility Lead
+
+**Surfacing gaps in help content raised by support requests**
+- Responsible: Help desk
+- Supporting: UX writer, Product Managers, Accessibility Lead
+
+### UX research
+
+**Flagging language misalignment surfaced by support requests**
+- Responsible: Help desk
+- Supporting: UX writer, Product Managers, Accessibility Lead
+
+### CMS announcements (as of 2022, announcements are on hold)
 
 **Identifying announcement items**
 - Responsible: UX writer and product manager meet at the start of the sprint to identify what needs an announcement
@@ -29,30 +57,4 @@ UX writing and helpdesk will collaborate to meet our shared goals in a variety o
 - Responsible: Help desk
 - Supporting: UX writer
 
-### Help content
 
-**Content design for help center**
-- Responsible: UX writer
-- Supporting: Help desk
-
-**Maintaining help content**
-- Responsible: UX writer
-- Supporting: Help desk, training
-
-**Writing help guide content**
-- Responsible: UX writer
-- Supporting: Help desk, training
-
-**Sharing help content**
-- Responsible: Help desk, training
-- Supporting: UX writer
-
-**Surfacing gaps in help content raised by support requests**
-- Responsible: Help desk
-- Supporting: UX writer
-
-### UX research
-
-**Flagging language misalignment surfaced by support requests**
-- Responsible: Help desk
-- Supporting: UX writer

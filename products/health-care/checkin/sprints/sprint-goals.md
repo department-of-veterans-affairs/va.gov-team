@@ -1,34 +1,205 @@
 # SPRINT GOALS
 
 __________________________________________________________________________________________________________________________________________________________
-## 12/14/2022 - 12/27/2022 ---------------------- FUTURE -----------------------------
 
-#### Planned Releases -------------------- TENTATIVE ------------------------------
+***************** BEGIN FUTURE / TENTATIVE *************************
+## 1/25/2023 - 2/7/2022 
 
-#### Analytics Sprint Goals -------------------- TENTATIVE ------------------------------
+#### Planned Releases 
+- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
+- Simplified VA Header
+
+#### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+   
+#### UX Sprint Goals 
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+    - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
+    - [Complete accessibility testing & create new QA artifact(s) & QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)    
+    - Schedule staging review 
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
+   - [Create wireframe to Move icon inside the card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52106)
+   - [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
+   - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
+   - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
+   - Schedule Staging Review
+- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
+   - [Create Metrics to Measure Success & Monitor After Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52056)
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
+   - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
+   - Design Council Review (scheduled for 1/20/23)
+   - Provide instructions for review environment prior to Staging Review
+   - Attend Staging Review
+- [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+   - [Complete wireframes for option 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51174)
+   - [Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52127)
+   - Do the presentation to Stephen & Patrick
+- [PCI Screen Reader Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51619)
+   - [Change headings in check in and pre check in to better support screen readers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52173) 
 
-#### UX Sprint Goals -------------------- TENTATIVE ------------------------------
-- [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521#issuecomment-1309537735) 
-- [Content updates in sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50502)
-- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - ??
-- [Travel Reimbursement - Enhancement Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47818)
-    - Determine feasibility of url shortener expansion
+#### Engineering Sprint Goals
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+    - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+    - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
+    - [Complete accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
+   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114)
+   -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
+   -  [Incorporate the 3 new fields]()
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - Get footer approved
+   - Attend Staging Review
+- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
+    - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
+    - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
+- [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
+   - ???????
+- [BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
 
-#### Engineering Sprint Goals -------------------- TENTATIVE ------------------------------
-- [Production Support]() 
-- [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Implement the new simplified header & footer
-- [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
-    - Refactor error pages to make them less opaque
-    - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
+***************** END FUTURE / TENTATIVE *************************
+
+## 1/11/2023 - 1/24/2022 
+
+#### Planned Releases 
+- NONE
+
+#### Analytics Sprint Goals
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+   
+#### UX Sprint Goals  
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+    - [Review platform updates to accessibility testing reqs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51719) 
+    - [Update Release Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40314)
+    - ~[Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)~
+    - ~[Begin accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)~
+    - ~Schedule a staging review (if we are far enough along)~
+    - [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - ??????
+    - [Create additional aria labels for appt list page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51450)
+    - [For pre-check-in, add in appt instructions into confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51702)
+    - Schedule a staging review
+    - Defend our experimental ticket with the design council!
+- [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - [Create presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178)
+    - [Start wireframes for option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174)
+    - [Get answers to VEText questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51180)
+- [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
+- End of Interactions
+    - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
+    - https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51411
+
+#### Engineering Sprint Goals
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+     - [Evaluate and implement new testing artifacts as required for staging reviews](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51715)
+    - [Begin integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49745)
+    - [Begin functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
+    - [Begin accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)    
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Finish detail pages & add aria labels
+        - https://github.com/department-of-veterans-affairs/va.gov-team/issues/50993
+        - https://github.com/department-of-veterans-affairs/va.gov-team/issues/50995
+    - [Create Address Component & Implement directions link to facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50825)
+    - Start working on the vets-api code
+        - https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996
+        - https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - [Use simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51686)
+    - [Build the New Simplified Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49890)
+- [Investigate error in vets-api for pre-check-in to day-of check-in transition](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51783)
+- ~[BE SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)~
+- CIE Tech Debt (filling if other sprint goals are blocked or finished)
+   - Configure production URL shortener to use www.va.gov as the hostname
+   - Refactor and reduce HOC useage (#49081)
+   - Improve testing and validation with staging and screenshots(visual regression testing) #50989
+
+## 12/28/2022 - 1/10/2022
+
+#### Planned Releases 
+- NONE
+
+#### Analytics Sprint Goals
+- DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+   - Evolve the trendline idea
+
+#### UX Sprint Goals  
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Figure out how to implement feedback from the collab cycle review
+         - DONE [Design feedback around card component](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51409) (Zach) 
+         - DONE [IA and design feedback around pagination](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51400) (Zach)
+    - DONE Implement metrics (#51109) (Ben)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - SPIKE
+    - DONE [Create workflow diagram for Unified experience option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51173) (Kelly)
+    - ROLLOVER [Start creating presentation for VA stakeholders](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178) (Ben)
+    - ROLLOVER [Spike on VEText questions for Shane](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51180) (Kristen)
+- Travel Reimbursement
+    - ONGOING Wilkes-Barre Planning (#51110) (Ben)
+    - ROLLOVER Update Design Artifacts for Release - Travel pay (#47488) (Zach)
+    - DONE [Create product demo video and submit for contact center review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/40314) (Kelly)
+- Tech Debt
+    - ROLLOVER End of Interactions (#49521) (Kelly)
+    - ROLLOVER [Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
+
+#### Engineering Sprint Goals
+- DONE Production Support
+    - perform prod support
+    - Automate the day-end summaries
+    - Review recent past incidents to find gaps in alerting
+- [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - ROLLOVER Start to implement new design/build header and footer (#49890)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - ROLLOVER Implement the new details feature (#45319- asynch discuss how to break this down after wireframe review)
+    - ONGOING Unified check-in experience (#50683)
+- CIE Tech Debt & Bugs    
+    - ROLLOVER Refactor and reduce HOC useage (#49081)
+    - ROLLOVER Improve testing and validation with staging and screenshots(visual regression testing) #50989
+    - DONE Refactor error pages to make them less opaque phase 2 (#45795)
+    - DONE Fix text input error so that it translates the error message #51440 
+    - DONE Add use case to Cypress (#47178)
+    - DONE Allow creating appointments for dev (station 500) (#50925)
+
+__________________________________________________________________________________________________________________________________________________________
+
+## 12/14/2022 - 12/27/2022 
+
+#### Planned Releases
+- NONE
+
+#### Analytics Sprint Goals 
+- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+    - Evolve the trendline idea
+
+#### UX Sprint Goals 
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - Adress Ben's comments on wireframes (Zach)
+    - Fill out information for Design Intent (Ben)
+- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - Create user flows and use cases and share with team to get feedback before end of sprint (Ben lead)
+- [Pre-Check-in: Add Link to VAOS to Cancel an Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50714)
+    - Explore how we want to offer cancellation and whether full authentication needs to be involved (Kelly)
+    - Create final wireframe (with content) and present to team (Kelly)
 - CIE Tech Debt & Bugs
-    - [Display Online Check-in Not Available Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49608)
+    - [Change action link on pre-check-in intro page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/50505) (Ya-Ching)
+    - [Do we need to change 15 mins after appt time to 10 mins](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46743) (Ben)
+    - [Review end of interactions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49521) (Kelly) 
+
+#### Engineering Sprint Goals 
+- [Production Support]() 
+- [Simplified Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+    - Pending meeting, we will implement it
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
+    - SPIKE - Evaluate VAOS/Appt redesign to know if we can to percentage rollout
+    - SPIKE: Look into how we would link to VAOS and what info we would send them 
+    - Implement the new details feature
+- [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+    - [SPIKE] - Unified check-in experience
+- CIE Tech Debt & Bugs
+    - [SPIKE: What do we need to implement automatic maintenance window triggers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50757)
+    - ROLLOVER Refactor error pages to make them less opaque phase 2 (ticket)?
+    - [Update e2e testing Error page class validationPageLoaded method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50614)
+    - 4 remove feature flag tickets for backend
+
 
 __________________________________________________________________________________________________________________________________________________________
 ## 11/30/2022 - 12/13/2022 
@@ -37,48 +208,50 @@ ________________________________________________________________________________
 - NONE
 
 #### Analytics Sprint Goals 
-- [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+- DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
 - DONE [Measure Repeat Customers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41326) (Lori)
 - DONE [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) (Lori)
 
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Perform functional testing (Kelly, Zach, Ben, Lori)
-    - Perform accessibility testing (Kelly, Zach)
-    - Update product artifacts (get them ready but do not publish) (Kelly)
+    - BLOCKED Perform functional testing (Kelly, Zach, Ben, Lori)
+    - BLOCKED Perform accessibility testing (Kelly, Zach)
+    - DONE Update product artifacts (get them ready but do not publish) (Kelly)
+        - Will rollover because still need to show to the Contact Center
     - Update design artifacts (get them ready but do not publish) (Zach)
-    - Add GA Events (Ben)
+        - Ran out of time
+    - DONE Add GA Events (Ben)
 - [Send "Check-in Now" Message 30 Minutes before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44395)
-    - Present recommendation to Patrick
+    - DONE Present recommendation to Patrick
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Address Platform feedback & update final wireframes
-    - Update final wireframes for simplified header/footer to include legal links (needs to be ready for development)
-    - Content IA collab cylcle work
+    - DONE Address Platform feedback & update final wireframes
+    - DONE Update final wireframes for simplified header/footer to include legal links (needs to be ready for development)
+    - DONE Content IA collab cylcle work
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)
-    - Finish final wireframes (Zach/Kelly) (needs to be ready for development)
+    - DONE Finish final wireframes (Zach/Kelly) (needs to be ready for development)
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - Attend design sprint
-- Determine feasibility of url shortener expansion
+    - DONE Attend design sprint
+- DONE Determine feasibility of url shortener expansion
 
 #### Engineering Sprint Goals 
-- [Production Support]() 
+- DONE [Production Support]() 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Update error message when the API is down
-    - Complete integration testing
-    - Perform functional testing (all)
-    - Perform accessibility testing (all)
-    - Create GA Events for the Various API Responses that are Returned from BTSSS
+    - DONE Update error message when the API is down
+    - DONE Complete integration testing
+    - BLOCKED Perform functional testing (all)
+    - BLOCKED Perform accessibility testing (all)
+    - DONE Create GA Events for the Various API Responses that are Returned from BTSSS
 - [Simplified Header/Footer with Progress Bar](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-    - Spike on how to implement the new simplified header & footer
+    - DONE Spike on how to implement the new simplified header & footer
 - [Help Veterans who use Pre-Check-in to Check-in on the Day of their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46631)
-    - [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
-    - Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
+    - DONE [SPIKE - Look into refactoring Error pages to make them less opaque](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45795)
+    - DONE Clarify Message when using Pre-Check-in on Day-of Appointment after Check-in Window
 - [Unified Check-in Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-    - Attend design sprint
+    - DONE Attend design sprint
 - CIE Tech Debt & Bugs
-    - [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
-    - [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
-    - [Remove LoROTA api_key from vets-api config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49533)      
+    - ROLLOVER [Configure production URL shortener to use www.va.gov as the hostname](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38934)
+    - ROLLOVER [Authentication does not work on review environments with Safari](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43212)
+    - ROLLOVER [Remove LoROTA api_key from vets-api config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49533)      
 
 __________________________________________________________________________________________________________________________________________________________
 ## 11/16/2022 - 11/29/2022 
@@ -691,6 +864,3 @@ ________________________________________________________________________________
     -  **Release on 6/27 or 28**
 - [Change VAOS Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42105)
     - **Will release when it is ready**      
-
-    
-    

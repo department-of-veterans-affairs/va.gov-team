@@ -2,7 +2,7 @@
 name: Public Website Banner Intake Request Form
 about: To file request with the VSA Public Websites
 title: "<Type of Request> from <Team>"
-labels: needs-grooming, vsa, vsa-public-websites, vsa-public-websites-intake
+labels: needs-grooming, vsa
 assignees: ''
 
 ---

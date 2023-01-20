@@ -1,6 +1,6 @@
 ## Proposed content rubric for homepage (WIP)
 
->The purpose of this page is to document the rubric by which content will be evaluated for placement in Popular links and Search tools menus or promos on the homepage.  
+>The purpose of this page is to document the rubric by which content will be evaluated for placement in Top page links, Search tools menus, or promos on the homepage.  
 ## Criteria
 
 ### Criteria 1: Is the task/tool/content relevant to all or many Veterans and other beneficiaries of VA benefits and services?

@@ -1,6 +1,6 @@
 ## README - Analytics
 
-The following pages are available in the Analytics > redesign folder. 
+The following pages are available in the [Analytics > redesign folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/analytics/redesign). 
 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/baseline-event-data.md) 
    - _unique mobile and desktop events on the VA.gov home page, 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022_
@@ -17,3 +17,8 @@ The following pages are available in the Analytics > redesign folder.
    
 - [Event dictionary for metrics measuring the redesigned homepage, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/redesign/analytics-event-dictionary.md)
 
+- [Link to task completion funnels in Google analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/IbJEBc4yRsWeCF93uP35fg)
+
+- [DOMO: Site-wide Homepage: Content Engagement KPIs](https://va-gov.domo.com/page/80919003) - data from new home page will be added to this dashboard post-launch
+
+- Data on searches from homepage are available in [VA.gov Search KPI DOMO Dashboard](https://va-gov.domo.com/page/1964748112) (_using "VA homepage" under Search scope filter_)

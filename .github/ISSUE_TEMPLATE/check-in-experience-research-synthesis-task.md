@@ -2,7 +2,7 @@
 name: Check In Experience Research Synthesis Task
 about: For Check In Experience Research Synthesis Task
 title: "[Research] Synthesize Research"
-labels: HCE-Checkin, ux, research
+labels: HCE-Checkin, research, ux
 assignees: ''
 
 ---

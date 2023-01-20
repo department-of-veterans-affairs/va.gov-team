@@ -145,7 +145,7 @@ Lighthouse
 ![](images/vaccine_confirmation.png)
 
 ## Find Out More & Get In Touch With Us
-* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
+* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball%2C+zlaw&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
 * Slack - [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
 

@@ -69,6 +69,7 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
 ## Content pages related to this topic
 
 - [Sign in](https://www.va.gov/sign-in/)
+- [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/)
 - [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/)
 - [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
 - [How to get a Premium DS Logon account online](https://www.va.gov/resources/how-to-get-a-premium-ds-logon-account-online/)

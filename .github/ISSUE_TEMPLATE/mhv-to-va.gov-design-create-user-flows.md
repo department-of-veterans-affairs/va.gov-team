@@ -2,8 +2,8 @@
 name: MHV to VA.gov Create User Flows
 about: For MHV core team to create user flows for development
 title: "[Design] MHV to VA.gov: APP NAME: Create User Flows"
-labels: ux, design, my-health
-assignees: 'MarciMcGuire'
+labels: design, my-health, ux
+assignees: MarciMcGuire
 
 ---
 
@@ -44,4 +44,4 @@ As a designer, I want to create user flows so that they can be used for referenc
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

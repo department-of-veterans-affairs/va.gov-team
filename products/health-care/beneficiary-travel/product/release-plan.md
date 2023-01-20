@@ -37,15 +37,15 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-Our OCTO will monitor analytics monitor analytics. If they see a spike in errors or unexpected behavior, they will disable the toggle.
+Our OCTO team will monitor analytics monitor analytics. If they see a spike in errors or unexpected behavior, they will disable the toggle.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: 2 weeks
-- Desired number of claims created: 10% of users shown the feature, to do it
-- How you'll recruit the right production test users: Turn on the feature for selected number of locations 
+- Desired date range or test duration: Jan 17th, for 2 weeks
+- Desired number of claims created: 10% of PCI create claims
+- How you'll recruit the right production test users: We will turn this feature on for Wilkes-Barre
 - How you'll conduct the testing: unmoderated
 
 #### Results

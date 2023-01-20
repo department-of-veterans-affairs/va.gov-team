@@ -1,11 +1,22 @@
 # Sprint Team Demo
 
 
+**Demo Sprint 59 1/19/22**
+
+- Demo Topic(s)
+  -  Intro to OKRs (Matt)
+     -  [Mural Board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1672414110587/e5fa732d5d3f3d7ff6da9abf12d78866f2f2e0a3?wid=56-1672414154650)
+  - WIP Nav Changes (Binny)
+
+- [Demo Slides & Recording ](https://docs.google.com/presentation/d/15md4G7IFfPyo11uH4VugpoWyb00O6doKrPbHG4iYnUY/edit?usp=sharing)
+  
+
 **Demo Sprint 59 12/8/22**
 
 - Demo Topic(s)
-   - Blind & Low Vision Research Readout (Liz & Melissa)
+   - Blind & Low Vision Research Readout (Liz & Melissa) [Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10209931/VA.Mobile.App.Blind.and.Low.Vision.Research.Readout.pdf)
    - Encouraged Update (Jon)
+
 
 
 **Demo Sprint 58 11/24/22**

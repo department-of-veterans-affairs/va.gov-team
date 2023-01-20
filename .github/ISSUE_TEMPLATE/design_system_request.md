@@ -3,9 +3,10 @@ name: Design System Request
 about: Use this template to report a bug or to request a change to the Design System.
 title: ''
 labels: vsp-design-system-team
-assignees: caw310, k80bowman
+assignees: caw310
 
 ---
+
 To learn more about contributing to the Design System or requesting new components, requesting changes to existing components, and reporting bugs, go here.
 https://design.va.gov/about/contributing-to-the-design-system/
 
@@ -35,5 +36,3 @@ https://design.va.gov/about/contributing-to-the-design-system/
 <!--
        Thanks for reaching out!  We are happy to help and will get back to you as soon as possible 😸
 -->
-
-

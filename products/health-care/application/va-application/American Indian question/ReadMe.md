@@ -1,6 +1,7 @@
 # Initiative Brief - 10-10EZ American Indian question
 
-- **READ THIS FIRST** At the time of this Initiative Brief writing, the design and development has been done, with only content changes remaining.  The initiative was placed on hold until the Enrollment system was ready to receive the data from this question.  On 5/10/2022, we were given the approval to publish this in production, as the Enrollment system is now ready to receive it.  We will need to perform QA to ensure there are no issues, once the content is updated.
+- **READ THIS FIRST** In 2021, the initiative was placed on hold until the Enrollment system was ready to receive the data from this question.  On 5/10/2022, we were given the approval to publish this in production, as the Enrollment system was ready to receive it.  We delivered the new question to production starting 9/26/22.
+As of December 2022, there was notice from the HEC stakeholders that the question may be removed from both the Online and Paper versions of the application, per the Member Services leadership.  As of p1/9/2023, we are pending final direction to remove the question.
 
 ## Outcome Summary
 
@@ -116,7 +117,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - August 2022: Complete QA
 - September 26, 2022: Launched to 25% of users
 - September 29, 2022: Launched to 50% of users
-
+- October 11, 2023: Launched to 100% of users
 
 ---
    

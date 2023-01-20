@@ -1,0 +1,1 @@
+[Go to the 2022 Request Manager Discovery Research in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2022-08-request-manager-discovery)

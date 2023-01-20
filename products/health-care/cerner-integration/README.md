@@ -19,8 +19,8 @@ This is a folder for the Cerner integration work.
 
 # Cerner Environments
 - Dev Sandbox: C1941 https://cernabcn.cernerworks.com/Citrix/ProdWeb/
-- Stage: B1930
-- Prod: P0630
+- Stage: B1930 https://ssoiaccess.valehrpreprod.cernerworks.ehr.gov/
+- Prod: P0630 https://ssoiaccess.valehr.cernerworks.ehr.gov/
 
 # Requesting Access to Cerner Environments
 - C1941 Access

@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: December 8, 2022
+**Last Updated: January 11, 2023**
 
 ## Table of Contents
 
@@ -27,11 +27,12 @@ Last Updated: December 8, 2022
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@govcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
+|TBD |Product Manager|-|
+|Berni Xiong| Delivery Manager|berni.xiong@agile6.com|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Florence McCafferty| Designer |Florence.McCafferty@agile6.com|
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-| John Cater | FE Engineer | john.cater@govcio.com |
+|TBD| Full Stack Engineer |-|
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
@@ -119,6 +120,8 @@ These are the GA dashboards we use to track profile analytics:
 
 You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
 
+The [Onboarding for BE Engineers](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile_onboarding_backend.md) document is available to help get BE engineers up to speed quickly.
+
 The following information comes from **VA Profile**:
 
 - Personal information
@@ -152,6 +155,7 @@ The following information is supported by **Lighthouse**:
 
 ## Frontend
 
+- [Getting Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/frontend-getting-started.md)
 - [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
 - [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
 - [Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/frontend_documentation.md)
@@ -159,6 +163,7 @@ The following information is supported by **Lighthouse**:
 - [Account Security (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/frontend_documentation.md)
 - [Connected Apps (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/connected_apps/frontend_documentation.md)
 - [Service Maintenace and Outage Procedures for FE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-service-maintenance-outage-procedures.md)
+- [Feature Toggle Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/feature-toggle-guidance.md)
 
 ## Design 
 

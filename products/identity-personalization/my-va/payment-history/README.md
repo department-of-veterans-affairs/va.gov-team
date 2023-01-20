@@ -1,6 +1,6 @@
 # Feature: Payment and debt info on the My VA dashboard
 
-**Last updated: November 29, 2022**
+**Last updated: January 11, 2023 - updated feature overview section**
 
 ### Communications
 
@@ -19,8 +19,10 @@
 - [Projects](#projects)
 - [Feature Overview](#feature-overview)
 - [How to Access and Test](#how-to-access-and-test)
+- [Frontend](#frontend)
 - [Backend](#backend)
 - [Design and UX](#design-and-UX)
+
 
 ## Overview
 
@@ -77,7 +79,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 </details>
 
-### V2: Updating payments and debts to address usability issues (May 2022 - current)
+### V2: Updating payments and debts to address usability issues (May 2022 - October 2022)
 
 <details>  <summary>V2</summary>    
 
@@ -87,19 +89,21 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) 
  
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch to 100%, and the second month post-launch to 100% based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage your VA debt" CTA on My VA|25,712|TBD|TBD|
+|Clicks into "Manage your VA debt" CTA on My VA|25,712|29,627 (~15% increase)|TBD|
  
 **Key result: Increase pageviews for the debt tool overall by 10%** 
 
-[Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/) 
+  - Prior to Dec 17, 2022: [Pageviews for /manage-va-debt/your-debt/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fyour-debt~2F/)
+  - Post Dec 17, 2022, a new url was added for debt summary: [Pageviews for /manage-va-debt/summary/debt-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230112&_u.date01=20230113&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fdebt-balances~2F/)
+ 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023 (combine reports linked above)| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the debt summary page|35,495|TBD|TBD| 
+|Pageviews of the debt summary page|35,495| 82,036 (~131% increase)|TBD| 
 
 ### Objective: Elevate copays to My VA.
  
@@ -107,11 +111,11 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 [My VA Domo Dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)  
  
-**When filling in data -- updates dates to be 1 month pre-launch, one month post launch, and the second month post-launch based on actual launch dates.** 
+**When filling in data -- updates dates to be 1 month pre-launch, one month post launch to 100%, and the second month post-launch to 100% based on actual launch dates.** 
 
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Clicks into copay CTA|N/A|TBD|TBD|
+|Clicks into copay CTA|N/A|42,629|TBD|
 
 **Key result: Increase pageviews for the copay tool overall by 10%** 
  
@@ -119,9 +123,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
  
 [Pageviews for /manage-va-debt/summary/copay-balances/](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmanage-va-debt~2Fsummary~2Fcopay-balances~2F/)
  
-|KPI/metric|Baseline: October 29 - Nov 28, 2022|Post-launch to 100%: [Tentative Nov 2022]| Post-launch to 100%: [Tentative Dec 2022]|
+|KPI/metric|Baseline: October 29 - Nov 28, 2022|One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the copay summary page|10,365|TBD|TBD|  
+|Pageviews of the copay summary page|10,365|68,463 (~561% increase)|TBD|  
  
 </details>
 
@@ -267,18 +271,35 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Oct 2022: QA; Analytics request; Staging review; UAT
 - Nov 29, 2022: Launch to 25%
 - Dec 5, 2022: Launch to 50%
-- Dec X, 2022: Launch to 100%
+- Dec 12, 2022: Launch to 100%
  
 </details> 
 
 ## Feature Overview
 
-Include information here on when payment information shows on My VA.
+Authenticated and verified users will always see the Outstanding Debts and Benefit Payments sections on My VA. 
+
+The **Outstanding Debts** section on My VA gives the user an overview of their outstanding debts if there are any to show and links them to the combined debt portal. Outstanding debts encompasses overpayment debts and copay debts:
+- Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt.
+- A copay debt is an amount that a Veteran must pay for health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
+
+The **Benefit Payments** section on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show. Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out monthly via direct deposit or paper check. 
 
 ## How to Access and Test
 
 - [MVP staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
 - [V2 staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md)
+
+## Frontend
+ 
+### Outstanding Debts
+
+- For the debts card we are pulling in debts from `/v0/debts`. We are then checking for approved deduction codes and filtering out debts with a zero balance. This is all based on the debt teams apis so our values match theirs.
+- For the copays card we are pulling in copays from `/v0/medical_copays`. We are then sorting the statements by date and getting the latest one by facility name because we were informed only the latest statement by facility is valid. We then filter out zero balances. A lot of the code here is pulled from the copays team.
+
+### Benefit Payments
+
+- The payments card is pulled from `/profile/payment_history`. We grab the last payment within the last 60 days. If there is no payment we show `You have no recent payments to show.`
 
 ## Backend
 
@@ -312,6 +333,9 @@ Include information here on when payment information shows on My VA.
 <details>
   <summary><b>My VA after V2 updates to the payments section</b></summary>
 
-**Screenshot needed** 
+<img width="1060" alt="Screen Shot 2022-12-12 at 14 25 32" src="https://user-images.githubusercontent.com/97113607/207136017-a567dd73-cb1d-4023-877f-074085bef375.png">
+
  
  </details>  
+ 
+

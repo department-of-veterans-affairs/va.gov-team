@@ -2,8 +2,8 @@
 name: MHV to VA.gov Create Prototype Task
 about: For MHV to VA.gov team to create prototype to test with end users
 title: "[Design] MHV to VA.gov: APP NAME: Create Prototype to Test with End Users"
-labels: ux, design, my-health
-assignees: 'MarciMcGuire'
+labels: design, my-health, ux
+assignees: MarciMcGuire
 
 ---
 
@@ -35,6 +35,4 @@ As a [role], I want to [what] so that I can [do something].
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
-
-
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

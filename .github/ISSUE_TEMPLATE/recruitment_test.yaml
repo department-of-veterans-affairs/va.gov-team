@@ -1,0 +1,183 @@
+name: Easy Recruitment Request (test)
+description: Use a form to submit a recruitment request with only primary criteria (criteria that applies to all participants) to Perigean. 
+title: "[Recruitment Request]: Insert name of your study here"
+labels: ["research"]
+assignees:
+  - joshkimux
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a form that only uses primeria criteria. That means all the criteria selections below will apply to all your participants. 
+        
+        In other words, if you request for Black, Rural Veterans-- Perigean will aim to have every participant identify as a Black Veteran living in a rural location. If you want to submit a custom request and specify precise numbers for the demographics you're recruiting for, use our [custom form request instead](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-plan-participant-criteria-update%202.md). [Numbers, not letters/x's]
+  - type: textarea
+    id: ideal-session-count
+    attributes:
+      label: Ideally, how many participants do you want in your study?
+      description: "Replace the 0s with the amount you want from each group. Perigean will recruit double your total ideal amount." [Should be 1/4 to 1/3]
+      value: |
+        Veterans: 0
+        Family Members: 0
+        Caregivers: 0
+        Service Members: 0
+        Total: (Add all the above)
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: benefits-1
+    attributes:
+      label: What benefits or services should your participants have experience with?
+      description: Select "various" to recruit participants who collectively have a mix of all the benefits in the list. Select "No benefits" if you're looking for folk without experience. You can select multiple benefits or services if all your participants must have experience with multiple benefits.
+      multiple: true
+      options:
+        - Various (participants will collectively have a mix of all the options below)									
+        - No Benefits or Service Experience										
+        - Disability											
+        - Education											
+        - Employment											
+        - Finances											
+        - Healthcare											
+        - Housing											
+        - Life Insurance											
+        - Memorialization											
+        - Pension
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: branch
+    attributes:
+      label: What branch should your participants be affiliated with?
+      options:
+        - Various (participants will collectively have a mix of all the options below)
+        - No affilitation with the options below
+        - Marine Corps											
+        - Army											
+        - Navy											
+        - Air Force											
+        - Space Force											
+        - Coast Guard											
+        - National Guard											
+        - Public Health Corps
+    validations:
+      required: true
+  - type: dropdown
+    id: technology
+    attributes:
+      label: What technology should the participant have experience with and use in the session?
+      options:
+        - Various (participants will collectively have a mix of all the options below)		
+        - No experience with the options below
+        - Desktop											
+        - Laptop											
+        - Smartphone											
+        - Tablet
+    validations:
+      required: true
+  - type: dropdown
+    id: website
+    attributes:
+      label: What websites should the participant have experience with in the past?
+      options:
+        - Various (participants will collectively have a mix of all the options below)		
+        - No experience with the options below
+        - Authenticated experience with VA.gov (has an account)									
+        - Unauthenticated experience with VA.gov (doesn't have an account)											
+        - My Healthy Vet											
+        - eBenefits
+    validations:
+      required: true
+  - type: dropdown
+    id: login
+    attributes:
+      label: What logins should the participant have experience with in the past?
+      options:
+        - Various (participants will collectively have a mix of all the options below)		
+        - No experience with the options below
+        - DS Logon								
+        - My Healthy Vet										
+        - ID.me										
+        - Login.gov
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Select up to 2 underrepresented groups as primary criteria"
+  - type: markdown
+    attributes:
+      value: |
+        Curious why we require this? [Check out our introduction to inclusive research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) For the time being, we aim to limit requests to 2 as recruitment may become significantly delayed or difficult with too many required categories. 
+  - type: dropdown
+    id: equity-1
+    attributes:
+      label: First underrepresented group
+      description: If conducting usability testing, we recommend starting with Veterans with cognitive disabilities or low vision / blind first using mobile devices. Covering more complex cases first will have better coverage than only testing with simple use cases.
+      options:
+        - Blind or low vision using a screen reader
+        - Black
+        - Native
+        - Latina
+        - 55+ years old
+        - High school equivalent or GED
+        - Rural
+        - LGBTQ+ (custom request to Perigean)
+        - Cognitive disabilities (custom request to Perigean)
+        - Experiencing homelessness (custom request to Perigean)
+        - Only has access to a mobile device (custom request to Perigean)
+        - None of the above (use the open input field below)
+    validations:
+      required: true
+  - type: dropdown
+    id: equity-2
+    attributes:
+      label: Second underrepresented group (optional, but recommended)
+      description: We strongly recommend selecting a second category to account for intersectionality in your research.
+      options:
+        - Blind or low vision using a screen reader
+        - Black
+        - Native
+        - Latina
+        - 55+ years old
+        - High school equivalent or GED
+        - Rural
+        - LGBTQ+ (custom request to Perigean)
+        - Cognitive disabilities (custom request to Perigean)
+        - Experiencing homelessness (custom request to Perigean)
+        - Only has access to a mobile device (custom request to Perigean)
+        - None of the above (use the open input field below)
+    validations:
+      required: true
+  - type: input
+    id: equity-custom
+    attributes:
+      label: Request a custom underrepresented group (up to 2 max)
+      description: Not seeing a group you want to recruit? You can [reference this list of underserved communities based on the matrix of oppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) or write in your own. We can't guarantee we can recruit a custom category if it's not explicitly asked for in the [Veteran usability sign up form](https://veteranusability.us/), but Perigean can partner with your team to help.
+  - type: markdown
+    attributes:
+      value: "## After submitting this ticket"
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Your tasks
+      options:
+        - label: Add your team and study's labels to this ticket. This will help us track it in the research repo.
+        - label: Once you know who will be on your team, fill out this roles form to inform us on who will be there. (need to create new form for this)
+  - type: markdown
+    attributes:
+      value: |
+        ### What will happen next
+        - Perigean will create ?? ([could something like this make the process easier for Perigean and researchers?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51600))
+        - ?? [add 
+        
+        ### For the future
+        - Spend some time thinking about which equity categories you selected to conduct research with. 
+          - Why did you select those categories?
+          - Which categories will you select next time?
+          - If you present your research out in the future, use this template to share your reflection on inclusive research efforts
+          - Need help? Reach out to the community and ask any questions at #inclusive-research
+        
+        
+        
+        

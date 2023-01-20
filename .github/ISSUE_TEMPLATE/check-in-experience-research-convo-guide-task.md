@@ -2,7 +2,7 @@
 name: Check In Experience Conversation Guide Task
 about: For Check In Experience Conversation Guide Task
 title: "[Research] Create Conversation Guide"
-labels: HCE-Checkin, ux, research
+labels: HCE-Checkin, research, ux
 assignees: ''
 
 ---

@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: December 7, 2022**
+**Last updated: January 11, 2023 - team members**
 
 ### Communications
 
@@ -13,10 +13,10 @@
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
+|Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+|Allison Lu| FE Engineer|	... |
 
 
 ### Table of Contents
@@ -180,9 +180,11 @@ _Why would your business want this to exist?_
 
 ## Design
 
-- Link sketch files
-- Link to use cases
-- Link to flows
+- [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
+- [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- My VA flows
+  - [Debts & copays](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
+  - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
 
 ### Screenshots
 
@@ -202,7 +204,13 @@ _Why would your business want this to exist?_
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
  
-</details> 
+</details>
+
+<details><summary>Addition of Onsite Notifications and Payments and debts V2 -- December 2022</summary>
+ 
+ ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
+ 
+ </details>
 
 ## Front End
 

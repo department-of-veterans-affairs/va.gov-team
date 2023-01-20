@@ -10,6 +10,7 @@ This document describes how to use the MHV Inherited Proofing VA.gov service. Th
 | Version Number | Author                                                 | Revision Date | Description of Change |
 |----------------|--------------------------------------------------------|---------------|-----------------------|
 | 0.1            | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette | 4/7/2022      | Initial Creation      |
+| 0.2            | John Bramley | 12/14/2022      | Error Codes Documentation      |
 
 ## Definitions
  - **Client**: Refers to login.gov backend services
@@ -110,6 +111,24 @@ Example Payload JSON:
 ```
 
 # Login.gov Developer Guide
+## vets-api Inherited Proofing Authentication
+* Inherited proofing flow begins with VA.gov frontend calls the vets-api `/inherited_proofing/auth` route. This is an auth-protected route; to test against it run a local build of vets-api then authenticate with any user that has MHV correlation ID & MHV identity documents mocked. The `/auth` routes are:
+	* `localhost:3000/inherited_proofing/auth`
+	* `https://api.va.gov/inherited_proofing/auth`
+	* `https://staging-api.va.gov/inherited_proofing/auth`
+	* `https://staging-api.va.gov/review_instance/inherited_proofing/auth`
+	* `https://dev-api.va.gov/inherited_proofing/auth`
+* If the user has one or more documents returned from MHV's `/mhvacctinfo` endpoint they will be deemed eligible & passed to Login.gov for authorization.
+
+### Error Responses
+The following error responses all implement the `:bad_request`/`400` error code.
+* `IdentityDocumentMissingError`: either a user's MHV Correlation ID cannot be found (meaning vets-api cannot query MHV for their identity documents) or the query for their identity documents returned no results.
+* `Common::Client::Errors::ClientError`: the Rails client used to query MHV for the correlation ID & identity documents experienced an unknown error.
+* `ActiveRecord::RecordInvalid`: the MHVIdentityData Redis cache of information to be passed to Login.gov failed validation and is missing one of the following:
+	* vets-api `user_uuid`
+	* the inherited_proofing_auth code that is passed to Login.gov
+	* the MHV identity documents that are the basis of the user's inherited proofing eligibility
+
 
 ## Login.gov Authorization
 *  Initial browser redirect from `vets-api` to login.gov is a standard OAuth Authorization, with an additional field, `inherited_proofing_auth`:
@@ -204,6 +223,17 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 }
 ```
 
+### Error Responses
+* JWT Validation Errors - these responses all implement the `:unauthorized`/`401` error code 
+	* `AccessTokenSignatureMismatchError`: The access token body does not match the vets-api public key signature
+	* `AccessTokenExpiredError`: The access token has expired
+	* `AccessTokenMalformedJWTError`: The access token is not formatted properly & cannot be read
+	* `AccessTokenMissingRequiredAttributesError`: The access token is missing the `inherited_proofing_auth` code needed to look up the user's inherited_proofing information
+* User Data Errors - these responses all implement the `:bad_request`/`400` error code 
+	* `MHVIdentityDataNotFoundError`: No `MHVIdentityData` Redis cache was found with the supplied inherited_proofing auth code
+	* `UserNotFoundError`: The vets-api `User` object for this user is no longer available, most likely because the user has logged out or let their session expire
+	* `UserMissingAttributesError`: one or more of the following required attributes from the user_attributes table below is not present for the user
+
 ## Inherited_proofing User_attributes Endpoint Parameters
 
 | Name       | Description                             | Value Type                                              |
@@ -225,11 +255,24 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 ## Callback
 * After login.gov completes inherited proofing successfully, expectation is to call callback described in `redirect_uri` parameter from `/authenticate`
 *  As described above, `redirect_uri` can be one of:
-	* `localhost:3000/inherited_proofing/callback`
-	* `https://api.va.gov/inherited_proofing/callback`
-	* `https://staging-api.va.gov/inherited_proofing/callback`
-	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback`
-	* `https://dev-api.va.gov/inherited_proofing/callback`
+	* `localhost:3000/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://staging-api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+	* `https://dev-api.va.gov/inherited_proofing/callback?auth_code=<AUTH_CODE>`
+* Call must be made with the same `auth_code` that was used in "User Attributes" call, this time included as a URL parameter instead of a JWT. This code is again used to validate that the incoming request matches to the user that initiated the inherited proofing flow in the "Auth" call.
+
+| Name       | Description                             | Value Type                                              |
+|------------|-----------------------------------------|---------------------------------------------------------|
+| AUTH_CODE  | 32 character hexadecimal random string from the `authorize` call  |  String, REQUIRED    |
+
+### Error Responses
+The following error responses all implement the `:bad_request`/`400` error code.
+* `AuthCodeMissingError`: the `auth_code` URL parameter was not included or is blank
+* `AuthCodeInvalidError`: the `auth_code` passed does not match an existing vets-api Redis cache stored for validation purposes
+* `InvalidUserError`: the currently-authenticated user's uuid does not match the saved user uuid in the stored Redis cache
+* `InvalidCSPError`: the currently-authenticated user's CSP that was used to log into their session does not match the saved user CSP in the stored Redis cache
+* `PreviouslyVerifiedError`: A record of the user having gone through the inherited_proofing process successfully has been found
 
 ## Testing
 In order to mock the creation of the auth_code on vets-api you can pass the value `mocked-auth-code-for-testing` into the `inherited_proofing_auth` param of your signed JWT request to the `/inherited_proofing/user_attributes` endpoint.

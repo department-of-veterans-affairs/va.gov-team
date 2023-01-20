@@ -1,5 +1,116 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+## 2022-12-15
+
+### Standup/Updates related to work tracks
+- Jonathan
+	- MHV app migration
+		- Coming up with flows for MR experience overall 
+	- Taking a shot at a low-fi health history landing page
+- Joni
+	- IA feedback for Secure Messaging phase 0 --have come up with some short term workarounds that are scalable.  It's in a Google doc but she will share out
+- Jenny
+	- User flow work for Medical Records
+	- Will help out with writing brief for Clinical Notes
+- Jasmine
+	- Working on comms info from Tue, transferring to the working doc
+- Mikki
+	- Waiting for Perigean to start sending recruiting emails for tree tests
+	- Health Portal IA work
+- Leila
+	- Looking over research readouts
+	- Preparing to present some of the work to the CTO team this afternoon
+- Eric
+	- Met with Marci and Patrick to prep for readout on Mon; meeting again with Patrick this afternoon
+	- Very interesting meeting with Shane Elliot around Pharmacy Dispensary info
+		- Were discussing the Lighthouse API and how everyone hates CDW
+		- Shane mentioned the Lighthouse Clinical API for real-time data from VistA
+		- Dave Mazik earlier said that API was off the table
+		- Shane is going to meet with with Dave
+		- Authorization mechanism was a blocker, but Shane said that they have an alternative auth mechanism that would work for us
+- Robyn
+	- Brief for Immunizations
+	- Prep for Monday's presentation
+- Lauryn
+	- App migrations - intersting convo with Neil Meridith
+	- Secure Messaging - keeps hearing people saying "January", thought we were doing February.  We need to be sure that they are shooting for February. 
+	- Pushing Matt Dingee to work with Lexi to get some feedback from Matt on how to make the components she is created good and able to be added to design system
+	- Where the HA will live - been working with Mikki
+	- Cerner data integration - BCG meeting on Friday - if you couldn't attend, Lauren can share recording.
+	- Teresa, Dr. Joseph, Neil Evans and she are going through all the requirements ever given to Cerner for their patient portal to determine what is still needed, what needs to be addressed since the portal will be around until Oct 2024
+	- Identity - trying to keep that ball moving
+- Mark
+	- Unified appointment app thing
+		- Stephen and Mark have been trying to settle on whether we are plugging into the various existing apps or are we going to be building something new that the existing apps will have to plug into.  
+		- There are pros/cons to both; just ironing out which looks/feels better right now
+- Patrick
+	- Erick, Marci and he synced up yesterday to get prepped for tech
+
+### Clarification on Ad Hoc/VAOS roles in integrating appointments into HA
+- We are going to build the "shell" auth page.
+- What will happen from the front end, once we have the shell, we will have SM, VAOS, MR, it will start to be a place we put stuff. 
+- The health apps team plus contract app teams would be responsible for any app changes - URL, left nav, secondary nav, etc.  They are already working n the various systems they need to integrate with.  That back end should eventually talk to Cerner and then add get  your travel submission, after visit summary
+- This team will probably play a role in working with Health Apps in saying "this is what we came up with" and they will say,  "we can do this"
+- Tree tests with Mikki might be interesting in how Veterans look for paths to old appointments 
+
+
+### How often do we need/want to sync up with the Mobile team?
+- Lauren had a thought - they're going to be a lot of meetings coming out of Tue re
+- There's an internal OCTO cross-team meeting.  Rachael and Chris come to that for Mobile and we want to make sure
+- Robyn - there are larger ongoing syncs, and then an immediate need to meet about immunizations so we know what they are doing. 
+- Would a monthly sync with as-needed check-ins be enough? And we set up more as needed ad-hoc?
+- Mikki - they had a bi-weekly half hour stand-up style meeting and synced on functionality, terminology, etc.  it worked pretty 
+- Let's have a first meeting and then we'll decide on frequency
+
+### Research goals for second tree test
+- Want to explore what are the deeper needs within the structure that we need to think about?
+- Have talked about potentially talked about doing a tree test
+- What other questions do we need to answer?  
+- Already on the list:
+	- After visit summary
+	- Prescriptions lists (old lists)
+	- Health history vs. medical records
+	- Vaccine vs. immunization
+	- Clinical notes - appt/hosp notes vs lab result notes
+	- Clinical note (doctor's notes that he dictates to himself) vs. after visit summary (new dx, new rx, next appointment, insructions)
+	- How do we meet up the notes to an appointment.  We might have to do some digging into how we affiliate a clinical note with an appointment
+	- Some ideas flagged in generative research
+	- Medical supplies - ability on VA.gov to order hearing aid batteries.  Group who organizes those would also like to let Veterans order CPAP machines and supplies, prosthetic socks.  This time likely not to do this, but the big questions is when, and we should plan for this in the future and how that fits into the IA
+	- Lauren also recommends we include something around finding past medical records (i.e. the eVault)
+	- Any other thoughts, please slack to Mikki
+	- We can include questions to be answered in the domain briefs and add the answers when we have them
+	- Since we have not yet done a deep dive on this whole Health Apartment and how Veterans think about where things are found
+	- Any particular areas we haven't explored 
+		- Caregivers and delegates
+		- CCDA for sharing
+		- What specific uses cases for sharing data
+	- Timing on delegates - up to John Rahagi; hopefully before Jan 2024
+
+## Next steps from Tuesday
+- Mural board - combine similar items, fill in gaps, get consensus from the stakeholders
+- Come up with a strategy of who in this group needs to be in which things and when and Danielle and Jasmine function as one team with Gwen and ??? 
+- Lauren had to give a presentation on the roadmap to the Under secretary of health.  Leila and Lauren will probably have to do more presentations. 
+- How do we make sure everyone is included, but keep momentum going?
+- Do we want EVERYONE on those design review meetings?
+- Do we want a separate meeting for folks not already attending?
+- Let's compile a list of existing meetings - also check with Bryan - they are going to have separate meeting
+	- Start a running dialog of meetings we are going to have
+	- Hypothesis of who should be at those
+- A document that we can share out in a place where people can comment but not change
+	
+	
+## Senate Veterans Affairs Committee (SVAC) in Congress Records Request for Information
+- When a site moves to Cerner, their PAMPI+ data is supposed to move into Millenium, and their eVault (med history, clinical notes) were supposed to move to Healthy Intent.  
+- We also thought Veterans would have access to their health history from MHV from Oct 2020 (their rollout date) and prior
+- MHV record thing is NOT true.  Unless you took the action of downloading your Blue Button record from ALL time (that action writes to eVault).  If you did not do that, we do not have your health history in MHV any more.  If it has not been moved, then we may not have your health history at all.  
+- We need to think about which systems have which data.  We were all under the impression that Cerner had moved all the health history data to Healthy Intent but that did not happen.  
+- The action of generating a Blue Button report generates the eVault record.  If they do not do that, we are not allowed to do that on your behalf from a legal and privacy statement.  
+- Whatever we do in records we must always have to have a pathway for patients to access their eVault
+- ETA on finding out if that data is recoverable?  Cerner is looking into it.  Some Veterans are reporting that Healthy Intent migrated everything correctly, but that is not universally true
+- Thing to figure out - for the Veterans who have moved, we will need to have that connection to Healthy Intent anyway because for the past two years, they have been writing clinical notes, etc. in Healthy Intent.
+
+
+
 ## 2022-12-01 
 
 ### Standup/Updates related to work tracks

@@ -414,7 +414,7 @@ Typically, when a CMS page is published, it publishes to production.
 However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a CMS page that includes a React widget (aka vets-website code), before it reaches production for user acceptance testing (by off-network users) or stakeholder approval. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at Public Websites PO's discretion.
 
 **How to stage:** 
-* (Requesting team) cut a [Dark launch request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams%2C+wesrowe&labels=Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+Drupal+engineering%2C+VA.gov+frontend&template=dark-launch.md&title=CMS%2FReact+content+dark+launch+request%3A+%3Ccontent+info%3E) to Public Websites to request support
+* (Requesting team) cut a [Dark launch request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams%2C+wesrowe&labels=Drupal+engineering%2C+Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=pw-dark-launch.md&title=CMS%2FReact+content+dark+launch+request%3A+%3Ccontent+info%3E) to Public Websites to request support
   * Specify Node / prod CMS link to the node 
 * (Requesting team) When PW has prioritized the work, merge React widget code to main & confirm deploy in vets-website. App code will not appear on prod, **if no live page is calling the app**. 
 * (PW) Add the Node ID to the [Staged Content entity subqueue](https://prod.cms.va.gov/admin/structure/entityqueue/staged_content/staged_content?destination=/admin/structure/entityqueue)
@@ -582,13 +582,14 @@ Request to change a URL and/or implement a redirect for a URL. Also for vanity U
 Facilities team can handle redirects for Facility URLs / content. 
 
 **Workflow:**
-
+[Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
 * Another team requests a URL redirect
 * Sitewide Content team vets the request – IA will approve the requested URLs (Process: [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md))
 * Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
 * Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
-* Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
+* If server-side redirect: Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
   * If you need offcycle deployment prior to Wed deploy: open a #vfs-platform-support request, Release Tools > Off-Cycle deployment. Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
+* If client-side redirect: vets-website deploys the code. 
 * PW verifies in prod, before closing the ticket
 
 
@@ -601,10 +602,11 @@ Facilities team can handle redirects for Facility URLs / content.
    * [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9813](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9813) 
 
 **More info:**
-* [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md) 
-* [Platform Redirect Implementation strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md)
-* [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
+* [Platform Redirect Implementation strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) - context, describes various types of redirects, and mechanisms for carrying them out, including server-side vs. client-side.
+  * [Redirects(sensitive repo)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md) - this doc will be merged into the above Implementation Strategy doc 
+* [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
 * [RevProxy deploy job info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/infrastructure/reverse_proxy.md)
+* [Proxy-rewrite info](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) - relevant for client-side redirects from TeamSite pages
 
 ## Unauthed React widgets
 
@@ -724,6 +726,7 @@ The discharge update wizard was written by the Decision Tools team. That team tr
 ## Downtime messaging
 
 Governance / guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md
+
 Design system "Banner - Maintenance" component: https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--before-maintenance
 
 UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366) 

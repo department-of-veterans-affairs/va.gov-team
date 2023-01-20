@@ -2,7 +2,7 @@
 name: Check In Experience Task to Update Product Artifacts (e.g. Product Guide, Poster)
 about: For Updating Check In Experience Product Artifacts
 title: "[UX] Update Product Artifacts for Release"
-labels: HCE-Checkin, ux, research
+labels: HCE-Checkin, research, ux
 assignees: ''
 
 ---
@@ -23,5 +23,3 @@ Update various product artifacts, as necessary, based on the feature release.
 - [ ] ALL screenshots are of the highest quality possible
 - [ ] [User flow diagrams are up-to-date](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm) and ready to be pushed to production
 - [ ] R&D articles are up-to-date
-
-

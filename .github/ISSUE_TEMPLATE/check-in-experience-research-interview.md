@@ -2,7 +2,7 @@
 name: Check In Experience Research Interview Task
 about: For Check In Experience Research Interview Tasking
 title: "[UX]"
-labels: ux, HCE-Checkin
+labels: HCE-Checkin, ux
 assignees: ''
 
 ---

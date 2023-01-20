@@ -167,46 +167,54 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
 
-**Station 500 and 530**
+## Stations 500 and 530
 
-| `patientDFN`  | Name | DoB | Assigned To |
-| ------------- | ---- | --- | ----------- |
-| 237 | One, Patient (renamed to Harris, Sheba in 500) | 1935-04-07 | Shane |
-| 205 | Two, Patient | 1935-04-07 | Rob  |
-| 25  | Three, Patient | 1935-04-07 | Paras |
-| 229 | Four, Patient | 1935-04-07 | Andy |
-| 231 | Five, Patient | 1935-04-07 | Justin |
-| 418 | Six, Patient | 1935-04-07 | Peyton |
-| 253 | Seven, Patient | 1935-04-07 | Carl |
-| 3   | Eight, Patient | 1935-04-07 | Stephen |
-| 8   | Ten, Patient | 1935-04-07 | QA Team |
-| 224 | Eleven, Patient | 1935-04-07 | Patrick |
-| 204 | Twelve, Patient | 1935-04-07 | Jose Beltran (508 Office) |
-| 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews |
-| 271 | Fourteen, Patient | 1935-04-07 | Kristen |
-| 723 | Twentysix, Patient | 1935-04-07 | Adrian |
-| 366 | Twentyeight, Patient | 1935-04-07 | John |
-| 350 | Twentynine, Patient | 1935-04-07 | Gaurav |
-| 391 | Thirty, Patient | 1935-04-07 | Lori |
-| 384 | Thirtyone, Patient | 1935-04-07 | Kanchana |
-| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly |
-| 442 | Thirtythree, Patient | 1935-04-07 | Paras |
-| 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
-| 217 | Nine,Patient | 1935-04-07 | Charley |
-| 240 | Thirtyfive,Patient | 1935-04-07 | Michael K |
-| 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) |
-| 218 | Thirtyseven,Patient | 1935-04-07 | Patrick (OVAC) | 
-| 151 | Thirtyeight,Patient | 1935-04-07 | Patrick (OVAC) |
-| 347 | Thirtynine,Patient | 1935-04-07 | Patrick (OVAC) |
-| 520 | Forty,Patient | 1935-04-07 | Patrick (OVAC) | 
-| 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach |
-| 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben |
-| 569 | Fotrythree,Patient | 1935-04-07 | Brian |
-| 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews |
-| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| `patientDFN`  | Name | DoB | Assigned To | 500 | 530 |
+| ------------- | ---- | --- | ----------- | --- | --- |
+| 237 | One, Patient | 1935-04-07 | Shane | - | √ |
+| 237 | Harris, Sheba | 1935-04-07 | Shane | √ | - |
+| 205 | Two, Patient | 1935-04-07 | Rob  | √ | √ |
+| 25  | Three, Patient | 1935-04-07 | Paras | √ | √ |
+| 229 | Four, Patient | 1935-04-07 | Andy | √ | √ |
+| 231 | Five, Patient | 1935-04-07 | Justin | √ | √ |
+| 418 | Six, Patient | 1935-04-07 | Peyton | √ | √ |
+| 253 | Seven, Patient | 1935-04-07 | Carl | √ | √ |
+| 3   | Eight, Patient | 1935-04-07 | Stephen | √ | √ |
+| 8   | Ten, Patient | 1935-04-07 | QA Team | √ | √ |
+| 224 | Eleven, Patient | 1935-04-07 | Patrick | √ | √ |
+| 204 | Twelve, Patient | 1935-04-07 | Jose Beltran (508 Office) | √ | √ |
+| 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews | √ | √ |
+| 271 | Fourteen, Patient | 1935-04-07 | Kristen | √ | √ |
+| 723 | Twentysix, Patient | 1935-04-07 | Adrian | √ | √ |
+| 366 | Twentyeight, Patient | 1935-04-07 | John | √ | √ |
+| 350 | Twentynine, Patient | 1935-04-07 | Gaurav | √ | √ |
+| 391 | Thirty, Patient | 1935-04-07 | Lori | √ | √ |
+| 384 | Thirtyone, Patient | 1935-04-07 | Kanchana | √ | √ |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly | √ | √ |
+| 442 | Thirtythree, Patient | 1935-04-07 | Paras | √ | √ |
+| 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching | √ | √ |
+| 217 | Nine,Patient | 1935-04-07 | Christina | √ | √ |
+| 240 | Thirtyfive,Patient | 1935-04-07 | Michael K | √ | √ |
+| 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) | √ | √ |
+| 218 | Thirtyseven,Patient | 1935-04-07 | Patrick (OVAC) | √ | √ |
+| 151 | Thirtyeight,Patient | 1935-04-07 | Patrick (OVAC) | √ | √ |
+| 347 | Thirtynine,Patient | 1935-04-07 | Patrick (OVAC) | √ | √ |
+| 520 | Forty,Patient | 1935-04-07 | Patrick (OVAC) | √ | √ |
+| 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach | √ | √ |
+| 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben | √ | √ |
+| 569 | Fotrythree,Patient | 1935-04-07 | Brian | √ | √ |
+| 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 100851 | TYLER,JOHN | 1988-01-23 | Mark Dewey | - | √ |
+| 100852 | ADAMS,JOHN | 1989-01-23 | Mark Dewey | - | √ |
+| 100853 | MONROE,JAMES | 1990-01-23 | Mark Dewey | - | √ |
+| 100854 | MADISON,JAMES | 1991-01-23 | Mark Dewey | - | √ |
+| 100855 | JACKSON,ANDREW | 1992-01-23 | Mark Dewey | - | √ |
+
 
 **Station 442**
 

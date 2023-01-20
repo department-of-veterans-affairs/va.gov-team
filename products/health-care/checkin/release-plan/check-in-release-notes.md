@@ -12,6 +12,26 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 01/20/2022
+- Fixed an accessibility error on the demographics list view (uses semantic markup for lists in lieu of aria labels)
+    - [Ticket 51894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51894)
+
+### 01/06/2023
+-  Fixes the error message on the last name field so that it translates when you toggle the language. 
+    - [Ticket 51440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51440)
+
+### 12/23/2022
+- Updated Pre-Check-in content "VA account" when instructing Veterans on where to update their information to now say "VA.gov profile"
+    - [Ticket 50875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50875)
+
+### 12/19/2022
+- Updated the error message a Veteran receives when attempting to use Pre-Check-in on the day of their appointment to check-in after the check-window; message now says "We're sorry. Pre-check-in is no longer available for your appointment time. Ask a staff member for help to check -in.
+    - [Ticket 50083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50083)
+
+### 12/14/2022
+- Refactored API calls to use a query builder for parameters; no user facing
+    - [Ticket 49082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49082)
+
 ### 11/28/2022
 - Changed the early guardrail for the check-in window from 30 minutes to 45 minutes. Veterans will now be able to use eCheck-in to check-in for their VA health appoiuntment starting as early as 45 minutes before their appointment time up to 15 minutes after their appointment time.
     - [Epic 49261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49261) 

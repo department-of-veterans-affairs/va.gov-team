@@ -1,8 +1,8 @@
 ---
-name: Check In Experience Send QA Screenshots to the State Department 
-about: For Sending QA Screenshots to the State Department 
+name: Check In Experience Send QA Screenshots to the State Department
+about: For Sending QA Screenshots to the State Department
 title: "[Product] Send QA Screenshots to the State Department"
-labels: product,HCE-Checkin
+labels: HCE-Checkin, product
 assignees: ''
 
 ---

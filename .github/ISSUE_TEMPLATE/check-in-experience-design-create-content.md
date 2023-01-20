@@ -2,7 +2,7 @@
 name: Check In Experience Create Content Task
 about: For Check In Experience to create content for development
 title: "[Research][Content] Create Content"
-labels: ux, content, research, HCE-Checkin
+labels: content, HCE-Checkin, research, ux
 assignees: ''
 
 ---

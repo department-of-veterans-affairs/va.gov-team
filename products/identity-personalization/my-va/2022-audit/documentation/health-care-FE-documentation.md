@@ -15,7 +15,8 @@ We show this section for every LOA3 user.
 You have no health care information to show.
 
 **Secondary link**
-- When a user does not have health care, a secondary link should appear for [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)
+- When a user does not have health care, a secondary link should appear for [Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction)
+- See more on the [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)
 
 **Positioning**
 - The text should appear on the lefthand side on desktop, directly under the "Health care" header.

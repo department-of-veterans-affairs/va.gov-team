@@ -5,9 +5,9 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |2022/10/18|Lauren Alexanderson, David Conlon, Danielle Thierry|Unauth content will not be a priority for now|There are a lot of dependencies for this currently, and our main focus is migrating the apps|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+|      |Lauren Alexanderson|Medical Records will be build domain by domain|This will allow the teams to more quickly show progress|
+|      |Lauren Alexanderson, Coulton Bunney|The first domain to be created will be Immunizations|This one is relatively straightforward and a good one to start with|
+|      |Lauren Alexanderson, Leah Bannon|The second and third domains will be Labs & Tests and Notes|           |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |

@@ -2,7 +2,7 @@
 name: Coverband Access Request
 about: For requesting access to the Coverband
 title: Coverband Access Request
-labels: Console-Services, coverband-access-request
+labels: coverband-access-request
 assignees: RachalCassity
 
 ---

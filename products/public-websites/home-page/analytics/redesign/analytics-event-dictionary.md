@@ -1,5 +1,9 @@
 ## Event dictionary for homepage metrics
 
+See also: 
+- [#11324 Implement GA analytics for baselining current homepage](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/gh/department-of-veterans-affairs/va.gov-cms/11324)
+- [#11467 Implement Google Analytics for new homepage ](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-cms/issues/11467)
+
 What do you want to measure?	|	Version | Component/area	|	Event	|	Example
 ---	|	---	|	---	|	--- |	---
 How often do users opt-in using the modal? | Redesigned | Modal | <ul><li> event: new-homepage-modal-click <li> modal-primaryButton-text: try the new homepage </li></ul>

@@ -1,6 +1,6 @@
-# Notification settings: Product outline
+# Product outline: Notification settings
 
-Last Updated September 1, 2022
+**Last Updated: December 16, 2022**
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -41,7 +41,6 @@ More information on the VANotify platform can be found [here](https://github.com
 
 ### What to Know
 
-
 This section of profile allows users to:
 
 - Manage text notification preferences.  
@@ -53,7 +52,6 @@ The following data will come through VA Profile's API
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
-
 Currently we support the following notifications:
 
 |Notification Group|Item|
@@ -62,7 +60,6 @@ Currently we support the following notifications:
 |Your health care|Prescription shipment and tracking updates|
 |Applications, claims, decision reviews, and appeals|Board of Veterans' Appeals hearing reminder|
 
-     
 ## User Outcomes
 
 ### Desired user outcomes
@@ -71,7 +68,6 @@ Currently we support the following notifications:
 - As a veteran, I want to be able to select where and how I receive those communication (eg. receive emails for claim updates; receive texts for appointment reminders).
 - As a veteran, I only want to have to keep this information updated in one place.
 
-
 ## Business Outcomes
 
 ### Desired business outcomes
@@ -79,7 +75,6 @@ Currently we support the following notifications:
 - Allow veterans to set and manage communication preferences from their VA.gov profile.
 - Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
-
 
 ## Measuring success
 
@@ -93,6 +88,8 @@ For previous OKRs/KPIs:
 
 |Projects|Launch date|
 |--------|-----------|
+|[MHV notification preferences migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)|Ongoing|
+|[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research#readme)| April 2022|
 |[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md)| Nov 2021|
 
 ## How to Access and Test

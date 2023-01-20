@@ -46,11 +46,6 @@ Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
 1. **Media library** (videos, images, PDFs)
 
-Products in the queue
-1. **Cemetery**
-1. **Regional Office**
-
-
 ## A guide to CMS Documentation 
 
 Documentation about the CMS lives in various places
@@ -75,13 +70,13 @@ Documentation about the CMS lives in various places
 - Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
 
 ### Sitewide CMS Team
-- Erika Washburn, Product Manager - Slack `@Erika Washburn`
+- Erika Washburn, Lead Product Manager - Slack `@Erika Washburn`
 - Dawn Pruitt, Delivery Manager - Slack `@Dawn Pruitt`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 
 ### CMS Program management
-- Clarence Maeng, Program Manager - Slack `@Clarence Maeng`
+- Stephen Smythe, Program Manager - Slack `@Stephen Smythe`
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 

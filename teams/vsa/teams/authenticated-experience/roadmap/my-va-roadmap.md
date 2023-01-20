@@ -1,25 +1,26 @@
 # My VA roadmap
 
-**Last updated October 26, 2022**
+**Last updated: December 19, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2|QA|
 |My VA audit|FE build|
 
 ### Projected timelines for current projects
 
 |Project|Q1 2022|Q2 2022|Q3 2022|Q4 2022
 |----|----|----|----|----|
-|**Payments & Debts/copays V2**|-|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
 |**My VA audit**|-|Documentation; Determine next steps for My VA; |Update designs; Research; FE updates|Pre-launch tasks and reviews; Launch|
 
 ## Completed projects
 
 |Project|Launch/Completion date|
 |----|----|
+|[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
+|[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
+|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
 |[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
@@ -45,5 +46,4 @@
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Should we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
-|Redirect from homepage to My VA at login| N/A | Winter 2022 | We will be evaluating this after the payment information section goes out. |
 |Update layout to put status updates separate from task links | N/A | Winter 2022 | We will evaluate this through a research effort. |

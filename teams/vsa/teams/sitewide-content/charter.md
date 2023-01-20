@@ -39,14 +39,7 @@ We ensure that the content and voice of VA.gov is:
  
 ### Roadmap 
 
-- Health modernization content 
-- Tier 1 content refresh/build out R&S 
-- Continued legacy content migration (debt, community care, caregiver) 
-- Continued legacy content migration holdover: complete rewrite of life insurance and education hubs 
-
-DONE in 2021:
-- Create new sitewide content service model to support product teams. 
-- Migrate current and relevant Veteran-facing FAQs from IRIS to VA.gov (R&S): This work is ongoing as we may return to develop more articles as we have time. But the initial set of articles are live. 
+[2023 WIP roadmap](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1668809126190?sender=uf8ddb00f0c9a241ee4573555&key=0aecd232-105e-4836-a891-3d4b77dc0a74)
 
 ### Team members 
 

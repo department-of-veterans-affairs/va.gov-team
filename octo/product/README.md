@@ -1,4 +1,4 @@
-# OCTO Product Operations
+# OCTO Product
 The `product operations` directory contains standards, templates, and other resources specific to the product management discipline that help teams maintain high-quality product development practices. 
 
 

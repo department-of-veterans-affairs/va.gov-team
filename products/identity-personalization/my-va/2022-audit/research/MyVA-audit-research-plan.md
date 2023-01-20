@@ -1,9 +1,9 @@
-# Research Plan for Authenticated Experience, My VA Audit, October 2022
+# Research Plan for Authenticated Experience, My VA Audit, January 2023
 
 ## Background
 As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
-As a result, we conducted [an audit of My VA](https://app.mural.co/t/vsa8243/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396?sender=uce014850ef6c5a8303e70396) to document and evaluate the following:
+As a result, we conducted an audit of My VA in Mural to document and evaluate the following:
 - All of the states of each section of My VA
 - Whether all states are necessary
 - Where we can simplify without losing important personalization
@@ -116,7 +116,7 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 |Pension         |      2     |
 |       ---      |     ---    |
 |***BRANCH***    |            |
-|*Various*       |     12     |
+|*Various*       |     18     |
 |Marine Corps    |            |
 |Army            |            |
 |Navy            |            |
@@ -166,8 +166,8 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 |Login.gov       |            |
 |       ---      |      ---   |
 |***ID PROOF***  |            |
-|*Various*       |      16    |
-|IAL1            |       2    |
+|*Various*       |      18    |
+|IAL1            |       X    |
 |IAL2            |            |
 |IAL3            |            |
 
@@ -229,9 +229,15 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to next question if yes)
 	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
 
-3. 4 participants should currently have have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
+3. 4 participants should currently have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
  	* Do you have education, compensation, or pension debt with VA?
  	* Do you have health care related debt with VA, such as copays?
+
+(Answering yes to either of these questions would qualify the participant for the debt criteria.)
+
+4. Do you have an account on VA.gov and has your identity been verified? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified and you do not qualify for the study.
+
+(Answering yes would qualify the participant.)
 
 ### Additional instructions  
 ALL participants must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. They also need to:
@@ -241,29 +247,33 @@ ALL participants must have a smartphone, desktop, laptop, or tablet and are will
   - Have Zoom downloaded to their device prior to the session
 
 ## Timeline
-TBD
+Launch in Q1 2023
 
 ### Prepare
-TBD
+* **We would like to request a kickoff call with Perigean before recruiting begins to align on research goals, recruitment criteria, and terminology for screener questions in the survey and emails that will be sent to Veterans.**
+	* Available times for kickoff call: 
+	* Monday, January 9, any time
+	* Tuesday, January 10 any time except 2-2:30pm EST
 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: stephen.barrs@va.gov
+* Date and time of pilot session: Wednesday, January 11 at 4:00pm EST
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: January 17 - 23, 2023
 
 ### Length of sessions
-* Session length: 60 minutes
+* Session length: 60 minutes for sighted users; 90 minutes for screen reader users
 * Buffer time between sessions: 30 minutes
 
-### Availability
+### Availability for sessions
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-|  |  |	
-|  |  |
-|  |  |
-|  |  |
+| Tuesday, January 17 | 9am-3:30pm, 4pm-5pm |	
+| Wednesday, January 18 | 9am-5pm |
+| Thursday, January 19 | 9am-5pm |
+| Friday, January 20 | 9am-5pm |
+| Monday, January 23 | 9am-5pm |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -272,11 +282,10 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto
-- Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Participant(s) for pilot test: Stephen Barrs
+- Note-takers: Will use Zoom transcription
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us
-  - erica.sauve@adhocteam.us
-  - taylor.mitchell@gcio.com
+  - berni.xiong@agile6.com
   - liz.lantz@adhocteam.us

@@ -19,8 +19,7 @@ Any UX changes necessary based on the logs, or feedback on user challenges, or V
 - changed the end point attribute used to generate the date the document was created
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
-### Planning 
-Desired date range: 11/16/22 - 12/06/22  
+### Planning 12/06/22 - 1/14/22  
 How will you make the product available in production while limiting the number of users who can find/access it: feature toggle  
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 <ul>
@@ -36,10 +35,14 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://doc
 Length of time: one week
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
-- Number of unique users:  
-- Metrics at this stage (per your "success criteria"):  
-- Types of errors logged:   
+- Number of unique pageviews: 439
+- Number of letters downloaded: 972
+- Call Center Complaints: 0 
+- Types of errors logged: 1 Sentry error due to a VBMS service disruption not caused by our calls to service.
+
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?  
+- nothing as of yet
+
 ### Stage B: moderate  
 #### Planning  
 Length of time: two weeks  

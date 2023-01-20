@@ -3,8 +3,8 @@ name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also
   for vanity URL requests.
 title: Redirect Request
-labels: Sitewide IA
-assignees: RLHecht, jilladams, heyjoni
+labels: Sitewide IA, ⭐️ Public Websites, VA.gov frontend
+assignees: mnorthuis, jilladams, RLHecht
 
 ---
 
@@ -20,7 +20,13 @@ assignees: RLHecht, jilladams, heyjoni
 - [ ] We need a custom vanity URL (complete vanity URL section)
 
 ### Implementation date
-When does this request need to be live: 
+When does this request need to be live?
+Choose one:
+- [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
+- [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 
+- [ ] Any day after an earliest possible date. **EARLIEST DATE:**
+- [ ] During a specific date range: ***EARLIEST DATE TO LATEST DATE:***
+- [ ] No hard timing requirements, publish when possible.
 
 ### Redirects 
 Current URL  |  Redirect Destination or New URL

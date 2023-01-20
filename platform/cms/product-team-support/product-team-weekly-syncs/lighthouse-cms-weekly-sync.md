@@ -14,11 +14,30 @@
 
 </details>
 
-## Monday, December 5, 2022 
+## Monday, December 12, 2022 
 * v1 status check
+  * About to lift code freeze
+  * Expanding database to address latency, considering putting in internal metrics to detect in the future
+  * Once code freeze is lifted (targeting this week) hopes to push through pipeline, 
+    * Step 1 - LH tells Facilites to push data - Fac team would refresh PR environment, 
+      Ie right now we only push Covid status.. we open that up and push to staging first, LH then verifies 
+      https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4769
+      Facilites team - David, Jay, CHristian - assess issues that have waiting in the wings .
+    * What else is necessary to get v1 to go live (3 proposals to be discussed)  
+  * 4 or 5 staged groupings of code changes are waiting to go through, once the first one is pushed, have to work with Facilites team to flip the switch to push all the data, LH can handle the date, 
+  * Fac team has all data staged, ready to be pushed
+    * Timing-wise: If not this week, then next year
 * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+  * Can't discuss with Adam absent - push to 19th
 * Erroneous CLOSE status, where'd it come from?
   * Swirt confirmed it was never CLOSED in CMS https://dsva.slack.com/archives/C02BTJTDFTN/p1669743015670409 
+* KBs to David, not addressed yet
+* Mental Health - Started discussing and wanted to know next stesps
+  * dive further what we want that to look like? What is SOT
+  * VHADM has responded with explicit legislation citation - David fwd'd to James Costa 
+* Caregive Support Data - investigated internally hosted data file vs CMS data - distinct pattern of differences - is there an issue disinguishing between system data and facility data.
+  * Discuss with Dave C? Do we need JHL and Caregiver Support team members? AI>>DS bring to Dave C
+  *Agree upon SOT
 
 ## Monday, November 28, 2022 
 * v1 status check

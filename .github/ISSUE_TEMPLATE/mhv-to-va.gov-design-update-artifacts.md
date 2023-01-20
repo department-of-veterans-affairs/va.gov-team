@@ -1,8 +1,9 @@
 ---
-name: MHV to VA.gov Update Design Artifacts (e.g. Sketch files, documents linked to prototypes)
+name: MHV to VA.gov Update Design Artifacts (e.g. Sketch files, documents linked to
+  prototypes)
 about: For Updating MHV to VA.gov Design Artifacts
 title: "[DESIGN] MHV to VA.gov: APP NAME: Update Design Artifacts for Release"
-labels: my-health, design
+labels: design, my-health
 assignees: ''
 
 ---
@@ -51,4 +52,4 @@ Update Sketch wireframes and prototypes so that they match what we are releasing
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

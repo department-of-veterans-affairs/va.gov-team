@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health care application 10-10EZ household information section, December 2022
+# Research Plan for 10-10 Team, Health care application 10-10EZ household information section, December 2022
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study is focusing on an iteration of one specific section - household information. This section includes questions on:
@@ -321,5 +321,5 @@ Mobile Prototype
 - [Destkop prototype](https://preview.uxpin.com/6a98bfd8c3a76816b8695fbdc6883bd477610024#/pages/159024257)
 - [Mobile prototype](https://preview.uxpin.com/0d51ae969e349ebcf115f993fe29af216eccd6d9#/pages/159616318)
 - [Notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/research-notes)
-- [Synthesis notes Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1666894526417/3cd5fb1ef447104ac677305a840849e322956178?sender=u9b3a9c1b688c0e4bb4994314)
-- Research Findings
+- Synthesis [notes Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670614790707/7d9bfeebfc6ff21692ad756c74e395c1cef050cd?sender=uadf1ed7fe7c76f0914967329) and [spreadsheet]
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section/Research%20Findings.md)

@@ -1,4 +1,6 @@
-# VSA 10-10EZ Transition Hub
+# 10-10EZ Transition Hub
+
+**Updated 1/6/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -29,11 +31,10 @@
 The 10-10EZ: Application for VA health care was one of the first applications to be adapted to online on va.gov. Currently we are working to improve the UX and functionality. 
 
 - Used by Veterans to apply for health care
-- Approx. 12,000 submissions per month
+- Averaging 12,500 submissions per month
 - Login is available, but not required
      - Some fields are prefilled for authenticated users
      - Authenticated users can "save in progress" and return to complete their application
-
 
 <br>
 
@@ -72,6 +73,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - [Application Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
 - [Prefill fields engineering research](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/27278)
+- [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
 
 **Latest discovery research**
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
@@ -81,7 +83,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/team.charter.md)
 - [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
 - [Sprint Planning and Roadmap](https://docs.google.com/presentation/d/1ASalrxCcn-SXoNzz7ueIYQws97O6ROkXZznVch1mF-c/edit#slide=id.p1)
-
+- [Quarterly planning GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/847/views/1?layout=board)
 
 <br>
 
@@ -101,7 +103,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - Evaluate if some questions can be removed for all applicants 
 - Facility selection redesign
 - Improve Military history section
-- Notifications: Confirmation Email/text
+- Notifications: Confirmation Email/text (Intake Request sent to HEC to get on roadmap)
 - Multilingual 
 
 
@@ -113,19 +115,20 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
+| [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Design in progress (Prototype created)|
+| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research starting Jan 2023 |
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-
+| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule |
+| [Short Form Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20Form%20Expansion.md) | Combat status | Initial discovery - Pending further discussions with stakeholders |
 
 <br>
 
 
-## Our team TBD team roster
+## Our team 2023 team roster
 
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Mark Fallows | mark.fallows@va.gov / mark.fallows@adhocteam.us - Associate Product Manager
 - Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
 - Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
@@ -145,7 +148,6 @@ This table includes links to the individual feature directory and the latest ite
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
 - Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-- Christopher Froehlich | Christopher.Froehlich@va.gov -- Digital Services Expert, IT
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
@@ -160,8 +162,7 @@ This table includes links to the individual feature directory and the latest ite
 ### Recurring stakeholder meetings
 
 - 10-10EZ Online Application Update
-   - HEC team and VA.gov team meet
-   - We meet every other week for ~1 hour on Wednesdays
+   - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
    - Tarsha is main POC for agenda
 
 

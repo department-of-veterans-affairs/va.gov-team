@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide for 10-10 Team, Health care application 10-10EZ household information section, December 2022
+# Conversation Guide for 10-10 Team, Health care application 10-10EZ household information section, December 2022
 
 ## Moderator logistics
 ### Day of the session

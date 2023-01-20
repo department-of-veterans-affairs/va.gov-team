@@ -1,8 +1,9 @@
 ---
-
-name: Tech Team 3 Issue 
+name: Tech Team 3 Issue
 about: For VA.gov Platform Tech Team 3
+title: ''
 labels: platform-tech-team-3
+assignees: ''
 
 ---
 

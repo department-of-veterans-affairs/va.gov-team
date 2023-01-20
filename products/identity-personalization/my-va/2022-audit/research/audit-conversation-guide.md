@@ -2,7 +2,7 @@
 
 - [ ] Make sure the feature flipper is turned on for the participant before the session
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
-- [ ] Turn on Zoom transcription
+- [ ] Turn on closed captioning in order to use Zoom transcription
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
@@ -11,14 +11,14 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Angela and I also have a note taker here with me. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
+Thanks for joining us today! My name is Angela. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
 
 Before we start, a few things I want to mention:
 
 - **I have a few other colleagues in the waiting room who would like to observe and take notes.** Are you okay with letting them in for this session?
 	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
 	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, that would be great.
-- **This entire session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
+- **This entire session should take no longer than 60 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
 - **We will be looking at your real account info in VA.gov today.** This means we will be able to see some of your personal information. If at any point you are uncomfortable, feel free to stop sharing your screen.
 - **If for any reason and at any time you want to stop the session, please let me know.**

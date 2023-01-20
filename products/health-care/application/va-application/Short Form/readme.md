@@ -31,30 +31,38 @@ The introduction of the short form will remove questions that are not necessary 
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
+
+**Key Result 1:** Target 30% of total application submissions through Short Form flow
+
+| KPI / Metric | Post-launch October (phased launch) | Post-launch November | Post-launch December |
+| ------------ | ------------- | ------------------ | ------------------- |
+| Total applications submitted | 11,292 | 10,878 | 10,343 |
+| Short Form applications submitted | 961 | 3,421 | 3,114 |
+| Pct. Short Form Applications | 8.37% | 31.45% | 30.08% |
+
 **Key Result 1:** Increase number of application submissions
 *Using last 6 months (Jan-June 2022) to calculate Baselines*
-| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch November | Post-launch December |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Application starts per Month | 12,974k | 2,546 | TBD |
-| Avg. Submissions per Month | 4,196k | 1,900 | TBD |
-| Pct. Applications Completed | 32.3% | 74.6% | TBD |
+| Avg. Application starts per Month | 21,264 | 17,509 | 15,124 |
+| Avg. Submissions per Month | 13,034 | 10,878 | 10,343 |
+| Pct. Applications Completed | 61.3% | 62.1% | 68.4% |
 
 **Key Result 2:** Reduce Sesssions / Time taken to complete application 
-| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch November | Post-launch December |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Sessions per Submission | 1.52 | 1.50 | TBD |
-| Avg. Single sessions per Month | 8,103 | 1,289 | TBD |
-| Avg. 2 sessions per Month | 2,857 | 393 | TBD |
-| Avg. 3 or more sessions per Month | 1,764 | 191 | TBD |
+| Avg. Sesions per Submission | 1.52 | 1.44 | 1.43 |
+| Avg. Single sessions per Month | 8,103 | 7,126 | 6,808 |
+| Avg. 2 sessions per Month | 2,857 | 1,940| 1,800 |
+| Avg. 3 or more sessions per Month | 1,764 | 763 | 733 |
 
 **Key Result 3:** Reduce abandoned applications
 
 *To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Basic info/Household info section (viewers of Basic Information page minus views of Medicaid/Medicare page, then determine %)*
-| KPI / Metric |Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| KPI / Metric |Baseline: Jan-June 2022 | Post-launch November | Post-launch December |
 | ------------ | ------------------ | ------------------- |------------------- |
-| Avg. Applications Abandoned per month |2,185 6mo. avg | 469 | TBD |
-| Pct. Applications Abandoned per month |16.8% of 12,974 6mo. avg started| 18.4% of 2,546 started | TBD |
-| Pct. Section Abandon compared to total abandoned| 52% of 4,203 6mo. avg total |73% of 646 total | TBD|
+|Applications Abandoned per month |40% (8,638 of 21,605 started)| 38% (6,631 of 17,509 started) | 32% (4,781 of 15,124 started) |
+|Section Abandon compared to total abandoned| 12% (1,061 of 8,638 abandoned) |26% (1,765 of 6,631 abandoned) | 38% (1,835 of 4,781 abandoned) |
 
 ---
 
@@ -113,7 +121,9 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ### After
 
 [Authenticated and UnAuthenticated workflow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
+
 [Screenshots of all screens](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1)
+
 ---
 
 #### Communications

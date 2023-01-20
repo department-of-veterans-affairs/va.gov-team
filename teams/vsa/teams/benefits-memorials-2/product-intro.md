@@ -209,13 +209,13 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 
 
 ### **FAQs: about the VBA Debt Portal** 
-- ***Q: Debt Letters are sent from VBMS to the Debt Portal. What type of Letters are Veterans able to view and download?***
-   - A: Examples of [the letters can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/letter-samples). Additionally, here is a breakdown of the letters that we are sharing:  
-     - 100 - Inactive debtor initial notification  
-     - 101 - Active debtor debt notification  
-     - 117 - Inactive debtor second notification  
-     - 123 - Inactive debtor final notification  
-     - 130 - debt increase letter
+- ***Q: ~~Debt Letters are sent from VBMS to the Debt Portal. What type of Letters are Veterans able to view and download?~~***
+   - A: ~~Examples of [the letters can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/letter-samples). Additionally, here is a breakdown of the letters that we are sharing:~~  
+     - ~~100 - Inactive debtor initial notification~~  
+     - ~~101 - Active debtor debt notification~~  
+     - ~~117 - Inactive debtor second notification~~  
+     - ~~123 - Inactive debtor final notification~~  
+     - ~~130 - debt increase letter~~
 
 - ***Q: What types of debts can a Veteran see on the Debt Portal?***
      - A: Veterans can access the following debt types within the portal:
@@ -411,6 +411,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [GH Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/design/user-flows)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-plan.md)
 - [Conversation Guide ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-findings.md)
+
  
  **Engineering:** 
  - [TBD]()
@@ -503,7 +505,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
  - [SW Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_guide.md)
  
  **Design/Research:** 
- - [TBD]()
+ - [User Flow/Personas](https://miro.com/app/board/uXjVPGVVPXM=/?share_link_id=74837174266)
+ - [User Path Discussion Recording](https://salientcrgt-my.sharepoint.com/:v:/g/personal/denise_coveyduc_gcio_com/EYbmuuGAWctHleWJDCc4KV4BVs28KRQA3N6kq265xsAgrw)
 
  
  **Engineering:** 

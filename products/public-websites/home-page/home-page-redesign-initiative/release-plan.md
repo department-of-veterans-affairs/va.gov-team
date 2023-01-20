@@ -20,8 +20,7 @@ Is this a brand new experience for a Veteran?
 
 | Feature Toggle name | Description | Issue
 | ----------- | ----------- | ----------- |
-| [_TBD_] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
-|[_feature_homepage_v2: FEATURE_HOMEPAGE_V2_] | CMS feature flag/config setting controls the new homepage design deployment to Prod | [#10965](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10965)
+| [va_home_preview_modal] | Controls opt-in modal display on live homepage | [#11653](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/11653)
 
 ## Step 2: Validation
 
@@ -38,26 +37,32 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-> The opt-in modal will be governed by a [feature toggle - #11653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11653). We will monitor the deployment for unexpected behavior. By turning off the modal, we can prevent Veterans and beneficiaries from being directed to the redesigned experience.  
+The opt-in modal will be governed by a feature toggle, `va_home_preview_modal`. We will monitor the deployment for unexpected behavior. By turning off the modal, we can prevent Veterans and beneficiaries from being directed to the redesigned experience.  
 
 > [VA-CMS Incident Response Procedure Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
 ### Phase I: Moderated production testing during Soft launch period
 
-Rather than a staged roll-out, the redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. Two options were evaluated during a design, accessibility and implementation discussion. The modal was chosen as the preferred approach over a banner. 
+We are throttling introduction of the homepage redesign using two methods:
+- Soft-launch via modal
+- Staged roll-out of soft-launch modal
+
+Soft-launch modal – The redesign will be "soft launched" in Production as a parallel page which Veterans and beneficiaries can visit via "opt in" from the existing VA.gov homepage. A similar method was used during the original launch of VA.gov but was managed using a preview subdomain which is not an option for this launch. Two options were evaluated during a design, accessibility and implementation discussion. The modal was chosen as the preferred approach over a banner. 
+
+Staged roll-out – we are implementing a mechanism to display the modal to a set % of visitors – initially 25%, then incrementing to 50%, 75%, and 100%. Since traffic is not authenticated, the Flipper audience % mechanism won't work. We are instead re-implementing a probablistic mechanism that was first used by the Chatbot team to stage their roll-out.
 
 More information about this soft launch is available in the [Launch planning section of the initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#soft-launch). 
 
 #### Planning
 
-- Desired date range or test duration: _Beginning mid-December 2022_ 
-- Desired number of users: [_TBD_]
+- Desired date range or test duration: _start Jan 4, 2023_ 
+- Desired number of users: _duration 30 days or 1.5M visitors opting in to viewing the new homepage, whichever comes sooner_
 - How you'll recruit the right production test users: _via Opt-in_
 - How you'll conduct the testing: _by monitoring analytics and feedback scores_
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: _opt-in modal displayed on existing/current homepage_ 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: _N/A_ 
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:[Cutover criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/cutover-determination-for-full-launch.md) 
 - Links to the dashboard(s) showing "success criteria" metrics: [_TBD_] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: _Michelle Middaugh_
+- Who is monitoring the dashboard(s)?: _Wes Rowe_
 
 #### Results
 

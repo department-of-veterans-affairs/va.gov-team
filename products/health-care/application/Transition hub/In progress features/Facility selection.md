@@ -1,4 +1,6 @@
-# VSA 10-10EZ facility selection hub
+# 10-10EZ Facility selection hub
+
+**Updated 1/9/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 

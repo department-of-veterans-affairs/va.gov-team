@@ -1,6 +1,6 @@
 
 ## Overview
-The VA Education Inbox will give access to claimants to the latest Post 9-11 decision later that resulted from their claim on the the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/product-outline.md">My Education Benefits</a> (MEB) application.
+The VA Education Letters app will give access to claimants to the latest Post 9-11 decision later that resulted from their claim on the the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/product-outline.md">My Education Benefits</a> (MEB) application.
 
 ## Problem Statement
 At this time, claimants using the MEB application can only see their decision letter online if they receive an immediate decision upon submission. If further review is required, the application advises that they'll get a letter in the mail when a decision is made. 
@@ -61,12 +61,12 @@ What marketing, outreach, or communications are necessary for this product to be
 
 ## Launch Dates
 - *Target Launch Date*
-  - January 2023
+  - March 2023
 
 ---
 
 ## Solution Narrative
-Application is under development slated for January 2023 release.
+Application is under development slated for March 2023 release.
 
 ### Key Decisions
 - Backend services will live on DGIB environment. The application will use Local vets-api endpoints that will serve proxies that generate jwt tokens to communicate with DGIB services. 

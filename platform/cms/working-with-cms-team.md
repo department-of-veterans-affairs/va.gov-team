@@ -1,6 +1,6 @@
 [Work in progress]
 
-# Working with CMS team - Rules of Engagement (ROE)
+# Working with CMS team - Rules of Engagement 
 
 This document will help all teams working on VA.gov understand when you should engage CMS team resources for collaboration and support.
 
@@ -18,7 +18,7 @@ This document will help all teams working on VA.gov understand when you should e
 General/support: [#cms-support](https://dsva.slack.com/channels/cms-support)
 For engineers: [#cms-engineering](https://dsva.slack.com/channels/cms-engineering)
 
-CMS product team members are also present in some product teams, including [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade). You can ping us there for product-specific questions. 
+CMS product team members are also present in some product teams, including [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vsa-sitewide-facilities](https://dsva.slack.com/channels/vsa-sitewide-facilities). You can ping us there for product-specific questions. 
 
 ## <a id="whentorequest"></a>When to check-in/collaborate with CMS team
 
@@ -28,7 +28,7 @@ CMS support is available anytime you have questions or want to collaborate on yo
 
 **At project kick-off** 
 - If your project involves non-authenticated (public) content, it is helpful to get a high level overview of the CMS and its products. 
-- Schedule a 30 minute <a href="#vagov-intro">VA.gov CMS intro</a> by <a href="mailto:VACMSSupport@va.gov?subject=Scheduling+a+VA.gov+intro>">sending an email to VACMSSupport@va.gov</a> (or opening an issue?). 
+- Reach out to the Sitewide CMS team in https://dsva.slack.com/archives/CT4GZBM8F for a CMS Collaboration Cycle Kickoff [ticket] (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=ewashb%2Cdawnpruitt&labels=%E2%AD%90%EF%B8%8F+Sitewide+CMS&template=cms-collab-intake.yml&title=%5BCMS+COLLAB+CYCLE+INTAKE%5D+%28Team+Name%2C+Product+Name%2C+Feature+Name%29).
 
 **During Discovery** 
 - If your product's content may be managed within the CMS, schedule a <a href="cms-scoping-exercise.md">CMS scoping exercise</a>, around the same time as the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#design-intent-check-in">design intent review</a>. 

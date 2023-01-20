@@ -2,7 +2,7 @@
 name: MHV to VA.gov Research Synthesis Task
 about: MHV to VA.gov Research Synthesis Task
 title: "[Research] MHV to VA.go: APP NAME: Synthesize research findings"
-labels: ux, research , my-health
+labels: my-health, research, ux
 assignees: ''
 
 ---

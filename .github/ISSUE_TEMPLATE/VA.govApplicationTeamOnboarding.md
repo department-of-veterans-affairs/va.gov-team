@@ -3,7 +3,7 @@ name: VA.Gov Application Team Onboarding Issue
 about: Used for onboarding of new team members
 title: VA Team Onboarding - [name]
 labels: onboarding
-assignees: anerbovig
+assignees: ''
 
 ---
 

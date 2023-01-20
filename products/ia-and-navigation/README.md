@@ -1,6 +1,6 @@
 # Product outline for IA and navigation on VA.gov
 
-**Last Updated: November 29, 2022**
+**Last Updated: December 15, 2022**
 
 ## Table of Contents
 
@@ -86,8 +86,8 @@ Undesired user outcomes for veterans (including soon-to-be veterans), those invo
 
 |Project or Initiative| Launch or completion date|
 |---------------------|--------------------------|
-|Health apartment wayfinding research| Starting in 2023|
-|[Health hub moderated tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%203%20-%20First%20click/HH_ResearchFindings.pdf)| September 2022 |
+|[Wayfinding research initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/)| Starting in 2023|
+|[Health hub moderated tree test findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)| September 2022 |
 
 ## Analytics
 

@@ -1,8 +1,8 @@
 ---
 name: OOB Deploy Request
-about: To request Out of band deployment 
+about: To request Out of band deployment
 title: OOB Deploy Request
-labels: platform-tech-team-support, operations, Console-Services,frontend
+labels: frontend, operations, platform-tech-team-support
 assignees: ''
 
 ---

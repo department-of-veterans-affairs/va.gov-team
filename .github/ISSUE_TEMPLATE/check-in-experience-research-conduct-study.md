@@ -2,7 +2,7 @@
 name: Check In Experience Research Conduct Study Task
 about: For Check In Experience to Conduct a Research Study
 title: "[Research]Conduct Research Study"
-labels: HCE-Checkin, ux, research
+labels: HCE-Checkin, research, ux
 assignees: ''
 
 ---

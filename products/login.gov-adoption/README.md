@@ -1,34 +1,39 @@
-# Login.gov Adoption at a glance 
+# Login.gov Adoption Team at a glance
 
-## Where to find us 
+### Where to find us 
 
 - GitHub Label: login.gov-adoption  
 - DSVA Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
 
-## General team overview
+### What we work on
 
-### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
-### [Product outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
+* [Products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
 
-### Implementation team
-December 2022 - 2023
+### How we work
+
+* [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
+
+### Who we are
+
+#### Implementation team
+December 2022 - Present
 
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
 |DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Program and Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
 |Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
-|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
-|Content Strategist|Carl Dickson|carl@themostudio.com|
+|Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
-|Senior Product Manager|Anthony Levin-Decanini|TBD|
 |Senior Interaction Designer|TBD|TBD|
-|Full Stack Developer|TBD|TBD|
+|Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
 |Full Stack Developer|TBD|TBD|
 
-### Discovery team
+#### Discovery team
 August - December 2022
 
 |Role|Assigned|Contact|

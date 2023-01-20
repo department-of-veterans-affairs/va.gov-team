@@ -2,7 +2,7 @@
 name: Check In Experience Conduct Remote Study Task
 about: For Check In Experience Conduct Remote Study Tasking
 title: "[Research] Conduct Remote Study"
-labels: ux,research, HCE-Checkin
+labels: HCE-Checkin, research, ux
 assignees: ''
 
 ---

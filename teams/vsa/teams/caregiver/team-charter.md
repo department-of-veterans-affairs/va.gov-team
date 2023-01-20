@@ -10,13 +10,13 @@
 ## Guideposts
 
 ### Team Mission Statement:
-To provide an easy and convenient path for Veterans and Caregivers to apply for care-related benefits
+To provide an easy and convenient path for Veterans to apply for VA health care benefits
 
 ### Team Vision:
-Create an effortless online experience that allows Veterans and Caregivers to easily apply for, track, and update care-related benefits
+Create an effortless online experience that allows Veterans to easily apply for, track, and update VA health care benefits
 
 ### Team North Stars:
-Improve the experience of Veterans and Caregivers when applying for care-related benefits 
+Improve the experience of Veterans when applying for VA health care benefits
 
 ## What we work on:
 
@@ -32,11 +32,11 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman, Katherine Lawyer
+- DEPO Product Lead: Lauren Alexanderson
+- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
 - DEPO Engineering Lead: Stephen Barrs, Mark Dewey
 - Team Product Manager: Heather Justice
-- Team Associate Product Manager: Mark Fallows
-- Sr. UX/Design Research: Jessica Stump
+- Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
@@ -46,19 +46,21 @@ Health Products
 
 ## How we work
 
-<details><summary>Team Meetings Cadence</summary>
+<details><summary>Workflow and Cadence</summary>
 <p>
    
 #### Stand-up
 Check in on people and product progress
 
-- Every Monday, Thursday and Friday @ 11:30am ET/8:30am PT
-- 15-30 min block
+- Every day @ 11:30am ET/8:30am PT
+- 15 min
+- 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
-- Last Tuesday of every sprint week @ 3pm ET
+
+- Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
@@ -66,13 +68,13 @@ Outline work to be done this sprint in order to accomplish the team's goals
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 12pm ET/9am PT
+- 1st Wednesday of every sprint @ 11:30 ET/8:30 PT
 - 30 min
 
-#### Grooming
+#### Refinement
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 3pm ET/12pm PT
+- 2nd Wednesday of every sprint, 1pm ET/10am PT
 - 1 hour
 
 </p>
@@ -100,6 +102,18 @@ Create, review, estimate, and prioritize backlog items.
      - 1010 primary/secondary
      - facilities-1010
 
+- We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
+    - Clear acceptance criteria
+    - Definition of done  
+    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
+    - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+    - All components/steps have been accounted for in the epic
+    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+
+- Naming convention for tickets/stories/tasks
+    - [area of work] Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+
 **Epics** should include:
    - Clear acceptance criteria
    - Definition of done  
@@ -115,7 +129,8 @@ Create, review, estimate, and prioritize backlog items.
         - Description (what happened & why we need this ticket), 
         - General tasks to perform
         - Acceptance criteria (expected result)
-   
+
+- If there are new work requests or sudden changes, contact the Product Manager to assist in scheduling into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -131,7 +146,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
-- For anything considered a "release" or significant change, Tze (the VSA QA lead) will be responsible for QA
+- For anything considered a "release" or significant change, the QA lead will be responsible for QA
 - Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders

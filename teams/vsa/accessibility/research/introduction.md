@@ -95,7 +95,7 @@ The more we openly talk about underserved communities of Veterans, point out gap
 ### 1. Join our community at **#inclusive-research**
 Let’s be honest. Inclusive research is hard and we’re going to need a diverse community to continue taking steps in the right direction. It’s 100% ok to be lost and confused. If you have a question, ask it in our slack channel! We’ll work together to find better answers with absolutely no judgment in the process.
 
-### 2. Aim to include 2+ underserved groups as primary criteria in your study
+### 2. Aim to include at least 2 underserved groups as primary criteria in your study
 When starting your recruitment process, think about which underserved groups of Veterans may be the most critical or underreached in your research. 
 
 * Who haven't you been able to recruit in the past? 

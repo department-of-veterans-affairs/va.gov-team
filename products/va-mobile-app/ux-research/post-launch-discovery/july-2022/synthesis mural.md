@@ -1,0 +1,1 @@
+[Synthesis Board Mobile App Research August 2022.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10468380/Synthesis.Board.Mobile.App.Research.August.2022_2023-01-18_19-35-44.pdf)

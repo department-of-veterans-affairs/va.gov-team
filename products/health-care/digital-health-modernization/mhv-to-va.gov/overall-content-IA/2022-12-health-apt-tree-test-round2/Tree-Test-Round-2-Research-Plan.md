@@ -98,109 +98,109 @@ Cohord 1-6: Veterans
 Cohort 7-12: Family members/Caregivers
 
 
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|Cohort 11|Cohort 12|
-|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|
-|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Male            |            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |     1   |     1   |
-|Female          |            |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |         |         |
-|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|*Various*       |            |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2   |        |        |        |         |         |         |
-|Gay             |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Asexual         |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Transgender     |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Queer           |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |         |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |         |         |       
-|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |         |         |             
-|*Various*       |            |    3   |     3  |    3   |    3   |    3   |   3    |   3    |    3   |   3    |   3     |    3    |   3     |
-|Black           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
-|White           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |         |         |            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |         |         |             
-|Native          |            |        |        |        |        |        |        |        |        |        |         |         |         |           
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |         |         |            
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |  ---    | ---     |       
-|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
-|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
-|Disability      |            |        |        |        |        |        |        |        |        |        |         |
-|Education       |            |        |        |        |        |        |        |        |        |        |         |    
-|Employment      |            |        |        |        |        |        |        |        |        |        |         |
-|Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |  9     |   9    |    9   |    0   |  0     |  0     |        |        |        |         |
-|Housing         |            |        |        |        |        |        |        |        |        |        |         |
-|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
-|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
-|Pension         |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
-|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |   9    |   9    |    9   |   9    |   9    |   9    |        |        |        |         |
-|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
-|Army            |            |        |        |        |        |        |        |        |        |        |         |
-|Navy            |            |        |        |        |        |        |        |        |        |        |         |
-|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
-|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
-|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
-|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
-|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |        |         |
-|Elementary      |            |        |        |        |   1    |        |        |        |        |        |  1      |        |         |
-|Intermediate    |            |        |        |   1    |        |   1    |        |        |        |   1    |         |   1    |         |
-|GED             |            |        |   1    |        |        |        |    1   |        |   1    |        |         |        |    1    |
-|High School     |            |   1    |        |        |        |        |        |   1    |        |        |         |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
-|Professional    |            |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |            |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |   9    |   9    |    9   |        |        |        |        |        |        |       9 |    9   |       9 |
-|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |        |         |
-|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|Cohort 11|Cohort 12|
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|
+|***SEX***       |        |        |        |        |        |        |        |        |        |         |         |         |
+|*Various*       |   6    |   6    |   6    |     6  |      6 |  6     |    8   |   8    |    8   |   8     |    8    |     8   |
+|Male            |        |        |        |        |        |        |    1   |   1    |   1    |     1   |     1   |     1   |
+|Female          |   3    |    3   |   3    |   3    |    3   |   3    |        |        |        |         |         |         |
+|***LGBTQ+***    |        |        |        |        |        |        |        |        |        |         |         |         |
+|*Various*       |  1-2   |1-2     |  1-2   | 1-2    | 1-2    |  1-2   |        |        |        |         |         |         |
+|Gay             |        |        |        |        |        |        |        |        |        |         |         |         |
+|Lesbian         |        |        |        |        |        |        |        |        |        |         |         |         |
+|Bisexual        |        |        |        |        |        |        |        |        |        |         |         |         |
+|Asexual         |        |        |        |        |        |        |        |        |        |         |         |         |
+|Transgender     |        |        |        |        |        |        |        |        |        |         |         |         |
+|Non-Binary      |        |        |        |        |        |        |        |        |        |         |         |         |
+|Gender-fluid    |        |        |        |        |        |        |        |        |        |         |         |         |
+|Queer           |        |        |        |        |        |        |        |        |        |         |         |         |
+|Two-Spirit      |        |        |        |        |        |        |        |        |        |         |         |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |         |         |       
+|***RACE***      |        |        |        |        |        |        |        |        |        |         |         |         |             
+|*Various*       |    3   |     3  |    3   |    3   |    3   |   3    |   3    |    3   |   3    |   3     |    3    |   3     |
+|Black           |        |        |        |        |        |        |        |        |        |         |         |         |             
+|White           |        |        |        |        |        |        |        |        |        |         |         |         |             
+|Latinx          |        |        |        |        |        |        |        |        |        |         |         |         |            
+|Asian           |        |        |        |        |        |        |        |        |        |         |         |         |             
+|Native          |        |        |        |        |        |        |        |        |        |         |         |         |           
+|Pacific Islander|        |        |        |        |        |        |        |        |        |         |         |         |            
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |  ---    | ---     |       
+|***AGE***       |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   5    |    5   |   5    |    5   |   5    |  5     |   5    |    5   |    5   |    5    |    5    |     5   |
+|18-24 yo        |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |     4  |    4   |    4   |    4   |   4    |   4    |    4   |    4   |    4   |     4   |     4   |     4   |
+|      ---       |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***BENEFITS***  |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |   9    |   9    |   9    |        |        |        |         |
+|*No Ben/Ser Exp*|        |        |        |        |        |        |        |        |        |         |
+|Disability      |        |        |        |        |        |        |        |        |        |         |
+|Education       |        |        |        |        |        |        |        |        |        |         |    
+|Employment      |        |        |        |        |        |        |        |        |        |         |
+|Finances        |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |  9     |   9    |    9   |    X   |  X     |  X     |        |        |        |         |
+|Housing         |        |        |        |        |        |        |        |        |        |         |
+|Life Insurance  |        |        |        |        |        |        |        |        |        |         |
+|Memorialization |        |        |        |        |        |        |        |        |        |         |
+|Pension         |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
+|***BRANCH***    |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   9    |   9    |    9   |   9    |   9    |   9    |        |        |        |         |
+|Marine Corps    |        |        |        |        |        |        |        |        |        |         |
+|Army            |        |        |        |        |        |        |        |        |        |         |
+|Navy            |        |        |        |        |        |        |        |        |        |         |
+|Air Force       |        |        |        |        |        |        |        |        |        |         |
+|Space Force     |        |        |        |        |        |        |        |        |        |         |
+|Coast Guard     |        |        |        |        |        |        |        |        |        |         |
+|Nat. Guard      |        |        |        |        |        |        |        |        |        |         |
+|Pub Hlth Corps  |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***EDUCATION*** |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |   8    |   8    |    8   |   8    |   8    |    8   |   8    |    8   |   8    |    8    |   8    |     8   |
+|Elementary      |        |        |        |        |        |        |        |        |        |         |        |         |
+|Intermediate    |        |        |        |        |        |        |        |        |        |         |        |         |
+|GED             |        |        |        |        |        |        |        |        |        |         |        |         |
+|High School     |        |        |        |        |        |        |        |        |        |         |        |         |
+|Some College    |  X     |   X    |    X   |   X    |  X     |   X    |    X   |   X    |   X    |   X     |    X   |   X     |  
+|Associate's     |  X     |   X    |    X   |   X    |   X    |   X    |    X   |   X    |  X     |   X     |    X   |   X     |
+|Bachelors       |  X     |   X    |    X   |   X    |  X     |   X    |    X   |   X    |  X     |   X     |    X   |   X     | 
+|Masters         | X      |   X    |    X   |   X    |  X     |   X    |    X   |   X    |    X   |   X     |    X   |   X     |
+|Professional    |  X     |   X    |    X   |   X    | X      |   X    |    X   |   X    |   X    |   X     |    X   |   X     |
+|Doctoral        |  X     |   X    |    X   |   X    |   X    |   X    |    X   |   X    | X      |   X     |    X   |   X     |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***RESIDENCE*** |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |         |
+|Urban           |        |        |        |        |        |        |        |        |        |         |
+|Rural           |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***HARDWARE***  |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |        |        |        |        |        |        |        |        |        |         |
+|Laptop          |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |        |        |        |        |        |        |        |        |        |         |
+|Tablet          |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***WEBSITE***   |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |   9    |   9    |    9   |        |        |        |        |        |        |       9 |    9   |       9 |
+|Ebenefits       |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***LOGIN***     |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |         |
+|DS Logon        |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |        |        |        |        |        |        |        |        |        |         |        |         |
+|ID.me           |        |        |        |        |        |        |        |        |        |         |
+|Login.gov       |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***ID PROOF***  |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |         |
+|IAL1            |        |        |        |        |        |        |        |        |        |         |
+|IAL2            |        |        |        |        |        |        |        |        |        |         |
+|IAL3            |        |        |        |        |        |        |        |        |        |         |
 
 ---
 **Identity Assurance Levels**
@@ -284,16 +284,20 @@ Cohort 7-12: Family members/Caregivers
 
 We’ll finalize key tasks for Veterans and family members and caregivers, research plan, and recruitment plan by December 9. 
 
+### Kick off meeting with Perigean
+
+We request to have a kick off meeting with Perigean 12/13/2022 or as soon as possible.
+
 ### Research sessions
 
-The tree tests will be open for two weeks, with the starting date December 12.
+The tree tests will be open for two weeks, with the starting date December 20, 2022.
 
 ### Length of session
 
 This is an asynchronous online test. Participants are expected to spend 15 - 20 minutes. 
 
 ### Data collection
-Planned dates of research: **12/14/2022 - 12/16/2022 - whenever we receive roughly 80 completed tests**
+Planned dates of research: **12/19/2022 - 1/3/2022 - whenever we receive roughly 80 completed tests**
 
 
 ## Team Roles	
@@ -303,7 +307,7 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Reviewed and approved by Mikki Northuis (IA Lead) on 12/8/22
-- Reviewed and approved by Shane Strassberg on (date)
+- Reviewed and approved by Shane Strassberg on 12/9/22
 
 
 ## Appendix A: Tasks

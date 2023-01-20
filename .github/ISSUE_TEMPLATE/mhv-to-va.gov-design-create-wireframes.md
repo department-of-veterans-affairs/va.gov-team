@@ -2,8 +2,8 @@
 name: MHV to VA.gov Create Wireframes
 about: For MHV core team to create wireframes for development
 title: "[Design] MHV to VA.gov: APP NAME: Create Wireframes"
-labels: ux, design, my-health
-assignees: 'MarciMcGuire'
+labels: design, my-health, ux
+assignees: MarciMcGuire
 
 ---
 
@@ -43,4 +43,4 @@ As a designer, I want to create low-res wireframes so that we can get feedback f
 - [ ] If work is in progress, add Assignee(s) in addition to PM :arrow_right: 
 - [ ] If Sprint is known, select it at the right :arrow_right: 
 - [ ] If work has been sized, add story points :arrow_right: 
-- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right: 
+- [ ] Attach to an Epic (what body of work is this a part of?) :arrow_right:

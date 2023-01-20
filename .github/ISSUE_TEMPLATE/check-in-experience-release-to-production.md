@@ -1,9 +1,10 @@
 ---
 name: Check In Experience Release Feature to Production Task
 about: For Check In Experience Task to release to production
-title: "Release to Production"
-labels: HCE-Checkin, ux, frontend, product, design
+title: Release to Production
+labels: design, frontend, HCE-Checkin, product, ux
 assignees: ''
+
 ---
 
 ## ENGINEERING TASKS
