@@ -37,16 +37,16 @@ Only one study had insights into this question: the homepage redesign usability 
 
 > ”Once you login, everything is easier to find information" (p4, who signs in first every time they goes to VA.gov).
 
+**Outstanding question**: When do people login in a given flow (eg. right away, after finding a prompt in a content page, etc)?
+
 #### Are people able to find prompts to sign in easily?
 - In the baseline wayfinding usability study  [wayfinding Issues, 1.iv](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#wayfinding-issues), **3 people missed the call to action button** under “Please sign in to view your VA medical records” 
 - Making the sign in CTA more prominent didn’t necessarily make it easier for people to sign in.
 > Most participants didn’t click *either* “sign in” button on the homepage. Of those who chose to sign in from the home page, only 2 participants used the new “sign in” button, whereas four used the original “sign in” button in the header. All other participants (13) instead used “sign in” buttons on content pages. [Homepage Redesign Round 1 Usability Testing, Hypothesis and conclusions, 1 and 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#hypotheses-and-conclusions)
 
-#### Outstanding questions about signing in
+**Outstanding question**: What sign in CTA(s) do people use (homepage, content page, main nav), and how easily they find these prompts?
 
-- When do people login in a given flow (eg. right away, after finding a prompt in a content page, etc)?
-- What sign in CTA(s) do people use (homepage, content page, main nav), and how easily they find these prompts?
-- Does "sign in" or "create an account" make a difference?
+**Outstanding question**: Does "sign in" or "create an account" make a difference?
 	
 ### Navigating to tasks & tools
 #### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
