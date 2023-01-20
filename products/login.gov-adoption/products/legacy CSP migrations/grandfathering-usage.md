@@ -20,7 +20,7 @@ The application reads the returned SSOe traits/headers, primarily CSP Method (va
 The application must keep the state (e.g. use a cookie), once the user chooses to Bind the account. This allows the application to know that the binding has started and if needed restart the process or at least audit the intent in case the flow interrupted due to errors or issues in the middle of the binding process.
 The application must be aware of the IAM SSOe published binding APIs endpoints and ensure that the required parameters are communicated to the binding app, so that latter can execute required logic.  
 
-
+![](figure1.png)
 Figure 1. Applications integrated via reassertion pattern
 
 ## Design: Reassertion Pattern
@@ -36,7 +36,7 @@ The details of the binding are irrelevant to the consumer applications; however,
 Once the binding complete, the Binding APIs will redirect the user to pre-defined Post binding application landing page (3), where user acknowledges the completion of the binding. 
 At this point, the consumer application requires to reestablish the local session, which was invalidated at the beginning of the binding process. To do this, the reassertion consumer application must initiate the SAML Authentication flow with IAM SSOe. During the binding process, the SSOe has established a valid session with new CSP. As a result, the SSOe SAML posts the SAML Assertion with new bound traits to reassertion application and it establishes the new local session with new traits. The SSOe SAML will contain the attributes (TBD) to indicate the status of the binding (if ever attempted), CSP ID, bound accounts/profiles.
 
-[]!(figure1.png)
+![](figure2.png)
 Figure 2. Applications integrated via header-based pattern
 
 
