@@ -47,11 +47,15 @@ assignees: ''
 
 ### Platform directions
 - Update "Issue Title" to be of the form "QA Standards - VFS Team - VFS Product"
-- Link to  Collaboration Cycle Request epic
-- Add the VFS team and product name
+- Add the VFS team, product name, and feature name
 - Add your name, practice area, and GH handle under Point of Contact/Reviewers
-- Add assignees: VFS PM
+- Complete the QA Standards section, making sure to include an "Explanation of failure to meet standard" for every Standard the product does not meet.
+- Link to the Collaboration Cycle Request epic
+- Add assignees: 
+  - VFS PM
+  - yourself (optional)
 - Add labels:
   - VFS team label
   - VFS product label
-  - Launch-blocking label, if applicable
+  - qa-standards label
+  - launch-blocking label if the product has failed to meet a required QA Standard
