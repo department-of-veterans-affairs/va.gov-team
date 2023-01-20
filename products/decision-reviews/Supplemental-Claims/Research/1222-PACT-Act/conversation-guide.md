@@ -10,7 +10,7 @@
 **Observers:** TBD
 
 ### Conversation Guide for Benefits Team 1 - Supplemental Claims, January 2023 
-1. Have link to prototype ready  [mobile](https://www.figma.com/proto/JveclTFbNNSmx4eiYwbZdZ/Supplemental-Claims?node-id=70%3A5676&scaling=contain&page-id=10%3A1697&starting-point-node-id=70%3A5676) 
+1. Have link to prototype ready  [mobile]
 ### Starting the session
 • _Keep observers in the waiting room to ask the participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to the participant when they are admitted to the session._ • _In the Attendees section, make sure everyone except the participant is on mute._ 
 
@@ -75,7 +75,7 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 You will be in a fictional scenario. Imagine you are a Veteran needing to file a supplemental claim to a disability claim that was denied. The content will be filled in for you and not apply directly to you, but I'd like to hear your thoughts as you try to complete the task.
 
 * We'll be talking about specific actions in the prototype. 
-* * So looking at just what you can see now without scrolling, what's jumping out to you?
+    * So looking at just what you can see now without scrolling, what's jumping out to you?
 * Is it clear what you need to do next?
 * Why do you think you need to make this decision?
 * What would you do next after making a choice?
@@ -89,7 +89,7 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 **Things to watch for:**
 * Do any users understand the new requirements for Supplemental Claim?
 * Do any users know how to access more information or help if they don't understand something on the page?
-* Do any users struggle with locating the start claim CTA?
+* Do any users struggle with locating the start claim action link?
 
 ### Task 2. Veteran Information and Issues for review
 _Goal: Validate that the details displayed are the most important pieces of information for disability issues_
