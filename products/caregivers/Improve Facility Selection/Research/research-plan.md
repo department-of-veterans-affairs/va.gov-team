@@ -48,7 +48,7 @@ The goals of this user research are to:
 1. Determine what question variation is the most understandable in the way it is asked.
 2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
 3. Determine how applicants would prefer to search for and select a facility from a list.
-4. Determine if the new facility search and selection process is accessible
+4. Determine if the new facility search and selection process has any accessibility concerns. 
 
 
 ### Outcome
@@ -59,13 +59,13 @@ The outcome of this study will help aid in decisions around changes to make to t
 ### Research questions
 
 **Goal 1: Understandable**
-- Which variation (a, b or c) is the easiest to understand and answer with little confusion?
-- Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
-- Which variation (a,b, or c) is the quickest to answer?    
+- Which variation (a or b) is the easiest to understand and answer with little confusion?
+- Which variation (a or b) results is the least amount of clarifying questions or additional information needed to complete? 
+- Which variation (a or b) is the quickest to answer?    
 
 
 **Goal 2: How information is used / impact to caregiver application process**
-- Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Which variation (a or b) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
 - Do users understand the variations containing a confirmation screen after selection? Does this add additional confusion?
 
 **Goal 3: Search and selection of facilities**
