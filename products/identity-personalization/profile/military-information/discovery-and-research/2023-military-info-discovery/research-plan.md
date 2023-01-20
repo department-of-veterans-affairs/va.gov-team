@@ -41,7 +41,7 @@ Semi-structured interviews that help us to understand what veterans need from th
 Remote: Zoom
 
 ### Research materials  
-[Link to conversation guide](url goes here) 
+Link to conversation guide will go here
 	
 ## Recruitment	
 
@@ -49,55 +49,44 @@ Remote: Zoom
 Research participants will be Veterans recruited by Perigean.
 
 ### Recruitment criteria
-We'd like to recruit 12 Veterans for a total of 6-8 completed sessions.  
+We'd like to recruit 14 Veterans for a total of 8 completed sessions.  
 
 **Primary criteria (must-haves)**
-- Veteran (12)
-- Aged 50+ (6)
-- Race is black, hispanic, bi-racial, asian and/or native (6)
-- Gender is not male (6)
+- Veteran (14)
+- Aged 50+ (7)
+- Race is black, hispanic, bi-racial, asian and/or native (minimum of 7)
+- Gender is not male (minimum of 7)
 
-
-
-- Has a cognitive disability (3)
-- Lives rurally (3)
-- A mobile user (no personal computer) (3)
-- Other than honorable discharge ?
-- Immigrant origin ?
-- LGBTQ (3)
-- Uses assistive tech (3)
-
+**Screener question to target criteria not captured in the recruitment sign-up survey**
 Which of the following have you _yourself_ completed in the past year (between January 2022 and January 2023)?
 - Formally requested a correction to your military records (min of 2)
 - Requested service records to replace a missing military record (e.g. DD214) (min of 2)
 - Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (min of 2)
 - Applied for an upgrade of your discharge status (min of 2)
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+Research plan and conversation guide will be completed by Tuesday, January 31.
 * Pilot participant email:
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: February 1-8
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 45 mins
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 3
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+All times are in eastern time:
+- February 1, 9am-3pm
+- February 2, 9am-6pm
+- February 3, 8am-4pm
+- February 6, 9am-6pm
+- February 7, 8am-3pm
+- February 8, 9am-3pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
