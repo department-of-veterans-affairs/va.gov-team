@@ -1,5 +1,8 @@
 # Identifying issues and challenges people have finding tasks when they are signed in to VA.gov: Research Review Findings
+
 Liz Lantz, Authenticated Experience
+
+Additional updates and notes by Samara Strauss, Auth experience PO
 
 January 17, 2023
 
@@ -7,6 +10,13 @@ January 17, 2023
 We’re aware of some high-level problems people have navigating the logged in experience on VA.gov — eg. if a link isn’t on the homepage or My VA, people tend to have trouble finding what they need. However, we’ve never conducted more holistic research that evaluates navigating the logged in experience. 
 
 This research review is the first of 7 research activities we’ll do to dive deeper into users’ problems with and expectations around navigating VA.gov once they’re signed in.
+
+## Goals
+
+There were two main goals for this review:
+
+1. **Determine what we already know** - This includes any known challenges with navigating the logged in experience (eg. people being reliant on homepage and My VA links); Veteran top tasks that we've already seen demonstrated through research and analytics; and known expectations around the logged in experience (eg. it should be personalized).
+2. **Determine what we need more information on** - This includes documenting any findings that we'd like to gather more information; including context for specific tasks in case it's relevant; documenting thoughts on how we can potentially explore findings further; and determining outstanding questions.
 
 ## Research questions and findings
 
