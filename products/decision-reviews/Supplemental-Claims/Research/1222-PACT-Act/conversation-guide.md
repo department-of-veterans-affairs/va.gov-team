@@ -80,11 +80,10 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 * Why do you think you need to make this decision?
 * What would you do next after making a choice?
 * What would you do if you wanted more information about this decision?
+
 * For this study, we’ll focus on disability compensation. Please choose that option.
 * Can you describe what’s happening on this screen?
 * Go ahead and start to file a claim and talk aloud as you go.
-* Please verify your primary information. 
-    * Why do you think the VA needs this?
 
 **Things to watch for:**
 * Do any users understand the new requirements for Supplemental Claim?
@@ -93,6 +92,10 @@ You will be in a fictional scenario. Imagine you are a Veteran needing to file a
 
 ### Task 2. Veteran Information and Issues for review
 _Goal: Validate that the details displayed are the most important pieces of information for disability issues_
+
+* Please verify your primary information. 
+    * Choose a primary phone number
+
 
 Ok, great, let’s move on. Can you describe to me what you think this section is for? 
 
@@ -108,13 +111,14 @@ Ok, great, let’s move on. Can you describe to me what you think this section i
 _Goal: Veterans understand and certify that they have read and understand the duty to assist and take action on it_
 
 * Can you describe what you're being shown?
-  * In your own words, what do you think the alert is telling you?
+  * In your own words, what do you think this alert is telling you?
 * Can you describe what this page is for?
   * What would you expect to happen if you choose “I certify?” 
   * If not?
 
 **Things to watch for:**
 * Do users understand the step of the form they are in?
+* Do they understand what a presumptive condition is?
 * Do they understand the language of evidence needed?
     * If yes, what is their understanding?
     * If not, what do they not understand?
@@ -135,7 +139,7 @@ _Goal. Veterans understand where they are in the form, can choose a type of evid
 * Is it clear how the VA can assist in gathering private evidence?
 * Do they understand what it means to upload evidence?
 * Is there any important information missing in this section?
-* Do they feel confident moving forward when clicking no?
+* Do they feel confident moving forward when clicking no on each of these sections?
 
 ### Task 4b. New and relevant evidence: Evidence summary
 _Goal. Veterans understand where they are in the form and summarize the decisions they’ve made_
