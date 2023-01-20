@@ -5,10 +5,11 @@
 
 - Demo Topic(s)
   -  Intro to OKRs (Matt)
+     -  [Mural Board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1672414110587/e5fa732d5d3f3d7ff6da9abf12d78866f2f2e0a3?wid=56-1672414154650)
   - WIP Nav Changes (Binny)
-  - Placeholder Staging endpoint status  (Jason)
 
-- Demo Slides (placeholder)
+- [Demo Slides & Recording ](https://docs.google.com/presentation/d/15md4G7IFfPyo11uH4VugpoWyb00O6doKrPbHG4iYnUY/edit?usp=sharing)
+  
 
 **Demo Sprint 59 12/8/22**
 
