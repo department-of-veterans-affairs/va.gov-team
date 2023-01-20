@@ -48,6 +48,7 @@ The goals of this user research are to:
 1. Determine what question variation is the most understandable in the way it is asked.
 2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
 3. Determine how applicants would prefer to search for and select a facility from a list.
+4. Determine if the new facility search and selection process is accessible
 
 
 ### Outcome
