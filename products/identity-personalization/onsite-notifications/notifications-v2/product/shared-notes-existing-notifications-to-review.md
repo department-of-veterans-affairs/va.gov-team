@@ -116,3 +116,4 @@ Answer:
 ### VA.gov
 
 1. What is Appointment Reminder Generic?
+  - **Answer**: This is actually a generic reminder for benefit applications that have not been completed on VA.gov. [Link to VANotify template](https://notifications.va.gov/services/5bda137e-689e-4532-b3d2-2c81c0324331/templates/5617dd58-f6f6-4368-a53f-058ebe2dd8ad)
