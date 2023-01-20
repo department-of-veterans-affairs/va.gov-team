@@ -46,13 +46,13 @@ body:
     validations:
      required: true
    - type: checkboxes
-    attributes:
-      label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process?
-      options:
-      - label: "Check this box if you have an E-QIP transmittal date. If not, do not submit this ticket. You will not be granted access without one. If you aren't sure, ask your Vendor Onboarding Representative."
+      attributes:
+        label: E-QIP Transmittal Date
+        description: Have you started your E-QIP process?
+        options:
+        - label: "Check this box if you have an E-QIP transmittal date. If not, do not submit this ticket. You will not be granted access without one. If you aren't sure, ask your Vendor Onboarding Representative."
       validations:
-      required: true
+        required: true
   - type: input
     id: requestor-name
     attributes:
@@ -127,9 +127,3 @@ body:
       - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the Platform orientation process https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html"
       - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
       - label: "Comment in this issue saying which roster the user is listed in."
-  - type: checkboxes
-    attributes: 
-      label: User must have an E-QIP date
-      description: This must be verified by access requestor before access will be assessed and granted
-      options:
-      - label: "I have verified that the E-QIP process has begun and an EQUIP date exists for this Team member" 
