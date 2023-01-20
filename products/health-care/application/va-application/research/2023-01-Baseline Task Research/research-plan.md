@@ -292,14 +292,14 @@ We will be testing what is currently approved in the staging environment.
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
 | January 27, 2023      | 11am - 4pm    |
-| January 30, 2023      | 11am - 5pm    |
-| January 31, 2023      | 12pm - 5pm    |
-| February 1, 2023      | 11am - 5pm    |
-| February 2, 2023      | 11am - 5pm    |
+| February 1, 2023      | 11am - 7pm    |
+| February 2, 2023      | 11am - 7pm    |
 | February 3, 2023      | 11am - 4pm    |
-| February 6, 2023      | 11am - 4pm    |
+| February 6, 2023      | 11am - 7pm    |
 | February 7, 2023      | 12pm - 4pm    |
-| February 8, 2023      | 11am - 4pm    |
+| February 8, 2023      | 11am - 7pm    |
+| February 9, 2023      | 11am - 7pm    |
+| February 10, 2023     | 11am - 4pm    |
 
 
 
