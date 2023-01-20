@@ -49,11 +49,15 @@ Only one study had insights into this question: the homepage redesign usability 
 **Outstanding question**: Does "sign in" or "create an account" make a difference?
 	
 ### Navigating to tasks & tools
+
 #### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
 1. People get frustrated navigating links that are not relevant to them, or feel like the website is generic rather than personalized to them.
 	- [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them)
 	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
 	- [Mobile App IA Usability, Detailed Findings, question 6.ii.a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#detailed-findings)
+
+**Outstanding question**: Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
+
 2. There is some ambiguity/confusion around navigating things related to financial information, but the label “Payments” is generally pretty clear and aligns with what people expect to see there.
 	- 	[Health Hub Tree Test Finding 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf) reveals that navigating things related to financial information is somewhat confusing. Identifying where and why cost, debt, and payment related content and tools was difficult, and there were multiple instances of confusion as to why copay and travel reimbursement were together.
 	- In the [Mobile App Open Card Sort study (finding 5)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md), people created a payment category that include all financial things *except* anything related to Education benefits - they wanted those to stay separately.  
@@ -61,7 +65,6 @@ Only one study had insights into this question: the homepage redesign usability 
 	- In the [My VA 2.0 2020 analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#most-people-start-directly-on-the-homepage-but-some-people-reorient-themselves-their-throughout-their-session), we learned people have to reorient themselves on the homepage. This is likely due to the lack of a cohesive logged-in navigation. 
 	- In the baseline wayfinding usability study [wayfinding Issues, 1.i](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#wayfinding-issues), we saw that participants relied on browsing the homepage over using search to find things they were looking for:
 > Most participants didn’t use search and instead tried browsing elsewhere on the home page. Only 4 of 19 participants searched when they couldn’t find what they were looking for in “common tasks. -  [Homepage Redesign Round 1 Usability Testing, Hypothesis and conclusions, 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#hypotheses-and-conclusions)
-
 			
 #### How easy/hard is it to find tasks that require people to be logged in?
 1. People are easily able to find tasks that require people to be logged in when:
@@ -70,6 +73,9 @@ Only one study had insights into this question: the homepage redesign usability 
 - There is scannable list of sections and tools, such as in [the blue sky prototype sidebar navigation](https://vsateams.invisionapp.com/console/share/X3WBOA3QSWR/600536834), or the top 4 boxes on the homepage. 
 	- This is supported in the [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#the-homepage-needs-to-be-supported-by-a-cohesive-logged-in-navigation) as well as (Baseline wayfinding on VA.gov,   [details of findings, 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#details-of-findings)). 
 	- In the second round of the homepage redesign usability research, participants commented on how hard it was to find links in a long page of content (read [second bullet in “Out of scope” findings section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#out-of-scope-for-home-page-redesign)).
+
+**Outstanding question**: Is the problem with navigation the main nav, lengthy content pages (assume CTA is not on My VA or homepage), or both (or something else)?
+
 2. Labels impact how easy/hard it is for people to find tasks:
 - It’s harder for people to understand labels that are overly verbose or break to multiple lines. For example: “Manage your electronic record sharing options,” (Health hub tree test[finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf))	
 - The homepage redesign research recommends making sure labels are task-oriented rather than topic - oriented (Homepage redesign research, round two ([recommendation 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#for-the-home-page-redesign-effort))
@@ -89,20 +95,31 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 1. People will want information about getting benefits (vs managing) regardless of if they are logged in or not.
 	- Mission-critical “Get Benefits” content would benefit from multiple paths, elevation in the IA, and more direct navigation (Health hub tree test [finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf))	
 	- The logged-in homepage needs to scale to support all phases of the Veteran lifecycle ( [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#the-logged-in-homepage-needs-to-scale-to-support-every-phase-of-the-veteran-lifecycle))
+
+**Outstanding question**: Does the homepage need to exist in a logged-in state? Can My VA replace it?
+
 2. It’s important to have a clear delineation between tasks around “getting benefits” and “managing benefits”. [Health hub tree test recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
-3. Users want multiple ways of getting to the same information.
+
+**Outstanding question**: Does this hold up when we add the layer of a visual navigation on top of a tree test? Is the delineation about "Get" and "Manage", or something else?
+
+4. Users want multiple ways of getting to the same information.
 	- [Health Hub Tree Test Finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
 	- [My VA 2.0 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-want-new-information-to-be-clear-to-them-when-they-log-in-and-expect-to-receive-new-information-through-multiple-channels)
 	- [Action items discovery, Central Alerts finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
 	- [Mobile App Open Card Sort, Finding 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
 	- In the homepage redesign usability testing ([round 1, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#3-of-the-20-top-tasks-tested-9-tasks-were-completed-successfully-by-everyone-and-4-were-completed-by-only-half-of-those-who-tried-them)), we saw participants take very different paths to complete the same thing. The study also [recommends that we ensure all top tasks can be accomplished via searching *and* browsing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#beyond-the-home-page-out-of-scope-but-can-discuss-with-other-teams)
-4. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
+5. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
 	- [Mobile App IA Usability, Finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks) 
 	- [Mobile app closed card sort, recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#we-recommend-the-following-changes-to-the-high-level-ia-to-improve-clarity-between-categories-and-better-match-participants-mental-models)
-5. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
+6. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
 	- [Action items discovery, Central Alerts finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
-6. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
+
+**Outstanding question**: What other wayfinding methods besides navigational terms should we consider?
+
+7. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
 	- [Mobile App IA Usability, Key Findings 1 and 3, and Detailed Findings, Question 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks)
+
+**Outstanding question**: Is using the mobile app nav as a model for VA.gov a good idea? Given the inherent difference in these mediums, where is the line between how they should be similar and how they should and need to differ?
 
 #### What are other known insights around navigating the logged in experience/tasks you have to log into to do?
 1. People find it helpful to have all their tasks/links in one place, and when they log in. 
@@ -117,6 +134,9 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 - The [homepage redesign research (round 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#further-research-needed) calls this out as something to do more research on.
 2. What are expectations do people have who are *not* Veterans around a personalized va.gov experience?
 - The Digital Health Modernization Generative Study noted that “the inability to delineate actions between users of a single MHV account causes friction and confusion.” (Insight 8). 
+
+**Outstanding question**: How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
+
 
 #### What would be helpful to get more information on?
 1. More information about signing in will be useful.  While previous studies had a few insights related to our question, none of these studies really focused on learning about this.  Each of these questions were answered in one study
