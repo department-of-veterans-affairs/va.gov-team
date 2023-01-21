@@ -13,12 +13,13 @@ During previous usability studies on this form (Research Findings: [February 202
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
-In addition, there are concerns that this questions could be potentially misleading. The facility chosen is used to process the applicatioin  at the nearest Caregiver support facility but the question is worded in that it is asking for the Veteran's preferred facility. Also when community/child facilities are included with the new search API integration this could add confusion because the applicant and the PDF will refelct the parent/Caregiver support facility not necessarily the facilty answered with. 
+Additional techinal and user experience concerns include:
+1. The team wants to update and use the facility API to manage the list of locations and include search by zip code in additon to state with a secondary filter by city.
+2. By including both community and VA Health Care Facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
+3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver application process. 
 
 
-
-
-We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c usability test to research the clarity and understanding of this question. 
+We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
