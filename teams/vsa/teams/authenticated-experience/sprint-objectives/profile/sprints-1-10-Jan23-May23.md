@@ -142,6 +142,9 @@ This all depends on Florence having Github access.
 - [Research] Military info discovery: Final logistics prior to sessions #51886
 
 ## Sprint 4 (2/15 - 2/28)
+
+[#52405](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52405)
+
 ## Sprint 5 (3/1 - 3/14)
 
 ### Onboarding
