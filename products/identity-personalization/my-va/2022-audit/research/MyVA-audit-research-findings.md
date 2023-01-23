@@ -64,8 +64,8 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
     * **Definitely true.** We heard one Veteran say they would like to see a link to important documents and one Veteran say they would like to see contact information for VSOs. Other than these two participants, we did not hear Veterans say that any important tasks or information was missing from My VA. 
   
 4. We hypothesize that based on analytics we have presented the sections on My VA in such a way that the most popular actions and links will be closest to the top.
-    **Maybe true.** We heard **X** Veterans say that they would like the ability to reorganize My VA so that their top categories were listed first and sections that they would be least likely to use would be at the bottom.
-
+    * **Maybe true.** We heard **X** Veterans say that they would like the ability to reorganize My VA so that their top categories were listed first and sections that they would be least likely to use would be at the bottom.
+    
 
 ## Key Findings
 
