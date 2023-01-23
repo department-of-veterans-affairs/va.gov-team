@@ -138,6 +138,7 @@ This all depends on Florence having Github access.
 **Design - Florence**
 
 - [Research] Military info discovery: Write conversation guide #51822
+- [Research] Military info discovery: Final logistics prior to sessions #51886
 
 ## Sprint 4 (2/15 - 2/28)
 ## Sprint 5 (3/1 - 3/14)
