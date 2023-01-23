@@ -70,12 +70,14 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 
 ## My VA features
 
-|My VA feature| Description | Related VA.gov tool| OCTO team that manages this integration | Backend systems | Backend partner contact info|
+My VA aggregates information from across VA.gov. While our team pulls info from across the site, we do not actually manage any of these integrations. Parent tools and teams that manage each integration are listed below.
+
+|My VA feature| Description | Parent tool on VA.gov | Slack channel for VA.gov team that manages parent tool | Backend systems | Backend partner contact info|
 |-------------|-------------|--------------------|----------------------------------------|-----------------|------------------------------|
-| Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A| #vsp-identity for all identity info, including full name |MPI| Go through #vsp-identity instead of going straight to MPI|
+| Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A| #vsp-identity |MPI| Go through #vsp-identity instead of going straight to MPI|
 |Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | #benefits-disability-experience| EVSS | Go through #benefits-disability-experience|
 |Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)|Profile team| VA Profile | Go through the profile team, or contact VA Profile (#va-profile in Slack; main contact is Mike Richard) directly|
-|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | VANotify (#va-notifty-public)| VANotify| Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
+|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | #va-notifty-public| VANotify| Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
 |Claim status| This shows someone's most recent claim status update in the last and links to the claim and the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | #benefits-claim-appeal-status| EVSS | Go through #benefits-claim-appeal-status |
 |Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | #vaos-team| VAOS | Go through #vaos-team|
 |Health care -- Unread messages| We show an alert in the health care section if someone has unread messages| N/A - Unread messages are currently in My Healthevet| #mhv-secure-messaging| MHV| Go through #mhv-secure-messaging|
