@@ -100,7 +100,7 @@
 **PM**
 
 - Check in on where we are with analytics (if done, there's nothing to do)
-- Submit QA request (do we even have a person to do QA?)
+- Submit QA request for next sprint (do we even have a person to do QA?)
 
 **FE**
 
