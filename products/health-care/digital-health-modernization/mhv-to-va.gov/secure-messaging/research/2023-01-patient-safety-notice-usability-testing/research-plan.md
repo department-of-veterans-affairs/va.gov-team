@@ -63,7 +63,7 @@ Data collection will be remote. We will use Zoom.
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-01-patient-safety-notice-usability-testing/conversation-guide.md)
 
-[Desktop prototype to be tested](https://xd.adobe.com/view/f88c6d21-2960-4ffc-bb37-37fe7947929e-addf/?fullscreen&hints=off)]
+[Desktop prototype to be tested](https://xd.adobe.com/view/f88c6d21-2960-4ffc-bb37-37fe7947929e-addf/?fullscreen&hints=off)
 
 [Mobile prototype to be tested](https://xd.adobe.com/view/8b9daa13-0823-4464-a992-7d3f17645c9c-dece/?fullscreen&hints=off)
 
