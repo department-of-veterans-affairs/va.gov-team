@@ -104,7 +104,7 @@ If add download functionality (e.g., print button), requires engineering work to
 ### Accessibility considerations:
 
 _Accessibility considerations specific to Immunizations:_
-- None identified so far
+Added 1/23/2023 by Marci McGuire - Eric Voshall learned that in the Lighthouse API, the vaccine name and dosage are also inside the same string so it is not currently possible to break those into two separate values.
 
 ### Research that relates to Immunizations
 
