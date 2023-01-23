@@ -17,7 +17,7 @@ This research supports the following 2023 OCTO objectives:
 The profile overall, and the military info section more specifically, are associated with a broad spectrum of Veteran needs and access to services that are relevant at any and all stages of the Veteran journey, from Starting Up to Aging. 
 
 ## Research Goals	
-Given all the possible information that we could surface in military information, what would be most helpful to veterans?
+Determine which information would be most helpful for Veterans to have surfaced in the military information section of the VA.gov profile.
 
 ### Outcome
 This research will inform the product team on what and how much military information should be populated in each Veteran's profile, and what other possible questions should be addressed in that same location, e.g. how to change incorrect service information.
@@ -65,12 +65,12 @@ Answers (users can multi-select):
 - Requested service records to replace a missing military record (e.g. DD214) (at least 3/14 must choose this answer)
 - Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (at least 3/14 must choose this answer)
 - Applied for an upgrade of your discharge status (at least 3/14 must choose this answer)
-- None of the above
+- None of the above (0-2 participants may choose this answer)
 
 ## Timeline
 
 ### Prepare
-Research plan and conversation guide will be completed by Thursday, January 26.
+Research plan and conversation guide will be completed by Friday, January 27.
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -87,7 +87,7 @@ All times are in eastern time:
 - February 2, 9am-6pm
 - February 3, 8am-4pm
 - February 6, 9am-6pm
-- February 7, 8am-3pm
+- February 7, 8am-4pm
 - February 8, 9am-3pm
 	
 ## Team Roles	
