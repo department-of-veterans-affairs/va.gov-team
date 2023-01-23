@@ -55,15 +55,16 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
 ## Hypotheses and Conclusions
 
 1. We expect that in the new design Veterans will still be able to find what they're looking for upon login and act on it as needed.
-   * **True.** We started the research session by asking what benefits each Veteran had throigh VA and what online tools they use to manage them. All Veterans were able to find information on My VA that was relevant to the benefits they had and perform all actions thye would normally do with other online tools like My HealtheVet, eBenefits, and the mobile app.
+   * **Definitely true.** We started the research session by asking what benefits each Veteran had throigh VA and what online tools they use to manage them. All Veterans were able to find information on My VA that was relevant to the benefits they had and perform all actions thye would normally do with other online tools like My HealtheVet, eBenefits, and the mobile app.
   
 2. We expect that showing all sections all the time to LOA3 users will not be distracting and will help highlight benefits that Veterans may be interested in if they are not currently enrolled.
-   * **True.** When questioned about empty sections, no one said that these sections were distracting to them or negatively impacted the experience at all. Several participants said that it was nice to see those empty sections on My VA to be reminded that those benefits might be of interest to them.
+   * **Definitely true.** When questioned about empty sections, no one said that these sections were distracting to them or negatively impacted the experience at all. Several participants said that it was nice to see those empty sections on My VA to be reminded that those benefits might be of interest to them.
    
-3. We expect that most important top tasks will be present and have all important details on My VA, possible with the exception of military records.
-5. We hypothesize that based on analytics we have presented the sections on My VA in such a way that the most popular actions and links will be closest to the top.
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+3. We expect that most important top tasks will be present and have all important details on My VA, possibly with the exception of military records.
+  * **Definitely true.** 
+  
+4. We hypothesize that based on analytics we have presented the sections on My VA in such a way that the most popular actions and links will be closest to the top.
+  * **Maybe true.** 
 
 
 ## Key Findings
