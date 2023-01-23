@@ -25,31 +25,32 @@ Last updated: 1/23/2023
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
-_Then, describe your goals for this research_
+Our goals for this research were:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+Determine if the updated information architecture of My VA still aligns with Veterans' mental model.
 
+Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state.
 
 
 ## Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* Are Veterans able to find their top tasks on My VA and act on them if applicable? 
+* Is there any important information about top tasks or any categories missing on My VA?
+* Is the new education section in a good place on the page for Veterans who are interested in those benefits? What about Veterans who are not interested?
+* Is it clear what "saved applications" are and are they in a good place at the bottom of My VA?
+* For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
+* Do users know how to find out more about benefits they are not currently enrolled in?
+* Do empty sections get in the way of Veterans trying to find out information about their current benefits or bring attention to benefits that Veterans may be interested in?
 
 ## Methodology 
 
-_Brief description of method chosen_
+We conducted remote moderated usability testing on Zoom using real Veteran data behind a feature flag in production. We used this method because:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+* We wanted to recruit an audience who was using a range of benefits and see their real data in testing so we could get accurate feedback that is specific to their use cases and does not require any hypothetical scenarios.
+* We were able to test with assistive technology users in code. This was important to do early on in usability testing rather than later in UAT because we did not want to make any significant changes coming out of UAT and wanted to know if there are any accessibility issues with this pattern sooner than later.
+* We didn't anticipate a lot of changes to the implementation or anything that would be very time-consuming to alter based on usability testing.
+* We had the research method conversation as a team early enough that the timeline allowed for coding and testing in production.
 
 
 ## Hypotheses and Conclusions
