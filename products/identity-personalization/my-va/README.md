@@ -16,7 +16,7 @@
 |Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Allison Lu| FE Engineer|	... |
+|Allison Lu| FE Engineer|	allison@cityfriends.tech |
 
 
 ### Table of Contents
