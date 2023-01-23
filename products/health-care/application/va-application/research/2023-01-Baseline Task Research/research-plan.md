@@ -253,7 +253,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 
 ## Screeener questions
 
-- Are you currently eligible and receiving health care benefits from VA? {if yes, exclude from this study)
+- Are you currently receiving VA health care benefits as your primary insurance? {if yes, exclude from this study)
 - Do you have a service connected disability rating of over 50%? {If yes, exclude from this study)
 
 

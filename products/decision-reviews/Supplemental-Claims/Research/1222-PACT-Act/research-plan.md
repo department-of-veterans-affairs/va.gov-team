@@ -56,7 +56,7 @@ Our intended audience for this research is Veterans who have had their claims de
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      20       |                  |  20    |             |          |               | 
+|      14       |                  |  14    |             |          |               | 
 
 ### Criteria Table 
 This is a single study, and we are testing with a prototype
@@ -64,22 +64,22 @@ This is a single study, and we are testing with a prototype
 |                |   Target   | Actual |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort  9|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |     14     |        |        |        |        |        |        |        |        |        |         |
+|Male            |      8     |        |        |        |        |        |        |        |        |        |         |
 |Female          |      6     |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |      4     |        |        |        |        |        |        |        |        |        |         |               
-|White           |      3     |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |      4     |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |      3     |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |      3     |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|      3     |        |        |        |        |        |        |        |        |        |         |                 
+|Black           |      3     |        |        |        |        |        |        |        |        |        |         |               
+|White           |      2     |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |      3     |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |      2     |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |      2     |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|      2     |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
 |55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
@@ -114,23 +114,23 @@ This is a single study, and we are testing with a prototype
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |      4     |        |        |        |        |        |        |        |        |        |         |
-|High School     |      4     |        |        |        |        |        |        |        |        |        |         |
-|Some College    |     12     |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
+|GED             |      3     |        |        |        |        |        |        |        |        |        |         |
+|High School     |      3     |        |        |        |        |        |        |        |        |        |         |
+|Some College    |      3     |        |        |        |        |        |        |        |        |        |         |
+|Associate's     |      2     |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |      2     |        |        |        |        |        |        |        |        |        |         |
+|Masters         |      1     |        |        |        |        |        |        |        |        |        |         |
 |Professional    |            |        |        |        |        |        |        |        |        |        |         |
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|Urban           |      14    |        |        |        |        |        |        |        |        |        |         |
-|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
+|Urban           |      9     |        |        |        |        |        |        |        |        |        |         |
+|Rural           |      5     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Mobile          |     12     |        |        |        |        |        |        |        |        |        |         |
+|Mobile          |      8     |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |

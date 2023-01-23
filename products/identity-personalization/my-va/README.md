@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: January 11, 2023 - team members**
+**Last updated: January 23, 2023 - added contact info for each feature**
 
 ### Communications
 
@@ -16,7 +16,7 @@
 |Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Allison Lu| FE Engineer|	... |
+|Allison Lu| FE Engineer|	allison@cityfriends.tech |
 
 
 ### Table of Contents
@@ -70,56 +70,20 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 
 ## My VA features
 
-### "Nametag"
+My VA aggregates information from across VA.gov. While our team pulls info from across the site, we do not actually manage any of these integrations. Parent tools and teams that manage each integration are listed below.
 
-- The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's full name as well as military branch and disability rating, if applicable.
-- **Backend system**: MPI for full name; eMIS for military information.
-
-### Disability rating
-
-- The disability rating is part of the nametag. We currently show percentage of service connected disability.
-- **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
-- **Backend system**: EVSS
-
-### Notifications
-
-- This section will display any recent notifications for the veteran
-- Currently, only debt notifications are active but eventually we plan to add more
-- **Backend system**: VA Notify
-
-### Claim status
-
-- This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
-- If someone has never filed a claim or has zero open claims, this section does not show.
-- **Parent tool**: [Claim status](https://staging.va.gov/track-claims/your-claims)
-- **Backend system**: EVSS
-
-### Health care
-
-- This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
-- **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
-
-### Outstanding debts
-
-- This section shows someone's most recent debts and copays.
-- **Parent tools**: [Manage your VA debt]https://staging.va.gov/manage-va-debt/summary/)
-- Benefits- team 2 is responsible for debts and copays. Their Slack room is #benefits-team-2.
-- **Backend system**: DMDC for debts; Not sure for copays
-
-### Benefit payments
-
-- This section shows someone's most recent payment within the last 30 days if they have one. 
-- There is also a link to update direct deposit information.
-- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts.
-- Benefits- team 1 is responsible for payment history. Their Slack room is #benefits-team-1.
-- **Backend system**: BGS
-
-### Apply for benefits
-
-- This section shows any benefit applications that have been started but not yet submitted on VA.gov.
-- This section also shows prompts to apply for VA health care, disability benefits, and education benefits to all users.
-- **Parent tools**: All benefit applications on VA.gov
-- **Backend system**: Each benefit application sends information to a different backend system, so if there is a problem with a particular application type, check in with the team that manages that application.
+|My VA feature| Description | Parent tool on VA.gov | Slack channel for VA.gov team that manages parent tool | Backend systems | Backend partner contact info|
+|-------------|-------------|--------------------|----------------------------------------|-----------------|------------------------------|
+| Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A| [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) |MPI| Go through #vsp-identity instead of going straight to MPI|
+|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)| EVSS | Go through #benefits-disability-experience|
+|Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)|[#accountexp-authexp](https://dsva.slack.com/channels/benefits-disability-experience) or [#va-profile](https://dsva.slack.com/channels/va-profile)| VA Profile | Go through the profile team, or contact VA Profile (#va-profile in Slack; main contact is Mike Richard) directly|
+|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify |[#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public)| VANotify| Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
+|Claim status| This shows someone's most recent claim status update in the last and links to the claim and the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status)| EVSS | Go through #benefits-claim-appeal-status |
+|Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | [#vaos-team](https://dsva.slack.com/channels/vaos-team)| VAOS | Go through #vaos-team|
+|Health care -- Unread messages| We show an alert in the health care section if someone has unread messages| N/A - Unread messages are currently in My Healthevet| [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)| MHV| Go through #mhv-secure-messaging|
+|Outstanding debts| This section shows someone's most recent debts and copays. | [Manage your VA debt](https://staging.va.gov/manage-va-debt/summary/)| [#benefits-debt-resolution](https://dsva.slack.com/channels/benefits-debt-resolution)| DMDC for debts; Not sure for copays | Go through #benefits-debt-resolution|
+|Benefit payments |This section shows someone's most recent payment. |[View payment history](https://staging.va.gov/va-payment-history/payments/)| There is not a VA.gov team managing this currently. Triage issues through Matt Self as needed.| BGS | For BGS, you can either reply to an old email thread, or contact Linda Ciston (linda.ciston@va.gov)|
+|Saved applications| This section shows any benefit applications that have been started but not yet submitted on VA.gov. |All benefit applications on VA.gov | Different teams.| Multiple systems | Ask in Slack if there are issues with a specific application.|
 
 
 ## User Outcomes

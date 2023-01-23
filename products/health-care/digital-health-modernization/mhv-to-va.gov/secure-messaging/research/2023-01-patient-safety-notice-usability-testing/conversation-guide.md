@@ -159,7 +159,7 @@ Would you please select the word "only" for me? Tell me how you feel about the p
 
 If you would like to look at the other version, you can select the word "don't" to go back.
 
-- Which wording do you think is more effective? What makes you say that?
+- Which wording do you think is more helpful? What makes you say that?
 
 **911 message**
 

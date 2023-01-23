@@ -124,6 +124,8 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 - **Feb 6**: 12-1 pm, 4:30-5:30 pm
 - **Feb 7**: 12-5 pm
 
+**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
+
 - Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
 - Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
 

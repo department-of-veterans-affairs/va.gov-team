@@ -1,18 +1,18 @@
 # On-site notifications roadmap
 
-**Last updated: December 6, 2022**
+**Last updated: January 23, 2023**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications V2| On deck; Starting later this year|
+|On-site notifications V2| Scoping|
 
 ### Projected timelines for current projects
 
 |Project|Q1 2023|Q2 2023|Q3 2023|Q4 2023|
 |----|----|----|----|----|
-|**On-site notifications: V2 -- scale notifications**| Scope project; Begin work | TBD | TBD | TBD |
+|**On-site notifications: V2 -- scale notifications**| Scope project; V2 phase 1 | V2 phase 2 | Notification center? | TBD |
 
 ## Completed projects
 
@@ -31,4 +31,5 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Decision letter notification| - | - | Keep an eye on if this team works with VANotify to add notification functionality for this. We would definitely want to elevate as an onsite notification|
 |Notification center| Auth exp.| N/A| This is something we'll need to revisit once VANotify supports more notifications that we want to show within VA.gov.|

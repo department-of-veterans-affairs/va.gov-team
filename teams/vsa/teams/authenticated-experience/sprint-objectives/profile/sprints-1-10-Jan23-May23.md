@@ -94,13 +94,6 @@ This all depends on Florence having Github access.
 
 - Tom: 2/6 - 2/10 (Lihan will backfill for Tom in case of emergency)
 
-### Onboarding
-
-This is dependent on when these people are actually hired:
-
-- Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
-- Onboard new full stack developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
-
 ### General
 
 **FE - Adam**
@@ -110,25 +103,57 @@ This is dependent on when these people are actually hired:
 **BE - Tom**
 
 - Testing Vets-API Server from BRD to EKS #52354
+  - May move to next sprint based on Tom's PTO and the actual deadline for this work
 
 ### Accessibility
 
 **Design - Liz**
 
 - Update Sketch files to show error alert for when Legal Name does not load correctly #52064
+- Review all profile use cases to make sure our documentation is up to date (OK if this needs to be split between two sprints)
+  - Where we've made substantial UI updates so far - personal info, military info, account security (if those updates launched last sprint) 
+  - I know that at least personal information needs updated links to the latest mockups 
 
 **FE - Adam**
 
 - Determine tasks needed to complete 508 issue #19618 (Semantic Lists) #37041
+- Address Validation Improvements (draft) #49652
+
+### Direct deposit EVSS > Lighthouse migration
+
+**BE - Tom**
+
+- Migrate GET Direct Deposit Info 
+
+
+### Notification preferences
+
+**Liz**
+
+- Research write-up #51005
+  - If not done last sprint, since sometimes Liz gets head on work
+- Read-out #51006
 
 ### Military info research
 
 **Design - Florence**
 
 - [Research] Military info discovery: Write conversation guide #51822
+- [Research] Military info discovery: Final logistics prior to sessions #51886
 
 ## Sprint 4 (2/15 - 2/28)
+
+[#52405](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52405)
+
 ## Sprint 5 (3/1 - 3/14)
+
+### Onboarding
+
+This is dependent on when these people are actually hired:
+
+- Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+- Onboard new full stack developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
+
 ## Sprint 6 (3/15 - 3/28)
 ## Sprint 7 (3/29 - 4/11)
 ## Sprint 8 (4/12 - 4/25)
