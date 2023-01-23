@@ -94,7 +94,7 @@ Remote, over Zoom.
 ### Research materials
 
 For moderated usability test 
-- [Conversation guide]() TBA
+- [Conversation guide](conversation-guide.md)
 
 - [Staging Link]() TBA
 
