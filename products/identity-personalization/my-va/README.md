@@ -83,7 +83,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 |Health care -- Unread messages| We show an alert in the health care section if someone has unread messages| N/A - Unread messages are currently in My Healthevet| [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)| MHV| Go through #mhv-secure-messaging|
 |Outstanding debts| This section shows someone's most recent debts and copays. | [Manage your VA debt](https://staging.va.gov/manage-va-debt/summary/)| [#benefits-debt-resolution](https://dsva.slack.com/channels/benefits-debt-resolution)| DMDC for debts; Not sure for copays | Go through #benefits-debt-resolution|
 |Benefit payments |This section shows someone's most recent payment. |[View payment history](https://staging.va.gov/va-payment-history/payments/)| There is not a VA.gov team managing this currently. Triage issues through Matt Self as needed.| BGS | For BGS, you can either reply to an old email thread, or contact Linda Ciston (linda.ciston@va.gov)|
-|Saved applications| This section shows any benefit applications that have been started but not yet submitted on VA.gov. |All benefit applications on VA.gov | There is no one team that manages all benefit applications. If you have questions about a specific one, ask in Slack to find which team is responsible.| Multiple systems | Ask around in Slack if there are issues with a sepcific application.|
+|Saved applications| This section shows any benefit applications that have been started but not yet submitted on VA.gov. |All benefit applications on VA.gov | Different teams.| Multiple systems | Ask in Slack if there are issues with a specific application.|
 
 
 ## User Outcomes
