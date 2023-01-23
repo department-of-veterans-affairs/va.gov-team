@@ -102,7 +102,8 @@ This all depends on Florence having Github access.
 
 **BE - Tom**
 
-- Testing Vets-API Server from BRD to EKS #52354 (may move to next sprint based on Tom's PTO and the actual deadline for this work)
+- Testing Vets-API Server from BRD to EKS #52354
+  - May move to next sprint based on Tom's PTO and the actual deadline for this work
 
 ### Accessibility
 
