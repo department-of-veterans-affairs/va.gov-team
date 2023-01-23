@@ -66,6 +66,8 @@ _"Decision review option" will be different for each participant, depending on w
 - On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
 - What were your biggest challenges with the process?
 - Was there anything about the process that worked particularly well?
+- Knowing what you know now, how would you advise a Veteran friend? Would you recommend that they try this process themselves, or seek representation right away?  
+- If you could wave a magic wand and improve VA.gov in one way, what would it be? 
 - How did you feel about the end result (or how do you feel so far, if it’s underway)?
 
 ### Things to watch for:
