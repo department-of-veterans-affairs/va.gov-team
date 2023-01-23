@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: January 11, 2023 - team members**
+**Last updated: January 23, 2023 - added contact info for each feature**
 
 ### Communications
 
@@ -70,22 +70,12 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 
 ## My VA features
 
-### "Nametag"
-
-- The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's full name as well as military branch and disability rating, if applicable.
-- **Backend system**: MPI for full name; eMIS for military information.
-
-### Disability rating
-
-- The disability rating is part of the nametag. We currently show percentage of service connected disability.
-- **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
-- **Backend system**: EVSS
-
-### Notifications
-
-- This section will display any recent notifications for the veteran
-- Currently, only debt notifications are active but eventually we plan to add more
-- **Backend system**: VA Notify
+|My VA feature| Description | Related VA.gov tool| OCTO team that manages this integration | Backend systems | Backend partner contact info|
+|-------------|-------------|--------------------|----------------------------------------|-----------------|------------------------------|
+| Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A| #vsp-identity for all identity info, including full name |MPI| Go through #vsp-identity instead of going straight to MPI|
+|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | #benefits-disability-experience| EVSS | Go through #benefits-disability-experience|
+|Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)|Profile team| VA Profile | Go through the profile team, or contact VA Profile (#va-profile in Slack; main contact is Mike Richard) directly|
+|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | VANotify (#va-notifty-public)| VANotify| Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
 
 ### Claim status
 
