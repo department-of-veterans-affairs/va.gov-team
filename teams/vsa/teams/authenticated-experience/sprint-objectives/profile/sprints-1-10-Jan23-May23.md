@@ -139,7 +139,10 @@ This all depends on Florence having Github access.
 **Design - Florence**
 
 - [Research] Military info discovery: Write conversation guide #51822
+  - Florence might get into this in sprint 2, so if she does, we can remove it from sprint 3.
 - [Research] Military info discovery: Final logistics prior to sessions #51886
+- (If Florence finishes the convo guide in sprint 2) Military info discovery: Conduct research sessions #51887
+
 
 ## Sprint 4 (2/15 - 2/28)
 
