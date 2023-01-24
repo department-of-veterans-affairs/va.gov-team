@@ -1,4 +1,6 @@
-# VSA 10-10EZ American Indian question hub
+# 10-10EZ American Indian question hub
+
+**In Production** as of 10/11/2023
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -22,6 +24,9 @@
 The intent is to add the American Indian question as a required question to be placed after the existing race, ethnicity, origin question. It's currently in staging, but is on pause. Program team and ES (enrollment system) must finalize before publication.
 
 - Program team previously requested an additional page for those who select "Yes" to American Indian will be asked to select their tribe. Because this list would include over 200 tribes, more information to the goal is needed in order to implement a good UX. 
+
+In 2021, the initiative was placed on hold until the Enrollment system was ready to receive the data from this question.  On 5/10/2022, we were given the approval to publish this in production, as the Enrollment system was ready to receive it.  We delivered the new question to production starting 9/26/22.
+As of December 2022, there was notice from the HEC stakeholders that the question may be removed from both the Online and Paper versions of the application, per the Member Services leadership.  As of p1/9/2023, we are pending final direction to remove the question.
 
 <br>
 
@@ -57,8 +62,6 @@ This table includes links to the individual design work products.
 ## Team members that worked on this
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
-
-
 
 <br>
 

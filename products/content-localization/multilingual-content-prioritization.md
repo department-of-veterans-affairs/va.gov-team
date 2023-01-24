@@ -32,15 +32,15 @@ We prioritize languages for VA.gov content translation based on these 3 factors:
 
 Population data shows the following for total volume of language need:
 
-  - Significanty more Hispanic or Latino Veterans speak a language other than English than Veterans of any other race or ethnicity (761,404 Hispanic or Latino Veterans vs. 434,147 for the next highest group, White, non-Hispanic Veterans).[Reference 1]
+  - Significanty more Hispanic or Latino Veterans speak a language other than English than Veterans of any other race or ethnicity (761,404 Hispanic or Latino Veterans vs. 434,147 for the next highest group, White, non-Hispanic Veterans).(Reference 1)
 
   ![image](https://user-images.githubusercontent.com/62957278/176435302-d0f4f78d-c426-49cc-b23b-416b7a989f72.png)
   
-  - Spanish is by far the top language Veterans who are immigrants to the U.S. speak at home (26% for Spanish vs. next highest language at 9% for Tagalog). [Reference 2].
+  - Spanish is by far the top language Veterans who are immigrants to the U.S. speak at home (26% for Spanish vs. next highest language at 9% for Tagalog). (Reference 2).
 
   ![image](https://user-images.githubusercontent.com/62957278/176435491-863f1cd5-15c9-4f0d-a2e5-e15048a6aec3.png)
 
-    - Of the top 3 bilingual Veteran populations by race or ethnicity, the Hispanic or Latino Veteran population is projected to have the most growth over the coming decades.This group is projected to grow to be 12% of the total Veteran population by 2044. [Reference 3]
+    - Of the top 3 bilingual Veteran populations by race or ethnicity, the Hispanic or Latino Veteran population is projected to have the most growth over the coming decades.This group is projected to grow to be 12% of the total Veteran population by 2044. (Reference 3)
     
     ![image](https://user-images.githubusercontent.com/62957278/176435994-9474b39c-babd-4ea3-9124-ea61335b016b.png)
 

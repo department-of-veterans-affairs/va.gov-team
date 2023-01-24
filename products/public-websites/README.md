@@ -726,6 +726,7 @@ The discharge update wizard was written by the Decision Tools team. That team tr
 ## Downtime messaging
 
 Governance / guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md
+
 Design system "Banner - Maintenance" component: https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--before-maintenance
 
 UX review issue: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6366) 

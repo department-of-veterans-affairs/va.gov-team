@@ -1,11 +1,12 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: December 12, 2022
+**Last Updated: January 24, 2023**
 
 ## Table of Contents
 
 - [POCs](#pocs)
-- [Overview](#overview)
+- [Overview & features](#overview--features)
+- [Is VA Profile the same thing as the VA.gov profile?](#is-va-profile-the-same-thing-as-the-vagov-profile)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
@@ -27,31 +28,35 @@ Last Updated: December 12, 2022
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@govcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
+|TBD |Product Manager|-|
+|Berni Xiong| Delivery Manager|berni.xiong@agile6.com|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Florence McCafferty| Designer |Florence.McCafferty@agile6.com|
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-| John Cater | FE Engineer | john.cater@govcio.com |
+|TBD| Full Stack Engineer |-|
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
 
-## Overview
+## Overview & features
 
 The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 
-Currently, the VA.gov profile supports the following information:
+|Profile feature| Description | Backend tool | Backend tool contact info|
+|---------------|-------------|--------------|--------------------------|
+|[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Full name| Shows  the full name for all LOA3 users.| MPI| [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) |
+|[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Disability rating| Shows someone's disability rating, if applicable.| EVSS | [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)| 
+|[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Military info|Shows someone's military branch, if applicable.|VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
+[Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)| Shows full name, date of birth, preferred name, gender identity, and disability rating| MPI for full name; VA Profile for gender identity and preferred name; EVSS for disability rating| MPI ([#vsp-identity](https://dsva.slack.com/channels/vsp-identity)); [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov); EVSS ([#evss-prod](https://dsva.slack.com/channels/evss-prod))|
+|[Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)| Shows home and mailing addresses, phone numbers, and email address| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
+|[Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)| Shows military branch(es) of service and service period(s)| VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)
+|[Direct deposit information: Comp & Pen](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows comp & pen payment recipients to update their direct deposit information| EVSS, but moving to Lighthouse | EVSS ([#evss-prod](https://dsva.slack.com/channels/evss-prod)); Lighthouse ([#vfs-evss-service-migration](https://dsva.slack.com/channels/vfs-evss-service-migration)) or Nichole Harris (harris_nichole@bah.com)
+|[Direct deposit information: Education](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)| Allows education payment recipients to update their direct deposit information| BGS | Linda Ciston (linda.ciston@va.gov)|
+|[Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)| Allows people to update whether they'd like to receive particular notifications, and in what format| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
+|[Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)| Allows people to verify their identity and add 2FA | N/A | If there is an identity-related issue, contact [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)|
+|[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps)| Allows people to disconect third-party apps from their account | Lighthouse | Carey Otto (carey.otto@adhocteam.us)|
 
-- [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
-- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
-- [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
-- [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
-- [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
-- [Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)
-- [Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps) (While the profile team built out the frontend, the Lighthouse team is responsible for the connected apps portfolio)
-- [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag#readme): The VA.gov Profile shares the nametag with My VA. The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
-
-### Is VA Profile the same thing as the VA.gov profile?
+## Is VA Profile the same thing as the VA.gov profile?
 
 **No, VA Profile and the VA.gov profile are not the same thing and do not have a 1:1 relationship.**
 

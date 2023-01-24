@@ -4,9 +4,17 @@
 
 ## Current
 
-(H1) What's the closest city to you?
+```diff
+- (H1) What's the closest city to you?
++ (H1) What's the nearest city to you?
+@@ GH51668 @@
+```
 
-Choose a city that is near you. This ensures that we send your community care request to your closest VA health system. (*Required)
+```diff
+- Choose a city that is near you. This ensures that we send your community care request to your closest VA health system. (*Required)
++ (*Required)
+@@ GH51668 @@
+```
 
 - {registered site}
 - {registered site}

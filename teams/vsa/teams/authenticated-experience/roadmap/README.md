@@ -2,7 +2,7 @@
 
 **Last updated November 23, 2021**
 
-The authenticated experience team works on two sections of the website:
+The authenticated experience team works on these VA.gov products/sections:
 
 ## My VA dashboard
 

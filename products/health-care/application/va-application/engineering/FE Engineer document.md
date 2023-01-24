@@ -65,6 +65,6 @@ The state list in the schema is supposed to be what the 10-10ez accepts
 - Any other values should be put in another schema. 
 - The Enrollment system may have future work to expand the acceptance of other countries/provinces/regions, however this is not yet in place
 
-### Useful acronym and terms
+### Useful acronyms, terms and/or tips
 
-- ???
+- Application registry - Updates to the application URL, breadcrumb titles, menu titles and other page attributes can be found within the `content-build` repo in a file called `registry.json`.

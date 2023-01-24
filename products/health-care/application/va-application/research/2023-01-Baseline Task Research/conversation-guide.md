@@ -1,4 +1,4 @@
-# Conversation Guide for 1010 Team, Health Care Application (10-10EZ), Baseline Tasks (1), January 2023
+# Conversation Guide for 1010 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
 
 ## Moderator logistics
 ### 2-3 days before the session

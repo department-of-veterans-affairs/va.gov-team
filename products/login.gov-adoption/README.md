@@ -30,7 +30,7 @@ December 2022 - Present
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Senior Interaction Designer|TBD|TBD|
-|Full Stack Developer|Melissa Miller|TBD|
+|Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
 |Full Stack Developer|TBD|TBD|
 
 #### Discovery team

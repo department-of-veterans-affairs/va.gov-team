@@ -171,7 +171,7 @@ Team Roles
 
 
 
-* Moderator: Liz Straghalis (617) 974-5005, liz.straghalis@adhocteam.us
+* Moderator: Liz Straghalis, liz.straghalis@adhocteam.us
 * Research guide writing and task development: Liz Straghalis
 * Participant recruiting & screening: Perigean
 * Project point of contact: Liz Straghalis

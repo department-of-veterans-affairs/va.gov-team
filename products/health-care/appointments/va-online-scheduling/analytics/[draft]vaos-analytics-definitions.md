@@ -51,12 +51,28 @@ The documentation is to provide definition and clarity as to how we are tracking
 vaos-cancel-appointment-submission | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation was attempted
 vaos-cancel-appointment-submission-failed | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission wasn't successful
 vaos-cancel-appointment-submission-successful | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission was successful
+vaos-cancel-booked-clicked |
+vaos-cancel-request-clicked |
 vaos-cc-eligible-yes |
 vaos-community-care-path-started |
+vaos-community-care-provider-selection-page |
 vaos-community-care-submission | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-community-care-preferred-language: "english", vaos-number-of-preferred-providers: 0 }` | User completed the form and a submission was attempted
 vaos-community-care-submission-failed | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }` | Submission wasn't successful
 vaos-community-care-submission-successful | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }` | Submission was successful
+vaos-contact-info-email-changed |
+vaos-contact-info-email-not-changed |
+vaos-contact-info-email-not-populated |
+vaos-contact-info-email-populated |
+vaos-contact-info-phone-changed |
+vaos-contact-info-phone-not-changed |
+vaos-contact-info-phone-not-populated |
+vaos-contact-info-phone-populated |
+vaos-continue-with-provider |
+vaos-continue-without-provider |
+vaos-COVID-19-vaccines-at-VA-link-clicked |
 vaos-covid19-path-started |
+vaos-covid19-screener-no |
+vaos-covid19-screener-yes |
 vaos-covid19-start-scheduling-button-clicked |
 vaos-covid19-submission | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | User completed the form and a submission was attempted
 vaos-covid19-submission-failed | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | Submission wasn't successful
@@ -74,6 +90,8 @@ vaos-eligibility-request-past-visits-failed | `{ flow: "request", health-TypeOfC
 vaos-eligibility-request-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
 vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-error |
+vaos-facilities-not-listed-click |
+vaos-facilities-not-listed-locator-click |
 vaos-get-future-appointments-failed | | If any of the upcoming appointments fetches fail: va or cc
 vaos-get-future-appointments-retrieved |
 vaos-get-future-appointments-started | | When upcoming appointments are fetched on the homepage
@@ -84,6 +102,8 @@ vaos-get-pending-appointments-failed | | If the request fetch fails
 vaos-get-pending-appointments-retrieved |
 vaos-get-pending-appointments-started | | When requests are fetched
 vaos-number-of-items-retrieved | types: `express_care`, `upcoming`, `video_home`, `video_va_facility`, `video_gfe`, `video_atlas`, `video_store_forward` | When a list of items are successfully fetched for the appt list
+vaos-order-position-provider-selection |
+vaos-provider-list-paginate |
 vaos-request-current-location-allowed |
 vaos-request-current-location-blocked |
 vaos-request-current-location-clicked |
@@ -93,8 +113,21 @@ vaos-request-submission-failed | `{ flow: "va-request", health-ReasonForAppointm
 vaos-request-submission-successful | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission was successful
 vaos-schedule-another-appointment-button-clicked |
 vaos-schedule-appointment-button-clicked |
+vaos-schedule-covid19-button-clicked |
 vaos-schedule-new-appointment-started |
+vaos-status-past-link-clicked |
+vaos-status-pending-link-clicked |
 vaos-update-address-alert-displayed |
+vaos-variant-default-alphabetical |
+vaos-variant-default-distanceFromCurrentLocation |
+vaos-variant-default-distanceFromResidentialAddress |
+vaos-variant-final-alphabetical |
+vaos-variant-final-distanceFromCurrentLocation |
+vaos-variant-final-distanceFromResidentialAddress |
+vaos-variant-method-alphabetical |
+vaos-variant-method-distanceFromCurrentLocation |
+vaos-variant-method-distanceFromResidentialAddress |
+vaos-variant-shown |
 vaos-view-your-appointments-button-clicked |
 
 ### Custom Dimensions/Metrics in Google Analytics

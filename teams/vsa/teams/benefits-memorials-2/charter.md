@@ -38,17 +38,20 @@
 
 ## Team Details
 
-- **Team Slack Channel:** `#vsa-debt`
+- **Team Slack Channel:** `#benefits-team-2`
 
 |**Team Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
-|Team Product Manager   |Denise Coveyduc                   |
-|Back End Engineer      |Scott James                    |
-|Front End Engineer     |Brandyn Sullins                   |
-|Front End Engineer     |Andrew Rodiek                           |
-|Design/Research      |Megan Gayle                          |
-|Design/Research      |Brie Pipitone                       |
+|Team Product Manager   |Denise Coveyduc                     |
+|Delivery Manager       | Heather Rienks                     |
+|Back End Engineer      |Scott James                         |
+|Front End Engineer     |Andrew Rodiek                       |
+|Front End Engineer     |Brandyn Sullins                     |
+|Front End Engineer     |Aaron Ponce.                        |
+|Designer/Research      |Megan Gayle                         |
+|Researcher             |Charlotte Cesana                    |
+|Designer               |TBD                                 |
 
 </br>
 ---
@@ -96,7 +99,7 @@ _[Additional Information](https://github.com/department-of-veterans-affairs/va.g
   * Let’s have fun and do great work!
 
 **Communication Best Practices** 
-  - Slack is the best communication method
+  - Slack is the best communication method - Please use DSVA #benefits-team-2 slack channel as much as possible
   - Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
   - VFS teams should use public Slack channels as their first method of communication.
   - Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.

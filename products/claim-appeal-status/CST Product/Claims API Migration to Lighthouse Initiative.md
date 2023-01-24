@@ -8,14 +8,17 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 
 * The transactions costs around collaboration have been high, it has been difficult to conduct joint discovery to determine what opportunities there might be to expand the number of attributes available for the Claim Status Tool. As a result, the pace at which we can pursue valuable bets and iterate on the status experience has been greatly reduced. 
 * It is difficult to determine objective measures of application performance metrics related to the API calls being made. For example, metrics around latency are extremely limited.
+* When bugs or user pain points surface, it has sometimes been difficult to diagnose which team is in a position to diagnose and solve the problem. 
 
 ## Desired User Outcomes
-- Veterans experience faster application load times.
+- Veterans experience better application performance
 - Over time, veterans are able to receive more reliable and useful information related to their claims so that their expectations are managed and they know what actions they can take to reduce the time waiting for a favorable decision.
+- Veterans get their pain pionts addressed faster.
 
 ## Desired Benefits Crew Outcomes
 - The Benefits Crew is able to collaborate with a willing partner in Lighthouse to pursue big bets that require an expansion of the claims end point infrastructure.
 - The Benefits Crew is able to more rapidly iterate on CST functionality.
+- The Benefits Crew is able to more effectively diagnose bugs and pain points and determine which team is able to fix the issues. 
 - The Benefits Crew is able to monitor application performance more effectively.
 
 ---

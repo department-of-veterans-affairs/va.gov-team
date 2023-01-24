@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks, January 2023
+# Research Plan for 10-10 Team, Health Care Application (10-10EZ), Baseline Tasks (Round 1), January 2023
 
 ## Background
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing. 
@@ -82,7 +82,7 @@ Remote: Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/Conversation%20Guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/conversation-guide.md)
 - [Task wireflow in Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
 - [Task list and metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/tasks-metrics.md)
 - [Link to staging](https://staging.va.gov/health-care/apply/application/introduction)
@@ -97,21 +97,21 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |     10           |     8  |             |      1   |        1      | 
+|      15       |     10           |     12 |             |          |        3      | 
 
 
 ### Criteria Table 
 |                               | **Single Study** |
 | ----------------------------- | ------------ |
 | **_SEX_**                     |              |
-| Male                          | 8            |
-| Female                        | 7            |
+| Male                          | 7            |
+| Female                        | 8            |
 | \---                          | \---         |
 | **_RACE_**                    |              |
-| Black                         | 3            |
+| Black                         | 2            |
 | White                         | 2            |
 | Latinx                        | 3            |
-| Asian                         | 2            |
+| Asian                         | 3            |
 | Native                        | 3            |
 | Pacific Islander              | 2            |
 | \---                          | \---         |
@@ -122,7 +122,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | 45-54 yo                      | 4            |
 | 55+ yo                        | 4            |
 | \---                          | \---         |
-| **_LGBTQ+_**                  |              |
+| **_LGBTQ+_**                  |  4           |
 | Gay                           |              |
 | Lesbian                       |              |
 | Bisexual                      |              |
@@ -164,8 +164,8 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | Doctoral                      |              |
 | \---                          | \---         |
 | **_RESIDENCE_**               |              |
-| Urban                         |              |
-| Rural                         |              |
+| Urban                         | 6            |
+| Rural                         | 9            |
 | \---                          | \---         |
 | **_HARDWARE_**                |              |
 | Desktop                       | 7            |
@@ -208,7 +208,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | ------------------------------------------------------------- | ---------------- |
 | **ASSISTIVE TECH**                                            |                  |
 | Font resizing/larger                                          |                  |
-| Screen reader                                                 | 2                |
+| Screen reader                                                 |                  |
 | Braille terminal                                              |                  |
 | Speech recognition sftw                                       |                  |
 | Speech generating device                                      |                  |
@@ -216,7 +216,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 | High contrast mode                                            |                  |
 | Alternative keyboard                                          |                  |
 | Alternative mouse or stylus                                   |                  |
-| Keyboard only navigation (no mouse usage)                     | 1                |
+| Keyboard only navigation (no mouse usage)                     |                  |
 | Switch access, head pointer, or eye tracking                  |                  |
 | Joystick                                                      |                  |
 | Teletypewriter or telecommunication device for the deaf (TTY) |                  |
@@ -253,7 +253,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 
 ## Screeener questions
 
-- Are you currently eligible and receiving health care benefits from VA? {if yes, exclude from this study)
+- Are you currently receiving VA health care benefits as your primary insurance? {if yes, exclude from this study)
 - Do you have a service connected disability rating of over 50%? {If yes, exclude from this study)
 
 
@@ -266,7 +266,7 @@ We will recruit Veterans for this research using and leveraging Perigean to recr
 January 2023
 
 * Kickoff call requested
-* Preferred date/time: January 10, 2023 at 1pm EST
+* Preferred date/time: January 20, 2023 at 12pm EST
 
 
 
@@ -275,11 +275,11 @@ We will be testing what is currently approved in the staging environment.
 
 > A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: 
-* Date and time of pilot session: 
+* Pilot participant email: Christia Troyer ( )
+* Date and time of pilot session: Monday, January 23 at 4pm ET
 
 ### Research sessions
-* Planned dates of research: **January 16 - 27 2023**
+* Planned dates of research: **January 27 - February 8, 2023**
 
 ### Length of sessions
 * Session length: 1 hour 
@@ -291,15 +291,16 @@ We will be testing what is currently approved in the staging environment.
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| January 16, 2023      | 12pm - 8pm    |
-| January 17, 2023      | 12pm-8pm      |
-| January 19, 2023      | 1pm - 8pm     |
-| January 20, 2023      | 12pm - 8pm    |
-| January 23, 2023      | 3pm - 8pm     |
-| January 24, 2023      | 12pm - 8pm    |
-| January 25, 2023      | 1pm - 8pm     |
-| January 26, 2023      | 1pm - 8pm     |
-| January 27, 2023      | 1pm - 4pm     |
+| January 27, 2023      | 11am - 4pm    |
+| February 1, 2023      | 11am - 7pm    |
+| February 2, 2023      | 11am - 7pm    |
+| February 3, 2023      | 11am - 4pm    |
+| February 6, 2023      | 11am - 7pm    |
+| February 7, 2023      | 12pm - 4pm    |
+| February 8, 2023      | 11am - 7pm    |
+| February 9, 2023      | 11am - 7pm    |
+| February 10, 2023     | 11am - 4pm    |
+
 
 
 	
@@ -309,9 +310,9 @@ We will be testing what is currently approved in the staging environment.
 - Research guide writing and task development:	Jessica Stump (jessica.stump@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: Christia Troyer ( )
 - Note-takers: Perigean & 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Mark Fallows (mark.fallows@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Lisa Zapson (lisa.zapson@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)   
 
 
 

@@ -1,8 +1,8 @@
 ---
-name: Authorized Experience Profile Phased Release Template
-about: Basic template for creating Authorized Experience Profile team phased releases
+name: Authenticated Experience Profile Phased Release Template
+about: Basic template for creating Authenticated Experience Profile team phased releases
   using a feature flag
-title: Practice Area - Auth Profile - [Project] - [Project Name]
+title: Practice Area - Profile - [Project] - [Project Name]
 labels: needs-grooming, profile, sprint-planning, vsa
 assignees: ''
 

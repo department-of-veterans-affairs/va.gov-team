@@ -135,9 +135,9 @@ __*The outcome of a Sprint Retrospective meeting is a Team determining and commi
 
 ### Issue creation
 
-You can create issues for yourself or the team throughout the sprint. We'll use refinement to get tickets ready to go before they are put in the "Current Sprint" column on our [Zenhub](https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/board) board.
+You can create issues for yourself or the team throughout the sprint. We'll use refinement to get tickets ready to go before they are put in the "Sprint Backlog" column on our [Zenhub](https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/board) board.
 
-For an issue to go into the Current Sprint column, it must have the following (created using the “[Standard Issue / User Story Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=)”):
+For an issue to go into the Sprint Backlog column, it must have the following (created using the “[Standard Issue / User Story Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=)”):
 - Estimate
 - Title that explains the task
 - Description that includes background
@@ -173,7 +173,7 @@ If there is a new 'RED LIGHT URGENT' work request, contact the Product Manager a
 
 ### Logistics
 
-- Keep Slack conversations in public channels where possible, to minimize duplicative and missed communication. (Use #va-identity-product-team slack channel for meetings notes if VA stakeholders involved. Use #cedar-identity-product-team slack channel for internal communications and meeting notes)
+- Keep Slack conversations in public channels where possible, to minimize duplicative and missed communication. (Use #va-identity-product-team slack channel for meetings notes. Use #cedar-identity-product-team slack channel for internal communications)
 - GitHub is our single source of truth. All work should be documented for tracking and capacity planning.
 - Update tickets regularly. If conversations happen in Slack that are important to an issue or useful to document, copy them into GitHub.
 - Our tickets and issues need to have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.

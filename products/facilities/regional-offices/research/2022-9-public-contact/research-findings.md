@@ -1,4 +1,4 @@
-# VBA Public Contact Staff Research Research Findings 
+# VBA Public Contact Staff Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VBA Regional Office, Facilities**
 
@@ -92,6 +92,8 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * 2 - 9 years = 7
   * 10 - 19 years = 3
   * 20+ years = 2
+* Length of time working in Public Contact
+  * **Dave P is going to see if this can be extracted** 
 * Job titles included:
   * Legal Administrative Specialist = 5
   * Veteran Service Representative = 3
@@ -113,7 +115,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * [Raymond G Murphy VAMC in Albuquerque](https://www.va.gov/new-mexico-health-care/locations/raymond-g-murphy-department-of-veterans-affairs-medical-center/)
   * From the [Albuquerque RO teamsite](https://www.benefits.va.gov/albuquerque/): 
   * > In addition, we have staff at the Raymond G. Murphy VA Medical Center on Tuesdays/Wednesdays/Thursdays from 8am-3:30pm. They are located in the Eligibility department by the main entrance. 
-* Regardless of the specific facility type, these can collectively be considered **Public Contact Offices**
+* Regardless of the specific facility type, the places where Public Contact staff interact with Veterans and beneficiaries will be referred to as **Public Contact Offices** for this report
 
 ## Hypotheses and Conclusions
 
@@ -122,7 +124,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
   * **NOT ENOUGH INFORMATION** - This would depend on implementation and should be evaluated during usability testing
 * The typical Veteran experience at Regional Benefit Offices is generally positive
-  * **PARTIALLY TRUE** - The Veteran experience at stand-alone ROs is generally positive. Proximity to a VAMC (e.g. same building, same campus) increases both wait times and the mismatch between services expected and services available.
+  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g. same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
 
 - - -
 
@@ -134,7 +136,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
 5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Office
-6. Public Contact staff provide a consistent set of services at multiple VBA facility types
+6. Public Contact staff provide a **consistent set of services** at multiple VBA facility types
 
 **Veteran experience**
 

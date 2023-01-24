@@ -1,25 +1,33 @@
 # VA.gov profile roadmap
 
-**Last updated: December 19, 2022**
+**Last updated: January 23, 2023**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
 |Notification preferences: Integration MHV prefs| Planning |
-|Accessibility audit| FE build on easy fixes; Discovery on more complex design questions|
+|Accessibility audit| FE build |
+|Notification preferences: Adding email as a channel| Research|
+|Direct deposit for comp & pen EVSS > Lighthouse migration| Discovery|
+
 
 ### Projected timelines for current projects & enhancements
 
-|Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022| Q1 2023|
+Quarters are by calendar year, not fiscal year.
+
+|Project| Q4 2022| Q1 2023|Q2 2023|Q3 2023|Q4 2023|
 |----|----|----|----|----|----|
-|**Notification preferences: Integration MHV prefs**| - | - | Intake with MHV | Strategy with health apartment; Determine approach |TBD|
-|**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |TBD|
+|**Notification preferences: Integration MHV prefs**| Define needs with MHV |VA Profile intake; Determine next steps|TBD|TBD|TBD|
+|**Accessibility audit and updates**| Design & frontend build |Frontend to finish last updates|-|-|-|
+|**Notification preferences: Adding email as a channel**| - |Research & finalizing design|TBD|TBD|TBD|
+|**Direct deposit for comp & pen EVSS > Lighthouse migration**| - |Discovery| BE build|Launch|-|-|
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
 |[Add BVS status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
 |[Add DD214 link to military info page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48782)| November 22, 2022|
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|Launched completed October 24, 2022|
@@ -70,7 +78,6 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Link to DD214 info from Military information section of the profile| Auth exp| 2020| "DD214" is a top search term from the profile, indicating people expect to find this information here. [Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11053) |
 |Enhanced statement of service | George Chewning | Summer 2021 | George and Samara agree that we need more research to determine what updates to military information on VA.gov would be the most useful. We are currently trying to determine how to get funding for this work. Potential research questions: (1) How do people use/when do people need their DD214 when interacting with the VA? (2) Are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)? (3) What military data would it be helpful to have on VA.gov to support predictive benefit eligibility?|
 
 ### Direct deposit requests

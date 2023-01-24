@@ -1,5 +1,7 @@
 # PRODUCT DEMO
 
-## September 22, 2022
-- [Video](https://user-images.githubusercontent.com/86678742/191777716-99ba6f06-bd4a-4f14-b478-f79d80a5e943.mp4)
-- [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/Demo%20Script_Aug_26_2022.pdf)
+## January 12, 2023
+
+- [Video](https://user-images.githubusercontent.com/93271257/212098826-06b0f5f4-df1f-4e37-8c1a-34e17fbc81a7.mov)
+- [Script](https://github.com/department-of-veterans-affairs/va.gov-team/files/10402799/Product.demo.script.pdf)
+

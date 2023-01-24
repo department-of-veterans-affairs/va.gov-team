@@ -2,7 +2,7 @@
 
 - [ ] Make sure the feature flipper is turned on for the participant before the session
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
-- [ ] Turn on Zoom transcription
+- [ ] Turn on closed captioning in order to use Zoom transcription
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
@@ -11,7 +11,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Angela and I also have a note taker here with me. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
+Thanks for joining us today! My name is Angela. Today we're going to be reviewing a specific page of VA.gov that helps veterans get personalized updates, action items, and resources.
 
 Before we start, a few things I want to mention:
 

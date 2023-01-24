@@ -229,7 +229,7 @@ Our intended audience for this research is Veterans who use a variety of VA bene
 2. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet? (Proceed to next question if yes)
 	 * Are you able to join the Zoom session using the tools you need to see your screen? (Answer should be yes to satisfy criteria for zoom magnification/font resizing)
 
-3. 4 participants should currently have have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
+3. 4 participants should currently have education (CH 33, CH 34, CH 35), compensation/pension debts, or have a copay balance due. Screener question:
  	* Do you have education, compensation, or pension debt with VA?
  	* Do you have health care related debt with VA, such as copays?
 
@@ -262,7 +262,7 @@ Launch in Q1 2023
 * Planned dates of research: January 17 - 23, 2023
 
 ### Length of sessions
-* Session length: 60 minutes
+* Session length: 60 minutes for sighted users; 90 minutes for screen reader users
 * Buffer time between sessions: 30 minutes
 
 ### Availability for sessions

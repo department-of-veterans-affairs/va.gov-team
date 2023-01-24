@@ -49,17 +49,26 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-Overall exit rate for 2021 on the Financial Disclosure page was 14.4%.  Target a third reduction to 10%
+| Product KPI | 2021 | 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |-------------- |
+|Total Apps started |173,669|  | | TBD |TBD |
+|Household section |14.4% (23,803)|12.6% |8% | TBD |TBD |
+|Financial Disclosure |% (1,464)|% ()|% () | TBD |TBD |
+|Spouse Info |%|% |% | TBD |TBD |
+|Dependent info |%|% |% | TBD |TBD |
+|Annual Income |% (40,791)|% |% | TBD |TBD |
+|Deductible Expenses |% (9,704)|% |% | TBD |TBD |
 
-#### **Key Result #2:** Increase application submissions by 4%, and submissions within a single session by 5%
+
+#### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
 This is based on a third of current exit rates converting to successful submissions
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | April-Sept 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | 70% (70k)  | 74% | TBD|TBD|
-|Single-session Submissions | 67% (47k) | 72% | TBD|TBD|
+|Application Submissions | 58% (137.5k)  | 63% | TBD|TBD|
+|Single-session Submissions | 67% (92k) | 72% | TBD|TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section

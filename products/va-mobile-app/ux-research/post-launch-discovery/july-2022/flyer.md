@@ -1,0 +1,1 @@
+[VA Health and Benefits Mobile App Research flyer July 2022.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10468564/VA.Health.and.Benefits.Mobile.App.Research.July.2022.1.pdf)

@@ -2,6 +2,41 @@
 
 ## About redirects
 
+### What is a redirect
+
+A URL redirect forwards both users and search engines to a different URL than the one requested, and is used whenever the URL of a page has changed or a page is removed.   
+
+**A redirect serves 2 purposes:**
+1) It protects the user's experience by ensuring they are sent to a valid destination page rather than receiving a 404/page not found error
+2) It informs search engines of the new location of a page so they can update their index and search results, and transfer the search value to the new URL 
+
+Redirects must be formally requested so they can be vetted for accuracy and appropriateness, and implemented with full validation across environments.  
+
+
+### Best practices
+
+**Implement a redirect any time you make a change to a page on VA.gov that will result in a change to it’s URL**
+- Examples of these changes are: 
+- Retiring or eliminating a page 
+- Merging or dividing pages resulting in new URLs 
+- Modifying the context of a page resulting in a need for different keywords and therefore a change to the H1 and URL 
+- Moving a page in the site under a new parent page  
+- Making any of the above changes to a parent page will likely result in similar changes for all its child pages 
+
+**Redirect pages to a new page with equivalent content**
+- When selecting the destination of a redirect, choose a landing page that contains similar content in meaning and level of detail.  If a page is not available for the same topic or level of detail, look for a slightly broader page that may help answer their question.  Only default to sending them to the home page of the site as a last resort, when no other similar content page is available.  
+
+**Avoid redirect chains**
+- A redirect chain happens when a user or search engine attempts to access a page and more than 1 consecutive redirect is required to get to a final destination - page A redirects to page B which redirects to page C.  Before redirecting a page, do your homework to determine if other pages are redirecting to it.  If there are, those redirects need to be updated as well. 
+
+**Do not create redirect loops**
+- A redirect loop happens when a page is redirected to another page which is redirected back to the original page.  This can also involve a redirect chain that results in a loop.   Always verify the planned landing page to ensure that it is available.   
+
+**Update links across the site**
+- All links within VA.gov should be updated (when possible) to reflect the new destination, or be removed (in the case of retiring content).  This ensures that all referring links are accurate and sending visitors directly to the correct page and not relying on a redirect. 
+
+## Redirects at VA
+
 At the VA, redirects can be executed server-side or client-side. 
 
 A server-side redirect uses a status code that is sent to a browser to let it know that the page that's being requested has moved or is no longer available, and tells the browser what page/URL to render instead. 
@@ -10,13 +45,7 @@ A client-side redirect is carried out using Javascript. This tends to apply to T
 
 The page you are redirecting from, whether it is a TeamSite, and whether it has specific Javascript present, will determine how a redirect gets implemented. More details are available on [Redirect Implementation Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-client-side-redirects-for-subdomains-subdomainvagov).
 
-**A redirect serves 2 purposes:**
-1) It protects the user's experience by ensuring they are sent to a valid destination page rather than receiving a 404/page not found error
-2) It informs search engines of the new location of a page so they can update their index and search results, and transfer the search value to the new URL 
-
-Redirects are most commonly used when you change the URL of a page, retire a page, or consolidate pages.
-
-Redirects must be formally requested so they can be vetted for accuracy and appropriateness, and implemented with full validation across environments.   
+ 
 
 ## Redirect request process
 
@@ -34,8 +63,8 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 - Validate the redirect once in production, and close the ticket
 
 ### Responsibility of IA
-- Review analytics and SEO data of the current page to ensure the redirect is necessary (i.e. pages with very low page views or entrance rates may not need a redirect)
-- Review proposed destination page for the best experience (i.e. it should have a similar intent as the page that is being redirected)
+- Optional: Review analytics and SEO data of the current page to ensure the redirect is necessary (i.e. pages with very low page views or entrance rates may not need a redirect)
+- Validate that the current URL and new URL are accurate and the pages are live - Review proposed destination page for the best experience (i.e. it should have a similar intent as the page that is being redirected)
 - Research the current page to ensure all URLs/URL variations are accounted for (i.e. casing variations, parameters, duplicative pages), and child pages are identified and handled as appropriate
 - Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
 - Identify if there are any existing redirects that need to be updated to avoid a 301 chain when possible

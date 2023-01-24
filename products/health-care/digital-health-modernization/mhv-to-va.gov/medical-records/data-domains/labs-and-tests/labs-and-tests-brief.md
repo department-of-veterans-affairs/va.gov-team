@@ -1,6 +1,6 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: December 29, 2022
+Last updated: Jan 18, 2023
 
 ## Purpose
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
@@ -9,7 +9,10 @@ To serve as a source of truth around data field requirements and specifications,
 Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports, and self-reported test results, such as blood sugar. 
 
 ## Relevant links
-[Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+- [Medical Records decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
+- [MHV to VA.gov overall project decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+- [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
+
 
 ## Use cases and user flows
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
@@ -102,7 +105,13 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 <hr>
 
-#### Lab Type: VA Radiology Reports (includes x-ray, MRI, mammogram, ultrasound
+### Data Type: - VA Medical Images (for actual images) and Reports 
+- *Note: images do not appear in Blue Button report, but can be requested for display in the web application if available. [Example screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-mri-image.pdf).*  
+- To see actual labs and test page on existing MHV site, log in with test user MHVVISN20 and go to https://www.myhealth.va.gov/mhv-portal-web/va-medical-images-and-reports
+- Includes radiography (x-ray), digital radiography, MRI, CT.  
+- There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
+
+#### Lab Type: VA Radiology Reports (includes x-ray, MRI, CT mammogram, ultrasound)
 ##### Data Source(s): Blue Button
 ##### Fields
 - **Procedure/Test Name** *Example: MRI BRAIN W/O CONTRAST*
@@ -115,9 +124,6 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Radiologist** *Example: DUNCAN,TIMOTHY D*
 - **Report** *Examples: See page 95/96 and 97/98 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-blue-button-report.pdf) for short and long examples.*
 
-### Data Type: - VA Medical Images and Reports (for actual images) 
-*Note: images do not appear in Blue Button report, but can be requested for display in the application if available. [Example screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/example-mri-image.pdf).*  To see actual labs and test page on existing MHV site, log in with test user MHVVISN20 and go to https://www.myhealth.va.gov/mhv-portal-web/va-medical-images-and-reports
-
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
 - Note: These are no longer being updated, but historical records are available
@@ -128,8 +134,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Date/Time Exam Performed** *Example:*
 - **Ordering Location** *Example:*
 
-#### Data Type: VA Medical Images and Reports (includes radiography (x-ray), digital radiography, MRI, CT.  There is an option to download a report, and some tests will have the option to download an image.  [Example image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) as displayed on the page in the legacy MHV site.
-    - 
+
 
 
 
@@ -200,8 +205,8 @@ Q: Is there a technical reason why the imaging studies are not listed in the lab
 Q: What is the expected timing for adding in self-entered test data?  
 
 **Business/ Engineering:** 
-- Is there a business or technical reason we cannot show blood sugar, cholesteral (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
-- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports
+- Is there a business or technical reason we cannot show blood sugar, cholesterol (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
+- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports?
     
 
 **Who do we need to get feedback from?**

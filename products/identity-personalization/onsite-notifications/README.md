@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated**: November 10, 2022
+**Last updated: January 10, 2023**
 
 ### Communications
 
@@ -30,6 +30,7 @@
 ### Table of Contents
 
 - [Overview](#overview)
+- [Onsite notification criteria](#onsite-notification-criteria)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -42,6 +43,21 @@
 ## Overview
 
 VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. The authenticated experience team aims to cover information around the third and final pillar -- notifications that show to logged-in users on VA.gov.
+
+## Onsite notification criteria
+
+### In scope
+
+[This is reflective of the overall priorities for My VA and personalization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#opportunities--priorities).
+
+1. **Action items**: Our top priority for onsite notifications are any items that require a veteran to take action in order to move along a process. Examples might include alerting a veteran to an outstanding debt or copay that's due; alerting veterans to unread messages from their health care team; prompting Veterans to upload evidence to a disability claim; etc.
+2. **Communicate high-priority benefit status & updates that don’t require action**: Our second priority is to communicate know high-priority updates that are generally important to people but don't necessarily require them to take any action. Examples might include an update to a claim; prescription shipment; a direct deposit payment to their account, etc.
+
+### Out of scope
+
+- **Benefit suggestions**: Currently, onsite notifications should not be used as a place to surface benefit suggestions. In the event VA.gov is able to support eligibility information, we need to think about if and how onsite notifications might fit into this.
+- **Organizational announcements**: Onsite notifications should be personalized, so organization-wide announcements, emergency or otherwise, are out of scope.
+- **Confirmation messages**: We do not need to show onsite notifications that confirm an action a person just took (eg. submitting a form).
 
 ## Problem Statement
 
@@ -82,7 +98,8 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 |Project| Launch date|
 |-------|------------|
-|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
+|[Onsite notifications V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)|In development|
+|[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
 
 ## Backend
 
@@ -106,7 +123,7 @@ See [Onsite Notification Technical Overview](https://github.com/department-of-ve
 
 Currently, there is only one notification to test (2022). In the future, there may be multiple notifications that need to be tested in different ways. 
 
-- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#how-to-test).
+- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#how-to-test).
 
 ## Frontend
 

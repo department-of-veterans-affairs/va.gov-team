@@ -38,16 +38,19 @@ Can Veterans navigate the proposed information architecture of the My health pat
 
 ## Hypotheses
 
-- Veterans look for will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
-- Veterans will more easily find their after-visit sumaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
-- Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
-- Veterans will easily find historical prescription information under "Medications". 
-- Veterans will easily find information on radiology images and reports within the "Lab and test results" section. 
-- Veterans will easily find the vaccine history under the "Health history" section. 
-- Veterans will easily find basic health data within "Health history".
-- Veterans will easily find the option to download their health records under "Medical records". 
-- Veterans will easily find how to order hearing aid betteries under "Medical supplies".
-- Veterans will easily find how to get a VHIC under the "My health benefits" grouping. 
+- Veterans will be able to easily find information between the "Health history" and "Medical records" sections.
+  - Veterans will easily find the vaccine history under the "Health history" section. 
+  - Veterans will easily find basic health data within "Health history".
+  - Veterans will easily find the option to download their health records under "Medical records".
+- Veterans will understand that the "Medications" section includes all of their prescription information - current and past.
+  - Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
+  - Veterans will easily find historical prescription information under "Medications".  
+- Veterans will look for appointment follow-up tasks and information within the "Appointments" section.
+  - Veterans will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
+  - Veterans will more easily find their after-visit summaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
+- Veterans will easily find information on labs and tests.
+- Veterans will easily find how to order medical supplies.
+- Veterans will easily find general information and tasks related to their VA health benefits within the "My health benefits" grouping. 
 
 
 ## Method
@@ -65,12 +68,12 @@ Data collection will be remote and conducted using Optimal Workshop.
 
 **Tree test links**
 
-- Cohort 1 -
-- Cohort 2 -
-- Cohort 3 -
-- Cohort 4 -
-- Cohort 5 -
-- Cohort 6 - 
+- Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=1
+- Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=2
+- Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=3
+- Cohort 4 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=4
+- Cohort 5 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=5
+- Cohort 6 - https://dj540s05.optimalworkshop.com/treejack/vahealth012023?token=6
 
 
 ## Recruitment

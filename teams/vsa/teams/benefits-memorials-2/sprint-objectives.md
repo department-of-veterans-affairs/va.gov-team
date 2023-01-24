@@ -1,26 +1,18 @@
 # Benefits Team 2 - Sprint Objectives
 This is a high-level summary of the current goals and tasks in the current Sprint set forth by the [Debt Resolution Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md).
 
-### Guided by:
-- _"How will this help the Veteran, their dependents, and caregivers get the benefits they deserve?"_ 
-- Deliver value in every Sprint
-- Communicate and embrace transparency
-- Stay organized and help your future self and team
-- Measure outcomes where possible
-
-
-
 | Sprint |Priorities  |Points Planned| Points Accomplished|
 |--|--|--|--|
-| 90 (Dec 28-Jan 10) |[#51352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51352) |Points Planned| Points Accomplished|
-| 89 (Dec 14-27)  |[#50887](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50887)  |Points Planned| Points Accomplished|
-| 88 (Nov 30- Dec 13)  |[#50195](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50195)  |39 points over 12 issues| Points Accomplished|
-| 87 (Nov 16-29) |[#49791](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/49791) |52 points over 16 issues| Points Accomplished|
-| 86 (Nov 2-15)  |[#49496](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/49496) |51 points over 17 issues| Points Accomplished|
-| 85 (Oct 19-Nov 1) |[#48599](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/48599)  |67 points over 22 issues| Points Accomplished|
-| 84 (Oct 5-18) |[#48602](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/48602)  |Points Planned| Points Accomplished|
-| 83 (September 21-Oct 4)|[#47466](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/47466)  |61 points over 16 issues| Points Accomplished|
-|82 (September 7 -20)|[#46823](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/46823)|49 points over 14 issues|TBD points over TBD issues|
+| 91 (Jan 10- Jan 24) |[#51820](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51820) |37 points over 13 issues| TBD points over TBD issues|
+| 90 (Dec 28-Jan 10) |[#51352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51352) |15 points over 4 issues| 12 points over 3 issues|
+| 89 (Dec 14-27)  |[#50887](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50887)  |12 points over 2 issues| 12 points over 2 issues|
+| 88 (Nov 30- Dec 13)  |[#50195](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50195)  |39 points over 12 issues| 37 points over 10 issues|
+| 87 (Nov 16-29) |[#49791](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/49791) |52 points over 16 issues| 43 points over 12 issues|
+| 86 (Nov 2-15)  |[#49496](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/49496) |51 points over 17 issues| 41 points over 14 issues|
+| 85 (Oct 19-Nov 1) |[#48599](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/48599)  |67 points over 22 issues| 62 points over 20 issues|
+| 84 (Oct 5-18) |[#48602](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/48602)  |63 points over 17 issues|42 points over 14 issues|
+| 83 (Sep 21-Oct 4)|[#47466](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/47466)  |61 points over 16 issues| 52 points over 13 issues|
+|82 (Sep 7 -20)|[#46823](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/46823)|49 points over 14 issues|57 points over 16 issues|
 |81 (Aug 24 - Sept 6)| [#45623](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45623) | 63 points over 21 issues| 52 points over 18 issues|
 |80 (Aug 10 - Aug 23)|[#45622](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45622)|42 points over 12 issues|45 points over 13 issues|
 | 79 (Jul 27 - Aug 9) |[#45009](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45009)|32 points over 9 issues| 32 points over 9 issues|

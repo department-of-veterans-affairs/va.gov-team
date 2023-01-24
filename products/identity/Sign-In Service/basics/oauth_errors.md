@@ -11,7 +11,7 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 ### Authorize (`/sign_in/authorize`)
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Client id is not valid** | The `client_id` parameter is not present or not valid | `client_id` must be either `web` or `mobile` |
+| 400 | **Client id is not valid** | The `client_id` parameter is not present or not valid | `client_id` must be `web`, `vaweb`, `mobile`, or `vamobile` |
 | 400 | **Type is not valid** | The `type` parameter is not present or not valid | `type` must be either `logingov`, `idme`, `dslogon`, or `mhv` |
 | 400 | **ACR is not valid** | The `acr` parameter is not present or not valid | `acr` must be either `min`, `ial2`, `loa3` |
 | 400 | **Code Challenge is not defined** | The `code_challenge` parameter is not present or not valid | `code_challenge` must be present and not empty or malformed |

@@ -115,7 +115,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 ## Engineering
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+| 01/24/2023 | Eric Voshall | We will use the Ruby Prawn PDF library for creating shareable PDFs of immunization records. | Prawn has a lot of examples of usage within `vets-api` - there is no front-end PDF generation library recommended for use on `vets-website`. |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |

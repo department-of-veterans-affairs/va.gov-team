@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: January 6, 2022**
+**Last Updated: January 17, 2022**
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@
 |Mikki Northuis| OCTO design lead for information architecture|michelle.northuis@va.gov|
 |Chante Lantos-Swett|OCTO lead for account experience portfolio|chante.lantosswett@va.gov|
 |Samara Strauss |OCTO product lead for authenticated experiences|samara.strauss@va.gov|
+|Liz Lantz| Auth experience designer/researcher|liz.lantz@adhocteam.us|
 
 **We'll also be consulting with the following people**
 
@@ -38,7 +39,7 @@
 
 ## Overview
 
-We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in.
+While we've observed some high-level problems people have navigating VA.gov's logged-in experience (eg. people are reliant on homepage and My VA links), we've never conducted research that is solely dedicated to this topic. To remedy this, we plan to conduct research in early 2023 that helps us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users' expectations, and what we might do to improve the overall experience. This work will help guide meaningful improvements to the logged-in IA and navigation in the coming year.
 
 ## Problems
 
@@ -53,11 +54,11 @@ We're aware of some high-level problems people have navigating the logged in exp
 
 ### Research goals
 
-- Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
 - Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
 - Understand what issues people have navigating to tools and tasks when they are logged in to VA.gov.
 - Understand what peoples' expectations are for navigating to tools and tasks when they are logged in to VA.gov.
 - If applicable, extrapolate learnings to logged out flows as well instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
+- Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
 
 ### Process goals
 
@@ -96,6 +97,8 @@ Though we are focusing research on issues people have once they are signed in to
 ### Navigating to tasks & tools
 
 - What tasks do people come to VA.gov to do? What tasks do they specifically intend to sign in to do?
+- What do people have trouble finding on VA.gov (eg. "I couldn't find X tool/info because it was buried.")?
+- When in a particular flow do people run into trouble with finding information?
 - What are the known problems for users around navigating to tasks and tools when they are logged in to VA.gov (eg. reliance on homepage or My VA quick links)? What's not working?
 - If people can not rely on quick links on the homepage or My VA to navigate, how do they get to tasks?
 - What are people's expectations for how they should be able to navigate to tasks when they are logged in if they can not rely on homepage or My VA links?
@@ -134,7 +137,7 @@ Though we are focusing research on issues people have once they are signed in to
 
 - [Auth exp strategy blueprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671045289613/dcbaa72cc695cc713d31d560fb96ba168b6f22bf?)
 - Mikki's existing task/tool inventory
-- [Research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/research-review.md)
+- [Research review findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/research-review-findings.md)
 - [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/analytics-review.md)
 - [Medallia and call center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/medallia-call-center-review.md)
 - User research findings

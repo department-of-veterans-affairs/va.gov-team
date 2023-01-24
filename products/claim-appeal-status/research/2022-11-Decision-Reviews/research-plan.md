@@ -1,13 +1,10 @@
 # Research Plan for Benefits Team 1: Decision Review Options
 
-##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182). In other files, these may also be referred to as "Disagreement Pathways."
+##### Note: "Decision Review Option" refers to a Veteran attempt to change their claim decision via either a Supplemental Claim (Form 20-0995), a Higher Level Review (Form 20-0996) , or a Notice of Disagreement (Form 10182).
 
 ## Background
-Today, the process for appealing an unfavorable claims decision is complicated and lengthy. Veterans have to decide on which decision review option to pursue: supplemental claims, higher level review, and/or appealing to the Board of Appeals. Each pathway is associated with lengthy wait times, with veterans often waiting more than 100 days to receive a final decision. Disability compensation appeals make up the overwhelming majority of VA benefits decision appeals.
 
-With this research effort, we seek to better understand this user journey and identify ways in which it can be improved. Our hypothesis is: “if we provide veterans who disagree with their claims decision clarity about which decision review option is right for them and a means to pursue that option, then we expect them to receive the full disability benefits they've earned on a faster timeline.
-
-See more: [Disagreement Pathways Research Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Disagreement-Pathways/research-strategy.md)
+See [Research Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-strategy.md)
 
 ### OCTO Objectives 
 
@@ -36,26 +33,23 @@ Part 1: General questions
 - Did you use VA.gov to file your (decision review option)?
 - What were your main reasons for filing the (decision review option)?
 - Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)?
-- On a scale of 1-5, how would you have rated your experience submitted a (decision review option)?
+- On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
 - What were your biggest challenges with the process? 
 - Was there anything about the process that worked particularly well?
 - How did you feel about the end result (or how do you feel so far, if it’s underway)?
 
-- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] What do you think about this page? Is this helpful? 
+- [Show [existing decision review info](https://www.va.gov/resources/choosing-a-decision-review-option/) to ppt.] Were you aware of this page? Did you use it as a resource when pursuing your decision review option? Given your experience, do you think you would use a page like this if you were to pursue a decision review option in the future?
 
-Part 2: Prototype
+Part 2: Concept prototype
 
+**Important note:** This concept prototype used in this study is purely conceptual, meant to assess the value of a self-service experience for decision review options. Before proceeding with implementation of any of these designs, we will take them through a full platform review process.  
 
-_Use the scenario from ppt’s own experience (i.e. “main reasons” in question #2)._
-
-- Let’s say you just received a decision, but you’re unhappy with the result. What would you do next?
-- [Indicating to the survey CTA] What do you think this is?
-- [Take ppt through the questions] What do you think of this?
-- [At the end] What did you think of that? Would you feel confident submitting a decision review in this way?
-- Is there anything else you would do at this point (doesn’t need to be on VA.gov)?
-
-
-<img width="288" alt="Screen Shot 2022-12-14 at 10 26 51 AM" src="https://user-images.githubusercontent.com/95102058/207637416-9b2aead1-2211-4431-8d40-434799eee030.png">
+- Let’s say you just received a decision, but you’re unhappy with the result. What would you do?
+- [Show user [concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)] On a scale of 1-5, how helpful is this? 
+- Does this information help you decide which decision review option is right for you?
+- What would you do next?
+- What would you expect to happen if you filed a (decision review option) in this way? 
+- Is there anything else you would do at this point, either on VA.gov or elsewhere?
 
 
 ### Hypothesis
@@ -70,42 +64,25 @@ As mentioned above, the research sessions will be broken into two parts:
 **Part 1: Semi-structured interviews** 
 The interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
 
-**Part 2: Usability testing**
+**Part 2: Reaction to concept prototype** 
 We will be using a concept prototype for this, meaning we won't be looking for perfect usability. The goal is also generative: to explore whether this type of tool would be useful to Veterans, and also to see if there are any obvious gaps in its content that need to be filled in a subsequent iteration.
 
 ### Location
 Remote on Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
+- [Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)
 	
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this research is Veterans who have gone throughh a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
+Our intended audience for this research is Veterans who have gone through a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
 
 - 20 ppts who have submitted a Supplemental Claim
 - 10 ppts who have submitted a Higher Level Review
 - 10 ppts who have submitted a Notice of Disagreement
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 We would like to recruit 40 Veterans with the goal of successfully completing at least 20 sessions. 
@@ -125,17 +102,19 @@ We would like representation from the following underrepresented groups:
 - 10 Veterans without a degree
 
 ## Timeline
+Jan 23 – Feb 3
+
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: rocio@coforma.io
+* Date and time of pilot session: Thu, Jan 19
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: Jan 23 - Feb 3
 
 ### Length of sessions
 - 1 hour sessions
@@ -148,9 +127,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Skyler Schain
-- Research guide writing and task development (usually but not always same as moderator):	Skyler Schain
-- Participant recruiting & screening:	
+- Research guide writing and task development (usually but not always same as moderator: Skyler Schain
+- Participant recruiting & screening: Perigean
 - Project point of contact:	Skyler Schain, Jacob Worrell
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: Rocio de Santiago	
 - Note-takers:	
 - Observers: Jacob Worrell, Sarah Ortiz Shields, Sam Cormier, Jerek Shoemaker, Jared Cunha, Kevin Duensing, Josh Kim, Eva Floyd, Joe Sokohl
