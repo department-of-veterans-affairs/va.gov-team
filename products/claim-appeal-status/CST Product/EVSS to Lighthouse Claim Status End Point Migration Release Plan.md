@@ -31,7 +31,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
   <li>No calls to call center due to people not being able to download decision letter</li>
 </ul>
   
-Links to dashboard(s) showing "success criteria" metrics: <a href = "[https://docs.google.com/spreadsheets/d/14g_nD178fwJbvXMn_24uMHJUkm85xIGEa3eeXjcylig/edit?usp=sharing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md)">Lighthouse Migration Initiative</a>  
+Links to dashboard(s) showing "success criteria" metrics: <a href = (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md)">Lighthouse Migration Initiative</a>  
 
 ### Stage A: Canary 
 #### Planning  
