@@ -61,15 +61,15 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
    * **Definitely true.** When questioned about empty sections, no one said that these sections were distracting to them or negatively impacted the experience at all. Several participants said that it was nice to see those empty sections on My VA to be reminded that those benefits might be of interest to them.
    
 3. We expect that most important top tasks will be present and have all important details on My VA, possibly with the exception of military records.
-    * **Definitely true.** We heard one Veteran say they would like to see a link to important documents and one Veteran say they would like to see contact information for VSOs. Other than these two participants, we did not hear Veterans say that any important tasks or information was missing from My VA. 
+    * **Definitely true.** We heard 1 Veteran say they would like to see a link to important documents and 1 Veteran say they would like to see contact information for VSOs. Other than these 2 participants, we did not hear Veterans say that any important tasks or information was missing from My VA. 
   
 4. We hypothesize that based on analytics we have presented the sections on My VA in such a way that the most popular actions and links will be closest to the top.
-    * **Maybe true.** We heard **X** Veterans say that they would like the ability to reorganize My VA so that their top categories were listed first and sections that they would be least likely to use would be at the bottom.
+    * **Maybe true.** We heard 4 out of 13 Veterans say that they would like the ability to reorganize My VA so that their top categories were listed first and sections that they would be least likely to use would be at the bottom, or they would like to be able to collapse empty sections. It's worth noting that this feedback was only elicited by asking "Is there anything you would change about this page if you could?" No specific questions around the order of the sections were asked.
     
 
 ## Key Findings
 
-1. Finding one
+1. **All participants had positive reactions to seeing My VA immediately upon login.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
 
 2. Finding two
 
