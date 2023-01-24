@@ -1,6 +1,8 @@
-#Overview of Cerner Integration Resources
+# Overview of Cerner Integration Resources
 
-## HL7 FHIR
+## Cerner FHIR API's
+Cerner provides standard FHIR API's that allow developers to integrate Cerner's EHR systems. These APIs can be used to extract data from Cerner systems, such as patient demographics, medications, lab results, and can also be used to update information in Cerner systems, such as creating new patient encounters or updating patient demographics.
+
 - Cerner FHIR documentation: https://fhir.cerner.com/millennium/overview/
 - Public Google Group for Cerner FHIR developers: https://groups.google.com/u/1/g/cerner-fhir-developers
 
