@@ -36,7 +36,7 @@ Going forward, our team **should be responsible for the following**:
 - **Connecting** with different teams to create unified logged-in experiences across tools. 
 - **Implementing** proposed updates and changes to tools and experiences within our purview.
 - **Maintenance** of any current integrations we manage.
-  - However, over time, it may make sense for other teams to take on these tools depending on how the larger VA.gov team and logged-in experience ebbs and flows over time (eg. direct deposit might make more sense to be maintained by a "financials" team).
+  - However, it may make sense for other teams to take on these tools depending on how the larger VA.gov team and logged-in experience ebbs and flows over time (eg. direct deposit might make more sense to be maintained by a "financials" team).
 
 Over time, we would ideally **would NOT be responsible for the following**:
 
