@@ -90,14 +90,13 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 ### Required criteria 
 - NONE have VA health care
 - NONE receive VA disability compensation for a service-connected disability rating of 50% or higher
-- ALL plan to use their smartphone for the session 
-- At least 4 people with a cognitive disability (e.g., TBI)
-- At least 4 people who are age 55 or older
-- At least 2 people 35 or under
-- ALL have a smartphone and are willing to complete their session using it:
+- ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 4 people who are age 55 or older
+- At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
 - At least 2 people who don't have any degree or vocational training after high school 
