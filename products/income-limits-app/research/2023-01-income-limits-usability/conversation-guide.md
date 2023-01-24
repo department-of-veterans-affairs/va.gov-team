@@ -175,7 +175,7 @@ Now you want to check whether you entered your location correctly. How could you
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year? What could you do?
 - *(RECORD: click on "income limits search" / _________________________________)*
 
-When would you prefer to specify the year? 
+When in this app would you prefer to specify the year? 
 - *(RECORD: as is at end / earlier when answering questions / _________________)*
 
 ## Post-Task Interview - 10 minutes
