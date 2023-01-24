@@ -2,7 +2,7 @@
 **STATUS: [In progress/In review/Complete]**
 - Edit history:
   - 1/18/23 - MN - Doc created
-  - 
+  - 1/24/23 - KO and JM - edits
 
 **Team:** [Public Websites]
 
@@ -18,11 +18,13 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+![Screen Shot 2023-01-24 at 3 33 28 PM](https://user-images.githubusercontent.com/122126772/214436106-6074a08e-e329-4a3b-a028-0ee1585c4ee7.png)
+
+The Income Limits tool will be a new page in the More info and resources section of the health hub. It will be after /copay-rates and before /health-needs-conditions
 
 
 
@@ -30,15 +32,10 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**1) [Income Limits Tool] - [New]**
+- URL: https://www.va.gov/health-care/income-limits-tool
+- Breadcrumb: Home > Health Care > [H1 of page]
+- Notes: H1 TBD by Sitewide Content
 
 
 ## <a name="nav"></a>Entry points <br>
