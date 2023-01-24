@@ -49,7 +49,7 @@ Comparing to our old structure, a new structure might look like this:
 |---------------------------------------|-|--------------------|
 |My VA dashboard|| Personal information|
 |Onsite notifications/notification center||Contact information|
-|Logged-in IA and navigation (in partnership with Mikki and larger portfolio||Military information|
+|Logged-in IA and navigation (in partnership with Mikki and larger portfolio)||Military information|
 |Elevating personalized information across the logged-in experience||Direct deposit information|
 |Providing consistency to logged-in tool page structure ||Notification preferences|
 |||Account security|
