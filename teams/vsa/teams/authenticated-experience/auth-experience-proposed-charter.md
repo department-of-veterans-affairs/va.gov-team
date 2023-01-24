@@ -30,13 +30,13 @@ Currently, our portfolio is solely focused on the continued developement of indi
 
 ### Future responsibilities
 
-Going forward, our team should be responsible for the following:
+Going forward, our team **should be responsible for the following**:
 
 - **Aggregating** personalized information across VA.gov.
 - **Connecting** with different teams to create unified logged-in experiences across tools. 
 - **Implementing** proposed updates and changes to tools and experiences within our purview.
 
-Over time, we would ideally move into a mode where we **are not** responsible for the following:
+Over time, we would ideally **would NOT be responsible for the following**:
 
 - **Integrating** new backends and tools into VA.gov. 
 - Taking on management from other teams of existing backend integrations (eg. taking over work from the debt team).
