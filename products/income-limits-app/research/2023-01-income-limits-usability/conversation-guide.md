@@ -109,6 +109,8 @@ I would like you first to share your screen with me--a web browser please. You m
 
 *(if they already have VA health care)* Let's say that your income just changed, and you want to know whether you're still eligible for VA health care or if your benefits might change.
 
+*(if they have 50% or higher disability rating, do they say that income limits don't apply to them? Y / N / ____________*
+
 How would you get started?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
@@ -145,6 +147,7 @@ How would you use this? Please talk me through what you would do, but not click 
   - *Number of dependents--*
   - *VA Aid and Attendance--*
   - *VA Housebound benefits--*
+  - *Back as breadcrumb--*
   - *Summary screen of information entered--*
 
 ### Task 5: [Results screen]
