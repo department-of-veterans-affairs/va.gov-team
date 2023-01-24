@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - Can we release it?
+- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
 
 #### Analytics Sprint Goals
 - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
@@ -21,12 +21,17 @@ ________________________________________________________________________________
    - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
    - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
    - Attend Staging Review
+   - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
    - [Create wireframe to Move icon inside the card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52106)
    - [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
    - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
    - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
    - Schedule Staging Review
+- [New Message for Expired Link on Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
+   - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52395)
+   - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52394)
+   - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52396) 
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - [Ideate and Create User Flows for Option 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52482)
    - [Fill out sitewide IA request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52489)
@@ -43,17 +48,19 @@ ________________________________________________________________________________
     - [Complete accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - Attend Staging Review
+   - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
-   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
-   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114)
-   -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
    -  [Incorporate the 3 new fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+   -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
+   -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132) (WAITING ON WIREFRAME)
+   -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114) (WAITING ON WIREFRAME)
 - [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
     - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
-    - [Release to production as part of A/B testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
+    - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [New Message for Expired Link on Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - [New Message for Expired Link for Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492)
    - [New Message for Expired Link on Day-of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
+   - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52396)
 - Collaborate with PCI/API team on [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
 - CIE Tech Debt
    - [SPIKE] [FE] Improve testing and validation with staging and screenshots
