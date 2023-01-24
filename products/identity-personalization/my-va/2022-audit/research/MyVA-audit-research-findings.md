@@ -90,52 +90,59 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
 
 > _"I have not seen this page but I like it. It's a summary of all my various systems that they have. My health benefits, next appointment...I have not seen this but I love it." - P5_
 
-> _Supporting data: Quote here_
+> _"This is nice. My disability rating is up here. I can log in really quick and see everything. ...Now that I've seen this I actually prefer this over eBenefits." - P2_
 
 
 **Finding 2**
 
-**My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage their most important benefits.
+**My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage the benefits that they mentioned they manage online. 
 
-> _Supporting data: Quote here_
+When asked if there was anything Veterans were expecting to see on My VA that they did not, 11 out of 13 participants said no. 1 Veteran said they would like to see a section for documents and 1 Veteran said they would like to see contact information or communication for VSOs (Veteran Service Organizations).
 
-> _Supporting data: Quote here_
+Considering that the overwhelming amount of participants did not feel anything was missing from My VA, it's safe to say that all **top tasks** are included, but there may be some nice-to-have additions to consider, like VA documents.
+
+> _"No, it seems like it has the information that I'd be interested in." - P6_
+
+> _"No, I think it's pretty comprehensive." - P9_
 
 
 **Finding 3**
 
-**Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.**
+**Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** Some Veterans (4 out of 13) expressed wanting to either reorder the sections or collapse empty sections to suit their needs but the majority did not mind the empty sections or the ordering as it currently is on My VA. Some Veterans even said that they appreciate seeing empty sections to remember that those benefits are available to them or for reassurance of the current state, like having no debt to VA.
 
-> _Supporting data: Quote here_
+> _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
 
-> _Supporting data: Quote here_
+> _"I like it because I have in the past had a debt so I definitely don't mind it. I like to see that I don't have any debts or copays to show." ... "I like it being there personally because I like knowing that I don't owe the VA anything." ... "I've never dismissed the idea of going back to school and I like that being there [The education and training section] as a reminder." - P5_
 
+> _"It'd be nice to have - and again this would just be nice - if you could turn it into modules where you could click and drag the sections so it's more customizable to your experience." - P2_
 
 **Finding 4**
 
-**The "Saved Applications" section is confusing to Veterans.**
+**The "Saved Applications" section is confusing to Veterans.** 11 out of 13 participants thought that both submitted and in-progress applications would appear in this section. There was also confusion around the term "applications" and several participants thought of a computer application rather than a benefit application initially.
 
-> _Supporting data: Quote here_
+> _"'Applications' is kind of misleading because when we think of applications, we think of 'apps', like Google Chrome is an app." - P6_
 
-> _Supporting data: Quote here_
+> _"That could be a little confusing. When I first looked at it, I thought about computer apps." - P9_
+
+> _"I don't know if my submitted applications would be here. I guess I'd have to get used to the page because it's new to know if my pending applications would show up here." - P4_
 
 
 **Finding 5**
 
 **The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
 
-> _Supporting data: Quote here_
+> _"I'm not familiar with the term [GI Bill Statement of Benefits]. Maybe it's where I could see what benefits I'm getting through the GI bill. I'd want to see what's getting paid to me and what's getting paid to the school, and I don't have any way of doing that." - P2_
 
-> _Supporting data: Quote here_
+> _"I think I still have some GI bill benefits. I would love for it to be here the same way, similar to what you guys are providing here [gestures to Benefits Payments]. This is very good information when I log into my landing page. I don't see why you wouldn't have it here. I've never heard that before though, GI Bill Statement of Benefits. I can guess what it is but I've never heard it before." - P12_
 
 
 **Finding 6**
 
-**Accessibility: My VA is highly accessible to disabled Veterans using assistive technology, but the smallest font is still a little too small for some Veterans.**
+**Accessibility: My VA is highly accessible to disabled Veterans using assistive technology, but the smallest font is still a little too small for some Veterans.** The 1 screen reader user that we tested My VA with was able to navigate easily using headings and was able to dive into specific sections and access all links. They had very positive overall feedback about the page. 2 Veterans mentioned that the smallest text on the page was a bit too small and hard to read for users who are older or who have low vision.
 
-> _Supporting data: Quote here_
+> _"I like its simplicity. I understand why this page may be very basic, I don't know how pretty it is. When I use bells and whistles out in the commercial world, they attract people's eye so that's why a lot of pages are aggravating for me but I know why because with screen readers we like industrial stuff that doesn't have a lot of extra stuff. People coming here are probably coming here for a reason. It's not like they have to compete with other retailers so there's probably not a lot of wizz bang." ... "If people would just think about accessibility in the beginning, everything would be so much easier for them and for us. I like this page very much. I wish more web pages were like it." - P7_
 
-> _Supporting data: Quote here_
+> _"The headers are very readable for old tired eyes but it drops off pretty quickly from that to this [points at body text]. I can see it but I have to kind of zoom in and get my trifocals." -P9_
 
 
 
