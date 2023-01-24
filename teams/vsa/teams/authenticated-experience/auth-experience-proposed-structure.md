@@ -2,8 +2,6 @@
 
 **Last updated: January 24, 2023**
 
-### This is a work in progress and is not ready for eyes or team input.
-
 ## Problems 
 
 - Technically, VA.gov does have an authenticated experience -- people can login to the website and access personalized tools. However, I would argue we are currently heavier on "authenticated" and lighter on "experience." Logged-in, the site largely feels the same as it does logged-out. 
