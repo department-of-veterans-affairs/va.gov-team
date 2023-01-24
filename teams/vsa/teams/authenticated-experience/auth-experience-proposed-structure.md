@@ -56,8 +56,8 @@ Comparing to our old structure, a new structure might look like this. Initially,
 |||Account security|
 |||Connected apps (frontend only)|
 
-## How this would impact VA.gov going forward
+## Impacts to VA.gov
 
-- **Roadmapping**: I will use the proposed areas of focus to help prioritize our roadmap. Of course, roadmapping will consider and prioritize broader organizational needs (eg. health apartment migration), but this new vision will help us choose where our team focuses as we're able.
-- **Assigned work**: OCTO will use these guidelines to appropriately assign work to our team, or to assign work to or create other teams as needed to handle specific initiatives.
-- **Leveraging our team**: These proposed areas of focus will help OCTO and the broader VA.gov team figure out how to best leverage the authenticated experience portfolio in the future.
+- **Greater thnking across portfolios and tools** - Our teams have historically been structured around specific products. However, VA.gov is in a position where we both are ready to and need to do more thinking across products and tools to meet user needs and expectations and keep VA.gov maintainable and scalable over time. Our team can serve as the glue in the logged-in space.
+- **More focus in roadmapping**: Without a clear stakeholder request or need, the challenge with roadmapping for the authenticated experience team has always been balancing what we *should* do vs. what we *could* do. I will use the proposed areas of focus to help prioritize our roadmap. Of course, roadmapping will consider and prioritize broader organizational needs (eg. health apartment migration), but this new vision will bring greater focus into how we might spend our time.
+- **Clarity around leveraging our team**: These proposed areas of focus will help OCTO and the broader VA.gov team to better leverage the authenticated experience portfolio in the future. This will help us determine which areas are in scope and which areas are out of scope for our team.
