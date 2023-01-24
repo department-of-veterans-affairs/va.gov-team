@@ -68,9 +68,9 @@ This is a single study, and we are testing with a prototype
 |Female          |      6     |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |      3     |        |        |        |        |        |        |        |        |        |         |               
-|White           |      2     |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |      3     |        |        |        |        |        |        |        |        |        |         |                            
+|Black           |      2     |        |        |        |        |        |        |        |        |        |         |               
+|White           |      4     |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |      2     |        |        |        |        |        |        |        |        |        |         |                            
 |Asian           |      2     |        |        |        |        |        |        |        |        |        |         |                 
 |Native          |      2     |        |        |        |        |        |        |        |        |        |         |                
 |Pacific Islander|      2     |        |        |        |        |        |        |        |        |        |         |                 
