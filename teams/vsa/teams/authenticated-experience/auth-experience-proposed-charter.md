@@ -35,10 +35,22 @@ Going forward, our team **should be responsible for the following**:
 - **Aggregating** personalized information across VA.gov.
 - **Connecting** with different teams to create unified logged-in experiences across tools. 
 - **Implementing** proposed updates and changes to tools and experiences within our purview.
+- **Maintenance** of any current integrations we manage.
+  - However, over time, it may make sense for other teams to take on these tools depending on how the larger VA.gov team and logged-in experience ebbs and flows over time (eg. direct deposit might make more sense to be maintained by a "financials" team).
 
 Over time, we would ideally **would NOT be responsible for the following**:
 
 - **Integrating** new backends and tools into VA.gov. 
 - Taking on management from other teams of existing backend integrations (eg. taking over work from the debt team).
 
-Immediately, we would remain responsible for the maintenance and updating of any **current** backend integrations we manage.
+Comparing to our old structure, a new structure might look like this:
+
+|Potential uuthenticated experience areas of focus| |Required maintenance|
+|---------------------------------------|-|--------------------|
+|My VA dashboard|| Personal information|
+|Onsite notifications/notification center||Contact information|
+|Logged-in IA and navigation (in partnership with Mikki and larger portfolio||Military information|
+|Elevating personalized information across the logged-in experience||Direct deposit information|
+|Providing consistency to logged-in tool page structure ||Notification preferences|
+|||Account security|
+|||Connected apps (frontend only)|
