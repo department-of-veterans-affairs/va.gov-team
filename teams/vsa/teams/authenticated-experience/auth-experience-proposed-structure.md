@@ -46,7 +46,7 @@ Over time, we would ideally **would NOT be responsible for the following**:
 
 Comparing to our old structure, a new structure might look like this. Initially, responsibilities might be divided across similar team lines that we have now (My VA/Profile), but over time, those lines would likely become less important, and team members would work on a variety of issues that support the broader authenticated experience.
 
-|Authenticated experience areas of focus| |Required maintenance|
+|Authenticated experience areas of focus| |Maintenance and development only as needed|
 |---------------------------------------|-|--------------------|
 |My VA dashboard|| Personal information|
 |Onsite notifications/notification center||Contact information|
