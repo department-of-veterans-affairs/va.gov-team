@@ -1,4 +1,4 @@
-# Authenticated experience: Proposed updated charter and future vision
+# Authenticated experience: Proposed charter and future vision
 
 **Last updated: January 24, 2023**
 
@@ -12,3 +12,33 @@
 
 ## Proposal
 
+The authenticated experience team should move into a role more fitting of our name -- working with teams across VA.gov to create an actual logged-in experience, one that meets our goal of being on par with private-sector tools and experiences.
+
+### Current responsibilities
+
+Currently, our portfolio is solely focused on the continued developement of individual products. Focusing on individual products reflects the way we've been set up across VA.gov for some years now:
+
+|My VA team||Profile team|
+|----------|-|-----------|
+|My VA dashboard||Personal information|
+|Onsite notifications|| Contact information|
+|||Military information|
+|||Direct deposit information|
+|||Notification preferences|
+|||Account security|
+|||Connected apps (frontend only)|
+
+### Future responsibilities
+
+Going forward, our team should be responsible for the following:
+
+- **Aggregating** personalized information across VA.gov.
+- **Connecting** with different teams to create unified logged-in experiences across tools. 
+- **Implementing** proposed updates and changes to tools and experiences within our purview.
+
+Over time, we would ideally move into a mode where we **are not** responsible for the following:
+
+- **Integrating** new backends and tools into VA.gov. 
+- Taking on management from other teams of existing backend integrations (eg. taking over work from the debt team).
+
+Immediately, we would remain responsible for the maintenance and updating of any **current** backend integrations we manage.
