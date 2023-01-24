@@ -71,32 +71,22 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
 
 1. **All participants had positive reactions to seeing My VA immediately upon login.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
 
-2. Finding two
+2. **My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage their most important benefits. 
 
-3. Finding three
+3. **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** We asked Veterans how they felt about seeing empty sections on My VA, and the particular sections that were empty varied depending on the user's benefits. 
 
-4. Finding four
+4. **The "Saved Applications" section is confusing to Veterans.**
 
-5. Finding five
+5. **The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
 
-6. Finding six
-
-7. Finding seven
+6. **Accessibility: My VA is highly accessible to disabled Veterans using assistive technology, but the smallest font is still a little too small for some Veterans.**
 
 
 ## Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
