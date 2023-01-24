@@ -1,15 +1,25 @@
 # EVSS to Lighthouse Claim Status End Point Migration Release Plan
-## Phase I: UAT 
+## Phase I: Internal Testing and UAT
 ### Planning: 
-Desired date range or test duration: X 
-Desired number of users: 7  
+Desired date range or test duration: 1/18-2/7 
+Desired number of users: 4  
 How you'll recruit the right production test users: We’ll be using personal and professional networks to recruit production test users.  
 How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
 How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
+
+### Additional testing
+- Automated testing
+- Fixture Testing
+
+#### Benchmarks
+- Sentry Errors: 0
+- Unsuccessful test cases: 0
+- Unsuccessful fixture tests: 0
+
 ### Results:  
-- Number of users: 7  
-- Number of bugs identified / fixed: 5/5  
-- Types of errors logged: general usability issues
+- Number of users:   
+- Number of bugs identified / fixed: 
+- Types of errors logged: 
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
 ### Planning X
@@ -21,7 +31,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
   <li>No calls to call center due to people not being able to download decision letter</li>
 </ul>
   
-Links to dashboard(s) showing "success criteria" metrics: <a href = "https://docs.google.com/spreadsheets/d/14g_nD178fwJbvXMn_24uMHJUkm85xIGEa3eeXjcylig/edit?usp=sharing">CST OKRs and KPIs - 2022</a>  
+Links to dashboard(s) showing "success criteria" metrics: <a href = "[https://docs.google.com/spreadsheets/d/14g_nD178fwJbvXMn_24uMHJUkm85xIGEa3eeXjcylig/edit?usp=sharing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md)">Lighthouse Migration Initiative</a>  
 
 ### Stage A: Canary 
 #### Planning  
