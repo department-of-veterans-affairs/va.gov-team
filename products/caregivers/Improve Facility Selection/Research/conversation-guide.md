@@ -1,4 +1,11 @@
-[DRAFT] Conversation Guide: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
+# [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
+
+## Part A: Survey
+
+
+
+## Part B - Usability Sessions
+--
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -26,10 +33,6 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-
-
-
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
@@ -41,7 +44,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
@@ -62,17 +65,9 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 
-
-
-
-
-
 **I'm going to send you a link in the chat.**
 _I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
-
 _TBD link_
-
-
 **Backup plan if they cannot figure out how to share screen:**
 
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
@@ -90,14 +85,20 @@ _TBD link_
 
 **For Veterans:**
 
-- Tell me a little about yourself
 - What kind of benefits or services do you use the VA for?
 - Do you have a preferred VA facility/location?
-- Do you currently have a caregiver? If so, tell me a bit about the relationship you have with your caregiver?
-- Are they a family member or friend?
-- Do they live with you?
-- If no, how often do they come over to check in on you?
-- Does your caregiver receive any benefits from the VA? -If yes, what sort of benefits? -Are you/they part of the Program of Comprehensive Assistance for Family Caregivers? -Do you have more than one caregiver? -If yes, tell me a bit about that relationship? -Are they a family member or friend? -Do they live with you?
+- Do you currently have a caregiver? 
+   - If so, tell me a bit about the relationship you have with your caregiver?
+    - Are they a family member or friend?
+    - Do they live with you?
+   - If no, how often do they come over to check in on you?
+- Does your caregiver receive any benefits from the VA? 
+- -If yes, what sort of benefits? 
+- Are you/they part of the Program of Comprehensive Assistance for Family Caregivers? 
+- Do you have more than one caregiver? 
+- If yes, tell me a bit about that relationship? 
+- -Are they a family member or friend? 
+- -Do they live with you?
 
 
 **For Caregivers:**
@@ -112,7 +113,16 @@ _TBD link_
 - Do they live with the Veteran?
 
 
-## Applying to Caregiver benefits - 25 minutes
+
+For this study we are going to look at 3 different options and want your feedback on what option is the easiet for you to answer with confidence.  
+
+
+## Option A - 7 minutes
+
+- You are completing the application for caregiver benefits and after you answer general background questions on the Veteran you arrive at this page. Please explain your understanding of what is being asked.
+
+
+
 
 **For Veterans:**
 
