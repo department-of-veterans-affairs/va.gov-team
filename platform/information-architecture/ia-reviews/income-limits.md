@@ -18,6 +18,11 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
+*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+
+This illustrates an additional user flow for Veterans who wouldn't qualify due to their income (above $90k).
+
+<img width="704" alt="Userflowsimage" src="https://user-images.githubusercontent.com/122128479/214442121-a9460b89-7512-4dee-a791-b3f1691e72b7.png">
 
 
 
@@ -42,13 +47,13 @@ The Income Limits tool will be a new page in the More info and resources section
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
+1.  Cost of Care - Add
   - Placement description: 
   - Link label: 
   - Link destination: 
   - Notes: 
 
-2. [Page URL or component name] - [Add/Modify/Remove]
+2. Eligibility - Add
   - Placement description: 
   - Link label:
   - Link destination: 
