@@ -43,7 +43,7 @@ Over time, we would ideally **would NOT be responsible for the following**:
 - **Integrating** new backends and tools into VA.gov. 
 - Taking on management from other teams of existing backend integrations (eg. taking over work from the debt team).
 
-Comparing to our old structure, a new structure might look like this. Initially, responsibilities might be divided across similar team lines that we have now (My VA/Profile), but over time, those lines would likely become less important, and team members would work on a variety of issues that support a braoder authenticated experience.
+Comparing to our old structure, a new structure might look like this. Initially, responsibilities might be divided across similar team lines that we have now (My VA/Profile), but over time, those lines would likely become less important, and team members would work on a variety of issues that support the broader authenticated experience.
 
 |Authenticated experience areas of focus| |Required maintenance|
 |---------------------------------------|-|--------------------|
