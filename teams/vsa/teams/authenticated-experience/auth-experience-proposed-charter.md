@@ -45,7 +45,7 @@ Over time, we would ideally **would NOT be responsible for the following**:
 
 Comparing to our old structure, a new structure might look like this:
 
-|Potential uuthenticated experience areas of focus| |Required maintenance|
+|Authenticated experience areas of focus| |Required maintenance|
 |---------------------------------------|-|--------------------|
 |My VA dashboard|| Personal information|
 |Onsite notifications/notification center||Contact information|
