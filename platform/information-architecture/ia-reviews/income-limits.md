@@ -32,7 +32,7 @@ The Income Limits tool will be a new page in the More info and resources section
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) [Income Limits Tool] - [New]**
+**1) Income Limits Tool - New**
 - URL: https://www.va.gov/health-care/income-limits-tool
 - Breadcrumb: Home > Health Care > [H1 of page]
 - Notes: H1 TBD by Sitewide Content
