@@ -20,38 +20,52 @@ n/a
 
 **PAGE HEADER**
 
-```
-Pending {type of care} appointment
+```diff
+- Pending {type of care} appointment
++ Request for appointment 
+@@ GH52490 @@
 ```
 
 **PAGE DESCRIPTION**
 
-```
-The time and date of this appointment are still to be determined.
+```diff
+- The time and date of this appointment are still to be determined.
++ We will review your request and contact you to schedule the first available appointment.
+@@ GH52490 @@
 ```
 
 **PAGE CONTENT**
 
-```
-VA appointment
+```diff
++ [Type of care]
+
+
+- VA appointment
++ Facility
 {Facility name}
-{Facility address}
+{Facility address line 1}
+{Facility address line 2}
 Directions
 
 Main phone: {phone number} (TTY: 711)
 
-Preferred type of appointment
-{Office visit, Phone call, Telehealth (through VA Video Connect)}
+- Preferred type of appointment
+- {Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-You shared these details about your concern
+- You shared these details about your concern
++ Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-Your contact details
++ How you want to attend
+[Selected modality]
+
+- Your contact details
++ Your contact information
 Email: {Email address}
 Phone number: {phone number}
 ```
