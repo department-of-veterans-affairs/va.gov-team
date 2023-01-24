@@ -39,12 +39,9 @@
 
 ---
 
-## Overview
+## Overview & features
 
 The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
-
-## Profile features
-
 
 |Profile feature| Description | Backend tool | Backend tool contact info|
 |---------------|-------------|--------------|--------------------------|
