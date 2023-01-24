@@ -69,11 +69,11 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
 
 ## Key Findings
 
-1. **All participants had positive reactions to seeing My VA immediately upon login.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
+1. **All participants had positive reactions to seeing My VA immediately upon login.**
 
-2. **My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage their most important benefits. 
+2. **My VA encompasses all top tasks for Veterans.** 
 
-3. **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** We asked Veterans how they felt about seeing empty sections on My VA, and the particular sections that were empty varied depending on the user's benefits. 
+3. **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.**
 
 4. **The "Saved Applications" section is confusing to Veterans.**
 
@@ -84,24 +84,18 @@ We conducted remote moderated usability testing on Zoom using real Veteran data 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
 **Finding 1**
 
-Brief description
+**All participants had positive reactions to seeing My VA immediately upon login.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
 
-> _Supporting data: Quote here_
+> _"I have not seen this page but I like it. It's a summary of all my various systems that they have. My health benefits, next appointment...I have not seen this but I love it." - P5_
 
 > _Supporting data: Quote here_
 
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+**My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage their most important benefits.
 
 > _Supporting data: Quote here_
 
@@ -110,15 +104,39 @@ Brief description
 
 **Finding 3**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+**Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.**
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
+
+
+**Finding 4**
+
+**The "Saved Applications" section is confusing to Veterans.**
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**Finding 5**
+
+**The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**Finding 6**
+
+**Accessibility: My VA is highly accessible to disabled Veterans using assistive technology, but the smallest font is still a little too small for some Veterans.**
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
 
 
 ## Additional Insights
