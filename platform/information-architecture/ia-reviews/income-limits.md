@@ -22,7 +22,7 @@
 
 
 ## <a name="map"></a>Page structure<br>
-![Screen Shot 2023-01-24 at 3 33 28 PM](https://user-images.githubusercontent.com/122126772/214436106-6074a08e-e329-4a3b-a028-0ee1585c4ee7.png)
+![Screen Shot 2023-01-24 at 3 42 19 PM](https://user-images.githubusercontent.com/122126772/214437441-123190d6-08ab-499c-8a72-70b6d6ab92e3.png)
 
 The Income Limits tool will be a new page in the More info and resources section of the health hub. It will be after /copay-rates and before /health-needs-conditions
 
