@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: 10-10CG facility selection usability a/b/c study, 1010 Team, February 2023
+# [DRAFT] Research Plan: 10-10CG facility selection study, 1010 Team, February 2023
 
 
 ## Background
