@@ -16,8 +16,8 @@ Cerner provides standard FHIR API's that allow developers to integrate Cerner's 
 Cerner uses HL7 Messaging Standard Version 2.5.1 
 - Documentation from HL7.org: https://www.hl7.org/implement/standards/product_brief.cfm?product_id=144
 
-## Additional Resources based on Data Domains
+## Data Domains Resources
 
 |Data Domain|Links|
 |---|---|
-|Scheduling| - |
+|Scheduling| - [Implementing Scheduling for FHIR](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Implement%20Scheduling%20for%20FHIR-v114-20221208_100235.pdf?csf=1&web=1&e=InVlzJ) (Cerner Reference Page) |
