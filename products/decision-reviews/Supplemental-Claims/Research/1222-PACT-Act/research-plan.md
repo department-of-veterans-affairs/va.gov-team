@@ -8,7 +8,7 @@ Starting in January 2023, Veterans filing claims for presumptive conditions that
 ### OCTO Objectives 
 - [ ] Increase the usage and throughput of VA services
 - [ ] Decrease the time Veterans spend waiting for an outcome
-- [ ]  Increase the quality and reliability of VA services
+- [ ] Increase the quality and reliability of VA services
 
 ### Veteran Journey
 Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from ***serving***, to ***getting out***, and all the way to ***dying*** as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the ***taking care of myself*** part of the Veteran journey, as Supplemental Claims for disability compensation supports:
@@ -45,8 +45,8 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 ### Research materials
 
-- [Link to conversation guide (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
-- [Link to prototype (WIP)]
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
+- [Link to prototype](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42)
 
 ## Recruitment	
 
