@@ -38,6 +38,23 @@ Make sure you have an assigned test user DFN before setting up appointment tests
 
 # Pre check-in and day of check-in Testing Workflow
 
+## Web Tool
+
+A web UI is available (for staging only) [here](https://vigilant-couscous-ab7fb4a4.pages.github.io). It is accessible on VPN (GFE/CAG) to anyone with access to [the staging scheduler repo](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/). It allows you to:
+
+- View and create clinic appointments
+- View patient appointments
+- Create check-in/pre-check-in links
+- view and reset demographics confirmations
+- clear a test patient's insurance flag
+- update a test patient's phone number
+
+Guidelines for use:
+
+- please use the test patient assigned to you or a person that is not currently on the team if you need to add appointments for additional patients
+- if you receive an error message regarding your cell phone number when creating a check-in or pre-check-in link, update the phone number associated with your patient
+- for questions or if you encounter any errors, post in the #check-in-experience-engineering channel and tag the front end team
+
 ## Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
@@ -111,9 +128,18 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 463 | STG/CARDIO/3 | | M-F 8AM - 330PM | Yes |
 | 464 | STG/ECHO/3 | | M-F 8AM - 330PM | Yes |
 | 478 | STG/ECHO/5 | | M-F 8AM - 330PM | Yes |
-| 485 | STG/ECHO/6 | | M-F 8AM - 330PM | Yes |
+| 485 | STG/ECHO/6       | | M-F 8AM - 330PM | No |
 | 449 | STG/ENDROCRINE/1 | | M-F 8AM - 330PM | Yes |
 | 500 | STG/MH/8 | | M-F 8AM - 330PM | Yes |
+| 525 | STG/SLEEP LAB | | M-Su 3PM - 2030PM | Yes |
+| 64  | Audiology | Hearing |M-F 7AM - 230PM | Yes |
+| 195 | Cardiology | | M-F 7AM - 230PM | Yes |
+| 62  | Dermatology | | M-F 7AM - 230PM | Yes |
+| 468 | STG/PULMO 4 (Telephone) | | M-F 8AM - 4PM | Yes |
+| 527 | STG/BC/PULMONARY | | M-F 8AM - 4PM | Yes |
+| 528 | STG/MN/PRIMARY CARE | | M-F 8AM - 4PM | Yes |
+| 529 | STG/CV/DNA CONSULTATION | | M-F 8AM - 4PM | Yes |
+
 
 ### Available Clinics (station 500)
 
@@ -141,41 +167,46 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
 
-**Station 500**
+**Station 500 and 530**
 
-| `patientDFN`  | Name | Assigned To |
-| --- | ------------ | ----- |
-| 237 | One, Patient | Shane |
-| 205 | Two, Patient | Rob  |
-| 25  | Three, Patient | Paras |
-| 229 | Four, Patient | Andy |
-| 231 | Five, Patient | Justin |
-| 418 | Six, Patient | Kevin |
-| 253 | Seven, Patient | Carl |
-| 3   | Eight, Patient | Stephen |
-| 8   | Ten, Patient | QA Team |
-| 224 | Eleven, Patient | Patrick |
-| 204 | Twelve, Patient | Mark |
-| 228 | Thirteen, Patient | Dillo |
-| 271 | Fourteen, Patient | Kristen |
-| 723 | Twentysix, Patient | Adrian |
-| 366 | Twentyeight, Patient | Dan |
-| 350 | Twentynine, Patient | Gaurav |
-| 391 | Thirty, Patient | Lori |
-| 384 | Thirtyone, Patient | Kanchana |
-| 140 | Thirtytwo, Patient | Nira |
-| 442 | Thirtythree, Patient | Paras |
-| 267 | Thirtyfour, Patient | Ya-ching |
-| 217 | Nine,Patient | Charley |
-| 240 | Thirtyfive,Patient | Michael K |
-| 260 | Thirtysix,Patient | Cheryl Wills (OVAC) |
-| 218 | Thirtyseven,Patient | Patrick (OVAC) | 
-| 151 | Thirtyeight,Patient | Patrick (OVAC) |
-| 347 | Thirtynine,Patient | Patrick (OVAC) |
-| 520 | Forty,Patient | Patrick (OVAC) | 
-| 41  | Fortyone,Patient | Zach |
-| 42  | Fortytwo,Patient | Ben |
-| 569 | Fotrythree,Patient | Brian |
+| `patientDFN`  | Name | DoB | Assigned To |
+| ------------- | ---- | --- | ----------- |
+| 237 | One, Patient (renamed to Harris, Sheba in 500) | 1935-04-07 | Shane |
+| 205 | Two, Patient | 1935-04-07 | Rob  |
+| 25  | Three, Patient | 1935-04-07 | Paras |
+| 229 | Four, Patient | 1935-04-07 | Andy |
+| 231 | Five, Patient | 1935-04-07 | Justin |
+| 418 | Six, Patient | 1935-04-07 | Peyton |
+| 253 | Seven, Patient | 1935-04-07 | Carl |
+| 3   | Eight, Patient | 1935-04-07 | Stephen |
+| 8   | Ten, Patient | 1935-04-07 | QA Team |
+| 224 | Eleven, Patient | 1935-04-07 | Patrick |
+| 204 | Twelve, Patient | 1935-04-07 | Jose Beltran (508 Office) |
+| 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews |
+| 271 | Fourteen, Patient | 1935-04-07 | Kristen |
+| 723 | Twentysix, Patient | 1935-04-07 | Adrian |
+| 366 | Twentyeight, Patient | 1935-04-07 | John |
+| 350 | Twentynine, Patient | 1935-04-07 | Gaurav |
+| 391 | Thirty, Patient | 1935-04-07 | Lori |
+| 384 | Thirtyone, Patient | 1935-04-07 | Kanchana |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly |
+| 442 | Thirtythree, Patient | 1935-04-07 | Paras |
+| 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
+| 217 | Nine,Patient | 1935-04-07 | Charley |
+| 240 | Thirtyfive,Patient | 1935-04-07 | Michael K |
+| 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) |
+| 218 | Thirtyseven,Patient | 1935-04-07 | Patrick (OVAC) | 
+| 151 | Thirtyeight,Patient | 1935-04-07 | Patrick (OVAC) |
+| 347 | Thirtynine,Patient | 1935-04-07 | Patrick (OVAC) |
+| 520 | Forty,Patient | 1935-04-07 | Patrick (OVAC) | 
+| 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach |
+| 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben |
+| 569 | Fotrythree,Patient | 1935-04-07 | Brian |
+| 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews |
 
 **Station 442**
 

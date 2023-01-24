@@ -15,44 +15,59 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 
 ### GitHub/ZenHub
 
-- GitHub label = ` ` 
-- ZenHub board - 
-- Link to Max.gov 
-- [Team Charter](team/charter.md)
+For the vets facing work, we are currently using the Check In Team for a bulk of the work since our first integration is Check In app. For the API we are using JIRA. 
 
+- GitHub label = `HCE-Checkin` 
+- JIRA board = https://vajira.max.gov/secure/RapidBoard.jspa?rapidView=7791&projectKey=BTSSS 
+<!-- - [Team Charter](team/charter.md) -->
+- 
 ### Digital Service @ VA Slack Channels
 
-- [#va-octo-travel-partners](https://dsva.slack.com/archives/C0392A69KPW/p1648505583385239)
+- None yet, using Teams for our communication
 
 ### Team Members
 
 Name & Link to slack or teams profile
 
 - OCTO-DE/DEPO:
-  - Stephen Barrs
+  - Mark Dewey
 - Product Management:
-  - Donny Kwan
-- Design & Research:
-  - Mel Choyce (@melchoyce)
-- Product Advisor:
-  - Emily Theis
+  - Michelle Ortiz (for the API and BTSSS system)
 
 ## What We're Working On
+
+### Current Work
+
+- Review Implement Basic 18F recommendations in the BTSSS protal 
+- Deployment of Claim API v3 to production
+- Integration with the Patient Check In application
+- Developing new requirements for the Claims API 
+
+### Done
 - Reviewing existing BTSSS documentation and resources
 - Conduct a heuristic review of the current BTSSS system
 - Interview stakeholders across business, technology, and users
 - Synthesizing research data into suggestions and lofi design proposals
 
-## Product Documentation
-- Roadmap
-- Objectives & Key Results
-- Product Guide 
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
+
+## Procuct Documentation
+- [Roadmap](./product/roadmap.md) 
+- [Objectives & Key Results](./product/OKRS.MD)
+- TODO: Product Guide 
+
+## Research and Studies
+
+- [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
 
 ## Who We Work With
 
 - VA Business Partners:
- 
-- OIT partners:
-  
-
+  - BTSSS team 
+    - Chester Peyton
+    - Daryl Richardson
+    - Ben Willaims
+    
+- Key BTSSS Team Members
+  - Michelle Ortiz (BTSSS PM, BAH)
+  - Abi Bruce, (Claims API PM, BAH) 
+  - Lesley Brown (Lead Engineer for Claims API and BTSSS System, BAH)

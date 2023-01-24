@@ -10,7 +10,7 @@
 
 *Who:* Veterans who have begun to fill out an application (while authenticated) but haven’t submitted.
 
-*When:* Reminders will be sent out 7 days after the start date and then every two weeks until the application expires. (Expiration is typically 60 days)
+*When:* Reminders will be sent out 7 days after the start date of the application. If the user resumes their application, but still doesn't complete it after an additional 7 days, then another reminder is sent.
 
 *Why:* The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. The link in the reminder email will take them back to the in progress application.
 
@@ -30,6 +30,11 @@
 
 ## Undesired Business Outcomes
 - Confusion on submission status that leads to more expired applications
+
+## Forms Currently Handled
+- 686c launched to 100% production
+- 10-10 EZ launched to 100% production
+- 526EZ launched to 25% production
 
 ---
 ## Measuring Success
@@ -74,7 +79,9 @@
   - When we tackle multiple forms we will need to deliver a "summary" of all pending applications. It is something we want to do eventually but will tackle later.
            - Authenticate Experience team is also looking to re-design the "My VA" page that includes the location for the "Applications in Progress" which is where we would like to send a user who has multiple forms in progress. 
            - We would like to have an anchor link to the "Application in Progress" title to allow for auto scrolling. Since the page is up for design work we will hold off on linking to it until that work is completed. 
-- Cadence will be 7 days after the application was started then every two weeks after a form has been marked as "in progress"
+- Cadence will be 7 days after the application was started then another 7 days if the application is resumed but not completed again.
+  - We launched with a cadence of 7 days, 21, 35, and 49. 
+  - After researching the utilization of the different cadences we honed in on the 7 day cadence and removed the other timings.
   - We discussed the previously mentioned cadence of 7, 30, 53, and 59 days but felt the complexities of the rolling expiration date (updating information on any form restarts its expiration date) made specific day reminders overly complex and potentially difficult to manage when additional forms are also "in progress."
   - The cadence of every two weeks and again at day 59 (right before expiration date) was also discussed. Since the expiration date is rolling, based on the user updating the application, we have opted to move forward without the day 59 reminder.
 - A check to ensure the Veteran is not deceased will be implemented. 
@@ -99,6 +106,7 @@
   -Getting Privacy Officer sign off on email content
   -Handling the 686-c form as the first use case
   -Sending reminders after 7 days then every 2 weeks
+-As of 9/2022, we have adjusted the cadence to only send after 7 days of inactivity.
   
 --- 
 
@@ -107,11 +115,11 @@
 
 ## Launch Dates
 - *Initial Launch Date*
-  - Coming soon
-- *Actual Launch Date* 
-  - Coming soon
+  - May 2nd, 2022
+- *Itteration Launch Date* 
+  - Sept 13, 2022
 - *What date will you evaluate impact after launch?*
-  - Coming soon
+  - Sept 22, 2022
 ---
 
 

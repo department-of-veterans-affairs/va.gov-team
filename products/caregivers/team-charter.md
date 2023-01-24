@@ -1,5 +1,4 @@
-
-  # Caregivers Team Charter
+# 10-10 Team Charter
 ---
 ## Table of Contents
 1. [Guideposts](#guideposts)
@@ -7,17 +6,18 @@
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
 5. [Team norms](#team-norms)
+6. [VA Relationships](#va-relationships)
 
 ## Guideposts
 
 ### Team Mission Statement:
-To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
+To provide an easy and convenient path for Veterans to apply for VA health care benefits
 
 ### Team Vision:
-A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
+Create an effortless online experience that allows Veterans to easily apply for, track, and update VA health care benefits
 
 ### Team North Stars:
-- Improve the experience of Veterans and those that care for them in applying for care-related benefts 
+Improve the experience of Veterans when applying for VA health care benefits
 
 ## What we work on:
 
@@ -33,12 +33,18 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson
-- DEPO Engineering Lead: Mike Chelen
-- Team Product Manager: Sharon Kasimow
-- UX/Research: Dené Gabaldón
-- Front-End Engineering: Lisa Zapson
-- Back-End Engineering: James Childers
+- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
+- Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
+- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
+- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
+- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
+- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
+- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
+- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
 ---
 
@@ -50,36 +56,55 @@ Health Products
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 11am Eastern
-- 30 min
+- Every day @ 11:30am ET/8:30am PT
+- 15 min
 - 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Monday of every sprint week @ 3pm ET
+- Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
-- We'll use labels for each sprint to commit to what's in each sprint
+- We'll use the sprint field to indicate we have committed to what's in each sprint
 
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 11:30ET
+- 1st Wednesday of every sprint @ 11:30 ET/8:30 PT
 - 30 min
 
-#### Grooming
+#### Refinement
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 10:00am
+- 2nd Wednesday of every sprint, 1pm ET/10am PT
 - 1 hour
 
 </p>
 </details>
 
 #### Issue Etiquette
-Anyone on the team can create a user story. All are responsible for keeping them up to date.
+- Anyone on the team can create a(n) issue/ticket/story. 
+- All teammates are responsible for keeping them up to date.
+- Templates are available within the new issue/ticket/story during creation - Pick one you like!
+
+**Labels to use**
+- All tickets should include:
+     - 1010-team
+     - Product: Either 1010-ez or 1010-cg
+- EZ initiative labels (examples)
+     - 1010-short-form
+     - 10-10ez-notifications
+     - household-info-redesign
+     - American-Indian
+     - sigi
+     - facilities-1010
+- CG initiative labels (examples)
+     - legal-rep
+     - MuleSoft
+     - 1010 primary/secondary
+     - facilities-1010
 
 - We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
     - Clear acceptance criteria
@@ -89,37 +114,27 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - All components/steps have been accounted for in the epic
     - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
+- Naming convention for tickets/stories/tasks
+    - [area of work] Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
 
-- For a task to go into the **"Backlog"** column, it must have the following:
+**Epics** should include:
+   - Clear acceptance criteria
+   - Definition of done  
+   - A user story that reflects the benefit to a Veteran, Caregiver, or other user
+   - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+   - All components/steps have been accounted for in the epic
+   - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+
+**Stories/Tickets** should include:
    - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
+   - Linked to another ticket or epic
+   - Includes:
+        - Description (what happened & why we need this ticket), 
+        - General tasks to perform
+        - Acceptance criteria (expected result)
 
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Estimate
-   - Sense of priority (relative to other tickets)
-   
-- During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
-- As they are worked, tickets get moved into **"In Progress"**
-
-- For a task to be in **"Blocked"** 
-   - An external dependency prevents the ticket from being completed
-   
-- For a task to be in **"Validate"** 
-   - All work related to the ticket is implemented
-   - Acceptance criteria have been met
-   - Work is accessible in a review instance and ready for internal team members to review
-
-- For a task to be **"Done"** 
-   - Internal validation has occured
-   - Merged to main
-   - Each ticket's last comment before closing should reflect when validation has occurred and by whom
-   - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
+- If there are new work requests or sudden changes, contact the Product Manager to assist in scheduling into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -135,14 +150,14 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
-- For anything considered a "release" or significant change, Tze (the VSA QA lead) will be responsible for QA
+- For anything considered a "release" or significant change, the QA lead will be responsible for QA
 - Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
 
 ## Team Norms
-- We are iterate often and deliver frequently
+- We iterate often and deliver frequently
 - We are respectful, both online and off
 - We turn on cameras as often as possible at meetings / calls
 - We are flexible and intentional in the way we work
@@ -157,17 +172,44 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - We are respectful of others' time
 
 
-#### Slack:
+#### Slack "#1010-health-apps":
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
 GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
-#### *New* PTO
+#### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
-- Team members will send calendar invites to the rest of team when they have scheduled time off, **and** add it to the VSA PTO calendar
+- Team members will send calendar invites to the rest of team when they have scheduled time off.
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
+
+## VA relationships
+
+- Lauren Alexanderson | lauren.alexanderson@va.gov -- Health Tools Crew lead
+- Patrick Bateman | patrick.bateman@va.gov -- Product owner
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+
+**Caregiver Program Business Unit Team**
+- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
+- Thamaraiselvi (Tham) Kaliannan  | thamaraiselvi.kaliannan@va.gov -- PM, scheduling
+
+**CARMA team/MuleSoft.Salesforce team**
+- Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
+- Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+- Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
+- David Wald | David.Wald@va.gov - testing/integration lead
+- Mili Riddout | mili.riddout@salesforce.com - 
+
+### Recurring stakeholder meetings
+
+- Touchbase with Va.gov & Platform Team for Caregivers
+   - Caregivers business team, CARMA team, Mulesoft/Salesforce team and VA.gov team meet bi-weekly on Fridays at 12:30pm ET/9:30am PT for 30 minutes

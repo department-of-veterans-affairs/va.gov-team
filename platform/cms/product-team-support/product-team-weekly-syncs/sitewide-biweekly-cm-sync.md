@@ -1,16 +1,30 @@
-# Bi-Weekly Change Managment Sync
+# Bi-Weekly Change Management Sync
 
 <details><summary>About this meeting</summary>
 
 - Tuesday 2-2:25 pm ET 
 - Meeting owner and facilitator: Denise Eisner
-- Attendees: Kevin Walsh, Erika Washburn, Roger Eagans, Wesley Rowe, Clarence Maeng (optional0
+- Attendees: Denise Eisner, Dave Conlon, Jeffrey Grandon, Steve Tokar (optional), Jennifer Heiland-Luedtke (optional), David Shannon (optional), Clarence Maeng (optional)
 </details>
 
 <details><summary>Parking lot</summary>
  - item
  </details>
  
+ THIS MEETING WAS DISCONTINUED IN JUNE 2022
+
+## June 14, 2022
+
+### Agenda
+- Cerner cutovers (Roseburg and White City)
+
+ ## May 31, 2022
+
+### Agenda
+- Recurring event launch and planned comms/training
+- New CM tactic: [announcement block](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9122)
+- [CM look ahead](https://airtable.com/appJCOGGJRTAwcH2v/tblPHoElsBWwr83Z0/viwSfROR69D6seBkB?blocks=hide)
+
  ## May 3, 2022
 
 ### Agenda

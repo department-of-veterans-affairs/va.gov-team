@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated May 5, 2022
+**Last updated: December 20, 2022**
 
 ### Communications
 
@@ -11,7 +11,7 @@ Last updated May 5, 2022
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
 |Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
@@ -23,13 +23,16 @@ Last updated May 5, 2022
 
 - [Overview](#overview)
 - [Opportunities & Priorities](#opportunities--priorities)
+- [My VA features](#my-va-features)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
+- [Projects](#projects)
 - [Measuring Success](#measuring-success)
-- [Solution Narrative](#solution-narrative)
-- [How to Access and Test](#how-to-access-and-test)
-- [My VA features](#my-va-features)
-- [Screenshots](#screenshots)
+- [Platform Documentation](#Platform-Documentation)
+- [Design](#Design)
+- [Frontend](#Front-End)
+- [Backend](#Back-End)
+
 
 ## Overview
 
@@ -64,6 +67,60 @@ In addition to seeing important actions, Veterans expect to be able to quickly a
 The VA may have suggestions for Veterans on how they can maximize their benefits or care, and some of these may make sense to elevate on My VA. However, these suggestions do not have anything to do with processes a Veteran might already have in flight, and these are lower priority than other notifications or benefit status information.
 
 **Examples**: Sign up for a COVID vaccine; benefit eligibility or recommendations.
+
+## My VA features
+
+### "Nametag"
+
+- The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's full name as well as military branch and disability rating, if applicable.
+- **Backend system**: MPI for full name; eMIS for military information.
+
+### Disability rating
+
+- The disability rating is part of the nametag. We currently show percentage of service connected disability.
+- **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
+- **Backend system**: EVSS
+
+### Notifications
+
+- This section will display any recent notifications for the veteran
+- Currently, only debt notifications are active but eventually we plan to add more
+- **Backend system**: VA Notify
+
+### Claim status
+
+- This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
+- If someone has never filed a claim or has zero open claims, this section does not show.
+- **Parent tool**: [Claim status](https://staging.va.gov/track-claims/your-claims)
+- **Backend system**: EVSS
+
+### Health care
+
+- This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
+- **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
+
+### Outstanding debts
+
+- This section shows someone's most recent debts and copays.
+- **Parent tools**: [Manage your VA debt]https://staging.va.gov/manage-va-debt/summary/)
+- Benefits- team 2 is responsible for debts and copays. Their Slack room is #benefits-team-2.
+- **Backend system**: DMDC for debts; Not sure for copays
+
+### Benefit payments
+
+- This section shows someone's most recent payment within the last 30 days if they have one. 
+- There is also a link to update direct deposit information.
+- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts.
+- Benefits- team 1 is responsible for payment history. Their Slack room is #benefits-team-1.
+- **Backend system**: BGS
+
+### Apply for benefits
+
+- This section shows any benefit applications that have been started but not yet submitted on VA.gov.
+- This section also shows prompts to apply for VA health care, disability benefits, and education benefits to all users.
+- **Parent tools**: All benefit applications on VA.gov
+- **Backend system**: Each benefit application sends information to a different backend system, so if there is a problem with a particular application type, check in with the team that manages that application.
+
 
 ## User Outcomes
 
@@ -106,79 +163,65 @@ _Why would your business want this to exist?_
 -	We do not want this page to be co-opted by groups outside of VA.gov.
 -	We do not want this page to be turned into a benefit eligibility engine.
  
-## Measuring Success
+## Analytics
 
-- [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
-- [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+- [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
+- [My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
 
-## Solution Narrative
+## Projects
 
-### Initiatives
+[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md).
 
-|Project|Status|
-|----|----|
-|[Adding payment & debt information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| QA/Pre-launch|
-|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
-|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+## Platform Documentation
 
-### Key Decisions
+- As members of the VFS teams we participate in the collaboartion cycle as we develop new features for My VA. Information regarding the collaboration cycle can be found [here](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+- Plaform Slack channel is [#vfs-platform-support](https://join.slack.com/share/enQtMzkwNjAzMjA2OTcxNi04MDhiNDE3ZThjNDY0NWYwMGI0ODVmYTk2NjIxODAwZDgxOWE4ZDFiMDI1YTY2M2U4N2VkYTg2Mjg4NTViMDZk)
+- [Link to Product Playbook Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md) This is needed for each new feature to complete the privacy review
 
--	In October 2020, [we determined that My VA and the logged-in homepage would continue to live side-by-side](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot) and that My VA would not replace the logged-in homepage at this time. The reasoning was three-fold: first, we hypothesized that people would still want access to the current homepage when they were logged in. Second, since many teams at the VA have input into the homepage, we were concerned that this might result in content that was not personally relevant to Veterans showing up on their My VA dashboards. Finally, the team was not confident in our ability to support two different versions (logged-in/logged-out) of the homepage at the same URL at this time.
+## Design
 
-## How to Access and Test
+- [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
+- [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- My VA flows
+  - [Debts & copays](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
+  - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
 
-[Staging user info and test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+### Screenshots
 
-## My VA features
-
-### "Nametag"
-
-- The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
-- **Backend system**: MPI for full name; eMIS for military information.
-
-### Disability rating
-
-- The disability rating is part of the nametag. We currently show percentage of service connected disability.
-- **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
-- **Backend system**: EVSS
-
-### Claim status
-
-- This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
-- If someone has never filed a claim or has zero open claims, this section does not show.
-- **Parent tool**: [Claim status](https://staging.va.gov/track-claims/your-claims)
-- **Backend system**: EVSS
-
-### Health care
-
-- This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
-- **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
-
-### Benefit payments and debts (staging only)
-
-- This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
-- There is also a link to update direct deposit information.
-- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
-- **Backend system**: BGS
-
-### Apply for benefits
-
-- This section shows any benefit applications that have been started but not yet submitted on VA.gov.
-- This section also shows prompts to apply for VA health care, disability benefits, and education benefits to all users.
-- **Parent tools**: All benefit applications on VA.gov
-- **Backend system**: Each benefit application sends information to a different backend system, so if there is a problem with a particular application type, check in with the team that manages that application.
-
-## Screenshots
-
-### Version 1.0
+<details><summary>Version 1.0</summary> 
 
 ![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+ 
+ </details>
 
-### Version 2.0 -- July 2021
+<details><summary>Version 2.0 -- July 2021</summary> 
 
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
-### Addition of Benefit payments and debts -- April 2022
+</details>
+ 
+<details><summary>Addition of Benefit payments and debts -- April 2022</summary>  
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
+ 
+</details>
+
+<details><summary>Addition of Onsite Notifications and Payments and debts V2 -- December 2022</summary>
+ 
+ ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
+ 
+ </details>
+
+## Front End
+
+- placeholder
+
+## Back End
+
+- [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
+- [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
+
+### How to Access and Test
+
+- [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+- [Staging User Info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mv)

@@ -3,7 +3,7 @@ name: Sitewide Content and IA Intake Form
 about: To request support with content or IA from Sitewide Content and IA team
 title: "<Type of Request> from <Team>"
 labels: sitewide content, sitewide content-product support, Sitewide IA
-assignees: RLHecht 
+assignees: RLHecht, mnorthuis
 
 ---
 
@@ -19,7 +19,7 @@ assignees: RLHecht
   - [ ] IA support
   
   
-*Please describe your need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
+*Please be specific about the content or IA support you need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
 
 ## Will this new product be released incrementally (for instance 25% of users initially)? 
   - [ ] Yes
@@ -69,7 +69,7 @@ assignees: RLHecht
 
 ## Next steps
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#va-sitewide-content-ia](https://dsva.slack.com/channels/va-sitewide-content-ia) Slack channel and tag Randi Hecht.**
+**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag Randi Hecht.**
 
 If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
   

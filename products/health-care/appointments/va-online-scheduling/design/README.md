@@ -28,20 +28,19 @@ VAOS is [one of many touchpoints](https://github.com/department-of-veterans-affa
 
 ## VAOS user flows
 
-![Flows](images/VAOS-User-Flows.png)
-
-[Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/design) of the different flows.
+[VAOS screen-by-screen user flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267%3A19369) (Figma)
 
 <details>
-<summary>Previous flow diagrams</summary>
-  
-- [Updated VAOS Flow - Flowmapp](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
+<summary>Old flow diagrams</summary>
+  ![Flows](images/VAOS-User-Flows.png)
+
+- [Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/design/design-archive/archive-appointment-flows/) of the different flows.
 - [VAOS Flow - Figma](https://www.figma.com/file/KGChcQHMrTReo7T7cML418/VAOS-Flow)
 
 </details>
 
 
-## VAOS UX documentation
+## Libraries
 
 Appointments list [overview](https://www.figma.com/file/5UPYWKTuy7FgSSTxsejtGI/?node-id=2%3A25). 
 
@@ -51,21 +50,14 @@ VA Online scheduling is built on the [VA.gov design system](https://design.va.go
 
 [VAOS in the VA design system](https://www.figma.com/file/sWiXcrB6sgw1z4F8AtOqfK/?node-id=1203%3A89).
 
-Page templates for the [appointments list](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A50) and [details pages](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=54%3A11449).
-
-Templates for the [scheduling flows](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A1911).
+Page templates:
+* [Appointments list](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A50) 
+* [Details pages](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=54%3A11449)
+* [Scheduling flows](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A1911)
 
 ## VAOS content
 
 [Content overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content)
-
-[Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs)
-
-## VAOS design process
-
-We measure the success of designs by following the [VAOS OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-kpis.md).
-
-We track design work on the [VAOS Product/Design Board](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/board?labels=vaos-product-design&repos=33202667,62409417,133843125,66304117)
 
 ## A short history of VAOS
 

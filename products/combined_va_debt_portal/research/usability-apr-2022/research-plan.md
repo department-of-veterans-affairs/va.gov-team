@@ -1,6 +1,6 @@
 _First review at midpoint review - May 3rd, 2022_
 
-# Research Plan for The Debt Resolution Team, Combined VA Debt Portal, May 2022 
+# Research Plan for The Debt Resolution Team, Combined VA Debt Portal, June 2022 
 
 ## Background
 
@@ -119,7 +119,7 @@ Moderated usability study materials:
 
 ### Recruitment approach
 
-Using Perigean recruiting, we would like to schedule **20 participants** in order to achieve 8-10 completed sessions. 
+Using Perigean recruiting, we would like to schedule **16 participants** in order to achieve 7-8 completed sessions. 
 
 ### Recruitment criteria
 
@@ -147,15 +147,15 @@ To understand how Veterans interact with the portal depending on their experienc
 
 **Group 1: Enrolled in VA health care** 
 
-- **15 people** who are enrolled in VA health care 
+- **12 people** who are enrolled in VA health care 
 
-   - At least **10 people** who: 
+   - At least **8 people** who: 
 
      - Have received a VA health care copay bill within the past 6 months **and** 
 
      - Have had at least one of the following VA Debts: CH 33/Post-9/11 GI Bill, CH 34, CH 35, or Compensation & Pension 
 
-   - At least 3 people, or **maximum 5 people** who:  
+   - At least 2 people, or **maximum 4 people** who:  
 
      - Have received a VA health care copay bill within the past 6 months **and** 
 
@@ -163,7 +163,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 **Group 2: Do not receive VA health care copays**
 
-- At least 3 people, or **maximum 5 people** who: 
+- At least 2 people, or **maximum 4 people** who: 
 
    - Haven’t received VA health care copay bills within the past 6 months **and** 
 
@@ -173,29 +173,29 @@ To understand how Veterans interact with the portal depending on their experienc
 
 **Note:** The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
-- At least 6 people who use a screen reader 
+- At least 5 people who use a screen reader 
 
-- At least 10 people must identify as Black, Hispanic/Latina/Latinx, or Native
+- At least 8 people must identify as Black, Hispanic/Latina/Latinx, or Native
 
-- At least 10 people must identify as having a cognitive consideration
+- At least 8 people must identify as having a cognitive consideration
 
-- At least 10 people must identify as other than male
+- At least 8 people must identify as other than male
 
-- At least 10 people are without a degree or professional certificate
+- At least 8 people are without a degree or professional certificate
 
-- At least 5 people are under 35
+- At least 3 people are under 35
 
-- At least 5 people are over 55
+- At least 3 people are over 55
 
 #### Secondary criteria (nice-to-haves) 
 
-- At least 6 people who identify as gay, lesbian, bisexual, or transgender 
+- At least 5 people who identify as gay, lesbian, bisexual, or transgender 
 
-- At least 5 people who live in a rural or remote area 
+- At least 3 people who live in a rural or remote area 
 
-- At least 5 people who live in a major metropolitan area 
+- At least 3 people who live in a major metropolitan area 
 
-- At least 3 non-native English speakers 
+- At least 2 non-native English speakers 
 
 ### Screener questions and group diagram
 
@@ -210,9 +210,9 @@ To understand how Veterans interact with the portal depending on their experienc
 
 2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)?
   
-  * Yes (If Group 1, admit at least 10)
+  * Yes (If Group 1, admit at least 8)
   
-  * No (Admit maximum of 5 for Group 1 and maximum of 5 for Group 2)
+  * No (Admit maximum of 3 for Group 1 and maximum of 3 for Group 2)
 
 #### Group diagram
 
@@ -220,7 +220,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 ## Timeline
 
-TBD – estimated late May 
+Beginning June 27, 2022 until 7-8 sessions are completed.
 
 
 ### Prepare
@@ -231,34 +231,27 @@ TBD – estimated late May
 
 ### Research sessions
 
-TBD – Depends on development timeline; estimated late May 
-
 #### Length of sessions 
 
-**60** minute sessions with **60** minute breaks between  
+**60** minute sessions with **30** minute breaks between, unless noted
 
 ### Availability
 
-[TBD post-contract agreement; estimated late May]
+Date | Time | Note
+-----|-----|-----
+6/27/2022 | 10:00 AM - 5:00 PM EST |
+6/28/2022 | 9:00 AM - 5:00 PM EST | schedule 60 minutes between sessions for anything starting prior to 12:30pm
+6/29/2022 | 9:00 AM - 5:00 PM EST |
+6/30/2022 | 9:00 AM - 5:00 PM EST | 
+7/1/2022 | 9:00 AM - 5:00 PM EST | 
+7/5/2022 | 9:00 AM - 5:00 PM EST | Please only use this day if needed
 
-Date | Time
------|-----
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
 
 ## Team Roles		
-- Moderator: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
+- Moderator: Liz Lantz (liz.lantz@adhocteam.us), Shawna Hein (shawna@adhocteam.us), and Megan Gayle (megan.gayle@govcio.com)
 - Research guide writing and task development: Riley Orr (riley@amida.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
+- Project point of contact: Denise Coveyduc (denise.coveyduc@gcio.com) and Megan Gayle (megan.gayle@govcio.com)
 - Participant(s) for pilot test: TBD
-- Note-takers: Riley Orr and Kevin Stachura 
+- Note-takers: Perigean
 - Observers: Denise Coveyduc (denise.coveyduc@govcio.com), Matthew Self (matthew.self2@va.gov), Brandyn Sullins (brandyn.sullins@govcio.com), Scott James (scott.james@gcio.com), Andrew Rodiek (andrew.rodiek@govcio.com)

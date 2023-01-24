@@ -131,7 +131,7 @@ We are not showing customized prescription data at this time. If someone has hea
 
 **Cerner alert**
 
-If we detect someone manages appointments, messages, or prescriptions at a Cerner facility, they will see the following alert instead of the health care section.
+If we detect someone manages appointments, messages, or prescriptions at a Cerner facility, they will receive the following alert instead of the healthcare section. The facilities below are handled by the Cerner team using the Drupal Source Of Truth selectors. We pull in the facilities and then place them in the widget. More information on the Drupal Source of Truth implementation can be found [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for)
 
 ![Health care section_Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_Cerner%20alert.jpg)
 

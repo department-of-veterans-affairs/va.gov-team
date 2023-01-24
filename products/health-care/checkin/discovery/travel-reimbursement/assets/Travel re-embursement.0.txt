@@ -1,0 +1,34 @@
+title Travel pay Sequence Diagram
+actor Veteran
+
+//participant CHIP
+//participant VistA
+//participant VeText
+participant VetsFE
+participant VetsAPI
+participant VEIS
+participant BTSSS
+
+entryspacing 0.4
+box over Veteran: Veteran is in the middle of the \ncheck-in process
+box over VetsFE: Veteran is asked to sumbit a claim
+box over VetsFE: Veteran attempts to submit a claim
+VetsFE ->VetsAPI: POST /v0/travel_claim (new route) 
+VetsAPI -> VEIS : POST /oauth2/token
+VetsAPI <- VEIS : { token }
+box over VetsAPI: Get current users ICN 
+box over VetsAPI: Get the users address
+box over VetsAPI: Get the facility address
+box over VetsAPI: Calculates the travel distance
+VetsAPI ->BTSSS: POST /veis/EC/ClaimIngestSvc/api/ClaimIngest/submitclaim {icn, appointmentDate, tripType }
+note over BTSSS: Validates token with VEIS
+VetsAPI <-BTSSS : return { claimNumber, statusCode }
+box over VetsAPI: Do something with the claimNumber
+VetsFE <-VetsAPI: return {statusCode}
+box over VetsFE: Display Appointment Page
+box over Veteran: Veteran continues \ncheck-in process \nuntil confirmation page
+box over VetsFE: Display the confirmation page
+box over VetsFE: Display appropriate message for travel pay
+
+
+

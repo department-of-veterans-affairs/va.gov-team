@@ -1,63 +1,84 @@
-# Identity
-Welcome to the Identity folder. This directory contains information about user identity on Va.gov. You'll find documentation on things like login, personalization, profile, and more.
+# 
 
-**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
+Updated 6/15/22
 
+# Getting Started with Identity
 
-## What we're doing:
+**Table of Contents**
 
-### Current Team Objectives
+1. [Signing in](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#signing-in)
+2. [Connecting to MPI](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#connecting-to-MPI)
+3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
+4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
 
+## Signing in
 
-**Sign-in Service Pilot**  
-_Current Status:_ Actively working on this.  Currently working on second phase of work.  
-We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+Users can sign in on [VA.gov](http://va.gov/) using one of four Identity Providers:
 
-**Inherited Proofing**  
-_Current Status:_ Initial research is done.  Next up is accessibility research.
-We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
+1. **DS Logon**
+2. **My HealtheVet**
+3. **[ID.me](http://id.me/)**
+4. **Login.gov**
 
+Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov](http://va.gov/) page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the [VA.gov](http://va.gov/) Microsoft Dynamics instance.
 
-**Alerting Improvements**  
-_Current Status:_ Actively working on this  
-We are working to streamline our alerting and monitoring systems to reduce alert noise and improve accuracy, allowing us to more accurately and efficiently track and resolve issues.
+[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
 
+[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/loginproductoutline.md) provides a fuller overview on login.
 
+## Connecting to MPI
 
----
+Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
 
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.
+If we are able to successfully connect a user to a record in MPI, we get back a [list of attributes](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa) that can be leveraged throughout [VA.gov](http://va.gov/) to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MPI.
 
+## Understanding LOA
 
-## Team
+**LOA = Level of Assurance**
 
-### VA Product Owners
-- Cody Reinhold
-- John Rahagi
+We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
 
-### Product and Program Management
-- Nick Soutouras - Product Leadership
+A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on [VA.gov](http://va.gov/) through [ID.me](http://id.me/)'s identity verification process, even if they logged in with a DS Logon or MHV account ([more details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/va.gov-id.me-user-flow-overview-06-05-2019.pdf))
 
+Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
 
-### UX
-- Amanda Porter - UX Designer/Researcher
-- Sam Vang - UX Designer/Researcher
+```
+| LOA 1 on VA.gov  | LOA 3 on VA.gov   |
+| ---------------- | ----------------- |
+| MHV Basic        |                   |
+| MHV Advanced     |                   |
+|                  | MHV Premium       |
+| DS Logon Level 1 |                   |
+|                  | DS Logon Level 2  |
+| ID.me LOA1       |                   |
+|                  | ID.me LOA3        |
+| logingov IAL1    |                   |
+|                  | logingov IAL2     |
+```
 
-### Engineering
-- Joe Niquette - Engineering Lead
-- Trevor Bosaw - Backend Engineer
-- John Bramley - Backend Engineer
-- Alex Garcia - Frontend Engineer
-- Jhonny Gonzalez - Frontend Engineer
-- Sylvester Lee - Security Engineer
-- Ian Hundree - DevOps Engineer
+## User paths based on Identity
 
+User paths for any product involving identity and personal information should be determined based on a given product's risk profile.
 
-## Communications
-- Slack: #vsp-identity
-- Zenhub tag: identity
+### Potential Product Risk Profiles
 
-## Timeline
+### High risk - LOA3/IAL2 (ID proofing required)
 
+- **Pro:** able to access all known personal user data for the given user
+- **Con:** least accessible to full userbase
 
+### Low risk - LOA1/IAL1 (login required)
 
+- **Pro:** able to display some information about user
+- **Con:** can't leverage more sensitive user data records as this user account type is not verified
+
+### No risk - No login required
+
+- **Pro:** most accessible
+- **Con:** no user data
+
+LOA3 users are more trusted, and will often have more information and access to services. UAT is required for any new product or feature leveraging identity to ensure that user is able to connect to the correct MPI record and that the personal information being served up by MPI and displayed by [VA.gov](http://va.gov/) is correct. If the user is not found in MPI, and they should be found or would like to be added to MPI, they need a way to correct this. If the user is connected to the correct MPI account, but the information shown is incorrect, the user needs a way to correct their information.
+
+LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
+
+Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).

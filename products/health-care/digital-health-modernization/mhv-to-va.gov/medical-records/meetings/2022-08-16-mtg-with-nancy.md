@@ -1,0 +1,18 @@
+## Notes from meeting with Nancy
+- PBM Directive 1162 - Display medications, have to show full med list and include allergies
+- Meaningful Use - Specifies elements of records that have to be made available whenever a veteran wants it. What mandate is there, if any?
+- Is there only going to be one way to download medical records? Search my record/blue button vs health summary
+- How is data formatted? Currently reports are shown poorly, Nancy believes there's a better way to present and scan the information
+  - Note: this is likely out of scope for MVP
+- Consider veteran needs and community care providers.. What information or format is useful?
+- Community Care was establishing a portal to get access to patient data.. Does this exist?
+- 36 hour hold on labs/tests. Cerner has a 72 hour hold.. We may have standardized on a 36 hold now.
+  - COVID has to hold on test results
+- Insurance information is being pulled from self entered data.
+  - Look at the categories and determine the value of the data.. Not everything is needed/required/available
+    - Believe to have bad data: Insurance, advanced directives, military history
+  - With sharing with Cerner/CVS/Walgreens… will they have data to populate these data fields
+- Role and display of patient generated health data?
+  - Nancy believes it is important to have in the health summary and available to the veteran.
+  - Need to ask CC if they care about PGHD
+  - Opening it up and creating more awareness around PGHD with veterans in Sept 2022

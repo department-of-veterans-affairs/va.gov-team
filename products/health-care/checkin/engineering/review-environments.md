@@ -4,6 +4,14 @@
 👉🏽 socks needs to be enabled to access any review environments. Please follow the instructions [here](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to get access through and configure socks
 </aside>
 
+### Feature Toggles
+
+To turn feature toggles off and on for a review environment, you can use the web UI. To access it, go to:
+
+`http://<review-environment-id>-api.review.vetsgov-internal/flipper/features/`
+
+For instance, if your review environment URL was `http://17b1d8247d73458f35bf186ed414731b.review.vetsgov-internal/`, you would go to `http://17b1d8247d73458f35bf186ed414731b-api.review.vetsgov-internal/flipper/features/`
+
 ### vets-website
 
 Whenever a PR is created for vets-website repo, a [Jenkins](http://jenkins.vfs.va.gov/) workflow creates a review environments for the latest commit on the branch. It also pulls vets-api and content repos on the same host and starts all services as docker containers. vets-api settings are inherited from staging settings.

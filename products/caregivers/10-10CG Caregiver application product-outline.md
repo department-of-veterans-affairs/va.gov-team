@@ -1,8 +1,8 @@
 # Caregivers Product Outline
 - GitHub Label: 1010-team
 - Slack channel: #1010-health-apps
-- VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
-- Product POCs: 
+- VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
+- Product POCs: Heather Justice, Mark Fallows
 ---
 
 ### Table of Contents
@@ -36,16 +36,18 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## Solution Goals
 
+- To provide an easy and convenient online path for Veterans and their Caregivers to apply for Family Caregiver Program benefits, so that they can get quick access to the support and services they need.
+
 ### User Goals
-- Caregivers and veterans want to be able to fill out the 10-10CG online.
+- Caregivers and veterans want to be able to fill out and submit the 10-10CG online with little effort.
 
 ### Business Goals
-- Feed application data directly to CARMA
+- Feed application data directly to CARMA, through MuleSoft middleware
 - Accomodate the influx of applications that's expected due to changing program eligibility
-- Make the user journey feel safer and more accomodating 
+- Make the user journey feel safer and more accomodating
 
 ## Assumptions
-- Caregivers and Veterans will prefer to fill out the 1010-CG online rather than on paper.
+- Caregivers and Veterans will prefer to fill out and submit the 1010-CG online rather than on paper.
 
 
 ## Requirements and Constraints
@@ -77,6 +79,9 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## KPIs and OKRs
 
+<details>
+	<summary> Original KPIs and OKRs</summary>
+	
 ### KPIs
 - How many applications are submitted (harder to find)
 - How many applications are submitted online
@@ -87,12 +92,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
-#### Baseline KPIs
-
-- TBD
-
-### OKRs
-    
+   
 #### Objective 1: Make it easier to Veterans to apply to the PCAFC			
 - Key result 1: Increase the number of successful online applications to the PCAFC (Target: 500)
 - Key result 2 Decrease the number of requests for application assistance from the Contact Center (Target: 50 )
@@ -105,79 +105,90 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 #### Objective 3: Improve the experience of being a caregiver			
 - Key result 1: Improve caregiver and veteran assessments of the PCAFC 	
 
+</details>
+
+---
+### New OKRs from 2022 Workshop
+#### Objective 1: Increase in number of VA-recognized Caregivers
+
+- *Key result 1: Increase the number of successful online applications to the PCAFC*
+   - As of 10/2022, we have seen a 7 month overall increasing trend of the number of applications started and subsequently submitted
+
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
+|-------|----|----|----|----|----|----|----|
+|10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|
+
+
+- *Key result 2: Increase % of caregivers who obtain approval for benefits* - **TBD from CG Team**
+
+#### Objective 2: Decrease time from submission to decision
+
+- *Key result 1: Increase number of application completions in a single session*
+   - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
+
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
+|-------|----|----|----|----|----|----|----|
+|10-10 EZ - Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|
+|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|
+|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|
+|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|
+|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|
+
+- *Key result 2: Decrease application processing time and follow-ups by customer support* - **TBD from CG Team**
+- *Key result 3: Decrease number of status update calls to customer support* - **TBD from CG Team**
+
+
 --- 
 
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-
-Note: as of 05/27/2020, the program office has not made specific plans to release the online 10-10CG to the public. When they do, we'll reach out to CSCs and VSOs to broadcast the changes to the Caregiver community. 
-
-## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
-
-- Dark launch (not public facing): 05/29/2020
-- Soft release (potential to be public facing): 07/30/2020
+## Launch Dates
+- 10/1/2020: Caregiver Online form
+- 3/2022: Mulesoft Integration ph 1
+- 7/6/2022: Sign as a Representative - content update
+- 7/21/2022: "Same Address" Checkbox (Caregiver can use checkbox to indicate they have the same address as the Veteran)
+- 9/23/2022: Mulesoft Integration ph 2 (queueing and retries)
 
 ---
 
-# Implementation Info
-
-## Status
-- Focused on launching an MVP of the form
-- Dark launch (only in staging): 05/29/2020 (completed)
-- Soft release (Program approval of all online changes (not just the form): 07/30/2020
-
 ## Solution Narrative
 
-**Pre-May 29th**
-- Unauthenticated form
-- Two signatures (printed names onto online form)
-- Form intro page
-- Downloadable submission receipt
-- Return ICN number for veteran and caregiver (if applicable)
-- Obtain static list of approved Caregiver facilities from CARMA
-- Create table in vets-api to link CARMA ID to form submission (+ date)
+### Status
+- Focused on improving the Facility Selection page and connecting with Facilities/Lighthouse API
+- Submit content for translation of entire form into Spanish
+- Initial discovery work on clarifying Primary and Secondary roles and responsibilities
 
-**May 29th - Dark launch**
-- Not public facing
-- Allow for testing end-to-end testing in Staging
-
-**June 30th - Soft release*
-
-**Post-June 30th**
-- Ability to attach Power of Attorney documentation
-- Attach prefilled 1010CG PDF to CARMA application
-- Prevent identical applications sent back-to-back
+**Future goals**
 - Allow Veteran/Caregiver to track application status
-- To support Caregiver program in its expansion and reduce number of phone calls asking status question
-- Options:
-  - Use application ID number to query for status update
-  - Work with MPI to return status there
+     - To support Caregiver program in its expansion and reduce number of phone calls asking status question
+     - Options:
+          - Use application ID number to query for status update
+          - Work with MPI to return status there
 
 
 ## How to Access and Test
 - https://staging.va.gov/caregivers/
+- User #36 can be used for testing in all environments, so that you can receive a successful submission message
+     - first name: WESLEY
+     - last name: FORD
+     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional SSN, DOB information
+
 
 ## Error Handling
 - If the Veteran cannot be found in MPI, the submission will not go through and the user will be prompted to print and fill out the paper form
 - The same error page will occur if the submission cannot flow through to CARMA for any other reason
+- vets-API retries and MuleSoft queing has been implemented as of 9/23/2022.  This will greatly reduce submission errors due to system issues, allowing for the application submission to be retried until the system is available.  See [Ultimate Failure handling process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) for details in the event that the queuing and retries fail.
 
 ## API Calls and Dependent Systems
- - CARMA backend integration
- - VA API
+ - [MuleSoft integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Mulesoft%20Integration/Queuing)
+ - [Vets-API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/eng-docs)
 
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
-- Roadmap: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png
-- ATO documentation
 
 ### Screenshots
 #### Before: 
 https://www.va.gov/health-care/forms/vha-10-10CG.pdf
 
 #### After:
-TBD
+https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
 

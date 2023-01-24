@@ -1,4 +1,8 @@
-# VSA 10-10CG Primary/Secondary Caregiver selection hub
+# 10-10CG Primary/Secondary Caregiver selection hub
+
+**Updated 1/6/2023**
+
+**Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
 <br>
 
@@ -39,14 +43,16 @@ This table includes links to the individual design work products.
 ## Engineering artifacts
 - 
 
-## Zenhub epics
-- [Primary/Secondary Caregiver](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
+## Github documentation
+- [#37541 Epic](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37541)
+- [Inititiatve Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Primary%20vs%20Secondary%20Clarification/ReadMe.md)
+- [Product Review presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Primary%20vs%20Secondary%20Clarification/Primary%20and%20Secondary%20Caregiver%20clarification.pptx)
 
 
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/37542)
+- The team has not yet begun the Collaboration Cycle, we are still in discovery
 
 
 <br>
@@ -56,6 +62,11 @@ Include notes about which Platform process was in use when this feature was in d
 - Shawna Hein | shawna.hein@va.gov -- Design lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
+
+**Post March 2022 transition**
+- Heather Justice | Heather.justice@va.gov - Product Manager
+- Jessica Stump | jessica.stump@va.gov -- Sr. UX designer/researcher
+- Matt Long | matt.long@va.gov -- Frontend engineer
 
 
 <br>

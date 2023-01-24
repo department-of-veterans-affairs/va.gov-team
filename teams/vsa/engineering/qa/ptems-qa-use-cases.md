@@ -1,6 +1,6 @@
 # Use Cases
 
-PTEMS VA.gov Application Teams need to provide Use Cases to PTEMS-QA for test-cases development.  Read here about Use Cases in general, and follow the relevant best practices.
+VA Application Teams need to provide Use Cases to Shared-Support-QA for test-cases development.  Read here about Use Cases in general, and follow the relevant best practices.
 
 Although required only as Platform Staging Review approaches, documented Use Cases _should_ be in place at the _start_ of Build phase.  This _central_ repository of basic requirements will help guide implementation work, by ensuring a common understanding of needs & expectations across all team-members.
 

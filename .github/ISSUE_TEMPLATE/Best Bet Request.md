@@ -1,9 +1,9 @@
 ---
 name: Best Bet Request
-about: Request to creation or change a Best Bet
-title: Best Bet Request for <Team>
-labels: needs-grooming, vsa, vsa-search-discovery
-assignees: denisecoveyduc, LindaLi123
+about: Request to creation or change a best bet in VA.gov search results
+title: Best bet request for <topic>
+labels: sitewide content, Sitewide IA
+assignees: heyjoni
 
 ---
 
@@ -13,7 +13,7 @@ assignees: denisecoveyduc, LindaLi123
     - [ ] NEW: You would like to create a new best bet
     - [ ] CHANGE: You would like to change an existing best bet
 - Complete the corresponding section below to provide the relevant details  *(Section 1- New Request or Section 2-Change Request)*
-- Post a link to this issue in Slack Channel #va-search with tag for  @denisecoveyduc  and @John Hashimoto
+- Post a link to this issue in Slack Channel #va-search with tag for  @Joni Chan
 
 # Section 1: New Request
 
@@ -31,25 +31,25 @@ assignees: denisecoveyduc, LindaLi123
  
  ### Please provide the following information:
 
- - [ ] Specify the **Headline** for the Best Bet *(@DanielleThierryUSDSVA or @bethpotts)
+ - [ ] Specify the **Headline** for the Best Bet 
 
 > Example: Get information about the COVID 19 vaccine from your local VA facility_
 
         > enter headline
- - [ ] Specify the **Text** for the Best Bet *(@DanielleThierryUSDSVA or @bethpotts)
+ - [ ] Specify the **Text** for the Best Bet 
 
 > Example: Get the latest updates about COVID-19 vaccines at your nearest VA facility._
 
         > enter text
 
 
- - [ ] Specify the  **Keywords** that would generate the Best Bet*(@DanielleThierryUSDSVA or @bethpotts)
+ - [ ] Specify the  **Keywords** that would generate the Best Bet 
 
 > Examples: covid vaccine, covid vaccine availability, vaccine availability, etc._
 
         > enter text
 
- - [ ] Specify the **URL** for the Best Bet (@davidconlon )
+ - [ ] Specify the **URL** for the Best Bet 
 
 > Examples: https://www.va.gov/find-locations?facilityType=health&serviceType=Covid19Vaccine_
 
@@ -78,17 +78,4 @@ Please provide a brief description of the initiative and supporting information 
         > details about required change
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-***Note: These requests are handled by the Search & Discovery  Team. Reach out via Slack #va-search with any questions.*** 
-
-
-### ** Search & Discovery Internal Use: **
-
-#### Acceptance Criteria
-- [ ] Add this request into a Zenhub Epic
-- [ ] Follow-up with requester to address any lingering questions/concerns
-- [ ] For new Best Bet: Setup, test and validate the Best Bet in Production via the Search.gov dashboard (@johnhashva)
-- [ ] For Best Bet Changes: Alter Best Bet via the Search.gov dashboard, test and validate (@johnhashva)
-
-#### Definition of Done
-
- - [ ] Request has been implementation and live on production
+***Note: These requests are handled by the Sitewide Content and IA team. Reach out via Slack #sitewide-content-ia with any questions.***

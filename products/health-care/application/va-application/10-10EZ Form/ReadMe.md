@@ -1,1 +1,1 @@
-We can use this folder to store all documents related to the overall 10-10EZ form, specifically finalized information such as the latest Product guide (contact center guide), Content Source of truth, Architectural diagrams, etc.
+We can use this folder to store the most recent up-to-date information related to the overall 10-10EZ form, specifically **finalized** information such as the latest Product guide (contact center guide), Content Source of truth, Architectural diagrams, etc.

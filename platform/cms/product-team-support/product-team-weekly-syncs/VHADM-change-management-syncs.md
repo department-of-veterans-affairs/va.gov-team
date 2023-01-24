@@ -1,29 +1,99 @@
-# Bi-Weekly VHA Digital Media sync: Change Management
+# Bi-Weekly VHA Digital Media Sync: Change Management
 
 <details><summary>About this meeting</summary>
 
 - Thursday 3-4:00 pm ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Denise Eisner
-- Attendees: Kevin Walsh, Suzanne Gray, David Conlon, Jeffrey Grandon, Steve Tokar
+- Attendees: Kevin Walsh, Suzanne Gray, David Conlon, Jeffrey Grandon, Steve Tokar, 
 </details>
 
 <details><summary>Parking lot</summary>
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## September 21, 2022
+
+- top task update (VHADM/Denise)
+  - Register for care: 40%  		
+  - Medical records: 41% 		
+  - Billing and insurance: 51%
+
+- looking ahead: work with Content Team to craft guidance and examples for COVID messaging
+
+## August 9, 2022
+
+- 988 Crisis line update
+- Cerner process update
+- sunset of COVID facility status
+  - will involve communications to editors
+- Any new editor issues
+
+## August 2, 2022
+
+- 988 Crisis line update
+- Content releases run continually during business hours (Dave)
+  - Initial plans for implementation would be to do a soft rollout and monitor for a week to work through any issues then communicate to all editors
+- Top task completion rates and next steps
+- Lovell update (Dave Pickett)
+
+## July 14, 2022
+
+- 988 Crisis Line phone number (Dave/Denise/Kevin)
+- Review Facilities Q3 priorities (Denise/Kevin)
+  - Coordination for Lovell (Kevin)
+  - VAMC operating status and VAMC banner alerts (Kevin/David S.)
+  - Facility COVID status post-launch: research underway (Denise) + [vaccine page](https://www.va.gov/atlanta-health-care/programs/covid-19-vaccines/)
+- Training to edit centralized content for VHADM (4 x 138 pages) (Kevin)
+- Notifications: research (Erika)
+
+## June 29, 2022
+
+Cancelled
+
+## June 15, 2022
+
+### Facility COVID Status
+
+- Update on access to the reports: continue request fulfillment for now (Kevin)
+- 1022 to 1024 in 7 days
+
+### Top tasks
+
+Change since last week
+- 64 Billing and insurance  [↑3]
+- 51 Medical records office  [↑1]
+- 51 Register for care [↑2]
+
+### Facility service data
+
+CMS now has 13K services associated across 1235 facilities, which includes
+- walk-ins accepted or appointments are required
+- referrals required
+- opening hours 
+- phone numbers
+- contact info
+
+Candidate for Q3 2022: develop a QA framework with VHA DM
+
 ## June 1, 2022
 
-### Facilities COVID status update
+### Facilities COVID status and top task updates
 
-  - % completed status updates
-  - any new issues
-  - reminder?
+ - Deck sent May 31 with data
+ - Any new issues?
+ - What is new deadline for top task pages completion?
+ - When should reminder email go out?
 
-### Top task pages update
+### Recurring events
 
-  - % completed
-  - revisit deadline and next reminder
+  - project launch: looking at June 6
+  - product preview (Kevin)
+  - revisit comms approach and timing
+
+### Steve's suggestions (via email)
+
+  - CMS team providing Drupal-specific instructions (banners and Womens Health)
 
 ## May 18, 2022
 

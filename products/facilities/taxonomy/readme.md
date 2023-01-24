@@ -42,7 +42,7 @@ Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC
 
 ## Taxonomy structure
 
-- Service name (required): Cardioloy
+- Service name (required): Cardiology
 - Patient-friendly name: Heart and circulation
 - Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
 - Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.

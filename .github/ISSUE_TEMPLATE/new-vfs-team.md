@@ -2,7 +2,7 @@
 name: New VFS Team
 about: For orienting new VFS teams to Platform policies/practices
 title: New VFS Team [Insert team name here]
-labels: governance-team, analytics-insights
+labels: analytics-insights, governance-team
 assignees: ''
 
 ---
@@ -42,6 +42,8 @@ Add your team's practice and contact information below.
    - [ ] Benefit Tools
    - [ ] Lighthouse API
 
+- **Github team name:**
+
 - **Github team label:**
  
 - **Team launch date:**
@@ -58,14 +60,13 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] Ask all of your team members to complete the process
 
 ## Review and update your team's product information 
-- [ ] Go to the [VA Product Directory](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview)
+- [ ] Go to the [VA Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
+- [ ] Navigate to and select your team's product
 - [ ] Review to make sure that all of your team's products are listed and assigned correctly
-- [ ] Confirm that you have edit access for the page (you'll see the pencil/edit icon on top right side of page) 
-- [ ] If you don't have edit access, reach out to the [#vfs-platform-support channel](https://join.slack.com/share/enQtMjk1NjI2OTUyMzI4Ny03NTJiYjkxZTljMWQwYjczNTI1ZjUyYmUzNTYxN2IyMjMzNWUzMDBjN2UyOGQyNzA5MmM2YWVlNGJjMGFkYzZi) in Slack. Please note that access is given to Product Owners only.
-- [ ] If anything needs to be changed or added, edit the page in Confluence
+- [ ] If an edit to your team's product page needs to be made, see the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide)
 
 ## ATO (Authorization to Operate) orientation
-- [ ] Reach out to Faith Owusu-Sekyere on Slack
+- [ ] Reach out to Faith Arthur on Slack
 - [ ] Request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
 

@@ -1,0 +1,19 @@
+title Check in with Travel Pay A
+
+actor Veteran
+
+participant VeTEXT
+participant CHIP
+participant VistA
+participant LoROTA
+
+
+Veteran ->VeTEXT: Texts "check in"
+VeTEXT ->CHIP: Initiate check in
+CHIP ->VistA: Loads appointments, insurance, demographics. 
+box over CHIP#lightgreen: Need to get veteran ICN
+CHIP->LoROTA: Store veteran data {apts, ICN, demo, etc}
+box over CHIP: Sets status for e-check-in started
+box over CHIP: Create Short URL
+CHIP ->Veteran: returns short URL
+

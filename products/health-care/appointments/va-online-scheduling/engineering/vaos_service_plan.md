@@ -33,8 +33,12 @@ There are several [feature toggles:](https://github.com/department-of-veterans-a
   - Fetches booked community care appointments through vaos service (meaning we get them from HSRM) 
 - va_online_scheduling_vaos_service_va_appointments
   - With this on, the FE fetches VA appointments through the VAOS service on the list page, and also updates everything in the new appointment flow to use VAOS service (eligibility checks, plus clinics and slots calls)
+- va_online_scheduling_vaos_v2_next
+  - VAOS tickets with the label vaos-v2-next intended for release after the VAOS Service release
+- va_online_scheduling_clinic_filter
+  - With this on, it will filter clinics that have direct scheduling set to true
 
-Generally, it probably makes sense to turn `va_online_scheduling_facilities_service_v2` on first. This should be pretty safe, and you should be able to move it to 100% quickly. After that `va_online_scheduling_vaos_service_requests` is a good one to go next, since it's less impactful than the other two. Finally, you may want to do `va_online_scheduling_vaos_service_va_appointments` and `va_online_scheduling_vaos_service_cc_appointments` at the same time, it'll probably be less confusing, and we haven't done tons of testing with just one or the other on.
+Generally, it probably makes sense to turn `va_online_scheduling_facilities_service_v2` on first. This should be pretty safe, and you should be able to move it to 100% quickly. After that `va_online_scheduling_vaos_service_requests` is a good one to go next, since it's less impactful than the other two. Finally, you may want to do `va_online_scheduling_vaos_service_va_appointments` and `va_online_scheduling_vaos_service_cc_appointments` at the same time, it'll probably be less confusing, and we haven't done tons of testing with just one or the other on. Next turn on `va_online_scheduling_vaos_v2_next` and `va_online_scheduling_clinic_filter` since these are dependent upon the release of VAOS service.
 
 ## Post-launch
 

@@ -1,4 +1,4 @@
-# Caregivers Team Charter
+# 10-10 Team Charter
 ---
 ## Table of Contents
 1. [Guideposts](#guideposts)
@@ -10,13 +10,13 @@
 ## Guideposts
 
 ### Team Mission Statement:
-To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
+To provide an easy and convenient path for Veterans to apply for VA health care benefits
 
 ### Team Vision:
-A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
+Create an effortless online experience that allows Veterans to easily apply for, track, and update VA health care benefits
 
 ### Team North Stars:
-- Improve the experience of Veterans and those that care for them in applying for care-related benefts 
+Improve the experience of Veterans when applying for VA health care benefits
 
 ## What we work on:
 
@@ -33,10 +33,10 @@ Health Products
 
 ### Team Members:
 - DEPO Product Lead: Lauren Alexanderson
-- DEPO Engineering Lead: TBD
+- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
+- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
 - Team Product Manager: Heather Justice
-- Team Associate Product Manager: Mark Fallows
-- UX/Research: Dené Gabaldón
+- Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
@@ -52,15 +52,15 @@ Health Products
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 11am Eastern
-- 30 min
+- Every day @ 11:30am ET/8:30am PT
+- 15 min
 - 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Monday of every sprint week @ 3pm ET
+- Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
@@ -68,20 +68,39 @@ Outline work to be done this sprint in order to accomplish the team's goals
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 11:30ET
+- 1st Wednesday of every sprint @ 11:30 ET/8:30 PT
 - 30 min
 
-#### Grooming
+#### Refinement
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 10:00am
+- 2nd Wednesday of every sprint, 1pm ET/10am PT
 - 1 hour
 
 </p>
 </details>
 
 #### Issue Etiquette
-Anyone on the team can create a user story. All are responsible for keeping them up to date.
+- Anyone on the team can create a(n) issue/ticket/story. 
+- All teammates are responsible for keeping them up to date.
+- Templates are available within the new issue/ticket/story during creation - Pick one you like!
+
+**Labels to use**
+- All tickets should include:
+     - 1010-team
+     - Product: Either 1010-ez or 1010-cg
+- EZ initiative labels (examples)
+     - 1010-short-form
+     - 10-10ez-notifications
+     - household-info-redesign
+     - American-Indian
+     - sigi
+     - facilities-1010
+- CG initiative labels (examples)
+     - legal-rep
+     - MuleSoft
+     - 1010 primary/secondary
+     - facilities-1010
 
 - We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
     - Clear acceptance criteria
@@ -91,42 +110,27 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - All components/steps have been accounted for in the epic
     - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- Naming convention for tickets/stories/tasks - Thoughts?
+- Naming convention for tickets/stories/tasks
     - [area of work] Epic/Initiative: Brief title of work to be done
     - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
 
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-10-10_ and what category it falls into (backend, front-end, research, design, product)
+**Epics** should include:
+   - Clear acceptance criteria
+   - Definition of done  
+   - A user story that reflects the benefit to a Veteran, Caregiver, or other user
+   - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+   - All components/steps have been accounted for in the epic
+   - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- For a task to go into the **"Backlog"** column, it must have the following:
+**Stories/Tickets** should include:
    - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
+   - Linked to another ticket or epic
+   - Includes:
+        - Description (what happened & why we need this ticket), 
+        - General tasks to perform
+        - Acceptance criteria (expected result)
 
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Be groomed by the team
-   - Estimate
-   - Sense of priority (relative to other tickets)
-   
-- During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
-- As they are worked, tickets get moved into **"In Progress"**
-
-- For a task to be in **"Blocked"** 
-   - An external dependency prevents the ticket from being completed
-   
-- For a task to be in **"Validate"** 
-   - All work related to the ticket is implemented
-   - Acceptance criteria have been met
-   - Work is accessible in a review instance and ready for internal team members to review
-
-- For a task to be **"Done"** 
-   - Internal validation has occured
-   - Merged to main/master
-   - Each ticket's last comment before closing should reflect when validation has occurred and by whom
-   - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
+- If there are new work requests or sudden changes, contact the Product Manager to assist in scheduling into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -142,7 +146,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
-- For anything considered a "release" or significant change, Tze (the VSA QA lead) will be responsible for QA
+- For anything considered a "release" or significant change, the QA lead will be responsible for QA
 - Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders

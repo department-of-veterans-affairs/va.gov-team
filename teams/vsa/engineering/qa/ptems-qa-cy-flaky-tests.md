@@ -9,10 +9,7 @@ occur on your local machine.
 ## Start with Platform documentation first
 
 You should FIRST consult [Platform's Flaky Tests Management][platform-flaky-tests]
-doc. That doc is the "central" documentation for ALL teams,
-not just PTEMS. Sections here on this page will be incrementally moved to
-Platform's doc, as Platform-team capacity permits. Whatever's still here is
-supplemental to that central doc.
+doc. The information here is supplemental.
 
 ## How to minimize flakes
 
@@ -31,11 +28,11 @@ kind of flake may not be exposed, so just get in the habit of registering all
 intercepts first for your page before you visit it:
 
 ```js
-cy.intercept('v0/feature-toggles*', mockFeatures);
-cy.intercept('v0/another-data-endpoint', mockData);
-cy.intercept('v0/yet-another-data-endpoint', moreMockData);
+cy.intercept("v0/feature-toggles*", mockFeatures);
+cy.intercept("v0/another-data-endpoint", mockData);
+cy.intercept("v0/yet-another-data-endpoint", moreMockData);
 
-cy.visit('/my-page');
+cy.visit("/my-page");
 ```
 
 #### Override intercepts only across SIBLING contexts/tests
@@ -126,17 +123,15 @@ describe('my spec', () => {
 ## If you have further questions...
 
 - Start with Platform QA Standards: **Peter Hill**
-- For PTEMS-specific questions, PTEMS-QA: **Tze-chiu Lei**
+- For Shared-Support-QA-specific questions, Shared-Support-QA: **Tze-chiu Lei**
 
 ## Further reading
 
-PTEMS-QA will continue to add more information on flaky tests as more specific
+Shared-Support-QA will continue to add more information on flaky tests as more specific
 cases are exposed. In the meantime, read [this intercept-problems
 article][bahmutov-intercepts-article] by Gleb Bahmutov, former VP of
 Engineering, Cypress.io.
 
 [platform-flaky-tests]: https://depo-platform-documentation.scrollhelp.site/developer-docs/Flaky-test-management-in-Cypress.1870430218.html
-[cth-readme]:
-https://github.com/department-of-veterans-affairs/vets-website/tree/main/script/cypress-testrail-helper
-[bahmutov-intercepts-article]:
-https://glebbahmutov.com/blog/cypress-intercept-problems/
+[cth-readme]: https://github.com/department-of-veterans-affairs/vets-website/tree/main/script/cypress-testrail-helper
+[bahmutov-intercepts-article]: https://glebbahmutov.com/blog/cypress-intercept-problems/

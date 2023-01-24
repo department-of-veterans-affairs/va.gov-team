@@ -75,3 +75,11 @@
 | 73 | [In-state tuition rates under the Veterans Choice Act](https://www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) | Education | 2/10/22 |
 | 74 | [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) | Pension | 3/11/22 |
 | 75 | [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) | Health care | 5/06/22 |
+| 76 | [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) | Health care | 5/06/22 |
+| 77 | [Choosing between urgent and emergency care](https://www.va.gov/resources/choosing-between-urgent-and-emergency-care/) | Health care | 7/18/22 | 
+| 78 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) | Health care | 8/2/22 |
+| 79 | [Ang PACT Act at ang iyong mga VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-tag/) | Health care | 8/18/22 |
+| 80 | [La Ley PACT y sus beneficios de VA](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-esp/) | Health care | 8/30/22 |
+| 81 | [O*NET Interest Profiler career assessment](https://www.va.gov/resources/onet-interest-profiler-career-assessment) | Careers and employment benefits hub | 10/28/22 |
+| 82 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov) | VA account and profile | 12/19/22 |
+| 83 | [VA tier 1 medication list](https://www.va.gov/resources/va-tier-1-medication-list) | Health care | 12/22/22 |

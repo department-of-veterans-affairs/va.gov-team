@@ -1,0 +1,92 @@
+name: Qualitative Data Request
+description: Please use this form to request qualitative (textual) data for tier 2/3 support as well as Medallia User Surveys
+title: "Qualitative Data Request"
+labels: [ "VSP-contact-center", "cc-data-request" ]
+assignees:
+  - ianMcCullough-ob, ATMiddleton
+body:
+  - type: markdown
+    attributes:
+      value: |
+          ## What this form is for
+          The Contact Center Team is responsible for tier 2/3 support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns.
+          
+          *Please allow 5 business days for delivery.*
+  - type: dropdown
+    id: data-request-type
+    attributes:
+      label: Data Type Requested
+      description: For MyVA411 call center support data, select \"Support.\" For Medallia survey data, select \"User Surveys.\"
+      options:
+        - Support
+        - User Surveys
+    validations:
+      required: true
+  - type: input
+    id: start-date
+    attributes:
+      label: Date Range Start
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+  - type: input
+    id: end-date
+    attributes:
+      label: Date Range End
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+  - type: input
+    id: product-name
+    attributes:
+      label: Product Name(s)
+      description: Please provide the name(s) of your product(s).
+      placeholder: Facilities Locator
+    validations:
+      required: true
+  - type: textarea
+    id: product-description
+    attributes:
+      label: Product Description
+      description: Please provide a high level description (one or two sentences) of your product(s).
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: product-urls
+    attributes:
+      label: Product URL(s) and/or term(s)
+      description: Please provide the root directory(ies) for your product(s). If you want ONLY the URL listed, please specifiy. Otherwise, any URLs that live under the path provided will be exported as well. If providing specific terms to search for, please include those terms as well as common alternate spellings.
+      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider"
+    validations:
+      required: true
+  - type: dropdown
+    id: data-delivery
+    attributes:
+      label: File Delivery Format
+      description: Please specifify how you would like your data to be delievered.
+      options:
+        - All in one file, on one tab
+        - One file, different tab for each term/URL
+        - One file for each term/URL
+    validations:
+      required: true
+  - type: input
+    id: va-email
+    attributes:
+      label: VA Email Address(es)
+      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared with a non-VA email address.
+      placeholder: johndoe@va.gov
+    validations:
+      required: true
+      
+  - type: textarea
+    id: add-assignee-labels
+    attributes:
+      label: Add Assignee and Labels     
+      value: |
+          If not already done so, please ensure @ianMcCullough-ob is set as the assignee for this issue and "VSP-contact-center" and "cc-data-request" are set as labels.
+          Please leave this field as is when submitting.
+    validations:
+      required: false
+        

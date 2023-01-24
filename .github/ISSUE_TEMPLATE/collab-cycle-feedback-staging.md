@@ -14,9 +14,9 @@ assignees: ''
 
 
 #### VFS product name
+#### VFS feature name
 
-
-#### Point of Contact/Reviewers (Practice area)
+#### Point of Contact/Reviewers
 
 *For more information on how to interpret this ticket, please refer to the [Anatomy of a Staging Review issue ticket](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Anatomy-of-a-Staging-Review-Issue-ticket.2060320997.html) guidance on Platform Website.
 
@@ -47,27 +47,31 @@ Category ##, Issue ## (link to VA.gov Experience Standards page on Platform Webs
 WCAG, Design System, Content Style Guide, a previous gh ticket, etc.
 --> 
 
----
+
 
 ### Platform Recommendation
 <!--
 Include specific details about how the VFS team can resolve this issue.
 --> 
 
-### VFS Team Tasks to Complete
+---
 
-- [ ] Comment on the ticket if there are questions or concerns
-- [ ] Close the ticket when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket. 
+### VFS Guidance
+
+- Close the ticket when the issue has been resolved or validated by your Product Owner
+- If your team has additional questions or needs Platform help validating the issue, please comment on the ticket
+- Some feedback provided may be out of scope for your iteration of the product, however, Platform's OCTO leadership has stated that all identified issues need to be documented and it is still your responsibility to resolve the issue.
+- If you do not believe that this Staging Review issue ticket is the responsibility of your team, comment below providing an explanation and who you believe is responsible. Please tag the Point of Contact/Reviewers. Governance team will research and will follow up.
+
 
 ## Platform directions
 - Update "Issue Title"
-- Link to collab cycle touchpoint meeting epic
+- Link to  Collaboration Cycle Request epic
 - Add the VFS team and product name
 - Add your name and practice area under Point of Contact(Practice Area)
 - Add the Platform Issue. The Issue column from the [VA.gov Experience Standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html)
 - Add the Issue Details and any links, screenshots or steps to recreate
 - Add the [VA.gov Experience Standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) number
-- Move to the Feedback pipeline on the Platform Product Support board
 - Add assignees: VFS PM
 - Add labels:
   - VFS team label

@@ -1,0 +1,1 @@
+A short project to capture what accessibility content exists within the the Platform and VSP GitHub folders.

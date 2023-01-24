@@ -1,4 +1,4 @@
-## Background (updated 3.1.19)
+## Background (updated 1.7.22)
 This document outlines how login error handling works for va.gov, including the final error messages displayed to the user.
 
 ## Login Error Handling Flow

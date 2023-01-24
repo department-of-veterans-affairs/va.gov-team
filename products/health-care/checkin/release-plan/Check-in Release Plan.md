@@ -3,8 +3,9 @@
 ---
 
 **Upcoming Dates:**
-- [ ] Staging Review 7/29/2021
-- [ ] Production target launch date 7/30/2021
+- [X] Production target launch date 5/2/2021
+- [X] Staging Review 6/29/2022
+
 
 ## Phase I: Pilot and UAT 
 

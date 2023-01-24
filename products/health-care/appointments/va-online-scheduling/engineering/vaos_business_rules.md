@@ -16,6 +16,29 @@ VAOS, VAR-RES, SM Web Current/Planned Deployment Schedule:
 
 https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
+## Appointments list
+
+### Upcoming appointments
+- Display 13 months of future booked appointments
+- Includes VA and community care appointments
+- Display 13 months of canceled booked appts
+
+
+#### Community care appointments
+- Veteran cannot cancel through VAOS.
+
+### Past Appointments
+- Includes VA and community care appointments
+- Does not display canceled booked appts
+
+### Pending appointments
+- Includes VA and community care requests
+- Show canceled requests 120 days back
+- Sorted by date/time the request was created. Most recent requests appear at the top of the list.
+
+#### Community care requests
+-  Veteran can cancel through VAOS.
+
 ## New appointment flow
 
 ### Type of care page
@@ -29,7 +52,13 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### Community care eligibility check
 
-- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care
+- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
+    - Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
+    - Audiology (for either routine exam or hearing aid support)
+    - Optometry 
+    - Podiatry (currently only available for Community Care)
+    - Nutrition services
+
 - A user is eligibility if two checks pass:
     - The user is registered at a site that is marked as accepting community care requests
     - The community care eligibility api says that they're eligible for the type of care they chose
@@ -43,7 +72,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### VA facilities page
 
-- Facilities are shown on this page if
+- Facilities are shown on this page if:
     - They are associated with a VistA site where the user is registered, and
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
 - If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address
@@ -107,23 +136,28 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - The latest date allowed for scheduling is 395 days after the current date
     - This may be further limited if the chosen VistA clinic has a max booking date that's less than 395 days. If that's the case, the front end will not receive any slots after this date
 - The times shown are determined by the time slots returned to the front end based on the configuration of the selected VistA clinic
+     - The times shown are in the time zone configured for the selected facility. 
 - If the preferred date is the current date, then an urgent care warning is shown above the calendar
 - Once a time is chosen, the user is sent to the reason for visit page
 
 ### Calendar page (request path)
 
 - Users use a calendar picker to choose their preferred appointment time frames
-- Users are allowed to pick an AM or PM slot on each weekday, up to 3 slots.
+- Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.
 - The calendar starts on the current month
 - The earliest date allowed for scheduling is 5 days after the current day
+    - If the 5th calendar day falls on a weekend (Saturday or Sunday), the following business day would be the next available date. Example: If the user is logged in on a Monday and trying to book an appointment request, slots would be available from the following Monday. 
 - The latest date allowed for scheduling is 120 days after the current date
 - Once preferred times are chosen, then:
     - For community care requests, they're sent to the community care preferences page
     - For VA requests, they're sent to the reason for visit page
 
-### Community care preferences
+### Community care closest city page
 
 - If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
+
+### Community care request provider page
+
 - Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
 - Users are given an option to choose from a list of providers sorted by:
     - Residential address (if they have a residential address on file) 

@@ -1,0 +1,61 @@
+Research Plan for CMS Design System Study
+Related to this ticket. 
+Background
+We have the CMS design system in its infancy as of Q2 2022. At this point, the interaction designer has built the design system in Figma to mimic the current state of the CMS UI, however, upgrades to much of the interface are still ongoing. 
+As the Sitewide CMS team moves into exploring the collaboration cycle model, it is important to see where the gaps are for designers using the documentation and design system. 
+Research Goals
+Our goal is to understand what parts of our documentation and processes need further development in order to help designers outside the Sitewide CMS team accomplish their goals. The research goals for this plan are to:
+Find out if designers outside of the Sitewide CMS team can use the documentation and Figma file to create product-level designs asynchronously.
+Determine what level of guidance is needed from the Sitewide CMS team to complete tasks.
+Pinpoint where the pain points are in the design system Figma files and in the design system documentation.
+Understand where additional governance needs to be documented. 
+Leverage opportunities to streamline processes for product teams. 
+Determine what a Sitewide CMS collaboration cycle would look like in practice.
+Determine the Sitewide CMS team's scope of involvement with designers as they design in the backend.
+Outcome
+Scope Sitewide CMS collaboration cycle 
+Collect data on pain points
+Build a backlog for iterations to the design documentation and Figma files.
+Hypothesis
+Designers new to the CMS ecosystem may need additional resources that give them the context they need to engage with the CMS design system
+In its current state, the Sitewide CMS team may need to provide direct support or leadership at certain parts of the collaboration process.
+Designers without Figma experience may need additional prototyping support.
+Method
+A task-based usability study. Moderators will ask participants questions during their process.
+Location
+Remote, via Zoom and Slack
+Research materials
+[Link to documentation]
+Participants 
+1-4 designers across product teams
+Designers will have varying experience with the project and design system ranging from 2 weeks to 7 months.
+Recruitment Strategy
+Coordinate with PM/DMs on cross-product teams to plan capacity for designers to help with this study. 
+Timeline
+Sitewide CMS team sprint 61
+Team Roles
+Moderator: Rachel, Erika, Suzanne
+Research guide writing and task development: Rachel, Cindy, Erika, Lynn
+Participant recruiting & screening: Erika
+Project point of contact: Erika
+Participant(s) for pilot test: Aslan, Suzanne, Florence, Val
+Observers: Cindy and Rachel
+Task
+Provide the parameters and FE view of top tasks.
+Task will be one facility with two locations and designing the editorial UI for that.
+Users will receive the following:
+Confluence CMS design system docs link (read, view, and edit modes will be documented)
+A figma template with proper DS components. 
+They will consider:
+How to group the content according to Drupal configuration (current state)
+The text: 
+Help text 
+Headers
+Links
+Editor view mode only to complete the task
+Helpful notes:
+We have workflow constraints due to the infrastructure (Editors aren't doing the work in this field, but it will send you to a page to do that)
+ We cannot change the FE view. We need editors to have context on the BE for managing this new information. Editing the information must be done on another node. 
+
+
+

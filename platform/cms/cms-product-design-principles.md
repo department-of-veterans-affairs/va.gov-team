@@ -1,5 +1,5 @@
 # CMS Product Design Principles
-02/25/2021
+
 
 Design principles created by the CMS design team to guide decisions and inspire our work towards an editor-centered CMS.
 

@@ -1,6 +1,11 @@
-## Address Save Failure Codes
+# Address Save Failure Codes
 
-Updated 12/23/20
+**Last updated: July 14, 2022**
+
+## Background
+In 2020, we were seeing high incidences of these codes in google analytics. As of July 2022, this has all been resolved.  This may be useful information if we ever see these codes pop up again.
+
+## Codes
 
 **MVI200** - When MPI is having connection issues that don't allow us to finish an MPI lookup call.
 

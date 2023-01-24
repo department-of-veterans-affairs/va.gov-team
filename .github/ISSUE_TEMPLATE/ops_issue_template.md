@@ -2,10 +2,11 @@
 name: Ops Issue Template
 about: For filing standard issues with the Platform Operations Team.
 title: ''
-labels: devops, needs-grooming, operations
+labels: devops, needs-grooming, operations, platform-cop, platform-cop-devops
 assignees: ''
 
 ---
+
 ## Who is the devops resource on your team?
 _Please use their github username, if applicable (optional, please delete if unused)_
 

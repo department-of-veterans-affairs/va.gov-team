@@ -9,7 +9,7 @@
 
 ### Table of Contents
 
-# One-Page Summary 
+# One-Page Summary
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
 - [Assumptions](#assumptions)
@@ -19,8 +19,8 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - [Features](#features)
-  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
-  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
+  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-rated-disabilities/README.md)
+  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents)
 
 # Implementation Information
 - [Status](#status)
@@ -39,7 +39,7 @@
 # Executive Summary
 
 ## User Problem Statement
-As a Veteran, I find the VA Medical Center (VAMC) websites are confusing to navigate, have outdated or missing information, and does not match my VA healtcare journey.  
+As a Veteran, I find the VA Medical Center (VAMC) websites are confusing to navigate, have outdated or missing information, and does not match my VA healtcare journey.
 
 ## Solution Goals
 Provide to Veterans accessing the VAMC websites a user experience that provides solutons to key touch points in the end-to-end Veteran healthcare journey. Utilizing the Pilot website as a basis on which to improve and foster a better user experience for each of the VAMC websites.
@@ -51,10 +51,10 @@ Provide a straight to the point navigation that will allow the Veteran to quickl
 Streamlining total site pages, word count, and simplifying the journey of the Veteran from the initial splash page to the end resource will ensure efficiencies, improved user experience, and local informatin regarding the VAMC are being leveraged to as many Veterans possible.
 
 ## Assumptions
-There are several different services, resources, specifics, and unique stories surrounding each VA Medical Center. 
+There are several different services, resources, specifics, and unique stories surrounding each VA Medical Center.
 
 ## Requirements and Constraints
-Onboarding (va.gov-cms), access and exiting knowledge and lessons learned from the pilot project at Pittsburg, PA VAMC website. 
+Onboarding (va.gov-cms), access and exiting knowledge and lessons learned from the pilot project at Pittsburg, PA VAMC website.
 
 ## Discovery Takeaways
 Still in Discovery - Onboarding, reviewing documentation, and the next steps in deploying across VISN 4
@@ -71,7 +71,7 @@ Breaking down each of the VAMC websites into archetypes to categorize the pages 
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
 
 #### User Value
-Not having to travel from webpage to webpage causing confusion and frustration as to where they can access their regional or local services. 
+Not having to travel from webpage to webpage causing confusion and frustration as to where they can access their regional or local services.
 
 #### Business Value
 Money spent on programs at the VA will be better utilized.
@@ -79,7 +79,7 @@ Money spent on programs at the VA will be better utilized.
 ## KPIs
 - Reduce the number of total site pages that will in turnincrease search-engine optimization.
 - Improve the customer experience through clear, standardized, and prioritized site pages and jump links, reducing overall page searches and jumps.
-- Reduce overall site word count to streamline content into more precise, efficent and plain language content getting the Veteran to where they want to go in a more clear and precise manner. 
+- Reduce overall site word count to streamline content into more precise, efficent and plain language content getting the Veteran to where they want to go in a more clear and precise manner.
 - Using the Archetypes, determine the parts of the legacy web pages that can quickly be scalable across the VISNs.
 - (Note: KPIs have note yet been finalized)
 

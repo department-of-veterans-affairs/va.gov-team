@@ -1,8 +1,8 @@
-# PTEMS-QA Regression Testing
+# Shared-Support-QA Regression Testing
 
 **[WORK IN PROGRESS]**
 
-While current capacity limitations preclude direct involvement by PTEMS-QA in Regression Testing, here are some basic info for PTEMS VA.gov Application Teams to consider.
+While current capacity limitations preclude direct involvement by Shared-Support-QA in Regression Testing, here are some basic info for VA.gov Application Teams to consider.
 
 ## "Soft" requirement
 

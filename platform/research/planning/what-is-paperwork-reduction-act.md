@@ -1,3 +1,8 @@
+# We're moving our docs! 
+### Find [The Paperwork Reduction Act](https://depo-platform-documentation.scrollhelp.site/research-design/paperwork-reduction-act-pra) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+
 **Note: This is a working draft! Refer to official OIRA memos linked below for official guidance.**
 
 Read this first: [Overview presentation of PRA for Digital Service folks](https://github.com/usds/usds/files/227990/Naval.Academy.-.The.Paperwork.Reduction.Act.4.15.pptx)

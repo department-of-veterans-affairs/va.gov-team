@@ -47,8 +47,8 @@
 |Back End Engineer      |Scott James                    |
 |Front End Engineer     |Brandyn Sullins                   |
 |Front End Engineer     |Andrew Rodiek                           |
-|Design/Research      |Riley Orr                           |
-|Design/Research      |Kevin Stachura                        |
+|Design/Research      |Megan Gayle                          |
+|Design/Research      |Brie Pipitone                       |
 
 </br>
 ---

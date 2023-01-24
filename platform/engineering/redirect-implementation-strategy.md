@@ -75,10 +75,17 @@ _Any other notes_
 - Level of difficulty: low
 - TODO: Verify (Jan 2023): Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) is a diagram made by the CMS team in December 2019, showing the current redirect scenarios involving Drupal.
   - The Drupal-specific timing difficulties here will be addressed when VSP Ops works on their initiative to make Drupal the source of truth for redirects in 2020.
+<<<<<<< HEAD
 
 
 ### 2) Vets.gov cross-domain redirect: Page-level redirect from vets.gov to www.va.gov 
 
+=======
+
+
+### 2) Vets.gov cross-domain redirect: Page-level redirect from vets.gov to www.va.gov 
+
+>>>>>>> upstream/redirect-docs-update
 _Server-side or client-side_
 - Server side
 
@@ -178,22 +185,16 @@ _Any other notes_
 
 ### 5) Redirects from subdomains (subdomain.va.gov) to subdomains (subdomain.va.gov)
 
-_Server-side or client-side_
-- Client-side. 
+This type of request has additional nuances. 
 
-_When to do this?_
-- When a TeamSite loading proxy-rewrite JS needs a page redirected to a non-www.va.gov URL, whether within the same subdomain or otherwise.
+**If the subdomain is not a TeamSite**
+Then the owners of the subdomain may be able to perform the redirect. This requires stakeholder involvement. 
 
-_How does this work technically?_
-- Same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json)
+**If the subdmoain _is_ a TeamSite**
+The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
 
-
-_What team is responsible?_
-- Public Websites, in collaboration with whatever veteran-facing team is requesting the redirect.  Requesting team is responsible for communication with VA stakeholders as needed.
- 
-_Any other notes_
-- Level of difficulty: low if proxy-rewrite is in play; high if not (dependent on VA stakeholders)
-- Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but not currently working.
+If the TeamSite admins are unable to update the site, they may request a client-side redirect,  via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
+- Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but in practice, we have not been able to get it working.
 
 
 ### 6) Other

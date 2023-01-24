@@ -1,25 +1,31 @@
 # On-site notifications roadmap
 
-**Updated April 15, 2022**
+**Last updated: December 6, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications MVP| Auth exp: Connecting FE --> BE; VANotify making updates |
+|On-site notifications V2| On deck; Starting later this year|
 
 ### Projected timelines for current projects
 
-|Project|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022|
-|----|----|----|----|----|----|
-|**On-site notifications MVP: Debt notification**|Samara returns from maternity leave; design; work with VANotify; **unplanned project pause** | Backend build; Project largely on hold due to VANotify team change  | Frontend build; QA, Pre-launch |Launch; Observe analytics| 
-|**On-site notifications: V2 -- scale notifications**| - | - | - |Start explorations after MVP launch| TBD |
+|Project|Q1 2023|Q2 2023|Q3 2023|Q4 2023|
+|----|----|----|----|----|
+|**On-site notifications: V2 -- scale notifications**| Scope project; Begin work | TBD | TBD | TBD |
+
+## Completed projects
+
+|Project|Launch/Completion date|
+|----|----|
+|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/README.md)| Completed October 24, 2022|
 
 
 ## Requests from other teams
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Quick Submit|VANotify| Sept 30, 2022| Bev mentioned that the Quick Submit team is adding a notification for when there is a new message for users to read, and that this might be a good candidate for on-site notifications.|
 
 ## Ideas from our team
 

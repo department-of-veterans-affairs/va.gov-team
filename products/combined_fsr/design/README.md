@@ -8,4 +8,4 @@ Part of this initiative seeks to incorporate usability study findings that concl
 
 ### Related documentation
 
-- Redesigned form flow (Coming soon)
+- [Redesigned form flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/design/user-flows)

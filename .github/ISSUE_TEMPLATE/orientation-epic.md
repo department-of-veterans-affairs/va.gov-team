@@ -2,7 +2,7 @@
 name: Platform Orientation Template
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template [Your name here]
-labels: governance-team, analytics-insights
+labels: analytics-insights, analytics-request, governance-team
 assignees: ''
 
 ---
@@ -17,7 +17,6 @@ Because the VA is a huge organization that serves millions, the Platform it runs
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
 ## How to fill out this ticket
-- [ ] Add your teams github label under Labels
 - [ ] Add your name to the ticket title
 - [ ] Complete the Onboarding Checklist below
 - [ ] Under **Get set up for your practice area,** you only need to complete the items for your role
@@ -46,6 +45,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
 - [ ] Review the guidance on [Submitting a feature request](https://depo-platform-documentation.scrollhelp.site/support/Submitting-a-feature-request.1938915400.html)
 ### Norms and standards
+- [ ] Review guidance on the [Platform Satisfaction Survery](https://depo-platform-documentation.scrollhelp.site/support/platform-satisfaction-survey)
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
 - [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
@@ -53,12 +53,13 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
 
 ### Working on the platform
-- [ ] Review the [Platform Principles](https://vfs.atlassian.net/wiki/spaces/AP/pages/1391853669/Platform+Crew+Principles)
+- [ ] Review the [Platform Principles](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-crew-principles)
 - [ ] Review the [GitHub Markdown Cheatsheet](https://help.github.com/en/categories/writing-on-github) to learn the syntax for formatting documents in GitHub
 - [ ] Review the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
 - [ ] Review the [Web Brand Consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf) documentation
 - [ ] Review the [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) documentation on Platform Website
-- [ ] Review the [Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
+- [ ] Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
+
 
 ### Get set up for your practice area
 #### Designers & Researchers
@@ -90,12 +91,10 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
 
 ### Off-boarding of teammates
-- [ ] Review [process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
+- [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
 
 
 ## Platform Checklist
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
 - [ ] New VFS team member has been added to the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
 - [ ] New VFS team member has been added to the vets.gov-write GitHub team
-
-

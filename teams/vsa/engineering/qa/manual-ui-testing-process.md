@@ -1,26 +1,26 @@
-# PTEMS-QA Manual-UI Testing Process (for Platform Staging Reviews)
+# Shared-Support-QA Manual-UI Testing Process (for Platform Staging Reviews)
 
-PTEMS-QA currently supports manual-ui testing to VA.gov Applications Teams to satisfy [Platform Staging Review][platform-stg-rvw] requirements.  Capacity per team has increased since the previous VSA contract, and PTEMS-QA should soon start providing more support beyond preparing for Staging Reviews, so stay tuned!
+Shared-Support-QA currently supports manual-ui testing to VA.gov Applications Teams to satisfy [Platform Staging Review][platform-stg-rvw] requirements.  Capacity per team has increased since the previous VSA contract, and Shared-Support-QA should soon start providing more support beyond preparing for Staging Reviews, so stay tuned!
 
 ## Who should read this?
 
-- PTEMS-QA Engineers/Testers
-- ALL PTEMS VA.gov Applications team-members [especially Product Managers]
+- Shared-Support-QA Engineers/Testers
+- ALL VA.gov Applications team-members [especially Product Managers]
 
 ## Manual-UI testing on Staging
 
 Both Application-Team & QA will collaborate & coordinate test planning and use-/test-cases development.
 
-Ideally, once QA Test Plan/Cases are mature and Product/Feature is stable/testable on Staging,  PTEMS-QA will handle actual Test Runs.
+Ideally, once QA Test Plan/Cases are mature and Product/Feature is stable/testable on Staging,  Shared-Support-QA will handle actual Test Runs.
 
 ### Important timings
 
-- **At least 2 Sprints (4 weeks) before opening Platform Staging Review request-ticket**: Product Manager (PM) opens [PTEMS-QA Test Plan ticket][ptems-qa-test-plan-tic].
-- **At least 1 Sprint (2 weeks) before scheduling VSP Staging Review meeting**: PM notifies PTEMS-QA to schedule QA test-runs -- Platform requires all artifacts to be ready for review at least 4 workdays before the meeting.
+- **At least 2 Sprints (4 weeks) before opening Platform Staging Review request-ticket**: Product Manager (PM) opens [Shared-Support-QA Test Plan ticket][ptems-qa-test-plan-tic].
+- **At least 1 Sprint (2 weeks) before scheduling VSP Staging Review meeting**: PM notifies Shared-Support-QA to schedule QA test-runs -- Platform requires all artifacts to be ready for review at least 4 workdays before the meeting.
 
 ### Important Application-Team artifacts
 
-These artifacts should be ready before opening PTEMS-QA Test Plan ticket:
+These artifacts should be ready before opening Shared-Support-QA Test Plan ticket:
 
 - **Use Cases**: Product Team should document Use Cases and share with QA, so that Test Cases can be properly developed.
 - **Form-flow diagrams**: For form-based products/features, Product Team should supplement above Use Cases with flow-diagrams.
@@ -31,14 +31,14 @@ These artifacts should be ready before opening PTEMS-QA Test Plan ticket:
 ### Process flow
 
 #### Matrix flowchart
-![PTEMS-QA Manual-UI Testing matrix-flowchart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/images/manual-ui-testing-process-flow.png)
+![Shared-Support-QA Manual-UI Testing matrix-flowchart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/images/manual-ui-testing-process-flow.png)
 
 
 #### Flow steps
 
 The required steps of the Process are as follows:
 
-1. At beginning of Build phase, **minimum 2 sprints (4 weeks) before requesting [Platform Staging Review][platform-stg-rvw]**, **Application-Team PM opens a [PTEMS-QA Test Plan ticket][ptems-qa-test-plan-tic]** to signal/start of test-planning:
+1. At beginning of Build phase, **minimum 2 sprints (4 weeks) before requesting [Platform Staging Review][platform-stg-rvw]**, **Application-Team PM opens a [Shared-Support-QA Test Plan ticket][ptems-qa-test-plan-tic]** to signal/start of test-planning:
     - Add self (PM) to Assignees
     - Add links[^1] to relevant Product/feature docs/tickets:
         - Product/feature Outline
@@ -63,7 +63,7 @@ The required steps of the Process are as follows:
     2. QA executes Test Runs, logs any defects discovered, and generates QA artifacts for Platform-QA reviewer.
     
 1. **PM requests Staging Review**:
-    - Open a Staging Review ticket, requesting the meeting to be scheduled appropriately[^3] for completion of PTEMS-QA test-runs.  Platform-QA requires PTEMS-QA artifacts to be provided at least **4 workdays** before the meeting, in order to have proper QA-feedback prepared.
+    - Open a Staging Review ticket, requesting the meeting to be scheduled appropriately[^3] for completion of Shared-Support-QA test-runs.  Platform-QA requires Shared-Support-QA artifacts to be provided at least **4 workdays** before the meeting, in order to have proper QA-feedback prepared.
 
 1. **QA reports test-results**:
     - Once test runs are completed, QA generates TestRail reports.
@@ -71,7 +71,7 @@ The required steps of the Process are as follows:
 
 [^1]: Links to living documentation are preferred, so that references won't have to be manually updated.
 [^2]: If you have to provide screenshot instead of link, be sure NOT to take one from Staging, which would constitute a "circular" requirement -- validating Staging against Staging -- which would never fail testing.
-[^3]: Basically, the meeting should be 2 weeks from the time you schedule test-runs with PTEMS-QA.  PTEMS-QA needs 3-5 days' lead-time to schedule test-runs, then 1-2 days to execute the test-runs and provide QA-artifacts, then Platform-QA requires 4 days to schedule & conduct its review of the artifacts in prep for the meeting.
+[^3]: Basically, the meeting should be 2 weeks from the time you schedule test-runs with Shared-Support-QA.  Shared-Support-QA needs 3-5 days' lead-time to schedule test-runs, then 1-2 days to execute the test-runs and provide QA-artifacts, then Platform-QA requires 4 days to schedule & conduct its review of the artifacts in prep for the meeting.
 
 -----
 
@@ -80,5 +80,5 @@ The required steps of the Process are as follows:
 - [Manual-UI Testing: Tips & Tricks][manual-tips-tricks]
 
 [platform-stg-rvw]: https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html
-[ptems-qa-test-plan-tic]: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=ptems-qa,ptems-qa-test-plan&template=ptems-qa-test-plan.md&title=%5BProduct%2FFeature%5D+PTEMS-QA+Test+Plan
+[Shared-Support-qa-test-plan-tic]: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=ptems-qa,ptems-qa-test-plan&template=ptems-qa-test-plan.md&title=%5BProduct%2FFeature%5D+PTEMS-QA+Test+Plan
 [manual-tips-tricks]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-testing-tips-tricks.md

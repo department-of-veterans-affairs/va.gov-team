@@ -2,7 +2,7 @@
 name: Sidekiq Admin UI Access Request
 about: For requesting access to the Sidekiq Admin UI
 title: Sidekiq Admin UI Access Request
-labels: Console-Services, sidekiq-access-request
+labels: sidekiq-access-request
 assignees: ericboehs
 
 ---

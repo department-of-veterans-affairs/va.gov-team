@@ -13,9 +13,8 @@ As a clinician, I want to develop Clinical Decision Support Tools that are SMART
 ## About the Team
 ### GitHub/ZenHub/Teams/Jira
 GitHub label = https://github.com/department-of-veterans-affairs/cds-platform 
-ZenHub board - [link to this if/when you have one]
+
 Link to Teams folder if applicable: https://teams.microsoft.com/l/team/19%3acjqbmHEdRLQlaEXYUojKbFA1hLqX01bSYH69TuPA4uM1%40thread.tacv2/conversations?groupId=b025cb2a-8cfd-4073-8ccc-c12532786e2e&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf 
-Link to Jira if applicable: 
 
 
 ### Slack Channels
@@ -25,8 +24,7 @@ Link to Jira if applicable:
 
 ### Team Members
 OCTO-DE/DEPO:
-- Dr. Stefany Y Holguin (VA OCTO, PIF, Product)
-- Varoon Mathur (VA OCTO, PIF, Data)
+- Shane Elliott (VA OCTO)
 
 Program Management:
 - Jeremy Stitz (ThoughtWorks/TW)
@@ -40,26 +38,21 @@ Design & Research:
 Engineering:
 - Phil Herbert (TW, Tech Lead)
 - Filip Fafara (TW, Domain Principal)
-- Frances Henshall (TW, Developer)
-- Ellis Crawford (TW, Developer)
-- Becca Vasil (TW, Developer)
+- Sarah Cnota (TW, Developer)
+- Ashley Gentles (TW, Developer)
+- Daniel Olson (TW, Developer)
+- Mae Duphorne (TW, Developer)
 - Nitheesha Karnati (TW, Quality Analyst)
 
 ### What We're Working On
-•	The CDSP platform team conducted engagements with 11 different teams across the VA and identified three potential use cases for development and/or integration efforts. Those use cases include:
+•	The CDSP platform team conducted engagements with 11 different teams across the VA and identified use cases for development and/or integration efforts. Those use cases include:
 
 o	Virtual Care Manager
-	Pending prioritization and level of effort by team
+	Pending prioritization
 
 o	STORM – Opioid management
-	Exploring UI design work to improve visibility of STORM w/CPRS
-	Determining technical feasibility 
+	In production!
 
-o	Precision Oncology (work being led by Coforma)
-	Exploring problem statement w/key stakeholders, i.e. Dr. Ahmed
-	Determining team bandwidth 
-•	Exploring tighter integration into clinical workflows via CDS hooks, auto event-triggers
-•	Formulating approach for platform design strategy
 
 ### Product Documentation
 - Link to Roadmap

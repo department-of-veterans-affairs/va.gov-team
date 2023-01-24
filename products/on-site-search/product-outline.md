@@ -3,12 +3,11 @@
 
 ## Communications
 - GitHub Label: search
-- Slack channel: [#va-search](https://dsva.slack.com/channels/va-search)
+- Slack channel: [#va-search](https://dsva.slack.com/channels/va-search), or [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 - Product POCs: 
-   - John Hashimoto, DSVA @John Hashimoto
-   - Mickin Sahni, VSA/AdHoc 
+   - Dave Conlon, @davidconlon 
 - Engineering POCs:
-   - Nick Sullivan, VSA/AdHoc @Nick Sullivan
+   - Wes Rowe, Sitewide Public Websites, @wesrowe
 - Search.gov POC: 
    - Arantxa Pipernova (arantxa.recio@gsa.gov)
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
@@ -160,4 +159,4 @@ The search product can be found in the header of dev, staging, and production en
  15. **Download Top Queries:** TBD 
 
 ## Indexing + Relevance
-- [Indexing FAQs](https://search.gov/blog/searchgov-faqs-indexing.html)
+- [Indexing FAQs](https://search.gov/indexing/indexing-with-searchgov.html)

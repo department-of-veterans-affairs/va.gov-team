@@ -1,3 +1,6 @@
+# DEPRECATED
+This doc is retained for history, but has been deprecated in favor of modern info in [Redirect Implementation Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md).
+
 # Redirects Strategy Suggestion
 
 - Owner: Robbie Holmes

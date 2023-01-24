@@ -48,15 +48,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 |------------- |---------|-------|-------------- |
 |Medicare Claim # field | N/A | 100% | TBD|
 
-
-**Key Result #2:** Reduce follow-up requests for additional information
-
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
-
-| Product KPI | 12mo Baseline | Target | Post-Launch |
-|------------- |---------|-------|-------------- |
-|Follow-up requests for Medicare info | TBD|TBD | TBD|
-
 ---
 
 ## Discovery
@@ -97,24 +88,19 @@ Collab Cycle not applicable for this change
 ## Key deliverables
 
 - [Design/Content documentation - Sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/v/dmwVkj/a/ygw2kK8/)
-- Research/Design folder
-- Technical documentation
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
-    - QA Ticket [#]()
-    - Testing documentation - TestRail
-    -  Test/use cases & users
-    - a11y test case documentation ticket [#]()
-- Release plan ticket [#]()
+    - [Test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Medicare%20Claim%20number/Medicare%20Claim%20number%20-%20Use%20Cases.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Medicare%20Claim%20number/Release%20Plan.md)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 
 ### Key Dates
 
 - May 2022: Design work finalized
-- ???? 2022: Development work finalized
-- ???? 2022: Complete QA?
-- ???? 2022: Launched to ???% of users
+- July 2022: Development work finalized
+- July 2022: Complete QA?
+- August 22, 2022: Launched to 25% of users
 
 
 ---
@@ -130,7 +116,8 @@ Collab Cycle not applicable for this change
 
 ### After
 
-TBD
+![image](https://user-images.githubusercontent.com/92328831/190422250-4fa54fa3-7e8b-431b-96f8-645314279c11.png)
+
 ---
 
 #### Communications

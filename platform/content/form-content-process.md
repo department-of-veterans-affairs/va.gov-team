@@ -46,7 +46,7 @@ Content editor begins to create an outline in Github for the form or tool, with 
 - What paper instructions need to appear on the online form? 
 - What form question/labels need a plain-language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through a plain language edit. <br>
-[See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
+[See VA.gov form label masterlist of plain language form fields](https://design.va.gov/content-style-guide/form-labels) 
 - Discuss with designer what content should go on the form Introduction (subway map) page
 - Discuss with designer what content should go on the form Confirmation page
 
@@ -59,7 +59,7 @@ Discuss the entry and exit points for the form/tool. How will users get to it? I
 	
 	
 **CONTENT/DESIGN/DEVELOPER**: 
-Discuss if any specific error messaging need to be written for the form/tool or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
+Discuss if any specific error messaging need to be written for the form/tool or can you pull messaging from our [Error message dictionary](https://design.va.gov/content-style-guide/error-messages/).
 
 
 ## Content review/edit and prototype

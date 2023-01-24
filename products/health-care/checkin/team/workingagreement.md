@@ -18,7 +18,11 @@ Each meeting or synchronous work session should have a purpose, topic, and/or ou
 
 We would like to have as much advance notice as possible for meetings, ideally at least 24 hours.
 
-When determining who to invite to a meeting, we establish volunteer “owners” of each practice area and invite the rest of the team as optional.
+Key decisions made during the sprint should be reviewed during the Sprint Review.
+
+We will try to open meetings to the whole team where possible/practical. When creating a meeting, invite key team members and put the meeting on the team calendar so that interested parties can attend.
+
+<s>When determining who to invite to a meeting, we establish volunteer “owners” of each practice area and invite the rest of the team as optional.</s>
 
 We conduct structured team demos at the end of the sprint, including a brief agenda and review of the sprint goals. We will post our demo recording and materials for others to access.
 

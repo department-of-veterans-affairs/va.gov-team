@@ -20,7 +20,7 @@ As a Veteran I want to _____ so that I can _____.
 
 ## Pilot Tasks
 ### Discovery
-- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints)  
+- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints)
 ### Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)
 - [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
@@ -36,9 +36,9 @@ As a Veteran I want to _____ so that I can _____.
 - [ ] Discovery and reference the VA.gov content style guide
 - [ ] Reference the [Content/IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
 - [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
-- [ ] Engage with the Content/IA team as soon as feasible  
-  - [ ] Present text/verbiage that is beyond the boilerplate language   
-  - [ ] Outline links (hub and spoke), urls, navigation hierarchy, crosslinks/redirects, SEO   
+- [ ] Engage with the Content/IA team as soon as feasible
+  - [ ] Present text/verbiage that is beyond the boilerplate language
+  - [ ] Outline links (hub and spoke), urls, navigation hierarchy, crosslinks/redirects, SEO
   - [ ] Discuss what parts of the site are templated
   - [ ] Solicit feedback from Content/IA Team
   - [ ] Confirm that wayfinding is appropriate
@@ -48,7 +48,7 @@ As a Veteran I want to _____ so that I can _____.
   - [ ] Is the entry point established?
   - [ ] Is there a better entry point?
 - [ ] 508 Compliance
-  - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
+  - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/accessibility/508-checklist-wip.md)
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
 ## Further Tasks
@@ -86,12 +86,12 @@ As a Veteran I want to _____ so that I can _____.
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 ### Testing
-- [ ] Create a test plan from an overall engineering perspective  
-  - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
+- [ ] Create a test plan from an overall engineering perspective
+  - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop
   - [ ] Code coverage requirements
-- [ ] Develop testing infrastructure, refer to established documentation  
+- [ ] Develop testing infrastructure, refer to established documentation
 - [ ] Define threshold or definition of high-severity bugs
-- [ ] Document any high-severity bugs for future reference  
+- [ ] Document any high-severity bugs for future reference
 - [ ] Establish contacts for errors to be reported to
   - [ ] Errors get sent directly to the team
 - [ ] Establish steps to take to move feature into staging
@@ -99,13 +99,13 @@ As a Veteran I want to _____ so that I can _____.
 
 ## Get Ready to Launch
 ### Analytics
-- [ ] Confirm that the new feature/product is stable and visible in staging.va.gov  
-- [ ] Engage with the Analytics Team about what is to be launched  
+- [ ] Confirm that the new feature/product is stable and visible in staging.va.gov
+- [ ] Engage with the Analytics Team about what is to be launched
 
 ### Support
 - [ ] Does the Contact Center have documentation?
 - [ ] Have they asked for anything else?
-- [ ] What else should we say about 
+- [ ] What else should we say about
 
 ### Pre-release
 - [ ] Contact Center is prepared for launch with updated scripts/documentation as needed
@@ -129,8 +129,8 @@ As a Veteran I want to _____ so that I can _____.
 
 ### Post-Mortem
 - [ ] List and define any issues that impeded the process
-- [ ] Create post-launch coordination plan including calls with stakeholders and contact center 
-- [ ] Coordinate with Contact Center to monitor calls 
+- [ ] Create post-launch coordination plan including calls with stakeholders and contact center
+- [ ] Coordinate with Contact Center to monitor calls
 - [ ] Ensure monitoring and resolve issues in 24 hours
 - [ ] Collect and report metrics from Google Analytics
-- [ ] Schedule regression testing 
+- [ ] Schedule regression testing

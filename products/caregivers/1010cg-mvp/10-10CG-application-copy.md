@@ -215,8 +215,21 @@ Primary Family Caregiver’s sex
 ## Step 2 of 5: Primary Family Caregiver applicant information
 
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666483/simulate/sitemap?mode=i)
+[Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/wLzGlyq)
 
 **Contact information**
+
+If the Primary Family Caregiver's address is the same as the Veteran's address, we can fill those fields for you.
+
+**Veteran address**
+
+> Address line 1
+> 
+> Address line 2
+> 
+> Address line 3
+
+[ ] Use the same address as the Veteran *(Checkbox)*
 
 Primary Family Caregiver’s current street address(*Required)
 

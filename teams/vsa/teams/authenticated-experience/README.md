@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated April 27, 2022**
+**Last updated September 23, 2022**
 
 ## Where to find us 
 
@@ -25,7 +25,7 @@
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
-|Mark Dewey| FE Engineer | mark.dewey@gcio.com |
+|John Cater| FE Engineer | john.cater@gcio.com |
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)

@@ -2,7 +2,7 @@
 name: Collab Cycle Feedback
 about: Feedback template for Collaboration Cycle reviewers to provide feedback to
   VFS teams
-title: Practice Area Feedback - Name of Collab Touchpoint - Name of Project
+title: Name of Collab Touchpoint - Practice Area Feedback - Name of Project
 labels: collab-cycle-feedback, collaboration-cycle
 assignees: ''
 
@@ -17,9 +17,7 @@ assignees: ''
 -
 
 ## Feedback
-- **Must** = the feedback must be applied
-- **Should** = the feedback is best practice
-- **Consider** = suggestions/enhancements
+- Practice areas will document their feedback following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback).
 
 **Must:**
 
@@ -30,10 +28,11 @@ assignees: ''
 **Consider:**
 
 ## Platform directions
+- Remove the governance-team label
 - Update "Issue Title"
-- Link to collab cycle touchpoint meeting epic
-- Add to the Feedback pipeline on the Platform Governance team board
+- Link to collab cycle Request epic
 - Add your feedback
+- Remove the CC-Request label (only if you created the ticket using the New Issue link from the Collaboration Cycle Reviews board)
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
   - **Midpoint Review**: VFS PM, yourself (optional)

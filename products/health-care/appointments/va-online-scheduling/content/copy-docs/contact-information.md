@@ -49,13 +49,13 @@ Your email address (*Required)
 
 For requests only (VA & CC), an additional best times input section should be included with the phone number field.
 
-```
-What are the best times for us to call you? (*Required)
-- Morning (8:00 a.m. - noon)
-- Afternoon (noon - 4:00 p.m.)
-- Evening (4:00 p.m. - 8:00 p.m.)
-```
-
+```diff
+- - What are the best times for us to call you? (*Required)
+- - Morning (8:00 a.m. - noon)
+- - Afternoon (noon - 4:00 p.m.)
+- - Evening (4:00 p.m. - 8:00 p.m.)
+@@ GH47728 @@
+@@ GH50990 @@
 ---
 
 ### Error Validation

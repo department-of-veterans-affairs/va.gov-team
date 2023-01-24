@@ -1,7 +1,7 @@
 # Research Plan for Authenticated Experience - Profile, Personal information UAT, April 2022
 
 ## Background
-To mitigate issues around Veterans being addressed improperly at health appointments, our team has added four new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA. 
+To mitigate issues around Veterans being addressed improperly at health appointments, our team has added two new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA. 
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) for more details.
 
@@ -47,7 +47,7 @@ We will be conducting remote, moderated interviews using Zoom. The sessions will
 Remote, via Zoom
 
 ### Research materials
-Conversation guide(link) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
 ## Recruitment	
 Our intended audience for this research are Veterans who are part of the LGTBQ community. We'll use Perigean to recruit them.
@@ -74,7 +74,10 @@ Please recruit 12 participants for 6 completed sessions.
 	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your Personal information will be viewable. (Answer should be yes to qualify)
 
 - Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
-- Must identity as part of the LGBTQ community
+
+**Inclusion:**
+- At least 33% (4) of participants must identify as transgender
+- At least 33% (4) of participants must identify as non-binary or another gender identity other than cis-gender
 - At least 50% of participants must identify as Hispanic, Native American, or Asian
 - 50% of participants should identify as other than male
 - At least 50% of participants should identify as having a cognitive disability
@@ -93,6 +96,7 @@ Please recruit 12 participants for 6 completed sessions.
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
 - 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
+- At least 3 participants with a first language other than English (please note that sessions will be held in English)
 - At least 3 Veterans living abroad (please work with researcher to coordinate time zones)
 - At least 2 Veterans with other than honorable discharge
 - At least 3 Veterans who have an immigrant origin
@@ -105,16 +109,17 @@ Please recruit 12 participants for 6 completed sessions.
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-TBD
+- Finalized with minor updates in progress
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD 
+* Pilot participant email:robin.garrison@adhocteam.us
+	* Please invite adam.whitlock@adhocteam.us as well
 * Date and time of pilot session: 
-  * TBD
+  * 6/6/2022 - 2:30pm EST
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+- 6/8/2022 - 6/14/2022
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -123,20 +128,23 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| ?/??/2022 | 12am - 8pm |	
-| ?/??/2022 | 12am - 8pm |
-| ?/??/2022 | 12am - 8pm |
-| ?/??/2022 | 12am - 8pm |
+| 6/8/2022 | 11:30am - 8pm |	
+| 6/9/2022 | 11:30am - 3pm |
+| 6/10/2022 | 9am - 6:30pm |
+| 6/13/2022 | 11:30am - 8pm |
+| 6/14/2022 | 11:30am - 8pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
-- Moderator: Christina Gednalske, christina.gednalske@adhocteam.us
+- Moderator: 
+	- Christina Gednalske, christina.gednalske@adhocteam.us
+	- Angela Agosto (angela.agosto@adhocteam.us) and Liz Lantz (liz.lantz@adhocteam.us) may moderate sessions before 11:30am EST
 - Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
 - Participant recruiting & screening: Perigean
 - Project point of contact: Christina Gednalske
 - Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Note-takers: Perigean
 - Observers:	
   - samara.strauss@va.gov
   - sharon.kasimow@gcio.com
@@ -144,4 +152,5 @@ Please list the people who will be serving in each role.
   - liz.lantz@adhocteam.us
   - tom.harrison@adhocteam.us
   - mark.dewey@gcio.com
+  - angela.agosto@adhocteam.us
  

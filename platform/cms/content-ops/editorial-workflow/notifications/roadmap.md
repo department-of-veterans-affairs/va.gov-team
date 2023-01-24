@@ -1,4 +1,5 @@
-# CMS Notifications framework
+# Historical documentation of 2020 notifications work
+The notifications framework from 2020 was iterated on in 2022. The Sitewide CMS team revived the work, but did not follow the original scope found in the roadmap below. The following should only be referred to for historical context and not for source of truth for what was implemented in the CMS.
 
 ## Roadmap
 

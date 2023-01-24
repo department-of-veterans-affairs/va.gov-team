@@ -57,7 +57,7 @@ If the user isn't signed in, the info alert appears (Save time—and save your w
 
 ### Subway map 
 
-#### H2 Follow these steps to [apply/file/request]
+#### H2 Follow these steps to get started
 
 ##### 1. Check your eligibility
 
@@ -65,7 +65,7 @@ Make sure you meet our eligibility requirements before you apply.
 
 *[expand/collapse additional information component: label]* What are the [benefit name] eligibility requirements?
 
-##### 2. Prepare
+##### 2. Gather your information
 
 Here's what you'll need to apply:
 
@@ -97,7 +97,7 @@ You don't have to tell us about your income and expenses when you apply. But if 
 
 If you need help to prepare, contact a local Veterans Service Organization (VSO).
 
-##### 3. Apply
+##### 3. Start your [application/request/Supplemental Claim/etc.]
 
 **Note:** Tell the person how long the application will take and that they'll get a confirmation message they can print.*
 
@@ -105,15 +105,19 @@ We’ll take you through each step of the process. It should take about [XX] min
 
 When you submit your application, you’ll get a confirmation message. You can print this message for your records.
 
+*[expand/collapse additional information component: label]* What happens after I apply?
 
 
-H2: **Our review and decision process**
+***Note:** This will vary by product. Examples:*
 
-Our goal for completing a Higher-Level Review is 125 days. A review might take longer if we need to get records or schedule a new exam to correct an error.
+We process health care applications within about a week. We’ll send you a letter in the mail with our decision.
 
+If you don’t receive your decision letter within a week after you apply, please don’t apply again. Call us at 877-222-8387 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
+**or**
 
-Once we’ve processed your claim, you’ll get a notice in the mail with our decision.
+Our goal for completing Supplemental Claims is an average of 125 days (4 to 5 months). We’ll send you a letter in the mail with our decision.
+
 
 BUTTON: 
 **Sign in to start your application**

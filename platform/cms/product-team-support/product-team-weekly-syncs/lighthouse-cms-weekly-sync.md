@@ -3,15 +3,742 @@
 <details><summary>About this meeting</summary>
 
 - Mondays 3-3:30pm ET 
-- Meeting owner: Clarence Maeng
-- Facilitator: Clarence Maeng
+- Meeting owner: David Shannon
+- Facilitator: David Shannon
 - Standing agenda: 
   - Migrations
     - From VAST
     - To Lighthouse
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt
+  - Retiring VBA Facilities db, Making CMS source of truth
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, David Shannon, Jay Darnell.
 
 </details>
+
+## Monday, December 12, 2022 
+* v1 status check
+  * About to lift code freeze
+  * Expanding database to address latency, considering putting in internal metrics to detect in the future
+  * Once code freeze is lifted (targeting this week) hopes to push through pipeline, 
+    * Step 1 - LH tells Facilites to push data - Fac team would refresh PR environment, 
+      Ie right now we only push Covid status.. we open that up and push to staging first, LH then verifies 
+      https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4769
+      Facilites team - David, Jay, CHristian - assess issues that have waiting in the wings .
+    * What else is necessary to get v1 to go live (3 proposals to be discussed)  
+  * 4 or 5 staged groupings of code changes are waiting to go through, once the first one is pushed, have to work with Facilites team to flip the switch to push all the data, LH can handle the date, 
+  * Fac team has all data staged, ready to be pushed
+    * Timing-wise: If not this week, then next year
+* Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+  * Can't discuss with Adam absent - push to 19th
+* Erroneous CLOSE status, where'd it come from?
+  * Swirt confirmed it was never CLOSED in CMS https://dsva.slack.com/archives/C02BTJTDFTN/p1669743015670409 
+* KBs to David, not addressed yet
+* Mental Health - Started discussing and wanted to know next stesps
+  * dive further what we want that to look like? What is SOT
+  * VHADM has responded with explicit legislation citation - David fwd'd to James Costa 
+* Caregive Support Data - investigated internally hosted data file vs CMS data - distinct pattern of differences - is there an issue disinguishing between system data and facility data.
+  * Discuss with Dave C? Do we need JHL and Caregiver Support team members? AI>>DS bring to Dave C
+  *Agree upon SOT
+
+## Monday, November 28, 2022 
+* v1 status check
+  * Joshua - think we've identifed cauuse of latency, working on final post mortem notes, appears to be overall volume increase.
+  * Have a fix in, API has been stable for several weeks
+  * Working to identify addtional monitoring
+  * Ready to start making changes - have 4 or 5 branches ready to add
+  * Once branches are merged over next few weeks, looking at Q1 for v1 roll out  
+* Next week: Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+* Mental health phone numbers
+  * DS pursuing from J's latest report  
+  * Question is out: _What is the legal requirement if any?_
+* ATC data for Specialty Care Urgent vs Primary Care Urgent vs Urgent care??  [slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1664207051125879)
+  * Seems to be a confusing UI text label issue 
+* KB Articles for support AI>>Joshua to provide 1st draft
+  * Joshua provided, DS to review for next week's meeting, chat in Slack as necessary  
+* Support Country Code -> DS to move to Q1 
+  * Joshua put out request for some Country code to be added  
+ 
+
+## Monday, November 21, 2022 
+_No Meeting_
+
+
+## Monday, November 14, 2022 
+* v1 status check
+  * Foucsed on latency investigation, will have some documentation, can provide status, what the issue was, no solidified date for when we can take the next step
+  * When unblocked, will need to re-sync timelines
+  * Two categories:
+    * Several issues are complete, in holding pattern, could be ready to go once we assess any changes of the landscape
+    * Other items require discussion - 3 Slack threads, content model changes 
+      * Discuss CAPS payload proposal https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709 <- waiting to be unblocked 
+* Stale Vet Center data - LH will manage, no Facilities action SORTED/CONFIMRED - staged, ready when unblocked
+  * Long term, intent will be for CMS to own the canonical URL, and the flip of the switch - facility page will be replaced by detail page  - for all facilities 
+  * Will not host the URL file  
+  * Post v1? with v1? 
+  * Had a history of flawed/broken URLs - LH team will still want to validate URLs 
+* Mental health phone numbers
+  * In slack Excel sheet
+  * Archived items remvoed, and removed any item where LH and CMS number was the only nubmer we had and was identical
+  * Now we have a list of services where the editor has added an additional number
+  * 2nd tab - unfiltered list 
+  * AI>>DS to bring to Dave C  
+* Support Country Code
+* KB Articles for support AI>>Joshua to provide 1st draft
+
+
+## Monday, November 7, 2022 
+_NO MEETING _
+
+## Monday, October 31, 2022 :jack_o_lantern:
+_NO MEETING _
+
+
+## Monday, October 24, 2022
+* v1 status check
+   * No change, still on code freeze, investagting latency, what are the criteria to live the freeze?   
+   * What caused latency, how to set up safeguards, where to generate alerst 
+   * After that we should be able to push through v1 changes, batches are waiting, but will take some cycles, can't push all at once
+   * Plan is to push a change, test/asess for a few days, push next change
+* URL Updates - Staleness applies to Vet Centers 
+  * THere are 3 new sites that did not have URLs in API - making ~30 total
+  * Randi notifies that new URLs are ready - been able to get last 4 sets into API 
+  * Are we properly sending people to new Vet Center facility pages?
+  * What is the logic for when FL returns a Facility page vs a Detail page 
+  * https://dsva.slack.com/archives/C0FQSS30V/p1666118561808429
+  * Detail page still exists - Veterans will still get the detail page. 
+* Sandbox data 
+  * Sandbox data will be more synthetic
+  * 1. Sandbox data as Facilities reads from env
+  * 2. What environment - that is not prod - does Facilities use to push?
+  * Facilities can push to an existing sandbox -  need to continue conversation around expanding this? 
+  * We do some of this on occasion - should this be default behavior, should there be another env? 
+  * Make sure that any changes CMS is making - we need and env to assure that any changes to push - are not just done in prod 
+* Supporting a country code - email sent, AI>> Joshua to check 
+* KB articles in support of v1 AI>> Joshua to author draft send to David S 
+* Mental health phone numbers
+  * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
+  * AI>> Jay to filter existing list, remove anything where the results are fields migrated in directly, only want to see the 'non migrated' fields 
+  * AI>> DS to create ticket 
+    * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11338
+  * THEN, Is there a nuance to the delta , for example is one  data source giving and extenstion the other doesn't
+* Once v1 is ready, are we ready to start pushing CAPs - where did we agree on payload - LH team still has to set up new endpoint (simliar to standard CMS pushes), set up data structure to inject whatever we agree upon, then assure that everything is working
+  * LOE - likely be a couple sprints
+  * What cycles can move while in code freeze? 
+  * Is there an optty in next couple mondays to figure out payload? come to concesus
+  * Jay proposed 3 payload discusssions in Slack 
+    * CAPS https://dsva.slack.com/archives/C02BTJTDFTN/p1664391222736709
+    * Cover other 2 if time allows 
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664375519019619
+    * https://dsva.slack.com/archives/C02BTJTDFTN/p1664383503541379 
+
+
+## Monday, October 17, 2022
+Attendees: Roger E, David S, Jay D, Joseph J, Adam. Joshua J
+* v1 status check
+  * Still holding pattern
+  * Were able to remediate the escalated issue "MIM" -> stopped the produciton issue, currently stable.  Still investigating why this occured in the first place.  Have yet to resolve/detrmine underlying issue. 
+* URL Updates - Staleness is only applied to Vet Centers 
+  * Code freeze causes inablity to get in latest URL updates (from Randi?) probably about 30 va.gov URLs that are pointed to old sites rather than new fancy ones.
+  * What woudl it take to find a workaround? 
+  * Either way this needs to be first issue addressed 
+  * It's unclear on who is receiving a URL from LH? or where that is exposed? Need to have a converstaion with Max - waht pain is this pain causing today?
+  * DS>>AI Post to Slack on this issue 
+  * Redircts from Teamsite is a manual process 
+* DS>> AI Add Max to LH meeting 
+* Sandbox data - James and Dave C had a discussion
+  * No updates this past week
+  * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
+  * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
+* Status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * No changes  
+* KB/documentation for editors in support of v1
+  * Josh to provide 1st draft 
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. Is this related to ATC - one of the times brought up was relatd to VAST - this is not Service Data.. perhaps intersted in hosting ATC data ? Actively going back on discuussions on how data flow is looking, want to take next steps to set up meetings to get ATC, LH, Facilites aligned .
+* Supporting country code 
+   * Any update from Josh/James sync?
+   * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
+   * BISL meeting? On todo list
+   * Josh sent an email. JOSH>>AI Needs to respond 
+*  Mental health phone numbers
+   * Jay posted spreadsheet - what's the next step? 
+   * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
+   * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+   * DS>>AI Follow up- find Slack thread? Emails from Elena? Elena is 100% comfortable letting CMS be SoT  
+   * https://dsva.slack.com/archives/C02BTJTDFTN/p1665092143341629
+
+## Monday, October 3, 2022
+* v1 status check
+  * Have not seen the issue since last Thursday. If issue is not seen in prod by end of day Tues the code freeze MAY be lifted. Still trying to identify the root cause.
+  * 
+
+* Sandbox data - James and Dave C had a discussion
+  * No mechanism that can replicate that data into Sandbox. CMS team to map out interactions. Customer and Supplier of data. As a data owner who pushes data/content to you we are not creating, we want to get ahead of the issue. 
+  * Need to have these conversation, but due to the issues they are seeing have not made any traction yet.
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+  * Started SLACK threads on 3 tickets. Distilled it down and started conversation for when we can get staarted on them. 
+* David S met with Josh and Joe - notes below 
+  * Talk to some editors, describe the problem, how would an editor fix this issue. Coordinate with JHL to update facilities. David is looking into this. Will have to see where he is on this when he gets back.
+  * Dave C - Concerned about VAST (they are supposed to get things in early because there are things that have to use that data). Going that route for service information is concerning. 
+* Supporting country code 
+   * Any update from Josh/James sync?
+   * Few meetings held. Dicussed with VAST and they didn't want to go this route. NCA - LH will be looking to incorporate Nation Cemetary, not for state or tribal cemetaries. 
+   * BISL meeting? On todo list
+*  Mental health phone numbers
+   * Report of sites that have more than one phone number. Did this get checked with the numbers from LH? LH has provided the data and we need to crosscheck the LH vs CMS data. Additional Phone Numbers found (multiple) or numbers that are not accounted for need to be highlighted. 
+   * If all of the numbers are there (at facility and service level) looking to replace the SOT with CMS.
+
+
+
+## Monday, September 26, 2022
+* v1 status check
+  * Internal latency on one of the endpoints impacting some consumers of data. Occurs between 2:50 and 3:00 ET Mon-Thur
+  * Escalated - Major Incident Management Team within the VA. Currently LH is in a code freeze until this is figured out.
+  * This will block LH from ingesting additional data from CMS
+  * How much pain would it cause to pause CMS updating FAPI for a period of time?
+  * Jay - looks like maybe a 3-5 pt ticket to add in to our work
+
+* Sandbox data - James and Dave C had a discussion
+* Jay - status of v1 blocked issues: https://dsva.slack.com/archives/C02BTJTDFTN/p1663821995564509
+* David S met with Josh and Joe - notes below 
+  * There is a lot of prep/change managment work around how we will need to prep editors
+  * Where do we expect an editor to look for answers/calif when they see a descrepancy
+  * To what extent do we refactor existing KBs?  
+* Supporting country code 
+   * Any update from Josh/James sync?
+*  Mental health phone numbers
+   * We didnt get to this last week  
+
+## Wed September 21, 2022
+### Documenation / KB meeting - 
+* DS>> AI - Review problem summary/description doc from Josh
+* LH manages taxonomy ID differences by internally mapping
+* Current  mapping, Internal LH Service ID maps to  CMS display name and can map another value to ATC display name 
+ * For instance, If we wanted to break Cardiology in to Cardiololy Level 1 /  Cardiololy Level 2, Would requrie creating a new ID and mapping to this new broken out service 
+ * For example Mental Health
+   * ATC has 3 services mapped to single Mental Health ID - LH is doing the mapping arrangement 
+   * That mapping needs to be coordinated across all sources: CMS, ATC
+ * David shared links of many current KBs in the meeting agenda
+ * From an editor's perspective, if they saw something odd or believed there was a mistake with service info, where would they look (would they search the KB?)
+ * Even in advance of that, how to educate VAMC editors to prepare for v1
+ * 
+                        
+
+## Monday, September 19, 2022
+* v1 deploy
+  * Service ID mapping?
+  * Corrected deficiency - LH can now accept all new services
+  * LH corrected other small isues, temporary 'wipe out' 
+  * v1 been on delay - lost some cycles 
+  * Once sandbox data is pushed, do some vetting, then promote to produciton 
+  * Still a few weeks out from going live 
+* Sync CMS data to sandbox
+  * When v1 goes live, must have larger set to meet needs of all consumers 
+  * Joshua -  architect call this week with LH team, Steve, Jay AI: Joshua to coordinate 
+  * We do know we want a snapshot view of all production data into lower environments 
+  * When Facilites is ready - can we push this one-time snapshot to all lower env?
+  * Local test envs are configured to push to sandbos, Jay can push from his local test - will confirm with Steve
+  * Jay is OOTO Thu Fri 
+  * AI: Jay - circle back, don't think it's a bit lift 
+  * Johsua: Sandbox rate limit is being raised to match production - Joshua to confirm 
+* Review Facilities issues blocked by v1 - where are we ready to pick up?
+  * AI: DS - David and Jay to cowork  aim for Wed - debrief on each issue 
+  * LH - anything from LH team they are waiting on? Overall it's Facilities waiting on LH 
+  * CAPS lat/long -
+  * Then ATC data, they are intersted in CMS data - look into discussing
+    * LH, ATC, CMS, VHADM  - JHL was not a part  Dave C and JHL are co-owners of service taxonomy 
+    * One more meetingw with ATC, then Josh/ATC will pull in Dave C and  JHL - Expectation is ATC will reach out 
+* Supporting country code (Germany, Korea)
+  * VAST will not modify their records 
+  * Josh - very important sooner than later
+  * Does this have to be part of the v1 release 
+  * Review slack thread - 
+  * Regarding non-US facilites - for VHA it's Manilla 
+  * VBA - Dave C added country  code 
+  * What facilites will break the model? Manilla?  Can we manually tweak? a one-off facility coming out of VAST?
+  * Current behavior - country code is being placed into State field
+    * Adam - Manilla is the only site in VAST that is technically out of the country - there are serveral non-US state-located 
+    * Dave C owns VBA datatbase - we can provide data however LH needs it for VBA
+    * Confirm - is the only non-supported outlier Manilla?  
+        * Territories have a 2 character USPS code - in compliance with 
+        * Update documenation to describe field as _US State or Territory_
+    * What about NCA faclities - Adam - we can do an audit
+  * Josh to sync with James - Dave C has meeting Tues afternoon 
+    *  Is it documentation? or modifying structure? 
+* Mental Health
+  * LH phone numbers compared with CDW   
+* CMS article documentation
+  * Meeting Tues 20
+
+
+## Monday, September 12, 2022
+
+* v1 deploy
+  * Lighthouse has deployed the updates necessary to be able to receive non-covid health services to Sandbox.
+  * Jay sent payload on Friday, LH team needs to do some adjustment around the key id value
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662586203419699
+  * Sanity check - sending a service on Friday - revealed that the service id name isn't handled, LH made changes locally, once that is out we will be able to test again
+  * Jay sent 4 services, only one got ingested 
+    * Can LH solve it on their end - start here, Josh hoping this will be implemented tomorrow  _"Audiology and Speech" -> "audiology"_
+    * That ID is the unique key
+    * Jay: Does that identifier map the service to the other sources of other systems
+    * All sources are mapped to ServiceID - LH maps to internal ID 
+    * Display name vs key value for a service 
+    * Aiming for tomorrow-ish to retest 
+    * (If not, will ask Facility team to change )
+  * If all goes well, ready to send to production. 
+  * How much lead time to push to sandbox? Jay will switch if necessary but can hop on it quickly.
+  * How long do we need for production?  Facilities has a modeule in Drupal - big button - "Queue Everything" - quick within 30 mins - as fast as queue processor can work through everything.
+    * Confirmed no impact on content release 
+* Review what Facilities team has as _BLOCKED_ https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9698
+ * Jay's goal to speak intelligently and prioritize for next meeting - what's ready, what needs work  
+* Sync CMS data to sandbox  
+  * Slack convo https://dsva.slack.com/archives/C02BTJTDFTN/p1662738101432099
+  * What problems does current LH approach create? Looks like it won't solve Facility's needs
+  * Joshua - looking to have architect call this week with LH team, Steve, Jay
+  * Talking about making the entire data set synthetic - what lapses does that create? How to understand more deeply?
+  * Taking into account the future of Sandbox data, how it's going to live
+* Mental Health
+  * Dave C generate reports
+    * Crosswalk ATC data and Facilities data - understand what impact might be if we start using ATC as source 
+    * Delivered REAL TIME   
+  * Mutliple phone numbers https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10332
+    * Can LH team deliver report of Mental Health numbers in LH right now. Can crosswalk with what we have in Drupal 
+    * AI: Joshua will own, Mental Health Primary from the Office of Mental Health CDW table 
+* CMS article documentation
+  * CM piece - discuss with JHL - commmunicating impact of v1
+  * LH can begin documenting the reason why there are differences 
+  * Facilities team/CMS team take the  lead on working with editors on how we explain
+  * Opportunity here to discuss how to leverage this into communication with the Field in general (CMO's at each faclity) this is important and here's why
+  * David to get current idea of KB's, set up meeting with LH Josh and Joe - in context of rough draft of what LH would author, and emphisising the WHY.
+
+## Monday, August 29, 2022
+
+* Sync CMS data to sandbox  
+ * Gathering full plan - sandbox data is a representation of production - the only caveat is that we dont have CMS data in Sandbox.. should that data be complete match?
+ * We will deprecate some of that - something like we will have 75%    
+ * Encourage folks to transition off sandbox
+   * Many consumers stay on sandbox and don't switch to production . we want to encourage that.
+   * For CMS/FL needs, could look at production for now - at least for short term.
+* v1 timeline check
+   * Nearing code completion - within a few weeks of go-live
+   * Josh sync with Adam - when to flip the switch for CMS - later this week? or early next week.
+   * Will this occur in next two weeks?  YES! Definitely
+   * Ideally towards the end of this week.   
+   * Next wed? Plan on merging? Latter half of next week. Sep 7th? 
+   * Coordinate when/how to _flip the switch_
+   * What does validation look like after switch? LH will review full data push 
+   * Jay touch base with Steve - any thoughts 
+   * After switch flip, is there a push per facility? Jay - I think we have to resave them? Jay confirm with Swirt 
+   * Adam & Jay perform small test pre-flip - point to sandbox version of LH API? 
+   * Is Faciliies ready - Right now: Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
+     * CLose to PR out today 8/29 
+* Mental Health 
+  * Crosswalk ATC data and Facilities data 
+  * Waiting for Facility ID in reports 
+  * Dave C generates report
+  * Multiple phone numbers - confirmed Sprint 66 
+* VAST - add support for custom hours within CMS
+  * How would we define "Custom Hours"?
+  * Take hours from VAST operational_hours_special_instructions 
+  * At one point does CMS get migration from VAST, then send it to Facilites - should the flow be some data gets routed through CMS first before sending to LH? 
+  * Dave C to have convo with James and Dave M - 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+  * Dave C prefers Jenny take the lead  - poke at trying to resolve
+  * Dave C will assure JHL has email 
+  * Dave C spoke to JHL, JHL to take up with comms person "We dont care who owns it as long as freshest source possible"
+  * If JHL needs anything from LH, happy to help 
+* CMS article documentation
+  * As we approach v1 - how to document in CMS article
+  * Add info around ATC historical data, how it impacts editors to reflect change
+  * Facilty X has a service in both ATC and CMS, if editors deletes from CMS it will remain in ATC until? ?? 
+  * The reason the data is still populating is because it exists in historical data set
+  * Where is the best place to add these details? 
+  * What it the logical place to denote this? 
+  * WHo owns articles? CMS owns them ? 
+  * Where will an editor see the changes, how do we explain to editor? Until FL moves, this is not visible to an editor 
+  * What is the question the editor is going to ask?  WHy is FL showing a service not listed in my product.
+  * CM piece - discuss with JHL -  commmunicating impact of v1 
+  * HOw does an editor know that their change went through? ifthey see a problem, where would an editor go?
+  * LH can begin documenting the reason why there are differences 
+  * Facilities team/CMS team take the  lead on working with editors on how we explain , 
+  * How can we reinforce .. VHA DM, lean into memo 
+  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're now contriubting to Facilites ecosystem and your data will be consumed by FL and other things, take language from LH team and build it into KB
+  * Facility team will let LH team know where this content will live 
+
+
+## Monday, August 22, 2022
+
+* v1 timeline check
+   * End of August. (maybe early Sept)
+   * Lookingn closer to early Sept - LH has some internal investigation - looking at maybe one sprint delay 
+   * Coordinate when/how to _flip the switch_
+   * Only one endpoint, once LH gives thumbs up, swap out logic to execute "Push everything but MH + Caregiver"
+   * Is Faciliies ready - Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
+     * Are we ready to execute when LH gives the thumbs up 
+     * #8019 - PR is out there right now  - Jay would estimate a 3 - Jay is comfortable for a 1 day turnaroudn
+     * Get to this next sprint  - update PR for sprint 66
+* Mental Health 
+  * Crosswalk ATC data and Facilities data - PR expected end of day
+  * Multiple phone numbers - target Sprint 66 
+  * Not burning - we have an existing solution in place.  treat this like smoke, no fire - may not be as high a priority as other issues 
+* Drupal views, including Facility ID - EOD today 8/22
+* VAST - add support for custom hours within CMS
+  * Take hours from VAST operational_hours_special_instructions 
+  * Define Custom Hours - CMS has the capacity to capture commnet field per day, but how does that get back to LH?
+  * LH could support any number of strings - can remap - right now it's  a list    
+  * CMS could send LH a flag?
+  * One option would be Tuesday 9-5:30 - every other tuesday 
+  * At one point does CMS get migration from VAST, then send it to Facilites? Should the flow be some data gets routed through CMS first before sending to LH? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+  * Bringing up to JHL, response to email? Is the CARMA data Veteran-facing or administrative
+  * A lot of those facilities are lower clinics that roll up to larger facility 
+  * We should be getting data about where Veterans can go 
+  * Primarily this list has been used to give to caregivers - they use the LH API to point to the facilities that support services - 
+  * For the CARMA team purposes, this list is correct
+  * Does it matter if a lower facility is on the list, as long as it's staffed? We're all trying to solve the same problem  - connect veteran to care at closest point to them  - we need to find out what that data is.. if it's not granular at the CARMA level, then there's an addtional hop for someone to solve.  Something we could consider - notifcations?  We get info from LH to flag a facility, THIS is where  your caregvie faciilty is, this is the only place it can be unless you talk to CARMA team - Where does the responsiblity for validating occur? Facilites team vs the CARMA - what is the mechanism for reconciliation
+  * Dave C prefers Jenny take the lead  - poke at trying to resolve
+  * Dave C will assure JHL has email 
+We didn't get to last week:
+* Sync CMS data to sandbox
+   * Internal meeting ..results? 
+
+
+
+## Monday, August 15, 2022
+
+* v1 timeline check
+   * End of August. (maybe early Sept)
+   * Code Complete 8/31
+   * Docs have to be aligned intenral and external - 
+   * CMS articles recommendations this week - need to be published in advance
+     * For example: Audiology
+   * Coordinate on when to flip the switch
+     * Confirm - Facilities team has everything staged, ready to send it all 
+     * What needs to happen on Facilites side
+     * Jay - code is in place - right now code says Only Push Covid 'short circuit'
+     * Steve has PR ready to remove the 'short circuit'
+     * Create/Piggyback  PR for not pusing Mental Health 
+     * Longer term do we want to have a flag in CMS: "Push to lighthouse" - Admin setting 
+     * Don't want to impact/break v0
+   * Caregiver support thread: https://dsva.slack.com/archives/C02BTJTDFTN/p1660227230256679
+     * CMS info is coming from the field, assumption is CMS data is more accurate  
+     * Wait for response from CARMA team - don't want to open a can 
+* Mental Health audit / Joshua 
+  *  another specific service we may want to audit and account for at the v1 go-live   
+  *  Is LH safe to consume from CMS? 
+  *  Dave C - set up specific meeting? AI: David S set up meeting this week. 
+  *  Keep mental health data where it is now, but let's make a plan, not as straightforward - how do define problem space 
+  *  Current sources: CMS, CDW, we use ATC for MH service available or not, supplemnt phone numbers from OMHSP   
+  *  Can we assure that CMS is not pushing any MH at go live? LH would prefer a Don't Push 
+* Drupal views/reports show facility ID, place in Stretch this sprint , Jay and Dave C have a chat   
+* Meeting with VAST team/admin
+   * There was an open text field associated with hours, but was removed becuase of abuse
+   * VAST 2.0 is in the works, no timeline
+   * How to get requirements/requests to VAST team as they develop 2.0?
+   * If this happhens it won't be anytimg soon, we need to solve in the short term 
+     * James - wed'd be interested in holding in our API, how do we incorporate? 
+   * There are 2 checkboxes for editors to indicate limited qualification around hours: Nonstandard and Administrative  
+   * Rhonda brought up previous issue: operationalhoursspecialinstructions , sent email
+* For v1 LH will be using CMS for source of naming conventions - Name of Service
+  * Run the risk of naming mismatch
+  * How to get awareness of a service name change, if CMS changes - could result in conflict - could be out of sync for hours based on timing of updates
+  * Some mechanism - AI:David Work with helpdesk to create a runbook Facility Va Service Taxonomy name 
+  * WHen LH reloads, anything ATC has will get mapped to CMS value - 
+  * Patient Friendly Name  vs Machine Name (Service ID) - will use CMS name mapping to Service ID 
+*  Office of performance analytics and integration - Update from meeting with Dave C? 
+* Sync CMS data to sandbox
+   * Internal meeting ..results? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+      
+## Monday, August 8, 2022
+
+* v1 timeline
+   * End of August. (maybe early Sept)
+* In preparation for the Lighthouse migration. vets-api will in future be available via a new URL *platform-api.va.gov. . 
+  * Lighthouse is actively working on moving their API Gateway out of the current AWS environment and they will assume exclusive control over the *api.va.gov URL in the near(ish) future. 
+     * Confirmed: unrelated to this team
+     * PPMS does come through vets API but  that move has already been moved in code.  No action required. 
+Slack convo: https://dsva.slack.com/archives/C0FQSS30V/p1659488479787469
+* FYI: Covid status will be retired / Timeline?
+   * May need to make adjustments to operating status more_info 300 character limit.  
+   * No timeline yet.  
+   * May need to push a null for all facilities to wipe out the existing.
+* Community Access Point/Mapbox Lat-Long update ToS
+   * We have gotten the thumbs up from mapbox that we are allowed to push CAP data from CMS to Facility API. 
+* Meeting scheduled with VAST admins - 8/12 - Thanks for the contact!
+* ATC impact update?
+   * James is leading that conversation on internal VA efforts
+   * Internal questions to ATC have been answered 
+   * Internal contacts are known.  Trying to get them to make changes visible to Lighthouse.
+   * Office of performance analytics and integration promoting discoverablity of Access To Care. 
+      * Need to leverage data to Veterans to help them make decisions.
+* Sync CMS data to sandbox
+   * Internal meeting tomorrow to do for the short time.  Should result in a short term solution/answer.
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+   * Crosswalk that to CMS facilities that do/don't have "Caregiver Support" service declared in the CMS.
+
+
+## Monday, August 1, 2022
+
+* Understanding VAST's model - 
+  * Priority 1 "Open every other Saturday", Longer tail facility hours vs clinical hours, 
+  * VAST contact? usually just a support ticket. Any contac? More on business side. James to look up name. Leonard? Overall, what are some gaps where VAST is not meeting the needs of VHA.  Adam doesn't see other hour fields, he does see "operational hours special instructions"
+* ATC modifications update
+  * Stable at this time, ATC has corrected duplicate issue, all facilities are populating off current data set! YAY!
+  * Have to investigate, (like mental health services, is there benefit to consuming  - rignt now we cosumg "Individual Mental Health")
+  * Impact surrounding Orthopaedics - was supposed to go away, but still exists - need to get more answers, if it is going away, then need to consult other data sources 
+  * Use of ATC data - James and Dave to coordinate 
+* Sync CMS data to sandbox; discuss on Steve's return
+  * LH internal dicussions on desired behavior
+  * Historically sandbox data mirrors production
+  * What's the urgency? Does it need to be production? Can it be dummy data? Does LH want test data to be owned by CMS? If it has to be production, it is undesriable to clone from produciton to sandbox 
+  * The issue that surfaced this is testing FL for Covid Data because sandbox didnt have that data.Facilites team dev could do local push into environmnets
+  * it would be easiest for devs to trust that sandbox data is similar to prod - allows for sufficient testing of edge cases 
+  * Sample data seems to not meet the requirement
+  * Fastest approach , short term, Facility team populates it, even if one time for now. Pushing is time-consuming. Not urgent, can get by now that we know the limitations.  
+  * Joshua to revisit convo, it has been circulating, related to sandbox data with other teams 
+  * current state; Pull data daily from CMS, CMS data only goes to prod, not to sandbox.  As a potential sol'n - pull vs push - Swirt: code that limits push (block non-VHA facilities for Lovell) wouldnt be there to limit pull
+* Flagging data during migration #9848
+* Blocked by V1 #8017 #4769 #4410 #4411
+  * Need to be ready to receive all service data (not just a subset) - Johsua to circle back with Adam - may be close to ready - as part of v1 (not post)
+  * CAPS data - post V1 - The Next Thing - new cap'n endpoint 
+* Retiring VBA Facilites db
+  * "1-year out"
+  * Be aware of the VBA Facilities effort and regularly update in this meeting 
+* Past issues
+  * Mobile facilities previous research:
+ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md
+  * Sync CMS data to sandbox; discuss on Steve's return
+
+
+## Monday, July 25, 2022
+
+* Dave C on leave this week 
+* ATC Changes
+  * Synced up with Dave C
+  * Were previously aware that ATC was making changes, but didnt reallly get advance notice
+  * Had to persist stale data, while handled internal changes, mapped new names .. Service X -> Y
+  * 1 Service deprecated: Orthepaedic care - will not longer get wait data 
+  * Will persist snapshot data - wait times will become stale, BUT - then it seems it was removed and added back? TBD
+  * Have to confirm -Is it going away?
+  * ATC modfied Mental Health broken into 3 services, MH Individual, MH Group, Integrated MH services 
+  * Had to map to original, and each of those have their own wait times...many to one mapping.
+  * For Now: We're keeping MH Individual exclusively - 74 facilites - 
+LH team to determine path here, no longer show it as available, 15 new sites have MH, will wait and see, possibly combine, what do each of these mean? Looking at different options.. Dave C aware and investigating. 
+  * ATC is pulling service info data from both Vista and Cerner - for a couple facilites they are pulling from both.  Not validating on their side.. Getting duplicate payloads, which breaks LH code. We see this in Boise - Primary Care had to throw that service away - what we're aware of now
+ * ATC madness impacted v1 work - still working on providing solid date 
+ * Josh setting up call with ATC, James will push fwd, 1/ get more insight 2/ addressing descrepancies in production data (Orthopaedics for instance)
+* Flagging data during migration - descrepancies - Jay? 9848 
+  * in V1 LH is combining CMS and ATC - Dave C wants to know if a service is being pushed from CMS, and not reflected in ATC  
+
+## Monday, July 18, 2022
+
+* Dave C on leave next week July 25-
+* Estimate of V1 ship date?
+  * No solidified date yet, getting close. We have answers to all q's. Implementing last chagnes.  Data soruces, SOT, logic around moving away from ATC. other items. 
+  * Still targeting an August timeframe 
+  * Need answers from ATC - what's happening to data as it exists today? Hoepfully nothing major. Mapping old names to new names - don't want to risk losing data.
+  * Q: Is that pertinent to v1? We mightn not have wiat times or sat scores? A: Existied as part of v0.  Ie Different wait times for group vs individual. Determining how to get these answers - underlying data is going to change - even in v0. 
+  * LH Please keep us in loop - Dave C personally wants to stay in loop
+* ATC Changes to v0 - monitoring - Facilites team needs to be kept in loop .. implication to FL and VAMC product
+  * Notify us if any changes require support
+* Lovell: CMS team will add 4 DoD facilities directly to Drupal to support Lovell. Our assumption is that these should be pushed to Facility API. 
+  * Asked and answered - Not going into LH API
+  * Not veteran facing facilities. . confirmed in past
+* Overall SSOT truth discussions for VHA data. LH team, Jenny HL, Dave C
+  * Had meeting last week. How to align data sources for near term
+  * how to ultimatley make drupal the SOT 
+  * Decision - if any system says they have the service, then we accept that.  Periodt. 
+  * We'd like to have the ability to leverage flags/notifications to let peopple in field know when there's a descrepancy.    
+  * We want to be able to detect ATC, DST are not aligned with what PAOs are enteiring into our system
+  * PAO - help us align this - Let DST or ATC know this should not be an item, or add it to facility 
+  * Facility team will create some type of migration flag/mnotification as part of migration workflow. CM involved as well that this process will be coming 
+  * James - are we maintaining mulitple sources of truth? From Jenny - going forward we'll always need to refer to DST or ATC. 
+  * Jenny had mentioned concerns aroudn trusting the field for maintaining service invo without some form of backup.. 
+* Can move forward on how data is flagged during migration to address descrepancies 
+* VBA is starting pre-kickoff - Goal to eliminate Sandy's db, source from Drupal
+  * Greenlit: Redoing regional offices and services.  Better undersand ecosystem to create appropriate data structures . .veteran facing and more reusable
+  * Figuring out the players - 
+  * No longer be a flat dB 
+  * To explore: What if facility is also a medical center <- Not MVP, understand problem space - agnostic to who owns facility? 
+  * Docuument and create hierarchical relationship   Parent office and child office, not just admin relationship, but from a VA standpoint - We have the literaly relathionship , butis that important to vet?  We are also trakcing which facilites are co=located with VA facilities? ANticipate using forward lookup of mapbox to better identify overlap. 
+  * Adam: Last time we looked at this - we could see those fields but not avaiable to us in our ETL thru BISL - reach out to BISL ask them to pull those columns 
+  * CAn LH provide contacts at BISL? CM around sunsetting Sandy's dB 
+  * We are currently investigating with mapbox whetehr we have the abilityh to push lat/long to LH becuase of licensing agreement.Is this a blocker? Yes,, for this and for CAPSs
+* Sync CMS data to sandbox. Joshua offline discussion - wait for Steve to return?
+* Mobile facilities - Dave C offline discussion - anything critical? no urgency right now. AI: David S to find research from Leyda
+
+
+## Monday, July 11, 2022
+* Lat/Long info for VetCenter CAPs
+  * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
+  * LH still needs to set up endpoint - similar to other updates, seperate URL ot CAPs
+  * Logic not in place yet, LH team still has work to do to address - plan for POST V1
+  * Some bandwidths within a few sprints?  What's thet deadline?  As Soon As We Can Get It. 
+* For awareness - starting VBA work, which will involve replacing current database with Drupal source of truth. This may be more of a driver than the CAPs.
+  * Do we anticipate VBA data being daily refresh or real-time? We don't know enough yet. Pre-kickoff is happening on Thursday. No site to experiment with yet.
+  * As SSOT moves to Drupal, does BISL still pull ..?  BISL will have to have some change, Right now they're pulling directy from CDW from Sandy's DB?  Does drupal write to CDW directly? What does BISL want to do?  We need to put deprecation strategy in place.
+  * Need to approach this change with BISL. Sandy's "single table" db is going away, data is going to be maintained in drupal 
+  * BISL = Business Intelligence Service Line
+  * V1 is #1 priority, CAPS is #2 = maybe 2 or 3 sprints from now, tickets are spun up.
+* SSOT
+  * Dave C, Jenny HL and Dave M meeting?
+  * Josh discussion with LH team?
+  * ATC relaunching?
+  * Email from James 
+  * Joshua: Topic as a whole - We're going to set up an additional call, LH & Jenny. Needs to be time alloted for Jenny to work with editors to get data up to date. Jenny knows which VISNs to work with. For V1 intent wast to have Drupal data only, at initail launch, ATC, DST, and CMS - if any 3 say this service exists it will be reported.  ATC, DST are historical.  does not represent real time. This will have impact on editors.  If a drupal editor says "we no longer have a service" it can persist up to 30 days.  Will need documentaiton and CM - how best to edit the CMS page, but if it's one of these 19 core services it will take time.  This should be temporary.  On XX date LH will move away from ATC and it will only be CMS data and at that point it will be real time. Then responsibity moves to editor to make change. 
+  * Dave: Is there a way for editors to validate DST the way they can ATC?  "I deleted a service, why is it stil there" - can we instruct, first check with ATC and notify them. They may just say "if there's no appt in 30 days it will go away"
+  * Goal is to clearly identify "it's not CMS issue"
+  * What can we do about DST? Is there a way for folks to determine?  Josh.. not a lot of insight. We only pull 3 services.  We can mimimize if the descrpency is on of these 3 Dentistry, Podiatry, Nutrition, - then it's DST.
+  * We can provide some guidance based on the service. .if it's this service, check here. 
+  * How do we empower editors, give them guidance for why it's stil showing up in FL - can also be contradictory - like Urgent Care wait times for a facility that doesnt offer Urgent care  - why is this not in service accordion 
+  * Josh confirmed: Satisfaction is at facility level, wait time is at service level 
+  * Re: Gillette had the issue, no urgent care but ATC is reporting it as existing and has wait time and satisfaction scores 
+  * https://www.va.gov/sheridan-health-care/locations/gillette-va-clinic/
+editor said:
+There is a "Veteran satisfaction" section on noted web page that only seems to be on one CBOC page... it notes "Urgent Care" wait times. There is no urgent care, how can I remove that section? Thanks
+* We can't get rid of ATC fully, but no longer be a source of service info, but must stil use to get wait times and sat scores 
+
+* Service audit
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406  
+* Sync CMS data to sandbox 
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+  * Joshua - led to larger discussion, wil update us - we don't quite  know yet - have to look 
+* Mobile facilites
+  * Dave C - follow up offline: Email about mobile facilities, get up to speed on research we've done. 
+  * James: Let's lay out among our teams before bringing any proposal.
+  * DAve C to follow up
+* PPMS 
+  * Confirmed:  Not relevant?
+
+
+## Monday, July7, 2022
+*Independence Day* :fireworks:
+
+## Monday, June 27, 2022
+*Last meeting*
+* Adjust facility migrations timing
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+  * Good info shared, in works, planning on kick off CMS migration at 8am
+  * LH grabs everything at 7:30am
+  * SOLVED?* 
+  * In backlog for now 
+
+* Define plan to address LH facility service audit
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406 
+  * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+  * David to expand sheet to list each service 
+  * https://docs.google.com/spreadsheets/d/1_qPlxUgbOfqflklFFsFeFuZVmG3SY8k0/edit#gid=1932035819
+
+Short term, Tryiong to determine what source of truth should be used
+Long term - Make CMS the source of truth
+There are some concerns given the large descepancies 
+Joshua will discuss, what stpes can be taken be editors.
+In short term, use a combination of data, then assess: is the CMS data close enough? 
+
+Dave C, Jenny HL, and Dave M need to get on the same page 
+Josh will get on same page within Lighthouse team, then circle back with Dave C, Dave M, and Jenny 
+A facility says they have a service *says where?*, but no ATC data associated with it, we have no Wait Time or Satisfaction data 
+Specialty Care is no longer a category that should be reflected (it's a catch all)
+ATC team is relauching on 30th/1st, New services? New endpoints? James C and Josh to investigate with some urgency. Discussing with David Jenson 
+
+https://va-atc-dev.azurewebsites.us/
+
+Access to Care /  Decision Search Tool
+We are under scrutiny right now, wait times, satisfaction data. 
+
+*This week*
+ * Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+  * Production and sandbox take care of their data independently, this model has worked until we stated pushing data, since it only comes from production, you don't push data to staging/sandbox 
+  * Each API env is self-contained, outside of CMS, we actilvely pull (from ATC, VAST, CDW) so every day we rebuild the base model
+  * THe only thing that's different, is Drupal Facility data doesnt get pulled, it gets pushed only to production  - so no other env's have the overlay data
+  * Do we set up some back-end feature to occasionaly copy from production to other envs? -or- Facilites team pushes to other endpoints?
+  * Drupal  would push to both Sandbox and Prod ?
+  * Swirt: prob with that, sandbox has really low hit rate, we can only push 60 records/minute
+  * Josh can see if rate limit can be increased.. would it solve?  Maybe
+  * If one fails.  prod receives it sandbox doesnt - is that considered a failure.. are we creating a loophole where data can drift.. .
+  * From data integrity POV, would prefer a pull from Prod to lower envs, even if once a week, to assure any drift is accounted for with a full sync 
+  * James/Adam will consider options - increase limits? is thate easiest overall solution? would be fastest to implement 
+  * Spin up someothing to inviestigate how we would set up data migration.. 
+  * When is a good time to check back?  CHeck back in next 2 weeks . would be dificult to launch V1, if now CMS data is being pushed 
+
+Dave C - follow up offline: Email about mobile facilities, get up to speed on research we've done. 
+James: Let's lay out among our teams before bringing any proposal.
+
+
+## Monday, June 20, 2022
+HOLIDAY - JUNETEENTH
+
+## Monday, June 13, 2022
+*Last week*
+* URL's for mobile sites and domiciliaries. ON HOLD FOR NOW 
+  *  Many mobile sites didn't have a URL, we didn't want to break existing URLs, need to determine what the LH role is here, purge or leave in place?
+  *  Task is on OCTO side - take a look at list. Answer the questions, what is the value of redirects 
+  *  https://dsva.slack.com/archives/C02BTJTDFTN/p1654694809562479
+
+* V1 Rollout update 
+  * What is the source of truth for all service related data, CMS, ATC, DST 
+  * Audit was performed - 300 facilites show a  service in CMS, which ACT and DST dont have
+  * 1042 show service exists in ATC and DST, where CMS shows none 
+  * Note: DST tracks only: nutrition, podiatry and dentisty 
+  * Question: Are they cross listed? A: No not in ATC, which is why we have to get them out of CMS
+  * Next Step: 
+    * ATC lists XX services that are not populated in CMS
+    * Dave C to bring to Jenny H L (VHA) and report back 
+    * VHA has conflicting sources 
+    * Moving to CMS being SSOT 
+    * Regarging CMS not in ATC or DST
+     * Someone has updated CMS regardless of notation in ATC or DTC
+     * Some of this may be related to mobile site. Has there been an apt in last 30 days? if not, we don't provide it 
+     * ATC and DST contains WaitTime , Satisfaction values 
+     * Consider what we should we use today vs where do we ultimately want to move?
+     * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+
+*New issues*
+* Recent outage
+  * CDW Issue? we seem to have lost access. We cannont reload Facility DB because of changes far upstream. 
+  * Anyting being sent into LH, is received and staged but can't update. 
+  * Theory: VSSC has made security changes - revoked our auth? What does this apply to? VAH problem but effects abilty to update anything 
+  * Facility Status should be updated bcuz it's not staged.
+  * We need a layman's explanation - Why is LH not updating in Facilities API. Last update was Friday. 
+  * This impacts Drupal users.
+  * Does LH Team have a plan to communmicate to users? Goal is to fix today, if extends til tomorrow will expect LH to communicate 
+
+* Adjust facility migrations timing
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+  * Good info shared, in works, planning on kick off CMS migration at 8am
+  * LH grabs everything at 7:30am
+  * SOLVED?
+
+* Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+
+* Define plan to address LH facility service audit
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406 
+  * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+  * David to expand sheet to list each service 
+ 
+DS Notes
+Define domiciliary
+FYI In the *About this meeting* header on this page, I changed the owner of this meeting from Clarence to myself. Also I think we should change the Standing Agenda.
+
+
+## Monday, June 6, 2022
+* URL's for mobile sites and domiciliaries.
+  * We will put this on hold until we understand more about them.
+  * Website value for these will become NULL and redirects don't need to be worried about. 
+  * Should we clear out domiciliaries that have a URL? Need to get an audit of the domiciliaries that currently have URLS associated
+* V1 Rollout update
+  * Health Connect (V0 - high priority item) went out.
+  * V1 - Working through backlog. Expect to have readout results ATC vs CMS. Should have these this week. 
+
+## Monday, May 23, 2022
+* Facility Covid Status
+  * Rollout looks successful
+* URL's for mobile sites and domiciliaries.
+  * Will touch on this again next week. 
+* V1 Rollout update
+  * Health connect (V0 - high priority item) went out today. Investigation in progress this sprint. Should be ready for us next sprint.
 
 ## Monday, May 16, 2022
 * Facility Covid Status

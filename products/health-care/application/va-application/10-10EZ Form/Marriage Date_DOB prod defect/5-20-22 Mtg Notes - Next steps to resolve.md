@@ -18,18 +18,19 @@ We have since removed date validation so that applications can be submitted.  We
 
 ### Steps we will take to work toward resolving the defect
 - Change source of condition, to show authenticated user static page, to currentlyLoggedin instead of hasSession - [ticket #41339](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41339)
-- Change source of condition, to show unauthenticated name, dob & ssn pages, to currentlyLoggedin instead of hasSession - ticket created
-- Change source of data, on authenticated static page, to user profile data instead of prefill data.
-- Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data.
-- Do not display dob on static page if profile dob does not have a value
+- Change source of condition, to show unauthenticated name, dob & ssn pages, to currentlyLoggedin instead of hasSession - Same [ticket #41339](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41339)
+- Change source of data, on authenticated static page, to user profile data instead of prefill data. - [ticket #41900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41900)
+- Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data. - [ticket #41901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41901)
+- Do not display dob on static page if profile dob does not have a value - [ticket #41903](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41903)
+     - Name will be the only thing to appear on static page
      - Display date of birth page for user to input
-- Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later." 
+- Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later."  - **NOT NEEDED (discussed during grooming 5/25)**
      - Dene to assist with message
      - We will not stop the applicant from moving past the page or submitting the application
-- Remove validations with dob, provide message on page instead, for the following:
-     - validateServiceDates
-     - validateMarriageDate
-- Make changes on backend to support the above.
-- Confirm users are not experiencing issues around submitting as a result of veteran name, dob and ssn.
-- Close Error on 1010EZ: Marriage Date and Spouse DOB #40039
-- Add logging in google analytics, sentry api and datadog to monitor
+- Remove validations with dob, provide message on page instead, for the following: [ticket #41904](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41904)
+     - validateServiceDates - **WE WILL NOT TOUCH THIS VALIDATION**
+     - validateMarriageDate - **DENE' & LISA WILL WORK ON THIS**
+- Make changes on backend to support the above. - **CHANGES ALREADY MADE**
+- Confirm users are not experiencing issues around submitting as a result of veteran name, dob and ssn. -**NO TICKET NEEDED AT THIS TIME (continue to monitor for errors)**
+- Close Error on 1010EZ: Marriage Date and Spouse DOB [#40039](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40039) - **THIS IS DONE**
+- Add logging in google analytics, sentry api and datadog to monitor - **NO OTHER MONITORING NEEDED**

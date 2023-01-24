@@ -1,0 +1,58 @@
+// Made with https://sequencediagram.org/
+
+title Certificate of Eligibility Form
+
+note over vets-website,vets-api:Vet with LOA3 access logs in to va.gov and goes to\n /housing-assistance/home-loans/request-coe-form-26-1880
+
+vets-website->vets-api: Check vet's COE status\n<align:center>GET /coe/status</align>
+vets-api->LGY:Check whether vet is eligible for a COE\n<align:center>GET /determination</align>
+vets-api<--LGY:<align:center>Status (e.g. ELIGIBLE), reference #,\ndetermination date</align>
+vets-api->LGY:<align:center>Check status of vet's COE application\nGET /application</align>
+vets-api<--LGY:<align:center>HTTP status (e.g. 404, indicating that vet\nhas not submitted a COE application yet),\ncreate date, status (e.g. SUBMITTED)</align>
+vets-website<--vets-api: COE status (e.g. ELIGIBLE), Reference #
+
+alt COE status is not ELIGIBLE or AVAILABLE
+  vets-website->vets-api: <align:center>Download COE application\nGET /v0/coe/download_coe</align>
+  vets-api->LGY:<align:center>Fetch COE application\nGET /documents/coe/file</align>
+  vets-api<--LGY:PDF
+  vets-website<--vets-api: PDF
+end
+
+alt COE status is AVAILABLE, DENIED, PENDING, or PENDING_UPLOAD
+  note over vets-website:Vet can go to COE status page. See "COE Status Page" diagram.
+end
+
+note over vets-website:<align:center>Introduction page CTA dependent on COE status.\nSee Product Guide, pg. 6-12, for other statuses.\n</align>
+
+vets-website->vets-api: Check whether in-progress form exists\n<align:center>GET /v0/in_progress_forms/26-1880</align>
+vets-website<--vets-api:In-progress form data or prefill data
+
+vets-website->vets-api:<align:center>Personal information\nPUT /v0/in_progress_forms/26-1880</align>
+note over vets-api:For this, and subsequent PUTs to this endpoint,\n in-progress form data is saved to DB.
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Contact information\nPUT /v0/in_progress_forms/26-1880</align>
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Service history information\nPUT /v0/in_progress_forms/26-1880</align>
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Loan history information\nPUT /v0/in_progress_forms/26-1880</align>
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Supporting documents\nPOST /v0/claim_attachments</align>
+vets-api->S3:<align:center>Upload documents\n</align>
+note over vets-api:Reference to S3 documents stored in\nDB, as persistent_attachments
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Submit application\nPOST /coe/submit_coe_claim</align>
+note over vets-api: Store copy of COE claim in DB, as saved_claim.
+vets-api->LGY: <align:center>Submit application\nPUT /application</align>
+vets-api<--LGY: Response
+note over vets-api: Associate persistent_attachments to saved_claim.
+note over vets-api:<align:center>Before submitting to LGY, tag attachments as "[ATTACHMENT]s"</align>
+vets-api->LGY:<align:center>Submit attachments\nPOST /document</align>
+vets-api<--LGY:Response
+vets-website<--vets-api:Reference #, claim metadata
+
+note over vets-website: Confirmation page

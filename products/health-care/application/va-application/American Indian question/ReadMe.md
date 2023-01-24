@@ -48,6 +48,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 | Product KPI | 12mo Baseline | Target | Post-Launch |
 |------------- |---------|-------|-------------- |
 |Application Submissions | 14% (114k)  | 16% | TBD|
+|30 days post launch | --- | 8% (11,292/10,470) | --- |
 
 
 ---
@@ -66,6 +67,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - The positive impacts to the organization will be an increase in completed applications with those identifying as American Indian/Alaska Native
+  - Risk of VA Stakeholder change requests to final design
 
 
 ### Solution Summary
@@ -82,15 +84,12 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - [American Indian Epic #28973](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/28973)
 - Kickoff ticket [#32765](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/32765)
 - Design Intent ticket [#34581](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/34581)
-- Content ticket [#]()
-- Midpoint ticket [#]()
 - Contact Center guide ticket [#33525](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/33525)
 - Analytics ticket [#33528](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/33528)
-- Staging ticket [#]()
-- Privacy & Security ticket [#]()
+- No other tickets were needed
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions
+- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions.  There are no changes to the form's performance, architecture, API enpoints or security.
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
@@ -111,11 +110,12 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 
 ### Key Dates
-
+**Note**: Most design and development work was completed in 2021, but the feature was placed on hold with a dependency on the Enrollment system to support the new data.  The team was given the green light to move forward and release in August along with the paper form.
 - May 2022: Design work finalized
-- ???? 2022: Development work finalized
-- ???? 2022: Complete QA?
-- ???? 2022: Launched to ???% of users
+- July 2022: Development work finalized
+- August 2022: Complete QA
+- September 26, 2022: Launched to 25% of users
+- September 29, 2022: Launched to 50% of users
 
 
 ---

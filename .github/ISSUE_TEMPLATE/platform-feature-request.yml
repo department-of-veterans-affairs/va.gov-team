@@ -4,7 +4,10 @@ title: "[Feature request name]:"
 labels:
   - "platform-feature-request"
 assignees:
-  - jonathanjnelson 
+  - steel36 
+  - tayism   
+  - twoangstroms 
+  - gopixelsgo 
 body:
   - type: markdown
     attributes:

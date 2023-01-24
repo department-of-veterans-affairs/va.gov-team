@@ -1,0 +1,69 @@
+name: Application onboarding or promotion
+
+on:
+  issues:
+    types: 
+      - opened
+
+jobs:
+  onboard-or-promote:
+    runs-on: ubuntu-latest
+    name: Onboard or promote application
+    if: ${{ github.event.issue.assignee.login == 'va-vsp-bot' }}
+    outputs:
+      application_name: ${{ steps.get_app_name.outputs.application_name }}
+      application_environment: ${{ steps.get_app_environment.outputs.application_environment }}
+      maintainer_github_user: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
+      task: ${{ steps.get_task.outputs.task }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Onboard application
+        if: contains(github.event.issue.title, 'Application to Onboard')
+        run: echo "template-path=.github/ISSUE_TEMPLATE/application-onboarding.yml" >> $GITHUB_ENV
+
+      - name: Promote application
+        if: contains(github.event.issue.title, 'Application to Promote')
+        run: echo "template-path=.github/ISSUE_TEMPLATE/application-promotion.yml" >> $GITHUB_ENV
+        
+      - name: Get form data
+        uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: ${{ env.template-path }}
+
+      - name: Capture application name
+        id: get_app_name
+        run: |
+          application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.appname')
+          echo "::set-output name=application_name::$(echo ${application_name})"
+
+      - name: Capture environment
+        id: get_app_environment
+        run: |
+          application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
+          echo "::set-output name=application_environment::$(echo ${application_environment})"
+  
+      - name: Capture maintainer
+        id: get_maintainer
+        run: |
+          maintainer_github_user=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
+          echo "::set-output name=maintainer_github_user::$(echo ${maintainer_github_user})"
+      
+      - name: Capture task
+        id: get_task
+        run: |
+          if [ "${{ steps.get_app_environment.outputs.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
+          echo "::set-output name=task::$(echo ${task})"
+
+  call-automation-onboard-or-promote-workflow:
+    needs: onboard-or-promote
+    uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
+    with:
+      application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
+      application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
+      maintainer_github_user: ${{ needs.onboard-or-promote.outputs.maintainer_github_user }}
+      task: ${{ needs.onboard-or-promote.outputs.task }}
+    secrets: inherit

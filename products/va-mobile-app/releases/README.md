@@ -264,7 +264,7 @@ Owner: Product Management
 <p>
 - Product: Create Pull Request for What's new Content
 <p>
-- VA - Approve Pull Request for What's New Content [Assign Travis as approver]
+- VA - Approve Pull Request for What's New Content
 <p>
 - VA - Add comment/approve vX.XX.O after Pull Request has been merged and release is approved
 <p>
@@ -317,7 +317,7 @@ Owner:  Product Management to coordinate with engineering and QA
   <p> 
   Product:  Sign off when high level validation is complete, QA has completed sign off complete, and release checklist tasks completed
   <p>
-  VA POs:  Sign off when notification from PMbthat ticket is ready for sign off, PR updates are approved (what's new content, app image & content updates, etc), and ok to move forward with the release. 
+  VA POs:  Sign off when notification from PM that ticket is ready for sign off, PR updates are approved (what's new content, app image & content updates, etc), and ok to move forward with the release. 
    </td>
   </tr>
 </table>
@@ -355,7 +355,7 @@ Who: Engineering,
 
 <li>Update release-summary.md with release highlights
 
-<li>Check DSVA slack channel #va-mobile-build-alerts to confirm release success.  If failures check in with engineering 
+<li>Check DSVA slack channel #va-mobile-app to confirm release success.  If failures check in with engineering 
 
 <li>Screenshot and send release report to Program Manager
 
@@ -373,7 +373,7 @@ Who: Engineering,
    <td>
 <ul>
 
-<li>Monitoring:  To monitor successful build or failures; check DSVA slack channel #va-mobile-build-alerts on the DSVA 
+<li>Monitoring:  To monitor successful build or failures; check DSVA slack channel #va-mobile-app on the DSVA 
 
 <li> If the build fails, engineering will release manually	
 </li>

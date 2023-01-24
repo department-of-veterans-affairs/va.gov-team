@@ -1,8 +1,8 @@
-# Future 10-10CG UI/UX for Submission Errors
+# 10-10CG UI/UX for Submission Errors
 Please see issue [#21214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21214) for additional context.
 
 ## Summary of changes
-We'll have three errors states that a user can experience when submitting an online 10-10CG:
+We have three errors states that a user can experience when submitting an online 10-10CG:
 - [Review and Submit > Data-Error](#review-and-submit--data-error)
 - [Review and Submit > Generic Error > Without Retry](#review-and-submit--generic-error--without-retry)
 - [Review and Submit > Generic Error > With Retry](#review-and-submit--generic-error--with-retry)

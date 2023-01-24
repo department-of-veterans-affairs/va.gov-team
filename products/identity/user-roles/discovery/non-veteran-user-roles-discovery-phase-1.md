@@ -30,8 +30,8 @@ Track down any existing research and personas about non-Veterans that can inform
 
 1.1 The high-level understanding of non-Veteran user roles we discussed in planning is generally correct. These are the roles identified in the documents we found:
 
-- Dependents  
-  - can include children, parents, parent in-law, siblings, etc. 
+- Dependents
+  - can include children, parents, parent in-law, siblings, etc.
   - It appears to intersect with dependents for tax purposes
   - Cemetery benefits specifically call out "adult children, in some cases", which may be different than a dependent.
 - Spouses, current and former
@@ -41,7 +41,7 @@ Track down any existing research and personas about non-Veterans that can inform
   - Parents
   - Designated family members (NCA)
 - Caregivers
-- People who do work on behalf of Veterans 
+- People who do work on behalf of Veterans
   - VSOs
   - Fiduciaries
   - Clinicians and health professionals (it is unlikely they'd need to login to VA.gov)
@@ -51,13 +51,13 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 It appears that [the definitions and eligibility criteria for surviving spouses, children, and parents on va.gov](https://www.va.gov/disability/dependency-indemnity-compensation/) are clear.
 
-1.2  There are some existing persona documents that include non-Veteran roles, primarily for Caregivers and Survivors (see resources below).  
+1.2  There are some existing persona documents that include non-Veteran roles, primarily for Caregivers and Survivors (see resources below).
 
 The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNoxXB3SvtFz8B1Nvz6pG/view?usp=sharing) document identified "Knowledgable Buddy" and "Family Member" as personas, and specifically called out that a Family Member needs "role based access to data and records that may need to be shared."
 
 1.3 The [people who worked on the persona documents](https://app.mural.co/t/vsa8243/m/vsa8243/1633525573365/eeb43d10e07a7754128e175176c43bc00b43a883?wid=1-1634084927441) could be SMEs that can help us understand how roles are defined within each administration
 
-1.4 The Digital Health Modernization team [conducted research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#insight-3-veterans-and-caregivers-dont-go-to-vagov-to-do-health-tasks) that identified the need to make user delegation simple. Their research shows that caregivers currently have challenges completing health tasks on VA.gov, and experience friction trying to complete them on MHV. 
+1.4 The Digital Health Modernization team [conducted research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#insight-3-veterans-and-caregivers-dont-go-to-vagov-to-do-health-tasks) that identified the need to make user delegation simple. Their research shows that caregivers currently have challenges completing health tasks on VA.gov, and experience friction trying to complete them on MHV.
 
 - Participants were familiar with MHV and know it, so they start there instead of VA.gov.
 
@@ -69,7 +69,7 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 
   - >“If there is a way to create a separate login with the same permissions without making you feel like you’re the parent logging into the kid’s computer. That’s sometimes how I feel.” – Caregiver (P1-C)
 
-1.5 The eBenefits migration team has recently done [discovery work related to Stakeholder Enterprise System (SEP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/SEP), which could be valuable in understanding existing tasks and painpoints for VSOs, private attorneys, and VA accredited agents.
+1.5 The eBenefits migration team has recently done [discovery work related to Stakeholder Enterprise System (SEP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/SEP), which could be valuable in understanding existing tasks and painpoints for VSOs, private attorneys, and VA accredited agents.
 
 ### 2. Learn what roles exist for eBenefits
 
@@ -119,7 +119,7 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 - CHAMPVA Beneficiary
 - Caregiver
   - Could be a self-identified caregiver, or someone who is recognized by VA through the Caregiver Program
-- Other 
+- Other
   - No further explanation required
 
 3.2 Once the MHV registration form is submitted, the self-selected roles are checked against two databases: Identity and Access Management (IAM), and Master Person Index (MPI).
@@ -134,11 +134,11 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 - If a non-Veteran user is enrolled with a medical center (MPI returns this data), the user will be prompted for health care functionality. An example of a non-Veteran user who is enrolled with a medical center could be a VA employee who had a physical exam completed at a VA Medical Center (VAMC).
 - CHAMPVA beneficiaries will have access only to prescription related health functionality.
 
-3.4 MHV also supports a `delegate` user role, which is independent of the user roles in the MHV profile. A delegate role is assigned to a user once they've completed a process initiated by the Veteran. The process can be completed in-person at a VAMC, or online via the Veteran Online Delegate Tool (VAODT).   A delegate does not need to be a dependent, an official VA Caregiver, or have any other relationship with the VA other than they've been identified by their Veteran to serve as a delegate.  
+3.4 MHV also supports a `delegate` user role, which is independent of the user roles in the MHV profile. A delegate role is assigned to a user once they've completed a process initiated by the Veteran. The process can be completed in-person at a VAMC, or online via the Veteran Online Delegate Tool (VAODT).   A delegate does not need to be a dependent, an official VA Caregiver, or have any other relationship with the VA other than they've been identified by their Veteran to serve as a delegate.
 
-One a person is designated as a delegate, that role is stored in MPI. 
+One a person is designated as a delegate, that role is stored in MPI.
 
-A delegate has a premium level MHV account, and one of two levels of access to MHV functionality on behalf of the Veteran.  If the delegate is also a Veteran, they're able to switch between their delegate and Veteran role with a single login. 
+A delegate has a premium level MHV account, and one of two levels of access to MHV functionality on behalf of the Veteran.  If the delegate is also a Veteran, they're able to switch between their delegate and Veteran role with a single login.
 
 With View/Print access, a delegate can view/print:
 
@@ -154,7 +154,7 @@ With Full access, a delegate can do all of the above, as well as:
 - Manage self-reported Veteran information regarding medication, supplements, and health journals
 - Write and respond to Secure Messages
 
-3.5 Coordinators and help desk staff use the role values in the MHV user profile to better understand the person they're trying to help. 
+3.5 Coordinators and help desk staff use the role values in the MHV user profile to better understand the person they're trying to help.
 
 ### 4. Scope the list of user roles to a manageable list we would actually build on VA.gov
 
@@ -166,8 +166,8 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 4.1 A high level list of user roles could be:
 
-- Beneficiaries 
-  - anyone who is not a Veteran that is eligible to receive benefits from VA 
+- Beneficiaries
+  - anyone who is not a Veteran that is eligible to receive benefits from VA
   - Includes children, spouses, and parents
 - Caregivers
   - VA recognized caregivers, participating in the Caregiver program
@@ -211,12 +211,12 @@ Identified SMEs for VBA and VHA and scheduled interviews ([documented here](http
 - [Lighthouse VSO appeals research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
 - [eBenefits Adding or Removing Dependents associated with Disability Compensation Basic Product Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md)
 - [eBenefits current UI dependent types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md)
-- [SEP Design Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/SEP), October 2021
+- [SEP Design Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/SEP), October 2021
 
 #### NCA
 
 - [Eligibility criteria for DIC benefits for children, parents, and spouses](https://www.va.gov/disability/dependency-indemnity-compensation/)
-- 
+-
 
 #### **Not specific to an administration **
 
@@ -229,7 +229,7 @@ Identified SMEs for VBA and VHA and scheduled interviews ([documented here](http
 
 ### Goals related to Non-Veterans
 
-- [eBenefits view and modify dependents user stores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/teams/vsa/teams/ebenefits/features/view-update-dependents/user-stories.md)
+- [eBenefits view and modify dependents user stores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/user-stories.md)
 
 ### Documentation examples
 

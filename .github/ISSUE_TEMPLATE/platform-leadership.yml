@@ -1,23 +1,29 @@
 name: Platform Leadership
 description: Issues that are being handled by Platform Leadership team.
-labels: ["platform-leads"]
+labels: ["platform-leadership"]
 body:
   - type: textarea
     id: description
+    validations:
+      required: true
     attributes:
       label: Description
       description: Please describe the issue.
       placeholder: Tell us what the issue is!
-      value: "Let's do a thing!"
+  - type: textarea
+    id: ac
     validations:
       required: true
-  - type: markdown
     attributes:
+      label: Acceptance Criteria
+      description: How do we know when this goal is complete?
       value: |
-        - [ ] X has been added to Y
-        - [ ] Z has been deleted
+         - [ ] Feature A has been deployed in production
+         - [ ] Documentation has been updated in Confluence      value: "Let's do a thing!"
   - type: checkboxes
     id: subjects
+    validations:
+      required: true
     attributes:
       label: Subject Areas
       description: What subject areas apply to this issue?
@@ -26,4 +32,5 @@ body:
         - label: Design
         - label: Engineering
         - label: OCTO-DE
-          required: true
+
+

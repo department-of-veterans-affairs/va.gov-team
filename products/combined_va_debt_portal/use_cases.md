@@ -1,8 +1,6 @@
-> _DRAFT: Will be updated soon!_
-
 # Combined VA Debt Portal - Use Cases
 
-**Last updated:** TBD
+**Last updated:** 5/31/2022
 
 **Description:** Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline.
@@ -25,55 +23,103 @@ searches and gets no results.", etc.
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
   
-- [Use Case A - TBD](#use-case-a---TBD)
-- [Use Case B - TBD](#use-case-b---TBD)
-- [Use Case C - TBD](#use-case-c---TBD)
-- [Use Case D - TBD](#use-case-d---TBD)
+- [Use Case A - Veteran only has a debt](#use-case-a----veteran-only-has-a-debt)
+- [Use Case B - Veteran only has a copay bill](#use-case-b---veteran-only-has-a-copay-bill)
+- [Use Case C - Veteran has neither a copay bill nor a debt](#use-case-c---veteran-has-neither-a-copay-bill-nor-debt)
+- [Use Case D - Veteran is not enrolled in healthcare](#use-case-d---veteran-is-not-enrolled-in-healthcare)
+- [Use Case E - Veteran has both a copay bill and debt](#use-case-e---veteran-has-both-a-copay-bill-and-debt)
+- [Notes - Additional error states, 404s, and variations](#notes)
 
 </details>
 
-## Use Case A -  TBD
+## Use Case A -  Veteran only has debts
 
--- **Description:** TBD
-
-- **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
-	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-
-- **Link to designs**
-  - TBD
-
-## Use Case B - TBD
-- **Description:** TBD
+- **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- login via user `vets.gov.user+228@gmail.com` (Colder)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Click 'Check the status and resolve your debt' link under 'Debt and bill overview' section
+
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492808/simulate/no-panels?mode=i)
+  - [Debt details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148546854/simulate/no-panels?mode=i)
 
-
-## Use Case C - TBD
-
-- **Description:** TBD
+## Use Case B - Veteran only has a copay bill
+- **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+80@gmail.com` (Oscar)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Click 'Check your balance and resolve your bill' link under 'Debt and bill overview' section
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492807/simulate/no-panels?mode=i)
+  - [Copay details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/no-panels?mode=i)
 
 
-## Use Case D - TBD
+## Use Case C - Veteran has neither a copay bill nor debt
 
-- **Description:** TBD
+- **Description:** Veteran is just curious to see if they have any active VA debts or copay bills.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+56@gmail.com` (Shirley)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging to view combined portal
+	- Navigate to the [Debt Details](https://staging.va.gov/manage-debt-and-bills/summary/debt-balances) on staging to view debt details page with alert
+	- Navigate to the [Copay Details](https://staging.va.gov/manage-debt-and-bills/summary/copay-balances) on staging to view copay details page with alert
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/no-panels?mode=i)
+  - [Debt details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149534493/simulate/no-panels?mode=i)
+  - [Copay details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149285598/simulate/no-panels?mode=i)
 
+
+## Use Case D - Veteran is not enrolled in healthcare
+
+- **Description:** Veteran is not enrolled in healthcare.
+
+- **Instructions to access in Staging** 
+	- `vets.gov.user+3@gmail.com` (Kenneth)
+	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+
+- **Link to designs**
+**Note:** The design linked pertains to the Medical Copay Tool's MVP. The alert should remain the same within the combined debt portal.
+  - [Overview page](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468871/simulate/no-panels?mode=i)
+
+## Use Case E - Veteran has both a copay bill and debt
+
+- **Description:** Veteran has both a VA debt and a medical copay they would like to view and manage.
+
+- **Instructions to access in Staging** 
+	- `vets.gov.user+81@gmail.com` ("Travis")
+	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+
+- **Link to designs**
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i)
+
+
+### Notes
+
+- We also have error states for:
+	- VHA 404's 
+		- [Debt and Bills Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503316/specification/sitemap?mode=i)
+		- [Debt list page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376498/specification/sitemap?mode=i)
+		- [Copay balance list](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423132/specification/sitemap?mode=i)
+	- VBA 404's
+		- [Debt and Bills Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503317/simulate/sitemap?mode=i)
+		- [Debt list page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376499/simulate/sitemap?mode=i)
+		- [Copay balance list](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423131/simulate/sitemap?mode=i)
+- And empty states as well:
+	- [Empty State: no debts or bills](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/sitemap?mode=i)
+	- [Empty state: copays, but no debts](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492807/simulate/sitemap?mode=i)
+	- [Empty state: debts, but no copays](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492808/simulate/sitemap?mode=i) 
+
+- There are content difference between one facility or multiple facilities when it comes to medical copays, so just something to keep an eye out for:
+	- [1 facility](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524983/simulate/sitemap?mode=i)
+	- [Multiple facilities](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/sitemap?mode=i)

@@ -1,0 +1,1 @@
+[Go to the 2020 Vaccine Scheduling Interviews in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2020-12-vaccine-scheduling-interviews)

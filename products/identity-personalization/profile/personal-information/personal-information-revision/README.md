@@ -1,36 +1,48 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: May 5, 2022 
+Last updated: October 12, 2022 
 
-### Communications
+## Table of Contents
 
-- **Github labels**: vsa-authenticated-exp
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-
-### Roles
-
-#### OCTO team
-
-[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
-
-#### Stakeholders
-
-|Name|Role|Email|
-|----|----|-----|
-|Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
-|Laurie Baker | VBA partner | laurie.baker@va.gov |
-|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
-|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
-
-### Table of Contents
-
+- [POCs](#pocs)
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
+- [User Problem Statements](#user-problem-statements)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Solution Approach](#solution-approach)
 - [Design](#design)
+
+## POCs
+
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+### OCTO team
+
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+### VA Profile
+
+|Name|Role|Email|
+|----|----|-----|
+|Barbie Flowers| IT Product Manager – VA Profile|barbara.flowers3@va.gov|
+|Mike Richard| VA Profile PM | Michael.Richard2@va.gov|
+|Josh Lindsey | VA Profile lead engineer| Joshua.Lindsey@va.gov|
+
+### LGBTQ health services
+
+|Name|Role|Email|
+|----|----|-----|
+|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
+|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
+
+### VEO
+
+|Name|Role|Email|
+|----|----|-----|
+|Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
+|Laurie Baker | VBA partner | laurie.baker@va.gov |
 
 ## Overview
 
@@ -38,7 +50,7 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 **Note**: As of March 2022, it has been determined that we will only be adding preferred name and gender identity to start, as they are already approved for data collection via the 10-10EZ health care application. Pronouns and sexual orientation, however, are not approved as part of any VA forms and need to go through PRA approval before we can add them to VA.gov. The current plan is for the health care folks to get pronouns and sexual orientation added to the 10-10EZ, at which point we can add these fields to VA.gov.
 
-## Problem Statement
+## User problem statements
 
 - As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that the VA has accurate information for me.
 - As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that I am addressed accurately in my business with the VA.
@@ -67,33 +79,42 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 ## Measuring success
 
+[Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/_u.date00=20220615&_u.date01=20220714/)
+
 ### Objective: Allow people to more accurately define themselves within the VA.
 
 **KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
-|Field name|Updates in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
-|----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
+**Assessment**: KPI partially met. We exceeded expectations for gender identity, and had many fewer updates for preferred name. We can use these metrics as a baseline for expected behavior going forward.
 
-**KPI**: We see at least a 95% success rate for retrieving this information from the backend.
-
-|Field name|% of successful retrievals in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|Updates in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
+|Preferred name|6,384|6,598|6,386|
+|Gender identity|12,248|12,770|12,436|
+
+**KPI**: We see at least a 95% success rate for retrieving and saving this information from the backend.
+
+**Assessment**: Goal met.
+
+|Field name|Success rate in first month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
+|----------|------------|------------|------------|
+|Retrieval rate for preferred name & gender identity|98%|98%|98%|
+|Save rate for preferred name|99%|99%|99%|
+|Save rate for gender identity|99%|98%|99%|
 
 
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
 
 [Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 
-|Field name| Average monthly updates (total events) between Oct - Dec 2021 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
+**Assessment**: While there were fluctuations, we didn't see significant and consistent drops over time to contact information, so it does not appear that Contact Information took a hit by moving to a different URL.
+
+|Field name| Monthly updates 1 month pre-launch (5/15/22 - 6/14/22) | First month after launch to 100% (6/27/22 - 7/26/22)| Second month after launch (7/27 -/22 - 8/26/22)| Third month after launch (8/26/22 - 9/26/22)|
 |----------|------------|------------|------------|------------|
-|Mailing address | ~28,500 updates | | | |
-|Home address | ~28,500 updates | | | |
-|Mobile phone | ~14,000 updates | | | |
-|Email address |~15,500 updates | | | |
+|Mailing address|29,950|29,168|32,204|28,038|
+|Home address|30,000|27,990|31,145|28,067|
+|Mobile phone|14,616|13,256|15,023|14,376|
+|Email address|14,497|11,850|13,466|12,437|
 
 ## Solution approach
 
@@ -112,7 +133,10 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - February 2022: Backend development begins; Continued delays and back and forth between MPI and VA Profile, though VA Profile remains the backend supporting this work.
 - March 2022: PRA determination made that we need approvals for pronouns and sexual orientation before we can continue with adding them to VA.gov; Still moving forward with preferred name and gender identity; Final design updates; Continued FE and BE build
 - April 2022: Wrapping up backend integration; Integrating the frontend with the backend.
-- May 2022: QA; 
+- May 2022: QA
+- June 15, 2022: Launch to 25%
+- June 21, 2022: Launch to 50%
+- June 27, 2022: Launch to 100%
 
 ## Design
 
@@ -123,3 +147,5 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 ### After
 
 - [Personal information design files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+
+![New Personal Information section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/images/Personal%20information_1.jpeg)

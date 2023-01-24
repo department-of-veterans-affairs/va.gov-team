@@ -1,0 +1,71 @@
+title Check in with Travel Pay A
+
+bottomparticipants
+
+actor Veteran
+
+participant Vets Website
+participant Vets API
+participant CHIP
+participant LoROTA
+participant Queueing Service
+participant VEIS
+participant BTSSS
+
+
+entryspacing 0.7
+Veteran ->Vets Website:  veteran clicks \n shortened URL
+box over Vets Website: Veteran Authenticates
+Vets Website ->Vets API: GET check-in data
+Vets API -> CHIP: refresh appt data
+Vets API->LoROTA: Get Latest Data
+box over Vets API#lightgreen: Stores ICN in Reddis(?)
+Vets Website <-Vets API: Returns apt + demo data
+
+destroysilent CHIP
+destroysilent LoROTA
+box over Vets Website: Veteran goes through Demograhics
+
+abox over Vets Website#lightgreen: Is Travel Pay Enabled for this experience
+abox over Vets Website#lightgreen: Is Travel Pay enabled for this clinic
+group #lightgreen if enabled 
+box over Vets Website: Shows page that does a thing, record answer
+box over Vets Website: Shows page that does a thing, record answer
+Vets Website ->Vets API: POST /travel_pay
+Vets API <->Queueing Service: Adds {ICN, Apt Date} to the Queue that will kick off in 12/24hrs
+Vets API ->Vets Website: returns {Queue additions status}
+
+end
+
+box over Vets Website: Shows Appointment page
+box over Vets Website: Veteran Check Ins (with usual API calls)
+
+group  Confirmation page 
+box over Vets Website: Display Confirmation page for appt
+box over Vets Website#lightgreen: Displays new messaging based on {status}
+end
+destroysilent Vets Website
+destroysilent Vets API
+
+
+==12/24hrs Later in Queue, 1 job per request==#lightgreen
+
+box over Queueing Service: Job Starts
+Queueing Service -> VEIS: Requests JWT
+Queueing Service <- VEIS: returns JWT
+box over Queueing Service:Retreives { ICN,Apt Date , retry count } from datasource (args, reddis, DB)
+destroysilent VEIS
+
+Queueing Service ->BTSSS: POST { appt Date, ICN, ...the rest }
+BTSSS <-> Downsteam API: Submits/Creates the Claim
+BTSSS -> Queueing Service: returns { Claim Number, Status }
+box over Queueing Service: If there is a system error && number of attemps < X, retry again in Y hrs.
+box over Queueing Service: If there is a validation error (no user, no appointment, etc) notify the user
+
+destroysilent BTSSS
+destroysilent Downsteam API
+Queueing Service-> VeText: sends notifcation of success(with claim id) or error; and link to BTSSS system to follow up. 
+VeText ->Veteran: Recieves notification of status
+
+
+

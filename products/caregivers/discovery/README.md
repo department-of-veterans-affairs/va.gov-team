@@ -1,5 +1,7 @@
 # Discovery for Program of Comprehensive Assistance for Caregivers
 
+**PLEASE NOTE:** all information in these folders are more than 3 years old, and only stored here for historical reference.  These documents have not been updated.  If you find broken links, or are looking for something specific, please reach out to Slack channel #1010-health-apps
+
 ## Communications
 - GitHub Label: 
 - Slack channel: [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver), [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering), [#vsa-caregiver-updates](https://dsva.slack.com/channels/vsa-caregiver-updates)

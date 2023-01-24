@@ -1,11 +1,15 @@
-# Onsite Notifications - Coming Soon!
+# Onsite Notifications
+Launched to 100% of VA.gov users on 10/24/2022
 
 ## Points of Contact
+
+[#accountexp-authexp](https://dsva.slack.com/archives/C909ZG2BB)
 
 |Name|Role|Team|
 |----|----|----|
 |Tom Harrison|Engineer|Authenticated Experience|
 |Anastasia Jakabcin|Product Manager|Authenticated Experience|
+|Samara Strauss|VA PO|Authenticated Experience and Profile|
 
 ## Value Statement
 
@@ -34,10 +38,15 @@ We will implement this first version with DMC's existing debt notification.
 - Onsite notifications will be sent regardless of communication preference and message status.
 
 
-![image](https://user-images.githubusercontent.com/99204969/160860415-f312ae1d-a32a-4fce-9944-1f448f2218d7.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/onsite-notification.png)
 
 ### Workflow Overview
 - Business line triggers a new debt notification by calling the VA Notify API
+    - person identifier used in request?
+        If no, do not send an onsite notification
+- We check if the template is enabled with onsite
+    - False?
+        - If yes, do not send an onsite notification
 - VA Notify begins the person lookup in MPI
     - Deceased?
         - If yes, do not send an onsite notification
@@ -58,7 +67,8 @@ We will implement this first version with DMC's existing debt notification.
     - Contact info
         - If no contact info is found, do not proceed with the email/SMS notification
 ### Technical Overview
-- When a notification with onsite_notification enabled is triggered, VA Notify will call the va.gov API for the onsite notification endpoint: /v0/onsite_notifications with template_id and va_profile_id
+
+- When a notification with onsite_notification enabled is triggered, VA Notify will call the vets-api for the onsite notification endpoint: /v0/onsite_notifications with template_id and va_profile_id
 - va.gov is using the VA Notify template_id to determine what onsite notification to display in the site
 
 ### Out of Scope
@@ -69,5 +79,7 @@ We will implement this first version with DMC's existing debt notification.
 - Retry process
 
 ### Measuring Success
+- Analytics Page here: https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/_u.dateOption=last7days/
 - AE will be tracking link clicks to the debt page
 - AE will be tracking the # of dismisses
+

@@ -10,25 +10,25 @@ Date: MM/DD/YYYY
 
 [Designer 1] [email], [Designer 2] [email]
 
-[Research Report PDF] (link here)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](#further-research-needed)
 
 <br>
 
-# Research Goals
+## Research Goals
 _First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
@@ -38,7 +38,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 
-# Research Questions
+## Research Questions
 
 _Research questions here_
 
@@ -49,14 +49,14 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 * Question
 * Question
 
-# Methodology 
+## Methodology 
 
 _Brief description of method chosen_
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
-# Hypotheses and Conclusions
+## Hypotheses and Conclusions
 
 _Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
@@ -67,7 +67,7 @@ _Hypothesis statement_
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
-# Key Findings
+## Key Findings
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
@@ -88,7 +88,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 7. Finding seven
 
 
-# Details of Findings 
+## Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
@@ -135,12 +135,12 @@ Brief description
 > _Supporting data: Quote here_
 
 
-# Additional Insights
+## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-# Recommendations
+## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
@@ -150,17 +150,17 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 
 
-# Next Steps
+## Next Steps
 
 _Next steps here. Include owners if appropriate._
 
 
-# Further research needed
+## Further research needed
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
-# Appendix
+## Appendix
 
 [Research plan](link here)
 

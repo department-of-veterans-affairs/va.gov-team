@@ -1,15 +1,15 @@
 ---
-name: Application Onboarding Template
+name: Application Onboarding Requirements Checklist
 about: For onboarding a software application to the Platform's delivery infrastructure
   (EKS, Kubernetes)
-title: "[Insert app name here] - Application onboarding infrastructure request"
+title: "[Insert app name here] Application onboarding requirements checklist"
 labels: devops, eks, infrastructure, infrastructure-request, operations
 assignees: ''
 
 ---
 
 ## Summary
-The purpose of this template is to capture requirements for onboarding a software application to the Platform's delivery infrastructure. 
+The purpose of this checklist is to capture requirements for onboarding a software application to the Platform's delivery infrastructure. 
 
 ### Overview
 - The Platform leverages container orchestration to host and deploy software applications  
@@ -18,8 +18,9 @@ The purpose of this template is to capture requirements for onboarding a softwar
 
 ### Guidance
 - Please fill out the sections below with as much info as possible 
-- If you don't have info or know the answer to a given prompt, _it's okay to leave it blank_
-- The Infrastructure Team will assist you with gathering requirements _and_ performing key setup and configuration tasks 
+- Complete the checklist to prepare your application for onboarding to the VA.Gov Platform 
+- Once complete, move on to [Manage applications in EKS](https://vfs.atlassian.net/wiki/spaces/OT/pages/2348909545/Manage+applications+in+EKS) 
+- Reach out in #vfs-platform-support with questions 
 
 ---
 
@@ -54,27 +55,20 @@ _*The responsible parties are listed below each item in the checklist_
 ### Application repository and container 
 - [ ] **GitHub repo:** _provide link to repo here_  
 Note: app should conform to the 12 factor app methodology | [Docs](https://12factor.net/)   
-_Requesting team; Infrastructure Team can assist_  
+_Requesting team_  
 - [ ] **Dockerfile:** _provide link to Dockerfile here_ | [Example](https://github.com/department-of-veterans-affairs/platform-console-api/blob/master/Dockerfile) | [Docs](https://docs.docker.com/engine/reference/builder/)  
-_Requesting team; Infrastructure Team can assist_  
+_Requesting team_  
 
 ### Application delivery pipeline (CI/CD)
 - [ ] **AWS service account for GitHub actions**, ie `svc-gha-team-name` | [Request here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
 _Infrastructure Team_
-- [ ] **AWS Elastic Container Registry (ECR) repository for the app container:** _provide name of ECR repo here_  
-_Infrastructure Team_ | [PRs welcome](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf)  
-- [ ] **Automation to release and tag the app's GitHub repo with a semantic version number** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc) | [Docs](https://semantic-release.gitbook.io/semantic-release/)    
-_Requesting team; Infrastructure Team can assist_  
+- [ ] **AWS Elastic Container Registry (ECR) repository for the app container:** Submit PR to add your application name to the "all-repos" section of [this page](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf)  
+_Requesting team_  
+- [ ] **Add semantic release configuration (a `.releaserc` file) to your repo** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc) | [Docs](https://semantic-release.gitbook.io/semantic-release/)    
+_Requesting team_  
 - [ ] **Automation to push the app's container to ECR with a semantic version number** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/mirror-images.yaml)    
-Note: Don't use default "latest" tag. The release system uses modified container image tags to synchronize automation. 
-_Requesting team; Infrastructure Team can assist_  
-- [ ] **Kubernetes manifest in YAML, Jsonnet, or Helm Chart** in `vsp-infra-application-manifests` | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) | [Docs](https://argo-cd.readthedocs.io/en/stable/)  
-Note: must be compatible with ArgoCD  
-_Requesting team; Infrastructure Team can assist_  
-- [ ] **Kubernetes detect and update application** in `vsp-infra-applications-manifests` | [Environments](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vsp-operations/argocd-apps)  
-_Requesting team; Infrastructure Team can assist_  
-- [ ] **Automation to update the Kubernetes manifest** when a new version of the app's container is pushed to ECR | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/update-manifests.yaml)  
-_Requesting team; Infrastructure Team can assist_
+Note: Use `sha` or semver. Don't use default "latest" tag. The release system uses modified container image tags to synchronize automation.  
+_Requesting team_  
 
 ### Application secrets and parameters
 - [ ] **AWS SSM Parameter Store path created for your team or app,** ie `/dsva-vagov/team-name/` | [Request here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
@@ -83,6 +77,7 @@ _Infrastructure Team_
 _Requesting team_
 
 ---
+Once the checklist is complete, you will be ready to onboard your application. Visit [Manage applications in EKS](https://vfs.atlassian.net/wiki/spaces/OT/pages/2348909545/Manage+applications+in+EKS) to get started.
 
 ### Notes 
 - Please add comments to this issue as checklist items are completed, and...

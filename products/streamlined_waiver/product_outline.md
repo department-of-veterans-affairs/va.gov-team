@@ -1,12 +1,10 @@
-> _Draft will be updated soon!!!!_
+> _In Draft as of June 3, 2022_
 
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
----
+# Product Outline: Streamlined Waiver Process
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+As part of the President's initiative to support Veterans experiencing financial hardship we are simplifying the process for claiming medical debt forgiveness by streamlining the request process and setting a simple income threshold for receiving medical debt relief. 
+
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*

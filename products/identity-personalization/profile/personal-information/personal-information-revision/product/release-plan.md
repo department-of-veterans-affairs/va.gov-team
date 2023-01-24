@@ -66,11 +66,11 @@ Desired date: June '22
 
 [Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 
-|Field name| Average monthly updates (total events) between Oct - Dec 2021 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
+|Field name| Total Events May 2022 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
 |----------|------------|------------|------------|------------|
-|Mailing address | ~28,500 updates | | | |
-|Home address | ~28,500 updates | | | |
-|Mobile phone | ~14,000 updates | | | |
-|Email address |~15,500 updates | | | |
+|Mailing address | 29k | | | |
+|Home address |29.2k  | | | |
+|Mobile phone |14.4k  | | | |
+|Email address |14.3k  | | | |
 
 

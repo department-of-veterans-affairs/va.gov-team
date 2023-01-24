@@ -1,0 +1,41 @@
+# note: this GHA applies only to Github Projects V2 (Beta)
+# docs: https://github.com/actions/add-to-project
+name: Add Issues to Github Projects (V2)
+
+on:
+  issues:
+    types:
+      - opened
+      - labeled
+
+jobs:
+  cop:
+    name: Add CoP Issues to Project Board
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/815
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          labeled: platform-cop-backend, platform-cop-frontend, platform-cop-devops
+          label-operator: OR
+
+  platform-leadership:
+    name: Add Platform Leadership Issues to Project Board
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/623
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          labeled: platform-leadership
+
+  platform-support:
+    name: Add Platform Support Issues to Project Board
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/813
+          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          labeled: platform-tech-team-support

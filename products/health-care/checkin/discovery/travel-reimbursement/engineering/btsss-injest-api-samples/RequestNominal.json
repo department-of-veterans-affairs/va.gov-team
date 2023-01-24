@@ -1,0 +1,12 @@
+{
+  "ClientNumber": "TBD",
+  "ClaimantID": "1013030301V428872",
+  "ClaimantIDType": "icn",
+  "Appointment": 
+  {
+    "AppointmentDateTime": "2020-10-16"
+  },
+  "MileageExpense": {
+    "TripType": "RoundTrip"
+  }
+}

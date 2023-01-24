@@ -1,12 +1,31 @@
 # Important 10-10CG Google Analytics event labels
 
 - caregivers-10-10cg--submission
+  - Submission page
+    - "Submit application"
 - caregivers-10-10cg--submission-failed
+  - Unsuccessful submission of application
 - caregivers-10-10cg--submission-failed-client
+  - "Some error" that occurred prior to submitting downstream
 - caregivers-10-10cg--submission-successful
+  - Successful submission of application
 - caregivers-10-10cg--validation-failed
+  - Review page
+    - "Submit application"
+    - Confirms that all required information is filled out before performing submit
 - caregivers-10-10cg-file-uploaded
+  - Supporting document page
+    - Successful upload of supporting (PoA) documentation)
 - caregivers-10-10cg-pdf--failure
+  - Submission error page (failed to submit)
+    - Alert where _Download completed application_ link would be
+  - Submission success page (successful submission)
+    - Alert where _Download completed application_ link would be
 - caregivers-10-10cg-pdf-download--success
+  - Submission error page (failed to submit)
+    - "Download your completed application (PDF)"
+  - Submission success page (successful submission)
+    - "Download your completed application (PDF)"
 - caregivers-10-10cg-start-form
-
+  -  Introduction page
+    -  "Start your application"

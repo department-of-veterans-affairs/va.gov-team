@@ -1,8 +1,8 @@
 ---
 name: My VA Issue Template
 about: For the Authenticated Experience - My VA team
-title: '[practice]initiative: description'
-labels: ''
+title: "[practice] initiative: description"
+labels: authenticated-experience
 assignees: ''
 
 ---
@@ -16,6 +16,10 @@ _What details are necessary for understanding the specific work or request track
 
 ## Acceptance Criteria
 - [ ] _What will be created or happen as a result of this story?_
+
+## Validation
+- _Who can validate this ticket? (FE, BE, Design, PM)? Any team member_
+- _How can this work be validated?_
 
 ## Resources
 - optional: links, screenshots, etc.
