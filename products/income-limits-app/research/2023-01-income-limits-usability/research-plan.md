@@ -55,7 +55,7 @@ Learnings will help refine the design of the application.
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
 1. How do Veterans expect to "wayfind" this app?
 1. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-1. Do Veterans expect a summary page that shows information entered?
+1. Do Veterans find a summary page helpful for verifying the information entered?
 1. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
 1. Do Veterans understand the relevant year of income for their eligibility? 
 1. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
