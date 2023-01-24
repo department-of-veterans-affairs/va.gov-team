@@ -110,7 +110,7 @@ This all depends on Florence having Github access.
 **Design - Liz**
 
 - Update Sketch files to show error alert for when Legal Name does not load correctly #52064
-- Review all profile use cases to make sure our documentation is up to date (OK if this needs to be split between two sprints)
+- Review all profile use cases to make sure our documentation is up to date (OK if this needs to be split between two sprints) #52502
   - Where we've made substantial UI updates so far - personal info, military info, account security (if those updates launched last sprint) 
   - I know that at least personal information needs updated links to the latest mockups 
 
