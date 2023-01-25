@@ -87,7 +87,7 @@ ________________________________________________________________________________
    - **GOAL: Release to production**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52396)
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
-   - **GOAL: Collaborate with PCI/API team to determine best solution **
+   - **GOAL: Collaborate with PCI/API team to determine best solution**
 
 ***************** END FUTURE / TENTATIVE *************************
 
