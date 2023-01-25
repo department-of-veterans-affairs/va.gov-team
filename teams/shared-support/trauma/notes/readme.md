@@ -16,3 +16,6 @@ Hosted an open Q&A with Rachael Dietkus. Some questions included:
 - Do breathing techniques actually work mid-session? 🔥
 
 ## Small Support Groups
+Needs permission from small support group to share out learnings
+
+### TBD
