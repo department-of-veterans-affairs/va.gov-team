@@ -87,7 +87,7 @@ ________________________________________________________________________________
     - DONE Defend our experimental ticket with the design council!
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
     - DONE [Create presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51178)
-    - ~[Start wireframes for option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51174)~
+    - REMOVED ~Start wireframes for option 1~
 - DONE[Change pre-check-in link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/50505) (Ya-ching)
 - End of Interactions
     - DONE https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/49521
