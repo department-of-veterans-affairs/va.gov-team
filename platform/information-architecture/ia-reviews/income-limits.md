@@ -38,7 +38,7 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 **1) Income Limits Tool - New**
-- URL: https://www.va.gov/health-care/income-limits-tool
+- URL: TBD based on H1, but will likely be somthing like https://www.va.gov/health-care/income-limits-tool
 - Breadcrumb: Home > Health Care > [H1 of page]
 - Notes: H1 TBD by Sitewide Content
 
