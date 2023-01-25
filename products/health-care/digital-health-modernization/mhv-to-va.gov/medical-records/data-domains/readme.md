@@ -1,6 +1,5 @@
 # Medical Records Data Domains
 
-- Appointments*
 - Admissions and discharges
 - Medications*
 - [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
