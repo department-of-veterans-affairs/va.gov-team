@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
 
 #### Analytics Sprint Goals
-- **GOAL:** Analyze current report
+- **GOAL: Analyze current report**
    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
    
 #### UX Sprint Goals 
