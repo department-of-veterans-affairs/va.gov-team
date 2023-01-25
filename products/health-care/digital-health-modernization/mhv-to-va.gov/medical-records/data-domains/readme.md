@@ -21,22 +21,24 @@
 # Grouping Domains
 Based on our current research, we believe that the domains will be grouped in some cases.  As of 1/25/2023, the current thinking is listed below, but is subject to changed based on usability testing.
 
-- Appointments*
 - Admissions and discharges
+- Allergies
+- Cardiology images and reports
+- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)
+- Demographics*
+- DOD info
+- Health issues / problem list
+- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - Medications*
-- Lab results
-  - Chemistry/Hematology
+- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
+-   - Chemistry/Hematology
   - Microbiology
   - Pathology results (Surgical Pathology, Cytology, Microscopy)
   - Radiology images & Reports
   - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
-- Health issues / problem list
-- Clinical Notes
-- Allergies
-- Immunizations
-- Vitals
-- Demographics*
-- DOD info
+- Pathology results
+- Radiology images & Reports
+- [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
 
 
 # Domain Priority Order
@@ -45,6 +47,7 @@ Based on our current research, we believe that the domains will be grouped in so
   - Pathology results
   - Radiology images & Reports
   - Cardiology images and reports (listed as EKG Reports in Blue Button)
+- Clinical notes
 - Health Issues
 - Vitals
 - Admissions and Discharges
