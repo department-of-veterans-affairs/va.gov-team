@@ -20,10 +20,9 @@
 ## <a name="flows"></a>User/page flows <br>
 *Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
-This illustrates an additional user flow for Veterans who wouldn't qualify due to their income (above $90k).
-
 <img width="704" alt="Userflowsimage" src="https://user-images.githubusercontent.com/122128479/214442121-a9460b89-7512-4dee-a791-b3f1691e72b7.png">
 
+This illustrates an additional user flow for Veterans who wouldn't qualify due to their income (above $90k).
 
 
 ## <a name="map"></a>Page structure<br>
@@ -38,7 +37,7 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 **1) Income Limits Tool - New**
-- URL: TBD based on H1, but will likely be somthing like https://www.va.gov/health-care/income-limits-tool
+- URL: TBD based on H1, but will likely be something like https://www.va.gov/health-care/income-limits-tool
 - Breadcrumb: Home > Health Care > [H1 of page]
 - Notes: H1 TBD by Sitewide Content
 
@@ -48,16 +47,16 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 1.  Cost of Care - Add
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: 
+  - Placement description: Left nav, under about VA health benefits, within Your health care costs
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
+  - Notes: Content and link to new Income and Limits tool
 
 2. Eligibility - Add
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
+  - Placement description: Left nav, under Eligibility, below VA priority groups
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
+  - Notes: Content and link to new Income Limits tool
  
 
 ## <a name="redirects"></a>Redirects <br>
@@ -66,7 +65,7 @@ The Income Limits tool will be a new page in the More info and resources section
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp | www.va.gov/health-care/income-limits-tool | TBD based on H1
  
 
 
