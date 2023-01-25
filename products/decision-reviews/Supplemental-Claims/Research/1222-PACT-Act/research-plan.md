@@ -219,19 +219,19 @@ This is a single study, and we are testing with a prototype
 - Do you think your claim is affected by the PACT Act? [OK if yes, no, or unsure]
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: TBD
-* Observer: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: [Skyler Schain](skyler@coforma.io)
+* Observer: [Sade Ragsdale](sade@coforma.io)
+* Date and time of pilot session: 11 AM ET 2/6
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: 2/13-2/17
 
 ### Length of sessions
 * Session length: 60 minutes
