@@ -9,7 +9,7 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 ### Github / work tracking
 - [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?labels=%E2%AD%90%EF%B8%8F%20public%20websites)  (install Zenhub browser plugin)
-- Team label: `⭐️ Public Websites`
+- Team label: `Public Websites`
 
 
 # Products we support
