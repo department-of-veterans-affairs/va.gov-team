@@ -147,7 +147,6 @@ Considering that the overwhelming amount of participants did not feel anything w
 
 ## Additional Insights
 
-* The smallest font size on VA.gov is still a little too small for users with low vision. If you include the pilot session, we heard 3 participants comment on the body copy font size being too small. It's worth noting that question was not prompted and was feedback freely given to us by Veterans commenting on the overall page.
 * When we asked if anything was missing from My VA, 2 participants mentioned wanting to see information online about mental health services, especially for PTSD. 1 of these participants noticed there were links in the footer of the page for this, and the other said they were not able to find any information about it online. 
   * This finding has been shared in the [DSVA Slack](https://dsva.slack.com/archives/C033ZS9E7EW/p1674588384107679) and there are efforts underway to surface mental health services in the main benefits navigation, as well as updating the link to take users to the modernized mental health services page.
 
