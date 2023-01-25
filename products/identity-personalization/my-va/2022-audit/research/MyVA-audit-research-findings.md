@@ -145,25 +145,25 @@ Considering that the overwhelming amount of participants did not feel anything w
 > _"The headers are very readable for old tired eyes but it drops off pretty quickly from that to this [points at body text]. I can see it but I have to kind of zoom in and get my trifocals." -P9_
 
 
-
 ## Additional Insights
 
-
+* The smallest font size on VA.gov is still a little too small for users with low vision. If you include the pilot session, we heard 3 participants comment on the body copy font size being too small. It's worth noting that question was not prompted and was feedback freely given to us by Veterans commenting on the overall page.
+* When we asked if anything was missing from My VA, 2 participants mentioned wanting to see information online about mental health services, especially for PTSD. 1 of these participants noticed there were links in the footer of the page for this, and the other said they were not able to find any information about it online. 
+  * This finding has been shared in the [DSVA Slack](https://dsva.slack.com/archives/C033ZS9E7EW/p1674588384107679) and there are efforts underway to surface mental health services in the main benefits navigation, as well as updating the link to take users to the modernized mental health services page.
 
 
 ## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Rethink the "Saved Applications" section to be more clear that only in-progress applications will show there, and more clear what "applications" are.
     * _Supporting evidence: See finding 4_
 * Reconsider the link currently called "Check your GI Bill Statement of Benefits" in the "Education and Training" section, as the term is not familiar to Veterans and is an important link for Veterans using GI bill benefits.
     * _Supporting evidence: See finding 5_
+* As of now, we would not recommend reordering the sections on My VA or allowing for additional customization like moveable modules or collapsible sections, since one of the main goals of this study was to simplify the code logic and come up with an ordering of sections that works best for the _most_ users. We didn't hear any Veterans say the order of sections was impeding on their ability to find information relevant to them. We may want to consider further customization of My VA in the future if we continue to hear similar feedback or see significant changes in analytics.
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+We will make design updates according to the recommendations in this research summary, have our FE engineer implement the changes in production, and then test the updates in UAT using a feature flipper in production as we did for this usability study.
 
 
 ## Further research needed
@@ -193,13 +193,11 @@ VA.gov/my-va/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
 We talked to **13 participants.**
 
 Audience segment:
 * Veterans: 13
-* Caregivers: 0 
+* Caregivers: 1 
 * Family members of a Veteran: 0  
 
 
@@ -270,13 +268,12 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* No degree
+* Expat
+* Biracial
+* Gay, lesbian, or bisexual
+* Transgender
+* Beginner AT users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![Screenshot 2023-01-25 at 12 34 13 PM](https://user-images.githubusercontent.com/97965610/214639060-b3dc5364-c1de-4062-b4c6-de0c8de86960.png)
