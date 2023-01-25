@@ -100,7 +100,9 @@
 **PM**
 
 - Check in on where we are with analytics (if done, there's nothing to do)
-- Submit QA request for next sprint (do we even have a person to do QA?)
+- QA discovery
+  - Do we need to use Test Rail? If so, have platform help with Test Rail onboarding.
+  - How can we run QA as a team? Do we need to have everyone in Test Rail? Is a QA spreadsheet better? 
 
 **FE**
 
