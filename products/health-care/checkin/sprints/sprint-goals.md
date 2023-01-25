@@ -13,6 +13,9 @@ ________________________________________________________________________________
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report**
    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+- **GOAL: Brainstorm ways to meet these analysis goals**
+   - 1. Get the analysis down to 1 hour of work per sprint for a team member (just categorize/score, don't pull out quotes)
+   - 2. Have each graph show trend lines from the beginning (November) to the present
    
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
@@ -20,14 +23,16 @@ ________________________________________________________________________________
       - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
       - [Complete accessibility testing & create new QA artifact(s) & QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49715)    
    - **GOAL: Prepare for LA release**   
-      - [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)    
-      - Schedule staging review (if we are ready)
+     - [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47488)
+     - Schedule staging review (if we are ready)
+     - [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)         
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - [Update Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52411)
       - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
       - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
-      - Attend Staging Review; make sure Staging Review ticket is complete
+      - Attend Staging Review
+      - Make sure [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48859) is complete
    - **GOAL: Release to production**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)   
       - [Metrics tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895)
@@ -40,20 +45,9 @@ ________________________________________________________________________________
       - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
       - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
       - Schedule Staging Review
-- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
-   - **GOAL: Prepare for the release**
-      - [Create Metrics to Measure Success & Monitor After Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52056)
-- [New Message for Expired Link on Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
-   - **GOAL: Prepare for the release**
-      - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52395)
-      - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52394)
-   - **GOAL: Release to production**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52396) 
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Conduct brainstorming for Option 2**
       - [Ideate and Create User Flows for Option 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52482)
-      - [Fill out sitewide IA request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52489)
-      - [Brainstorm research methods for collecting feedback on when to receive day of text messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52484)   
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
@@ -75,19 +69,10 @@ ________________________________________________________________________________
       -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
       -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132) (WAITING ON WIREFRAME)
       -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114) (WAITING ON WIREFRAME)
-- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
-    - **GOAL: Complete remaining feature requirements**
-       - [Move the link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055)
-    - **GOAL: Release to production**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
-- [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
-   - **GOAL: Complete feature requirements**
-      - [New Message for Expired Link for Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492)
-      - [New Message for Expired Link on Day-of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
-   - **GOAL: Release to production**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52396)
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Collaborate with PCI/API team to determine best solution**
+- [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
+   - **GOAL: Complete as many as fits in the sprint**
 
 ***************** END FUTURE / TENTATIVE *************************
 
