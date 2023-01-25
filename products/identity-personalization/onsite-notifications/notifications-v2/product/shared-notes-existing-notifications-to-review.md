@@ -34,9 +34,9 @@ Answer:
 
 ### Lighthouse
 
-1. What is the Notice of Disagreement?
-2. What is the Decision Review Request?
-3. What is the On Application Connect/Disconnect?
+1. What is the Notice of Disagreement? We send this notificaton when a Veteran has filled out form 10182.  
+2. What is the Decision Review Request?  We send this notificaton when a Veteran has filled out form 20-0995.
+3. What is the On Application Connect/Disconnect? This email is sent when a Veteran connects/disconnect their health app to/from their VA Profile
 
 ### QuickSubmit
 
