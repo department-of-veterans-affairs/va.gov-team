@@ -16,6 +16,12 @@ Cerner provides standard FHIR API's that allow developers to integrate Cerner's 
 Cerner uses HL7 Messaging Standard Version 2.5.1 
 - Documentation from HL7.org: https://www.hl7.org/implement/standards/product_brief.cfm?product_id=144
 
+## Additional Resources on VA.gov Github 
+Additional GH links that have information about Cerner integration compiled by other teams
+
+- Public Websites: [/products/public-websites/Cerner-Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
+- Digital Health Modernization Engineering: [/products/health-care/digital-health-modernization/engineering/cerner-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering/cerner-research)
+
 ## Data Domains Resources
 
 |Data Domain|Links|
