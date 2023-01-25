@@ -29,11 +29,8 @@ ________________________________________________________________________________
       - [Update Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52411)
       - [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
       - [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
-      - Attend Staging Review
+      - Push out Staging Review
       - Make sure [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48859) is complete
-   - **GOAL: Release to production**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)   
-      - [Metrics tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
    - **GOAL: Finalize wireframes for last few changes**
       - [Create wireframe to Move icon inside the card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52106)
@@ -42,7 +39,7 @@ ________________________________________________________________________________
    - **GOAL: Prepare for the release**
       - [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
       - [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
-      - Schedule Staging Review
+      - Schedule Staging Review (if we are ready)
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Conduct brainstorming for Option 2**
       - [Ideate and Create User Flows for Option 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52482)
@@ -54,10 +51,7 @@ ________________________________________________________________________________
       - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
       - [Complete accessibility testing & create new QA artifact(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Prepare for the release**
-      - Attend Staging Review
-   - **GOAL: Release to production**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
+   - **GOAL: Finish PRs**      
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
    - **GOAL: Complete remaining feature requirements**
       -  [Send reason for appointment data to the front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996)
