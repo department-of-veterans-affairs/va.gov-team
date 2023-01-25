@@ -228,7 +228,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 * Pilot participant email: [Dan Miller](dan@coforma.io)
 * Observer: [Sade Ragsdale](sade@coforma.io)
-* Date and time of pilot session: 11 AM ET 2/7
+* Date and time of pilot session: 3 PM ET 2/7
 
 ### Research sessions
 * Planned dates of research: 2/13-2/17
