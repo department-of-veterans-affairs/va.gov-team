@@ -17,7 +17,7 @@ ________________________________________________________________________________
    
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-    - **GOAL: Conduct full functional & accessibility testing (research, design, & product); each group must complete TestRail test cases**
+    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)  
    - **GOAL: Prepare for LA release**   
      - [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47488)
