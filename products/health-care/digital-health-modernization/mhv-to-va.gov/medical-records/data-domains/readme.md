@@ -14,7 +14,7 @@
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
 
 
-* Domains that we hypothesize will be found elsewhere in the portal or in VA.gov. I.e. appointments will be found in “appointments”. Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds. Demographics I think we’re still sussing out, based on that convo in slack last week. Some of it is in VA profile already. Some isn’t. Do we need to take what isn’t, relabel, and represent as a new thing? Maybe?
+* Domains that we hypothesize will be found elsewhere in the portal or in VA.gov. I.e. appointments will be found in “appointments”. Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds. Demographics I think we’re still sussing out, based on that convo in slack last week. Some of it is in VA profile already. Some isn’t. 
 
 <hr>
 
@@ -48,8 +48,10 @@ Based on our current research, we believe that the domains will be grouped in so
   - Radiology images & Reports
   - Cardiology images and reports (listed as EKG Reports in Blue Button)
 - Clinical notes
-- Health Issues
+- Health Issues / Problem List
 - Vitals
 - Admissions and Discharges
 - Demographics
 - Medications and Allergies
+- Demographics
+- DoD Information
