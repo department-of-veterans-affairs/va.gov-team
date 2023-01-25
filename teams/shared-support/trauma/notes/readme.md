@@ -1,4 +1,4 @@
-# Notes
+# Summarized Notes and Shared Learnings 
 
 ## Practice Meetings
 
