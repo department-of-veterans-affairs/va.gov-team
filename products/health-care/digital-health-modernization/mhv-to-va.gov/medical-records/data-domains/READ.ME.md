@@ -1,4 +1,4 @@
-#Medical Records Data Domains
+# Medical Records Data Domains
 
 - Appointments*
 - Admissions and discharges
@@ -19,7 +19,7 @@
 
 <hr>
 
-#Grouping Domains
+# Grouping Domains
 Based on our current research, we believe that the domains will be grouped in some cases.  As of 1/25/2023, the current thinking is listed below, but is subject to changed based on usability testing.
 
 - Appointments*
@@ -40,7 +40,7 @@ Based on our current research, we believe that the domains will be grouped in so
 - DOD info
 
 
-Domain Priority Order
+# Domain Priority Order
 - Immunizations
 - Labs and Tests
   - Pathology results
