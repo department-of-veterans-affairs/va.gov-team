@@ -1,18 +1,18 @@
 # Medical Records Data Domains
-
 - Admissions and discharges
+- Allergies
+- Cardiology images and reports
+- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)
+- Demographics*
+- DOD info
+- Health issues / problem list
+- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - Medications*
 - [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
 - Pathology results
 - Radiology images & Reports
-- Cardiology images and reports
-- Health issues / problem list
-- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)
-- Allergies
-- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
-- Demographics*
-- DOD info
+
 
 * Domains that we hypothesize will be found elsewhere in the portal or in VA.gov. I.e. appointments will be found in “appointments”. Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds. Demographics I think we’re still sussing out, based on that convo in slack last week. Some of it is in VA profile already. Some isn’t. Do we need to take what isn’t, relabel, and represent as a new thing? Maybe?
 
