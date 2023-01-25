@@ -158,6 +158,7 @@ Considering that the overwhelming amount of participants did not feel anything w
     * _Supporting evidence: See finding 4_
 * Reconsider the link currently called "Check your GI Bill Statement of Benefits" in the "Education and Training" section, as the term is not familiar to Veterans and is an important link for Veterans using GI bill benefits.
     * _Supporting evidence: See finding 5_
+    * At this time, we're not able to show dynamic content in this section for remaining education benefits due to data limitations. Based on the feedback we received in this study, Veterans who are using GI bill benefits would be interested in that feature and it should stay on our radar as a future feature if it becomes feasible.
 * As of now, we would not recommend reordering the sections on My VA or allowing for additional customization like moveable modules or collapsible sections, since one of the main goals of this study was to simplify the code logic and come up with an ordering of sections that works best for the _most_ users. We didn't hear any Veterans say the order of sections was impeding on their ability to find information relevant to them. We may want to consider further customization of My VA in the future if we continue to hear similar feedback or see significant changes in analytics.
 
 
