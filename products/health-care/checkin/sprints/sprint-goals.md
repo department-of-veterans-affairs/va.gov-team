@@ -2,7 +2,6 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-***************** BEGIN FUTURE / TENTATIVE *************************
 ## 1/25/2023 - 2/7/2022 
 
 #### Planned Releases 
@@ -64,8 +63,9 @@ ________________________________________________________________________________
    - **GOAL: Collaborate with PCI/API team to determine best solution**
 - [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
    - **GOAL: Complete as many as fits in the sprint**
-
-***************** END FUTURE / TENTATIVE *************************
+- CIE Tech Debt
+   - **GOAL: Complete as many as fits in the sprint**
+      - Improve testing and validation with staging and screenshots 
 
 ## 1/11/2023 - 1/24/2022 
 
