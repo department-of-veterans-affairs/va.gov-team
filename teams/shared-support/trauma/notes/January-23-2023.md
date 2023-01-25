@@ -53,7 +53,7 @@
 
 ## Action Items
 - [ ] Martha (or any other volunteer) to facilitate the next trauma meeting on the 6th. This will focus on showcasing what the trauma sensitive to responsive journey looks like and to continue our conversation on drop-in hours.
-- [ ] Josh to write a summary of today’s meeting
+- [x] Josh to write a summary of today’s meeting
 - [ ] Reflect on our identities (who’s represented… and who isn’t? How does that affect our practice?)
 - [ ] Start scheduling next rounds of small groups 
   - [ ] Josh to find 2 organizers to lead the next 2 small groups
