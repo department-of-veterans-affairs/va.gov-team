@@ -226,7 +226,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: [Skyler Schain](skyler@coforma.io)
+* Pilot participant email: [Dan Miller](dan@coforma.io)
 * Observer: [Sade Ragsdale](sade@coforma.io)
 * Date and time of pilot session: 11 AM ET 2/7
 
