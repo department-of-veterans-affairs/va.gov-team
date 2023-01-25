@@ -37,13 +37,11 @@ Suggested workflow:
 - [ ] Convert artifacts to markdown format and store in github Research Folder
 - [ ] Get final approval from PO before sending to Research Review cycle
 
-### CMS Team
+### Team
 Please check the team(s) that will do this work.
 
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
+- [ ] `CMS Team`
+- [ ] `Public Websites`
+- [ ] `Facilities`
+- [ ] `User support`
+

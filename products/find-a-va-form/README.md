@@ -42,7 +42,7 @@ As of 8/10/22:
 
 ### Team
  - Team Name: Sitewide Public Websites
- - GitHub Label: [⭐️ Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/labels/%E2%AD%90%EF%B8%8F%20Public%20Websites)
+ - GitHub Label: [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/labels/%E2%AD%90%EF%B8%8F%20Public%20Websites)
  - Team Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
  - Forms Slack channel: [#va-forms](https://dsva.slack.com/channelss/va-forms)
  

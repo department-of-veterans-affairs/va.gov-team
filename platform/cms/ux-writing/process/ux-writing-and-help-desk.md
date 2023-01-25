@@ -1,14 +1,14 @@
-# How Sitewide CMS, UX writing, and help desk collaborate on the CMS Team
+# How CMS Team, UX writing, and help desk collaborate on the CMS Team
 
 ## Shared goals
-The UX, Sitewide CMS team, and help desk areas of the CMS project both focus on making it easier for our users to use the CMS through clear communication, helpful documentation and resources, and good design. 
+The UX, CMS team, and help desk areas of the CMS project both focus on making it easier for our users to use the CMS through clear communication, helpful documentation and resources, and good design. 
 These goals show up in the following activities:
 - **Communicaitons**, such as announcements 
 - **Help content**, such as user guides or trainings available in the CMS Knowledge Base
 - **UX research**, such as identifying areas where the language we use for our product is misaligned with our users's mental models
 
 ## Roles and responsibilities
-UX, Sitewide CMS, and helpdesk will collaborate to meet our shared goals in a variety of ways, and may variously lead, support, or stay informed on different initiatives.
+UX, CMS, and helpdesk will collaborate to meet our shared goals in a variety of ways, and may variously lead, support, or stay informed on different initiatives.
 
 ### Help content
 

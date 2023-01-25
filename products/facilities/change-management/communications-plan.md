@@ -48,13 +48,10 @@ Select one or more of these tactics for the Communications Plan:
 ## Acceptance Criteria
 - [ ] Communications Plan reviewed by PO
 
-### CMS Team
+### Team
 Please check the team(s) that will do this work.
 
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
+- [ ] `CMS Team`
+- [ ] `Public Websites`
+- [ ] `Facilities`
+- [ ] `User support`

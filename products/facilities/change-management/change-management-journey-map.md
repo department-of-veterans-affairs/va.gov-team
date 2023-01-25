@@ -44,14 +44,10 @@ Step 7. Update the map as activity dates are moved and questions or problems add
 - [ ] Journey map updated after launch
 - [ ] Journey map updated after post-launch activities and discussed with Product Manager for areas of improvement
 
-### CMS Team
+### Team
 Please check the team(s) that will do this work.
 
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
+- [ ] `CMS Team`
+- [ ] `Public Websites`
+- [ ] `Facilities`
+- [ ] `User support`

@@ -27,14 +27,10 @@ Note: This step is a hard blocker for Veteran Recruitment, but less so for Edito
 - [ ] If there are significant alterations, consult your Product Manager or Product Owner
 - [ ] Once approved, move on to Participant Recruitment & Scheduling 
 
-### CMS Team
+### Team
 Please check the team(s) that will do this work.
 
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
-
+- [ ] `CMS Team`
+- [ ] `Public Websites`
+- [ ] `Facilities`
+- [ ] `User support`

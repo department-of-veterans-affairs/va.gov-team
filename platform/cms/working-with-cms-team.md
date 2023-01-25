@@ -28,7 +28,7 @@ CMS support is available anytime you have questions or want to collaborate on yo
 
 **At project kick-off** 
 - If your project involves non-authenticated (public) content, it is helpful to get a high level overview of the CMS and its products. 
-- Reach out to the Sitewide CMS team in https://dsva.slack.com/archives/CT4GZBM8F for a CMS Collaboration Cycle Kickoff [ticket] (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=ewashb%2Cdawnpruitt&labels=%E2%AD%90%EF%B8%8F+Sitewide+CMS&template=cms-collab-intake.yml&title=%5BCMS+COLLAB+CYCLE+INTAKE%5D+%28Team+Name%2C+Product+Name%2C+Feature+Name%29).
+- Reach out to the CMS team in https://dsva.slack.com/archives/CT4GZBM8F for a CMS Collaboration Cycle Kickoff [ticket] (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=ewashb%2Cdawnpruitt&labels=%E2%AD%90%EF%B8%8F+Sitewide+CMS&template=cms-collab-intake.yml&title=%5BCMS+COLLAB+CYCLE+INTAKE%5D+%28Team+Name%2C+Product+Name%2C+Feature+Name%29).
 
 **During Discovery** 
 - If your product's content may be managed within the CMS, schedule a <a href="cms-scoping-exercise.md">CMS scoping exercise</a>, around the same time as the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#design-intent-check-in">design intent review</a>. 
