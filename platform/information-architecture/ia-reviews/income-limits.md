@@ -47,17 +47,20 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 1.  Cost of Care - Add
-  - Placement description: Left nav, under about VA health benefits, within Your health care costs
+  - Placement description: In Your health care costs page
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
   - Notes: Content and link to new Income and Limits tool
+  ![Costsofcarescreenshot](https://user-images.githubusercontent.com/122128479/214645767-d227348b-38a0-465e-9a57-53836814f532.png)
+
 
 2. Eligibility - Add
-  - Placement description: Left nav, under Eligibility, below VA priority groups
+  - Placement description: In Eligibility page
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
   - Notes: Content and link to new Income Limits tool
- 
+ ![eligbilityscreenshot](https://user-images.githubusercontent.com/122128479/214646714-6eed0569-3a94-49dd-bfde-494aff90ab0d.png)
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
