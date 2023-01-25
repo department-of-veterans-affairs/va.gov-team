@@ -148,16 +148,16 @@ Considering that the overwhelming amount of participants did not feel anything w
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
 
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+* Rethink the "Saved Applications" section to be more clear that only in-progress applications will show there, and more clear what "applications" are.
     * _Supporting evidence_
-* Recommendation 2
+* Reconsider the link currently called "Check your GI Bill Statement of Benefits" in the "Education and Training" section, as the term is not familiar to Veterans and is an important link for Veterans using GI bill benefits.
     * _Supporting evidence_
 
 
@@ -173,114 +173,100 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/audit-conversation-guide.md)
 
-[Interview transcripts](link here)
+[Observation Notes](https://docs.google.com/spreadsheets/d/1ItavEGFODFAO6h5wbiPpllrlNFxHCLIN54j775gnB3o/edit#gid=0)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+Google Sheets, Zoom transcription and recordings
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+VA.gov/my-va/
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **13 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 13
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 7 
+* Female: 6
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 0/?
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 9 
+* Tablet: 2 
+* Smart phone: 2 
+* Assistive Technology: 1
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 3
+* 35-44: 3
+* 45-54: 1
+* 55-64: 1
+* 65+: 5
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 6
+* Bachelor's degree: 2
+* Master's degree: 5
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: ?
+* Rural: ?
+* Unknown: 13 (Did not outline this criteria in research plan)
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 5
+* Black: 2
+* Hispanic: 2
+* Biracial: 0
+* Asian: 2
+* Native: 2
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 5
+* AT beginner: 0
+* AT advanced user: 1
+* Desktop screen reader: 1
+* Mobile screen reader: 0
+* Magnification/Zoom: 2
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: ?
+* Sighted keyboard: 0
+* Captions: ?
 
 
 ## Underserved groups we haven’t talked to 
