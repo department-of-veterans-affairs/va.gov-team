@@ -6,16 +6,14 @@ ________________________________________________________________________________
 ## 1/25/2023 - 2/7/2022 
 
 #### Planned Releases 
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-- [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52055) 
-- [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
+- NONE
 
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report**
    - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
 - **GOAL: Brainstorm ways to meet these analysis goals**
-   - 1. Get the analysis down to 1 hour of work per sprint for a team member (just categorize/score, don't pull out quotes)
-   - 2. Have each graph show trend lines from the beginning (November) to the present
+   - Get the analysis down to 1 hour of work per sprint for a team member (just categorize/score, don't pull out quotes)
+   - Have each graph show trend lines from the beginning (November) to the present
    
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
