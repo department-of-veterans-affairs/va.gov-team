@@ -156,9 +156,9 @@ Considering that the overwhelming amount of participants did not feel anything w
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Rethink the "Saved Applications" section to be more clear that only in-progress applications will show there, and more clear what "applications" are.
-    * _Supporting evidence_
+    * _Supporting evidence: See finding 4_
 * Reconsider the link currently called "Check your GI Bill Statement of Benefits" in the "Education and Training" section, as the term is not familiar to Veterans and is an important link for Veterans using GI bill benefits.
-    * _Supporting evidence_
+    * _Supporting evidence: See finding 5_
 
 
 ## Next Steps
@@ -168,8 +168,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+After making changes to the Saved Applications and Education and Training sections, we recommend testing these updates in UAT to determine if there is still any confusion.
 
 ## Appendix
 
@@ -177,7 +176,7 @@ _If there are demographics that were not included in this study or you discovere
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/audit-conversation-guide.md)
 
-[Observation Notes](https://docs.google.com/spreadsheets/d/1ItavEGFODFAO6h5wbiPpllrlNFxHCLIN54j775gnB3o/edit#gid=0)
+[Observation notes](https://docs.google.com/spreadsheets/d/1ItavEGFODFAO6h5wbiPpllrlNFxHCLIN54j775gnB3o/edit#gid=0)
 
 
 ## Tools used for Synthesis
