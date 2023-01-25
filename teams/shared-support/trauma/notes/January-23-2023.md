@@ -6,7 +6,7 @@
 
 - Purpose: Review our purpose and discuss what we want to focus on
 - Attendees: Karen Cutright, Liz Straghalis, Lydia Hooper, Martha Wilkes, Melissa Lefevre, Rachael Dietkus, Ciera Maddox, Cindy Merrill
-[Unabbreviated notes](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit#heading=h.aijmr63fhwky)
+- [Unabbreviated notes for the full scoop 🍦 ](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit#heading=h.aijmr63fhwky)
 
 ## Key Summary
 
