@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 1/25/2023
-- Changes the behavior of the cancelled appointment error handling for pre check in. The cancelled appointment error should only be displayed if all appointments in the list are cancelled. If only some of the appointments are cancelled it should show the generic error.
+- Changes the error handling in Pre-Check-in for cancelled appointments. The cancelled appointment will only show when all appointments in the list are cancelled. 
     - [Ticket 51862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51862)
 
 ### 01/20/2023
