@@ -45,14 +45,14 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 2 minutes
 
 To start off, I have some questions for you about your service history. For some of these, you might not know the answer right off the top of your head, but that's fine. No need to go look up the information or anything. Is that okay with you?
-_Wait for consent to proceed_
+*Wait for consent to proceed*
 
 1. What branch of the military did you serve in?
 2. When did you retire or separate?
 
 ## Accessing and using service history information - X minutes
 
-_Ask only as much feels right. e.g. if they can't remember first couple questions, stop there and move on:_
+*Ask only as much feels right. e.g. if they can't remember first couple questions, stop there and move on:*
 3. Last entry date?
 4. Discharge date?
 5. Discharge type?
@@ -66,7 +66,7 @@ _Ask only as much feels right. e.g. if they can't remember first couple question
 12. What would you need to do to access that?
 13. In what types of situations would you need access to this information, besides perhaps this conversation?
 
-14. _If don't bring up form DD214): Do you also have a DD214?
+14. *If don't bring up form DD214*: Do you also have a DD214?
 15. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
 16. In what situations would you need to look at your DD214?
 17. Have you ever had to request a change to your DD214? 
@@ -74,7 +74,7 @@ _Ask only as much feels right. e.g. if they can't remember first couple question
 19. If no, do you anticipate ever needing to make a change?
 20. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
-19. Tell me about a time when you needed your service information for any reason. _If nothing comes to mind, prompt with examples, e.g. what about when you...
+19. Tell me about a time when you needed your service information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you...*
 20. When was that?
 21. Where were you? (are we talking about a digital form on a computer or a real paper form, or someone else filling it out for you?)
 22. How did you know this information was needed? (Was it a field on a form, did someone ask for the info verbally?)
