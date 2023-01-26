@@ -1,10 +1,16 @@
 # Overview of Cerner Integration Resources
 
-## Cerner FHIR API's
+## Cerner FHIR APIs
 Cerner provides standard FHIR API's that allow developers to integrate Cerner's EHR systems. These APIs can be used to extract data from Cerner systems, such as patient demographics, medications, lab results, and can also be used to update information in Cerner systems, such as creating new patient encounters or updating patient demographics.
 
 - Cerner FHIR documentation: https://fhir.cerner.com/millennium/overview/
 - Public Google Group for Cerner FHIR developers: https://groups.google.com/u/1/g/cerner-fhir-developers
+
+## Cerner Bulk APIs
+Bulk APIs enable the exchange records for multiple patients at once. APIs provide clinical data extracts at the population level, and provides access to large volumes of clinical data. Bulk APIs are new to Cerner as of late 2022.
+
+- Cerner Bulk API: [Bulk API Illuminations Sept 2022](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Bulk%20API%20Illumination_Sept%202022.pdf?csf=1&web=1&e=3kZxln)
+- HL7 FHIR Bulk Data: https://hl7.org/fhir/uv/bulkdata/
 
 ## Cerner's HealtheIntent Platform
 >Cerner's HealtheIntent open development services allow access to population health concepts using RESTful APIs. These APIs are meant to be used by other systems and applications in a business to business (B2B) context. As such, user-level authorization and filtering are not applied; Cerner expects that the systems and applications interacting with these APIs apply the appropriate authorization controls for users.
