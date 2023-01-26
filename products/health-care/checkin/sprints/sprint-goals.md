@@ -49,7 +49,7 @@ ________________________________________________________________________________
       - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
       - [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Get final approval of PR*      
+   - **GOAL: Get final approval of PR**      
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
    - **GOAL: Complete remaining feature requirements**
       -  [Send reason for appointment data to the front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996)
