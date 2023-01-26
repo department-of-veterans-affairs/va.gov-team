@@ -63,19 +63,27 @@ Answer:
 ### VA Insurance
 
 1. What is the Document Ready for Review notification? Does it require user action? Does it link anywhere?
+- **Answer**: This appears to be an action-oriented request from VA to the veteran to review newly-updated life insurance information. It links to https://insurance.va.gov/home. While I can't login to the site to verify this flow, its main CTA is Access My Policy Online.
 
 ### VBA Education
 
 1. What are the Email33 Enrollment Verification Monthly Attendance Verify notifications? Do they require user action? Do they link anywhere?
+- **Answer**: This is an action-required email to let the VA know if someone's education status has changed in the last month.
 
 ### VEText
 
 1. Are all of these now supported by VANotify?
+- **Answer**: It looks like it!
 2. For the in-person and virtual hearing reminders, do these link anywhere? Or do they include appointment information?
+- **Answer**: Yes, these texts do include appointment information. There are two options -- one with repsonses to confirm or cancel, and one without. Both link to the claim status tool and refer people to VA's 1800 number. 
 3. Does the prescription tracking notification link anywhere?
+- **Answer**: This includes super helpful info -- the facility, what the prescription is, and a tracking link. It also refers people to VA's prescription refill app, which is **not** the VA Mobile app.
 4. What are the "Code Messages Templates"? Are these confirmation codes (eg. like 2-factor auth)?
+- **Answer**: This are literally just templates, and we should take them out of the spreadsheet.
 5. What is the prescription auto-response?
+- **Answer**: This is also a blank template. Not sur what it is used for -- maybe if someone responds to the tracking notification? -- but we can take it out of the spreadsheet.
 6. What is the SMS API template?
+- **Answer**: Also a template we can take out of the spreadsheet.
 
 ### VA.gov
 
