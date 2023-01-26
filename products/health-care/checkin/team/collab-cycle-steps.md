@@ -92,5 +92,5 @@
 - Address any feedback from the team 
 - Complete & check-off all tasks in the Privacy, Security, & Infrasturcture Readiness section of the collab cycle ticket (or explain why they are not necessary)
 
-#### STEP 12: 508 AUDIT (UX: DESIGN)
+#### STEP 12: 508 AUDIT (PRODUCT)
 - Follow the [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office) to request an audit from the 508 office
