@@ -70,6 +70,7 @@ Quarters are by calendar year, not fiscal year.
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Telephone verification functionality| VA Profile| 1.26.23| Karisa Strickland brought this up on our 1.26.23 call, and that they would like to pilot something with us during Q2 CY2023|
 | Integrate emergency contact, next of kin, and insurance information into the VA.gov profile | Ming/Caregivers/Check-in experience| 5.4.21 | Ming reached out about adding this info into the profile as part of the check-in experience work, but we agreed that it probably doesn't need to reflect in the profile for their MVP. However it likely should show and be updatable from there at some point in time.|
 |Remove extension for non-work phone numbers | VA Profile |September 2020| We had some initial conversations about this with VA Profile, but it still hasn't gone anywhere|
 |ZIP+4 – Updating zip code in the VA.gov profile to elevate the additional 4 digits | N/A | September 2020 | Steve K mentioned that a stakeholder had asked about this, but there's been no formal request. This already supported by VA Profile. |
