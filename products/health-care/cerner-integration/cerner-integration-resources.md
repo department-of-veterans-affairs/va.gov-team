@@ -22,6 +22,13 @@ Bulk APIs enable the exchange records for multiple patients at once. APIs provid
 Cerner uses HL7 Messaging Standard Version 2.5.1 
 - Documentation from HL7.org: https://www.hl7.org/implement/standards/product_brief.cfm?product_id=144
 
+## Millennium Objects
+MillenniumObjects is an older Cerner proprietary service, comprised of XML web service APIs that interface to Cerner Millennium. Due to Cerner's focus on FHIR standard APIs, Cerner has deprecated some of the APIs. Some Cerner clients still use this platform for integration, and typically requires a separate licensing. 
+
+- Overview Architecture: [Overview of Millennium Web Services](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Overview%20of%20Millennium%20Web%20Services.pdf?csf=1&web=1&e=V2qKYT) and [Millennium Objects and Millennium Web Services](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Millennium%20Objects%20and%20Millennium%20Web%20Services%20-%20uCern.pdf?csf=1&web=1&e=hPIjru)
+- List of MillenniumObjects APIs (list exported Dec 2022): [Millennium APIs](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/MillenniumObjects%20APIs.pdf?csf=1&web=1&e=ZaomgQ)
+
+
 ## Additional Resources on VA.gov Github 
 Additional GH links that have information about Cerner integration compiled by other teams
 
