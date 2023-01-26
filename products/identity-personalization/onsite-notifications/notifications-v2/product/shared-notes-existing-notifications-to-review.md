@@ -92,6 +92,23 @@ Answer:
 
 ## Samara's assessment
 
+### Onsite notifications we should definitely add
+
 Based on my discovery above, I think the following are immediate candidates for onsight notifications:
 
-- **Prescription shipment notifications from VEText** -- This is both high volume and super important, even though these notifications only account for a fraction of the prescriptions shipped by VA (this has to do with the system that supports this notification vs. the system that supports shipments from centralized, non-hospital locations).
+- **VEText**: Prescription shipment notifications from VEText -- This is both high volume and super important, even though these notifications only account for a fraction of the prescriptions shipped by VA (this has to do with the system that supports this notification vs. the system that supports shipments from centralized, non-hospital locations).
+- **VEText**: BVA in-person or virtual hearing reminders -- These include really helpful information, which we can surface in VA.gov if technically possible. Numbers are smaller than prescription shipment notifications, but appeals hearings are extremely important for those they affect.
+- **VBA Education**: This is an action-oriented notification that's super important to verify whether people are still enrolled in school. We'd need to figure out how to handle this from a technical perspective since there's not a singular link in this email.
+
+### Potential notifications to add
+
+This notification meets our criteria, but numbers are small. Maybe put this in the backlog:
+
+- **VA insurance**: Document ready for review
+
+I still have some questions about how useful it would be to surface these given their current content:
+
+- **BVA**: Appeals decision mailed
+- **BVA**: Hearing scheduled
+- **QuickSubmit**: Failed Submission Email (This is sort of a confirmation, but action is required to resubmit materials.)
+
