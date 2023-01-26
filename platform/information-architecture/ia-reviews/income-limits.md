@@ -47,13 +47,13 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 1.  Health care hub page - Add
-  - Placement description: 
+  - Placement description: Under More information and resources, second from the top (right below VA health care copay rates)
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
   - Notes:
   
- 2.  Health care hub left vav - add
-  - Placement description: 
+ 2.  Health care hub left vav - Add
+  - Placement description: Under More resources, second from the top (right below VA health care copay rates)
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
   - Notes: 
@@ -61,17 +61,16 @@ The Income Limits tool will be a new page in the More info and resources section
 3.  Cost of Care - Add
   - Placement description: In Your health care costs page
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
+  - Link destination: TBD based on H1
   - Notes: Content and link to new Income and Limits tool
-  ![Costsofcarescreenshot](https://user-images.githubusercontent.com/122128479/214645767-d227348b-38a0-465e-9a57-53836814f532.png)
 
 
 4. Eligibility - Add
   - Placement description: In Eligibility page
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
+  - Link destination: TBD based on H1
   - Notes: Content and link to new Income Limits tool
- ![eligbilityscreenshot](https://user-images.githubusercontent.com/122128479/214646714-6eed0569-3a94-49dd-bfde-494aff90ab0d.png)
+
 
 
 ## <a name="redirects"></a>Redirects <br>
