@@ -257,4 +257,4 @@ Please list the people who will be serving in each role.
 - Project point of contact: [Eileen Chi](eileen.chi@coforma.io)	
 - Participant(s) for pilot test: [Eva Floyd](eva.floyd@coforma.io)	
 - Note-takers: 
-- Observers: [Sade Ragsdale](sade@coforma.io), [Gary Homidas](gary.homidas@adhocteam.us), [Robin Garrison](robin.garrison@adhocteam.us), [Matt Self](matthewself.dsva@gmail.com), [Katherine Fung](k.fung@bloomworks.digital)
+- Observers: [Sade Ragsdale](sade@coforma.io), [Gary Homidas](gary.homidas@adhocteam.us), [Robin Garrison](robin.garrison@adhocteam.us), [Matt Self](matthewself.dsva@gmail.com), [Katherine Fung](k.fung@bloomworks.digital), [Sarah Shields](sarah.shields@coforma.io)
