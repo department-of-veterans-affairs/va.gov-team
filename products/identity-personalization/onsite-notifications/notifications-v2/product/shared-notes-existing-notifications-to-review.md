@@ -51,13 +51,14 @@ Answer:
 ### QuickSubmit
 
 1. The following sound like confirmations, but are listed as "other". What are they?
-  - Account Activated
-  - Account Deactivated
-  - Approved Admin Request
-  - Denied Admin Request
-  - Failed Submission Email
-  - Profile Email Updated
+  - Account Activated - This is a confirmation.
+  - Account Deactivated - This is a confirmation, though the account could have been deactivated due to inactivity.
+  - Approved Admin Request - This is a confirmation.
+  - Denied Admin Request - This is a confirmation.
+  - Failed Submission Email - This is sort of a confirmation, but **action is required to resubmit materials**.
+  - Profile Email Updated - This is a confirmation.
 2. What is the Admin notification? Does it require user action? Does it link anywhere?
+  - **Answer**: This is letting people know they have pending requests that need to be addressed. However, it's unclear who the audience is. Are admin requests for people internal to VA?
 
 ### VA Insurance
 
