@@ -13,10 +13,17 @@ Hosted an open Q&A with Rachael Dietkus. Some questions included:
 - How do we maintain our energy and not burn out? 🌵
 - Do breathing techniques actually work mid-session? 🔥
 
+## [December 12, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2022-12-12.md)
+`Practice Meeting` `Strategy` 
+
+We talked about our purpose again, but this time more as an open conversation and less in a google doc. 
+- We realized researchers want a space to practice, learn, and debrief. 
+- We also started talking about our future vision.
+
 ## [November 28, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2022-11-28.md)
 `Practice Meeting` `Strategy` 
 
-Our very first conversation on the purpose of our trauma practice. We agreed there were unique needs for both current and new practitioners.
+Our very first meeting on the purpose of our trauma practice. We agreed there were unique needs for both current and new practitioners.
 
 
 
