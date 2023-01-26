@@ -23,7 +23,7 @@ Answer:
  ### BVA
  
 1. Do the Appeal decision mailed notifications link to anything? Or is it just a heads-up to look out for the mail?
-- **Answer**: It links to the claim status tool. According to the [#benefits-claim-appeal-status](https://dsva.slack.com/archives/C04KHCT3ZMY/p1674744495318219) team, appeals decisions do not currently show in the decision letters section of the claim status tool, so this likely isn't linking to anything helpful. It's basically letting people know to watch out for the mail.
+- **Answer**: It links to the claim status tool. According to the [#benefits-claim-appeal-status](https://dsva.slack.com/archives/C04KHCT3ZMY/p1674744495318219) team, appeals decisions *might* show in the decision letters section of the claim status tool, but it is unclear whether they always will. This has to do with how the tool was built and how the decision letters tool pulls in letters from a veteran's documents. So, it's unclear whether this is linking to helpful info or not. Maybe?
 2. What does "Appeal docketed" mean? What kind of information does this link to, if any?
 - **Answer**: Docketed = the case has been officially received and added to the appeals queue. The email links to the claim status tool, but it is unclear what we show re: appeals in the tool.
 3. Do the "hearing scheduled" notifications link to information, or include the scheduled date and time?
@@ -42,8 +42,11 @@ Answer:
 ### Lighthouse
 
 1. What is the Notice of Disagreement? We send this notificaton when a Veteran has filled out form 10182.  
+- **Answer**: This is effectively a confirmation message that a notice of disagreement (part of appeals process) has been filed.
 2. What is the Decision Review Request?  We send this notificaton when a Veteran has filled out form 20-0995.
+- **Answer**: This is basically a confirmation that the decision review request was received.
 3. What is the On Application Connect/Disconnect? This email is sent when a Veteran connects/disconnect their health app to/from their VA Profile
+- **Answer**: This is a confirmation for connecting/disconnecting third-party apps.
 
 ### QuickSubmit
 
