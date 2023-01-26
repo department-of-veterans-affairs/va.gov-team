@@ -1,6 +1,6 @@
 # Shared Notes: Existing Notifications to Review for Onsite Notifications
 
-Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting around shared document from them (converted gdoc available [here](https://docs.google.com/spreadsheets/d/1E7JupFC2i6XUzlOxbWwTbIJZ6AxRUz-m/edit#gid=1231731113) - access available upon request).
+Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting around [notifications currently supported by VAnotify](https://docs.google.com/spreadsheets/d/1E7JupFC2i6XUzlOxbWwTbIJZ6AxRUz-m/edit#gid=1231731113) - access available upon request).
 
 ## Notes & Questions
 
