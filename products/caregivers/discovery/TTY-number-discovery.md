@@ -10,9 +10,13 @@ From the original issue:
 
 ## Current EZ / CG experience
 
-## Usage guidance
+## Usage & guidance
 
-- The VA design system currently only has TTY associated with the general help desk number.
+- The VA design system currently only has TTY associated with the general help desk number:
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/81988788/214918471-76c698bf-b584-4502-b8f1-8b73f8a4556b.png">
+
+- TTY is listed on the VA [contact us page](https://www.va.gov/contact-us/), and [helpful numbers page](https://www.va.gov/resources/helpful-va-phone-numbers/):
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/81988788/214922186-09845abe-33ef-4b8c-9f01-d302d3e3de28.png">
+
 
 ## Recommendations
