@@ -255,6 +255,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: [Eileen Chi](eileen.chi@coforma.io)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: [Eileen Chi](eileen.chi@coforma.io)	
-- Participant(s) for pilot test: [Eva Floyd](eva.floyd@coforma.io)	
+- Participant(s) for pilot test: [Dan Miller](dan@coforma.io)	
 - Note-takers: 
 - Observers: [Sade Ragsdale](sade@coforma.io), [Gary Homidas](gary.homidas@adhocteam.us), [Matt Self](matthewself.dsva@gmail.com), [Katherine Fung](k.fung@bloomworks.digital), [Sarah Shields](sarah.shields@coforma.io)
