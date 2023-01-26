@@ -62,7 +62,22 @@
 - Address any feedback from the Contact Center team 
 - Complete & check-off all tasks in the Contact Center Review section of the collab cycle ticket (or explain why they are not necessary)
 
-#### STEP 8: STAGING REVIEW (PRODUCT)
+#### STEP 8: FUNCTIONAL TESTING (VARIOUS)
+- Prepare TestRail artifacts (PRODUCT)
+    - Test Plan
+    - Regression Test Plan
+    - Summary(Defects) Report
+    - Coverage for References Report
+- Run test cases for TestRail Test & Regression Plans (UX)
+- Generate TestRail reports (ENGINEERING)
+- Generate E2E tests (ENGINEERING)
+- Provide code coverage info (ENGINEERING)
+
+#### STEP 9: ACCESSIBILITY TESTING (ENGINEERING)
+- Create an accessibility ticket 
+- Complete & check-off each test in the ticket
+
+#### STEP 10: STAGING REVIEW (PRODUCT)
 - Schedule a Staging Review meeting using Calendly 
 - Provide links to all requested & relevant artifacts (or explain why they are not necessary)
 - Notify the Collab Cycle team of the meeting 
@@ -72,10 +87,10 @@
 - Create work tickets for other feedback for the Product Backlog
 - Complete & check-off all tasks in the Staging Review section of the collab cycle ticket (or explain why they are not necessary)
 
-#### STEP 9: PRIVACY, SECURITY, INFRASTRUCTURE READINESS REVIEW (ENGINEERING)
+#### STEP 11: PRIVACY, SECURITY, INFRASTRUCTURE READINESS REVIEW (ENGINEERING)
 - Follow the Privacy, Security, & Infrasturcture Readiness process 
 - Address any feedback from the team 
 - Complete & check-off all tasks in the Privacy, Security, & Infrasturcture Readiness section of the collab cycle ticket (or explain why they are not necessary)
 
-#### STEP 10: 508 AUDIT
+#### STEP 12: 508 AUDIT (UX: DESIGN)
 - Follow the [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office) to request an audit from the 508 office
