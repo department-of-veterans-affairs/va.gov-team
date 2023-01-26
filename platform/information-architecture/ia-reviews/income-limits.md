@@ -80,7 +80,7 @@ The Income Limits tool will be a new page in the More info and resources section
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp |  | 
+www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp | TBD based on content  | 
  
 
 
