@@ -9,6 +9,7 @@
     - Analytics
     - Research
 - If requested artifacts are not available or relevant, we will explain that in the ticket
+- Any collab cycle or other tickets that are created should contain our HCE-Checkin label and be associated to the relevant Epic in our team's Product Backlog
 
 ## STEP 1: CREATE COLLAB CYCLE TICKET (PRODUCT)
 - Create a ticket for your feature/Epic using this [template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=collab-cycle-review%2Ccollaboration-cycle%2CCC-Request&template=collaboration-cycle-request.yml&title=Collaboration+Cycle+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
