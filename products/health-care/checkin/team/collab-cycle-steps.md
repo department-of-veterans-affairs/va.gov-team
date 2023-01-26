@@ -76,3 +76,6 @@
 - Follow the Privacy, Security, & Infrasturcture Readiness process 
 - Address any feedback from the team 
 - Complete & check-off all tasks in the Privacy, Security, & Infrasturcture Readiness section of the collab cycle ticket (or explain why they are not necessary)
+
+#### OPTIONAL STEP 10: 508 AUDIT
+- Follow the [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office) to request an audit from the 508 office
