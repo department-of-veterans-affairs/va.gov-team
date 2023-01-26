@@ -53,11 +53,11 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 |------------- |---------|-------|-------------- |-------------- |-------------- |
 |Total Apps started |173,669|  | | TBD |TBD |
 |Household section |14.4% (23,803)|12.6% |8% | TBD |TBD |
-|Financial Disclosure |% (1,464)|% ()|% () | TBD |TBD |
-|Spouse Info |%|% |% | TBD |TBD |
+|Financial Disclosure |4% (1,464)|% ()|% () | TBD |TBD |
+|Spouse Info |6.5%|% |% | TBD |TBD |
 |Dependent info |%|% |% | TBD |TBD |
-|Annual Income |% (40,791)|% |% | TBD |TBD |
-|Deductible Expenses |% (9,704)|% |% | TBD |TBD |
+|Annual Income |5.5% (40,791)|% |% | TBD |TBD |
+|Deductible Expenses |1.4% (9,704)|% |% | TBD |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
