@@ -1,5 +1,22 @@
 # PLATFORM COLLABORATION CYCLE PROCESS
 
+- [GUIDELINES FOR FOLLOWING THIS PROCESS](#guidelines-for-following-this-process)
+- [DESIGN PHASE](#design-phase)
+    - [STEP 1: CREATE COLLAB CYCLE TICKET (PRODUCT)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/team/collab-cycle-steps.md#step-1-create-collab-cycle-ticket-product)
+    - [STEP 2: DESIGN INTENT (UX: DESIGN)](#step-2-design-intent-ux-design)
+    - [STEP 3: SITEWIDE CONTENT AND IA (UX: DESIGN)](#step-3-sitewide-content-and-ia-ux-design)
+- [DISCOVERY PHASE](#discovery-phase)
+    - [STEP 4: RESEARCH REVIEW (UX: RESEARCH)](#step-4-research-review-ux-research)
+    - [STEP 5: MIDPOINT REVIEW (UX: DESIGN)](#step-5-midpoint-review-ux-design)
+    - [STEP 6: ANALYTICS REQUEST (UX: RESEARCH)](#step-6-analytics-request-ux-research)
+- [BUILD PHASE](#build-phase)
+    - [STEP 7: CONTACT CENTER REVIEW (UX: DESIGN)](#step-7-contact-center-review-ux-design)
+    - [STEP 8: FUNCTIONAL TESTING (VARIOUS)](#step-8-functional-testing-various)  
+    - [STEP 9: ACCESSIBILITY TESTING (ENGINEERING)](#step-9-accessibility-testing-engineering)
+    - [STEP 10: STAGING REVIEW (PRODUCT)](#step-10-staging-review-product)   
+    - [STEP 11: PRIVACY, SECURITY, INFRASTRUCTURE READINESS REVIEW (ENGINEERING)](#step-11-privacy-security-infrastructure-readiness-review-engineering)  
+    - [STEP 12: 508 AUDIT (PRODUCT)](#step-12-508-audit-product)
+
 ## GUIDELINES FOR FOLLOWING THIS PROCESS
 - We should follow this process for new features that are substantial in nature
 - We may choose to follow this process but may not necessarily need or complete every step; in this case, we will explain in the ticket when we do not need a step 
