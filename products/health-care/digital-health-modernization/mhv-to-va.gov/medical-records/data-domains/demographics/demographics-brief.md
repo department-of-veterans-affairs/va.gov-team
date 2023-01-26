@@ -30,6 +30,34 @@ To serve as a source of truth around data field requirements and specifications,
 **Data field title:** Demographics
 
 **Data fields to include:**
+- VA Treatment Facility
+- First Name
+- Middle Name
+- Last Name
+- Date of Birth
+- Age
+- Gender
+- Ethnicity
+- Race
+- Language
+- Preferred Language
+- Religion
+- Place of Birth
+- Marital Status
+- Social History
+- Functional status
+- Advance Directive
+- Permanent Address and Contact Information
+- Eligibility
+- Employment
+- Primary Next-of-Kin
+- Emergency Contact
+- VA Guardian
+- Civil Guardian
+- Active Insurance
+
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/100814257/214926426-4b0b37aa-a155-4713-8e71-62d33f3f75b6.png">
+<img width="874" alt="image" src="https://user-images.githubusercontent.com/100814257/214926507-19688f64-4a20-400b-a2eb-550cdea79382.png">
 
 
 ## Use Cases
