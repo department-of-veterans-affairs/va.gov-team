@@ -125,8 +125,8 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
-- Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
-- Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
+- Pilot 1: **Feb 8/9/10 at X pm ET** with person (email address)
+- Pilot 2: **Feb 8/9/10 at X pm ET** with person (email address)
 
 ### Research sessions
 * Planned dates of research: **Feb 17-27, 2023** 
