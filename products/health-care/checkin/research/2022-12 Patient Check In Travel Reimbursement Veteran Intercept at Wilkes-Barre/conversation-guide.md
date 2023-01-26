@@ -1,13 +1,13 @@
 # Conversation Guide for Patient Check-In Travel Reimbursement Veteran Intercept at Wilkes-Barre 2022-12  
 
-Last modified: December 22, 2022
+Last modified: January 26, 2023
 
 ## Clinic Arrival Logistics
 
-Upon arrival at the clinics, speak with staff on how to conduct Veteran intercepts. Specifically, seek responses to the following: 
+Upon arrival at the clinics, speak with staff on how Veteran intercepts will be conducted. Specifically, seek responses to the following: 
 
 - Do staff want to do the Veterans intercepts or can the researchers?  
-Are there certain Veterans to intercept or avoid? I.e., according to patient flags. 
+- Are there certain Veterans to intercept or avoid? E.g., according to patient flags. 
 
 ## Intercept Intro - 1 minute 
 
@@ -15,7 +15,7 @@ Hello, are you checking in for an appointment?
 
 Great. Would you like to check in using your smartphone today? 
 
-Great. My name is Ben and I’m a researcher for the VA. I’m here to help get you checked in using your smartphone and gather feedback on the mobile check in process. Do you mind if I ask you a few questions while helping you check in? It will help us continue to improve the check in process for Veterans like yourself. This is completely voluntary. 
+Great. My name is Ben and I’m a researcher for the VA. I’m here to help get you checked in using your smartphone and gather feedback on the mobile check in process. Do you mind if I ask you a few questions while helping you check in? This is completely voluntary. 
 
 *If no:* 
 
@@ -24,6 +24,38 @@ Great. My name is Ben and I’m a researcher for the VA. I’m here to help get 
 *If yes:* 
 
 Thank you. If you’d like to stop at any time, just let me know and we will.    
+
+## Incentive - 1 minute 
+
+And, in exchange for your time today, we are offering a $10 Amazon digital gift card. Are you interested in this today? 
+
+*If no:* 
+
+No problem. 
+
+*Proceed to Section 1: Check In Observations.* 
+
+*If yes:* 
+
+Great. May I have your first and last name and email address? 
+
+*If their email address is not provided, then ask for their mailing address.* 
+
+And, do you recall if you’re registered with the VA to participate in research studies? For example, you may receive occasional emails from the VA asking if you’d like to participate in an upcoming research study.   
+
+*If no:*
+
+Would you like to be included in future research studies?
+
+Great. Thank you. You should receive your $10 Amazon digital gift card (or check) by email in 1-2 weeks.  
+
+*Proceed to Section 1: Check In Observations.* 
+
+*If yes:* 
+
+Great. Thank you. You should receive your $10 Amazon digital gift card (or check) by email in 1-2 weeks.  
+
+*Proceed to Section 1: Check In Observations.* 
 
 ## Section 1: Check In Observations
 
@@ -52,6 +84,8 @@ Okay. You can get started by using the check in poster.
 - Did the MSAs greet or interact with them? Why or why not?
 
 ## Section 2: Travel Reimbursement 
+
+*Skip to Section 3: Product Feedback and Communication Preferences if Veteran was not eligible for travel reimbursement questions.* 
 
 - Why did you choose to file (or not file) a travel reimbursement claim today? 
 
