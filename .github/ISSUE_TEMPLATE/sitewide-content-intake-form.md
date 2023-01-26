@@ -3,7 +3,7 @@ name: Sitewide Content and IA Intake Form
 about: To request support with content or IA from Sitewide Content and IA team
 title: "<Type of Request> from <Team>"
 labels: sitewide content, sitewide content-product support, Sitewide IA
-assignees: RLHecht
+assignees: RLHecht, coforma-terry
 
 ---
 
