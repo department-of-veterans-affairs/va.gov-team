@@ -89,3 +89,9 @@ Answer:
 
 1. What is Appointment Reminder Generic?
   - **Answer**: This is actually a generic reminder for benefit applications that have not been completed on VA.gov. [Link to VANotify template](https://notifications.va.gov/services/5bda137e-689e-4532-b3d2-2c81c0324331/templates/5617dd58-f6f6-4368-a53f-058ebe2dd8ad)
+
+## Samara's assessment
+
+Based on my discovery above, I think the following are immediate candidates for onsight notifications:
+
+- **Prescription shipment notifications from VEText** -- This is both high volume and super important, even though these notifications only account for a fraction of the prescriptions shipped by VA (this has to do with the system that supports this notification vs. the system that supports shipments from centralized, non-hospital locations).
