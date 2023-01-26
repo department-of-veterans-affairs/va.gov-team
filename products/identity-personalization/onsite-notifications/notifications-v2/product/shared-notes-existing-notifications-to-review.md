@@ -16,7 +16,6 @@ Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting a
 **4. I see the field for total sent to date - do we have an idea of cadence on a daily, weekly, monthly basis?**
 Answer: 
 
-
  ## Samara's questions
  
  We can combine these into the main list, but separating them for now until we have a chance to discuss and consolidate across our team.
@@ -24,13 +23,21 @@ Answer:
  ### BVA
  
 1. Do the Appeal decision mailed notifications link to anything? Or is it just a heads-up to look out for the mail?
+- **Answer**: It links to the claim status tool. According to the [#benefits-claim-appeal-status](https://dsva.slack.com/archives/C04KHCT3ZMY/p1674744495318219) team, appeals decisions do not currently show in the decision letters section of the claim status tool, so this likely isn't linking to anything helpful. It's basically letting people know to watch out for the mail.
 2. What does "Appeal docketed" mean? What kind of information does this link to, if any?
+- **Answer**: Docketed = the case has been officially received and added to the appeals queue. The email links to the claim status tool, but it is unclear what we show re: appeals in the tool.
 3. Do the "hearing scheduled" notifications link to information, or include the scheduled date and time?
+- **Answer**: These emails link to the claim status tool, but it is unclear whether appointment information shows there. There is no appointment info in the email.
 4. Do the "Postponement of hearing" notifications link to information, or include the scheduled date and time?
+- **Answer**: Same as above -- links to claim status, but no appointment info in the email. Also not clear if they get helpful info via the claim status tool or not.
 5. Do the "Privacy Act request pending" notifications require people to take action? If so, what?
+- **Answer**: This actually looks like more of a confirmation email, as the veteran or their rep would have filed the request. This email acknowledges receipt by BVA.
 6. What is the "quarterly notification" from BVA?
+- **Answer**: This is a quarterly status update of an appeal. Since appeals take years, it likely lets people know that things haven't changed most of the time.
 7. What is the "VSO IHP pending" notification? Does it require people to take action? If so, what?
+- **Answer**: This is essentially a confirmation email letting people know their appeal has been assigned to a VSO, and that the appeal will be docketed once BVA receives the necessary materials.
 8. Is the "Withdraw of hearing" notification a confirmation? Also, who withdrew the hearing, the veteran or BVA? Or can that vary?
+- **Answer**: Yes, this is a confirmation that either the veteran or their rep requested a withdraw of their hearing.
 
 ### Lighthouse
 
