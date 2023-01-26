@@ -57,7 +57,7 @@ To serve as a source of truth around data field requirements and specifications,
 - Active Insurance
 
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/100814257/214926426-4b0b37aa-a155-4713-8e71-62d33f3f75b6.png">
-<img width="874" alt="image" src="https://user-images.githubusercontent.com/100814257/214926507-19688f64-4a20-400b-a2eb-550cdea79382.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/214926668-00bf8929-a337-48b2-8f2e-730c8bdad2a9.png">
 
 
 ## Use Cases
