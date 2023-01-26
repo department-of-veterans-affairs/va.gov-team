@@ -101,11 +101,6 @@ This all depends on Florence having Github access.
 
 - Inventory all instances in which we use the "We can't load all the information..." error #51902
 
-**BE - Tom**
-
-- Testing Vets-API Server from BRD to EKS #52354
-  - May move to next sprint based on Tom's PTO and the actual deadline for this work
-
 ### Accessibility
 
 **Design - Liz**
