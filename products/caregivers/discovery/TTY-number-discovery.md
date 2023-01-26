@@ -27,3 +27,6 @@ From the original issue:
 
 
 ## Recommendations
+
+- Update 1010CG TTY link and content to be consistent with 1010EZ:
+  - **If you have trouble using this online application**, call our MyVA411 main information line at [800-698-2411]() ([TTY: 711]()). We’re here 24/7.
