@@ -10,6 +10,13 @@ From the original issue:
 
 ## Current EZ / CG experience
 
+- 1010EZ "Need help?" section:
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/81988788/214923318-34384347-4005-4d88-a432-0cd04d02086a.png">
+
+- 1010CG "Need help?" section:
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/81988788/214923403-1dbfb56f-92e7-4631-8b91-4ed33697dc49.png">
+
+
 ## Usage & guidance
 
 - The VA design system currently only has TTY associated with the general help desk number:
