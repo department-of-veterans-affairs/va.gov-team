@@ -2,7 +2,7 @@
 name: Authenticated Experience Profile New Issue Template
 about: Basic template for creating Authenticated Experience Profile team issues
 title: Practice Area | Profile | [Project]| [Issue Name]
-labels: authenticated-experience, needs-grooming, profile, sprint-planning, vsa
+labels: authenticated-experience, needs-grooming, profile, sprint-planning
 assignees: ''
 
 ---
