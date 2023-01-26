@@ -60,7 +60,7 @@ The Income Limits tool will be a new page in the More info and resources section
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
   - Notes: We think replacing the link on this page with the link to the new tool and updating the content is important. We guess that most users will find the tool either on this page or the Eligibility page --> we recommend verifying this in user testing. Content and page hierarchy for the updated link TBD by Sitewide Content.
-<img width="356" alt="costofcarescreenshot" src="https://user-images.githubusercontent.com/122128479/214917196-e45ffc3b-5fd2-4c84-a8c2-0bc5ca0cf368.png">
+<img width="745" alt="costofcarepage" src="https://user-images.githubusercontent.com/122128479/214926368-f5344e19-dd2b-45e9-a308-114de2433030.png">
 
 
 4. Eligibility for VA health care - Update link
@@ -68,7 +68,7 @@ The Income Limits tool will be a new page in the More info and resources section
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
   - Notes: We think replacing the link on this page with the link to the new tool and updating the content is important. We guess that most users will find the tool either on this page or the 'Your healthcare costs' page --> we recommend verifying this in user testing. Content and page hierarchy for the updated link TBD by Sitewide Content.
-<img width="606" alt="eligibilityscreenshot" src="https://user-images.githubusercontent.com/122128479/214917565-0886aed4-0dbc-4bf0-b28a-87c74f43a626.png">
+<img width="678" alt="eligibilitypage" src="https://user-images.githubusercontent.com/122128479/214926801-ccb5e45c-a290-47c7-b539-99dcbeeb1858.png">
 
 
 ## <a name="redirects"></a>Redirects <br>
