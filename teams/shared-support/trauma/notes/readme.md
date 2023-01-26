@@ -26,6 +26,7 @@ We talked about our purpose again, but this time more as an open conversation an
 Our first meeting on the purpose of our trauma practice. We agreed there were unique needs for both current and new practitioners.
 
 ## [November 7, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2022-11-07.md)
+`Practice Meeting` `Strategy` 
 
 Our first meeting ever! Lots of introductions, defining meeting norms, reviewing existing work, and an open discussion on how we move forwards including:
 - How we meet and how often we should meet
