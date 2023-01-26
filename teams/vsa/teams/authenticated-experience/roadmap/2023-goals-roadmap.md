@@ -91,6 +91,12 @@ We're aware of some high-level problems people have navigating the logged in exp
 
 Samara's maternity leave!! I'll be out most of this quarter.
 
+#### Profile
+
+Potential work:
+
+- Telephone number validation. Waiting for more details and actual timeline from VA Profile.
+
 ### Q3 - Q4 CY2023 (July - December)
 
 We'll determine what we'll be working on as we get closer to summer.
