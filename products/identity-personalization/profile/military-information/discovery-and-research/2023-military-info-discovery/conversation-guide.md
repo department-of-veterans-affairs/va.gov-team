@@ -53,6 +53,7 @@ To start off, I have some questions for you about your service history. For some
 ## Accessing and using service history information - X minutes
 
 *Ask only as much feels right. e.g. if they can't remember first couple questions, stop there and move on:*
+
 3. Last entry date?
 4. Discharge date?
 5. Discharge type?
