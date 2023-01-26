@@ -13,23 +13,18 @@
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
-- Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 ### Starting the session
 
 - In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Florence.
+Thanks for joining us today! My name is Florence. 
 
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-
-Today we're going to talk about your experience obtaining and using your military service records.
+Today we're going to talk about your experience obtaining and using your military service records. Before we move forward, I just wanted to check: (confirm that they have completed the task they selected in the screening questionnaire.)
 
 Before we start, a few things I want to mention:
 
@@ -47,22 +42,55 @@ Before we start, a few things I want to mention:
 *Start recording.*
 - **I have started recording**. Okay, I'll ask you again so we have your answer recorded: Are you comfortable with me recording my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 2 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
-1. 
+To start off, I have some questions for you about your service history. For some of these, you might not know the answer right off the top of your head, but that's fine. No need to go look up the information or anything. Is that okay with you?
+_Wait for consent to proceed_
 
-## Obtaining records questions - X minutes
+1. What branch of the military did you serve in?
+2. When did you retire or separate?
 
-Now I have some questions for you about the process of obtaining your service records. 
-1.
+## Accessing and using service history information - X minutes
 
-## Using records or service info (w/o necessary records themselves) questions - X minutes
+_Ask only as much feels right. e.g. if they can't remember first couple questions, stop there and move on:_
+3. Last entry date?
+4. Discharge date?
+5. Discharge type?
+6. Military service number?
+7. Any awards, decorations, medals, badges?
+8. Do you have a VA service connected rating? If yes, what is your rated percentage?
 
-Before we look at the website, let’s start with a few warm-up questions.
-1.
+9. For any of these questions, where would you go if you didn't know or wanted to doublecheck?
+10. What would you need to do to access that?
+11. If you didn't have access to that for some reason, where else could you go?
+12. What would you need to do to access that?
+13. In what types of situations would you need access to this information, besides perhaps this conversation?
 
-## Expectations for finding service info questions - X minutes
+14. _If don't bring up form DD214): Do you also have a DD214?
+15. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
+16. In what situations would you need to look at your DD214?
+17. Have you ever had to request a change to your DD214? 
+18. If yes, when was that? What was the change you needed to make, and why?
+19. If no, do you anticipate ever needing to make a change?
+20. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
+
+19. Tell me about a time when you needed your service information for any reason. _If nothing comes to mind, prompt with examples, e.g. what about when you...
+20. When was that?
+21. Where were you? (are we talking about a digital form on a computer or a real paper form, or someone else filling it out for you?)
+22. How did you know this information was needed? (Was it a field on a form, did someone ask for the info verbally?)
+23. And what specific information from your DD214 was needed?
+24. How did you access the information?
+25. Circle back: Tell me about another time when you needed your service information.
+
+## Expectations/hopes for finding service info - X minutes
+
+Okay, we're almost done with questions. Thank you for everything you've shared before. It's all really helpful information. Now, I want to turn our attention to the final 5 or so questions.
+
+21. Let's imagine that you could easily find your service information online, using your browser. _Pause._ What is your immediate response to that idea?
+22. Would accessing your service history information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
+23. Do you have any thoughts on where online you'd want to go to access your service information? 
+24. If that information were on VA.gov, where on that site would you expect to find your service information? 
+25. Would accessing your service history information on VA.gov be easier or more difficult than _______ (your current way of accessing that information? Why?
 
 ## Thank-You and Closing - X minutes
 
@@ -72,13 +100,14 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+If a test participant shows signs of distress, take a moment to check in with them (offer to pass on the question, suggest taking a short break).
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+If they continue to give signs of distress, close the session:
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+"We have covered all the questions I have for you today. Thank you so much for your time and feedback."
+
+After the session has closed, complete the ["Requesting emergency assistance" steps from the Emergency Exit Strategies document.](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
+
 
