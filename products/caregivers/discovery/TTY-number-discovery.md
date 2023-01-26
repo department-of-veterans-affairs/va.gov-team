@@ -6,4 +6,6 @@ This is discovery for issue [#45117](https://app.zenhub.com/workspaces/10-10-hea
 
 ## Current EZ / CG experience
 
+## Guidance
+
 ## Recommendations
