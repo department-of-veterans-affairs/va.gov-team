@@ -58,19 +58,20 @@ The Income Limits tool will be a new page in the More info and resources section
   - Link destination: TBD based on H1
   - Notes: 
 
-3.  Cost of Care - Add
-  - Placement description: In Your health care costs page
+3. Your health care costs - Add
+  - Placement description: In Your health care costs page (https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
-  - Notes: Content and link to new Income and Limits tool
+  - Notes: We think adding a link under this page will help provide an additional entry point if Veterans begin their journey under Get VA health care. Perhaps this can be included in research as well
+<img width="356" alt="costofcarescreenshot" src="https://user-images.githubusercontent.com/122128479/214917196-e45ffc3b-5fd2-4c84-a8c2-0bc5ca0cf368.png">
 
 
-4. Eligibility - Add
-  - Placement description: In Eligibility page
+4. Eligibility for VA health care - Add
+  - Placement description: In Eligibility page (https://www.va.gov/health-care/eligibility/)
   - Link label: TBD by Sitewide Content
   - Link destination: TBD based on H1
-  - Notes: Content and link to new Income Limits tool
-
+  - Notes: We think adding a link under this page will help provide an additional entry point if Veterans begin their journey under Get VA health care. Perhaps this can be included in research as well
+<img width="606" alt="eligibilityscreenshot" src="https://user-images.githubusercontent.com/122128479/214917565-0886aed4-0dbc-4bf0-b28a-87c74f43a626.png">
 
 
 ## <a name="redirects"></a>Redirects <br>
