@@ -37,16 +37,28 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 **1) Income Limits Tool - New**
-- URL: TBD based on H1, but will likely be something like https://www.va.gov/health-care/income-limits-tool
+- URL: TBD based on H1
 - Breadcrumb: Home > Health Care > [H1 of page]
-- Notes: H1 TBD by Sitewide Content
+- Notes: H1 TBD by Sitewide Content. Also, all consecutive pages in the flow (like the steps in the flow) will build from this root URL. For those additional URL slugs, you can follow our URL standards in word selection and formatting (you don't need to ask us for those -- they're in design system > content style guide). Let us know if you need help with that!
 
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1.  Cost of Care - Add
+1.  Health care hub page - Add
+  - Placement description: 
+  - Link label: TBD by Sitewide Content
+  - Link destination: TBD based on H1
+  - Notes:
+  
+ 2.  Health care hub left vav - add
+  - Placement description: 
+  - Link label: TBD by Sitewide Content
+  - Link destination: TBD based on H1
+  - Notes: 
+
+3.  Cost of Care - Add
   - Placement description: In Your health care costs page
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
@@ -54,7 +66,7 @@ The Income Limits tool will be a new page in the More info and resources section
   ![Costsofcarescreenshot](https://user-images.githubusercontent.com/122128479/214645767-d227348b-38a0-465e-9a57-53836814f532.png)
 
 
-2. Eligibility - Add
+4. Eligibility - Add
   - Placement description: In Eligibility page
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits-tool, TBD based on H1
