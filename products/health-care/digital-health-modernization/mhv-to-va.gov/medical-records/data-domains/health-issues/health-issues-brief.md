@@ -10,25 +10,6 @@ To serve as a source of truth around data field requirements and specifications,
 
 This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture itself, but rather is contained in one of two different types of reports that can be generated from MyHealth*e*Vet.  
 
-The two types of reports that may contain a list of health issues are Blue Button reports and VA Health Summary Reports.  It is worth nothing that the data that populate these two reports are derived from different data sources, and therefore may not match.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  The Blue Button report is derived from the patient's eVault data, which originates from VistA.  Below shows the list of Problem List fields available within each report.
-
-- VA Health Summary
-    - Problem
-    - Provider
-    - Location
-    - Status
-    - Date/Time Entered
-    - Comments
-
-- Blue Button Report
-    - Problem
-    - Status
-    - Problem Code
-    - Date on Onset
-    - Date of Resolution
-    - Provider
-    - Source
-
 ## Problem List in Context of Existing MyHealth*e*Vet Site
 1. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
 2. The ability to download a Problem List requires users to upgrade to a Premium Account. 
@@ -60,42 +41,35 @@ The two types of reports that may contain a list of health issues are Blue Butto
 ## Demographics data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-**Data field title:** Demographics
+**Data field title:** Problem List (Health Issues)
 
 **Data fields to include:**
-- VA Treatment Facility
-- First Name
-- Middle Name
-- Last Name
-- Date of Birth
-- Age
-- Gender
-- Ethnicity
-- Race
-- Language
-- Preferred Language
-- Religion
-- Place of Birth
-- Marital Status
-- Social History
-- Functional status
-- Advance Directive
-- Permanent Address and Contact Information
-- Eligibility
-- Employment
-- Primary Next-of-Kin
-- Emergency Contact
-- VA Guardian
-- Civil Guardian
-- Active Insurance
+There are two different types of report available on MyHealtheVet that contain a list of health issues  -- Blue Button reports and VA Health Summary reports.  It is worth nothing that the data that populate these two reports are derived from different data sources, and therefore may not match.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  The Blue Button report is derived from the patient's eVault data, which originates from VistA.  Below shows the list of Problem List fields available within each report.  
 
-<img width="957" alt="image" src="https://user-images.githubusercontent.com/100814257/214926426-4b0b37aa-a155-4713-8e71-62d33f3f75b6.png">
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/214926668-00bf8929-a337-48b2-8f2e-730c8bdad2a9.png">
+- VA Health Summary
+    - Problem
+    - Provider
+    - Location
+    - Status
+    - Date/Time Entered
+    - Comments
+
+- Blue Button Report
+    - Problem
+    - Status
+    - Problem Code
+    - Date on Onset
+    - Date of Resolution
+    - Provider
+    - Source
 
 
 ## Use Cases
 
 **Common Use Cases**
+- A Veteran who likes to keep a hard copy of his health information wants to make sure that it contains all of the current conditions he is being treated for.
+
+- A Veteran who is planning to have surgery at a non-VA facility wants to make sure that the provider is informed about all of her current health conditions.
 
 **Edge Cases**
 
@@ -107,7 +81,7 @@ The two types of reports that may contain a list of health issues are Blue Butto
 
 
 **Where do Health Problems fit within IA?**
-
+TBD
 
 
 ### How to show Health Problems section
