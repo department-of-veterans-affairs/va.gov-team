@@ -39,6 +39,9 @@ We bet that if veterans have the ability to download their decision letters thro
 - number of decision letters downloaded (daily, weekly, monthly)
 - Average time between decision and disagreement pathway chosen
 - number of Call Center calls related to decision letters (daily, weekly, monthly)
+- Number of unique page views to the decision letter listing page
+- Avg number of letters downloaded per unique page views
+
 
 ## Discovery Takeaways
 - [2021 Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/SummaryCSTresearchOct2021/Summary%20CST%20Research%2C%20Oct%202021.pdf)
