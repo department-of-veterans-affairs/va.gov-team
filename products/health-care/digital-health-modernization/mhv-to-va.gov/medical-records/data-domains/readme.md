@@ -1,11 +1,11 @@
 # Medical Records Data Domains, alphabetical order
-- Admissions and discharges
-- Allergies
+- [Admissions and discharges](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/admissions-discharges/admissions-discharges-brief.md)
+- [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 - Cardiology images and reports
 - [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/notes-brief.md)
-- Demographics*
-- DOD info
-- Health issues / problem list
+- [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
+- [DOD info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/dod-info/dod-info-brief.md)
+- [Health issues / problem list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)
 - [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/immunizations-brief.md)
 - Medications*
 - [Lab and Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)
