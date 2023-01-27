@@ -147,7 +147,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 **Veteran preparation**
 
-11. Having a valid **photo ID and a DD-214** is helpful regardless of service
+11. The documents and information needed to **prepare** for a visit varies by service
 12. Public Contact Offices often **stop taking clients** prior to the official closing time
 
 - - -
@@ -318,12 +318,21 @@ This third group of findings relates to research question 4:
 
 4. What do Veterans need to know or do to be adequately prepared for a visit?
 
-### 11 - Having a valid photo ID and a DD-214 is helpful regardless of service
+### 11 - The documents and information needed to prepare for a visit varies by service  
 
+- Having a valid photo ID and a DD-214 is helpful regardless of service
+- Surviving spouses have to provide many different documents depending on the benefits they are applying for (e.g., marriage license, death certificate, funeral bill, first notice of death, receipts for medical expenses), and also need to know key details about the Veteran (e.g. effective date, branch of military service, disability rating)
+- When adding or removing dependents, Veterans will need documents establishing their relationship (e.g., birth certificate, marriage certificates, divorce decrees) and also need to know key details about the dependent (e.g., social security number, birth date)
+- eBenefits registration requires 2 forms of ID
 - Civilian medical records can be helpful for supplemental claims
-- Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
-- eBenefits registration = 2 forms of ID
-- Adding/removing dependent = birth certificate, social security cards,  marriage certificates, divorce decrees
+
+> If they can't present us with ID there's nothing that we can do for them. - P11
+
+> Sometimes [surviving spouses] don't have that information. They just know that their spouse was in the military. And then they come and say, "I want to file for this," but they don't know anything about their spouse's military service. - P12
+
+> It's like, "oh, I want to add a dependent," but then they don't have their social security numbers, or remember birth dates. - P12 
+
+> They want to bring in medical records that are outside the VA system, because then we can scan and upload them to the system instead of doing the medical release. -P6
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
