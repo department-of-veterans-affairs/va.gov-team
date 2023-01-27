@@ -8,7 +8,7 @@
 - Health issues / problem list
 - [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - Medications*
-- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
+- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains)
 - Pathology results
 - Radiology images & Reports
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
@@ -30,7 +30,7 @@ Based on our current research, we believe that the domains will be grouped in so
 - Health issues / problem list
 - [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - Medications*
-- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
+- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains)
   - Chemistry/Hematology
     - Microbiology
     - Pathology results (Surgical Pathology, Cytology, Microscopy)
@@ -60,9 +60,9 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 # Domain Briefs and Low-Fi Design Status
 |Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
 |------------------------------------------|-----------------|---------------------|----------------------------------|----------------------|
-| - Immunizations                          | Robyn Singleton | Complete            | Jonathan Nelson                  | Complete             |
+| - Immunizations                          | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)            | Jonathan Nelson                  | Complete             |
 | - Labs and Tests                         | Marci McGuire   | Complete            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
-| - Clinical notes                         | Jenny Yang      | Complete            |                                  |                      |
+| - Clinical notes                         | Jenny Yang      | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)           |                                  |                      |
 | - Health Issues / Problem List           | Marci McGuire   | In Progress         |                                  |                      |
 | - Vitals                                 | Robyn Singleton | Complete            |                                  |                      |
 | - Admissions and Discharges              | Marci McGuire   |                     |                                  |                      |
