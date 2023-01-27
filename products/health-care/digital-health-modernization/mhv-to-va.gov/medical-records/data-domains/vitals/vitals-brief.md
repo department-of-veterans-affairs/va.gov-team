@@ -39,6 +39,7 @@ Vital signs are collected at every medical encounter and some vital signs can be
 - Location
 - Date/Time collected
 
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/100814257/215164242-35288075-c782-4d41-859c-0d28686eeca5.png">
 
 ## Use Cases
 
