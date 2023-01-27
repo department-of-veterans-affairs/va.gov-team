@@ -10,10 +10,6 @@
 
 ## VBA Education: Verify enrollment (monthly)
 
-![Screenshot 2023-01-27 at 11 06 36 AM](https://user-images.githubusercontent.com/97965610/215140279-0e46361f-aefd-46ac-b719-4775191d6f95.png)
-
-## VBA Education: Verify enrollment (monthly)
-
 ![Screenshot 2023-01-27 at 11 06 36 AM](https://user-images.githubusercontent.com/97965610/215147028-66d54fd0-83c8-4586-a1ef-47179be83102.png)
 
 ## VA insurance: Document ready for review
