@@ -32,8 +32,8 @@ The following steps need to be performed each development session, since the MFA
 aws ssm start-session --target <instance_id> --document-name AWS-StartPortForwardingSession --parameters '{"portNumber":["<fwdproxy_port>"], "localPortNumber":["<local_port>"]}'
 ```
   * `instance_id` is the AWS instance id (like `i-0a751576c718bf730`) from step 3.
-  * `fwdproxy_port` is the configured HAProxy port for the upstream service. For MHV, the values are as follows:
-    * ~dev -> intb - fwdproxy_port = **4498**~
+  * `fwdproxy_port` is the configured HAProxy port for the upstream service. For MHV Secure Messaging, the values are as follows:
+    * dev -> intb - fwdproxy_port = **4498**
     * staging -> sysb - fwdproxy_port = **4498**
   * `local_port` can be any unused port number on your machine. You'll need this value when configuring vets-api below. 
 
