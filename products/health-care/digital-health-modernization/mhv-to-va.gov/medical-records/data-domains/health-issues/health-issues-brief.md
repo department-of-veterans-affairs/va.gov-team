@@ -8,7 +8,22 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
-This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.
+This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture.  The only way to access health problems is by generating a Blue Button report or a VA Health Summary Report, and the data provided in these two reports is inconsistent.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data and provides the following:
+- Problem
+- Provider
+- Location
+- Status
+- Date/Time Entered
+- Comments
+
+The Blue Button Report is derived from [data] and provides the following:
+- Problem
+- Status
+- Problem Code
+- Date on Onset
+- Date of Resolution
+- Provider
+- Source
 
 ## Relevant links
 
