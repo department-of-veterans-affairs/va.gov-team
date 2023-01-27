@@ -94,6 +94,8 @@ Answer:
 
 ### Onsite notifications we should definitely add
 
+[Link to screenshots from VA Notify platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/VANotify-template-screenshots.md)
+
 Based on my discovery above, I think the following are immediate candidates for onsight notifications:
 
 - **VEText**: Prescription shipment notifications from VEText -- This is both high volume and super important, even though these notifications only account for a fraction of the prescriptions shipped by VA (this has to do with the system that supports this notification vs. the system that supports shipments from centralized, non-hospital locations).
