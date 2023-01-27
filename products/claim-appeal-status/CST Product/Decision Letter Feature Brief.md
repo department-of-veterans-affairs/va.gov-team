@@ -15,6 +15,7 @@ As a veteran who is being represented under a  POA agreement, after a claims dec
 Screenshot of current experience: 
 ![current experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/CST%20compensation%20claim.png)
 	
+- As a veteran who has just received a claims decision, but is disasisfied with the outcome, I must wait up to ten days to receive a decision letter that has the information I need to make an informed decision about which decision review option I should choose. 
 - As a veteran who has lost the physical decision letter mailed to me, I must reach out to the VA, request a new one, and then wait for it to arrive via snail mail. In the meantime, I am unable to provide the letter to my representative or a third party benefit provider who needs it to prove my disability status. 
 - As a call center representative, I often receive inquiries from veterans about how they can obtain their decision letters, which takes time away from answering other important inquiries veterans have. 
 
