@@ -1,19 +1,12 @@
 # Conversation Guide 
 
 ## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2: Double-check participant roster to see which recent activity (from the screener) they completed in the last year.
-- [ ] Step 3
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Double-check participant roster to see which recent activity (from recruiting screener) they completed in the last year.
 
 ### Starting the session
 
@@ -49,7 +42,7 @@ To start off, I have some questions for you about your service history. Is that 
 
 1. What branch of the military did you serve in?
 2. When did you retire or separate?
-3. What keeps you busy now-a-days?
+3. What keeps you busy lately?
 
 ## Accessing and using service history information - 35 minutes
 
@@ -60,7 +53,7 @@ To start off, I have some questions for you about your service history. Is that 
 8. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
 9. What would you have done if you couldn't access the information that way?
 10. Tell me about another time when you needed your service information?
-11. What are other situations you can inmagine where you'd need your service information?
+11. What are other situations you can imagine where you'd need your service information?
 12. If I were to ask you for your service information now (date and place of entry into active duty, service start and end dates, last assignment and rank, condition of discharge), what would you need to do to tell me that info with certainty?
 
 12. *If don't bring up form DD214*: Do you also have a DD214?
