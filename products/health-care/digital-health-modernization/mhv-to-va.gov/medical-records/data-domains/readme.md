@@ -61,12 +61,12 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 |Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
 |------------------------------------------|-----------------|---------------------|----------------------------------|----------------------|
 | - Immunizations                          | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)            | Jonathan Nelson                  | Complete             |
-| - Labs and Tests                         | Marci McGuire   | Complete            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
+| - Labs and Tests                         | Marci McGuire   | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
 | - Clinical notes                         | Jenny Yang      | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)           |                                  |                      |
-| - Health Issues / Problem List           | Marci McGuire   | In Progress         |                                  |                      |
+| - Health Issues / Problem List           | Marci McGuire   | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)         |                                  |                      |
 | - Vitals                                 | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)           |                                  |                      |
 | - Demographics                           | Robyn Singleton | Complete            |                                  |                      |
 | - Allergies                              | Robyn Singleton | Complete            |                                  |                      |
-| - DoD Information                        | Marci McGuire   |                     |                                  |                      |
+| - DoD Information                        | Marci McGuire   | In Progress                    |                                  |                      |
 | - Blue Button/Health Summary Report page | Marci McGuire   |                     |                                  |                      |
 
