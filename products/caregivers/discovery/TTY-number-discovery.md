@@ -33,8 +33,6 @@ From the original issue:
 
 ## Recommendations
 
-(See mockups and Sketch file below)
-
 - Add TTY number to all CG "Need help?" numbers
 - Use bold styling in CG "Need help?" for emphasis and consistency with EZ styling
 - Add hours of availability to CG numbers
