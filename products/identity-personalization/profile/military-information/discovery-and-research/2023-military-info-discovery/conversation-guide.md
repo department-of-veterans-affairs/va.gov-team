@@ -61,6 +61,7 @@ To start off, I have some questions for you about your service history. Is that 
 9. What would you have done if you couldn't access the information that way?
 10. Tell me about another time when you needed your service information?
 11. What are other situations you can inmagine where you'd need your service information?
+12. If I were to ask you for your service information now (
 
 12. *If don't bring up form DD214*: Do you also have a DD214?
 13. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
