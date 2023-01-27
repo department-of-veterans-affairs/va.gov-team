@@ -10,7 +10,7 @@ Multiple research study findings suggest that the ability to download decision l
 Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status. 
 
 ## Problem Statement(s)
-As a veteran who is being represented under a  POA agreement, after a claims decision is rendered by an adjudicator, I must wait for my decision letter to arrive through physical mail in order to have tangible evidence of that decision. As a result, I am unable to immediately pursue the appropriate disagreement pathway because my representative requires the decision letter to take action on my behalf. 
+As a veteran who is being represented under a  POA agreement, after a claims decision is rendered by an adjudicator, I must wait for my decision letter to arrive through physical mail in order to have tangible evidence of that decision. As a result, I am unable to immediately pursue the appropriate decision review pathway because my representative requires the decision letter to take action on my behalf. 
 
 Screenshot of current experience: 
 ![current experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/CST%20compensation%20claim.png)
