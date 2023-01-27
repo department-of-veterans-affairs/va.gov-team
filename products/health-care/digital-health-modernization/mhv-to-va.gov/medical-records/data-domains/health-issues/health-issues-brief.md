@@ -1,6 +1,6 @@
 # Health Issues Brief
 
-Last updated: January 26, 2023
+Last updated: January 27, 2023
 
 ## Purpose
 
@@ -8,22 +8,38 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
-This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture.  The only way to access health problems is by generating a Blue Button report or a VA Health Summary Report, and the data provided in these two reports is inconsistent.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data and provides the following:
-- Problem
-- Provider
-- Location
-- Status
-- Date/Time Entered
-- Comments
+This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture.  
 
-The Blue Button Report is derived from [data] and provides the following:
-- Problem
-- Status
-- Problem Code
-- Date on Onset
-- Date of Resolution
-- Provider
-- Source
+The only way to access health problems is by generating a Blue Button report or a VA Health Summary Report.  It is worth nothing that the data provided in these two reports comes from two different data sources, and therefore may not match.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  The Blue Button report is derived from the patient's eVault data, which originates from the PHR (Patient Health Record) data.  Below shows the list of Problem List fields available within each report.
+
+- VA Health Summary
+    - Problem
+    - Provider
+    - Location
+    - Status
+    - Date/Time Entered
+    - Comments
+
+- Blue Button Report
+    - Problem
+    - Status
+    - Problem Code
+    - Date on Onset
+    - Date of Resolution
+    - Provider
+    - Source
+
+## Problem List Within Existing MyHealth*e*Vet Site
+1. Information and disclaimers about the problem list can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
+2. The ability to download a Problem List requires users to upgrade to a Premium Account. To view the problem list online, you will need to use a test user account that is set up as Premium.
+3. There is a 36-hour waiting period before a new problem is included in the Problem list.
+4. My VA Health Summary, which also contains a list of problems -- labeled "Problems (Conditions)" -- can be downloaded without a Premium Account.  
+5. The problem list within the VA Health Summary is displayed in a tabluar format. Screen shot of on-screen view | PDF example
+6. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
+7. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
+8. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
+9. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
+
 
 ## Relevant links
 
@@ -88,14 +104,14 @@ The Blue Button Report is derived from [data] and provides the following:
 
 ## UX considerations
 
-### When to show Demographics section
+### When to show Health Problems section
 
 
-**Where do Demographics fit within IA?**
+**Where do Health Problems fit within IA?**
 
 
 
-### How to show Demographics section
+### How to show Health Problems section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 
@@ -103,7 +119,7 @@ The Blue Button Report is derived from [data] and provides the following:
 **View vs. share vs. download considerations:**
 
 
-### Research that relates to Demographics
+### Research that relates to Health Problems
 
 **Findings from card sort**
 
