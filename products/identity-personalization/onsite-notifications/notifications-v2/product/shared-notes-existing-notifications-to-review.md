@@ -8,13 +8,13 @@ Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting a
  Answer: Not relevant for our team's purposes
 
 **2. What's the significance of the highlighted fields?**
- Answer: 
+ Answer: Not certain of the answer
 
 **3. What's the significance of the item(s) in red?** 
- Answer: 
+ Answer: Already is an onsite notification
 
 **4. I see the field for total sent to date - do we have an idea of cadence on a daily, weekly, monthly basis?**
-Answer: 
+Answer: You can find more detailed data in Domo and can filter by template and/or service: https://va-gov.domo.com/page/2040841289
 
  ## Samara's questions
  
