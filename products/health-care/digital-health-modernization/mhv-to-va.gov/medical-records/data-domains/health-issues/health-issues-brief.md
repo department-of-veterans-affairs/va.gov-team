@@ -8,9 +8,9 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
-This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture.  
+This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture itself, but rather is contained in one of two different types of reports that can be generated from MyHealth*e*Vet.  
 
-The only way to access health problems is by generating a Blue Button report or a VA Health Summary Report.  It is worth nothing that the data provided in these two reports comes from two different data sources, and therefore may not match.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  The Blue Button report is derived from the patient's eVault data, which originates from the PHR (Patient Health Record) data.  Below shows the list of Problem List fields available within each report.
+The two types of reports that may contain a list of health issues are Blue Button reports and VA Health Summary Reports.  It is worth nothing that the data that populate these two reports are derived from different data sources, and therefore may not match.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  The Blue Button report is derived from the patient's eVault data, which originates from VistA.  Below shows the list of Problem List fields available within each report.
 
 - VA Health Summary
     - Problem
