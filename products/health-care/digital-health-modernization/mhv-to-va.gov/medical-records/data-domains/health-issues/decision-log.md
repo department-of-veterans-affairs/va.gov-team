@@ -1,5 +1,5 @@
 # Health Issues Decision Log
-Please log key MHV to VA.gov decisions related to the below practice areas, including date, who made the decision, a description of the decision and any specific rationale behind it.  For decisions about specific products, please use the decision log within that products document folder.
+Please log key Health Issues decisions related to the below practice areas, including date, who made the decision, a description of the decision and any specific rationale behind it.  For decisions about specific products, please use the decision log within that products document folder.  [Questions to be answered/decisions to be made](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/decision-log.md#questions-to-be-answered) are listed near the end of this document.
 
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
