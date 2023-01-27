@@ -5,7 +5,7 @@ Quesitions and notes to discuss with VA Notify ahead of 1/24 scheduled meeting a
 ## Notes & Questions
 
 **1. What's the significance of the hidden rows?**
- Answer: 
+ Answer: Not relevant for our team's purposes
 
 **2. What's the significance of the highlighted fields?**
  Answer: 
