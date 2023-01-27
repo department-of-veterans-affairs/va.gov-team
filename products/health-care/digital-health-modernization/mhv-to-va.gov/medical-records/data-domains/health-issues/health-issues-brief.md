@@ -29,10 +29,10 @@ This domain provides Veterans with a summary of the active health concerns conta
 
 ## Problem List in Context of Existing MyHealth*e*Vet Site
 1. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
-2. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
+2. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded Blue Button PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
 3. The ability to download a Problem List requires users to upgrade to a Premium Account. 
 4. There is a 36-hour waiting period before a new problem is included in the Problem list.
-5. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
+5. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded VA Health Summary PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
 6. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
 7. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
 8. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
@@ -107,10 +107,10 @@ On MyHealtheVet.com, the Blue Button report that contains a Problem List
 
 
 **Business/ Engineering:** 
-    
+1. What data source should be used to display the problem list on a web page?  The Blue Button data source or the VA Health Summary data source?    
 
 **Who do we need to get feedback from?**
-
+Patty Henry
 
 ## Lessons learned
 
