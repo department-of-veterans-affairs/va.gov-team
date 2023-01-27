@@ -57,8 +57,8 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 - Demographics
 - DoD Information
 
-# Domain Priority Order
-|                                          | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
+# Domain Briefs and Low-Fi Design Status
+|Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
 |------------------------------------------|-----------------|---------------------|----------------------------------|----------------------|
 | - Immunizations                          | Robyn Singleton | Complete            | Jonathan Nelson                  | Complete             |
 | - Labs and Tests                         | Marci McGuire   | Complete            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
