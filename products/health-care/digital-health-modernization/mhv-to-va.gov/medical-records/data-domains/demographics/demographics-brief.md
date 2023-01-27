@@ -60,7 +60,10 @@ To serve as a source of truth around data field requirements and specifications,
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/214926668-00bf8929-a337-48b2-8f2e-730c8bdad2a9.png">
 
 
-VA Profile API -> most likely fields marked TBD in VAProfile-demographics.xlsx (below) are NOT in VA Profile, but need to confirm. Original message from Stephen Barrs [here](https://dsva.slack.com/archives/C04GDQSHD1R/p1674826074389269?thread_ts=1673552090.497579&cid=C04GDQSHD1R). 
+**Additional breakdown of fields found in [this markdown file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/meetings/demographic-fields.md) created by Leila Rassi and Jasmine Yohannan.** See [this slack conversation](https://dsva.slack.com/archives/C03Q2UQL1AS/p1672850011320109) for more details. 
+
+
+**VA Profile API notes** -> most likely fields marked TBD in VAProfile-demographics.xlsx (below) are NOT in VA Profile, but need to confirm. Original message from Stephen Barrs [here](https://dsva.slack.com/archives/C04GDQSHD1R/p1674826074389269?thread_ts=1673552090.497579&cid=C04GDQSHD1R). 
 
 TBD fields include: 
 - VA Treatment Facility
