@@ -60,6 +60,34 @@ To serve as a source of truth around data field requirements and specifications,
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/214926668-00bf8929-a337-48b2-8f2e-730c8bdad2a9.png">
 
 
+VA Profile API -> most likely fields marked TBD in VAProfile-demographics.xlsx (below) are NOT in VA Profile, but need to confirm. Original message from Stephen Barrs [here](https://dsva.slack.com/archives/C04GDQSHD1R/p1674826074389269?thread_ts=1673552090.497579&cid=C04GDQSHD1R). 
+
+TBD fields include: 
+- VA Treatment Facility
+- First Name
+- Middle Name
+- Last Name
+- Date of Birth
+- Age
+- Gender
+- Language(s)
+- Place of Birth
+- Social History
+- Functional Status
+- Advance Directive
+- Eligibility
+- Employment
+- VA Guardian
+- Civil Guardian
+- Active Insurance
+
+
+See Excel sheet below. 
+
+[VAProfile-demographics.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/10521706/VAProfile-demographics.xlsx)
+
+
+
 ## Use Cases
 
 **Common Use Cases**
