@@ -2,16 +2,16 @@
 - Admissions and discharges
 - Allergies
 - Cardiology images and reports
-- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)
+- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/notes-brief.md)
 - Demographics*
 - DOD info
 - Health issues / problem list
-- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
+- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/immunizations-brief.md)
 - Medications*
-- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains)
+- [Lab and Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)
 - Pathology results
 - Radiology images & Reports
-- [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
+- [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)
 
 
 * Domains that we hypothesize will be found elsewhere in the portal or in VA.gov. I.e. appointments will be found in “appointments”. Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds. Demographics I think we’re still sussing out, based on that convo in slack last week. Some of it is in VA profile already. Some isn’t. 
@@ -24,13 +24,13 @@ Based on our current research, we believe that the domains will be grouped in so
 - Admissions and discharges
 - Allergies
 - Cardiology images and reports
-- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)
+- [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/notes-brief.md)
 - Demographics*
 - DOD info
 - Health issues / problem list
-- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
-- Medications*
-- [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains)
+- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/immunizations-brief.md)
+- Medications* 
+- [Lab and Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)
   - Chemistry/Hematology
     - Microbiology
     - Pathology results (Surgical Pathology, Cytology, Microscopy)
@@ -38,7 +38,7 @@ Based on our current research, we believe that the domains will be grouped in so
     - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
   - Pathology results
   - Radiology images & Reports
-- [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
+- [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)
 
 
 # Domain Priority Order
@@ -64,7 +64,7 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 | - Labs and Tests                         | Marci McGuire   | Complete            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
 | - Clinical notes                         | Jenny Yang      | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)           |                                  |                      |
 | - Health Issues / Problem List           | Marci McGuire   | In Progress         |                                  |                      |
-| - Vitals                                 | Robyn Singleton | Complete            |                                  |                      |
+| - Vitals                                 | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)           |                                  |                      |
 | - Admissions and Discharges              | Marci McGuire   |                     |                                  |                      |
 | - Demographics                           | Robyn Singleton | Complete            |                                  |                      |
 | - Allergies                              | Robyn Singleton | Complete            |                                  |                      |
