@@ -101,7 +101,7 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 ### Research that relates to Health Problems
 
 **Findings from card sort**
-
+- The card sort did not cover specifics about Health Problems.
 
 ## Questions to answer
 
@@ -118,6 +118,6 @@ Patty Henry
 
 
 ## Backlog of potential features/ Ideas Parking Lot
-
+- During user interviews, several participants expressed the desire to be able to select only specific health records based on a specific health issue, such as a shoulder injury, for the purposes of filing a disability claim.
 
 ## Additional notes
