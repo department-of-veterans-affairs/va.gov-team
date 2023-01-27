@@ -156,7 +156,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill	
 - Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and TBD	
-- Note-takers: Perigean	
+- Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
