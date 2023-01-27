@@ -8,7 +8,7 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Description of domain
 
-This domain provides Veterans with a summary of the active health concerns contained in their official VA health record.  It is important to note that this data is not currently provided within the MyHealth*e*Vet information architecture itself, but rather is contained in one of two different types of reports that can be generated from MyHealth*e*Vet.  
+This domain provides Veterans with a summary of the active health concerns contained in their official VA health record. 
 
 ## Relevant links
 
@@ -28,15 +28,16 @@ This domain provides Veterans with a summary of the active health concerns conta
 
 
 ## Problem List in Context of Existing MyHealth*e*Vet Site
-1. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
-2. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded Blue Button PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
-3. The ability to download a Problem List requires users to upgrade to a Premium Account. 
-4. There is a 36-hour waiting period before a new problem is included in the Problem list.
-5. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded VA Health Summary PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
-6. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
-7. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
-8. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
-9. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
+1. In the exisitng MyHealtheVet site, this data is not currently provided within the MyHealth*e*Vet information architecture itself, but rather is contained in one of two different types of reports that can be generated from MyHealth*e*Vet, and then viewed as a PDF or TXT (Blue Button only) within an iframe, downloaded as a PDF, or downloaded as an XML (VA Health Summary only) or TXT (Blue Button report only) file.
+2. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
+3. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded Blue Button PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
+4. The ability to download a Problem List requires users to upgrade to a Premium Account. 
+5. There is a 36-hour waiting period before a new problem is included in the Problem list.
+6. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded VA Health Summary PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
+7. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
+8. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
+9. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
+10. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
 
 ## Demographics data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
@@ -94,7 +95,8 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 
 
 **View vs. share vs. download considerations:**
-On MyHealtheVet.com, the Blue Button report that contains a Problem List
+- Once a Blue Button report containing a problem list is generated, it can be viewed within an iframe as a PDF or TXT file, or downloaded as a PDF or TXT file.  The current download page is confusing in that the View link doesn't specify whether it's to view a PDF or TXT, where the Download links do specify. This needs to be made clear in the new interface.  Similarly, the View link on the VA Health Summary download page does not distinguish between PDF, or XML.
+- The VA Health Summary page supplies information about sending health information to CCD Direct Participating providers. [Screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-summary-ccda-info.png)
 
 ### Research that relates to Health Problems
 
