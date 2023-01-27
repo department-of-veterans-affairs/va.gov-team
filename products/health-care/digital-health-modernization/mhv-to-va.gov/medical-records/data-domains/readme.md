@@ -1,4 +1,4 @@
-# Medical Records Data Domains
+# Medical Records Data Domains, alphabelical order
 - Admissions and discharges
 - Allergies
 - Cardiology images and reports
@@ -31,17 +31,18 @@ Based on our current research, we believe that the domains will be grouped in so
 - [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)
 - Medications*
 - [Lab results](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains#:~:text=2%20days%20ago-,labs%2Dand%2Dtests,-Update%20labs%2Dand)
--   - Chemistry/Hematology
-  - Microbiology
-  - Pathology results (Surgical Pathology, Cytology, Microscopy)
+  - Chemistry/Hematology
+    - Microbiology
+    - Pathology results (Surgical Pathology, Cytology, Microscopy)
+    - Radiology images & Reports
+    - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
+  - Pathology results
   - Radiology images & Reports
-  - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
-- Pathology results
-- Radiology images & Reports
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals)
 
 
 # Domain Priority Order
+This is the order in which the briefs and low-fi mock-ups will be produced as of 1/25/2023.
 - Immunizations
 - Labs and Tests
   - Pathology results
@@ -55,3 +56,21 @@ Based on our current research, we believe that the domains will be grouped in so
 - Medications and Allergies
 - Demographics
 - DoD Information
+
+# Domain Priority Order
+This is the order in which the briefs and low-fi mock-ups will be produced as of 1/25/2023.
+- Immunizations
+- Labs and Tests
+  - Pathology results
+  - Radiology images & Reports
+  - Cardiology images and reports (listed as EKG Reports in Blue Button)
+- Clinical notes
+- Health Issues / Problem List
+- Vitals
+- Admissions and Discharges
+- Demographics
+- Medications and Allergies
+- Demographics
+- DoD Information
+
+
