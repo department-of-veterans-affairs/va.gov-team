@@ -28,7 +28,7 @@ This domain provides Veterans with a summary of the active health concerns conta
 
 
 ## Problem List in Context of Existing MyHealth*e*Vet Site
-1. In the exisitng MyHealtheVet site, this data is not currently provided within the MyHealth*e*Vet information architecture itself, but rather is contained in one of two different types of reports that can be generated from MyHealth*e*Vet, and then viewed as a PDF or TXT (Blue Button only) within an iframe, downloaded as a PDF, or downloaded as an XML (VA Health Summary only) or TXT (Blue Button report only) file.
+1. In the exisitng MyHealtheVet site, this data is not currently provided on an actual MyHealth*e*Vet web page, but rather can be included in one of two different types of reports that can be generated from MyHealth*e*Vet.  Once a report has been generated, it can be viewed as a PDF or TXT (Blue Button only) within an iframe, downloaded as a PDF, or downloaded as an XML (VA Health Summary only) or TXT (Blue Button report only) file.
 2. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
 3. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded Blue Button PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
 4. The ability to download a Problem List requires users to upgrade to a Premium Account. 
@@ -87,7 +87,7 @@ There are two different types of report available on MyHealtheVet that contain a
 The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.
 
 **Where do Health Problems fit within IA?**
-TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal rather than needing to generate a lengthy report or download a file, although the download and print options should still be made available via the Blue Button report and VA Health Summary.
+TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal, if technical feasible.  The download and print options should still be made available via the Blue Button report and VA Health Summary.
 
 
 ### How to show Health Problems section
