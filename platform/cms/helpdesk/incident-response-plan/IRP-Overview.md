@@ -1,9 +1,9 @@
 ## VA-CMS Incident Response Plan Overview
 
+*This plan is based on the CivicActions SSP Toolkit, under the terms of its GPL and Creative Commons Zero licensing, and the ‘A-CMS Response Procedure Overview’ and adapted for the purposes of the VA-CMS Incident Response Plan project.*
 
-This plan is based on the CivicActions SSP Toolkit, under the terms of its GPL and Creative Commons Zero licensing, and the ‘A-CMS Response Procedure Overview’ and adapted for the purposes of the VA-CMS Incident Response Plan project.
-The basic principle of this document is to provide a response plan based on various system outage incidents and incident types.
-In this document, an ‘incident’ refers to system outages - from global to local, weather-based, Citrix, and/or network issues. A Quick Reference Mural can be found at this link.
+### The basic principle of this document is to provide a response plan based on various system outage incidents and incident types.
+In this document, an ‘incident’ refers to system outages - from global to local, weather-based, Citrix, and/or network issues. A Quick Reference Mural can be found at this [link](https://app.mural.co/t/vagov6717/m/vagov6717/1664374630322/af08df2f43f6abaca2b5373291e321ec9ae51680?sender=ud44cbd4efa7fcef19db43902).
 
 Once an incident is suspected, discovered, or reported, the response process should be initiated to complete the steps below.
 
@@ -11,38 +11,61 @@ The person who initially reports the incident becomes the Incident Commander. Th
 
 The Incident Response Team is composed of anyone who is actively working to complete the steps below.
 
-The main steps are to:
-Identify, Verify, Classify the incident
-Identify/Notify impacted Support Teams
-Identify impacted audience
-Notify / Alert appropriate audience using appropriate tools
-Work to resolve/mitigate the incident
-Notify / Alert resolution to appropriate audience using appropriate tools
-Identify, Verify, Classify the incident -
-What has happened?  
-What might/will happen if the incident is not immediate (such as a hurricane)?
-Can it be replicated?
-Contact Tier 2 Support for additional information and confirmation.
-Is the incident internal? External?
-Can it be confirmed by more than one person?
-Can it be confirmed by someone outside of the ‘internal’ CMS team?
-Is it global in nature, or local?
-Is it CMS specific, or more general?
-If CMS specific, is it a general CMS issue, or isolated to a specific module, content type, section, user, etc.?
-The IC forms a team (responders) to determine if the event is actually a confirmed incident, and if so assesses the severity. Note that some apparent outages can be triggered by external dependencies (DNS servers, cloud storage outages, etc.). In this case there may be very little remediation, for instance, to do, but the Communicate step may still be critical.
-The IC creates an initial situation report ("sitrep") using Slack or acknowledges false-alarm notification, as appropriate.
-The IC assesses whether to also activate a contingency plan (for disaster recovery).
+### The main steps are to:
+- [Identify, Verify, Classify the incident](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.cd6xb5cuudf1)..
+- [Identify/Notify impacted Support Teams](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.kaxrzeqtl7p5)..
+- [Identify impacted audience](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.p3yduz183zu)..
+- [Notify / Alert appropriate audience using appropriate tools](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.2efnltsgut4)
+- [Work to resolve/mitigate the incident](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.olhe1bwqqqw8)
+- [Notify / Alert resolution to appropriate audience using appropriate tools](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.l0koqkq2ifxk)
 
-Identify/Notify the impacted Support Team(s) -
+### Identify, Verify, Classify the incident -
+What has happened? 
+
+What might/will happen if the incident is not immediate (such as a hurricane)? 
+
+Can it be replicated? 
+
+Contact [Tier 2 Support](https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit#heading=h.iqjzy8pbs2j8) for additional information and confirmation. 
+
+Is the incident internal? External? 
+
+Can it be confirmed by more than one person?
+
+Can it be confirmed by someone outside of the ‘internal’ CMS team? 
+
+Is it global in nature, or local? 
+
+Is it CMS specific, or more general? 
+
+If CMS specific, is it a general CMS issue, or isolated to a specific module, content type, section, user, etc.? 
+
+     1. The IC forms a team (responders) to determine if the event is actually a confirmed incident, and if so assesses the severity. Note that some apparent outages can be triggered by external dependencies (DNS servers, cloud storage outages, etc.). In this case there may be very little remediation, for instance, to do, but the Communicate step may still be critical.
+     2. The IC creates an initial situation report ("sitrep") using Slack or acknowledges false-alarm notification, as appropriate.
+     3. The IC assesses whether to also activate a contingency plan (for disaster recovery).
+
+
+## Identify/Notify the impacted Support Team(s) -
+
 Who will need to assist in the confirmation/resolution of the incident?
-Start with Tier 2 Support
-May need to escalate to one of the following Slack Channels:
-Pager Duty
-Cms-platform
-Facilities-support
-Sitewide-cms
-Sitewide-facilities
-vfs-platform-support
+
+1. Start with [Tier 2 Support](https://docs.google.com/document/d/15oe0wtGI_MdaScYpjJWOgPjBqQWUFURc19HheWswEe4/edit#heading=h.iqjzy8pbs2j8)
+     
+2. May need to escalate to one of the following Slack Channels:
+     
+   [Pager Duty](https://dsva.slack.com/archives/CBU0KDSB1)
+        
+   [Cms-platform](https://dsva.slack.com/archives/C02HX4AQZ33)
+        
+   [Facilities-support](https://dsva.slack.com/archives/C02730UEZPS)
+        
+   [Sitewide-cms](https://dsva.slack.com/archives/CT4GZBM8F)
+        
+   [Sitewide-facilities](https://dsva.slack.com/archives/C0FQSS30V)
+        
+   [vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+
+
 Identify the impacted Audience -
 Who is impacted by the incident - Editors? Veterans? Internal Staff? Individual user?
 
