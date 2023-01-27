@@ -1,5 +1,5 @@
 # Medical Records Data Domains, alphabetical order
-- [Admissions and discharges](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/admissions-discharges/admissions-discharges-brief.md)
+- Admissions and discharges
 - [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 - Cardiology images and reports
 - [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/notes-brief.md)
@@ -21,10 +21,10 @@
 # Grouping Domains
 Based on our current research, we believe that the domains will be grouped in some cases.  As of 1/25/2023, the current thinking is listed below, but is subject to changed based on usability testing.
 
-- Admissions and discharges
 - Allergies
 - Cardiology images and reports
 - [Clinical Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/notes-brief.md)
+  - Admissions and discharges
 - Demographics*
 - DOD info
 - Health issues / problem list
@@ -49,9 +49,9 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
   - Radiology images & Reports
   - Cardiology images and reports (listed as EKG Reports in Blue Button)
 - Clinical notes
+  - Admissions and Discharges
 - Health Issues / Problem List
 - Vitals
-- Admissions and Discharges
 - Demographics
 - Medications and Allergies
 - Demographics
@@ -65,7 +65,6 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 | - Clinical notes                         | Jenny Yang      | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)           |                                  |                      |
 | - Health Issues / Problem List           | Marci McGuire   | In Progress         |                                  |                      |
 | - Vitals                                 | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)           |                                  |                      |
-| - Admissions and Discharges              | Marci McGuire   |                     |                                  |                      |
 | - Demographics                           | Robyn Singleton | Complete            |                                  |                      |
 | - Allergies                              | Robyn Singleton | Complete            |                                  |                      |
 | - DoD Information                        | Marci McGuire   |                     |                                  |                      |
