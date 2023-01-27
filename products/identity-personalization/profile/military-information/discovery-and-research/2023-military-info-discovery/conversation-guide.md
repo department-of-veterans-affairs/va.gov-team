@@ -7,7 +7,7 @@
 - Complete any project-specific setup tasks for this study (List them below)
 
 - [ ] Step 1
-- [ ] Step 2
+- [ ] Step 2: Double-check participant roster to see which recent activity (from the screener) they completed in the last year.
 - [ ] Step 3
 
 ### Day of the session
