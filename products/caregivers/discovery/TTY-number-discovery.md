@@ -34,7 +34,7 @@ From the original issue:
 ## Recommendations
 
 - *Add TTY number to all CG "Need help?" numbers*
-- *Use bold styling for emphasis and consistency with EZ styling
+- *Use bold styling for emphasis and consistency with EZ styling*
 - *Update 1010CG TTY link and content to be consistent with 1010EZ, place at top of "Need help?" block:*
   - **If you have trouble using this online application**, call our MyVA411 main information line at [800-698-2411]() ([TTY: 711]()). We’re here 24/7.
 - *Combine the 1010CG Health Eligibility number, and Cargiver support link content:*
