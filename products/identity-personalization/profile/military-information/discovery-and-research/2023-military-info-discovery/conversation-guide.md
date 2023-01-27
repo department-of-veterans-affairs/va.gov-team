@@ -44,48 +44,35 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 2 minutes
 
-To start off, I have some questions for you about your service history. For some of these, you might not know the answer right off the top of your head, but that's fine. No need to go look up the information or anything. Is that okay with you?
+To start off, I have some questions for you about your service history. Is that okay with you?
 *Wait for consent to proceed*
 
 1. What branch of the military did you serve in?
 2. When did you retire or separate?
+3. What keeps you busy now-a-days?
 
 ## Accessing and using service history information - X minutes
 
-*Ask only as much feels right. e.g. if they can't remember first couple questions, stop there and move on:*
+1. Tell me about a time when you needed your service information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you....*
+2. When was that?
+3. Where were you? *Are we talking about a digital form on VA.gov, a real paper form, at a VA location getting help from someone else?*
+4. What specific information was needed as a part of that process?
+5. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
+6. What would you have done if you couldn't access the information that way?
+7. Tell me about another time when you needed your service information?
+8. What are other situations you can inmagine where you'd need your service information?
 
-3. Last entry date?
-4. Discharge date?
-5. Discharge type?
-6. Military service number?
-7. Any awards, decorations, medals, badges?
-8. Do you have a VA service connected rating? If yes, what is your rated percentage?
-
-9. For any of these questions, where would you go if you didn't know or wanted to doublecheck?
-10. What would you need to do to access that?
-11. If you didn't have access to that for some reason, where else could you go?
-12. What would you need to do to access that?
-13. In what types of situations would you need access to this information, besides perhaps this conversation?
-
-14. *If don't bring up form DD214*: Do you also have a DD214?
-15. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
-16. In what situations would you need to look at your DD214?
-17. Have you ever had to request a change to your DD214? 
-18. If yes, when was that? What was the change you needed to make, and why?
-19. If no, do you anticipate ever needing to make a change?
-20. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
-
-19. Tell me about a time when you needed your service information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you...*
-20. When was that?
-21. Where were you? (are we talking about a digital form on a computer or a real paper form, or someone else filling it out for you?)
-22. How did you know this information was needed? (Was it a field on a form, did someone ask for the info verbally?)
-23. And what specific information from your DD214 was needed?
-24. How did you access the information?
-25. Circle back: Tell me about another time when you needed your service information.
+9. *If don't bring up form DD214*: Do you also have a DD214?
+10. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
+11. In what situations would you need to look at your DD214?
+12. Have you ever had to request a change to your DD214? 
+13. If yes, when was that? What was the change you needed to make, and why?
+14. If no, do you anticipate ever needing to make a change?
+15. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
 ## Expectations/hopes for finding service info - X minutes
 
-Okay, we're almost done with questions. Thank you for everything you've shared before. It's all really helpful information. Now, I want to turn our attention to the final 5 or so questions.
+Okay, we're almost done with questions. Thank you for everything you've shared already. I just have about 5 questions more for you:
 
 21. Let's imagine that you could easily find your service information online, using your browser. _Pause._ What is your immediate response to that idea?
 22. Would accessing your service history information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
