@@ -29,8 +29,9 @@ This domain provides Veterans with a summary of the active health concerns conta
 
 ## Problem List in Context of Existing MyHealth*e*Vet Site
 1. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
-2. The ability to download a Problem List requires users to upgrade to a Premium Account. 
-3. There is a 36-hour waiting period before a new problem is included in the Problem list.
+2. The Problem List within the Blue Button report is displayed in a tablular format with each condition in its own table.  See page 4 of [downloaded PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/bb-problem-list-example.pdf)
+3. The ability to download a Problem List requires users to upgrade to a Premium Account. 
+4. There is a 36-hour waiting period before a new problem is included in the Problem list.
 5. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
 6. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
 7. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
@@ -47,20 +48,20 @@ There are two different types of report available on MyHealtheVet that contain a
 
 - Blue Button Report
     - Problem
+    - Provider
+    - Location
+    - Status
+    - Date/Time Entered
+    - Comments
+    
+- VA Health Summary
+    - Problem
     - Status
     - Problem Code
     - Date on Onset
     - Date of Resolution
     - Provider
     - Source
-    
-- VA Health Summary
-    - Problem
-    - Provider
-    - Location
-    - Status
-    - Date/Time Entered
-    - Comments
 
 ## Use Cases
 
