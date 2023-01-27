@@ -161,7 +161,7 @@ This first group of findings relates to research questions 1 & 2:
 ### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries 
 
 - **Benefits** (e.g., compensation, home loans, VR&E)
-- **Tasks** (e.g., file a claim, check claim status, 1-on-1 interview)
+- **Tasks** (e.g., file a claim, check claim status, attend counseling session)
 - **Documents** (e.g., award letter, commissary letter, DD-214)
 - **Beneficiaries** (e.g., survivors, military retirees, caregivers)
 - See the [appendix](#appendix) for full lists of terms
@@ -380,7 +380,7 @@ This third group of findings relates to research question 4:
 * Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
 * Clearly indicate the distinction between virtual and in-person appointments
 * Ensure Veterans can easily tell if a facility allows walk-ins or not
-* Indicate the last available appointment time in addition to the nomral operating hours
+* Indicate the last available appointment time in addition to the normal operating hours
 * Consider use cases for Regional Offices, Satellite Offices, & Outreach sites
 
 ## Appendix
@@ -496,10 +496,10 @@ This third group of findings relates to research question 4:
 ### Tasks mentioned
 
 **Benefit Specific Tasks**
-* 1-on-1 interview
 * add/remove dependent
 * appeal hearing
 * apply for benefit | file a claim
+* attend counseling session
 * check status of claim
 * determine eligibility for benefit
 * file a supplemental claim | increase disability rating
