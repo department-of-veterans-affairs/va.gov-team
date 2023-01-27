@@ -33,13 +33,16 @@ From the original issue:
 
 ## Recommendations
 
-- *Add TTY number to all CG "Need help?" numbers*
-- *Use bold styling for emphasis and consistency with EZ styling*
-- *Update 1010CG TTY link and content to be consistent with 1010EZ, place at top of "Need help?" block:*
-  - **If you have trouble using this online application**, call our MyVA411 main information line at [800-698-2411]() ([TTY: 711]()). We’re here 24/7.
-- *Combine the 1010CG Health Eligibility number, and Cargiver support link content:*
-  - You can also call the Enrollment and Eligibility Division of the Health Eligibility Center at [855-488-8440](), or contact a Caregiver Support Coordinator using our online [Caregiver Support Coordinator search tool]().
+(See mockups and Sketch file below)
+
+- Add TTY number to all CG "Need help?" numbers
+- Use bold styling in CG "Need help?" for emphasis and consistency with EZ styling
+- Add hours of availability to CG numbers
+- Update the CG main help line, TTY link, and content to be consistent with 1010EZ, place at top of "Need help?" block
+- Update the Health eligibility center phone number with TTY and additional context
 
 ### Mockups
 
+[Link to Sketch mockup](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/v/jYg3jm/a/jgKM5nm)
 
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/81988788/215207528-81ad8a91-d409-440d-8f19-2e40663b56ab.png">
