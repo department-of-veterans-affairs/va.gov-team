@@ -1,6 +1,6 @@
 # Vitals: Data fields and UX considerations
 
-Last updated: December 29, 2022
+Last updated: January 27, 2023
 
 ## Purpose
 
