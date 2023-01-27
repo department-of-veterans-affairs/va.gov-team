@@ -32,10 +32,9 @@ Based on our current research, we believe that the domains will be grouped in so
 - Medications* 
 - [Lab and Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)
   - Chemistry/Hematology
-    - Microbiology
-    - Pathology results (Surgical Pathology, Cytology, Microscopy)
-    - Radiology images & Reports
-    - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
+  - Microbiology
+  - Pathology results (Surgical Pathology, Cytology, Microscopy)
+  - Cardiology images and reports (listed as VA Electrocardiogram Reports in Blue Button)
   - Pathology results
   - Radiology images & Reports
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)
