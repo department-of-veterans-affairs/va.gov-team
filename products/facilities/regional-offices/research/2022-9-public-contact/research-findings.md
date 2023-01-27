@@ -49,7 +49,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 1. What benefit-related **services** are offered at these facilities?
    * How do services differ by benefit types? 
-   * Are any services shared across benefit types (e.g. updating contact info)?
+   * Are any services shared across benefit types (e.g., updating contact info)?
    * Are all services available consistently throughout the week?
    * Do any services require referrals to other facilities?
    * Are there any services unique to this region/facility?
@@ -61,7 +61,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
      * If so, why do Veterans do this task in-person?
    * How complicated are these common tasks?
    * How do Public Contact Staff assist Veterans in these tasks?
-   * Any regionally specific needs (e.g. state or region specific support, translation)?
+   * Any regionally specific needs (e.g., state or region specific support, translation)?
    * Any problems?
      * Tasks unable to complete
      * Tasks that Veterans usually get hung up on
@@ -71,7 +71,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 3. What is the **typical Veteran experience** when visiting these facilities?
    *	Typical wait times?
    *	Busier days or time?
-   *	Appointments vs walk-ins?
+   *	Appointments vs. walk-ins?
    *	Common frustrations? Complaints?
    *	How Veterans usually arrive at the facility? (drive, public transit?) 
    *	How long does it take for a Veteran to travel to a facility
@@ -98,7 +98,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * Legal Administrative Specialist = 5
   * Veteran Service Representative = 3
   * Coach = 2
-  * "in public contact" = 2
+  * Not specified = 2
 
 ### Facilities Represented
 * 6 Regional Benefit Offices
@@ -124,7 +124,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
   * **NOT ENOUGH INFORMATION** - This would depend on implementation and should be evaluated during usability testing
 * The typical Veteran experience at Regional Benefit Offices is generally positive
-  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g. same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
+  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g., same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
 
 - - -
 
@@ -160,10 +160,10 @@ This first group of findings relates to research questions 1 & 2:
 
 ### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries 
 
-- **Benefits** (e.g. compensation, home loans, VR&E)
-- **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
-- **Documents** (e.g. award letter, commissary letter, DD-214)
-- **Beneficiaries** (e.g. survivors, military retirees, caregivers)
+- **Benefits** (e.g., compensation, home loans, VR&E)
+- **Tasks** (e.g., file a claim, check claim status, 1-on-1 interview)
+- **Documents** (e.g., award letter, commissary letter, DD-214)
+- **Beneficiaries** (e.g., survivors, military retirees, caregivers)
 - See the [appendix](#appendix) for full lists of terms
 
 > Top three would be compensation, education, and pension. - P3
@@ -214,7 +214,7 @@ This first group of findings relates to research questions 1 & 2:
 
 ### 5 - There are few (if any) tasks that require a Veteran to be physically present at a Public Contact Office
 
-- During the COVID lockdown, any services that previously required an in-person visit were modified to have virtual option
+- During the COVID lockdown, any services that previously required an in-person visit were modified to have a virtual option
 - There seem to be lingering perceptions that in-person visits are required 
 - Some beneficiaries prefer in-person (homeless, non-English speakers, older Veterans)
 - Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
@@ -267,10 +267,10 @@ This second group of findings relates to research question 3:
 
 - Veterans expect the three branches to be "one VA"
 - Veterans conflate VSOs and the VBA due to them both handling benefit claims
-- Veterans aren't always sure what is overseen by the VA vs the military
+- Veterans aren't always sure what is overseen by the VA vs. the military
 - This confusion is heightened when a VBA office is co-located with other agencies
 
-> But I think the biggest thing is veterans coming in just thinking you're just one VA "How come you don't know this? How come You're not communicating?" - P9
+> But I think the biggest thing is veterans coming in just thinking you're just one VA. "How come you don't know this? How come you're not communicating?" - P9
 
 > "I reported my divorce to the hospital. How come you don't know?" - P11
 
@@ -323,7 +323,7 @@ This third group of findings relates to research question 4:
 - Civilian medical records can be helpful for supplemental claims
 - Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
 - eBenefits registration = 2 forms of ID
-- Adding/removing dependant = birth certificate, social security cards,  marriage certificates, divorce decrees
+- Adding/removing dependent = birth certificate, social security cards,  marriage certificates, divorce decrees
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
@@ -349,7 +349,7 @@ This third group of findings relates to research question 4:
 
 > I've never heard of financial counseling - P8
 
-> We refer them to the number for Philadelphia for the insurance Office - P12
+> We refer them to the number for Philadelphia for the insurance office - P12
 
 **15 - Parking can be a challenge for offices in dense urban locations**
 
@@ -372,9 +372,9 @@ This third group of findings relates to research question 4:
 
 ## Recommendations
 
-* Update the VBA Service taxonomy to accurately reflect the services avaialable at Regional Offices
+* Update the VBA Service taxonomy to accurately reflect the services available at Regional Offices
   * Include information about which services require making an appointment or bringing additional documents
-  * Reroute Veterans for services that can't be handled at a RO (e.g. checking status of pension claim)
+  * Reroute Veterans for services that can't be handled at a RO (e.g., checking status of pension claim)
   * Explore ways to connect benefit service information across VA.gov
 * Involve stakeholders from VR&E in MVP planning so we can accurately route Veterans to appointment tools for those services
 * Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
@@ -508,7 +508,7 @@ This third group of findings relates to research question 4:
 * resolve payment issue | check tracing
 * understand claim decision
 * update direct deposit
-* update personal info (address, phone #, etc)
+* update personal info (address, phone #, etc.)
 
 **General Support Tasks**
 * assistance completing a form
@@ -546,10 +546,10 @@ This third group of findings relates to research question 4:
 * two forms of ID
 
 **Information to bring to VBA**
-* date of birth (dependant)
+* date of birth (dependent)
 * date of birth (Veteran)
 * effective date
-* social security number (dependant)
+* social security number (dependent)
 * social security number (Veteran)
 
 ### Beneficiaries mentioned
