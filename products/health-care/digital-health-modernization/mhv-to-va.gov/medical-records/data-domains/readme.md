@@ -1,4 +1,4 @@
-# Medical Records Data Domains, alphabelical order
+# Medical Records Data Domains, alphabetical order
 - Admissions and discharges
 - Allergies
 - Cardiology images and reports
@@ -58,19 +58,16 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 - DoD Information
 
 # Domain Priority Order
-This is the order in which the briefs and low-fi mock-ups will be produced as of 1/25/2023.
-- Immunizations
-- Labs and Tests
-  - Pathology results
-  - Radiology images & Reports
-  - Cardiology images and reports (listed as EKG Reports in Blue Button)
-- Clinical notes
-- Health Issues / Problem List
-- Vitals
-- Admissions and Discharges
-- Demographics
-- Medications and Allergies
-- Demographics
-- DoD Information
-
+|                                          | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
+|------------------------------------------|-----------------|---------------------|----------------------------------|----------------------|
+| - Immunizations                          | Robyn Singleton | Complete            | Jonathan Nelson                  | Complete             |
+| - Labs and Tests                         | Marci McGuire   | Complete            | Jonathan Nelson / Ryan Thurlwell | In Progress          |
+| - Clinical notes                         | Jenny Yang      | Complete            |                                  |                      |
+| - Health Issues / Problem List           | Marci McGuire   | In Progress         |                                  |                      |
+| - Vitals                                 | Robyn Singleton | Complete            |                                  |                      |
+| - Admissions and Discharges              | Marci McGuire   |                     |                                  |                      |
+| - Demographics                           | Robyn Singleton | Complete            |                                  |                      |
+| - Allergies                              | Robyn Singleton | Complete            |                                  |                      |
+| - DoD Information                        | Marci McGuire   |                     |                                  |                      |
+| - Blue Button/Health Summary Report page | Marci McGuire   |                     |                                  |                      |
 
