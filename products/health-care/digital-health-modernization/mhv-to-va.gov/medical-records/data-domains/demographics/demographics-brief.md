@@ -29,7 +29,7 @@ To serve as a source of truth around data field requirements and specifications,
 
 **Data field title:** Demographics
 
-**Data fields to include:**
+**Demographic data fields:**
 - VA Treatment Facility
 - First Name
 - Middle Name
