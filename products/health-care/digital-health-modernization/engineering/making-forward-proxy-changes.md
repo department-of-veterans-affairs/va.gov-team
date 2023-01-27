@@ -1,4 +1,4 @@
-# Forward proxy changes
+# Making forward proxy changes
 
 This is a brief guide on how to add a new interface to the VA.gov forward proxy.
 
