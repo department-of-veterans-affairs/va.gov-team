@@ -1,3 +1,7 @@
+# This process is now automated
+
+See [this github action](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/.github/workflows/day-end-summary.yml) for the current version of this script.
+
 ## Background
 
 This script queries datadog for metrics to generate a day-end summary. It takes a date argument and queries the stats from midnight to 8pm ET on that day.
