@@ -51,34 +51,34 @@ To start off, I have some questions for you about your service history. Is that 
 2. When did you retire or separate?
 3. What keeps you busy now-a-days?
 
-## Accessing and using service history information - X minutes
+## Accessing and using service history information - 35 minutes
 
-1. Tell me about a time when you needed your service information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you....*
-2. When was that?
-3. Where were you? *Are we talking about a digital form on VA.gov, a real paper form, at a VA location getting help from someone else?*
-4. What specific information was needed as a part of that process?
-5. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
-6. What would you have done if you couldn't access the information that way?
-7. Tell me about another time when you needed your service information?
-8. What are other situations you can inmagine where you'd need your service information?
+2. Tell me about a time when you needed your service information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you....*
+3. When was that?
+4. Where were you? *Are we talking about a digital form on VA.gov, a real paper form, at a VA location getting help from someone else?*
+5. What specific information was needed as a part of that process?
+6. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
+7. What would you have done if you couldn't access the information that way?
+8. Tell me about another time when you needed your service information?
+9. What are other situations you can inmagine where you'd need your service information?
 
-9. *If don't bring up form DD214*: Do you also have a DD214?
-10. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
-11. In what situations would you need to look at your DD214?
-12. Have you ever had to request a change to your DD214? 
-13. If yes, when was that? What was the change you needed to make, and why?
-14. If no, do you anticipate ever needing to make a change?
-15. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
+10. *If don't bring up form DD214*: Do you also have a DD214?
+11. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
+12. In what situations would you need to look at your DD214?
+13. Have you ever had to request a change to your DD214? 
+14. If yes, when was that? What was the change you needed to make, and why?
+15. If no, do you anticipate ever needing to make a change?
+16. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
-## Expectations/hopes for finding service info - X minutes
+## Expectations/hopes for finding service info - 8 minutes
 
 Okay, we're almost done with questions. Thank you for everything you've shared already. I just have about 5 questions more for you:
 
-21. Let's imagine that you could easily find your service information online, using your browser. _Pause._ What is your immediate response to that idea?
-22. Would accessing your service history information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
-23. Do you have any thoughts on where online you'd want to go to access your service information? 
-24. If that information were on VA.gov, where on that site would you expect to find your service information? 
-25. Would accessing your service history information on VA.gov be easier or more difficult than _______ (your current way of accessing that information? Why?
+17. Let's imagine that you could easily find your service information online, using your browser. _Pause._ What is your immediate response to that idea?
+18. Would accessing your service history information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
+19. Do you have any thoughts on where online you'd want to go to access your service information? 
+20. If that information were on VA.gov, where on that site would you expect to find your service information? 
+21. Would accessing your service history information on VA.gov be easier or more difficult than _______ (your current way of accessing that information? Why?
 
 ## Thank-You and Closing - X minutes
 
