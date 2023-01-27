@@ -18,6 +18,8 @@ Based on the questions posed in our [research outline](https://github.com/depart
 - What are the [top ten?] popular pages for people to sign in on?
 - How many clicks do people usually take/pages do people usually visit before signing in?
 - What are peoples' next clicks **after** signing in?
+- What is the % breakdown of people who click sign in CTAs vs. "Create Account" CTAs?
+- For people who click "Create Account", where are they coming from (previous page)?
 
 ### Navigating to tasks & tools
 
