@@ -4,7 +4,7 @@
 - Data Source: DEERS
 
 ## DoD Information vs. what is in VA.gov Profile
-The below information was provided by Samara Strauss who is the OCTO PO for VA.gov Profile.
+The below notes about DEMOGRAPHICS information was provided by Samara Strauss who is the OCTO PO for VA.gov Profile.
 - First Name: In the current VA.gov profile via MPI
 - Middle Name: In the current VA.gov profile via MPI
 - Last Name: In the current VA.gov profile via MPI
