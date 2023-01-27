@@ -1,4 +1,6 @@
-# MHV to VA.gov Decision Log
+** Copy the content below into a new Markdown file **
+
+# MHV to VA.gov Decision Log Template
 Please log key MHV to VA.gov decisions related to the below practice areas, including date, who made the decision, a description of the decision and any specific rationale behind it.  For decisions about specific products, please use the decision log within that products document folder.
 
 ## Product
