@@ -134,6 +134,6 @@ Please log key Health Issues decisions related to the below practice areas, incl
 |      |                   |                         |           |
 
 ## Questions to be Answered
-1. What term do we want to use for this list? Health Issues? Problem List? Health Conditions? Other?
+1. What term do we want to use for this list? Health Issues? Problem List? Health Conditions? Other? 
 
 
