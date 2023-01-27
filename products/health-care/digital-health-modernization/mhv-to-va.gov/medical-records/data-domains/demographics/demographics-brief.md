@@ -115,7 +115,19 @@ See Excel sheet below.
 
 ### Research that relates to Demographics
 
-**Findings from card sort**
+**An "About me/ Personal information" category was often created by participants, though the contents of this category differed.** 
+
+Some versions of this category included demographic information, ongoing monitoring information like vitals, allergies and immunizations, and a "shapshot" of current health, issues, and treatments. Others contained only some of this information. 
+
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/100814257/202789539-f350fbd1-1a4b-482c-81c5-6c23dc70877e.png">
+
+The purpose of this category varied. Some participants framed the category as providing key information to doctors about a patient. 
+
+   - _"[Personal information group is] anything about yourself - age, height, weight. Any information that a doctor needs to know before prescribing medication."_ Female Caregiver, age 39, no MHV account
+
+Others wanted the most pressing or current information to be centrally located - in this way, this category simultaneously functioned similar to a "to do list". 
+
+This category varied the most across interviews and explanations often seemed contradictory and incoherent; however, this category still existed in the majority (n=10) of interviews. It is possible that a different interview guide would have led to participants distinguish more consistently between demographic information, current health status, and most pressing issues. This will be explored in concept testing. 
 
 
 ## Questions to answer
