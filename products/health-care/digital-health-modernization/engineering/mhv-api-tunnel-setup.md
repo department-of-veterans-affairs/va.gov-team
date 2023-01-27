@@ -33,8 +33,8 @@ aws ssm start-session --target <instance_id> --document-name AWS-StartPortForwar
 ```
   * `instance_id` is the AWS instance id (like `i-0a751576c718bf730`) from step 3.
   * `fwdproxy_port` is the configured HAProxy port for the upstream service. For MHV, the values are as follows:
-    * ~dev -> intb - fwdproxy_port = **4432**~ (TBD validating this configuration)
-    * staging -> sysb - fwdproxy_port = **4432**
+    * ~dev -> intb - fwdproxy_port = **4498**~
+    * staging -> sysb - fwdproxy_port = **4498**
   * `local_port` can be any unused port number on your machine. You'll need this value when configuring vets-api below. 
 
 If successful, this command should print output like:
