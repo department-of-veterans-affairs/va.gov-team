@@ -86,7 +86,7 @@ There are two different types of report available on MyHealtheVet that contain a
 The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.
 
 **Where do Health Problems fit within IA?**
-TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal rather than needing to generate a lengthy report or download a file, although those options should still be made available via the Blue Button report and VA Health Summary.
+TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal rather than needing to generate a lengthy report or download a file, although the download and print options should still be made available via the Blue Button report and VA Health Summary.
 
 
 ### How to show Health Problems section
