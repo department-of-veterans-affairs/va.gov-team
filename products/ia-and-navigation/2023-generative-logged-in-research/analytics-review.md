@@ -8,7 +8,7 @@
 
 ## Questions to answer
 
-**During what time period should we be pulling analytics?**
+**Pull analytics for the last year**
 
 Based on the questions posed in our [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md), we can potentially find supporting analytics that will help us address the following questions:
 
