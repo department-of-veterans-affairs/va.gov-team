@@ -29,11 +29,11 @@ The two types of reports that may contain a list of health issues are Blue Butto
     - Provider
     - Source
 
-## Problem List Within Existing MyHealth*e*Vet Site
-1. Information and disclaimers about the problem list can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
-2. The ability to download a Problem List requires users to upgrade to a Premium Account. To view the problem list online, you will need to use a test user account that is set up as Premium.
+## Problem List in Context of Existing MyHealth*e*Vet Site
+1. Information and disclaimers about the problem list within a Blue Button report can be found on the [problem list landing page](https://www.myhealth.va.gov/mhv-portal-web/va-problem-list) on MyHeath*e*Vet (requires logging in with a test account).
+2. The ability to download a Problem List requires users to upgrade to a Premium Account. 
 3. There is a 36-hour waiting period before a new problem is included in the Problem list.
-5. The problem list within the VA Health Summary is displayed in a tabluar format.   Screen shot of on-screen view | PDF example
+5. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   Screen shot of on-screen view | PDF example
 6. VA Health Summary data is currently updated once a day and may be viewed in the browser, downloaded as a PDF, XML file or sent securely to a health provider via Direct Message.  
 7. Users may also set up Email notifications to subscribe to Health Summary delivery notifications.
 8. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
