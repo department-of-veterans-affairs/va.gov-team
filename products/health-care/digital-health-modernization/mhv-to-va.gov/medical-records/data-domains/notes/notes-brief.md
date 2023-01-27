@@ -24,6 +24,8 @@ After an appointment or hospital stay, your provider and health care team write 
 - Your provider's views of your health problems, called "Assessment" or "Impression" 
 - The recommended treatment plan, called "Plan"
 - Suggested follow up needed, such as tests or referrals to a specialist
+- Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
+- Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
 
 ## Relevant links
 
