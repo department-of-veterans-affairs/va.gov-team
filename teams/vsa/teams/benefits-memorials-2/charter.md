@@ -1,15 +1,15 @@
-# **VSA Debt Resolution Team Charter** 
+# **Benefits: Debt Resolution Team Charter** 
+Last Updated: January 27,2023
 
 ### **Table of Contents:**
 
 - [Guideposts](#guideposts)
 - [Team Details](#team-details)
-- [VA Relationships](#va-relationships)
 - [Meeting Cadence](#meeting-cadence)
 - [Team Workflow](#team-workflow)
 - [GitHub Guidelines](#github-guidelines)
 - [Issue Estimation](#issue-estimation)
-
+- [VA Relationships](#va-relationships)
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
@@ -38,45 +38,61 @@
 
 ## Team Details
 
-- **Team Slack Channel:** `#benefits-team-2`
+### Team Slack Channel:** `#benefits-debt-resolution`
 
-|**Team Roles**              |**Assigned**                        |
+|**Debt Team Roster**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
-|Team Product Manager   |Denise Coveyduc                     |
-|Delivery Manager       | Heather Rienks                     |
-|Back End Engineer      |Scott James                         |
-|Front End Engineer     |Andrew Rodiek                       |
-|Front End Engineer     |Brandyn Sullins                     |
-|Front End Engineer     |Aaron Ponce.                        |
-|Designer/Research      |Megan Gayle                         |
-|Researcher             |Charlotte Cesana                    |
-|Designer               |TBD                                 |
+|Sr. Product Manager    |Denise Coveyduc                     |
+|Delivery Manager       |Heather Rienks                     |
+|Sr. Back End Engineer  |Scott James                         |
+|Back End Engineer      |TBD                                 |
+|Sr. Front End Engineer |Andrew Rodiek                       |
+|Sr. Front End Engineer |Brandyn Sullins                     |
+|Sr. Front End Engineer |Aaron Ponce                        |
+|Sr. UX Designer/Research|Megan Gayle                         |
+|Sr. UX Researcher       |Charlotte Cesana                    |
+|Product Designer        |Joseph Lee                          |
 
 </br>
 ---
 
-</br>
-
-## VA Relationships
-- Matt Self | matthew.self2@va.gov -- Digital Services Product Owner
-- Jill Anderson | jill.anderson3@va.gov -- Debt Management Center (DMC) Stakeholder
-
 
 </br>
 
----
+# Meeting Cadence
+
+##  Agile Ceremonies 
+|**Agile Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |**Facilitator**  | 
+|-----------------------|------------------------------|------|------------------|-----------------|----------------|
+|*Stand-Up*               |Daily @ 12:45pm ET/9:45am PT |15 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blocker and Dependancies?|Heather Rienks  | 
+|*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET/11am PT|60 mins | Zoom meeting|Outline team and member focus, goals for upcoming sprint.|Denise Coveyduc  | 
+|*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Heather Rienks    | 
+|*Backlog Refinement* | BiWeekly 2nd Thursday of every sprint, @ 1:00pm ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|Heather Rienks    | 
 
 </br>
 
-## Meeting Cadence
 
-|**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
-|-----------------------|------------------------------|------|------------------|-----------------|
-|*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blocker and Dependancies?|
-|*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|60 mins | Zoom meeting|Outline team and member focus, goals for sprint.
-|*Retro*                  |Last Tuesday of every sprint @ 2:30pm ET | 30 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
-|*Grooming* | 2nd Thursday of every sprint, @ 1:00pm ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
+##  Planning Meetings
+| Meeting                  | Cadence         | Attendees/Groups                 |Agenda/Focus       | **Facilitator**  | 
+|--------------------------|-----------------|----------------------------------|-------------------|-------------------|
+| *Quarterly Planning*       | Every 3 months  | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
+| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Denise Coveyduc  | 
+| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Denise Coveyduc  | 
+| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Denise Coveyduc  | 
+| P*M + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks| 
+
+##  Stateholder Meetings
+| **Meeting** | **Cadence**      | **Attendees/Groups**   |**Agenda/Focus**    |**Facilitator**  | 
+|-------------|--------|-------------|---------|----------|
+| *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Jill Anderson (DMC)  |   
+| *Debt Team Demo* | Monthly (Encompasses two sprints)     | Matt Self, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
+
+## Contract Meetings
+| **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
+|-------------|--------|-------------|---------|----------|
+| *Benefits Debt Resolution: Weekly Check-In Meeting* | Weekly      | Matt Self, Heather Rienks, Denise Coveyduc, Athena Perez, Jennifer Oday, Laurene Cook   |Facilitate open lines of communication between core participants from the VA and A6 project team.    |Heather Rienks   | 
+| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Matt Self, Denise Coveyduc, Heather Rienks, Athena Perez, Tom Greene    |TBD    |TBD   |
 
 
 </br>
@@ -99,7 +115,7 @@ _[Additional Information](https://github.com/department-of-veterans-affairs/va.g
   * Let’s have fun and do great work!
 
 **Communication Best Practices** 
-  - Slack is the best communication method - Please use DSVA #benefits-team-2 slack channel as much as possible
+  - Slack is the best communication method - Please use DSVA slack channel [**#benefits-debt-resolution**] as much as possible
   - Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
   - VFS teams should use public Slack channels as their first method of communication.
   - Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
@@ -145,12 +161,22 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 * frontend
 * backend
 * content
-* needs-grooming
 * design
+* product
+* needs-grooming
 * Awaiting Feedback
 * research
 * planned-work
 * unplanned-work
+* Sprint Priority
+* bug
+* epic
+* super-epic
+* collab-cycle-feedback
+
+Product Labels
+* CombinedFSR
+* Streamlined Waiver
 
 ---
 
@@ -200,6 +226,16 @@ _In an effort to standardize  team estimates the below can act as a reference gu
 
 
 
+</br>
+
+## VA + Other Stakeholder Relationships
+- Matt Self | matthew.self2@va.gov -- Digital Services Product Owner
+- Jill Anderson | jill.anderson3@va.gov -- Debt Management Center (DMC) Stakeholder
+
+
+</br>
+
+---
 
 
 
