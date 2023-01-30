@@ -63,7 +63,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 - [Analytics information for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/product/analytics-documentation.md)
 
-### Objective: Meet user need/expectation by elevating debt informtion to user dashboard.
+### Objective: Meet user need/expectation by elevating debt information to user dashboard.
 
 [On-site notifications report](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/)
 
