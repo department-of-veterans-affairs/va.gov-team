@@ -106,7 +106,7 @@ Quick Submit is a platform that supports the claims application process and allo
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
 - **Team objective**: Improve IA and navigation for tasks and tools
-- 
+ 
 We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in. We'll be partnering with Mikki to conduct a research review, analytics review, and user research that will be used to inform work throughout this calendar year.
 
 ## The rest of the year
