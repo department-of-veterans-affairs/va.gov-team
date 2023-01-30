@@ -114,6 +114,7 @@ I would like you first to share your screen with me--a web browser please. You m
 How would you get started?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
+- *RECORD where they go on VA.gov: Cost of care page / Eligibility page / ______________________*
 
 ### Task 2: [Open prototype] 
 
