@@ -50,7 +50,7 @@ This should drive alignment and help product and design make decisions including
 |Do Veterans understand why and how to upgrade to an IAL2 Login.gov account?|Test end-to-end clickable prototype with Veterans (including accessibility testing); Track live journey including drop-offs; Survey Veterans who have an IAL1 account|
 |Do Veterans choose to upgrade to an IAL2 account?|Track TBD|
 
-## In-person support
+## 2. In-person support
 ### Our assumptions
 - Veterans can identity proof in-person at a VAMC
 - Veterans can receive in-person help with creating and using a Login.gov account over time
@@ -97,15 +97,17 @@ This should drive alignment and help product and design make decisions including
 |Are VA staff able to answer questions and help Veterans troubleshoot when introducing Login.gov to them?| |
 |Do Veterans complete the Login.gov set up process after identity proofing, if it’s done at the start of account set up?| |
 
-## Non-Veteran user roles
+## 4. Non-Veteran user roles
 ### Our assumptions
 - Veterans can grant someone else full or partial access to their information
 - Veterans can manage who has access to their account and are reminded
+- Veterans are willing to set up shared access for someone preemptively (before a life-altering event makes it necessary)
+- Veterans are willing to set up shared access for someone when a life-altering event occurs
 
 ### What we need to know
-- 
+- Are Veterans motivated to set up shared access without the occurence of a life-altering event?
 
 ### How we might learn this
 |Research questions|Methods|
 |:---|:---|
-| | |
+|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
