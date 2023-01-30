@@ -92,6 +92,12 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 |Customizations|Customizations are possible though limited. Requests need to be submitted through EHRM to Cerner team and follow approval process. | AVS is highly customizable for labels, sections, etc. Hospital level customizations can be completed by CPRS Admin.|
 |Patient Portal|Finalized Ambulatory Visit Summary is saved to Cerner's Clinical Notes and available on the Cerner Patient Portal.|Finalized AVS is saved as a PDF to VistA Imaging and available on MyHealthVet.|
 
+## HFE Design Consultation for EHRM (Cerner) AVS
+An evaluation was conducted for the Cerner AVS in August 2022 by Human Factors Engineering (HFE). 
+
+- HFE AVS Design Review:
+- Workgroup Meeting Notes:
+
 ## Ongoing Support and Development
 
 AVS supports ongoing development and enhancements based on stakeholder feedback and requests. 
