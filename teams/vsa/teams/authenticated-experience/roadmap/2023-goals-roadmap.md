@@ -11,13 +11,13 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 - Integrate the health protal features into VA.gov
 - Improve the veteran login experience
 
-## 500 foot view: Authenticated experience team goals
+## 500 foot view: Authenticated experience team objectives
 
-### Expand onsite notifications
+### Scale onsite notifications
 
 Now that our MVP has launched, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov features. We know from countless user research efforts that the #1 thing people expect to see when they log in is personalized action items and updates, so scaling and elevating onsite notifications is a must. We''ll be spending the year figuring out our governance process, exploring a notification center, and, of course, adding new notifications.
 
-### Expand notification preferences
+### Scale notification preferences
 
 For the profile, the notification preferences section is currently our biggest focus. We've got a lot of work coming down the pipeline, including incorporating preferences from MHV and eBenefits, as well as working with VANotify and VA Profile to add new preferences as other notifications are added. By year's end, I could see us adding 5 new preferences, if partners continue adding new notifications at the pace they did in 2022.
 
@@ -33,9 +33,9 @@ There are plenty of opportunities for us to collaborate as MHV health features m
 
 Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
 
-### Maintenance of VA.gov profile features
+### Maintenance & UX improvements
 
-While we are not planning active development on most profile features outside of notification preferences, there are both known and likely to-be-determined updates that need to happen with our existing integrations. We'll support these initiatives as required.
+There are both known and likely to-be-determined maintenance, UX, and accessibility updates that need to happen for both My VA and the VA.gov profile. We'll support these initiatives as required.
 
 ## 100 foot view: Q1 CY2023 (January - March) authenticated experience roadmap
 
@@ -43,7 +43,8 @@ While we are not planning active development on most profile features outside of
 
 #### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 
-**OCTO objective**: Enhance Veterans' personalized online experience
+- **OCTO objective**: Enhance Veterans' personalized online experience
+- **Team objective**: Maintenance & UX improvements
 
 This work is carrying over from Q4 CY2022. We are making some major improvements to UX and accessibility on My VA by making it so all sections show all the time, improving consistency, and removing some overly-nuanced personalization that made the page more complex without adding enough value.
  
@@ -52,6 +53,7 @@ This work is carrying over from Q4 CY2022. We are making some major improvements
 #### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
 
 **OCTO objective**: Enhance Veterans' personalized online experience
+**Team objective**: Scale onsite notifications
 
 The onsite notifications MVP launched in October 2022, and we are now ready to scale this feature. While we're still scoping this work, we'll likely tackle overall governance and adding at least 1 new notification.
 
@@ -59,19 +61,24 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 #### Update claims section so it points to Lighthouse integration
 
+**OCTO Objective**: None
+**Team Objective**: Maintenance & UX improvements
+
 Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away, and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
 
 ### Profile team
 
 #### Frontend: [Finish accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
 
-**OCTO objective**: Enhance Veterans' personalized online experience
+**OCTO objective**: None
+**Team objective**: Maintenance & UX improvements
 
 There are quite a few design updates that are complete and need to be implemented. We should wrap up frontend implementation on these tickets ahead of moving on to other work.
 
 #### Backend: [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
 
-**Objective**: Maintenance
+**OCTO objective**: None
+**Team objective**: Maintenance & UX improvements
 
 Direct deposit for comp & pen information on VA.gov is currently supported by EVSS. However, EVSS is going away in 2023 (need to confirm date), and EVSS integrations are in the process of moving over to the Lighthouse platform. According to [Nichole Harris](https://dsva.slack.com/archives/C8R3JS8BU/p1670604479375849?thread_ts=1670603198.743219&cid=C8R3JS8BU), the direct deposit information is almost in their Sandbox and will hopefully be ready for their production environment in January 2023. At this point, we can start moving over our integration from EVSS to Lighthouse. We'll work closely with Lighthouse to get this funtionality updated, tested, and launched.
 
