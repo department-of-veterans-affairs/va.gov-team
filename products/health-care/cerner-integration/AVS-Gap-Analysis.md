@@ -95,8 +95,8 @@ The goal of this Gap Analysis is to provide the information needed for decision-
 ## HFE Design Consultation for EHRM (Cerner) AVS
 An evaluation was conducted for the Cerner AVS in August 2022 by Human Factors Engineering (HFE). 
 
-- HFE AVS Design Review:
-- Workgroup Meeting Notes:
+- [HFE AVS Design Review](https://dvagov.sharepoint.com/:p:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/hfe-avs-design-review-aug2022.pptx?d=wc947de850f77492db186e0fb74e3eda5&csf=1&web=1&e=Z6VVGt)
+- [Workgroup Meeting Notes](https://dvagov.sharepoint.com/:w:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/avs-workgroup-meeting-notes-aug2022.docx?d=wb40aa68c09894352beabaf5a47029307&csf=1&web=1&e=did2q1)
 
 ## Ongoing Support and Development
 
