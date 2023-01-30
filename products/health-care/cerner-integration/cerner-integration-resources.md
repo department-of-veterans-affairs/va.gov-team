@@ -26,6 +26,7 @@ Bulk APIs enable the exchange records for multiple patients at once. APIs provid
 > - Based on industry standards - Cerner OPENLink is based on web-based, health system and research standards, including HL7, X12, XML, and DICOM.
 
 Cerner Wiki: https://wiki.cerner.com/display/reference/OPENLink+Integration+Manager+Reference+Pages
+
 Cerner Information Sessions: [OPENLink Intro](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Introducing%20OPENLink%20Integration%20Manager.pdf?csf=1&web=1&e=7GIsC4) and [2020 Forum](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Cerner%20OPENLink%20Virtual%20Forum%202020%20-%20Part%201_Client%20Only.pdf?csf=1&web=1&e=A6RsCD)
 
 ## HL7 Messaging Interface
