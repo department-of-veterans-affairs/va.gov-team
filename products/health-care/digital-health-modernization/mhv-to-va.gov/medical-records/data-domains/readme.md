@@ -51,10 +51,9 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
   - Admissions and Discharges
 - [Health issues / problem list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)
-- [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
 - [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 - [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
-- DoD Information
+- [DoD Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/dod-info/dod-info-brief.md)
 
 # Domain Briefs and Low-Fi Design Status
 |Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
