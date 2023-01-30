@@ -121,7 +121,6 @@ This all depends on Florence having Github access.
 
 - Migrate GET Direct Deposit Info 
 
-
 ### Notification preferences
 
 **Liz**
@@ -139,12 +138,17 @@ This all depends on Florence having Github access.
 - [Research] Military info discovery: Final logistics prior to sessions #51886
 - (If Florence finishes the convo guide in sprint 2) Military info discovery: Conduct research sessions #51887
 
-
 ## Sprint 4 (2/15 - 2/28)
 ### PTO
 - Liz: 2/15 - 2/17
 
 [#52405](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52405)
+
+### General
+
+**BE - Tom**
+
+- Province populated on U.S. Territory Addresses #52786
 
 ## Sprint 5 (3/1 - 3/14)
 
