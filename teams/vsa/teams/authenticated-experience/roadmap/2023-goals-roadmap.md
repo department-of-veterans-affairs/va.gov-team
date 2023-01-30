@@ -8,7 +8,7 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 
 - Enhance veterans' personalized online experience
 - Refresh the VA.gov homepage and information architecture
-- Integrate the health protal features into VA.gov
+- Integrate the health portal features into VA.gov
 - Improve the veteran login experience
 
 ## 500 foot view: Authenticated experience team objectives
