@@ -1,9 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
-- GitHub Label: [vsa-decision-reviews](https://github.com/department-of-veterans-affairs/va.gov-team/labels/vsa-decision-reviews)
-- Slack channel: [#vsa-decision-reviews](https://dsva.slack.com/channels/vsa-decision-reviews)
-- va.gov link: tbd
-
-## WIP
+- GitHub Label: [benefits team 1, squad 2]
+- Slack channel: [#benefits-decision-reviews]([https://dsva.slack.com/channels/vsa-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 
 ### Table of Contents
 
@@ -222,16 +219,12 @@ TBD after launch
 
 |Name|Role|Email|
 |----|----|-----|
-|Andrea Schneider|DSVA Lead| andrea.schneider@va.gov |
-|Carola Ponce |DSVA Lead Designer| rubenia.ponce@va.gov |
-|Yana Roy |Product Manager| yroy@governmentcio.com |
-|Kevin Stachura |Designer| kstachura@governmentcio.com |
-|Carolyn Williams |Designer| carolyn@adhocteam.us |
-|Nick Sprinkle | FE Engineer| nick.sprinkle@oddball.io |
+|Matt Self|DSVA Lead| matt.self@va.gov |
+|Sade Ragsdale |Product Manager| sade@coforma.io |
+|Eileen Chi |Designer| eileen.chi@coforma.io |
+|Eugene Lynch | Engineer| eugene.lynch@coforma.io |
+|Rocio de Santiago | FE Engineer| rocio@coforma.io |
 |Robin Garrison | FE Engineer| robin.garrison@adhocteam.us |
-|Silvio Luthi | BE Engineer | silvio@adhocteam.us |
-|Cameron Testerman | BE Engineer | cameron@oddball.io |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-
+|Kyle Soskin | BE Engineer| kyle.soskin@adhocteam.us |
 
 ## Screenshots
