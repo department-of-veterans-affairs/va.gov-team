@@ -56,6 +56,7 @@ As of early January 2023, the current Certificate of Eligibility feature on eBen
 
 - VA.gov will incrementally release the feature on VA.gov, following an expedited cadence due to the defect on eBenefits.
 - eBenefits will post a hard re-direct banner once the feature is released to 100% of users on VA.gov.
+- Link to the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/Test%20and%20Launch/Release%20Plan.md)
 
 ## Target Launch Dates (last updated January 30, 2023)
 - 1/19/2023 - Feature Toggle will be set at 0% - VA.gov will whitelist Veteran volunteers to assist in submitting COE requests.
