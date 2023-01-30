@@ -18,6 +18,15 @@ Bulk APIs enable the exchange records for multiple patients at once. APIs provid
 - Cerner documentation of HealtheIntent Services: https://docs.healtheintent.com/#services
 >Note that because the patient record in HealtheIntent is automatically constructed from many independent data sources, no HealtheIntent APIs allow you to write directly to the core clinical resources like the Cerner Millennium FHIR APIs do; however, some of the HealtheIntent intelligence resources do support write actions. Furthermore, because HealtheIntent is not an electronic health record (EHR) platform, no HealtheIntent APIs trigger discrete activities that occur strictly in the context of the legal medical record, such as ordering, scheduling, or billing. The most powerful applications combine both HealtheIntent APIs and FHIR APIs, leveraging the broad data set and automated intelligence exposed by HealtheIntent APIs to drive discrete actions in the EHR using FHIR APIs.
 
+## Cerner OPENLink
+>OPENLink™ is an application-independent interface engine that provides healthcare organizations with industry-standard, cost-effective connectivity development and management. OPENLink features innovative tools to simplify data management and manipulation by helping interoperability analysts quickly and easily manage complex information exchange between disparate systems. These tools provide complete control over the implementation and modification of interfaces and allow for troubleshooting and maintenance of these interfaces. 
+> - Enable the EHR through systems interoperability - Cerner OPENLink bridges clinical, lab, imaging, financial, administration, and other systems that require online data
+> - Reduce redundant manual data entry - Cerner OPENLink seamlessly transfers data between systems that utilize different communication standards and protocols.
+> - Helps providers meet HIPAA regulations - Cerner OPENLink provides the security tools needed to help hospitals comply with HIPAA rules and guidelines
+> - Based on industry standards - Cerner OPENLink is based on web-based, health system and research standards, including HL7, X12, XML, and DICOM.
+
+Cerner Wiki: https://wiki.cerner.com/display/reference/OPENLink+Integration+Manager+Reference+Pages
+
 ## HL7 Messaging Interface
 Cerner uses HL7 Messaging Standard Version 2.5.1 
 - Documentation from HL7.org: https://www.hl7.org/implement/standards/product_brief.cfm?product_id=144
