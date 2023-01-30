@@ -68,14 +68,14 @@ Claims and appeals information on VA.gov is currently supported by EVSS. However
 
 ### Profile team
 
-#### Frontend: [Finish accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
+#### [Finish accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
 
 - **OCTO objective**: None
 - **Team objective**: Maintenance & UX improvements
 
 There are quite a few design updates that are complete and need to be implemented. We should wrap up frontend implementation on these tickets ahead of moving on to other work.
 
-#### Backend: [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
+#### [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
 
 - **OCTO objective**: None
 - **Team objective**: Maintenance & UX improvements
@@ -108,6 +108,15 @@ Quick Submit is a platform that supports the claims application process and allo
 - **Team objective**: Improve IA and navigation for tasks and tools
  
 We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in. We'll be partnering with Mikki to conduct a research review, analytics review, and user research that will be used to inform work throughout this calendar year.
+
+### Initiatives Samara is tracking that will impact our team later on
+
+#### Get MHV notification preferences into the VA Profile backend
+
+- **OCTO objective**: Integrate the health portal features into VA.gov
+- **Team objective**: Support the health apartment migration; Scale notification preferences
+
+Samara is working with MHV and VA Profile to get VA Profile to support the MHV notification preferences. After VA Profile supports these preferences and MHV integrates their profile with the VA Profile backend, we'll be able to bring these preferences into the VA.gov profile. 
 
 ## The rest of the year
 
