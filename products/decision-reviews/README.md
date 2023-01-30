@@ -1,6 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
 - GitHub Label: [benefits team 1, squad 2]
-- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/channels/vsa-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 
 ### Table of Contents
 
