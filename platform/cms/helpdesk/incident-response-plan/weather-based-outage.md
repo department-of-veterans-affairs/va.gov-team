@@ -1,5 +1,5 @@
 ## Actions
-1. Identify/Verify/Classify the Incident
+1. Identify/Verify/Classify the Incident (Weather-based Outage)
 
 2. Identify/Notify Impacted Support Teams
 
