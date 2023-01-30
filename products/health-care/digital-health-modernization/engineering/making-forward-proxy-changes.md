@@ -8,8 +8,8 @@ This is a brief guide on how to add or update an interface for the VA.gov forwar
 2. Add a new listener port in the `main.tf` file for the relevant environment.
 3. Update the `vets-api` settings Jinja template to reference the new connection, if necessary.
     - The settings in the Jinja templates are not being used for `vets-api` currently, due to the transition to EKS. However, the EKS team would still like to keep these configuration files in-sync for the time being. 
-5. Once PR is merged, request a deployment of the forward proxy.
-6. Once re-deployed, connect to the forward proxy and `curl` against `localhost` with whatever port you've assigned to the interface, as well as the healthcheck endpoint.
+5. Once PR is merged, request that any changes made to Terraform files be applied as well as a re-deployement of the forward proxy.
+6. Once Terraform changes have been applied and the forward proxy has been re-deployed, connect to the forward proxy and `curl` against `localhost` with whatever port you've assigned to the interface, as well as the healthcheck endpoint.
     - This will let you know if the interface has been configured correctly.
     - ie: `curl -i -k https://localhost:4498/mhv-sm-api/patient/v1/session`
     - Instructions are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-api-tunnel-setup.md#per-session-setup) for connecting to the forward proxy instances.
