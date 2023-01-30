@@ -51,7 +51,7 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
   - Admissions and Discharges
 - [Health issues / problem list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)
 - [Vitals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)
-[Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
+- [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
 - [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 - [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
 - DoD Information
