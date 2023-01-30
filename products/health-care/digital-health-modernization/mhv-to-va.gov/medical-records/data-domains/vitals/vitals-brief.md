@@ -44,7 +44,7 @@ Vital signs are collected at every medical encounter and some vital signs can be
 ## Use Cases
 
 Things to think about that inform use cases: 
-- Vital sign data are produced regularly - there is an opportunity to show data points over time in a post-MVP version
+- Vital sign data are produced regularly - it is important to show data points over time in the MVP version
 - Veterans and Caregivers might think to conceptualize some vital signs as a lab/test rather than a vital sign
 
 **Common Use Cases**
