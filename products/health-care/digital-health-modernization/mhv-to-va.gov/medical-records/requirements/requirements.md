@@ -6,7 +6,6 @@
 - [Clinical Notes](#clinical-notes)
 - [Health Issues](#health-issues)
 - [Vitals](#vitals)
-- [Demographics](#demographics)
 - [Allergies](#allergies)
 - [Demographics](#demographics)
 - [DoD Information](#dod-information)
@@ -22,8 +21,6 @@
 ## Health Issues
 
 ## Vitals
-
-## Demographics
 
 ## Allergies
 
