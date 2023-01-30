@@ -10,6 +10,7 @@
 - [Allergies](#allergies)
 - [Demographics](#demographics)
 - [DoD Information](#dod-information)
+- [Blue Button and Health Summary](#blue-button-and-health-summary)
 
 ## General
 ### Printing
