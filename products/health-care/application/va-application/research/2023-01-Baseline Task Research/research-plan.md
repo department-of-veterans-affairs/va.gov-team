@@ -20,7 +20,7 @@ The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ### Veteran Journey
 The health care application product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) during the phases: 
-- Getting out
+- Taking care of myself
 - Starting up 
 - Retiring 
 
