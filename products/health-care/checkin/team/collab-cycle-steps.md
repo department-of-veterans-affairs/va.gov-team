@@ -85,8 +85,8 @@
     - Regression Test Plan
     - Summary(Defects) Report
     - Coverage for References Report
-- Run test cases for TestRail Test & Regression Plans (UX)
-- Generate TestRail reports (ENGINEERING)
+- Run test cases for TestRail Test & Regression Plans (PRODUCT, UX, DESIGN, ENGINEERING)
+- Generate TestRail reports (PRODUCT)
 - Generate E2E tests (ENGINEERING)
 - Provide code coverage info (ENGINEERING)
 
