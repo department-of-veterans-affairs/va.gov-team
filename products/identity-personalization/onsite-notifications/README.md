@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: January 10, 2023**
+**Last updated: January 30, 2023 updates Roles section with new team members**
 
 ### Communications
 
@@ -15,9 +15,9 @@
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
+|Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+|Allison Lu| FE Engineer|	allison@cityfriends.tech |
 
 
 #### Partners
