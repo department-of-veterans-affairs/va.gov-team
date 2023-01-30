@@ -22,7 +22,7 @@
    [ ] Editors 
 
 - Critical Time Measure:
-  ### 2 Hours
+  ### TBD
 
 - Notify/Alert Impacted Audience
 
