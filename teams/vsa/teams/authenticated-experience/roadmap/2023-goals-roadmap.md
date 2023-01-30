@@ -1,5 +1,7 @@
 # Authenticated experience: 2023 goals & roadmap
 
+**Last updated: January 30, 2023**
+
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
 In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The authenticated experience team will primarily support the following objectives:
@@ -30,6 +32,10 @@ There are plenty of opportunities for us to collaborate as MHV health features m
 ### Support addition of a new user role on VA.gov
 
 Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
+
+### Maintenance of VA.gov profile features
+
+While we are not planning active development on most profile features outside of notification preferences, there are both known and likely to-be-determined updates that need to happen with our existing integrations. We'll support these initiatives as required.
 
 ## 100 foot view: Q1 CY2023 (January - March) authenticated experience roadmap
 
