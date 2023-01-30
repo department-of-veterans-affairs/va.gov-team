@@ -3,6 +3,7 @@
 ---
 - GitHub Label: COE
 - Slack channel: This feature is currently managed by the decision review team in [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- [Design link](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140680778/simulate/sitemap)
 - [Staging link](http://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880)
 
 ## Executive Summary
