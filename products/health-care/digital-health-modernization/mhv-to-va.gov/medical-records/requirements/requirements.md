@@ -45,4 +45,4 @@
 - We will continue to provide the ability to create and download Blue Button and Health Summary reports as these reports fill different needs for Veterans and contain different information. 
 - Once a VA Health Summary  has been generated, it can be viewed as PDF file, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present a historical list of generated and requested reports, along with the links to view, print, or download them.
-- - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
+- We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
