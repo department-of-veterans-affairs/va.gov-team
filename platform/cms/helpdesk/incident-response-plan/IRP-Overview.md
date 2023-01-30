@@ -19,25 +19,17 @@ The Incident Response Team is composed of anyone who is actively working to comp
 - [Work to resolve/mitigate the incident](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.olhe1bwqqqw8)
 - [Notify / Alert resolution to appropriate audience using appropriate tools](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.l0koqkq2ifxk)
 
+
 ### Outage Types Include: 
 - [CAG or Citrix Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/cag-citrix-outage.md)
-
 - [CMS or SSO Log In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/cms-log-in-sso-outage.md)
-
 - [CMS System-wide Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/cms-system-wide-outage.md)
-
 - [Content Release Failure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/content-release-failure.md)
-
 - [Disaster Recovery Situation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/disaster-recovery-situation.md)
-
 - [Email Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/email-outage.md)
-
 - [Facility or Physical Threat](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/facility-physical-threat.md)
-
 - [Local Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/local-outage.md)
-
 - [VA Network Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/va-network-outage.md)
-
 - [Weather-based Outage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response-plan/weather-based-outage.md)
 
 
