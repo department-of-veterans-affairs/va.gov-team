@@ -91,12 +91,12 @@ This should drive alignment and help product and design make decisions including
 ### How we might learn this
 |Research questions|Methods|
 |:---|:---|
-|Can Veterans schedule an appointment to identity proof in-person at a VAMC?| |
-|Do Veterans face any issues when identity proofing in-person?| |
-|Do Veterans have questions about Login.gov when it's introduced to them by a VA staff member in-person?| |
-|Do VA staff know how to identity proof in-person?| |
-|Are VA staff able to answer questions and help Veterans troubleshoot when introducing Login.gov to them?| |
-|Do Veterans complete the Login.gov set up process after identity proofing, if it’s done at the start of account set up?| |
+|Can Veterans schedule an appointment to identity proof in-person at a VAMC?|Test scheduling appointments end-to-end flow with Veterans;|
+|Do Veterans face issues when identity proofing in-person?|Interview VA staff who identity proof in-person; Do in-person observational research with Veterans|
+|Do Veterans have questions about Login.gov when it's introduced to them by a VA staff member in-person?|Interview VA staff who identity proof in-person; Do in-person observational research with Veterans|
+|Do VA staff know how to identity proof in-person?|Interview VA staff who identity proof in-person; Do in-person observational research with Veterans|
+|Are VA staff able to answer questions and help Veterans troubleshoot when introducing Login.gov to them?|Interview VA staff who identity proof in-person; Do in-person observational research with Veterans|
+|Do Veterans complete the Login.gov set up process after identity proofing, if it’s done at the start of account set up?|Monitor legacy credential usage by Veterans who identity proofed for a Login.gov in-person(?)|
 
 ## 4. Non-Veteran user roles
 ### Our assumptions
