@@ -1,5 +1,8 @@
 # PLATFORM COLLABORATION CYCLE PROCESS
 
+This is a high-level summary of the Collaboration Cycle process. Please refer to the Platform's [documentation](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) for guidance and follow the steps in the Collab Cycle Ticket created for the feature.
+
+## TABLE OF CONTENTS
 - [GUIDELINES FOR FOLLOWING THIS PROCESS](#guidelines-for-following-this-process)
 - [DESIGN PHASE](#design-phase)
     - [STEP 1: CREATE COLLAB CYCLE TICKET (PRODUCT)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/team/collab-cycle-steps.md#step-1-create-collab-cycle-ticket-product)
@@ -16,6 +19,7 @@
     - [STEP 10: STAGING REVIEW (PRODUCT)](#step-10-staging-review-product)   
     - [STEP 11: PRIVACY, SECURITY, INFRASTRUCTURE READINESS REVIEW (ENGINEERING)](#step-11-privacy-security-infrastructure-readiness-review-engineering)  
     - [STEP 12: 508 AUDIT (PRODUCT)](#step-12-508-audit-product)
+
 
 ## GUIDELINES FOR FOLLOWING THIS PROCESS
 - We should follow this process for new features that are substantial in nature
