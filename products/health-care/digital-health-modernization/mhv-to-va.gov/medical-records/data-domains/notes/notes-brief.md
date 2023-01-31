@@ -71,6 +71,7 @@ Notes are not just for patients, but also a way for health care members to be in
 - Discharge summary notes (VA Health Summary)
 - Surgical procedure notes (VA Health Summary)
 - Clinical procedure notes (VA Health Summary)
+- Admissions and Discharge notes (VA Admissions and Discharges in BB): to read about your hospital admissions and discharges.
 
 Note what's in BB and what's in Health Summary
 
