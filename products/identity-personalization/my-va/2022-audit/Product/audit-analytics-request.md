@@ -6,10 +6,10 @@
 
 ### Claims and appeals
 
-| Link/Text on My VA | URL | GA Event | New to My VA| Does this need a new tag from Analytics team?| Notes |
+| **Link/Text on My VA** | **URL** | **New to My VA (y/n)**| **Current GA Event** | **Does this need a new tag from Analytics team?**| **Notes** |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Learn how to file a claim | https://va.gov/disability/how-to-file-claim/ | This is a new link being added to My VA | | | Can see this with test user 10, I see `profile-navigation - view link - view learn how to file a claim` being tracked in Staging, we would prefer to use "Dashboard" not "Profile" if possible |
-| Manage all claims and appeals | https://www.va.gov/claim-or-appeal-status/ | This link was renamed - `profile - navigation - view link - view manage claims and appeals` |  | | I see this event in Staging, can we validate this will be the new event? the old one was: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` can test with user 14. Is is possible to keep the old event so we can have consistent historical tracking? |
+| Learn how to file a claim | https://va.gov/disability/how-to-file-claim/ | Yes  | `profile-navigation - view link - view learn how to file a claim` |  | You can see this with test user 10, I see `profile-navigation - view link - view learn how to file a claim` being tracked in Staging, we would prefer to use "Dashboard" not "Profile" if possible |
+| Manage all claims and appeals | https://www.va.gov/claim-or-appeal-status/ | No | `profile - navigation - view link - view manage claims and appeals` |  | | I see this event in Staging, can we validate this will be the new event? the old one was: `Navigation - Link List - Claims and Appeals - Check your claim or appeal status` can test with user 14. Is is possible to keep the old event so we can have consistent historical tracking? |
 
 <details>
   <summary>No Claims or Appeals (New version):</summary>
@@ -21,11 +21,12 @@
 
 ### Health care
 
-| **Link** | **URL** | **GA Event** | **Notes** |
-| ---- | ---- | ---- | ---- |
-| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | This is a new link on My VA | I see `Navigation - Link List - Health care - Apply for VA Health care` being tracked in staging, can we confirm this is the right event? Can be checked with User 272|
-| Schedule and manage your appointments | https://va.gov/health-care/schedule-view-va-appointments/appointments | `Navigation - Link List - Heatlh care - Schedule and manage your appointments` | Can we confirm this is the new event? This link previously existed but was renamed. Can be cheked with user 15 |
-| Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | `Navigation - Link List - Health care - Review your messages` | Can we confirm this is the new event? This link previously existed but was renamed. Can be checked with user 41. |
+| **Link/Text on My VA** | **URL** | **New to My VA (y/n)** |**Current GA Event** | **Does this need a new tag from Analytics team?**| **Notes** |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Yes | seeing `Navigation - Link List - Health care - Apply for VA Health care` in staging but need confirmation this is correct |  |Seeking confirmation on `Navigation - Link List - Health care - Apply for VA Health care` in staging, can we confirm this is the right event? Can be checked with User 272|
+| Schedule and manage your appointments (within appointment card) | https://va.gov/health-care/schedule-view-va-appointments/appointments | No | |  |Need to confirm if the link within the appointment card is tracked separately from the link list of the same name (see below)|
+| Schedule and manage your appointments (within link list) | https://va.gov/health-care/schedule-view-va-appointments/appointments | No |`Navigation - Link List - Heatlh care - Schedule and manage your appointments` |  |Can we confirm this is the new event? This link previously existed but was renamed. Can be checked with user 15|
+| Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | No | `Navigation - Link List - Health care - Review your messages` | |Text was changed from view to review. Can we confirm this is the new event? Can be checked with user 41. |
 
 
 <details>
