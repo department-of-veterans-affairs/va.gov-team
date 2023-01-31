@@ -196,10 +196,10 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 217 | Nine,Patient | 1935-04-07 | Christina | √ | √ |
 | 240 | Thirtyfive,Patient | 1935-04-07 | Michael K | √ | √ |
 | 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) | √ | √ |
-| 218 | Thirtyseven,Patient | 1935-04-07 | Event Bus Team 3 | √ | √ |
-| 151 | Thirtyeight,Patient | 1935-04-07 | Event Bus Team 4 | √ | √ |
-| 347 | Thirtynine,Patient | 1935-04-07 | Event Bus Team 5 | √ | √ |
-| 520 | Forty,Patient | 1935-04-07 | Patrick (OVAC) | √ | √ |
+| 218 | Thirtyseven,Patient | 1935-04-07 | Shawn | √ | √ |
+| 151 | Thirtyeight,Patient | 1935-04-07 | Event Bus Team 3 | √ | √ |
+| 347 | Thirtynine,Patient | 1935-04-07 | Event Bus Team 4 | √ | √ |
+| 520 | Forty,Patient | 1935-04-07 | Event Bus Team 5 | √ | √ |
 | 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach | √ | √ |
 | 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben | √ | √ |
 | 569 | Fotrythree,Patient | 1935-04-07 | Brian | √ | √ |
