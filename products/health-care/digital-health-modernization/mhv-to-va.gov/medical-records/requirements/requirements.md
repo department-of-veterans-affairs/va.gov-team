@@ -54,9 +54,19 @@
 - Users must be allowed to select the same types of data to include in their Blue Button report as they are on the MyHealtheVet site today.
 - The page that generates the Blue Button must present the last and most current generated reports, when they were generated, and links to view, print, or download them.
 - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
+### Blue Button Report PDF within page
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215801201-040832d6-d29a-4dd8-afb4-268e7211949b.png">
+
+
+### Blue Button Report TXT within page
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215800728-f6ec015b-c7c2-4836-9b1f-01cd70077ac3.png">
+
 
 
 ## VA Health Summary Reports
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
 - Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
+
+### VA Health Summary Report HTML within page iframe
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215800539-51f2d602-a258-4927-a0b5-f953f3041266.png">
