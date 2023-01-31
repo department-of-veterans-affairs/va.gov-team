@@ -2,7 +2,7 @@
 # Research questions
 Created by: @tygindraux
 <br>
-Last updated: Jan 30, 2023
+Last updated: Jan 31, 2023
 
 ## Purpose
 This document describes our current understanding of the high-level research questions that we need to answer in order to drive the 4 “projects” or “super epics” forward through implementation. These 4 projects are:
@@ -48,7 +48,7 @@ This should drive alignment and help product and design make decisions including
 |Are Login.gov staff prepared to help Veterans migrate their accounts?|Interviews with helpline staff; Track helpline stats (Login.gov)|
 |Do Veterans stop using their legacy credential moving forward?|Track login credential usage|
 |Do Veterans understand why and how to upgrade to an IAL2 Login.gov account?|Test end-to-end clickable prototype with Veterans (including accessibility testing); Track live journey including drop-offs; Survey Veterans who have an IAL1 account|
-|Do Veterans choose to upgrade to an IAL2 account?|Track TBD|
+|Do Veterans choose to upgrade to an IAL2 account?|Monitor legacy credential usage by new Login.gov users|
 
 ## 2. In-person support
 ### Our assumptions
@@ -59,16 +59,16 @@ This should drive alignment and help product and design make decisions including
 - Veterans can set up and use an MFA method(s) of their choice
 
 ### What we need to know
-- How can Veterans who are less digitally connected set up and use MFA?
+- How do Veterans who are less digitally connected set up and use MFA?
 - Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?
 - Are VA staff prepared to help Veterans in-person with account set up and use?
 
 ### How we might learn this
 |Research questions|Methods|
 |:---|:---|
-|How can Veterans who are less digitally connected set up and use MFA?| |
+|How do Veterans who are less digitally connected set up and use MFA?|Do in-person research with Veterans (including unhoused Veterans and those with severe cognitive disabilities)|
 |Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?| |
-|Are VA staff prepared to help Veterans in-person with account set up and use?| |
+|Are VA staff prepared to help Veterans in-person with account set up and use?|Do discovery research to understand who provides support across the VA (online and in-person) with Login.gov account set up and use|
 
 ## 3. Login.gov proactive adoption
 ### Our assumptions
