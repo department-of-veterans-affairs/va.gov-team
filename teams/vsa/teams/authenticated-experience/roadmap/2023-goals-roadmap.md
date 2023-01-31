@@ -10,6 +10,7 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 - Refresh the VA.gov homepage and information architecture
 - Integrate the health portal features into VA.gov
 - Improve the veteran login experience
+- Support PACT ACT development
 
 ## 500 foot view: Authenticated experience team objectives
 
@@ -99,6 +100,15 @@ We'll eventually need to add email as a channel for notification preferences, we
 Quick Submit is a platform that supports the claims application process and allows users to upload documents. With regards to notifications, they need a preference that allows them to opt-in and out of notifications as to whether there is a new letter to view in the Quick Submit app. This is a text notification, so this should be easy for us to support with our existing VA Profile integration. We'll work with them to support this preferernce on VA.gov. 
 
 **Expected launch date**: Before the end of Q1 CY2023.
+
+#### [Military information: Generative discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery#readme)
+
+- **OCTO objective**: Support PACT Act development
+- **Team objective**: Maintenance & UX improvements
+
+As of January 2023, the military information section of VA.gov only shows military branch(es), period(s) of service, service dates, information on how to fix data if it appears to be incorrect, and a link to the DD214. We have access to a lot more information through our VA Profile integration, but it is unclear what else we should surface here, if anything. We've never talked to veterans about this section of the profile, so we have little sense of whether it is meeting peoples needs and expectations.
+
+Furthermore, with passage of the PACT Act, there is renewed internal interest internally to surface more about veterans' miltary histories on VA.gov. In order to determine if and how we might expand the military information section on VA.gov, we need to conduct discovery to figure out what would be helpful to veterans.
 
 ### Cross-portfolio
 
