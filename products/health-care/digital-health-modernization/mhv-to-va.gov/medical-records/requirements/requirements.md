@@ -26,15 +26,21 @@
 - Clinical notes includes 
   - VA Notes
   - Admissions and discharge summaries 
-- A user should be able to see a list of all of their notes, order chronologically. Each list view entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
+  - After visit summaries
+- A user should be able to see a list of all of their notes, ordered chronologically. Each list view entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
+- A user should be able to sort their notes in different ways
+  - Chronologically
+  - By location, chronologically
+  - By signing physician, chronologically
+- In the list view, users need to understand the availability of notes, and the delays they are subject to. See https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- Where possible and clinically permissable, transform text to make a note easier to read.
+- A user should be able to print a note, or download it as either a PDF or TXT file. 
+
 - A user should be able search Notes to find what they are looking for.
   - A user should be able to search by note metadata, such as note title, signing or co-signing physician, location, or date. 
   - A user should be able to search for keywords in the body content of a note, such as "high blood pressure" or "back pain." A common use case is finding reference to a specific health condition in order to support something like a disability claim.
   - Search results should be ordered chronologically, from newest to oldest, and matches should be highlighted. 
   - The search box can be collapsed to create real estate for the list view of notes. 
-- Where possible and clinically permissable, transform text to make a note easier to read.
-- A user should be able to print a note, or download it as either a PDF or TXT file. 
-- Link to resources when possible (eg FAQs)
 
 ## Health Issues
 
@@ -52,6 +58,7 @@
   - Pain
 - For each category, a user must be able to click in and see a historical list of readings. a use must be able to view readings within a category over time to be able to quickly understand change over time. 
 - Each reading should include type, measurement including units, comments, location where the reading was collected, and the datetime collected. 
+- A user should be able to download (PDF or TXT) or print a vitals details view
 
 
 ## Allergies
