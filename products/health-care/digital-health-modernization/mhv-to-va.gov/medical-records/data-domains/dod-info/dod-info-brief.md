@@ -54,7 +54,7 @@ What do people want to use their Dod Info for?
 
 
 **Edge Cases**
-
+- Veterans may need to refer to their DoD history to see if they qualify for a particular benefit based on the service dates.
 Any edge cases for DoD Info? 
 
 ## UX considerations
