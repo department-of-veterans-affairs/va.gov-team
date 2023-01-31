@@ -1,4 +1,4 @@
-# Department of Defense (DoD): Data fields and UX considerations
+# Department of Defense (DoD) Info: Data fields and UX considerations
 
 Last updated: January 31, 2023
 
