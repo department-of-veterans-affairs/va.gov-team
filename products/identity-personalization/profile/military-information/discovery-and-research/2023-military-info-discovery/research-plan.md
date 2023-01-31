@@ -80,7 +80,7 @@ Research plan and conversation guide will be completed by Wednesday, February 1.
 * Planned dates of research: February 7-16
 
 ### Length of sessions
-* Session length: 45 mins
+* Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 3
 
