@@ -61,7 +61,8 @@ This should drive alignment and help product and design make decisions including
 ### What we need to know
 - How do Veterans who are less digitally connected set up and use MFA?
 - Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?
-- Are VA staff prepared to help Veterans in-person with account set up and use?
+- Which VA staff will help Veterans in-person with Login.gov account set up and use?
+- Are VA staff prepared to help Veterans in-person with Login.gov account set up and use?
 
 ### How we might learn this
 |Research questions|Methods|
