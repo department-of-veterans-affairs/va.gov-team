@@ -27,6 +27,20 @@
 ## Health Issues
 
 ## Vitals
+- A user must be able to view readings from each of the following categories of vitals
+  - Blood pressure
+  - Blood sugar
+  - Heart rate
+  - Cholesterol
+  - Body Weight
+  - Height
+  - Pulse Oximetry
+  - Body Temperature
+  - International Normalized Ratio (INR)
+  - Pain
+- For each category, a user must be able to click in and see a historical list of readings. a use must be able to view readings within a category over time to be able to quickly understand change over time. 
+- Each reading should include type, measurement including units, comments, location where the reading was collected, and the datetime collected. 
+
 
 ## Allergies
 
