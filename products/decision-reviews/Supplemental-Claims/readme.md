@@ -1,6 +1,4 @@
-# Product Outline: Supplemental Claims
-
-Last Updated: July 8, 2022
+# Product Brief: Supplemental Claim Form (20-0995
 
 ### Team Communications
 
