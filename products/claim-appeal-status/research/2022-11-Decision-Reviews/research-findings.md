@@ -22,17 +22,17 @@ This was broad-based discovery research intended to identify pain points in the 
 
 ## Hypotheses and Conclusions
 
-- We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing decision review options. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
+1. We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing decision review options. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO. 
 
-**True** It is clear there is no one-size-fits-all approach to helping Veterans file disability compensation claims and decision reviews. We heard from a number of Veterans who said VSOs were crucial to their ability to complete this process, but we also heard from Veterans who were optimistic about the VA.gov experience. Depending on a variety of factors including (but not limited to) age, the amount of free time they have, the strength of their connection to a Veteran network, and their geographic location, a self-service VA.gov process may or may not be sufficient to meet their needs. 
+- **True.** It is clear there is no one-size-fits-all approach to helping Veterans file disability compensation claims and decision reviews. We heard from a number of Veterans who said VSOs were crucial to their ability to complete this process, but we also heard from Veterans who were optimistic about the VA.gov experience. Depending on a variety of factors including (but not limited to) age, the amount of free time they have, the strength of their connection to a Veteran network, and their geographic location, a self-service VA.gov process may or may not be sufficient to meet their needs. 
 
-- We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
+2. We suspect that Veterans might not fully trust the VA to appoint a representative for them. Given suspicions we've seen in data and anecdotally, Veterans might feel as though the VA is not giving them the "best" representation and they might express a desire to seek out their own.
 
-**False** Veterans didn't mention being suspicious of finding a representative through the VA. Many of the Veterans we showed our "Connect with a representative" prototype to thought it was a positive thing and something they would use to connect with a VSO. Some participants in fact found a good VSO through the VA. 
+- **False.** Veterans didn't mention being suspicious of finding a representative through the VA. Many of the Veterans we showed our "Connect with a representative" prototype to thought it was a positive thing and something they would use to connect with a VSO. Some participants in fact found a good VSO through the VA. 
 
-- We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
+3. We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
-**Maybe** This probably needs further research. We didn't test these use cases explicitly in this study. We did confirm with the research that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence. "Presumptive" cases like those enabled by the PACT Act would likely help make the self-service use case more appealing for these types of claims, but it needs further research.
+- **Maybe.** This probably needs further research. We didn't test these use cases explicitly in this study. We did confirm with the research that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence. "Presumptive" cases like those enabled by the PACT Act would likely help make the self-service use case more appealing for these types of claims, but it needs further research.
 
 
 ## Key Findings
