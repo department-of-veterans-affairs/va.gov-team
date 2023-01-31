@@ -66,13 +66,13 @@ After an appointment or hospital stay, your provider and health care team write 
 - Source
 - Last Updated
 - Sorted by
-- Disclaimer (this is just displayed; there is no label that says "disclaimer"
+- Disclaimer (this is just displayed; there is no label that says "disclaimer")
 - Admission Date
 - Location
 - Admitting Physician
 - Discharge Date
 - Discharge Physician
-- Discharge Summary
+- Discharge Summary (see screen shot later in this document)
 
 
 
