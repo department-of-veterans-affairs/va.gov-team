@@ -32,7 +32,7 @@ A supplemental claim is a claim type filed for a benefit when the claimant or di
 
 Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double the number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
-###The PACT Act
+### The PACT Act
 
 The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in claims of this nature and aims to potentially fast-track claims for presumptive conditions in this category.
 
