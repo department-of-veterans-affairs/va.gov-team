@@ -2,7 +2,49 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 1/25/2023 - 2/7/2022 
+************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
+#### Planned Releases 
+- NONE
+
+#### Analytics Sprint Goals
+- **GOAL: Analyze current report**
+   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+
+#### UX Sprint Goals 
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
+      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)     
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - **GOAL: Prepare for the release**
+      - Attend Staging Review   
+- [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+   - **GOAL: Conduct brainstorming for Option 2**
+    
+
+#### Engineering Sprint Goals
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
+      - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
+      - [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - **GOAL: Prepare for the release**
+      - Attend Staging Review  
+   - **GOAL: Release**
+      - Release if no issues to address from Staging Review
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
+   - **GOAL: Complete remaining feature requirements**     
+- [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
+   - **GOAL: Collaborate with PCI/API team to determine best solution**
+- [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
+   - **GOAL: Complete as many as fits in the sprint**
+- CIE Tech Debt
+   - **GOAL: Complete as many as fits in the sprint**
+      - Improve testing and validation with staging and screenshots 
+
+************** END FUTURE 2/8/2023 - 2/21/2023 ************************
+
+## 1/25/2023 - 2/7/2023 
 
 #### Planned Releases 
 - NONE
