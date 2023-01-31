@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
 #### Planned Releases 
-- NONE
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
 
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report**
