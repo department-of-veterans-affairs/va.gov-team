@@ -59,7 +59,7 @@ These tests will be conducted remotely via Zoom as scheduled by Perigean.
 
 ### Research Materials
 
-[Conversation Guide](https://bylightcorporate.sharepoint.com/:w:/r/sdc/hcd/UCD%20Team%20Only/Research%20and%20Design/Products%20and%20Projects/My%20HealtheVet/MHV%20Legacy/Pharmacy/Medication%20Image%20Display/Drug%20Image%20Display%20Conversation%20Guide.docx?d=wae62e2eaa10c4c5c9281029d3634c0dc&csf=1&web=1&e=B3XDvc)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2023-01-pharmacy-drug-image-display/conversation-guide.md)
 
 [Adobe XD Prototype](https://xd.adobe.com/view/0ea039c5-6806-47e4-8622-d7a035e15777-5bf3/?fullscreen&hints=off)
 
