@@ -24,8 +24,7 @@
 | **Link/Text on My VA** | **URL** | **New to My VA (y/n)** |**Current GA Event** | **Does this need a new tag from Analytics team?**| **Notes** |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Apply for VA health care | https://www.va.gov/health-care/apply/application/introduction | Yes | seeing `Navigation - Link List - Health care - Apply for VA Health care` in staging but need confirmation this is correct |  |Seeking confirmation on `Navigation - Link List - Health care - Apply for VA Health care` in staging, can we confirm this is the right event? Can be checked with User 272|
-| Schedule and manage your appointments (within appointment card) | https://va.gov/health-care/schedule-view-va-appointments/appointments | No | |  |Need to confirm if the link within the appointment card is tracked separately from the link list of the same name (see below)|
-| Schedule and manage your appointments (within link list) | https://va.gov/health-care/schedule-view-va-appointments/appointments | No |`Navigation - Link List - Heatlh care - Schedule and manage your appointments` |  |Can we confirm this is the new event? This link previously existed but was renamed. Can be checked with user 15|
+| Schedule and manage your appointments | https://va.gov/health-care/schedule-view-va-appointments/appointments | No |`Navigation - Link List - Heatlh care - Schedule and manage your appointments` |  |Can we confirm this is the new event? This link previously existed but was renamed. Can be checked with user 15. This link appears in the link list or in the appointment card, depending on whether the user has an upcoming appointment|
 | Review your messages | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging | No | `Navigation - Link List - Health care - Review your messages` | |Text was changed from view to review. Can we confirm this is the new event? Can be checked with user 41. |
 
 
