@@ -12,7 +12,7 @@ The person who initially reports the incident becomes the Incident Commander. Th
 The Incident Response Team is composed of anyone who is actively working to complete the steps below.
 
 ### The main steps are to:
-- [Identify, Verify, Classify the incident](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.cd6xb5cuudf1)
+- [Identify, Verify, Classify the incident](#identify-verify-classify-the-incident)
 - [Identify/Notify impacted Support Teams](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.kaxrzeqtl7p5)
 - [Identify impacted audience](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.p3yduz183zu)
 - [Notify / Alert appropriate audience using appropriate tools](https://docs.google.com/document/d/1yeWlW3ui2d3yyCKCAk8OkOqTL6smamdfdf707__aE18/edit#heading=h.2efnltsgut4)
@@ -34,7 +34,8 @@ The Incident Response Team is composed of anyone who is actively working to comp
 
 
 
-### Identify, Verify, Classify the incident -
+### Identify, Verify, Classify the incident [#identify-verify-classify-the-incident]
+
 What has happened? 
 
 What might/will happen if the incident is not immediate (such as a hurricane)? 
