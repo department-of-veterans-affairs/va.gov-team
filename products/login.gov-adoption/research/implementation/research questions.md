@@ -5,7 +5,7 @@ Created by: @tygindraux
 Last updated: Jan 31, 2023
 
 ## Purpose
-This document describes our current understanding of the high-level research questions that we need to answer in order to drive the 4 “projects” or “super epics” forward through implementation. These 4 projects are:
+This document describes the research questions (at a high-level) that we need to answer about the Veteran and staff experience across the 4 ongoing identity projects:
 
 1. Legacy credential migration
 2. In-person support
@@ -111,4 +111,6 @@ This should drive alignment and help product and design make decisions including
 ### How we might learn this
 |Research questions|Methods|
 |:---|:---|
+|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
+|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
 |Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
