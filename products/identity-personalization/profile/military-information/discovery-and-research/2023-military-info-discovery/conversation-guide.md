@@ -35,7 +35,7 @@ Before we start, a few things I want to mention:
 *Start recording.*
 - **I have started recording**. Okay, I'll ask you again so we have your answer recorded: Are you comfortable with me recording my screen and the audio as we talk today? 
 
-## Warm-up Questions - 2 minutes
+## Warm-up Questions - 5 minutes
 
 To start off, I have some questions for you about your service history. Is that okay with you?
 *Wait for consent to proceed*
@@ -64,15 +64,24 @@ To start off, I have some questions for you about your service history. Is that 
 18. If no, do you anticipate ever needing to make a change? How would you check?
 19. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
-## Expectations/hopes for finding service info - 8 minutes
+## Expectations/hopes for finding service info - 15 minutes
 
-Okay, we're almost done with questions. Thank you for everything you've shared already. I just have about 5 questions more for you:
+Now, changing the topic of questions a bit:
 
-20. Let's imagine that you could easily find your service information online, using your browser. _Pause._ What is your immediate response to that idea?
-21. Would accessing your service history information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
-22. Do you have any thoughts on where online you'd want to go to access your service information? 
-23. If that information were on VA.gov, where on that site would you expect to find your service information? 
-24. Would accessing your service history information on VA.gov be easier or more difficult than _______ (your current way of accessing that information? Why?
+20. Let's imagine that you could easily find your military information online, using your browser. _Pause._ What is your immediate response to that idea?
+21. Would accessing your military information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
+22. Do you have any thoughts on where online you'd want to go to access your military information? 
+
+We're about done, but for the last few minutes, I want you to share your screen and go to VA.gov. *Help with screenshare.*
+
+24. Where might you expect to find your military information on this site?
+
+*Help them navigate to profile: military info.*
+
+25. Now looking at this, what is your immediate reaction?
+26. What would you add to this page to make it more helpful to you? Why?
+27. What would you remove from this page to make it more helpful to you? Why?
+28. Anything else you might want to change about this page or its location on the site?
 
 ## Thank-You and Closing - X minutes
 
