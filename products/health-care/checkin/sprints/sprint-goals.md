@@ -22,6 +22,7 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
    - **GOAL: Prepare for the release**
+   - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Release**
       - Release if no issues to address from Staging Review on 2/7
@@ -31,9 +32,10 @@ ________________________________________________________________________________
    - **GOAL: Collaborate with PCI/API team to determine best solution**
 - [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
    - **GOAL: Complete as many as fits in the sprint**
+      - [Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)
 - CIE Tech Debt
    - **GOAL: Complete as many as fits in the sprint**
-      - Improve testing and validation with staging and screenshots 
+
 
 ************** END FUTURE 2/8/2023 - 2/21/2023 ************************
 
