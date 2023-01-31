@@ -1,3 +1,12 @@
+---
+name: Check In Experience Functional Testing
+about: For Check In Experience Functional Testing
+title: "[FE][UX][PRODUCT]"
+labels: HCE-Checkin, frontend, ux, product
+assignees: ''
+
+---
+
 ## Description
 As a team, we need to perform functional testing so that we can ensure our feature is ready for release. 
 
