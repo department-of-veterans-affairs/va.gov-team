@@ -4,8 +4,8 @@ Last Updated: July 8, 2022
 
 ### Team Communications
 
-- **Government lead**: Matthew Self (Benefits Crew)
-- **Slack channel**: [#benefits-team-1](https://dsva.slack.com/channels/benefits-team-1)
+- **Government lead**: Matthew Self
+- **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 - **Github labels**: benefits-team-1
 
 ### Roles  
@@ -14,10 +14,10 @@ Last Updated: July 8, 2022
 |----|----|-----|
 |Matthew Self |Product Owner, Gov't Lead| matthew.self2@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io|
-|Pam Hastings| Research & Design |pamela.hastings@adhocteam.us |
+|Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
-|Scott Meyers | FE Engineer| scott.meyers@coforma.io |
-|Michel McDonald | BE Engineer | michel.mcdonald@adhocteam.us |
+|Eugene Lynch | Engineer| eugene.lynch@coforma.io |
+|Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
 |Rocio de Santiago | BE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
 
@@ -26,18 +26,17 @@ Last Updated: July 8, 2022
 ## Executive Summary
 
 ### Overview
-As per the Appeals Modernization Act of 2017, Veteran and non-Veteran claimants seeking to correct perceived discrepancies in their benefit awards must submit new and relevant evidence by initiating the supplemental claim process. To do this, they must submit the Supplemental Claim form (VA Form 20-0995). New evidence enables a reviewer to determine if they should change the previous decision. Claimants can use the supplemental claims process in three ways:
+A supplemental claim is a claim type filed for a benefit when the claimant or disagrees with the decision VA made on an initial or supplemental claim for the same or similar benefit on the same or similar basis. To file a supplemental claim, claimants typically need to provide new and relevant evidence. This evidence enables a reviewer to determine if they should change the previous decision. Claimants can use this decision review process in three ways:
 
-- Supplement a claim within 1 year - Use this to add supplemental evidence to a claim decision within 1 year of its effective date. 
-- Re-open a prior claim closed 1+ years ago - Use this to re-open a prior decision that denied service connection, so that you can continue to prosecute the claim. This action will not re-open the prior effective date. 
-- Continuously prosecute a claim - Use this to continue prosecuting a claim and keep your effective date rolling.
+- Supplement a claim within one year - This allows the claimant to add new and relevant evidence to a claim decision within one year of its effective date. 
+- Re-open a prior claim closed 1+ years ago - This allows the claimant to re-visit a claim decision. Will not re-open the previous effective date. 
+- Continuously adjudicate a claim - This allows the claimant to continue prosecuting a claim and keep the effective date rolling.
 
-Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
+Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double the number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
-### Strategic Alignment
-**Benefits OKR**: Make the VAs claims experience better than the private sector's
+###The PACT Act
 
-**CTO Priority**: Reduce the time it takes for Veterans to find, use, and receive VA services.
+The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in claims of this nature and aims to potentially fast-track claims for presumptive conditions in this category.
 
 ## The Problem Space
 
