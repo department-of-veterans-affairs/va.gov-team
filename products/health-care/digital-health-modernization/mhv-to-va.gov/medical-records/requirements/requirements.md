@@ -59,7 +59,8 @@
 
 
 ### Blue Button Report TXT within page
-<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215800728-f6ec015b-c7c2-4836-9b1f-01cd70077ac3.png">
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215802401-deeb022c-fd44-4d1e-953c-8a530db78e7a.png">
+
 
 
 
