@@ -56,13 +56,12 @@ To start off, I have some questions for you about your service history. Is that 
 11. What are other situations you can imagine where you'd need your military information?
 12. If I were to ask you for your military information now (date and place of entry into active duty, service start and end dates, last assignment and rank, condition of discharge), what would you need to do to tell me that info with certainty?
 
-13. *If don't bring up form DD214*: Do you also have a DD214?
-14. Are there any other formal documents that you have received from the VA that might have the same info as the DD214? 
-15. In what situations would you need to look at your DD214?
-16. Have you ever had to request a change to your DD214? 
+13. *If don't bring up form DD214*: What type of discharge paper did you receive retired or separated?
+15. In what situations would you need to look at (that paper)?
+16. Have you ever had to request a change to your (that paper)? 
 17. If yes, when was that? How did you realize a change was needed? What was the change you needed to make, and why? How did you know
 18. If no, do you anticipate ever needing to make a change? How would you check?
-19. Has your DD214 ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
+19. Has your discharge paperwork ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
 ## Expectations/hopes for finding service info - 15 minutes
 
@@ -74,14 +73,14 @@ Now, changing the topic of questions a bit:
 
 We're about done, but for the last few minutes, I want you to share your screen and go to VA.gov. *Help with screenshare.*
 
-24. Where might you expect to find your military information on this site?
+23. Where might you expect to find your military information on this site?
 
 *Help them navigate to profile: military info.*
 
-25. Now looking at this, what is your immediate reaction?
-26. What would you add to this page to make it more helpful to you? Why?
-27. What would you remove from this page to make it more helpful to you? Why?
-28. Anything else you might want to change about this page or its location on the site?
+24. Now looking at this, what is your immediate reaction?
+25. What would you add to this page to make it more helpful to you? Why?
+26. What would you remove from this page to make it more helpful to you? Why?
+27. Anything else you might want to change about this page or its location on the site?
 
 ## Thank-You and Closing - X minutes
 
