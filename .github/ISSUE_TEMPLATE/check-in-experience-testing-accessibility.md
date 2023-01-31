@@ -1,3 +1,12 @@
+---
+name: Check In Experience Accessibility Testing
+about: For Check In Experience Accessibility Testing
+title: "[FE]"
+labels: HCE-Checkin, frontend
+assignees: ''
+
+---
+
 
 ## Description
 As a team, we need to perform accessibility testing so that we can ensure our feature is ready for release. 
