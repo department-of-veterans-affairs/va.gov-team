@@ -35,7 +35,8 @@ This research will inform the product team on what and how much military informa
 - Veterans can request changes to the info on their DD214 if there has been an administrative error OR when the veteran successfully upgrades their discharge status. This product could help veterans determine if their military information is incorrect, if their discharge status could be upgraded, or if their discharge status has successfully been upgraded. 
 
 ## Methodology	
-Semi-structured interviews that help us to understand what Veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like. 
+1. Semi-structured interviews that help us to understand what Veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like.
+2. At the end of the interview, there will be just 1-2 questions that will require the participant to share their screen (any device).
 
 ### Location
 Remote: Zoom
@@ -49,33 +50,34 @@ Link to conversation guide will go here
 Research participants will be Veterans recruited by Perigean.
 
 ### Recruitment criteria
-We'd like to recruit 14 Veterans for a total of 8 completed sessions.  
+We'd like to recruit 12 Veterans for a total of 8 completed sessions.  
 
 **Primary criteria (must-haves)**
-- Veteran (14)
-- Aged 50+ (7)
-- Race is black, hispanic, bi-racial, asian and/or native (minimum of 7)
-- Gender is not male (minimum of 7)
+- Veteran (12)
+- Aged 50+ (6)
+- Race is black, hispanic, bi-racial, asian and/or native (minimum of 6)
+- Gender is not male (minimum of 6)
+- Must be able/willing to share their screen for the last part of the interview (all 12)
 
 **Screener question to target criteria not captured in the recruitment sign-up survey**
 
 Questions: Which of the following have you _yourself_ completed in the past year (between January 2022 and January 2023)?
 Answers (users can multi-select):
-- Formally requested a correction to your military records (at least 3/14 must choose this answer)
-- Requested service records to replace a missing military record (e.g. DD214) (at least 3/14 must choose this answer)
-- Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (at least 3/14 must choose this answer)
-- Applied for an upgrade of your discharge status (at least 3/14 must choose this answer)
+- Formally requested a correction to your military records (at least 2/12 participants must choose this answer)
+- Requested service records to replace a missing military record (e.g. DD214) (at least 2/12 participants must choose this answer)
+- Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (at least 2/12 participants must choose this answer)
+- Applied for an upgrade of your discharge status (at least 2/12 participants must choose this answer)
 - None of the above (0-2 participants may choose this answer)
 
 ## Timeline
 
 ### Prepare
-Research plan and conversation guide will be completed by Friday, January 27.
-* Pilot participant email:
-* Date and time of pilot session: 
+Research plan and conversation guide will be completed by Wednesday, February 1.
+* Pilot participant email: jmills@kindsys.us
+* Date and time of pilot session: Thursday, February 2 at 1 pm eastern time.
 
 ### Research sessions
-* Planned dates of research: February 2-8
+* Planned dates of research: February 7-16
 
 ### Length of sessions
 * Session length: 45 mins
@@ -84,11 +86,11 @@ Research plan and conversation guide will be completed by Friday, January 27.
 
 ### Availability
 All times are in eastern time:
-- February 2, 9am-6pm
-- February 3, 8am-4pm
-- February 6, 9am-6pm
-- February 7, 8am-4pm
-- February 8, 9am-3pm
+- February 7, 8am-4:30pm
+- February 8, 8am-4pm
+- February 14, 8am-4:30pm
+- February 15, 8am-4pm
+- February 16, 9am-6:30pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -96,6 +98,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Florence McCafferty
 - Participant recruiting & screening: Perigean
 - Project point of contact: Florence McCafferty
-- Participant(s) for pilot test: ?
+- Participant(s) for pilot test: Josh Mills, jmills@kindsys.us
 - Note-takers: Perigean
 - Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
