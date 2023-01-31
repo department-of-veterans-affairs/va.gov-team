@@ -13,20 +13,17 @@ ________________________________________________________________________________
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
-      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)     
+    - **GOAL: Prepare for the release**
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - Attend Staging Review   
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-   - **GOAL: Conduct brainstorming for Option 2**
-    
+   - **GOAL: Conduct brainstorming for Option 2**   
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
-      - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
-      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
-      - [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+   - **GOAL: Prepare for the release**
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - Attend Staging Review  
