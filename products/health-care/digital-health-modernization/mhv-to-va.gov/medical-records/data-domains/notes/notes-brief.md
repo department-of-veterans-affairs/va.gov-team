@@ -43,7 +43,6 @@ After an appointment or hospital stay, your provider and health care team write 
 
 [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
 
-
 ## Notes data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
@@ -130,9 +129,8 @@ What are important to show:
 - Clinician's name
 
 Admission and Discharges on Blue Button Report:
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/69174644/215791998-8f9134cf-93f6-44b0-bad0-e58ceba31272.png">
 
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/bb-admissions-discharges.png
 
 **View vs. share vs. download vs. print considerations:**
 
