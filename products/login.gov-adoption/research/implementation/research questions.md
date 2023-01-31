@@ -101,16 +101,14 @@ This should drive alignment and help product and design make decisions including
 ## 4. Non-Veteran user roles
 ### Our assumptions
 - Veterans can grant someone else full or partial access to their information
-- Veterans can manage who has access to their account and are reminded
+- Veterans can manage who has access to their account and be reminded of these accounts' permissions periodically
 - Veterans are willing to set up shared access for someone preemptively (before a life-altering event makes it necessary)
 - Veterans are willing to set up shared access for someone when a life-altering event occurs
 
 ### What we need to know
 - Are Veterans motivated to set up shared access without the occurence of a life-altering event?
+- Do Veterans and those who want or could benefit from shared access understand that this person will be required to set up their own Login.gov account (or ID.me account)?
+- *This will be updated when the project work is better defined.*
 
 ### How we might learn this
-|Research questions|Methods|
-|:---|:---|
-|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
-|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
-|Are Veterans motivated to set up shared access without the occurence of a life-altering event?| |
+*This will be updated when the project work is better defined.
