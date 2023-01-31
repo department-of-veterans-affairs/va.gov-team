@@ -1,4 +1,4 @@
-# Product Brief: Supplemental Claim Form (20-0995
+# Product Brief: Supplemental Claim Form (20-0995)
 
 ### Team Communications
 
