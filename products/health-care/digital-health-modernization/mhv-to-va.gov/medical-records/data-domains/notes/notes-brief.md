@@ -59,6 +59,24 @@ After an appointment or hospital stay, your provider and health care team write 
 - Date/time signed 
 - Note
 
+## Admission and Discharge Notes in Blue Button Report
+
+**Data field title:** VA Admissions and Discharges
+
+**Data fields to include:**
+- Source
+- Last Updated
+- Sorted by
+- Disclaimer (this is just displayed; there is no label that says "disclaimer"
+- Admission Date
+- Location
+- Admitting Physician
+- Discharge Date
+- Discharge Physician
+- Discharge Summary
+
+
+
 ## Use Cases
 
 Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from [after visit summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)? 
@@ -110,6 +128,11 @@ What are important to show:
 - Title of the notes
 - Date/time received
 - Clinician's name
+
+Admission and Discharges on Blue Button Report:
+
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes/bb-admissions-discharges.png
 
 **View vs. share vs. download vs. print considerations:**
 
