@@ -48,6 +48,16 @@
 
 
 ## Health Issues
+- List
+  Users should be able to view a list of their health issues, and they should be able sort by date/time entered and alphabetically by issue.
+  
+  Each health issue entry should include:
+  - Issue/problem title
+  - Date/time entered
+  - Provider's name
+  - Location
+  - Status
+  - Comments
 
 ## Vitals
 - A user must be able to view readings from each of the following categories of vitals
