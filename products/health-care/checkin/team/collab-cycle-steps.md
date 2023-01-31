@@ -26,7 +26,7 @@
     - Analytics
     - Research
 - If requested artifacts are not available or relevant, we will explain that in the ticket
-- Any collab cycle or other tickets that are created should contain our HCE-Checkin label and be associated to the relevant Epic in our team's Product Backlog
+- Any collab cycle or other tickets that are created should contain our team's HCE-Checkin GItHub label and be associated to the relevant Epic in our team's Product Backlog
 
 ## DESIGN PHASE
 
