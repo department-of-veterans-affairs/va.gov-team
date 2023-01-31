@@ -5,6 +5,7 @@ ________________________________________________________________________________
 ************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - Staging Review is on 2/7
 
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report**
@@ -14,9 +15,6 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
     - **GOAL: Prepare for the release**
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Prepare for the release**
-      - Attend Staging Review   
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Conduct brainstorming for Option 2**   
 
@@ -25,10 +23,8 @@ ________________________________________________________________________________
    - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
    - **GOAL: Prepare for the release**
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Prepare for the release**
-      - Attend Staging Review  
    - **GOAL: Release**
-      - Release if no issues to address from Staging Review
+      - Release if no issues to address from Staging Review on 2/7
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
    - **GOAL: Complete remaining feature requirements**     
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
