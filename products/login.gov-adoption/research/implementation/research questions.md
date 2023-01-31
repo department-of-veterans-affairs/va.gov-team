@@ -45,7 +45,7 @@ This should drive alignment and help product and design make decisions including
 |Do Veterans understand the limits of an IAL1 Login.gov account?|Test end-to-end clickable prototype with Veterans; Survey Veterans after they set up an IAL1 account|
 |Do Veterans know where to get help if or when an issue arises?|Test end-to-end clickable prototype with Veterans; Track helpline stats (VA and Login); Track live journey including drop-offs|
 |Are VA staff prepared to help Veterans migrate their accounts?|Interviews with helpline staff; Track helpline stats (VA); Track live journey including drop-offs|
-|Are Login.gov staff prepared to help Veterans migrate their accounts?|Interviews with helpline staff; Track helpline stats (Login.gov)|
+|Are Login.gov staff prepared to help Veterans migrate their accounts?|Interviews with helpline staff; Track helpline queries (Login.gov)|
 |Do Veterans stop using their legacy credential moving forward?|Track login credential usage|
 |Do Veterans understand why and how to upgrade to an IAL2 Login.gov account?|Test end-to-end clickable prototype with Veterans (including accessibility testing); Track live journey including drop-offs; Survey Veterans who have an IAL1 account|
 |Do Veterans choose to upgrade to an IAL2 account?|Monitor legacy credential usage by new Login.gov users|
@@ -61,15 +61,15 @@ This should drive alignment and help product and design make decisions including
 ### What we need to know
 - How do Veterans who are less digitally connected set up and use MFA?
 - Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?
-- Which VA staff will help Veterans in-person with Login.gov account set up and use?
 - Are VA staff prepared to help Veterans in-person with Login.gov account set up and use?
+- Which VA staff will help Veterans in-person with Login.gov account set up and use?
 
 ### How we might learn this
 |Research questions|Methods|
 |:---|:---|
 |How do Veterans who are less digitally connected set up and use MFA?|Do in-person research with Veterans (including unhoused Veterans and those with severe cognitive disabilities)|
-|Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?| |
-|Are VA staff prepared to help Veterans in-person with account set up and use?|Do discovery research to understand who provides support across the VA (online and in-person) with Login.gov account set up and use|
+|Are VA staff prepared to help Veterans in-person with account set up and use?|Do in-person discovery research with VA staff|
+|Do Veterans and VA staff know who supports Veterans in-person with Login.gov account set up and use?|Survey Veterans; Track helpline queries (VA)|
 
 ## 3. Login.gov proactive adoption
 ### Our assumptions
