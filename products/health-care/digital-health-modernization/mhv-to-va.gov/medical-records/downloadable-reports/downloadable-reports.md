@@ -24,15 +24,15 @@ Electronic Record Sharing Options is a way to opt in or out of sharing one's ele
 
 In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
 
-### Blue Button Report generation page
+### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.
 
-#### 1. Select Date Range
+#### A. Select Date Range
 - Date Range
 - Start Date
 - End Date
 
-#### 2. Select Types of Information
+#### B. Select Types of Information
 - Select types of information to include -OR- All types of information
    - If All Types of Information is selected, all of the fields will display a checkmark in the selection checkbox, and the user does not need to make any further selections before clicking Submit.
 ##### Appointments
