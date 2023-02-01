@@ -15,15 +15,15 @@ Create a online experience for Veterans to apply for health care benefits.
 
 ### Points of Contact 
 
-- OCTO-DE Product: Lauren Alexanderson
-- Product Management:  Heather Justice and Mark Fallows
-- Front-End Engineering: Lisa Zapson and Matt Long
+- OCTO-DE Product: Lauren Alexanderson, Patrick Bateman
+- Product Management:  Heather Justice
+- Front-End Engineering: Matt Long
 - Back-End Engineering: Lihan Li
-- Research and Design: Dené Gabaldón and Nick Osmanski
+- Research and Design: Nick Osmanski and Jessica Stump
 
 ### Key Documents
 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md)
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 
