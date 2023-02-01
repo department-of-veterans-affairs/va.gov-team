@@ -13,12 +13,13 @@ Last Updated: Oct 28, 2022
 |----|----|-----|
 |Lauren Alexanderson |OCTO Lead|lauren.alexanderson@va.gov|
 |Leila Rassi |OCTO Product Manager| leila.rassi@va.gov |
+|Leah Bannon |OCTO Facilitotor | leah.bannon@va.gov |
 |Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
-|Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
-|Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
-|Robyn Singleton| Core Team Researcher| robyn.singleton@adhocteam.us |
-|Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
-|Eric Voshall|Core Team Engineer|eric.voshall@adhocteam.us|
+|Marci McGuire |Home Team Product Manager| marci.mcguire@adhocteam.us|
+|Jonathan Nelson|Home Team Designer |jonathan.nelson@adhocteam.us |
+|Robyn Singleton| Home Team Researcher| robyn.singleton@adhocteam.us |
+|Eric Voshall|Home Team Engineer|eric.voshall@adhocteam.us|
+|Daniel Cloud|Interim Home Team Engineer|eric.voshall@adhocteam.us|
 
 ## Overview
 Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
