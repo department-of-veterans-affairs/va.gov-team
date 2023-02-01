@@ -6,16 +6,18 @@ Last updated: February 1, 2023
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
 
 ## Description of page
-This document describes a page in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a set formatting standard, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
+This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a set formatting standard, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
 
 ## How this page differs from the MyHealth*e*Vet Download My Data page
 MyHealtheVet provides four primary links in the left navigation:
 - VA Blue Button Report
 - VA Health Summary
-- VA Medical Images and Reports
-- Electronic Record Sharing Options is a way to set a preference to opt in or opt out of sharing one's electronic health record through the Veterans Health Information Exchange.   The current thinking is that this preference will become part of the VA.gov Profile, similar to Secure Messaging preferences.
+- VA Medical Images and Reports 
+- Electronic Record Sharing Options
 
-In this new experience, the current thinking is that VA Medical Images and Reports will fall within Labs and Tests.  Electronic Record Sharing Options
+The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than part of downloadable reports.  This approach is supported by card sorting exercises and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
+
+Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
 
 ## Relevant links
 [Downloadable Reports decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/downloadable-reports/decision-log.md)
@@ -33,19 +35,6 @@ In this new experience, the current thinking is that VA Medical Images and Repor
 [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
 
 
-## Vitals data fields
-(Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
-
-**Data field title:** Vitals
-
-**Data fields to include:**
-- Vital sign
-- Measurement
-- Comments
-- Location
-- Date/Time collected
-
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/100814257/215164242-35288075-c782-4d41-859c-0d28686eeca5.png">
 
 ## Use Cases
 
@@ -55,62 +44,60 @@ Things to think about that inform use cases:
 
 **Common Use Cases**
 
-What do people want to use their vital signs for? 
+What do people want to use their downloadable reports for? 
 - To view current and/or past vital signs - either to monitor current status or compare vital signs across time points
 - To share past vital signs with HCPs to ensure HCP understands their health 
 
 **Edge Cases**
 
-Any edge cases for Vitals? 
+Any edge cases for downloadable reports?
 
 ## UX considerations
 
-### When to show Vitals section
+### When to show the downloadable reports section
 
 
-**Where do Vitals fit within IA?**
+**Where do downloadable reports fit within IA?**
 
 
 
-### How to show Vitals section
+### How to show downloadable reports section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 
 
-**View vs. share vs. download considerations:**
+**View vs. download considerations:**
 
 
 ### Accessibility considerations:
 
-_Accessibility considerations specific to Vitals:_
-- None identified so far
+_Accessibility considerations specific to downloadable reports:_
 
-### Research that relates to Vitals
+
+### Research that relates to downloadable reports
 
 **Findings from card sort**
 
 _Cards included:_ 
   - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
   - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
-  - Vitals cards: Blood pressure, Height/weight, Vitals
 
 _Findings:_
 - Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
 - Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
-- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%). 
 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
-
 
 ## Questions to answer
 
 **UX:** 
-- What type of information do users look for in Vitals versus Labs/ tests? 
-- Are there opportunities in a post-MVP to do creative data visualization strategies with vital signs? 
-- Would "flags" be a good feature for vitals as well? (Similar to Labs/ tests)
+- What type of information do users look for in Medical Images and Reports versus Labs/ tests? 
+- How closely do uses associate a more detailed health report to the Blue Button name/brand?
+- Are uses able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
+- What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
 
 **Business/ Engineering:** 
-
+- What options are available for customizing the layout of each of these reports?
     
 
 **Who do we need to get feedback from?**
@@ -120,7 +107,8 @@ _Findings:_
 
 
 ## Backlog of potential features/ Ideas Parking Lot
-
+- A comparison matrix showing which report can be customized, which has the option to download XML, which contains DoD info, etc.
+- 
 
 ## Additional notes
 
