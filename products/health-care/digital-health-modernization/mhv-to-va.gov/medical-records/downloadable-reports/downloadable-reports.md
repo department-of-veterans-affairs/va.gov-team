@@ -35,21 +35,33 @@ This page provides the user with options to control the information that is incl
 #### 2.1 Select Types of Information
 - Select types of information to include -OR- All types of information
    - If All Types of Information is selected, all of the fields will display a checkmark in the selection checkbox, and the user does not need to make any further selections before clicking Submit.
+   -
 ##### 2.1.00 Appointments
 - 2.1.00.0 Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
 - 2.1.00.1 Past VA Appointments (limited to past 2 years)
 - 2.1.00.2 All of the Above
+-
 ##### 2.1.01 Medications
 - 2.1.01.0 
+-
 ##### 2.1.02 Labs and Tests
+
 ##### 2.1.03 VA Electronic Health Record History and Wellness Reminders
+
 ##### 2.1.04 Allergies
+
 ##### 2.1.05 Immunizations
+
 ##### 2.1.06 Vitals and Readings
+
 ##### 2.1.07 Self-Reported Health History *Note: Self-reported data will not be included in the MVP*
+
 ##### 2.1.08 Food and Activity Journals *Note: Self-reported data will not be included in the MVP*
+
 ##### 2.1.09 Goals
+
 ##### 2.1.10 Demographics and Health Insurance
+
 ##### 2.1.11 Department of Defense Information
 
 ### Form Controls
