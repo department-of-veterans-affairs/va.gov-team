@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Functional Testing
 about: For Check In Experience Functional Testing
-title: "[FE][UX][PRODUCT]"
+title: "[FE][UX][PRODUCT] Run Test Cases for Functional Testing"
 labels: HCE-Checkin, frontend, ux, product
 assignees: ''
 
