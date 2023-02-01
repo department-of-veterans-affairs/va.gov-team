@@ -84,7 +84,7 @@ There are two different types of report available on MyHealtheVet that contain a
 ## UX considerations
 
 ### When to show Health Problems section
-The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.
+The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.  In MyHealth*e*Vet, users must also have a Premium account, but at the time of this writing, it is believed that the notion of Premium accounts is slated to be depricated.
 
 **Where do Health Problems fit within IA?**
 TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal, if technical feasible.  The download and print options should still be made available via the Blue Button report and VA Health Summary.
@@ -109,7 +109,8 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 
 
 **Business/ Engineering:** 
-1. What data source should be used to display the problem list on a web page?  The Blue Button data source or the VA Health Summary data source?    
+1. What data source should be used to display the problem list on a web page?  The Blue Button data source or the VA Health Summary data source? 
+2. Is it still the case that Premium accounts will be depreciated before the new Health Portal launches? If so, what is the ETA for that?
 
 **Who do we need to get feedback from?**
 Bresha Lipscomb
