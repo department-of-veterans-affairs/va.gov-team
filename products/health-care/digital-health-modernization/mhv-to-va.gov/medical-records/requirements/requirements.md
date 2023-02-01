@@ -57,8 +57,14 @@
     - Location
     - Status
     - Comments
-- Data is available thirty-six (36) hours after it has been entered. It may not contain active problems managed by non-VA health care providers. If you have any questions about your information contact your VA health care team.
-- 
+  
+<img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
+
+- Data is available thirty-six (36) hours after it has been entered. It may not contain active problems managed by non-VA health care providers. 
+- Actions
+  - Users should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
+  
+
 ## Vitals
 - A user must be able to view readings from each of the following categories of vitals
   - Blood pressure
