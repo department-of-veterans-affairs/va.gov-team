@@ -57,7 +57,8 @@
     - Location
     - Status
     - Comments
-
+- Data is available thirty-six (36) hours after it has been entered. It may not contain active problems managed by non-VA health care providers. If you have any questions about your information contact your VA health care team.
+- 
 ## Vitals
 - A user must be able to view readings from each of the following categories of vitals
   - Blood pressure
