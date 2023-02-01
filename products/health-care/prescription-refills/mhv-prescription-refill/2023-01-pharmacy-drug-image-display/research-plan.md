@@ -75,28 +75,21 @@ We are looking for a minimum of 24 Veterans who are familiar with refilling pres
 
 ### Primary criteria:
 
-- Must have experience refilling a prescription on My HealtheVet online, using a desktop. 
-- Desktop/Laptop users only. Experience on mobile is okay, but we will only be testing a desktop prototype. 
-- Users who visit (or have visited) the Medication Details page. 
-
-### Secondary criteria:
-
-- 16 participants who are 65+
-- 3 participants with cognitive disabilities
-- 12 participants in rural locations
-- 8 participants without a college degree
-- 4 participants who use assistive technology (various)
-- Participants who currently have active prescriptions on My HealtheVet. This increases the likelihood of visiting the Refill VA Prescriptions page and the Medication Details page.
+- 16 participants who are 65+ 
+- 3 participants with cognitive disabilities 
+- 12 participants in rural locations 
+- 8 participants without a college degree 
+- 4 participants who use assistive technology (various
 
 ### Screener Survey
 
-How often do you visit the Refill VA Prescriptions page on My HealtheVet? [Answer should be 1 or 2 to qualify]
+Do you have experience refilling a prescription on My HealtheVet online, using a desktop? [Answer should be 1 to qualify] 
+1. Yes
+2. No
 
-1. Very often.
-1. Every once in a while.
-1. Rarely.
-1. I never have. 
-1. I refill prescriptions on my phone.
+Have you visited the Medication Details page (accessed through the Refill VA Prescriptions page)? [Answer should be 1 to qualify] 
+1. Yes
+2. No
 
 How often do you visit the Medication Details page? [Answer should be 1 or 2 to qualify]
 
@@ -152,8 +145,6 @@ We are expecting each session to last no longer than 1 hour. Please schedule no 
 
 |**Date**|**Time (EST)**|
 | :- | :- |
-|Feb. 8, 2023|10am - 11am, 12pm - 4pm|
-|Feb. 9, 2023|11am - 3pm|
 |Feb. 10, 2023|10am - 12pm, 3pm - 5pm|
 |Feb. 13, 2023|10am - 11am, 12pm - 1pm, 2pm - 5pm|
 |Feb. 14, 2023|11am - 5pm|
