@@ -53,6 +53,9 @@ Here's where we add content-related notes that came out of research that should 
 
 ## Example content pages related to this topic  
 These are some live unauthenticated content pages related to this topic. Note that because we are always iterating on our site, existing pages may not always reflect the latest decisions in this document yet until the content team can update them. If you have questions about any content, feel free to ask.
+- [Get your VA medical records] (https://www.va.gov/health-care/get-medical-records/)
+- [How to get your medical records from your VA health facility] (https://www.va.gov/resources/how-to-get-your-medical-records-from-your-va-health-facility/)
+- [The Veterans Health Information Exchange] (https://www.va.gov/resources/the-veterans-health-information-exchange-vhie/
   
 ## Other notes
 
