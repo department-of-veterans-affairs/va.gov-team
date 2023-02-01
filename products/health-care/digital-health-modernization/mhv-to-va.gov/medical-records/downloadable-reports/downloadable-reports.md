@@ -3,11 +3,19 @@
 Last updated: February 1, 2023
 
 ## Purpose
-
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
 
 ## Description of page
-This document describes a page in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a VA Health Summary -- a summarized and what is currently referred to as a Blue Button Report, a more detailed and extensive medical report.
+This document describes a page in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized report, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report.
+
+## How this differs from MyHealtheVet Download My Data
+MyHealtheVet provides four primary links in the left navigation:
+- VA Blue Button Report
+- VA Health Summary
+- VA Medical Images and Reports
+- Electronic Record Sharing Options is a way to set a preference to opt in or opt out of sharing one's electronic health record through the Veterans Health Information Exchange.   The current thinking is that this preference will become part of the VA.gov Profile, similar to Secure Messaging preferences.
+
+In this new experience, the current thinking is that VA Medical Images and Reports will fall within Labs and Tests.  Electronic Record Sharing Options
 
 ## Relevant links
 [Downloadable Reports decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/downloadable-reports/decision-log.md)
