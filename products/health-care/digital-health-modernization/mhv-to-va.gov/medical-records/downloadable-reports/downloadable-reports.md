@@ -24,32 +24,32 @@ Electronic Record Sharing Options is a way to opt in or out of sharing one's ele
 
 In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
 
-### 2 Blue Button Report generation page
+### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.
 
-#### 2.0 Select Date Range
+#### 2.0. Select Date Range
 - Date Range
 - Start Date
 - End Date
 
-#### 2.1 Select Types of Information
+#### 2.1. Select Types of Information
 
-- 2.1.0 Select types of information to include
-- 2.1.1 All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
+- 2.1.0. Select types of information to include
+- 2.1.1. All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
 
-##### 2.1.00 Appointments
+##### 2.1.00. Appointments
 
-- 2.1.00.0 Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
-- 2.1.00.1 Past VA Appointments (limited to past 2 years)
-- 2.1.00.2 All of the Above
+- 2.1.00.0. Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.1. Past VA Appointments (limited to past 2 years)
+- 2.1.00.2. All of the Above
 -
-##### 2.1.01 Medications (Automatically includes Allergy information)
+##### 2.1.01. [Checkbox] Medications (Automatically includes Allergy information)
 
-- 2.1.01.0 VA Medication History
-- 2.1.01.1 Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
-- 2.1.01.2 All of the Above
+- 2.1.01.0. VA Medication History
+- 2.1.01.1. Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
+- 2.1.01.2. All of the Above
 
-##### 2.1.02 Labs and Tests
+##### 2.1.02. Labs and Tests
 
 - 2.1.02.0 VA Laboratory Results
 - 2.1.02.1 VA Pathology Reports
