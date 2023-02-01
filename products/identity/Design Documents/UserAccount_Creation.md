@@ -1,7 +1,7 @@
 # UserAccount & UserVerification Creation
 
 ## Summary
-`UserAccount` and `UserVerification` objects are created from two different methods, SSOe and SiS workflows.
+`UserAccount` and `UserVerification` objects are created and maintained from two different methods, Single Sign-On (SSOe) and Sign in Service (SiS) authentication workflows.
 
 ## UserAccount
 
@@ -9,14 +9,14 @@
 | --- | --- |
 | `icn` | MPI Integration Control Number |
 
-### SSOe
+### Single Sign-On (SSOe)
 The `icn` is retreived from the `SAML` that is returned from IAM during the authentication flow. `UserAccount` objects are then found or created in after login actions.
 
 1. `V1::SessionsController#user_login` sets the `current_user` attributes (including `icn`) from the SAML and calls `V1::SessionsController#after_login_actions`.
 2. `V1::SessionsController#after_login_actions` creates and runs a new `Login::UserVerifier` service object with the current_user's `icn`.
 3. `Login::UserVerifier` service finds or creates a `UserAccount` with the current_user's `icn`.
 
-### SiS
+### Sign in Service (SiS)
 The `icn` is retreived from querying MPI. If an MPI record does not exist, one is created. The `icn` is then used to find or create a `UserAccount`.
 
 1. `V0::SignInController#callback` calls `V0::SignInController#create_login_code`.
@@ -30,19 +30,19 @@ A `UserAccount` can have many `UserVerifications`. There will be one `UserVerifi
 | Attribute | Description |
 | --- | --- |
 | `user_account_id` | Associated UserAccount |
-| `idme_uuid` | A users UUID from IDme |
-| `logingov_uuid` | A users UUID from LoginGov |
-| `mhv_uuid` | A users UUID from MHV |
-| `dslogon_uuid` | A users UUID from DSLogon |
+| `idme_uuid` | A users UUID from ID.me |
+| `logingov_uuid` | A users UUID from Login.gov |
+| `mhv_uuid` | A users UUID from My HealtheVet |
+| `dslogon_uuid` | A users UUID from DS Logon |
 
-### SSOe
+### Single Sign-On (SSOe)
 The UUID is retreived from the SAML returned from IAM during the authentication flow. `UserVerification` objects are then created or updated in after login actions.
 
 1. `V1::SessionsController#user_login` sets the current_user from the SAML and calls `V1::SessionsController#after_login_actions`.
 2. `V1::SessionsController#after_login_actions` creates and runs new `Login::UserVerifier` service object with current user's IDP UUID.
 3. `Login::UserVerifier` service updates or creates a `UserVerification` with the corresponding IDP UUID.
 
-### SiS
+### Sign in Service (SiS)
 The UUID is retreived from the IDP's user info and is used to create or update `UserVerification` objects in callbacks.
 
 1. `V0::SignInController#callback` retreives user_info from the IDP and calls `V0::SignInController#create_login_code`.
