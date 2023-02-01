@@ -57,6 +57,7 @@ To start off, I have some questions for you about your service history. Is that 
 12. If I were to ask you for your military information now (date and place of entry into active duty, service start and end dates, last assignment and rank, condition of discharge), what would you need to do to tell me that info with certainty?
 
 13. *If don't bring up form DD214*: What type of discharge paper did you receive retired or separated?
+14. Do you still have the physical copy?
 15. In what situations would you need to look at (that paper)?
 16. Have you ever had to request a change to your (that paper)? 
 17. If yes, when was that? How did you realize a change was needed? What was the change you needed to make, and why? How did you know
