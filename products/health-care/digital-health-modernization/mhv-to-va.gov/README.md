@@ -6,7 +6,7 @@ The MHV to VA.gov Initiative consists of several different products, each with t
   - [Pharmacy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy)
   - [Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/newsletter)
   - [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care)
-  - Appointments - VAOS team will be doing the work to integrate this into the health portal.
+  - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) - VAOS team will be doing the work to integrate this into the health portal.
   - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources)
 
 # GitHub Roadmap
