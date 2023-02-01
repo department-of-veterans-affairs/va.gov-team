@@ -51,4 +51,3 @@ The UUID is retreived from the IDP's user info and is used to create or update `
 2. `V0::SignInController#create_login_code` normalizes `user_attributes` (which contains the IDP UUID) then creates and runs a new `SignIn::UserCreator` service object with those attributes.
 3. `SignIn::UserCreator` service creates and runs a new `Login::UserVerifier` service object with a `user_verifier_object` containing the IDP UUID.
 4. `Login::UserVerifier` service updates or creates a `UserVerification` with the corresponding IDP UUID.
-

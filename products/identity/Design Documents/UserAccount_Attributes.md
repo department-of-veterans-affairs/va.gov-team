@@ -41,5 +41,3 @@
 | `mhv_uuid` | A users UUID from My HealtheVet | Retreived from the user attributes that is queried from My HealtheVet. |
 | `dslogon_uuid` | A users UUID from DS Logon | Retreived from the user attributes that is queried from DS Logon. |
 | `backing_idme_uuid` | A users ID.me UUID when they authenticate with My HealtheVet or DS Logon | Retreived from the user attributes that is queried from My HealtheVet or DS Logon. |
-
-
