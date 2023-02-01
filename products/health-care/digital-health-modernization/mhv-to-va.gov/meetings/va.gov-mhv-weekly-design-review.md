@@ -1,5 +1,49 @@
 # VA.gov / MHV Weekly Design Review meeting note log
 
+## Date: 2/1/2023 
+
+MC: Brian Riley  
+Notetaker: Coulton Bunney
+
+**Round-Robin Updates**
+
+* Secure Messaging
+  * UCD: Research into interstitial ongoing. 9 sessions so far. Adjusting content, etc. 
+  * Development:Continuing to make way through defects list. 
+  * Testing: <Missed update>
+  * Product: With the help of  UCD, gettin close to submitting collab cycle reviews upcoming - contact center and readiness review. 
+
+* Medical Records
+  * UCD: Planning complete lofi designs by end of this week, early next and hand off to ByLight shortly thereafter.
+  * Development: Continuing to build out scaffolding for front end. Early days with setting up backend/FHIR infrastructure.
+  * Testing: No updates.
+  * Product: Working through the list of domains, laying out sample roadmaps for how to get this work through collab cycle. Also looking forward to PI planning in a few weeks.  
+
+	
+
+**Topic 1 - Hight fidelity design review** 
+
+Presenter: Lexi
+Time: 20 mins
+
+* High fidelity designs are mostly done and ready to be usability tested.
+* Hasn't been reviewed by content/IA. 
+* At first, vaccines will not include sort/search/filter. Based on research will add this functionality back in.
+* Included both download and print on the vaccine list. How this will be designed in flux, but at first will be buttons. 
+* Still researching some questions, such as whether we can tell if a vaccine is part of a series. 
+
+**Topic 2 - Testing for save draft, Advanced search**
+
+Presenting: Mike Moyer, Aaron Read
+
+* How long should we wait before auto-saving? 3 seconds seems too short, 15 seems too long. Landed on 5 seconds.
+* Advanced search is effectively going away. It is become an expanded view on the list view of each folder in Messages.  
+
+
+
+
+
+
 ## Date: 11/16/2022
 MC: Brian Riley
 
