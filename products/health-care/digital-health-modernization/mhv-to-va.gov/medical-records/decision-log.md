@@ -28,7 +28,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |    1/12/23  |         Patty Henry          |             Update: We will NOT be moving forward with directly sharing medical records via MHV or VA.gov per the conversation with Patty Henry in today's Jira Backlog Grooming meeting for the following reasons:| Because users own this information, they are free to download/print their records to send to anyone they choose, using their own delivery methods. The Legacy feature, "Send My VA Health Summary" was a pilot feature that has been decommissioned. This feature is owned by Veterans Health Information Exchange (VHIE) program, not MHV.|
-|      |                   |                         |           |
+|   2/1/23   |    Coulton Bunney               |         Per the 2/1 Design and Research critique, we’ve decided that, for Phase 0, the list of vaccines will not have any search, sort, filter, or grouping capabilities. The grouping of vaccines will be included in later iterations, pending research.                |    Simplify the MVP, and justify the additional features through future research.        |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
