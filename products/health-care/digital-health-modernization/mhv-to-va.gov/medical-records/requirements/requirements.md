@@ -39,7 +39,10 @@
   - Date for when the result or report came out 
   - Provider's name 
   - 
-
+- Actions
+  - Users should be able to 
+  
+  
 **Details view**
 - Because each category of the labs and tests is different, details view for each entry will also vary. 
   - Radiology reports
@@ -52,8 +55,6 @@
     - Clinical history 
     - Radiologist 
     - Report
-- Actions
-  - Users should be able to 
 
 ## Notes
 **Notes includes** 
