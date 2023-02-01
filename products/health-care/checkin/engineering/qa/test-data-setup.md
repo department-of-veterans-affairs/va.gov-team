@@ -214,7 +214,11 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 100853 | MONROE,JAMES | 1990-01-23 | Mark Dewey | - | √ |
 | 100854 | MADISON,JAMES | 1991-01-23 | Mark Dewey | - | √ |
 | 100855 | JACKSON,ANDREW | 1992-01-23 | Mark Dewey | - | √ |
-
+| 100856 | POLK,JAMES | 1988-01-23 | Mark Dewey | - | √ |
+| 100857 | BUCHANAN,JAMES | 1988-01-23 | Mark Dewey | - | √ |
+| 100858 | HAYS,RUTHERFORD | 1988-01-23 | Mark Dewey | - | √ |
+| 100859 | PIERCE,FRANKLIN | 1988-01-23 | Mark Dewey | - | √ |
+| 100860 | FILLMORE,MILLARD | 1988-01-23 | Mark Dewey | - | √ |
 
 **Station 442**
 
