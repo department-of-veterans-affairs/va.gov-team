@@ -34,6 +34,12 @@ This brief will help your team create content for your product that aligns with 
 
 ## SEO and VA.gov search
 
+### Terms related to "vaccines" have larger search volume.
+
+#### Top 20 on-site search terms related to debt (1.31.22 - 1.31.23)
+
+![image (4)](https://user-images.githubusercontent.com/104158104/216100618-72a1f362-6fee-4ae8-9f90-05db17b2ef34.png)
+
 ## Content-specific research findings
 
 Here's where we add content-related notes that came out of research that should inform the messaging generally and word choice specifically. We want to make sure that the terms we use and the explanations we provide are clear to Veterans. We don't make major messaging or labeling changes based on any 1 study, but rather watch for trends over time.
