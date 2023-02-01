@@ -3,10 +3,11 @@ The MHV to VA.gov Initiative consists of several different products, each with t
   - [Health Apartment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) - working name for the area of VA.gov that will ultimately house the tools being incorporated from MyHealth*e*Vet.
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
-  - Pharmacy
-  - Newsletter
-  - Community Care
-  - Appointments
+  - [Pharmacy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy)
+  - [Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/newsletter)
+  - [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care)
+  - Appointments - VAOS team will be doing the work to integrate this into the health portal.
+  - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources)
 
 # GitHub Roadmap
 - [Top-level Roadmap (all teams)](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
