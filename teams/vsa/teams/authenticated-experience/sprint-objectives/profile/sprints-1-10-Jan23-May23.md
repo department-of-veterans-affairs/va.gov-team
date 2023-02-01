@@ -149,6 +149,8 @@ This all depends on Florence having Github access.
 **BE - Tom**
 
 - Province populated on U.S. Territory Addresses #52786
+- Testing in Staging Vets-API Server to EKS #52717 
+  - Time sensitive, needs to be done by COB 2/28. Can not be pushed back a sprint.
 
 ## Sprint 5 (3/1 - 3/14)
 
