@@ -26,9 +26,11 @@
   - Chemistry/Hematology
   - Microbiology 
 - Pathology reports
-- Radiology reports 
-- Electrocardiogram (EKG) history
-- Medical Images and Reports
+  - Surgical
+  - Cytology
+  - Microscopy
+- Radiology images and reports 
+- Cardiology images and reports (know as Electrocardiogram (EKG) history)
 
 **List view**
 - All results/reports should be grouped into the categories above (lab results, pathology reports, and so on), and each category should have one or two sentences of explainations on what each category is.
