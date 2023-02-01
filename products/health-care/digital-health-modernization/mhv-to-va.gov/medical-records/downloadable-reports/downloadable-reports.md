@@ -33,20 +33,24 @@ This page provides the user with options to control the information that is incl
 - End Date
 
 #### 2.1 Select Types of Information
+
 - 2.1.0 Select types of information to include
-- 2.1.1 All types of information *Note: if All Types of Information is selected, all of the fields will display a checkmark in the selection checkbox, and the user does not need to make any further selections before clicking Submit.*
-   -
+- 2.1.1 All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
+
 ##### 2.1.00 Appointments
+
 - 2.1.00.0 Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
 - 2.1.00.1 Past VA Appointments (limited to past 2 years)
 - 2.1.00.2 All of the Above
 -
 ##### 2.1.01 Medications (Automatically includes Allergy information)
+
 - 2.1.01.0 VA Medication History
 - 2.1.01.1 Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
 - 2.1.01.2 All of the Above
 
 ##### 2.1.02 Labs and Tests
+
 - 2.1.02.0 VA Laboratory Results
 - 2.1.02.1 VA Pathology Reports
 - 2.1.02.2 VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
@@ -158,8 +162,8 @@ _Findings:_
 ## Questions to answer
 
 **UX:** 
-- What type of information do users look for in Medical Images and Reports versus Labs/ tests? 
-- How closely do uses associate a more detailed health report to the Blue Button name/brand?
+- Should a submit button be presented higher on the page so that the user doesn't have to scroll past all the selected options after select "All Types of Information"?
+- How closely do uses associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
 - Are uses able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
 - What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
 
