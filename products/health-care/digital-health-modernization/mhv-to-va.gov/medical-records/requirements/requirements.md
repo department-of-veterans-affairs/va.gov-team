@@ -21,6 +21,37 @@
 ## Immunizations
 
 ## Labs and Tests
+**Labs and Tests includes** 
+- Laboratory results
+  - Chemistry/Hematology
+  - Microbiology 
+- Pathology reports
+- Radiology reports 
+- Electrocardiogram (EKG) history
+- Medical Images and Reports
+
+**List view**
+- All results/reports should be grouped into the categories above (lab results, pathology reports, and so on), and each category should have one or two sentences of explainations on what each category is.
+- Each entry should include:
+  - Title of the lab result or report
+  - Date for when the result or report came out 
+  - Provider's name 
+  - 
+
+**Details view**
+- Because each category of the labs and tests is different, details view for each entry will also vary. 
+  - Radiology reports
+    - Procedure/test name
+    - Date/time exam performed
+    - Ordering location 
+    - Requesting provider
+    - Reason for study
+    - Performing location 
+    - Clinical history 
+    - Radiologist 
+    - Report
+- Actions
+  - Users should be able to 
 
 ## Notes
 **Notes includes** 
