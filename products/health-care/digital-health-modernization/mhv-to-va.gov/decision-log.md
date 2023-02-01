@@ -8,7 +8,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |Lauren Alexanderson|Medical Records will be build domain by domain|This will allow the teams to more quickly show progress|
 |      |Lauren Alexanderson, Coulton Bunney|The first domain to be created will be Immunizations|This one is relatively straightforward and a good one to start with|
 |      |Lauren Alexanderson, Leah Bannon|The second and third domains will be Labs & Tests and Notes|           |
-| 2023/01/29     |OCTO                   |Medications will be incorporated with Pharmacy as a new section of the health portal.          | Veterans will be able to see current and past medications and request refills in one place.          |
+| 2023/01/29     |Lauren Alexanderson, Eric Spahn, TBD                   |Medications will be incorporated with Pharmacy as a new section of the health portal.          | Veterans will be able to see current and past medications and request refills in one place.          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
