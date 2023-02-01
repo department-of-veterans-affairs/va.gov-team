@@ -4,6 +4,8 @@
 
 
 This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the VA Mobile App IA & Navigation project (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
+For a quick overview, see the following slide deck: [VA Mobile App - IA & Navigation Project Process Overview]()
+
 
 ## Background & Motivation
 
