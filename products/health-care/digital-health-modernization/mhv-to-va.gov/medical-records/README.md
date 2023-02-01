@@ -1,6 +1,6 @@
 # My Health Medical Records Product Outline
 
-Last Updated: Oct 28, 2022
+Last Updated: Feb 1, 2023
 
 ### Communications
 
