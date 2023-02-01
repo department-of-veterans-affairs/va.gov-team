@@ -22,6 +22,8 @@ The information archicture strategy for downloadable reports at the time of this
 
 Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
 
+In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
+
 ### Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.
 
