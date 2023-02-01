@@ -33,15 +33,15 @@
 - Cardiology images and reports (know as Electrocardiogram (EKG) history)
 
 **List view**
+- On the top of the list, a user should know when their labs and tests result will be available. 
 - All results/reports should be grouped into the categories above (lab results, pathology reports, and so on), and each category should have one or two sentences of explainations on what each category is.
 - Each entry should include:
   - Title of the lab result or report
   - Date for when the result or report came out 
   - Provider's name 
-  - 
 - Actions
-  - Users should be able to 
-  
+  - A user should be able to see a list of all of labs and tests, ordered chronologically.
+  - A user should be able to click into each entry to get more details.
   
 **Details view**
 - Because each category of the labs and tests is different, details view for each entry will also vary. 
