@@ -54,6 +54,7 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 - [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 - [Demographics*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)
 - [DoD Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/dod-info/dod-info-brief.md)
+- Blue Button/Health Summary Reports page (not technically a domain)
 
 # Domain Briefs and Low-Fi Design Status
 |Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status |
@@ -66,5 +67,5 @@ This is the order in which the briefs and low-fi mock-ups will be produced as of
 | - Demographics                           | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)       |                                  |                      |
 | - Allergies                              | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)             |                                  |                      |
 | - DoD Information                        | Marci McGuire   | In Progress; need account with data                    |                                  |                      |
-| - Blue Button/Health Summary Report page | Marci McGuire   | In Progress                    |                                  |                      |
+| - Blue Button/Health Summary Reports page | Marci McGuire   | In Progress                    |                                  |                      |
 
