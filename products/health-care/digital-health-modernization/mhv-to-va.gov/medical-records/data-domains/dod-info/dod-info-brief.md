@@ -49,13 +49,12 @@ Things to think about that inform use cases:
 
 
 **Common Use Cases**
+- Veterans may refer to their DoD history to see if they qualify for a particular benefit based on the service dates.
 
-What do people want to use their Dod Info for? 
 
 
 **Edge Cases**
-- Veterans may need to refer to their DoD history to see if they qualify for a particular benefit based on the service dates.
-Any edge cases for DoD Info? 
+- Veterans may refer to their DoD history to see if they qualify for a particular benefit based on where they were stationed.
 
 ## UX considerations
 
