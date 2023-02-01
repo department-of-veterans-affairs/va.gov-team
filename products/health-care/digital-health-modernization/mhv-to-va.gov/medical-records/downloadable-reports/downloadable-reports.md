@@ -8,7 +8,7 @@ To serve as a source of truth around data field requirements and specifications,
 ## Description of pages
 This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
 
-### 1. Downloadable Reports Landing Page
+### 1 Downloadable Reports Landing Page
 This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options
 
 #### How this page differs from the MyHealth*e*Vet Download My Data page
@@ -24,26 +24,35 @@ Electronic Record Sharing Options is a way to opt in or out of sharing one's ele
 
 In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
 
-### 2. Blue Button Report generation page
+### 2 Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.
 
-#### A. Select Date Range
+#### 2.0 Select Date Range
 - Date Range
 - Start Date
 - End Date
 
-#### B. Select Types of Information
+#### 2.1 Select Types of Information
 - Select types of information to include -OR- All types of information
    - If All Types of Information is selected, all of the fields will display a checkmark in the selection checkbox, and the user does not need to make any further selections before clicking Submit.
-##### Appointments
-- Future VA Appointments (may include Telephone, Video, In-Person Appointments) [This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV]
-- Past VA Appointments (limited to past 2 years)
-##### Medications
-##### Labs and Tests
-##### VA Electronic Health Record History and Wellness Reminders
-##### Allergies
+##### 2.1.00 Appointments
+- 2.1.00.0 Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.1 Past VA Appointments (limited to past 2 years)
+- 2.1.00.2 All of the Above
+##### 2.1.01 Medications
+- 2.1.01.0 
+##### 2.1.02 Labs and Tests
+##### 2.1.03 VA Electronic Health Record History and Wellness Reminders
+##### 2.1.04 Allergies
+##### 2.1.05 Immunizations
+##### 2.1.06 Vitals and Readings
+##### 2.1.07 Self-Reported Health History *Note: Self-reported data will not be included in the MVP*
+##### 2.1.08 Food and Activity Journals *Note: Self-reported data will not be included in the MVP*
+##### 2.1.09 Goals
+##### 2.1.10 Demographics and Health Insurance
+##### 2.1.11 Department of Defense Information
 
-#### 3. Form Controls
+### Form Controls
 - Submit
 - Reset
 - Cancel
