@@ -22,7 +22,7 @@ The MHV to VA.gov Initiative consists of several different products, each with t
 - Pharmacy - MHV Team
 - Newsletter - Core Team
 - Community Care - Core Team
-- Appointments - Core Team
+- Appointments - VAOS Team, Check-In team
 
 # Planning and Resources
 - [Roadmap 2022-2024](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
