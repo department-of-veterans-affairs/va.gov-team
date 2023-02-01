@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Accessibility Testing
 about: For Check In Experience Accessibility Testing
-title: "[FE]"
+title: "[FE] Perform Accessibility Testing & Create Artifact"
 labels: HCE-Checkin, frontend
 assignees: ''
 
