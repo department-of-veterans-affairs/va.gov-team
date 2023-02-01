@@ -25,9 +25,10 @@ This is a folder for the Cerner integration work.
 # Requesting Access to Cerner Environments
 - C1941 Access -- Email Cerner resources for Access to Commercial Sandbox
 - Federal Domain Access -- [National URAC Process](https://dvagov.sharepoint.com/:w:/r/sites/VACO.OEHRMvisn/SitesDeploy/_layouts/15/Doc.aspx?sourcedoc=%7B1C47011C-F604-4618-B4F5-8E0DC10A7F48%7D&file=National%20URAC%20Provisioning%20Process.docx&action=default&mobileredirect=true&DefaultItemOpen=1&wdhostclicktime=1667246077835&web=1&cid=ff60d63d-0a80-4a6f-abc8-ff1a819ec4d0) (simplified instructions below)
-# Fundamental Documents
+# Fundamental Documents and Links
 
-[VA.gov Health Products: Cerner API Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/files/10126803/2020-January-Cerner.API.Documentation.Revision.1.docx)
+- [VA.gov Health Products: Cerner API Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/files/10126803/2020-January-- Cerner.API.Documentation.Revision.1.docx)
+- [EHRM Deployment Schedule](https://digital.va.gov/ehr-modernization/resources/ehr-deployment-schedule/)
 
 # Cerner Integration Points
 
