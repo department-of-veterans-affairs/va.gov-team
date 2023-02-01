@@ -6,7 +6,7 @@ Last updated: February 1, 2023
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
 
 ## Description of page
-This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a set formatting standard, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
+This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
 
 ## How this page differs from the MyHealth*e*Vet Download My Data page
 MyHealtheVet provides four primary links in the left navigation:
