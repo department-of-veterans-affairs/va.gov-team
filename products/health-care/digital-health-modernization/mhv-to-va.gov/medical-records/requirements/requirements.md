@@ -4,7 +4,7 @@
 - [General](#general)
 - [Immunizations](#immunizations)
 - [Labs and Tests](#labs-and-tests)
-- [Clinical Notes](#clinical-notes)
+- [Notes](#clinical-notes)
 - [Health Issues](#health-issues)
 - [Vitals](#vitals)
 - [Allergies](#allergies)
@@ -22,39 +22,54 @@
 
 ## Labs and Tests
 
-## Clinical Notes
-- Clinical notes includes 
+## Notes
+**Notes includes** 
   - VA notes
-  - Discharge summaries 
+  - Admission & Discharge summaries 
   - After visit summaries
-- List view
-  - A user should be able to see a list of all of their notes, ordered chronologically. Each list view entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
+  - Treatment plans
+
+**List view**
+
+- At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- A user should be able to see a list of all of their notes, ordered chronologically. 
+- Each entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
+- A user should be able to click into each entry to get more details.
+  
+**Details view**
+  - The H1 of the details view should be the title of the note. 
+  - Each note should 
+  - Where possible and clinically permissable, transform text to make a note easier to read.
+  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
+
+ **Not for Phase 0, requires future usability research**
+    
   - A user should be able to sort their notes in different ways
     - Chronologically
     - By location, chronologically
     - By signing physician, chronologically
-  - In the list view, users need to understand the availability of notes, and the delays they are subject to. See https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
   - A user should be able search Notes to find what they are looking for.
     - A user should be able to search by note metadata, such as note title, signing or co-signing physician, location, or date. 
     - A user should be able to search for keywords in the body content of a note, such as "high blood pressure" or "back pain." A common use case is finding reference to a specific health condition in order to support something like a disability claim.
     - Search results should be ordered chronologically, from newest to oldest, and matches should be highlighted. 
     - The search box can be collapsed to create real estate for the list view of notes. 
 
-- Details view
-  - The H1 of the details view should be the title of the note. 
-  - Each note should 
-  - Where possible and clinically permissable, transform text to make a note easier to read.
-  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
-
 
 ## Health Issues
-- List
-  - Users should be able to view a list of their health issues, and they should be able sort by date/time entered and alphabetically by issue.
+**List view**
+  - Users should be able to view a list of their health issues from across all VA facilities
+  - Each entry should include the issue/problem title  the date/time it was entered. and the status of the issue (e.g. active/inactive)
+  - A user should be able to sort their health issues
+    - Chronologically based on initially entered date
+    - Alphabetically by issue
+    - By status
+
+**Details view**
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
     - Provider's name
-    - Location
+    - Location where the issue was entered
     - Status
     - Comments
   
@@ -62,7 +77,7 @@
 
 - Data is available thirty-six (36) hours after it has been entered. It may not contain active problems managed by non-VA health care providers. 
 - Actions
-  - Users should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
+  - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
   
 
 ## Vitals
