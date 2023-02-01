@@ -48,7 +48,7 @@ Please log key MHV to VA.gov Landing Page decisions related to the below practic
 ## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+|2/1/2023      |Lauren Alexanderson                   |MVP should include only the most critical stuff that will be available to start                         |Deliver early and often; starting point for continuous improvement           |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
