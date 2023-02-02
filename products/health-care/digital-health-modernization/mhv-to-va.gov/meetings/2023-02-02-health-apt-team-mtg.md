@@ -16,12 +16,12 @@
 - Martha
    - No updates for this team
 
-- Stephen Barrs
+- Stephen
   - Digging through repos, met with an MHV API dev to discuss architecture
   - Identified places where we need to flesh out architecture diagrams
   - Also worked on stuff related to Check-in
 
-Mark Dewey
+- Mark
   - Similar to Stephen's update
   - Spike stuff on feature toggles
 
