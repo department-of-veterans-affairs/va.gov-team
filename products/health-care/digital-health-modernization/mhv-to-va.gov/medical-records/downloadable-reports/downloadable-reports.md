@@ -30,7 +30,7 @@ Things to think about that inform use cases:
 
 - Data Sources
   - Data for the VA Health Summary report is derived from My HealtheVet eVault
-  - Data for the Blue Button Report is derived from VistA. 
+  - Data for the Blue Button Report is derived from VistA, and also includes self-reported data.
   - The user owns their health data and is entitled to have access to it.
 
 - Data Timeliness
@@ -38,10 +38,14 @@ Things to think about that inform use cases:
   - VA Health Summary Data may only be updated once every 24 hours.  This is currently achieved via an update button on the My VA Health Summary generation page.
 
 - User Guide and Related Content
-  - The Blue Button Report generation page on MyHealtheVet links to a 16-page user guide in PDF format.  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
-  - The Blue Button Report generation pages links to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports and links to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) and [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) that have content related to Blue Button Reports.
-- VA Health Summary
-  - 
+  - The Blue Button Report generation page on MyHealtheVet links to 
+  - The Blue Button Report generation pages links to several pages and documents:
+    -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
+    -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
+    -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
+    -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
+    -  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
+    -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
 **Common Use Cases**
 
@@ -83,7 +87,9 @@ The information archicture strategy for downloadable reports at the time of this
 
 Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
 
-In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
+In summary, the downloadable reports landing page in the new experience need only give options for generating VA Blue Button Report and VA Health Summary report pages. 
+
+<br>
 
 ### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls used on MyHealth*e*Vet.
@@ -111,22 +117,23 @@ This page provides the user with options to control the information that is incl
 
 ##### 2.1.00. `[heading]` Appointments
 
-- 2.1.00.0. `[checkbox`  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
-- 2.1.00.1. Past VA Appointments (limited to past 2 years)
-- 2.1.00.2. All of the Above
--
+- 2.1.00.0. `[checkbox]'  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.1. `[checkbox]' Past VA Appointments (limited to past 2 years)
+- 2.1.00.2. `[checkbox]' All of the Above
+
 ##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
 
-- 2.1.01.0. VA Medication History
-- 2.1.01.1. Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
-- 2.1.01.2. All of the Above
+- 2.1.01.0. `[checkbox]' VA Medication History
+- 2.1.01.1. `[checkbox]' Medication and Supplements, Self-Reported 
+- 2.1.01.2. `[checkbox]' All of the Above
 
 ##### 2.1.02. `[heading]` Labs and Tests
 
-- 2.1.02.0 VA Laboratory Results
-- 2.1.02.1 VA Pathology Reports
-- 2.1.02.2 VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
-- 2.1.02.3
+- 2.1.02.0 `[checkbox]' VA Laboratory Results
+- 2.1.02.1 `[checkbox]' VA Pathology Reports (available 35 hours after completion
+- 2.1.02.2 `[checkbox]' VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
+- 2.1.02.3 `[checkbox]' Labs and Tests, Self-Reported
+- 2.1.02.4 `[checkbox]' All of the Above
 
 ##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
 
@@ -136,9 +143,9 @@ This page provides the user with options to control the information that is incl
 
 ##### 2.1.06 `[heading]` Vitals and Readings
 
-##### 2.1.07 `[heading]` Self-Reported Health History *Note: Self-reported data will not be included in the MVP*
+##### 2.1.07 `[heading]` Self-Reported Health History 
 
-##### 2.1.08 `[heading]` Food and Activity Journals *Note: Self-reported data will not be included in the MVP*
+##### 2.1.08 `[heading]` Food and Activity Journals 
 
 ##### 2.1.09 `[heading]` Goals
 
@@ -151,7 +158,7 @@ This page provides the user with options to control the information that is incl
 - `[button]` Reset
 - `[button]` Cancel
 
-
+<br>
 
 ### 3. VA My Health Summary generation page
 This page provides the ability for the user to generate a My VA Health Summary Report consisting of pre-determined data.
