@@ -50,7 +50,7 @@ This capability is either too granular or too blunt for the MeB application. For
 ## Go Live!
 
 ### Planning:
-- Desired date: January 23rd, 2023
+- Desired date: March 4, 2023
 - Post-launch KPI 1: TBD
 - Post-launch KPI 2: TBD
 - Post-launch KPI 3: TBD
