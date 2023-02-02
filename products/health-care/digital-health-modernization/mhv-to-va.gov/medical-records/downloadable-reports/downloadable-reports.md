@@ -166,7 +166,7 @@ Any edge cases for downloadable reports?
 
 ### Accessibility considerations:
 
-[MyHealtheVet Section 508 Audit Report, August 2022]
+[MyHealtheVet Section 508 Audit Report, August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/31142%20My%20HealtheVet%20Interim%20Audit_20220831_V0.01.docx)
 
 [MyHealth*e*Vet (MHV) Heuristic Accessibility Evaluation, November 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/audits/2022-11-MHV/MHV-Heuristic-A11y-Audit_Evaluation-Summary.md)
 
