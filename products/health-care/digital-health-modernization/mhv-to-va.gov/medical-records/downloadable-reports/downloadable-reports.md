@@ -29,9 +29,9 @@ This page provides the user with options to control the information that is incl
 
 #### 'H1' Download My Selected Data
 
-- [`info icon`][`linked text`]VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
-- [`info icon`][`linked text`]Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
-- [`info icon`][`linked text`]Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
+- `[info icon]` `[linked text]` VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
+- `[info icon]` `[linked text]` Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
+- `[info icon]` `[linked text]` Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
 
 #### 2.0. `[Step 1 indicator][heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png)
 
