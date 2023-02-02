@@ -1,6 +1,6 @@
 # Health Issues Brief: Data fields and UX considerations
 
-Last updated: February 1, 2023
+Last updated: February 2, 2023
 
 ## Purpose
 
@@ -45,7 +45,9 @@ This domain provides Veterans with a summary of the active health concerns conta
 **Data field title:** TBD.  Comparative systems use terms such as Health Issues or Health Conditions.
 
 **Data fields to include:**
-There are two different types of report available on MyHealtheVet that contain a list of health issues  -- Blue Button reports and VA Health Summary reports.  It is worth noting that the data that populate these two reports are derived from different data sources, and therefore may not match.    The Blue Button report is derived from the patient's eVault data, which originates from VistA.  The VA Health Summary Report is derived from CCDA (Consolidated Clinical Document Architecture) data.  Below shows the list of Problem List fields available within each report.  The decision as to which data set is most appropriate to be displayed on a page should be made by the stakeholders, including Bresha Lipscomb.
+There are two different types of report available on MyHealtheVet that contain a list of health issues  -- Blue Button reports and VA Health Summary reports. VA Health Summary reports are derived from the patient's e-Vault.  
+
+Below shows the list of Problem List fields available within each report.  The decision as to which data set is most appropriate to be displayed on a page should be made by the stakeholders, including Bresha Lipscomb.
 
 - Blue Button Report
     - Problem
