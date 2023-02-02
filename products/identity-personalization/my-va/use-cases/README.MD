@@ -1,5 +1,5 @@
 # My VA Use Cases
-**Last updated:** December 19, 2022 (added unlinked use case sections for content coming in 2023)
+**Last updated:** Februay 2, 2023 (updated name of benefit application drafts section)
 
 ## Common Use Cases
 
@@ -14,7 +14,7 @@
 - [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
 - Education and training use cases (content and link to come in 2023)
-- Saved applications use cases (content and link to come in 2023)
+- Benefit application drafts use cases (content and link to come in 2023)
 
 ## Edge Cases
 
