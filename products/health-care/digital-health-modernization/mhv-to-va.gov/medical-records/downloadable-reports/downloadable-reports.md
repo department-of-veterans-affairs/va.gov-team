@@ -1,6 +1,6 @@
 # Downloadable Reports: Data fields and UX considerations
 
-Last updated: February 1, 2023
+Last updated: February 2, 2023
 
 ## Purpose
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
