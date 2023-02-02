@@ -1,13 +1,13 @@
 # Sprint Team Demo
 
-**Demo Sprint 60 2/3/23**
+**Demo Sprint 60 2/2/23**
 
 - Demo Topic(s)
   -  Staging Endpoint Status - Jayson 
   -  Alert Box Accessibility - Therese / Theo   
 
 
-
+---  
 **Demo Sprint 59 1/19/23**
 
 - Demo Topic(s)
@@ -18,7 +18,7 @@
 - [Demo Slides & Recording ](https://docs.google.com/presentation/d/15md4G7IFfPyo11uH4VugpoWyb00O6doKrPbHG4iYnUY/edit?usp=sharing)
 - [VA Mobile App Demo - 1_19_23.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10561516/VA.Mobile.App.Demo.-.1_19_23.pdf)
 
-
+---  
 **Demo Sprint 59 12/8/22**
 
 - Demo Topic(s)
