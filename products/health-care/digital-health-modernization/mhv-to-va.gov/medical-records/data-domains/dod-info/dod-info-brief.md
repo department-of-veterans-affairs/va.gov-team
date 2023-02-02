@@ -12,6 +12,69 @@ To serve as a source of truth around data field requirements and specifications,
 
 - The three test accounts we have access to do not have DoD information in their data so that we can see an example of the data, even when searching 1895 to present.  We will work to obtain this data through a different source.
 
+- Bobby Bailey dropped this list of DoD sections and fields from Lichelle Bain:
+
+-From 
+@Lichelle Bain
+
+DOD has 9 sections with several fields in each section.  The 9 sections are bolded:
+
+**Regular Active Service**
+- Service
+- Begin Date
+- End Date
+- Character of Service
+- Rank
+**Reserve/Guard Association Periods**
+- Service
+- Begin Date
+- End Date
+- Character of Service
+- Rank
+**Reserve/Guard Activation Periods**
+- Service
+- Begin Date
+- End Date
+- Activated Under (Title 10, 32, etc.)
+**Deployment Periods**
+- Service
+- Begin Date
+- End Date
+- Conflict
+- Location
+**DoD MOS/Occupation Codes**
+- Service
+- Begin Date
+- Enl/Off
+- Type
+- Service Occupation Code
+- DoD Occupation Code
+**Military/Combat Pay Details**
+- Service
+- Begin Date
+- End Date
+- Military Pay Type
+- Location
+**Separation Pay Details**
+- Service
+- Begin Date
+- End Date
+- Separation Pay Type
+**Retirement Periods**
+- Service
+- Begin Date
+- End Date
+- Retirement Type
+- Rank
+**DoD Retirement Pay**
+- Service
+- Begin Date
+- End Date
+- Disability Percent
+- Pay Stat
+- Termination Reason
+- Stop Pay Reason
+
 ## Relevant links
 
 [DoD Info Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/dod-info/dod-decision-log.md)
@@ -89,7 +152,7 @@ _Accessibility considerations specific to DoD Info:_
 
 
 **Business/ Engineering:** 
-- Q: Is it possible to see a test account that has DoD information populated in a Blue Button report?
+- Q: Is it possible to see a test account that has DoD information fully populated in a Blue Button report?
     
 
 **Who do we need to get feedback from?**
