@@ -51,7 +51,7 @@
 Current URL | Redirect to | Notes
 --- | --- | ---
 https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp | www.va.gov/health-care/foreign-medical-program | 
-https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/fmp_benefits_claims.asp | New R&S page | 
+https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/fmp_benefits_claims.asp | New R&S page on filing a claim | 
  
 
 
