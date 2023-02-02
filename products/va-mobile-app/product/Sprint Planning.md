@@ -1,17 +1,19 @@
-###VA Mobile team- Sprint Planning
+### VA Mobile team- Sprint Planning
 
-When: Bi-weekly Tuesday (Last day of Sprint)
+Who: Red Team (Health)
+When: Bi-weekly Tuesday (Last day of Sprint); Time: 1-1:45 ET
 
-Who: Blue Team (Global & Benefits) & Red Team (Health)
+
+Who: Blue Team (Global & Benefits)
+When: Bi-weekly Tuesday (Last day of Sprint; Time 2-3:00 ET
 
 Sprint Planning Review deck used: Review Sprint Objectives
 
-Zenhub boards used: Mobile SoS Board, Team Boards (FE, BE, QA, Product)
-
+Zenhub boards used: [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823), Team Boards (FE, BE, QA, Product)
 
 
 | Sprint | Date | Sprint Goals/Accomplishments | 
 | --- | --- | --- |
-| 30| 10.13.21-10.26.21 |[Sprint Planning Review 10.13.21.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/7442880/Sprint.Planning.Review.10.13.21.pdf)|
-| 31| 10.27.21-11.09.21 | [Sprint Planning Review 10.27.21.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/7442720/Sprint.Planning.Review.10.27.21.pdf)
-| 32| 11.10.21-11.23.21 || |
+| 63| Jan 19 - Jan 31  | [Red Team Sprint Planning-Sprint 63.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10571820/Red.Team.Sprint.Planning-Sprint.63.pdf)
+| 64| Feb 1 - Feb 14 | [Red Team Sprint Planning - Sprint 64.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10571841/Red.Team.Sprint.Planning.-.Sprint.64.pdf)
+
