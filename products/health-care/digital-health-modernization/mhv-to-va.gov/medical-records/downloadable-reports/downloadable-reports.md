@@ -84,7 +84,7 @@ MyHealtheVet provides four primary links in the left navigation:
 - VA Medical Images and Reports 
 - Electronic Record Sharing Options
 
-The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by card sorting exercises and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
+The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by tree testing, card sorting exercises, and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
 
 Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
 
