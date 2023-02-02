@@ -1,4 +1,4 @@
-## (Copy of) Research Checklist
+## (Copy of) [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-2.Researchreview)
 
 This checklist can help guide you through all the tasks associated with conducting research on VFS products.
 
