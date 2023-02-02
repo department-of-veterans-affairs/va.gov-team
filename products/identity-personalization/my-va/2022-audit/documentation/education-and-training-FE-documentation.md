@@ -46,7 +46,7 @@ Use font awesome icon `clipboard-list` for icon
 
 ---
 
-### Check your GI Bill Statement of Benefits link
+### Check your Post-9/11 GI Bill benefits link
 
 ![Screen Shot 2022-11-04 at 1 58 19 PM](https://user-images.githubusercontent.com/97965610/200045657-100bf820-7b40-42ed-b9bf-89ba71be2f65.png)
 
@@ -60,4 +60,4 @@ Use font awesome icon `dollar-sign` for icon
 
 #### Content
 
-[Check your GI Bill Statement of Benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
+[Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
