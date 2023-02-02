@@ -20,8 +20,8 @@
 
 ## Immunizations
 
-## Labs and Tests
-**Labs and Tests includes** 
+## Lab and test results
+**Includes** 
 - Laboratory results
   - Chemistry/Hematology
   - Microbiology 
@@ -33,12 +33,12 @@
 - Cardiology images and reports (know as Electrocardiogram (EKG) history)
 
 **List view**
-- On the top of the list, a user should know when their labs and tests result will be available. 
-- All results/reports should be grouped into the categories above (lab results, pathology reports, and so on), and each category should have one or two sentences of explainations on what each category is.
-- Each entry under each category should include:
-  - Title of the lab result or report
-  - Date for when the result or report came out 
-  - Provider's name 
+- At the top of the page, a user should be able to quickly learn about the availability of lab and test results. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- Each should include:
+  - Category (e.g. Pathology, Microbiology, etc)
+  - Title of the lab result or report (if available)
+  - Date collected
+  - Ordering provider
 - Actions
   - A user should be able to see a list of all of labs and tests, ordered chronologically.
   - A user should be able to click into each entry to get more details.
