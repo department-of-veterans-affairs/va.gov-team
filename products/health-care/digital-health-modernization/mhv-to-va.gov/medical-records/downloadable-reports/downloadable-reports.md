@@ -66,7 +66,7 @@ Any edge cases for downloadable reports?
 ### When to show the downloadable reports section
 - When a user with VA health care is logged in with an valid credential for MHV
 
-**Where do downloadable reports fit within IA?**
+### Where do downloadable reports fit within IA?
 - In the MyHealth*e*Vet site, the links for reports falls under the Personal Information grouping, which is not particularly intuitive.  In the new experience, the current plan is to include reports within the Medical Records grouping as they are a form of medical record.
 
 ## Downloadable reports pages
