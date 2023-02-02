@@ -46,7 +46,7 @@
  - The H1 of the details view should be the lab or test type. 
  - Where possible and clinically permissable, transform text to make a note easier to read.
  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
-
+ - 
 Because each category of the labs and tests is different, details view for each entry will also vary. 
   - Radiology reports
     - Procedure/test name
@@ -88,33 +88,15 @@ Because each category of the labs and tests is different, details view for each 
     - Collected location
   - Pathology reports (surgical pathology) 
     - Type of report (surgical pathology/cytology) 
-    - Date collected
-    - Date completed (not always present) 
-    - Report
-    - Specimen
+    - Specimen 
+    - Date obtained
     - Performing location
-  - VA Medical Images and Reports
-    - Type (Radiology)
-    - Lab procedure and test (aka name)
-    - Date exam performed
-    - Reason for study
-    - Report
-    - Requesting provider
-    - Ordering provider
-    - Ordering location
-    - Performing location
-    - Clinical history (not always present)
-    - Radiology (not always present)
+    - Date completed 
+    - Report 
   - EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
-    - Type (EKG)
-    - Lab procedure and test (aka name)    
-    - Test date
-    - Reason for study
-    - Report
-    - Requesting provider
-    - Ordering provider
+    - Procedure/test name 
+    - Date/time performed
     - Ordering location
-    - Performing location
 
   - A user should be able to print or download a result/report as either a PDF or TXT file.
   - When a lab results includes multiple tests, such as a CMP, the tests should be presented as accordions, with one test result per accordion.
@@ -130,8 +112,8 @@ Because each category of the labs and tests is different, details view for each 
   - A user should be able filter to find what they are looking for.
     - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
 
-## Notes and care summaries
-**Includes** 
+## Notes
+**Notes includes** 
   - VA notes
   - Admission & Discharge summaries 
   - After visit summaries
@@ -163,10 +145,10 @@ Because each category of the labs and tests is different, details view for each 
     - The search box can be collapsed to create real estate for the list view of notes. 
 
 
-## Health Conditions
+## Health Issues
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title, date/time entered, and the status of the issue (e.g. active/inactive)
+  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
   - A user should be able to sort their health issues
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -176,9 +158,9 @@ Because each category of the labs and tests is different, details view for each 
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
-    - Status
     - Provider's name
     - Location where the issue was entered
+    - Status
     - Comments
   
 <img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
@@ -206,6 +188,27 @@ Because each category of the labs and tests is different, details view for each 
 
 
 ## Allergies
+**List view**
+- A user should be able to see a list of all of their allergies.
+- Each entry should include:
+  - Date entered
+  - Allergen/reactant
+  - Reaction/side effect
+  - Location
+  - Source
+- A user should be able to print or download (PDF or TXT) the complete list. 
+- A user should be able to sort the list alphabetically by allergen/reactant name and chronologically based on initially entered date.
+
+**Details view**
+- Each allergy detail should include
+  - Location
+  - Date entered
+  - Allergen/reactant
+  - Reaction/side effect
+  - Allergy type (all drug, except self-entered allergies)
+  - VA drug class
+  - Observed/historical
+  - Comments
 
 ## Demographics
 
