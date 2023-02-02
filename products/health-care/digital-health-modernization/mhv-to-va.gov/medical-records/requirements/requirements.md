@@ -43,7 +43,11 @@
 - A user should be able to click into each entry to get more details.
   
 **Details view**
-- Because each category of the labs and tests is different, details view for each entry will also vary. 
+ - The H1 of the details view should be the lab or test type. 
+ - Where possible and clinically permissable, transform text to make a note easier to read.
+ - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
+ - 
+Because each category of the labs and tests is different, details view for each entry will also vary. 
   - Radiology reports
     - Procedure/test name
     - Date/time exam performed
@@ -54,35 +58,34 @@
     - Clinical history 
     - Radiologist 
     - Report
-  - Lab results (chemistry/hematology)
-    - Lab test name
+ - Chemistry, Hematology
     - Lab type (chemistry/hematology)
-    - Ordering provider
-    - Ordering location
+    - Lab test (aka name, not always present)
+    - Date/time collected
+    - Tests
+      - Test name
+      - Results
+      - Units
+      - Reference range
+      - Status
+      - Performing location
+      - Interpretation
     - Specimen
-    - Date/time collected
-    - Collected Location
-    - Test name
-    - Result
-    - Units
-    - Reference range
-    - Status
-    - Performing location
-    - Interpretation
-    - Comments
-    - Performing location name/address
-  - Lab results (microbiology)
-    - Lab test
-    - Lab type (microbiology)
     - Ordering provider
     - Ordering location
-    - Site/specimen
-    - Performing location
-    - Collection sample
-    - Collectioned location
-    - Date/time collected
-    - Date/time completed
+    - Collected location
+    - Comments
+    - Perfomring Location
+  - Microbiology
+    - Lab type
+    - Lab test (aka name, not always present)
+    - Date collected
+    - Date completed (not always present)
     - Results
+    - Site/specimen (not always present)
+    - Ordering provider
+    - Ordering location
+    - Collected location
   - Pathology reports (surgical pathology) 
     - Type of report (surgical pathology/cytology) 
     - Specimen 
