@@ -5,101 +5,6 @@ Last updated: February 2, 2023
 ## Purpose
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
 
-## Description of pages
-This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
-
-### 1. Downloadable Reports Landing Page
-This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
-
-#### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
-MyHealtheVet provides four primary links in the left navigation:
-- VA Blue Button Report
-- VA Health Summary
-- VA Medical Images and Reports 
-- Electronic Record Sharing Options
-
-The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by card sorting exercises and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
-
-Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
-
-In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
-
-### 2. Blue Button Report generation page
-This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls used on MyHealth*e*Vet.
-
-#### `H1` Download My Selected Data
-
-- `[info icon]` `[linked text]` VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
-- `[info icon]` `[linked text]` Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
-- `[info icon]` `[linked text]` Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
-
-#### 2.0. `[Step 1 indicator]` `[heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) <a href="[http://example.com/](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png)" target="_blank">Screen shot from MHV</a>
-
-- 2.0.0 `[heading]` Date Range
-  - `[radio]` 3 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
-  - `[radio]` 6 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 6 months from current date.*
-  - `[radio]` 1 Year *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
-  - `[radio]` Custom *Note - Selecting this option means that the user needs to then manually select start and end dates (2.0.1 and 2.0.2), but there are no instructions to indicate this, such as "(Select desired start and end dates below)".*
-- 2.0.1 `[date picker]` Start Date
-- 2.0.2 `[date picker]` End Date
-
-#### 2.1.`[Step 2 indicator]` `[heading]` Select Types of Information 
-`[text]` Information that you have entered into My HealtheVet is labeled as 'Self-Reported'. Information from the VA Electronic Health Record is labeled as 'VA'.
-- 2.1.0. `[radio]` Select types of information to include
-- 2.1.1. `[radio]` All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
-
-##### 2.1.00. `[heading]` Appointments
-
-- 2.1.00.0. `[checkbox`  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
-- 2.1.00.1. Past VA Appointments (limited to past 2 years)
-- 2.1.00.2. All of the Above
--
-##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
-
-- 2.1.01.0. VA Medication History
-- 2.1.01.1. Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
-- 2.1.01.2. All of the Above
-
-##### 2.1.02. `[heading]` Labs and Tests
-
-- 2.1.02.0 VA Laboratory Results
-- 2.1.02.1 VA Pathology Reports
-- 2.1.02.2 VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
-- 2.1.02.3
-
-##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
-
-##### 2.1.04 `[heading]` Allergies
-
-##### 2.1.05 `[heading]` Immunizations
-
-##### 2.1.06 `[heading]` Vitals and Readings
-
-##### 2.1.07 `[heading]` Self-Reported Health History *Note: Self-reported data will not be included in the MVP*
-
-##### 2.1.08 `[heading]` Food and Activity Journals *Note: Self-reported data will not be included in the MVP*
-
-##### 2.1.09 `[heading]` Goals
-
-##### 2.1.10 `[heading]` Demographics and Health Insurance
-
-##### 2.1.11 `[heading]` Department of Defense Information
-
-### Form Controls
-- `[button]` Submit
-- `[button]` Reset
-- `[button]` Cancel
-
-
-
-### 1. VA My Health Summary generation page
-This page provides the ability for the user to generate a My VA Health Summary Report consisting of pre-determined data.
-
-
-
-
-
-
 ## Relevant links
 [Downloadable Reports decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/downloadable-reports/decision-log.md)
 
@@ -148,16 +53,107 @@ What do people want to use their downloadable reports for?
 Any edge cases for downloadable reports?
 
 ## UX considerations
+- In the MyHealth*e*Vet site, the links for reports falls under Personal Information, which is not particularly intuitive.  In the new experience, these reports will be located within Medical Records as they are a form of medical record.
 
 ### When to show the downloadable reports section
 - When a user with VA health care is logged in with an valid credential for MHV
 
 **Where do downloadable reports fit within IA?**
-- 
+- In the MyHealth*e*Vet site, the links for reports falls under the Personal Information grouping, which is not particularly intuitive.  In the new experience, the current plan is to include reports within the Medical Records grouping as they are a form of medical record.
+
+## Downloadable reports pages
+This document describes the pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and a more comprehensive report currently referred to as a *VA Blue Button Report*, which can be customized to include or exclude certain pieces of health information.
+
+### 1. Downloadable Reports Landing Page
+This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
+
+#### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
+MyHealtheVet provides four primary links in the left navigation:
+- VA Blue Button Report
+- VA Health Summary
+- VA Medical Images and Reports 
+- Electronic Record Sharing Options
+
+The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by card sorting exercises and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
+
+Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
+
+In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
+
+### 2. Blue Button Report generation page
+This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls used on MyHealth*e*Vet.
+
+#### `H1` Download My Selected Data
+
+- `[info icon]` `[linked text]` VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
+- `[info icon]` `[linked text]` Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
+- `[info icon]` `[linked text]` Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
+
+#### 2.0. `[Step 1 indicator]` `[heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
+
+- 2.0.0 `[heading]` Date Range
+  - `[radio]` 3 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
+  - `[radio]` 6 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 6 months from current date.*
+  - `[radio]` 1 Year *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
+  - `[radio]` Custom *Note - Selecting this option means that the user needs to then manually select start and end dates (2.0.1 and 2.0.2), but there are no instructions to indicate this, such as "(Select desired start and end dates below)".*
+- 2.0.1 `[date picker]` Start Date
+- 2.0.2 `[date picker]` End Date
+
+#### 2.1.`[Step 2 indicator]` `[heading]` Select Types of Information [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
+`[text]` Information that you have entered into My HealtheVet is labeled as 'Self-Reported'. Information from the VA Electronic Health Record is labeled as 'VA'.
+- 2.1.0. `[radio]` Select types of information to include
+- 2.1.1. `[radio]` All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
+
+##### 2.1.00. `[heading]` Appointments
+
+- 2.1.00.0. `[checkbox`  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.1. Past VA Appointments (limited to past 2 years)
+- 2.1.00.2. All of the Above
+-
+##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
+
+- 2.1.01.0. VA Medication History
+- 2.1.01.1. Medication and Supplements, Self-Reported  *Note: Self-reported data will not be included in the MVP*
+- 2.1.01.2. All of the Above
+
+##### 2.1.02. `[heading]` Labs and Tests
+
+- 2.1.02.0 VA Laboratory Results
+- 2.1.02.1 VA Pathology Reports
+- 2.1.02.2 VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
+- 2.1.02.3
+
+##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
+
+##### 2.1.04 `[heading]` Allergies
+
+##### 2.1.05 `[heading]` Immunizations
+
+##### 2.1.06 `[heading]` Vitals and Readings
+
+##### 2.1.07 `[heading]` Self-Reported Health History *Note: Self-reported data will not be included in the MVP*
+
+##### 2.1.08 `[heading]` Food and Activity Journals *Note: Self-reported data will not be included in the MVP*
+
+##### 2.1.09 `[heading]` Goals
+
+##### 2.1.10 `[heading]` Demographics and Health Insurance
+
+##### 2.1.11 `[heading]` Department of Defense Information
+
+### Form Controls
+- `[button]` Submit
+- `[button]` Reset
+- `[button]` Cancel
 
 
-### How to show downloadable reports section
-- What should the screen look like? What information should be seen? What should be hidden? 
+
+### 3. VA My Health Summary generation page
+This page provides the ability for the user to generate a My VA Health Summary Report consisting of pre-determined data.
+
+
+
+
 
 
 
