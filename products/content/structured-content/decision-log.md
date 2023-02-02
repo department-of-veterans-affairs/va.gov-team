@@ -40,21 +40,21 @@ Agenda:
 **MVP hypothesis:** "How to apply" content within Benefit Hubs. 
 - Sometimes HtA is its own Benefit Detail page, sometimes it's a section within another page
 - Has a few structured fields that jump out: 
-  - Ways to apply: in-person, phone, online, mail/PDF, etc
-  - Evidence or documents that may be required for application
-  - Seems less blobby than other options; e.g., Eligibility had this problem, where the MVP version would be a large blob that's difficult to get started structuring
+- Seems less blobby than other options; e.g., Eligibility had this problem, where the MVP version would be a large blob that's difficult to get started structuring
 
-MVP fields
+MVP fields (starter list)
 - Each Benefit will have at least one Category; these may or may not correspond to existing Hub names
 - Beneficiaries will be a blob for now; i.e., don't try to facet with "Depdendent" and "Surviving" as separate fields
   - We expect discoveries about possible structure to emerge as SW Content team builds benefit content, writes "beneficiary" blobs
 - Legislation related to benefit, e.g. PACT Act, Mission Act. Can be multiple per benefit.
   - Useful for managing content efforts when legislation spins up or winds down, can also be useful for Veterans.
   - Has potential to apply to multiple content types down the road.
+- Ways to apply: in-person, phone, online, mail/PDF, etc
+- Evidence or documents that may be required for application
 
 Future / fast-follow considerations
 - Parts of speech differences for different channels – e.g., some channels talk about VA as "we," vs. some talk about VA in third person. We determined that MVP will not know about these things and anticipate that channels can use language to insulate content model from verb/voice.
-- Pre-requisite benefit is not mvp
+- Pre-requisite benefit field
 
 Process and next steps:
 - PW will audit Benefit Detail pages for "How to apply" content; SWC will review and help synthesize for implications for MVP design
