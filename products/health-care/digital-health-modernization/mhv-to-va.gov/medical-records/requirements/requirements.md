@@ -35,7 +35,7 @@
 **List view**
 - On the top of the list, a user should know when their labs and tests result will be available. 
 - All results/reports should be grouped into the categories above (lab results, pathology reports, and so on), and each category should have one or two sentences of explainations on what each category is.
-- Each entry should include:
+- Each entry under each category should include:
   - Title of the lab result or report
   - Date for when the result or report came out 
   - Provider's name 
@@ -55,6 +55,9 @@
     - Clinical history 
     - Radiologist 
     - Report
+- Actions
+  - A user should be able to print or download all results/reports and individual result/report as either a PDF or TXT file.
+  - Lab results and reports can be very long. It will be hard to scroll and view on mobile. A user should be able to skip over information they don't want to read or expand information they want to read more about. Viewing experience needs to be flexible, but it might not be something we should focus on in phase 0.  
 
 ## Notes
 **Notes includes** 
@@ -92,7 +95,7 @@
 ## Health Issues
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title  the date/time it was entered. and the status of the issue (e.g. active/inactive)
+  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
   - A user should be able to sort their health issues
     - Chronologically based on initially entered date
     - Alphabetically by issue
