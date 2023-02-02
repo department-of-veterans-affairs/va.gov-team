@@ -2,13 +2,11 @@
 
 Scrum ceremony that allows the Team to discuss and commit to the Sprint Backlog. This meeting is attended by the PM, UX team, Engineering, and QA
 
-
-Who: Red Team (Health)
+Who: Red Team(Health)
 When: Bi-weekly Tuesday (Last day of Sprint); Time: 1-1:45 ET
 
 
-
-Who: Blue Team (Global & Benefits)
+Who: Blue Team(Global & Benefits)
 When: Bi-weekly Tuesday (Last day of Sprint; Time 2-3:00 ET
 
 Sprint Planning Review deck used: Review Sprint Objectives
