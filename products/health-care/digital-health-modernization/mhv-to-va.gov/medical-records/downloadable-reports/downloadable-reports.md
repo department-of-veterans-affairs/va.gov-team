@@ -27,7 +27,8 @@ In summary, a downloadable reports landing page need only provide links to VA Bl
 ### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented
 
-#### 2.0. `Step 1 indicator` Select Date Range | screen shot from MHV
+#### 2.0. `Step 1 indicator` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png)
+
 - 2.0.0 `[header]`Date Range
   - `[radio]` 3 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
   - `[radio]` 6 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 6 months from current date.*
