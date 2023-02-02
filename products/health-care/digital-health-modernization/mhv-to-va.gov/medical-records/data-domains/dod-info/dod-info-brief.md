@@ -25,23 +25,28 @@ DOD has 9 sections with several fields in each section.  The 9 sections are bold
 - End Date
 - Character of Service
 - Rank
+
 **Reserve/Guard Association Periods**
 - Service
 - Begin Date
 - End Date
 - Character of Service
 - Rank
+
+
 **Reserve/Guard Activation Periods**
 - Service
 - Begin Date
 - End Date
 - Activated Under (Title 10, 32, etc.)
+
 **Deployment Periods**
 - Service
 - Begin Date
 - End Date
 - Conflict
 - Location
+
 **DoD MOS/Occupation Codes**
 - Service
 - Begin Date
@@ -49,23 +54,27 @@ DOD has 9 sections with several fields in each section.  The 9 sections are bold
 - Type
 - Service Occupation Code
 - DoD Occupation Code
+
 **Military/Combat Pay Details**
 - Service
 - Begin Date
 - End Date
 - Military Pay Type
 - Location
+
 **Separation Pay Details**
 - Service
 - Begin Date
 - End Date
 - Separation Pay Type
+
 **Retirement Periods**
 - Service
 - Begin Date
 - End Date
 - Retirement Type
 - Rank
+
 **DoD Retirement Pay**
 - Service
 - Begin Date
