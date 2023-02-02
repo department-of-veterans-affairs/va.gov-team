@@ -115,19 +115,33 @@ This page provides the ability for the user to generate a My VA Health Summary R
 
 [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
 
-
-
 ## Use Cases
 
 Things to think about that inform use cases: 
-- Vital sign data are produced regularly - it is important to show data points over time in the MVP version
-- Veterans and Caregivers might think to conceptualize some vital signs as a lab/test rather than a vital sign
+- Privacy
+  - VA Health Summary and Blue Button Report contain private data protected by federal privacy protections.
+  - Users need to be aware that once they choose to save, print, download, or share their VA Health Summary data with a non-VA provider, it may no longer be protected by federal privacy protections.
+  - Users need to be made aware that it is their responsibility to keep their health data safe once they download, print, or save it.
+  - The data for the VA Health Summary report is derived from My HealtheVet eVault
+  - The 
+- Data Timeliness
+  - The Blue Button Report selection/generation page displays several notices related to the timeliness of the data.  Some test data and VA Electronic Health Record data is only available after 36 hours, whereas Covid-19 test results are available immediately.
+  - VA Health Summary Data may only be updated once every 24 hours.  This is currently achieved via an update button on the My VA Health Summary generation page.
+- Related Content
+  - The Blue Button Report generation page on MyHealtheVet links to a 16-page user guide in PDF format.  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
+  - The Blue Button Report generation pages links to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports and links to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) and [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) that have content related to Blue Button Reports.
+- VA Health Summary
+  - 
 
 **Common Use Cases**
 
 What do people want to use their downloadable reports for? 
-- To view current and/or past vital signs - either to monitor current status or compare vital signs across time points
-- To share past vital signs with HCPs to ensure HCP understands their health 
+- To view current and/or past health information
+- To share health informaton with HCPs to ensure HCP understands their health history
+- To keep their own hard copy of their health information
+- To save their own digital copy of their health information
+- To take a digital copy of their health information to a HCP on a thumb drive or other storage device
+- To send a digital copy securely to a HCP via a Direct Address using VHIE (Veterans Health Information Exchange)
 
 **Edge Cases**
 
@@ -136,10 +150,10 @@ Any edge cases for downloadable reports?
 ## UX considerations
 
 ### When to show the downloadable reports section
-
+- When a user with VA health care is logged in with an valid credential for MHV
 
 **Where do downloadable reports fit within IA?**
-
+- 
 
 
 ### How to show downloadable reports section
