@@ -102,5 +102,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Perigean
 - Project point of contact: Florence McCafferty
 - Participant(s) for pilot test: Josh Mills, jmills@kindsys.us
-- Note-takers: Perigean
+- Note-takers: Zoom transcription (no note-taker)
 - Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Angela Agosto (angela.agosto@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
