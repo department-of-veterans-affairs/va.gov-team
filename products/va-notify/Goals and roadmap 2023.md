@@ -10,6 +10,10 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 
 ## 500 foot view: VA Notify team goals
 
+### VEText Migration Wrap-up
+
+As we close out our VEText migration, we need a way to get status updates and callbacks from Twilio.
+
 ### Launch Comp & Pen Payment notifications
 
 As we wrap up Phase 1 of the VEText migration, we have some room to re-engage with the BIA team to resume work.  
@@ -21,10 +25,6 @@ As we partner with the authenticated experience team, we have the opportunity to
 ### Promote templates from Staging to Prod
 
 We know from our customers that copy template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
-
-### Status and Callbacks for Twilio
-
-As we close out our VEText migration, we need a way to get status updates and callbacks from Twilio.
 
 ### Support MHV on VA.gov Portal
 
@@ -38,25 +38,37 @@ VA Profile is in the process of adding a flag to the Veteran contact info to det
 
 ### Notify Team
 
-#### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
+#### Twilio Status Integration 
 
-**OCTO objective**: Enhance Veterans' personalized online experience
+**OCTO objective**: Not tied to an OCTO objective
 
-This work is carrying over from Q4 CY2022. We are making some major improvements to UX and accessibility on My VA by making it so all sections show all the time, improving consistency, and removing some overly-nuanced personalization that made the page more complex without adding enough value.
+This work is carrying over from Q3/Q4 CY2022.
  
-**Expected launch date**: Late March/Early April 2023.
+**Expected launch date**: 
 
-#### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
+#### Franchise Fund Billing Reports
 
-**OCTO objective**: Enhance Veterans' personalized online experience
+**OCTO objective**: Not tied to an OCTO objective
 
-The onsite notifications MVP launched in October 2022, and we are now ready to scale this feature. While we're still scoping this work, we'll likely tackle overall governance and adding at least 1 new notification.
 
-**Expected launch date**: We are still scoping this work, so launches will depend on final scope. I'd at least like us to launch something in the first three months of the year, even if that means dividing this work into phases that extend beyond Q1.
 
-#### Update claims section so it points to Lighthouse integration
+**Expected launch date**: 
 
-Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away, and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
+#### Restart Compensation and Pension Payment Notification Work
+
+
+**OCTO objective**: Not tied to an OCTO objective
+
+#### Performance, Monitoring and Security 
+To keep our platform performing at it's best, we plan to execute the following:
+* Datadog Application Performance Monitoring (APM)
+* Other monitoring Enhancements
+* Platform Upgrades (Flask, Celery, etc.)
+* Microservices for Push Notifications
+
+**OCTO objective**: Not tied to an OCTO objective
+
+**Expected launch date**:
 
 ### Strike team
 
