@@ -93,16 +93,24 @@ Because each category of the labs and tests is different, details view for each 
     - Performing location
     - Date completed 
     - Report 
-  - EKG (historical exam dates) 
-  *BB no longer updates EKG, needs to figure out where we can find the full report
+  - EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
     - Procedure/test name 
     - Date/time performed
     - Ordering location
 
-- Actions
-  - A user should be able to print or download all results/reports and individual result/report as either a PDF or TXT file.
-  - Lab results and reports can be very long. It will be hard to scroll and view on mobile. A user should be able to skip over information they don't want to read or expand information they want to read more about. Viewing experience needs to be flexible, but it might not be something we focus on in phase 0. 
-  - For lab results, because there is reference range, a user should be able to easily see when their lab result fall above or below the normal range.
+  - A user should be able to print or download a result/report as either a PDF or TXT file.
+  - When a lab results includes multiple tests, such as a CMP, the tests should be presented as accordions, with one test result per accordion.
+  - If a result does no include mutliple tests, the results should be laid out flat on the page.
+  - When there is reference range included, a user should be able to easily see when their lab result falls above or below the normal range.
+
+**Not for first iteration, requires future usability research**
+  - A user should be able to sort their results in different ways
+    - Chronologically
+    - By location, chronologically
+    - By ordering phyiscian, chronologically
+    - By type, alphabetically
+  - A user should be able filter to find what they are looking for.
+    - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
 
 ## Notes
 **Notes includes** 
@@ -124,7 +132,7 @@ Because each category of the labs and tests is different, details view for each 
   - Where possible and clinically permissable, transform text to make a note easier to read.
   - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
 
- **Not for Phase 0, requires future usability research**
+ **Not for first iteration, requires future usability research**
     
   - A user should be able to sort their notes in different ways
     - Chronologically
