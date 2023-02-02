@@ -88,15 +88,33 @@ Because each category of the labs and tests is different, details view for each 
     - Collected location
   - Pathology reports (surgical pathology) 
     - Type of report (surgical pathology/cytology) 
-    - Specimen 
-    - Date obtained
+    - Date collected
+    - Date completed (not always present) 
+    - Report
+    - Specimen
     - Performing location
-    - Date completed 
-    - Report 
-  - EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
-    - Procedure/test name 
-    - Date/time performed
+  - VA Medical Images and Reports
+    - Type (Radiology)
+    - Lab procedure and test (aka name)
+    - Date exam performed
+    - Reason for study
+    - Report
+    - Requesting provider
+    - Ordering provider
     - Ordering location
+    - Performing location
+    - Clinical history (not always present)
+    - Radiology (not always present)
+  - EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
+    - Type (EKG)
+    - Lab procedure and test (aka name)    
+    - Test date
+    - Reason for study
+    - Report
+    - Requesting provider
+    - Ordering provider
+    - Ordering location
+    - Performing location
 
   - A user should be able to print or download a result/report as either a PDF or TXT file.
   - When a lab results includes multiple tests, such as a CMP, the tests should be presented as accordions, with one test result per accordion.
