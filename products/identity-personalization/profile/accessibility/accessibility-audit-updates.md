@@ -1,6 +1,6 @@
 # Accessibility audit & updates
 
-**Last updated: January 10, 2023**
+**Last updated: February 2, 2023**
 
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
 
@@ -139,9 +139,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on 
 
 #### Personal information
-**Status**: Partially complete
-- [X] Design completed in [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
-- [ ] FE work scheduled [#49651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)
+**Status**: Work completed in [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266) and [#49651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)
 -   **Next steps:** Needs ticket, a11y defect level, team grooming
 	-   *Shared Support - a11y defect level suggestion*: `508-defect-3`
 	-   Ticket Created [#47266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47266)
@@ -155,9 +153,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 
 #### Account Security
 
-**Status**: Partially complete
-- [X] Design completed in [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299)
-- [ ] FE work in backlog [#51085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)
+**Status**: Work completed in [#47299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47299) and [#51085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)
 -   If navigating by heading, it's easy to skip all main fields
 -   Headings can be changed to improve this page
 -   **Recommendations:**
