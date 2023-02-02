@@ -1,7 +1,7 @@
-# My VA Saved Applications Frontend Documentation
-Last updated: October 26, 2022
+# My VA Benefit Application Drafts Frontend Documentation
+Last updated: February 2, 2023
 
-## When to show the ‘Saved applications’ section
+## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.
 
 ## UX Specs
@@ -22,8 +22,8 @@ We show this section for every LOA3 user.
 
 **Positioning**
 
-- This dropdown appears directly below the "Saved applications" header, above any saved application cards or text stating that the user does not have any saved applications.
-- When the dropdown is expanded, any saved applications or text stating that the user does not have any saved applications is pushed down below the expanded menu as shown in the mockups linked above.
+- This dropdown appears directly below the "Benefit application drafts" header, above any saved application cards or text stating that the user does not have any applications to show.
+- When the dropdown is expanded, any application draft cards or text stating that the user does not have any application drafts to show is pushed down below the expanded menu as shown in the mockups linked above.
 
 #### **Content**
 *Closed state:*
@@ -48,7 +48,7 @@ What benefits does VA offer?
 
 ---
 
-### Saved application card
+### Benefit application draft card
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
 
@@ -58,7 +58,7 @@ What benefits does VA offer?
 
 **Do NOT show card**
 
-- If a user does not have any saved benefit applications that they have not yet submitted.
+- If a user does not have any benefit applications that they have not yet submitted.
 
 **Visual specs**
 
@@ -78,18 +78,18 @@ Continue your application (linked to saved application)
 
 #### **Content specs**
 
-- The data for the saved applications card is gathered from the same API call as the main user call.
+- The data for the benefit application draft card is gathered from the same API call as the main user call.
 
 ---
 
-### If a user does not have any applications in progress to show
+### If a user does not have any benefit application drafts to show
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/10A09E21-70D7-4606-9E8A-1EBB31AE8EC9)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C7F1D33D-5400-41CE-8F6D-78F43105AE91)
 
 #### **Content**
 
-You have no saved applications to show.
+You have no benefit application drafts to show.
 
 **Positioning**
 
