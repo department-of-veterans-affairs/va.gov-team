@@ -8,6 +8,8 @@
 
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/conversation-guide.md)
+
 ### OCTO Objectives 
 This research supports the following 2023 OCTO objectives:
 - Enhance Veterans’ personalized online experience
