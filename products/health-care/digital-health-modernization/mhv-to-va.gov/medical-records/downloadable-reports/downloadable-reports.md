@@ -152,8 +152,9 @@ Any edge cases for downloadable reports?
 
 ### Accessibility considerations:
 
-_Accessibility considerations specific to downloadable reports:_
+[MyHealtheVet Section 508 Audit Report, August 2022]
 
+[MyHealth*e*Vet (MHV) Heuristic Accessibility Evaluation, November 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/audits/2022-11-MHV/MHV-Heuristic-A11y-Audit_Evaluation-Summary.md)
 
 ### Research that relates to downloadable reports
 
