@@ -9,7 +9,7 @@ To serve as a source of truth around data field requirements and specifications,
 This document describes pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and what is currently referred to as a *VA Blue Button Report*, a more detailed and extensive medical report that can be customized to include or exclude certain pieces of health information.
 
 ### 1. Downloadable Reports Landing Page
-This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options
+This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
 
 #### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
 MyHealtheVet provides four primary links in the left navigation:
@@ -25,7 +25,7 @@ Electronic Record Sharing Options is a way to opt in or out of sharing one's ele
 In summary, a downloadable reports landing page need only provide links to VA Blue Button Report and VA Health Summary report pages.
 
 ### 2. Blue Button Report generation page
-This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented
+This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls used on MyHealth*e*Vet.
 
 #### `H1` Download My Selected Data
 
