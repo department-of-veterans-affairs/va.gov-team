@@ -37,42 +37,33 @@ We have a hypothesis that self-service works well for simplified or automated us
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. However, it's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
 
-**1. We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.**
+3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
-2. **However, it's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.** 
+4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down.
 
-3. **Veterans responded positively to the idea of connecting with a VSO or other representative via the website.** 
+5. Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
 
-4. **The main pain point in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down.**
-
-5. **Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades.** 
-
-6. **Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.**
+6. Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
+### We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs
 
+Many of the Veterans we talked to had positive things to say about their experience working with a Veteran Service Organization (VSO). Some expressed that they didn't believe they would have been able to get benefits at all without the help of a VSO. There are many types of VSOs, but some of the ones we commonly heard about were Veterans of Foreign Wars (VFW) and Disabled American Veterans (DAV).    
 
-**Finding 1**
+> "Doing it on my own, I don't know how I would have gotten through all that." - P7
 
-Labels: label 1, label 2 
+> "You're always wise to take counsel and go with people who do this for a living." - P9
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
 **Finding 2**
