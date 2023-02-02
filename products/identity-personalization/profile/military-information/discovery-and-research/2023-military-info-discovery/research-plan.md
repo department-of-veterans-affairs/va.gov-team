@@ -74,12 +74,12 @@ Answers (users can multi-select):
 ## Timeline
 
 ### Prepare
-Research plan and conversation guide will be completed by Wednesday, February 1.
+Research plan and conversation guide will be completed by Monday, February 6.
 * Pilot participant email: jmills@kindsys.us
-* Date and time of pilot session: Thursday, February 2 at 1 pm eastern time.
+* Date and time of pilot session: Monday, February 6 at 3:30 pm eastern time.
 
 ### Research sessions
-* Planned dates of research: February 7-16
+* Planned dates of research: February 14-22, 2023
 
 ### Length of sessions
 * Session length: 1 hour
@@ -88,11 +88,12 @@ Research plan and conversation guide will be completed by Wednesday, February 1.
 
 ### Availability
 All times are in eastern time:
-- February 7, 8am-4:30pm
-- February 8, 8am-4pm
-- February 14, 8am-4:30pm
-- February 15, 8am-4pm
-- February 16, 9am-6:30pm
+- February 14, 11am-4:30pm
+- February 15, 8am-3pm
+- February 16, 9am-7pm
+- February 17, 8am-3pm
+- February 21, 10am-4:30pm
+- February 22, 8am-3pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -102,4 +103,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Florence McCafferty
 - Participant(s) for pilot test: Josh Mills, jmills@kindsys.us
 - Note-takers: Perigean
-- Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
+- Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Angela Agosto (angela.agosto@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
