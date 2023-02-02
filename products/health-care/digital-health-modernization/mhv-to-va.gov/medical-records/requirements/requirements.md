@@ -75,7 +75,8 @@
 
 - Actions
   - A user should be able to print or download all results/reports and individual result/report as either a PDF or TXT file.
-  - Lab results and reports can be very long. It will be hard to scroll and view on mobile. A user should be able to skip over information they don't want to read or expand information they want to read more about. Viewing experience needs to be flexible, but it might not be something we should focus on in phase 0.  
+  - Lab results and reports can be very long. It will be hard to scroll and view on mobile. A user should be able to skip over information they don't want to read or expand information they want to read more about. Viewing experience needs to be flexible, but it might not be something we focus on in phase 0. 
+  - For lab results, because there is reference range, a user should be able to easily see when their lab result fall above or below the normal range.
 
 ## Notes
 **Notes includes** 
