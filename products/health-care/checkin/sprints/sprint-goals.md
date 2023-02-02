@@ -35,6 +35,7 @@ ________________________________________________________________________________
       - [Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)
 - CIE Tech Debt
    - **GOAL: Complete as many as fits in the sprint**
+      - [[FE] Surface initiate (pre-)checkin errors to end user](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52973)
 
 
 ************** END FUTURE 2/8/2023 - 2/21/2023 ************************
