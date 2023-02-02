@@ -55,6 +55,24 @@
     - Clinical history 
     - Radiologist 
     - Report
+  - Lab results
+    - Lab test name
+    - Lab type (chemistry/hematology)
+    - Ordering provider
+    - Ordering location
+    - Specimen
+    - Date/time collected
+    - Collected Location
+    - Test name
+    - Result
+    - Units
+    - Reference range
+    - Status
+    - Performing location
+    - Interpretation
+    - Comments
+    - Performing location name/address
+
 - Actions
   - A user should be able to print or download all results/reports and individual result/report as either a PDF or TXT file.
   - Lab results and reports can be very long. It will be hard to scroll and view on mobile. A user should be able to skip over information they don't want to read or expand information they want to read more about. Viewing experience needs to be flexible, but it might not be something we should focus on in phase 0.  
