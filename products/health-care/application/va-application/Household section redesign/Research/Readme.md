@@ -1,1 +1,1 @@
-Store all research related to the Household Redesign in this folder.  (feel free to delete this Readme file, once there are other files in this folder)
+Research related documentation can be found in this [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section) (root in the main va-application folder)
