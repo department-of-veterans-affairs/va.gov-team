@@ -119,17 +119,18 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
-- **Feb 3**: 12-2:30 pm, 4-5 pm
-- **Feb 6**: 12-1 pm, 4:30-5:30 pm
-- **Feb 7**: 12-5 pm
+- **Feb 13**: 2-5 pm
+- **Feb 14**: 12-1:30 pm
+- **Feb 15**: 12-1, 3-5 pm
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
-- Pilot 1: **Feb 8/9/10 at X pm ET** with person (email address)
-- Pilot 2: **Feb 8/9/10 at X pm ET** with person (email address)
+I will schedule two **pilot tests** during Feb 15-22.
+- Pilot 1: **Feb TBD at X pm ET** with person (email address)
+- Pilot 2: **Feb TBD at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Feb 17-27, 2023** 
+* Planned dates of research: **Feb 27 - Mar 3, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -142,12 +143,11 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Feb 17, 2023 | 12-1, 2-3, 5-6, 7-8 pm (backup)
-Feb 21, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 22, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 23, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 24, 2023 | 12-1, 2-3, 5-6 pm (preferred)
-Feb 27, 2023 | 12-1 pm (backup)
+Feb 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Feb 28, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 1, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
