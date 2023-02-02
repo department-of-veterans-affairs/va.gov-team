@@ -8,3 +8,5 @@
 #### Notes
 - 5/31/2022 - Uploaded VEO-approved version of the 10-10 EZ Product Guide, which includes the changes for the Short Form flows.
      - **Note**: this version does not include any SIGI or American Indian updates.
+     - The Indian health question is in production, however there is a pending decision from Member Services on possibly removing it from the online and paper form.  
+          - We are pending that update from the HEC Stakeholders
