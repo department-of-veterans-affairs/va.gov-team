@@ -48,7 +48,7 @@ Use font awesome icon `clipboard-list` for icon
 
 ### Check your Post-9/11 GI Bill benefits link
 
-![Screen Shot 2022-11-04 at 1 58 19 PM](https://user-images.githubusercontent.com/97965610/200045657-100bf820-7b40-42ed-b9bf-89ba71be2f65.png)
+![Screenshot 2023-02-02 at 12 50 35 PM](https://user-images.githubusercontent.com/97965610/216402825-7701c922-a4b9-43bb-82f5-dc404003a544.png)
 
 Use font awesome icon `dollar-sign` for icon
 
