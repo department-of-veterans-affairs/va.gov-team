@@ -55,7 +55,7 @@
     - Clinical history 
     - Radiologist 
     - Report
-  - Lab results
+  - Lab results (chemistry/hematology)
     - Lab test name
     - Lab type (chemistry/hematology)
     - Ordering provider
@@ -72,6 +72,30 @@
     - Interpretation
     - Comments
     - Performing location name/address
+  - Lab results (microbiology)
+    - Lab test
+    - Lab type (microbiology)
+    - Ordering provider
+    - Ordering location
+    - Site/specimen
+    - Performing location
+    - Collection sample
+    - Collectioned location
+    - Date/time collected
+    - Date/time completed
+    - Results
+  - Pathology reports (surgical pathology) 
+    - Type of report (surgical pathology/cytology) 
+    - Specimen 
+    - Date obtained
+    - Performing location
+    - Date completed 
+    - Report 
+  - EKG (historical exam dates) 
+  *BB no longer updates EKG, needs to figure out where we can find the full report
+    - Procedure/test name 
+    - Date/time performed
+    - Ordering location
 
 - Actions
   - A user should be able to print or download all results/reports and individual result/report as either a PDF or TXT file.
