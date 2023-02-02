@@ -41,23 +41,17 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-**1. Of the Veterans we spoke to who had used VSOs for their claims or decision reviews, (x/y) reported having a positive experience.**
+**1. We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.**
 
-The main things that VSOs did to help Veterans were:
-- 1. 
-- 2. 
-
-2. **It's clear, however, that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.** 
+2. **However, it's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.** 
 
 3. **Veterans responded positively to the idea of connecting with a VSO or other representative via the website.** 
 
-4. Finding four
+4. **The main pain point in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down.**
 
-5. Finding five
+5. **Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades.** 
 
-6. Finding six
-
-7. Finding seven
+6. **Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.**
 
 
 ## Details of Findings 
