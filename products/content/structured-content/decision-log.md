@@ -50,6 +50,7 @@ MVP fields (starter list)
   - Useful for managing content efforts when legislation spins up or winds down, can also be useful for Veterans.
   - Has potential to apply to multiple content types down the road.
 - Ways to apply: in-person, phone, online, mail/PDF, etc
+  - Details around specific ways – e.g., online form url
 - Evidence or documents that may be required for application
 
 Future / fast-follow considerations
