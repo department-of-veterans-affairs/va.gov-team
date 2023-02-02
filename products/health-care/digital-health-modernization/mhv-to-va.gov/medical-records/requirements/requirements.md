@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [General](#general)
-- [Immunizations](#immunizations)
-- [Labs and Tests](#labs-and-tests)
-- [Notes](#clinical-notes)
-- [Health Issues](#health-issues)
+- [Vaccines](#vaccines)
+- [Lab and test results](#lab-and-test-results)
+- [Notes and care summaries](#notes-and-care-summaries)
+- [Health conditions](#health-conditions)
 - [Vitals](#vitals)
 - [Allergies](#allergies)
 - [Demographics](#demographics)
@@ -18,7 +18,7 @@
 - Whenever a download option is provided, we must provide a file option other than PDF and XML since PDF and XML files are not accessible. The best option to satisfy this requirement is to provide a TXT file.
 - Labeling for the download needs to make it clear which type of file is being downloaded (PDF, TXT, or XML).
 
-## Immunizations
+## Vaccines
 
 ## Lab and test results
 **Includes** 
@@ -34,14 +34,13 @@
 
 **List view**
 - At the top of the page, a user should be able to quickly learn about the availability of lab and test results. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- A user should be able to see a list of all of their lab and test results, ordered chronologically by date collected. 
 - Each should include:
   - Category (e.g. Pathology, Microbiology, etc)
   - Title of the lab result or report (if available)
   - Date collected
   - Ordering provider
-- Actions
-  - A user should be able to see a list of all of labs and tests, ordered chronologically.
-  - A user should be able to click into each entry to get more details.
+- A user should be able to click into each entry to get more details.
   
 **Details view**
 - Because each category of the labs and tests is different, details view for each entry will also vary. 
