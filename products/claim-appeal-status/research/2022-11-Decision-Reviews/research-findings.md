@@ -32,14 +32,14 @@ We suspect that Veterans might not fully trust the VA to appoint a representativ
 
 We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
-- **Maybe.** This probably needs further research. We didn't test these use cases explicitly in this study. We did confirm with the research that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence. "Presumptive" cases like those enabled by the PACT Act would likely help make the self-service use case more appealing for these types of claims, but it needs further research.
+- **Maybe.** This needs further research to verify. We didn't test these use cases explicitly in this study. We did confirm that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence. "Presumptive" cases like those enabled by the PACT Act would likely help make the self-service use case more appealing for these types of claims, but it needs further research.
 
 
 ## Key Findings
 
 1. We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
 
-2. However, it's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
+2. It's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
 
 3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
@@ -55,7 +55,7 @@ We have a hypothesis that self-service works well for simplified or automated us
 
 ### We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
 
-Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs
 
 Many of the Veterans we talked to had positive things to say about their experience working with a Veteran Service Organization (VSO). Some expressed that they didn't believe they would have been able to get benefits at all without the help of a VSO. There are many types of VSOs, but some of the ones we commonly heard about were Veterans of Foreign Wars (VFW) and Disabled American Veterans (DAV).    
 
@@ -66,17 +66,19 @@ Many of the Veterans we talked to had positive things to say about their experie
 > "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
-**Finding 2**
+### It's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.
 
-Labels: label 1, label 2 
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+We talked to many Veterans who had gone to several different VSOs before finding one that worked for them. A smaller number of Veterans gave up on VSOs after a bad experience, and decided to go it alone or hire a lawyer specializing in VA claims to help them. 
 
-Brief description
+> "The VSOs are overwhelmed, especially with the PCT Act, these guys just get swamped." - P3
 
-> _Supporting data: Quote here_
+> "The state VSOs we have here are hit and miss." - P12
 
-> _Supporting data: Quote here_
+> "Some (VSOs) are good, some are bad." - P19
+
+> P6: Tried to connect with VSO and there was a huge backlog and couldn't connect from 1996-2011. He even worked at a VSO (VFW) but was still unable to get help filing a claim due to the backlog. 
 
 
 **Finding 3**
