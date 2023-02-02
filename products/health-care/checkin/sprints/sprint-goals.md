@@ -39,6 +39,8 @@ ________________________________________________________________________________
       - [[UX] Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52058)
       - [[UX] Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52060)
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
+   - **GOAL: Release to Production**
+      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Start to create wireframes for Option 2 options**   
       - ?????
