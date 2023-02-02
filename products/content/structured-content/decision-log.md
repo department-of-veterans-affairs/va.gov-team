@@ -20,6 +20,49 @@ Public websites epic covering content design and general discovery for this work
 
 ## Decision log
 
+### 2/2/23 MVP Workshop
+
+Sitewide Content (SWC) - Danielle Thierry and Randi Hecht
+Public Websites – Dave Pickett (content strategy/design), Wes Rowe (PM), Jill Adams (DM)
+VA PO – Dave Conlon
+
+Resources:
+- Link to the Airtable - https://airtable.com/invite/l?inviteId=invOnjHhGJyDe5VWI&inviteToken=66aa9d3dd492b6f1e7f1e36d8968b2a914b9c9e7b97e1cc7e867abd338eee47a
+- Link to the Mural - https://app.mural.co/t/vagov6717/m/vagov6717/1660845137501/6eadf59a3f4d8dcd29da572a68115a22d6114fe4?sender=u20829d1b64855e281dde2585
+- For those unable to directly manipulate the Airtable because of VA network restrictions, I exported the tables to csv and quickly combined them into an Excel. The fields won't be interlinked, but it gives access to the data -
+https://github.com/department-of-veterans-affairs/va.gov-cms/files/10564545/Benefit.Content.Model.export.20230201.xlsx
+
+Agenda:
+- Review Dave P's content anlysis and audit work in Airtable
+- Hypothesize MVP scope
+- Review approximate schedule and sequence of activities to reach MVP development
+
+**MVP hypothesis:** "How to apply" content within Benefit Hubs. 
+- Sometimes HtA is its own Benefit Detail page, sometimes it's a section within another page
+- Has a few structured fields that jump out: 
+  - Ways to apply: in-person, phone, online, mail/PDF, etc
+  - Evidence or documents that may be required for application
+  - Seems less blobby than other options; e.g., Eligibility had this problem, where the MVP version would be a large blob that's difficult to get started structuring
+
+MVP fields
+- Each Benefit will have at least one Category; these may or may not correspond to existing Hub names
+- Beneficiaries will be a blob for now; i.e., don't try to facet with "Depdendent" and "Surviving" as separate fields
+  - We expect discoveries about possible structure to emerge as SW Content team builds benefit content, writes "beneficiary" blobs
+- Legislation related to benefit, e.g. PACT Act, Mission Act. Can be multiple per benefit.
+  - Useful for managing content efforts when legislation spins up or winds down, can also be useful for Veterans.
+  - Has potential to apply to multiple content types down the road.
+
+Future / fast-follow considerations
+- Parts of speech differences for different channels – e.g., some channels talk about VA as "we," vs. some talk about VA in third person. We determined that MVP will not know about these things and anticipate that channels can use language to insulate content model from verb/voice.
+- Pre-requisite benefit is not mvp
+
+Process and next steps:
+- PW will audit Benefit Detail pages for "How to apply" content; SWC will review and help synthesize for implications for MVP design
+- PW will draft a blueprint for the Drupal implementation of MVP – entity relationship diagram or similar. Loop Christia T (PW) in with Steve Wirt. Define relationship models/fields, type of field: what’s a taxonomy / content type / field, min/max, required fields, etc.
+- Later: PW/SWC will audit other content types within our portfolio for opportunities for re-use of the MVP content model – specifically, Resources & Support, FAQs.
+  - E.g., adding a field to those content types indicating what Category(s) it relates to
+- Later: present MVP hypothesis (once it has settled) to Chatbot team to ensure it meets their MVP needs.
+
 ### 12/21/22 Workshop
 Danielle, Dave Conlon, Dave Pickett, Daniel Sasser, Wes
 
