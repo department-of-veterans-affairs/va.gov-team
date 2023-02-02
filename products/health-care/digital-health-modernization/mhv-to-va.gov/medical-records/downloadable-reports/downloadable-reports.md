@@ -38,7 +38,6 @@ Things to think about that inform use cases:
   - VA Health Summary Data may only be updated once every 24 hours.  This is currently achieved via an update button on the My VA Health Summary generation page.
 
 - User Guide and Related Content
-  - The Blue Button Report generation page on MyHealtheVet links to 
   - The Blue Button Report generation pages links to several pages and documents:
     -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
     -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
