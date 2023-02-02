@@ -46,7 +46,7 @@
  - The H1 of the details view should be the lab or test type. 
  - Where possible and clinically permissable, transform text to make a note easier to read.
  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
- - 
+
 Because each category of the labs and tests is different, details view for each entry will also vary. 
   - Radiology reports
     - Procedure/test name
