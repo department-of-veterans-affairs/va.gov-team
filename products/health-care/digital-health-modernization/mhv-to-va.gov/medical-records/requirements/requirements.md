@@ -112,8 +112,8 @@ Because each category of the labs and tests is different, details view for each 
   - A user should be able filter to find what they are looking for.
     - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
 
-## Notes
-**Notes includes** 
+## Notes and care summaries
+**Includes** 
   - VA notes
   - Admission & Discharge summaries 
   - After visit summaries
@@ -145,10 +145,10 @@ Because each category of the labs and tests is different, details view for each 
     - The search box can be collapsed to create real estate for the list view of notes. 
 
 
-## Health Issues
+## Health Conditions
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
+  - Each entry should include the issue/problem title, date/time entered, and the status of the issue (e.g. active/inactive)
   - A user should be able to sort their health issues
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -158,9 +158,9 @@ Because each category of the labs and tests is different, details view for each 
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
+    - Status
     - Provider's name
     - Location where the issue was entered
-    - Status
     - Comments
   
 <img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
