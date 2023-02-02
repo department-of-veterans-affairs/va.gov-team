@@ -33,7 +33,7 @@ As we partner with the authenticated experience team, we have the opportunity to
 ### Promote templates from Staging to Prod
 #### Theme(s): Self Service / Governance
 
-We know from our customers that copy template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
+We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
 
 ### Support MHV on VA.gov Portal
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
