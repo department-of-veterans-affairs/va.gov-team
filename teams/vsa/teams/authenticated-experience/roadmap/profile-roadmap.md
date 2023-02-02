@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Last updated: January 23, 2023**
+**Last updated: February 2, 2023**
 
 ## Current projects & enhancements
 
@@ -27,6 +27,7 @@ Quarters are by calendar year, not fiscal year.
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Account Security | Update designs to support 508 updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)|Launched February 2, 2023|
 |[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
 |[Add BVS status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
 |[Add DD214 link to military info page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48782)| November 22, 2022|
