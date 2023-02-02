@@ -22,13 +22,13 @@ To serve as a source of truth around data field requirements and specifications,
 
 
 ## User Guides and Related Content
-  - The Blue Button Report generation pages links to several pages and documents:
-    -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
-    -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
-    -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
-    -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
-    -  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
-    -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
+The Blue Button Report generation pages links to several pages and documents:
+-  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
+-  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
+-  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
+-  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
+-  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
+-  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
 
 ## Use Cases
