@@ -27,11 +27,16 @@ Things to think about that inform use cases:
   - VA Health Summary and Blue Button Report contain private data protected by federal privacy protections.
   - Users need to be aware that once they choose to save, print, download, or share their VA Health Summary data with a non-VA provider, it may no longer be protected by federal privacy protections.
   - Users need to be made aware that it is their responsibility to keep their health data safe once they download, print, or save it.
-  - The data for the VA Health Summary report is derived from My HealtheVet eVault
-  - The 
+
+- Data Sources
+  - Data for the VA Health Summary report is derived from My HealtheVet eVault
+  - Data for the Blue Button Report is derived from VistA. 
+  - The user owns their health data and is entitled to have access to it.
+
 - Data Timeliness
   - The Blue Button Report selection/generation page displays several notices related to the timeliness of the data.  Some test data and VA Electronic Health Record data is only available after 36 hours, whereas Covid-19 test results are available immediately.
   - VA Health Summary Data may only be updated once every 24 hours.  This is currently achieved via an update button on the My VA Health Summary generation page.
+
 - User Guide and Related Content
   - The Blue Button Report generation page on MyHealtheVet links to a 16-page user guide in PDF format.  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
   - The Blue Button Report generation pages links to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports and links to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) and [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) that have content related to Blue Button Reports.
