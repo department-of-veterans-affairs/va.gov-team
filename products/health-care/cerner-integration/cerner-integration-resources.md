@@ -39,14 +39,17 @@ MillenniumObjects is an older Cerner proprietary service, comprised of XML web s
 - List of MillenniumObjects APIs (list exported Dec 2022): [Millennium APIs](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/MillenniumObjects%20APIs.pdf?csf=1&web=1&e=ZaomgQ)
 
 
-## Additional Resources on VA.gov Github 
+## Additional Documentation from Dev Teams
 Additional GH links that have information about Cerner integration compiled by other teams
 
 - Public Websites: [/products/public-websites/Cerner-Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
 - Digital Health Modernization Engineering: [/products/health-care/digital-health-modernization/engineering/cerner-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering/cerner-research)
+- [CPM FHIR Writeback](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki/Developer-Resources#cerner-writeback-and-resources)
+- [Cerner Sandbox Login Information](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki/Cerner-Integration)
 
 ## Data Domains Resources
 
 |Data Domain|Links|
 |---|---|
 |Scheduling| - [Implementing Scheduling for FHIR](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/Implement%20Scheduling%20for%20FHIR-v114-20221208_100235.pdf?csf=1&web=1&e=InVlzJ) (Cerner Reference Page) |
+
