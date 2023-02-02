@@ -27,7 +27,13 @@ In summary, a downloadable reports landing page need only provide links to VA Bl
 ### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented
 
-#### 2.0. `Step 1 indicator` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png)
+#### 'H1' Download My Selected Data
+
+[`info icon`][`linked text`]VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
+[`info icon`][`linked text`]Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
+[`info icon`][`linked text`]Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
+
+#### 2.0. `[Step 1 indicator][heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png)
 
 - 2.0.0 `[header]`Date Range
   - `[radio]` 3 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
@@ -37,7 +43,7 @@ This page provides the user with options to control the information that is incl
 - 2.0.1 `[date picker]` Start Date
 - 2.0.2 `[date picker]` End Date
 
-#### 2.1.`Step 2 indicator` Select Types of Information 
+#### 2.1.`[Step 2 indicator][heading]` Select Types of Information 
 ['text'] Information that you have entered into My HealtheVet is labeled as 'Self-Reported'. Information from the VA Electronic Health Record is labeled as 'VA'.
 - 2.1.0. ['radio'] Select types of information to include
 - 2.1.1. ['radio'] All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
