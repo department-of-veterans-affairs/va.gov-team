@@ -39,7 +39,7 @@ This domain provides Veterans with a summary of the active health concerns conta
 9. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
 10. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
 
-## Demographics data fields
+## Health issues data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 **Data field title:** TBD.  Comparative systems use terms such as Health Issues or Health Conditions.
@@ -85,14 +85,14 @@ Below shows the list of Problem List fields available within each report.  The d
 
 ## UX considerations
 
-### When to show Health Problems section
+### When to show Health Issues section
 The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.  In MyHealth*e*Vet, users must also have a Premium account, but at the time of this writing, it is believed that the notion of Premium accounts is slated to be depricated.
 
-**Where do Health Problems fit within IA?**
+**Where do Health Issues fit within IA?**
 TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal, if technical feasible.  The download and print options should still be made available via the Blue Button report and VA Health Summary.
 
 
-### How to show Health Problems section
+### How to show Health Issues section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 
@@ -103,7 +103,7 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 ### Research that relates to Health Problems
 
 **Findings from card sort**
-- The card sort did not cover specifics about Health Problems.
+- The card sort did not cover specifics about Health Issues.
 
 ## Questions to answer
 
@@ -111,7 +111,7 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 
 
 **Business/ Engineering:** 
-1. What data source should be used to display the problem list on a web page?  The Blue Button data source or the VA Health Summary data source? 
+1. What data source should be used to display the Health Issues list on a web page?  The Blue Button data source or the VA Health Summary data source? 
 2. Is it still the case that Premium accounts will be depreciated before the new Health Portal launches? If so, what is the ETA for that?
 
 **Who do we need to get feedback from?**
