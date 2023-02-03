@@ -93,7 +93,7 @@ In summary, the downloadable reports landing page in the new experience need onl
 <br>
 
 ### 2. Blue Button Report generation page
-This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls used on MyHealth*e*Vet.
+This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls currently used on MyHealth*e*Vet.
 
 #### `H1` Download My Selected Data
 
@@ -118,15 +118,15 @@ This page provides the user with options to control the information that is incl
 
 ##### 2.1.00. `[heading]` Appointments
 
-- 2.1.00.0. `[checkbox]`  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.0. `[checkbox]` Future VA Appointments (may include Telephone, Video, In-Person Appointments)
 - 2.1.00.1. `[checkbox]` Past VA Appointments (limited to past 2 years)
-- 2.1.00.2. `[checkbox]` All of the Above
+- 2.1.00.2. `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
 
 - 2.1.01.0. `[checkbox]` VA Medication History
 - 2.1.01.1. `[checkbox]` Medication and Supplements, Self-Reported 
-- 2.1.01.2. `[checkbox]` All of the Above
+- 2.1.01.2. `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.02. `[heading]` Labs and Tests
 
@@ -134,23 +134,57 @@ This page provides the user with options to control the information that is incl
 - 2.1.02.1 `[checkbox]` VA Pathology Reports (available 35 hours after completion
 - 2.1.02.2 `[checkbox]` VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
 - 2.1.02.3 `[checkbox]` Labs and Tests, Self-Reported
-- 2.1.02.4 `[checkbox]` All of the Above
+- 2.1.02.4 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
 
+- 2.1.03.0 `[checkbox]` VA Problem List
+- 2.1.03.1 `[checkbox]` VA Admissions and Discharges
+- 2.1.03.2 `[checkbox]` VA Notes
+- 2.1.03.3 `[checkbox]` VA Wellness Reminders
+- 2.1.03.4 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
+
 ##### 2.1.04 `[heading]` Allergies
+
+- 2.1.04.0 `[checkbox]` VA Allergies and Adverse Reactions
+- 2.1.04.1 `[checkbox]` Allergies, Self-Reported
+- 2.1.04.2 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.05 `[heading]` Immunizations
 
+- 2.1.05.0 `[checkbox]` VA Immunizations
+- 2.1.05.1 `[checkbox]` Immunizations, Self-Reported
+- 2.1.05.2 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
+
 ##### 2.1.06 `[heading]` Vitals and Readings
+
+- 2.1.06.00 `[checkbox]` VA Vitals and Readings
+- 2.1.06.01 `[checkbox]` Vitals and Readings, Self-Reported
+- 2.1.06.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.07 `[heading]` Self-Reported Health History 
 
+- 2.1.07.00 `[checkbox]` Medical Events, Self-Reported
+- 2.1.07.01 `[checkbox]` Family Health History, Self-Reported
+- 2.1.07.02 `[checkbox]` Military Health History, Self-Reported
+- 2.1.07.03 `[checkbox]` Treatment Facilities, Self-Reported
+- 2.1.07.04 `[checkbox]` Health Care Providers, Self-Reported
+- 2.1.07.05 `[checkbox]` All of the above
+
 ##### 2.1.08 `[heading]` Food and Activity Journals 
+
+- 2.1.08.00 `[checkbox]` Activity Journal, Self-Reported
+- 2.1.08.01 `[checkbox]` Food Journal, Self-Reporte
+- 2.1.08.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.09 `[heading]` Goals
 
+- 2.1.09.00 `[checkbox]` My Goals: Current Goals, Self-Reported
+- 2.1.09.01 `[checkbox]` My Goals: Completed Goals, Self-Reported
+- 2.1.09.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
+
 ##### 2.1.10 `[heading]` Demographics and Health Insurance
+
 
 ##### 2.1.11 `[heading]` Department of Defense Information
 
@@ -161,8 +195,40 @@ This page provides the user with options to control the information that is incl
 
 <br>
 
+
+### 3. Blue Button Download Results Page
+- Provides a link to the user guide
+- Displays a status showing when the report has been generated
+- Displays a warning that details any information that was unable to be updated. 
+- Provides a disclaimer: "If you proceed with your download while updates are in progress, you may not get the most current information. Updates are done once a day."    This disclaimer liks to the [Blue Button Check Updates overview](https://www.myhealth.va.gov/mhv-portal-web/blue-button-check-updates-overview).
+
+- Displays a table with two rows (one for PDF and one for TXT) and five columns. 
+- There are two headings above the table:
+  -  Heading 1: Personal Health Information of FIRST NAME LAST NAME
+  -  Heading 2: DOWNLOAD YOUR DATA
+  
+  - TABLE HEADINGS
+     - File Contents
+     - File Name 
+     - File Size 
+     - Request Date 
+     - I Want To...
+  - TABLE ROW ONE (for PDF File) sample contents: 
+     - Selected Health Data
+     - mhv_MHVZZVISNFIFTEEN_20230203_1139.pdf
+     - 6809 KB
+     - 03 Feb 2023 @ 1139
+     - `link text`View \<br> `link text`Download PDF *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
+     
+  - TABLE ROW TWO (for Text file) sample contents: 
+     - Selected Health Data
+     - mhv_MHVZZVISNFIFTEEN_20230203_1139.txt
+     - 6809 KB
+     - 03 Feb 2023 @ 1139
+     - `link text`View \<br> `link text`Download TXT *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
+
 ### 3. VA My Health Summary generation page
-This page provides the ability for the user to generate a My VA Health Summary Report consisting of pre-determined data.
+This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.
 
 
 
