@@ -111,6 +111,7 @@ Considering that the overwhelming amount of participants did not feel anything w
 **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** Some Veterans (4 out of 13) expressed wanting to either reorder the sections or collapse empty sections to suit their needs but the majority did not mind the empty sections or the ordering as it currently is on My VA. Some Veterans even said that they appreciate seeing empty sections to remember that those benefits are available to them or for reassurance of the current state, like having no debt to VA.
 
 _Example: If a user doesn't have any claims or appeals to show, they'll still see the section with "nothing to show" text and a couple secondary links._
+
 ![Screenshot 2023-02-03 at 4 31 57 PM](https://user-images.githubusercontent.com/97965610/216714689-ebff5f6a-67f2-47e1-927e-3d5247e42e97.png)
 
 > _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
@@ -152,6 +153,7 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 > _"The headers are very readable for old tired eyes but it drops off pretty quickly from that to this [points at body text]. I can see it but I have to kind of zoom in and get my trifocals." -P9_
 
 ![Screenshot 2023-02-03 at 4 36 51 PM](https://user-images.githubusercontent.com/97965610/216715426-5afdf3bb-a06e-41b1-86fd-1d5214b50048.png)
+
 _Example of difference between H2 text and body text_
 
 
