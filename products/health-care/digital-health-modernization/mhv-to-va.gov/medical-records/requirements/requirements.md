@@ -160,7 +160,10 @@
 **List view**
   - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
+  - Each entry should include
+    - issue/problem title
+    - date/time it was entered
+    - status of the issue (e.g. active/inactive)
   - A user should be able to sort their health conditions
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -170,9 +173,9 @@
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
-    - Provider's name
-    - Location where the issue was entered
     - Status
+    - Location where the issue was entered
+    - Provider's name
     - Comments
   - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
   
