@@ -1,6 +1,6 @@
 # Notes: Data fields and UX considerations
 
-Last updated: January 31, 2022
+Last updated: January 31, 2023| [Change Log](#change-log)
 
 ## Purpose
 
@@ -204,3 +204,13 @@ Ask Lauren A., Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, and Patty who
 
 - Notes from Jenny: On BB, this is called "VA Notes", which includes all notes (progress notes, visit summary, procedure messages...). In CCDA, encounter notes, consultation notes and procedure notes are all separated.
   - So this means we need to decide if we separate them out or keep them together and linked with the healthcare interaction/ occurrence to which they pertain. E.g., link notes with clinic visit, surgery/ procedure, etc. OR if we do it some other way? Has backend implications - need to liaise w/ both Jenny and Eric to understand better. 
+
+
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+
