@@ -6,9 +6,8 @@
   -  Staging Endpoint Status - Jayson 
   -  Alert Box Accessibility - Therese / Theo   
 
-[VA Mobile App Demo - 2_2_23.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10581815/VA.Mobile.App.Demo.-.2_2_23.pdf)
-Demo Video
-   -  https://user-images.githubusercontent.com/116006847/216682403-90af1ffb-1f1d-47c7-80fe-8030ecc20a90.mp4
+- [PDF of Demo Slides ](https://github.com/department-of-veterans-affairs/va.gov-team/files/10581815/VA.Mobile.App.Demo.-.2_2_23.pdf)
+- Demo Video https://user-images.githubusercontent.com/116006847/216682403-90af1ffb-1f1d-47c7-80fe-8030ecc20a90.mp4
 
 
 ---  
