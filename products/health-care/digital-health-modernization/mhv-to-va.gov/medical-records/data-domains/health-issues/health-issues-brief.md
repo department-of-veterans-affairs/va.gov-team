@@ -1,6 +1,6 @@
-# Health Issues Brief: Data fields and UX considerations
+# Health Conditions Brief: Data fields and UX considerations
 
-Last updated: February 2, 2023
+Last updated: February 3, 2023
 
 ## Purpose
 
@@ -42,10 +42,10 @@ This domain provides Veterans with a summary of the active health concerns conta
 ## Health issues data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
-**Data field title:** TBD.  Comparative systems use terms such as Health Issues or Health Conditions.
+**Data field title:** Health conditions
 
 **Data fields to include:**
-There are two different types of report available on MyHealtheVet that contain a list of health issues  -- Blue Button reports and VA Health Summary reports. VA Health Summary reports are derived from the patient's e-Vault.  
+There are two different types of report available on MyHealtheVet that contain a list of health conditions  -- Blue Button reports and VA Health Summary reports. VA Health Summary reports are derived from the patient's e-Vault.  
 
 Below shows the list of Problem List fields available within each report.  The decision as to which data set is most appropriate to be displayed on a page should be made by the stakeholders, including Bresha Lipscomb.
 
@@ -85,14 +85,14 @@ Below shows the list of Problem List fields available within each report.  The d
 
 ## UX considerations
 
-### When to show Health Issues section
+### When to show Health Conditions section
 The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.  In MyHealth*e*Vet, users must also have a Premium account, but at the time of this writing, it is believed that the notion of Premium accounts is slated to be depricated.
 
-**Where do Health Issues fit within IA?**
-TBD, but the aim is to allow users to view their health issues on an actual web page in the new health portal, if technical feasible.  The download and print options should still be made available via the Blue Button report and VA Health Summary.
+**Where do Health Conditions fit within IA?**
+Health conditions will be part of the Health history section
 
 
-### How to show Health Issues section
+### How to show Health Conditions section
 - What should the screen look like? What information should be seen? What should be hidden? 
 
 
@@ -103,7 +103,7 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 ### Research that relates to Health Problems
 
 **Findings from card sort**
-- The card sort did not cover specifics about Health Issues.
+- The card sort did not cover specifics about Health Conditions.
 
 ## Questions to answer
 
@@ -111,7 +111,7 @@ TBD, but the aim is to allow users to view their health issues on an actual web 
 
 
 **Business/ Engineering:** 
-1. What data source should be used to display the Health Issues list on a web page?  The Blue Button data source or the VA Health Summary data source? 
+1. What data source should be used to display the Health Conditions list on a web page?  The Blue Button data source or the VA Health Summary data source? 
 2. Is it still the case that Premium accounts will be depreciated before the new Health Portal launches? If so, what is the ETA for that?
 
 **Who do we need to get feedback from?**
