@@ -152,11 +152,6 @@ This all depends on Florence having Github access.
 - Testing in Staging Vets-API Server to EKS #52717 
   - Time sensitive, needs to be done by COB 2/28. Can not be pushed back a sprint.
 
-**FE - Adam**
-
-- Remove "We can't load all the information..." error
-  - Discovery was in #51902, but we need a ticket for actual removal of this error. 
-
 ## Sprint 5 (3/1 - 3/14)
 
 ### Onboarding
