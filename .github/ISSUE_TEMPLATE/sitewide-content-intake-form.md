@@ -8,11 +8,11 @@ assignees: RLHecht, coforma-terry
 ---
 
 ## What does your team need support for? Check all that apply.
-- [ ] Launching one or more new unauthenticated (static) VA.gov pages
-- [ ] Making revisions to one or more existing unauthenticated (static) VA.gov page
-- [ ] Launching a new online form, app, or tool on VA.gov
-- [ ] Making revisions to an existing online form, app, or tool on VA.gov
-- [ ] Something else (please add details in the next question)
+- [ ] Launching one or more unauthenticated pages, online forms, apps, or tools on VA.gov
+- [ ] Making revisions to one or more existing VA.gov pages
+- [ ] Something else 
+ 
+ *Give a brief description of what your team needs support with.*
 
 ## Will this new product be released incrementally (for instance 25% of users initially)? 
   - [ ] Yes
