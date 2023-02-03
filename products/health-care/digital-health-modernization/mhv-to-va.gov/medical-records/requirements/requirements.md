@@ -225,11 +225,11 @@ Because each category of the labs and tests is different, details view for each 
   - Reaction/side effect
   - Location
   - Source
-- A user should be able to print or download (PDF or TXT) the complete list. 
+- A user should be able to print or download (PDF or TXT) the complete allergies list. 
 - A user should be able to sort the list alphabetically by allergen/reactant name and chronologically based on initially entered date.
 
 **Details view**
-- Each allergy detail should include
+- Each allergy detail should include:
   - Location
   - Date entered
   - Allergen/reactant
@@ -242,6 +242,7 @@ Because each category of the labs and tests is different, details view for each 
 ## Demographics
 **List view**
 - A user should be able to view their demographics information. 
+- At top of the list, a user should be informed on how they can update their demorgraphics.
 - Demorgaphics have a list of infomration, and should include: 
   - VA Treating Facility
   - First name
