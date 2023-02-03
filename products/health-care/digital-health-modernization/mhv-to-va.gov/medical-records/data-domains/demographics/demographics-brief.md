@@ -1,6 +1,6 @@
 # Demographics: Data fields and UX considerations
 
-Last updated: January 26, 2023
+Last updated: January 26, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -152,3 +152,12 @@ This category varied the most across interviews and explanations often seemed co
 
 
 ## Additional notes
+
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+
