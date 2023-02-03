@@ -128,11 +128,13 @@ Labs and Tests represent health information that may be categorized as lab work 
  for short and long examples.*
 
 
-### Data Type: VA Electrocardiogram (EKG) Reports
+### Data Type: Cardiology [VA Electrocardiogram (EKG) Reports]
 - Note: Based on notice within the Blue Button report and documentation on MHV, these are no longer being updated, but historical records are available
 
-##### Data Source(s)
+##### Data Source(s):
+
 2/3/2023 Updated based on a Jan 2023 email thread (click for larger image):
+
 <img width="75" alt="image" src="https://user-images.githubusercontent.com/69174644/216637531-87f56141-9a86-4e84-975b-fe5a6921240e.png" target="blank">
 
 *"Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
