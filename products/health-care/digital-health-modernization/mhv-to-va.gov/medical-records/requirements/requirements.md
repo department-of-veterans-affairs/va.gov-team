@@ -147,14 +147,14 @@
 - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
 - A user should be able to see a list of all of their notes, ordered chronologically. 
 - Each entry should include the:
-  - Date
-    - VA note: date of note
-    - Admission & discharge summary: Date of admission
-    - AVS: Visit date  
   - Note title
     - VA note: Note title
     - Admission & discharge summary: Admission & discharge summary
     - AVS: After-visit summary
+  - Date (This should be the date that most closely reflects when the patient had their visit or started their hospital stay)
+    - VA note: date of note
+    - Admission & discharge summary: Date of admission
+    - AVS: Visit date  
   - Location where that note was written
   - Physician
     - VA note: signing physician 
@@ -163,9 +163,32 @@
 - A user should be able to click into each entry to get more details.
   
 **Details view**
-  - The H1 of the details view should be the title of the note. 
-  - Where possible and clinically permissable, transform text to make a note easier to read.
-  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
+- The H1 of the details view should be the title of the note. 
+- Where possible and clinically permissable, transform text to make a note easier to read.
+- From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
+- Because each category of the labs and tests is different, details view for each entry will also vary: 
+  - VA note
+    - Title (H1)
+    - Date and time
+    - Location
+    - Signed by
+    - Co-signed by
+    - Last updated
+    - Date and time signed
+    - Note
+  - Admission & discharge summary
+    - Title (H1)
+    - Admission date
+    - Location
+    - Admitting physician
+    - Discharge date
+    - Discharge physician
+    - Last updated
+    - Discharge summary
+  - After visit summary
+    - Title
+    - Visit date
+    - Then reflect the AVS as closely as possible - https://github.com/department-of-veterans-affairs/va.gov-team/blob/b62e5725d9033be0aefef60bdd8cac6df28164f3/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf
 
  **Not for Phase 0, requires future usability research**
     
