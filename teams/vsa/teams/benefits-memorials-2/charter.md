@@ -50,7 +50,7 @@ Last Updated: January 27,2023
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
 |Sr. Front End Engineer |Aaron Ponce                        |
-|Lead Designer/Research|Megan Gayle                         |
+|Lead Designer/Researcher |Megan Gayle                         |
 |Sr. UX Researcher       |Charlotte Cesana                    |
 |Product Designer        |Joseph Lee                          |
 
