@@ -1,6 +1,6 @@
 # Vitals: Data fields and UX considerations
 
-Last updated: January 27, 2023
+Last updated: January 27, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -118,4 +118,11 @@ _Findings:_
 
 ## Additional notes
 
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
 
