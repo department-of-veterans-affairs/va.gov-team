@@ -145,7 +145,7 @@ TBD
 - **Define intake process**: Define and document intake process with VANotify (potentially low lift)
 - **Create onsite notifications backlog**: Inventory existing notifications to figure out what onsite notification backlog looks like
 
-#### To begin; Complete Q2 CY2023
+#### To start
 
 - **Add notifications**: Add at least 1 new onsite notifications. Candidates include:
   - Highest priority: Prescription shipment notification sent from local pharmacies 
@@ -199,11 +199,16 @@ Potentially also, if time:
 
 ## Key deliverables
 
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Existing notifications review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/shared-notes-existing-notifications-to-review.md)| January 2023|
+
 ## Key dates
 
 - September 2022: Initial on-site notifications V2 planning
 - October - December 2022: V2 work on hold due to MVP launch and lull due to contract switch-over
 - January 2023: Project discovery; Scope V2
+- February 2023: Technical discovery; Design for Q1 CY2023 notification updates
 
 ## Backend
 
