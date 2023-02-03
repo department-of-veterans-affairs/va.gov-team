@@ -236,9 +236,9 @@ Q: What is the expected timing for adding in self-entered test data?
 
 ## Change Log
 
-| ---------------|------------------|---------------------------------------------------------------------|
-|Date            | Changed By       | Description of Change                                               |
-|2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports.                        |
-|                |                  |                                                                     |
+| ----------------| ---------------- | --------------------------------------------------------------------- |
+| Date            | Changed By       | Description of Change                                                 |
+| 2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports.                          |
+|                 |                  |                                                                       |
 
 
