@@ -184,7 +184,10 @@
 **List view**
   - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
+  - Each entry should include
+    - issue/problem title
+    - date/time it was entered
+    - status of the issue (e.g. active/inactive)
   - A user should be able to sort their health conditions
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -194,15 +197,11 @@
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
-    - Provider's name
-    - Location where the issue was entered
     - Status
+    - Location where the issue was entered
+    - Provider's name
     - Comments
   - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
-  
-  
-<img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
-
 
 ## Vitals
 **Includes**
@@ -428,20 +427,8 @@
 - Users must be allowed to select the same types of data to include in their Blue Button report as they are on the MyHealtheVet site today.
 - The page that generates the Blue Button must present the last and most current generated reports, when they were generated, and links to view, print, or download them.
 - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
-### Blue Button Report PDF within page
-<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215801201-040832d6-d29a-4dd8-afb4-268e7211949b.png">
-
-
-### Blue Button Report TXT within page
-<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215802401-deeb022c-fd44-4d1e-953c-8a530db78e7a.png">
-
-
-
 
 ## VA Health Summary Reports
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
 - Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
-
-### VA Health Summary Report HTML within page iframe
-<img width="927" alt="image" src="https://user-images.githubusercontent.com/69174644/215800539-51f2d602-a258-4927-a0b5-f953f3041266.png">
