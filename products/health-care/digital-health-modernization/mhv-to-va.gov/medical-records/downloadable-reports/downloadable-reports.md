@@ -118,23 +118,23 @@ This page provides the user with options to control the information that is incl
 
 ##### 2.1.00. `[heading]` Appointments
 
-- 2.1.00.0. `[checkbox]'  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
-- 2.1.00.1. `[checkbox]' Past VA Appointments (limited to past 2 years)
-- 2.1.00.2. `[checkbox]' All of the Above
+- 2.1.00.0. `[checkbox]`  Future VA Appointments (may include Telephone, Video, In-Person Appointments) *Note: This parenthetical links to a [help page](https://www.myhealth.va.gov/mhv-portal-web/telephone-video-in-person-appointments-help) on MHV*
+- 2.1.00.1. `[checkbox]` Past VA Appointments (limited to past 2 years)
+- 2.1.00.2. `[checkbox]` All of the Above
 
 ##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
 
-- 2.1.01.0. `[checkbox]' VA Medication History
-- 2.1.01.1. `[checkbox]' Medication and Supplements, Self-Reported 
-- 2.1.01.2. `[checkbox]' All of the Above
+- 2.1.01.0. `[checkbox]` VA Medication History
+- 2.1.01.1. `[checkbox]` Medication and Supplements, Self-Reported 
+- 2.1.01.2. `[checkbox]` All of the Above
 
 ##### 2.1.02. `[heading]` Labs and Tests
 
-- 2.1.02.0 `[checkbox]' VA Laboratory Results
-- 2.1.02.1 `[checkbox]' VA Pathology Reports (available 35 hours after completion
-- 2.1.02.2 `[checkbox]' VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
-- 2.1.02.3 `[checkbox]' Labs and Tests, Self-Reported
-- 2.1.02.4 `[checkbox]' All of the Above
+- 2.1.02.0 `[checkbox]` VA Laboratory Results
+- 2.1.02.1 `[checkbox]` VA Pathology Reports (available 35 hours after completion
+- 2.1.02.2 `[checkbox]` VA Electrocardiogram (EKG) Historical Exam Dates (EKG dates are no longer updated. You may continue to view your historical EKG dates)
+- 2.1.02.3 `[checkbox]` Labs and Tests, Self-Reported
+- 2.1.02.4 `[checkbox]` All of the Above
 
 ##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
 
@@ -170,8 +170,11 @@ This page provides the ability for the user to generate a My VA Health Summary R
 
 
 
-**View vs. download considerations:**
-
+**View, share, download considerations:**
+- VA Health Summary provides the ability for the user to:
+  - View the report as
+  - Download the report as
+  - Share the report through Direct email.  There is some uncertainty about this feature that needs to be resolved, as noted in [Questions to Answer](#questions-to-answer)
 
 ### Accessibility considerations:
 
@@ -203,6 +206,7 @@ _Findings:_
 - How closely do uses associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
 - Are uses able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
 - What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
+- Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
 
 **Business/ Engineering:** 
 - What options are available for customizing the layout of each of these reports?
