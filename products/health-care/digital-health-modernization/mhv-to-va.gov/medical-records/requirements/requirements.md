@@ -123,7 +123,20 @@ Because each category of the labs and tests is different, details view for each 
 
 - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
 - A user should be able to see a list of all of their notes, ordered chronologically. 
-- Each entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
+- Each entry should include the 
+  - Date
+    - VA note: date of note
+    - Admission & discharge summary: Date of admission
+    - AVS: Visit date  
+  - Note title
+    - VA note: Note title
+    - Admission & discharge summary: Admission & discharge summary
+    - AVS: After-visit summary
+  - Location where that note was written
+  - Physician
+    - VA note: signing physician 
+    - A&D: Admitting physician
+    - AVS: Provider
 - A user should be able to click into each entry to get more details.
   
 **Details view**
@@ -147,6 +160,7 @@ Because each category of the labs and tests is different, details view for each 
 
 ## Health conditions
 **List view**
+  - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
   - Users should be able to view a list of their health issues from across all VA facilities
   - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
   - A user should be able to sort their health conditions
@@ -162,13 +176,11 @@ Because each category of the labs and tests is different, details view for each 
     - Location where the issue was entered
     - Status
     - Comments
+  - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
+  
   
 <img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
 
-- Data is available thirty-six (36) hours after it has been entered. It may not contain active problems managed by non-VA health care providers. 
-- Actions
-  - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
-  
 
 ## Vitals
 **Includes**
