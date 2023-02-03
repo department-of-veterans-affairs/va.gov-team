@@ -129,15 +129,21 @@ Because each category of the labs and tests is different, details view for each 
   - Location of latest reading
 - A user should be able to click into each category to see a historical list of readings
   
+**Details view**
+  - The H1 of the details view should be the category name 
+  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
+  - Each entry in that list should include
+    - Reading
+    - Date of entry
+    - Location of entry 
+    - Comments
+  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
 
 ## Health conditions
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include 
-    - issue/problem title (preferablly without SCT)
-    - date/time entered
-    - status of the issue (e.g. active/inactive)
+  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
   - A user should be able to sort their health issues
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -147,10 +153,9 @@ Because each category of the labs and tests is different, details view for each 
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
-    - Status
     - Provider's name
     - Location where the issue was entered
-    - Problem code (aka SCT, this may not be able to separated from Issue/problem title. If it can't be, don't include as part of title and here)
+    - Status
     - Comments
   
 <img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
@@ -178,15 +183,6 @@ Because each category of the labs and tests is different, details view for each 
 - Each reading should include type, measurement including units, comments, location where the reading was collected, and the datetime collected. 
 - A user should be able to download (PDF or TXT) or print a vitals details view
 
-**Details view**
-  - The H1 of the details view should be the category name 
-  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
-  - Each entry in that list should include
-    - Reading
-    - Date of entry
-    - Location of entry 
-    - Comments
-  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
 ## Allergies
 **List view**
@@ -212,6 +208,90 @@ Because each category of the labs and tests is different, details view for each 
   - Comments
 
 ## Demographics
+**List view**
+- A user should be able to view their demographics information. 
+- Demorgaphics have a list of infomration, and should include: 
+  - VA Treating Facility
+  - First name
+  - Middle name
+  - Last name
+  - Religion
+  - Ethnicity
+  - Date of birth
+  - Place of birth
+  - Age
+  - Gender
+  - Marital status
+  - Permanent address and contact information
+  - Eligibility 
+  - Employment
+  - Active insurance
+  - Primary next of kin
+  - Emergency contact
+  - VA guardian
+  - Civil guardian
+  
+**Details view** 
+- A few of items (permanent address and contact information, eligibility, employment status, insurance company, primary next of kin, emergency contact, VA guardian, and civil guardian) on the list include more information. These items should be presented as accordions so that a user pick and choose what they want to see. Those items should include: 
+  - Permanent address and contact information
+    - Street address
+    - Work phone number
+    - City
+    - State
+    - Zip code
+    - County
+    - Country
+    - Home phone number
+    - Work phone number
+    - Cell phone number
+    - Email address:
+  - Eligibility
+    - Primary eligibility code
+    - Service connected percentage
+  - Employment
+    - Employment Status
+    - Employer Name
+  - Active insurance
+    - Insurance Company
+    - Effective Date
+    - Expiration Date
+    - Group Name
+    - Group Number
+    - Subscriber ID
+    - Subscriber Name
+    - Subscriber Relationship
+  - Primary next of kin 
+    - Name
+    - Street Address
+    - City
+    - State
+    - Zip Code
+    - Home Phone Number
+    - Work Phone Number
+  - Emergency contact
+    - Name 
+    - Street Address 
+    - City 
+    - State 
+    - Zip Code 
+    - Home Phone Number 
+    - Work Phone Number
+  - VA guardian
+    - Name
+    - Street Address
+    - City 
+    - State 
+    - Zip Code 
+    - Home Phone Number 
+    - Work Phone Number 
+  - Civil guardian
+    - Name
+    - Street Address
+    - City
+    - State
+    - Zip Code
+    - Home Phone Number
+    - Work Phone Number
 
 ## DoD Information
 
