@@ -22,14 +22,22 @@ To serve as a source of truth around data field requirements and specifications,
 
 
 ## User Guides and Related Content
-The Blue Button Report generation pages links to several pages and documents:
--  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  Updated instructions will need to be provided in some form on the new experience.  As PDFs are not accessible, it will be necessary to provide these instructions in an accessible format.
--  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
--  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
--  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
--  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
--  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
+- The Blue Button Report generation pages links to several related pages and documents:
+  -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
+  -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
+  -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
+  -  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
+  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
+- The My VA Health Summary Generation page links to several related pages and documents:
+  -  Link to a [13-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/VAHealthSummaryUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more) MHV web page that provides an overview of VA Health Summary reports, and information about creating My VA Health Summmary Reports
+  -  Link to [What's in the VA Health Summary?](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf) document that explains data and business rules.
+  -  Link to download an XML style sheet
+  -  Link to [an MHV page that explains how to securely send VA Health Summary to non-VA providers using Direct Messaging](https://www.myhealth.va.gov/mhv-portal-web/ccd-direct-participating-providers-help).  *note - as listed in the Questions to be Answered section, it is unclear whether this option will continue to exist in the new Health Portal experience.
+  -  Link to [Update your Profile](https://www.myhealth.va.gov/mhv-portal-web/profiles) on MHV to subscribe to VA Profile Delivery notifications.
+  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
 ## Use Cases
 
@@ -263,8 +271,23 @@ This page provides the ability for the user to generate a My VA Health Summary R
 
   -  `[Heading]` Personal Health Information of FIRST NAME LAST NAME
   -  `[Heading]` Download Your VA Health Summary
-  -
-  `[Table]`
+
+ 
+#### `H1` My VA Health Summary Download Results
+
+- `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf
+- `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
+- `[info icon]` `[linked text]` What's in the VA Health Summary *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information*
+
+`[info block A]`  `[check mark icon`] Your information update is complete. *appears if data has NOT been updated in the last 25 hours* <br>
+`[info block B]`  *appears if data has been updated*
+
+`[Heading]` Personal Health Information of FIRSTNAME LASTNAME
+`[Heading]` Download Your VA Health Summary
+
+`[text]` The VA Health Summary contains specific information from your VA medical record. You can use it to review your VA care and to share your information with community providers, family, or others who help you with your health.
+
+- `[Table]`
   - TABLE HEADINGS
      - File Contents
      - File Name 
@@ -286,20 +309,6 @@ This page provides the ability for the user to generate a My VA Health Summary R
      - Ready to Download
      - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. <br> `Download` downloads the TXT 
 
-#### `H1` My VA Health Summary Download Results
-
-- `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf
-- `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
-- `[info icon]` `[linked text]` What's in the VA Health Summary *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information*
-
-`[info block A]`  *appears if data has NOT been updated in the last 25 hours
-`[info block B]`  *appears if data has been updated
-
-`[Heading]` Personal Health Information of FIRSTNAME LASTNAME
-`[Heading]` Download Your VA Health Summary
-
-
-`[text]` The VA Health Summary contains specific information from your VA medical record. You can use it to review your VA care and to share your information with community providers, family, or others who help you with your health.
 
 <br>
 
