@@ -1,6 +1,6 @@
 # Immunizations: Data fields and UX considerations
 
-Last updated: January 18, 2023
+Last updated: January 28, 2023 [Change Log](#change-log)
 
 ## Purpose
 
@@ -211,4 +211,11 @@ Bobby notes: should be close to meds/ allergies, because those are "together" co
 
 Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
 
