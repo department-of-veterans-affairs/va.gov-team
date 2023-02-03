@@ -1,7 +1,5 @@
 # VSignals Trends - Mobile Check-in and General Check-in
 
-_DRAFT_
-
 This is an analysis of feedback from **November 14, 2022 - January 16, 2023**. We query VSignals feedback for anything that mentions check-in and travel reimbursement. 
 
 ## Notable Comments
