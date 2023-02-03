@@ -1,6 +1,6 @@
 # Health Conditions Brief: Data fields and UX considerations
 
-Last updated: February 3, 2023
+Last updated: February 3, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -124,3 +124,12 @@ Bresha Lipscomb
 - During user interviews, several participants expressed the desire to be able to select only specific health records based on a specific health issue, such as a shoulder injury, for the purposes of filing a disability claim.
 
 ## Additional notes
+
+
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
