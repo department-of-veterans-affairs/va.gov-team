@@ -1,6 +1,6 @@
 # Department of Defense (DoD) Info: Data fields and UX considerations
 
-Last updated: January 31, 2023
+Last updated: February 2, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -176,3 +176,10 @@ _Accessibility considerations specific to DoD Info:_
 ## Additional notes
 
 
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
