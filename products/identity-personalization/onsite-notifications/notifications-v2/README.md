@@ -140,12 +140,12 @@ TBD
 
 ### Q1 CY2023
 
-**To complete**
+#### To complete
 
 - **Define intake process**: Define and document intake process with VANotify (potentially low lift)
 - **Create onsite notifications backlog**: Inventory existing notifications to figure out what onsite notification backlog looks like
 
-**To begin; Complete Q2 CY2023**:
+#### To begin; Complete Q2 CY2023
 
 - **Add notifications**: Add at least 1 new onsite notifications. Candidates include:
   - Highest priority: Prescription shipment notification sent from local pharmacies 
@@ -161,15 +161,41 @@ Potentially also, if time:
 #### Out of scope
 
 - Adding a notification center to the navigation
-- Update the notification design (Design done; needs FE build and collab cycle
+- Update the notification design (Design done; needs FE build and collab cycle)
 
 ### Q2 CY2023
 
-#### In scope
+#### To complete
 
-- Update the notification design (Design done; needs FE build and collab cycle
+- **Launch new notifications** - Launch the notifications work we started in Q1 CY2023.
+- **Notification center discovery** - If not started/completed in Q1 CY2023, complete this discovery.
+
+#### To start
+
+- **New notification design** - Put new notification design through collab cycle/build.
+- **New notifications** - Add new notifications, if possible/needed.
 
 #### Out of scope
+
+- Adding a notification center to the navigation
+
+### Q3 CY2023
+
+#### To complete
+
+- **New notification design** - Launch new notification design.
+- **New notifications** - Add new notifications, if possible/needed.
+
+#### To start
+
+- **Adding notification center to the navigation** - If discovery yields this direction, we should start working across teams to get the navigation updated. **However, this is highly dependent on discovery, so exact approach is not defined yet**. This may manifest as other work, like having a number indicator for My VA re: new notifications vs. having a separate notification center in the nav. Exact approach TBD.
+- **New notifications** - Add new notifications, if possible/needed.
+### Q4 CY2023
+
+#### To complete
+
+- **Launch notification center** - Launch notification center.
+- **New notifications** - Add new notifications, if possible/needed.
 
 ## Key deliverables
 
