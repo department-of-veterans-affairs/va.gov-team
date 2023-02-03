@@ -79,7 +79,7 @@ Research plan and conversation guide will be completed by Monday, February 6.
 * Date and time of pilot session: Monday, February 6 at 3:30 pm eastern time.
 
 ### Research sessions
-* Planned dates of research: February 14-22, 2023
+* Planned dates of research: February 14-24, 2023
 
 ### Length of sessions
 * Session length: 1 hour
