@@ -129,11 +129,12 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 
 ### Data Type: VA Electrocardiogram (EKG) Reports
-- Note: These are no longer being updated, but historical records are available
-##### Data Source(s)
-From an email thread 
+- Note: Based on notice within the Blue Button report and documentation on MHV, these are no longer being updated, but historical records are available
 
-<img width="796" alt="image" src="https://user-images.githubusercontent.com/69174644/216631988-f51dcf31-271a-4fa1-a586-cc120e600e12.png" target = "blank">
+##### Data Source(s)
+From an email thread:
+
+<img width="10" alt="image" src="https://user-images.githubusercontent.com/69174644/216631988-f51dcf31-271a-4fa1-a586-cc120e600e12.png" target = "blank">
 
 "Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
  
@@ -244,9 +245,9 @@ Q: What is the expected timing for adding in self-entered test data?
 
 ## Change Log
 
-|  Date           | Changed By       | Description of Change                                                 |
-| ----------------| ---------------- | --------------------------------------------------------------------- |
-| 2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports.                          |
-|                 |                  |                                                                       |
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
+|                 |                  |                                                                                                                     |
 
 
