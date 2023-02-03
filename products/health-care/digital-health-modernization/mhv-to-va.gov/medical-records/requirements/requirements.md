@@ -4,7 +4,7 @@
 - [General](#general)
 - [Vaccines](#vaccines)
 - [Lab and test results](#lab-and-test-results)
-- [Notes and care summaries](#notes-and-care-summaries)
+- [Care summaries and notes](#care-summaries-and-notes)
 - [Health conditions](#health-conditions)
 - [Vitals](#vitals)
 - [Allergies](#allergies)
@@ -112,8 +112,8 @@ Because each category of the labs and tests is different, details view for each 
   - A user should be able filter to find what they are looking for.
     - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
 
-## Notes
-**Notes includes** 
+## Care summaries and notes
+**Includes** 
   - VA notes
   - Admission & Discharge summaries 
   - After visit summaries
@@ -145,7 +145,7 @@ Because each category of the labs and tests is different, details view for each 
     - The search box can be collapsed to create real estate for the list view of notes. 
 
 
-## Health Issues
+## Health conditions
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
   - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
