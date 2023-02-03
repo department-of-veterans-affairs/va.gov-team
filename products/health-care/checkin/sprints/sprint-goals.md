@@ -16,7 +16,8 @@ ________________________________________________________________________________
 
 #### UX Sprint Goals 
 - [Poster Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53060)
-   - [Add Disclaimer to Posters that the VA will Never Ask for Personal Financial Info as part of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53061)
+   - **GOAL: Add a disclaimer to the poster regarding financial info**
+      - [Add Disclaimer to Posters that the VA will Never Ask for Personal Financial Info as part of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53061)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [[UX] [PRODUCT] Complete Functional Testing/QA of eCheck-in Workflow with Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
@@ -27,7 +28,7 @@ ________________________________________________________________________________
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
       - [Metrics Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895) 
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)   
-   - **GOAL: Prepare for release**
+   - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [[UX]Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - **GOAL: Prepare for Release**
@@ -40,12 +41,14 @@ ________________________________________________________________________________
       - [[UX][Research] Create Widget for GA Dashboard to Measure Success](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52056)
       - [[UX] Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52058)
       - [[UX] Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52060)
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
    - **GOAL: Release to Production**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-   - **GOAL: Start to create wireframes for Option 2 options**   
-      - ?????
+   - **GOAL: Start to plan research for Option 2**   
+      - [[UX] [Research] Create optimal workshop study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53056)
+      - [[UX] [Research] Create research plan for gathering feedback about text preferences](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
+   - **GOAL: Start to create wireframes for testing with Veterans**
+      - [Create wireframes and content for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
