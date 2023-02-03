@@ -275,7 +275,7 @@ This page provides the ability for the user to generate a My VA Health Summary R
  
 #### `H1` My VA Health Summary Download Results
 
-- `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf
+- `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf*
 - `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
 - `[info icon]` `[linked text]` What's in the VA Health Summary *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information*
 
