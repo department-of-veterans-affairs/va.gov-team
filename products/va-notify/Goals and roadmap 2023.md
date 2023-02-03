@@ -88,18 +88,22 @@ To keep our platform performing at it's best, we plan to execute the following:
 
 #### Promote to Production - SSUI
 words go here
+
 **Expected launch date**:
 
 #### Service Management  - SSUI 
 words go here
+
 **Expected launch date**:
 
 #### User Roles - SSUI
 words go here
+
 **Expected launch date**:
 
 #### White Listing - SSUI
 words go here
+
 **Expected launch date**:
 
 #### VA.gov Forms
