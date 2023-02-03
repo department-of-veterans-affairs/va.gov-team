@@ -261,7 +261,7 @@ _Info box 2_
      - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
 
 ### 4. VA My Health Summary generation page
-This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.
+This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.  If a report has already been generated, this page will display the state described in the My VA Health Summary Results page below.
 
 ### 5. VA My Health Summary results page
 - Provides a link to the Blue Button user guide
