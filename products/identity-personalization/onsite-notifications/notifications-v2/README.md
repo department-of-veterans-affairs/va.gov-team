@@ -1,6 +1,6 @@
 # Project outline: Scaling onsite notifications (Onsite notifications V2)
 
-**Last updated: January 17, 2022**
+**Last updated: February 3, 2023**
 
 ### Communications
 
@@ -140,12 +140,18 @@ TBD
 
 ### Q1 CY2023
 
-#### In scope
+**To complete**
 
-- Define and document intake process with VANotify (potentially low lift)
-- Inventory existing notifications to figure out what onsite notification backlog looks like
-- **Start**: Add 1 (maybe 2?) new onsite notifications
-   - A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
+- **Define intake process**: Define and document intake process with VANotify (potentially low lift)
+- **Create onsite notifications backlog**: Inventory existing notifications to figure out what onsite notification backlog looks like
+
+**To begin; Complete Q2 CY2023**:
+
+- **Add notifications**: Add at least 1 new onsite notifications. Candidates include:
+  - Highest priority: Prescription shipment notification sent from local pharmacies 
+  - BVA appeals hearing reminders, if possible (we may not do this if we can not provide helpful information)
+  - Monthly education enrollment notification (if we can provide helpful links/next steps)
+- A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
 
 Potentially also, if time:
 
