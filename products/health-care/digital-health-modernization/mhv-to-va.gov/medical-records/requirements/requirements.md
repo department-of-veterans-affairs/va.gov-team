@@ -30,14 +30,16 @@
   - Link to details 
   
 **Details view**  
-
-- Date received
-- Type and dosage 
-- Series 
-- Facility 
-- Reactions
-- Comments
-- A user should be able to print and download (PDF and TXT) each vaccine detail. 
+ - The H1 of the details view should be the name of the vaccine
+ - Where possible and clinically permissable, transform text to make a note easier to read.
+ - From the top of the page, a user should be able to print the details, or download it as either a PDF or TXT file. 
+ - Details shouuld include
+   - Date received
+   - Type and dosage 
+   - Series 
+   - Facility 
+   - Reactions
+   - Comments
 
 **Not for first iteration, requires future usability research**
 - A user should be able to sort the list by date received and alphabetically by vaccines name.
