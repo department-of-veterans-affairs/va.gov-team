@@ -94,6 +94,8 @@ All times are in eastern time:
 - February 17, 8am-3pm
 - February 21, 10am-4:30pm
 - February 22, 8am-3pm
+- February 23, 9am-7pm
+- February 24, 8am-3pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
