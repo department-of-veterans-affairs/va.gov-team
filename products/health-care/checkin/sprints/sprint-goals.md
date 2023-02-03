@@ -21,8 +21,6 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [[UX] [PRODUCT] Complete Functional Testing/QA of eCheck-in Workflow with Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
-    - **GOAL: Prepare for the release**
-      - [Implement Tags in GA for Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52865)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Release**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
