@@ -129,7 +129,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 
 ### Data Type: Cardiology [VA Electrocardiogram (EKG) Reports]
-- Note: Based on notice within the Blue Button report and documentation on MHV, these are no longer being updated, but historical records are available
+*Note: Based on notice within the Blue Button report and documentation on MHV, these are no longer being updated, but historical records are available*
 
 ##### Data Source(s):
 
@@ -137,11 +137,11 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 <img width="75" alt="image" src="https://user-images.githubusercontent.com/69174644/216637531-87f56141-9a86-4e84-975b-fe5a6921240e.png" target="blank">
 
-*"Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
+"Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
  
-*"As for cardiology reports, these would be available via standard CPRS RPCs, for example “ORWP REPORTS TEXT” (https://vivian.worldvista.org/dox/Remote_Procedure_ORWRP_REPORT_TEXT.html)
+"As for cardiology reports, these would be available via standard CPRS RPCs, for example “ORWP REPORTS TEXT” (https://vivian.worldvista.org/dox/Remote_Procedure_ORWRP_REPORT_TEXT.html)
  
-*"AVS pulls reports data via the aforementioned RPC."
+"AVS pulls reports data via the aforementioned RPC."
 
 ##### Fields
 - **Procedure/Test Name** *Example:*
