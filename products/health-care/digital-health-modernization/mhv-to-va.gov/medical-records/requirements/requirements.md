@@ -129,15 +129,6 @@ Because each category of the labs and tests is different, details view for each 
   - Location of latest reading
 - A user should be able to click into each category to see a historical list of readings
   
-**Details view**
-  - The H1 of the details view should be the category name 
-  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
-  - Each entry in that list should include
-    - Reading
-    - Date of entry
-    - Location of entry 
-    - Comments
-  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
 
 ## Health conditions
@@ -187,6 +178,15 @@ Because each category of the labs and tests is different, details view for each 
 - Each reading should include type, measurement including units, comments, location where the reading was collected, and the datetime collected. 
 - A user should be able to download (PDF or TXT) or print a vitals details view
 
+**Details view**
+  - The H1 of the details view should be the category name 
+  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
+  - Each entry in that list should include
+    - Reading
+    - Date of entry
+    - Location of entry 
+    - Comments
+  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
 ## Allergies
 **List view**
