@@ -143,7 +143,10 @@ Because each category of the labs and tests is different, details view for each 
 ## Health conditions
 **List view**
   - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include the issue/problem title, and the date/time it was entered, and the status of the issue (e.g. active/inactive)
+  - Each entry should include 
+    - issue/problem title (preferablly without SCT)
+    - date/time entered
+    - status of the issue (e.g. active/inactive)
   - A user should be able to sort their health issues
     - Chronologically based on initially entered date
     - Alphabetically by issue
@@ -153,9 +156,10 @@ Because each category of the labs and tests is different, details view for each 
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
+    - Status
     - Provider's name
     - Location where the issue was entered
-    - Status
+    - Problem code (aka SCT, this may not be able to separated from Issue/problem title. If it can't be, don't include as part of title and here)
     - Comments
   
 <img width="807" alt="Screenshot 2023-01-31 at 1 46 03 PM" src="https://user-images.githubusercontent.com/65574620/215923319-0ffc1406-1598-4cf7-925d-acefa505764d.png">
