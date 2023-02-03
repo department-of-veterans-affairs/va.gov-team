@@ -1,0 +1,21 @@
+# VSignals Trends - Mobile Check-in and General Check-in
+
+_DRAFT_
+
+This is an analysis of feedback from **November 14, 2022 - January 16, 2023**. We query VSignals feedback for anything that mentions check-in and travel reimbursement. 
+
+## Notable Comments
+
+- Travel pay recommendations
+	> “How about a fast, easy link through MyHealtheVet?”
+- Wifi connection / system errors - Veterans mention system not working or connection dropping
+	> “The new website has frequent outages.”
+- Veterans continue to report checking in via any method (mobile check-in, kiosk, or staff), then being told later that the system didn’t show them as checked in/staff weren’t notified that they were checked in. 
+	> “The self check-in didn't check me in and waited over an hour to be seen.”
+
+
+## Percentage Across Reporting Periods
+
+<img width="681" alt="Screenshot 2023-02-01 at 4 25 03 PM" src="https://user-images.githubusercontent.com/79372956/216664269-a2e815ee-74ef-4a3c-bde4-349557090616.png">
+
+<img width="686" alt="Screenshot 2023-02-01 at 4 25 57 PM" src="https://user-images.githubusercontent.com/79372956/216664238-e234baf2-f4eb-4f60-9fc2-9de69f41fad4.png">
