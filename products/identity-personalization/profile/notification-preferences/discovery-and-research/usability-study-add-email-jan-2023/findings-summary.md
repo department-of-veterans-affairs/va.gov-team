@@ -44,9 +44,11 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 
 ## Methodology 
 
-We conducted sessions remotely via Zoom, and asked participants to explore 2 prototypes through a few tasks.  
+We conducted sessions remotely via Zoom, and asked participants to explore 2 HTML CodePen prototypes by completing 3 tasks.  
 
 One prototype used our existing auto-save pattern, and another used a read/edit pattern similar to the other sections in profile.  We alternated which version we started with for each session.  Both prototypes had the same notification options available.
+- [Auto-save prototype](https://codepen.io/surfbird/full/gOjmPyj)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 
 ## Hypotheses and Conclusions
 
@@ -65,8 +67,7 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
-
+1. Our current auto-saved pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern.  (Jump to finding)
 2. Finding two
 
 3. Finding three
@@ -82,31 +83,51 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Details of Findings 
 
-### Our current auto-saved pattern worked well with additional channels and notifications, and all* participants preferred it to the read/edit pattern. 
-- ***need to confirm it was indeed all participants.**
-Participants were easily able understand and interact with our current auto-save pattern, even with additional notifications and channels. Clicking an edit link to update settings on a separate page felt like more work to participants.
-> This is a lot simpler. It’s just easy, it just saves it and does it. I can quickly see that I don’t have it on and I can just turn it on” - P4
+### Our current auto-saved pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
+Participants were easily able understand and interact with our current auto-save pattern, even with additional notifications and channels. Clicking an edit link to update settings on a separate page felt like more work to participants; 2 participants even suggested an auto-save approach prior to seeing it. 
 
-> ”It’s [the autosave page] a more streamlined user experience” - P1
+> This could just be a toggle, so… you can get rid of a lot of this (mouses over edit button and bell icons), and you could get rid of this whole entire page (clicks edit link and navigates to page to manage notifications) - P1
 
- - The addition of an email channel, and new notifications didn’t introduce any usability hurdles for 8 of 9 participants.
-	- **Confirm:** 1 participant felt overwhelmed by seeing things that weren’t relevant to them (BVA reminders).
--  **Confirm:**Most participants who saw the read/edit variation first suggested auto-save before seeing it.
-- 1 participant wasn’t sure if the edit link would take them to edit their settings, or their contact information.
-- This supports the findings from our [profile editing evaluation study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md) that a “one thing per page” approach is not ideal for the VA.gov profile.
+> This [autosave prototype] is a lot simpler. It’s just easy, it just saves it and does it. I can quickly see that I don’t have it on and I can just turn it on - P4
 
-> ”I don’t really like that [going to a new page]. I would really like to be able to click on and off the little bells [on the same page].” - P6
+> Instead of saying edit, it [autosave prototype] has the checkboxes right here which is infinitely better. - P12
 
-### No one got confused by the lack of a save button.
+ The addition of an email channel, and new notification groups didn’t introduce any usability hurdles for 6 of 8 participants. 2 participants felt commented that they didn’t need to see things that weren’t relevant to them, such has Board of Veteran’s Appeals hearing reminders. They were still able to navigate the page and update their settings.
+
+
+
+### The read/edit pattern introduced some usability problems that weren’t present in the auto-save pattern.
+People were able to work through these problems without significant guidance from the moderator, but still found the auto-save pattern to be easier and faster to navigate. This  further supports the findings from our [profile editing evaluation study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md) that a “one thing per page” approach is not ideal for the short forms in the VA.gov profile.
+
+- 3 of the 8 participants in our study weren’t sure if the edit button would lead them to edit their profile, or the notifications themselves
+> Just out of curiosity, I’m going to hit edit to see if it takes me to my profile. - P9
+- 2 of the 8 participants tried to click the bell icons to update their notification settings, instead of hitting edit.
+> I don’t really like that [going to a new page]. I would really like to be able to click on and off the little bells here. - P6
+
+### No participants were confused by the lack of a save button.
 People felt confident that their changes were saved because of the feedback provided by the input message pattern.
-> It said “update saved”— that’s some good information to let somebody with little to no vision what they typed was actually saved. - P10
 
 > ’Update saved’ makes me feel like something happened. - P4
 
-### The level of information provided about each notification was sufficient for most participants to determine whether or not they wanted to update their presence.
-- **Confirm** 2 participants suggested additional information “on hover” to provide more context about notifications for less tech savvy Veterans.
-- **Confirm:** Most notification group names and item names were clear and easily understood. 
-- In both variations, it was clear to people whether or not their notification settings was on or off.
+> It’s notifying me that it’s been saved. I’m trusting that this is going to work and I don’t need to call. - P9
+
+### Participants found the level of information provided about notifications to be sufficient for them to know whether or not they wanted to update the setting.
+In both prototypes, each notification had a name, channel options (text and/or email), and displayed if it was turned on or off.  
+[screenshot]
+
+All participants understood the channel options and if the notification was turned on or off.  3 participants wondered why some notifications were only available by text or email, but were not bothered by it.
+
+When asked, all participants stated the information displayed was generally for them to make a decision about whether to update a setting.  They had questions about some notifications (detailed in the next finding), but even without clear answers to those questions in the interface, they felt information was sufficient.
+
+### People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.
+
+Multiple participants asked questions about the new notifications coming from MyHealtheVet.
+- Some participants shared questions and comments about the MHV Newsletter notification:
+	- 2 wondered if it would be sent in it’s entirety (preferred for email) or if they’d get a link to go read it somewhere else (preferred if available by text). 
+	- 2 felt that “notification” was not an accurate label for the MHV newsletter, because they associate newsletters with subscriptions rather than notifications.
+- 4 of 8 participants weren’t sure about “Medical images and reports”. They asked if this meant they’d get the images/reports sent to them in some kind of notification, or if it meant they would be notified that they were available and they’d have to go somewhere else to see them (this was their guess, and preference).  An extremely low-vision user wondered how they might understand an image with their screenreader:
+> Medical images and reports… that might be tricky. For blind and low vision users… um… *giggles* I don’t know if it… actually I’ve never looked at a medical image using a screen reader so I don’t even know if it would give a description of the image… but if it’s an x-ray it might be a bit complicated to give an audio description of an image. - P10
+
 
 ### Most participants intuitively navigated the path to add their email address. 
 - Going between the notification settings page and email form was intuitive.
@@ -131,21 +152,35 @@ People felt confident that their changes were saved because of the feedback prov
 > It has a phone number here I can call. - P9
 
 ## Additional Insights
-### CodePen works well for HTML prototypes, especially when set the stage for participants.
+### Most sighted participants didn’t notice the background-only banner under the H1 telling them their update had been saved.
+Screenreader participants heard the announcement immediately upon landing on the page, but X of 8  sighted participants didn’t notice it until it had been pointed out by the moderator.
 
-### 
+> It said “update saved”— that’s some good information to let somebody with little to no vision what they typed was actually saved. - P10
 
+### CodePen works well for HTML prototypes, and we learned ways to use it more effectively for future studies.
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+### People don’t intuitively understand the difference between their login email address and contact email address.
 
+### SMS notifications that new medical information is available would be helpful to Veterans.
+
+4 of 8 participants shared sentiment that they prefer to receive notifications about new secure messages or medical reports via SMS, instead of email. This was mostly due to the immediacy of text messaging and the burden of navigating a crowded inbox:
+> It feels like text would be the most direct way of reaching a person. - P1
+
+> Secure messaging - this is a good thing. And I wish it was a text. Email notifications coming to let me know I got a message on healtheVet get lost in my mailbox. A text to let me know someone has responded is a lot more helpful. - P4
+
+They commented that for things like a newsletter, email would be more appropriate since the content isn’t urgent, and it would likely be too long to be appropriate for an SMS message.
+
+## Research Process Insights
+### Screener questions for assistive technology may be more effective if written to cover 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+### Consider a different pattern to confirm updates have been saved when users go to a new page after saving an update. 
+    * Supported by finding: Most sighted participants didn’t notice the background-only banner under the H1 telling them their update had been saved.
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
+### Learn more about content of My HealtheVet notifications, and update labels accordingly to set clear expectations about what they are.
+- 
+
     * _Supporting evidence_
 
 
