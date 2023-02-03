@@ -10,7 +10,7 @@
         1. Mobile CI - Good and Mobile CI - Bad
         2. General Check-in - Good and General Check-in - Bad
             1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
-        3. **_ADD further instructions on how to determine if they are directly check-in related or not_**
+        3. **_ADD further instructions on how to determine if comments are directly check-in related or not_**
     1. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply. 
 5. Throughout this process, highlight particularly important, new, or interesting comments the team may want to return to in light yellow. 
 6. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
