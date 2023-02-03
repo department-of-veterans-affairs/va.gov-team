@@ -23,13 +23,14 @@
 
 <img width="704" alt="Userflowsimage" src="https://user-images.githubusercontent.com/122128479/214442121-a9460b89-7512-4dee-a791-b3f1691e72b7.png">
 
-This illustrates an additional user flow for Veterans who wouldn't qualify due to their income (above $90k) -- we want to make sure that all income levels are represented, so that there is no 'dead end' for a veteran who doesn't see their income listed.
+This illustrates an additional user flow for Veterans who wouldn't qualify due to their income (above $90k) -- we want to make sure that all income levels are represented, so that there is no 'dead end' for a veteran who doesn't see their income listed. The team did add this use case to their design as of 2/3/23. 
 
 
 ## <a name="map"></a>Page structure<br>
-![Screen Shot 2023-01-24 at 3 42 19 PM](https://user-images.githubusercontent.com/122126772/214437441-123190d6-08ab-499c-8a72-70b6d6ab92e3.png)
+![Screen Shot 2023-02-03 at 2 41 42 PM](https://user-images.githubusercontent.com/122126772/216716150-0d5ae93d-adf8-40e0-ad27-3e58c00bb9ca.png)
 
-The Income Limits tool will be a new page in the More info and resources section of the health hub. It will be after /copay-rates and before /health-needs-conditions
+
+The Income Limits tool will be a new page in the 'More info and resources section' of the health hub. It will be after /communitycare and before /about-affordable-care-act. 
 
 
 
@@ -45,17 +46,20 @@ The Income Limits tool will be a new page in the More info and resources section
 ## <a name="nav"></a>Entry points <br>
 
 1.  Health care hub page - Add
-  - Placement description: Under 'More information and resources', second from the top (right below VA health care copay rates)
+  - Placement description: Under 'More information and resources', under 'Community care' and above 'The Affordable Care Act (ACA) and your VA health care coverage'
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits
+  - NOTE: Copay rates, mental health, health conditions, exposure content, and community care are critically important to health care so those outrank this tool in the "More resources" spoke/section of the hub. We realize this puts this tool in a rather invisible spot in this list, which means it will rely on content page entry points and search - we've highlighted the most important of those below. In the near future, the critical content mentioned above is going to move, so the income limits tool will get bumped up!
+ ![Screen Shot 2023-02-03 at 2 39 33 PM](https://user-images.githubusercontent.com/122126772/216716512-fec28e5f-67be-44c6-84a9-85e36aefb2ba.png)
 
   
  2.  Health care hub left vav - Add
-  - Placement description: Under 'More resources', second from the top (right below VA health care copay rates)
-  - Link label: TBD by Sitewide Content
+  - Placement description: Under 'More resources', under Community care and above Affordable Care Act
+  - Link label: Income Limits
   - Link destination: www.va.gov/health-care/income-limits
- 
+  ![Screen Shot 2023-02-03 at 2 40 24 PM](https://user-images.githubusercontent.com/122126772/216716506-7bebdbc9-07b1-49b2-a2eb-9c6a5b6b8706.png)
 
+ 
 3. Your health care costs - Update link
   - Note: Content will take care of this change, but we wanted to reiterate that we think replacing the link on this page with the link to the new tool and updating the content is important. We guess that most users will find the tool either on this page or the Eligibility page --> we recommend verifying this in user testing.
   - Placement description: On 'Your health care costs' page (https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/). 
@@ -64,7 +68,7 @@ The Income Limits tool will be a new page in the More info and resources section
 
 
 4. Eligibility for VA health care - Update link
-  - Note: Content will take care of this change, but we wanted to reiterate that we think replacing the link on this page with the link to the new tool and updating the content is important. We guess that most users will find the tool either on this page or the Eligibility page --> we recommend verifying this in user testing.
+  - Note: Same as above -- content will take care of this change. This is the other main location we think users will find the tool.
  - Placement description: On Eligibility page (https://www.va.gov/health-care/eligibility/). 
  - Link label + locaction: TBD by Sitewide Content
 <img width="678" alt="eligibilitypage" src="https://user-images.githubusercontent.com/122128479/214926801-ccb5e45c-a290-47c7-b539-99dcbeeb1858.png">
