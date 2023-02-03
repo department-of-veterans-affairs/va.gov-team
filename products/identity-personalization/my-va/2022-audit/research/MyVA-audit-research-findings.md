@@ -114,7 +114,7 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 
 ![Screenshot 2023-02-03 at 4 31 57 PM](https://user-images.githubusercontent.com/97965610/216714689-ebff5f6a-67f2-47e1-927e-3d5247e42e97.png)
 
-_Image of the Claims and appeals section for a user who does not have any to show, so they have text in this section that says "You have no claims or appeals to show" and links to "Learn how to file and claim" and "Manage all claims and appeals."
+_Image of the Claims and appeals section for a user who does not have any to show, so they have text in this section that says "You have no claims or appeals to show" and links to "Learn how to file and claim" and "Manage all claims and appeals."_
 
 > _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
 
@@ -128,7 +128,7 @@ _Image of the Claims and appeals section for a user who does not have any to sho
 
 ![Screenshot 2023-02-03 at 4 33 56 PM](https://user-images.githubusercontent.com/97965610/216714961-6a32712d-da81-4300-9466-13f350fb595a.png)
 
-_Image of the saved applications section, which has a header titled "Saved Applications", a "more info" dropdown that lists all VA benefits and links to their landing pages, and a card for any drafted applications where the user can access and continue their application.
+_Image of the saved applications section, which has a header titled "Saved Applications", a "more info" dropdown that lists all VA benefits and links to their landing pages, and a card for any drafted applications where the user can access and continue their application._
 
 > _"'Applications' is kind of misleading because when we think of applications, we think of 'apps', like Google Chrome is an app." - P6_
 
