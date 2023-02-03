@@ -73,10 +73,11 @@ Any edge cases for downloadable reports?
 
 ## Downloadable reports pages
 This document describes the pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and a more comprehensive report currently referred to as a *VA Blue Button Report*, which can be customized to include or exclude certain pieces of health information.
-- Downloadable Reports Landing Page
-- Blue Button Report generation page
-- Blue Button Download Results Page
-- VA My Health Summary generation page
+- [Downloadable Reports Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#1-downloadable-reports-landing-page)
+- [Blue Button Report generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#2-blue-button-report-generation-page)
+- [Blue Button Download Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#3-blue-button-download-results-page)
+- [VA My Health Summary generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#4-va-my-health-summary-generation-page)
+- [VA My Health Summary Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#5-va-my-health-summary-results-page)
 
 ### 1. Downloadable Reports Landing Page
 This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
@@ -212,10 +213,10 @@ _Info box 2_
 - Heading: This is your personal health information.
    - Text: Your health care professional does not have access to this information unless you share it.
 
-## Page control
+### Page control
 - `[button]` Back to Top
 
-## Feedback control
+### Feedback control
 - `[button]`  Feedback *links to a [survey](https://survey.voice.va.gov/?jAM9oX-MyHealtheVet) hosted on survey.voice.va.gov
 
 <br>
