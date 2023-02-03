@@ -3,7 +3,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
-Date: February 2023
+Date: February 6, 2023
 
 Liz Lantz, liz.lantz@adhocteam.us
 
@@ -212,13 +212,43 @@ They commented that for things like a newsletter, email would be more appropriat
 	- They commented that the word “period” was read out separately at the end of a sentence that contained the link, so they heard “Want to get these notifications by email? First link add your email address to your profile period”
 	- This cost them some extra cognition to make sense of it. They also wondered then if a period would be mistakenly added to the end of their email address.
 	- It also cost them some extra cognition to understand the “first” in the sentence (they expected to hear a second).
+	
+## Recommendations
+### Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
+- The auto-save approach worked well for all participants. 
+- The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
+
+### Learn more about content of My HealtheVet notifications, and update content accordingly to set clear expectations about what they are.
+At this point, we don’t know exactly what each notification contains. We should get a better understanding of that, and update the names of notifications accordingly. For example: 
+- “Medical images and reports” might set more clear expectations if it were called “New medical images and reports available”.    
+- The My HealtheVet newsletter email notification channel may be more clear as “Subscribe to weekly newsletter” than “Notify by email”
+-  Supported by finding “People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.”
+
+### Reconsider how we are encouraging people to add their email address to their profile.
+We have an opportunity to reduce clutter in the UI and set clearer expectations about the 2 step process of adding missing contact information. It’s worth exploring how we might present this important call to action in a clearer way. 
+
+### Explore how we might make the input message pattern more accessible.
+The input message pattern design caused some problems people using magnification. We should look into how we might improve the pattern to reduce that friction and make the design more accessible for all.  Two ideas are to remove the checkmark icon, and reduce the width of the green background.
+
+### Explore how we might surface meaningful and relevant links to people in the notification settings section.
+We know that claim status is incredibly important to Veterans who have a claim or appeal in progress.  How might we give them easier access to that information from profile? 
+
+As we expand the prescription shipping notification options, we should also explore if there’s a way we can make it easier for people to check whether or not the notification is relevant to them based on their pharmacy.
 
 ## Research Process Insights
-### Screener questions for assistive technology may be more effective if written to include more options, including those that would exclude someone from the study.
- 
+### Our latest screener questions for assistive tech users and people with cognitive considerations were more successful than previous versions, but we still have room to improve.
+We asked for 4 participants who require screenreader software to use the internet, and were able to recruit 3 who satisfied the criteria we outlined.
+
+Once we got into the sessions, 1 of the 3 participants didn’t use screenreader software, but rather used built in Windows assistive technology. While this was useful to see, and we learned a lot from this participant, it didn’t quite meet the criteria we outlined.
+
+Another participant stated that they checked “yes” to indicate they had a cognitive consideration simply because there was not a no option.  We later saw that the screener form offered participants a single radio button input for this question, instead of a yes or no.
+
+[insert-screenshot]
+
+In our next study, we’ll provide people with multiple, clearly labeled options for special criteria may get us closer to talking to the folks who can answer our research questions.  We’ll include a “no” or something to negate the other options, as well as an “other” where people can type what they
 
 ### CodePen worked well as a tool for accessible HTML prototypes, and we learned ways to use it more effectively for future studies.
-We set up our CodePen prototype to mirror the accessible HTML we’d use on VA.gov, and found it to be a very successful way to get the research insights we hoped for across a variety of devices, assistive technologies, and skill level:
+We set up our CodePen prototypes to mirror the accessible HTML we’d use on VA.gov, and found it to be a very successful way to get the research insights we hoped for across a variety of devices, assistive technologies, and skill level:
 - 5 desktop participants
 - 2 mobile participants
 - 1 tablet participant
@@ -229,124 +259,103 @@ We set up our CodePen prototype to mirror the accessible HTML we’d use on VA.g
 
 We also learned ways we can improve the experience for future studies, and captured them here (link to come).
 
-## Recommendations
-### Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
-- The auto-save approach worked well for all participants. 
-- The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
-
-### Learn more about content of My HealtheVet notifications, and update labels accordingly to set clear expectations about what they are.
-At this point, we don’t know exactly what each notification contains. We should get a better understanding of that, and update the names of notifications accordingly. For example: 
-- “Medical images and reports” might set more clear expectations if it were called “New medical images and reports available”.    
-- The My HealtheVet newsletter email notification channel may be more clear as “Subscribe to weekly newsletter” than “Notify by email”
--  Supported by finding “People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.”
-
-### Reconsider how we are encouraging people to add their email address to their profile.
-We have an opportunity to reduce clutter in the UI and set clearer expectations about the 2 step process of adding missing contact information. It’s worth exploring how we might present this important call to action in a clearer way. 
-
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
 ## Further research needed
 ### We need to re-evaluate the use of the background-only banner to confirm a save at the top of a page, once people can use their real information.
 This was the first time we tested our new pattern of having a dedicated page for updating contact information.  Most people didn’t acknowledge the update, and that may be OK if they see their own information reflected back to them once it’s saved.  We should re-test the existing pattern in a future study, with people’s actual information to get a sense of how important it is for them to read this confirmation banner.
+
+## Next Steps
+- Review with product team and align on recommendations we’ll take action on.
+- Share findings with the VA Notify and My HealtheVet teams.
+- Create tickets for our backlog based on the recommendations.
 
 ## Appendix
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/session-notes)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/topline-summary.md)
 
 
 ## Tools used for Synthesis
-
-e.g. mural boards, etc.  
-
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1673373506463/1612803cf5440529246a69f92f6bc1b00742f336?sender=ub868d471cfdb1c56cc0b4512)
+- [Topline summary cross-check](https://docs.google.com/spreadsheets/d/1pukrgmkz_VRMxw-o98pBy35LEF8wnrWbMSFGWokvuw4/edit?usp=sharing)
 
 ## Pages and applications used
-
-Link to prototypes or pages that were tested
+- [Auto-save prototype](https://codepen.io/surfbird/full/gOjmPyj)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 
 ## Secondary research
 This study didn’t include any secondary research.
 
 ## Who we talked to 
+ [Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md#recruitment-criteria)
 
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to 9 participants, but one participant had such profound difficulty using Zoom with their screenreader that we were not able to get answers to the majority of our research questions.  That participants data was not included in these findings.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 8 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 4 
+* Female: 4 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+We didn’t ask participants to disclose any LBGTQ+ information
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Tablet: 1 
+* Smart phone: 2 
+* Assistive Technology: 2
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 2
+* 45-54: 2
+* 55-64: 3
+* 65+: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 5
+* Rural: 3
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 4
+* Black: 3
+* Hispanic: 1*
+* Biracial: 1*
+* Asian: 1*
+* Native: 1*
+* *A single participant identified with all of these races
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 7
+* AT beginner: 0
+* AT advanced user: 2
+* Desktop screen reader: 0
+* Mobile screen reader: 1
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
