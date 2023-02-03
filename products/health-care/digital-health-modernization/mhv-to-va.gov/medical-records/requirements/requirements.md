@@ -46,8 +46,7 @@
  - The H1 of the details view should be the lab or test type. 
  - Where possible and clinically permissable, transform text to make a note easier to read.
  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
-
-Because each category of the labs and tests is different, details view for each entry will also vary. 
+ - Because each category of the labs and tests is different, details view for each entry will also vary: 
   - Radiology reports
     - Procedure/test name
     - Date/time exam performed
@@ -123,7 +122,7 @@ Because each category of the labs and tests is different, details view for each 
 
 - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
 - A user should be able to see a list of all of their notes, ordered chronologically. 
-- Each entry should include the 
+- Each entry should include the:
   - Date
     - VA note: date of note
     - Admission & discharge summary: Date of admission
@@ -141,7 +140,6 @@ Because each category of the labs and tests is different, details view for each 
   
 **Details view**
   - The H1 of the details view should be the title of the note. 
-  - Each note should include
   - Where possible and clinically permissable, transform text to make a note easier to read.
   - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
 
@@ -225,6 +223,7 @@ Because each category of the labs and tests is different, details view for each 
   - Reaction/side effect
   - Location
   - Source
+- A user should be able to click into each entry to learn more details.
 - A user should be able to print or download (PDF or TXT) the complete allergies list. 
 - A user should be able to sort the list alphabetically by allergen/reactant name and chronologically based on initially entered date.
 
