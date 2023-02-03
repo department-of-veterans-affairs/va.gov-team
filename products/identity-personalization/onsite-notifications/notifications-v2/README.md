@@ -188,7 +188,7 @@ Potentially also, if time:
 
 #### To start
 
-- **Adding notification center to the navigation** - If discovery yields this direction, we should start working across teams to get the navigation updated. **However, this is highly dependent on discovery, so exact approach is not defined yet**. This may manifest as other work, like having a number indicator for My VA re: new notifications vs. having a separate notification center in the nav. Exact approach TBD.
+- **Adding notification center to the navigation** - If discovery yields this direction, we should start working across teams to get the navigation updated. **However, this is highly dependent on discovery, so exact approach is not defined yet**. This may manifest in many ways. Exact approach TBD.
 - **New notifications** - Add new notifications, if possible/needed.
 ### Q4 CY2023
 
