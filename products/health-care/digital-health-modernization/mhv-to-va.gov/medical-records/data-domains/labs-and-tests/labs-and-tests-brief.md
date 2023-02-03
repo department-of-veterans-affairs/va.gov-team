@@ -132,9 +132,9 @@ Labs and Tests represent health information that may be categorized as lab work 
 - Note: Based on notice within the Blue Button report and documentation on MHV, these are no longer being updated, but historical records are available
 
 ##### Data Source(s)
-From an email thread:
+From an email thread (click for larger image):
 
-<img width="10" alt="image" src="https://user-images.githubusercontent.com/69174644/216631988-f51dcf31-271a-4fa1-a586-cc120e600e12.png" target = "blank">
+<img width="50" alt="image" src="https://user-images.githubusercontent.com/69174644/216631988-f51dcf31-271a-4fa1-a586-cc120e600e12.png" target = "blank">
 
 "Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
  
@@ -189,9 +189,9 @@ _Cards included:_
 _Findings:_
 - Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
 - Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
-- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%). 
+- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%).  (click below for larger image)
 
-<img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
+<img width="50" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png" target="blank">
 
 
 **Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
