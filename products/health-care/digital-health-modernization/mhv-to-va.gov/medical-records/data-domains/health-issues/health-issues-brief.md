@@ -39,7 +39,7 @@ This domain provides Veterans with a summary of the active health concerns conta
 9. Generating a VA Health Summary is a lengthy process due to the background process that must be run to collect the data.  The browser shows a status and will display links to view, download PDF, Download XML or Send the health summary once the report has been generated. 
 10. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
 
-## Health issues data fields
+## Health conditions data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
 
 **Data field title:** Health conditions
