@@ -74,19 +74,24 @@ Last Updated: January 27,2023
 
 
 ##  Planning Meetings
-| Meeting                  | Cadence         | Attendees/Groups                 |Agenda/Focus       | **Facilitator**  | 
+| **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator**  | 
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
-| *Quarterly Planning*       | Every 3 months  | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
+| *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Heather, A6? |Discuss product roadmap and OKR status |Denise Coveyduc  | 
+| *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
 | *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Denise Coveyduc  | 
 | *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Denise Coveyduc  | 
 | *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Denise Coveyduc  | 
-| P*M + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks| 
+| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks| 
+
+
 
 ##  Stateholder Meetings
 | **Meeting** | **Cadence**      | **Attendees/Groups**   |**Agenda/Focus**    |**Facilitator**  | 
 |-------------|--------|-------------|---------|----------|
 | *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Jill Anderson (DMC)  |   
 | *Debt Team Demo* | Monthly (Encompasses two sprints)     | Matt Self, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
+
+
 
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
