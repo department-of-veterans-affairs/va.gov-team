@@ -45,12 +45,12 @@ Last Updated: January 27,2023
 |DSVA Product Manager   |Matt Self                           |
 |Sr. Product Manager    |Denise Coveyduc                     |
 |Delivery Manager       |Heather Rienks                     |
-|Sr. Back End Engineer  |Scott James                         |
+|Lead Back End Engineer  |Scott James                         |
 |Back End Engineer      |TBD                                 |
-|Sr. Front End Engineer |Andrew Rodiek                       |
+|Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
 |Sr. Front End Engineer |Aaron Ponce                        |
-|Sr. UX Designer/Research|Megan Gayle                         |
+|Lead Designer/Research|Megan Gayle                         |
 |Sr. UX Researcher       |Charlotte Cesana                    |
 |Product Designer        |Joseph Lee                          |
 
