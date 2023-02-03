@@ -114,6 +114,8 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 
 ![Screenshot 2023-02-03 at 4 31 57 PM](https://user-images.githubusercontent.com/97965610/216714689-ebff5f6a-67f2-47e1-927e-3d5247e42e97.png)
 
+_Image of the Claims and appeals section for a user who does not have any to show, so they have text in this section that says "You have no claims or appeals to show" and links to "Learn how to file and claim" and "Manage all claims and appeals."
+
 > _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
 
 > _"I like it because I have in the past had a debt so I definitely don't mind it. I like to see that I don't have any debts or copays to show." ... "I like it being there personally because I like knowing that I don't owe the VA anything." ... "I've never dismissed the idea of going back to school and I like that being there [The education and training section] as a reminder." - P5_
@@ -125,6 +127,8 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 **The "Saved Applications" section is confusing to Veterans.** 11 out of 13 participants thought that both submitted and in-progress applications would appear in this section. There was also confusion around the term "applications" and several participants thought of a computer application rather than a benefit application initially.
 
 ![Screenshot 2023-02-03 at 4 33 56 PM](https://user-images.githubusercontent.com/97965610/216714961-6a32712d-da81-4300-9466-13f350fb595a.png)
+
+_Image of the saved applications section, which has a header titled "Saved Applications", a "more info" dropdown that lists all VA benefits and links to their landing pages, and a card for any drafted applications where the user can access and continue their application.
 
 > _"'Applications' is kind of misleading because when we think of applications, we think of 'apps', like Google Chrome is an app." - P6_
 
@@ -138,6 +142,8 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 **The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
 
 ![Screenshot 2023-02-03 at 4 34 52 PM](https://user-images.githubusercontent.com/97965610/216715109-2866021a-da96-4de9-9023-3042441b9925.png)
+
+_Image of the Education and Training section, which has links for "Learn how to apply for VA education benefits", "Compare GI bill benefits by school", and "Check your GI Bill Statement of Benefits."
 
 > _"I'm not familiar with the term [GI Bill Statement of Benefits]. Maybe it's where I could see what benefits I'm getting through the GI bill. I'd want to see what's getting paid to me and what's getting paid to the school, and I don't have any way of doing that." - P2_
 
@@ -154,7 +160,7 @@ _Example: If a user doesn't have any claims or appeals to show, they'll still se
 
 ![Screenshot 2023-02-03 at 4 36 51 PM](https://user-images.githubusercontent.com/97965610/216715426-5afdf3bb-a06e-41b1-86fd-1d5214b50048.png)
 
-_Example of difference between H2 text and body text_
+_Example of difference between H2 text and body text which are significantly different sizes_
 
 
 ## Additional Insights
