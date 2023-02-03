@@ -243,14 +243,14 @@ _Info box 2_
      - mhv_MHVZZVISNFIFTEEN_20230203_1139.pdf
      - 6809 KB
      - 03 Feb 2023 @ 1139
-     - `link text`View \<br> `link text`Download PDF *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
+     - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
      
   - TABLE ROW TWO (for Text file) sample contents: 
      - Selected Health Data
      - mhv_MHVZZVISNFIFTEEN_20230203_1139.txt
      - 6809 KB
      - 03 Feb 2023 @ 1139
-     - `link text`View \<br> `link text`Download TXT *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
+     - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
 
 ### 4. VA My Health Summary generation page
 This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.
@@ -277,14 +277,14 @@ This page provides the ability for the user to generate a My VA Health Summary R
      - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
      - 03 Feb 2023 @ 1218
      - Ready to Download
-     - `link text`View \<br> `link text`Download PDF *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
+     - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
      
   - TABLE ROW TWO (for previous health summary) sample contents: 
      - Previous Summary
      - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230201_1848
      - 01 Feb 2023 @ 1348
      - Ready to Download
-     - `link text`View \<br> `link text`Download TXT *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT 
+     - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. <br> `Download` downloads the TXT 
 
 #### `H1` My VA Health Summary Download Results
 
