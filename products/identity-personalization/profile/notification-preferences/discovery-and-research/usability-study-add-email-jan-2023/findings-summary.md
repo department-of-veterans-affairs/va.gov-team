@@ -122,12 +122,12 @@ When asked, all participants stated the information displayed was generally for 
 ### People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.
 
 Multiple participants asked questions about the new notifications coming from MyHealtheVet.
-- Some participants shared questions and comments about the MHV Newsletter notification:
-	- 2 wondered if it would be sent in it’s entirety (preferred for email) or if they’d get a link to go read it somewhere else (preferred if available by text). 
-	- 2 felt that “notification” was not an accurate label for the MHV newsletter, because they associate newsletters with subscriptions rather than notifications.
 - 4 of 8 participants weren’t sure about “Medical images and reports”. They asked if this meant they’d get the images/reports sent to them in some kind of notification, or if it meant they would be notified that they were available and they’d have to go somewhere else to see them (this was their guess, and preference).  An extremely low-vision user wondered how they might understand an image with their screenreader:
 > Medical images and reports… that might be tricky. For blind and low vision users… um… *giggles* I don’t know if it… actually I’ve never looked at a medical image using a screen reader so I don’t even know if it would give a description of the image… but if it’s an x-ray it might be a bit complicated to give an audio description of an image. - P10
 
+- Some participants shared questions and comments about the MHV Newsletter notification:
+	- 2 wondered if it would be sent in it’s entirety (preferred for email) or if they’d get a link to go read it somewhere else (preferred if available by text). 
+	- 2 felt that “notification” was not an accurate label for the MHV newsletter, because they associate newsletters with subscriptions rather than notifications.
 
 ### Most participants intuitively navigated the path to add their email address. 
 - Going between the notification settings page and email form was intuitive.
@@ -176,12 +176,14 @@ They commented that for things like a newsletter, email would be more appropriat
 ## Recommendations
 
 ### Consider a different pattern to confirm updates have been saved when users go to a new page after saving an update. 
-    * Supported by finding: Most sighted participants didn’t notice the background-only banner under the H1 telling them their update had been saved.
+
+- Supported by finding “Most sighted participants didn’t notice the background-only banner under the H1 telling them their update had been saved.”
 
 ### Learn more about content of My HealtheVet notifications, and update labels accordingly to set clear expectations about what they are.
-- 
-
-    * _Supporting evidence_
+At this point, we don’t know exactly what each notification contains. We should get a better understanding of that, and update the names of notifications accordingly. For example: 
+- “Medical images and reports” might set more clear expectations if it were called “New medical images and reports available”.    
+- The My HealtheVet newsletter email notification channel may be more clear as “Subscribe to weekly newsletter” than “Notify by email”
+-  Supported by finding “People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.”
 
 
 ## Next Steps
