@@ -1,6 +1,6 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: Jan 18, 2023
+Last updated: Feb 3, 2023 | [Change Log](#change-log)
 
 ## Purpose
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
@@ -230,3 +230,13 @@ Q: What is the expected timing for adding in self-entered test data?
 - Generate files that are compatible with common PHR systems so that they can be uploaded to another provider's system
 
 ## Additional notes
+
+
+<br>
+## Change Log
+| ---------------|------------------|---------------------------------------------------------------------|
+|Date            | Changed By       | Description of Change                                               |
+|2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports.                        |
+|                |                  |                                                                     |
+
+
