@@ -20,8 +20,8 @@
 
 ## Vaccines
 **List view**
+
 - A user should be able to see a list of their vaccines ordered chronologically by date (descending). 
-- A user should be able to sort the list by date received and alphabetically by vaccines name.
 - A user should be able to print and download (PDF and TXT) their entire vaccine record. 
 - Each vaccine entry on the list should include:
   - Vaccine's name
@@ -29,17 +29,18 @@
   - Location
   - Link to details 
   
-**Details view**
+**Details view**  
+
 - Date received
 - Type and dosage 
 - Series 
 - Facility 
 - Reactions
 - Comments
-
 - A user should be able to print and download (PDF and TXT) each vaccine detail. 
 
 **Not for first iteration, requires future usability research**
+- A user should be able to sort the list by date received and alphabetically by vaccines name.
 - A user should be able to print and download (PDF and TXT) their vaccines in different ways: 
   - Multiple entries of the same vaccine
   - Vaccines that they received in a certain time range
