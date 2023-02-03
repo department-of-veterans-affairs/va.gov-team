@@ -17,7 +17,7 @@
     1. After completing the calculations, copy the last mm-dd-yyyyTrends tab. Name the new tab with the new date, then copy the percentage calculations into the table at the top of this new trends tab.
     2. You can now create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
     3. Export the graphs, so they are ready to add to your final report.
-7. Update VSignals-trends.md Github file
+7. Update the [VSignals-trends.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals-trends.md) Github file
     1. Update the analysis dates.
     2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
     3. Create a list of a few Notable Comments you highlighted from the latest reporting period. 
