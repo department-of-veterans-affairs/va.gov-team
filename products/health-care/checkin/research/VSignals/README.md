@@ -1,6 +1,32 @@
 # Biweekly Process for Analyzing VSignals Feedback
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
+3. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
+    1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
+    2. If you need access to the OneDrive document and do not have it, message Ben.
+    3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
+4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment.
+    1. The comment categories and general guidelines for determining if a comments applies are as follows:
+        1. Mobile CI - Good and Mobile CI - Bad
+        2. General Check-in - Good and General Check-in - Bad
+            1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
+        3. **_ADD further instructions on how to determine if they are directly check-in related or not_**
+    1. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply. 
+5. Throughout this process, highlight particularly important, new, or interesting comments the team may want to return to in light yellow. 
+6. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
+    1. After completing the calculations, copy the last mm-dd-yyyyTrends tab. Name the new tab with the new date, then copy the percentage calculations into the table at the top of this new trends tab.
+    2. You can now create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
+    3. Export the graphs, so they are ready to add to your final report.
+7. Update VSignals-trends.md Github file
+    1. Update the analysis dates.
+    2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
+    3. Create a list of a few Notable Comments you highlighted from the latest reporting period. 
+8. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
+
+
+## Process followed prior to February 2023
+
+1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
     1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
     2. If you need access to the OneDrive document and do not have it, message Ben.
