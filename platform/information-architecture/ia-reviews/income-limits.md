@@ -49,7 +49,7 @@ The Income Limits tool will be a new page in the 'More info and resources sectio
   - Placement description: Under 'More information and resources', under 'Community care' and above 'The Affordable Care Act (ACA) and your VA health care coverage'
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/health-care/income-limits
-  - NOTE: Copay rates, mental health, health conditions, exposure content, and community care are critically important to health care so those outrank this tool in the "More resources" spoke/section of the hub. We realize this puts this tool in a rather invisible spot in this list, which means it will rely on content page entry points and search - we've highlighted the most important of those below. In the near future, the critical content mentioned above is going to move, so the income limits tool will get bumped up!
+  - NOTE: Copay rates, mental health, health conditions, exposure content, and community care are critically important to health care so those outrank this tool in the "More resources" spoke/section of the hub. We realize this puts this tool in a less visible spot in this list, which means it will rely more on content page entry points and search - we've highlighted the most important of those below. In the near future, the critical content mentioned above is may move, so the income limits tool will get bumped up!
  ![Screen Shot 2023-02-03 at 2 39 33 PM](https://user-images.githubusercontent.com/122126772/216716512-fec28e5f-67be-44c6-84a9-85e36aefb2ba.png)
 
   
