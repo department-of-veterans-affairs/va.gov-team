@@ -73,6 +73,10 @@ Any edge cases for downloadable reports?
 
 ## Downloadable reports pages
 This document describes the pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and a more comprehensive report currently referred to as a *VA Blue Button Report*, which can be customized to include or exclude certain pieces of health information.
+- Downloadable Reports Landing Page
+- Blue Button Report generation page
+- Blue Button Download Results Page
+- VA My Health Summary generation page
 
 ### 1. Downloadable Reports Landing Page
 This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
@@ -97,9 +101,9 @@ This page provides the user with options to control the information that is incl
 
 #### `H1` Download My Selected Data
 
-- `[info icon]` `[linked text]` VA Blue Button User Guide `link href: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf`
-- `[info icon]` `[linked text]` Learn More `link href: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
-- `[info icon]` `[linked text]` Protecting Your Personal Health Information `link href: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
+- `[info icon]` `[linked text]` VA Blue Button User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf
+- `[info icon]` `[linked text]` Learn More *links to: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
+- `[info icon]` `[linked text]` Protecting Your Personal Health Information *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
 
 #### 2.0. `[Step 1 indicator]` `[heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
 
@@ -185,34 +189,54 @@ This page provides the user with options to control the information that is incl
 
 ##### 2.1.10 `[heading]` Demographics and Health Insurance
 
+- 2.1.10.00 `[checkbox]` VA Demographics (Demographic information from VA Treating Facilities in the last 3 years)
+- 2.1.10.01 `[checkbox]` Demographics, Self-Reported
+- 2.1.10.02 `[checkbox]` Health Insurance, Self-Reported
+- 2.1.10.03 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
 ##### 2.1.11 `[heading]` Department of Defense Information
+
+- 2.1.11.00 `[checkbox]` Department of Defense Military Service Information
 
 ### Form Controls
 - `[button]` Submit
 - `[button]` Reset
 - `[button]` Cancel
 
+### Info boxes
+_Info box 1_
+- Heading: Protect your information and identity.
+   - Text: Send your information to a safe site or device that you or someone you trust controls. Remember, once you have downloaded your information from My HealtheVet, it is your responsibility to keep it safe and private. Learn more about [protecting your personal health information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information).
+
+_Info box 2_
+- Heading: This is your personal health information.
+   - Text: Your health care professional does not have access to this information unless you share it.
+
+## Page control
+- `[button]` Back to Top
+
+## Feedback control
+- `[button]`  Feedback *links to a [survey](https://survey.voice.va.gov/?jAM9oX-MyHealtheVet) hosted on survey.voice.va.gov
+
 <br>
 
-
 ### 3. Blue Button Download Results Page
-- Provides a link to the user guide
+- Provides a link to the Blue Button user guide
 - Displays a status showing when the report has been generated
 - Displays a warning that details any information that was unable to be updated. 
 - Provides a disclaimer: "If you proceed with your download while updates are in progress, you may not get the most current information. Updates are done once a day."    This disclaimer liks to the [Blue Button Check Updates overview](https://www.myhealth.va.gov/mhv-portal-web/blue-button-check-updates-overview).
 
-- Displays a table with two rows (one for PDF and one for TXT) and five columns. 
-- There are two headings above the table:
-  -  Heading 1: Personal Health Information of FIRST NAME LAST NAME
-  -  Heading 2: DOWNLOAD YOUR DATA
+  -  `[Heading]` Personal Health Information of FIRST NAME LAST NAME
+  -  `[Heading]` DOWNLOAD YOUR DATA
   
+  `[Table]`
   - TABLE HEADINGS
      - File Contents
      - File Name 
      - File Size 
      - Request Date 
      - I Want To...
+     -
   - TABLE ROW ONE (for PDF File) sample contents: 
      - Selected Health Data
      - mhv_MHVZZVISNFIFTEEN_20230203_1139.pdf
@@ -227,14 +251,56 @@ This page provides the user with options to control the information that is incl
      - 03 Feb 2023 @ 1139
      - `link text`View \<br> `link text`Download TXT *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
 
-### 3. VA My Health Summary generation page
+### 4. VA My Health Summary generation page
 This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.
 
+### 5. VA My Health Summary results page
+- Provides a link to the Blue Button user guide
+- Displays a status showing when the report has been generated
+- Displays a warning that details any information that was unable to be updated. 
+- Provides a disclaimer: "If you proceed with your download while updates are in progress, you may not get the most current information. Updates are done once a day."    This disclaimer liks to the [Blue Button Check Updates overview](https://www.myhealth.va.gov/mhv-portal-web/blue-button-check-updates-overview).
+
+  -  `[Heading]` Personal Health Information of FIRST NAME LAST NAME
+  -  `[Heading]` Download Your VA Health Summary
+  -
+  `[Table]`
+  - TABLE HEADINGS
+     - File Contents
+     - File Name 
+     - Request Date 
+     - Status 
+     - I Want To...
+     
+  - TABLE ROW ONE (for latest health summary) sample contents: 
+     - Current Summary
+     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
+     - 03 Feb 2023 @ 1218
+     - Ready to Download
+     - `link text`View \<br> `link text`Download PDF *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
+     
+  - TABLE ROW TWO (for previous health summary) sample contents: 
+     - Previous Summary
+     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230201_1848
+     - 01 Feb 2023 @ 1348
+     - Ready to Download
+     - `link text`View \<br> `link text`Download TXT *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT 
+
+#### `H1` My VA Health Summary Download Results
+
+- `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf
+- `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
+- `[info icon]` `[linked text]` What's in the VA Health Summary *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information*
+
+`[info block A]`  *appears if data has NOT been updated in the last 25 hours
+`[info block B]`  *appears if data has been updated
+
+`[Heading]` Personal Health Information of FIRSTNAME LASTNAME
+`[Heading]` Download Your VA Health Summary
 
 
+`[text]` The VA Health Summary contains specific information from your VA medical record. You can use it to review your VA care and to share your information with community providers, family, or others who help you with your health.
 
-
-
+<br>
 
 **View, share, download considerations:**
 - VA Health Summary provides the ability for the user to:
