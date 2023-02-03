@@ -121,28 +121,23 @@ Because each category of the labs and tests is different, details view for each 
 
 **List view**
 
-- At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
-- A user should be able to see a list of all of their notes, ordered chronologically. 
-- Each entry should include the note title, who signed the note, the date of the note, and the location where that note was written. 
-- A user should be able to click into each entry to get more details.
+- A user should be able to see a list of vital sign categories, listed alphabetically. 
+- Each entry should include
+  - Category name
+  - Latest reading
+  - Date of latest reading
+  - Location of latest reading
+- A user should be able to click into each category to see a historical list of readings
   
 **Details view**
-  - The H1 of the details view should be the title of the note. 
-  - Each note should 
-  - Where possible and clinically permissable, transform text to make a note easier to read.
-  - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
-
- **Not for first iteration, requires future usability research**
-    
-  - A user should be able to sort their notes in different ways
-    - Chronologically
-    - By location, chronologically
-    - By signing physician, chronologically
-  - A user should be able search Notes to find what they are looking for.
-    - A user should be able to search by note metadata, such as note title, signing or co-signing physician, location, or date. 
-    - A user should be able to search for keywords in the body content of a note, such as "high blood pressure" or "back pain." A common use case is finding reference to a specific health condition in order to support something like a disability claim.
-    - Search results should be ordered chronologically, from newest to oldest, and matches should be highlighted. 
-    - The search box can be collapsed to create real estate for the list view of notes. 
+  - The H1 of the details view should be the category name 
+  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
+  - Each entry in that list should include
+    - Reading
+    - Date of entry
+    - Location of entry 
+    - Comments
+  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
 
 ## Health conditions
@@ -171,7 +166,7 @@ Because each category of the labs and tests is different, details view for each 
   
 
 ## Vitals
-- A user must be able to view readings from each of the following categories of vitals
+**Includes**
   - Blood pressure
   - Blood sugar
   - Heart rate
@@ -182,6 +177,8 @@ Because each category of the labs and tests is different, details view for each 
   - Body Temperature
   - International Normalized Ratio (INR)
   - Pain
+
+**List view**
 - For each category, a user must be able to click in and see a historical list of readings. a use must be able to view readings within a category over time to be able to quickly understand change over time. 
 - Each reading should include type, measurement including units, comments, location where the reading was collected, and the datetime collected. 
 - A user should be able to download (PDF or TXT) or print a vitals details view
