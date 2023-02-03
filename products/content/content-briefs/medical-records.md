@@ -34,17 +34,6 @@ This brief will help your team create content for your product that aligns with 
 
 ## SEO and VA.gov search
 
-### Terms related to "vaccines" have larger search volume
-
-#### Top 10 on-site search terms related to vaccines (1.31.22 - 1.31.23)
-
-![image (4)](https://user-images.githubusercontent.com/104158104/216100618-72a1f362-6fee-4ae8-9f90-05db17b2ef34.png)
-
-### Terms related to "immunizations" also have some search volume
-
-#### Top 10 on-site search terms related to immunizations (1.31.22 - 1.31.23)
-
-![image (5)](https://user-images.githubusercontent.com/104158104/216101546-259d1b36-444a-4ba2-a56a-ba2359aa2ee6.png)
 
 ## Content-specific research findings
 
