@@ -20,11 +20,11 @@
 7. Update the [VSignals-trends.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals-trends.md) Github file
     1. Update the analysis dates.
     2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
-    3. Create a list of a few Notable Comments you highlighted from the latest reporting period. 
+    3. Update the list of Notable Comments to include a few important comments you highlighted this reporting period. 
 8. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
 
 
-## Process followed prior to February 2023
+## Process followed prior to Feb. 2023
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
