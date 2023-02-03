@@ -314,6 +314,77 @@ Because each category of the labs and tests is different, details view for each 
     - Work Phone Number
 
 ## DoD Information
+**List view** 
+- A user should be able to see all 9 sections of their DoD information. 
+- This list includes: 
+  - Regular Active Service
+  - Reserve/Guard Association Periods
+  - Reserve/Guard Activation Periods
+  - Deployment Periods
+  - DoD MOS/Occupation Codes
+  - Military/Combat Pay Details
+  - Separation Pay Details
+  - Retirement Periods
+  - DoD Retirement Pay
+
+**Details view** 
+- Each section on the list might include more information. For the sections that include more information, they should be presented as accordions.  
+- Regular Active Service
+  - Service
+  - Begin Date
+  - End Date
+  - Character of Service
+  - Rank
+- Reserve/Guard Association Periods
+  - Service
+  - Begin Date
+  - End Date
+  - Character of Service
+  - Rank
+- Reserve/Guard Activation Periods
+  - Service
+  - Begin Date
+  - End Date
+  - Activated Under (Title 10, 32, etc.)
+- Deployment Periods
+  - Service
+  - Begin Date
+  - End Date
+  - Conflict
+  - Location
+- DoD MOS/Occupation Codes
+  - Service
+  - Begin Date
+  - Enl/Off
+  - Type
+  - Service Occupation Code
+  - DoD Occupation Code
+- Military/Combat Pay Details
+  - Service
+  - Begin Date
+  - End Date
+  - Military Pay Type
+  - Location
+- Separation Pay Details
+  - Service
+  - Begin Date
+  - End Date
+  - Separation Pay Type
+- Retirement Periods
+  - Service
+  - Begin Date
+  - End Date
+  - Retirement Type
+  - Rank
+- DoD Retirement Pay
+  - Service
+  - Begin Date
+  - End Date
+  - Disability Percent
+  - Pay Stat
+  - Termination Reason
+  - Stop Pay Reason
+
 
 ## Blue Button Reports
 - We will continue to provide the ability to create and download Blue Button reports as these reports fill different needs for Veterans and contain different information than the Health Summary.
