@@ -1,6 +1,6 @@
 # Allergies: Data fields and UX considerations
 
-Last updated: January 26, 2023
+Last updated: January 26, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -91,4 +91,13 @@ Allergies reflects allergies that relate to medications. Should be linked with t
 
 
 ## Additional notes
+
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
+
 
