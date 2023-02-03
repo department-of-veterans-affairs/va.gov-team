@@ -244,7 +244,7 @@ Q: What is the expected timing for adding in self-entered test data?
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023-02-03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
+| 2023/02/03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
 |                 |                  |                                                                                                                     |
 
 
