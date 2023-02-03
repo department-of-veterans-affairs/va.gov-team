@@ -15,6 +15,8 @@ ________________________________________________________________________________
       - Use new path discussed
 
 #### UX Sprint Goals 
+- [Poster Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53060)
+   - [Add Disclaimer to Posters that the VA will Never Ask for Personal Financial Info as part of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53061)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [[UX] [PRODUCT] Complete Functional Testing/QA of eCheck-in Workflow with Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
