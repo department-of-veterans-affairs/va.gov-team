@@ -110,6 +110,9 @@ Considering that the overwhelming amount of participants did not feel anything w
 
 **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** Some Veterans (4 out of 13) expressed wanting to either reorder the sections or collapse empty sections to suit their needs but the majority did not mind the empty sections or the ordering as it currently is on My VA. Some Veterans even said that they appreciate seeing empty sections to remember that those benefits are available to them or for reassurance of the current state, like having no debt to VA.
 
+_Example: If a user doesn't have any claims or appeals to show, they'll still see the section with "nothing to show" text and a couple secondary links._
+![Screenshot 2023-02-03 at 4 31 57 PM](https://user-images.githubusercontent.com/97965610/216714689-ebff5f6a-67f2-47e1-927e-3d5247e42e97.png)
+
 > _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
 
 > _"I like it because I have in the past had a debt so I definitely don't mind it. I like to see that I don't have any debts or copays to show." ... "I like it being there personally because I like knowing that I don't owe the VA anything." ... "I've never dismissed the idea of going back to school and I like that being there [The education and training section] as a reminder." - P5_
@@ -119,6 +122,8 @@ Considering that the overwhelming amount of participants did not feel anything w
 **Finding 4**
 
 **The "Saved Applications" section is confusing to Veterans.** 11 out of 13 participants thought that both submitted and in-progress applications would appear in this section. There was also confusion around the term "applications" and several participants thought of a computer application rather than a benefit application initially.
+
+![Screenshot 2023-02-03 at 4 33 56 PM](https://user-images.githubusercontent.com/97965610/216714961-6a32712d-da81-4300-9466-13f350fb595a.png)
 
 > _"'Applications' is kind of misleading because when we think of applications, we think of 'apps', like Google Chrome is an app." - P6_
 
@@ -130,6 +135,8 @@ Considering that the overwhelming amount of participants did not feel anything w
 **Finding 5**
 
 **The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
+
+![Screenshot 2023-02-03 at 4 34 52 PM](https://user-images.githubusercontent.com/97965610/216715109-2866021a-da96-4de9-9023-3042441b9925.png)
 
 > _"I'm not familiar with the term [GI Bill Statement of Benefits]. Maybe it's where I could see what benefits I'm getting through the GI bill. I'd want to see what's getting paid to me and what's getting paid to the school, and I don't have any way of doing that." - P2_
 
@@ -143,6 +150,9 @@ Considering that the overwhelming amount of participants did not feel anything w
 > _"I like its simplicity. I understand why this page may be very basic, I don't know how pretty it is. When I use bells and whistles out in the commercial world, they attract people's eye so that's why a lot of pages are aggravating for me but I know why because with screen readers we like industrial stuff that doesn't have a lot of extra stuff. People coming here are probably coming here for a reason. It's not like they have to compete with other retailers so there's probably not a lot of wizz bang." ... "If people would just think about accessibility in the beginning, everything would be so much easier for them and for us. I like this page very much. I wish more web pages were like it." - P7_
 
 > _"The headers are very readable for old tired eyes but it drops off pretty quickly from that to this [points at body text]. I can see it but I have to kind of zoom in and get my trifocals." -P9_
+
+![Screenshot 2023-02-03 at 4 36 51 PM](https://user-images.githubusercontent.com/97965610/216715426-5afdf3bb-a06e-41b1-86fd-1d5214b50048.png)
+_Example of difference between H2 text and body text_
 
 
 ## Additional Insights
