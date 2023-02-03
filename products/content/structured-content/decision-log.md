@@ -119,9 +119,21 @@ MVP thoughts:
   - In others, eligibility is a blue "blobby" area with all the details
   - The eligibility content itself is not going to be hardened – it would be a blob in the CMS
 
+**Schema.org** – benefits Veterans by making organic search results better, even answering questions without visiting site. 
+- KPI idea: reduction in traffic on pages where the organic search experience is able to leverage the schema really well, while at the same time benefit delivery is unchanged
+- [Schema.org details for gov’t services](https://schema.org/GovernmentService)
+- Christia to look into it; Swirt has experience
+- Dave C: let’s build the BE around schema.org, so all the consumers can follow the standards
+- The drupal machine name is the thing that should correspond to schema.org
+- **Schema.org research**: Christia's notes in [CMS-repo ticket 10240](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10240#issuecomment-1228727561).
+  - Drupal has two modules that could apply 
+    - [Blueprint module](https://www.drupal.org/project/schemadotorg) - (still in development as of Aug 2022)
+    - [Metatag Module and Schema.org Metatag](https://www.drupal.org/project/schema_metatag) - stable sub-module, we already use Metatag (parent module)
+    - recommendation: due to lack of maturity of Blueprint, better solution may be to use the Schema.org Metatag sub module for Metatag module, which we already have installed.
+
 Next steps:
 - Build [Mural](https://app.mural.co/invitation/mural/vagov6717/1660845137501?sender=u907f83e01e35bb04de6f8139&key=96ac157c-b924-483d-96c7-8831613a101b) to look at patterns in existing Hub content
-- Github issue https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10242
+- Github issue https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10242 – She gathered tons of good background materials in the comments, including both content-model background and Drupal implementation details from the Benefit Hubs.
 
 
 ### 8/4/22 – deeper dive with Content
@@ -132,6 +144,8 @@ Danielle T, Dave C
 - Node count: Target Zero impact or improvement to speed of publishing (?)
   - (Current speed is node-count dependent)
 - DC quite interested/concerned about permissions, who will need to be able to make changes to each atomic piece/field
+
+Technical discovery ticket (Christia took on): https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9910
 
 ### 7/28/22 Tech background meeting with Steve Wirt (CMS team)
 
