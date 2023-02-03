@@ -45,9 +45,9 @@ We have a hypothesis that self-service works well for simplified or automated us
 
 4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down.
 
-5. Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
+5. Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.
 
-6. Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.
+6. Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades.  
 
 
 ## Details of Findings 
