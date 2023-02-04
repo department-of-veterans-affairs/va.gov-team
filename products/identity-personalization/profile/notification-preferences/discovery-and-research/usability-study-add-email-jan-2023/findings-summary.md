@@ -22,25 +22,8 @@ Research readout Link to come
 [Further research needed](#further-research-needed)
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
 
 ## Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
@@ -62,11 +45,6 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 
 ## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. Our current auto-saved pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern.  (Jump to finding)
 2. Finding two
 
@@ -83,8 +61,11 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Details of Findings 
 
-### Our current auto-saved pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
-Participants were easily able understand and interact with our current auto-save pattern, even with additional notifications and channels. Clicking an edit link to update settings on a separate page felt like more work to participants; 2 participants even suggested an auto-save approach prior to seeing it. 
+
+### Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
+The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today. 
+
+In the read/edit pattern, clicking an edit link to update settings on a separate page felt like more work to participants; 2 participants even suggested an auto-save approach prior to seeing it. 
 
 > This could just be a toggle, so… you can get rid of a lot of this (mouses over edit button and bell icons), and you could get rid of this whole entire page (clicks edit link and navigates to page to manage notifications) - P1
 
@@ -92,7 +73,7 @@ Participants were easily able understand and interact with our current auto-save
 
 > Instead of saying edit, it [autosave prototype] has the checkboxes right here which is infinitely better. - P12
 
- The addition of an email channel, and new notification groups didn’t introduce any usability hurdles for 6 of 8 participants. 2 participants felt commented that they didn’t need to see things that weren’t relevant to them, such has Board of Veteran’s Appeals hearing reminders. They were still able to navigate the page and update their settings.
+ The addition of an email channel, and new notification groups didn’t introduce any usability hurdles for 6 of 8 participants. 2 participants commented that they didn’t need to see things that weren’t relevant to them, such has Board of Veteran’s Appeals hearing reminders. They were still able to navigate the page and update their settings.
 
 
 ### The read/edit pattern introduced some usability problems that weren’t present in the auto-save pattern.
@@ -103,16 +84,19 @@ People were able to work through these problems without significant guidance fro
 - 2 of the 8 participants tried to click the bell icons to update their notification settings, instead of hitting edit.
 > I don’t really like that [going to a new page]. I would really like to be able to click on and off the little bells here. - P6
 
-[screenshot]
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-read-edit-pattern.png” alt=“Screenshot showing the three step process of updating a notification setting with the read edit pattern.” width=“100%” />
 
-### No participants were confused by the lack of a save button.
-People felt confident that their changes were saved because of the feedback provided by the input message pattern.
+*In the screenshot above, the flow starts on the main notification settings page by clicking the edit button. The person would land on a dedicated page for that specific setting, and then be returned to the main notification settings page.*
+
+
+### No one was confused by the lack of a save button.
+The feedback provided by the input message pattern made people feel that there changes were saved, even though they didn’t interact with an explicit save button.
 
 > ’Update saved’ makes me feel like something happened. - P4
 
 > It’s notifying me that it’s been saved. I’m trusting that this is going to work and I don’t need to call. - P9
 
-### Participants found the level of information provided about notifications to be sufficient for them to know whether or not they wanted to update the setting.
+### People found the level of information provided to be sufficient for them to know whether or not they wanted to update the setting.
 In both prototypes, each notification had a name, channel options (text and/or email), and displayed if it was turned on or off.  
 
 [screenshot]
@@ -165,7 +149,7 @@ Our notification settings page has contact information under the h1 telling user
 
 [screenshot]
 
-4 of 8 participants either didn’t notice, or didn’t recall that information at the top of the prototype. Some made comments that told us they didn’t understand the information, and others didn’t remark on it at all.
+4 of 8 participants either didn’t notice, or didn’t recall that information at the top of the prototype. Of these 4, some made comments that told us they didn’t understand the information, and others didn’t remark on it at all. 2 of the 4 were on a desktop, and 2 were on a laptop, so the screen size did not seem to contribute to missing this section of the page.
 
 > It has a phone number here I can call. - P9, talking about the mobile phone number at the top of the prototype.
 
