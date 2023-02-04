@@ -458,4 +458,4 @@
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
 - Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
-- There should be a plain language explaination that informs a user what VA Health Summary is and how they can use it.  
+- There should be a plain language explaination on what VA Health Summary is and how a user can use it.  
