@@ -99,7 +99,9 @@ The feedback provided by the input message pattern made people feel that there c
 ### People found the level of information provided to be sufficient for them to know whether or not they wanted to update the setting.
 In both prototypes, each notification had a name, channel options (text and/or email), and displayed if it was turned on or off.  
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-both-prototypes-options-on-off.png" alt="Screenshot showing both prototypes side by side. In the read edit prototype on the left, there are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off” width=“500” />
+
+*In the image above, the read edit prototype is on the left. There are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off*
 
 All participants understood the channel options and if the notification was turned on or off.  3 participants wondered why some notifications were only available by text or email, but were not bothered by it.
 
@@ -122,7 +124,9 @@ Multiple participants asked questions about the new notifications coming from My
 ### 7 of 8 participants easily navigated the path to add their email address. 
 Going between the notification settings page and email form was intuitive for the majority of participants. One participant was surprised to find the single form field. Since the link said “profile” they expected to go to a page with their entire profile information.
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-add-email-cta.png" alt="Screenshot showing two links circled in red. The links say “add your email address to your profile” width=“375” />
+
+*In the image above, there are two links circled in red. The links say “add your email address to your profile”*
 
 People navigated to the email address form via whatever link was closest. 
 - 3 participants added their email address via the alert at the top of the prototype
