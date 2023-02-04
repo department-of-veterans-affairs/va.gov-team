@@ -84,7 +84,7 @@ People were able to work through these problems without significant guidance fro
 - 2 of the 8 participants tried to click the bell icons to update their notification settings, instead of hitting edit.
 > I don’t really like that [going to a new page]. I would really like to be able to click on and off the little bells here. - P6
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-read-edit-pattern.png” alt=“Screenshot showing the three step process of updating a notification setting with the read edit pattern.” width=“100%” />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-read-edit-pattern.png" alt="Screenshot showing the three step process of updating a notification setting with the read edit pattern." width="100%" />
 
 *In the screenshot above, the flow starts on the main notification settings page by clicking the edit button. The person would land on a dedicated page for that specific setting, and then be returned to the main notification settings page.*
 
