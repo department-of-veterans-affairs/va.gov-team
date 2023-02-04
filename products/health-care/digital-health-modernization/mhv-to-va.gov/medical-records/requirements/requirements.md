@@ -17,6 +17,7 @@
 ### Downloads
 - Whenever a download option is provided, we must provide a file option other than PDF and XML since PDF and XML files are not accessible. The best option to satisfy this requirement is to provide a TXT file.
 - Labeling for the download needs to make it clear which type of file is being downloaded (PDF, TXT, or XML).
+- After a file is downloaded, there should be a "back" button that allows a user to quickly go back to the data selection page in case there's something they forgot to select the first time. 
 
 ## Vaccines
 **List view**
