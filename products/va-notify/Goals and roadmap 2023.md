@@ -70,17 +70,14 @@ As we wrap up the Twilio status integration work, we have some room to re-engage
 
 #### Performance, Monitoring and Security 
 To keep our platform performing at it's best, we plan to execute the following:
-* Datadog Application Performance Monitoring (APM)
-* Other monitoring Enhancements
 * Platform Upgrades (Flask, Celery, etc.)
-* Microservices for Push Notifications
 
 **Expected launch date**: April 26, 2023
 
-### Strike team
+### Strike Team
 
-#### Promote to Production - SSUI
-words go here
+#### Promote to Production (MVP) - SSUI
+Currently our business line users create content in staging, then copy the content, login to production, create a template and paste the content there.  To make this process seamless, we will implement a promote to prod like experience for our users.  
 
 **Expected launch date**:
 
@@ -105,7 +102,13 @@ words go here
 ## The rest of the year
 
 ### Q2 CY2023 (April - June)
+### Notify Team
 
+#### Performance, Monitoring and Security 
+To keep our platform performing at it's best, we plan to execute the following:
+* Datadog Application Performance Monitoring (APM)
+* Other monitoring Enhancements
+* Microservices for Push Notifications
 
 
 ### Q3 - Q4 CY2023 (July - December)
