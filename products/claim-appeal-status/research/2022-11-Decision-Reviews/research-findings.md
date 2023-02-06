@@ -59,6 +59,13 @@ Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets 
 
 Many of the Veterans we talked to had positive things to say about their experience working with a Veteran Service Organization (VSO). Some expressed that they didn't believe they would have been able to get benefits at all without the help of a VSO. There are many types of VSOs, but some of the ones we commonly heard about were Veterans of Foreign Wars (VFW) and Disabled American Veterans (DAV).    
 
+Some of the main benefits of using a VSO: 
+- VSOs help Veterans parse the difficult-to-understand language that the VA uses. (P2, P16)
+- VSOs know what questions to ask the Veteran that will help elicit the information needed for the claim or decision review. (P10, P19, P34)
+- Some VSOs even provide a "white glove" type of service where they file the forms on behalf of Veterans. (P13, P33)
+- VSOs help Veterans understand what VA benefits they're even eligible for, since many are unaware. (P1, P18)
+
+
 > "Doing it on my own, I don't know how I would have gotten through all that." - P7
 
 > "You're always wise to take counsel and go with people who do this for a living." - P9
@@ -130,6 +137,7 @@ Veterans liked that the self-service option was available, but expressed hesitan
 ## Additional Insights
 
 - Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
+- 
 
 
 ## Recommendations
