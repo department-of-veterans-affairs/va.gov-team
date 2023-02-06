@@ -144,15 +144,17 @@ Below are the results from our card sort showing which category made sense to th
 | Card | Category |
 |---|---|
 | Emergency contacts | My VA.gov Profile |
-| Next of kin | My VA.gov Profile |
+| Next of kin* | My VA.gov Profile |
 | Notification settings for prescription shipping updates | My VA.gov Profile |
 | Notification settings for the MHV newsletter | My Health Care |
-| The ability to connect your health tracking device (like a FitBit) | My Health Care |
+| The ability to connect your health tracking device (like a FitBit)* | My Health Care |
 | Your blood type | My Health Care |
-| Your caregivers | My Health Care |
+| Your caregivers* | My Health Care |
 | Your non-VA health insurance information | My VA.gov Profile |
-| Your power of attorney | My VA.gov Profile |
-| Your providers and doctors (self-entered) | My VA.gov Profile |
+| Your power of attorney* | My VA.gov Profile |
+| Your providers and doctors (self-entered)* | My VA.gov Profile |
+
+**Note**: * items indicates that these are **not** in MHV at the moment. These were exploratory items that the health apartment team asked us to include in our research, but this is not indicative of data that needs to move over in order to complete the MHV migration.
 
 ### We need to learn more about managing shipping addresses for prescriptions.
 - We’ve learned that prescription shipping addresses aren’t managed in MHV, so we don’t need to be concerned with updating those as part of this transition.
