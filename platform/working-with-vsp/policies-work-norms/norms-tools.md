@@ -1,3 +1,12 @@
+----
+
+# We've moved our docs! 
+### Find the latest version of instructions on the [Platform website](https://depo-platform-documentation.scrollhelp.site/getting-started/) .
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Norms for using tools
 
 ## Using Slack
