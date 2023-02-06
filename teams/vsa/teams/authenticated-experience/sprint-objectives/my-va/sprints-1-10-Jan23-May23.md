@@ -130,7 +130,43 @@
 ## Sprint 4 (2/15 - 2/28)
 [#51091](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51091)
 
+### My VA audit updates
+
+**Team goal**: Run QA
+
+**PM**
+
+- QA go/no-go
+- Call center guide updates, if time
+
+**Everybody**
+
+- Conduct QA
+
+**Design**
+
+- Updates from QA, if applicable
+- Call center guide updates, if time
+
+**Frontend**
+
+- Updates from QA, if applicable
+-  FE to implement analytics updates
+
 ### Onsite notifications
+
+**PM**
+
+- Create onsite notifications inventory/backlog for notifications to add
+  - It's ok that this will be super short to start. Just getting it set up and getting process in place is the goal.
+  - Once this is done, link from product outline for onsite notifications.
+
+**Design**
+
+- Copy for new notification(s)
+  - This assumes we have an approach for a new notification or notifications
+- Design updates for My VA
+- Design intent, if time
 
 **BE**
 
