@@ -1,5 +1,5 @@
 
-# Login.gov Adoption Team: Discovery and generative research
+# Research during discovery (August to December 2022)
 <br>
 
 |Study|End date|Folder|Readout|
