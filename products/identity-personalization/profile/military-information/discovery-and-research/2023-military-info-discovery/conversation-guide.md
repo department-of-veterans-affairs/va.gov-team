@@ -17,11 +17,11 @@ Slack for real-time feedback from observers.
 
 Thanks for joining us today! My name is Florence. 
 
-Today we're going to talk about your experience obtaining and using your military service records. Before we move forward, I just wanted to check: (confirm that they have completed the task they selected in the screening questionnaire.)
+Today we're going to talk about your experience obtaining and using your military or service information. Before we move forward, I just wanted to check: (confirm that they have completed the task they selected in the screening questionnaire.)
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 minutes.** 
+- **This entire session should take an hour or less.** 
 - **In this session, there is no right or wrong answers.** I will not be offended by any opinions you express, and we'll use the information you share to improve VA.gov. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you okay with a couple of additional observers during this session?**
