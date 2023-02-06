@@ -8,6 +8,7 @@ For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into th
 * Uses the  [background color only alert component](https://design.va.gov/components/alert#examples---background-color-only)  from the VA design system.
 *  [Can't display disability rating mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/v/vWx1M1/a/4ajJxKJ) 
 *  [Can't display legal name mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/1KGwJ2w) 
+*  **Note**: it is possible that both of these errors could display at the same time.
 
 ## Codes
 N/A
