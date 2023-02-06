@@ -92,8 +92,6 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * 2 - 9 years = 7
   * 10 - 19 years = 3
   * 20+ years = 2
-* Length of time working in Public Contact
-  * **Dave P is going to see if this can be extracted** 
 * Job titles included:
   * Legal Administrative Specialist = 5
   * Veteran Service Representative = 3
@@ -131,7 +129,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 ## Key Findings
 
 **Services, benefits, & tasks**
-1. Services at Public Contact Offices can be **categorized** in at least four distinct ways: benefits, tasks, documents, beneficiaries
+1. Services at Public Contact Offices can be **categorized** in four distinct ways: benefits, tasks, documents, beneficiaries
 2. Public Contact staff primarily assist with the **benefit** of disability compensation
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
@@ -158,7 +156,7 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries 
+### 1 - Services at Public Contact Offices can be categorized in four distinct ways: benefits, tasks, documents, beneficiaries 
 
 - **Benefits** (e.g., compensation, home loans, VR&E)
 - **Tasks** (e.g., file a claim, check claim status, attend counseling session)
@@ -263,7 +261,7 @@ This second group of findings relates to research question 3:
 
 > The help desk for the website sends them to the Regional Office. We have no access or training to make any changes to allow them into the website. - P11
 
-### 8 - Veterans sometimes conflate the VBA with the VA, VSOs, and other agencies  
+### 8 - Veterans sometimes conflate the VBA with a centralized VA, VSOs, and other agencies  
 
 - Veterans expect the three branches to be "one VA"
 - Veterans conflate VSOs and the VBA due to them both handling benefit claims
