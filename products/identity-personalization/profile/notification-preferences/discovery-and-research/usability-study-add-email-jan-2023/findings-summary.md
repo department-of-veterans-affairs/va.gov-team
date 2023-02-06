@@ -1,5 +1,4 @@
 # Profile Notification Settings, Add Email Channel Research Findings 
-`draft`
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
@@ -235,10 +234,9 @@ Once we got into the sessions, 1 of the 3 participants didn’t use screenreader
 
 Another participant stated that they checked “yes” to indicate they had a cognitive consideration simply because there was not a no option.  We later saw that the screener form offered participants a single radio button input for this question, instead of a yes or no.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/screener-questions.png" alt="Screenshot of the input message banner between two checked inputs" width="500" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/screener-questions.png" alt="Screenshot of a form where the first question is do you have an identified cognitive impairment, and the only option is a radio button labeled yes, which is circled in red." width="500" />
 
-*Above: caption to come.*
-
+*Above: the form used to recruit participants for this study. The first question is "Do you have an identified cognitive impairment", and has with a single radio button option labeled "yes".*
 
 In our next study, we’ll provide people with multiple, clearly labeled options for special criteria may get us closer to talking to the folks who can answer our research questions.  We’ll include a “no” or something to negate the other options, as well as an “other” where people can type what they
 
@@ -257,6 +255,9 @@ We also learned ways we can improve the experience for future studies, and captu
 ## Further research needed
 ### We need to re-evaluate the use of the background-only banner to confirm a save at the top of a page, once people can use their real information.
 This was the first time we tested our new pattern of having a dedicated page for updating contact information.  Most people didn’t acknowledge the update, and that may be OK if they see their own information reflected back to them once it’s saved.  We should re-test the existing pattern in a future study, with people’s actual information to get a sense of how important it is for them to read this confirmation banner.
+
+### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
+Including these people in our next round of research will help our team get a diverse group of perspectives.
 
 ## Next Steps
 - Review with product team and align on recommendations we’ll take action on.
@@ -286,35 +287,33 @@ This study didn’t include any secondary research.
 
 We talked to 9 participants, but one participant had such profound difficulty using Zoom with their screenreader that we were not able to get answers to the majority of our research questions.  That participants data was not included in these findings.
 
-Audience segment:
+**Audience segment:**
 * Veterans: 8 
 * Caregivers: 0 
 * Family members of a Veteran: 0  
 
-Gender:
+**Gender:**
 * Male: 4 
 * Female: 4 
 
 
-LGBTQ+:
+**LGBTQ+:**
 We didn’t ask participants to disclose any LBGTQ+ information
 
-Devices used during study: 
+**Devices used during study:** 
 * Desktop: 5 
 * Tablet: 1 
 * Smart phone: 2 
 * Assistive Technology: 2
 
-
-Age:
+**Age:**
 * 25-34: 0
 * 35-44: 2
 * 45-54: 2
 * 55-64: 3
 * 65+: 1
 
-
-Education:
+**Education:**
 * High school degree or equivalent: 0
 * Some college (no degree): 2
 * Associate's degree, trade certificate or vocational training: 2
@@ -323,24 +322,21 @@ Education:
 * Doctorate degree: 0
 * Unknown: 0
 
-
-Geographic location:
+**Geographic location:**
 * Urban: 5
 * Rural: 3
 * Unknown: 0
 
-
-Race:
+**Race:**
 * White: 4
 * Black: 3
 * Hispanic: 1*
 * Biracial: 1*
-* Asian: 1*
+* Asian: 0
 * Native: 1*
 * *A single participant identified with all of these races
 
-
-Disability and Assistive Technology (AT):
+**Disability and Assistive Technology (AT):**
 * Cognitive: 7
 * AT beginner: 0
 * AT advanced user: 2
@@ -354,14 +350,21 @@ Disability and Assistive Technology (AT):
 
 
 ## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Other than honorable 
+* Immigrant origin 
+* Expat
+* Asian
+* Gay, lesbian, or bisexual
+* Transgender
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+* Speech input technology users
+* Hearing Aids
+* Sighted Keyboard
+* Captions
+* Switch Device
+* Braille Reader
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png” alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
+
+[VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=2136433331)
