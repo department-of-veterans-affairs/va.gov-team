@@ -14,7 +14,7 @@ The VA Mobile app was designed to allow Veterans to more easily complete key tra
 As the app grows in its feature set, the VA Mobile App team needs a better understanding of how Veterans would navigate benefits and health services within the mobile app. We want to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as of interest on our roadmap. 
 
 ~~[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md)~~
-[Link to product brief](https://docs.google.com/document/d/1X8GwBR4w6sjQSIl-zFw24mDV5MQvSFJ3P8oC1NwEX1Q/edit#)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/nav-and-IA-updates/nav-and-IA-product-brief.md)
 
 ### Project Objectives & Goals 
 
