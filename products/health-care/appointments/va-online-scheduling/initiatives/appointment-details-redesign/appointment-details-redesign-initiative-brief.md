@@ -1,4 +1,5 @@
 # Initiative Brief - Appointment Details Improvements
+
 ## Overview
 
 Looking to improve the user experience in VAOS by updating the appointment details page to help the veterans view their appointment information. 
