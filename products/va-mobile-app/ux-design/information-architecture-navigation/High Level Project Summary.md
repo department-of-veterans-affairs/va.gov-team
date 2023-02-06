@@ -157,9 +157,11 @@ For detailed protocol on each part of the study, see:
 
 ## Team Roles
 
-* High Level UX plan: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
-* User Research (all): Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre
-* Information Architecture, navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
-* High level navigation model wireframes: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
-* High fidelity screen templates for navigation model: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
+* High Level UX/UR project plan: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+* Product Manager: Kelly Lein ([kelly.lein@adhocteam.us](mailto:kelly.lein@adhocteam.us))
+  * User Research (all): Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre
+  * Navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
+  * Sitemap: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+  * High level navigation model wireframes & prototype: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+  * High fidelity screen templates for navigation model: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
 
