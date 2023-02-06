@@ -2,8 +2,8 @@
 
 ### Date: Feb 6' 2023
 ### Items to be discussed:
-- Does this time work for our weekly sync?
-- Kick-off ideas
+- Does this time work for our weekly sync? - Mornings
+- Kick-off ideas 
    - Introductions
    - Context/background
    - Mission/Goals/North Star
@@ -14,10 +14,22 @@
 - 508 issue list - reach out to accessibility crew?
 - Idea board Mural  access for Matt
 - Review potential workstreams
-- Is there a teams/stakeholder map - someone mentioned Matt has one
-- Which teams/people would we be working closely with?
-- How do you want to see this team function? Anything specific that was not happening before that we should do or vice-versa? 
-- ??
+- Is there a teams/stakeholder map - will review in the kick-off
+- Which teams/people would we be working closely with? 
+    - Platform team (collaboration cycle, help with work in progress)
+    - Benefits Management(claim status) team - check status for existing claims
+    - Decision Reviews team - workflow for denied claims (also picking up supplemental claims)
+    - Automated Benefits Deliveries team (VRO/RRD)
+     
+    Claimant experience teams
+          - Health
+          - Benefits ( our team is here - focusing in claimant experience)
+          - Digital experience
+- How do you want to see this team function? Anything specific that was not happening before that we should do or vice-versa? - in the kick-off
+- Fresh initiative
+- Review old reserach but start validating it and new research
+- Stakeholders
+      - Business - Compensation service- administers benefits in VBA
 
 ### Date: Jan 31st 2023
 ### Attendees - Matt Self, Rakshinda Aslam
