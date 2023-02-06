@@ -6,7 +6,7 @@
 - **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 - **Github labels**: benefits-team-1
 
-### Roles  
+### Core Team  
   
 |Name|Role|Email|
 |----|----|-----|
@@ -18,6 +18,14 @@
 |Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
 |Rocio de Santiago | BE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
+
+### VBA Subject Matter Experts  
+
+|Name|Role|Email|
+|----|----|-----|
+|Alejandro Mendiolaflores |Senior Analyst| alejandro.mendiolaflores@va.gov |
+|Jessica Pierce |Role| jessica.pierce@va.gov|
+|Melissa Milenkovic| Role |Melissa.Milenkovic@va.gov |
 
 ---
 
