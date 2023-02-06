@@ -301,24 +301,24 @@ This page provides the ability for the user to generate a My VA Health Summary R
      - I Want To...
 
  TABLE ROW ONE - Before updates have processed
-     - Current Summary
-     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
-     - 03 Feb 2023 @ 1218
-     - Request Being Processed
+ - Current Summary
+ - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
+ - 03 Feb 2023 @ 1218
+ - Request Being Processed
      
-  - TABLE ROW ONE sample contents (if updates are complete and report is ready to download}: 
-     - Current Summary
-     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
-     - 03 Feb 2023 @ 1218
-     - Ready to Download
-     - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.
+TABLE ROW ONE sample contents (current health summary -- if updates are complete and report is ready to download}: 
+ - Current Summary
+ - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
+ - 03 Feb 2023 @ 1218
+ - Ready to Download
+ - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download PDF` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.* <br>`link text`Download XML *Note: automatically downloads XML without a modal warning.<br>`link text` Send my health summary *Note: links to https://www.myhealth.va.gov/mhv-portal-web/va-health-summary -- we need to determine if this option will still be offered in the Health Portal or will redirect elsewhere.
      
-  - TABLE ROW TWO (for previous health summary) sample contents: 
-     - Previous Summary
-     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230201_1848
-     - 01 Feb 2023 @ 1348
-     - Ready to Download
-     - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. <br> `Download` downloads the TXT 
+TABLE ROW TWO (for previous health summary) sample contents: 
+ - Previous Summary
+ - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230201_1848
+ - 01 Feb 2023 @ 1348
+ - Ready to Download
+ - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download PDF` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.* <br>`link text`Download XML *Note: automatically downloads XML without a modal warning.<br>`link text` Send my health summary *Note: links to https://www.myhealth.va.gov/mhv-portal-web/va-health-summary -- we need to determine if this option will still be offered in the Health Portal or will redirect elsewhere.
 
 ### Navigation
 - `[button]` Back (returns to the reports landing page)
