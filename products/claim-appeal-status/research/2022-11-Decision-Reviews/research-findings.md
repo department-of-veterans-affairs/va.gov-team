@@ -53,7 +53,7 @@ _3. We have a hypothesis that self-service works well for simplified or automate
 ## Details of Findings 
 
 
-### We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
+### 1. We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs
 
@@ -66,7 +66,7 @@ Many of the Veterans we talked to had positive things to say about their experie
 > "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
-### It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
+### 2. It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -83,7 +83,7 @@ We talked to many Veterans who had gone to several different VSOs before finding
 > "When I first went to the VSO in 2015, he had me fill the form for what the request was about, but he didn't request medical records." - P30
 
 
-### Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
+### 3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -100,11 +100,13 @@ Our concept prototype contained link to a page that allowed Veterans to see thei
 > P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
 
 
-### The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
+### 4. The biggest pain point in filing claims or decision reviews seems to be gathering the right evidence. This is often why Veterans turn to VSOs or even lawyers for guidance.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-Evidence gathering consistently emerged as a major pain point in the claims and decision review filing process, and a major benefit of getting help from a VSO. 
+Knowing what type of evidence is needed up front, and being able to track that evidence down emerged as key pain points for Veterans in filing both initial 526 EZ claims and decision reviews. Many Veterans commented on how they don't have access to their medical records from their time in service, which makes it very challenging to prove that a disability is service-connected. Others mentioned that their initial claim was denied because they didn't know they were supposed to submit evidence at all, or a VSO told them they didn't need to. 
+
+There are a variety of thorny problems contained within this step of the process, and it is a major reason Veterans seek out the help of VSOs. 
 
 > "If these folks are going to file on their own, they need details explaining the type of records they need. It doesn't tell you enough about the process. It leads you to believe "fill out this form, and you're good to go." - P5
 
@@ -112,7 +114,7 @@ Evidence gathering consistently emerged as a major pain point in the claims and 
 
 > "I had to reach out ot the VA to get my medical records, and I had got to various doctors to get my records as well. It's so much hassle, because you have to do so much running to get everything together." - P23
 
-### Some Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck. 
+### 5. Some Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
