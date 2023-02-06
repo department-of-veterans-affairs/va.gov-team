@@ -3,8 +3,7 @@
 ### Date: Feb 6' 2023
 ### Items to be discussed:
 - Does this time work for our weekly sync?
-- Kick-off
-  - Proposed items
+- Kick-off ideas
    - Introductions
    - Context/background
    - Mission/Goals/North Star
