@@ -7,6 +7,7 @@ The sitemap/flow diagram outlines the information architecture that the new VA M
 
 The sitemap/flow diagram can be viewed at size in Mural: [VA Mobile App sitemap (future state)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1655989910332/d0f78565904f80b730fb70285eef9f4002279aef?sender=u28718b63c8993f515e0b2240).
 
+![VA Mobile App sitemap (future state 9-30-22)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/Detailed%20sitemap%20(future%20state%209-30-22)_2023-02-06_16-36-53.png)
 
 
 ## VA Mobile App post-MVP sitemap
