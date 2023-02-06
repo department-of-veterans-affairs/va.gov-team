@@ -458,4 +458,15 @@
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
 - Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
-- There should be a plain language explaination on what VA Health Summary is and how a user can use it.  
+- Before a user gets to the download results page, there should be a plain language explaination on what VA Health Summary is and how a user can use it.  
+- On the VA Health Summary Download Results page, it should include: 
+  - VA health summary user guide [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf)
+  - Learn more [link](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more)
+  - What's in the VA health summary? [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf)
+  - A list of files that are (not) ready to download: 
+    - File contents
+    - File name
+    - Request date
+    - Status (ready to download / Request being processed)
+    - I want to...(links to view or download in PDF, TXT, XML)
+  
