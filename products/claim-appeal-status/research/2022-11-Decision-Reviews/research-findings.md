@@ -45,13 +45,13 @@ We have a hypothesis that self-service works well for simplified or automated us
 
 4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
 
-5. Some Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, but that it would be nice to have an expert representative available to them if they needed help.
+5. Many Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck.
 
 
 ## Details of Findings 
 
 
-### We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
+### We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs
 
@@ -64,19 +64,21 @@ Many of the Veterans we talked to had positive things to say about their experie
 > "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
-### It's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.
+### It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-We talked to many Veterans who had gone to several different VSOs before finding one that worked for them. A smaller number of Veterans gave up on VSOs after a bad experience, and decided to go it alone or hire a lawyer specializing in VA claims to help them. 
+We talked to many Veterans who had gone to several different VSOs before finding one that worked for them. A smaller number of Veterans gave up on VSOs after a bad experience, and decided to go it alone or hire a lawyer specializing in VA claims to help them. Common issues with VSOs were a perceived lack of interest in the Veteran, an overly pessimistic attitude towards claims, and severe backlogs that led to very long wait times.
 
 > "The VSOs are overwhelmed, especially with the PCT Act, these guys just get swamped." - P3
+
+> P6: Tried to connect with VSO and there was a huge backlog and couldn't connect from 1996-2011. He even worked at a VSO (VFW) but was still unable to get help filing a claim due to the backlog. 
 
 > "The state VSOs we have here are hit and miss." - P12
 
 > "Some (VSOs) are good, some are bad." - P19
 
-> P6: Tried to connect with VSO and there was a huge backlog and couldn't connect from 1996-2011. He even worked at a VSO (VFW) but was still unable to get help filing a claim due to the backlog. 
+> "When I first went to the VSO in 2015, he had me fill the form for what the request was about, but he didn't request medical records." - P30
 
 
 ### Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
@@ -91,7 +93,7 @@ Our concept prototype contained link to a page that allowed Veterans to see thei
 
 > "I would try to get an accredited person before i did anything so I have a better understanding of the proces." - P7
 
-> "Same as your taxes, I'd rather have someone else assist as well."- P24
+> "You have connect with a rep right here. Excellent service." - P20
 
 > P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
 
@@ -100,19 +102,23 @@ Our concept prototype contained link to a page that allowed Veterans to see thei
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-Evdience gathering consistently emerged as a major pain point in the claims and decision review filing process, and a major benefit of getting help from a VSO. 
+Evidence gathering consistently emerged as a major pain point in the claims and decision review filing process, and a major benefit of getting help from a VSO. 
 
-> _Supporting data: Quote here_
+> "If these folks are going to file on their own, they need details explaining the type of records they need. It doesn't tell you enough about the process. It leads you to believe "fill out this form, and you're good to go." - P5
 
-> _Supporting data: Quote here_
+> "I'm tired of justifying this, when all the VRO has to do is read (the active duty medical records). You want a detailed summary? do it yourself." - P6
 
-### Some Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, but that it would be nice to have an expert representative available to them if they needed help. 
+> "I had to reach out ot the VA to get my medical records, and I had got to various doctors to get my records as well. It's so much hassle, because you have to do so much running to get everything together." - P23
+
+### Some Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-In our concept prototype, participants reacted well to the idea of using VA.gov to get connected with a VSO or other representative.
+Veterans liked that the self-service option was available, but expressed hesitancy to complete a claim or decision review online without getting any help from an expert third party.
 
-> _Supporting data: Quote here_
+> "(Would recommend to fellow Veteran): If you’re having problems, give someone a call and talk to them." - P16
+
+> "I would recommend doing both. I think you can do it yourself. but there are some things. It's like doing your taxes. You can do it yourself, but you can also have some assistance." - P24
 
 > "Kinda torn (about self-service vs. VSO). I'd like to be able to do both...help with a rep and have access to complete it myself." - P31
 
