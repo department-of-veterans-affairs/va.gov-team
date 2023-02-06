@@ -22,7 +22,7 @@ This was broad-based discovery research intended to identify pain points in the 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-plan.md)_:
+_Hypotheses from [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-plan.md)_:
 
 _1. We have a hunch that a fully self-service digital experience will not satisfy all use cases for Veterans who are pursuing decision review options. We are hoping to get clarity around which use cases are best for self-service digital, and which require the support of a VSO._ 
 
@@ -34,7 +34,7 @@ _2. We suspect that Veterans might not fully trust the VA to appoint a represent
 
 _3. We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment._
 
-**Maybe.** This needs further research to verify. We didn't test these use cases explicitly in this study. We did confirm that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence. "Presumptive" cases like those enabled by the PACT Act would likely help make the self-service use case more appealing for these types of claims, but it needs further research.
+**Maybe.** We didn't test these use cases explicitly in this study. We did confirm that a major pain point of filing claims and appeals is the gathering and submission of supporting evidence and "presumptive" cases like those enabled by the PACT Act would likely make self-service much more appealing for Veterans. This would need further research to confirm.
 
 
 ## Key Findings
@@ -137,7 +137,8 @@ Veterans liked that the self-service option was available, but expressed hesitan
 ## Additional Insights
 
 - Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
-- 
+- It seems as though the training and information Veterans receive while transitioning out of the military has improved in recent years. Participants who went through this process more recently generally spoke about receiving more information related to benefits than those who transitioned out earlier.
+- Some Veterans have a perception that their initial claim will always get denied, and that they will necessarily need to file a decision review. 
 
 
 ## Recommendations
