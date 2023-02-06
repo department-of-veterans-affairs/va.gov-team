@@ -26,7 +26,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
  **Implementation**
 - [VA Mobile App - Screen Roundup (mural)](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1644341290076?sender=u28718b63c8993f515e0b2240&key=74759cd5-45ad-43d9-aee3-a58fb949aa73)
 - [Screen-by-screen audit of changes: VA Mobile App- IA Audit](https://docs.google.com/spreadsheets/d/1nLZdbcZS2nAnsVz12TwsHF2OU5nNeWZoJ0bSFuiKF_A/edit#gid=0)
-- [High fidelity design for navigation model: TBD]
+- [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1)
  
  ### Phase III -  Evaluative Research ###
 - [Usability Study - Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability)
