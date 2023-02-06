@@ -68,7 +68,7 @@ To start off, I have some questions for you about your service history. Is that 
 
 Now, changing the topic of questions a bit:
 
-20. Let's imagine that you could easily find your military information online, using your browser. _Pause._ What is your immediate response to that idea?
+20. Let's imagine that you could find your military information online, using your browser. What is your immediate response to that idea?
 21. Would accessing your military information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
 22. Do you have any thoughts on where online you'd want to go to access your military information? 
 
