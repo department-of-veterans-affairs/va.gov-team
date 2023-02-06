@@ -3,7 +3,6 @@
 Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
-- [Purpose](#purpose)
 - [Description of domain](#description-of-domain)
 - [Use cases](#use-cases)
 - [Requirements](#requirements)
@@ -11,9 +10,6 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 - [Relevant links](#relevant-links)
 - [Questions to answer](#questions-to-answer) 
 
-## Purpose
-
-To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
 
 ## Description of domain
 
