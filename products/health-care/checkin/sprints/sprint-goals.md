@@ -118,7 +118,7 @@ ________________________________________________________________________________
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - DONE [Update Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52411)
-      - NOT DONE[Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
+      - DONE[Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
       - DONE [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
       - DONE Push out Staging Review
       - DONE Make sure [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48859) is complete
