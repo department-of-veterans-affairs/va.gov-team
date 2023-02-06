@@ -165,20 +165,12 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 
 
 ## Questions to answer
-
-**UX:** 
 - Can we or should we redesign BB PDFs to be consistent with the view experience of the same note? 
 - What notes do users find the most useful? Analytics? check VA Progress notes requested, what is progress notes? 
-
-**Engineering:** 
 - Can we take notes out of PDF format and display content on the screen? 
-
-**SMEs:** 
 - Are there any notes for clinians that patients don't have access to? 
 - Do any of the notes that are included as part of health summary need to be made available in MHV?
-
-**Who do we need to get feedback from?**
-Ask Lauren A., Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, and Patty who we need to reach out to regarding notes.
+- Who needs to approve this work on the clinical side?
 
 ## Relevant links
 
