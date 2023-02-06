@@ -17,7 +17,7 @@ Slack for real-time feedback from observers.
 
 Thanks for joining us today! My name is Florence. 
 
-Today we're going to talk about your experience obtaining and using your military or service information. Before we move forward, I just wanted to check: (confirm that they have completed the task they selected in the screening questionnaire.)
+Today we're going to talk about your experience obtaining and using your military information. Before we move forward, I just wanted to check: (confirm that they have completed the task they selected in the screening questionnaire.)
 
 Before we start, a few things I want to mention:
 
@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-To start off, I have some questions for you about your service history. Is that okay with you?
+To start off, I have some questions for you about your service. Is that okay with you?
 *Wait for consent to proceed*
 
 1. What branch of the military did you serve in?
@@ -46,42 +46,45 @@ To start off, I have some questions for you about your service history. Is that 
 
 ## Accessing and using service history information - 35 minutes
 
-4. Tell me about a time when you needed your military information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you....*
-5. When was that?
-6. Where were you? *Are we talking about a digital form on VA.gov, a real paper form, at a VA location getting help from someone else?*
-7. What specific military information was needed as a part of that process?
-8. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
-9. What would you have done if you couldn't access the information that way?
-10. Tell me about another time when you needed your military information?
-11. What are other situations you can imagine where you'd need your military information?
-12. If I were to ask you for your military information now (date and place of entry into active duty, service start and end dates, last assignment and rank, condition of discharge), what would you need to do to tell me that info with certainty?
+Switching gears a little bit here. I know at the outset of our conversation I said I wanted to ask you questions about your military information.
 
-13. *If don't bring up form DD214*: What type of discharge paper did you receive retired or separated?
-14. Do you still have the physical copy?
-15. In what situations would you need to look at (that paper)?
-16. Have you ever had to request a change to your (that paper)? 
-17. If yes, when was that? How did you realize a change was needed? What was the change you needed to make, and why? How did you know
-18. If no, do you anticipate ever needing to make a change? How would you check?
-19. Has your discharge paperwork ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
+4. I'm curious, what does "military info" mean to you?
+5. Tell me about a time when you needed your military information for any reason. *If nothing comes to mind, prompt with examples, e.g. what about when you....*
+6. When was that?
+7. Where were you? *Are we talking about a digital form on VA.gov, a real paper form, at a VA location getting help from someone else?*
+8. What specific military information was needed as a part of that process?
+9. What did you do to obtain those pieces of information? *Have these details memorized? Have a go-to form or place?*
+10. What would you have done if you couldn't access the information that way?
+11. Tell me about another time when you needed your military information?
+12. What are other situations you can imagine where you'd need your military information?
+13. If I were to ask you for your military information now (date and place of entry into active duty, service start and end dates, last assignment and rank, condition of discharge), what would you need to do to tell me that info with certainty?
+
+14. *If don't bring up form DD214*: What type of discharge paper did you receive retired or separated?
+15.  Do you still have the physical copy?
+16. In what situations would you need to look at (that paper)?
+17. Have you ever had to request a change to your (that paper)? 
+18. If yes, when was that? How did you realize a change was needed? What was the change you needed to make, and why? How did you know
+19. If no, do you anticipate ever needing to make a change? How would you check?
+20. Has your discharge paperwork ever gone missing? If yes, when was that? How did you realize it was missing? What did you need it for?
 
 ## Expectations/hopes for finding service info - 15 minutes
 
 Now, changing the topic of questions a bit:
 
-20. Let's imagine that you could find your military information online, using your browser. What is your immediate response to that idea?
-21. Would accessing your military information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
-22. Do you have any thoughts on where online you'd want to go to access your military information? 
+21. Let's imagine that you could find your military information online, using your browser. What is your immediate response to that idea?
+22. . Would accessing your military information online be easier or more difficult than ________ (your current way of accessing that information)? Why?
+23. Do you have any thoughts on where online you'd want to go to access your military information? 
 
 We're about done, but for the last few minutes, I want you to share your screen and go to VA.gov. *Help with screenshare.*
 
-23. Where might you expect to find your military information on this site?
+24. Where might you expect to find your military information on this site?
 
 *Help them navigate to profile: military info.*
 
-24. Now looking at this, what is your immediate reaction?
-25. What would you add to this page to make it more helpful to you? Why?
-26. What would you remove from this page to make it more helpful to you? Why?
-27. Anything else you might want to change about this page or its location on the site?
+25. Now looking at this, what is your immediate reaction?
+26. What would you add to this page to make it more helpful to you? Why?
+27. What would you remove from this page to make it more helpful to you? Why?
+28. Anything else you might want to change about this page or its location on the site?
 
 ## Thank-You and Closing - X minutes
 
