@@ -235,7 +235,7 @@ _Info box 2_
 - Displays a warning that details any information that was unable to be updated. 
 - Provides a disclaimer: "If you proceed with your download while updates are in progress, you may not get the most current information. Updates are done once a day."    This disclaimer liks to the [Blue Button Check Updates overview](https://www.myhealth.va.gov/mhv-portal-web/blue-button-check-updates-overview).
 
-  -  `[Heading]` Personal Health Information of FIRST NAME LAST NAME
+  -  `[Heading]` Personal Health Information of FIRST NAME LAST NAME <br>
   -  `[Heading]` DOWNLOAD YOUR DATA
   
   `[Table]`
@@ -287,8 +287,8 @@ This page provides the ability for the user to generate a My VA Health Summary R
 )  *appears if data has been updated*
 
 
-`[Heading]` Personal Health Information of FIRSTNAME LASTNAME
-`[Heading]` Download Your VA Health Summary
+- `[Heading]` Personal Health Information of FIRSTNAME LASTNAME <br>
+- `[Heading]` Download Your VA Health Summary
 
 `[text]` The VA Health Summary contains specific information from your VA medical record. You can use it to review your VA care and to share your information with community providers, family, or others who help you with your health.
 
