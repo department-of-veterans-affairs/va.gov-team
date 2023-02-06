@@ -1,6 +1,5 @@
-# Allergies: Data fields and UX considerations
-
-Last updated: January 26, 2023 | [Change Log](#change-log)
+# Allergies: Domain brief
+Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
