@@ -365,6 +365,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Switch Device
 * Braille Reader
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png” alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png" alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
 
 [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=2136433331)
