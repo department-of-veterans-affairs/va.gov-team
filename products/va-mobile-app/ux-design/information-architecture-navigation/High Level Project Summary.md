@@ -137,14 +137,17 @@ For detailed protocol on each part of the study, see:
 * **VA Mobile App Information Architecture Research - Phase I - IA Research:**
     * [Findings for VA Mobile App IA Research: Open Card Sort - Part 1 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) (October 2021)
     * [Findings for VA Mobile App IA Research: Closed Card Sort - Part 2 of 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md) (February/March 2022)
- 
-  
+    * [VA Mobile App - Future state sitemap/flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/readme.md#va-mobile-app-20-sitemap) (Sep 2022)
     
-* **VA Mobile App Information Architecture Research - Phase II - Navigation Model Exploration**
-    * [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) (March 2022)
-    * [Success Criteria, Nav Model Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit) (April-June 2022)
-    * [2022 - VA Mobile App - Navigation UI Direction Recommendation - PO presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf) (May 2022)
-   
+* **VA Mobile App Information Architecture Research - Phase II - Navigation Model Exploration & Implementation**
+  * **Exploration**
+      * [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) (March 2022)
+      * [Success Criteria, Nav Model Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit) (April-June 2022)
+      * [2022 - VA Mobile App - Navigation UI Direction Recommendation - PO presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf) (May 2022)
+  * **Implementation**
+      * [VA Mobile App - Screen Roundup (mural)](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1644341290076?sender=u28718b63c8993f515e0b2240&key=74759cd5-45ad-43d9-aee3-a58fb949aa73) (February 2022)
+      * [Screen-by-screen audit of changes: VA Mobile App- IA Audit](https://docs.google.com/spreadsheets/d/1nLZdbcZS2nAnsVz12TwsHF2OU5nNeWZoJ0bSFuiKF_A/edit#gid=0)
+      * [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1)
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
     *  [Findings for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) (August-September 2022)
@@ -157,4 +160,5 @@ For detailed protocol on each part of the study, see:
 * User Research (all): Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre
 * Information Architecture, navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
 * High level navigation model wireframes: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+* High fidelity screen templates for navigation model: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
 
