@@ -2,9 +2,21 @@
 
 ### Date: Feb 6' 2023
 ### Items to be discussed:
+- Does this time work for our weekly sync?
+- Kick-off
+  - Proposed items
+        - Introductions
+        - Context/background
+        - Mission/Goals/North Star
+        - Walk-through of 526 submission
+        - Any known problems to solve
+- Link to the old Zenhub board and existing issues
+- 508 issue list - reach out to accessibility crew?
+- Idea board Mural  access for Matt
 - Is there a teams/stakeholder map - someone mentioned Matt has one
 - Which teams/people would we be working closely with?
 - How do you want to see this team function? Anything specific that was not happening before that we should do or vice-versa? 
+- ??
 
 ### Date: Jan 31st 2023
 ### Attendees - Matt Self, Rakshinda Aslam
