@@ -139,6 +139,7 @@ This all depends on Florence having Github access.
 - (If Florence finishes the convo guide in sprint 2) Military info discovery: Conduct research sessions #51887
 
 ## Sprint 4 (2/15 - 2/28)
+
 ### PTO
 - Liz: 2/15 - 2/17
 
@@ -151,6 +152,38 @@ This all depends on Florence having Github access.
 - Province populated on U.S. Territory Addresses #52786
 - Testing in Staging Vets-API Server to EKS #52717 
   - Time sensitive, needs to be done by COB 2/28. Can not be pushed back a sprint.
+
+### Accessibility updates
+
+Note: This work needs tickets created.
+
+**FE - Adam**
+
+- Remove feature flags for any accessibility work that has already launched
+- [Investigate this issue noted in our accessibility audit documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md#field-headings--lists-ie-mailing-address-and-home-address) and determine next steps.
+  - This is one of the only issues for which further documentation and tickets were not created. I am trying to determine whether this is one last thing we should address before we officially close out the accessibility project, or if we should move on entirely.
+  - Depending on what turns up, acceptance criteria would be to determine next steps, so we can either ticket that work or close out the project.
+
+### Direct deposit migration
+
+Note: This work needs a ticket created. 
+
+**BE - Tom**
+
+- Migrate POST Direct Deposit Info
+- Stretch goal: Potentially move on to another direct deposit ticket, if time considering General tickets above and Tom needing to help out with a My VA issue.
+
+### Notification preferences
+
+**Design - Liz**
+
+- TBD: Still need to scope future work with Liz
+
+**FE - Adam**
+
+Note: [Adam outlined how this work should be broken down in this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49251#issuecomment-1404057076). Please work with him to get tickets created, and then we can add whatever is manageable to this sprint.
+
+- Begin work to update Notifications page with new flow for adding a mobile number
 
 ## Sprint 5 (3/1 - 3/14)
 
