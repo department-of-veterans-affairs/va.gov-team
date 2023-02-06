@@ -1,39 +1,201 @@
 # Labs/ Tests: Data fields and UX considerations
 
-Last updated: Feb 3, 2023 | [Change Log](#change-log)
+Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
-## Purpose
-To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams (e.g., Mobile). 
+## Table of Contents
+- [Description of domain](#description-of-domain)
+- [Use cases](#use-cases)
+- [Requirements](#requirements)
+- [Research to date](#research-to-date)
+- [Relevant links](#relevant-links)
+- [Questions to answer](#questions-to-answer)
+
+Appendix
+- [Detailed analysis of data fields](#detailed-analysis-of-data-fields)
 
 ## Description of domain
-Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports, and self-reported test results, such as blood sugar. 
+Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports.
+
+## Use cases
+User is not logged in
+ - User will need to log in with one of the accepted methods. Once logged in, they can select the naviation option for labs and tests, and will be presented with a landing page.
+
+User is logged in
+- When a a user is logged in and selects the naviation option for labs and tests, they will be presented with a landing page.
+- User needs a lab or test result as evidence when applying for disability benefits
+- User wants to view a recent blood test result
+- User views recent blood test and sees that a value is far outside normal range, and they need to know what their next steps should be
+- User wants to view an EKG report
+- User wants to view an MRI and its intepretation from a past visit
+- User wants to see the results of a urinalysis
+- User needs to share all of their blood chemistry results with a specialist
+- User wants to print a lab result to take to a non-VA surgeon
+- User wants to save a local file containing all of their historic lab results
+- User wants to email a lab result to a non-VA doctor
+
+## Requirements
+### Title
+Lab and test results
+
+### Includes 
+- Laboratory results
+  - Chemistry/Hematology
+  - Microbiology 
+- Pathology reports
+  - Surgical
+  - Cytology
+  - Microscopy
+- Radiology images and reports 
+- Cardiology images and reports (know as Electrocardiogram (EKG) history)
+
+### Information architecture
+Home > My Health > Lab and test results
+
+### List view
+- At the top of the page, a user should be able to quickly learn about the availability of lab and test results. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- A user should be able to see a list of all of their lab and test results, ordered chronologically by date collected. 
+- Each should include:
+  - Category (e.g. Pathology, Microbiology, etc)
+  - Title of the lab result or report (if available)
+  - Date collected
+  - Ordering provider
+- A user should be able to click into each entry to get more details.
+  
+### Details view
+- The H1 of the details view should be the lab or test type
+- Where possible and clinically permissable, transform text to make a note easier to read
+- From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file
+- A user should be able to print or download a result/report as either a PDF or TXT file.
+- When a lab results includes multiple tests, such as a CMP, the tests should be presented as accordions, with one test result per accordion.
+- If a result does no include mutliple tests, the results should be laid out flat on the page.
+- When there is reference range included, a user should be able to easily see when their lab result falls above or below the normal range.
+
+**Data fields**
+- Radiology reports
+  - Procedure/test name
+  - Date/time exam performed
+  - Ordering location 
+  - Requesting provider
+  - Reason for study
+  - Performing location 
+  - Clinical history 
+  - Radiologist 
+  - Report
+- Chemistry, Hematology
+  - Lab type (chemistry/hematology)
+  - Lab test (aka name, not always present)
+  - Date/time collected
+  - Tests
+    - Test name
+    - Results
+    - Units
+    - Reference range
+    - Status
+    - Performing location
+    - Interpretation
+  - Specimen
+  - Ordering provider
+  - Ordering location
+  - Collected location
+  - Comments
+  - Perfomring Location
+- Microbiology
+  - Lab type
+  - Lab test (aka name, not always present)
+  - Date collected
+  - Date completed (not always present)
+  - Results
+  - Site/specimen (not always present)
+  - Ordering provider
+  - Ordering location
+  - Collected location
+- Pathology reports (surgical pathology) 
+  - Type of report (surgical pathology/cytology) 
+  - Specimen 
+  - Date obtained
+  - Performing location
+  - Date completed 
+  - Report 
+- EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
+  - Procedure/test name 
+  - Date/time performed
+  - Ordering location
+
+### Not for first iteration, requires future usability research
+- A user should be able to sort their results in different ways
+  - Chronologically
+  - By location, chronologically
+  - By ordering phyiscian, chronologically
+  - By type, alphabetically
+- A user should be able filter to find what they are looking for.
+  - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
+- Connect lab results with a specific visit or encounter
+- Connect pathology results with a specific procedure
+
+## Research to date
+
+### Findings from card sort
+
+_Cards included:_ 
+  - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
+  - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
+  - Vitals cards: Blood pressure, Height/weight, Vitals
+
+_Findings:_
+- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
+- Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
+- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%).  (click below for larger image)
+
+<img width="50" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png" target="blank">
+
+
+**Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
+
+It is possible that the technical language in the labs/ tests section may be confusing for some Veterans and Caregivers. For example: 
+
+_Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/100814257/204381386-275ee103-5738-4bf7-bc74-175583fd03b8.png">
+
+### Desk research
+
+Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in lab and tests?
+- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
+
+Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
+- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
+
 
 ## Relevant links
 - [Medical Records decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
 - [MHV to VA.gov overall project decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
 - [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
-
-
-## Use cases and user flows
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
-- [Use cases in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/uses-cases.md)
+- [Medical Records Comparative Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+- [Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
+- [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
-[Medical Records Comparative Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+## Questions to answer
 
-[Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
+- Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
+- Should we show blood sugar, cholesterol (lipid panel) and blood clotting times with labs and test results instead of with vitals?
+- Is there a business or technical reason that would not allow us to include microbiology, electrocardiogram, pathology reports in lab and test results?
+- Who do we need to get feedback from on the clinical side before going live?
 
-[Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
+## Change Log
 
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2023/02/03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
+| 2023/02/06      |Coulton Bunney    |Combined requirements and brief                                                                                      |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
 
-## Labs and Tests Data Hierarchy
-1. Data Type<br>
-  1.1 - 1.n Lab Type<br>
-    1.1.1 - 1.1.n Lab Test
+# Appendix
 
-## Data Details
-- [Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF).
+## Detailed analysis of data fields
 
-(Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
+[Example Blue Button report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf) that is fully populated (PDF).
 
 ### Data Type: VA Laboratory Results
 #### Lab Type: Chemistry/Hematology
@@ -96,7 +258,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Specimen** *Example: BRONCHIAL W DESCRIPTION: The specimen consists of 17 ml sanguinous fluid. Two slides and one cell block are prepared.*
 - **Date Obtained** *Example:12 Sep 2012*
 - **Performing Location** *Example: Portland OR VAMC PO BOX 1034 PORTLAND 97207*
-- **Date Completed ***Example: 12 Sep 2012*
+- **Date Completed** *Example: 12 Sep 2012*
 - **Cytology Report** *Examples: See pages 91 and 92 of the [fully populated blue button example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/fully-populated-blue-button-report.pdf)*
 
 
@@ -133,9 +295,7 @@ Labs and Tests represent health information that may be categorized as lab work 
 
 ##### Data Source(s):
 
-2/3/2023 Updated based on a Jan 2023 email thread (click for larger image):
-
-<img width="75" alt="image" src="https://user-images.githubusercontent.com/69174644/216637531-87f56141-9a86-4e84-975b-fe5a6921240e.png" target="blank">
+2/3/2023 Updated based on a Jan 2023 email thread
 
 "Cardiology images such as EKGs and echocardiograms are going to be in VistA Imaging. I believe there is an API that I know allows for importing images into VistA Imaging, but may also allow for pulling images from VistA Imaging. Shane may know more about this particular API’s functionality.
  
@@ -147,108 +307,4 @@ Labs and Tests represent health information that may be categorized as lab work 
 - **Procedure/Test Name** *Example:*
 - **Date/Time Exam Performed** *Example:*
 - **Ordering Location** *Example:*
-
-
-## UX considerations
-
-### When to show Labs/Tests section
-Labs and tests should be visible to any user who has logged in and has VA health records.
-
-**Where do Labs/ Tests fit within IA?**
-TBD
-
-
-### How to show Labs/ Tests section
-- The landing page for Labs and Tests should list each category (aka Data Type) of test the user has available, possible as a header, with each corresponding list of Lab Types listed under a heading or on its own distinct page.
-
-
-**View vs. share vs. download considerations:**
-- When download is offered, we must provide the option to download an accessible document along with PDF
-- View means the user can open and view a document on their screen once it has been generated
-- The size of some health records are prohibitive to displaying them quickly on-screen
-
-
-### Accessibility considerations:
-
-- Need to create Accessibility brief/ document -> link here
-
-_Accessibility considerations specific to Labs/ Tests:_
-- Need to add "Flags" to Chemistry/ Hematology section. See notes above. 
-
-
-### Research that relates to Labs/ Tests
-
-**Findings from card sort**
-
-_Cards included:_ 
-  - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
-  - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
-  - Vitals cards: Blood pressure, Height/weight, Vitals
-
-_Findings:_
-- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
-- Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
-- Vitals card were grouped under "About me/ Personal information" most often (25 out of 39, or 64% of the time), and were only grouped with Labs/ Tests 6 out of 39 times (15%).  (click below for larger image)
-
-<img width="50" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png" target="blank">
-
-
-**Participants had a range of interpretations for some medical terminology, like "pathology results", indicating misunderstanding of some health terms found in current medical records.** 
-
-It is possible that the technical language in the labs/ tests section may be confusing for some Veterans and Caregivers. For example: 
-
-_Pathology results:_ Responses were not consistent. Amongst those asked (n=11), most understood to be relating to fluids in the body, such as blood, that were drawn out to search for indicators of an illness, cancer, infection, etc. Two participants stated they did not know what pathology results were, while two others included things like x-rays or toxins like drugs or alcohol in their definitions. 
-
-<img width="401" alt="image" src="https://user-images.githubusercontent.com/100814257/204381386-275ee103-5738-4bf7-bc74-175583fd03b8.png">
-
-
-## Questions to answer
-
-**UX:** 
-Q: Do users expect to find blood sugar, cholesterol (lipid panel) and blood clotting times in their vitals or in their labs and tests?
-- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include blood sugar and cholesterol tests as part of labs and tests.
-
-Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
-- A: After additional research and finding test accounts that displayed the full gamut of tests, Blue Button reports already include imaging as part of labs and tests.
-
-Q: Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
-
-Q: What is the expected timing for adding in self-entered test data?  
-
-**Business/ Engineering:** 
-- Is there a business or technical reason we cannot show blood sugar, cholesterol (lipid panel) and blood clotting times with Labs and Tests instead of with Vitals?
-- Is there a business or technical reason why Labs and Tests cannot include Microbiology, Electrocardiogram, Pathology Reports?
-    
-
-**Who do we need to get feedback from?**
- - Business - Patty Henry
- - Technical - TBD
- - Main POCs: Michael Icardi (Pathologist) & Thomas Haugen (Chief, Pathology & Laboratory Medicine)
- - POC for How Labs Display in the Portal: Leanne Walls & Theresa (Terry) Webber
- - “Lab Enforcer” Group audits VA facilities including MHV. We don’t have a POC name, but will need to make sure that anything dealing with labs goes through this group
- - VHA Pathology and Lab Office regarding the display of any lab or pathology test data or wording and VA policies, Lab accreditation requirements. MHV POCs: We worked with a team put together by Lahl, Dennis dennis.lahl@va.gov; Vantu, Quynh Quynh.Vantu@va.gov and the Director, Wang-rodriguez, Jessica Jessica.Wang-Rodriguez@va.gov
-
-
-## Lessons learned
-
-
-## Backlog of potential features/ Ideas Parking Lot
-- Connect lab results with a specific visit or encounter
-- Connect pathology results with a specific procedure
-- Generate files that are compatible with common PHR systems so that they can be uploaded to another provider's system
-
-## Additional notes
-
-
-<br>
-
-## Change Log
-
-|  Date           | Changed By       | Description of Change                                                                                               |
-| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023/02/03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
-|                 |                  |                                                                                                                     |
-|                 |                  |                                                                                                                     |
-|                 |                  |                                                                                                                     |
-
 
