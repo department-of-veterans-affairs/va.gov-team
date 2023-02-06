@@ -14,6 +14,17 @@
 
 </details>
 
+## Monday, Februrary 6, 2023
+* Facilities are saying they don't provide urgent care - Veteran satisfaction with appointment wait times at this location
+  * There is a statistic for Urgent care appointments that is causing confusion (it means getting care urgently)
+  * Dotti will prioritize the ticket for this (#11079)
+* Structure of new service data 
+  * 2 appointment phone fields is one example - not sure the difference?
+  * Joshua will send a list of questions to Jay
+* v1 - is that a new endpoint?
+  * Can continue to use the existing endpoint 
+  * Would be good to move to v1, but not required
+
 ## Monday, December 12, 2022 
 * v1 status check
   * About to lift code freeze
