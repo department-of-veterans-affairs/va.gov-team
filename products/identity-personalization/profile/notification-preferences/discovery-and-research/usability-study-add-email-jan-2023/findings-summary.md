@@ -51,9 +51,15 @@ One prototype used our existing auto-save pattern, and another used a read/edit 
 *Definitely true*: Participants found the auto-save pattern to be easier and more intuitive than the read/edit model. Many specifically cited the preferred being able to make their changes right on the page rather than having to go elsewhere.
 
 ## Key Findings
-Numbered list to come in final draft
-
-
+1. Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#our-existing-auto-save-edit-pattern-worked-well-with-additional-channels-and-notifications-and-all-participants-preferred-it-to-the-readedit-pattern))
+2. The read/edit pattern introduced some usability problems that weren’t present in the auto-save pattern. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#the-readedit-pattern-introduced-some-usability-problems-that-werent-present-in-the-auto-save-pattern))
+3. No one was confused by the lack of a save button. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#no-one-was-confused-by-the-lack-of-a-save-button))
+4. People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#people-were-not-totally-clear-on-what-to-expect-from-notifications-well-be-bringing-over-from-my-healthevet))
+5. 7 of 8 participants easily navigated the path to add their email address. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#7-of-8-participants-easily-navigated-the-path-to-add-their-email-address))
+6. The repetition of the prompt to add an email address wasn’t overwhelming for most people. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#the-repetition-of-the-prompt-to-add-an-email-address-wasnt-overwhelming-for-most-people))
+7. Both variations of the design were equally usable on desktop and mobile. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#both-variations-of-the-design-were-equally-usable-on-desktop-and-mobile))
+8. Some participants were not clear about where their notifications would be delivered. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#some-participants-were-not-clear-about-where-their-notifications-would-be-delivered))
+9. 
 ## Details of Findings 
 ### Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
 The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today. 
@@ -141,7 +147,7 @@ Adding My HealtheVet notifications to our current page will nearly double the am
 We got some unexpected feedback from a low vision user who joined on a desktop device. They commented that the green background to the “update saved” alert, which extends the full width of the section, was a “waste of vision time” on desktop because there wasn’t anything on the right side.
 > “It would be better if the highlight didn’t go the full width of this thing and only highlighted the text. when I see it going the full width, I wonder what’s over there and it’s a waste of my vision time.”
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width=“600” />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width=“400” />
 
 *Above: The input message pattern on desktop. The background color of the banner extended the full width of it’s container, even though the text is much shorter.*
 
