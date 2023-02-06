@@ -1,5 +1,5 @@
 
-# Login.gov Adoption Team: Research during discovery
+# Login.gov Adoption Team: Discovery and generative research
 <br>
 
 |Study|End date|Folder|Readout|
