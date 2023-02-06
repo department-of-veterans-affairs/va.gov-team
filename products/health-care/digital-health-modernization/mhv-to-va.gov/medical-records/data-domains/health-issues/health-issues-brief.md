@@ -37,7 +37,7 @@ Health conditions
 Home > My Health > Health history > Health conditions
 
 ### List view
-  - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+  - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://myhealth.va.gov/mhv-portal-web/blue-button-availability
   - Users should be able to view a list of their health issues from across all VA facilities
   - Each entry should include
     - issue/problem title
