@@ -1,5 +1,5 @@
 
-# Login.gov Adoption Team: Discovery research
+# Login.gov Adoption Team: Research during discovery
 <br>
 
 |Study|End date|Folder|Readout|
