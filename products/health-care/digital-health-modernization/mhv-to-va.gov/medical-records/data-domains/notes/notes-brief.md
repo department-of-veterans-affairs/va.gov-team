@@ -1,4 +1,4 @@
-# Notes: Data fields and UX considerations
+# Notes: Domain brief
 
 Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
