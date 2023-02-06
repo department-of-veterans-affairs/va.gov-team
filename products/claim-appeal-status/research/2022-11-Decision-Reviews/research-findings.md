@@ -37,17 +37,15 @@ We have a hypothesis that self-service works well for simplified or automated us
 
 ## Key Findings
 
-1. We spoke to many Veterans who found VSOs to be crucial in getting to a satisfactory claim decision.
+1. Many Veterans we spoke to found VSOs to be crucial in getting to a satisfactory claim decision.
 
 2. It's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
 
 3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
-4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down.
+4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
 
-5. Even though VSOs are valuable, many Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, maybe with an expert assistant available as a resource to help them or check their work.
-
-6. Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades.  
+5. Some Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, but that it would be nice to have an expert representative available to them if they needed help.
 
 
 ## Details of Findings 
@@ -85,14 +83,30 @@ We talked to many Veterans who had gone to several different VSOs before finding
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-In our concept prototype, participants reacted well to the idea of using VA.gov to get connected with a VSO or other representative.
+Our concept prototype contained link to a page that allowed Veterans to see their current VSO reps and connect with other VSO reps. If anything, participants wanted this option to be even more prominent and readily available. 
+
+<img width="456" alt="Screenshot 2023-02-06 at 2 45 40 PM" src="https://user-images.githubusercontent.com/95102058/217069738-01f20b8d-1e93-4890-86f1-970a4565c18e.png">
+
+> "I would have VSO info at the top of the page where they see that first." - P5 
+
+> "I would try to get an accredited person before i did anything so I have a better understanding of the proces." - P7
+
+> "Same as your taxes, I'd rather have someone else assist as well."- P24
+
+> P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
+
+
+### The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
+
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
+
+Evdience gathering consistently emerged as a major pain point in the claims and decision review filing process, and a major benefit of getting help from a VSO. 
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
 
-
-### Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
+### Some Veterans expressed interest in being able to complete the claims and decision review process on VA.gov, but that it would be nice to have an expert representative available to them if they needed help. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -100,12 +114,12 @@ In our concept prototype, participants reacted well to the idea of using VA.gov 
 
 > _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+> "Kinda torn (about self-service vs. VSO). I'd like to be able to do both...help with a rep and have access to complete it myself." - P31
 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+- Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
 
 
 ## Recommendations
@@ -140,24 +154,17 @@ _Next steps here. Include owners if appropriate._
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural Board](https://app.mural.co/t/coforma8350/m/coforma8350/1673977019901/1adeef86c6ea30d20562b1c61245cd0708b8c6ca?sender=uf0ac39cb9487bbab2ebe3184)  
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/prototype/a/F8B70305-F9BD-42F3-B318-7705AB232BDB) for Part 2
 
 
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
