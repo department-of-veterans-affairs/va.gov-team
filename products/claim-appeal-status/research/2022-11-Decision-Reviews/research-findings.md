@@ -81,13 +81,22 @@ We talked to many Veterans who had gone to several different VSOs before finding
 > P6: Tried to connect with VSO and there was a huge backlog and couldn't connect from 1996-2011. He even worked at a VSO (VFW) but was still unable to get help filing a claim due to the backlog. 
 
 
-### Many Veterans were open to the idea of using VA.gov to file their claims and decision reviews, but expressed that they'd like the option to ask an expert for help if they got stuck or needed a someone to review their work.
+### Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
-We asked participants how they would advise fellow Veterans to proceed with a claim or decision review. Many of them mentioned VSOs in their answer. (We talked mostly with Veterans who used VSOs, so in order to get a more comprehensive picture of that decision we should do additional research).
+In our concept prototype, participants reacted well to the idea of using VA.gov to get connected with a VSO or other representative.
 
-However, many Veterans who had relied heavily on VSOs were still open to the self-service options on the website, at least in theory. 
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+### Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
+
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
+
+In our concept prototype, participants reacted well to the idea of using VA.gov to get connected with a VSO or other representative.
 
 > _Supporting data: Quote here_
 
