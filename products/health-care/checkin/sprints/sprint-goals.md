@@ -54,6 +54,9 @@ ________________________________________________________________________________
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - **GOAL: Fix bugs**
+       - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
+       - [Bug: Link is wrong for "Go to AccessVA travel claim portal now"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53183)
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
