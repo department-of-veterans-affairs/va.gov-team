@@ -87,8 +87,8 @@ This document describes the pages in the new health portal on VA.gov that will g
 - [VA My Health Summary generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#4-va-my-health-summary-generation-page)
 - [VA My Health Summary Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#5-va-my-health-summary-results-page)
 
-### 1. Downloadable Reports Landing Page
-This page provides the ability for the user to select which report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
+### 1. Downloadable Reports Landing Page | [MyHealtheVet Screenshot](https://user-images.githubusercontent.com/69174644/217010319-28687c62-d1ca-4c95-a1ba-46243b88d565.png)
+This page provides the ability for the user to select which type of report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
 
 #### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
 MyHealtheVet provides four primary links in the left navigation:
@@ -281,8 +281,11 @@ This page provides the ability for the user to generate a My VA Health Summary R
 - `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
 - `[info icon]` `[linked text]` What's in the VA Health Summary *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information*
 
-`[info block A]`  `[check mark icon`] Your information update is complete. *appears if data has NOT been updated in the last 25 hours* <br>
-`[info block B]`  *appears if data has been updated*
+`[info block A]`   | [Screen shot from MHV ](https://user-images.githubusercontent.com/69174644/217013028-f27704aa-1d5a-4dc7-9e84-268118c97eb2.png
+) *appears if data has NOT been updated in the last 24 hours* <br>
+`[info block B]` `[check mark icon`] Your information update is complete. | [Screen shot from MHV](https://user-images.githubusercontent.com/69174644/217014078-c444ba03-15c2-47b7-b501-18bb5bc599a5.png)
+)  *appears if data has been updated*
+
 
 `[Heading]` Personal Health Information of FIRSTNAME LASTNAME
 `[Heading]` Download Your VA Health Summary
@@ -296,8 +299,14 @@ This page provides the ability for the user to generate a My VA Health Summary R
      - Request Date 
      - Status 
      - I Want To...
+
+ TABLE ROW ONE - Before updates have processed
+     - Current Summary
+     - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
+     - 03 Feb 2023 @ 1218
+     - Request Being Processed
      
-  - TABLE ROW ONE (for latest health summary) sample contents: 
+  - TABLE ROW ONE sample contents (if updates are complete and report is ready to download}: 
      - Current Summary
      - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230203_1718
      - 03 Feb 2023 @ 1218
