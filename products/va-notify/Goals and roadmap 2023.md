@@ -52,21 +52,21 @@ VA Profile is in the process of adding a flag to the Veteran contact info to det
 ### Notify Team
 
 #### Twilio Status Integration 
-words go here
+VA Notify is designed to be provider agnostic. We added support for a new provider, Twilio, to aid in migrating VEText over the VA Notify with the intention to move them to Amazon as the final state. VEText is no longer planning to move from Twilio to Amazon to send SMS notifications, which means VA Notify must complete the integration with Twilio by integrating notification statuses into VA Notify for analytics and tracking purposes.
 
 This work is carrying over from Q3/Q4 CY2022.
  
-**Expected launch date**: 
+**Expected launch date**: March 22, 2023
 
 #### Franchise Fund Billing Reports
-We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line 
+We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line.
 
-**Expected launch date**: 
+**Expected launch date**: March 6, 2023
 
 #### Restart Compensation and Pension Payment Notification Work
-As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team to resume work.
+As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
 
-**Expected launch date**: 
+**Expected launch date**: July 31, 2023
 
 #### Performance, Monitoring and Security 
 To keep our platform performing at it's best, we plan to execute the following:
@@ -75,7 +75,7 @@ To keep our platform performing at it's best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 * Microservices for Push Notifications
 
-**Expected launch date**:
+**Expected launch date**: April 26, 2023
 
 ### Strike team
 
