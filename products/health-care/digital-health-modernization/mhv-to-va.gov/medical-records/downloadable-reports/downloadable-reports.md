@@ -396,25 +396,27 @@ _Findings:_
 ## Questions to answer
 
 **UX:** 
-- Should a submit button be presented higher on the page so that the user doesn't have to scroll past all the selected options after select "All Types of Information"?
+- Should a submit button be presented higher on the Blue Button report generation page so that the user doesn't have to scroll past all the selected options after select "All Types of Information"?
 - How closely do uses associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
 - Are uses able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
 - What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
 - Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
+- Is it necessary to have user documentation if our testing finds that the tools are intuitive?
 
 **Business/ Engineering:** 
 - What options are available for customizing the layout of each of these reports?
     
 
 **Who do we need to get feedback from?**
-
+- Patty Henry
+- Bresha Lipscomb
 
 ## Lessons learned
 
 
 ## Backlog of potential features/ Ideas Parking Lot
 - A comparison matrix showing which report can be customized, which has the option to download XML, which contains DoD info, etc.
-- Self-paced webinar showing how to customize/download/view reports
+
 
 ## Additional notes
 
