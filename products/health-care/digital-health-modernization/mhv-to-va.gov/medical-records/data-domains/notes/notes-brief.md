@@ -1,6 +1,14 @@
 # Notes: Data fields and UX considerations
 
-Last updated: January 31, 2023| [Change Log](#change-log)
+Last updated: Feb 6, 2023 | [Change Log](#change-log)
+
+## Table of Contents
+- [Purpose](#purpose)
+- [Description of domain](#description-of-domain)
+- [Use cases](#use-cases)
+- [Requirements](#requirements)
+- [Research to date](#research-to-date)
+- [Relevant links](#relevant-links)
 
 ## Purpose
 
@@ -27,70 +35,22 @@ After an appointment or hospital stay, your provider and health care team write 
 - Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
 - Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
 
-## Relevant links
-
-[Overall initiative decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
-
-[Notes decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/notes/decision-log.md)
-
-[Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
-
-[Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
-
-[Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
-
-[Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
-
-[Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
-
-## Notes data fields
-(Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
-
-**Data field title:** Notes (VA Notes on Blue Button Report)
-
-**Data fields to include:**
-
-- Date/time
-- Note title
-- Location
-- Signed by 
-- Co-signed by 
-- Date/time signed 
-- Note
-
-## Admission and Discharge Notes in Blue Button Report
-
-**Data field title:** VA Admissions and Discharges
-
-**Data fields to include:**
-- Source
-- Last Updated
-- Sorted by
-- Disclaimer (this is just displayed; there is no label that says "disclaimer")
-- Admission Date
-- Location
-- Admitting Physician
-- Discharge Date
-- Discharge Physician
-- Discharge Summary (see screen shot later in this document)
-
-
-
 ## Use Cases
 
-Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from [after visit summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)? 
+Notes are not just for patients, but also a way for health care members to be informed about patients' health journey. Notes are available 36 hours after completion. What notes are important and useful for patients to access, and what are not? Why are there so many different notes, and how is note different from [after visit summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)?  
 
 - Procedure note (VA Note in BB): to read about what happened with the procedure and if anything needs to follow up 
 - Progress note (VA Note in BB): to read about your health journey and see what's changed. 
+- Admissions and Discharge notes (VA Admissions and Discharges in BB): to read about your hospital admissions and discharges.
+- After Visit Summary (part of MHV): to get a full picture of all important details during a visit
 - Outpatient encounter notes (VA Health Summary)
 - Consult notes (VA Health Summary)
 - History & physical notes (VA Health Summary)
 - Discharge summary notes (VA Health Summary)
 - Surgical procedure notes (VA Health Summary)
 - Clinical procedure notes (VA Health Summary)
-- Admissions and Discharge notes (VA Admissions and Discharges in BB): to read about your hospital admissions and discharges.
 
-Note what's in BB and what's in Health Summary
+Note what's in BB and what's in Health Summary. We will focus on what currently in BB and the AVS.
 
 **Common Use Cases**
 
@@ -99,55 +59,87 @@ What do people want to use their notes for:
 - To be informed about their health 
 - To support disability claims 
 
-**Edge Cases**
+## Requirements
+
+### Title
+Care summaries and notes
+
+### Includes  
+
+Only what is currently accessed via BB and the AVS.
+
+  - VA notes
+  - Admission & Discharge summaries 
+  - After visit summaries
+
+### Information architecture
+Home > My Health > Health history > Care summaries and notes
+
+### List view
+
+- At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- A user should be able to see a list of all of their notes, ordered chronologically. 
+- Each entry should include the:
+  - Note title
+    - VA note: Note title
+    - Admission & discharge summary: Admission & discharge summary
+    - AVS: After-visit summary
+  - Date (This should be the date that most closely reflects when the patient had their visit or started their hospital stay)
+    - VA note: date of note
+    - Admission & discharge summary: Date of admission
+    - AVS: Visit date  
+  - Location where that note was written
+  - Physician
+    - VA note: signing physician 
+    - A&D: Admitting physician
+    - AVS: Provider
+- A user should be able to click into each entry to get more details.
+  
+### Details view
+- The H1 of the details view should be the title of the note. 
+- Where possible and clinically permissable, transform text to make a note easier to read.
+- From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
+- Because each category of the labs and tests is different, details view for each entry will also vary: 
+  - VA note
+    - Title (H1)
+    - Date and time
+    - Location
+    - Signed by
+    - Co-signed by
+    - Last updated
+    - Date and time signed
+    - Note
+  - Admission & discharge summary
+    - Title (H1)
+    - Admission date
+    - Location
+    - Admitting physician
+    - Discharge date
+    - Discharge physician
+    - Last updated
+    - Discharge summary
+  - After visit summary
+    - Title
+    - Visit date
+    - Then reflect the AVS as closely as possible - https://github.com/department-of-veterans-affairs/va.gov-team/blob/b62e5725d9033be0aefef60bdd8cac6df28164f3/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf
+
+ ### Not for first iteration, requires future usability research
+    
+  - A user should be able to sort their notes in different ways
+    - Chronologically
+    - By location, chronologically
+    - By signing physician, chronologically
+  - A user should be able search Notes to find what they are looking for.
+    - A user should be able to search by note metadata, such as note title, signing or co-signing physician, location, or date. 
+    - A user should be able to search for keywords in the body content of a note, such as "high blood pressure" or "back pain." A common use case is finding reference to a specific health condition in order to support something like a disability claim.
+    - Search results should be ordered chronologically, from newest to oldest, and matches should be highlighted. 
+    - The search box can be collapsed to create real estate for the list view of notes. 
+
+### Sketch file
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/7kbypw/p/2D083AD3-2552-47E5-947B-51762267B9F3/canvas?posX=-5144.862156811298&posY=-1450.3621396231047&zoom=0.19462840259075165
 
 
-## UX considerations
-
-### When to show Notes section
-
-<img width="1590" alt="Screenshot 2022-12-29 at 10 43 26 PM" src="https://user-images.githubusercontent.com/65574620/210042256-a8b3ebb9-5c90-4b16-b3c1-d599821565e2.png">
-
-**Where do Notes fit within IA?**
-
-Two ways: 
-- Home > My Health > Health history > Clinical notes
-- Home > My Health > Clinical notes
-
-
-### How to show Notes section
-What should the screen look like? What information should be seen? What should be hidden? 
-
-VA Notes on Blue Button Report: 
-
-<img width="864" alt="Screenshot 2022-12-21 at 12 00 59 PM" src="https://user-images.githubusercontent.com/65574620/208992987-9b3bd638-fb83-4dca-8a9a-6fccbc25c1f6.png">
-
-What are important to show: 
-- Type of clinical notes
-- Title of the notes
-- Date/time received
-- Clinician's name
-
-Admission and Discharges on Blue Button Report:
-<img width="723" alt="image" src="https://user-images.githubusercontent.com/69174644/215791998-8f9134cf-93f6-44b0-bad0-e58ceba31272.png">
-
-
-**View vs. share vs. download vs. print considerations:**
-
-- View: How much notes is it helpful for users to view without overwhelming them on the screen? 
-- Share: Do users share all notes or individual note? Who do they share it with? How do they share it currently, through secure messaging? What's the ideal way of sharing notes? 
-- Download: Currently users need to download and open the report in PDF in order to view notes. Question is that if there is a need to download. 
-- Print: What is print feature like? Is it simply a print button to print the whole list of notes? How would users print individual notes? 
-
-
-### Accessibility considerations:
-
-- Need to create Accessibility brief/ document -> link here
-
-_Accessibility considerations specific to Notes:_
-
-
-### Research that relates to Notes
+## Research to date
 
 **Findings from card sort**
 
@@ -174,31 +166,36 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 ## Questions to answer
 
 **UX:** 
-- How do we group notes? 
-- What to call notes?
-- What information do they want most readily available about notes? 
-- Are we redesign PDFs or do we want to display notes on the screen? 
+- Can we or should we redesign BB PDFs to be consistent with the view experience of the same note? 
 - What notes do users find the most useful? Analytics? check VA Progress notes requested, what is progress notes? 
-- Do users have different purposes for view/share/download/print? 
-- Talk to whoever works on after visit summary, and see how different it notes from after visit summary
-
 
 **Engineering:** 
 - Can we take notes out of PDF format and display content on the screen? 
 
 **SMEs:** 
-- What are the different types of notes and what are they used for? 
 - Are there any notes for clinians that patients don't have access to? 
+- Do any of the notes that are included as part of health summary need to be made available in MHV?
 
 **Who do we need to get feedback from?**
 Ask Lauren A., Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, and Patty who we need to reach out to regarding notes.
 
+## Relevant links
 
-## Lessons learned
+[Overall initiative decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
 
+[Notes decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/notes/decision-log.md)
 
-## Backlog of potential features/ Ideas Parking Lot
+[Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
 
+[Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+
+[Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
+
+[Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
+
+[Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
+
+[Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280)
 
 ## Additional notes
 
@@ -210,7 +207,7 @@ Ask Lauren A., Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, and Patty who
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|                 |                  |                                                                                                                     |
+| 2/6/23                |     Coulton Bunney             | Combined requirements with domain brief                                                                                                                    |
 |                 |                  |                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
