@@ -29,7 +29,7 @@ Allergies reflects allergies that relate to medications. Should be linked with t
 - A Veteran concerned with needing emergency medical care in the future wants to keep a printed copy so that his spouse can provide it to emergency medical personnel in the event he is unconcious.
 - A Veteran who is seeing a new provider wants to download his health information as an XML file so that he can give it to the new provider on a thumb drive to be imported into their health care system.
 
-## Requirments
+## Requirements
 
 ### Title
 Allergies
