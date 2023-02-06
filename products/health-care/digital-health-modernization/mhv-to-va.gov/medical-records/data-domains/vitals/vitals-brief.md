@@ -31,7 +31,14 @@ What do people want to use their vital signs for?
 - To share past vital signs with HCPs to ensure HCP understands their health 
 
 ## Requirements
-**Includes**
+
+### Title
+Vitals - this name proved confusing in the Jan 2023 IA tree testing. Therefore, this title may need to be updated. However, a new name has not been decided. 
+
+### Information architecture
+Home > My Health > Health history > Vitals
+
+### Includes
   - Blood pressure
   - Blood sugar
   - Heart rate
@@ -43,50 +50,27 @@ What do people want to use their vital signs for?
   - International Normalized Ratio (INR)
   - Pain
 
-**List view**
+### List view
 
 - A user should be able to see a list of vital sign categories, listed alphabetically. 
+- A user should be able to click into each category to see a historical list of readings
 - Each entry should include
   - Category name
   - Latest reading
   - Date of latest reading
   - Location of latest reading
-- A user should be able to click into each category to see a historical list of readings
   
-**Details view**
+### Details view
   - The H1 of the details view should be the category name 
   - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
+  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
   - Each entry in that list should include
     - Reading
     - Date of entry
     - Location of entry 
     - Comments
-  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
 
-## UX considerations
-
-### When to show Vitals section
-
-
-**Where do Vitals fit within IA?**
-
-
-
-### How to show Vitals section
-- What should the screen look like? What information should be seen? What should be hidden? 
-
-
-
-**View vs. share vs. download considerations:**
-
-
-### Accessibility considerations:
-
-_Accessibility considerations specific to Vitals:_
-- None identified so far
-
-### Research that relates to Vitals
-
+## Research to date
 **Findings from card sort**
 
 _Cards included:_ 
@@ -123,14 +107,6 @@ _Findings:_
 
 **Who do we need to get feedback from?**
 
-
-## Lessons learned
-
-
-## Backlog of potential features/ Ideas Parking Lot
-
-
-## Additional notes
 
 ## Change Log
 
