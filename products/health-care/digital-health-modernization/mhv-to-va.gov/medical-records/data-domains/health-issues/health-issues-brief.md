@@ -38,18 +38,16 @@ Home > My Health > Health history > Health conditions
 
 ### List view
   - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://myhealth.va.gov/mhv-portal-web/blue-button-availability
-  - Users should be able to view a list of their health issues from across all VA facilities
+  - Users should be able to view a list of their health issues from across all VA facilities, ordered chronologically based on date entered.
+  - From the top of the page, a user should be able to print or download (as PDF or TXT) the entire list so that they can share and communicate their health issues with their health care team
   - Each entry should include
     - issue/problem title
     - date/time it was entered
     - status of the issue (e.g. active/inactive)
-  - A user should be able to sort their health conditions
-    - Chronologically based on initially entered date
-    - Alphabetically by issue
-    - By status
 
 ### Details view
-  - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
+   - The H1 of the details view should be title of the health condition.
+   - From the top of the page, a user should be able to print or download the details so that they can share and communicate their health issues with their health care team
   - Each health issue entry should include:
     - Issue/problem title
     - Date/time entered
@@ -59,6 +57,10 @@ Home > My Health > Health history > Health conditions
     - Comments
 
 ### Not for first iteration, requires future usability research
+-A user should be able to sort their health conditions
+  - Chronologically based on initially entered date
+  - Alphabetically by issue
+  - By status
 - During user interviews, several participants expressed the desire to be able to select only specific health records based on a specific health issue, such as a shoulder injury, for the purposes of filing a disability claim.
 
 ### Sketch file
