@@ -27,7 +27,7 @@ As we wrap up Phase 1 of the VEText migration, we have some room to re-engage wi
 
 ### Expand onsite notifications
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
-#### OCTO Goal(s): Enhance veterans' personalized online experience
+#### OCTO Objective(s): Enhance veterans' personalized online experience
 
 As we partner with the authenticated experience team, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov feature. We'll be investigating the best way to display this feature in SSUI and how best to support the authenticated experience team in adding new notifications.
 
@@ -38,7 +38,7 @@ We know from our users that copying template content from our staging environmen
 
 ### Support MHV on VA.gov Portal
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
-#### OCTO Goal(s): Integrate the health protal features into VA.gov
+#### OCTO Objective(s): Integrate the health protal features into VA.gov
 
 As MHV moves it's notification preferences into VA.gov we will start sending those notifications for MHV.  This work  may also include other notifications as needed to support the new portal
 
