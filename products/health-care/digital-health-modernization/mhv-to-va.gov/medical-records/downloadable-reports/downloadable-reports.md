@@ -320,6 +320,47 @@ This page provides the ability for the user to generate a My VA Health Summary R
      - Ready to Download
      - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. <br> `Download` downloads the TXT 
 
+### Navigation
+- `[button]` Back (returns to the reports landing page)
+
+
+### Info boxes
+_Info box 1_
+- Heading: Options to Retrieve Data
+   - `[Text]`: View:  View your VA Health Summary in the browser. 
+   - `[Text]`Download PDF file:  Read, print or save your information in an easy to read and print Adobe PDF file format. Please be aware: anytime you open/download a PDF file you create a temporary file on the computer you are using. Your health information can be visible to other users of this computer.
+   - `[Text]`Download XML file:  This file format is designed for computer systems to read, such as other electronic health records, personal health records, or applications. To view your .xml file, you may also need to [download the XML Style Sheet](https://www.myhealth.va.gov/mhv-portal-web/documents/25286/34031/cda.xsl), and place both files in the same folder on your computer.
+   - `[Text]`Send My VA Health Summary:  Securely send your VA Health Summary to some [community (non-VA) providers, organizations, or other applications that are participating with VA](https://www.myhealth.va.gov/mhv-portal-web/ccd-direct-participating-providers-help) using Direct Messaging.
+
+_Info box 2_
+- Heading: Other VA Health Summary Options:
+   - `[Text]` Set Up Email Notification:   [Update your profile](https://www.myhealth.va.gov/mhv-portal-web/profiles)  to subscribe to VA Health Summary delivery notifications.
+   - `[Text]`View Status:  View the status of your recent requests: This link is disabled as it is not nested within a JSF form.  to send your VA Health Summary.
+
+
+_Info box 3_
+- Heading: Additional Tips
+   - `[Text]`The information in your VA Health Summary can be updated once each day.
+   - `[Text]`You can cancel your download at any time.
+   - `[Text]`Be sure to save your downloads in a safe place.
+   - `[Text]`All requests to download your personal health information from My HealtheVet are tracked. You can see these requests in your Account Activity History.
+   - Once you have downloaded your information from My HealtheVet, it is your responsibility to keep it safe.
+
+
+_Info box 4_
+- Heading: Protect your information and your identity.<br>
+`[Text]` Protect your information and your identity.
+Send your information to a safe site or device that you or someone you trust controls. Remember, once you have downloaded your information from My HealtheVet, it is your responsibility to keep it safe and private. Learn more about protecting your personal health information.
+
+### Page control
+- `[button]` Back to Top
+
+### Feedback control
+- `[button]`  Feedback *links to a [survey](https://survey.voice.va.gov/?jAM9oX-MyHealtheVet) hosted on survey.voice.va.gov
+
+<br>
+
+
 
 <br>
 
