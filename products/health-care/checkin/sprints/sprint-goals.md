@@ -3,6 +3,15 @@
 __________________________________________________________________________________________________________________________________________________________
 
 ************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
+
+#### OVERALL GOALS
+- **GOAL: Finish testing Travel**
+- **GOAL: Release the Simplified Header & Footer**
+- **GOAL: Finish work for & test the VAOS Compatability Work**
+- **GOAL: Complete & release the new message for expired links**
+- **GOAL: Complete & release the moving of the Pre-Check-in action link**
+- **GOAL: Plan research for unifified CIE**
+
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - Staging Review is on 2/7
@@ -13,9 +22,8 @@ ________________________________________________________________________________
    - Release when completed
 
 #### Analytics Sprint Goals
-- **GOAL: Analyze current report**
-   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
-      - Use new path discussed
+- **GOAL: Analyze current report using the new method discussed**
+   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)      
 
 #### UX Sprint Goals 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
@@ -90,16 +98,16 @@ ________________________________________________________________________________
 - NONE
 
 #### Analytics Sprint Goals
-- DONE **GOAL: Analyze current report**
-   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
-- DONE **GOAL: Brainstorm ways to meet these analysis goals**
-   - Get the analysis down to 1 hour of work per sprint for a team member (just categorize/score, don't pull out quotes)
-   - Have each graph show trend lines from the beginning (November) to the present
+- **GOAL: Analyze current report**
+   - DONE [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)
+- **GOAL: Brainstorm ways to meet these analysis goals**
+   - DONE Get the analysis down to 1 hour of work per sprint for a team member (just categorize/score, don't pull out quotes)
+   - DONE Have each graph show trend lines from the beginning (November) to the present
    
 #### UX Sprint Goals 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-    - DONE **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
-      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)  
+    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
+      - DONE [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)  
    - **GOAL: Prepare for LA release**   
      - NOT DONE [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47488)
      - DONE Schedule staging review (if we are ready)
@@ -127,27 +135,30 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
-      - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
-      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
-      - [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+      - DONE [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
+      - DONE [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
+      - DONE [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Get final approval of PR**      
+      - DONE
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
    - **GOAL: Complete remaining feature requirements**
-      -  [Send reason for appointment data to the front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996)
-      -  [Send address of facility data to front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694)
-      -  [Create Address Component & Implement directions link to facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50825)
-      -  [Incorporate the 3 new fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
-      -  [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
-      -  [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132) (WAITING ON WIREFRAME)
-      -  [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114) (WAITING ON WIREFRAME)
+      -  BLOCKED [Send reason for appointment data to the front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50996)
+      -  BLOCKED [Send address of facility data to front end](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694)
+      -  DONE [Create Address Component & Implement directions link to facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50825)
+      -  BLOCKED [Incorporate the 3 new fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+      -  DONE [Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
+      -  DONE [Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132) (WAITING ON WIREFRAME)
+      -  DONE [Move Icon inside of Card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52114) (WAITING ON WIREFRAME)
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Collaborate with PCI/API team to determine best solution**
+      - DONE
 - [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
    - **GOAL: Complete as many as fits in the sprint**
+      - DONE
 - CIE Tech Debt
    - **GOAL: Complete as many as fits in the sprint**
-      - Improve testing and validation with staging and screenshots 
+      - DONE Improve testing and validation with staging and screenshots 
 
 ## 1/11/2023 - 1/24/2022 
 
