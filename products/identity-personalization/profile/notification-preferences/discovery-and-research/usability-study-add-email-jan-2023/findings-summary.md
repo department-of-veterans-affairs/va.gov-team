@@ -9,16 +9,12 @@ Liz Lantz, liz.lantz@adhocteam.us
 Research readout Link to come
 
 **Jump to:**
-
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
-
-[Key findings](#key-findings)
-
-[Recommendations](#recommendations)
-
-[Who we talked to](#who-we-talked-to)
-
-[Further research needed](#further-research-needed)
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* [Key findings](#key-findings)
+* [Recommendations](#recommendations)
+* [Research process insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#research-process-insights)
+* [Who we talked to](#who-we-talked-to)
+* [Further research needed](#further-research-needed)
 
 ## Research Goals
 1. Learn how our single page, auto-save works for users when all known notifications are represented.
@@ -33,7 +29,6 @@ Research readout Link to come
 
 
 ## Methodology 
-
 We conducted sessions remotely via Zoom, and asked participants to explore 2 HTML CodePen prototypes by completing 3 tasks.  
 
 One prototype used our existing auto-save pattern, and another used a read/edit pattern similar to the other sections in profile.  We alternated which version we started with for each session.  Both prototypes had the same notification options available.
@@ -59,7 +54,7 @@ One prototype used our existing auto-save pattern, and another used a read/edit 
 6. The repetition of the prompt to add an email address wasn’t overwhelming for most people. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#the-repetition-of-the-prompt-to-add-an-email-address-wasnt-overwhelming-for-most-people))
 7. Both variations of the design were equally usable on desktop and mobile. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#both-variations-of-the-design-were-equally-usable-on-desktop-and-mobile))
 8. Some participants were not clear about where their notifications would be delivered. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#some-participants-were-not-clear-about-where-their-notifications-would-be-delivered))
-9. 
+
 ## Details of Findings 
 ### Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
 The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today. 
