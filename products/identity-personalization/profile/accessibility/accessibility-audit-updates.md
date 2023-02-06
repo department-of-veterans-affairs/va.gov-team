@@ -73,7 +73,8 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 #### Field "headings" / lists (i.e. Mailing address and Home address)
 `508-defect-4`
 
-- [ ] **Status**: As of January 10, 2023 this work has not been completed
+- [ ] **Status**: Not complete
+- Scoping work in [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041)
 -   Some changes are needed for the field names/headings
 -   Concern also raised during BAI pilot session with Angela
 -   **Recommendations:**
