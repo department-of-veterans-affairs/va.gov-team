@@ -1,4 +1,4 @@
-# Labs/ Tests: Data fields and UX considerations
+# Lab and test results: Domain brief
 
 Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
