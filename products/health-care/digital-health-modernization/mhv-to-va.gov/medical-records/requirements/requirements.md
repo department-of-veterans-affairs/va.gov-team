@@ -265,28 +265,27 @@
 
 
 ## Allergies
-**List view**
-- A user should be able to see a list of all of their allergies.
-- Each entry should include:
-  - Date entered
-  - Allergen/reactant
-  - Reaction/side effect
-  - Location
-  - Source
+### List view
+- A user should be able to see a list of all of their allergies, ordered chronologically by date entered.
 - A user should be able to click into each entry to learn more details.
-- A user should be able to print or download (PDF or TXT) the complete allergies list. 
-- A user should be able to sort the list alphabetically by allergen/reactant name and chronologically based on initially entered date.
+- A user should be able to print or download (PDF or TXT) of the complete allergies list. 
+- Each entry should include:
+  - Allergy name
+  - Date entered
+  - Severity
 
 **Details view**
-- Each allergy detail should include:
-  - Location
-  - Date entered
-  - Allergen/reactant
-  - Reaction/side effect
-  - Allergy type (all drug, except self-entered allergies)
-  - VA drug class
-  - Observed/historical
-  - Comments
+  - The H1 of the details view should be title of the allergy
+  - From the top of the page, a user should be able to print or download the details so that they can share and communicate their health issues with their health care team
+  - Each allergy details page should include:
+    - Allergy name
+    - Date entered
+    - Severity
+    - Reaction
+    - VA drug class
+    - Observed/Historical
+    - Location
+    - Comments
 
 ## Demographics
 **List view**
