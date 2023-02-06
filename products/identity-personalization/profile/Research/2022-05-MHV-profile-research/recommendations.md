@@ -150,7 +150,7 @@ Below are the results from our card sort showing which category made sense to th
 | The ability to connect your health tracking device (like a FitBit)* | My Health Care |
 | Your blood type | My Health Care |
 | Your caregivers* | My Health Care |
-| Your non-VA health insurance information (Note: this exists in MHV, but only as self-tentered info on the health information card) | My VA.gov Profile |
+| Your non-VA health insurance information (Note: this is self-entered on the health info card) | My VA.gov Profile |
 | Your power of attorney* | My VA.gov Profile |
 | Your providers and doctors (self-entered)* | My VA.gov Profile |
 
