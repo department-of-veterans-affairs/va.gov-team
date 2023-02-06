@@ -164,9 +164,7 @@ Note: This work needs tickets created.
 **FE - Adam**
 
 - Remove feature flags for any accessibility work that has already launched
-- [Investigate this issue noted in our accessibility audit documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/accessibility/accessibility-audit-updates.md#field-headings--lists-ie-mailing-address-and-home-address) and determine next steps.
-  - This is one of the only issues for which further documentation and tickets were not created. I am trying to determine whether this is one last thing we should address before we officially close out the accessibility project, or if we should move on entirely.
-  - Depending on what turns up, acceptance criteria would be to determine next steps, so we can either ticket that work or close out the project.
+- Depending on what Adam recommends from his sprint 3 investigation for [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041), there might be additional work and next steps. We can determine if there are actual tickets to work on, and if so, what Adam might be able to do this sprint.
 
 ### Direct deposit migration
 
