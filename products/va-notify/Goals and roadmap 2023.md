@@ -12,11 +12,11 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 Our goals are tied to one or more of our themes:
 * Self Service / Governance
 * Quality / Personal Experience
-* Platform capabilites
+* Platform Capabilites
 * Performance, Monitoring & Security
 
 ### VEText Migration Wrap-up
-#### Theme: 
+#### Theme: Performance, Monitoring & Security, Platform Capabilities
 
 As we close out our VEText migration, we need a way to get status updates and callbacks from Twilio.
 
@@ -27,6 +27,7 @@ As we wrap up Phase 1 of the VEText migration, we have some room to re-engage wi
 
 ### Expand onsite notifications
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
+#### OCTO Goal(s): Enhance veterans' personalized online experience
 
 As we partner with the authenticated experience team, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov feature. We'll be investigating the best way to display this feature in SSUI and how best to support the authenticated experience team in adding new notifications.
 
@@ -37,6 +38,7 @@ We know from our users that copying template content from our staging environmen
 
 ### Support MHV on VA.gov Portal
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
+#### OCTO Goal(s): Integrate the health protal features into VA.gov
 
 As MHV moves it's notification preferences into VA.gov we will start sending those notifications for MHV.  This work  may also include other notifications as needed to support the new portal
 
@@ -52,8 +54,6 @@ VA Profile is in the process of adding a flag to the Veteran contact info to det
 #### Twilio Status Integration 
 words go here
 
-**OCTO objective**: Not directly tied to an OCTO objective
-
 This work is carrying over from Q3/Q4 CY2022.
  
 **Expected launch date**: 
@@ -61,16 +61,11 @@ This work is carrying over from Q3/Q4 CY2022.
 #### Franchise Fund Billing Reports
 words go here
 
-**OCTO objective**: Not directly tied to an OCTO objective
-
-
 
 **Expected launch date**: 
 
 #### Restart Compensation and Pension Payment Notification Work
 words go here
-
-**OCTO objective**: Not directly tied to an OCTO objective
 
 
 #### Performance, Monitoring and Security 
@@ -79,8 +74,6 @@ To keep our platform performing at it's best, we plan to execute the following:
 * Other monitoring Enhancements
 * Platform Upgrades (Flask, Celery, etc.)
 * Microservices for Push Notifications
-
-**OCTO objective**: Not directly tied to an OCTO objective
 
 **Expected launch date**:
 
