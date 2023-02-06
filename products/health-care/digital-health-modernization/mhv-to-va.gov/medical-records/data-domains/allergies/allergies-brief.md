@@ -53,8 +53,9 @@ Can also be found on pages within Medications portion of MHV, though details are
     - Allergy name
     - Date entered
     - Severity
-    - Reaction
+    - Allergy type
     - VA drug class
+    - Reaction
     - Observed/Historical
     - Location
     - Comments
