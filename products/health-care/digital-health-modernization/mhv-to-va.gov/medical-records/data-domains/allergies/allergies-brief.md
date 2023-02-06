@@ -80,6 +80,8 @@ https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/yWydAK/p/1DD0602
 - [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 - [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
 
+## Questions to answer
+- Severity is a field that we believe is part of the VA Health Summary, but not Blue Button reports. We have included it as part of our designs. Can we actually access that field? Is it reliable? If the answer is no to either of those questions, remove that field from designs.
 
 
 ## Change Log
