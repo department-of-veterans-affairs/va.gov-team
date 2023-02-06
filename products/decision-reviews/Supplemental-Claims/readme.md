@@ -24,7 +24,7 @@
 |Name|Role|Email|
 |----|----|-----|
 |Alejandro Mendiolaflores |Senior Analyst| alejandro.mendiolaflores@va.gov |
-|Jessica Pierce |Role| jessica.pierce@va.gov|
+|Jessica Pierce |Policy, VBA Compensation Service| jessica.pierce@va.gov|
 |Melissa Milenkovic| Role |Melissa.Milenkovic@va.gov |
 
 ---
