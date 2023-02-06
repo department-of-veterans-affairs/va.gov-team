@@ -5,11 +5,11 @@
 - Does this time work for our weekly sync?
 - Kick-off
   - Proposed items
-        - Introductions
-        - Context/background
-        - Mission/Goals/North Star
-        - Walk-through of 526 submission
-        - Any known problems to solve
+   - Introductions
+   - Context/background
+   - Mission/Goals/North Star
+   - Walk-through of 526 submission
+   - Any known problems to solve
 - Link to the old Zenhub board and existing issues
 - 508 issue list - reach out to accessibility crew?
 - Idea board Mural  access for Matt
