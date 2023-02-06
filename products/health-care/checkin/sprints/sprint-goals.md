@@ -112,14 +112,14 @@ ________________________________________________________________________________
     - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - DONE [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)  
    - **GOAL: Prepare for LA release**   
-     - NOT DONE [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47488)
+     - DONE [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47488)
      - DONE Schedule staging review (if we are ready)
      - DONE [Edits to research plan](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51482)         
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - DONE [Update Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52411)
       - NOT DONE[Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
-      - NOT DONE [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
+      - DONE [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
       - DONE Push out Staging Review
       - DONE Make sure [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48859) is complete
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
