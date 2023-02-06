@@ -1,4 +1,4 @@
-# Notes: Domain brief
+# Care summaries and notes: Domain brief
 
 Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
