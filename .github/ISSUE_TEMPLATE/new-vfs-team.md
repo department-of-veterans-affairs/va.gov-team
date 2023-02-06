@@ -54,6 +54,13 @@ Add your team's practice and contact information below.
 
 - [ ] This information has been added.
 
+## ToT (Team of Teams) 
+- [ ] Join the #team-of-teams-slide-collection channel
+- [ ] Contact @Julia Badillo and/or @Erica Robbins [GovCIO_VetsPS]to receive Team of Teams Agenda and Protocol for reference
+- [ ] Introduce yourself with your name, team, and crew
+- [ ] #vfs-all-teams channel provides a Slack-Bot reminder 5 minutes prior to all Team of Teams meetings and includes a Zoom link
+- [ ] Use the #vfs-all-teams channel Zoom link provided to create your own calendar invite to attend all Team of Teams meetings
+
 ## Platform Orientation for your team members
 In addition to providing information to Platform and completing necessary tasks at the team level, there are also tasks that need to be completed at the individual level. As a team leader, you will need to: 
 - [ ] Direct your team members to the guidance for [New VFS team members](https://depo-platform-documentation.scrollhelp.site/getting-started/Guidance-for-new-teams-and-team-members.2132803700.html#Guidancefornewteamsandteammembers-NewVFSTeammembers) on Platform Website
