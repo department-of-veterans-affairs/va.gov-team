@@ -23,7 +23,7 @@ As we close out our VEText migration, we need a way to get status updates and ca
 ### Launch Comp & Pen Payment notifications
 #### Theme(s): Quality / Personal Experiance, Platform Capabilities
 
-As we wrap up Phase 1 of the VEText migration, we have some room to re-engage with the BIA team to resume work.  
+Last year we began working with the BIA team, to integrate with their Kafka event stream in order, to send SMSs to Veterans regarding their monthly compensation and pension payments.  We will continue and complete the remaining work this year.  
 
 ### Expand onsite notifications
 #### Theme(s): Quality / Personal Experiance, Self Service / Governance
@@ -59,14 +59,14 @@ This work is carrying over from Q3/Q4 CY2022.
 **Expected launch date**: 
 
 #### Franchise Fund Billing Reports
-words go here
-
+We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line 
 
 **Expected launch date**: 
 
 #### Restart Compensation and Pension Payment Notification Work
-words go here
+As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team to resume work.
 
+**Expected launch date**: 
 
 #### Performance, Monitoring and Security 
 To keep our platform performing at it's best, we plan to execute the following:
