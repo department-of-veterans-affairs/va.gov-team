@@ -145,6 +145,10 @@ This all depends on Florence having Github access.
 ### PTO
 - Liz: 2/15 - 2/17
 
+### Onboarding
+
+- Onboard new full stack developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
+
 ### General
 
 **BE - Tom**
@@ -200,7 +204,6 @@ Note: [Adam outlined how this work should be broken down in this ticket](https:/
 This is dependent on when these people are actually hired:
 
 - Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
-- Onboard new full stack developer [#50940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50940)
 
 ### General
 
