@@ -3,8 +3,8 @@
 - Edit history:
   - 1/18/23 - MN - Doc created
   - 1/24/23 - KO and JM - edits
-  - 1/26/23 - KO and JM - final edits
-  - 2/3/23 - KO edits based on H1
+  - 1/26/23 - KO and JM - edits
+  - 2/3/23 - KO edits based on H1 (Mikki Approved)
 
 **Team:** Public Websites
 
