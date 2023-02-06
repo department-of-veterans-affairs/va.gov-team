@@ -185,6 +185,14 @@ Note: [Adam outlined how this work should be broken down in this ticket](https:/
 
 - Begin work to update Notifications page with new flow for adding a mobile number
 
+### Military info research
+
+**Design - Florence**
+
+- Conduct research sessions #51887
+- Topline summary #51888
+- Research synthesis #51889
+
 ## Sprint 5 (3/1 - 3/14)
 
 ### Onboarding
