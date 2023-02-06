@@ -101,17 +101,7 @@ _Findings:_
 
 
 ## Questions to answer
-
-**UX:** 
-- What type of information do users look for in Vitals versus Labs/ tests? 
-- Are there opportunities in a post-MVP to do creative data visualization strategies with vital signs? 
-- Would "flags" be a good feature for vitals as well? (Similar to Labs/ tests)
-
-**Business/ Engineering:** 
-
-    
-
-**Who do we need to get feedback from?**
+- Would "flags" for significant changes in vitals be a good feature for vitals? (Similar to Labs/ tests)
 
 
 ## Change Log
