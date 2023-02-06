@@ -22,8 +22,16 @@ Research readout Link to come
 [Further research needed](#further-research-needed)
 
 ## Research Goals
+1. Learn how our single page, auto-save works for users when all known notifications are represented.
+2. Learn what information needs to be surfaced make the current settings and options clear to people.
 
 ## Research Questions
+1. In our current auto-save pattern, how easily are people able to find and interact with relevant notifications when there are more than 4 notifications, and multiple channels?
+2. Does the auto-save functionality present any usability hurdles for people?
+3. Does a read/edit pattern make editing easier than the auto-save pattern?
+4. What level of information do people need in order for them to decide whether they want to edit/update their preferences?
+5. Are mobile and desktop views equally usable?
+
 
 ## Methodology 
 
@@ -34,34 +42,20 @@ One prototype used our existing auto-save pattern, and another used a read/edit 
 - [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
 
 ## Hypotheses and Conclusions
+1. The auto-save design will allow people to understand their options and read through the list of notifications with relative ease.
+*Definitely true:* all participants easily understood their options and the list of notifications.
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+2. The auto-save function will cause minor confusion for some users because they want to be able press a button to confirm a change.
+*Definitely false:* No participants were confused by the lack of a save button.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+3. Users will want to quickly understand whether a setting is turned on or off, and by what channel the notification will be sent (email or text) without having to click on something to see it. This will be more intuitive with the auto-save pattern than the read/edit model.
+*Definitely true*: Participants found the auto-save pattern to be easier and more intuitive than the read/edit model. Many specifically cited the preferred being able to make their changes right on the page rather than having to go elsewhere.
 
 ## Key Findings
-1. Our current auto-saved pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern.  (Jump to finding)
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+Numbered list to come in final draft
 
 
 ## Details of Findings 
-
-
 ### Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
 The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today. 
 
@@ -86,7 +80,7 @@ People were able to work through these problems without significant guidance fro
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-read-edit-pattern.png" alt="Screenshot showing the three step process of updating a notification setting with the read edit pattern." width="100%" />
 
-*In the screenshot above, the flow starts on the main notification settings page by clicking the edit button. The person would land on a dedicated page for that specific setting, and then be returned to the main notification settings page.*
+*Above: the read/edit flow. The flow starts on the main notification settings page by clicking the edit button. The person would land on a dedicated page for that specific setting, and then be returned to the main notification settings page.*
 
 
 ### No one was confused by the lack of a save button.
@@ -101,7 +95,7 @@ In both prototypes, each notification had a name, channel options (text and/or e
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-both-prototypes-options-on-off.png" alt="Screenshot showing both prototypes side by side. In the read edit prototype on the left, there are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off" width="500" />
 
-*In the image above, the read edit prototype is on the left. There are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off*
+*Above: a screenshot of both prototypes side by side. The read edit prototype is on the left. There are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off*
 
 All participants understood the channel options and if the notification was turned on or off.  3 participants wondered why some notifications were only available by text or email, but were not bothered by it.
 
@@ -126,7 +120,7 @@ Going between the notification settings page and email form was intuitive for th
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-add-email-cta.png" alt="Screenshot showing two links circled in red. The links say add your email address to your profile" width="375" />
 
-*In the image above, there are two links circled in red. The links say “add your email address to your profile”*
+*Above: screenshot of two links circled in red on the notification settings page. The links say “add your email address to your profile”*
 
 People navigated to the email address form via whatever link was closest. 
 - 3 participants added their email address via the alert at the top of the prototype
@@ -136,7 +130,9 @@ People navigated to the email address form via whatever link was closest.
 ### The repetition of the prompt to add an email address wasn’t overwhelming for most people. 
 Our team wondered whether or not the repetition of this call to action on the page is cumbersome for users, especially for screenreader users. 5 of 8 participants didn’t comment on the repetition, and easily navigated the prototypes, and screenreader users were not bothered by the repetition of the links.
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-cta-repetition.png" alt="Screenshot showing add your email address link repeated on the page 5 times" width="375" />
+
+*Above: A portion of the page where the add your email address link is repeated 5 times*
 
 2 participants commented that the page had visual clutter, and after adding an email commented that it was “better” and “more streamlined”.
 
@@ -146,12 +142,16 @@ Adding My HealtheVet notifications to our current page will nearly double the am
 We got some unexpected feedback from a low vision user who joined on a desktop device. They commented that the green background to the “update saved” alert, which extends the full width of the section, was a “waste of vision time” on desktop because there wasn’t anything on the right side.
 > “It would be better if the highlight didn’t go the full width of this thing and only highlighted the text. when I see it going the full width, I wonder what’s over there and it’s a waste of my vision time.”
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width=“600” />
+
+*Above: The input message pattern on desktop. The background color of the banner extended the full width of it’s container, even though the text is much shorter.*
 
 ### Some participants were not clear about where their notifications would be delivered.
 Our notification settings page has contact information under the h1 telling users where their notifications will be sent.
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-contact-info.png" alt="Screenshot of the top of the notification settings page, with text circled in red. The text says We’ll use the contact information from your profile to send you the notifications you choose, and displays a mobile number and email address below as a bulleted list" width="375" />
+
+*Above: the notification settings page, with text under the Notification Settings heading circled in red. The text says “We’ll use the contact information from your profile to send you the notifications you choose”, and displays a mobile number and email address below as a bulleted list.*
 
 4 of 8 participants either didn’t notice, or didn’t recall that information at the top of the prototype. Of these 4, some made comments that told us they didn’t understand the information, and others didn’t remark on it at all. 2 of the 4 were on a desktop, and 2 were on a laptop, so the screen size did not seem to contribute to missing this section of the page.
 
@@ -160,10 +160,12 @@ Our notification settings page has contact information under the h1 telling user
 It’s possible this was confusing or insignificant to some participants because it was a prototype that didn’t reflect their own information. We also observed that 2 participants listed the contact information section as something that had been added to the page, once the alert disappeared and they added their email address.
 
 ## Additional Insights
-### Most sighted participants didn’t notice the background-only banner under the H1 telling them their update had been saved.
-Our screenreader participant heard the announcement immediately upon landing on the page, but 5 of 7 sighted participants didn’t notice it until it had been pointed out by the moderator.
+### Most sighted participants didn’t notice the “background color only” alert under the H1 telling them their update had been saved.
+Our prototype used the [background color only alert](https://design.va.gov/components/alert#examples---background-color-only) variation from the VA.gov design system.Our screenreader participant heard the announcement immediately upon landing on the page, but 5 of 7 sighted participants didn’t notice it until it had been pointed out by the moderator.
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-background-only-banner.png" alt="Screenshot of the background only alert under the h1" width="630" />
+
+*Above: the background only alert from our design system.*
 
 ### People don’t intuitively understand the difference between their login email address and contact email address.
 Multiple participants remarked that they would not encounter the missing email address scenario presented in the prototype, if they had logged into their own account. They felt this way specifically because they use an email address to log in.  They assume that they log in with an email address, that same email would automatically be used for notifications, which is not true.
@@ -175,7 +177,9 @@ Multiple participants remarked that they would not encounter the missing email a
 ### A low vision user was confused by the checkmark icon on “update saved” message, since it was immediately above a checkbox input.
 Once the message appeared, the user was confused about why there were suddenly 3 checkboxes. Upon closer inspection, they realized it was an icon - first thinking it was a chevron - and then stated it would be better if it was moved further away from the checkbox inputs.
 
-[screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-input-message-two-inputs.png" alt="Screenshot of the input message banner between two checked inputs" width="250" />
+
+*Above: the input message with a checkmark icon, sandwiched between two checked checkbox inputs.*
 
 ### Participants highlighted some missing items from the notification settings page that would be useful to them.
 - A screenreader user wanted a way to find out if their pharmacy participated in prescription shipping notifications directly from the page.
@@ -231,7 +235,10 @@ Once we got into the sessions, 1 of the 3 participants didn’t use screenreader
 
 Another participant stated that they checked “yes” to indicate they had a cognitive consideration simply because there was not a no option.  We later saw that the screener form offered participants a single radio button input for this question, instead of a yes or no.
 
-[insert-screenshot]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/screener-questions.png" alt="Screenshot of the input message banner between two checked inputs" width="500" />
+
+*Above: caption to come.*
+
 
 In our next study, we’ll provide people with multiple, clearly labeled options for special criteria may get us closer to talking to the folks who can answer our research questions.  We’ll include a “no” or something to negate the other options, as well as an “other” where people can type what they
 
