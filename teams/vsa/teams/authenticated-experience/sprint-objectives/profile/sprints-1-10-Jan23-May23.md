@@ -140,10 +140,10 @@ This all depends on Florence having Github access.
 
 ## Sprint 4 (2/15 - 2/28)
 
+[Sprint 4 epic: #52405](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52405)
+
 ### PTO
 - Liz: 2/15 - 2/17
-
-[#52405](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/52405)
 
 ### General
 
