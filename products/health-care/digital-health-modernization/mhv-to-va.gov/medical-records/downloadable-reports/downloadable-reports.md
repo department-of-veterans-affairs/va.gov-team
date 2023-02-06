@@ -273,7 +273,9 @@ This page provides the ability for the user to generate a My VA Health Summary R
   -  `[Heading]` Download Your VA Health Summary
 
  
-#### `H1` My VA Health Summary Download Results
+#### `H1` My VA Health Summary Download Results | [Screen shot of MHV experience page](https://user-images.githubusercontent.com/69174644/217009547-68068663-2070-4cd9-bdc2-b687952f71a3.png)
+
+
 
 - `[info icon]` `[linked text]` VA Health Summary User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf*
 - `[info icon]` `[linked text]` Learn More *links to https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more*
@@ -371,7 +373,7 @@ _Findings:_
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|                 |                  |                                                                                                                     |
+| 2023-02-06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
 |                 |                  |                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
