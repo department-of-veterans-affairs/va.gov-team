@@ -13,7 +13,7 @@ The goal is to have the Veteran easily read their healthcare appointments online
 A user can view their appointments details (upcoming, pending, canceled or past) without any confusion and provide value information to the veteran
 
 **Related/Associated product(s)**
-- Dependent on [VAOS service launch](.md) rollout 
+- None
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
@@ -32,11 +32,11 @@ A user can view their appointments details (upcoming, pending, canceled or past)
   <summary><b>User Feedback Quotes</b></summary>
   
   <q>
-   I hate that when I clicked on schedule an appointment, I must go to another site to log back in. It should be on one page."
+   "Enter quote"
   </q></p>
   
   <q> 
-   The log-in process is frustrating because you are already logged into MHV and when you need to schedule an appointment why would I need to log in again?
+   "Enter quote"
   </q></p>
 
 </details>
