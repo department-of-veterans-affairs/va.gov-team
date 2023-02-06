@@ -6,6 +6,7 @@ ________________________________________________________________________________
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - Staging Review is on 2/7
+   - Release if no "must" feedback received from staging review
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - Release when complete
 - [Move Action Link on Pre-Check-in Intro Page & Perform A/B Test](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
