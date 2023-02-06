@@ -6,6 +6,8 @@ ________________________________________________________________________________
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - Staging Review is on 2/7
+- [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
+   - Release when complete
 - [Move Action Link on Pre-Check-in Intro Page & Perform A/B Test](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
    - Release when completed
 
@@ -15,12 +17,6 @@ ________________________________________________________________________________
       - Use new path discussed
 
 #### UX Sprint Goals 
-- [Poster Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53060)
-   - **GOAL: Add a disclaimer to the poster regarding financial info**
-      - [Add Disclaimer to Posters that the VA will Never Ask for Personal Financial Info as part of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53061)
-- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
-      - [[UX] [PRODUCT] Complete Functional Testing/QA of eCheck-in Workflow with Travel Reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49713)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Release**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
@@ -46,25 +42,21 @@ ________________________________________________________________________________
       - [Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
       - [[UX] [Research] Create optimal workshop study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53056)
       - [[UX] [Research] Create research plan for gathering feedback about text preferences](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
-   - **GOAL: Start to create wireframes for testing with Veterans**
-      - [Create wireframes and content for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
 
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-   - **GOAL: Conduct full functional & accessibility testing (frontend, backend); must complete TestRail test cases**
-      - [Complete integration testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656)
-      - [Complete functional testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48986)
-      - [Complete accessibility testing & document in a Collab Cycle Accessibility ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49656) 
+   - **GOAL: Address feedback from Sitewide**
+      - [Lowercase the b on Post Office box](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53160)   
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
-      - [Implement Tags in GA for Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52865)
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Release**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315) 
    - **GOAL: Complete remaining feature requirements**     
       - [[FE] Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
-      - Do we need a ticket to not show the 3 fields that we don't have?
+      - Do we need a ticket to NOT show the 3 fields that we don't have?
+      - [Refactor appointmentActionVaos component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53050)
    - **GOAL: Prepare for release**
       - [[FE] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52907)
       - [[FE] Perform Accessibility Testing and Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52908)
