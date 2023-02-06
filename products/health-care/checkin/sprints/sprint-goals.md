@@ -72,6 +72,8 @@ ________________________________________________________________________________
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Collaborate with PCI/API team to determine best solution**
+      - [[BE] Hand-off Pre-check-in to Day-of Check-in Design Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52867)
+      - [[BE] [SPIKE] Investigate passing pre-check-in UUID to Day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52559)      - 
 - [Accessibility Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52412)
    - **GOAL: Complete as many as fits in the sprint**
       - [Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)
