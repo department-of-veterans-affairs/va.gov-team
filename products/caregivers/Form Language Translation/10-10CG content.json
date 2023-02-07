@@ -1,22 +1,19 @@
-10-10CG - PCAFC application - Language Translation
+{  
+    "Apply for the Program of Comprehensive Assistance for Family Caregivers"
+    “Equal to VA Form 10-10CG (Application for Family Caregiver Benefits)”
+    “We recognize the important role of family caregivers in supporting the health and wellness of Veterans.”
+    “Start your application”
+    “Follow these steps to get started:”
 
-
-Introduction page  
-"Apply for the Program of Comprehensive Assistance for Family Caregivers"
-“Equal to VA Form 10-10CG (Application for Family Caregiver Benefits)”
-“We recognize the important role of family caregivers in supporting the health and wellness of Veterans.”
-{CTA link} “Start your application”
-“Follow these steps to get started:”
-
-{subway map} “1”
+“1”
 “Prepare”
 “To fill out this application, the Veteran and each family caregiver applicant will need to provide specific information. You’ll need:
 The address, telephone number, and date of birth for the Veteran and each family caregiver applicant
 The VA medical center where the Veteran will receive care
 Health insurance information for the Primary Family Caregiver
 Veteran’s Social Security number (SSN) or tax identification number (TIN)”
-{accordion} “What if I don’t want to put my SSN or TIN in the application?”
-{accordion information} “We only require your SSN or TIN if you apply online. If you want to apply without putting this information in your application, you can apply by mail or in person.
+“What if I don’t want to put my SSN or TIN in the application?”
+“We only require your SSN or TIN if you apply online. If you want to apply without putting this information in your application, you can apply by mail or in person.
 Get instructions for how to apply for the PCAFC program by mail or in person”
 “Note: If you’re a legal representative who can make medical decisions for the Veteran, you can sign this application for them. You’ll need to upload proof of your legal authority to make medical decisions for the Veteran. This type of document is sometimes called a medical proxy or medical power of attorney.”
 “What if I have questions or need help filling out the form?”
@@ -24,27 +21,27 @@ Get instructions for how to apply for the PCAFC program by mail or in person”
 Call us at 855-488-8440 and ask for help filling out the form
 Use the online Caregiver Support Coordinator locator to find a coordinator at your nearest VA health care facility
 Contact the VA National Caregiver Support Line by calling 855-260-3274”
-{accordion} “What's a Caregiver Support Coordinator?”
-{accordion information} “A Caregiver Support Coordinator is a clinical professional who connects Veteran caregivers with VA and community resources that offer supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and specialize in caregiving issues.”
+“What's a Caregiver Support Coordinator?”
+“A Caregiver Support Coordinator is a clinical professional who connects Veteran caregivers with VA and community resources that offer supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and specialize in caregiving issues.”
 
-{subway map} “2”
+“2”
 “Apply”
 “Please remember, whether you’re the Veteran or a family caregiver, you’ll need to complete all form questions before submitting the form. After submitting the form, you’ll receive a confirmation screen that you can print for your records.”
 “Each time the Veteran wants to add a new family caregiver, the Veteran and the new caregiver will need to submit a new application. There can only be one Primary and up to two Secondary Family Caregivers at any one time.”
 “Note: If the Veteran isn’t enrolled in VA health care or is currently on active duty with a medical discharge, they’ll need to fill out an Application for Health Benefits (VA Form 10-10EZ).”
 
-{subway map} “3”
+“3”
 “Next steps”
 “A member of the Caregiver Support Program at the VA medical center where the Veteran plans to receive care will contact you to discuss your application and eligibility.”
 “If you aren’t eligible for PCAFC you have the right to appeal. You can contact the patient advocate at your local VA medical center to discuss the appeal process. Your Caregiver Support Coordinator is also available if you have additional questions.”
 “You may also be eligible for the Program of General Caregiver Support Services (PGCSS). To find out more, call the VA Caregiver Support Line at 855-260-3274, visit www.caregiver.va.gov, or discuss your options with your local Caregiver Support Coordinator.”
 
-{CTA link} “Start your application”
+“Start your application”
 
 “Respondent burden: 15 minutes”
 “OMB Control #: 2900-0768”
 “Expiration date: 04/30/2024”
-{button} “View Privacy Act Statement”
+“View Privacy Act Statement”
 
 [displayed at the bottom of each page]
 “Need Help?”
@@ -56,58 +53,57 @@ If you have hearing loss, call TTY: 711.”
 
 
 
-Page 1: Veteran Information
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 1 of 5: Veteran Information"
 “Please complete all the following information."
 "Veteran’s first name (*Required)"
-   {error message} "Please enter Veteran’s first name"
+"Please enter Veteran’s first name"
 "Veteran’s middle name"
 "Veteran’s last name (*Required)"
-   {error message} "Please enter Veteran’s last name"
+"Please enter Veteran’s last name"
 "Veteran’s Social Security number or tax identification number (*Required)"
-   {error message} "Please enter a Social Security or tax identification number"
-{accordion} "Why is this required?"
-   {accordion information} "We need the Veteran’s Social Security number or tax identification number to process the application when it’s submitted online, but it’s not a requirement to apply for the program."
+"Please enter a Social Security or tax identification number"
+"Why is this required?"
+"We need the Veteran’s Social Security number or tax identification number to process the application when it’s submitted online, but it’s not a requirement to apply for the program."
 "Veteran’s date of birth (*Required)”
 "Month"
 "Day"
 "Year"
-   {error message} "Please enter a date"
+"Please enter a date"
 "Veteran’s sex"
-   {radio button} "Female"
-   {radio button} "Male"
-{button} “Back”
-{button} “Continue”
+"Female"
+"Male"
+“Back”
+“Continue”
 
-Page 2: Veteran Information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 1 of 5: Veteran Information"
 "Veteran contact information"
 "Veteran’s current street address (*Required)"
-   {error message} "Please enter a street address"
+"Please enter a street address"
 "Street address line 2"
 "City (*Required)"
-   {error message} "Please enter a city"
+"Please enter a city"
 "State (*Required)"
-   {error message}  "Please enter a state"
+"Please enter a state"
 "Postal code (*Required)"
-   {error message} "Please enter a postal code"
-   {error message} "Please enter a valid 5- or 9-digit postal code (dashes allowed)"
+"Please enter a postal code"
+"Please enter a valid 5- or 9-digit postal code (dashes allowed)"
 "Veteran’s primary telephone number (including area code) (*Required)"
-   {error message}  "Please enter a phone number"
-   {error message}  "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a phone number"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Veteran’s alternate telephone number (including area code)"
-   {error message}  "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Note: Including an email address on your application is optional, but it helps us contact you faster if we need to follow up with you. If you don’t include an email address, we’ll use your phone and address to contact you. We’ll always mail you a copy of our decision on your application."
 "Veteran’s email address"
-   {error message} “Please enter a valid email address”
-{button} “Back”
-{button} “Continue”
+“Please enter a valid email address”
+“Back”
+“Continue”
 
-Page 3: Veteran Information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 1 of 5: Veteran Information"
@@ -115,25 +111,23 @@ Page 3: Veteran Information
 "Please enter the name of the medical facility where the Veteran last received medical treatment."
 "Name of medical facility"
 "Was this a hospital or clinic?"
-   {dropdown menu options} hospital, clinic
+hospital, clinic
 "Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services."
 "A Caregiver Support Coordinator at this VA medical center will review your application."
 "State (*Required)"
-   {error message} "Please provide a response"
-   {dropdown menu listing states}
+"Please provide a response"
 "VA medical center (*Required)"
-   {error message} "Please select a valid option"
-   {dropdown menu listing facilities}
-{button} “Back”
-{button} “Continue”
+"Please select a valid option"
+“Back”
+“Continue”
 
-Page 4: Primary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 2 of 5: Primary Family Caregiver applicant information"
 "Would you like to apply for benefits for a Primary Family Caregiver?(*Required)"
-{accordion} "Learn more about who qualifies as a Primary Family Caregiver"
-   {accordion information} "Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran. 
+"Learn more about who qualifies as a Primary Family Caregiver"
+"Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran. 
 They can be the Veteran’s: 
 Parent  
 Spouse  
@@ -143,33 +137,33 @@ Grandchild
 Significant other  
 Friend or neighbor  
 Other relative"
-   {radio button} "Yes"
-   {radio button} "No"
-{error message}  "Please provide a response"
-{button} “Back”
-{button} “Continue”
+"Yes"
+"No"
+"Please provide a response"
+“Back”
+“Continue”
 
-Page 5: Primary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 2 of 5: Primary Family Caregiver applicant information"
 "Please complete the following information about the Primary Family Caregiver."
 "Primary Family Caregiver’s first name(*Required)",
-   {error message} "Please enter Primary Family Caregiver’s first name"
+"Please enter Primary Family Caregiver’s first name"
 "Primary Family Caregiver’s middle name"
 "Primary Family Caregiver’s last name(*Required)"
-   {error message} "Please enter Primary Family Caregiver’s last name"
+"Please enter Primary Family Caregiver’s last name"
 "Primary Family Caregiver’s Social Security number or tax identification number"
-   {error message} “Please enter a valid Social Security or tax identification number”
+“Please enter a valid Social Security or tax identification number”
 "Primary Family Caregiver’s date of birth(*Required)"
-   {error message} "Please enter a date"
+"Please enter a date"
 "Primary Family Caregiver’s sex"
-   {radio button} "Female"
-   {radio button} "Male"
-{button} “Back”
-{button} “Continue”
+"Female"
+"Male"
+“Back”
+“Continue”
 
-Page 6: Primary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 2 of 5: Primary Family Caregiver applicant information"
@@ -177,77 +171,77 @@ Page 6: Primary Caregiver information
 "If the Primary Family Caregiver’s address is the same as the Veteran’s address, we can fill those fields out for you."
 "Veteran address"
 [Veteran’s address will appear as it was previously typed]
-   {checkbox} "Use the same address as the Veteran"
+"Use the same address as the Veteran"
 "Primary Family Caregiver’s current street address (*Required)"
-   {error message} "Please enter a street address"
+"Please enter a street address"
 "City (*Required)"
-   {error message} "Please enter a city"
+"Please enter a city"
 "State (*Required)"
-   {error message} "Please enter a state"
+"Please enter a state"
 "Postal code (*Required)"
-   {error message} "Please enter a postal code"
-   {error message} "Please enter a valid 5- or 9-digit postal code (dashes allowed)"
+"Please enter a postal code"
+"Please enter a valid 5- or 9-digit postal code (dashes allowed)"
 "Primary Family Caregiver’s primary telephone number (including area code)(*Required)"
-   {error message}  "Please enter a phone number"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a phone number"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Primary Family Caregiver’s alternate telephone number (including area code)"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Note: Including an email address on your application is optional, but it helps us contact you faster if we need to follow up with you. If you don’t include an email address, we’ll use your phone and address to contact you. We’ll always mail you a copy of our decision on your application."
 "Primary Family Caregiver’s email address"
-   {error message} “Please enter a valid email address”
+“Please enter a valid email address”
 "What is the Primary Family Caregiver’s relationship to the Veteran?(*Required)"
-   {dropdown menu options} Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
-   {error message} "Please provide a response"
-{button} “Back”
-{button} “Continue”
+Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
+"Please provide a response"
+“Back”
+“Continue”
 
-Page7: Primary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 2 of 5: Primary Family Caregiver applicant information"
 "Health care coverage"
 "Does the Primary Family Caregiver applicant have health care coverage, such as Medicaid, Medicare, CHAMPVA, Tricare, or private insurance?(*Required)"
-{accordion} "Why we ask this information"
-   {accordion information} "This information helps us determine if you may be eligible for health care coverage through VA.  You may be eligible for The Civilian Health and Medical Program of the Department of Veteran’s Affairs (CHAMPVA) if both of these descriptions are true for you: You’re the Primary Family Caregiver of a Veteran with a service-connected disability, and You don’t have any other health care coverage, such as Medicaid, Medicare, CHAMPVA, Tricare, or private insurance. Note: This information doesn’t affect your eligibility for the Caregiver Support Program. We only use it to determine if you may be eligible for health care."
-   {radio button} "Yes"
-   {radio button} "No"
-   {error message} "Please provide a response"
-{button} “Back”
-{button} “Continue”
+"Why we ask this information"
+"This information helps us determine if you may be eligible for health care coverage through VA.  You may be eligible for The Civilian Health and Medical Program of the Department of Veteran’s Affairs (CHAMPVA) if both of these descriptions are true for you: You’re the Primary Family Caregiver of a Veteran with a service-connected disability, and You don’t have any other health care coverage, such as Medicaid, Medicare, CHAMPVA, Tricare, or private insurance. Note: This information doesn’t affect your eligibility for the Caregiver Support Program. We only use it to determine if you may be eligible for health care."
+"Yes"
+"No"
+"Please provide a response"
+“Back”
+“Continue”
 
-Page 8: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 3 of 5: Secondary Family Caregiver applicant information"
 "Would you like to apply for benefits for a Secondary Family Caregiver?"
-{accordion} "Learn more about who qualifies as a Secondary Family Caregiver"
-   {accordion information} "Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Secondary Family Caregiver generally serves as a backup to the Primary Family Caregiver. They can be the Veteran’s: Parent  Spouse  Son or daughter  Stepfamily member  Grandchild  Significant other  Friend or neighbor  Other relative"
-   {radio button} "Yes"
-   {radio button} "No"
-{button} “Back”
-{button} “Continue”
+"Learn more about who qualifies as a Secondary Family Caregiver"
+"Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Secondary Family Caregiver generally serves as a backup to the Primary Family Caregiver. They can be the Veteran’s: Parent  Spouse  Son or daughter  Stepfamily member  Grandchild  Significant other  Friend or neighbor  Other relative"
+"Yes"
+"No"
+“Back”
+“Continue”
 
-Page 9: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 3 of 5: Secondary Family Caregiver applicant information"
 "Please complete the following information about the Secondary Family Caregiver."
 "Secondary Family Caregiver’s first name(*Required)"
-   {error message} "Please enter Secondary Family Caregiver’s first name"
+"Please enter Secondary Family Caregiver’s first name"
 "Secondary Family Caregiver’s middle name"
 "Secondary Family Caregiver’s last name(*Required)"
-   {error message} "Please enter Secondary Family Caregiver’s last name"
+"Please enter Secondary Family Caregiver’s last name"
 "Secondary Family Caregiver’s Social Security number or tax identification number"
-   {error message} “Please enter a valid Social Security or tax identification number”
+“Please enter a valid Social Security or tax identification number”
 "Secondary Family Caregiver’s date of birth(*Required)"
-   {error message} "Please enter a date"
+"Please enter a date"
 "Secondary Family Caregiver’s sex"
-   {radio button} "Female"
-   {radio button} "Male"
-{button} “Back”
-{button} “Continue”
+"Female"
+"Male"
+“Back”
+“Continue”
 
-Page 10: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 3 of 5: Secondary Family Caregiver applicant information"
@@ -255,101 +249,101 @@ Page 10: Secondary Caregiver information
 "If the Secondary Family Caregiver’s address is the same as the Veteran’s address, we can fill those fields out for you."
 "Veteran address"
 [Veteran’s address will appear as it was previously typed]
-   {checkbox} "Use the same address as the Veteran"
+"Use the same address as the Veteran"
 "Secondary Family Caregiver’s current street address (*Required)"
-   {error message} "Please enter a street address"
+"Please enter a street address"
 "Street address line 2"
 "City (*Required)"
-   {error message} "Please enter a city"
+"Please enter a city"
 "State(*Required)"
-   {error message} "Please enter a state"
+"Please enter a state"
 "Postal code (*Required)"
-   {error message} "Please enter a postal code"
-   {error message} "Please enter a valid 5- or 9-digit postal code (dashes allowed)"
+"Please enter a postal code"
+"Please enter a valid 5- or 9-digit postal code (dashes allowed)"
 "Secondary Family Caregiver’s primary telephone number (including area code)(*Required)"
-   {error message}  "Please enter a phone number"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a phone number"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Secondary Family Caregiver’s alternate telephone number (including area code)"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Note: Including an email address on your application is optional, but it helps us contact you faster if we need to follow up with you. If you don’t include an email address, we’ll use your phone and address to contact you. We’ll always mail you a copy of our decision on your application."
 "Secondary Family Caregiver’s email address"
-   {error message} “Please enter a valid email address”
+“Please enter a valid email address”
 "What is the Secondary Family Caregiver’s relationship to the Veteran?(*Required)"
-   {dropdown menu options} Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
-   {error message} "Please provide a response"
+Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
+"Please provide a response"
 "You can add up to two Secondary Family Caregivers."
 "Would you like to apply for benefits for another Secondary Family Caregiver?"
-   {radio button} "Yes"
-   {radio button} "No"
-{button} “Back”
-{button} “Continue”
+"Yes"
+"No"
+“Back”
+“Continue”
 
-Page 11: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 4 of 6: Secondary Family Caregiver (2) applicant information"
 "Secondary Family Caregiver’s (2) first name(*Required)"
-   {error message}  "Please enter Secondary Family Caregiver’s (2) first name"
+"Please enter Secondary Family Caregiver’s (2) first name"
 "Secondary Family Caregiver’s (2) middle name"
 "Secondary Family Caregiver’s (2) last name(*Required)"
-   {error message} "Please enter Secondary Family Caregiver’s (2) last name"
+"Please enter Secondary Family Caregiver’s (2) last name"
 "Secondary Family Caregiver’s (2) Social Security number or tax identification number"
 "Secondary Family Caregiver’s (2) date of birth(*Required)"
-   {error message} "Please enter a date",
+"Please enter a date",
 "Secondary Family Caregiver’s (2) sex"
-   {radio button} "Female"
-   {radio button} "Male"
-{button} “Back”
-{button} “Continue”
+"Female"
+"Male"
+“Back”
+“Continue”
 
-Page 12: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 4 of 6: Secondary Family Caregiver (2) applicant information"
 "Secondary Family Caregiver contact information"
 "If the Secondary Family Caregiver’s (2) address is the same as the Veteran’s address, we can fill those fields out for you."
 "Veteran address"
-   {checkbox} "Use the same address as the Veteran"
+"Use the same address as the Veteran"
 "Secondary Family Caregiver’s (2) current street address (*Required)"
-   {error message} "Please enter a street address"
+"Please enter a street address"
 "Street address line 2"
 "City (*Required)"
-   {error message} "Please enter a city"
+"Please enter a city"
 "State(*Required)"
-   {error message} "Please enter a state"
+"Please enter a state"
 "Postal code (*Required)"
-   {error message} "Please enter a postal code"
-   {error message} "Please enter a valid 5- or 9-digit postal code (dashes allowed)"
+"Please enter a postal code"
+"Please enter a valid 5- or 9-digit postal code (dashes allowed)"
 "Secondary Family Caregiver’s (2) primary telephone number (including area code)(*Required)"
-   {error message} "Please enter a phone number"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a phone number"
+"Please enter a 10-digit phone number (with or without dashes)"
 "Secondary Family Caregiver’s (2) alternate telephone number (including area code)"
-   {error message} "Please enter a 10-digit phone number (with or without dashes)"
+"Please enter a 10-digit phone number (with or without dashes)"
 “Note: Including an email address on your application is optional, but it helps us contact you faster if we need to follow up with you. If you don’t include an email address, we’ll use your phone and address to contact you. We’ll always mail you a copy of our decision on your application."
 "Secondary Family Caregiver’s (2) email address"
-   {error message} “Please enter a valid email address”
+“Please enter a valid email address”
 "What is the Secondary Family Caregiver’s (2) relationship to the Veteran?(*Required)"
-   {dropdown menu options} Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
-   {error message} "Please provide a response"
-{button} “Back”
-{button} “Continue”
+Spouse, Father, Mother, Son, Daughter, Brother, Sister, Significant Other, Relative - Other, Friend/Neighbor, Grandchild
+"Please provide a response"
+“Back”
+“Continue”
 
-Page 13: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 5 of 6: Application signature"
 "We’ll now guide you through the steps to review and sign your application"
 "First, we need to know if the Veteran will sign the application or if a representative will sign for them. A representative must have legal authority to make decisions for the Veteran. If you choose this option, we’ll ask you to upload a document that proves you have this authority."
-{accordion} "Learn more about the types of documents we can and can’t accept"
-   {accordion information} "We can only accept a document that proves you have legal authority to make decisions for the Veteran (such as a valid Power of Attorney, legal guardianship order, or other legal document). We can’t accept a marriage certificate, driver’s license, or release of information form. Uploading a document that we can’t accept may delay the application process."
+"Learn more about the types of documents we can and can’t accept"
+"We can only accept a document that proves you have legal authority to make decisions for the Veteran (such as a valid Power of Attorney, legal guardianship order, or other legal document). We can’t accept a marriage certificate, driver’s license, or release of information form. Uploading a document that we can’t accept may delay the application process."
 "Note: We use this signature only to process your application. Signing for the Veteran today doesn’t take away their right to make decisions for their care."
 "Select who will sign for the Veteran today:"
-   {radio button} "The Veteran"
-   {radio button} "A representative with legal authority to make decisions for the Veteran"
-{button} “Back”
-{button} “Continue”
+"The Veteran"
+"A representative with legal authority to make decisions for the Veteran"
+“Back”
+“Continue”
 
-Page 14: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 5 of 6: Application signature"
@@ -358,83 +352,82 @@ Page 14: Secondary Caregiver information
 "Don’t have the right type of document? Go back to the last screen. The Veteran will need to sign the application for themselves."
 "How to upload your document Choose a document that we can accept (such as a valid Power of Attorney, legal guardianship order, or other legal document). Don’t upload a marriage certificate, driver’s license, or release of information form. Uploading a document that we can’t accept may delay the application process. Save a scanned copy or photo of the entire document on your device. We can’t accept a cover or signature page without the rest of the document. Format the file as a .pdf, .jpg, .jpeg, or .png. Be sure the file is 10MB or less in size."
 "Your document:(*Required)"
-   {button} “Upload Document”
-   {error message} "Please upload a file"
-   {yellow box appears automatically after file is uploaded} "It’s easy to upload the wrong file by mistake. We want to make sure that we will review the right document (such as a valid Power of Attorney, legal guardianship order, or other legal document). This will help speed up your application process. Check the file name. If it’s not the right file, you can delete it and upload another one before you continue."
-   {grey box appears with file name listed}
-   {button} “Delete file”
-{button} “Back”
-{button} “Continue”
+“Upload Document”
+"Please upload a file"
+"It’s easy to upload the wrong file by mistake. We want to make sure that we will review the right document (such as a valid Power of Attorney, legal guardianship order, or other legal document). This will help speed up your application process. Check the file name. If it’s not the right file, you can delete it and upload another one before you continue."
+“Delete file”
+“Back”
+“Continue”
 
-Page 15: Secondary Caregiver information
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 "Step 6 of 6: Review Application"
-   {expandable box} “Veteran Information”
-   {expandable box} “Primary Family Caregiver applicant information”
-   {expandable box} “Secondary Family Caregiver applicant information”
-   {expandable box} “Secondary Family Caregiver (2) applicant information”
-   {expandable box} “Application Signature”
+“Veteran Information”
+“Primary Family Caregiver applicant information”
+“Secondary Family Caregiver applicant information”
+“Secondary Family Caregiver (2) applicant information”
+“Application Signature”
 
 "Please review information entered into this application. The Veteran and each family caregiver applicant must sign the appropriate section."
 "Veteran’s statement of truth"
 "I certify that I give consent to the individual(s) named in this application to perform personal care services for me upon being approved as Primary and/or Secondary Family Caregivers in the Program of Comprehensive Assistance for Family Caregivers. I have read and accept the privacy policy."
 "I have read and accept the privacy policy."
 "Veteran’s full name (*Required)"
-   {error message} "Your signature must match previously entered name:"
-   {checkbox} "I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
-   {error message} "Must certify by checking box"
+"Your signature must match previously entered name:"
+"I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
+"Must certify by checking box"
 
 "Please review information entered into this application. The Representative and each family caregiver applicant must sign the appropriate section."
 "Representative’s statement of truth"
 "Signed by the Veteran’s legal representative on behalf of the Veteran. I certify that I give consent to the individual(s) named in this application to perform personal care services for me (or if the Veteran’s Representative, the Veteran) upon being approved as a Primary and/or Secondary Family Caregiver(s) in the Program of Comprehensive Assistance for Family Caregivers. I have read and accept the privacy policy."
 "Enter your name to sign as the Veteran’s representative (*Required)"
-   {error message}"You must sign as representative."
+"You must sign as representative."
 "On behalf of"
-   {checkbox} "I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
-   {error message} "Must certify by checking box"
+"I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
+"Must certify by checking box"
 
 "Primary Family Caregiver applicant’s statement of truth"
 "I certify that I am at least 18 years of age. I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Primary Family Caregiver. I agree to perform personal care services as the Primary Family Caregiver for the Veteran named on this application. I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Primary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45. I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs. I have read and accept the privacy policy."
 "Primary Family Caregiver applicant’s full name (*Required)"
-   {error message} "Your signature must match previously entered name:"
-   {checkbox} "I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
-   {error message} "Must certify by checking box"
+"Your signature must match previously entered name:"
+"I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
+"Must certify by checking box"
 
 "Secondary Family Caregiver applicant’s statement of truth"
 "I certify that I am at least 18 years of age. I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver. I agree to perform personal care services as the Secondary Family Caregiver for the Veteran named on this application. I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Secondary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45. I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs. I have read and accept the privacy policy.”
 "Secondary Family Caregiver applicant’s full name (*Required)"
-   {error message} "Your signature must match previously entered name:"
-   {checkbox} "I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
-   {error message} "Must certify by checking box"
+"Your signature must match previously entered name:"
+"I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
+"Must certify by checking box"
 
 "Secondary Family Caregiver (2) applicant’s statement of truth"
 "I certify that I am at least 18 years of age. I certify that either: (1) I am a member of the Veteran’s family (including a parent, spouse, a son or daughter, a step-family member, or an extended family member) OR (2) I am not a member of the Veteran’s family, and I reside with the Veteran full-time or will do so upon designation as the Veteran’s Secondary Family Caregiver. I agree to perform personal care services as the Secondary Family Caregiver for the Veteran named on this application. I understand that the Veteran or the Veteran’s surrogate may request my discharge from the Program of Comprehensive Assistance for Family Caregivers (PCAFC) at any time and that my designation as a Secondary Family Caregiver may be revoked or I may be discharged from PCAFC by the Secretary of Veterans Affairs (or designee) as set forth in 38 CFR 71.45. I understand that participation in the PCAFC does not create an employment relationship between me and the Department of Veterans Affairs. I have read and accept the privacy policy."
 "Secondary Family Caregiver (2) applicant’s full name (*Required)"
-   {error message} "Your signature must match previously entered name:"
-   {checkbox} "I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
-   {error message} "Must certify by checking box"
+"Your signature must match previously entered name:"
+"I certify the information above is correct and true to the best of my knowledge and belief.(*Required)"
+"Must certify by checking box"
 
 "Note: According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or providing incorrect information. (See 18 U.S.C. 1001)"
 
-{button} “Back”
-{button} “Submit Application”
+“Back”
+“Submit Application”
 
 
-Page 16: Successful submission
+
 "Apply for the Program of Comprehensive Assistance for Family Caregivers"
 "Form 10-10CG"
 “Thank you for completing your application”
 “Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.”
 “Your application information”
 “Veteran’s Name”
-   [Veteran’s name will display]
+{Name}
 “Date you applied”
-   [Date the application was submitted. If just submitted, will display today’s date]
+{Date}
 “Confirmation for your records”
 “You can print this confirmation page for your records.  You can also download your completed application as a PDF.”
-   {button} “Print this page”
-   {Link} “Download your completed application (PDF)”
+“Print this page”
+“Download your completed application (PDF)”
 “What to expect next”
 “We’ll contact you soon to tell you what happens next in the application process.
 If you gave us your email address, we’ll contact you by email within 24 hours. Make sure to check your inbox and your spam or junk folder.
@@ -461,7 +454,7 @@ Unsuccessful submission error message
    2957 Clairmont Road NE, Ste 200
    Atlanta, GA 30329-1647”
 “If you have trouble downloading your application, call our VA.gov help desk at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.”
-   {link} “Download your completed application (PDF)”
+   “Download your completed application (PDF)”
 
 Unable to download completed application PDF
 “We're sorry. We couldn't download your form. Please check the data and try again.”
@@ -474,30 +467,29 @@ Unable to download completed application PDF - VA.gov is down
 “If you have trouble downloading your application, call our VA.gov help desk at 1-877-327-0022. We're here Monday through Friday, 8:00 am.m. to 8:00 p.m. ET.”
 
 No Primary or Secondary Caregiver identified 
-     (answered “No” to both questions regarding whether they would like to apply for a Primary or Secondary Caregiver)
 “We need you to add a Family Caregiver
 “We can’t process your application unless you add a Family Caregiver. Please go back and add either a Primary or Secondary Family Caregiver to your application.”
 
 File Upload is too large
-[File Name will be displayed]
+[File Name]
 “We couldn’t upload your file because it’s too big. Please make sure the file is 10MB or less and try again.”
-{button} “Upload a new file”
-{button} “Cancel”
+“Upload a new file”
+“Cancel”
 
 Unable to upload file - connection problem
-[File Name will be displayed]
+[File Name]
 “We're sorry. We had a connection problem. Please try again.”
-{button} “Try Again”
-{button} “Cancel”
+“Try Again”
+“Cancel”
 
 File Upload is too small
-[File Name will be displayed]
+[File Name]
 “We couldn’t upload your file because it’s too small. Please make sure the file is 1KB or more and try again.”
-{button} “Upload a new file”
-{button} “Cancel”
+“Upload a new file”
+“Cancel”
 
 File uploaded is the wrong file type
-[File Name will be displayed]
+[File Name]
 “We couldn’t upload your file because we can’t accept this type of file. Please make sure the file is a .pdf, .jpg, .jpeg, or .png file and try again.”
-{button} “Upload a new file”
-{button} “Cancel”
+“Upload a new file”
+“Cancel”
