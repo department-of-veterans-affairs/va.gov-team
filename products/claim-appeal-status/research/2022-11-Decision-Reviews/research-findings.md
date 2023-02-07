@@ -41,11 +41,11 @@ _3. We have a hypothesis that self-service works well for simplified or automate
 
 1. The most common pain point we heard in filing decision reviews (and initial claims) is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
 
-2. Many Veterans we spoke to found VSOs to be crucial in getting to a satisfactory claim decision.
+2. When faced with a decision review, Veterans responded positively to the idea of connecting with a VSO or other representative via VA.gov.
 
-3. It's clear that not all VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
+3. Many Veterans we spoke to found VSOs to be crucial in getting to a satisfactory claim decision.
 
-4. Veterans responded positively to the idea of connecting with a VSO or other representative via the website.  
+4. It's clear that not all VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience.   
 
 5. Many Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted to be able to reach out to a VSO if they got stuck.
 
@@ -68,7 +68,24 @@ There are a variety of thorny problems contained within this step of the process
 > "I had to reach out ot the VA to get my medical records, and I had got to various doctors to get my records as well. It's so much hassle, because you have to do so much running to get everything together." - P23
 
 
-### 2. We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
+### 2. When faced with a decision review, Veterans responded positively to the idea of connecting with a VSO or other representative via VA.gov. 
+
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
+
+Our concept prototype contained link to a page that allowed Veterans to see their current VSO reps and connect with other VSO reps. If anything, participants wanted this option to be even more prominent and readily available. 
+
+<img width="456" alt="Screenshot 2023-02-06 at 2 45 40 PM" src="https://user-images.githubusercontent.com/95102058/217069738-01f20b8d-1e93-4890-86f1-970a4565c18e.png">
+
+> "I would have VSO info at the top of the page where they see that first." - P5 
+
+> "I would try to get an accredited person before i did anything so I have a better understanding of the proces." - P7
+
+> "You have connect with a rep right here. Excellent service." - P20
+
+> P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
+
+
+### 3. We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs
 
@@ -88,7 +105,7 @@ Some of the main benefits of using a VSO:
 > "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
-### 3. It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
+### 4. It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -103,23 +120,6 @@ We talked to many Veterans who had gone to several different VSOs before finding
 > "Some (VSOs) are good, some are bad." - P19
 
 > "When I first went to the VSO in 2015, he had me fill the form for what the request was about, but he didn't request medical records." - P30
-
-
-### 4. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
-
-Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
-
-Our concept prototype contained link to a page that allowed Veterans to see their current VSO reps and connect with other VSO reps. If anything, participants wanted this option to be even more prominent and readily available. 
-
-<img width="456" alt="Screenshot 2023-02-06 at 2 45 40 PM" src="https://user-images.githubusercontent.com/95102058/217069738-01f20b8d-1e93-4890-86f1-970a4565c18e.png">
-
-> "I would have VSO info at the top of the page where they see that first." - P5 
-
-> "I would try to get an accredited person before i did anything so I have a better understanding of the proces." - P7
-
-> "You have connect with a rep right here. Excellent service." - P20
-
-> P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
  
 
 ### 5. Some Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck. 
