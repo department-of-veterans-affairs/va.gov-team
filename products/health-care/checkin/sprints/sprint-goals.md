@@ -5,7 +5,8 @@ ________________________________________________________________________________
 ************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
 
 #### OVERALL GOALS
-- **GOAL: Finish testing Travel**
+- **GOAL: Finish functional testing for Travel**
+- **GOAL: Make decisions for how to handle BTSSS latency**
 - **GOAL: Release the Simplified Header & Footer**
 - **GOAL: Finish work for & test the VAOS Compatability Work**
 - **GOAL: Complete & release the new message for expired links**
@@ -53,19 +54,20 @@ ________________________________________________________________________________
       - [[UX] [Research] Create research plan for gathering feedback about text preferences](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
 
 #### Engineering Sprint Goals
+- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
+   - **GOAL: Release**
+      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Fix bugs**
        - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
        - [Bug: Link is wrong for "Go to AccessVA travel claim portal now"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53183)
+       - How are we handling the BTSSS latency?
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Release**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315) 
    - **GOAL: Complete remaining feature requirements**     
-      - [[FE] Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
       - Do we need a ticket to NOT show the 3 fields that we don't have?
+      - [[FE] Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
       - [Refactor appointmentActionVaos component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53050)
    - **GOAL: Prepare for release**
       - [[FE] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52907)
