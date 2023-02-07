@@ -1,6 +1,6 @@
-# Downloadable Reports: Data fields and UX considerations
+# Downloadable Reports: Domain Brief
 
-Last updated: February 6, 2023 | [Change Log](#change-log)
+Last updated: February 7, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -11,28 +11,10 @@ Last updated: February 6, 2023 | [Change Log](#change-log)
 - [Questions to answer](#questions-to-answer)
 
 Appendix
-- [Detailed analysis of data fields](#detailed-analysis-of-data-fields)
+- [Detailed analysis of existing functionality](#detailed-analysis-of-existing-functionality)
 
-## Purpose
+## Description of domain
 This brief describes a page from which users can download a Blue Button report (name subject to change) or a VA Health Summary report.
-
-## User Guides and Related Content
-- The Blue Button Report generation pages links to several related pages and documents:
-  -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
-  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
-  -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
-  -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
-  -  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
-  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
-
-- The My VA Health Summary Generation page links to several related pages and documents:
-  -  Link to a [13-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/VAHealthSummaryUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
-  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more) MHV web page that provides an overview of VA Health Summary reports, and information about creating My VA Health Summmary Reports
-  -  Link to [What's in the VA Health Summary?](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf) document that explains data and business rules.
-  -  Link to download an XML style sheet (the link currently displays a Not Found error page)
-  -  Link to [an MHV page that explains how to securely send VA Health Summary to non-VA providers using Direct Messaging](https://www.myhealth.va.gov/mhv-portal-web/ccd-direct-participating-providers-help).  *note - as listed in the [Questions to Answer](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#questions-to-answer) section, it is unclear whether this option will continue to exist in the new Health Portal experience.
-  -  Link to [Update your Profile](https://www.myhealth.va.gov/mhv-portal-web/profiles) on MHV to subscribe to VA Profile Delivery notifications.
-  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
 ## Use Cases
 
@@ -61,11 +43,89 @@ What do people want to use their downloadable reports for?
 - To take a digital copy of their health information to a HCP on a thumb drive or other storage device
 - To send a digital copy securely to a HCP via a Direct Address using VHIE (Veterans Health Information Exchange)
 
-**Edge Cases**
+## Requirements
 
-Any edge cases for downloadable reports?
+xxxxx
 
-## UX considerations
+## Research to date
+
+### Findings from card sort
+
+_Cards included:_ 
+  - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
+  - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
+
+_Findings:_
+- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
+- Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
+
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
+
+### Findings from comparative analysis
+[Comparative analysis of popular patient portals](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?sender=u71ad98f94f5263595f9a4390) including Cerner's patient portal, Kaiser Permanente, BlueCross BlueShield, MyHealth powered by Epic, One Medical, Aetna OneRecord, and Apple Health, revealed that medical imaging and imaging reports are grouped with lab/test results.
+
+### Accessibility considerations:
+- [MyHealtheVet Section 508 Audit Report, August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/31142%20My%20HealtheVet%20Interim%20Audit_20220831_V0.01.docx)
+- [MyHealth*e*Vet (MHV) Heuristic Accessibility Evaluation, November 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/audits/2022-11-MHV/MHV-Heuristic-A11y-Audit_Evaluation-Summary.md)
+
+### Desk research
+See [Detailed analysis of existing functionality](#detailed-analysis-of-existing-functionality)
+
+## Relevant links
+
+- [Downloadable Reports decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/downloadable-reports/decision-log.md)
+- [Overall Initiative decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+
+### User guides and related content
+
+- The Blue Button Report generation pages links to several related pages and documents:
+  -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
+  -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
+  -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
+  -  Several contextual links to a [Blue Button Availability page](https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability) on MHV, which explains when certain types of data are made available to the user.
+  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
+
+- The My VA Health Summary Generation page links to several related pages and documents:
+  -  Link to a [13-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/VAHealthSummaryUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more) MHV web page that provides an overview of VA Health Summary reports, and information about creating My VA Health Summmary Reports
+  -  Link to [What's in the VA Health Summary?](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf) document that explains data and business rules.
+  -  Link to download an XML style sheet (the link currently displays a Not Found error page)
+  -  Link to [an MHV page that explains how to securely send VA Health Summary to non-VA providers using Direct Messaging](https://www.myhealth.va.gov/mhv-portal-web/ccd-direct-participating-providers-help).  *note - as listed in the [Questions to Answer](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#questions-to-answer) section, it is unclear whether this option will continue to exist in the new Health Portal experience.
+  -  Link to [Update your Profile](https://www.myhealth.va.gov/mhv-portal-web/profiles) on MHV to subscribe to VA Profile Delivery notifications.
+  -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
+
+### 2022 work
+- [Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
+- [Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
+- [Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
+- [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
+- [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
+
+
+## Questions to answer
+- How can we make the BB download page as efficient as possible?
+- How closely do users associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
+- Are users able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
+- What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
+- Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
+- Is it necessary to have user documentation if our testing finds that the tools are intuitive?
+- What options are available for customizing the layout of each of these reports?
+- Who do we need to get feedback from?
+
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2023-02-06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
+| 2023-02-07      |Coulton Bunney    | Reorganized and started requirements section|
+|                 |                  |                                                                                                                     |
+
+# Appendix
+
+## Detailed analysis of existing functionality
+
+### UX considerations
 - In the MyHealth*e*Vet site, the links for reports falls under Personal Information, which is not particularly intuitive.  In the new experience, these reports will be located within Medical Records as they are a form of medical record.
 
 ### When to show the downloadable reports section
@@ -74,7 +134,7 @@ Any edge cases for downloadable reports?
 ### Where do downloadable reports fit within IA?
 - In the MyHealth*e*Vet site, the links for reports falls under the Personal Information grouping, which is not particularly intuitive.  In the new experience, the current plan is to include reports within the Medical Records grouping as they are a form of medical record.
 
-## Downloadable reports pages
+### Downloadable reports pages
 This document describes the pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and a more comprehensive report currently referred to as a *VA Blue Button Report*, which can be customized to include or exclude certain pieces of health information.
 - [Downloadable Reports Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#1-downloadable-reports-landing-page)
 - [Blue Button Report generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#2-blue-button-report-generation-page)
@@ -82,10 +142,10 @@ This document describes the pages in the new health portal on VA.gov that will g
 - [VA My Health Summary generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#4-va-my-health-summary-generation-page)
 - [VA My Health Summary Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#5-va-my-health-summary-results-page)
 
-### 1. Downloadable Reports Landing Page | [MyHealtheVet Screenshot](https://user-images.githubusercontent.com/69174644/217010319-28687c62-d1ca-4c95-a1ba-46243b88d565.png)
+#### 1. Downloadable Reports Landing Page | [MyHealtheVet Screenshot](https://user-images.githubusercontent.com/69174644/217010319-28687c62-d1ca-4c95-a1ba-46243b88d565.png)
 This page provides the ability for the user to select which type of report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
 
-#### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
+##### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
 MyHealtheVet provides four primary links in the left navigation:
 - VA Blue Button Report
 - VA Health Summary
@@ -100,16 +160,16 @@ In summary, the downloadable reports landing page in the new experience need onl
 
 <br>
 
-### 2. Blue Button Report generation page
+#### 2. Blue Button Report generation page
 This page provides the user with options to control the information that is included in their generated report.  Below details the selections and sub-selections presented, along with the form controls currently used on MyHealth*e*Vet.
 
-#### `H1` Download My Selected Data
+##### `H1` Download My Selected Data
 
 - `[info icon]` `[linked text]` VA Blue Button User Guide *links to: https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf
 - `[info icon]` `[linked text]` Learn More *links to: (https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)`
 - `[info icon]` `[linked text]` Protecting Your Personal Health Information *links to: https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information`
 
-#### 2.0. `[Step 1 indicator]` `[heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
+##### 2.0. `[Step 1 indicator]` `[heading]` Select Date Range | [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
 
 - 2.0.0 `[heading]` Date Range
   - `[radio]` 3 Months *Note - Selecting this option currently changes the Start and End dates (2.0.1 and 2.0.2) to reflect 3 months from current date.*
@@ -119,24 +179,24 @@ This page provides the user with options to control the information that is incl
 - 2.0.1 `[date picker]` Start Date
 - 2.0.2 `[date picker]` End Date
 
-#### 2.1.`[Step 2 indicator]` `[heading]` Select Types of Information [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
+##### 2.1.`[Step 2 indicator]` `[heading]` Select Types of Information [screen shot from MHV](https://user-images.githubusercontent.com/69174644/216336735-fa4d9156-d123-46ec-84e3-1b627aa2eb42.png) 
 `[text]` Information that you have entered into My HealtheVet is labeled as 'Self-Reported'. Information from the VA Electronic Health Record is labeled as 'VA'.
 - 2.1.0. `[radio]` Select types of information to include
 - 2.1.1. `[radio]` All types of information *Note: if All Types of Information is selected, all of the below selections and sub-selections will display a checkmark in its relevant checkbox, and the user need not make any further selections before clicking Submit at the bottom of the page.*
 
-##### 2.1.00. `[heading]` Appointments
+###### 2.1.00. `[heading]` Appointments
 
 - 2.1.00.0. `[checkbox]` Future VA Appointments (may include Telephone, Video, In-Person Appointments)
 - 2.1.00.1. `[checkbox]` Past VA Appointments (limited to past 2 years)
 - 2.1.00.2. `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
+###### 2.1.01. `[heading]` Medications (Automatically includes Allergy information)
 
 - 2.1.01.0. `[checkbox]` VA Medication History
 - 2.1.01.1. `[checkbox]` Medication and Supplements, Self-Reported 
 - 2.1.01.2. `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.02. `[heading]` Labs and Tests
+###### 2.1.02. `[heading]` Labs and Tests
 
 - 2.1.02.0 `[checkbox]` VA Laboratory Results
 - 2.1.02.1 `[checkbox]` VA Pathology Reports (available 35 hours after completion
@@ -144,7 +204,7 @@ This page provides the user with options to control the information that is incl
 - 2.1.02.3 `[checkbox]` Labs and Tests, Self-Reported
 - 2.1.02.4 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
+###### 2.1.03 `[heading]` VA Electronic Health Record History and Wellness Reminders
 
 - 2.1.03.0 `[checkbox]` VA Problem List
 - 2.1.03.1 `[checkbox]` VA Admissions and Discharges
@@ -152,25 +212,25 @@ This page provides the user with options to control the information that is incl
 - 2.1.03.3 `[checkbox]` VA Wellness Reminders
 - 2.1.03.4 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.04 `[heading]` Allergies
+###### 2.1.04 `[heading]` Allergies
 
 - 2.1.04.0 `[checkbox]` VA Allergies and Adverse Reactions
 - 2.1.04.1 `[checkbox]` Allergies, Self-Reported
 - 2.1.04.2 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.05 `[heading]` Immunizations
+###### 2.1.05 `[heading]` Immunizations
 
 - 2.1.05.0 `[checkbox]` VA Immunizations
 - 2.1.05.1 `[checkbox]` Immunizations, Self-Reported
 - 2.1.05.2 `[checkbox]` All of the Above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.06 `[heading]` Vitals and Readings
+###### 2.1.06 `[heading]` Vitals and Readings
 
 - 2.1.06.00 `[checkbox]` VA Vitals and Readings
 - 2.1.06.01 `[checkbox]` Vitals and Readings, Self-Reported
 - 2.1.06.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.07 `[heading]` Self-Reported Health History 
+###### 2.1.07 `[heading]` Self-Reported Health History 
 
 - 2.1.07.00 `[checkbox]` Medical Events, Self-Reported
 - 2.1.07.01 `[checkbox]` Family Health History, Self-Reported
@@ -179,35 +239,35 @@ This page provides the user with options to control the information that is incl
 - 2.1.07.04 `[checkbox]` Health Care Providers, Self-Reported
 - 2.1.07.05 `[checkbox]` All of the above
 
-##### 2.1.08 `[heading]` Food and Activity Journals 
+###### 2.1.08 `[heading]` Food and Activity Journals 
 
 - 2.1.08.00 `[checkbox]` Activity Journal, Self-Reported
 - 2.1.08.01 `[checkbox]` Food Journal, Self-Reporte
 - 2.1.08.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.09 `[heading]` Goals
+###### 2.1.09 `[heading]` Goals
 
 - 2.1.09.00 `[checkbox]` My Goals: Current Goals, Self-Reported
 - 2.1.09.01 `[checkbox]` My Goals: Completed Goals, Self-Reported
 - 2.1.09.02 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.10 `[heading]` Demographics and Health Insurance
+###### 2.1.10 `[heading]` Demographics and Health Insurance
 
 - 2.1.10.00 `[checkbox]` VA Demographics (Demographic information from VA Treating Facilities in the last 3 years)
 - 2.1.10.01 `[checkbox]` Demographics, Self-Reported
 - 2.1.10.02 `[checkbox]` Health Insurance, Self-Reported
 - 2.1.10.03 `[checkbox]` All of the above *Note: this selection automatically selects the preceding options in this section*
 
-##### 2.1.11 `[heading]` Department of Defense Information
+###### 2.1.11 `[heading]` Department of Defense Information
 
 - 2.1.11.00 `[checkbox]` Department of Defense Military Service Information
 
-### Form Controls
+##### Form Controls
 - `[button]` Submit
 - `[button]` Reset
 - `[button]` Cancel
 
-### Info boxes
+##### Info boxes
 _Info box 1_
 - Heading: Protect your information and identity.
    - Text: Send your information to a safe site or device that you or someone you trust controls. Remember, once you have downloaded your information from My HealtheVet, it is your responsibility to keep it safe and private. Learn more about [protecting your personal health information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information).
@@ -216,15 +276,15 @@ _Info box 2_
 - Heading: This is your personal health information.
    - Text: Your health care professional does not have access to this information unless you share it.
 
-### Page control
+##### Page control
 - `[button]` Back to Top
 
-### Feedback control
+##### Feedback control
 - `[button]`  Feedback *links to a [survey](https://survey.voice.va.gov/?jAM9oX-MyHealtheVet) hosted on survey.voice.va.gov
 
 <br>
 
-### 3. Blue Button Download Results Page
+#### 3. Blue Button Download Results Page
 - Provides a link to the Blue Button user guide
 - Displays a status showing when the report has been generated
 - Displays a warning that details any information that was unable to be updated. 
@@ -255,10 +315,10 @@ _Info box 2_
      - 03 Feb 2023 @ 1139
      - `link text`View <br> `link text`Download TXT <br> *Note - `View` displays the TXT in an iframe on the page with `Print` and `Done` buttons above. `Download` downloads the TXT file.
 
-### 4. VA My Health Summary generation page
+#### 4. VA My Health Summary generation page
 This page provides the ability for the user to generate a My VA Health Summary Report that follows a standard format and contains a standard set of data.  If a report has already been generated, this page will display the state described in the My VA Health Summary Results page below.
 
-### 5. VA My Health Summary results page
+#### 5. VA My Health Summary results page
 - Provides a link to the Blue Button user guide
 - Displays a status showing when the report has been generated
 - Displays a warning that details any information that was unable to be updated. 
@@ -268,7 +328,7 @@ This page provides the ability for the user to generate a My VA Health Summary R
   -  `[Heading]` Download Your VA Health Summary
 
  
-#### `H1` My VA Health Summary Download Results | [Screen shot of MHV experience page](https://user-images.githubusercontent.com/69174644/217009547-68068663-2070-4cd9-bdc2-b687952f71a3.png)
+##### `H1` My VA Health Summary Download Results | [Screen shot of MHV experience page](https://user-images.githubusercontent.com/69174644/217009547-68068663-2070-4cd9-bdc2-b687952f71a3.png)
 
 
 
@@ -315,11 +375,11 @@ TABLE ROW TWO (for previous health summary) sample contents:
  - Ready to Download
  - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download PDF` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.* <br>`link text`Download XML *Note: automatically downloads XML without a modal warning.<br>`link text` Send my health summary *Note: links to https://www.myhealth.va.gov/mhv-portal-web/va-health-summary -- we need to determine if this option will still be offered in the Health Portal or will redirect elsewhere.
 
-### Navigation
+#### Navigation
 - `[button]` Back (returns to the reports landing page)
 
 
-### Info boxes
+#### Info boxes
 _Info box 1_
 - Heading: Options to Retrieve Data
    - `[Text]`: View:  View your VA Health Summary in the browser. 
@@ -347,90 +407,8 @@ _Info box 4_
 `[Text]` Protect your information and your identity.
 Send your information to a safe site or device that you or someone you trust controls. Remember, once you have downloaded your information from My HealtheVet, it is your responsibility to keep it safe and private. Learn more about protecting your personal health information.
 
-### Page control
+#### Page control
 - `[button]` Back to Top
 
-### Feedback control
+#### Feedback control
 - `[button]`  Feedback *links to a [survey](https://survey.voice.va.gov/?jAM9oX-MyHealtheVet) hosted on survey.voice.va.gov
-
-<br>
-
-
-
-<br>
-
-**View, share, download considerations:**
-- VA Health Summary provides the ability for the user to:
-  - View the report as
-  - Download the report as
-  - Share the report through Direct email.  There is some uncertainty about this feature that needs to be resolved, as noted in [Questions to Answer](#questions-to-answer)
-
-### Accessibility considerations:
-
-[MyHealtheVet Section 508 Audit Report, August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/31142%20My%20HealtheVet%20Interim%20Audit_20220831_V0.01.docx)
-
-[MyHealth*e*Vet (MHV) Heuristic Accessibility Evaluation, November 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/audits/2022-11-MHV/MHV-Heuristic-A11y-Audit_Evaluation-Summary.md)
-
-## Research that relates to downloadable reports
-
-**Findings from card sort**
-
-_Cards included:_ 
-  - Labs/ test cards: Antibody test, Blood sugar tests, Blood test, COVID-19 test result, Lab/ test results, Pathology results
-  - Imaging cards: Dental x-rays, MRI results, Radiology results and images, Ultrasound results
-
-_Findings:_
-- Labs/ test category was the most common category, and roughly 52% of all cards were grouped in that category across the 13 participants
-- Imaging cards were combined with labs/ test cards approximately 48% of the time (25 out of 52). 
-
-<img width="582" alt="image" src="https://user-images.githubusercontent.com/100814257/209881121-cf7dca80-8ea5-43fb-9398-c318764c6d21.png">
-
-**Findings from comparative analysis**
-[Comparative analysis of popular patient portals](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?sender=u71ad98f94f5263595f9a4390) including Cerner's patient portal, Kaiser Permanente, BlueCross BlueShield, MyHealth powered by Epic, One Medical, Aetna OneRecord, and Apple Health, revealed that medical imaging and imaging reports are grouped with lab/test results.
-
-## Relevant links
-- [Downloadable Reports decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/downloadable-reports/decision-log.md)
-- [Overall Initiative decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
-- [Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
-- [Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
-- [Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
-- [Medical Records Generative Research Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
-- [Meaningful use standards documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/meaningful-use-standards) - provided by Patty Henry between 1/12/2023 - 1/17/2023.  These standards originated during the Obama administration. MyHealtheVet used to get measured against these standards, and while they no longer do, these standards are still considered best practice and pertain to viewing, downloading, and transmitting.
-
-
-## Questions to answer
-
-**UX:** 
-- Should a submit button be presented higher on the Blue Button report generation page so that the user doesn't have to scroll past all the selected options after select "All Types of Information"?
-- How closely do uses associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
-- Are uses able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
-- What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
-- Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
-- Is it necessary to have user documentation if our testing finds that the tools are intuitive?
-
-**Business/ Engineering:** 
-- What options are available for customizing the layout of each of these reports?
-    
-
-**Who do we need to get feedback from?**
-- Patty Henry
-- Bresha Lipscomb
-
-## Lessons learned
-
-
-## Backlog of potential features/ Ideas Parking Lot
-- A comparison matrix showing which report can be customized, which has the option to download XML, which contains DoD info, etc.
-
-
-## Additional notes
-
-
-## Change Log
-
-|  Date           | Changed By       | Description of Change                                                                                               |
-| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023-02-06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
-|                 |                  |                                                                                                                     |
-|                 |                  |                                                                                                                     |
-
