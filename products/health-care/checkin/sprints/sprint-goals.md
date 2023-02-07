@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - **GOAL: Finish work for & test the VAOS Compatability Work**
 - **GOAL: Complete & release the new message for expired links**
 - **GOAL: Complete & release the moving of the Pre-Check-in action link**
-- **GOAL: Plan research for unifified CIE**
+- **GOAL: Create wireframes for Unifified CIE Option 3**
 
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
@@ -33,6 +33,7 @@ ________________________________________________________________________________
       - [Metrics Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895) 
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)   
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
+      - Schedule Staging Review
       - [[UX]Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - **GOAL: Prepare for Release**
@@ -48,10 +49,8 @@ ________________________________________________________________________________
    - **GOAL: Release to Production**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
-   - **GOAL: Start to plan research for Option 2**   
-      - [Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
-      - [[UX] [Research] Create optimal workshop study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53056)
-      - [[UX] [Research] Create research plan for gathering feedback about text preferences](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
+   - **GOAL: Start to plan research for Option 3**   
+      - [Create wireframes and content for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
 
 #### Engineering Sprint Goals
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
