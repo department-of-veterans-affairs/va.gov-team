@@ -168,7 +168,7 @@ Veterans liked that the self-service option was available, but expressed hesitan
 **1. Make it easier for Veterans to find and connect with an accredited VSO from the CST and other VA.gov decision review pages.**
    * The value of a good VSO was clear in this research. We should build on the existing VA.gov features that allow Veterans to connect with an accredited representative should they need it, as an "escape hatch" for users who feel overwhelmed and discouraged by the idea of filing decision reviews themselves.
  
-**2. Consider updating the Decision Review Options page to be simpler, or more tailored to a signed-in Veteran's situation.**
+**2. Consider updating the Decision Review Options page to be simpler and more personalized.**
    * Explore opportunities to provide more relevant, tailored advice on this page so improve the chances that Veterans make the right choice when pursuing decision reviews.
 
 **3. Help Veterans better understand what evidence they will need up-front when filing a claim or decision review.** 
