@@ -8,6 +8,7 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 - [Research to date](#research-to-date)
 - [Relevant links](#relevant-links)
 - [Questions to answer](#questions-to-answer)
+- [Handling Data Discrepancies](#handling-data-discrepancies)
 
 Appendix
 - [Detailed analysis of data fields](#detailed-analysis-of-data-fields)
