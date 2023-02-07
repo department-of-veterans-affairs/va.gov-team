@@ -1,5 +1,5 @@
 # Allergies: Domain brief
-Last updated: Feb 6, 2023 | [Change Log](#change-log)
+Last updated: Feb 7, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -75,7 +75,8 @@ https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/yWydAK/p/1DD0602
 
 ## Relevant links
 
-- [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+- [Overall Initiative Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md)
+- [Allergies Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/decision-log.md)
 - [Use cases and user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1670275244338/a7ecd52750cd539d1fceea40b1879336b8a339d2?invited=true&sender=u7de68ed54bc434b67b630908)
 - [Medical Records Competitive Analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659473055858/08b0e54ba40761f0893fc1c13454882a645e47ff?wid=0-1663621688531&sender=u7de68ed54bc434b67b630908)
 - [Medical Records Discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1661955319813/0edab3b186f83ecf243781fd24de5fc683a52266?sender=u7de68ed54bc434b67b630908)
@@ -94,7 +95,7 @@ Where there are differences between BB and Health Summary, follow the data and d
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2023/02/06      |Coulton Bunney    |Combined requirements and brief|
-| 2023/02/07      |Marci McGuire     | Added Handling Discrepancies section                                                                               |
+| 2023/02/07      |Marci McGuire     | Added Handling Discrepancies section, link to Allergies decision log                                                                               |
 |                 |                  |                                                                                                                     |
 
 # Appendix
