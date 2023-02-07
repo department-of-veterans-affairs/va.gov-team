@@ -4,8 +4,8 @@
 
 In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will primarily support the following objectives:
 
-- Enhance veterans' personalized online experience
-- Integrate the health protal features into VA.gov
+- Enhance Veterans' personalized online experience
+- Integrate the health portal features into VA.gov
 
 
 ## 500 foot view: VA Notify team goals 
@@ -21,12 +21,12 @@ Our goals are tied to one or more of our themes:
 As we close out our VEText migration, we need a way to get status updates and callbacks from Twilio.
 
 ### Launch Comp & Pen Payment notifications
-#### Theme(s): Quality / Personal Experiance, Platform Capabilities
+#### Theme(s): Quality / Personal Experience, Platform Capabilities
 
 Last year we began working with the BIA team, to integrate with their Kafka event stream in order, to send SMSs to Veterans regarding their monthly compensation and pension payments.  We will continue and complete the remaining work this year.  
 
 ### Expand onsite notifications
-#### Theme(s): Quality / Personal Experiance, Self Service / Governance
+#### Theme(s): Quality / Personal Experience, Self-Service / Governance
 #### OCTO Objective(s): Enhance veterans' personalized online experience
 
 As we partner with the authenticated experience team, we have the opportunity to scale onsite notifications into a robust and highly-valuable VA.gov feature. We'll be investigating the best way to display this feature in SSUI and how best to support the authenticated experience team in adding new notifications.
@@ -37,10 +37,10 @@ As we partner with the authenticated experience team, we have the opportunity to
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.
 
 ### Support MHV on VA.gov Portal
-#### Theme(s): Quality / Personal Experiance, Self Service / Governance
+#### Theme(s): Quality / Personal Experience, Self Service / Governance
 #### OCTO Objective(s): Integrate the health protal features into VA.gov
 
-As MHV moves it's notification preferences into VA.gov we will start sending those notifications for MHV.  This work  may also include other notifications as needed to support the new portal
+As MHV moves its notification preferences into VA.gov we will start sending those notifications for MHV.  This work  may also include other notifications as needed to support the new portal
 
 ### Phone Number Lookup/Validation
 #### Theme(s): Platform Capabilities
@@ -69,7 +69,7 @@ As we wrap up the Twilio status integration work, we have some room to re-engage
 **Expected launch date**: July 31, 2023
 
 #### Performance, Monitoring and Security 
-To keep our platform performing at it's best, we plan to execute the following:
+To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 
 **Expected launch date**: April 26, 2023
@@ -105,7 +105,7 @@ words go here
 ### Notify Team
 
 #### Performance, Monitoring and Security 
-To keep our platform performing at it's best, we plan to execute the following:
+To keep our platform performing at its best, we plan to execute the following:
 * Datadog Application Performance Monitoring (APM)
 * Other monitoring Enhancements
 * Microservices for Push Notifications
