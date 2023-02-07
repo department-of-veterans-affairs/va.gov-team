@@ -19,9 +19,7 @@ Besides this study, we also plan to run a related study that looks more closely 
 5. Understand what will motivate Veterans to upgrade to an IAL2 account at a later date.
 
 ## Recruitment
-We will aim to recruit 10 Veterans for this research. They all need to currently use DS Logon to sign in to VA services. Ideally, we can recruit one Veteran who uses DS Logon to sign in to VA services, but has a (proofed) Login.gov account that they've never used to sign in at the VA. We also need to recruit at least 2 screen magnification users.
-
-We aim to do a follow-up study with a coded prototype that can be tested by Veterans who use screen readers.
+We will aim to recruit 10 Veterans for this round of testing. They all need to currently DS Logon to sign in to VA services. Ideally, we can recruit one Veteran who uses DS Logon to sign in to VA services, but has a (proofed) Login.gov account that they've never used to sign in to a VA service. We also need to recruit 1-2 screen magnification users.
 
 ## Date
 This research will take place through February and March 2023.
