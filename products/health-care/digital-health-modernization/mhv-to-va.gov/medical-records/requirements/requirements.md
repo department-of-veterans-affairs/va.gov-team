@@ -469,4 +469,9 @@
     - Request date
     - Status (ready to download / Request being processed)
     - I want to...(links to view or download in PDF, TXT, XML)
-  
+  - A user should be informed about: 
+    - How to protect their information and identity [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
+    - The information in the health summary can be updated once each dat.
+    - You can cancel download anytime. 
+    - All requests to download are tracked, so they can see these requests in account activity history. 
+  - A back button that allows a user to get back to the previous page.  
