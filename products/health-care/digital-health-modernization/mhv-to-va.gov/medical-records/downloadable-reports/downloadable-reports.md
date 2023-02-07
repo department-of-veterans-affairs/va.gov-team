@@ -21,7 +21,7 @@ This brief describes a page from which users can download a Blue Button report (
 Things to think about that inform use cases: 
 - Privacy
   - VA Health Summary and Blue Button Report contain private data protected by federal privacy protections.
-  - Users need to be aware that once they choose to save, print, download, or share their VA Health Summary data with a non-VA provider, it may no longer be protected by federal privacy protections.
+  - Users need to be aware that once they choose to save, print, or download their VA Health Summary data, it may no longer be protected by federal privacy protections.
   - Users need to be made aware that it is their responsibility to keep their health data safe once they download, print, or save it.
 
 - Data Sources
@@ -41,7 +41,6 @@ What do people want to use their downloadable reports for?
 - To keep their own hard copy of their health information
 - To save their own digital copy of their health information
 - To take a digital copy of their health information to a HCP on a thumb drive or other storage device
-- To send a digital copy securely to a HCP via a Direct Address using VHIE (Veterans Health Information Exchange)
 
 ## Requirements
 
@@ -91,7 +90,6 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
   -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more) MHV web page that provides an overview of VA Health Summary reports, and information about creating My VA Health Summmary Reports
   -  Link to [What's in the VA Health Summary?](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf) document that explains data and business rules.
   -  Link to download an XML style sheet (the link currently displays a Not Found error page)
-  -  Link to [an MHV page that explains how to securely send VA Health Summary to non-VA providers using Direct Messaging](https://www.myhealth.va.gov/mhv-portal-web/ccd-direct-participating-providers-help).  *note - as listed in the [Questions to Answer](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#questions-to-answer) section, it is unclear whether this option will continue to exist in the new Health Portal experience.
   -  Link to [Update your Profile](https://www.myhealth.va.gov/mhv-portal-web/profiles) on MHV to subscribe to VA Profile Delivery notifications.
   -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
@@ -108,7 +106,6 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 - How closely do users associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
 - Are users able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
 - What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
-- Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
 - Is it necessary to have user documentation if our testing finds that the tools are intuitive?
 - What options are available for customizing the layout of each of these reports?
 - Who do we need to get feedback from? 
@@ -121,6 +118,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 | 2023-02-06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
 | 2023-02-07      |Coulton Bunney    | Reorganized and started requirements section|
 | 2023-02-07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                              |
+| 2023-02-07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.      |
 
 # Appendix
 
@@ -374,8 +372,7 @@ TABLE ROW TWO (for previous health summary) sample contents:
  - mhv_VA_CCD_MHVZZVISNFIFTEEN_20230201_1848
  - 01 Feb 2023 @ 1348
  - Ready to Download
- - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download PDF` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.* <br>`link text`Download XML *Note: automatically downloads XML without a modal warning.<br>`link text` Send my health summary *Note: links to https://www.myhealth.va.gov/mhv-portal-web/va-health-summary -- we need to determine if this option will still be offered in the Health Portal or will redirect elsewhere.
-
+ - `link text`View <br> `link text`Download PDF <br> *Note - `View` displays the PDF in the system's default PDF viewer or in the browser, depending on local system settings.  <br> `Download PDF` displays a modal with the following warning: "When you open or download a PDF file, a temporary file is created on this computer. Others accessing this computer may be able to view your personal health information. There is a risk of exposing your information when you download a PDF file, especially on public or shared computers." and `OK` and `Cancel` buttons.  `OK` downloads the file and `Cancel` closes the model with no further action.* <br>`link text`Download XML *Note: automatically downloads XML without a modal warning.<br>`
 #### Navigation
 - `[button]` Back (returns to the reports landing page)
 
