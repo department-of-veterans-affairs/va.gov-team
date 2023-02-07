@@ -14,7 +14,7 @@ assignees: ''
    - [ ] Not needed
 
 ## RESEARCH TASKS
-- [ ] Push updated Product Guides to Git, if necessary
+- [ ] Publish updated Product Guides to Git, if necessary
 
 ## DESIGN TASKS
 - [ ]  Merge final wireframes to Abstract main branch, if necessary
