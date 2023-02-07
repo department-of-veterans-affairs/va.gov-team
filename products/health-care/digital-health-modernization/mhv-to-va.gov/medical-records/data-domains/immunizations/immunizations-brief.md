@@ -123,6 +123,9 @@ Added 1/23/2023 by Marci McGuire - Eric Voshall learned that in the Lighthouse A
     - Time x urgency = need to flag when immunizations are due
     - Unclear implications for organizing immunizations -> by age? Chronologically? 
 
+## Handling Data Discrepancies
+Where there are differences between BB and Health Summary, follow the data and descriptions of that data as they are represented in Health Summary.
+
 ## Questions to answer
 
 **UX:** 
@@ -215,7 +218,7 @@ Robyn: Agree - participants often grouped these somewhat together. Immunizations
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|                 |                  |                                                                                                                     |
+|02/07/2023       |Marci McGuire     |Added Handling Data Discrepancies section                                                              |
 |                 |                  |                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
