@@ -34,6 +34,8 @@ ________________________________________________________________________________
    - **GOAL: Release**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
       - [Metrics Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895) 
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - [SPIKE: Determine if messages need to be reprioritized on not eligible, confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53253)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)   
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - Schedule Staging Review
@@ -53,12 +55,10 @@ ________________________________________________________________________________
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Start to plan research for Option 3**   
-      - [Create wireframes and content for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
+      - [Create wireframes for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
+      - [Create content for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53270)
 
 #### Engineering Sprint Goals
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Release**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Fix bugs**
        - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
