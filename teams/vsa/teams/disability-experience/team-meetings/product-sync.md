@@ -31,6 +31,12 @@
 - Stakeholders
       - Business - Compensation service- administers benefits in VBA
 
+#### Action items: 
+ - Get Matt access to the A6 mural board - Rakshinda
+ - Set up weekly sync - Rakshinda
+ - Reach out to accessibility team for the audit report - Rakshinda
+ - Find out list of existing 526 issues - try 526 label - Rakshinda
+
 ### Date: Jan 31st 2023
 ### Attendees - Matt Self, Rakshinda Aslam
 
