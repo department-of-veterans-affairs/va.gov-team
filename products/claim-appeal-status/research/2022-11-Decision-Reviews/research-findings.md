@@ -207,7 +207,7 @@ Based on the findings, these are good candidates for future design explorations.
 
 ## Pages and applications used
 
-[Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/prototype/a/F8B70305-F9BD-42F3-B318-7705AB232BDB) for Part 2
+[Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/prototype/a/F8B70305-F9BD-42F3-B318-7705AB232BDB)
 
 
 ## Other supporting documents created
