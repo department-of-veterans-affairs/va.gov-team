@@ -15,7 +15,7 @@ We are also curious to find out more about which of these journeys can be fully 
 
 ## Methodology 
 
-We scheduled 40 remote Zoom sessions with Veterans. In the end, we successfully completed [x] sessions.
+We scheduled 40 remote Zoom sessions with Veterans. In the end, we successfully completed 25, with 15 cancellations or no-shows.
 
 This was broad-based discovery research intended to identify pain points in the Veteran claims and appeals process. We also got some feedback on a concept prototype intended to help Veterans connect with VSOs on VA.gov.
 
@@ -39,25 +39,40 @@ _3. We have a hypothesis that self-service works well for simplified or automate
 
 ## Key Findings
 
-1. Many Veterans we spoke to found VSOs to be crucial in getting to a satisfactory claim decision.
+1. The most common pain point we heard in filing decision reviews (and initial claims) is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
 
-2. It's clear that not VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
+2. Many Veterans we spoke to found VSOs to be crucial in getting to a satisfactory claim decision.
 
-3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
+3. It's clear that not all VSOs are equal in quality, and a bad VSO can be detrimental to a Veteran's experience. 
 
-4. The most common pain point we heard in filing claims or decision reviews is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
+4. Veterans responded positively to the idea of connecting with a VSO or other representative via the website.  
 
-5. Many Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck.
+5. Many Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted to be able to reach out to a VSO if they got stuck.
 
 
 ## Details of Findings 
 
 
-### 1. We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
+### 1. The most common pain point we heard in filing decision reviews (and initial claims) is knowing what documentation/evidence you will need and being able to track it down. This is often why Veterans turn to VSOs or even lawyers for guidance.
+
+Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
+
+Knowing what type of evidence is needed up front, and being able to track that evidence down emerged as key pain points for Veterans in filing both initial 526 EZ claims and decision reviews. Many Veterans commented on how they don't have access to their medical records from their time in service, which makes it very challenging to prove that a disability is service-connected. Others mentioned that their initial claim was denied because they didn't know they were supposed to submit evidence at all, or a VSO told them they didn't need to. 
+
+There are a variety of thorny problems contained within this step of the process, and it is a major reason Veterans seek out the help of VSOs. 
+
+> "If these folks are going to file on their own, they need details explaining the type of records they need. It doesn't tell you enough about the process. It leads you to believe "fill out this form, and you're good to go." - P5
+
+> "I'm tired of justifying this, when all the VRO has to do is read (the active duty medical records). You want a detailed summary? do it yourself." - P6
+
+> "I had to reach out ot the VA to get my medical records, and I had got to various doctors to get my records as well. It's so much hassle, because you have to do so much running to get everything together." - P23
+
+
+### 2. We spoke to many Veterans who found VSOs to be crucial in getting a satisfactory claim decision.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs
 
-Many of the Veterans we talked to had positive things to say about their experience working with a Veteran Service Organization (VSO). Some expressed that they didn't believe they would have been able to get benefits at all without the help of a VSO. There are many types of VSOs, but some of the ones we commonly heard about were Veterans of Foreign Wars (VFW) and Disabled American Veterans (DAV).    
+Many of the Veterans we talked to had positive things to say about their experience working with a Veteran Service Organization (VSO). Some expressed that they didn't believe they would have been able to get benefits at all without the help of a VSO. There are many different VSO groups, but some of the common ones we heard about were Veterans of Foreign Wars (VFW) and Disabled American Veterans (DAV).    
 
 Some of the main benefits of using a VSO: 
 - VSOs help Veterans parse the difficult-to-understand language that the VA uses. (P2, P16)
@@ -73,7 +88,7 @@ Some of the main benefits of using a VSO:
 > "Without a VSO, I wouldn't have the compensation that I have." - P34
 
 
-### 2. It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
+### 3. It's clear that VSOs vary in quality, and a bad VSO can be detrimental to a Veteran's experience.
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -90,7 +105,7 @@ We talked to many Veterans who had gone to several different VSOs before finding
 > "When I first went to the VSO in 2015, he had me fill the form for what the request was about, but he didn't request medical records." - P30
 
 
-### 3. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
+### 4. Veterans responded positively to the idea of connecting with a VSO or other representative via the website. 
 
 Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
 
@@ -105,21 +120,7 @@ Our concept prototype contained link to a page that allowed Veterans to see thei
 > "You have connect with a rep right here. Excellent service." - P20
 
 > P29: Would call someone for help to verify she was doing right thing. She was happy to see that option on the page.
-
-
-### 4. The biggest pain point in filing claims or decision reviews seems to be gathering the right evidence. This is often why Veterans turn to VSOs or even lawyers for guidance.
-
-Labels: BNFT: Disability, PRDT: Decision Reviews, PRDT: Benefit Hubs, SPG: Vets at VSOs 
-
-Knowing what type of evidence is needed up front, and being able to track that evidence down emerged as key pain points for Veterans in filing both initial 526 EZ claims and decision reviews. Many Veterans commented on how they don't have access to their medical records from their time in service, which makes it very challenging to prove that a disability is service-connected. Others mentioned that their initial claim was denied because they didn't know they were supposed to submit evidence at all, or a VSO told them they didn't need to. 
-
-There are a variety of thorny problems contained within this step of the process, and it is a major reason Veterans seek out the help of VSOs. 
-
-> "If these folks are going to file on their own, they need details explaining the type of records they need. It doesn't tell you enough about the process. It leads you to believe "fill out this form, and you're good to go." - P5
-
-> "I'm tired of justifying this, when all the VRO has to do is read (the active duty medical records). You want a detailed summary? do it yourself." - P6
-
-> "I had to reach out ot the VA to get my medical records, and I had got to various doctors to get my records as well. It's so much hassle, because you have to do so much running to get everything together." - P23
+ 
 
 ### 5. Some Veterans imagined an ideal experience that could be thought of as "assisted self-service." They wanted to be able to complete the process themselves on VA.gov, but also wanted expert help easily available in case they got stuck. 
 
