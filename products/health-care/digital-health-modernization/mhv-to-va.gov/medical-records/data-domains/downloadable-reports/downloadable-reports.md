@@ -78,7 +78,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 ### User guides and related content
 
 - The Blue Button Report generation pages links to several related pages and documents:
-  -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/BlueButtonUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [16-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/downloadable-reports/BlueButtonUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
   -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb) MHV web page that provides an overview of Blue Button reports, and information about creating My VA Health Summmary Reports
   -  Link to [VA Continuity of Care Documents](https://www.myhealth.va.gov/va-continuity-of-care-document) (predecessor to VA Health Summary Reports) MHV web page 
   -  Link to [Frequently Asked Questions](https://www.myhealth.va.gov/faqs) MHV web page that has content related to Blue Button Reports.
@@ -86,7 +86,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
   -  Link to [Protecting Your Personal Health Information](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information) page on MHV 
 
 - The My VA Health Summary Generation page links to several related pages and documents:
-  -  Link to a [13-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/VAHealthSummaryUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
+  -  Link to a [13-page user guide in PDF format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/downloadable-reports/VAHealthSummaryUserGuide.pdf).  If it is determined that user instructions are still necessary, they must be provided in an accessible format in addition to whatever print-formatted option is offered. PDF is not considered accessible.
   -  Link to a [Learn More](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more) MHV web page that provides an overview of VA Health Summary reports, and information about creating My VA Health Summmary Reports
   -  Link to [What's in the VA Health Summary?](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf) document that explains data and business rules.
   -  Link to download an XML style sheet (the link currently displays a Not Found error page)
@@ -115,10 +115,10 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023/02/06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
-| 2023/02/07      |Coulton Bunney    | Reorganized and started requirements section|
-| 2023/02/07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                              |
-| 2023/02/07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.      |
+| 2023/02/06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                             |
+| 2023/02/07      |Coulton Bunney    | Reorganized and started requirements section                                                            |
+| 2023/02/07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                             |
+| 2023/02/07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.    |
 
 # Appendix
 
@@ -135,11 +135,11 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 
 ### Downloadable reports pages
 This document describes the pages in the new health portal on VA.gov that will give users the ability to generate and download two different types of health record reports -- a *VA Health Summary* -- a summarized health record report that follows a pre-defined format, and a more comprehensive report currently referred to as a *VA Blue Button Report*, which can be customized to include or exclude certain pieces of health information.
-- [Downloadable Reports Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#1-downloadable-reports-landing-page)
-- [Blue Button Report generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#2-blue-button-report-generation-page)
-- [Blue Button Download Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#3-blue-button-download-results-page)
-- [VA My Health Summary generation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#4-va-my-health-summary-generation-page)
-- [VA My Health Summary Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports/downloadable-reports.md#5-va-my-health-summary-results-page)
+- [Downloadable Reports Landing Page](#1-downloadable-reports-landing-page)
+- [Blue Button Report generation page](#2-blue-button-report-generation-page)
+- [Blue Button Download Results Page](#3-blue-button-download-results-page)
+- [VA My Health Summary generation page](#4-va-my-health-summary-generation-page)
+- [VA My Health Summary Results Page](#5-va-my-health-summary-results-page)
 
 #### 1. Downloadable Reports Landing Page | [MyHealtheVet Screenshot](https://user-images.githubusercontent.com/69174644/217010319-28687c62-d1ca-4c95-a1ba-46243b88d565.png)
 This page provides the ability for the user to select which type of report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
