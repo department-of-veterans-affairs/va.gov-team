@@ -119,6 +119,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 | 2023/02/07      |Coulton Bunney    | Reorganized and started requirements section                                                            |
 | 2023/02/07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                             |
 | 2023/02/07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.    |
+| 2023/02/07      |Marci McGuire     | Corrected links after moving directory this where this doc is stored                                    |
 
 # Appendix
 
