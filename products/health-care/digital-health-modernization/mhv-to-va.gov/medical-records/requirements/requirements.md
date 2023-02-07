@@ -464,17 +464,49 @@
   - Select types of information 
     - Select all types of information, or:
     - Appointments
+      - Future VA appointments
+      - Past VA appointments (limited to past 2 years) 
+      - All of the above
     - Medications
+      - VA medication history 
+      - Medications and supplements, self-reported
+      - All of the above
     - Labs abd tests 
+      - VA laboratory results (available 36 hours after verification; COVID-19 results available immediately after receipt by VA)
+      - VA pathology reports (available 36 hours after completion)
+      - VA radiology reports (available 36 hours after completion)
+      - VA EKG historical exam dates (EKG dates are no longer updated. They may continue to view their historical EKG dates)
+      - Lab and tests, self-reported
+      - All of the above
     - VA electronic health record history and wellness reminders
+      - VA problem list (available 36 hours after entry)
+      - VA care summaries and notes (discharge summary and notes available 36 hours after completion, except C&P notes, C&P is claim exam) 
+      - VA wellness reminders (no longer updated)
+      - All of the above
     - Allergies 
-    - Immunizations
+      - VA allergies and adverse reactions
+      - Allergies, self-reported
+      - All of the above
+    - Vaccines
+      - VA Vaccines
+      - Vaccines, self-reported
+      - All of the above
     - Vitals and readings
-    - Sel-reported health history 
+      - VA vitals and readings
+      - Vitals and readings, self-reported
+      - All of the above
+    - Self-reported health history 
+      - Medical events, self-reported
+      - Family health history, self-reported
+      - Military health history, self-reported
+      - Treatment facilities, self-reported
+      - Health care providers, self-reported
+      - All of the above
     - Food and activity journals 
     - Goals
     - Demographics and health insurance 
     - Department of defense information
+      - Department of defense military service information
 
 ## VA Health Summary Reports
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
