@@ -84,13 +84,16 @@ https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/yWydAK/p/1DD0602
 ## Questions to answer
 - Severity is a field that we believe is part of the VA Health Summary, but not Blue Button reports. We have included it as part of our designs. Can we actually access that field? Is it reliable? If the answer is no to either of those questions, remove that field from designs.
 
+## Handling Data Discrepancies
+Where there are differences between BB and Health Summary, follow the data and descriptions of that data as they are represented in Health Summary.
+
 
 ## Change Log
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023/02/06  |Coulton Bunney|Combined requirements and brief|
-|                 |                  |                                                                                                                     |
+| 2023/02/06      |Coulton Bunney    |Combined requirements and brief|
+| 2023/02/07      |Marci McGuire     | Added Handling Discrepancies section                                                                               |
 |                 |                  |                                                                                                                     |
 
 # Appendix
