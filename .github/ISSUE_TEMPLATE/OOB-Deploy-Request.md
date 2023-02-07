@@ -1,6 +1,6 @@
-   ---
+---
 name: OOB Deploy Request
-about: To request Out of Band deployment
+about: To request Out of band deployment
 title: OOB Deploy Request
 labels: frontend, operations, platform-tech-team-support
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Instructions
-Fill out Details of need and the PRs related to OOB sections below.
+Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
 
 ## PRs Related to OOB
 - Please provide the list of PRs related to the need for this OOB Deploy below:
@@ -27,10 +27,10 @@ Fill out Details of need and the PRs related to OOB sections below.
    
 ## Verify The following
  - [ ] The OOB Deploy Request is after the 2pm EST cutoff for regular deploy.[^1] 
- - [ ] The OOB Deploy Request is critial and must be resolved before the next automated deploy.
+ - [ ] The OOB Deploy Request is critical and must be resolved before the next automated deploy.
  - [ ] You are prepared to create an Incident Post Mortem[^2] within two business days.
 
-[^1]: (See [Deployment Policy](https://vfs.atlassian.net/wiki/spaces/SUP/pages/1279787009/Deployment+Policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html))
+[^1]: (See [Deployment Policy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html)
 [^2]: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems
 
 
