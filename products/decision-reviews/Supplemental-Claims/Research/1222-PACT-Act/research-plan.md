@@ -226,12 +226,12 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: Dan Miller [dan@coforma.io](dan@coforma.io)
+* Pilot participant email: Elisa Hallberg [elisa@coforma.io](dan@coforma.io)
 * Observer: [Sade Ragsdale](sade@coforma.io)
-* Date and time of pilot session: 3 PM ET 2/7
+* Date and time of pilot session: 10 AM ET 2/16
 
 ### Research sessions
-* Planned dates of research: 2/13-2/17
+* Planned dates of research: 2/20-2/23
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -255,6 +255,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: [Eileen Chi](eileen.chi@coforma.io)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: [Eileen Chi](eileen.chi@coforma.io)	
-- Participant(s) for pilot test: Dan Miller [dan@coforma.io](dan@coforma.io)	
+- Participant(s) for pilot test: Elisa Hallberg [elisa@coforma.io](dan@coforma.io)	
 - Note-takers: 
 - Observers: Sade Ragsdale [sade@coforma.io](sade@coforma.io), Gary Homidas [gary.homidas@adhocteam.us](gary.homidas@adhocteam.us), Matt Self [matthewself.dsva@gmail.com](matthewself.dsva@gmail.com), Katherine Fung [k.fung@bloomworks.digital](k.fung@bloomworks.digital), Sarah Shields [sarah.shields@coforma.io](sarah.shields@coforma.io)
