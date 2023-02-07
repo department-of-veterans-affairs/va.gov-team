@@ -4,7 +4,7 @@ Please log key MHV to VA.gov Immunization decisions related to the below practic
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|02/07/2023     | Dr. Lorraine Josephs              | If there are differences between data in Blue Button and VA Health Summary, we should display the Health Summary data on the page.                        | It is based off CCD standards, and likely more in line with how Cerner will represent data.          |
+|02/07/2023     | Dr. Meredith Josephs              | If there are differences between data in Blue Button and VA Health Summary, we should display the Health Summary data on the page.                        | It is based off CCD standards, and likely more in line with how Cerner will represent data.          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
