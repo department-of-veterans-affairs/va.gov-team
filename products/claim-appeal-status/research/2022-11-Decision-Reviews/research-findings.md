@@ -137,11 +137,10 @@ Veterans liked that the self-service option was available, but expressed hesitan
 
 ## Additional Insights
 
-- Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
-- It seems as though the training and information Veterans receive while transitioning out of the military has improved in recent years. Participants who went through this process more recently generally spoke about receiving more information related to benefits than those who transitioned out earlier.
-- Some Veterans have a perception that their initial claim will always get denied, and that they will necessarily need to file a decision review. 
 - C&P exams also emerged as a pain point for Veterans. Some Veterans felt like the examiners weren't giving them their due diligence and were simply going through the motions conducting the exams.
 - Veterans wanted to be able to see more details and more frequent status updates in CST. They often felt like the claim was "stuck" in one place and they were getting no indication that it was progressing.
+- Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
+- Some Veterans have a perception that their initial claim will always get denied, and that they will necessarily need to file a decision review. 
 - Access to medical records was a problem or many Veterans we talked to. Those who hadn't saved a copy of their medical records before transitioning out of the military had a much harder time filing claims and decision reviews. 
 
 
