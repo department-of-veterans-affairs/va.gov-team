@@ -6,7 +6,7 @@
     1. The VSignals reports that we receive are a query from all VSignals feedback containing the words check-in and/or travel pay.
     2. If you need access to the OneDrive document and do not have it, message Ben.
     3. Once the comments are copied, Ben will message the check-in team member completing this week’s analysis.
-4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment. To do this, copy the comments, dates, and type columns from the file provided by Ben and past these below the last reporting period's information in the Outpatient (New) tab.
+4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment. To do this, copy the comments, dates, and type columns from the file provided by Ben and past these below the last reporting period's information in the **Outpatient (New) tab**.
     1. The comment categories and general guidelines for determining if a comments applies are as follows:
         1. **Mobile Check-in - Good and Mobile Check-in - Bad**
         2. **General Check-in - Good and General Check-in - Bad**
@@ -17,8 +17,8 @@
             2. **Example - General check-in related:** _"Everything was great from check-in to check-out. Staff were all helpful and kind and I was surprised how fast and easy it was. I was in and out in 30 min."_
 5. Throughout this process, highlight particularly important, new, or interesting comments the team may want to return to in light yellow. 
 6. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
-    1. After completing the calculations, copy the row with the percentage of comments for each category. Add this row to the existing table in the Mobile-General Trends Weekly tab.
-    2. Change the data parameters of the graphs to include the new percentages from this reporting period that you just added. If they are not already there, create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
+    1. After completing the calculations, copy the row with the percentage of comments for each category. Add this row to the existing table in the **Mobile-General Trends Weekly tab**.
+    2. Change the data parameters of the graphs to include the new percentages from this reporting period that you just added. If they are not already included, create a series of 2D line with markers graphs that show the percentage across the different reporting periods.
     3. Export the graphs, so they are ready to add to your final report.
 7. Update the [VSignals-trends.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/VSignals/VSignals-trends.md) Github file
     1. Update the analysis dates.
