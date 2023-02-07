@@ -1,6 +1,6 @@
 # Immunizations: Data fields and UX considerations
 
-Last updated: January 28, 2023 [Change Log](#change-log)
+Last updated: February 7, 2023 [Change Log](#change-log)
 
 ## Purpose
 
@@ -12,7 +12,9 @@ Immunizations represent vaccines obtained during service and after service.
 
 ## Relevant links
 
-[Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
+[Immunizations Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/decision-log.md)
+
+[Overall initiative Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
 
 Sketch files: [Wire flow](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/v84qOV8) and [low-fi screens](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/KvJb521)
 
@@ -218,7 +220,7 @@ Robyn: Agree - participants often grouped these somewhat together. Immunizations
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|02/07/2023       |Marci McGuire     |Added Handling Data Discrepancies section                                                              |
+|02/07/2023       |Marci McGuire     |Added Handling Data Discrepancies section, link to Immunizations Decision Log                                                             |
 |                 |                  |                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
