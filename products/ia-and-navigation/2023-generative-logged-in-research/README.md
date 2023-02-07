@@ -10,6 +10,7 @@
 - [Project risks & challenges](#project-risks--challenges)
 - [Questions](#questions)
 - [Scope](#scope)
+- [Key dates](#key-dates)
 - [Research activities](#research-activities)
 
 ---
@@ -132,6 +133,11 @@ Though we are focusing research on issues people have once they are signed in to
 - Evaluating specific questions around the health apartment.
 - Mocking up new navigation updates or patterns as part of our findings.
 - Capturing specific problems with individual products (eg. login credentials, claim status tool, etc).
+
+## Key dates
+
+- January 2023: Define scope of project; conduct research review
+- February 2023: Call center and Medallia data review; Analytics review
 
 ## Research activities
 
