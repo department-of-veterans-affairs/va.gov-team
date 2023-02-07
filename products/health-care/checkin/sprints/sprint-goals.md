@@ -4,6 +4,8 @@ ________________________________________________________________________________
 
 ************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
 
+## 2/8/2023 - 2/21/2023 
+
 #### OVERALL GOALS
 - **GOAL: Finish functional testing for Travel**
 - **GOAL: Make decisions for how to handle BTSSS latency**
@@ -60,7 +62,7 @@ ________________________________________________________________________________
    - **GOAL: Fix bugs**
        - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
        - [Bug: Link is wrong for "Go to AccessVA travel claim portal now"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53183)
-       - How are we handling the BTSSS latency?
+       - [Visual bugs identified during travel reimbursement testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52998)
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315) 
@@ -90,8 +92,12 @@ ________________________________________________________________________________
    - **GOAL: Complete as many as fits in the sprint**
       - [Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)
 - CIE Tech Debt
-   - **GOAL: Complete as many as fits in the sprint**
+   - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
+      - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
+   - **GOAL: Complete as many of these as fits in the sprint**
       - [[FE] Surface initiate (pre-)checkin errors to end user](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52973)
+      - [[SPIKE] [FE] Improve testing and validation with staging and screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50989)
+      - [[BUG] Space Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50374)
 
 
 ************** END FUTURE 2/8/2023 - 2/21/2023 ************************
