@@ -453,6 +453,28 @@
 - Users must be allowed to select the same types of data to include in their Blue Button report as they are on the MyHealtheVet site today.
 - The page that generates the Blue Button must present the last and most current generated reports, when they were generated, and links to view, print, or download them.
 - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
+- On top of the Download My Selected Data page, there should be information that tells a user: 
+  - How to use the VA Blue Button Report [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf)
+  - Learn more about it [link](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)
+  - How to protect their personal health information [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
+- On the Download My Selected Data page, there should be two sections, which are select date range and select types of information. 
+  - Select date range
+    - Date range selections (3 months, 6 months, 1 year) 
+    - Start date - End date (calendar selection)
+  - Select types of information 
+    - Select all types of information, or:
+    - Appointments
+    - Medications
+    - Labs abd tests 
+    - VA electronic health record history and wellness reminders
+    - Allergies 
+    - Immunizations
+    - Vitals and readings
+    - Sel-reported health history 
+    - Food and activity journals 
+    - Goals
+    - Demographics and health insurance 
+    - Department of defense information
 
 ## VA Health Summary Reports
 - We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
