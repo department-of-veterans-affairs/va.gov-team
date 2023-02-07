@@ -90,13 +90,13 @@ Here's how to determine your H1:
 - Do a search on VA.gov using your proposed H1. This will help you double check that there isn't already existing or similar content. 
 - Follow the VA.gov content style guide guidance for H1s.
 
-## Step 4: Submit your Resources and Support content intake form
+## Step 4: Submit your Resources and Support content request
 
-_Need simple form + instructions_
+Include the details from Sections 1 to 3 and email the request to Randi Hecht, project manager for VA.gov.
 
-**Turnaround time:**
+**Turnaround time for a response:** 2 business days
 
-## Step 5: Create your content
+## Step 5: Once approved create your content
 
 [Use the content checklist for guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/checklists/content-checklist.md)
 
@@ -104,7 +104,7 @@ _Need simple form + instructions_
 
 Get a plain language review before you send content out for SME review. This helps to avoid having SMEs review content multiple times.
 
-To request a review, send your content to 
+To request a review, send your content to Randi Hecht.
 
 **Turnaround time:** 5 business days
 
