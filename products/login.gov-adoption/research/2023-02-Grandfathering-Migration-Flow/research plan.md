@@ -1,4 +1,5 @@
-# Research Plan for Login.gov Adoption Team, Legacy Credential Migration, February 2023
+# Research Plan: Login.gov Adoption Team, Legacy Credential Migration
+*Grandfathering Migration Flow Usability Testing, February 2023*
 
 ## Background
 There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During discovery in December 2022, we defined different pathways for the migration. [See Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations).
@@ -7,9 +8,7 @@ This initiative is one of a few migration pathways; here we are focused specific
 
 In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing (at a later date, if they choose to).
 
-As we review the effectiveness and usability of this user flow, we plan to run a few rounds of testing. One of these rounds will focus more closely on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing.
-
-Besides this study, we also plan to run a related study that looks closely at multi-factor authentication set up and usage for Veterans with severe cognitive disabilities, those who are not well digitally connected or those who are unhoused.
+We plan to run a few rounds of testing to review the effectiveness and usability of this migration pathway. One of these rounds will focus more closely on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing. Besides this study, we also plan to run a related study that looks closely at multi-factor authentication set up and usage for Veterans with severe cognitive disabilities, those who are not well digitally connected or those who are unhoused.
 
 ### OCTO Objectives 
 
@@ -152,16 +151,16 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
+* Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 1 hour
+* Buffer time between sessions: 30 minutes
+* Maximum sessions per day: 3 sessions
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -170,12 +169,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
+- Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital)	
+- Research guide writing and task development (usually but not always same as moderator): Tyler Gindraux
+- Participant recruiting & screening: Tyler Gindraux
+- Project point of contact: Elizabeth Koch (Email: elizabeth@bluetiger.digital)
+- Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+- Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com)
+- Observers: 
+
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
