@@ -139,6 +139,9 @@ Veterans liked that the self-service option was available, but expressed hesitan
 - Many Veterans we talked to weren't aware that they were eligible for benefits for a long time, sometimes for decades. 
 - It seems as though the training and information Veterans receive while transitioning out of the military has improved in recent years. Participants who went through this process more recently generally spoke about receiving more information related to benefits than those who transitioned out earlier.
 - Some Veterans have a perception that their initial claim will always get denied, and that they will necessarily need to file a decision review. 
+- C&P exams also emerged as a pain point for Veterans. Some Veterans felt like the examiners weren't giving them their due diligence and were simply going through the motions conducting the exams.
+- Veterans wanted to be able to see more details and more frequent status updates in CST. They often felt like the claim was "stuck" in one place and they were getting no indication that it was progressing.
+- Access to medical records was a problem or many Veterans we talked to. Those who hadn't saved a copy of their medical records before transitioning out of the military had a much harder time filing claims and decision reviews. 
 
 
 ## Recommendations
@@ -159,8 +162,14 @@ _Next steps here. Include owners if appropriate._
 ## Further research needed
 
 - If we are interested in further examining whether Veterans prefer using VSOs to the self-service model, we should conduct more research on that and recruit larger numbers of Veterans who did not use VSOs to file their claims and decision reviews.
-- 
+- As noted in the [Hypotheses](#hypotheses-and-conclusions) section, it would be interesting to test more automated claims and reviews scenarios with Veterans to see if that alleviates the need to use representation in filing claims and decision reviews.
 
+## Blue sky: Areas of possible exploration
+Based on the findings, these are areas that seem ripe for design exploration.
+
+- How might we help Veterans find "good" VSOs and avoid "bad" VSOs? Could something like a VSO review system help with this?
+- How might we make CST feel more "alive" so that Veterans can tell their claim is being worked on, and it doesn't feel like the claim has been forgotten?
+- 
 
 ## Appendix
 
