@@ -1,35 +1,63 @@
-# Research Plan: Login.gov Adoption Team, Legacy Credential Migration, Grandfathering migration flow
-February 2023
+# Research Plan for Login.gov Adoption Team, Legacy Credential Migration, February 2023
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During discovery in December 2022, we defined different pathways for the migration.
 
-[Link to product brief](url goes here).
+This initiative focuses on moving select DS Logon users to Login.gov without the need to reverify their identities, through “grandfathering” or deferred identity proofing, as one of a few approaches to migration. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2.
+
+In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing (at a later date, if they choose to).
+
+As we review the effectiveness and usability of this grandfathering user flow, we will plan to run a few rounds of testing. After this round, we'll evaluate findings with the potential for a similar round of usability testing is we find major issues to correct and re-test. We will also round a distinct round of testing focused on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing.
+
+Besides this study, we also plan to run a related study that looks more closely at multi-factor authentication set up and usage for Veterans with severe cognitive disabilities, who are not well digitally connected or who are unhoused.
+
+[Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+* Veterans can manage their health services online.
+* Veterans and their families trust the security accuracy and relevancy of VA.gov.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Signing to securely access VA services can happen at any stage in the [Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). However, in the case of this migration pathway (grandfathering) we're particularly focused on the stages that occur later on in the journey. Other migration initiatives will focus on reaching Veterans who are just getting out and starting up, as they'll aim to help Veterans proactively set up Login.gov (instead of another credential service provider) from the start.
+
+In this case, Veterans will have set up a DS Logon account at some stage in the past. In order for Veterans to not lose access to their information and benefits when DS Logon is sunset by the VA, we need to ensure there is a clear and technically-feasible pathway for migration.
+
+These stages include:
+* Taking care of myself
+* Putting down roots
+* Retiring
+* Aging
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The key goals of this study are to:
+1. Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue.
+2. Review whether Veterans understand the type of account they've set up and its limitations. 
+3. Review whether Veteran know where to get help or what they will do if they encounter an issue during or after account setup.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+This research will validate the suggested user flow for Veterans to migrate their accounts to Login.gov through grandfathering or deferred identity proofing. We will aim to find solutions to any issues surfaced. Where there are recommendations we can make to the Login.gov flow, we will raise these to our partners.
+
+Additionally, we’re planning to run this usability study in production with the tool hidden behind a feature flag, so this will allow us to recruit folks who use assistive technology.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
+* Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
+* How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
+* Can Veterans successfully initiate the account setup flow?
+* Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
+* Can Veterans successfully return back to the VA after setting up their account?
+* Do Veterans understand they are now signed into Login.gov?
+
+Review whether Veterans understand what type of account they have set up with Login.gov and its limitations:
+* Do Veterans understand why they're being asked to set up a Login.gov account?
+* Do Veterans understand the type of Login.gov account they are being asked to set up?
+* Do Veterans understand that they should now stop using DS Logon and use Login.gov to sign in moving forward?
+* Are Veterans motivated to upgrade to an IAL2 Login.gov account at a later date, why or why not?
+
+Review whether Veteran know where to get help or what they will do if they encounter an issue during or after account setup.
+* What will Veterans do first if they encounter an issue?
+* Do Veterans know where or how to get help if they encounter an issue?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
