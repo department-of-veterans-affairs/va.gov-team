@@ -157,10 +157,11 @@ Veterans liked that the self-service option was available, but expressed hesitan
    * To address the pain point of evidence gathering and initial claim denial based on insufficient evidence, can we provide more information to Veterans before they start the process so that they are better able to gather the supporting evidence they need?
 
 ## Next Steps
-- Explore design changes to CST that incorporate the above recommendations. 
-- Share findings with the sitewide team, and explore design changes with them to Decision Review Options page and other pages to incorporate above recommendations.
-- Share findings with team working on 526 EZ to explore design changes to incorporate above recommendations.
-- Conduct research with claims processors at field offices to explore how decision reviews on VA.gov could better set Veterans up for success.
+- Conduct further research on initial claims to determine how CST can better help Veterans with some of the pain points identified above.
+- Conduct further research with claims processors to explore how decision reviews UI on VA.gov could better set Veterans up for success.
+- Explore design changes to CST to make it more detailed and feel more "active". 
+- Share findings with the sitewide team, and explore design changes to Decision Review Options page and other pages to incorporate above recommendations.
+- Share findings with other teams working in the Benefits space so that they can make use of the findings and we can collaborate on the above recommendations. 
 
 
 ## Further research needed
