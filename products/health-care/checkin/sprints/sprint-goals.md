@@ -17,8 +17,7 @@ ________________________________________________________________________________
 
 #### Planned Releases 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - Staging Review is on 2/7
-   - Release if no "must" feedback received from staging review
+   - Staging Review complete; release when ready   
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - Release when complete
 - [Move Action Link on Pre-Check-in Intro Page & Perform A/B Test](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
@@ -26,7 +25,9 @@ ________________________________________________________________________________
 
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report using the new method discussed**
-   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)      
+   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)   
+- **GOAL: Determine how we might do a path/funnel analysis for Pre-Check-in & Check-in**
+   - [[SPIKE] Determine how we might do a cross product veteran path analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53232)
 
 #### UX Sprint Goals 
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
@@ -62,6 +63,7 @@ ________________________________________________________________________________
    - **GOAL: Fix bugs**
        - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
        - [Bug: Link is wrong for "Go to AccessVA travel claim portal now"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53183)
+       - [Check info box links on confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53189)
        - [Visual bugs identified during travel reimbursement testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52998)
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
@@ -75,6 +77,7 @@ ________________________________________________________________________________
       - [[FE] Perform Accessibility Testing and Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52908)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - **GOAL: Complete the implementation**
+      - [[BE] Report 404 to front end when refresh-precheckin returns 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53166)
       - [[FE] New Message for Expired Link for Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492)
       - [[FE] New Message for Expired Link on Day-of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
    - **GOAL: Release to production**
@@ -132,7 +135,7 @@ ________________________________________________________________________________
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)  
    - **GOAL: Finalize wireframes for last few changes**
       - DONE [Create wireframe to Move icon inside the card](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52106)
-      - NOT DONE [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
+      - DONE [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
       - DONE [For pre-check-in, add in appt instructions into confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51702)
    - **GOAL: Prepare for the release**
       - NOT DONE [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
