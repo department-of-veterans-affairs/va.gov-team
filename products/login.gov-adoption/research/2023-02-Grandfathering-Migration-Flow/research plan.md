@@ -1,4 +1,5 @@
-# Research Plan for Login.gov Adoption Team, Legacy Credential Migration, February 2023
+# Research Plan: Login.gov Adoption Team, Legacy Credential Migration, Grandfathering migration flow
+February 2023
 
 ## Background
 Briefly describe the background of your product. Consider:
