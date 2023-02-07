@@ -134,6 +134,13 @@ Samara is working with MHV and VA Profile to get VA Profile to support the MHV n
 
 Samara's maternity leave!! I'll be out most of this quarter.
 
+### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
+
+- **OCTO objective**: Enhance Veterans' personalized online experience
+- **Team objective**: Scale onsite notifications
+
+For Q2, our goals are to launch the notifications work we started in Q1 CY2023, complete notification center discovery, and to start putting the new notification design through collab cycle/build. In addition, if there are appropriate notifications to add as onsite notifications, we can start/compelte this work as time and need allows.
+
 #### Profile
 
 Potential work:
