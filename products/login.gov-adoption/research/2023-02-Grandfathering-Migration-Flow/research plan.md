@@ -35,7 +35,7 @@ The key goals of this study are to:
 ### Outcome
 This research will validate the suggested user flow for Veterans to migrate their accounts to Login.gov through grandfathering or deferred identity proofing. We will aim to find solutions to any issues surfaced. Where there are recommendations we can make to the Login.gov flow, we will raise these to our partners.
 
-Additionally, we’re planning to run this usability study in production with the tool hidden behind a feature flag, so this will allow us to recruit folks who use assistive technology.
+Additionally, we will use this research to inform a built prototype which we will test with Veterans again, including screen reader users.
 
 ### Research questions
 Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
@@ -57,22 +57,13 @@ Review whether Veteran know where to get help or what they will do if they encou
 * Do Veterans know where or how to get help if they encounter an issue?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- What do you think users will do or think about this product?
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
-## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
+## Methodology
 - Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+- Semi-structured interviews - appropriate for generative research
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -83,39 +74,19 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote on Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
+- [Link to screen questions]
+- [Link to email to send participants ahead of the session]
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
@@ -131,7 +102,7 @@ Pro tip:
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+We aim to recruit at least 10 Veterans for this study.
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -150,12 +121,13 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
+
 * Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: February 6-10, 2023 (TBC)
 
 ### Length of sessions
 * Session length: 1 hour
