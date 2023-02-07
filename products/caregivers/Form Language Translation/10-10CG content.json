@@ -14,7 +14,7 @@
 "Health insurance information for the Primary Family Caregiver"
 "Veteran’s Social Security number (SSN) or tax identification number (TIN)"
 "What if I don’t want to put my SSN or TIN in the application?"
-"We only require your SSN or TIN if you apply online. If you want to apply without putting this information in your application, you can apply by mail or in person.
+"We only require your SSN or TIN if you apply online. If you want to apply without putting this information in your application, you can apply by mail or in person."
 "Get instructions for how to apply for the PCAFC program by mail or in person"
 "Note: If you’re a legal representative who can make medical decisions for the Veteran, you can sign this application for them. You’ll need to upload proof of your legal authority to make medical decisions for the Veteran. This type of document is sometimes called a medical proxy or medical power of attorney."
 "What if I have questions or need help filling out the form?"
@@ -68,7 +68,7 @@
 "Please enter a Social Security or tax identification number"
 "Why is this required?"
 "We need the Veteran’s Social Security number or tax identification number to process the application when it’s submitted online, but it’s not a requirement to apply for the program."
-"Veteran’s date of birth (*Required)”
+"Veteran’s date of birth (*Required)"
 "Month"
 "Day"
 "Year"
@@ -129,7 +129,7 @@
 "Step 2 of 5: Primary Family Caregiver applicant information"
 "Would you like to apply for benefits for a Primary Family Caregiver?(*Required)"
 "Learn more about who qualifies as a Primary Family Caregiver"
-"Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran. 
+"Family caregivers are approved and designated by VA as Primary Family Caregivers and Secondary Family Caregivers to provide personal care services. A Primary Family Caregiver is the main caregiver for the eligible Veteran."
 "They can be the Veteran’s:"
 "Parent"
 "Spouse" 
@@ -421,9 +421,7 @@
 "Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process."
 "Your application information"
 "Veteran’s Name"
-{Name}
 "Date you applied"
-{Date}
 "Confirmation for your records"
 "You can print this confirmation page for your records.  You can also download your completed application as a PDF."
 "Print this page"
@@ -437,11 +435,10 @@
 "Connect with a Caregiver Support Coordinator. Our coordinators can answer questions about your application. They can also tell you more about programs and services for caregivers."
 "Find your local Caregiver Support Coordinator"
 "Or call us at 855-260-3274. We’re here Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 5:00 p.m. ET."
-"Learn more about caregiver support”"
+"Learn more about caregiver support"
 
 
 
-{Errors}
 
 
 "We didn’t receive your online application"
@@ -453,7 +450,7 @@
    "Health Eligibility Center"
    "2957 Clairmont Road NE, Ste 200"
    "Atlanta, GA 30329-1647"
-"If you have trouble downloading your application, call our VA.gov help desk at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.”
+"If you have trouble downloading your application, call our VA.gov help desk at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET."
    "Download your completed application (PDF)"
 
 
