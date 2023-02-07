@@ -25,9 +25,9 @@
           - Health
           - Benefits ( our team is here - focusing in claimant experience)
           - Digital experience
-- How do you want to see this team function? Anything specific that was not happening before that we should do or vice-versa? - in the kick-off
-- Fresh initiative
-- Review old reserach but start validating it and new research
+- How do you want to see this team function? Anything specific that was not happening before that we should do or vice-versa? - Will be addressed in the kick-off
+- Fresh initiative (Supplemental claims are no longer the first goal; they are being handled by another team)
+- Review old reserach but start validating it and plan new research
 - Stakeholders
       - Business - Compensation service- administers benefits in VBA
 
