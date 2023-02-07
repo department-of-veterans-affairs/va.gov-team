@@ -187,7 +187,7 @@ Veterans liked that the self-service option was available, but expressed hesitan
 - If we are interested in further examining whether Veterans prefer using VSOs to the self-service model, we should conduct more research on that and recruit larger numbers of Veterans who did not use VSOs to file their claims and decision reviews.
 - As noted in the [Hypotheses](#hypotheses-and-conclusions) section, it would be interesting to test more automated claims and reviews scenarios with Veterans to see if that alleviates the need to use representation in filing claims and decision reviews.
 
-## Areas of exploration
+## Future exploration
 Based on the findings, these are good candidates for future design explorations.
 
 - How might we help Veterans find "good" VSOs and avoid "bad" VSOs? Could something like a VSO review system help with this?
