@@ -4,7 +4,7 @@ Please log key Health Issues decisions related to the below practice areas, incl
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|2-07-2023     | Dr. Lorraine Josephs              | If there are differences between data in Blue Button and VA Health Summary, we should display the Health Summary data on the page.                        | It is based off CCD standards, and likely more in line with how Cerner will represent data.          |
+|02/07/2023     | Dr. Lorraine Josephs              | If there are differences between data in Blue Button and VA Health Summary, we should display the Health Summary data on the page.                        | It is based off CCD standards, and likely more in line with how Cerner will represent data.          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
