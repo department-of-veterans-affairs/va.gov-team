@@ -8,10 +8,10 @@ This initiative focuses on moving select DS Logon users to Login.gov without the
 These Veterans will have the option of identity proofing (at a later date, if they choose to) in order to receive an IAL2 Login.gov account that gives them access to other government services, too.
 
 ## Research Goals
-1. Review whether Veterans can get through the user flow and successfully create an IAL1 Login.gov account without support.
+1. Review whether Veterans, including those who use screen magnification, can get through the user flow and successfully create an IAL1 Login.gov account without issues.
 2. Review whether Veterans understand where they can get help if they encounter an issue.
 3. Review whether Veterans understand what type of account they have set up with Login.gov, and its limitations.
-4. Review whether Veterans who use screen magnification are able to complete the flow without encountering usability issues.
+4. Review whether Veterans understand that they should stop using DS Logon and use Login.gov to sign in moving forward.
 5. Understand what will motivate Veterans to upgrade to an IAL2 account at a later date.
 
 ## Recruitment
