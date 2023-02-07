@@ -1,4 +1,4 @@
-# Decision Reviews Research Findings 
+# Decision Reviews Research Findings (WIP)
 
 **Benefits Team 1, Squad 1**
 
@@ -176,11 +176,9 @@ Based on the findings, these are good candidates for future design explorations.
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
 
 
 ## Tools used for Synthesis
@@ -195,7 +193,7 @@ Based on the findings, these are good candidates for future design explorations.
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+WIP
 
 
 ## Who we talked to 
