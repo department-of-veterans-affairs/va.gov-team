@@ -8,15 +8,15 @@ assignees: ''
 ---
 
 # Instructions
-Fill out Details of need and the PRs related to OOB sections below.
+Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
 
 ## PRs Related to OOB
-- Please provide the list of PRs related to the need for this OOB Deploy
+- Please provide the list of PRs related to the need for this OOB Deploy below:
    > PR?????
 
 ## Active Daily Users Impacted
 - How many active users are impacted at this time and day.
->  
+   >  
 ## Has fix been confirmed in Staging?
 - [ ] Yes
 - [ ] No
@@ -26,15 +26,19 @@ Fill out Details of need and the PRs related to OOB sections below.
    > Add Details Here ... 
    
 ## Verify The following
- - [ ] The OOB Deploy Requests is after the 2pm EST cutoff for regular deploy - [Deployment Policy](https://vfs.atlassian.net/wiki/spaces/SUP/pages/1279787009/Deployment+Policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html)
- - [ ] The OOB Deploy Requests is critial and must be resolved before the next automated deploy.
+ - [ ] The OOB Deploy Request is after the 2pm EST cutoff for regular deploy.[^1] 
+ - [ ] The OOB Deploy Request is critical and must be resolved before the next automated deploy.
+ - [ ] You are prepared to create an Incident Post Mortem[^2] within two business days.
 
-*Performed by Platform SRE team*
+[^1]: (See [Deployment Policy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html)
+[^2]: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems
+
+
+*Performed by Platform Support Team*
  - [ ] PagerDuty OOB Deploy Incident Opened
- - [ ] OCTO-DE staff acknowledgment of Request
- - [ ] Notification is posted in the appropiate Slack support and team Channels
+ - [ ] OCTO-DE staff acknowledgment of Request, via `/pd trigger`
+ - [ ] Notification is posted in the appropriate Slack support and team Channels
  - [ ] Infrastructure/Operations has acknowledge the Requests
  - [ ] Security Team has Reviewed the requests
- - [ ] An Incident Post Mortem is created within two business days
 
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support
