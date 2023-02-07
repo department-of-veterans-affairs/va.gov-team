@@ -146,17 +146,20 @@ Veterans liked that the self-service option was available, but expressed hesitan
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+**1. Make it easier for Veterans to find and connect with an accredited VSO from the CST and other VA.gov decision review pages.**
+   * The value of a good VSO was clear in this research. We should build on the existing VA.gov features that allow Veterans to connect with an accredited representative should they need it, as an "escape hatch" for users who feel overwhelmed and discouraged by the idea of filing decision reviews themselves.
+ 
+**2. Consider updating the Decision Review Options page to be more tailored and personalized to a signed-in Veteran's situation. *
+   * Explore opportunities to provide more relevant, tailored advice on this page so improve the chances that Veterans make the right choice when pursuing decision reviews.
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+**3. Help Veterans better understand what evidence they will need up-front when filing a claim or decision review. 
+   * To address the pain point of evidence gathering and initial claim denial based on insufficient evidence, can we provide more information to Veterans before they start the process so that they are better able to gather the supporting evidence they need?
 
 ## Next Steps
-
-_Next steps here. Include owners if appropriate._
+- Explore design changes to CST that incorporate the above recommendations. 
+- Share findings with the sitewide team, and explore design changes with them to Decision Review Options page and other pages to incorporate above recommendations.
+- Share findings with team working on 526 EZ to explore design changes to incorporate above recommendations.
+- Conduct research with claims processors at field offices to explore how decision reviews on VA.gov could better set Veterans up for success.
 
 
 ## Further research needed
@@ -164,12 +167,11 @@ _Next steps here. Include owners if appropriate._
 - If we are interested in further examining whether Veterans prefer using VSOs to the self-service model, we should conduct more research on that and recruit larger numbers of Veterans who did not use VSOs to file their claims and decision reviews.
 - As noted in the [Hypotheses](#hypotheses-and-conclusions) section, it would be interesting to test more automated claims and reviews scenarios with Veterans to see if that alleviates the need to use representation in filing claims and decision reviews.
 
-## Blue sky: Areas of possible exploration
-Based on the findings, these are areas that seem ripe for design exploration.
+## Areas of exploration
+Based on the findings, these are good candidates for future design explorations.
 
 - How might we help Veterans find "good" VSOs and avoid "bad" VSOs? Could something like a VSO review system help with this?
 - How might we make CST feel more "alive" so that Veterans can tell their claim is being worked on, and it doesn't feel like the claim has been forgotten?
-- 
 
 ## Appendix
 
