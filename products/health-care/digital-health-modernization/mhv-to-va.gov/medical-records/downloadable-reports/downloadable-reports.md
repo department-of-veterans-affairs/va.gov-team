@@ -111,7 +111,8 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 - Will the option for sending VA Health Summary through a Direct Address via VHIE still be provided?
 - Is it necessary to have user documentation if our testing finds that the tools are intuitive?
 - What options are available for customizing the layout of each of these reports?
-- Who do we need to get feedback from?
+- Who do we need to get feedback from? 
+   - Dr. Lorainne Josephs, Dr. Neil Evans, Theresa Hancock
 
 ## Change Log
 
@@ -119,7 +120,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2023-02-06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                          |
 | 2023-02-07      |Coulton Bunney    | Reorganized and started requirements section|
-|                 |                  |                                                                                                                     |
+| 2023-02-07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                              |
 
 # Appendix
 
