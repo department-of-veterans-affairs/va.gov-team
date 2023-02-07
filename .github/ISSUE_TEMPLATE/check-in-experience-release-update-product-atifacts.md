@@ -19,5 +19,5 @@ Update various product artifacts, as necessary, based on the feature release.
 ## Acceptance Criteria
 - [ ] Product Guides are up-to-date and ready to be published to Git
 - [ ] ALL screenshots are of the highest quality possible
-- [ ] [User flow diagrams are up-to-date](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm) and ready to be pushed to production
-- [ ] R&D articles are up-to-date
+- [ ] [User flow diagrams are up-to-date](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm) and ready to be merged in Abstract and pushed to sketch cloud
+- [ ] R&D articles are up-to-date (or scheduled for publishing)
