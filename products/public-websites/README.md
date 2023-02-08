@@ -26,12 +26,13 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
 | [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [FAQ Page](#faq-page) | [Offices](#offices) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) |  | [“How to apply” wizards](#how-to-apply-wizards) |
-| [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [React widgets governance](#react-widgets-governance)|| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
-| [Q&A - single](#qa---single) | [On-site search (using search.gov)](#on-site-search-using-searchgov) |  . |
-| [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
-| [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Full-width Alert](#full-width-alert) | [VA.gov Homepage](#vagov-homepage) | [React widgets governance](#react-widgets-governance)|
+| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | .  |
+| [Q&A - single](#qa---single) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  . |
+| [Resources & Support detail page](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
+| . | Yellow-ribbon tool | . |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
