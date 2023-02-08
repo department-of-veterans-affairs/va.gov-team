@@ -25,7 +25,7 @@
   - design
 - Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451)
 - Get access to VA mural space - poc - Matt Self?
-- Figma/sketch?
+
 
 ## VA Benefits Orientation 
 
