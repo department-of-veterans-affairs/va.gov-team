@@ -228,7 +228,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: Elisa Hallberg [elisa@coforma.io](dan@coforma.io)
+* Pilot participant email: Elisa Hallberg [elisa@coforma.io](elisa@coforma.io)
 * Observer: [Sade Ragsdale](sade@coforma.io)
 * Date and time of pilot session: 10 AM ET 2/16
 
@@ -251,10 +251,10 @@ Friday 8-6
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
-- Moderator: Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io)
+- Moderator: Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io), Eva Floyd [eva@coforma.io](eva@coforma.io)
 - Research guide writing and task development: [Eileen Chi](eileen.chi@coforma.io)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: [Eileen Chi](eileen.chi@coforma.io)	
-- Participant(s) for pilot test: Elisa Hallberg [elisa@coforma.io](dan@coforma.io)	
+- Participant(s) for pilot test: Elisa Hallberg [elisa@coforma.io](elisa@coforma.io)	
 - Note-takers: 
 - Observers: Sade Ragsdale [sade@coforma.io](sade@coforma.io), Gary Homidas [gary.homidas@adhocteam.us](gary.homidas@adhocteam.us), Matt Self [matthewself.dsva@gmail.com](matthewself.dsva@gmail.com), Katherine Fung [k.fung@bloomworks.digital](k.fung@bloomworks.digital), Sarah Shields [sarah.shields@coforma.io](sarah.shields@coforma.io)
