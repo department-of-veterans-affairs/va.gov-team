@@ -164,6 +164,7 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 - Can we or should we redesign BB PDFs to be consistent with the view experience of the same note and with Health Summary? 
 - Is there any information that users have access to for notes via BB or Health Summary that we cannot display in HTML?
 - Can users understand which note to click into from the list view to find what they are looking for?
+- Are there note types we have not accounted for that must be included? Do their fields differ from what we have included above? 
 
 ## Relevant links
 
