@@ -51,7 +51,7 @@ Home > My Health > Health history > Vitals
   - Pain
 
 ### List view
-
+- At the top of the page, a user should be able to quickly learn about disclaimers about this domain.
 - A user should be able to see a list of vital sign categories, listed alphabetically. 
 - A user should be able to click into each category to see a historical list of readings
 - Each entry should include
@@ -102,7 +102,8 @@ _Findings:_
 
 ## Questions to answer
 - Would "flags" for significant changes in vitals be a good feature for vitals? (Similar to Labs/ tests)
-
+- Do users understand that Vitals is part of health history?
+- Do users understand that the list view shows a list of all vital categories and clicking in shows a trend for that category?
 
 ## Change Log
 
