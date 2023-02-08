@@ -1,6 +1,9 @@
 # Login.gov Adoption Team: Research overview
 <br>
 
+Created by: @tygindraux
+Last updated: February 8, 2023
+
 |Product|Study|Type of Research|Date|
 |:--|:--|:--|:--|
 |All|[Login.gov Adoption Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research)|Discovery (Generative)|Oct-Dec 2022|
