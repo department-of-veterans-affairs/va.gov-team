@@ -47,6 +47,7 @@
 - A user should be able to print and download (PDF and TXT) their vaccines in different ways: 
   - Multiple entries of the same vaccine
   - Vaccines that they received in a certain time range
+- A user should be informed when their vaccines are expired or over due. 
 
 ## Lab and test results
 **Includes** 
