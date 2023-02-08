@@ -80,12 +80,12 @@ This usability study will be conducted remotely on Zoom. We will test on both mo
 
 ### Research materials
 
-- [Link to conversation guide](url)
-- [Link to Sketch prototype](url)
+- [Need to add link to conversation guide](url)
+- [Need to add link to Sketch prototype](url)
 	
 ## Recruitment	
 
-* Tyler will reach out to Shane as he’s testing new guidance for this section.*
+*Tyler is reaching out to Shane as he’s testing new guidance for this section.*
 
 Before defining our recruitment strategy, we reviewed:
 * [Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md)
@@ -146,15 +146,15 @@ In addition to demographic and device questions, we’ve provided the following 
 |Before February 21|Submit prototype for Midpoint Review|
 |Before February 27|Submit artifacts for Research Review|
 |Before March 3|Prototype is ready|
-|March 6-10|Pilot session [UPDATE]|
+|March 6-10|Pilot session [Need to update]|
 |March 13-17|Research sessions|
 |March 20-22|Analysis|
 |March 22-24|Share findings|
 
 ### Pilot session
 
-* Pilot participant email: [UPDATE]
-* Date and time of pilot session: March 6-10 [UPDATE]
+* Pilot participant email: [Need to update]
+* Date and time of pilot session: March 6-10 [Need to update]
 
 ### Research sessions
 
@@ -166,7 +166,7 @@ In addition to demographic and device questions, we’ve provided the following 
 
 ### Availability
 
-We’re providing the following time slots (20 total) with the aim to book 10 sessions:
+We’re providing the following time slots (20 total) with the aim to book 15 sessions:
 
 |Date|Time slots (EST)|Number of options per day|
 |*--|*--|*--|
