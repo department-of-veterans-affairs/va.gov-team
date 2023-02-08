@@ -7,11 +7,12 @@ ________________________________________________________________________________
 ## 2/8/2023 - 2/21/2023 
 
 #### OVERALL GOALS
-- **GOAL: Explore latency solution for Travel**   
-- **GOAL: Finish work for & test the VAOS Compatability Work**
-- **GOAL: Complete & release the new message for expired links**
-- **GOAL: Complete & release the moving of the Pre-Check-in action link**
-- **GOAL: Create wireframes for Unifified CIE Option 3**
+- **ANALYTICS: Analyze VSignals & look into path analysis feasibility**   
+- **TRAVEL: Explore latency solution for Travel**   
+- **VAOS COMPATABILITY: Complete, test, & prepare to release**
+- **NEW MESSAGE FOR EXPIRED LINKS: Complete, test, & release**
+- **MOVE PRE-CHECK-IN ACTION LINK: Complete, test, & release**
+- **UNIFIED CIE: Create wireframes to test with Vets**
 
 #### Planned Releases 
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
@@ -26,11 +27,9 @@ ________________________________________________________________________________
    - [[SPIKE] Determine how we might do a cross product veteran path analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53232)
 
 #### UX Sprint Goals 
-- [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
-   - **GOAL: Release**
-      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52065)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-   - [Develop Idea & User Flow for Texting Veteran when Claim Response is Delayed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53330)
+   - **GOAL: Explore BTSSS latency solution**
+      - [Develop Idea & User Flow for Texting Veteran when Claim Response is Delayed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53330)
    - [SPIKE: Determine if messages need to be reprioritized on not eligible, confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53253)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)      
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
@@ -95,6 +94,7 @@ ________________________________________________________________________________
    - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
       - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
    - **GOAL: Complete as many of these as fits in the sprint**
+      - [[SPIKE] [FE] Improve testing and validation with staging and screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50989)
       - [[FE] Surface initiate (pre-)checkin errors to end user](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52973)
 
 
