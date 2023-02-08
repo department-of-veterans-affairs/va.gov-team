@@ -64,6 +64,4 @@ No UAT was needed because no scenarios were changed that can only be tested with
 
 ### What are we monitoring?
 
-[Firebase success events](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0&r=top-events&ruid=BFA0B975-82E6-4C3B-AD42-ED07A0C253C2&collectionId=3022309925)
-
-[% of users on older versions](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..selmet%3D%5B%22activeUsers%22%5D%26_r.explorerCard..seldim%3D%5B%22appVersion%22%5D&r=user-technology-detail&collectionId=user)
+See details in [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/encouraged-update/encouraged-update-product-brief.md#measuring-success)
