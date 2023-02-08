@@ -1,4 +1,4 @@
-# Decision Reviews Research Findings (WIP)
+# Decision Reviews Research Findings
 
 **Benefits Team 1, Squad 1**
 
