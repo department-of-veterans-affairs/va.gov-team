@@ -2,7 +2,7 @@
 
 ## Frontend Code
 
-Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/appeals/10182
+Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/appeals/10182
 
 ## Decisions of note
 
@@ -92,13 +92,13 @@ Our backend gets this data from ([`/v0/notice_of_disagreement/contestable_issues
 }
 ```
 
-The issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/submit.js#L66), contestable issues loaded from the API are filtered out:
+The issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/10182/utils/submit.js#L66), contestable issues loaded from the API are filtered out:
 - Empty `ratingIssueSubjectText` entries (see [Slack](https://dsva.slack.com/archives/CSKKUL36K/p1623956682119300?thread_ts=1623863323.111700&cid=CSKKUL36K))
 - If they contain the word `deferred` in either the `ratingIssueSubjectText` or `description` as these issues are no longer eligible.
 - Have a `approxDecisionDate` greater than one year in the past.
 - Lighthouse is removing the ["Granted: {your issue} is denied" entries](https://dsva.slack.com/archives/CSKKUL36K/p1623863323111700).
 
-Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/helpers.js#L97):
+Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/10182/utils/helpers.js#L97):
 - Filters out issues with no `ratingIssueSubjectText`
 - Sorts the list by newest date first, then by title if the dates are equal
 
