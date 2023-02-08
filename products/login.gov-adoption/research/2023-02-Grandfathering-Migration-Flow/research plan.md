@@ -147,25 +147,25 @@ In addition to demographic and device questions, we’ve provided the following 
 |Before February 21|Submit prototype for Midpoint Review|
 |Before February 27|Submit artifacts for Research Review|
 |Before March 3|Prototype is ready|
-|March 6-10|Pilot session [Need to update]|
+|March 6-10|Pilot session [Need to update with details]|
 |March 13-17|Research sessions|
 |March 20-22|Analysis|
 |March 22-24|Share findings|
 
 ### Pilot session
 
-* Pilot participant email: [Need to update]
-* Date and time of pilot session: March 6-10 [Need to update]
+* Pilot participant email: [Need to update with details]
+* Date and time of pilot session: March 6-10 [Need to update with details]
 
 ### Research sessions
 
-### Length of sessions
+#### Length of sessions
 
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 4 sessions
 
-### Availability
+#### Availability
 
 We’re providing the following time slots (20 total) with the aim to book 15 sessions:
 
@@ -177,7 +177,6 @@ We’re providing the following time slots (20 total) with the aim to book 15 se
 |Thursday, March 16th|8-9am, 1-2pm, 3-4pm, 5-6pm|4 options|
 |Friday, March 17th|8-9am, 10-11am, 12-1pm, 2-3pm|4 options|
 
-	
 ## Team Roles
 
 Please list the people who will be serving in each role.
@@ -186,8 +185,8 @@ Please list the people who will be serving in each role.
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Elizabeth Koch (elizabeth@bluetiger.digital)
-* Participant(s) for pilot test: [UPDATE]
-* Accessibility specialist: [UPDATE]
+* Participant(s) for pilot test: [Need to update with details]
+* Accessibility specialist: [Need to update with details]
 * Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Anthony Levin-Decanini (anthony@themostudio.com)
 * Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com)
 
