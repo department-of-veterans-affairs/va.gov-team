@@ -79,7 +79,7 @@ The card sort did not cover specifics about Health Conditions.
 6. The VA Health Summary (a separate view/download option from Blue Button) also contains a problem list, which is displayed in a tabluar format.   [Screen shot of on-screen view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/problem-list-view-example.png) | [Downloaded VA Health Summary PDF example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/va-health-summary-example.pdf)
 7. The Problem list in the VA Health Summary incudes data from the user's date of birth until the date the report is generated.
 8. The VA Health Summary page supplies information about sending health information to CCD Direct Participating providers. [Screen shot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-summary-ccda-info.png)
-
+9. There are two different types of report available on MyHealtheVet that contain a list of health conditions  -- Blue Button reports and VA Health Summary reports.  We should look to VA Health Summary as the anchor for our data display.
 
 ## Relevant links
 
@@ -93,9 +93,10 @@ The card sort did not cover specifics about Health Conditions.
 
 ## Questions to answer
 
-- There are two different types of report available on MyHealtheVet that contain a list of health conditions  -- Blue Button reports and VA Health Summary reports.  Which should we use? Up to this point, we have anchored on the BB report list.
 - What data source should be used to display the Health Conditions list on a web page?  The Blue Button data source or the VA Health Summary data source? Please see the "Data Discrepancies" section below.
 - The Health Problems section should be visible to any logged in user with health benefits and a health record with the VA, and has navigated to the page where Health Problems information is located.  In MyHealth*e*Vet, users must also have a Premium account, but at the time of this writing, it is believed that the notion of Premium accounts is slated to be depricated. Is it still the case that Premium accounts will be depreciated before the new Health Portal launches? If so, what is the ETA for that? Otherwise, there will need to be copy that explains that a user must upgrade to access their health conditions list.
+- Do users understand that Health conditions is part of Health History?
+- Do users understand which entry in the list view to click into to find the condition they are looking to reference?
 
 ## Handling Data Discrepancies
 Where there are differences between BB and Health Summary, follow the data and descriptions of that data as they are represented in Health Summary.
