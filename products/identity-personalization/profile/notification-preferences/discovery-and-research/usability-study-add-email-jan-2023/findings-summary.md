@@ -142,7 +142,7 @@ Adding My HealtheVet notifications to our current page will nearly double the am
 We got some unexpected feedback from a low vision user who joined on a desktop device. They commented that the green background to the “update saved” alert, which extends the full width of the section, was a “waste of vision time” on desktop because there wasn’t anything on the right side.
 > “It would be better if the highlight didn’t go the full width of this thing and only highlighted the text. when I see it going the full width, I wonder what’s over there and it’s a waste of my vision time.”
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width=“400” />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width="400" />
 
 *Above: The input message pattern on desktop. The background color of the banner extended the full width of it’s container, even though the text is much shorter.*
 
