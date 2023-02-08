@@ -12,7 +12,7 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
   - [Engineering]()
   - [User Experience]()
   - [Support and incident response]()
-- [VAOS features](#vaos-features)()
+- [VAOS features](#vaos-features)
 - [VAOS team contact information]()
 
 ## About VAOS
