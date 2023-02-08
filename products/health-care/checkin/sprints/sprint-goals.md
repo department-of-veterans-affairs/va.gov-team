@@ -2,14 +2,12 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-************** BEGIN FUTURE 2/8/2023 - 2/21/2023 ************************
-
 ## 2/8/2023 - 2/21/2023 
 
 #### OVERALL GOALS
 - **ANALYTICS: Analyze VSignals & look into path analysis feasibility**   
 - **TRAVEL: Explore latency solution for Travel**   
-- **VAOS COMPATABILITY: Complete, test, & prepare to release**
+- **VAOS COMPATABILITY: Complete, test, & prepare for Staging Review**
 - **NEW MESSAGE FOR EXPIRED LINKS: Complete, test, & release**
 - **MOVE PRE-CHECK-IN ACTION LINK: Complete, test, & release**
 - **UNIFIED CIE: Create wireframes to test with Vets**
@@ -35,12 +33,12 @@ ________________________________________________________________________________
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)      
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - [Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)
-   - **GOAL: Prepare for release**
+   - **GOAL: Prepare for Staging Review**
+      - [Update Wireframes to remove reason for visit fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53269) 
       - Schedule Staging Review
       - [Implement & Track Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51109)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - **GOAL: Prepare for Release**
-      - [Update Wireframes to remove reason for visit fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53269) 
       - [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52395)
       - [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52394)
    - **GOAL: Release to production**
@@ -65,11 +63,9 @@ ________________________________________________________________________________
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315) 
    - **GOAL: Complete remaining feature requirements**          
-      - [[FE] Active Appointment Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52131)
       - [[FE] Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
       - [Refactor appointmentActionVaos component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53050)
-   - **GOAL: Prepare for release**
-      - Schedule Staging Review
+   - **GOAL: Prepare for Staging Review**
       - [[FE] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52907)
       - [[FE] Perform Accessibility Testing and Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52908)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
@@ -97,9 +93,6 @@ ________________________________________________________________________________
    - **GOAL: Complete as many of these as fits in the sprint**
       - [[SPIKE] [FE] Improve testing and validation with staging and screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50989)
       - [[FE] Surface initiate (pre-)checkin errors to end user](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52973)
-
-
-************** END FUTURE 2/8/2023 - 2/21/2023 ************************
 
 ## 1/25/2023 - 2/7/2023 
 
