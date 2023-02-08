@@ -5,9 +5,7 @@ There are currently multiple ways to sign in and access VA services. These sign 
 
 This initiative focuses on moving select DS Logon users to Login.gov without the need to reverify their identities, through “grandfathering” or deferred identity proofing, as one of a few approaches to migration. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date.
 
-We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing where necessary (after changes are made). We will also run a round of testing focused on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing.
-
-Besides this study, we also plan to run a related study that looks more closely at multi-factor authentication set up and usage for Veterans with severe cognitive disabilities, who are not well digitally connected or who are unhoused.
+We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing where necessary (after changes are made). We will also run a round of testing focused on accessibility, specifically with screen reader users using a coded prototype.
 
 ## Research Goals
 * Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue.
