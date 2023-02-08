@@ -1,7 +1,12 @@
 # va-online-scheduling
-* [README-V2.md](./va-online-scheduling/README-V2.md)
-* [vaos-fe-roadmap.md](./va-online-scheduling/vaos-fe-roadmap.md)
-* [vaos-product-outline.md](./va-online-scheduling/vaos-product-outline.md)
+* [VA Online Scheduling Project Hub](./va-online-scheduling/README-V2.md)
+* [VAOS roadmap](./va-online-scheduling/vaos-fe-roadmap.md)
+* [VAOS product outline](./va-online-scheduling/vaos-product-outline.md)
+* NEW: Project contacts and background
+
+
+**Archive/Delete**
+
 
 ## [VAOS-FE-release/](./va-online-scheduling/VAOS-FE-release)
   * [deployment-process.md](./va-online-scheduling/VAOS-FE-release/deployment-process.md)
