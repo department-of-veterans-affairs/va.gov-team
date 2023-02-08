@@ -1,3 +1,27 @@
+# Medical Records Domain Briefs
+
+As part of the MHV on va.gov effort, OCTO conducted research to understand what would be needed to transition and modernize medical records.
+* From Sept-Oct 2022, discovery research was conducted with internal subject matter experts and stakeholders to better understand the current state of MHV and policies surrounding medical records. See discovery research report
+* From Nov-Dec 2022, generative research was conducted with Veterans to better understand how they perceive and use medical records in MHV. See generative research report
+
+Research to date
+* Medical records
+
+# Domain Briefs and Low-Fi Design Status
+|Domain                                    | Domain Brief    | Domain Brief Status | Low-Fi Design                    | Low-Fi Design Status | Requirements         | Requirements Status |
+|------------------------------------------|-----------------|---------------------|----------------------------------|----------------------|----------------------|---------------------|
+| Immunizations                          | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations)                              | Jonathan Nelson                  | Complete             |      |        |    
+| Labs and Tests                         | Marci McGuire   | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)     | Jonathan Nelson / Ryan Thurlwell | Complete             |Coulton Bunney, Jenny Wang |Complete    |    
+| Clinical notes                         | Jenny Yang      | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/notes)                                      | Ryan Thurlwell                   | Complete             |Coulton Bunney             |Complete    |    
+| Health Issues / Problem List           | Marci McGuire   | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)       | Jonathan Nelson                  | Complete          |Coulton Bunney, Jenny Wang |Complete    |    
+| Vitals                                 | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/vitals/vitals-brief.md)                     |Jonathan Nelson                   | Complete          |Coulton Bunney             |Complete    |    
+| Demographics                           | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/demographics/demographics-brief.md)         |                                  |                      |      |        |    
+| Allergies                              | Robyn Singleton | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)               |                Jonathan Nelson                  |           Complete          |Coulton Bunney      |Not started        |    
+| DoD Information                        | Marci McGuire   | [Field list complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/dod-info) need account with data |                                  |                      |      |        |    
+ [Printable Reports (Blue Button/Health Summary Reports pages) | Marci McGuire  | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/downloadable-reports)                   |                          Jonathan Nelson          |       In progress              |      |        |    
+
+
+
 # Medical Records Data Domains, alphabetical order
 - Admissions and discharges
 - [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
