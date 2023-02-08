@@ -74,7 +74,7 @@ Home > My Health > Health history > Vitals
 - The ability to view a graph of a particular category of vitals data over time (aka view trends)
 
 ### Sketch file
-https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/pWAK2A/p/078F7C93-6A8B-4937-9BD5-95F13F7E5965/canvas?posX=-1075.105674508015&posY=-1838.3009838665876&zoom=0.686612606048584
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/078F7C93-6A8B-4937-9BD5-95F13F7E5965/canvas
 
 ## Research to date
 **Findings from card sort**
