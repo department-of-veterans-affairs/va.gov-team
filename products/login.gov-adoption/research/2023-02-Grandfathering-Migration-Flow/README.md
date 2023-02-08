@@ -7,7 +7,7 @@ This initiative focuses on moving select DS Logon users to Login.gov without the
 
 In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing (at a later date, if they choose to).
 
-We run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing where necessary (after changes are made). We will also run a round of testing focused on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing.
+We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing where necessary (after changes are made). We will also run a round of testing focused on accessibility, specifically with screen reader users. This will be run separately so that we can wait for a coded prototype for testing.
 
 Besides this study, we also plan to run a related study that looks more closely at multi-factor authentication set up and usage for Veterans with severe cognitive disabilities, who are not well digitally connected or who are unhoused.
 
