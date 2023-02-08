@@ -4,16 +4,16 @@ The `ProfileInfoTable` is a wrapper component that takes an array of objects, an
 
 Currently used in 10 places within the Profile application. It is not used as a dependency on any other application.
 
-AccountSecurityContent
-AccountSecurityTables
-AddressesTable
-EmailInformationSection
-PhoneNumbersTable
-BankInfo
-PaymentHistory
-MilitaryInformation
-LegacyGenderAndDOBSection
-PersonalInformationSection
+- AccountSecurityContent
+- AccountSecurityTables
+- AddressesTable
+- EmailInformationSection
+- PhoneNumbersTable
+- BankInfo
+- PaymentHistory
+- MilitaryInformation
+- LegacyGenderAndDOBSection
+- PersonalInformationSection
 
 In each of these usages, the rendered UI always follows the same DOM structure.
 
