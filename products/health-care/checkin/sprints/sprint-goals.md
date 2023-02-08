@@ -7,9 +7,7 @@ ________________________________________________________________________________
 ## 2/8/2023 - 2/21/2023 
 
 #### OVERALL GOALS
-- **GOAL: Finish functional testing Travel**
-- **GOAL: Explore idea for handling BTSSS latency**
-- **GOAL: Release the Simplified Header & Footer**
+- **GOAL: Explore latency solution for Travel**   
 - **GOAL: Finish work for & test the VAOS Compatability Work**
 - **GOAL: Complete & release the new message for expired links**
 - **GOAL: Complete & release the moving of the Pre-Check-in action link**
