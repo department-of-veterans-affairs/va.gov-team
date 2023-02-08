@@ -13,6 +13,7 @@ ________________________________________________________________________________
 - **NEW MESSAGE FOR EXPIRED LINKS: Complete, test, & release**
 - **MOVE PRE-CHECK-IN ACTION LINK: Complete, test, & release**
 - **UNIFIED CIE: Create wireframes to test with Vets**
+- **HAND OFF FROM PCI TO DAY OF: Continue to develop an architectural design**
 
 #### Planned Releases 
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
