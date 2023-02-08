@@ -1,11 +1,17 @@
 # VA Online Scheduling
-
 VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
 
-[Other Veteran-facing appointments tools]()
+## Product vision
+Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online.
+
+## User Problem Statement
+A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
+
+[VAOS Product Outline](vaos-product-outline.md)
+[Other Veteran-facing appointments tools](../README.md)
 
 **Jump to**
-- [About VAOS]()
+
 - [What we're working on]()
 - [Quick links]()
   - [Product]()
@@ -15,11 +21,16 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 - [VAOS features](#vaos-features)
 - [VAOS team contact information]()
 
-## About VAOS
-[Product guide]()
-
 ## What we're working on
-[Current initiatives]()
+
+High-level overview of our current projects:
+- [Current initiatives]()
+- [Product roadmap]()
+
+[Main epics Zenhub board]()<br> 
+Rolls up tickets from two other boards: 
+* [Engineering board]() - Work currently being developed
+* [Product/design board]() - Product, design, and research
 
 ## VAOS General Reference
 
@@ -29,6 +40,14 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 - [Page templates]()
 - [User research]()
 - [Analytics]()
+
+## Other Documentation Spaces
+- [DSVA Mural]()
+- [Teams]()
+- [Figma]()
+- [Confluence]() (Requires VA network)
+
+
 
 ## Quick links
 
@@ -103,3 +122,46 @@ How Veterans can schedule or request appointments through VAOS
 | Direct-schedule or request appointment at VA  | | |
 | Direct-schedule COVID-19 vaccine at VA | | |
 | Request community care | | |
+
+
+## Team contact information
+
+Find team members and channels in the [DSVA Slack Space]().
+
+### Slack channels
+
+| Channel | Used for | 
+|---|---|
+| **#vaos-team** | Start here. Main channel for any general product, engineering, or design questions for VAOS front-end or backend teams. |
+| #vaos-engineering | VAOS engineering PPG channel. | 
+| #va-appointments-ux | User experience questions and coordination for VAOS, check-in, and mobile teams |
+
+### Team members
+
+
+**OCTO Product Owners**
+- Kay Lawyer
+- Patrick Bateman
+- Kristen McConnell
+
+**Program Management**
+- Katie Riddle
+
+**Product Management**
+- Jeff Roof (lead)
+- Leah De La Costa
+
+**User Experience**
+- Peter Russo (lead)
+- Ciera Maddox
+
+**Engineering**
+- Simi Adebowale (lead)
+- AJ Magdub
+- Corey Ferris
+- Ryan Shaw
+- Jennie McGibney
+- Tony Williams
+
+**QA**
+- Marcy Nadeau (lead)
