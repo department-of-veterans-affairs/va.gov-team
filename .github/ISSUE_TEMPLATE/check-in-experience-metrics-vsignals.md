@@ -1,3 +1,12 @@
+---
+name: Check In Experience VSignals Metrics Analysis
+about: Task to analyze VSignals data
+title: "[Research] Analyze VSignals Data"
+labels: HCE-Checkin, research, ux
+assignees: ''
+
+---
+
 ## Tasks
 - Analyze the VSignals spreadsheet on the VA network
 - Tag entries with the identified tags
