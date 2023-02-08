@@ -231,7 +231,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 10 AM ET 2/16
 
 ### Research sessions
-* Planned dates of research: 2/20-2/24
+* Planned dates of research: 2/21-2/24
 
 ### Length of sessions
 * Session length: 60 minutes
