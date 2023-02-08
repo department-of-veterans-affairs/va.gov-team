@@ -133,7 +133,7 @@ Home > My Health > Health history > Care summaries and notes
     - The search box can be collapsed to create real estate for the list view of notes. 
 
 ### Sketch file
-https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/7kbypw/p/2D083AD3-2552-47E5-947B-51762267B9F3/canvas?posX=-5144.862156811298&posY=-1450.3621396231047&zoom=0.19462840259075165
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/2D083AD3-2552-47E5-947B-51762267B9F3/canvas
 
 
 ## Research to date
