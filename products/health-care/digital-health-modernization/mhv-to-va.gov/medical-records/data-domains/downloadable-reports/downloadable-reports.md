@@ -1,6 +1,6 @@
 # Downloadable Reports: Domain Brief
 
-Last updated: February 7, 2023 | [Change Log](#change-log)
+Last updated: February 8, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
