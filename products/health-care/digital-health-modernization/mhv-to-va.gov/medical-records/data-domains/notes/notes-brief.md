@@ -75,6 +75,7 @@ Home > My Health > Health history > Care summaries and notes
 ### List view
 
 - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- At the top of the page, a user should be able to quickly learn about disclaimers about this domain.
 - A user should be able to see a list of all of their notes, ordered chronologically. 
 - Each entry should include the:
   - Note title
