@@ -1,8 +1,8 @@
 ---
 name: Check In Experience Task to Update Design Artifacts (e.g. Sketch files)
 about: For Updating Check In Experience Design Artifacts
-title: "[UX] Update Design Artifacts for Release"
-labels: HCE-Checkin, research, ux
+title: "[Design] Update Design Artifacts for Release"
+labels: HCE-Checkin, design
 assignees: ''
 
 ---
