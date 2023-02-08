@@ -36,12 +36,13 @@ ________________________________________________________________________________
       - [Metrics Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49895) 
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - [SPIKE: Determine if messages need to be reprioritized on not eligible, confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53253)
-- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)   
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)      
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
       - Schedule Staging Review
       - [[UX]Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
    - **GOAL: Prepare for Release**
+      - [[Design] Update Wireframes to remove reason for visit fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53269) 
       - [[UX] Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52395)
       - [[UX] Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52394)
    - **GOAL: Release to production**
@@ -61,18 +62,15 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Fix bugs**
-       - [Bug: Link is wrong for "Find the travel contact for your facility"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53184)
-       - [Bug: Link is wrong for "Go to AccessVA travel claim portal now"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53183)
-       - [Check info box links on confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53189)
-       - [Visual bugs identified during travel reimbursement testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52998)
+       - [Check/Fix Link & Visual Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53189)
    - **GOAL: Prepare for the release**
       - [Limit in Production to either a Station, Clinic, or Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52868)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315) 
-   - **GOAL: Complete remaining feature requirements**     
-      - Do we need a ticket to NOT show the 3 fields that we don't have?
+   - **GOAL: Complete remaining feature requirements**          
       - [[FE] Update Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52075)
       - [Refactor appointmentActionVaos component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53050)
    - **GOAL: Prepare for release**
+      - Schedule Staging Review
       - [[FE] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52907)
       - [[FE] Perform Accessibility Testing and Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52908)
 - [New Message for Expired Link: Pre-Check-in and Day of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
@@ -128,7 +126,7 @@ ________________________________________________________________________________
 - [Simplified VA Header & Footer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44181)
    - **GOAL: Prepare for the release**
       - DONE [Update Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52411)
-      - DONE[Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
+      - DONE [Update Product Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52066)
       - DONE [Update Design Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52067)
       - DONE Push out Staging Review
       - DONE Make sure [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48859) is complete
@@ -138,9 +136,8 @@ ________________________________________________________________________________
       - DONE [Create wireframe for check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52072)
       - DONE [For pre-check-in, add in appt instructions into confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/51702)
    - **GOAL: Prepare for the release**
-      - NOT DONE [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
-      - DONE [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)
-      - NOT DONE Schedule Staging Review (if we are ready)
+      - DONE [Update product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51692)
+      - DONE [Update design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52061)      
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Conduct brainstorming for Option 2**
       - DONE [Ideate and Create User Flows for Option 2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52482)
