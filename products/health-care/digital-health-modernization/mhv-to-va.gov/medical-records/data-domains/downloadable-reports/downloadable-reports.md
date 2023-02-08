@@ -40,7 +40,7 @@ What do people want to use their downloadable reports for?
 - To share health informaton with HCPs to ensure HCP understands their health history
 - To keep their own hard copy of their health information
 - To save their own digital copy of their health information
-- To take a digital copy of their health information to a HCP on a thumb drive or other storage device
+- To take a digital copy of their health information to a HCP on a thumb drive or other portable storage device
 
 ## Requirements
 
@@ -54,8 +54,8 @@ Home > My Health > Get a copy of your medical record > Manage your electronic me
 ### Blue Button Reports
 - We will continue to provide the ability to create and download Blue Button reports as these reports fill different needs for Veterans and contain different information than the Health Summary.
 - Once a Blue Button report has been generated, it can be viewed as a PDF or TXT file within an iframe, downloaded as a PDF or TXT file, or printed.
-- Users must be allowed to select the same types of data to include in their Blue Button report as they are on the MyHealtheVet site today.
-- The page that generates the Blue Button must present the last and most current generated reports, when they were generated, and links to view, print, or download them.
+- Users must be allowed to select the same types of data to include in their Blue Button report as they able to on the existing MyHealtheVet site.
+- The page that generates the Blue Button must present the last and most current generated reports, date and time they were generated, and links to view, print, or download them.
 - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
 - On top of the Download My Selected Data page, there should be information that tells a user: 
   - How to use the VA Blue Button Report [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf)
@@ -75,7 +75,7 @@ Home > My Health > Get a copy of your medical record > Manage your electronic me
       - VA medication history 
       - Medications and supplements, self-reported
       - All of the above
-    - Labs abd tests 
+    - Labs and tests 
       - VA laboratory results (available 36 hours after verification; COVID-19 results available immediately after receipt by VA)
       - VA pathology reports (available 36 hours after completion)
       - VA radiology reports (available 36 hours after completion)
@@ -123,26 +123,26 @@ Home > My Health > Get a copy of your medical record > Manage your electronic me
       - Department of defense military service information
 
 ### VA Health Summary Reports
-- We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
+- We will continue to provide the ability to create and download VA Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
 - Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
 - The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
 - On the VA Health Summary Download Results page, it should include: 
-  - VA health summary user guide [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf)
+  - VA Health Summary user guide [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf)
   - Learn more [link](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more)
   - What's in the VA health summary? [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf)
   - A list of files that are (not) ready to download: 
     - File contents
     - File name
-    - Request date
+    - Request date and time
     - Status (ready to download / Request being processed)
-    - I want to...(links to view or download in PDF, TXT, XML)
+    - I want to...(links to view or download in PDF, XML)
   - A user should be informed about downloading their VA Health Summary Report: 
-    - - Before a user gets to the download results page, there should be a plain language explaination on what VA Health Summary is and how a user can use it.  
+    - Before a user gets to the download results page, there should be a plain language explaination on what VA Health Summary is and how a user can use it.  
     - How to protect their information and identity [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
-    - The information in the health summary can be updated once each dat.
+    - The information in the health summary can be updated once each day.
     - You can cancel download anytime. 
     - All requests to download are tracked, so they can see these requests in account activity history. 
-  - A back button that allows a user to get back to the previous page. 
+  - A back button that allows a user to return to the previous page. 
 
 ## Research to date
 
@@ -200,11 +200,11 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 
 
 ## Questions to answer
-- How can we make the BB download page as efficient as possible?
-- How closely do users associate the more comprehensive health report with the Blue Button name/brand? Is there a more descriptive name?
-- Are users able to easily discern any differences between a My VA Summary report vs. a VA Blue Button report?
-- What information can we provide up front to help users quickly identify the type of report best fits their needs?  Examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
-- Is it necessary to have user documentation if our testing finds that the tools are intuitive?
+- How can we make the selectio process on the BB download page as efficient and intuitive as possible?
+- How closely do users associate the more comprehensive health report with the Blue Button name/brand? Is there a name that would be more intuitive?
+- Are users able to easily discern the differences between a My VA Summary report vs. a VA Blue Button report?
+- What information can we provide up front to help users quickly identify the type of report best fits their needs?  Possible examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
+- Is it necessary to have extensive user documentation if our usability testing finds that the tools are intuitive?
 - What options are available for customizing the layout of each of these reports?
 - Who do we need to get feedback from? 
    - Dr. Lorainne Josephs, Dr. Neil Evans, Theresa Hancock
@@ -242,18 +242,18 @@ This document describes the pages in the new health portal on VA.gov that will g
 - [VA My Health Summary Results Page](#5-va-my-health-summary-results-page)
 
 #### 1. Downloadable Reports Landing Page | [MyHealtheVet Screenshot](https://user-images.githubusercontent.com/69174644/217010319-28687c62-d1ca-4c95-a1ba-46243b88d565.png)
-This page provides the ability for the user to select which type of report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see the options.  
+This page provides the ability for the user to select which type of report they wish to generate.   It also provides a brief overview of each.  In the current MHV site, the description of the Blue Button Report on the landing page fails to point out that the report is highly customizable.  It is not until the user accesses the report generation page that they see customization options.
 
 ##### How this page and navigation differs from the MyHealth*e*Vet Download My Data landing page
 MyHealtheVet provides four primary links in the left navigation:
 - VA Blue Button Report
 - VA Health Summary
-- VA Medical Images and Reports 
-- Electronic Record Sharing Options
+- VA Medical Images and Reports* 
+- Electronic Record Sharing Options**
 
-The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by tree testing, card sorting exercises, and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
+\*The information archicture strategy for downloadable reports at the time of this writing is to make VA Medical Images and Reports a subset of Labs and Tests rather than a subset of downloadable reports (referred to as Download My Data on MyHealth*e*Vet).  This approach is supported by tree testing, card sorting exercises, and user interviews where users indicated that they expected to find imaging results and reports with their lab and test results.
 
-Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
+\*\*Electronic Record Sharing Options is a way to opt in or out of sharing one's electronic health record through the Veterans Health Information Exchange.   At the time of this writing, the information architecture strategy is to integrate this preference into the VA.gov Profile preferences, similar to Secure Messaging preferences, so that we can work toward encapsulating all user preferences in one place on VA.gov.
 
 In summary, the downloadable reports landing page in the new experience need only give options for generating VA Blue Button Report and VA Health Summary report pages. 
 
