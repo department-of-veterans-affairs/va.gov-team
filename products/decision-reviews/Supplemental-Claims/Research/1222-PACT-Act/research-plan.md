@@ -53,6 +53,8 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 ### Recruitment approach
 Our intended audience for this research is Veterans who have had their claims denied, and intend to file a Supplemental Claim or are in the process of going through a Supplemental Claim.
 
+https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/231
+
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
