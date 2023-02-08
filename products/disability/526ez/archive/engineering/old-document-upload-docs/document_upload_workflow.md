@@ -11,7 +11,7 @@ Create a document upload workflow that abstracts away the process of uploading, 
 Although vets.gov is moving many forms online the site often needs supporting scanned documents or the ability to send PDFs of our forms to other systems within the VA. Currently EVSS and disability claims documents are uploaded to AWS S3 via the CarrierWave gem. Pensions and Burials will require similar support. 
 
 **Below: A sequence diagram for the current flow for uploads to S3 -> external service**
-![Document Upload Sequence Diagram](./file_upload_sequence.png "Document Upload Sequence Diagram")
+![Document Upload Sequence Diagram](file_upload_sequence.png "Document Upload Sequence Diagram")
 
 ### High Level Design
 To allow for immediate user feedback file validation and upload confirmation is required syncronously. File manipulation is more expensive and should be offloaded to a background job. To allow for both modes of execution the upload workflow will be split into syncronous and asyncronous steps. 
@@ -22,7 +22,7 @@ Once a file is received it will be cached and a pre-storage virus scan will be p
 #### Asyncronous upload/post-upload processing
 To allow for background uploading, different post-upload processing workflows, and to simplify adding future jobs to a workflow, background jobs will be chained via a workflow runner.
 
-![Document Upload Activity Diagram](./file_upload_service_activity.png "Document Upload Activity Diagram")
+![Document Upload Activity Diagram](file_upload_service_activity.png "Document Upload Activity Diagram")
 **Above: An example workflow**
 
 ## Specifics
