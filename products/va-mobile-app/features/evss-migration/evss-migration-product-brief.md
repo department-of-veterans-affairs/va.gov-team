@@ -51,11 +51,27 @@
 ## Open Questions
 
 2/8/23 dicussion with BAC:
-- which services has the BCAS team already moved to LH?
--- what steps are needed for us to utilize these?
-- which services are on the BCAS team's roadmap for integration?
--- Are there any integrations that still need attention to be done before the August deadline?
-- How do we want to keep in touch about this effort going forward?
+
+which services has the BCAS team already moved to LH?
+ - Working on Claims Status, mostly done - hitting Sandbox already
+   - there are data changes, Jerek to provide overview of the changes
+
+which services are on the BCAS team's roadmap for integration?
+ - Are there any integrations that still need attention to be done before the August deadline? - Not yet
+- They are working on Letters next.
+   - separate endpoint for the letter content, Mobile team may have to build the integration as BCAS doesn't plan to use it
+ - Documents Service after that
+ - Rated Disabilities after that
+ - Unsure about Payments, 
+
+what steps are needed for us to utilize these?
+  - We are using the evss synchronous service now for Claims Status which is the one being migrated by the BCAS team
+  - We may need our own LH credentials, preference is to have separate credentials
+    - vets-api layer will need to be able to handle multiple credentials
+
+
+How do we want to keep in touch about this effort going forward?
+ - Async in Slack and 1-off meetings as needed [#vfs-evss-service-migration](https://dsva.slack.com/archives/C02CQP3RFFX)
 
 
 ## Important Links
