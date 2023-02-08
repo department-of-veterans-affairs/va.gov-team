@@ -1,4 +1,4 @@
-# Product Outline - Benefit Content Model (BCM)
+# Product Outline - Benefits Content Model (BCM)
 
 ## Overview
 We will build within the Drupal CMS a central content model for Benefits which can function as a single source of truth, enabling the objective of COPE (create once, publish everywhere).
@@ -57,7 +57,7 @@ Products that consume the BCM will go through Platform Collab Cycle.
 
 _Note: this content model is not a Veteran-facing product itself_
 
-**At least two products** are able to leverage the Benefit Content model (BCM) MVP 
+**At least two products** are able to leverage the Benefits Content model (BCM) MVP 
 - Existing CMS consumers - Benefit Hubs (including Benefit Landing Pages and Benefit Detail Pages), possibly Resources & Support
   - These pages currently present benefit information in an unstructured ("blobby") way
 - Chatbot, aka Virtual Service Agent
