@@ -133,7 +133,7 @@ Home > My Health > Lab and test results
 - Connect pathology results with a specific procedure
 
 ### Sketch file
-https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/7kbypw/p/5ABDCBAA-8B87-4255-8B22-B0A061510641/canvas?posX=-1596.577657142155&posY=-10237.086225762632&zoom=0.2562890648841858
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/5ABDCBAA-8B87-4255-8B22-B0A061510641/canvas
 
 ## Research to date
 
