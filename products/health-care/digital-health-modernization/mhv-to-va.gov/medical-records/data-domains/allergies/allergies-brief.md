@@ -65,7 +65,7 @@ Can also be found on pages within Medications portion of MHV, though details are
 - A user should be able to sort the list alphabetically by allergen/reactant name, severity, and chronologically based on initially entered date.
 
 ### Sketch file
-https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/yWydAK/p/1DD06026-FFB2-4128-BC7E-DCE50520DAD4/canvas?posX=-2658.13063544824&posY=-1090.4249590613172&zoom=0.21489810943603516
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/1DD06026-FFB2-4128-BC7E-DCE50520DAD4/canvas
 
 ## Research to date
 
