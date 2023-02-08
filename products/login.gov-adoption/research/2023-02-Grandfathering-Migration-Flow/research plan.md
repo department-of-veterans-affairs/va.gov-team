@@ -169,7 +169,7 @@ In addition to demographic and device questions, we’ve provided the following 
 We’re providing the following time slots (20 total) with the aim to book 15 sessions:
 
 |Date|Time slots (EST)|Number of options per day|
-|*--|*--|*--|
+|:--|:--|:--|
 |Monday, March 13th|10-11am, 12-1pm, 3-4pm, 5-6pm|4 options|
 |Tuesday, March 14th|9-10am, 11am-12pm, 1-2pm, 3-4pm|4 options|
 |Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm, 5-6pm|4 options|
