@@ -44,7 +44,15 @@ What do people want to use their downloadable reports for?
 
 ## Requirements
 
-xxxxx
+### Title
+Get a copy of your medical record  
+
+### Information architecture
+Home > My Health > Get a copy of your medical record
+Home > My Health > Get a copy of your medical record > Manage your electronic medical record sharing options
+
+### Blue button
+
 
 ## Research to date
 
