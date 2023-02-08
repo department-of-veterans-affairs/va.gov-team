@@ -151,6 +151,15 @@ Results[0].minimumOsVersion in case we need to check against a phones OS version
 
 Decrease in percentage of users on very old versions. (currently [2.7% ](https://www.google.com/url?q=https://console.firebase.google.com/u/0/project/va-mobile-app/analytics/app/ios:gov.va.vamobileapp/overview/~2F%253Ft%253D1669139905335%26fpn%253D226948484727%26swu%253D1%26sgu%253D1%26sus%253Dupgraded%26cs%253Dapp.m.dashboard.overview%26g%253D1&sa=D&source=docs&ust=1669143715756146&usg=AOvVaw3mTcolGabwVy41hgE3Xizt)on versions more than 12 weeks- Nov 22, 2022)
 
+[Firebase success events](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0&r=top-events&ruid=BFA0B975-82E6-4C3B-AD42-ED07A0C253C2&collectionId=3022309925)
+    Event Names:
+    * vama_eu_shown
+    * vama_eu_updated
+    * vama_eu_updated_success
+    * vama_eu_skipped
+
+[% of users on older versions](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..selmet%3D%5B%22activeUsers%22%5D%26_r.explorerCard..seldim%3D%5B%22appVersion%22%5D&r=user-technology-detail&collectionId=user)
+
 Review to see if this is working and then decide if it's good enough or if we need forced upgrade
 
 Metrics around people using this UI to upgrade or “snooze” - 
