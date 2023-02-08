@@ -21,9 +21,7 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 ## What we're working on
 [Current initiatives]()
 
-## Quick links
-
-### VAOS General Reference
+## VAOS General Reference
 
 - [Business rules]()
 - [User flows]()
@@ -32,38 +30,26 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 - [User research]()
 - [Analytics]()
 
-### Product
+## Quick links
 
-- [Product roadmap]()
-- List of issues: [open]() and [closed]()
+### Product and UX
+
+| Product | User Experience |
+|---|---|
+| [Product roadmap]() | [Screen templates]() |
+| [Open issues]() | [Design files]()
+| [Closed issues]() | |
 
 ### Engineering
 
-- MAPSUP ticket creation
-- Users for staging
-- Swagger editor
-- VAOS internal tools
-- VAOS incident response playbook
-
-**Frontend**
-- Front-end practices and tips
-- Front-end code reviewer guide
-- Front-end testing guidance
-- Using Sentry on VAOS
-- Maintenance messages in VAOS
-
-**Backend**
-- Back-end engineering practices and tips
-- Vets API developer setup
-- Vets API user creation and VAOS session validation
-- Vets API Review Instances
-- LogQL (Querying with Loki)
-- Application monitoring with Datadog
-
-### User Experience
-- Screen templates
-- Design files
-
+| Engineering | Front end | Back end |
+|---|---|---|
+| [MAPSUP ticket creation]() | [Front-end practices and tips]() | [Back-end engineering practices and tips]() |
+| [Users for staging]() | [Front-end code reviewer guide]() | [Vets API developer setup]() |
+| [Swagger editor]() | [Front-end testing guidance]() | [Vets API user creation and VAOS session validation]() |
+| [VAOS internal tools]() | [Using Sentry on VAOS]() | [Vets API Review Instances]() |
+| [VAOS incident response playbook]() | [Maintenance messages in VAOS]() | [LogQL (Querying with Loki)]() |
+|  |  | [Application monitoring with Datadog]() |
 
 ### Support and Incident Response
 
@@ -72,14 +58,14 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 ### View appointment lists
 An overview of appointments and requests. Helps get a sense of appointments at a high level.
 
-| Feature | Description | Documentation | 
+| Feature | Usage | Documentation | 
 |---|---|---|
-| Upcoming appointments | | |
-| Past appointments | | |
-| Requests | | |
+| Upcoming appointments | View all future and in progress appointments | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=182%3A18201&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#upcoming-appointments) |
+| Past appointments | View all appointments from the last two years | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/past) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#past-1) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=1125%3A28605&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#past-appointments) |
+| Pending appointments | View all pending and canceled requests | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/pending) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#requests-1) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=1125%3A28986&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#pending-appointments) |
 
-### View appointments
-The types of appointments VAOS supports.
+### View appointment details
+All the information about a single appointment. VAOS can display 8 types of appointments.
 
 | Feature | Description | Documentation |
 |---|---|---|
@@ -92,13 +78,16 @@ The types of appointments VAOS supports.
 | VA Phone Appointment | | |
 | Community Care Appointment | | |
 
-### View requests
+### View request details
+All the information about a single appointment.
+
 | Feature | Description | Documentation |
 |---|---|---|
 | VA Appointment Request  | | |
 | Community Care Appointment request | | |
 
 ### Manage appointments and requests
+Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | Documentation | 
 |---|---|---|
@@ -107,6 +96,8 @@ The types of appointments VAOS supports.
 | Print | | | 
 
 ### Schedule and request appointments
+How Veterans can schedule or request appointments through VAOS
+
 | Feature | Description | Documentation |
 |---|---|---|
 | Direct-schedule or request appointment at VA  | | |
