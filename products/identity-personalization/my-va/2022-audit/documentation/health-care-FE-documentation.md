@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: November 17, 2022
+Last updated: February 8, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -103,7 +103,8 @@ You have # unread messages. [Review your messages](https://mhv-syst.myhealth.va.
 
 **Visual specs**
 
-- This component will be built by the Authenticated Experience team and eventually added to the VA design pattern library. When it is added, we will link it here.
+- The new component will be built by the Authenticated Experience team and eventually added to the VA design pattern library. When it is added, we will link it here.
+- Currently, this feature uses the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#warning) in the VA design pattern library.
 - This component is a version of the [onsite notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/frontend-documentation/notifications-frontend-documentation.md). The difference in this version is that there is no date and no dismiss icon.
 - The color of the icon is `secondary-darkest` in the VA design pattern library (#981B1E)
 - The header text in the notification is an `H4`.
