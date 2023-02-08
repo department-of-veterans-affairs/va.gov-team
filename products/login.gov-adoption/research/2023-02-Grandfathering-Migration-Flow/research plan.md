@@ -1,12 +1,14 @@
 # Research Plan: Login.gov Adoption Team, Legacy Credential Migration
+
 *Grandfathering Migration Flow Usability Testing, February 2023*
 
 ## Background
+
 There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research), we defined different pathways for the migration.
 
 This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through “grandfathering” or deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date.
 
-We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing to address any issues that surface. We will also run a round of testing focused specifically on screen reader accessibility with blind and low vision users.
+We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following this round (1), we will include follow-up testing to address any issues that surface. We will also run a round of accessibility testing with blind and low vision users.
 
 ### OCTO Objectives 
 
@@ -14,6 +16,7 @@ We will run a few rounds of testing to review the effectiveness and usability of
 * Veterans and their families trust the security accuracy and relevancy of VA.gov.
 
 ### Veteran Journey
+
 Signing to securely access VA services can happen at any stage in the [Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). With this migration pathway, however, we're particularly focused on the stages that occur later on in the journey. Other migration initiatives will focus on reaching Veterans who are just getting out and starting up, aiming to ensure Veterans proactively set up Login.gov (instead of another credential service provider) from the start.
 
 This initiative is focused on Veterans who have set up a DS Logon account already. In order for Veterans to not lose access to their information and benefits when DS Logon is sunset by the VA, we need to ensure there is a clear and technically-feasible pathway for their migration.
@@ -25,127 +28,166 @@ These stages include:
 * Aging
 
 ## Research Goals	
+
 The key goals of this study are to:
+
 * Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue.
 * Review whether Veterans understand the type of account they've set up and its limitations.
 * Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
 
 ### Outcome
-This research will validate and refine the users flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We will aim to find solutions to any issues surfaced. If we uncover issues with the Login.gov flow, we will make recommendations to Login.gov.
+
+This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We will aim to find solutions to any issues that are surfaced through testing. If we uncover issues within the Login.gov flow, we will make recommendations to our partners at Login.gov.
 
 Additionally, we will use this research to inform a built prototype which we will test with screen reader users.
 
 ### Research questions
+
 Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
+
 * Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
 * How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
 * Can Veterans successfully initiate the account setup flow?
 * Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
 * Can Veterans successfully return back to the VA after setting up their account?
 * Do Veterans understand they are now signed into Login.gov?
+* Are Veterans concerned about their data or information now that they use a different sign in method?
 
 Review whether Veterans understand what type of account they have set up with Login.gov and its limitations:
+
 * Do Veterans understand why they're being asked to set up a Login.gov account?
 * Do Veterans understand the type of Login.gov account they are being asked to set up?
 * Do Veterans understand that they should now stop using DS Logon and use Login.gov to sign in moving forward?
 * Are Veterans motivated to upgrade to an IAL2 Login.gov account at a later date, why or why not?
 
 Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
+
 * What will Veterans do first if they encounter an issue?
 * Do Veterans know where or how to get help if they encounter an issue?
 
-### Hypothesis
-- What do you already know about this problem space?
-- What do you think users will do or think about this product?
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
+### Hypotheses
+
+* Veterans will be motivated to set up a Login.gov account if they understand they will no longer be able to use DS Logon at some point in the future.
+* Veterans will be able to set up an IAL1 Login.gov account, which is less risky and burdensome than setting up an IAL2 Login.gov account.
+* Most Veterans will be able to set up one multi-factor authentication method without issue.
+* Most Veterans will choose to set up text or voice message as their multi-factor authentication method.
+* Veterans will be motivated to continue to use their Login.gov account moving forward if they understand they should stop using their DS Logon account.
+* Veterans will be motivated to upgrade to an IAL2 account through identity proofing if they understand what an IAL2 account will let them do (access other government websites).
+* Veterans will decide and be able to navigate to contact information on the Login.gov or VA.gov websites if they encounter an issue during account creation.
 
 ## Methodology
-- Usability testing - appropriate for evaluative research
-- Semi-structured interviews - appropriate for generative research
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-### Location
-Remote on Zoom.
+This usability study will be conducted remotely on Zoom. We will test on both mobile and desktop.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-- [Link to screen questions]
-- [Link to email to send participants ahead of the session]
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](url)
+- [Link to Sketch prototype](url)
 	
 ## Recruitment	
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+
+* Tyler will reach out to Shane as he’s testing new guidance for this section.*
+
+Before defining our recruitment strategy, we reviewed:
+* [Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md)
+* [Inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
+* [Introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md)
+* [Recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will use Perigean to recruit Veterans for this moderated study, aiming for maximum variation sampling.
 
 ### Recruitment criteria
-We aim to recruit at least 10 Veterans for this study.
+
+We need to recruit 10 Veterans for this study. We suggest scheduling 15 participants in order to achieve 10 completed sessions.
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+All participants:
+* Must be Veterans
+* Must have a computer, tablet or smartphone and be willing to complete their sessions on one of those devices
+* Must be willing to share a web browser window on their device
+* Must have a working microphone on their device
+* Must have Zoom downloaded to their device prior to the session and know how to share their screen
+* Must have signed into a VA application (including VA.gov, My HealtheVet or eBenefits) in the last 6 months
+* Must use DS Logon (as their credential service provider) to sign in to the VA. If Veterans aren’t sure what this means or what they use, this can be confirmed by asking them to sign into VA.gov and confirming how they logged in.
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+At least 9 participants:
+* Must not have a Login.gov or ID.me account set up.
+
+At **most** 1 participant:
+* Must have a Login.gov account set up, but not use it to sign in to the VA. For example, they use Login.gov to sign in to TSA Pre-check or USAJobs, but, when they sign in to VA.gov, they use DS Logon.
+
+Demographic goals:
+* At least 5 people people are over 55
+* At least 5 people must have an identified cognitive disability
+* At least 3 people must identify as Black, Hispanic, or Native
+* At least 3 people people are without a degree or professional certificate
+* At least 2 people must identify as other than male
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
+* At least 3 people who live in a rural or remote area
+* At least 2 non-native English speakers
+* At least 2 people who identify as gay, lesbian, bisexual, or transgender
+
+### Screener questions
+
+In addition to demographic and device questions, we’ve provided the following screener questions:
+
+* Have you signed in to VA.gov, My HealtheVet or eBenefits in the last 6 months? [answer must be yes to qualify.]
+* Do you use DS Logon to sign in to the VA? [answer must be yes to qualify.]
+* Do you have a Login.gov or ID.me account? [answer must be no to qualify, except for at **most** one participant can answer yes.]
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+|Date|Milestone|
+|*--|*--|
+|Before February 21|Submit prototype for Midpoint Review|
+|Before February 27|Submit artifacts for Research Review|
+|Before March 3|Prototype is ready|
+|March 6-10|Pilot session [UPDATE]|
+|March 13-17|Research sessions|
+|March 20-22|Analysis|
+|March 22-24|Share findings|
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
+### Pilot session
 
-* Pilot participant email: 
-* Date and time of pilot session: 
+* Pilot participant email: [UPDATE]
+* Date and time of pilot session: March 6-10 [UPDATE]
 
 ### Research sessions
-* Planned dates of research: February 6-10, 2023 (TBC)
 
 ### Length of sessions
+
 * Session length: 1 hour
-* Buffer time between sessions: 30 minutes
-* Maximum sessions per day: 3 sessions
+* Buffer time between sessions: 1 hour
+* Maximum sessions per day: 4 sessions
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+We’re providing the following time slots (20 total) with the aim to book 10 sessions:
+
+|Date|Time slots (EST)|Number of options per day|
+|*--|*--|*--|
+|Monday, March 13th|10-11am, 12-1pm, 3-4pm, 5-6pm|4 options|
+|Tuesday, March 14th|9-10am, 11am-12pm, 1-2pm, 3-4pm|4 options|
+|Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm, 5-6pm|4 options|
+|Thursday, March 16th|8-9am, 1-2pm, 3-4pm, 5-6pm|4 options|
+|Friday, March 17th|8-9am, 10-11am, 12-1pm, 2-3pm|4 options|
+
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital)	
-- Research guide writing and task development (usually but not always same as moderator): Tyler Gindraux
-- Participant recruiting & screening: Tyler Gindraux
-- Project point of contact: Elizabeth Koch (Email: elizabeth@bluetiger.digital)
-- Participant(s) for pilot test: 
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com)
-- Observers: 
+## Team Roles
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+Please list the people who will be serving in each role.
+
+* Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital)	
+* Research guide writing and task development: Tyler Gindraux
+* Participant recruiting & screening: Perigean
+* Project point of contact: Elizabeth Koch (elizabeth@bluetiger.digital)
+* Participant(s) for pilot test: [UPDATE]
+* Accessibility specialist: [UPDATE]
+* Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Anthony Levin-Decanini (anthony@themostudio.com)
+* Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com)
+
+Each session will include no more than 6 total attendees per session: 1 Veteran participant, 1 moderator, 1-2 notetaker(s), 1-2 observer(s).
