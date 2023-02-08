@@ -1,8 +1,6 @@
 
 # Research questions across products
-Created by: @tygindraux
-<br>
-Last updated: Jan 31, 2023
+Last updated by @tygindraux: Jan 31, 2023
 
 ## Purpose
 This document describes the research questions (at a high-level) that we need to answer about the Veteran and staff experience across the 4 ongoing identity projects:
