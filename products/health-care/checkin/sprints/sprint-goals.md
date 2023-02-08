@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 #### Analytics Sprint Goals
 - **GOAL: Analyze current report using the new method discussed**
-   - [[ONGOING] Analyze VSignals Weekly](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/47569)   
+   - [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53321)   
 - **GOAL: Determine how we might do a path/funnel analysis for Pre-Check-in & Check-in**
    - [[SPIKE] Determine how we might do a cross product veteran path analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53232)
 
