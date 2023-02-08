@@ -85,6 +85,7 @@ https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/1DD06026-FFB2-41
 
 ## Questions to answer
 - Severity is a field that we believe is part of the VA Health Summary, but not Blue Button reports. We have included it as part of our designs. Can we actually access that field? Is it reliable? If the answer is no to either of those questions, remove that field from designs.
+- Ngozi mentioned that vaccine reactions might be stored in at least 4 different fields in MHV: provider-entered vaccine details, self-entered vaccine details, provider-entered allergy info, and self-entered allergy info. Do we have plans to map or link all these fields, or is this something we may need to address in the content?
 
 ## Handling Data Discrepancies
 Where there are differences between BB and Health Summary, follow the data and descriptions of that data as they are represented in Health Summary.
@@ -96,7 +97,7 @@ Where there are differences between BB and Health Summary, follow the data and d
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2023/02/06      |Coulton Bunney    |Combined requirements and brief|
 | 2023/02/07      |Marci McGuire     | Added Handling Discrepancies section, link to Allergies decision log                                                                               |
-|                 |                  |                                                                                                                     |
+| 2023/02/08      |Marci McGuire     |Added question about four fields Ngozi identified for vaccine reactions                                       |
 
 # Appendix
 
