@@ -15,12 +15,14 @@
         - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
 - Get added to slack channels 
-  - benefits-disability-experience
-  - benefits-contention-classification
-  - va-forms
-  - vfs-all-teams
-  - vfs-platform-support
-  - design
+   - # benefits-onboarding
+    - This initiates VA onboarding with buddy assignments
+  - # benefits-disability-experience
+  - # benefits-contention-classification
+  - # va-forms
+  - # vfs-all-teams
+  - # vfs-platform-support
+  - # design
 - Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451)
 - Get access to VA mural space - poc - Matt Self?
 - Figma/sketch?
