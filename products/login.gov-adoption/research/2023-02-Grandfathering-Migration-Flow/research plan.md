@@ -187,7 +187,7 @@ Please list the people who will be serving in each role.
 * Project point of contact: Elizabeth Koch (elizabeth@bluetiger.digital)
 * Participant(s) for pilot test: [Need to update with details]
 * Accessibility specialist: [Need to update with details]
-* Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Anthony Levin-Decanini (anthony@themostudio.com)
+* Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com)
 * Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com)
 
 Each session will include no more than 6 total attendees per session: 1 Veteran participant, 1 moderator, 1-2 notetaker(s), 1-2 observer(s).
