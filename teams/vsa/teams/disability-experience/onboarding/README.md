@@ -10,7 +10,7 @@
 ### Required VFS User Access, Training and Platform Orientation
 - Request PIV card for access to the VA network
   - Paperwork and steps included in the previous step
-- For team members new VFS(Veteran Facing Services), follow directions in the Platform Orientation for onboarding, access, training and other items 
+- For team members new VFS(Veteran Facing Services), follow directions in the [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation) for onboarding, access, training and other items 
 - There is one template for all new team members 
   - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
