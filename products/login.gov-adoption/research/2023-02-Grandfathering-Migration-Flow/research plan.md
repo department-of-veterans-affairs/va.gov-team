@@ -1,6 +1,6 @@
 # Research Plan: Login.gov Adoption Team, Legacy Credential Migration
 
-*Grandfathering Migration Flow Usability Testing, February 2023*
+*Grandfathering Migration Flow Usability Test Round 1, February 2023*
 
 ## Background
 
