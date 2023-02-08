@@ -20,23 +20,22 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
-| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) |  [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
+| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) | [Appeal Modernization Process](#appeal-modernization-process) |
+| [Benefits Detail Page](#benefits-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | [Disability rating calculator](#disability-rating-calculator) |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
 | [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [FAQ Page](#faq-page) | [Offices](#offices) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply-wizards) |
-| [Full-width Alert](#full-width-alert) | [VA.gov Homepage](#vagov-homepage) | [React widgets governance](#react-widgets-governance)|
-| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | .  |
-| [Q&A - single](#qa---single) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  . |
-| [Resources & Support detail page](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
-| . | Yellow-ribbon tool | . |
+| [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
+| [Promo Banner](#promo-banner) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Unauthed React widgets](#unauthed-react-widgets) |  .  |
+| [Q&A - single](#qa---single) | [VA.gov Homepage](#vagov-homepage) | . |
+| [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
-* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
+* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 
 
 ---
