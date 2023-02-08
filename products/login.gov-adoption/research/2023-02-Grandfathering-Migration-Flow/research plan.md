@@ -51,7 +51,8 @@ Review whether Veterans can migrate their accounts from DS Logon to Login.gov (I
 * Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
 * Can Veterans successfully return back to the VA after setting up their account?
 * Do Veterans understand they are now signed into Login.gov?
-* Are Veterans concerned about their data or information now that they use a different sign in method?
+* Do Veterans have concerns about their data or information now that they use a different sign in method?
+* Do Vetetans have concerns about their ability to continue accessing VA services, now that they have a new login method?
 
 Review whether Veterans understand what type of account they have set up with Login.gov and its limitations:
 
