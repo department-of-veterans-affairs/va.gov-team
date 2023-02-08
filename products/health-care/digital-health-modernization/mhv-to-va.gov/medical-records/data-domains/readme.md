@@ -6,11 +6,11 @@ As part of the MHV on va.gov effort, OCTO conducted research to understand what 
 * From Nov-Dec 2022, generative research was conducted with Veterans to better understand how they perceive and use medical records in MHV. [See generative research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9edca0cf4515c39a66d84fa5ff988a1cc83d9018/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
 
 Based on those efforts and continued desk research, the team created the following briefs for each domain in medical records. Each brief includes
-* A description what each domain is
+* A description
 * Use cases
 * Requirements for the first iteration of that domain on va.gov
 * A link to low fidelity mobile-based screen designs
-* Research to date on that specific domain
+* Associated research to date 
 * Outstanding questions that need to be answered
 * A detailed analaysis of data fields
 
