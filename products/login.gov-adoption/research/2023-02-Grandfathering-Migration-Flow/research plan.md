@@ -39,7 +39,7 @@ The key goals of this study are to:
 
 This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We will aim to find solutions to any issues that are surfaced through testing. If we uncover issues within the Login.gov flow, we will make recommendations to our partners at Login.gov.
 
-Additionally, we will use this research to inform a built prototype which we will test with screen reader users.
+This research will inform a built prototype, which we will use for accessibility testing with blind and low vision users.
 
 ### Research questions
 
