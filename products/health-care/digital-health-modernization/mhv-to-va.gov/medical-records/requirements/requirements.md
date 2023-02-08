@@ -463,7 +463,7 @@
     - Date range selections (3 months, 6 months, 1 year) 
     - Start date - End date (calendar selection)
   - Select types of information 
-    - Select all types of information, or:
+    - Select all types of information, **OR:**
     - Appointments
       - Future VA appointments
       - Past VA appointments (limited to past 2 years) 
@@ -504,8 +504,18 @@
       - Health care providers, self-reported
       - All of the above
     - Food and activity journals 
+      - Activity journal, self-reported
+      - Food journal, self-reported
+      - All of the above
     - Goals
+      - My goals: current goals, self-reported
+      - My goals: completed goals, self-reported
+      - All of the above
     - Demographics and health insurance 
+      - VA demographics
+      - Demographics, self-reported
+      - Health insurance, self-reported
+      - All of the above
     - Department of defense information
       - Department of defense military service information
 
