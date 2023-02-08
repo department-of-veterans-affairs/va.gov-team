@@ -180,7 +180,8 @@ Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 
 ## Questions to answer
 
-- Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? Or is the technical limitation that the images are not included in the Blue Button report due to the size of the images?
+- Is there a technical reason why the imaging studies are not listed in the labs and tests section on the existing site? 
+- How should we include images, if we do at all? Can we link to images from their report, rather than creating an entirely new section for images?
 - Is there a business or technical reason that would not allow us to include microbiology, electrocardiogram, pathology reports in lab and test results?
 - Can users understand which result to click into from the list view to find what they are looking for?
 
