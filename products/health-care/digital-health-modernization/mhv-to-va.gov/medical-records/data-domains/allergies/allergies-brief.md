@@ -35,7 +35,7 @@ Allergies reflects allergies that relate to medications. Should be linked with t
 Allergies
 
 ### Information architecture
-Home > My Health > Health history > Allergies
+Home > My Health > Health history > Allergies  
 Can also be found on pages within Medications portion of MHV, though details are still TBD.
 
 ### List view
