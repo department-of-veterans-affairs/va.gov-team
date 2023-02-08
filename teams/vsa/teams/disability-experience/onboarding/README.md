@@ -14,7 +14,7 @@
   - There is one template for all new team members 
         - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
-- Get added to slack channels (poc - Josh Q)
+- Get added to slack channels 
   - benefits-disability-experience
   - benefits-contention-classification
   - va-forms
