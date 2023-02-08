@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Functional Testing
 about: For Check In Experience Functional Testing
-title: "[Design] Run Test Cases for Functional Testing"
+title: "Run Test Cases for Functional Testing"
 labels: HCE-Checkin, design
 assignees: ''
 
