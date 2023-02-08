@@ -25,13 +25,13 @@ Document Upload, EVSS documents, upload attachments, attachment upload, attach f
 - Some other applications leverage document upload support but ultimately send documents to non-EVSS APIs
   - Pensions/Burials, HCA, Preneed, VICv2
 
-More information on the current design (specific to endpoints that utilize the EVSS documents service) can be found [here](./document_upload_workflow.md)
+More information on the current design (specific to endpoints that utilize the EVSS documents service) can be found [here](document_upload_workflow.md)
 
 ## Testing
 Testing this feature is somewhat difficult because it's isn't a standalone feature but rather a part of larger forms / applications. Several upload pages can be found in the 526 v2 form flow, which you can find out how to test [here](/Products/Disability/Disability%20526EZ/21-526EZ.md).
 
 ## Error Handling
-Please see [upload processing section](./document_upload_workflow.md#syncronous-pre-upload-processing) of the engineering design doc
+Please see [upload processing section](document_upload_workflow.md#syncronous-pre-upload-processing) of the engineering design doc
 
 ## API Calls & Dependencies
 Document uploads for specific applications / form typically have separate `vets-api` endpoints:
@@ -44,10 +44,10 @@ Document uploads for specific applications / form typically have separate `vets-
 With the exception of the upstream service that documents are ultimately submitted to (e.g., for Claims Status that would be the EVSS Documents Service), the dependencies and call flow are basically the same. I.e., uploads are submitted to vets-api, which processes & validates them and stores them in S3. At some later point, these documents can be retrieved and submitted to whatever service needs them.
 
 Here's a sample diagram:
-![Document Upload Sequence Diagram](./file_upload_sequence.png "Document Upload Sequence Diagram")
+![Document Upload Sequence Diagram](file_upload_sequence.png "Document Upload Sequence Diagram")
 
 ## Open Issues & Future Work
-[Future Work Ideas](./document_upload_workflow.md#future-work)
+[Future Work Ideas](document_upload_workflow.md#future-work)
 
 Currently, bugs are not being tracked centrally but rather within the applications that each individual file uploader is embedded.
 
