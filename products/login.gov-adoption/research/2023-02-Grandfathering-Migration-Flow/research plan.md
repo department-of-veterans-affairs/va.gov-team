@@ -2,8 +2,6 @@
 *Grandfathering Migration Flow Usability Testing, February 2023*
 
 ## Background
-
-## Background
 There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research), we defined different pathways for the migration.
 
 This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through “grandfathering” or deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date.
@@ -16,9 +14,9 @@ We will run a few rounds of testing to review the effectiveness and usability of
 * Veterans and their families trust the security accuracy and relevancy of VA.gov.
 
 ### Veteran Journey
-Signing to securely access VA services can happen at any stage in the [Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). However, in the case of this migration pathway (grandfathering) we're particularly focused on the stages that occur later on in the journey. Other migration initiatives will focus on reaching Veterans who are just getting out and starting up, as they'll aim to help Veterans proactively set up Login.gov (instead of another credential service provider) from the start.
+Signing to securely access VA services can happen at any stage in the [Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). With this migration pathway, however, we're particularly focused on the stages that occur later on in the journey. Other migration initiatives will focus on reaching Veterans who are just getting out and starting up, aiming to ensure Veterans proactively set up Login.gov (instead of another credential service provider) from the start.
 
-In this case, Veterans will have set up a DS Logon account at some stage in the past. In order for Veterans to not lose access to their information and benefits when DS Logon is sunset by the VA, we need to ensure there is a clear and technically-feasible pathway for migration.
+This initiative is focused on Veterans who have set up a DS Logon account already. In order for Veterans to not lose access to their information and benefits when DS Logon is sunset by the VA, we need to ensure there is a clear and technically-feasible pathway for their migration.
 
 These stages include:
 * Taking care of myself
@@ -33,9 +31,9 @@ The key goals of this study are to:
 * Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
 
 ### Outcome
-This research will validate the suggested user flow for Veterans to migrate their accounts to Login.gov through grandfathering or deferred identity proofing. We will aim to find solutions to any issues surfaced. Where there are recommendations we can make to the Login.gov flow, we will raise these to our partners.
+This research will validate and refine the users flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We will aim to find solutions to any issues surfaced. If we uncover issues with the Login.gov flow, we will make recommendations to Login.gov.
 
-Additionally, we will use this research to inform a built prototype which we will test with Veterans again, including screen reader users.
+Additionally, we will use this research to inform a built prototype which we will test with screen reader users.
 
 ### Research questions
 Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
@@ -52,7 +50,7 @@ Review whether Veterans understand what type of account they have set up with Lo
 * Do Veterans understand that they should now stop using DS Logon and use Login.gov to sign in moving forward?
 * Are Veterans motivated to upgrade to an IAL2 Login.gov account at a later date, why or why not?
 
-Review whether Veteran know where to get help or what they will do if they encounter an issue during or after account setup.
+Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
 * What will Veterans do first if they encounter an issue?
 * Do Veterans know where or how to get help if they encounter an issue?
 
