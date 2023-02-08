@@ -53,6 +53,7 @@ Home > My Health > Lab and test results
 
 ### List view
 - At the top of the page, a user should be able to quickly learn about the availability of lab and test results. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
+- At the top of the page, a user should be able to quickly learn about disclaimers about this domain.
 - A user should be able to see a list of all of their lab and test results, ordered chronologically by date collected. 
 - Each should include:
   - Category (e.g. Pathology, Microbiology, etc)
