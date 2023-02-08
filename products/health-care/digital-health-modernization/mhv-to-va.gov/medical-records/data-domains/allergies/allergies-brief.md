@@ -39,6 +39,7 @@ Home > My Health > Health history > Allergies
 Can also be found on pages within Medications portion of MHV, though details are still TBD.
 
 ### List view
+- At the top of the page, a user should be able to quickly learn about disclaimers about this domain.
 - A user should be able to see a list of all of their allergies, ordered chronologically by date entered.
 - A user should be able to click into each entry to learn more details.
 - A user should be able to print or download (PDF or TXT) of the complete allergies list. 
