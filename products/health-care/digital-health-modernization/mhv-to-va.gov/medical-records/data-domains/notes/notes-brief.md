@@ -163,8 +163,11 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 ## Questions to answer
 - Can we or should we redesign BB PDFs to be consistent with the view experience of the same note and with Health Summary? 
 - Is there any information that users have access to for notes via BB or Health Summary that we cannot display in HTML?
-- Can users understand which note to click into from the list view to find what they are looking for?
 - Are there note types we have not accounted for that must be included? Do their fields differ from what we have included above? 
+- BB may include a SM as part of Notes today. We do not think we should do this and instead should keep these in SM. Can this be confirmed?
+- BB may include Admission notes, Discharge notes as part of VA notes. How do these differ from Admission and Discharge summaries?
+- Can users understand which note to click into from the list view to find what they are looking for?
+
 
 ## Relevant links
 
