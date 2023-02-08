@@ -65,7 +65,7 @@ Home > My Health > Health history > Health conditions
 - During user interviews, several participants expressed the desire to be able to select only specific health records based on a specific health issue, such as a shoulder injury, for the purposes of filing a disability claim.
 
 ### Sketch file
-[https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/v/7kbypw/p/348539BA-4DD8-42DA-BDC4-EA4ADF28A54F/canvas?posX=-6458.6065971122&posY=-1066.1735886908618&zoom=0.07352695614099503](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/348539BA-4DD8-42DA-BDC4-EA4ADF28A54F/canvas)
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/p/348539BA-4DD8-42DA-BDC4-EA4ADF28A54F/canvas
 
 ## Research to date
 The card sort did not cover specifics about Health Conditions.
