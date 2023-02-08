@@ -143,7 +143,7 @@ In addition to demographic and device questions, we’ve provided the following 
 ## Timeline
 
 |Date|Milestone|
-|*--|*--|
+|:--|:--|
 |Before February 21|Submit prototype for Midpoint Review|
 |Before February 27|Submit artifacts for Research Review|
 |Before March 3|Prototype is ready|
