@@ -1,8 +1,8 @@
 ---
 name: Check In Experience Task to Update Product Artifacts (e.g. Product Guide, Poster)
 about: For Updating Check In Experience Product Artifacts
-title: "[UX] Update Product Artifacts for Release"
-labels: HCE-Checkin, research, ux
+title: "[Design] Update Product Artifacts for Release"
+labels: HCE-Checkin, design
 assignees: ''
 
 ---
