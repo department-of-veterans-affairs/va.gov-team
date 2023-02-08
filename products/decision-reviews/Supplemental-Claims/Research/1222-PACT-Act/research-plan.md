@@ -239,8 +239,6 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum number of sessions per day: 4
 
 ### Availability
-Monday 8-6
-
 Tuesday 8-6
 
 Wednesday 8-6
