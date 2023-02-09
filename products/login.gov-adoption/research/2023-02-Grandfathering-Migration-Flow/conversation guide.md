@@ -1,32 +1,19 @@
-# Conversation Guide [Template: Need to draft]
+# Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
+*Grandfathering Migration Flow Usability Test Round 1, February 2023*
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
+- [ ] Send instructions to observers (including how we'll use #feedback-backchannel for observer comments)
+- [ ] Prepare prototype link to send to participants
 
 ### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
+- [ ] Prepare prototype on your device and be ready for screen sharing if necessary
+- [ ] Mute Slack and email notifications
+- [ ] Use #feedback-backchannel to interact with observers (including asking for 'observer instructions' from the Slackbot)
 
 ### Starting the session
-
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
-
-
+- [ ] Ensure everyone except the participant is on mute
+- [ ] Ensure the "Play Join and Leave Sound" is unchecked (in the Participant "more" menu)
 
 ## Intro - 5 minutes
 
