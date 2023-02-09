@@ -24,10 +24,10 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |                   |                         |           |
 
 ## Functional (How it works)
-| Date | Decision Maker(s) | Description of Decision | Rationale |
-|------|-------------------|-------------------------|-----------|
+| Date          | Decision Maker(s).                          | Description of Decision                                                             | Rationale                                                                           |
+|---------------|---------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |10/6/2022      | Dr. Evans, Chris Johnston                   | Health Portal should be consistent with the flagship mobile app as much as possible | Consistency will keep users from having to learn two different mental models.  Portal can also glean knowledge from things Mobile has already implemented.          |
-|      |                   |                         |           |
+|02/08/2023     | Lauren Alexanderson, Patrick Bateman        | Name of the VFS product for the landing page, navigation and other shared elements will be *MHV on VA.gov Portal*  | The work must have a name to do a Collaboration Cycle kick-off, and this is a good "umbrella" name.|
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
