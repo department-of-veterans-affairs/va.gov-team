@@ -1,9 +1,9 @@
-# Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
+# [In Progress] Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
 *Grandfathering Migration Flow Usability Test Round 1, February 2023*
 
 ## Moderator logistics
 ### 2-3 days before the session
-- [ ] Send instructions to observers (including how we'll use #feedback-backchannel for observer comments)
+- [ ] Send instructions to observers (such as using the #feedback-backchannel for observer comments, joining the waiting room, having their cameras and microphones muted)
 - [ ] Prepare prototype link to send to participants
 
 ### Day of the session
@@ -18,33 +18,35 @@
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I'd like to make sure I don't take too much of your time, so I may occasionally move us along so we can cover everything we're hoping to talk to you about.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Today, you'll be interacting with a prototype.** This is basically like a pretend version of the website. It might not work exactly how you expect. For example, you'll be able to click on somethings on your screen, but not all of them. We use prototypes to help us test things before we decide what to make real, and what to change.
+- **If for any reason and at any time you want to stop the session, please let me know.**
+- Perigean did ask for your consent to allow people to observe today, but I'd like to confirm. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers. 
-    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+   - If yes: Admit observers.
+    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. 
+    - Then, ask notetaker and observers to turn off their cameras for the rest of the session.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we finish analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 10 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+I'd like to start by learning more about your experience with the VA.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- How long have you been a Veteran?
+- How often do you 
 
 ## First Task: [TASK NAME] - X minutes
 
