@@ -4,7 +4,7 @@
 
 Liz Lantz (liz.lantz@adhoc.team), 02/12/2020
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/jan-2020-usability-test.md).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/yellow-ribbon-mvp/research/jan-2020-usability-test.md).
 
 ## Research Goals 
 
