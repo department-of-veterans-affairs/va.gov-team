@@ -48,8 +48,8 @@ What do people want to use their downloadable reports for?
 Get a copy of your medical record  
 
 ### Information architecture
-Home > My Health > Get a copy of your medical record
-Home > My Health > Get a copy of your medical record > Manage your electronic medical record sharing options
+Home > My Health > Share my medical record
+Home > My Health > Share my medical record > Manage your electronic medical record sharing options
 
 ### Blue Button Reports
 - We will continue to provide the ability to create and download Blue Button reports as these reports fill different needs for Veterans and contain different information than the Health Summary.
