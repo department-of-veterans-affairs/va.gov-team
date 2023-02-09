@@ -27,23 +27,8 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 | Date          | Decision Maker(s).                          | Description of Decision                                                             | Rationale                                                                           |
 |---------------|---------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |10/6/2022      | Dr. Evans, Chris Johnston                   | Health Portal should be consistent with the flagship mobile app as much as possible | Consistency will keep users from having to learn two different mental models.  Portal can also glean knowledge from things Mobile has already implemented.          |
+|02/08/2023      |Lauren Alexanderson, Dave Conlon, Patrick Bateman  |"My Health" button in authenticated VA.gov main nav will be changed to "My Health*e*Vet |In the future, we’re sticking with the My HealtheVet branding on VA.gov, so the link text should match.           |
 
-|02/08/2023      |Lauren Alexanderson, Dave Conlon, Patrick Bateman                    |"My Health" button in authenticated VA.gov main nav will be changed to "My Health*e*Vet                         |In the future, we’re sticking with the My HealtheVet branding on VA.gov, so the link text should match.           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
 
 ## Design (How it looks)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
