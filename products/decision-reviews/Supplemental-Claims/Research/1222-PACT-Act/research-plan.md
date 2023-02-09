@@ -233,7 +233,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 10 AM ET 2/16
 
 ### Research sessions
-* Planned dates of research: 2/21-2/24
+* Planned dates of research: 2/21-3/1
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -241,13 +241,19 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum number of sessions per day: 4
 
 ### Availability
-Tuesday 8-6
+Tuesday, 2/21, 8am-6pm
 
-Wednesday 8-6
+Wednesday, 2/22 8am-6pm
 
-Thursday 8-6
+Thursday, 2/23 8am-6pm
 
-Friday 8-6
+Friday, 2/24 8am-6pm
+
+Monday, 2/27 8am-6pm
+
+Tuesday, 2/28 8am-6pm
+
+Wednesday, 3/1 8am-6pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
