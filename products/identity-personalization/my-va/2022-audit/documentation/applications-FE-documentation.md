@@ -62,7 +62,7 @@ What benefits does VA offer?
 
 **Visual specs**
 
-- Use the [form status verison of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
+- Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
 
 #### **Content**
 
