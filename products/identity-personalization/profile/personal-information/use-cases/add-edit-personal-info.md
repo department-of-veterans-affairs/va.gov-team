@@ -1,5 +1,5 @@
 # Personal information: User needs to add or update personal information
-**Last updated:** February 6, 2023
+**Last updated:** February 9, 2023
 
 - Users can view their full name, birth date, and disability rating from this section. They can also view and edit their preferred name and gender identity.
 - For preferred name and gender identity:
@@ -47,15 +47,9 @@ N/A
 
 ## How to reproduce
 
-### Notes
-- Any LOA3 user can access personal information
-- You can test with any staging user to add/edit
-
 ### Add or edit personal info
 
-[Personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
-
 1. Go staging.va.gov/profile/contact-information
-2. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+2. Log in with use, as outlined in the [personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
 3. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
 4. Click the edit button on any section and add or edit
