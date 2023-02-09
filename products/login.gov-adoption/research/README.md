@@ -2,7 +2,7 @@
 Last updated by @tygindraux: February 8, 2023
 <br>
 
-|Product|Study|Type of Research|Date|Ticket|
+|Product|Study|Type of Research|Date|Issue|
 |:--|:--|:--|:--|:--|
 |All|[Login.gov Adoption Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research)|Discovery (Generative)|Oct-Dec 2022|[#185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)|
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)|[Grandfathering Migration Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow)|Usability (Evaluative)|Feb-Mar 2023||
