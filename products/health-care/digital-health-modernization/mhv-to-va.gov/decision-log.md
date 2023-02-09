@@ -10,7 +10,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |Lauren Alexanderson, Leah Bannon|The second and third domains will be Labs & Tests and Notes|           |
 | 2023/01/29     |Erick Spahn, Maureen Layden                   |Medications will be rolled in with Pharmacy as a new section of the health portal.          | Veterans will be able to see current and past medications and request refills in one place. This structure has been confirmed by tree testing research, implied by GAO reports, supported by common sense.        |
 |2023/02/02      |Lauren Alexanderson                   |Links to Appointments will point to VAOS, not MHV                         |Good way to start the soft retirement of Appointments on MHV           |
-|      |                   |                         |           |
+|02/08/2023     | Lauren Alexanderson, Patrick Bateman        | Name of the VFS product for the landing page, navigation and other shared elements will be *MHV on VA.gov Portal*  | The work must have a name to do a Collaboration Cycle kick-off, and this is a good "umbrella" name.|
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
@@ -27,8 +27,8 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 | Date          | Decision Maker(s).                          | Description of Decision                                                             | Rationale                                                                           |
 |---------------|---------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |10/6/2022      | Dr. Evans, Chris Johnston                   | Health Portal should be consistent with the flagship mobile app as much as possible | Consistency will keep users from having to learn two different mental models.  Portal can also glean knowledge from things Mobile has already implemented.          |
-|02/08/2023     | Lauren Alexanderson, Patrick Bateman        | Name of the VFS product for the landing page, navigation and other shared elements will be *MHV on VA.gov Portal*  | The work must have a name to do a Collaboration Cycle kick-off, and this is a good "umbrella" name.|
-|      |                   |                         |           |
+
+|02/08/2023      |Lauren Alexanderson, Dave Conlon, Patrick Bateman                    |"My Health" button in authenticated VA.gov main nav will be changed to "My Health*e*Vet                         |In the future, we’re sticking with the My HealtheVet branding on VA.gov, so the link text should match.           |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
