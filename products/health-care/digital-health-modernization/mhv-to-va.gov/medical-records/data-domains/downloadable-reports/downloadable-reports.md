@@ -45,14 +45,27 @@ What do people want to use their downloadable reports for?
 ## Requirements
 
 ### Title
-Get a copy of your medical record  
+Share your medical record  
 
-### Information architecture
-Home > My Health > Share my medical record
-Home > My Health > Share my medical record > Manage your electronic medical record sharing options
+#### Information architecture
+Home > My Health > Share your medical record
+Home > My Health > Share your medical record > Manage your electronic medical record sharing options
+
+#### Intro section
+- H1: "Share your medical record"
+- Include explanatory intro text
+
+#### VA Health Summary
+- H2: "Download your health summmary (VA Health Summary)"
+- Include explanatory text explains what VA Health Summary is, and how it differs from Blue Button
+- A user should be able to start a task to download their VA Health Summary
+
+#### Blue button
+- H2: "Download your detailed medical record (Blue Button)"
+- Include explanatory text explaining what a Blue Button report is, and how it differs from VA Health Summary
+- A user should be able to start a flow to download their Blue Button report
 
 ### Blue Button Reports
-- We will continue to provide the ability to create and download Blue Button reports as these reports fill different needs for Veterans and contain different information than the Health Summary.
 - Once a Blue Button report has been generated, it can be viewed as a PDF or TXT file within an iframe, downloaded as a PDF or TXT file, or printed.
 - Users must be allowed to select the same types of data to include in their Blue Button report as they able to on the existing MyHealtheVet site.
 - The page that generates the Blue Button must present the last and most current generated reports, date and time they were generated, and links to view, print, or download them.
