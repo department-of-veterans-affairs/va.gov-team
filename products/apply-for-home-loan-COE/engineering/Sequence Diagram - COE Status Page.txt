@@ -14,7 +14,7 @@ vets-website<--vets-api: Application status (e.g. AVAILABLE), Reference #
 vets-website->vets-api:<align:center>Fetch notification letters\nGET /coe/documents</align>
 vets-api->LGY:<align:center>Fetch documents\nGET /documents</align>
 vets-api<--LGY:All documents in the LGY correspondence folder
-note over vets-api:<align:center>Filter documents to notification letters only</align>
+note over vets-api:<align:center>Filter documents to notification letters only\nusing documentType: "Veteran Correspondence"</align>
 vets-website<--vets-api:Notification letters
 
 note over vets-website:<align:center>Status page CTAs dependent on COE status.\nSee Product Guide, pg. 22, for list of statuses.</align>
@@ -26,6 +26,9 @@ alt Status is ELIGIBLE or AVAILABLE
 end
 alt Vet has notification letter(s)
   vets-website->vets-api:<align:center>Download notification letter\nGET /v0/coe/document_download/:id</align>
+  vets-api->LGY:<align:center>Fetch list of all vet's documents</align>
+  vets-api<--LGY: Document data, namely, document IDs
+  note over vets-api: Check whether requested ID is included\nwithin list of vet's document IDs.
   vets-api->LGY:<align:center>Fetch notification letter\nGET /document/:id/file</align>
   vets-api<--LGY:Notification letter
   vets-website<--vets-api:Notification letter

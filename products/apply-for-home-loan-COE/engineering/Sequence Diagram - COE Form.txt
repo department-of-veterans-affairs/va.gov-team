@@ -50,7 +50,6 @@ note over vets-api: Store copy of COE claim in DB, as saved_claim.
 vets-api->LGY: <align:center>Submit application\nPUT /application</align>
 vets-api<--LGY: Response
 note over vets-api: Associate persistent_attachments to saved_claim.
-note over vets-api:<align:center>Before submitting to LGY, tag attachments as "[ATTACHMENT]s"</align>
 vets-api->LGY:<align:center>Submit attachments\nPOST /document</align>
 vets-api<--LGY:Response
 vets-website<--vets-api:Reference #, claim metadata
