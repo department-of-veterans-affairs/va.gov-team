@@ -6,7 +6,7 @@ Date: February 6, 2023
 
 Liz Lantz, liz.lantz@adhocteam.us
 
-Research readout Link to come
+[Research readout PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/10699117/2023-profile-add-email-channel-findings-summary.pdf)
 
 **Jump to:**
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
