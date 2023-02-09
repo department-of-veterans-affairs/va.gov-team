@@ -163,6 +163,10 @@ This all depends on Florence having Github access.
 
 Note: This work needs tickets created.
 
+**Design - Liz**
+
+- Update Sketch files (if needed) and links to documentation for address validation
+
 **FE - Adam**
 
 - Remove feature flags for any accessibility work that has already launched #53357
@@ -181,7 +185,7 @@ Note: This work needs a ticket created.
 
 **Design - Liz**
 
-- TBD: Still need to scope future work with Liz
+- Create high-fidelity mockups for all states of the new notification preference design
 
 **FE - Adam**
 
