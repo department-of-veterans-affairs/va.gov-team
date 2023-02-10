@@ -124,11 +124,8 @@ Demographic goals:
 * At least 5 people must have an identified cognitive disability
 * At least 3 people must identify as Black, Hispanic, or Native
 * At least 3 people people are without a degree or professional certificate
-* At least 2 people must identify as other than male
-
-**Secondary criteria (nice-to-haves)**
-
 * At least 3 people who live in a rural or remote area
+* At least 2 people must identify as other than male
 * At least 2 non-native English speakers
 * At least 2 people who identify as gay, lesbian, bisexual, or transgender
 
