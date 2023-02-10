@@ -49,7 +49,7 @@ Before we start, a few things I want to mention:
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we finish analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording.*
+> *Start recording.*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -78,7 +78,7 @@ In a minute, I'm going to send you a link to a prototype. I mentioned earlier th
 
 Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
 
-*Screen: VA.gov homepage*
+> *Screen: VA.gov homepage*
 
 Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA]. First, you need to sign in.
 
@@ -86,18 +86,18 @@ Now that you have this open, I'd like you to start by imagining that you've just
 
 Thanks, you can go ahead and click sign in, now.
 
-*Screen: Sign in pop-up window*
+> *Screen: Sign in pop-up window*
 
 - Before we click anything, can you tell me what you would do next, if you were signing in?
 - Is DS Logon [or other credential they mention] usually how you sign in to the VA?
 
 Great, we're going to imagine you signed in with DS Logon, today. You can click sign in and we'll continue.
 
-*Screen: DS Logon sign in page*
+> *Screen: DS Logon sign in page*
 
 Let's pretend you put in your username and password. You can click Login, now.
 
-*Screen: Modal recommending migration*
+> *Screen: Modal recommending migration*
 
 - Before we read this in detail, can you describe to me what you're looking at, now?
 - Why do you think this has appeared on your screen?
@@ -122,32 +122,123 @@ I'm going to give you a second to read this more closely now. When you're finish
 
 Okay great. For today, let's imagine that you are going to set up a Login.gov account.
 
-*Screen: Modal recommending migration*
+> *Screen: Modal recommending migration*
 
 - Before you click anything, can you tell me what you would do first to set up an account?
-- Before you click anything, what do you expect to see when you click [that]?
+- Before you click anything, what do you expect to see when you click [repeat what they called it]?
 
-Great, let's go ahead and click [link text].
+Great, let's go ahead and click [read link's text].
 
-*Screen: Create an account*
+> *Screen: Create an account start page*
 
-As we go through the next couple of steps, I'd like for you to describe out loud what you're thinking or what you would do next. If you have a question or something interests you, let me know so we can chat about it.
+As we go through the next couple of screens, I'd like for you to describe out loud what you would do next. If you have a question or something interests you, let me know so we can chat about it.
 
-- 
+- What would you do next, here?
+- Any concerns?
+
+Great. Let's click create account.
+
+> *Screen: Create your account*
+
+- What would you do next?
+- Any concerns?
+
+Great. Let's click continue.
+
+> *Screen: Check your email*
+
+- What would you do next?
+- Any concerns?
+
+Great. We're going to imagine that you opened your email address on your [whatever device they're on currently]. You can click [I've asked Carolyn for click area].
+
+> *Screen: Email verification*
+
+- What would you do next?
+- Any concerns?
+
+Great. Let's click confirm email address and continue.
+
+> *Screen: Create a strong password*
+
+- What would you do next?
+- Any concerns?
+
+Great. Let's click continue.
+
+> *Screen: Multi-factor authentication start page*
+
+- Can you describe this page to me?
+- What would you do next?
+- Which option would you choose?
+- Any concerns?
+
+Great, thanks. Today, we're going to imagine that you choose to set up text or voice message. We'll continue and set that up.
+
+> *Screen: Text message MFA set up*
+
+- What would you do next?
+- What do you think will happen if we click 'send code'?
+- Any concerns?
+
+Great. Let's click send code, and imagine you are sent a code.
+
+> *Screen: Enter your security code*
+
+- What would you do next?
+- Any concerns?
+
+Great. Let's click submit.
+
+> *Screen: You've added your first authentication method*
+
+- What would you do next?
+- Any concerns?
+
+Great. For today, we're going skip setting up another method. 
+
+- Can you tell me how you would skip setting up an additional method?
+
+Great. Let's click skip for now.
+
+> *Screen: Your account setup is complete*
+
+- When you see this screen, what do you think this means?
+- Before you click anything, what do you expect to happen when you click 'agree and continue'?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the Veteran understand how to initiate the account setup flow?
+- Does the Veteran understand how to start their account creation, by entering their email address and creating a password?
+- Does the Veteran understand how to verify their email address and what's involved?
+- Does the Veteran face any issues through multi-factor authentication setup?
+- Which multi-factor authentication method would the Veteran choose?
 
-Can Veterans successfully initiate the account setup flow?
-Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
-Can Veterans successfully return back to the VA after setting up their account?
-Do Veterans understand they are now signed into Login.gov?
-Do Veterans have concerns about their data or information now that they use a different sign in method?
-Do Vetetans have concerns about their ability to continue accessing VA services, now that they have a new login method?
-Review whether Veterans understand what type of account they have set up with Login.gov and its limitations:
+## Third Task: Continue back to the VA - 10 minutes
+
+Great. Let's click agree and continue.
+
+> *Screen: Consent to go back to the VA*
+
+- What does this screen mean to you?
+- What do you expect to happen next?
+
+Great. Let's click [I'll update this with button text once prototype is updated].
+
+> *Screen: Continue back to the VA*
+
+- What does this screen mean to you?
+- What do you expect to happen next?
+
+Great. Let's click [I'll update this with button text once prototype is updated].
+
+### Things to watch for:
+
+- Does the Veteran understand how and why they are returning back to the VA after setting up their account?
+- Does the Veteran understand they are now signed into Login.gov?
+- Does the Veteran have any concerns about their data or information, after going through that process?
+- Does the Veteran have any concerns about their ability to continue accessing VA services, now that they have a new login method?
+- How does the Veteran understand what type of account they have set up with Login.gov (and its limitations)?
 
 Do Veterans understand why they're being asked to set up a Login.gov account?
 Do Veterans understand the type of Login.gov account they are being asked to set up?
@@ -157,11 +248,6 @@ Review whether Veterans know where to get help or what they will do if they enco
 
 What will Veterans do first if they encounter an issue?
 Do Veterans know where or how to get help if they encounter an issue?
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
 
 ### Things to watch for:
 
