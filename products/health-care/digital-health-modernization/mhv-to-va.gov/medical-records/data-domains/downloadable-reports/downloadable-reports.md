@@ -85,16 +85,30 @@ Home > My Health > Share your medical record > Manage your electronic medical re
   - Tell a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
   - Include a button to edit their preference that when clicked allows the user to edit, save, or cancel a change in place.
 
-#### VA Health Summary
-- H2: "Download your health summmary (VA Health Summary)"
-- Include explanatory text explains what VA Health Summary is, and how it differs from Blue Button
-- A user should be able to start a task to download their VA Health Summary
+### Page 2: Download your VA health summary
+- H1: "Download your VA health summary"
+- Include plain language explanatory intro text
+- H2: "Choose your file format and download your document"
+  - "We offer three file format options for this document. Choose the option that best meets your needs."
+    - Present three mutually exclusive options (i.e. radio buttons)
+    - Option 1: "PDF document (best for printing)"
+    - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
+    - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
+  - Include a button to download
+  - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
 
-#### Blue button
-- H2: "Download your detailed medical record (Blue Button)"
-- Include explanatory text explaining what a Blue Button report is, and how it differs from VA Health Summary
-- Include an alert that tells
-- A user should be able to start a flow to download their Blue Button report
+### Page 3: Download your VA Blue Button report
+- H1: "Download your VA health summary"
+- Include explanatory intro text
+- H2: "Choose your file format and download your document"
+  - "We offer three file format options for this document. Choose the option that best meets your needs."
+    - Present three mutually exclusive options (i.e. radio buttons)
+    - Option 1: "PDF document (best for printing)"
+    - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
+    - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
+  - Include a button to download
+  - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
+
 
 ### Blue Button Reports
 - Once a Blue Button report has been generated, it can be viewed as a PDF or TXT file within an iframe, downloaded as a PDF or TXT file, or printed.
@@ -187,7 +201,6 @@ Home > My Health > Share your medical record > Manage your electronic medical re
     - You can cancel download anytime. 
     - All requests to download are tracked, so they can see these requests in account activity history. 
   - A back button that allows a user to return to the previous page. 
-
 ## Research to date
 
 ### Findings from card sort
