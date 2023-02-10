@@ -86,7 +86,7 @@ This usability study will be conducted remotely on Zoom. We will test on both mo
 	
 ## Recruitment	
 
-*Tyler is reaching out to Shane as he’s testing new guidance for this section.*
+*Tyler has reached out to Shane as research-ops is trialling a new way of filling in recruitment criteria.*
 
 Before defining our recruitment strategy, we reviewed:
 * [Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md)
@@ -116,7 +116,7 @@ All participants:
 At least 9 participants:
 * Must not have a Login.gov or ID.me account set up.
 
-At **most** 1 participant:
+At **most** 2 participants:
 * Must have a Login.gov account set up, but not use it to sign in to the VA. For example, they use Login.gov to sign in to TSA Pre-check or USAJobs, but, when they sign in to VA.gov, they use DS Logon.
 
 Demographic goals:
@@ -145,9 +145,9 @@ In addition to demographic and device questions, we’ve provided the following 
 |Before February 27|Submit artifacts for Research Review|
 |Before March 3|Prototype is ready|
 |March 6-10|Pilot session [Need to update with details]|
-|March 13-17|Research sessions|
-|March 20-22|Analysis|
-|March 22-24|Share findings|
+|March 13-22|Research sessions|
+|March 22-34|Analysis|
+|March 27-29|Share findings|
 
 ### Pilot session
 
@@ -164,7 +164,7 @@ In addition to demographic and device questions, we’ve provided the following 
 
 #### Availability
 
-We’re providing the following time slots (20 total) with the aim to book 15 sessions:
+We’re providing the following time slots (30 total) with the aim to book 15 sessions:
 
 |Date|Time slots (EST)|Number of options per day|
 |:--|:--|:--|
@@ -173,6 +173,9 @@ We’re providing the following time slots (20 total) with the aim to book 15 se
 |Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm, 5-6pm|4 options|
 |Thursday, March 16th|8-9am, 1-2pm, 3-4pm, 5-6pm|4 options|
 |Friday, March 17th|8-9am, 10-11am, 12-1pm, 2-3pm|4 options|
+|Monday, March 13th|10-11am, 12-1pm, 3-4pm|3 options|
+|Tuesday, March 14th|9-10am, 11am-12pm, 1-2pm, 3-4pm|4 options|
+|Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm|3 options|
 
 ## Team Roles
 
