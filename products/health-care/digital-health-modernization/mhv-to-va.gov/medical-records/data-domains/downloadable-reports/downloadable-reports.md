@@ -80,10 +80,10 @@ Home > My Health > Share your medical record > Manage your electronic medical re
   - "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
   - There should be a link to navigate to the Download your Blue Button report page
 - Manage your electronic medical record sharing options
-  - "You can choose whether to share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE)."
-  - There should be a link to learn more about VHIE
-  - Include an alert that tells a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
-  - Include a link to a page where they can change their preference
+  - "Choose whether to share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE)."
+  - Include any additional information to help a user better understand this setting (work with content on this), what it enables, what opting into and out of this service means, and any additional information or links to learn about VHIE
+  - Tell a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
+  - Include a button to edit their preference that when clicked allows the user to edit, save, or cancel a change in place.
 
 #### VA Health Summary
 - H2: "Download your health summmary (VA Health Summary)"
