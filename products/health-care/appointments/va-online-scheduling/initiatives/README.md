@@ -4,7 +4,7 @@
 
 Image last updated: 2023-02-10
 
-[View the latest version of this roadmap (Mural)]
+[View the latest version of this roadmap (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1669852204497/247a12343defbdee115880da50c44f4e2c4526f1?sender=u7dbecf6fb28525e75ad98061)
 
 ## What we're working on
 
