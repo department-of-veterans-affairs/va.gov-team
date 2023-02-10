@@ -30,21 +30,21 @@ Coming out of our research we will create a service blueprint, recommended conce
 ### Research questions
 
 1. Understand how we can intervene proactively to ensure that new generations of Veterans use Login.gov or ID.me to access MHV from the beginning. 
--- At what moment or moments does it make the most sense for proactive intervention to encourage the creation of a Login.gov account? 
--- What is the most effective way of messaging and communicating the value of Login.gov? 
--- How can we best support the Veteran and non-Veteran roles post-initial setup of Login.gov?
+* At what moment or moments does it make the most sense for proactive intervention to encourage the creation of a Login.gov account? 
+* What is the most effective way of messaging and communicating the value of Login.gov? 
+* How can we best support the Veteran and non-Veteran roles post-initial setup of Login.gov?
 
 2. Understand what in-person support will enable Veterans who have technical or other challenges to create a Login.gov account and use Login.gov to access their MHV account. 
--- What is the most effective way of messaging and communicating the value of Login.gov and the need to migrate to using Login.gov to access MHV?  
--- During the in-person proofing process and account migration, what technical issues arise and other challenges arise for Veterans?  
--- How might messaging, support materials, and new workflows alleviate these challenges? 
+* What is the most effective way of messaging and communicating the value of Login.gov and the need to migrate to using Login.gov to access MHV?  
+* During the in-person proofing process and account migration, what technical issues arise and other challenges arise for Veterans?  
+* How might messaging, support materials, and new workflows alleviate these challenges? 
 
 3. Understand how we can make multi-factor authentication usable for the greatest number of Veterans. 
--- How can we best explain the value and process of MFA? 
--- Could Security keys offer a better MFA option for Veterans with unique challenges? 
--- What options for MFA would allow more Veterans to migrate to Login.gov? 
--- How can MFA support Veteran caregivers who need to access certain portions of Veteran information? 
--- If given the option to opt out of using MFA, would Veterans take it? 
+* How can we best explain the value and process of MFA? 
+* Could Security keys offer a better MFA option for Veterans with unique challenges? 
+* What options for MFA would allow more Veterans to migrate to Login.gov? 
+* How can MFA support Veteran caregivers who need to access certain portions of Veteran information? 
+* If given the option to opt out of using MFA, would Veterans take it? 
 
 ### Hypotheses
 
