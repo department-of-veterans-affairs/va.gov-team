@@ -18,7 +18,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Tyler and [NOTETAKER's NAME] is taking notes.
+Thanks for joining us today! My name is Tyler and [NOTETAKER'S NAME] is taking notes.
 
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
