@@ -46,7 +46,7 @@ We show this on the Veteran info page. Along with their name and date of birth.
 
 ### Intent to File (ITF)
 
-After completing the research and building the form, we were informed that a Supplemental Claim submission must include a compensation-type Intent to File (ITF, Form 21-0966) as per a [Federal Curcuit court decision on July 30, 2021](http://cafc.uscourts.gov/sites/default/files/opinions-orders/19-1600.OPINION.7-30-2021_1811957.pdf) ([interm guidance](https://docs.google.com/document/d/1KMDTsETnIUrqjHheUPjtdmk1pf-LPdkp)). We have been in discussions with stakeholders about this because only one compensation-type ITF is allowed to be active at a time. Adding one may cause the previous one to be closed. And if there is already an active ITF intended to be associated with a 526 submission, submitted a Supplemental Claim first would cause that active ITF to be associated with the Supplemental Claim.
+After completing the research and building the form, we were informed that a Supplemental Claim submission must include a compensation-type Intent to File (ITF, Form 21-0966) as per a [Federal Circuit court decision on July 30, 2021](http://cafc.uscourts.gov/sites/default/files/opinions-orders/19-1600.OPINION.7-30-2021_1811957.pdf) ([interim guidance](https://docs.google.com/document/d/1KMDTsETnIUrqjHheUPjtdmk1pf-LPdkp)). We have been in discussions with stakeholders about this because only one compensation-type ITF is allowed to be active at a time. Adding one may cause the previous one to be closed. And if there is already an active ITF intended to be associated with a 526 submission, submitting a Supplemental Claim first would cause that active ITF to be associated with the Supplemental Claim.
 
 The VA business stakeholders are currently in discussion on how to procees (as of Feb 2023). But for now, we're going to use the same endpoint that 526 uses.
 
@@ -225,7 +225,7 @@ flowchart TD
 <br />
 Notes:
 
-1. The "Add VA location" and "Add private facility" loop pages use a new list loop pattern that first builds up the content, then presents a summary page (documenation link pending).<br /><br />
+1. The "Add VA location" and "Add private facility" loop pages use a new list loop pattern that first builds up the content, then presents a summary page (documentation link pending).<br /><br />
 
     <details><summary>Single list loop with summary page pattern</summary>
 
@@ -246,11 +246,11 @@ Notes:
     Notes:
 
     1. On all but the first entry, a modal is shown asking if you want to remove the partial entry, otherwise navigation will occur
-    2. On the first entry, no modal is shown regarding removing the partial entry; when continuing or adding another, the first entry will focus on any form error messages otherwise navigation will occur.
+    2. On the first entry, no modal is shown regarding removing the partial entry; when continuing or adding another, the first entry will focus on any form error messages. Otherwise navigation will occur.
     3. When continuing or navigating back through a list of entries, the url will update the index in the URL search parameter (e.g. `?index=2`)
     4. Adding another entry will inject a new entry immediately after the current index. This fixes an issue where appending and jumping to the last index may leave invalid entries within the list. These invalid entries are then skipped and ignored if continuing on from the last entry. The issue only becomes apparent upon submitting the form.
     5. The save-in-progress component does not include the search parameter index, so using "finish this application later" and returning will always return to the first entry.
-    6. The page after the entry loop page (summary page in this flow), *must* control the back button destination so that the user navigates to the last entry - use a `CustomPage` with a custom back button to acheive this.
+    6. The page after the entry loop page (summary page in this flow), *must* control the back button destination so that the user navigates to the last entry - use a `CustomPage` with a custom back button to achieve this.
 
     </details><br />
 
@@ -266,9 +266,9 @@ Once submitted, Lighthouse has yet to auto-establish the form (submit directly),
 
 ### PACT act
 
-With the PACT act going into effect in Jan 2023, we discussed with the stakeholders the need to submit a Supplemental Claim that didn't include any evidence, since the Veteran may be filing with a presumptive condition. We concluded that a Supplemental Claim could be submitted without any evidence, but additiona context would need to be added to ensure the submission wasn't accidental for non-presumptive conditions.
+With the PACT act going into effect in Jan 2023, we discussed with the stakeholders the need to submit a Supplemental Claim that didn't include any evidence, since the Veteran may be filing with a presumptive condition. We concluded that a Supplemental Claim could be submitted without any evidence, but additional context would need to be added to ensure the submission wasn't accidental for non-presumptive conditions.
 
-[The design](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89#Version) included more content on the subtask start, introduction, 5103 acknowledgement, evidence summary and review & submit pages. This would be relevant to future non-PACT acts, so the wording was adjusted to accomodate.
+[The design](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89#Version) included more content on the subtask start, introduction, 5103 acknowledgement, evidence summary and review & submit pages. This would be relevant to future situations that won't require evidence submission (once the PACT act isn't applicable), so the wording was adjusted to accommodate.
 
 ### Use of `appStateSelector`
 
