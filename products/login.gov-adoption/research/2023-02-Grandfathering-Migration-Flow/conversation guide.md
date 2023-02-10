@@ -16,16 +16,16 @@
 - [ ] Ensure everyone except the participant is on mute
 - [ ] Where necessary, confirm the participant is able to hear and see you
 
-## Agenda
+## Agenda (1 hour)
 
-Intro: 5 minutes
-Warm-up: 5 minutes
-Task 1 (Sign in to VA.gov): 10 minutes
-Task 2 (Create an IAL1 Login.gov account): 15 minutes
-Task 3 (Continue back to the VA): 5 minutes
-Task 4 (Upgrade to an IAL2 Login.gov account): 10 minutes
-Cool down: 3 minutes
-Thank you: 2 minutes
+* Intro: 5 minutes
+* Warm-up: 5 minutes
+* Task 1 (Sign in to VA.gov): 10 minutes
+* Task 2 (Create an IAL1 Login.gov account): 15 minutes
+* Task 3 (Continue back to the VA): 10 minutes
+* Task 4 (Upgrade to an IAL2 Login.gov account): 10 minutes
+* Cool down: 3 minutes
+* Thank you: 2 minutes
 
 ## Intro - 5 minutes
 
