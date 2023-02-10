@@ -89,8 +89,6 @@ This usability study will be conducted remotely on Zoom. We will test on both mo
 	
 ## Recruitment	
 
-*Tyler has reached out to Shane as research-ops is trialling a new way of filling in recruitment criteria.*
-
 Before defining our recruitment strategy, we reviewed:
 * [Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md)
 * [Inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
@@ -100,6 +98,8 @@ Before defining our recruitment strategy, we reviewed:
 ### Recruitment approach
 
 We will use Perigean to recruit Veterans for this moderated study, aiming for maximum variation sampling (MVS). Doing sequential rounds of research will not only let us iterate on the product, it will help us reach (or get closer to) MVS, as we'll aim to fill underrepresented gaps with each subsequent round.
+
+We've submitted a [recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/233).
 
 ### Recruitment criteria
 
