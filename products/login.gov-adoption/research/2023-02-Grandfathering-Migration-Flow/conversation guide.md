@@ -117,6 +117,7 @@ I'm going to give you a second to read this more closely now. When you're finish
 - Does the Veteran appear confused at all throughout the sign-in flow?
 - Does the Veteran appear motivated to set up a Login.gov account when initially prompted?
 - Does the Veteran appear hesitant or confident about what they're being asked to do?
+- Does the Veteran know where or how to get help if they encounter an issue?
 
 ## Task 2: Create an IAL1 Login.gov Account - 20 minutes
 
@@ -213,8 +214,9 @@ Great. Let's click skip for now.
 - Does the Veteran understand how to verify their email address and what's involved?
 - Does the Veteran face any issues through multi-factor authentication setup?
 - Which multi-factor authentication method would the Veteran choose?
+- Does the Veteran know where or how to get help if they encounter an issue?
 
-## Third Task: Continue back to the VA - 10 minutes
+## Task 3: Continue back to the VA - 10 minutes
 
 Great. Let's click agree and continue.
 
@@ -232,28 +234,45 @@ Great. Let's click [I'll update this with button text once prototype is updated]
 
 Great. Let's click [I'll update this with button text once prototype is updated].
 
+> *Screen: (Back on VA.gov) You've successfully signed in with Login.gov
+
+Okay. Before we talk about this screen, I'd like to reflect on what just happened.
+
+- In your own words, can you tell me what we just did?
+- Do you have any concerns about what just happened?
+- What website are you on now?
+- Why do you think you're on [however they describe VA.gov] now?
+
+I'm going to give you a second to read this screen now. Then, I'd like you to summarize to me what you read.
+
+- Can you summarize what you just read?
+- What is this screen trying to tell you?
+
+Now, remember, when we started today, we said you were coming online to [reference the task they're doing today on VA.gov]. 
+
+- Do you have any concerns about your ability to [do that task]?
+- If you logged out right now, and you needed to log back in tomorrow, how would you login? What account would you use? Why?
+- 
+
 ### Things to watch for:
 
 - Does the Veteran understand how and why they are returning back to the VA after setting up their account?
-- Does the Veteran understand they are now signed into Login.gov?
+- Does the Veteran understand they are now signed in with Login.gov?
 - Does the Veteran have any concerns about their data or information, after going through that process?
 - Does the Veteran have any concerns about their ability to continue accessing VA services, now that they have a new login method?
+- Does the Veteran that they have set up a Login.gov account to use in place of DS Logon moving forward?
 - How does the Veteran understand what type of account they have set up with Login.gov (and its limitations)?
+- Does the Veteran know where or how to get help if they encounter an issue?
 
-Do Veterans understand why they're being asked to set up a Login.gov account?
-Do Veterans understand the type of Login.gov account they are being asked to set up?
-Do Veterans understand that they should now stop using DS Logon and use Login.gov to sign in moving forward?
-Are Veterans motivated to upgrade to an IAL2 Login.gov account at a later date, why or why not?
-Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
+## Task 4: Upgrade to IAL2
 
-What will Veterans do first if they encounter an issue?
-Do Veterans know where or how to get help if they encounter an issue?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the Veteran appear motivated to upgrade to an IAL2 Login.gov account?
+- Does the Veteran understand why they're being asked to upgrade (based on how well they understand their current account)?
+- Does the Veteran have any concerns about their ability to continue accessing VA services, after seeing this screen?
+- Does the Veteran know where or how to get help if they encounter an issue?
 
 ## Cool down - 5 minutes
 
