@@ -1,5 +1,7 @@
-# Roadmap
+# VAOS FE Initiatives
+Folders in this section contain all the information needed to track our major initiatives. See also our [Zenhub boards](#what-were-working-on).
 
+## Roadmap
 ![VAOS Roadmap Q1 2023 - last updated February 10th](https://user-images.githubusercontent.com/2536801/218145981-96d33ea9-0c24-4249-b509-0db11b3cc73e.png)
 
 Image last updated: 2023-02-10
