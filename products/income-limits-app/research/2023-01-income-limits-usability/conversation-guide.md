@@ -111,7 +111,7 @@ I would like you first to share your screen with me--a web browser please. You m
 
 *if they have 50% or higher disability rating, do they say that income limits don't apply to them? Y / N / ____________*
 
-How would you get started?
+Can you show me how you would find out if you're eligible for VA health care with your current income?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
 - *RECORD where they go on VA.gov: Cost of care page / Eligibility page / ______________________*
