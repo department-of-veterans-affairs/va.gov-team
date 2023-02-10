@@ -1,9 +1,10 @@
 # Roadmap
 
-![Alt text](file:///VAOS%20Roadmap%20Q1%202023_2023-02-10_16-31-39.png)
-Last updated: 2023-02-10
+![VAOS Roadmap Q1 2023 - last updated February 10th](https://user-images.githubusercontent.com/2536801/218145981-96d33ea9-0c24-4249-b509-0db11b3cc73e.png)
 
-Current roadmap (Mural)
+Image last updated: 2023-02-10
+
+[View the latest version of this roadmap (Mural)]
 
 ## What we're working on
 
