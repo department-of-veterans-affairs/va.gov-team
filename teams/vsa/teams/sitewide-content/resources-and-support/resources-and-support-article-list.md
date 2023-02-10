@@ -83,3 +83,4 @@
 | 81 | [O*NET Interest Profiler career assessment](https://www.va.gov/resources/onet-interest-profiler-career-assessment) | Careers and employment benefits hub | 10/28/22 |
 | 82 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov) | VA account and profile | 12/19/22 |
 | 83 | [VA tier 1 medication list](https://www.va.gov/resources/va-tier-1-medication-list) | Health care | 12/22/22 |
+| 84 | [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 2/10/23 |
