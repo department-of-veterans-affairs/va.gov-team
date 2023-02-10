@@ -5,7 +5,7 @@ This is a high-level summary of the Collaboration Cycle process. Please refer to
 ## TABLE OF CONTENTS
 - [GUIDELINES FOR FOLLOWING THIS PROCESS](#guidelines-for-following-this-process)
 - [DESIGN PHASE](#design-phase)
-    - [STEP 1: CREATE COLLAB CYCLE TICKET (PRODUCT)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/team/collab-cycle-steps.md#step-1-create-collab-cycle-ticket-product)
+    - [STEP 1: CREATE COLLAB CYCLE TICKET (PRODUCT)](#step-1-create-collab-cycle-ticket-product)
     - [STEP 2: DESIGN INTENT (UX: DESIGN)](#step-2-design-intent-ux-design)
     - [STEP 3: SITEWIDE CONTENT AND IA (UX: DESIGN)](#step-3-sitewide-content-and-ia-ux-design)
 - [DISCOVERY PHASE](#discovery-phase)
