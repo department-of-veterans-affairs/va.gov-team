@@ -103,7 +103,7 @@ We will use Perigean to recruit Veterans for this moderated study, aiming for ma
 
 ### Recruitment criteria
 
-We need to recruit 10 Veterans for this study. We suggest scheduling 15 participants in order to achieve 10 completed sessions.
+We need to recruit 15 Veterans for this study in order to achieve 10 completed sessions.
 
 **Primary criteria (must-haves)**
 
@@ -116,21 +116,21 @@ All participants:
 * Must have signed into a VA application (including VA.gov, My HealtheVet or eBenefits) in the last 6 months
 * Must use DS Logon (as their credential service provider) to sign in to the VA. If Veterans aren’t sure what this means or what they use, this can be confirmed by asking them to sign into VA.gov and confirming how they logged in.
 
-At least 9 participants:
+**At least** 13 participants:
 * Must not have a Login.gov or ID.me account set up.
 
-At **most** 2 participants:
+**At most** 2 participants:
 * Must have a Login.gov account set up, but not use it to sign in to the VA. For example, they use Login.gov to sign in to TSA Pre-check or USAJobs, but, when they sign in to VA.gov, they use DS Logon.
 
 Demographic goals:
-* At least 5 people people are over 55
-* At least 5 people must have an identified cognitive disability
-* At least 3 people must identify as Black, Hispanic, or Native
-* At least 3 people people are without a degree or professional certificate
-* At least 3 people who live in a rural or remote area
-* At least 2 people must identify as other than male
-* At least 2 non-native English speakers
-* At least 2 people who identify as gay, lesbian, bisexual, or transgender
+* At least 50% of people must be over 55
+* At least 50% of people must have an identified cognitive disability
+* At least 30% of people must identify as Black, Hispanic, or Native
+* At least 30% of people must be without a degree or professional certificate
+* At least 30% of people must live in a rural or remote area
+* At least 20% of people must identify as other than male
+* At least 20% of people must be non-native English speakers
+* At least 20% of people must identify as gay, lesbian, bisexual, or transgender
 
 ### Screener questions
 
