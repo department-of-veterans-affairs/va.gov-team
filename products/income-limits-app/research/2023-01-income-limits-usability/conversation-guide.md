@@ -142,9 +142,9 @@ What do you think you can do here?
 ### Task 4: [Answer questions in app] 
 How would you use this? Please talk me through what you would do, but not click anywhere yet.
 
--*(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
+- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
 
--*(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+- *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
   - *Zip code--*
   - *Dependents--*
   - *VA Aid and Attendance*
@@ -155,27 +155,32 @@ How would you use this? Please talk me through what you would do, but not click 
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
 
-*RECORD: Which accordions did they open? household income / individual income limits / income too high*
+- *RECORD: Which accordions did they open? household income / individual income limits / income too high*
 
 How is your income involved here?
 
-*RECORD: Understand that it's your previous year's income that's relevant? yes / no*
+- *RECORD: Understand that it's your previous year's income that's relevant? yes / no*
 
 If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
-*PROBE on meaning of "free" or "no copays"*
+- *PROBE on meaning of "free" or "no copays"*
 
 If your income last year was $25,000, what would that mean? *(RECORD)*
 
 What if your income was $100,000? *(RECORD)*
 
-*RECORD: any comments about benefits (in bullets)*
+- *RECORD: any comments about benefits (in bullets)*
 
-*RECORD: any comments about deductions*
+- *RECORD: any comments about deductions*
 
 ### Task 6: [What next]
-What would you do next? *(RECORD: apply for VA health care / Back / ________________)*
+Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
+
+- *RECORD what they say: definitive answer / only part of the answer / ______________*
+
+What would you do next? 
+- *(RECORD: apply for VA health care / Back / ________________)*
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
