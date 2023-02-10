@@ -14,6 +14,14 @@ Starting point for appointments-related projects on VA.gov.
 * [VA Employee-Patient Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veterans%20Outpatient%20Journey%20Map.pdf)
 </details>
 
+## Service maps
+
+[DRAFT - appointments service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1646415445176/4452f42daeedeff133c89080638c6035395d9a80?sender=ub08ff1d80ee7bd38d6c02354)
+Still a WIP but, but this map covers the end-to-end appointment experience.
+
+[Notifications service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?sender=ub08ff1d80ee7bd38d6c02354)
+Map of the appointment notifications space from [this service map study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md).
+
 ## Research
 See the appointments on VA.gov [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md).
 
