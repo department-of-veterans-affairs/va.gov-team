@@ -1,6 +1,8 @@
 # VA Online Scheduling
 VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
 
+[Other Veteran-facing healthcare appointment tools](../README.md)
+
 ## Product vision
 Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online.
 
@@ -8,50 +10,34 @@ Deliver a seamless and positive experience for any Veteran who wants to schedule
 A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
 
 [VAOS Product Outline](vaos-product-outline.md)
-[Other Veteran-facing appointments tools](../README.md)
 
 **Jump to**
 
-- [What we're working on]()
-- [Quick links]()
-  - [Product]()
-  - [Engineering]()
-  - [User Experience]()
-  - [Support and incident response]()
-- [VAOS features](#vaos-features)
-- [VAOS team contact information]()
+[TBD - add links to all headings]
 
 ## What we're working on
 
 High-level overview of our current projects:
-- [Current initiatives]()
 - [Product roadmap]()
+- [Main epics Zenhub board](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
 
-[Main epics Zenhub board]()<br> 
-Rolls up tickets from two other boards: 
+The main board rolls up tickets from two other boards: 
 * [Engineering board]() - Work currently being developed
 * [Product/design board]() - Product, design, and research
 
-## VAOS General Reference
+## Documentation
 
-- [Business rules]()
-- [User flows]()
-- [Copy docs]()
-- [Page templates]()
-- [User research]()
-- [Analytics]()
+New to the team? [Read the onboarding docs]().
 
-## Other Documentation Spaces
+This GitHub folder is the central document hub for the VAOS product, but other important documentation exists in:
+
+- [GitHub sensitive repo]()
 - [DSVA Mural]()
 - [Teams]()
 - [Figma]()
 - [Confluence]() (Requires VA network)
 
-
-
-## Quick links
-
-### Product and UX
+### Product and User Experience
 
 | Product | User Experience |
 |---|---|
@@ -72,7 +58,20 @@ Rolls up tickets from two other boards:
 
 ### Support and Incident Response
 
-## VAOS Features
+- [VAOS incident response process](department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/engineering/incident_response/readme.md)
+- [VAOS support process](department-of-veterans-affairs/va.gov-team/products/health-care/appointments/va-online-scheduling/product/vaos-support-process.md)
+
+### Research and analytics
+
+- [User research]()
+- [Analytics]()
+
+## How VAOS works
+
+- [Business rules]()
+- [User flows]()
+- [Copy docs]()
+- [Page templates]()
 
 ### View appointment lists
 An overview of appointments and requests. Helps get a sense of appointments at a high level.
@@ -124,20 +123,9 @@ How Veterans can schedule or request appointments through VAOS
 | Request community care | | |
 
 
-## Team contact information
-
-Find team members and channels in the [DSVA Slack Space]().
-
-### Slack channels
-
-| Channel | Used for | 
-|---|---|
-| **#vaos-team** | Start here. Main channel for any general product, engineering, or design questions for VAOS front-end or backend teams. |
-| #vaos-engineering | VAOS engineering PPG channel. | 
-| #va-appointments-ux | User experience questions and coordination for VAOS, check-in, and mobile teams |
+## The team
 
 ### Team members
-
 
 **OCTO Product Owners**
 - Kay Lawyer
@@ -163,5 +151,31 @@ Find team members and channels in the [DSVA Slack Space]().
 - Jennie McGibney
 - Tony Williams
 
-**QA**
-- Marcy Nadeau (lead)
+### How we we work together
+
+[Team Charter](team/charter.md)
+
+### Communication channels
+
+Find team members and channels in the [DSVA Slack Space]().
+
+| Channel | Used for | 
+|---|---|
+| **#vaos-team** | Start here. Main channel for any general product, engineering, or design questions for VAOS front-end or backend teams, including: <br> - Team announcements, broad notifications <br> - Coordinated communication related to rollouts, releases, and launches <br> - SQA- and testing-related questions. |
+| #vaos-fe-meetup | VAOS FE team internal discussions. Private channel for [VAOS FE team members](#team-members). |
+| #vaos-engineering | VAOS engineering PPG channel. | 
+| #vaos-eng | Engineering practice and technical discussions. |
+| #vaos-alerts | Grafana alerts | 
+| #vaos-pull-requests | Pull request reminders |
+| #va-appointments-ux | User experience questions and coordination for VAOS, check-in, and mobile teams |
+
+## Who We Work With
+
+- VA Mobile Framework (VAMF) Team:
+  - Steve Eaton, Portfolio Manager
+  - Steven Brush, Engineering Lead
+  - Brad Crosby, Engineering Lead
+  - Judy Mercado, Business Analyst
+  - Steve Alcocer, Business Analyst
+  - Grace Palino, Production Support/SQA Project Manager
+  - Marcy Nadeau, SQA Tester
