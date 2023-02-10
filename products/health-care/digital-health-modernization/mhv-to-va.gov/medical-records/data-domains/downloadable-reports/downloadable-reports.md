@@ -58,8 +58,6 @@ Therefore, this section will have a total of four pages.
 flowchart TB;
     A[Share your medical record]-->B[Download your Blue Button report];
     A[Share your medical record]-->C[Download your VA Health Summary];
-    A[Share your medical record]-->D[Manage your electronic medical record sharing options];
-
 ```
 Home > My Health > Share your medical record
 Home > My Health > Share your medical record > Download your Blue Button report
@@ -87,7 +85,7 @@ Home > My Health > Share your medical record > Manage your electronic medical re
 
 ### Page 2: Download your VA health summary
 - H1: "Download your VA health summary"
-- Include plain language explanatory intro text
+- Include plain language explanatory intro text. This should include the categories that are included in your Health Summary report.
 - H2: "Choose your file format and download your document"
   - "We offer three file format options for this document. Choose the option that best meets your needs."
     - Present three mutually exclusive options (i.e. radio buttons)
@@ -95,11 +93,14 @@ Home > My Health > Share your medical record > Manage your electronic medical re
     - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
     - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
   - Include a button to download
-  - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
+  - Other notes:
+    - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
+    - We will NOT provide the ability to send a health summary as that capability is provided by Community Care via CCD Direct.
+
 
 ### Page 3: Download your VA Blue Button report
-- H1: "Download your VA health summary"
-- Include explanatory intro text
+- H1: "Download your VA Blue Button report"
+- Include plain language explanatory intro text. This should include the categories that included in your Blue Button report.
 - H2: "Choose your file format and download your document"
   - "We offer three file format options for this document. Choose the option that best meets your needs."
     - Present three mutually exclusive options (i.e. radio buttons)
@@ -107,100 +108,10 @@ Home > My Health > Share your medical record > Manage your electronic medical re
     - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
     - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
   - Include a button to download
-  - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
+  - Other notes:
+    - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
+    - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
 
-
-### Blue Button Reports
-- Once a Blue Button report has been generated, it can be viewed as a PDF or TXT file within an iframe, downloaded as a PDF or TXT file, or printed.
-- Users must be allowed to select the same types of data to include in their Blue Button report as they able to on the existing MyHealtheVet site.
-- The page that generates the Blue Button must present the last and most current generated reports, date and time they were generated, and links to view, print, or download them.
-- We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
-- On top of the Download My Selected Data page, there should be information that tells a user: 
-  - How to use the VA Blue Button Report [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf)
-  - Learn more about it [link](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)
-  - How to protect their personal health information [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
-- On the Download My Selected Data page, there should be two sections, which are select date range and select types of information. 
-  - Select date range
-    - Date range selections (3 months, 6 months, 1 year) 
-    - Start date - End date (calendar selection)
-  - Select types of information 
-    - Select all types of information, **OR:**
-    - Appointments
-      - Future VA appointments
-      - Past VA appointments (limited to past 2 years) 
-      - All of the above
-    - Medications
-      - VA medication history 
-      - Medications and supplements, self-reported
-      - All of the above
-    - Labs and tests 
-      - VA laboratory results (available 36 hours after verification; COVID-19 results available immediately after receipt by VA)
-      - VA pathology reports (available 36 hours after completion)
-      - VA radiology reports (available 36 hours after completion)
-      - VA EKG historical exam dates (EKG dates are no longer updated. They may continue to view their historical EKG dates)
-      - Lab and tests, self-reported
-      - All of the above
-    - VA electronic health record history and wellness reminders
-      - VA problem list (available 36 hours after entry)
-      - VA care summaries and notes (discharge summary and notes available 36 hours after completion, except C&P notes, C&P is claim exam) 
-      - VA wellness reminders (no longer updated)
-      - All of the above
-    - Allergies 
-      - VA allergies and adverse reactions
-      - Allergies, self-reported
-      - All of the above
-    - Vaccines
-      - VA Vaccines
-      - Vaccines, self-reported
-      - All of the above
-    - Vitals and readings
-      - VA vitals and readings
-      - Vitals and readings, self-reported
-      - All of the above
-    - Self-reported health history 
-      - Medical events, self-reported
-      - Family health history, self-reported
-      - Military health history, self-reported
-      - Treatment facilities, self-reported
-      - Health care providers, self-reported
-      - All of the above
-    - Food and activity journals 
-      - Activity journal, self-reported
-      - Food journal, self-reported
-      - All of the above
-    - Goals
-      - My goals: current goals, self-reported
-      - My goals: completed goals, self-reported
-      - All of the above
-    - Demographics and health insurance 
-      - VA demographics
-      - Demographics, self-reported
-      - Health insurance, self-reported
-      - All of the above
-    - Department of defense information
-      - Department of defense military service information
-
-### VA Health Summary Reports
-- We will continue to provide the ability to create and download VA Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
-- Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF, TXT, or XML file.
-- The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
-- On the VA Health Summary Download Results page, it should include: 
-  - VA Health Summary user guide [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf)
-  - Learn more [link](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more)
-  - What's in the VA health summary? [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf)
-  - A list of files that are (not) ready to download: 
-    - File contents
-    - File name
-    - Request date and time
-    - Status (ready to download / Request being processed)
-    - I want to...(links to view or download in PDF, TXT, XML)
-  - A user should be informed about downloading their VA Health Summary Report: 
-    - Before a user gets to the download results page, there should be a plain language explaination on what VA Health Summary is and how a user can use it.  
-    - How to protect their information and identity [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
-    - The information in the health summary can be updated once each day.
-    - You can cancel download anytime. 
-    - All requests to download are tracked, so they can see these requests in account activity history. 
-  - A back button that allows a user to return to the previous page. 
 ## Research to date
 
 ### Findings from card sort
