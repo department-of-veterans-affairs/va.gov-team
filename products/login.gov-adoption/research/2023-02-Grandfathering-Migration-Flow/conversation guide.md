@@ -1,5 +1,5 @@
-# Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
-*Grandfathering Migration Flow Usability Test (Round 1), February 2023*
+# Conversation Guide: Grandfathering Migration Flow Usability Test (Round 1)
+*Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
 ## Moderator logistics
 ### 2-3 days before the session
