@@ -44,17 +44,35 @@ What do people want to use their downloadable reports for?
 
 ## Requirements
 
-### Title
-Share your medical record  
+### Includes
+Blue Button reports
+VA Health Summary
+Manage your electronic medical record sharing options
 
-#### Information architecture
+### Information architecture and user flow
+The current thinking is that we should allow users to access their downloadable report together and these should be framed as ways to share your information, rather than view your information. 
+
+Therefore, this section will have a total of four pages. 
+
+```mermaid
+flowchart TB;
+    A[Share your medical record]-->B[Download your Blue Button report];
+    A[Share your medical record]-->C[Download your VA Health Summary];
+    A[Share your medical record]-->D[Manage your electronic medical record sharing options];
+
+```
 Home > My Health > Share your medical record
+Home > My Health > Share your medical record > Download your Blue Button report
+Home > My Health > Share your medical record > Download your VA Health Summary
 Home > My Health > Share your medical record > Manage your electronic medical record sharing options
 
-#### Intro section
+### Page 1: Share your medical record
 - H1: "Share your medical record"
 - Include explanatory intro text
-
+- There should be three sections on this page
+  - Download your Blue Button report
+  - Download your VA Health Summary
+  - Manage your electronic medical record sharing options
 #### VA Health Summary
 - H2: "Download your health summmary (VA Health Summary)"
 - Include explanatory text explains what VA Health Summary is, and how it differs from Blue Button
