@@ -286,7 +286,7 @@ Great, thank you! Those are all of the questions I have for you today.
 
 - Do you have any questions for me?
 
-## Thank-You and Closing - X minutes
+## Thank you - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -294,7 +294,7 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-## Emergency Exit
+## Emergency exit
 
 Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
