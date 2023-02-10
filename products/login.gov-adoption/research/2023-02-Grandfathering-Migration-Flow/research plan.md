@@ -114,10 +114,10 @@ We need to recruit 15 Veterans for this study in order to achieve 10 completed s
 
 All participants:
 * Must be Veterans
-* Must have a computer, tablet or smartphone and be willing to complete their sessions on one of those devices
-* Must be willing to share a web browser window on their device
-* Must have a working microphone on their device
-* Must have Zoom downloaded to their device prior to the session and know how to share their screen
+* Must have a computer and be willing to complete their sessions on this device (Note: In subsequent rounds, we will include and favour mobile testing)
+* Must be willing to share a web browser window on their computer
+* Must have a working microphone on their computer
+* Must have Zoom downloaded to their computer prior to the session and know how to share their screen
 * Must have signed into a VA application (including VA.gov, My HealtheVet or eBenefits) in the last 6 months
 * Must use DS Logon (as their credential service provider) to sign in to the VA. If Veterans aren’t sure what this means or what they use, this can be confirmed by asking them to sign into VA.gov and confirming how they logged in.
 
