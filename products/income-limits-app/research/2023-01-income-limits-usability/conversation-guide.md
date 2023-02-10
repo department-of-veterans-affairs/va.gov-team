@@ -176,10 +176,13 @@ What if your income was $100,000? *(RECORD)*
 
 ### Task 6: [What next]
 Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
+- *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
 
-- *RECORD what they say: definitive answer / only part of the answer / ______________*
+How would you decide what to do next? 
 
-What would you do next? 
+What do you plan to do next? 
+
+How did this tool help or not help you decide what to do?
 - *(RECORD: apply for VA health care / Back / ________________)*
 
 ### Task 7: [Check info entered]
