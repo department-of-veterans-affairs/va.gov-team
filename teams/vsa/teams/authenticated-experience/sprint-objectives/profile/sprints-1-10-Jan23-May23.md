@@ -165,12 +165,12 @@ Note: This work needs tickets created.
 
 **Design - Liz**
 
-- Update Sketch files (if needed) and links to documentation for address validation - Liz and Berni discussed this item, and there's no additional work needed here. The Sketch files and use case documentation reflect the changes FE is making. Once FE changes are complete, this work is complete. 
+- Update Sketch files (if needed) and links to documentation for address validation << Liz and Berni discussed this item, and there's no additional work needed here. The Sketch files and use case documentation reflect the changes FE is currently making. Once FE changes are complete, this work is complete. 
 
 **FE - Adam**
 
 - Remove feature flags for any accessibility work that has already launched #53357
-- Depending on what Adam recommends from his sprint 3 investigation for [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041), there might be additional work and next steps. We can determine if there are actual tickets to work on, and if so, what Adam might be able to do this sprint.
+- Depending on what Adam recommends from his sprint 3 investigation for [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041), there might be additional work and next steps. We can determine if there are actual tickets to work on, and if so, what Adam might be able to do this sprint. << Adam and Berni discusssed this item, and decided it's best to wait to revisit after finishing Sprint 3 investigation work which is still in progress.
 
 ### Direct deposit migration
 
@@ -189,9 +189,14 @@ Note: This work needs a ticket created.
 
 **FE - Adam**
 
-Note: [Adam outlined how this work should be broken down in this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49251#issuecomment-1404057076). Please work with him to get tickets created, and then we can add whatever is manageable to this sprint.
+Note: [Adam outlined how this work should be broken down in this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49251#issuecomment-1404057076). Please work with him to get tickets created, and then we can add whatever is manageable to this sprint. << Done, here are the tickets:
+- Feature Toggle for Mobile # Editing Page #53531
+- Build editing page for profile #53545
+- Note: These below will likely need to go to Sprint 5 (Berni has not yet added these to Sprint 5 list yet - Discuss w/ Samara):
+  - Build the new page for the mobile # #53547
+  - Rollout, Cleanup of edit mobile phone page #53549
 
-- Begin work to update Notifications page with new flow for adding a mobile number
+- Begin work to update Notifications page with new flow for adding a mobile number << Done, see above
 
 ### Military info research
 
