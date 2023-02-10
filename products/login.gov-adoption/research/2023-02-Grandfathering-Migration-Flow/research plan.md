@@ -149,7 +149,7 @@ In addition to demographic and device questions, we’ve provided the following 
 |Before March 3|Prototype is ready|
 |March 6-10|Pilot session [Need to update with details]|
 |March 13-22|Research sessions|
-|March 22-34|Analysis|
+|March 22-24|Analysis|
 |March 27-29|Share findings|
 
 ### Pilot session
