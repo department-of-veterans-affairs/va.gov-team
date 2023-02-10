@@ -4,7 +4,7 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - [ ] Send instructions to observers (such as using the #feedback-backchannel for observer comments, joining the waiting room, having their cameras and microphones muted)
-- [ ] Prepare prototype link to send to participants
+- [ ] Ensure prototype(s) are prepared and Perigean will share them with participants
 
 ### Day of the session
 - [ ] Prepare prototype on your device and be ready for screen sharing if necessary
@@ -58,6 +58,8 @@ I'd like to start by learning more about your experience with the VA and some of
 - Does the Veteran recall using DS Logon, MHV, Login.gov or ID.me to sign in?
 
 ## First Task: Signing into VA.gov - 10 minutes
+
+Next, I'm going to share something we're working on with you so I can get your feedback.
 
 - Step 1
 - Step 2
