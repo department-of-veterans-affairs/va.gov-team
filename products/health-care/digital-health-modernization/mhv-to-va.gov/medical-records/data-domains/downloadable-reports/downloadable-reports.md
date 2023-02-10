@@ -70,9 +70,21 @@ Home > My Health > Share your medical record > Manage your electronic medical re
 - H1: "Share your medical record"
 - Include explanatory intro text
 - There should be three sections on this page
-  - Download your Blue Button report
-  - Download your VA Health Summary
+  - Download your VA health summary
+  - Download your VA Blue Button report
   - Manage your electronic medical record sharing options
+- Download your VA health summary
+  - "Your health summary includes specific information from your VA medical records like your known allergies, medicines, and recent lab results."
+  - There should be a link to navigate to the Download your VA health summary page
+- Download your VA Blue Button report
+  - "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
+  - There should be a link to navigate to the Download your Blue Button report page
+- Manage your electronic medical record sharing options
+  - "You can choose whether to share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE)."
+  - There should be a link to learn more about VHIE
+  - Include an alert that tells a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
+  - Include a link to a page where they can change their preference
+
 #### VA Health Summary
 - H2: "Download your health summmary (VA Health Summary)"
 - Include explanatory text explains what VA Health Summary is, and how it differs from Blue Button
@@ -81,6 +93,7 @@ Home > My Health > Share your medical record > Manage your electronic medical re
 #### Blue button
 - H2: "Download your detailed medical record (Blue Button)"
 - Include explanatory text explaining what a Blue Button report is, and how it differs from VA Health Summary
+- Include an alert that tells
 - A user should be able to start a flow to download their Blue Button report
 
 ### Blue Button Reports
