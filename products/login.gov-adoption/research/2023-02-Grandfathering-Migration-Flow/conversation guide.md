@@ -16,7 +16,7 @@
 - [ ] Ensure everyone except the participant is on mute
 - [ ] Where necessary, confirm the participant is able to hear and see you
 
-## Agenda (1 hour)
+## Agenda - 60 minutes
 
 * Intro: 5 minutes
 * Warm-up: 5 minutes
@@ -78,16 +78,26 @@ In a minute, I'm going to send you a link to a prototype. I mentioned earlier th
 
 Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
 
+*Screen: VA.gov homepage*
+
 Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA]. First, you need to sign in.
 
 - Can you tell me what you would do first, to sign in?
 
 Thanks, you can go ahead and click sign in, now.
 
+*Screen: Sign in pop-up window*
+
 - Before we click anything, can you tell me what you would do next, if you were signing in?
 - Is DS Logon [or other credential they mention] usually how you sign in to the VA?
 
 Great, we're going to imagine you signed in with DS Logon, today. You can click sign in and we'll continue.
+
+*Screen: DS Logon sign in page*
+
+Let's pretend you put in your username and password. You can click Login, now.
+
+*Screen: Modal recommending migration*
 
 - Before we read this in detail, can you describe to me what you're looking at, now?
 - Why do you think this has appeared on your screen?
@@ -98,7 +108,8 @@ I'm going to give you a second to read this more closely now. When you're finish
 - Can you summarize what you just read, for me?
 - Do you have any initial questions, after reading this?
 - In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
-- Let's say that you were going to set up a Login.gov account today. What would you do first?
+- What hesitations do you have about setting up a Login.gov account?
+- Why do you think the VA is recommending that you set up a Login.gov?
 
 ### Things to watch for:
 
@@ -109,8 +120,20 @@ I'm going to give you a second to read this more closely now. When you're finish
 
 ## Task 2: Create an IAL1 Login.gov Account - 20 minutes
 
-- Step 1
-- Step 2
+Okay great. For today, let's imagine that you are going to set up a Login.gov account.
+
+*Screen: Modal recommending migration*
+
+- Before you click anything, can you tell me what you would do first to set up an account?
+- Before you click anything, what do you expect to see when you click [that]?
+
+Great, let's go ahead and click [link text].
+
+*Screen: Create an account*
+
+As we go through the next couple of steps, I'd like for you to describe out loud what you're thinking or what you would do next. If you have a question or something interests you, let me know so we can chat about it.
+
+- 
 
 ### Things to watch for:
 
