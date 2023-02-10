@@ -181,9 +181,9 @@ Please stay on this screen. What do you think about this information and your qu
 How would you decide what to do next? 
 
 What do you plan to do next? 
+- *(RECORD: apply for VA health care / Back / ________________)*
 
 How did this tool help or not help you decide what to do?
-- *(RECORD: apply for VA health care / Back / ________________)*
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
