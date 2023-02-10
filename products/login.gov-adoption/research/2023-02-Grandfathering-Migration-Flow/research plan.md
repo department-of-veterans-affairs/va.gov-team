@@ -84,11 +84,11 @@ This usability study will be conducted remotely on Zoom. We will test on both mo
 
 In half of the sessions, we will test Prototpye A with Veterans. In the other half of the sessions, we will test Prototype B with Veterans. Both flows are nearly identical, but each has an alternative trigger or starting point:
 - Prototype A: Modal is triggered after a Veteran signs in
-- Prototype B: [In development]
+- Prototype B: [TBD]
 
 ### Research materials
 
-- [Conversatio guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide.md)
 - Prototypes:
 	- [Prototype A: Modal after sign-in]([url](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311))
 	- [Need to add link to Prototype B](url)
