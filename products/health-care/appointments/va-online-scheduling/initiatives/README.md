@@ -1,37 +1,15 @@
-# Initiatives
-This folder contains documentation for larger-scale projects. Below is a timeline of key milestones from the initiatives.
+# Roadmap
 
-## Timeline
+![Alt text](file:///VAOS%20Roadmap%20Q1%202023_2023-02-10_16-31-39.png)
+Last updated: 2023-02-10
 
-### 2021
+Current roadmap (Mural)
 
-**August**
-- August 9, 2021 - Direct scheduling re-enabled on Production for all users
+## What we're working on
 
-**July**
-- July 20, 2021 - Homepage Refresh launch
+High-level overview of our current projects:
+- [Main epics Zenhub board](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
 
-**June**
-- June 30, 2021 - Homepage Refresh staged rollout starts
-
-**May**
-- May 5, 2021 - COVID-19 vaccine scheduling "go" for national rollout
-
-**April**
-- April 26, 2021 - Community Care provider selection MVP launch
-- April 22, 2021 - Express Care sunset (toggle turned off)
-
-**March**
-- March 31, 2021 - VAOS COVID-19 vaccine scheduling ("Cheetah"/VAOS for Distribution) pilot starts
-
-**February**
-- February 17, 2021 - Community Care provider selection staged rollout starts
-
-
-### 2020
-
-**August**
-- August 20, 2020 - Express Care launch
-
-**March**
-- March 11, 2020 - VAOS redesign soft launches on VA.gov
+The main board rolls up tickets from two other boards: 
+- [Engineering board](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board) - Work currently in development 
+- [Product/design board](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/board) - Product, design, and research being considered for development

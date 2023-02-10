@@ -2,7 +2,6 @@
 
 Welcome! Start with the [VAOS Project Hub](../README.md), then review the following.
 
-
 ## Onboarding checklist
 
  - [ ] Read the [team charter](charter.md)
@@ -11,7 +10,7 @@ Welcome! Start with the [VAOS Project Hub](../README.md), then review the follow
  - [ ] Review documentation specific to your team. 
 
 
- ### Learn how VAOS works
+### Learn how VAOS works
 
 
 ## Product and User Experience
