@@ -16,22 +16,22 @@
 - [ ] Ensure everyone except the participant is on mute
 - [ ] Where necessary, confirm the participant is able to hear and see you
 
-## Agenda (Need to adjust)
+## Agenda
 
-Introduction: 5 minutes
-Warm-up: 10 minutes
-Tasks 1: 10 minutes
-Task 2: 20 minutes
-Task 3: 10 minutes
-Task 4: 10 minutes
-Cool down: 5 minutes
-Thank you: 5 minutes
+Intro: 5 minutes
+Warm-up: 5 minutes
+Task 1 (Sign in to VA.gov): 10 minutes
+Task 2 (Create an IAL1 Login.gov account): 15 minutes
+Task 3 (Continue back to the VA): 5 minutes
+Task 4 (Upgrade to an IAL2 Login.gov account): 10 minutes
+Cool down: 3 minutes
+Thank you: 2 minutes
 
-## Introduction - 5 minutes
+## Intro - 5 minutes
 
 Thanks for joining us today! My name is Tyler and [NOTETAKER'S NAME] is taking notes.
 
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+I also have a few other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 
@@ -60,9 +60,11 @@ I'd like to start by learning more about your experience with the VA and some of
 - How long have you been a Veteran?
 - How often do you go online to access and manage your VA benefits and health care?
 - Do you remember the last time you signed into the VA online?
-- Why were you signing in, that day? (What we're you trying to do, that day?)
-- Can you describe to me how it usually works when you sign into VA.gov (or eBenefits or MHV)? What do you do first?
+- Why were you signing in, that day? [What we're you trying to do, that day?]
+- Can you describe to me how it usually works when you sign into VA.gov [or eBenefits or MHV]? What do you do first?
 - Is there anything else you want to share with me about signing in, before we move on?
+
+Great, thanks!
 
 ### Things to watch for:
 - Does the Veteran recall whether they usually start on VA.gov, eBenefits, My HealtheVet or another VA application?
@@ -70,19 +72,52 @@ I'd like to start by learning more about your experience with the VA and some of
 
 ## Task 1: Sign into VA.gov - 10 minutes
 
-Next, I'm going to share something we're working on with you so I can get your feedback.
+Next, I’d like to share some ideas with you so we can get your feedback.
+
+In a minute, I'm going to send you a link to a prototype. This prototype is a pretend version of the VA website. So it's going to look similar, but we won't actually be typing information in today.
+
+Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
+
+Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA]. First, you need to sign in.
+
+- Can you tell me what you would do first, to sign in?
+
+Thanks, you can go ahead and click sign in, now.
+
+- Before we click anything, can you tell me what you would do next, if you were signing in?
+- Is DS Logon [or other credential they mention] usually how you sign in to the VA?
+
+Great, we're going to imagine you signed in with DS Logon, today. You can click sign in and we'll continue.
+
+- Before we read this in detail, can you describe to me what you're looking at, now?
+- Why do you think this has appeared on your screen?
+- Now, remembering that, in this scenario, you signed in to [reference the task they are doing]. What would you do if you saw this screen, instead?
+
+I'm going to give you a second to read this more closely now. When you're finished, I'd like you to summarize what you read.
+
+- Can you summarize what you just read, for me?
+- Do you have any initial questions, after reading this?
+- In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
+- Let's say that you were going to set up a Login.gov account today. What would you do first?
+
+### Things to watch for:
+
+- Does the Veteran use DS Logon (or another credential) to sign in, usually?
+- Does the Veteran appear confused at all throughout the sign-in flow?
+- Does the Veteran appear motivated to set up a Login.gov account when initially prompted?
+- Does the Veteran appear hesitant or confident about what they're being asked to do?
+
+## Task 2: Create an IAL1 Login.gov Account - 20 minutes
 
 - Step 1
 - Step 2
 
 ### Things to watch for:
 
-- Does VA.gov look familiar to the Veteran?
-- Does the Veteran notice or mentioned the different sign in options, on the sign in page?
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
 
-Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
-[If we are prepared to test an alternate flow, with a different trigger] Are Veterans more or less motivated by the alternate flow?
-How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
 Can Veterans successfully initiate the account setup flow?
 Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
 Can Veterans successfully return back to the VA after setting up their account?
@@ -99,17 +134,6 @@ Review whether Veterans know where to get help or what they will do if they enco
 
 What will Veterans do first if they encounter an issue?
 Do Veterans know where or how to get help if they encounter an issue?
-
-## Task 2: Create an IAL1 Login.gov Account - 25 minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 ## Third Task: [TASK NAME] - X minutes
 
