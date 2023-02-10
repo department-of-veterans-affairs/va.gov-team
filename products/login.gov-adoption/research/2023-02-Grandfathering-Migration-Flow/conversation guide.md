@@ -16,7 +16,18 @@
 - [ ] Ensure everyone except the participant is on mute
 - [ ] Where necessary, confirm the participant is able to hear and see you
 
-## Intro - 5 minutes
+## Agenda (Need to adjust)
+
+Introduction: 5 minutes
+Warm-up: 10 minutes
+Tasks 1: 10 minutes
+Task 2: 20 minutes
+Task 3: 10 minutes
+Task 4: 10 minutes
+Cool down: 5 minutes
+Thank you: 5 minutes
+
+## Introduction - 5 minutes
 
 Thanks for joining us today! My name is Tyler and [NOTETAKER'S NAME] is taking notes.
 
@@ -42,7 +53,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions - 5 minutes
+## Warm-up - 5 minutes
 
 I'd like to start by learning more about your experience with the VA and some of our online services.
 
@@ -57,7 +68,7 @@ I'd like to start by learning more about your experience with the VA and some of
 - Does the Veteran recall whether they usually start on VA.gov, eBenefits, My HealtheVet or another VA application?
 - Does the Veteran recall using DS Logon, MHV, Login.gov or ID.me to sign in?
 
-## First Task: Signing into VA.gov - 10 minutes
+## Task 1: Sign into VA.gov - 10 minutes
 
 Next, I'm going to share something we're working on with you so I can get your feedback.
 
@@ -89,8 +100,7 @@ Review whether Veterans know where to get help or what they will do if they enco
 What will Veterans do first if they encounter an issue?
 Do Veterans know where or how to get help if they encounter an issue?
 
-
-## Second Task: [TASK NAME] - X minutes
+## Task 2: Create an IAL1 Login.gov Account - 25 minutes
 
 - Step 1
 - Step 2
