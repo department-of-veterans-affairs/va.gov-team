@@ -110,6 +110,7 @@ I'm going to give you a second to read this more closely now. When you're finish
 - In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
 - What hesitations do you have about setting up a Login.gov account?
 - Why do you think the VA is recommending that you set up a Login.gov?
+- If you had a question about this screen, what would you do?
 
 ### Things to watch for:
 
@@ -136,6 +137,7 @@ As we go through the next couple of screens, I'd like for you to describe out lo
 
 - What would you do next, here?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click create account.
 
@@ -143,6 +145,7 @@ Great. Let's click create account.
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click continue.
 
@@ -150,6 +153,7 @@ Great. Let's click continue.
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. We're going to imagine that you opened your email address on your [whatever device they're on currently]. You can click [I've asked Carolyn for click area].
 
@@ -157,6 +161,7 @@ Great. We're going to imagine that you opened your email address on your [whatev
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click confirm email address and continue.
 
@@ -164,6 +169,7 @@ Great. Let's click confirm email address and continue.
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click continue.
 
@@ -173,6 +179,7 @@ Great. Let's click continue.
 - What would you do next?
 - Which option would you choose?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great, thanks. Today, we're going to imagine that you choose to set up text or voice message. We'll continue and set that up.
 
@@ -181,6 +188,7 @@ Great, thanks. Today, we're going to imagine that you choose to set up text or v
 - What would you do next?
 - What do you think will happen if we click 'send code'?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click send code, and imagine you are sent a code.
 
@@ -188,6 +196,7 @@ Great. Let's click send code, and imagine you are sent a code.
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click submit.
 
@@ -195,6 +204,7 @@ Great. Let's click submit.
 
 - What would you do next?
 - Any concerns?
+- If there was an issue on this page, what would you do?
 
 Great. For today, we're going skip setting up another method. 
 
@@ -206,6 +216,7 @@ Great. Let's click skip for now.
 
 - When you see this screen, what do you think this means?
 - Before you click anything, what do you expect to happen when you click 'agree and continue'?
+- If there was an issue on this page, what would you do?
 
 ### Things to watch for:
 
@@ -224,6 +235,7 @@ Great. Let's click agree and continue.
 
 - What does this screen mean to you?
 - What do you expect to happen next?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click [I'll update this with button text once prototype is updated].
 
@@ -231,6 +243,7 @@ Great. Let's click [I'll update this with button text once prototype is updated]
 
 - What does this screen mean to you?
 - What do you expect to happen next?
+- If there was an issue on this page, what would you do?
 
 Great. Let's click [I'll update this with button text once prototype is updated].
 
@@ -247,12 +260,12 @@ I'm going to give you a second to read this screen now. Then, I'd like you to su
 
 - Can you summarize what you just read?
 - What is this screen trying to tell you?
+- If there was an issue on this page, what would you do?
 
-Now, remember, when we started today, we said you were coming online to [reference the task they're doing today on VA.gov]. 
+Now, you'll remember that when we started today, we imagined you were online to [reference the task they're doing today on VA.gov]. 
 
-- Do you have any concerns about your ability to [do that task]?
-- If you logged out right now, and you needed to log back in tomorrow, how would you login? What account would you use? Why?
-- 
+- Do you have any concerns about your ability to [do that task] now?
+- If you logged out of the VA right now, and you needed to log back in tomorrow, how would you login? What account would you use? Why?
 
 ### Things to watch for:
 
@@ -266,6 +279,23 @@ Now, remember, when we started today, we said you were coming online to [referen
 
 ## Task 4: Upgrade to IAL2
 
+We're nearly done today, thank you for answering so many of my questions already.
+
+Next, I'd like us to imagine that some time has passed since you set up this Login.gov account. So, a couple months later, you log back into the VA, using Login.gov. And you'll see this screen pop-up.
+
+> *Screen: Modal recommending upgrade to IAL2*
+
+- Before we read this in detail, can you describe to me what you're looking at, now?
+- Why do you think this has appeared on your screen?
+
+I'm going to give you a second to read this more closely now. When you're finished, I'd like you to summarize what you read.
+
+- Can you summarize what you just read, for me?
+- Do you have any initial questions, after reading this?
+- Would you be interested in upgrading your account? Why or why not?
+- Why do you think the VA is recommending that you upgrade your Login.gov account?
+- If you choose not to upgrade your Login.gov account, what do you think will happen?
+- If you had a question about this screen, what would you do?
 
 ### Things to watch for:
 
@@ -289,6 +319,8 @@ Great, thank you! Those are all of the questions I have for you today.
 ## Thank you - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Before you go, I do want to make sure it's clear that everything we did today wasn't real. So you haven't actually set up a Login.gov account or changed the way you sign in to the VA. You can continue to do that as normal.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
