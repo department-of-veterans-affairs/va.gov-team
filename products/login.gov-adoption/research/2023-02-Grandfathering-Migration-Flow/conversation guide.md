@@ -51,6 +51,7 @@ I'd like to start by learning more about your experience with the VA and some of
 - Do you remember the last time you signed into the VA online?
 - Why were you signing in, that day? (What we're you trying to do, that day?)
 - Can you describe to me how it usually works when you sign into VA.gov (or eBenefits or MHV)? What do you do first?
+- Is there anything else you want to share with me about signing in, before we move on?
 
 ### Things to watch for:
 - Does the Veteran recall whether they usually start on VA.gov, eBenefits, My HealtheVet or another VA application?
