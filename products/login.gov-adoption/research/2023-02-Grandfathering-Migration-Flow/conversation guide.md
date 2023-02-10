@@ -1,4 +1,4 @@
-# [In Progress] Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
+Conversation Guide: Login.gov Adoption Team, Legacy Credential Migration
 *Grandfathering Migration Flow Usability Test Round 1, February 2023*
 
 ## Moderator logistics
@@ -10,6 +10,7 @@
 - [ ] Prepare prototype on your device and be ready for screen sharing if necessary
 - [ ] Mute Slack and email notifications
 - [ ] Use #feedback-backchannel to interact with observers (including asking for 'observer instructions' from the Slackbot)
+- [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/research%20plan.md)
 
 ### Starting the session
 - [ ] Ensure everyone except the participant is on mute
@@ -41,23 +42,50 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions - 10 minutes
+## Warm-up Questions - 5 minutes
 
-I'd like to start by learning more about your experience with the VA.
+I'd like to start by learning more about your experience with the VA and some of our online services.
 
-- Add questions
+- How long have you been a Veteran?
+- How often do you go online to access and manage your VA benefits and health care?
+- Do you remember the last time you signed into the VA online?
+- Why were you signing in, that day? (What we're you trying to do, that day?)
+- Can you describe to me how it usually works when you sign into VA.gov (or eBenefits or MHV)? What do you do first?
 
-## First Task: [TASK NAME] - X minutes
+### Things to watch for:
+- Does the Veteran recall whether they usually start on VA.gov, eBenefits, My HealtheVet or another VA application?
+- Does the Veteran recall using DS Logon, MHV, Login.gov or ID.me to sign in?
+
+## First Task: Signing into VA.gov - 10 minutes
 
 - Step 1
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Does VA.gov look familiar to the Veteran?
+- Does the Veteran notice or mentioned the different sign in options, on the sign in page?
+
+Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
+[If we are prepared to test an alternate flow, with a different trigger] Are Veterans more or less motivated by the alternate flow?
+How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
+Can Veterans successfully initiate the account setup flow?
+Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
+Can Veterans successfully return back to the VA after setting up their account?
+Do Veterans understand they are now signed into Login.gov?
+Do Veterans have concerns about their data or information now that they use a different sign in method?
+Do Vetetans have concerns about their ability to continue accessing VA services, now that they have a new login method?
+Review whether Veterans understand what type of account they have set up with Login.gov and its limitations:
+
+Do Veterans understand why they're being asked to set up a Login.gov account?
+Do Veterans understand the type of Login.gov account they are being asked to set up?
+Do Veterans understand that they should now stop using DS Logon and use Login.gov to sign in moving forward?
+Are Veterans motivated to upgrade to an IAL2 Login.gov account at a later date, why or why not?
+Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
+
+What will Veterans do first if they encounter an issue?
+Do Veterans know where or how to get help if they encounter an issue?
+
 
 ## Second Task: [TASK NAME] - X minutes
 
