@@ -14,7 +14,7 @@
 
 ### Starting the session
 - [ ] Ensure everyone except the participant is on mute
-- [ ] Ensure the "Play Join and Leave Sound" is unchecked (in the Participant "more" menu)
+- [ ] Where necessary, confirm the participant is able to hear and see you
 
 ## Intro - 5 minutes
 
