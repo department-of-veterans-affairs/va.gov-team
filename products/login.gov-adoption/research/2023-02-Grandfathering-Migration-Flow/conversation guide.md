@@ -74,7 +74,7 @@ Great, thanks!
 
 Next, I’d like to share some ideas with you so we can get your feedback.
 
-In a minute, I'm going to send you a link to a prototype. This prototype is a pretend version of the VA website. So it's going to look similar, but we won't actually be typing information in today.
+In a minute, I'm going to send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of the VA website. So it's going to look similar, but it won't work as you might expect it, because it's not a real website.
 
 Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
 
