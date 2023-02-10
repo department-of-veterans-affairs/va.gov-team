@@ -274,11 +274,17 @@ Now, remember, when we started today, we said you were coming online to [referen
 - Does the Veteran have any concerns about their ability to continue accessing VA services, after seeing this screen?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Cool down - 5 minutes
+## Cool down - 3 minutes
 
-- Question 1
-- Question 2
-- Do you have any questions for me? 
+We covered a lot today. I'd just like to spend a couple minutes now reflecting, before we wrap up.
+
+- Can you summarize what it is you did today, as you clicked through that prototype?
+- Out of everything you looked at today, is there anything that sticks out to you now? [This might be something particularly confusing, or interesting]
+- Is there anything we could do to make it easier for you to set up a Login.gov account, to use at the VA?
+
+Great, thank you! Those are all of the questions I have for you today.
+
+- Do you have any questions for me?
 
 ## Thank-You and Closing - X minutes
 
