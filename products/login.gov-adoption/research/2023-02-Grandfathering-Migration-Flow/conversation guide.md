@@ -290,4 +290,8 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
+Blame technology: I'm so sorry, but I just learned that the prototype we'll be reviewing today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+These are based on recommendations from the [VA platform documentation](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies).
