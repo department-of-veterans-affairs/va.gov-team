@@ -165,7 +165,7 @@ Note: This work needs tickets created.
 
 **Design - Liz**
 
-- Update Sketch files (if needed) and links to documentation for address validation
+- Update Sketch files (if needed) and links to documentation for address validation - Liz and Berni discussed this item, and there's no additional work needed here. The Sketch files and use case documentation reflect the changes FE is making. Once FE changes are complete, this work is complete. 
 
 **FE - Adam**
 
@@ -185,7 +185,7 @@ Note: This work needs a ticket created.
 
 **Design - Liz**
 
-- Create high-fidelity mockups for all states of the new notification preference design
+- Create high-fidelity mockups for all states of the new notification preference design #53529
 
 **FE - Adam**
 
