@@ -96,7 +96,7 @@ Before defining our recruitment strategy, we reviewed:
 
 ### Recruitment approach
 
-We will use Perigean to recruit Veterans for this moderated study, aiming for maximum variation sampling.
+We will use Perigean to recruit Veterans for this moderated study, aiming for maximum variation sampling (MVS). Doing sequential rounds of research will not only let us iterate on the product, it will help us reach (or get closer to) MVS, as we'll aim to fill underrepresented gaps with each subsequent round.
 
 ### Recruitment criteria
 
