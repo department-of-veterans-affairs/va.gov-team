@@ -37,15 +37,18 @@ The key goals of this study are to:
 
 ### Outcome
 
-This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We will aim to find solutions to any issues that are surfaced through testing. If we uncover issues within the Login.gov flow, we will make recommendations to our partners at Login.gov.
+This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We are aiming to test two different flows; each with an alternate trigger. We will aim to make a decision about whether to move forward with one or both potential triggers, based on findings.
 
-This research will inform a built prototype, which we will use for accessibility testing with blind and low vision users.
+We will aim to find solutions to any issues that are surfaced through testing. If we uncover issues within the Login.gov flow, we will make recommendations to our partners at Login.gov.
+
+This research will inform a built prototype(s), which we will use for accessibility testing with blind and low vision users in the next round of testing.
 
 ### Research questions
 
 Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
 
 * Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
+* [If we are prepared to test an alternate flow, with a different trigger] Are Veterans more or less motivated by the alternate flow?
 * How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
 * Can Veterans successfully initiate the account setup flow?
 * Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
