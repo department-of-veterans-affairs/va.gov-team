@@ -90,6 +90,8 @@ Home > My Health > Share your medical record > Download your VA health summary
 ### Page 2: Download your VA health summary
 - H1: "Download your VA health summary"
 - Include plain language explanatory intro text. This should include the categories that are included in your Health Summary report.
+- Include when the health summary was last updated. 
+- At the top of the page, a user should be able to quickly learn about disclaimers about the VA health summary.
 - Form label question: "Choose the file format option that best meets your needs (*Required)"
     - Present three mutually exclusive options (i.e. radio buttons)
       - Option 1: "PDF document (best for printing)"
@@ -109,6 +111,7 @@ Home > My Health > Share your medical record > Download your VA health summary
 ### Page 3: Download your VA Blue Button report
 - H1: "Download your VA Blue Button report"
 - Include plain language explanatory intro text. This should include the categories that are included in your Blue Button report.
+- At the top of the page, a user should be able to quickly learn about disclaimers about the VA health summary.
 - Question 1 Form label: "Select date range (*Required)"
   - Hint text: "Your report will only include information from the date range you select"
   - Present four mutually exclusive file format options (this should look similar to what was prototype for Secure Messaging)
