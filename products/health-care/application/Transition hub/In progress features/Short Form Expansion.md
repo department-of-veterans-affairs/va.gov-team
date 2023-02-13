@@ -58,6 +58,7 @@ N/A
 Include notes about which Platform process was in use when this feature was in design and development.
 
 - Ongoing discussions with HEC Leadership on how best to expand Short Form flow eligibility
+- We have been trying to re-start conversations on this topic, but have been largely ignored, and now the project lead has left which leaves a gap in communications with the HEC leadership team.
 
 
 <br>
