@@ -7,7 +7,7 @@ Last updated: February 13, 2023 | [Change Log](#change-log)
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. 
 
 ## Description of domain
-This domain contains demographic information about the Veteran.  At the time of this writing (2/13/2023) it is unclear whether including this information within the confines of the new MyHealtheVet portal on VA.gov is needed as it likely overlaps or duplicates data already available on VA.gov.
+This domain contains demographic information about the Veteran.  At the time of this writing (2/13/2023) it is unclear whether including this information within the confines of the new MyHealtheVet portal on VA.gov is needed, as it likely overlaps or duplicates data already available on VA.gov.
 
 ## Relevant links
 
@@ -108,15 +108,15 @@ See Excel sheet below.
 ## UX considerations
 
 ### When to show Demographics section
-
+- TBD
 
 **Where do Demographics fit within IA?**
-
+- TBD
 
 
 ### How to show Demographics section
 - What should the screen look like? What information should be seen? What should be hidden? 
-
+  - TBD
 
 
 **View vs. share vs. download considerations:**
