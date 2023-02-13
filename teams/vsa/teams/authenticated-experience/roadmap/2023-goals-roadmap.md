@@ -126,7 +126,7 @@ For Q2, our goals are to launch the notifications work we started in Q1 CY2023, 
 - **OCTO objective**: None
 - **Team objective**: Maintenance & UX improvements
 
-For Q2 CY2023, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
+For Q2, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
 
 ### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
@@ -136,6 +136,13 @@ For Q2 CY2023, we'll be ready to conduct QA, go through pre-launch activities, a
 In order to be able to add email as a channel, we need to do two things: add the default-send indicator, and update the UI to move from a radio button to checkbox design. We'll likely complete the default send work in Q2, and start the UI updates in Q2 but launch them in Q3.
 
 Behind the scenes, Samara is coordinating backend implementation of the MHV notification preferences in VA Profile, which use email as a channel. Once those have been implemented in VA Profile and MHV, we should be in good shape to add them to our UI.
+
+### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-wayfinding-research/README.md)
+
+- **OCTO objective**: Refresh the VA.gov homepage and information architecture
+- **Team objective**: Improve IA and navigation for tasks and tools
+ 
+In Q2, we'll be running some generative user research to uncover what problems people have navigating the logged-in experience. After research synthesis, we'll work with Mikki and Chante to figure out next steps.
 
 ## Q3 - Q4 CY2023 (July - December)
 
