@@ -44,7 +44,7 @@ _Modify and extend the ProfileInfoTable_
 	- The `ProfileInfoTable` accpets an array of complex objects, and we would be adding to the complexity of each object.
 	- Sane defaults need to be adhered, and capturing rendering edge cases may prove more difficult.
 
-_Make a New InfoTable Component_
+_Make a New InfoTable/Card Component_
 
 - Render a new InfoTable style component that can be more flexible for how it does row layout. It could maintain some of the main functionality of the existing component, but may go at things in a different 
 
@@ -71,3 +71,17 @@ _Build Unique Components for each Info table's needs_
 	- The most code of any solution, and the most maintenance required aka highest LOE/cost
 	- If we decide to go back to a more global reusable pattern, then migration will be needed.
 	- Styling differences may be introduced within pages if not careful
+
+
+## Conclusion
+
+After discusing the options at length a decision has been made to move forward with a new Component for displaying the info (the second option).
+
+- Existing component can be used as is, and breaking changes cannot leak into that component in production.
+- The new component will not have to work around any existing code bloat or logic that may not be needed in the new version.
+- Nested components could be used to provide an easy wrapper for different ways of rendering content.
+- A more semantic component name, most likely 'InfoCard' can be used to provide a better understanding of the UI layout of the component. The existing Table component really isn't a table as it just has a heading and data in the main body section, and there are no columns, and also are no actual `table`, `tr`, or other table html elements present in it.
+- Switching between the new and old component will be able to be done via a feature toggle in insolated usages, and allow incremental adoption.
+- Deprecating the old component will prove easiest and will just be a matter of removing the feature toggle, related logic, and component itself.
+
+
