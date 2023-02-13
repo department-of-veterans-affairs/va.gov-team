@@ -72,8 +72,8 @@ Home > My Health > Share your medical record > Download your VA health summary
 - **H1: "Share your medical record"**
 - Below the H1, include explanatory text that says, "Download and share a copy of your VA medical records and personal health information."
 - There should be three sections on this page
-  - Download your VA health summary
-  - Download your VA Blue Button report
+  - VA health summary
+  - VA Blue Button report
   - Manage your electronic medical record sharing options
 - **H2: "VA health summary"**
   - Below the H2, include explanatory text that says, "Your VA health summary provides a summary of health information that you can use to review your medical record and to share essential information with your health care providers."
