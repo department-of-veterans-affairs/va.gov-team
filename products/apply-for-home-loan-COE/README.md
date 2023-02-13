@@ -34,7 +34,7 @@ We bet that if Veterans have a simple way of checking their eligibility on their
 
 ## KPIs
 We think these are the signals that indicate whether or not our bet is accurate.
-- Number of conversions from submission to to approval
+- Number of conversions from submission to approval
 - Average time to approval
 - Number of Contact Center calls
 - Number of data errors
