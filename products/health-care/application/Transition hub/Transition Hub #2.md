@@ -46,6 +46,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/HCA.Product.Guide.docx)
 - [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) (various points of information we learned since the last transition in April 2022)
+- [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
 
 
 
