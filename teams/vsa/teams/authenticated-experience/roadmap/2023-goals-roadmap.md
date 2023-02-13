@@ -103,15 +103,6 @@ Furthermore, with passage of the PACT Act, there is renewed internal interest in
  
 We're aware of some high-level problems people have navigating the logged in experience on VA.gov -- eg. if a link isn't on the homepage or My VA, people tend to have trouble finding what they need. However, we've never conducted more holistic research that evaluates navigating the logged in experience. This research effort aims to dive deeper into users' problems with and expectations around navigating VA.gov once they're signed in. We'll be partnering with Mikki to conduct a research review, analytics review, and user research that will be used to inform work throughout this calendar year.
 
-### Initiatives Samara is tracking that will impact our team later on
-
-#### Get MHV notification preferences into the VA Profile backend
-
-- **OCTO objective**: Integrate the health portal features into VA.gov
-- **Team objective**: Support the health apartment migration; Scale notification preferences
-
-Samara is working with MHV and VA Profile to get VA Profile to support the MHV notification preferences. After VA Profile supports these preferences and MHV integrates their profile with the VA Profile backend, we'll be able to bring these preferences into the VA.gov profile. 
-
 ## Q2 CY2023 (April - June)
 
 Samara's maternity leave!! I'll be out most of this quarter.
@@ -143,6 +134,8 @@ For Q2 CY2023, we'll be ready to conduct QA, go through pre-launch activities, a
 - **Team objective**: Scale notification preferences
 
 In order to be able to add email as a channel, we need to do two things: add the default-send indicator, and update the UI to move from a radio button to checkbox design. We'll likely complete the default send work in Q2, and start the UI updates in Q2 but launch them in Q3.
+
+Behind the scenes, Samara is coordinating backend implementation of the MHV notification preferences in VA Profile, which use email as a channel. Once those have been implemented in VA Profile and MHV, we should be in good shape to add them to our UI.
 
 ## Q3 - Q4 CY2023 (July - December)
 
