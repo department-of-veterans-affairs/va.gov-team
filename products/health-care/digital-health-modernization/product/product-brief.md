@@ -54,8 +54,8 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Contractors (Ad Hoc)** 
 -	Design: Jonathan Nelson
 -	Research: Robyn Singleton
--	Engineering: Patrick Vinograd
 -	Engineering: Eric Voshall
+-	Engineering: Daniel Cloud
 -	Product: Marci McGuire
 
 ## Business Partners
