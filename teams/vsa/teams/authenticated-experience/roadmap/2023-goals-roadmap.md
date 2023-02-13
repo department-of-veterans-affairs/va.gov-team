@@ -1,6 +1,6 @@
 # Authenticated experience: 2023 goals & roadmap
 
-**Last updated: January 30, 2023**
+**Last updated: February 13, 2023**
 
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
