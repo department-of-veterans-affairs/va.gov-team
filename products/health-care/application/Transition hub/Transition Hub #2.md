@@ -142,7 +142,8 @@ This table includes links to the individual feature directory and the latest ite
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
+- **TBD** (main point of contact between the program and VA.gov) - Tarsha Tremble was previous HEC Project lead, and has moved to another position. As of 2/13/2023, we are still pending a new project lead.
+- Edward Horne | edward.horne@va.gov -- Associate Director, HEC
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
@@ -163,7 +164,7 @@ This table includes links to the individual feature directory and the latest ite
 
 - 10-10EZ Online Application Update
    - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
-   - Tarsha is main POC for agenda
+   - **TBD** is main POC for agenda
 
 
 
