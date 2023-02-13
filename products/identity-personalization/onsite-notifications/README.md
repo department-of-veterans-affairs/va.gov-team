@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: January 30, 2023 updates Roles section with new team members**
+**Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
 
 ### Communications
 
@@ -132,6 +132,8 @@ Currently, there is only one notification to test (2022). In the future, there m
 - The frontend connects to VANotify via an API we set up.
 - Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
 - If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
+
+### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
 
 ### When are the notifications fetched from the server?
 
