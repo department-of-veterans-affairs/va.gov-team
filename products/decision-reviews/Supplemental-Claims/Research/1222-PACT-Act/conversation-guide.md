@@ -185,6 +185,7 @@ _Goal: Review the claim information that you’ve entered, understand how to cha
  - Delete?
  - Start over?
 - What do you think happens next?
+- What do you expect this confirmation page to have?
 
 #### Things to watch out for:
 * Do users understand the accordion behavior to review each section?
