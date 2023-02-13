@@ -133,8 +133,6 @@ Currently, there is only one notification to test (2022). In the future, there m
 - Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
 - If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
 
-### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
-
 ### When are the notifications fetched from the server?
 
 The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
@@ -148,6 +146,7 @@ The notifications are pulled on load using a GET request to the api `/v0/onsite_
 
 When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
 
+### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
 
 ## Design
 
