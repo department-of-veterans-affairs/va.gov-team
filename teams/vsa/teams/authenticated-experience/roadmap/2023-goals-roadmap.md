@@ -92,15 +92,6 @@ Direct deposit for comp & pen information on VA.gov is currently supported by EV
 
 We'll eventually need to add email as a channel for notification preferences, we're just not sure when. Liz has created some preliminary mockups that need to be refined and tested in order to to determine whether this approach is usable and scalable long-term. 
 
-#### Notification preferences: Add QuickSubmit notification preference
-
-- **OCTO objective**: Enhance Veterans' personalized online experience
-- **Team objective**: Scale notification preferences
-
-Quick Submit is a platform that supports the claims application process and allows users to upload documents. With regards to notifications, they need a preference that allows them to opt-in and out of notifications as to whether there is a new letter to view in the Quick Submit app. This is a text notification, so this should be easy for us to support with our existing VA Profile integration. We'll work with them to support this preferernce on VA.gov. 
-
-**Expected launch date**: Before the end of Q1 CY2023.
-
 #### [Military information: Generative discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery#readme)
 
 - **OCTO objective**: Support PACT Act development
@@ -128,11 +119,16 @@ We're aware of some high-level problems people have navigating the logged in exp
 
 Samara is working with MHV and VA Profile to get VA Profile to support the MHV notification preferences. After VA Profile supports these preferences and MHV integrates their profile with the VA Profile backend, we'll be able to bring these preferences into the VA.gov profile. 
 
-## The rest of the year
-
-### Q2 CY2023 (April - June)
+## Q2 CY2023 (April - June)
 
 Samara's maternity leave!! I'll be out most of this quarter.
+
+### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
+
+- **OCTO objective**: Enhance Veterans' personalized online experience
+- **Team objective**: Maintenance & UX improvements
+
+This work will likely launch right at the beginning of Q2 CY2023. We'll monitor this work, then close it out.
 
 ### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
 
@@ -141,12 +137,20 @@ Samara's maternity leave!! I'll be out most of this quarter.
 
 For Q2, our goals are to launch the notifications work we started in Q1 CY2023, complete notification center discovery, and to start putting the new notification design through collab cycle/build. In addition, if there are appropriate notifications to add as onsite notifications, we can start/compelte this work as time and need allows.
 
-#### Profile
+### [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
 
-Potential work:
+- **OCTO objective**: None
+- **Team objective**: Maintenance & UX improvements
 
-- Telephone number validation. Waiting for more details and actual timeline from VA Profile.
+For Q2 CY2023, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
 
-### Q3 - Q4 CY2023 (July - December)
+### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
+
+- **OCTO objective**: Enhance Veterans' personalized online experience
+- **Team objective**: Scale notification preferences
+
+In order to be able to add email as a channel, we need to do two things: add the default-send indicator, and update the UI to move from a radio button to checkbox design. We'll likely complete the default send work in Q2, and start the UI updates in Q2 but launch them in Q3.
+
+## Q3 - Q4 CY2023 (July - December)
 
 We'll determine what we'll be working on as we get closer to summer.
