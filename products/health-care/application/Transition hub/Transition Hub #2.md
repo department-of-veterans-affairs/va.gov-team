@@ -65,6 +65,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
      - [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Analytics/Important%20Google%20Analytics%20event%20labels.md)
 - [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
+- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
 
 
 **Engineering**
