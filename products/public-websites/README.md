@@ -143,11 +143,10 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * [VFS Product Directory: Outreach Events Hub & Calendar](https://depo-platform-documentation.scrollhelp.site/getting-started/outreach-events-hub-and-calendar)
 
 
-## Event
+## Event (detail page)
 
 **What is:**
-
-Drupal content type for online or in-person events like support groups, outreach events, public lectures, pickleball games and more.
+The event detail page, which is created via Drupal content type for online or in-person events like support groups, outreach events, public lectures, pickleball games and more.
 
 Events must be associated with an Events list, which governs permissions for editing and presentation in the front-end for veterans. 
 
@@ -785,13 +784,18 @@ Static CMS page
 
 ## “How to apply” / Benefit wizards
 
-There are currently four (5) urls where in-content "How to Apply" wizards exist:
+There are currently 5 urls where in-content "How to Apply" wizards exist:
 
+Education: owned by EDU team
 * https://www.va.gov/education/eligibility
 * https://www.va.gov/education/how-to-apply
+
+Still owned by PW:
 * https://www.va.gov/disability/eligibility
 * https://www.va.gov/disability/how-to-file-claim
 * https://www.va.gov/decision-reviews/higher-level-review/
+
+TODO: Learn what is the actual widget component of these pages, and PW ownership of that. Have these all been replaced by online forms? 
 
 More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
