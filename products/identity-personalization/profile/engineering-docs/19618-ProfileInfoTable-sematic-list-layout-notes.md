@@ -84,4 +84,13 @@ After discusing the options at length a decision has been made to move forward w
 - Switching between the new and old component will be able to be done via a feature toggle in insolated usages, and allow incremental adoption.
 - Deprecating the old component will prove easiest and will just be a matter of removing the feature toggle, related logic, and component itself.
 
+### Next steps:
 
+Ticket creation for implementing new ProfileInfoCard component:
+- Feature toggle and initial setup for component
+- Creating component, styling to match existing work
+- Adding to single section of profile (maybe Direct Deposit or Notification Settings pages)
+- Adopt new component in other sections and allow different layouts to be used for content.
+- Migrate remaining sections to new component
+- Production rollout
+- Deprecate feature toggle and remove legacy component
