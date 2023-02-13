@@ -61,6 +61,7 @@ Include notes about which Platform process was in use when this feature was in d
 
 - Kicked-off discussions with VA Notify and Enrollment System/Joshua Faulkner - December 2022
 - Submitted Change Request via Tarsha Tremble - January 2023
+- Change Request approved, pending scheduleing - January 2023
 
 
 <br>
