@@ -226,6 +226,12 @@ This is dependent on when these people are actually hired:
 
 - Add feature flag for MHV notification preferences #53616
 
+### Logged-in IA/nav research
+
+**Design - Liz**
+
+- Add recent mobile app IA findings to our research review #53626
+
 ## Sprint 6 (3/15 - 3/28)
 ## Sprint 7 (3/29 - 4/11)
 ## Sprint 8 (4/12 - 4/25)
