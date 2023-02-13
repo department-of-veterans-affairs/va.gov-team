@@ -25,7 +25,7 @@ Things to think about that inform use cases:
   - Users need to be made aware that it is their responsibility to keep their health data safe once they download, print, or save it.
 
 - Data Sources
-  - Data for the VA Health Summary report is derived from My HealtheVet eVault
+  - Data for the VA Health Summary report is derived from the Veterans Health Information Exchange (VHIE)
   - Data for the Blue Button Report is derived from VistA, and also includes self-reported data.
   - The user owns their health data and is entitled to have access to it.
 
@@ -37,10 +37,12 @@ Things to think about that inform use cases:
 
 What do people want to use their downloadable reports for? 
 - To view current and/or past health information
-- To share health informaton with HCPs to ensure HCP understands their health history
+- To share health informaton with non-VA health care providers to ensure they understand their health history
 - To keep their own hard copy of their health information
 - To save their own digital copy of their health information
-- To take a digital copy of their health information to a HCP on a thumb drive or other portable storage device
+
+**Edge Cases**
+- To take a digital copy of their health information to a health care provider on a thumb drive or other portable storage device
 
 ## Requirements
 
@@ -50,35 +52,37 @@ VA Health Summary
 Manage your electronic medical record sharing options
 
 ### Information architecture and user flow
-The current thinking is that we should allow users to access their downloadable report together and these should be framed as ways to share your information, rather than view your information. 
+The current thinking is that we should allow users to access the different types of downloadable reports from the same screen and these should be framed as ways to share your information, rather than view your information. The primary way of viewing information should be by using Health History, Lab and Test Results, Medications, and Appointments. 
 
-Therefore, this section will have a total of four pages. 
+The downloadable reports setion will be called "Share your medical records" and it will have a total of three pages. 
+* Share your medical record
+* Download your Blue Button report
+* Download your VA health summary
 
 ```mermaid
 flowchart TB;
     A[Share your medical record]-->B[Download your Blue Button report];
-    A[Share your medical record]-->C[Download your VA Health Summary];
+    A[Share your medical record]-->C[Download your VA health summary];
 ```
 Home > My Health > Share your medical record
 Home > My Health > Share your medical record > Download your Blue Button report
-Home > My Health > Share your medical record > Download your VA Health Summary
-Home > My Health > Share your medical record > Manage your electronic medical record sharing options
+Home > My Health > Share your medical record > Download your VA health summary
 
-### Page 1: Share your medical record
-- H1: "Share your medical record"
-- Include explanatory intro text
+### Page 1: Share your medical record  
+- **H1: "Share your medical record"**
+- Below the H1, include explanatory text that says, "Download and share a copy of your VA medical records and personal health information."
 - There should be three sections on this page
   - Download your VA health summary
   - Download your VA Blue Button report
   - Manage your electronic medical record sharing options
-- Download your VA health summary
-  - "Your health summary includes specific information from your VA medical records like your known allergies, medicines, and recent lab results."
-  - There should be a link to navigate to the Download your VA health summary page
-- Download your VA Blue Button report
-  - "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
-  - There should be a link to navigate to the Download your Blue Button report page
-- Manage your electronic medical record sharing options
-  - "Choose whether to share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE)."
+- **H2: "VA health summary"**
+  - Below the H2, include explanatory text that says, "Your VA health summary provides a summary of health information that you can use to review your medical record and to share essential information with your health care providers."
+  - There should then be a link to navigate to the download your VA health summary page, that says "Download your VA health summary"
+- **H2: "VA Blue Button report"**
+  - Below the H2, include explanatory text that says, "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
+  - There should then be a link to navigate to the download your Blue Button report page, that says "Download your VA Blue Button report"
+- **H2: Manage your electronic medical record sharing options**
+  - Below the H2, include explanatory text that says, "You can share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE). Sharing your information helps your providers better understand your health history."
   - Include any additional information to help a user better understand this setting (work with content on this), what it enables, what opting into and out of this service means, and any additional information or links to learn about VHIE
   - Tell a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
   - Include a button to edit their preference that when clicked allows the user to edit, save, or cancel a change in place.
@@ -87,16 +91,20 @@ Home > My Health > Share your medical record > Manage your electronic medical re
 - H1: "Download your VA health summary"
 - Include plain language explanatory intro text. This should include the categories that are included in your Health Summary report.
 - H2: "Choose your file format and download your document"
-  - "We offer three file format options for this document. Choose the option that best meets your needs."
+  - "We offer three file format options for VA health summary. Choose the option that best meets your needs."
     - Present three mutually exclusive options (i.e. radio buttons)
-    - Option 1: "PDF document (best for printing)"
-    - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
-    - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
+      - Option 1: "PDF document (best for printing)"
+      - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
+      - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
   - Include a button to download
   - Other notes:
+    - If possible, this download should be instantaneous. If it is not instanteous and the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download.
     - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
     - We will NOT provide the ability to send a health summary as that capability is provided by Community Care via CCD Direct.
 
+#### Not for first iteration, requires further requirements gathering, usage exploration, and usability research
+- A user should be able to download their previous health summary. During discovery research, it was not clear what the use case is for allowing a user to download their previous health summary. Therefore, unless we can identify a clear use case, we should not include this functionality. 
+- Do not include the file format information that is currently included in the VA health summary grid. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
 
 ### Page 3: Download your VA Blue Button report
 - H1: "Download your VA Blue Button report"
