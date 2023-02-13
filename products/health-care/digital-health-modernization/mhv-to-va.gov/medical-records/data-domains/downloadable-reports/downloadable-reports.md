@@ -90,35 +90,49 @@ Home > My Health > Share your medical record > Download your VA health summary
 ### Page 2: Download your VA health summary
 - H1: "Download your VA health summary"
 - Include plain language explanatory intro text. This should include the categories that are included in your Health Summary report.
-- H2: "Choose your file format and download your document"
-  - "We offer three file format options for VA health summary. Choose the option that best meets your needs."
+- Form label question: "Choose the file format option that best meets your needs (*Required)"
     - Present three mutually exclusive options (i.e. radio buttons)
       - Option 1: "PDF document (best for printing)"
       - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
       - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
-  - Include a button to download
-  - Other notes:
-    - If possible, this download should be instantaneous. If it is not instanteous and the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download.
-    - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
-    - We will NOT provide the ability to send a health summary as that capability is provided by Community Care via CCD Direct.
+- Include a button to download
+- Other notes:
+  - If possible, this download should be instantaneous. If it is not instanteous and the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download. When the report has been generated, immediately launch browser based download controls. Do not require the user to click download again.
+  - There will need to be error states if a user does not select an option for file format
+  - There will need to be a success message when the file is downloaded, and an error message if not able to generate and download
+  - We will NOT provide the ability to send a health summary as that capability is provided by Community Care via CCD Direct.
 
-#### Not for first iteration, requires further requirements gathering, usage exploration, and usability research
-- A user should be able to download their previous health summary. During discovery research, it was not clear what the use case is for allowing a user to download their previous health summary. Therefore, unless we can identify a clear use case, we should not include this functionality. 
+#### Requires further requirements gathering, usage exploration, and usability research
+- During discovery research, it was not clear what the use case is for allowing a user to download their previous health summary. Therefore, unless we can identify a clear use case, we should not include this functionality. 
 - Do not include the file format information that is currently included in the VA health summary grid. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
 
 ### Page 3: Download your VA Blue Button report
 - H1: "Download your VA Blue Button report"
-- Include plain language explanatory intro text. This should include the categories that included in your Blue Button report.
-- H2: "Choose your file format and download your document"
-  - "We offer three file format options for this document. Choose the option that best meets your needs."
+- Include plain language explanatory intro text. This should include the categories that are included in your Blue Button report.
+- Question 1 Form label: "Select date range (*Required)"
+  - Hint text: "Your report will only include information from the date range you select"
+  - Present four mutually exclusive file format options (this should look similar to what was prototype for Secure Messaging)
+    - Option 1: "Past 3 months"
+    - Option 2: "Past 6 months"
+    - Option 3: "Past 1 year"
+    - Option 4: "Custom"
+    - When Custom is selected, allow a user to specify a date range. 
+- Question 2 Form label: "Choose the file format option that best meets your needs (*Required)"
     - Present three mutually exclusive options (i.e. radio buttons)
-    - Option 1: "PDF document (best for printing)"
-    - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
-    - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
-  - Include a button to download
-  - Other notes:
-    - There will need to be error states if a user does not select an option for file format, as well as a success message when the file is downloaded, and an error message if not able to generate and download
-    - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
+      - Option 1: "PDF document (best for printing)"
+      - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
+      - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
+- Include a button to download
+- Other notes:
+  - Because the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download. When the report has been generated, immediately launch browser based download controls. Do not require the user to click download again as is the case in the product today.
+  - There will need to be error states if a user does not select an option for date range
+  - There will need to be error states if a user does not select an option for file format
+  - There will need to be a success message when the file is downloaded, and an error message if not able to generate and download
+  - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
+
+#### Requires further requirements gathering, usage exploration, and usability research
+- Because the new version of medical records allows users to find and view medical records information in the browser, we do not think there is as much of a use case for allowing users to select individual categories of information to include in their Blue Button report. These controls were originally included because Blue Button served as the primary way to view information, and therefore if you wanted to just see a single piece of information, the only way to do so was via BB by selecting that category. Because this is no longer the case, we do no believe there is as clear a use case for these additional controls. If we find that there is a requirement or user reason to include category selection, we can do so at that time. 
+- Do not include the file format information that is currently included in the Blue Button report grid when the download is ready. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
 
 ## Research to date
 
