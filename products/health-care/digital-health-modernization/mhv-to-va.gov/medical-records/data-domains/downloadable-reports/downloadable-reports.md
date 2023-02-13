@@ -64,8 +64,9 @@ flowchart TB;
     A[Share your medical record]-->B[Download your Blue Button report];
     A[Share your medical record]-->C[Download your VA health summary];
 ```
-Home > My Health > Share your medical record
-Home > My Health > Share your medical record > Download your Blue Button report
+#### Page structure
+Home > My Health > Share your medical record  
+Home > My Health > Share your medical record > Download your Blue Button report  
 Home > My Health > Share your medical record > Download your VA health summary
 
 ### Page 1: Share your medical record  
@@ -136,6 +137,10 @@ Home > My Health > Share your medical record > Download your VA health summary
 #### Requires further requirements gathering, usage exploration, and usability research
 - Because the new version of medical records allows users to find and view medical records information in the browser, we do not think there is as much of a use case for allowing users to select individual categories of information to include in their Blue Button report. These controls were originally included because Blue Button served as the primary way to view information, and therefore if you wanted to just see a single piece of information, the only way to do so was via BB by selecting that category. Because this is no longer the case, we do no believe there is as clear a use case for these additional controls. If we find that there is a requirement or user reason to include category selection, we can do so at that time. 
 - Do not include the file format information that is currently included in the Blue Button report grid when the download is ready. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
+
+### Sketch file
+https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7
+
 
 ## Research to date
 
