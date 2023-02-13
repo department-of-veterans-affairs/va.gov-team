@@ -121,12 +121,18 @@ This work will likely launch right at the beginning of Q2 CY2023. We'll monitor 
 
 For Q2, our goals are to launch the notifications work we started in Q1 CY2023, complete notification center discovery, and to start putting the new notification design through collab cycle/build. In addition, if there are appropriate notifications to add as onsite notifications, we can start/compelte this work as time and need allows.
 
-### [Update direct deposit for comp & pen section so it points to Lighthouse integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
+### EVSS > Lighthouse migrations
 
 - **OCTO objective**: None
 - **Team objective**: Maintenance & UX improvements
 
+#### [Update direct deposit for comp & pen section of the profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
+
 For Q2, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
+
+#### Update the claim status section of My VA
+
+Assuming we have availability, we can leverage the updated claim status integration that now relies on Lighthouse so that My VA pulls data from there instead of EVSS.
 
 ### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
