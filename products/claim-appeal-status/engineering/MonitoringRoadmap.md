@@ -30,8 +30,8 @@ Adds automation to our monitoring - if there's a problem, we'll be notified.
 ### Next
 - [`easy-to-enable`] **Add and document sentry tags for easier reporting/dashboard creation**:
 Adding Sentry tags allows us to easily query Sentry for related logs
-- [`purposeful`] **Set up cloudwatch monitoring/alerting/dashboard(s)**:
-Cloudwatch is a more powerful monitoring tool with better alerting capabilities
+- [`purposeful`] **Set up cloudwatch or datadog monitoring/alerting/dashboard(s)**:
+Cloudwatch (or DataDog) is a more powerful monitoring tool with better alerting capabilities
 - [`first-to-know`] **Alerting slack integration**:
 Email alerts are fine, but integrating alerts with Slack will ensure real-time incident tracking
 - [`first-to-know`] **Synthetic API tests**:
