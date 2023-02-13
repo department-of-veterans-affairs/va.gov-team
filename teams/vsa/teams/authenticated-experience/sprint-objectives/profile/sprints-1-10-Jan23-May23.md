@@ -220,6 +220,12 @@ This is dependent on when these people are actually hired:
 
 - If Tom has bandwidth, do research on new Datadog setup and whether we can use this for monitoring alerts
 
+### Notification preferences
+
+**FE - Adam**
+
+- Add feature flag for MHV notification preferences #53616
+
 ## Sprint 6 (3/15 - 3/28)
 ## Sprint 7 (3/29 - 4/11)
 ## Sprint 8 (4/12 - 4/25)
