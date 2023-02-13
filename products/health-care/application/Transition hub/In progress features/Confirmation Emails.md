@@ -1,6 +1,6 @@
 # 10-10EZ Confirmation emails hub
 
-**Updated 1/16/2023**
+**Updated 1/31/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
