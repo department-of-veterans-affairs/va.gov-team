@@ -27,7 +27,7 @@ Enables "at-a-glance" incident monitoring. Still a manual process, but takes a s
 - [`first-to-know`] **Set up sentry alerting for all applications**:
 Adds automation to our monitoring - if there's a problem, we'll be notified.
 
-### Later
+### Next
 - [`easy-to-enable`] **Add and document sentry tags for easier reporting/dashboard creation**:
 Adding Sentry tags allows us to easily query Sentry for related logs
 - [`purposeful`] **Set up cloudwatch monitoring/alerting/dashboard(s)**:
@@ -37,7 +37,7 @@ Email alerts are fine, but integrating alerts with Slack will ensure real-time i
 - [`first-to-know`] **Synthetic API tests**:
 Synthetic API tests allow us to "health-check" our backend endpoints periodically. This requires a tool like Cloudwatch or Datadog, or can be manually accomplished with significant effort
 
-### Someday
+### Later
 - [`first-to-know`] **Incorporate health checking of external services**:
 Similar to Synthectic API tests of our own endpoints, periodic pinging of external services would allow us to know if a service is working as expected
 - [`first-to-know`] **Synthetic UI tests**:
