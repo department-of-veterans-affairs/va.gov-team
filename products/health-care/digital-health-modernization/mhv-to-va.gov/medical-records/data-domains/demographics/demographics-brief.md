@@ -7,7 +7,7 @@ Last updated: January 26, 2023 | [Change Log](#change-log)
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. 
 
 ## Description of domain
-
+This domain contains demographic information about the Veteran.  At the time of this writing (2/13/2023) it is unclear whether including this information within the confines of the new MyHealtheVet portal on VA.gov is needed as it likely overlaps or duplicates data already available on VA.gov.
 
 ## Relevant links
 
@@ -26,10 +26,15 @@ To serve as a source of truth around data field requirements and specifications,
 
 ## Demographics data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
+ 
+**Documentation information
+- At the time of this writing (2/13/2023) we were advised in [a Slack thread](https://dsva.slack.com/archives/C03Q2UQL1AS/p1676051871330869?thread_ts=1676041981.081089&cid=C03Q2UQL1AS) that the original doumentation for Blue Button reports on MHV (where the demographics information was provided) was lost over the years, so we have no concrete information as to why certain data was included or any business rules or user interviews to support the decisions to include it.
 
 **Data field title:** Demographics
 
 **Demographic data fields:**
+*Note* These fields are meant to be listed in Blue Button reports, but as of 2/13/2023 we have been unsuccessful in obtaining test credentials that generate a report wherein these fields contain test data.
+
 - VA Treatment Facility
 - First Name
 - Middle Name
@@ -94,9 +99,10 @@ See Excel sheet below.
 ## Use Cases
 
 **Common Use Cases**
+- TBD; research with users needed
 
 **Edge Cases**
-
+- TBD; research with users needed
 
 
 ## UX considerations
@@ -114,7 +120,8 @@ See Excel sheet below.
 
 
 **View vs. share vs. download considerations:**
-
+- Carnetta Scruggs advised via email on 2/13/2023:
+   "I think that the VA Demographic data should be printable and downloadable, so that, Veterans can take the print out with them to the VA. Then have them correct the out-dated information in their VA Health record at other VAMCs.  The demo data on VA.gov profile is electronically sync’d with all VAMCs that has their medical record and should be presented as “Current” or something.
 
 ### Research that relates to Demographics
 
@@ -139,11 +146,12 @@ This category varied the most across interviews and explanations often seemed co
 
 
 **Business/ Engineering:** 
-
+Does it make sense to display demographic information on-screen within the confines of the new health portal on VA.gov, or is it preferrable to provide a link to that information if it already exists elsewhere on VA.gov? This is probably a good research question. 
     
 
 **Who do we need to get feedback from?**
-
+- End users (what uses cases exist for accessing this information within the health portal vs. elsewhere on VA.gov?
+- VA personnel who have the ability to correct outdated information in a VA Health Record (specifically whether the incorrect information is needed in  the context of medical information in order to correct a record)
 
 ## Lessons learned
 
@@ -157,7 +165,7 @@ This category varied the most across interviews and explanations often seemed co
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-|                 |                  |                                                                                                                     |
+|2/13/2023        |Marci McGuire     |Added questions to answer, and information about challenges in getting test data and documentation.                                                                                                                     |
 |                 |                  |                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
