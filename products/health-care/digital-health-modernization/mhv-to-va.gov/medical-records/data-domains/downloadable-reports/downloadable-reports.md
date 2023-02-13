@@ -74,15 +74,15 @@ Home > My Health > Share your medical record > Download your VA health summary
 - There should be three sections on this page
   - VA health summary
   - VA Blue Button report
-  - Manage your electronic medical record sharing options
+  - Veterans Health Information Exchange
 - **H2: "VA health summary"**
   - Below the H2, include explanatory text that says, "Your VA health summary provides a summary of health information that you can use to review your medical record and to share essential information with your health care providers."
   - There should then be a link to navigate to the download your VA health summary page, that says "Download your VA health summary"
 - **H2: "VA Blue Button report"**
   - Below the H2, include explanatory text that says, "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
   - There should then be a link to navigate to the download your Blue Button report page, that says "Download your VA Blue Button report"
-- **H2: Manage your electronic medical record sharing options**
-  - Below the H2, include explanatory text that says, "You can share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE). Sharing your information helps your providers better understand your health history."
+- **H2: Veterans Health Information Exchange**
+  - Below the H2, include explanatory text that says, "You can share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE). Sharing your information gives your health care providers a more complete understanding of your health record."
   - Include any additional information to help a user better understand this setting (work with content on this), what it enables, what opting into and out of this service means, and any additional information or links to learn about VHIE
   - Tell a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
   - Include a button to edit their preference that when clicked allows the user to edit, save, or cancel a change in place.
