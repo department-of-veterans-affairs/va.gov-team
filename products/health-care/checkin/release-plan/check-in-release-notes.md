@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 2/13/2023
+- Fixed several visual bugs and 2 links that were referencing the wrong website
+    - [Ticket 53189](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53189)
+
 ### 2/7/2023
 - Updated Pre-Check-in and Check-in to make use of a simplified VA header & footer 
     - [Epic 45315](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315) 
