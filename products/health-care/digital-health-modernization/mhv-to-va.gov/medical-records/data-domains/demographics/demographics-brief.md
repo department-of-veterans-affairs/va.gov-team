@@ -1,6 +1,6 @@
 # Demographics: Data fields and UX considerations
 
-Last updated: January 26, 2023 | [Change Log](#change-log)
+Last updated: February 13, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
