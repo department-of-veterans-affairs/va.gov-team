@@ -122,10 +122,9 @@ Home > My Health > Share your medical record > Download your VA health summary
     - Option 4: "Custom"
     - When Custom is selected, allow a user to specify a date range. 
 - Question 2 Form label: "Choose the file format option that best meets your needs (*Required)"
-    - Present three mutually exclusive options (i.e. radio buttons)
+    - Present two mutually exclusive options (i.e. radio buttons)
       - Option 1: "PDF document (best for printing)"
       - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
-      - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
 - Include a button to download
 - Other notes:
   - Because the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download. When the report has been generated, immediately launch browser based download controls. Do not require the user to click download again as is the case in the product today.
