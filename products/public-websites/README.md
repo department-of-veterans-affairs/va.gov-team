@@ -227,6 +227,39 @@ The Forms DB system has some recurring flaws:
 ***Q3 2022 project:** to understand more about the Forms DB infrastructure, in an effort to help stabilize / reduce risk of downstream issues: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724) 
 * [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
 
+## Announcement Framework
+
+**What is:**
+Announcements are reusable components that give a common way to make full page announcements on VA.gov.  They are designed to be configurable site-wide without messing with the source code of other applications or digging into Metalsmith layout files to conditionally render.
+
+<img width="1167" alt="image" src="https://user-images.githubusercontent.com/61624970/218570338-9e1728ce-db6b-4639-aa4c-926225f4db42.png">
+
+Using a shared format and config file, developers are able to quickly create new announcements and easily implement rules for when and on what pages they should be displayed.  The config file is located in vets-website at 'src/platform/site-wide/announcements/config/index.js' and an example config looks like this:
+
+`  announcements: [
+    {
+      name: 'new-homepage',
+      // Homepage only
+      paths: /^\/$/,
+      component: HomepageRedesignModal,
+      disabled: false,
+      show: AnnouncementBehavior.SHOW_ONCE_PER_SESSION,
+      returnFocusDivContent: 'Current Homepage',
+    },
+  ],
+`
+
+New announcement components should be built in the announcements components directory (src/platform/site-wide/announcements/components), although the announcement framework allows any React component in vets-website to be used.
+
+The `announcement` property in the rendered component will contain the announcement as stored in the config, so in this case `announcement.name` will render `New Education Feature`.
+
+The `show` perperty can be set to one of 3 values defined in the AnnouncementBehavior enum constant, which are SHOW_ONCE, SHOW_EVERY_TIME and SHOW_ONCE_PER_SESSION. The SHOW_ONCE option persists to `localStorage`, the SHOW_ONCE_PER_SESSION persists to the `sessionStorage` nad the SHOW_EVERY_TIME does not persist dismissal at all.
+
+Architecture:
+
+The Announcement entry point uses React to bind to an element inside an announcement-root div at the top of the page body.  It renders an empty div in its place when there is no announcement to show.  Placing the Announcement div at the top of the html body allows focus to be directed to the skip-link element of the page on modal close, allowing for an accessible user experience.
+
+
 ## Full-width Alert
 
 aka : Banner
