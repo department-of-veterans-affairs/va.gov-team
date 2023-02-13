@@ -116,9 +116,9 @@ This table includes links to the individual feature directory and the latest ite
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
 | [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Design in progress (Prototype created)|
-| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research starting Jan 2023 |
-| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule |
+| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research completed Jan-Feb 2023 |
+| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also similarly designed for 10-10CG use | In design |
+| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule, HEC Team to inform us |
 | [Short Form Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20Form%20Expansion.md) | Combat status | Initial discovery - Pending further discussions with stakeholders |
 
 <br>
