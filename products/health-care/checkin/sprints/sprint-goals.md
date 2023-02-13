@@ -29,6 +29,8 @@ ________________________________________________________________________________
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Explore BTSSS latency solution**
       - [Develop Idea & User Flow for Texting Veteran when Claim Response is Delayed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53330)
+      - [Update confirmation wireframe](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53566)
+          - Added after Sprint Planning by UX
    - [SPIKE: Determine if messages need to be reprioritized on not eligible, confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53253)
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)      
    - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
