@@ -60,13 +60,6 @@ The onsite notifications MVP launched in October 2022, and we are now ready to s
 
 **Expected launch date**: We are still scoping this work, so launches will depend on final scope. I'd at least like us to launch something in the first three months of the year, even if that means dividing this work into phases that extend beyond Q1.
 
-#### Update claims section so it points to Lighthouse integration
-
-- **OCTO Objective**: None
-- **Team Objective**: Maintenance & UX improvements
-
-Claims and appeals information on VA.gov is currently supported by EVSS. However, EVSS is going away, and EVSS integrations are in the process of moving over to the Lighthouse platform. Benefits team 1 has been working on this migration already, and it will likely be ready for us to start updating My VA in Jan 2023. We'll work closely with Benefits team 1 and Lighthouse to get this section updated, tested, and launched.
-
 ### Profile team
 
 #### [Finish accessibility updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/46756)
