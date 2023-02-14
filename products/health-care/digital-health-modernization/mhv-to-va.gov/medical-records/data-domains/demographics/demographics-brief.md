@@ -38,11 +38,11 @@ The start of the VA demographics section of the Blue Button report contains thre
 - Last Updated
 - Sorted By
 
-These three fields are followed by the following disclaimer:
+These three fields are followed by the following disclaimer:<br>
 
-*Your information in My HealtheVet is not transferred to your VA Health Record. Also, VA Demographic information is not updated between VA treating facilities. If you have any questions or updates, please contact your VA health care team.*
+*Your information in My HealtheVet is not transferred to your VA Health Record. Also, VA Demographic information is not updated between VA treating facilities. If you have any questions or updates, please contact your VA health care team.*<br>
 
-Following the disclaimer is a set of fields that is repleated for each VA Treating Facility at which the Veteran has been treated, <br>| Screen shots: [pg1](https://user-images.githubusercontent.com/69174644/218781998-9519ba7c-2d79-4526-9b83-39a40dd3d40b.png) |[pg2](https://user-images.githubusercontent.com/69174644/218782236-1b218607-9a8d-4a25-a5f9-47c4d9b632d1.png) | [pg3](https://user-images.githubusercontent.com/69174644/218782282-346bc5f4-2cae-47d1-9ca7-a22ef68b3a5d.png) | [pg4](https://user-images.githubusercontent.com/69174644/218782581-533347bd-442f-4d0d-81d3-5581cc24552c.png) | [pg5](https://user-images.githubusercontent.com/69174644/218782697-d3f4de07-8664-4545-8a95-5761a9e18926.png) | [pg6](https://user-images.githubusercontent.com/69174644/218783215-0cc38f2f-7ac5-4d76-b9b3-693c0d7160b0.png)
+Following the disclaimer is a set of fields that is repleated for each VA Treating Facility at which the Veteran has been treated, and the information can differ.  One scenario is a Veteran that visited one facility while living in one city or state, then moved to a different city or state and started being treated at a different facility. Another scenario is a Veteran lives in the Northeast most of the year, but lives in FL during the winter.  <br> | Screen shots:  [pg1](https://user-images.githubusercontent.com/69174644/218781998-9519ba7c-2d79-4526-9b83-39a40dd3d40b.png) |[pg2](https://user-images.githubusercontent.com/69174644/218782236-1b218607-9a8d-4a25-a5f9-47c4d9b632d1.png) | [pg3](https://user-images.githubusercontent.com/69174644/218782282-346bc5f4-2cae-47d1-9ca7-a22ef68b3a5d.png) | [pg4](https://user-images.githubusercontent.com/69174644/218782581-533347bd-442f-4d0d-81d3-5581cc24552c.png) | [pg5](https://user-images.githubusercontent.com/69174644/218782697-d3f4de07-8664-4545-8a95-5761a9e18926.png) | [pg6](https://user-images.githubusercontent.com/69174644/218783215-0cc38f2f-7ac5-4d76-b9b3-693c0d7160b0.png)
 
 - VA Treating Facility
 - First Name
