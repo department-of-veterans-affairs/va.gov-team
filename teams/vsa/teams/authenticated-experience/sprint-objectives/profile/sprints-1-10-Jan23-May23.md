@@ -153,7 +153,7 @@ This all depends on Florence having Github access.
 
 **BE - Tom**
 
-- Bug: Unable to save notification preferences in staging #53379
+- ~Bug: Unable to save notification preferences in staging #53379~ Issue apppears to have resolved.
 - Testing in Staging Vets-API Server to EKS #52717 
   - Time sensitive, needs to be done by COB 2/28. Can not be pushed back a sprint.
 - Province populated on U.S. Territory Addresses #52786
