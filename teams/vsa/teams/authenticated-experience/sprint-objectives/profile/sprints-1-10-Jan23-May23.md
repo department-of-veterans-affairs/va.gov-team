@@ -156,7 +156,6 @@ This all depends on Florence having Github access.
 - ~Bug: Unable to save notification preferences in staging #53379~ Issue apppears to have resolved.
 - Testing in Staging Vets-API Server to EKS #52717 
   - Time sensitive, needs to be done by COB 2/28. Can not be pushed back a sprint.
-- Province populated on U.S. Territory Addresses #52786
 - Investigate increase in ADDRVAL205 errors #53208
 
 ### Accessibility updates
@@ -211,6 +210,7 @@ This is dependent on when these people are actually hired:
 
 **BE - Tom**
 
+- Province populated on U.S. Territory Addresses #52786
 - If Tom has bandwidth, do research on new Datadog setup and whether we can use this for monitoring alerts
 
 ### Accessibility
