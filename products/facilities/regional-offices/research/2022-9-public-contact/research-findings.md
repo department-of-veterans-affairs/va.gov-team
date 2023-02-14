@@ -183,7 +183,7 @@ This first group of findings relates to research questions 1 & 2:
 
 > Everyone understands that… this is where the money begins. Anything for money, they’re coming in. - P5
 
->  With Case Flow I can basically say, okay, this is where at, but I can't see why it's stuck in this position, whereas in the old system I had access to all kind of stuff. So I have to say, Hey, you're gonna have to call and  speak to somebody at the BVA. - P2
+>  With Case Flow I can basically say, okay, this is where at, but I can't see why it's stuck in this position, whereas in the old system I had access to all kind of stuff. So I have to say, Hey, you're gonna have to call and  speak to somebody at the BVA [Board of Veteran Appeals]. - P2
 
 >  [VHA] can take money from their disability compensation for copays. So we have access to a link right now that's going away. It's the finance application which would let them know, hey, you have a debt, the hospital, you know, took it. - P7
 
