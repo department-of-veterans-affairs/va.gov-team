@@ -231,6 +231,7 @@ This is dependent on when these people are actually hired:
 **Design - Liz**
 
 - Add recent mobile app IA findings to our research review #53626
+- Complete analytics review #52796
 
 ## Sprint 6 (3/15 - 3/28)
 
