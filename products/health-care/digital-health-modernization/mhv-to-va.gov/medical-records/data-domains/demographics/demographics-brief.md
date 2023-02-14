@@ -27,7 +27,7 @@ This domain contains VA demographic information about the Veteran.  At the time 
 ## Demographics data fields
 (Refer to [Medical Records Domains, Fields, Capabilities](https://docs.google.com/spreadsheets/d/13KE1WhN9c_uG_m-RDEeL3xT0Q50txcBJ_IMt8BxU5II/edit#gid=1602824280) for more detail on data fields.) 
  
-**Documentation information
+**Documentation information**
 - At the time of this writing (2/13/2023) we were advised in [a Slack thread](https://dsva.slack.com/archives/C03Q2UQL1AS/p1676051871330869?thread_ts=1676041981.081089&cid=C03Q2UQL1AS) that the original doumentation for Blue Button reports on MHV (where the demographics information was provided) was lost over the years, so we currently have no research data or business rules to explain or support why certain data is included.
 
 **Data field title:** VA Demographics
