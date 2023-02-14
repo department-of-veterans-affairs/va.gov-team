@@ -253,16 +253,18 @@ This second group of findings relates to research question 3:
 ### 7 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
 - Veterans expect Public Contact Offices to assist with every benefit service
-- VR&E staff are totally siloed from Public Contact staff
+- VR&E staff are siloed from Public Contact staff
 - Veterans are mistakenly directed to Public Contact Offices for tech support
 
 > A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way into the regional office to be told that that service is not provided." - P12
 
 > On any given day at least 1 of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
 
-> People having problems with their VA.gov accounts. They are sending them to the regional office to get them fixed. We do not do that. - P8
+>  We get a lot of people inquiring about VR&E but we don't have a system in place to be able to refer them through VERA - P9
 
-> The help desk for the website sends them to the Regional Office. We have no access or training to make any changes to allow them into the website. - P11
+> People having problems with their VA.gov accounts. They are sending them to the Regional Office to get them fixed. We do not do that... The National Call Center is telling them to come to the Regional Office. The website is telling them to come to the Regional Office. The people at the hospital telling them to come to the Regional Office. - P8
+
+> [They] couldn't get into VA.gov, and after 3 tries it locks you out. So then you have to come into a Regional Office. That's what they're told on at the National Call Center. - P10
 
 ### 8 - Veterans sometimes conflate the VBA with a centralized VA, VSOs, and other agencies  
 
