@@ -44,11 +44,14 @@ ________________________________________________________________________________
    - **GOAL: Build solution for BTSSS latency**  
       -  Not sure what tickets are needed
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
-   - **GOAL: Collaborate with PCI/API team to determine best solution**
+   - **GOAL: Begin implementation**
       - next refinement we will have implementation tickets to point
 - CIE Tech Debt
-   - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
+   - **GOAL: Complete as many as possible**
       - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
+      - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702) 
+      - [[BE] Remove enable/disable flags for check-in and pre-checkin]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
+      - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
 
 
 ---------------------------  END FUTURE & TENTATIVE --------------------------------------
