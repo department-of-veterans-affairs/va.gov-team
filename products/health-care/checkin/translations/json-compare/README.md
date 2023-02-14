@@ -10,3 +10,4 @@
     - You will need to have these packages installed
       - ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
 
+- [Location of local json files in Master](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
