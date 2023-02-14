@@ -7,7 +7,7 @@ Last updated: February 14, 2023 | [Change Log](#change-log)
 To serve as a source of truth around data field requirements and specifications, UX considerations, and to document a plan for feedback from SMEs or coordination with other teams. 
 
 ## Description of domain
-This domain contains demographic information about the Veteran.  At the time of this writing (2/13/2023) it is unclear whether including this information within the confines of the new MyHealtheVet portal on VA.gov is needed, as it likely overlaps or duplicates data already available on VA.gov.
+This domain contains VA demographic information about the Veteran.  At the time of this writing (2/13/2023) it is unclear whether including this information within the confines of the new MyHealtheVet portal on VA.gov is needed, as it likely overlaps or duplicates data already available on VA.gov.   There are also self-entered demographics that will not be addressed in the MVP. 
 
 ## Relevant links
 
@@ -30,12 +30,21 @@ This domain contains demographic information about the Veteran.  At the time of 
 **Documentation information
 - At the time of this writing (2/13/2023) we were advised in [a Slack thread](https://dsva.slack.com/archives/C03Q2UQL1AS/p1676051871330869?thread_ts=1676041981.081089&cid=C03Q2UQL1AS) that the original doumentation for Blue Button reports on MHV (where the demographics information was provided) was lost over the years, so we have no concrete information as to why certain data was included or any business rules or user interviews to support the decisions to include it.
 
-**Data field title:** Demographics
+**Data field title:** VA Demographics
 
-**Demographic data fields:**
-*Note* These fields are meant to be listed in Blue Button reports, but as of 2/13/2023 we have been unsuccessful in obtaining test credentials that generate a report wherein these fields contain test data.
+**VA Demographic data fields:**
+The start of the VA demographics section of the Blue Button report contains three fields:
+- Source
+- Last Updated
+- Sorted By
 
-- VA Treatment Facility
+These three fields are followed by the following disclaimer:
+
+*Your information in My HealtheVet is not transferred to your VA Health Record. Also, VA Demographic information is not updated between VA treating facilities. If you have any questions or updates, please contact your VA health care team.*
+
+Following the disclaimer is a set of fields that is repleated for each VA Treating Facility at which the Veteran has been treated, <br>| Screen shots: [pg1](https://user-images.githubusercontent.com/69174644/218781998-9519ba7c-2d79-4526-9b83-39a40dd3d40b.png) |[pg2](https://user-images.githubusercontent.com/69174644/218782236-1b218607-9a8d-4a25-a5f9-47c4d9b632d1.png) | [pg3](https://user-images.githubusercontent.com/69174644/218782282-346bc5f4-2cae-47d1-9ca7-a22ef68b3a5d.png) | [pg4](https://user-images.githubusercontent.com/69174644/218782581-533347bd-442f-4d0d-81d3-5581cc24552c.png) | [pg5](https://user-images.githubusercontent.com/69174644/218782697-d3f4de07-8664-4545-8a95-5761a9e18926.png) | [pg6](https://user-images.githubusercontent.com/69174644/218783215-0cc38f2f-7ac5-4d76-b9b3-693c0d7160b0.png)
+
+- VA Treating Facility
 - First Name
 - Middle Name
 - Last Name
@@ -49,18 +58,79 @@ This domain contains demographic information about the Veteran.  At the time of 
 - Religion
 - Place of Birth
 - Marital Status
+
+- Permanent Address and Contact Information
+  - Street Address
+  - Street Address 2
+  - City
+  - State
+  - County
+  - Country
+  - Home Phone Number
+  - Work Phone Number
+  - Cell Phone Number
+  - Email Address
+
+- Eligibility
+ - Service Connected Percentage
+ - Means Test Status
+ - Primary Eligibility Code
+
+- Employment
+ - Occupation
+ - Employment Status
+ - Employer Name
+ 
+- Primary Next-of-Kin
+  - Name
+  - Street Address
+  - City
+  - State
+  - Zip Code
+  - Home Phone Number
+  - Work Phone Number
+ 
+- Emergency Contact
+  - Name
+  - Street Address
+  - City
+  - State
+  - Zip Code
+  - Home Phone Number
+  - Work Phone Number
+
+- VA Guardian
+  - Name
+  - Street Address
+  - City
+  - State
+  - Zip Code
+  - Home Phone Number
+  - Work Phone Number
+
+- Civil Guardian
+  - Name
+  - Street Address
+  - City
+  - State
+  - Zip Code
+  - Home Phone Number
+  - Work Phone Number
+
+- Active Insurance
+  - Insurance Company
+  - Effective Date
+  - Expiration Date
+  - Group Name
+  - Group Number
+  - Subscriber ID
+  - Subscriber Name
+  - Subscriber Relationship
+  - VA Treating Facility
+  - First 
 - Social History
 - Functional status
 - Advance Directive
-- Permanent Address and Contact Information
-- Eligibility
-- Employment
-- Primary Next-of-Kin
-- Emergency Contact
-- VA Guardian
-- Civil Guardian
-- Active Insurance
-
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/100814257/214926426-4b0b37aa-a155-4713-8e71-62d33f3f75b6.png">
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/100814257/214926668-00bf8929-a337-48b2-8f2e-730c8bdad2a9.png">
 
