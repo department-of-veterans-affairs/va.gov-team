@@ -41,7 +41,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 
 [Example Product Guide 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/templates/sample-product-guide-2.pdf)
 
-### Step 2: Create the Product Video
+### Step 2: Create the Product Video (Optional)
 
 *For new services and updates to existing services*:
 
