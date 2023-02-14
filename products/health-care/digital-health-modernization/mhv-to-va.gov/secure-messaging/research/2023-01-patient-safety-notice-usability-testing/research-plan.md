@@ -38,8 +38,9 @@ The goals of this study are to:
 3. Does the safety message help Veterans understand when secure messaging is not the appropriate communication method?
   * How do Veterans interpret "Only use messages for non-urgent needs"?
   * What circumstances do Veterans consider an urgent question?
-  * What circumstances do Veterans consider are best for connecting with the VCL rather than use Secure Messaging?
-4. Do Veterans value the links to 911, the VCL, VA facilities?
+4. Do Veterans value the links to 911 and the VCL?
+5. How will Veterans tolerate the original patient safety banner and informational dropdown in addition to the interstitial?
+6. Do Veteran require the inclusion of the word "secure" to feel confident that the VA is keeping messages secure?
 
 ### Hypothesis
 
