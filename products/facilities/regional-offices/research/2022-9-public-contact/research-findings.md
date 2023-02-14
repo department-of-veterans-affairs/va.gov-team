@@ -319,7 +319,7 @@ This third group of findings relates to research question 4:
 
 4. What do Veterans need to know or do to be adequately prepared for a visit?
 
-### 11 - The documents and information needed to prepare for a visit varies by service  
+### 11 - The documents and information needed to prepare for a visit vary by service  
 
 - Having a valid photo ID and a DD-214 is helpful regardless of service
 - Surviving spouses have to provide many different documents depending on the benefits they are applying for (e.g., marriage license, death certificate, funeral bill, first notice of death, receipts for medical expenses), and also need to know key details about the Veteran (e.g. effective date, branch of military service, disability rating)
@@ -386,11 +386,10 @@ This third group of findings relates to research question 4:
   * Include information about which services require making an appointment or bringing additional documents
   * Reroute Veterans for services that can't be handled at a RO (e.g., checking status of pension claim)
   * Explore ways to connect benefit service information across VA.gov
-* Involve stakeholders from VR&E in MVP planning so we can accurately route Veterans to appointment tools for those services
-* Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
 * Clearly indicate the distinction between virtual and in-person appointments
 * Ensure Veterans can easily tell if a facility allows walk-ins or not
-* Indicate the last available appointment time in addition to the normal operating hours
+* Consider involving stakeholders from VR&E so we can accurately route Veterans to those services
+* Consider how co-located VSOs might be displayed on RO pages to clarify their relationship to the VA 
 * Consider use cases for Regional Offices, Satellite Offices, & Outreach sites
 
 ## Appendix
