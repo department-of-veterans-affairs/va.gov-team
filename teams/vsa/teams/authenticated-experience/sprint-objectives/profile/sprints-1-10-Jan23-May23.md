@@ -170,7 +170,7 @@ Note: This work needs tickets created.
 **FE - Adam**
 
 - Remove feature flags for any accessibility work that has already launched #53357
-- Depending on what Adam recommends from his sprint 3 investigation for [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041), there might be additional work and next steps. We can determine if there are actual tickets to work on, and if so, what Adam might be able to do this sprint. << Adam and Berni discusssed this item, and decided it's best to wait to revisit after finishing Sprint 3 investigation work which is still in progress.
+- New Toggle and MVP of Info Card Component #53630
 
 ### Direct deposit migration
 
@@ -220,6 +220,12 @@ This is dependent on when these people are actually hired:
 
 - If Tom has bandwidth, do research on new Datadog setup and whether we can use this for monitoring alerts
 
+### Accessibility
+
+**FE - Adam**
+
+- Migrate Entire Direct Deposit Page to use the new Info Card #53631
+
 ### Notification preferences
 
 **FE - Adam**
@@ -233,6 +239,13 @@ This is dependent on when these people are actually hired:
 - Add recent mobile app IA findings to our research review #53626
 
 ## Sprint 6 (3/15 - 3/28)
+
+### Accessibility
+
+**FE - Adam**
+
+- Update All Profile pages to new info card component #53632
+
 ## Sprint 7 (3/29 - 4/11)
 ## Sprint 8 (4/12 - 4/25)
 ## Sprint 9 (4/26 - 5/9)
