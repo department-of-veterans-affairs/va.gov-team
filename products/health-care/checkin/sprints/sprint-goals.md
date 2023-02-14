@@ -47,7 +47,9 @@ ________________________________________________________________________________
       - [[BE] [SPIKE] Investigate passing pre-check-in UUID to Day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52559)      - 
 - CIE Tech Debt
    - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
-      - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)   
+      - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
+   - **GOAL: Fix visual bugs**
+      -  [Position of back to last screen link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562)
 
 ---------------------------  END FUTURE & TENTATIVE --------------------------------------
 
