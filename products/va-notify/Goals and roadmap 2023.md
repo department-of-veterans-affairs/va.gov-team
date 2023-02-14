@@ -15,6 +15,8 @@ Our goals are tied to one or more of our themes:
 * Platform Capabilites
 * Performance, Monitoring & Security
 
+### Notify Team
+
 ### VEText SMS Migration - Twilio Provider Support
 #### Theme: Performance, Monitoring & Security, Platform Capabilities
 #### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
@@ -76,6 +78,8 @@ Some notification use cases include sensitive information like PII or PHI. We ca
 #### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
+
+### Strike Team
 
 ### Promote templates from Staging to Prod
 #### Theme(s): Self Service / Governance
