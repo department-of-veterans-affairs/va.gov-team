@@ -173,11 +173,11 @@ Note: This work needs tickets created.
 
 ### Direct deposit migration
 
-Note: This work needs a ticket created. 
+Note: This work needs a ticket created. <<< Done
 
 **BE - Tom**
 
-- Migrate POST Direct Deposit Info
+- Migrate POST Direct Deposit Info #53714
 - Stretch goal: Potentially move on to another direct deposit ticket, if time considering General tickets above and Tom needing to help out with a My VA issue.
 
 ### Notification preferences
@@ -210,7 +210,7 @@ This is dependent on when these people are actually hired:
 
 **BE - Tom**
 
-- Province populated on U.S. Territory Addresses #52786
+- Province populated on U.S. Territory Addresses #52786 <<< push out another sprint
 - If Tom has bandwidth, do research on new Datadog setup and whether we can use this for monitoring alerts
 
 ### Accessibility
