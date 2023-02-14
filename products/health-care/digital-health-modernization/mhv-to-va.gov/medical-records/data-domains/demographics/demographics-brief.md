@@ -1,6 +1,6 @@
 # Demographics: Data fields and UX considerations
 
-Last updated: February 13, 2023 | [Change Log](#change-log)
+Last updated: February 14, 2023 | [Change Log](#change-log)
 
 ## Purpose
 
@@ -166,6 +166,6 @@ Does it make sense to display demographic information on-screen within the confi
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 |2/13/2023        |Marci McGuire     |Added questions to answer, and information about challenges in getting test data and documentation.                                                                                                                     |
-|                 |                  |                                                                                                                     |
+|2/14/2023        |Marci McGuire     |Added demographics fields based on Carnetta's PDF example emailed 2/13/2023                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
