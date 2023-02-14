@@ -2,8 +2,16 @@
 
 ## Blue Button VA Demographics
 
-When a user downloads their demographics data from BB, they receive a list of the following demographics they have on file at each VA facility they have visited. We believe that demographics can be different for each facility.
+### Description 
+When a user downloads their demographics data from BB, they receive a list of the following demographics they have on file at each VA facility they have visited. Demographics can be different for each facility.
 
+### Reasons this information is available
+From Carnetta:
+* "Most Veterans visited more than one VA for their healthcare, and their demographic information at the previous VAMCs were not updated with the recent info.  Since the burden is on the Veteran to reconcile their demographic data from one VA to another,  providing it electronically, helped the Veteran as they may have been divorced, change next of kin, had the wrong race ethnicity recorded, changed jobs etc."
+* "I think that the VA Demographic data should be printable and downloadable, so that Veterans can take the print out with them to the VA. Then have them correct the out-dated information in their VA Health record at other VAMCs.  The demo data on VA.gov profile is electronically sync’d with all VAMCs that has their medical record and should be presented as “Current” or something."
+
+
+### Data fields
 - VA Treating Facility:
 - First Name:  
 - Middle Name:
