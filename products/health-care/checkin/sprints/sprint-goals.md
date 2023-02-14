@@ -40,9 +40,6 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals
 - **GOAL: Test Vets-API Server to EKS in Staging**
    - [Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
-- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
-   - **GOAL: Build solution for BTSSS latency**  
-      -  Not sure what tickets are needed
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Begin implementation**
       - next refinement we will have implementation tickets to point
@@ -50,7 +47,7 @@ ________________________________________________________________________________
    - **GOAL: Complete as many as possible**
       - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
       - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702) 
-      - [[BE] Remove enable/disable flags for check-in and pre-checkin]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
+      - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
       - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
 
 
