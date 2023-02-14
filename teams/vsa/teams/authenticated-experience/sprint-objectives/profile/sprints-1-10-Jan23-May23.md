@@ -210,7 +210,7 @@ This is dependent on when these people are actually hired:
 
 **BE - Tom**
 
-- Province populated on U.S. Territory Addresses #52786 <<< push out another sprint
+- Province populated on U.S. Territory Addresses #52786
 - If Tom has bandwidth, do research on new Datadog setup and whether we can use this for monitoring alerts
 
 ### Accessibility
