@@ -1,7 +1,8 @@
 # Demographic Fields included on Blue Button, VA Profile and DOD
 
-## Blue Button 
+## Blue Button VA Demographics
 
+When a user downloads their demographics data from BB, they receive a list of the following demographics they have on file at each VA facility they have visited. We believe that demographics can be different for each facility.
 
 - VA Treating Facility:
 - First Name:  
@@ -89,7 +90,7 @@ CIVIL GUARDIAN
 
 
 
-## VA Profile
+## VA.gov Profile
 
 - First Name: 
 - Middle Name: 
