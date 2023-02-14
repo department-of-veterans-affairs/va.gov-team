@@ -56,23 +56,23 @@ VA Notify is designed to be provider agnostic. We added support for a new provid
 
 This work is carrying over from Q3/Q4 CY2022.
  
-**Expected launch date**: March 22, 2023
+**Expected launch date**: Late March 2023
 
 #### Franchise Fund Billing Reports
 We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line.
 
-**Expected launch date**: March 6, 2023
+**Expected launch date**: Early March 2023
 
 #### Restart Compensation and Pension Payment Notification Work
 As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
 
-**Expected launch date**: July 31, 2023
+**Expected launch date**: Late July/Early August 2023
 
 #### Performance, Monitoring and Security 
 To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 
-**Expected launch date**: April 26, 2023
+**Expected launch date**: Late April 2023
 
 ### Strike Team
 
