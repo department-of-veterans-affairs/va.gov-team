@@ -8,5 +8,5 @@
   - Dependencies
     - You will need to have Python installed
     - You will need to have these packages installed
-      - ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
+      ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
 
