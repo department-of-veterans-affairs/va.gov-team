@@ -1,1 +1,11 @@
+# Benefits Disability Core Submission Experience 
+
+Last Updated - 02/14/2023
+
+## Where to find the product
+- GitHub Label: disability-experience
+- Slack channel: #benefits-disability-experience
+- Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
+- Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
+- Zenhub board: Workspace - [Disability experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
 
