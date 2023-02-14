@@ -17,37 +17,37 @@ Our goals are tied to one or more of our themes:
 
 ### Notify Team
 
-### VEText SMS Migration - Twilio Provider Support
-#### Theme: Performance, Monitoring & Security, Platform Capabilities
-#### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
+#### VEText SMS Migration - Twilio Provider Support
+##### Theme: Performance, Monitoring & Security, Platform Capabilities
+##### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
 
 VEText reaches millions of Veterans with pertinent health-related SMS notifications like appointment reminders, open appointment slot management, I am here, etc. VA Notify is working to support these existing notifications and will support multiple notification providers.
 
 In 2022, we moved all United States VEText use cases to send through VA Notify! In early 2023, we will add support for Twilio notification status callbacks, so business lines like VEText can receive updated statuses on their notifications. This work paves the way for integrating with providers like CISCO Webex Connect!
 
-### Launch Comp & Pen Payment notifications
-#### Theme(s): Quality / Personal Experience, Platform Capabilities
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Launch Comp & Pen Payment notifications
+##### Theme(s): Quality / Personal Experience, Platform Capabilities
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 Around 7 million Veterans receive recurring Compensation and Pension Payments monthly and want to confirm when they will receive payments. VBA cannot send VA Notify notification requests related to this, so we are working with the BIA group to receive payment data and trigger notifications to Veterans who wish to receive them. This will reduce calls to the call center and give Veterans the timely information they want.
 
 In 2022, we created a new notification preference with VA Profile and VA.gov teams. We also built a new integration with VA Profile to support the potential reach of this notification (7 million per month). In 2023, we will integrate with BIA’s event bus to receive payment data and build a reusable notification generator to send these notifications before payments are received. 
 
-### Expand Onsite Notifications with VA.gov
-#### Theme(s): Quality / Personal Experience, Self-Service / Governance
-#### OCTO Objective(s): Enhance veterans' personalized online experience
+#### Expand Onsite Notifications with VA.gov
+##### Theme(s): Quality / Personal Experience, Self-Service / Governance
+##### OCTO Objective(s): Enhance veterans' personalized online experience
 
 As we partner with the Authenticated Experience team, we can scale onsite notifications into a robust and highly-valuable VA.gov feature. We will investigate new notification opportunities to surface in Veterans’ online accounts and opportunities to make this feature more repeatable and self-serviceable as it scales.
 
-### MyHealtheVet Migration to the VA.gov Portal
-#### Theme(s): Quality / Personal Experience, Self Service / Governance
-#### OCTO Objective(s): Integrate the health protal features into VA.gov
+#### MyHealtheVet Migration to the VA.gov Portal
+##### Theme(s): Quality / Personal Experience, Self Service / Governance
+##### OCTO Objective(s): Integrate the health protal features into VA.gov
 
 As MyHealtheVet (MHV) moves its health portal and notification preferences into VA.gov, VA Notify will work with MHV to send those notifications to Veterans. This work may also include other features as needed to support the new portal.
 
-### Improving Veteran Contact Info: Phone Numbers
-#### Theme(s): Platform Capabilities
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Improving Veteran Contact Info: Phone Numbers
+##### Theme(s): Platform Capabilities
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 VEText, VA Notify, and VA Profile completed joint discovery work in 2022 to unravel the problem of invalid phone numbers and their contribution to undeliverable notifications.
 
@@ -55,34 +55,34 @@ In early 2023, VA Profile is adding functionality to validate all existing phone
 
 Once VA Profile has added this functionality, VA Notify will enhance our contact lookup process to proactively check phone numbers and make updates if we discover a phone number is invalid. This will increase visibility into which phone numbers are invalid and allow other features to be built within VA.gov and VA Profile around flagging invalid contact information and sending notifications to request updates.
 
-### Enhancing the Claim Experience - VES Event Bus
-#### Theme(s): Platform Capabilities, Quality / Personal Experience
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Enhancing the Claim Experience - VES Event Bus
+##### Theme(s): Platform Capabilities, Quality / Personal Experience
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 Uncertainty around the claims review process is a significant pain point for Veterans. VA Notify intends to resolve this by working with VBMS, VA.gov, and the claims status tool to evaluate the end to end Veteran experience and ensure informative notifications are sent to Veterans when a claim is in review, supplemental materials are needed, documents are available to review, claim status has changed, and a decision has been made.  There are also opportunities to notify Veterans should they appeal a decision on a claim.  VA Notify collaborates with Claim stakeholders and partners to add and enhance notification opportunities for Veterans. 
 
-### Support for Mass/Bulk Notifications
-#### Theme(s): Platform Capabilities
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Support for Mass/Bulk Notifications
+##### Theme(s): Platform Capabilities
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
-### Secure Messaging
-#### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Secure Messaging
+##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
 
-### Support for Cisco Webex Connect (IMImobile)
-#### Theme(s): Quality / Personal Experience, Platform Capabilities
-#### OCTO Objective(s): Enhance Veterans' personalized online experience
+#### Support for Cisco Webex Connect (IMImobile)
+##### Theme(s): Quality / Personal Experience, Platform Capabilities
+##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
 
 ### Strike Team
 
-### Promote templates from Staging to Prod
-#### Theme(s): Self Service / Governance
+#### Promote templates from Staging to Prod
+##### Theme(s): Self Service / Governance
 
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.  
 
