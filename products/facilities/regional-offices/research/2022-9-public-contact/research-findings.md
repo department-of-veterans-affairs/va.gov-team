@@ -256,7 +256,7 @@ This second group of findings relates to research question 3:
 - VR&E staff are siloed from Public Contact staff
 - Veterans are mistakenly directed to Public Contact Offices for tech support
 
-> A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way into the regional office to be told that that service is not provided." - P12
+> A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way in to be told that that service is not provided." - P12
 
 > On any given day at least 1 of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
 
