@@ -6,10 +6,10 @@ ________________________________________________________________________________
 
 #### OVERALL GOALS
 - **ANALYTICS: Analyze VSignals**   
-- **TRAVEL: Address check-in failure scenario & build latency solution**   
+- **TRAVEL: Address check-in failure scenario, potential to prioritize info messages, & build latency solution**   
 - **VAOS COMPATABILITY: Test & prepare for Staging Review**
 - **UNIFIED CIE: Prepare for research study**
-- **HAND OFF FROM PCI TO DAY OF: Continue to develop an architectural design????**
+- **HAND OFF FROM PCI TO DAY OF: Begin implementation**
 
 #### Planned Releases 
 - None
@@ -38,18 +38,18 @@ ________________________________________________________________________________
       - ????
 
 #### Engineering Sprint Goals
+- **GOAL: Test Vets-API Server to EKS in Staging**
+   - [Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Build solution for BTSSS latency**  
       -  Not sure what tickets are needed
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Collaborate with PCI/API team to determine best solution**
-      - [[BE] Hand-off Pre-check-in to Day-of Check-in Design Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52867)
-      - [[BE] [SPIKE] Investigate passing pre-check-in UUID to Day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52559)      - 
+      - next refinement we will have implementation tickets to point
 - CIE Tech Debt
    - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
       - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
-   - **GOAL: Fix visual bugs**
-      -  [Position of back to last screen link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562)
+
 
 ---------------------------  END FUTURE & TENTATIVE --------------------------------------
 
@@ -146,6 +146,8 @@ ________________________________________________________________________________
    - **GOAL: Complete as many of these as fits in the sprint**
       - [[SPIKE] [FE] Improve testing and validation with staging and screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50989)
       - [[FE] Surface initiate (pre-)checkin errors to end user](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/52973)
+   - **GOAL: Fix visual bugs**
+      -  [Position of back to last screen link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562) 
 
 ## 1/25/2023 - 2/7/2023 
 
