@@ -44,6 +44,8 @@ ________________________________________________________________________________
    - **GOAL: Begin implementation**
       - next refinement we will have implementation tickets to point
 - CIE Tech Debt
+   - **GOAL: Address accessibility issues**
+      - [[FE] Breadcrumb angle bracket is read aloud by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53066)
    - **GOAL: Complete as many as possible**
       - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
       - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702) 
