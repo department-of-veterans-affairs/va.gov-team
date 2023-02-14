@@ -130,7 +130,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 **Services, benefits, & tasks**
 1. Services at Public Contact Offices can be **categorized** in four distinct ways: benefits, tasks, documents, beneficiaries
-2. Public Contact staff primarily assist with the **benefit** of disability compensation
+2. Public Contact staff are primarily equipped to assist with the **benefit** of disability compensation
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
 5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Office
@@ -141,7 +141,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 7. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
 8. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
 9. There is little standardization in how Public Contact Offices handle **appointments**
-10. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing 
+10. **Wait times** for walk-ins are primarily affected by facility location and staffing 
 
 **Veteran preparation**
 
@@ -172,17 +172,20 @@ This first group of findings relates to research questions 1 & 2:
 
 > Survivors’ benefits is a big one. - P2
 
-### 2 - Public Contact staff primarily assist with the benefit of disability compensation
+### 2 - Public Contact staff are primarily equipped to assist with the benefit of disability compensation
 
 - Public Contact staff have end-to-end insight into the disability compensation process
 - Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
+- Public Contact staff have lost access to some data sources related disability compensation
 
 > 90% of the Veterans coming in are concerned about "What’s my percentage and how much money am I getting?" - P7
 
 > Everyone understands that… this is where the money begins. Anything for money, they’re coming in. - P5
 
-> It’s usually tied around "Where is my money?" - P2
+>  With Case Flow I can basically say, okay, this is where at, but I can't see why it's stuck in this position, whereas in the old system I had access to all kind of stuff. So I have to say, Hey, you're gonna have to call and  speak to somebody at the BVA. - P2
+
+>  [VHA] can take money from their disability compensation for copays. So we have access to a link right now that's going away. It's the finance application which would let them know, hey, you have a debt, the hospital, you know, took it. - P7
 
 ### 3 - Public Contact staff primarily assist with the task of applying for benefits 
 
@@ -295,7 +298,7 @@ This second group of findings relates to research question 3:
 
 > 90% walk in and then about 10% appointments. - P12
 
-### 10 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
+### 10 - Wait times for walk-ins are primarily affected by facility location and staffing
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed higher wait times due to high demand and limited staff
