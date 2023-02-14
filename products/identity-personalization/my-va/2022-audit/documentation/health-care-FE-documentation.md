@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: February 8, 2023
+Last updated: February 14, 2023 (mobile sketch link for error 2)
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -308,4 +308,4 @@ Use font awesome icon `file-medical` for icon
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/Krd92n/a/uuid/E9539FDB-7D42-4153-83EF-CC1394FC9C14)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
