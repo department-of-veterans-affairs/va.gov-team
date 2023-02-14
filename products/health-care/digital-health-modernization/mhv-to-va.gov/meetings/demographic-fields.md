@@ -185,6 +185,50 @@ DoD Retirement Pay
 - Termination Reason
 - Stop Pay Reason
 
+## MHV Profile
+### Description
+Veterans can update their profile information in MHV. This information, even when changed, is not synced anywhere else. It is only displayed in MHV.
+
+### Reasons this information is available
+We have not been able to locate reasons behind making this information available yet. 
+
+### Data fields
+* Title
+* First name
+* Middle name
+* Last name 
+* Suffix
+* Alias
+* SSN
+* Birth Sex
+* DOB
+* Marital Status
+* Current Occupation
+* Relationship to VA
+* Preferred method of contact (used to send email notifications. Choose one of the 7 options below)
+* Email
+* SM email
+* Home phone
+* Mobile phone
+* Work phone
+* Fax
+* Pager
+* VA Treating Facilities
+* Account information - Password hint questions and answers
+
+### Preferences
+* MHV welcome bar personalization
+  * How would you like to be addressed
+  * Which military branch have you served
+  * Other
+* Email notifications and reminders
+  * Rx Refill shipment
+  * VA appointment reminder
+  * VA medical images and report available notification
+  * Bi-weekly email newsletter
+
+## MHV Secure Messaging Settings
+
 ## VA.gov Profile
 
 - First Name: 
