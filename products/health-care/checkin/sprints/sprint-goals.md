@@ -2,6 +2,55 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 2/22/2023 - 3/7/2023 ---------------------------  FUTURE & TENTATIVE --------------------------------------
+
+#### OVERALL GOALS
+- **ANALYTICS: Analyze VSignals**   
+- **TRAVEL: Address check-in failure scenario & build latency solution**   
+- **VAOS COMPATABILITY: Test & prepare for Staging Review**
+- **UNIFIED CIE: Prepare for research study**
+- **HAND OFF FROM PCI TO DAY OF: Continue to develop an architectural design????**
+
+#### Planned Releases 
+- None
+
+#### Analytics Sprint Goals
+- **GOAL: Analyze current report using the new method discussed**
+   - [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)   
+
+#### UX Sprint Goals 
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - **GOAL: Create wireframe for 'Can't check you in' scenario**
+      - [[Design] Create wireframes for can't check you in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53582)
+   - **GOAL: Explore BTSSS latency solution**    
+      - [[Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)
+      - [[Design] Update wireframe(s) for "no" to travel user flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53461)
+- [Send Check-in Text 45 Minutes Before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)
+   - **GOAL: Create Content for Text Messages & Pass to VeText**
+      - [Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)      
+   - **GOAL: Conduct full functional testing (research, design, & product); each group must complete TestRail test cases**
+      - [Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)
+   - **GOAL: Prepare for Staging Review**
+      - Schedule Staging Review      
+- [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+   - **GOAL: Start to plan research for Option 3** 
+      - ????
+
+#### Engineering Sprint Goals
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - **GOAL: Build solution for BTSSS latency**  
+      -  Not sure what tickets are needed
+- [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
+   - **GOAL: Collaborate with PCI/API team to determine best solution**
+      - [[BE] Hand-off Pre-check-in to Day-of Check-in Design Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52867)
+      - [[BE] [SPIKE] Investigate passing pre-check-in UUID to Day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52559)      - 
+- CIE Tech Debt
+   - **GOAL: Investigate allowing fully-authenticated apps to access vets-api**
+      - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)   
+
+---------------------------  END FUTURE & TENTATIVE --------------------------------------
+
 ## 2/8/2023 - 2/21/2023 
 
 #### OVERALL GOALS
