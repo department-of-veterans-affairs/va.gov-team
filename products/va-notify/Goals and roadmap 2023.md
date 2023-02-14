@@ -67,7 +67,7 @@ Uncertainty around the claims review process is a significant pain point for Vet
 
 VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
-#### Secure Messaging
+#### Email Encyrption
 ##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
