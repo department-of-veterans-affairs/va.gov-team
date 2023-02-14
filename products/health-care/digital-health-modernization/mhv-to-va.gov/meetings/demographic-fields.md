@@ -8,6 +8,7 @@ When a user downloads their demographics data from BB, they receive a list of th
 ### Reasons this information is available
 From Carnetta:
 * "Most Veterans visited more than one VA for their healthcare, and their demographic information at the previous VAMCs were not updated with the recent info.  Since the burden is on the Veteran to reconcile their demographic data from one VA to another,  providing it electronically, helped the Veteran as they may have been divorced, change next of kin, had the wrong race ethnicity recorded, changed jobs etc."
+* "Release of Information offices at the VAs were overwhelmed with requests for copies of different potions of Veteran’s health records from Veterans and experienced long delays to full-fill the request due to staff shortage based on the amount of requests. MHV relieved the pressure on ROI offices by providing Veterans with a MHV account so they can view and reconcile their own demographic and health data."
 * "I think that the VA Demographic data should be printable and downloadable, so that Veterans can take the print out with them to the VA. Then have them correct the out-dated information in their VA Health record at other VAMCs.  The demo data on VA.gov profile is electronically sync’d with all VAMCs that has their medical record and should be presented as “Current” or something."
 
 
@@ -140,7 +141,7 @@ CIVIL GUARDIAN
 - Fax
 - Pager
 
-## MHV Personal Information>Health Information Card (all of which are populated under Self Reported Demographics in BB report):
+## MHV Personal Information > Health Information Card (all of which are populated under Self Reported Demographics in BB report):
 - Address
 - Blood type
 - Organ Donor checkbox)
@@ -151,7 +152,16 @@ CIVIL GUARDIAN
 - Health insurance (company; ID number; primary checkbox; first/last name of insured; group number; start date; stop date; pre-approval phone number; health insurance company phone number; comments)
 - Legacy location: Get Care>My Coverage
 
-## DOD
+## Blue Button VA Department of Defense Military Service Information
+
+### Description
+From Blue Button, a Veteran can download their DoD military service information that includes the fields below.
+
+### Reasons this information is available
+From Carnetta:
+* "The DoD Military Information [in VA Profile] is or will be the same as in MHV BB.  MHV is currently integrating with VA Profile to get the data instead of the system called VADIR. Some Veterans not enrolled in VA Health Care find this useful and need to print/download so that they can use the specialty codes to build a resume and get a civilian job."
+
+### Data fields
 Regular Active Service
 
 - Service
