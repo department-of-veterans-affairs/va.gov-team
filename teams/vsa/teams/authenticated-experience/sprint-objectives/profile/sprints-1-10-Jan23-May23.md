@@ -189,14 +189,7 @@ Note: This work needs a ticket created.
 
 **FE - Adam**
 
-Note: [Adam outlined how this work should be broken down in this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49251#issuecomment-1404057076). Please work with him to get tickets created, and then we can add whatever is manageable to this sprint. << Done, here are the tickets:
-- Feature Toggle for Mobile # Editing Page #53531
-- Build editing page for profile #53545
-- Note: These below will likely need to go to Sprint 5 (Berni has not yet added these to Sprint 5 list yet - Discuss w/ Samara):
-  - Build the new page for the mobile # #53547
-  - Rollout, Cleanup of edit mobile phone page #53549
-
-- Begin work to update Notifications page with new flow for adding a mobile number << Done, see above
+- Feature Toggle for Mobile # Editing Page #53541
 
 ### Military info research
 
@@ -231,6 +224,7 @@ This is dependent on when these people are actually hired:
 **FE - Adam**
 
 - Add feature flag for MHV notification preferences #53616
+- Build editing page for profile #53545
 
 ### Logged-in IA/nav research
 
@@ -245,6 +239,13 @@ This is dependent on when these people are actually hired:
 **FE - Adam**
 
 - Update All Profile pages to new info card component #53632
+
+### Notification preferences
+
+**FE - Adam**
+
+- Build the new page for the mobile # #53547
+- Rollout, Cleanup of edit mobile phone page #53549
 
 ## Sprint 7 (3/29 - 4/11)
 ## Sprint 8 (4/12 - 4/25)
