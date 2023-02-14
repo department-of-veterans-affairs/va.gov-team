@@ -5,6 +5,11 @@ Talked about the purpose of our VA trauma practice:
 - Began defining what we wanted to focus on now, next, and later
 - Discussed three ways of meeting: practice meetings, small support groups, and drop in hours
 
+## [January 13, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-13.md)
+`Small Group` `Shared Learning`
+
+A second private group also talked about intuition which unfolded into a conversation around confronting the uncomfortable, marinating our instincts, focusing on the next best thing, and considering an airing of greivances.
+
 ## [January 11, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-11.md)
 `Small Group` `Shared Learning`
 
