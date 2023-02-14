@@ -49,6 +49,7 @@ ________________________________________________________________________________
       - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702) 
       - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
       - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
+      - [Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
 
 
 ---------------------------  END FUTURE & TENTATIVE --------------------------------------
