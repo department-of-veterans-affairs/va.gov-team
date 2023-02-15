@@ -1,4 +1,4 @@
-# Facilitation Guidelines
+# Facilitation Instructions
 Signed up to facilitate or scribe a small group or event? We got you covered. Thank you for helping us grow our community ✨
 
 ## Practice Meetings
@@ -24,3 +24,7 @@ Signed up to facilitate or scribe a small group or event? We got you covered. Th
   - Post the shared learnings to our #trauma-practice channel
 8. **Find a scribe for the next sync.** Everyone should get an opt-in shot at scribing the practice meeting. If you can’t find someone, you’ll be responsible for running it next time.
 9. [**Add yourself to our record of scribe service.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) Our meetings are possible thanks to volunteers like you, and we want to publicly thank you for your service! Note: this is 100% optional. 
+
+## Small groups (work in progress)
+Needs a volunteer
+
