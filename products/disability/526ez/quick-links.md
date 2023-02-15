@@ -4,6 +4,7 @@
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Idea board|List of ideas, scoping and prioritization|[Link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1675436055409/377ecfe26e47f75de149db161a4b69185e3f051f?sender=ub46ab2ca03c3ddd9a8ac0157)|Feb 2023|
+|VA Organization Map|VA org diagram with stakeholders|[Link](https://app.mural.co/t/nava4113/m/nava4113/1675874152774/e3c17c025dfc019434de9a7517d23025721687b0?sender=u17c04e7372f6c8e114602800)|Feb 2023|
 |Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?sender=ub46ab2ca03c3ddd9a8ac0157)||
 |Zenhub board|Backlog for Disability Experience product started in Feb 2023|[Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)|Feb 2023|
 |Staging|Login to Staging site for va.gov|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/staging-login-instructions.md)||
