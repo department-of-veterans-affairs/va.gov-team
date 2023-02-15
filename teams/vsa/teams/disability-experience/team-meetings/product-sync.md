@@ -1,5 +1,19 @@
 # Benefits Disability Experience - Product sync
 
+### Date: Feb 15 2023
+### Items to be discussed:
+- Review github organization
+- Ongoing discovery work
+- Pre-prioritization work
+- Plan for prioritization
+- Plan for next week
+   - Organize ideas/workstreams
+   - Start discovery on known bugs/defects
+   - Team norms workshop
+- Planning for week of Feb 27th
+   - Plan prioritization workshop - needs to be scheduled
+   - Stakeholder introductions - needs to be scheduled
+   
 ### Date: Feb 6' 2023
 ### Items to be discussed:
 - Does this time work for our weekly sync? - Mornings
