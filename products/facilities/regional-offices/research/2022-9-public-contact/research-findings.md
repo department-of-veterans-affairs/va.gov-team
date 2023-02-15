@@ -139,14 +139,14 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 **Veteran experience**
 
 7. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
-8. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
+8. Veterans sometimes **conflate** the VBA with a centralized VA, VSOs, and other agencies 
 9. There is little standardization in how Public Contact Offices handle **appointments**
 10. **Wait times** for walk-ins are primarily affected by facility location and staffing 
 
 **Veteran preparation**
 
 11. The documents and information needed to **prepare** for a visit varies by service
-12. Public Contact Offices often **stop taking clients** prior to the official closing time
+12. Public Contact Offices may **stop taking clients** prior to the official closing time
 
 - - -
 
